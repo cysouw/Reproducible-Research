@@ -1,0 +1,179 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Ket	1	EAT	a⁰ (S-O-a-pl )	Basic	1 2 subj[1].obj[2].V	1	eater	subj.V	A
+Ket	1	EAT	a⁰ (S-O-a-pl )	Basic	1 2 subj[1].obj[2].V	2	eaten food	obj.V	P
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Basic	1 2 subj[1].obj[2].V	1	hugger	subj.V	A
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Basic	1 2 subj[1].obj[2].V	2	huggee	obj.V	P
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Basic	1 2-poss+tān subj[1].V	1	looker	subj.V	S
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Basic	1 2-poss+tān subj[1].V	2	looked at entity	NP-poss+tān	X
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Basic	1 2 subj[1].obj[2].V	1	seeer	subj.V	A
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Basic	1 2 subj[1].obj[2].V	2	seen entity	obj.V	P
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Basic	1 2-abl subj[1].V	1	smeller	subj.V	S
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Basic	1 2-abl subj[1].V	2	smelled entity	NP-abl	X
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Basic	1 2-abl subj[1].V	1	fearer	subj.V	S
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Basic	1 2-abl subj[1].V	2	fear stimulus	NP-abl	X
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Basic	1 2-abl subj[1].V	1	fearer	subj.V	S
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Basic	1 2-abl subj[1].V	2	fear stimulus	NP-abl	X
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Basic	1 2 subj[1].obj[2].V	1	frightener	subj.V	A
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Basic	1 2 subj[1].obj[2].V	2	frightenee	obj.V	P
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Basic	1 2-dat subj[1].V	1	liked entity	subj.V	S
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Basic	1 2-dat subj[1].V	2	liker	NP-dat	X
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Basic	1 2 subj[1].V	1	knower	subj.V	S
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Basic	1 2 subj[1].V	2	known thing/person	Ø	X
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Basic	1 2-adess subj[1].V	1	thinker	subj.V	S
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Basic	1 2-adess subj[1].V	2	thought content	NP-adess	X
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Basic	1 2-adess subj[1].V	1	searcher	subj.V	S
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Basic	1 2-adess subj[1].V	2	searched for thing	NP-adess	X
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Basic	1 2 subj[1].obj[2].V	1	washer	subj.V	A
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Basic	1 2 subj[1].obj[2].V	2	washed entity	obj.V	P
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Basic	1 2 subj[1].obj[2].V	1	dresser	subj.V	A
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Basic	1 2 subj[1].obj[2].V	2	dressee	obj.V	P
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	shaver (of body part)	subj.V	A
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	shaved body part	obj.V	P
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	shaving instrument	NP-instr	I
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Basic	1 2 subj[1].obj[2].V	1	helper	subj.V	A
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Basic	1 2 subj[1].obj[2].V	2	helpee	obj.V	P
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Basic	1 2 subj[1].V	1	follower	subj.V	S
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Basic	1 2 subj[1].V	2	followee	Ø	X
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Basic	1 2 subj[1].rfl/sbj[2].V	1	meeter	subj.V	S
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Basic	1 2 subj[1].rfl/sbj[2].V	2	met person	subj.V	X
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Basic	1 2-instr 3 subj[1].obj[3].V	1	talker	subj.V	A
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Basic	1 2-instr 3 subj[1].obj[3].V	2	talked to person	NP-instr	I
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Basic	1 2-instr 3 subj[1].obj[3].V	3	talked about content	obj.V	P
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Basic	1 (2-abl) (3-transl) subj[1].V	1	asker	subj.V	S
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Basic	1 (2-abl) (3-transl) subj[1].V	2	askee	NP-abl	X
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Basic	1 (2-abl) (3-transl) subj[1].V	3	requested thing	NP-transl	X
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Basic	1 2-dat subj[1].V	1	shouter	subj.V	S
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Basic	1 2-dat subj[1].V	2	shoutee	NP-dat	X
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	1	teller	subj.V	A
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	2	tellee	obj.V	P
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	3	told content	NP-dat	X
+Ket	22	SAY	ma~da⁰	Basic	1 (2-dat) subj[1].V UTT3	1	sayer	subj.V	S
+Ket	22	SAY	ma~da⁰	Basic	1 (2-dat) subj[1].V UTT3	2	saying addressee	NP-dat	X
+Ket	22	SAY	ma~da⁰	Basic	1 (2-dat) subj[1].V UTT3	3	said content	UTT	X
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	1	sayer	subj.V	A
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	2	saying addressee	obj.V	P
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Basic	1 2 3-dat subj[1].obj[2].V	3	said content	NP-dat	X
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	1	builder	subj.V	A
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	2	built thing	obj.V	P
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	3	building material	NP-abl	X
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	breaker	subj.V	A
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	broken thing	obj.V	P
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	breaking instrument	NP-instr	I
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	killer	subj.V	A
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	killee	obj.V	P
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	killing instrument	NP-instr	I
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	beater	subj.V	A
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	beatee	obj.V	P
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	beating instrument	NP-instr	I
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	hitter	subj.V	A
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	hittee	obj.V	P
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	hitting instrument	NP-instr	I
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Basic	1 2 subj[1].obj[2].V	1	toucher	subj.V	A
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Basic	1 2 subj[1].obj[2].V	2	touchee	obj.V	P
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	cutter	subj.V	A
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	cut thing	obj.V	P
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	cutting instrument	NP-instr	I
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	1	taker	subj.V	A
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	2	taken thing	obj.V	P
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	3	taking source	NP-abl	X
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Basic	1 2 subj[1].obj[2].V	1	tearer	subj.V	A
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Basic	1 2 subj[1].obj[2].V	2	torn thing	obj.V	P
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Basic	1 2 subj[1].obj[2].V	1	peeler	subj.V	A
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Basic	1 2 subj[1].obj[2].V	2	peeled object	obj.V	P
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Basic	1 2 subj[1].obj[2].V	1	hider	subj.V	A
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Basic	1 2 subj[1].obj[2].V	2	hidden thing	obj.V	P
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	1	shower	subj.V	A
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	2	shown thing	obj.V	P
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	3	showing addressee	NP-dat	X
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Basic	1 2 3 subj[1].obj[3].V	1	giver	subj.V	A
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Basic	1 2 3 subj[1].obj[3].V	2	gift	Ø	X
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Basic	1 2 3 subj[1].obj[3].V	3	giving recipient	obj.V	P
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	1	sender	subj.V	A
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	2	sent thing	obj.V	P
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Basic	1 2 3-dat subj[1].obj[2].V	3	sending recipient	NP-dat	X
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	carrier	subj.V	A
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	carried thing	obj.V	P
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	carrying goal	LOC	L
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	thrower	subj.V	A
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	thrown thing	obj.V	P
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	throwing goal	LOC	L
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	tier	subj.V	A
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	tied thing	obj.V	P
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	tying goal	LOC	L
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	putter	subj.V	A
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	put thing	obj.V	P
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	putting goal	LOC	L
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	pourer	subj.V	A
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	poured substance	obj.V	P
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	pouring goal	LOC	L
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	coverer	subj.V	A
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	covered thing	obj.V	P
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	cover	NP-instr	I
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	1	filler	subj.V	A
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	2	filled container	obj.V	P
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Basic	1 2 (3-instr) subj[1].obj[2].V	3	filling material	NP-instr	I
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	loader	subj.V	A
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	loaded thing	obj.V	P
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	loading place	LOC	L
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Basic	1 subj[1].V	1	blinker	subj.V	S
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Basic	1 subj[1].V	1	cougher	subj.V	S
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Basic	1 2 subj[1].obj[2].V	1	climber	subj.V	A
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Basic	1 2 subj[1].obj[2].V	2	climbing goal	obj.V	P
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Basic	1 subj[1].V	1	runner	subj.V	S
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Basic	1 LOC2 subj[1].V	1	sitter	subj.V	S
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Basic	1 LOC2 subj[1].V	2	sitting place	LOC	L
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Basic	1 LOC2 subj[1].V	1	sitdowner	subj.V	S
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Basic	1 LOC2 subj[1].V	2	sitting-down place	LOC	L
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Basic	1 subj[1].V	1	jumper	subj.V	S
+Ket	53	SING	il⁰ (S-O-il-pl)	Basic	1 subj[1].obj[2].V	1	singer	subj.V	A
+Ket	53	SING	il⁰ (S-O-il-pl)	Basic	1 subj[1].obj[2].V	2	song	obj.V	P
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Basic	1 LOC2 subj[1].V	1	goer	subj.V	S
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Basic	1 LOC2 subj[1].V	2	going goal	LOC	L
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Basic	1 2-abl subj[1].V	1	leaver	subj.V	S
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Basic	1 2-abl subj[1].V	2	left place/person	NP-abl	X
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Basic	1 LOC2 subj[1].V	1	liver	subj.V	S
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Basic	1 LOC2 subj[1].V	2	living place	LOC	L
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Basic	1 subj[1].V	1	laugher	subj.V	S
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Basic	1 subj[1].V	1	screamer	subj.V	S
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Basic	1 V	1	pain locus	Ø	X
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Basic	1 subj[1].V	1	freezing person	subj.V	S
+Ket	61	DIE	qo⁰ (S-qo-pl)	Basic	1 subj[1].V	1	dieer	subj.V	S
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Basic	1 subj[1].V	1	player	subj.V	S
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Basic	1 subj[1].V	1	sad person	subj.V	S
+Ket	64	BE HUNGRY	obɯlda qoʁot	Basic	1 V	1	hungry person	Ø	X
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Basic	1 subj[1].V	1	rolling entity	subj.V	S
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Basic	1 subj[1].V	1	sunken entity	subj.V	S
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Basic	1 subj[1].V	1	burnt thing	subj.V	S
+Ket	68	BE DRY	obɯlda toqojiŋ	Basic	1 V	1	dry thing	Ø	X
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Basic	1 2 subj[1].obj[2].V	1	grinder	subj.V	A
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Basic	1 2 subj[1].obj[2].V	2	ground thing	obj.V	P
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	1	wiper	subj.V	A
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	2	wiped material	obj.V	P
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	3	wiping surface	NP-abl	X
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Basic	1 2 subj[1].obj[2].V	1	digger	subj.V	A
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Basic	1 2 subj[1].obj[2].V	2	dug up thing	obj.V	P
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	1	pusher	subj.V	A
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	2	pushee	obj.V	P
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Basic	1 2 (LOC3) subj[1].obj[2].V	3	pushing goal	LOC	L
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Basic	1 2 3-dat subj[1].obj[2].V	1	bringer	subj.V	A
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Basic	1 2 3-dat subj[1].obj[2].V	2	brought thing	obj.V	P
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Basic	1 2 3-dat subj[1].obj[2].V	3	bringing recipient	NP-dat	X
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Basic	1 2 subj[1].obj[2].V	1	stealer	subj.V	A
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Basic	1 2 subj[1].obj[2].V	2	stolen thing	obj.V	P
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Basic	1 2 subj[1].obj[2].V	1	teacher	subj.V	A
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Basic	1 2 subj[1].obj[2].V	2	teachee	obj.V	P
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Basic	1 2 subj[1].obj[2].V	1	hearer	subj.V	A
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Basic	1 2 subj[1].obj[2].V	2	hear causer	obj.V	P
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Basic	1 2 subj[1].obj[2].V	1	cooker	subj.V	A
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Basic	1 2 subj[1].obj[2].V	2	cooked food	obj.V	P
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Basic	1 subj[1].V	1	boiled thing	subj.V	S
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Basic	1 subj[1].V	1	appearer	subj.V	S
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Basic	1 subj[1].V	1	fallee	subj.V	S
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	1	receiver	subj.V	A
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	2	received thing	obj.V	P
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Basic	1 2 (3-abl) subj[1].obj[2].V	3	receiving source	NP-abl	X
+Ket	97	COME (1)	ik (7)-bes (0)	Basic	1 subj[1].V	1	comming person	subj.V	S
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Basic	1 2 subj[1].obj[2].V	1	caller	subj.V	A
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Basic	1 2 subj[1].obj[2].V	2	called to/for person	obj.V	P
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Basic	1 2 subj[1].obj[2].V	1	winker	subj.V	A
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Basic	1 2 subj[1].obj[2].V	2	winkee	obj.V	P

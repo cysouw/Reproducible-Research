@@ -1,0 +1,40 @@
+﻿Language_name	Gloss	Meaning
+Mapudungun	1	first person
+Mapudungun	2	second person
+Mapudungun	3	third person
+Mapudungun	A	agent
+Mapudungun	APPL1	applicative
+Mapudungun	APPL2	applicative
+Mapudungun	APPL3	applicative
+Mapudungun	APPL4	applicative
+Mapudungun	ART	article
+Mapudungun	ATTR	?
+Mapudungun	CAUS	low-control causative
+Mapudungun	CAUS1	high-control causative
+Mapudungun	CIS	cilsocative
+Mapudungun	DEM	demonstrative
+Mapudungun	DU	dual
+Mapudungun	FUT	future
+Mapudungun	HAB	habitual
+Mapudungun	IMPER	imperative
+Mapudungun	IND	indicative
+Mapudungun	INF	infinitive
+Mapudungun	INV	inverse
+Mapudungun	ITER	iterative
+Mapudungun	NEG	negative
+Mapudungun	NFIN	non-finite
+Mapudungun	O	object
+Mapudungun	PASS	passive
+Mapudungun	PL	plural
+Mapudungun	PPOS	postposition
+Mapudungun	PROG	progressive
+Mapudungun	PSR	possessor
+Mapudungun	PTCP	participle?
+Mapudungun	REDUP	reduplication
+Mapudungun	REFL	reflexive
+Mapudungun	RES	resultative??
+Mapudungun	RI	?
+Mapudungun	SG	singular
+Mapudungun	SUBJ	subject
+Mapudungun	TEL	telic
+Mapudungun	VR	verbalizer

@@ -1,0 +1,680 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Mitsukaido Japanese	1	EAT	ku:	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	1	EAT	ku:	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	1	EAT	ku:	indirect passive	Regularly	
+Mitsukaido Japanese	1	EAT	ku:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	1	EAT	ku:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	1	EAT	ku:	Object insertion	Never	
+Mitsukaido Japanese	1	EAT	ku:	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	indirect passive	Regularly	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Object insertion	Never	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	3	LOOK AT	mi-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	3	LOOK AT	mi-ru	indirect passive	Regularly	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Object insertion	Never	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	4	SEE	me:-ru	causative	Never	
+Mitsukaido Japanese	4	SEE	me:-ru	Direct passive	Never	
+Mitsukaido Japanese	4	SEE	me:-ru	indirect passive	Never	
+Mitsukaido Japanese	4	SEE	me:-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	4	SEE	me:-ru	lexical argument increasing alternation	Regularly	1-nom 2-acc V'as/e
+Mitsukaido Japanese	4	SEE	me:-ru	Object insertion	Never	
+Mitsukaido Japanese	4	SEE	me:-ru	potential	Never	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Direct passive	Marginally	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	indirect passive	Regularly	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Object insertion	Never	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	6	FEAR	okkanangar-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	6	FEAR	okkanangar-u	indirect passive	Regularly	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Object insertion	Never	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	potential	Never	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	causative	Marginally	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	Direct passive	No data	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	indirect passive	No data	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	lexical argument decreasing alternation	No data	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	lexical argument increasing alternation	No data	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	Object insertion	Never	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	potential	No data	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	causative	Never	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	Direct passive	No data	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	indirect passive	No data	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	Object insertion	Never	
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	potential	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	causative	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	Direct passive	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	indirect passive	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	Object insertion	Never	
+Mitsukaido Japanese	8	LIKE	ski-da	potential	Never	
+Mitsukaido Japanese	9	KNOW	sir-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	9	KNOW	sir-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	9	KNOW	sir-u	indirect passive	Regularly	
+Mitsukaido Japanese	9	KNOW	sir-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	9	KNOW	sir-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	9	KNOW	sir-u	Object insertion	Never	
+Mitsukaido Japanese	9	KNOW	sir-u	potential	Never	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	Direct passive	No data	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	indirect passive	No data	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	Object insertion	Never	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	potential	No data	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Direct passive	No data	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	indirect passive	No data	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Object insertion	Never	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	12	WASH	ara:	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	12	WASH	ara:	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	12	WASH	ara:	indirect passive	Regularly	
+Mitsukaido Japanese	12	WASH	ara:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	12	WASH	ara:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	12	WASH	ara:	Object insertion	Never	
+Mitsukaido Japanese	12	WASH	ara:	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	13	DRESS	kise-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	13	DRESS	kise-ru	Direct passive	No data	
+Mitsukaido Japanese	13	DRESS	kise-ru	indirect passive	No data	
+Mitsukaido Japanese	13	DRESS	kise-ru	lexical argument decreasing alternation	Marginally	
+Mitsukaido Japanese	13	DRESS	kise-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	13	DRESS	kise-ru	Object insertion	Never	
+Mitsukaido Japanese	13	DRESS	kise-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Direct passive	Never	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	indirect passive	Never	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Object insertion	Never	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	15	HELP	ske-ru	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	15	HELP	ske-ru	Direct passive	Marginally	
+Mitsukaido Japanese	15	HELP	ske-ru	indirect passive	Regularly	
+Mitsukaido Japanese	15	HELP	ske-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	15	HELP	ske-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	15	HELP	ske-ru	Object insertion	Never	
+Mitsukaido Japanese	15	HELP	ske-ru	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	15	HELP	taske-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	15	HELP	taske-ru	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	15	HELP	taske-ru	indirect passive	Regularly	
+Mitsukaido Japanese	15	HELP	taske-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	15	HELP	taske-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	15	HELP	taske-ru	Object insertion	Never	
+Mitsukaido Japanese	15	HELP	taske-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	indirect passive	Regularly	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Object insertion	Never	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Direct passive	Marginally	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	indirect passive	Regularly	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Object insertion	Never	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	potential	No data	
+Mitsukaido Japanese	17	MEET	egia:	causative	Regularly	4-nom 1-acc 2-loc/com V'rase
+Mitsukaido Japanese	17	MEET	egia:	Direct passive	Never	
+Mitsukaido Japanese	17	MEET	egia:	indirect passive	Never	
+Mitsukaido Japanese	17	MEET	egia:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	17	MEET	egia:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	17	MEET	egia:	Object insertion	Never	
+Mitsukaido Japanese	17	MEET	egia:	potential	Regularly	1-exp 2-loc/com V'pot
+Mitsukaido Japanese	18	TALK	hanas-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	18	TALK	hanas-u	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	18	TALK	hanas-u	indirect passive	Regularly	
+Mitsukaido Japanese	18	TALK	hanas-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	18	TALK	hanas-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	18	TALK	hanas-u	Object insertion	Never	
+Mitsukaido Japanese	18	TALK	hanas-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	indirect passive	Regularly	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Object insertion	Never	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	20	SHOUT AT	donar-u	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Direct passive	Marginally	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	indirect passive	No data	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	lexical argument decreasing alternation	No data	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	lexical argument increasing alternation	No data	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Object insertion	Never	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	potential	No data	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Direct passive	No data	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	indirect passive	No data	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	lexical argument decreasing alternation	No data	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	lexical argument increasing alternation	No data	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Object insertion	Never	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	21	TELL	hanas-u (2)	causative	No data	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Direct passive	No data	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	indirect passive	No data	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Object insertion	Never	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	22	SAY	sjaber-u	causative	Regularly	4-nom 1-dat 2-dat UTT3 V'rase
+Mitsukaido Japanese	22	SAY	sjaber-u	Direct passive	Regularly	2-nom UTT3 V'pass
+Mitsukaido Japanese	22	SAY	sjaber-u	indirect passive	Regularly	
+Mitsukaido Japanese	22	SAY	sjaber-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	22	SAY	sjaber-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	22	SAY	sjaber-u	Object insertion	Never	
+Mitsukaido Japanese	22	SAY	sjaber-u	potential	Regularly	1-exp 2-dat UTT3 V'pot
+Mitsukaido Japanese	23	NAME	jobar-u	causative	Regularly	4-nom 1-dat 2-acc (3-cit) V'rase
+Mitsukaido Japanese	23	NAME	jobar-u	Direct passive	Regularly	2-nom 3-cit (1-loc) V'pass
+Mitsukaido Japanese	23	NAME	jobar-u	indirect passive	Regularly	
+Mitsukaido Japanese	23	NAME	jobar-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	23	NAME	jobar-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	23	NAME	jobar-u	Object insertion	Never	
+Mitsukaido Japanese	23	NAME	jobar-u	potential	Regularly	1-exp 2-acc 3-cit V'pot
+Mitsukaido Japanese	24	BUILD	tade-ru	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	24	BUILD	tade-ru	Direct passive	Never	
+Mitsukaido Japanese	24	BUILD	tade-ru	indirect passive	Never	
+Mitsukaido Japanese	24	BUILD	tade-ru	lexical argument decreasing alternation	Marginally	
+Mitsukaido Japanese	24	BUILD	tade-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	24	BUILD	tade-ru	Object insertion	Never	
+Mitsukaido Japanese	24	BUILD	tade-ru	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	25	BREAK	bukkowas-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	25	BREAK	bukkowas-u	indirect passive	Regularly	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Object insertion	Never	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	25	BREAK	sjttsag-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	25	BREAK	sjttsag-u	indirect passive	Regularly	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Object insertion	Never	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	26	KILL	koros-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	26	KILL	koros-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	26	KILL	koros-u	indirect passive	Regularly	
+Mitsukaido Japanese	26	KILL	koros-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	26	KILL	koros-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	26	KILL	koros-u	Object insertion	Never	
+Mitsukaido Japanese	26	KILL	koros-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	27	BEAT	buttadag-u	causative	Regularly	4-nom 1-dat 2-acc (3-instr) V'rase
+Mitsukaido Japanese	27	BEAT	buttadag-u	Direct passive	Regularly	2-nom (3-instr) (1-loc) V'pass
+Mitsukaido Japanese	27	BEAT	buttadag-u	indirect passive	Regularly	
+Mitsukaido Japanese	27	BEAT	buttadag-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	27	BEAT	buttadag-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Object insertion	Never	
+Mitsukaido Japanese	27	BEAT	buttadag-u	potential	Regularly	1-exp 2-acc (3-instr) V'pot
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	indirect passive	Regularly	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Object insertion	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	causative	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	Direct passive	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	indirect passive	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	lexical argument decreasing alternation	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	Object insertion	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	potential	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	causative	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	Direct passive	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	indirect passive	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	lexical argument decreasing alternation	No data	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	Object insertion	Never	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	potential	No data	
+Mitsukaido Japanese	28	HIT	buttadag-u	causative	Regularly	4-nom 1-dat 2-acc (3-instr) V'rase
+Mitsukaido Japanese	28	HIT	buttadag-u	Direct passive	Regularly	2-nom (3-instr) (1-loc) V'pass
+Mitsukaido Japanese	28	HIT	buttadag-u	indirect passive	Regularly	
+Mitsukaido Japanese	28	HIT	buttadag-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	28	HIT	buttadag-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	28	HIT	buttadag-u	Object insertion	Never	
+Mitsukaido Japanese	28	HIT	buttadag-u	potential	Regularly	1-exp 2-acc (3-instr) V'pot
+Mitsukaido Japanese	29	TOUCH	sa:r-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	29	TOUCH	sa:r-u	indirect passive	Regularly	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Object insertion	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	causative	Regularly	4-nom 1-acc 2-dat (3-instr) V'rase
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Direct passive	Regularly	2-nom (3-instr) (1-loc) V'pass
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	indirect passive	Regularly	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Object insertion	Never	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	potential	Regularly	1-exp 2-dat (3-instr) V'pot
+Mitsukaido Japanese	30	CUT	kir-u	causative	Regularly	4-nom 1-dat 2-acc (3-instr) V'rase
+Mitsukaido Japanese	30	CUT	kir-u	Direct passive	Regularly	2-nom (3-instr) (1-loc) V'pass
+Mitsukaido Japanese	30	CUT	kir-u	indirect passive	Regularly	
+Mitsukaido Japanese	30	CUT	kir-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	30	CUT	kir-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	30	CUT	kir-u	Object insertion	Never	
+Mitsukaido Japanese	30	CUT	kir-u	potential	Regularly	1-exp 2-acc (3-instr) V'pot
+Mitsukaido Japanese	31	TAKE	hindagur-u	causative	Regularly	4-nom 1-dat 3-acc 2-abl V'rase
+Mitsukaido Japanese	31	TAKE	hindagur-u	Direct passive	Regularly	3-nom 2-abl (1-loc) V'pass
+Mitsukaido Japanese	31	TAKE	hindagur-u	indirect passive	Regularly	
+Mitsukaido Japanese	31	TAKE	hindagur-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	31	TAKE	hindagur-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Object insertion	Never	
+Mitsukaido Japanese	31	TAKE	hindagur-u	potential	Regularly	1-exp (2-abl) 3-acc V'pot
+Mitsukaido Japanese	31	TAKE	mongir-u	causative	Regularly	4-nom 1-dat 3-acc 2-abl V'rase
+Mitsukaido Japanese	31	TAKE	mongir-u	Direct passive	Never	
+Mitsukaido Japanese	31	TAKE	mongir-u	indirect passive	Never	
+Mitsukaido Japanese	31	TAKE	mongir-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	31	TAKE	mongir-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	31	TAKE	mongir-u	Object insertion	Never	
+Mitsukaido Japanese	31	TAKE	mongir-u	potential	Regularly	1-exp (2-abl) 3-acc V'pot
+Mitsukaido Japanese	32	TEAR	hittsabag-u	causative	Regularly	4-nom 1-dat 2-gen 3-acc V'rase
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Direct passive	Never	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	indirect passive	Never	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Object insertion	Never	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	potential	Regularly	1-exp 2-gen 3-acc V'pot
+Mitsukaido Japanese	33	PEEL	mug-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	33	PEEL	mug-u	Direct passive	Never	
+Mitsukaido Japanese	33	PEEL	mug-u	indirect passive	Never	
+Mitsukaido Japanese	33	PEEL	mug-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	33	PEEL	mug-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	33	PEEL	mug-u	Object insertion	Never	
+Mitsukaido Japanese	33	PEEL	mug-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	34	HIDE	kagus-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	34	HIDE	kagus-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	34	HIDE	kagus-u	indirect passive	Regularly	
+Mitsukaido Japanese	34	HIDE	kagus-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	34	HIDE	kagus-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	34	HIDE	kagus-u	Object insertion	Never	
+Mitsukaido Japanese	34	HIDE	kagus-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	35	SHOW	mise-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	35	SHOW	mise-ru	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	35	SHOW	mise-ru	indirect passive	Regularly	
+Mitsukaido Japanese	35	SHOW	mise-ru	lexical argument decreasing alternation	Marginally	
+Mitsukaido Japanese	35	SHOW	mise-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	35	SHOW	mise-ru	Object insertion	Never	
+Mitsukaido Japanese	35	SHOW	mise-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	36	GIVE	jar-u	causative	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	Direct passive	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	indirect passive	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	Object insertion	Never	
+Mitsukaido Japanese	36	GIVE	jar-u	potential	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	causative	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	Direct passive	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	indirect passive	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	Object insertion	Never	
+Mitsukaido Japanese	36	GIVE	kure-ru	potential	Never	
+Mitsukaido Japanese	37	SEND	ogur-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	37	SEND	ogur-u	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	37	SEND	ogur-u	indirect passive	Regularly	
+Mitsukaido Japanese	37	SEND	ogur-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	37	SEND	ogur-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	37	SEND	ogur-u	Object insertion	Never	
+Mitsukaido Japanese	37	SEND	ogur-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	38	CARRY	motteng-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	38	CARRY	motteng-u	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	38	CARRY	motteng-u	indirect passive	Regularly	
+Mitsukaido Japanese	38	CARRY	motteng-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	38	CARRY	motteng-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	38	CARRY	motteng-u	Object insertion	Never	
+Mitsukaido Japanese	38	CARRY	motteng-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	39	THROW	bunnange-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	39	THROW	bunnange-ru	Direct passive	Never	
+Mitsukaido Japanese	39	THROW	bunnange-ru	indirect passive	Never	
+Mitsukaido Japanese	39	THROW	bunnange-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	39	THROW	bunnange-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Object insertion	Never	
+Mitsukaido Japanese	39	THROW	bunnange-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	39	THROW	butske-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	39	THROW	butske-ru	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	39	THROW	butske-ru	indirect passive	Regularly	
+Mitsukaido Japanese	39	THROW	butske-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	39	THROW	butske-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	39	THROW	butske-ru	Object insertion	Never	
+Mitsukaido Japanese	39	THROW	butske-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	40	TIE	tunang-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	40	TIE	tunang-u	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	40	TIE	tunang-u	indirect passive	Regularly	
+Mitsukaido Japanese	40	TIE	tunang-u	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	40	TIE	tunang-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	40	TIE	tunang-u	Object insertion	Never	
+Mitsukaido Japanese	40	TIE	tunang-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	41	PUT	og-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	41	PUT	og-u	Direct passive	Never	
+Mitsukaido Japanese	41	PUT	og-u	indirect passive	Never	
+Mitsukaido Japanese	41	PUT	og-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	41	PUT	og-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	41	PUT	og-u	Object insertion	Never	
+Mitsukaido Japanese	41	PUT	og-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	42	POUR	tsung-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	42	POUR	tsung-u	Direct passive	Never	
+Mitsukaido Japanese	42	POUR	tsung-u	indirect passive	Never	
+Mitsukaido Japanese	42	POUR	tsung-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	42	POUR	tsung-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	42	POUR	tsung-u	Object insertion	Never	
+Mitsukaido Japanese	42	POUR	tsung-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	43	COVER	kage-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	43	COVER	kage-ru	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	43	COVER	kage-ru	indirect passive	Regularly	
+Mitsukaido Japanese	43	COVER	kage-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	43	COVER	kage-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	43	COVER	kage-ru	Object insertion	Never	
+Mitsukaido Japanese	43	COVER	kage-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	causative	Regularly	4-nom 1-dat 2-acc (3-instr) V'rase
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Direct passive	Never	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	indirect passive	Never	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Object insertion	Never	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	potential	Regularly	1-exp 2-acc (3-instr) V'pot
+Mitsukaido Japanese	45	LOAD	tsum-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	45	LOAD	tsum-u	Direct passive	Never	
+Mitsukaido Japanese	45	LOAD	tsum-u	indirect passive	Never	
+Mitsukaido Japanese	45	LOAD	tsum-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	45	LOAD	tsum-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	45	LOAD	tsum-u	Object insertion	Never	
+Mitsukaido Japanese	45	LOAD	tsum-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	causative	No data	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	Direct passive	Never	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	indirect passive	Never	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	Object insertion	Never	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	potential	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	causative	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	Direct passive	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	indirect passive	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	Object insertion	Never	
+Mitsukaido Japanese	47	COUGH	segi su-ru	potential	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	causative	Regularly	4-nom 1-acc 2-dat/acc V'rase
+Mitsukaido Japanese	48	CLIMB	nobor-u	Direct passive	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	indirect passive	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	Object insertion	Never	
+Mitsukaido Japanese	48	CLIMB	nobor-u	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	49	RUN	kage-ru (2)	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Direct passive	Never	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	indirect passive	Never	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Object insertion	Never	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Direct passive	Never	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	indirect passive	Never	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Object insertion	Never	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Direct passive	Never	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	indirect passive	Never	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Object insertion	Never	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	52	JUMP	tob-u	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	52	JUMP	tob-u	Direct passive	Never	
+Mitsukaido Japanese	52	JUMP	tob-u	indirect passive	Never	
+Mitsukaido Japanese	52	JUMP	tob-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	52	JUMP	tob-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	52	JUMP	tob-u	Object insertion	Never	
+Mitsukaido Japanese	52	JUMP	tob-u	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	53	SING	uda:	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	53	SING	uda:	Direct passive	Never	
+Mitsukaido Japanese	53	SING	uda:	indirect passive	Never	
+Mitsukaido Japanese	53	SING	uda:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	53	SING	uda:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	53	SING	uda:	Object insertion	Regularly	1-nom 2-acc V'
+Mitsukaido Japanese	53	SING	uda:	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	54	GO	eng-u	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	54	GO	eng-u	Direct passive	Never	
+Mitsukaido Japanese	54	GO	eng-u	indirect passive	Never	
+Mitsukaido Japanese	54	GO	eng-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	54	GO	eng-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	54	GO	eng-u	Object insertion	Never	
+Mitsukaido Japanese	54	GO	eng-u	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	55	LEAVE	doge-ru	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	55	LEAVE	doge-ru	Direct passive	Never	
+Mitsukaido Japanese	55	LEAVE	doge-ru	indirect passive	Never	
+Mitsukaido Japanese	55	LEAVE	doge-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	55	LEAVE	doge-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Object insertion	Regularly	4-nom 1-acc (2-abl) V'
+Mitsukaido Japanese	55	LEAVE	doge-ru	potential	No data	
+Mitsukaido Japanese	56	LIVE	sum-u	causative	Regularly	4-nom 1-acc 2-dat V'rase
+Mitsukaido Japanese	56	LIVE	sum-u	Direct passive	Never	
+Mitsukaido Japanese	56	LIVE	sum-u	indirect passive	Never	
+Mitsukaido Japanese	56	LIVE	sum-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	56	LIVE	sum-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	56	LIVE	sum-u	Object insertion	Never	
+Mitsukaido Japanese	56	LIVE	sum-u	potential	Regularly	1-exp 2-dat V'pot
+Mitsukaido Japanese	57	LAUGH	wara:	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	57	LAUGH	wara:	Direct passive	Marginally	
+Mitsukaido Japanese	57	LAUGH	wara:	indirect passive	Regularly	
+Mitsukaido Japanese	57	LAUGH	wara:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	57	LAUGH	wara:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	57	LAUGH	wara:	Object insertion	Regularly	1-nom 2-acc V'
+Mitsukaido Japanese	57	LAUGH	wara:	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	58	SCREAM	wameg-u	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	58	SCREAM	wameg-u	Direct passive	Never	
+Mitsukaido Japanese	58	SCREAM	wameg-u	indirect passive	Never	
+Mitsukaido Japanese	58	SCREAM	wameg-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	58	SCREAM	wameg-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	58	SCREAM	wameg-u	Object insertion	Never	
+Mitsukaido Japanese	58	SCREAM	wameg-u	potential	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	causative	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	Direct passive	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	indirect passive	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	Object insertion	Never	
+Mitsukaido Japanese	59	FEEL PAIN	ede	potential	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	causative	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	Direct passive	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	indirect passive	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	Object insertion	Never	
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	potential	Never	
+Mitsukaido Japanese	61	DIE	sin-u	causative	Never	
+Mitsukaido Japanese	61	DIE	sin-u	Direct passive	Never	
+Mitsukaido Japanese	61	DIE	sin-u	indirect passive	Never	
+Mitsukaido Japanese	61	DIE	sin-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	61	DIE	sin-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	61	DIE	sin-u	Object insertion	Never	
+Mitsukaido Japanese	61	DIE	sin-u	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	62	PLAY	asub-u	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	62	PLAY	asub-u	Direct passive	Never	
+Mitsukaido Japanese	62	PLAY	asub-u	indirect passive	Never	
+Mitsukaido Japanese	62	PLAY	asub-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	62	PLAY	asub-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	62	PLAY	asub-u	Object insertion	Never	
+Mitsukaido Japanese	62	PLAY	asub-u	potential	Regularly	1-exp V'pot
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	causative	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	Direct passive	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	indirect passive	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	Object insertion	Never	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	potential	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	causative	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	Direct passive	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	indirect passive	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	lexical argument increasing alternation	Marginally	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	Object insertion	Never	
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	potential	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	causative	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	Direct passive	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	indirect passive	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	lexical argument increasing alternation	Regularly	2-nom 1-acc V'as/e
+Mitsukaido Japanese	65	ROLL	korongar-u	Object insertion	Never	
+Mitsukaido Japanese	65	ROLL	korongar-u	potential	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	causative	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	Direct passive	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	indirect passive	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	lexical argument increasing alternation	Regularly	2-nom 1-acc V'as/e
+Mitsukaido Japanese	66	SINK	sizum-u	Object insertion	Never	
+Mitsukaido Japanese	66	SINK	sizum-u	potential	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	causative	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	Direct passive	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	indirect passive	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	lexical argument increasing alternation	Regularly	2-nom 1-acc V'as/e
+Mitsukaido Japanese	67	BURN	jage-ru	Object insertion	Never	
+Mitsukaido Japanese	67	BURN	jage-ru	potential	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	causative	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	Direct passive	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	indirect passive	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	lexical argument increasing alternation	Regularly	2-nom 1-acc V'as/e
+Mitsukaido Japanese	68	BE DRY	kawag-u	Object insertion	Never	
+Mitsukaido Japanese	68	BE DRY	kawag-u	potential	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	causative	Regularly	4-nom 1-acc V'rase
+Mitsukaido Japanese	69	RAIN	ame hur-u	Direct passive	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	indirect passive	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	Object insertion	Never	
+Mitsukaido Japanese	69	RAIN	ame hur-u	potential	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	causative	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	Direct passive	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	indirect passive	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	Object insertion	Never	
+Mitsukaido Japanese	70	BE A HUNTER	no verbal counterpart	potential	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	causative	Regularly	4-nom 1-dat 2-acc (3-instr) V'rase
+Mitsukaido Japanese	71	GRIND	hig-u	Direct passive	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	indirect passive	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	Object insertion	Never	
+Mitsukaido Japanese	71	GRIND	hig-u	potential	Regularly	1-exp 2-acc (3-instr) V'pot
+Mitsukaido Japanese	71	GRIND	sur-u (2)	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Direct passive	Never	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	indirect passive	Never	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Object insertion	Never	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	72	WIPE	hug-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	72	WIPE	hug-u	Direct passive	Never	
+Mitsukaido Japanese	72	WIPE	hug-u	indirect passive	Never	
+Mitsukaido Japanese	72	WIPE	hug-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	72	WIPE	hug-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	72	WIPE	hug-u	Object insertion	Never	
+Mitsukaido Japanese	72	WIPE	hug-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	72	WIPE	nugu:	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	72	WIPE	nugu:	Direct passive	Never	
+Mitsukaido Japanese	72	WIPE	nugu:	indirect passive	Never	
+Mitsukaido Japanese	72	WIPE	nugu:	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	72	WIPE	nugu:	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	72	WIPE	nugu:	Object insertion	Never	
+Mitsukaido Japanese	72	WIPE	nugu:	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	73	DIG	hor-u (1)	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	73	DIG	hor-u (1)	Direct passive	Never	
+Mitsukaido Japanese	73	DIG	hor-u (1)	indirect passive	Never	
+Mitsukaido Japanese	73	DIG	hor-u (1)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	73	DIG	hor-u (1)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Object insertion	Never	
+Mitsukaido Japanese	73	DIG	hor-u (1)	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	73	DIG	hor-u (2)	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	73	DIG	hor-u (2)	Direct passive	Never	
+Mitsukaido Japanese	73	DIG	hor-u (2)	indirect passive	Never	
+Mitsukaido Japanese	73	DIG	hor-u (2)	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	73	DIG	hor-u (2)	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Object insertion	Never	
+Mitsukaido Japanese	73	DIG	hor-u (2)	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	74	PUSH	os-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	74	PUSH	os-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	74	PUSH	os-u	indirect passive	Regularly	
+Mitsukaido Japanese	74	PUSH	os-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	74	PUSH	os-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	74	PUSH	os-u	Object insertion	Never	
+Mitsukaido Japanese	74	PUSH	os-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	75	BRING	motteng-u	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	75	BRING	motteng-u	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	75	BRING	motteng-u	indirect passive	Regularly	
+Mitsukaido Japanese	75	BRING	motteng-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	75	BRING	motteng-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	75	BRING	motteng-u	Object insertion	Never	
+Mitsukaido Japanese	75	BRING	motteng-u	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	76	STEAL	nusum-u	causative	Regularly	4-nom 1-dat 2-acc V'rase
+Mitsukaido Japanese	76	STEAL	nusum-u	Direct passive	Regularly	2-nom (1-loc/dat) V'pass
+Mitsukaido Japanese	76	STEAL	nusum-u	indirect passive	Regularly	
+Mitsukaido Japanese	76	STEAL	nusum-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	76	STEAL	nusum-u	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	76	STEAL	nusum-u	Object insertion	Never	
+Mitsukaido Japanese	76	STEAL	nusum-u	potential	Regularly	1-exp 2-acc V'pot
+Mitsukaido Japanese	77	TEACH	ose:-ru	causative	Regularly	4-nom 1-dat 2-dat 3-acc V'rase
+Mitsukaido Japanese	77	TEACH	ose:-ru	Direct passive	Regularly	3-nom 2-dat (1-loc) V'pass
+Mitsukaido Japanese	77	TEACH	ose:-ru	indirect passive	Regularly	
+Mitsukaido Japanese	77	TEACH	ose:-ru	lexical argument decreasing alternation	Regularly	
+Mitsukaido Japanese	77	TEACH	ose:-ru	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Object insertion	Never	
+Mitsukaido Japanese	77	TEACH	ose:-ru	potential	Regularly	1-exp (2-dat) 3-acc V'pot
+Mitsukaido Japanese	78	HEAR	kig-u	causative	No data	
+Mitsukaido Japanese	78	HEAR	kig-u	Direct passive	No data	
+Mitsukaido Japanese	78	HEAR	kig-u	indirect passive	No data	
+Mitsukaido Japanese	78	HEAR	kig-u	lexical argument decreasing alternation	Marginally	
+Mitsukaido Japanese	78	HEAR	kig-u	lexical argument increasing alternation	No data	
+Mitsukaido Japanese	78	HEAR	kig-u	Object insertion	Never	
+Mitsukaido Japanese	78	HEAR	kig-u	potential	No data	
+Mitsukaido Japanese	78	HEAR	kige-ru	causative	Never	
+Mitsukaido Japanese	78	HEAR	kige-ru	Direct passive	Never	
+Mitsukaido Japanese	78	HEAR	kige-ru	indirect passive	Never	
+Mitsukaido Japanese	78	HEAR	kige-ru	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	78	HEAR	kige-ru	lexical argument increasing alternation	Marginally	
+Mitsukaido Japanese	78	HEAR	kige-ru	Object insertion	Never	
+Mitsukaido Japanese	78	HEAR	kige-ru	potential	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	causative	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	Direct passive	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	indirect passive	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	Object insertion	Never	
+Mitsukaido Japanese	79	COOK	no verbal counterpart	potential	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	causative	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	Direct passive	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	indirect passive	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	lexical argument increasing alternation	Regularly	2-nom 1-acc V'as/e
+Mitsukaido Japanese	80	BOIL	wag-u	Object insertion	Never	
+Mitsukaido Japanese	80	BOIL	wag-u	potential	Never	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	causative	Regularly	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	Direct passive	No data	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	indirect passive	Regularly	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	lexical argument decreasing alternation	Never	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	lexical argument increasing alternation	Never	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	Object insertion	Never	
+Mitsukaido Japanese	93	HUNT (FOR)	no direct counterpart	potential	Regularly	

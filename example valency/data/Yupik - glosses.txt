@@ -1,0 +1,36 @@
+﻿Language_name	Gloss	Meaning
+Central Alaskan Yupik	1	first person
+Central Alaskan Yupik	3	third person
+Central Alaskan Yupik	A	??
+Central Alaskan Yupik	ABM	ablativus modalis
+Central Alaskan Yupik	ABS	absolutive
+Central Alaskan Yupik	ADVS	adversative
+Central Alaskan Yupik	ALL	allative
+Central Alaskan Yupik	ANTIP	antipassive?
+Central Alaskan Yupik	APPL	applicative
+Central Alaskan Yupik	AUG	augmentative??
+Central Alaskan Yupik	CAUS	causative
+Central Alaskan Yupik	CNT	continuative?
+Central Alaskan Yupik	CONT	continuative?
+Central Alaskan Yupik	EV	epenthetic vowel
+Central Alaskan Yupik	EX	??
+Central Alaskan Yupik	IMPS	impersonal?
+Central Alaskan Yupik	IND	indicative?
+Central Alaskan Yupik	INTNS	intensifier
+Central Alaskan Yupik	ITS	intensifier
+Central Alaskan Yupik	NEC	necessity?
+Central Alaskan Yupik	NEG	negative
+Central Alaskan Yupik	NMLZ	nominalizer
+Central Alaskan Yupik	PERL	??
+Central Alaskan Yupik	PL	plural
+Central Alaskan Yupik	PRF	perfect(ive)?
+Central Alaskan Yupik	PST	past
+Central Alaskan Yupik	REL	relative
+Central Alaskan Yupik	RELZ	??
+Central Alaskan Yupik	REPL	argument replacement?
+Central Alaskan Yupik	RLVZ	relativizer?
+Central Alaskan Yupik	RPL	argument replacement?
+Central Alaskan Yupik	RSG	typo? reflexive?
+Central Alaskan Yupik	SG	singular
+Central Alaskan Yupik	SPEC	speculative
+Central Alaskan Yupik	STT	stative?

@@ -1,0 +1,42 @@
+﻿Language_name	Gloss	Meaning
+Modern Standard Arabic	1	first person
+Modern Standard Arabic	2	second person
+Modern Standard Arabic	3	third person
+Modern Standard Arabic	ACAUS	anticausative
+Modern Standard Arabic	ACC	accusative
+Modern Standard Arabic	ART	article
+Modern Standard Arabic	CAUS	causative
+Modern Standard Arabic	CONJ	conjunction
+Modern Standard Arabic	DU	dual
+Modern Standard Arabic	F	feminine
+Modern Standard Arabic	FUT	future
+Modern Standard Arabic	GEN	genitive
+Modern Standard Arabic	GRA	??
+Modern Standard Arabic	I	stem I
+Modern Standard Arabic	IDEF	indefinite
+Modern Standard Arabic	II	stem II
+Modern Standard Arabic	III	stem III
+Modern Standard Arabic	IMP	imperative
+Modern Standard Arabic	INT	intensive
+Modern Standard Arabic	IPFV	imperfective
+Modern Standard Arabic	IV	stem IV
+Modern Standard Arabic	M	masculine
+Modern Standard Arabic	MEPA	mediopassive
+Modern Standard Arabic	NEG	negation
+Modern Standard Arabic	NOM	nominative
+Modern Standard Arabic	PASS	passive
+Modern Standard Arabic	PL	plural
+Modern Standard Arabic	PRF	perfective
+Modern Standard Arabic	Q	question particle
+Modern Standard Arabic	RECP	reciprocal
+Modern Standard Arabic	REFL	reflexive
+Modern Standard Arabic	REP	repetitive?
+Modern Standard Arabic	SG	singular
+Modern Standard Arabic	SIM	simulative
+Modern Standard Arabic	SUBJ	subjunctive?
+Modern Standard Arabic	V	stem V
+Modern Standard Arabic	VI	stem VI
+Modern Standard Arabic	VII	stem VII
+Modern Standard Arabic	VIII	stem VIII
+Modern Standard Arabic	VN	verbal noun
+Modern Standard Arabic	X	stem X

@@ -1,0 +1,60 @@
+﻿Language_name	Gloss	Meaning
+Ainu	1	first person
+Ainu	2	second person
+Ainu	3	third person
+Ainu	A	agent / transitive subject
+Ainu	ABL	ablative
+Ainu	ACAUS	anticausative
+Ainu	ADM	?
+Ainu	ADV	adverbial
+Ainu	ALL	allative
+Ainu	APASS	antipassive
+Ainu	APP	applicative
+Ainu	APPL	applicative
+Ainu	AUX	auxiliary verb
+Ainu	CAUS	causative
+Ainu	CL	classifier
+Ainu	COHR	cohortative
+Ainu	COM	comitative
+Ainu	COMP	complementizer
+Ainu	COP	copula
+Ainu	DAT	dative
+Ainu	DESID	desiderative
+Ainu	DIM	diminutive
+Ainu	EMP	emphatic
+Ainu	EP	epenthetic consonant
+Ainu	EV	evidential
+Ainu	EXC	exclusive
+Ainu	FIN	final particle
+Ainu	HAB	habitual?
+Ainu	IMP	imperativ
+Ainu	IND	indefinite
+Ainu	INF	inferential
+Ainu	INS	instrumental
+Ainu	INST	instrumental
+Ainu	LOC	locative
+Ainu	MUT	mutative
+Ainu	NEG	negator
+Ainu	NONVIS	non-visual
+Ainu	NR	nominalizer
+Ainu	O	object?
+Ainu	P	patient / object
+Ainu	PERF	perfect
+Ainu	PF	?
+Ainu	PL	plural
+Ainu	POL	polite
+Ainu	POSS	possessive
+Ainu	PROH	prohibitative
+Ainu	Q	question
+Ainu	QUOT	quotation
+Ainu	REC	reciprocal
+Ainu	RED	reduplication
+Ainu	REFL	reflexive
+Ainu	REP	repetitive?
+Ainu	S	intransitive subject
+Ainu	SG	singular
+Ainu	SOC	sociative
+Ainu	TOP	topic
+Ainu	TRV	traversal
+Ainu	VBLZ	verbalizer
+Ainu	VIS	visual

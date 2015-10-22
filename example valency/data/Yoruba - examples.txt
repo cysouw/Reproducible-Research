@@ -1,0 +1,205 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Yorùbá	1	Constructed by native speaker linguist	Ade je̩ è̩wà.		Ade je̩ è̩wà	Ade eat beans	Ade ate beans.
+Yorùbá	2	Constructed by native speaker linguist	Ade je̩ mi ní onje̩.		Ade je̩ mi ní onje̩	Ade eat 1SG.O PREP food	Ade ate my food.
+Yorùbá	3	Constructed by native speaker linguist	Adé dìrò̩mó̩ ìyáa rè̩.		Adé dìrò̩mó̩ ìyáa rè̩	Ade hug mother.POSS 3SG.POSS	Ade hugged his mother.
+Yorùbá	4	Constructed by native speaker linguist	Ade wo Bó̩lá.		Ade wo Bó̩lá	Ade look Bola	Ade looked at Bola.
+Yorùbá	5	Constructed by native speaker linguist	Ade rí ilé náà.		Ade rí ilé náà	Ade see house DEF	Ade saw the house.
+Yorùbá	6	Constructed by native speaker linguist	Òkú aja náà ń rùn.		òkú aja náà ń rùn	dead dog DEF PROG smell	The dead dog's carcass is smelling.
+Yorùbá	7	Constructed by native speaker linguist	Ó run o̩wó̩o̩ rè̩ wò.		ó run o̩wó̩o̩ rè̩ wò	3SG.S smell hand.POSS 3SG.POSS look	He smelled his hand.
+Yorùbá	8	Constructed by native speaker linguist	Ó rùn sí mi.		ó rùn sí mi	3SG.S smell PREP 1SG.O	It (the smell) oozed out to me. / It smelled to me.
+Yorùbá	9	Constructed by native speaker linguist	Ade bè̩rù omi-òkun.		Ade bè̩rù omi-òkun	Ade fear water-ocean	Ade feared the ocean.
+Yorùbá	10	Constructed by native speaker linguist	È̩rù omi-òkun ba Ade.		è̩rù omi-òkun ba Ade	fear water-ocean catch Ade	Ade feared the ocean.
+Yorùbá	11	Constructed by native speaker linguist	Ade dé̩rùba Bó̩lá.		Ade dé̩rùba Bó̩lá	Ade frighten Bola	Ade frightened Bola.
+Yorùbá	12	Constructed by native speaker linguist	Olùkó̩ni náà fé̩ràn o̩mo̩dé.		olùkó̩ni náà fé̩ràn o̩mo̩dé	teacher DEF like little.children	The teacher likes little children.
+Yorùbá	13	Constructed by native speaker linguist	Ade mo̩ àwo̩n òbíi rè̩.		Ade mo̩ àwo̩n òbíi rè̩	Ade know PL parents.POSS 3SG.POSS	Ade knows his parents.
+Yorùbá	14	Constructed by native speaker linguist	Ade mò̩.		Ade mò̩	Ade know	Ade knows.
+Yorùbá	15	Constructed by native speaker linguist	Ade ronú nípa ò̩rò̩ náà.		Ade ronú nípa ò̩rò̩ náà	Ade think PREP word DEF	Ade thought about the matter (lit. Ade thinks about the word).
+Yorùbá	16	Constructed by native speaker linguist	Ade ronú sí ò̩rò̩ náà.		Ade ronú sí ò̩rò̩ náà	Ade think PREP word DEF	Ade thought of the matter. / Ade thinks of the matter.
+Yorùbá	17	Constructed by native speaker linguist	Ade ro ò̩rò̩ náà.		Ade ro ò̩rò̩ náà	Ade think word DEF	Ade thought about the matter. / Ade thinks about/of the matter.
+Yorùbá	18	Constructed by native speaker linguist	O̩de̩ náà ń wá ìgbín.		o̩de̩ náà ń wá ìgbín	hunter DEF PROG look snail	The hunter is looking for snails. / The hunter is searching for snails.
+Yorùbá	19	Constructed by native speaker linguist	Adé fo̩ o̩wó̩o̩ rè̩ méjèèjì.		Adé fo̩ o̩wó̩o̩ rè̩ méjèèjì	Ade wash hand.POSS 3SG.POSS two.two	Ade washed both his two hands.
+Yorùbá	20	Constructed by native speaker linguist	Ade we̩ o̩mo̩ náà.		Ade we̩ o̩mo̩ náà	Ade bathe child DEF	Ade bathe the child.
+Yorùbá	21	Constructed by native speaker linguist	O̩mo̩ náà wè̩.		o̩mo̩ náà wè̩	child DEF bathe	The child bathe/wash.
+Yorùbá	22	Constructed by native speaker linguist	Ade múra fún Bó̩lá.		Ade múra fún Bó̩lá	Ade dress PREP Bola	Ade dressed Bola.
+Yorùbá	23	Constructed by native speaker linguist	Bó̩lá múra.		Bó̩lá múra	Bola dress	Bola dressed.
+Yorùbá	24	Constructed by native speaker linguist	O̩de̩ kan ran aláboyún náà ló̩wó̩.		o̩de̩ kan ran aláboyún náà ló̩wó̩	hunter INDEF render pregnant.one DEF PREP.hand	A hunter helped the pregnant woman.
+Yorùbá	25	Constructed by native speaker linguist	Ade fá irun-abíyá mi.		Ade fá irun-abíyá mi	Ade shave hair-armpit 1SG.POSS	Ade shaved my armpit.
+Yorùbá	26	Constructed by native speaker linguist	Ade fá mi ní irun-abíyá.		Ade fá mi ní irun-abíyá	Ade shave 1SG.O PREP hair-armpit	Ade shaved my armpit.
+Yorùbá	27		Mo tè̩lé Ade.		mo tè̩lé Ade	1SG.S follow Ade	I followed Ade. / I accompanied Ade.
+Yorùbá	28	Constructed by native speaker linguist	Ade pàdé Bó̩lá.		Ade pàdé Bó̩lá	Ade meet Bola	Ade mets Bola.
+Yorùbá	29	Constructed by native speaker linguist	Ade bá Bó̩lá ní ilé.		Ade bá Bó̩lá ní ilé	Ade meet Bola PREP house	Ade met Bola at home.
+Yorùbá	30	Constructed by native speaker linguist	Ade bá Bó̩lá sò̩rò̩.	Ade bá Bó̩lá sò̩rò̩	Ade bá Bó̩lá sò̩rò̩	Ade join Bola talk	Ade talked to Bola.
+Yorùbá	31	Constructed by native speaker linguist	Ade to̩ro̩ owó ní o̩wó̩ò̩ mi.	Ade to̩ro̩ owó ní o̩wó̩ò̩ mi	Ade to̩ro̩ owó ní o̩wó̩ò̩ mi	Ade ask money PREP hand.POSS 1SG.POSS	Ade asked for money from me. / Ade begged me for some money.
+Yorùbá	32	Constructed by native speaker linguist	Adé to̩ro̩ owó.	Adé to̩ro̩ owó	Adé to̩ro̩ owó	Ade ask money	Ade asked for money. / Ade begged for money.
+Yorùbá	33	Constructed by native speaker linguist	Ade kígbe sí O̩ló̩run.	Ade kígbe sí O̩ló̩run	Ade kígbe sí O̩ló̩run	Ade cry.noise PREP God	Ade shouted to God. / Ade cried out to God.
+Yorùbá	34	Constructed by native speaker linguist	Ade kígbe mó̩ O̩ló̩run.	Ade kígbe mó̩ O̩ló̩run.	Ade kígbe mó̩ O̩ló̩run	Ade cry.noise PREP God	Ade shouted at God.
+Yorùbá	35	Constructed by native speaker linguist	Ade so̩ ò̩rò̩ náà fún mi.	Ade so̩ ò̩rò̩ náà fún mi	Ade so̩ ò̩rò̩ náà fún mi	Ade tell word DEF PREP 1SG.O	Ade told me about the matter. / Ade informed me of the matter.
+Yorùbá	36	Constructed by native speaker linguist	Ade so̩ fún mi.	Ade so̩ fún mi	Ade so̩ fún mi	Ade tell PREP 1SG.O	Ade told me (of the matter). / Ade informed me (of the matter).
+Yorùbá	37	Constructed by native speaker linguist	Ìyáà mí so̩ mí ní Adé.	ìyáà mí so̩ mí ní Adé	ìyáà mí so̩ mí ní Adé	mother.POSS 1SG.POSS name 1SG.O PREP Ade	My mother named me Ade. / My mother called me Ade.
+Yorùbá	38	Constructed by native speaker linguist	Ìyáà mí fi Adé so̩ mí.	ìyáà mí fi Adé so̩ mí	ìyáà mí fi Adé so̩ mí	mother.POSS 1SG.POSS take Ade call 1SG.O	My mother named me Ade.
+Yorùbá	39	Constructed by native speaker linguist	Ade fi amò̩ kó̩ ilé náà.	Ade fi amò̩ kó̩ ilé náà	Ade fi amò̩ kó̩ ilé náà	Ade take clay build house DEF	Ade built the house with clay.
+Yorùbá	40	Constructed by native speaker linguist	Ade kó̩ ilé náà ní alámò̩.	Ade kó̩ ilé náà ní alámò̩	Ade kó̩ ilé náà ní alámò̩	Ade build house DEF PREP own.clay	Ade built the house of clay. / Ade built the house with clay.
+Yorùbá	41	Constructed by native speaker linguist	Ade kán egungun e̩sè̩ mi.	Ade kán egungun e̩sè̩ mi	Ade kán egungun e̩sè̩ mi	Ade break bone leg 1SG.POSS	Ade broke my leg.
+Yorùbá	42	Constructed by native speaker linguist	Ade fi irin fó̩ kòkò omi náà.	Ade fi irin fó̩ kòkò omi náà	Ade fi irin fó̩ kòkò omi náà	Ade take iron break pot water DEF	Ade broke the water pot with an iron.
+Yorùbá	43	Constructed by native speaker linguist	Egungun e̩sè̩ mi kán.	egungun e̩sè̩ mi kán	egungun e̩sè̩ mi kán	bone leg 1SG.POSS break	My leg bone broke.
+Yorùbá	44	Constructed by native speaker linguist	Ade fó̩ mi ní kòkò omi.	Ade fó̩ mi ní kòkò omi	Ade fó̩ mi ní kòkò omi	Ade break 1SG.O PREP pot water	Ade broke my water pot.
+Yorùbá	45	Constructed by native speaker linguist	Kòkò omi náà fó̩.	kòkò omi náà fó̩	kòkò omi náà fó̩	pot water DEF break	The water pot broke.
+Yorùbá	46	Constructed by native speaker linguist	Ade kán mi ní egungun e̩sè̩.	Ade kán mi ní egungun e̩sè̩	Ade kán mi ní egungun e̩sè̩	Ade break 1SG.O PREP bone leg	Ade broke my leg (bone).
+Yorùbá	47	Constructed by native speaker linguist	O̩ló̩pàá náà pa adigunjalè kan.	o̩ló̩pàá náà pa adigunjalè kan	o̩ló̩pàá náà pa adigunjalè kan	police DEF kill armed.robber INDEF	The police man killed an armed robber.
+Yorùbá	48	Constructed by native speaker linguist	O̩ló̩pàá náà fi ìban pa adigunjalè kan.	o̩ló̩pàá náà fi ìban pa adigunjalè kan	o̩ló̩pàá náà fi ìban pa adigunjalè kan	police DEF take gun kill armed.robber INDEF	The policeman killed an armed robber with a gun.
+Yorùbá	49	Constructed by native speaker linguist	Ade lu o̩mo̩ wa.	Ade lu o̩mo̩ wa	Ade lu o̩mo̩ wa	Ade beat child 1PL.POSS	Ade beat our child.
+Yorùbá	50	Constructed by native speaker linguist	Ade fi ò̩pá lu o̩mo̩ wa.	Ade fi ò̩pá lu o̩mo̩ wa	Ade fi ò̩pá lu o̩mo̩ wa	Ade take staff beat child 1PL.POSS	Ade beat our child with a staff. / Ade used a staff to beat our child.
+Yorùbá	51	Constructed by native speaker linguist	Ade lu o̩mo̩ wa ní ò̩pá.	Ade lu o̩mo̩ wa ní ò̩pá	Ade lu o̩mo̩ wa ní ò̩pá	Ade beat child 1PL.POSS PREP staff	Ade beat our child with a staff.
+Yorùbá	52	Constructed by native speaker linguist	Ade lù wá ní o̩mo̩.	Ade lù wá ní o̩mo̩	Ade lù wá ní o̩mo̩	Ade beat 1PL.O PREP child	Ade beat our child.
+Yorùbá	53	Constructed by native speaker linguist	Ade fi orógùn gbá oríi mi.	Ade fi orógùn gbá oríi mi	Ade fi orógùn gbá oríi mi	Ade take spatula hit head.POSS 1SG.POSS	Ade hit my head with a spatula. / Ade hit me on the head with a spatula.
+Yorùbá	54	Constructed by native speaker linguist	Ade fi kè̩ké̩e̩ rè̩ ko̩lù mí.	Ade fi kè̩ké̩e̩ rè̩ ko̩lù mí	Ade fi kè̩ké̩e̩ rè̩ ko̩lù mí	Ade take bicycle.POSS 3SG.POSS hit 1SG.O	Ade hit me with his bicycle.
+Yorùbá	55	Constructed by native speaker linguist	Ade gbá mi ní orí.	Ade gbá mi ní orí	Ade gbá mi ní orí	Ade hit 1SG.O PREP head	Ade hit my head (lit. Ade hit me on the head).
+Yorùbá	56	Constructed by native speaker linguist	Ade gbá mi ní orógùn.	Ade gbá mi ní orógùn	Ade gbá mi ní orógùn	Ade hit 1SG.O PREP spatula	Ade hit me with a spatula.
+Yorùbá	57	Constructed by native speaker linguist	Ade fi igi kàn mí.	Ade fi igi kàn mí	Ade fi igi kàn mí	Ade take stick touch 1SG.O	Ade touched me with a stick.
+Yorùbá	58	Constructed by native speaker linguist	Ade kàn mí ní igi.	Ade kàn mí ní igi	Ade kàn mí ní igi	Ade touch 1SG.O PREP stick	Ade touched me with a stick.
+Yorùbá	59	Constructed by native speaker linguist	Ade fi igi bà mi.	Ade fi igi bà mi	Ade fi igi bà mi	Ade take stick touch 1SG.O	Ade touched me with a stick.
+Yorùbá	60	Constructed by native speaker linguist	Ade bà mí ní orí.	Ade bà mí ní orí	Ade bà mí ní orí	Ade touch 1SG.O PREP head	Ade touched my head (lit. Ade touched me on the head).
+Yorùbá	61	Constructed by native speaker linguist	Ade fi ò̩be̩ gé etíi Bó̩lá.	Ade fi ò̩be̩ gé etíi Bó̩lá	Ade fi ò̩be̩ gé etíi Bó̩lá	Ade take knife cut ear.POSS Bola	Ade cut Bola's ear with a knife.
+Yorùbá	62	Constructed by native speaker linguist	Ade gé Bó̩lá ní ò̩be̩.	Ade gé Bó̩lá ní ò̩be̩	Ade gé Bó̩lá ní ò̩be̩	Ade cut Bola PREP knife	Ade cut Bola with a knife.
+Yorùbá	63	Constructed by native speaker linguist	Etíi Bó̩lá gé.	etíi Bó̩lá gé	etíi Bó̩lá gé	ear.POSS Bola cut	Bola's ear was cut.
+Yorùbá	64	Constructed by native speaker linguist	Ade gé Bó̩lá ní etí.	Ade gé Bó̩lá ní etí	Ade gé Bó̩lá ní etí	Ade cut Bola PREP ear	Ade cut Bola's ear.
+Yorùbá	65	Constructed by native speaker linguist	Ade gba ìwé náà.	Ade gba ìwé náà	Ade gba ìwé náà	Ade take book DEF	Ade took the book. / Ade collected the book.
+Yorùbá	66	Constructed by native speaker linguist	Ade gba ìwé náà ní ilé-ìwé.	Ade gba ìwé náà ní ilé-ìwé	Ade gba ìwé náà ní ilé-ìwé	Ade take book DEF PREP house-book	Ade took the book from the school. / Ade collected the book from the school.
+Yorùbá	67	Constructed by native speaker linguist	Ade ya as̩o̩o̩ Bó̩lá.	Ade ya as̩o̩o̩ Bó̩lá	Ade ya as̩o̩o̩ Bó̩lá	Ade tear cloth.POSS Bola	Ade tore Bola's cloth.
+Yorùbá	68	Constructed by native speaker linguist	Ade ya Bó̩lá ní as̩o̩.	Ade ya Bó̩lá ní as̩o̩	Ade ya Bó̩lá ní as̩o̩	Ade tear Bola PREP cloth	Ade tore Bola's cloth.
+Yorùbá	69	Constructed by native speaker linguist	As̩o̩ Bó̩lá ya.	As̩o̩ Bó̩lá ya	as̩o̩ Bó̩lá ya	cloth Bola tear	Bola's cloth tore. / Bola's cloth was torn.
+Yorùbá	70	Constructed by native speaker linguist	Oje-ò̩gè̩dè̩ náà bó as̩o̩ò̩ mi.	oje-ò̩gè̩dè̩ náà bó as̩o̩ò̩ mi	oje-ò̩gè̩dè̩ náà bó as̩o̩ò̩ mi	sap-banana DEF peel cloth.POSS 1SG.POSS	The banana sap peeled (off) my cloth. / The banana sap bleached my cloth.
+Yorùbá	71	Constructed by native speaker linguist	Oje-ò̩gè̩dè̩ náà bó mi ní as̩o̩.	oje-ò̩gè̩dè̩ náà bó mi ní as̩o̩o̩	oje-ò̩gè̩dè̩ náà bó mi ní as̩o̩	sap-banana DEF peel 1SG.O PREP cloth	The banana sap peeled (off) my cloth. / The banana sap bleached my cloth.
+Yorùbá	72	Constructed by native speaker linguist	As̩o̩ò̩ mi bó.	as̩o̩ò̩ mi bó	as̩o̩ò̩ mi bó	cloth.POSS 1SG.POSS peel	My cloth peeled (off). / My cloth was bleached.
+Yorùbá	73	Constructed by native speaker linguist	Obìrin náà pa ojúu rè̩ mó̩.	obìrin náà pa ojúu rè̩ mó̩	obìrin náà pa ojúu rè̩ mó̩	woman DEF V1 eye.POSS 3SG.POSS V2	The woman hid her face.
+Yorùbá	74	Constructed by native speaker linguist	Obìrin náà fi ojúu rè̩ pamó̩.	obìrin náà fi ojúu rè̩ pamó̩	obìrin náà fi ojúu rè̩ pamó̩	woman DEF take eye.POSS 3SG.POSS hide	The woman hid her face.
+Yorùbá	75	Constructed by native speaker linguist	Ade fi ilée rè̩ hàn mí.	Ade fi ilée rè̩ hàn mí	Ade fi ilée rè̩ hàn mí	Ade take house.POSS 3SG.POSS show 1SG.O	Ade showed his house to me. / Ade showed me his house.
+Yorùbá	76	Constructed by native speaker linguist	Ade hàn mí ní èèmò̩.	Ade hàn mí ní èèmò̩	Ade hàn mí ní èèmò̩	Ade show 1SG.O PREP abominable	Ade showed me the abominable.
+Yorùbá	77	Constructed by native speaker linguist	O̩bá fún o̩de̩ náà ní o̩mo̩ rè̩.	o̩bá fún o̩de̩ náà ní o̩mo̩ rè̩	o̩bá fún o̩de̩ náà ní o̩mo̩ rè̩	king give hunter DEF PREP child 3SG.POSS	The king gave his child to the hunter.
+Yorùbá	78	Constructed by native speaker linguist	O̩bá fi o̩mo̩ rè̩ fún o̩de̩.	o̩bá fi o̩mo̩ rè̩ fún o̩de̩	o̩bá fi o̩mo̩ rè̩ fún o̩de̩	king take child 3SG.POSS give hunter	The king gave his child to the hunter.
+Yorùbá	79	Constructed by native speaker linguist	Ade fi owó ráns̩é̩.	Ade fi owó ráns̩é̩	Ade fi owó ráns̩é̩	Ade take money send	Ade sent some money.
+Yorùbá	80	Constructed by native speaker linguist	Ade fi owó ráns̩é̩ sí mi.	Ade fi owó ráns̩é̩ sí mi	Ade fi owó ráns̩é̩ sí mi	Ade take money send PREP 1SG.O	Ade sent some money to me.
+Yorùbá	81	Constructed by native speaker linguist	Ade gbé e̩rù náà.	Ade gbé e̩rù náà	Ade gbé e̩rù náà	Ade carry load DEF	Ade carried the load.
+Yorùbá	82	Constructed by native speaker linguist	Ade ju òkúta kan.	Ade ju òkúta kan	Ade ju òkúta kan	Ade throw rock INDEF	Ade threw a rock.
+Yorùbá	83	Constructed by native speaker linguist	Ade ju òkúta kan sí inúu ilé.	Ade ju òkúta kan sí inúu ilé	Ade ju òkúta kan sí inúu ilé	Ade throw rock INDEF PREP interior.POSS house	Ade threw a rock into the house.
+Yorùbá	84	Constructed by native speaker linguist	Ade ju òkúta kan bá mi.	Ade ju òkúta kan bá mi	Ade ju òkúta kan bá mi	Ade throw rock INDEF meet 1SG.O	Ade threw a rock at me. / Ade struck me with a rock.
+Yorùbá	85	Constructed by native speaker linguist	Ade fi okùn de e̩sè̩ mi.	Ade fi okùn de e̩sè̩ mi	Ade fi okùn de e̩sè̩ mi	Ade take rope tie leg 1SG.POSS	Ade tied my legs with a rope.
+Yorùbá	86	Constructed by native speaker linguist	Ade fi okùn so e̩sè̩ mi.	Ade fi okùn so e̩sè̩ mi	Ade fi okùn so e̩sè̩ mi	Ade take rope tie leg 1SG.POSS	Ade ties my legs with a rope.
+Yorùbá	87	Constructed by native speaker linguist	Ade de e̩sè̩ mi ní okùn.	Ade de e̩sè̩ mi ní okùn	Ade de e̩sè̩ mi ní okùn	Ade tie leg 1SG.POSS PREP rope	Ade tied my legs with a rope.
+Yorùbá	88	Constructed by native speaker linguist	O̩kàn mí dè.	o̩kàn mí dè	o̩kàn mí dè	heart 1SG.POSS tie	My heart is tied. / I am confident.
+Yorùbá	89	Constructed by native speaker linguist	Ade fi owó sí àpò mi.	Ade fi owó sí àpò mi	Ade fi owó sí àpò mi	Ade take money put pocket 1SG.POSS	Ade put some money in my pocket.
+Yorùbá	90	Constructed by native speaker linguist	Ade fi owó sí mi ní àpò.	Ade fi owó sí mi ní àpò	Ade fi owó sí mi ní àpò	Ade take money put 1SG.O PREP pocket	Ade put some money in my pocket.
+Yorùbá	91	Constructed by native speaker linguist	Ade da epo sí inúu garawa.	Ade da epo sí inúu garawa	Ade da epo sí inúu garawa	Ade pour oil PREP interior.POSS bushel	Ade poured some oil into a bushel.
+Yorùbá	92	Constructed by native speaker linguist	Ade ro̩ epo sí inú ìgò.	Ade ro̩ epo sí inú ìgò	Ade ro̩ epo sí inú ìgò	Ade pour oil PREP interior bottle	Ade poured some oil into a bottle.
+Yorùbá	93	Constructed by native speaker linguist	Ade da epo lé oríi mi.	Ade da epo lé oríi mi	Ade da epo lé oríi mi	Ade pour oil PREP head.POSS 1SG.POSS	Ade poured some oil on my head.
+Yorùbá	94	Constructed by native speaker linguist	Ade da epo lé mi ní orí.	Ade da epo lé mi ní orí	Ade da epo lé mi ní orí	Ade pour oil PREP 1SG.O PREP head	Ade poured some oil on my head.
+Yorùbá	95	Constructed by native speaker linguist	Epo náà dà.	epo náà dà	epo náà dà	oil DEF pour	The oil poured.
+Yorùbá	96	Constructed by native speaker linguist	Ade fi as̩o̩ bò mí.	Ade fi as̩o̩ bò mí	Ade fi as̩o̩ bò mí	Ade take cloth cover 1SG.O	Ade covered me with a (piece of) cloth.
+Yorùbá	97	Constructed by native speaker linguist	Ade fi fìlà dé oríì mi.	Ade fi fìlà dé oríì mi	Ade fi fìlà dé oríì mi	Ade take cap cover head.POSS 1SG.POSS	Ade covered my head with a cap. / Ade placed a cap on my head.
+Yorùbá	98	Constructed by native speaker linguist	Às̩íríì mí bò.	às̩íríì mí bò	às̩íríì mí bò	secret.POSS 1SG.POSS cover	My secret was covered. / My secret is unexposed.
+Yorùbá	99	Constructed by native speaker linguist	Ade fi fìlà dé mi ní orí.	Ade fi fìlà dé mi ní orí	Ade fi fìlà dé mi ní orí	Ade take cap cover 1SG.O PREP head	Ade covered my head with a cap. / Ade placed a cap on my head.
+Yorùbá	100	Constructed by native speaker linguist	Ade dé mi ní fìlà.	Ade dé mi ní fìlà	Ade dé mi ní fìlà	Ade cover 1SG.O PREP cap	Ade covered me with a cap. / Ade placed a cap on my head.
+Yorùbá	101	Constructed by native speaker linguist	Ade po̩n omi kún garawa náà.	Ade po̩n omi kún garawa náà	Ade po̩n omi kún garawa náà	Ade pour water full bushel DEF	Ade filled the bushel with water.
+Yorùbá	102	Constructed by native speaker linguist	Ade ro̩ omi kún ìgò náà.	Ade ro̩ omi kún ìgò náà	Ade ro̩ omi kún ìgò náà	Ade pour water full bottle DEF	Ade filled the bottle with water.
+Yorùbá	103	Constructed by native speaker linguist	Ade kó àgbàdo sí inúu o̩kò̩.	Ade kó àgbàdo sí inúu o̩kò̩	Ade kó àgbàdo sí inúu o̩kò̩	Ade pack corn PREP interior.POSS vehicle	Ade loaded the corn into the vehicle. / Ade loaded the vehicle with corn.
+Yorùbá	104	Constructed by native speaker linguist	Ade kó àgbàdo lé oríi o̩kò̩.	Ade kó àgbàdo lé oríi o̩kò̩	Ade kó àgbàdo lé oríi o̩kò̩	Ade pack corn PREP head.POSS vehicle	Ade loaded the corn onto the vehicle. / Ade loaded the vehicle with corn.
+Yorùbá	105	Constructed by native speaker linguist	Ade kó as̩o̩ lé oríi mi.	Ade kó as̩o̩ lé oríi mi	Ade kó as̩o̩ lé oríi mi	Ade pack cloth PREP head.POSS 1SG.POSS	Ade loaded the clothes onto my head. / Ade loaded me with clothes.
+Yorùbá	106	Constructed by native speaker linguist	Ade kó as̩o̩ lé mi ní orí.	Ade kó as̩o̩ lé mi ní orí	Ade kó as̩o̩ lé mi ní orí	Ade pack cloth PREP 1SG.O PREP head	Ade loaded the clothes onto my head.
+Yorùbá	107	Constructed by native speaker linguist	Ade s̩é̩jú sí wúndíá náà.	Ade s̩é̩jú sí wúndíá náà	Ade s̩é̩jú sí wúndíá náà	Ade break.eye PREP virgin DEF	Ade blinked at the damsel.
+Yorùbá	108	Constructed by native speaker linguist	Ade ń wúkó̩.	Ade ń wúkó̩	Ade ń wúkó̩	Ade PROG dig.cough	Ade is coughing.
+Yorùbá	109	Constructed by native speaker linguist	Ikó̩ ń wú Ade.	ikó̩ ń wú Ade	ikó̩ ń wú Ade	cough PROG dig Ade	Ade is coughing.
+Yorùbá	110	Constructed by native speaker linguist	Ade gun e̩s̩iìn mi.	Ade gun e̩s̩iìn mi	Ade gun e̩s̩iìn mi	Ade climb horse.POSS 1SG.POSS	Ade climbed my horse. / Ade climbed onto my horse.
+Yorùbá	111	Constructed by native speaker linguist	Ade gùn mí ní e̩s̩in̩.	Ade gùn mí ní e̩s̩in̩	Ade gùn mí ní e̩s̩in̩	Ade climb 1SG.O PREP horse	Ade climbed my horse.
+Yorùbá	112	Constructed by native speaker linguist	Ade sáré.	Ade sáré	Ade sáré	Ade run.race	Ade ran.
+Yorùbá	113	Constructed by native speaker linguist	Ade sá.	Ade sá	Ade sá	Ade run	Ade ran.
+Yorùbá	114	Constructed by native speaker linguist	Ade jókòó sí è̩báa odò.	Ade jókòó sí è̩báa odò	Ade jókòó sí è̩báa odò	Ade sit PREP edge.POSS river	Ade sat by the shore.
+Yorùbá	115	Constructed by native speaker linguist	Ade jókòó lé orí àga-ìkàwé.	Ade jókòó lé orí àga-ìkàwé	Ade jókòó lé orí àga-ìkàwé	Ade sit PREP head table-reading	Ade sat on the reading desk.
+Yorùbá	116	Constructed by native speaker linguist	Ade jókòó.	Ade jókòó	Ade jókòó	Ade sit	Ade sat (down).
+Yorùbá	117	Constructed by native speaker linguist	Ade fòsókè.	Ade fòsókè	Ade fòsókè	Ade fly.PREP.up	Ade jumped (up).
+Yorùbá	118	Constructed by native speaker linguist	Ade bé̩sílè̩.	Ade bé̩sílè̩	Ade bé̩sílè̩	Ade dive.PREP.ground	Ade jumped (down).
+Yorùbá	119	Constructed by native speaker linguist	Ade ko̩rin.	Ade ko̩rin	Ade ko̩rin	Ade sing.song	Ade sang. / Ade sang a song.
+Yorùbá	120	Constructed by native speaker linguist	Ade lo̩ sí oko.	Ade lo̩ sí oko	Ade lo̩ sí oko	Ade go PREP farm	Ade went to the farm.
+Yorùbá	121	Constructed by native speaker linguist	Ade fi èkó sílè̩.	Ade fi èkó sílè̩	Ade fi èkó sílè̩	Ade take Lagos PREP.ground	Ade left Lagos. / Ade left the city of Lagos.
+Yorùbá	122	Constructed by native speaker linguist	Ade ń gbé ní èkó.	Ade ń gbé ní èkó	Ade ń gbé ní èkó	Ade PROG live PREP Lagos	Ade lives in Lagos. / Ade lives in the city of Lagos.
+Yorùbá	123	Constructed by native speaker linguist	Ade ré̩rìín.	Ade ré̩rìín	Ade ré̩rìín	Ade laugh.laughter	Ade laughed.
+Yorùbá	124	Constructed by native speaker linguist	Bó̩lá ho̩n.	Bó̩lá ho̩n	Bó̩lá ho̩n	Bola scream	Bola screamed.
+Yorùbá	125	Constructed by native speaker linguist	Ade ń móòtútù.	Ade ń móòtútù	Ade ń móòtútù	Ade PROG catch.cold	Ade feels cold.
+Yorùbá	126	Constructed by native speaker linguist	Òtútù ń mú Ade.	òtútù ń mú Ade	òtútù ń mú Ade	cold PROG catch Ade	Ade feels cold.
+Yorùbá	127	Constructed by native speaker linguist	Ajá náà kú.	ajá náà kú	ajá náà kú	dog DEF die	The dog died. / The dog is dead.
+Yorùbá	128	Constructed by native speaker linguist	O̩mo̩ náà ń s̩eré.	o̩mo̩ náà ń s̩eré	o̩mo̩ náà ń s̩eré	child DEF PROG play	The child is playing. / The child plays.
+Yorùbá	129	Constructed by native speaker linguist	Ade banújé̩.	Ade banújé̩	Ade banújé̩	Ade make.belly.spoil	Ade is sad. / Ade feels sad.
+Yorùbá	130	Constructed by native speaker linguist	Inú Ade bàjé̩.	inú Ade bàjé̩	inú Ade bàjé̩	belly Ade spoil	Ade is sad. / Ade feels sad.
+Yorùbá	131	Constructed by native speaker linguist	O̩mo̩ náà ń pebi.	o̩mo̩ náà ń pebi	o̩mo̩ náà ń pebi	child DEF PROG kill.hunger	The child is hungry. / The child feels hunger.
+Yorùbá	132	Constructed by native speaker linguist	Ebi ń pa o̩mo̩ náà.	ebi ń pa o̩mo̩ náà	ebi ń pa o̩mo̩ náà	hunger PROG kill child DEF	The child is hungry. / The child feels hunger.
+Yorùbá	133	Constructed by native speaker linguist	Ade yí garawa náà.	Ade yí garawa náà	Ade yí garawa náà	Ade roll bushel DEF	Ade rolled the bushel.
+Yorùbá	134	Constructed by native speaker linguist	Garawa náà yí.	garawa náà yí	garawa náà yí	bushel DEF roll	The bushel rolled.
+Yorùbá	135	Constructed by native speaker linguist	Ìgò náà rì.	ìgò náà rì	ìgò náà rì	bottle DEF sink	The bottle sank.
+Yorùbá	136	Constructed by native speaker linguist	Ilée wó̩n jó.	Ilée wó̩n jó	ilée wó̩n jó	house.POSS 3PL.POSS burn	Their house burnt. / Their house was burnt.
+Yorùbá	137	Constructed by native speaker linguist	Ilée wó̩n jóná.	Ilée wó̩n jóná	ilée wó̩n jóná	house.POSS 3PL.POSS burn.fire	Their house burnt. / Their house was burnt.
+Yorùbá	138	Constructed by native speaker linguist	Ìkòkò omi náà gbe̩.	ìkòkò omi náà gbe̩	ìkòkò omi náà gbe̩	pot water DEF dry	The water pot is dry.
+Yorùbá	139	Constructed by native speaker linguist	Òjò ń rò̩.	òjò ń rò̩	òjò ń rò̩	rain PROG fall	It is raining.
+Yorùbá	140	Constructed by native speaker linguist	Ó ń rò̩jò.	ó ń rò̩jò	ó ń rò̩jò	3SG.S PROG pour.rain	It is raining.
+Yorùbá	141	Constructed by native speaker linguist	Ade lo̩ ata náà.	Ade lo̩ ata náà	Ade lo̩ ata náà	Ade grind pepper DEF	Ade ground the pepper.
+Yorùbá	142	Constructed by native speaker linguist	Ade fi o̩lo̩ lo̩ ata náà.	Ade fi o̩lo̩ lo̩ ata náà	Ade fi o̩lo̩ lo̩ ata náà	Ade take grinding_stone grind pepper DEF	Ade ground the pepper with a grinding stone.
+Yorùbá	143	Constructed by native speaker linguist	Ade nu è̩ko̩ e̩nu o̩mo̩ náà (nù).	Ade nu è̩ko̩ e̩nu o̩mo̩ náà (nù)	Ade nu è̩ko̩ e̩nu o̩mo̩ náà (nù)	Ade wipe pap mouth child DEF (away)	Ade wiped off the pap on the child's mouth.
+Yorùbá	144	Constructed by native speaker linguist	Ade gbé̩ ihò òkété.	Ade gbé̩ ihò òkété	Ade gbé̩ ihò òkété	Ade dig hole giant_rat	Ade dug for a giant rat.
+Yorùbá	145	Constructed by native speaker linguist	Ade ti Bó̩lá.	Ade ti Bó̩lá	Ade ti Bó̩lá	Ade push Bola	Ade pushed Bola. / Ade gave Bola a push.
+Yorùbá	146	Constructed by native speaker linguist	Ade ti Bó̩lá sí kòtò.	Ade ti Bó̩lá sí kòtò	Ade ti Bó̩lá sí kòtò	Ade push Bola PREP pit	Ade pushed Bola into a pit.
+Yorùbá	147	Constructed by native speaker linguist	Ade mú ìwé kan wá.	Ade mú ìwé kan wá	Ade mú ìwé kan wá	Ade grab book INDEF come	Ade brought a book.
+Yorùbá	148	Constructed by native speaker linguist	Ade mú ìwé kan wá fún Bó̩lá.	Ade mú ìwé kan wá fún Bó̩lá	Ade mú ìwé kan wá fún Bó̩lá	Ade grab book INDEF come PREP Bola	Ade brought a book to Bola.
+Yorùbá	149	Constructed by native speaker linguist	Ade jí owóò mi.	Ade jí owóò mi	Ade jí owóò mi	Ade steal money.POSS 1SG.POSS	Ade stole my money.
+Yorùbá	150	Constructed by native speaker linguist	Ade jí mi ní owó.	Ade jí mi ní owó	Ade jí mi ní owó	Ade steal 1SG.O PREP money	Ade stole my money.
+Yorùbá	151	Constructed by native speaker linguist	Olùkó̩ni kó̩ wa.	olùkó̩ni kó̩ wa	olùkó̩ni kó̩ wa	teacher teach 1PL.O	The teacher taught us.
+Yorùbá	152	Constructed by native speaker linguist	Olùkó̩ni kó̩ wa ní ìwé.	olùkó̩ni kó̩ wa ní ìwé	olùkó̩ni kó̩ wa ní ìwé	teacher teach 1PL.O PREP book	The teacher taught us.
+Yorùbá	153	Constructed by native speaker linguist	Ade gbó̩ ìwàásù náà.	Ade gbó̩ ìwàásù náà	Ade gbó̩ ìwàásù náà	Ade hear sermon DEF	Ade heard the sermon.
+Yorùbá	154	Constructed by native speaker linguist	Ade se è̩pà fún wa.	Ade se è̩pà fún wa	Ade se è̩pà fún wa	Ade cook peanuts PREP 1PL.O	Ade cooked some peanuts for us to eat.
+Yorùbá	155	Constructed by native speaker linguist	Ade dáná fún wa.	Ade dáná fún wa	Ade dáná fún wa	Ade cook PREP 1PL.O	Ade cooked for us. / Ade cooked for us to eat.
+Yorùbá	156	Constructed by native speaker linguist	È̩pà náà sè.	è̩pà náà sè	è̩pà náà sè	peanuts DEF cook	The peanuts were cooked.
+Yorùbá	157	Constructed by native speaker linguist	Ade se è̩pà náà.	Ade se è̩pà náà	Ade se è̩pà náà	Ade cook peanuts DEF	Ade cooked the peanuts.
+Yorùbá	158	Constructed by native speaker linguist	Omi náà ń hó.	omi náà ń hó	omi náà ń hó	water DEF PROG boil	The water is boiling.
+Yorùbá	159	Constructed by native speaker linguist	Ade farahàn fún mi.	Ade farahàn fún mi	Ade farahàn fún mi	Ade take.body.show PREP 1SG.O	Ade appeared to me.
+Yorùbá	160	Constructed by native speaker linguist	Ade farahàn mi.	Ade farahàn mi	Ade farahàn mi	Ade take.body.show 1SG.O	Ade appeared to me.
+Yorùbá	161	Constructed by native speaker linguist	Ade farahàn.	Ade farahàn	Ade farahàn	Ade take.body.show	Ade appeared.
+Yorùbá	162	Constructed by native speaker linguist	Ìyá-àgbà ń s̩àárè̩.	ìyá-àgbà ń s̩àárè̩	ìyá-àgbà ń s̩àárè̩	mother-elder PROG do.sickness	Grandmother is ill.
+Yorùbá	163	Constructed by native speaker linguist	Àárè̩ ń s̩e ìyá-àgbà.	àárè̩ ń s̩e ìyá-àgbà	àárè̩ ń s̩e ìyá-àgbà	sickness PROG do mother-elder	Grandmother is ill.
+Yorùbá	164	Constructed by native speaker linguist	Ade sunkún.	Ade sunkún	Ade sunkún	Ade ooze.lamentation	Ade cried.
+Yorùbá	165	Constructed by native speaker linguist	Ade s̩ubú.	Ade s̩ubú	Ade s̩ubú	Ade fall	Ade fell.
+Yorùbá	166	Constructed by native speaker linguist	Ade fi màrìwò s̩e apè̩rè̩.	Ade fi màrìwò s̩e apè̩rè̩	Ade fi màrìwò s̩e apè̩rè̩	Ade take palmfrond make basket	Ade made a basket out of palm frond.
+Yorùbá	167	Constructed by native speaker linguist	Adé s̩e apè̩rè̩ náà ní ti oní màrìwò.	Adé s̩e apè̩rè̩ náà ní ti oní màrìwò	Adé s̩e apè̩rè̩ náà ní ti oní màrìwò	Ade make basket DEF PREP that one.of palmfrond	Ade made the basket out of palm frond.
+Yorùbá	168	Constructed by native speaker linguist	Ade gba owó náà.	Ade gba owó náà	Ade gba owó náà	Ade receive money DEF	Ade received the money.
+Yorùbá	169	Constructed by native speaker linguist	Ade gba owó náà ní o̩wó̩ò̩ mi.	Ade gba owó náà ní o̩wó̩ò̩ mi	Ade gba owó náà ní o̩wó̩ò̩ mi	Ade receive money DEF PREP hand.POSS 1SG.POSS	Ade received the money from me.
+Yorùbá	170	Constructed by native speaker linguist	Mo fé̩ èyí.	mo fé̩ èyí	mo fé̩ èyí	1SG.S want this	I want this (one).
+Yorùbá	171	Constructed by native speaker linguist	Mo fé̩ gba èyí.	mo fé̩ gba èyí	mo fé̩ gba èyí	1SG.S want receive this	I want to have this (one). / I want this (one).
+Yorùbá	172	Constructed by native speaker linguist	Mo fé̩ láti gba èyí.	mo fé̩ láti gba èyí	mo fé̩ láti gba èyí	1SG.S want INF receive this	I want to have this (one). / I want this (one).
+Yorùbá	173	Constructed by native speaker linguist	Ade je̩ ónje̩è̩ mi.	Ade je̩ ónje̩è̩ mi	Ade je̩ ónje̩è̩ mi	Ade eat food.POSS 1SG.POSS	Ade ate my food.
+Yorùbá	174	Constructed by native speaker linguist	Ade je̩ mí ní ónj́e̩.	Ade je̩ mí ní ónj́e̩	Ade je̩ mí ní ónj́e̩	Ade eat 1SG.O PREP food	Ade ate my food.
+Yorùbá	175	Constructed by native speaker linguist	Ade gbá oríi mi.	Ade gbá oríi mi	Ade gbá oríi mi	Ade hit head.POSS 1SG.POSS	Ade hit my head.
+Yorùbá	176	Constructed by native speaker linguist	Ade gé e.	Ade gé e	Ade gé e	Ade cut 3SG.O	Ade cut it.
+Yorùbá	177	Constructed by native speaker linguist	Ade s̩é̩jú.	Ade s̩é̩jú	Ade s̩é̩jú	Ade break.eye	Ade blinked.
+Yorùbá	178	Constructed by native speaker linguist	Ade lo̩.	Ade lo̩	Ade lo̩	Ade go	Ade went.
+Yorùbá	179	Constructed by native speaker linguist	Onís̩ègùn náà pa o̩mo̩ò̩ mi.	onís̩ègùn náà pa o̩mo̩ò̩ mi	onís̩ègùn náà pa o̩mo̩ò̩ mi	doctor DEF kill child.POSS 1SG.POSS	The doctor killed my child.
+Yorùbá	180	Constructed by native speaker linguist	Onís̩ègùn náà pa mí ní o̩mo̩.	onís̩ègùn náà pa mí ní o̩mo̩	onís̩ègùn náà pa mí ní o̩mo̩	doctor DEF kill 1SG.O PREP child	The doctor killed my child.
+Yorùbá	181	Constructed by native speaker linguist	Ade ko̩ oriìn mi.	Ade ko̩ oriìn mi	Ade ko̩ oriìn mi	Ade sing song.POSS 1SG.POSS	Ade sang my song.
+Yorùbá	182	Constructed by native speaker linguist	Ade ko̩ mí ní orin.	Ade ko̩ mí ní orin	Ade ko̩ mí ní orin	Ade sing 1SG.O PREP song	Ade sang my song.
+Yorùbá	183	Constructed by native speaker linguist	Ajá náà run o̩wó̩o̩ rè̩.	Ajá náà run o̩wó̩o̩ rè̩	Ajá náà run o̩wó̩o̩ rè̩	dog DEF smell hand.POSS 3SG.POSS	The dog smelled its/his/her hand.
+Yorùbá	184	Constructed by native speaker linguist	Adé múra.	Adé múra	Adé múra	Ade dress	Ade dressed.
+Yorùbá	185	Constructed by native speaker linguist	Adé pàdé Bó̩lá ní ilé.	Adé pàdé Bó̩lá ní ilé	Adé pàdé Bó̩lá ní ilé	Ade meet Bola PREP home	Ade met Bola at home.
+Yorùbá	186	Constructed by native speaker linguist	Ìyáà mí pè mí ní Adé.	Ìyáà mí pè mí ní Adé.	ìyáà mí pè mí ní Adé	mother.POSS 1SG.POSS call 1SG.O PREP Ade	My mother called me Ade. / My mother named me Ade.
+Yorùbá	187	Constructed by native speaker linguist	Ìyáà mí fi Adé pè mí.	Ìyáà mí fi Adé pè mí.	ìyáà mí fi Adé pè mí	mother.POSS 1SG.POSS take Ade call 1SG.O	My mother called me Ade. / My mother named me Ade.
+Yorùbá	188	Constructed by native speaker linguist	Ade dá egungun e̩sè̩è̩ mi.	Ade dá egungun e̩sè̩ mi.	Ade dá egungun e̩sè̩è̩ mi	Ade break bone leg.POSS 1SG.POSS	Ade broke my leg (lit. Ade broke the bone of my leg).
+Yorùbá	189	Constructed by native speaker linguist	Egungun e̩sè̩è̩ mi dá.	Egungun e̩sè̩ mi dá	Egungun e̩sè̩è̩ mi dá	bone leg.POSS 1SG.POSS break	My leg bone broke.
+Yorùbá	190	Constructed by native speaker linguist	Ade dá mi ní egungun e̩sè̩.	Ade dá mi ní egungun e̩sè̩	Ade dá mi ní egungun e̩sè̩	Ade break 1SG.POSS PREP bone leg	Ade broke my leg bone.
+Yorùbá	191	Constructed by native speaker linguist	Ade na o̩mo̩ wa.	Ade na o̩mo̩ wa	Ade na o̩mo̩ wa	Ade beat child 1PL.POSS	Ade beat our child.
+Yorùbá	192	Constructed by native speaker linguist	Ade fi e̩gba na o̩mo̩ wa.	Ade fi e̩gba na o̩mo̩ wa	Ade fi e̩gba na o̩mo̩ wa	Ade take whip beat child 1PL.POSS	Ade beat our child with a whip.
+Yorùbá	193	Constructed by native speaker linguist	Ade na o̩mo̩ wa ní e̩gba.	Ade na o̩mo̩ wa ní e̩gba	Ade na o̩mo̩ wa ní e̩gba	Ade beat child 1PL.POSS PREP whip	Ade beat our child with a whip.
+Yorùbá	194	Constructed by native speaker linguist	Ade nà wa ní o̩mo̩.	Ade nà wa ní o̩mo̩	Ade nà wa ní o̩mo̩	Ade beat 1PL.POSS PREP child	Ade beat our child.
+Yorùbá	195	Constructed by native speaker linguist	Adé fi owó lé oríì mi.	Adé fi owó lé orí mi.	Adé fi owó lé oríi mi	Ade take money PREP head.POSS 1SG.POSS	Ade put money on my head.
+Yorùbá	196	Constructed by native speaker linguist	Adé fi owó lé mi ní orí.	Adé fi owó lé mi ní orí	Adé fi owó lé mi ní orí	Ade put money PREP 1SG.O PREP head	Ade put money on my head.
+Yorùbá	197	Constructed by native speaker linguist	Adé bá Bó̩lá.	Adé bá Bó̩lá	Adé bá Bó̩lá	Ade meet Bola	Ade met Bola.
+Yorùbá	198	Constructed by native speaker linguist	Adé jágbe mó̩ wa.	Adé jágbe mó̩ wa	Adé jágbe mó̩ wa	Ade shout PREP 1PL.O	Ade shouted at us.
+Yorùbá	199	Constructed by native speaker linguist	ó bà mí.	ó bà mí	ó bà mí	3SG.S touch 1SG.O	It touched me.
+Yorùbá	200	Constructed by native speaker linguist	Ade bà mí ní igi.	Ade bà mí ní igi	Ade bà mí ní igi	Ade touch 1SG.O PREP stick	Ade touched me with a stick.
+Yorùbá	201	Constructed by native speaker linguist	Adé so e̩sè̩ mi ní okùn.	Adé so e̩sè̩ mi ní okùn	Adé so e̩sè̩ mi ní okùn	Ade tie leg 1SG.POSS PREP rope	Ade tied my legs with a rope.
+Yorùbá	202	Constructed by native speaker linguist	Adé ro̩ epo lé oríi mi.	Adé ro̩ epo lé oríi mi	Adé ro̩ epo lé oríi mi	Ade pour oil PREP head.POSS 1SG.POSS	Ade poured oil on my head.
+Yorùbá	203	Constructed by native speaker linguist	Adé ro̩ epo lé mi ní orí.	Adé ro̩ epo lé mi ní orí	Adé ro̩ epo lé mi ní orí	Ade pour oil PREP 1SG.O PREP head	Ade poured oil on my head.
+Yorùbá	204		Ade bò mí ní as̩o̩.		Ade bò mí ní as̩o̩	Ade cover ISG.O PREP cloth	Ade covered me with a (piece of) cloth.

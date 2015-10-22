@@ -1,0 +1,1429 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+German	1	EAT	essen	Ambitransitive Alternation (A>S)	Never	
+German	1	EAT	essen	Anticausative Alternation	Never	
+German	1	EAT	essen	be- Alternation (I)	Never	
+German	1	EAT	essen	be- Alternation (II)	Never	
+German	1	EAT	essen	Benefactive Alternation	Never	
+German	1	EAT	essen	Cognate Object Insertion	Never	
+German	1	EAT	essen	er- Alternation	Never	
+German	1	EAT	essen	Impersonal Passive	Marginally	
+German	1	EAT	essen	Instrument Subject Alternation	Never	
+German	1	EAT	essen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	1	EAT	essen	Passive with sein		
+German	1	EAT	essen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	1	EAT	essen	Prepositional Alternation	Never	
+German	1	EAT	essen	ver- Alternation	Never	
+German	2	HUG	umarmen	Ambitransitive Alternation (A>S)	Never	
+German	2	HUG	umarmen	Anticausative Alternation	Never	
+German	2	HUG	umarmen	be- Alternation (I)	Never	
+German	2	HUG	umarmen	be- Alternation (II)	Never	
+German	2	HUG	umarmen	Benefactive Alternation	Never	
+German	2	HUG	umarmen	Cognate Object Insertion	Never	
+German	2	HUG	umarmen	er- Alternation	Never	
+German	2	HUG	umarmen	Impersonal Passive	Never	
+German	2	HUG	umarmen	Instrument Subject Alternation	Never	
+German	2	HUG	umarmen	Object Omission Alternation	Never	
+German	2	HUG	umarmen	Passive with sein		
+German	2	HUG	umarmen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	2	HUG	umarmen	Prepositional Alternation	Never	
+German	2	HUG	umarmen	ver- Alternation	Never	
+German	3	LOOK AT	anschauen	Ambitransitive Alternation (A>S)	Never	
+German	3	LOOK AT	anschauen	Anticausative Alternation	Never	
+German	3	LOOK AT	anschauen	be- Alternation (I)	Never	
+German	3	LOOK AT	anschauen	be- Alternation (II)	Never	
+German	3	LOOK AT	anschauen	Benefactive Alternation	Never	
+German	3	LOOK AT	anschauen	Cognate Object Insertion	Never	
+German	3	LOOK AT	anschauen	er- Alternation	Never	
+German	3	LOOK AT	anschauen	Impersonal Passive	Never	
+German	3	LOOK AT	anschauen	Instrument Subject Alternation	Never	
+German	3	LOOK AT	anschauen	Object Omission Alternation	Never	
+German	3	LOOK AT	anschauen	Passive with sein		
+German	3	LOOK AT	anschauen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	3	LOOK AT	anschauen	Prepositional Alternation	Never	
+German	3	LOOK AT	anschauen	ver- Alternation	Never	
+German	4	SEE	sehen	Ambitransitive Alternation (A>S)	Never	
+German	4	SEE	sehen	Anticausative Alternation	Never	
+German	4	SEE	sehen	be- Alternation (I)	Never	
+German	4	SEE	sehen	be- Alternation (II)	Never	
+German	4	SEE	sehen	Benefactive Alternation	Never	
+German	4	SEE	sehen	Cognate Object Insertion	Never	
+German	4	SEE	sehen	er- Alternation	Never	
+German	4	SEE	sehen	Impersonal Passive	Never	
+German	4	SEE	sehen	Instrument Subject Alternation	Never	
+German	4	SEE	sehen	Object Omission Alternation	Marginally	
+German	4	SEE	sehen	Passive with sein		
+German	4	SEE	sehen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	4	SEE	sehen	Prepositional Alternation	Never	
+German	4	SEE	sehen	ver- Alternation	Never	
+German	5	SMELL	riechen	Ambitransitive Alternation (A>S)	Regularly	2-nom V'.subj[2]
+German	5	SMELL	riechen	Anticausative Alternation	Never	
+German	5	SMELL	riechen	be- Alternation (I)	Never	
+German	5	SMELL	riechen	be- Alternation (II)	Never	
+German	5	SMELL	riechen	Benefactive Alternation	Never	
+German	5	SMELL	riechen	Cognate Object Insertion	Never	
+German	5	SMELL	riechen	er- Alternation	Never	
+German	5	SMELL	riechen	Impersonal Passive	Never	
+German	5	SMELL	riechen	Instrument Subject Alternation	Never	
+German	5	SMELL	riechen	Object Omission Alternation	Never	
+German	5	SMELL	riechen	Passive with sein	Never	
+German	5	SMELL	riechen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	5	SMELL	riechen	Prepositional Alternation	Never	
+German	5	SMELL	riechen	ver- Alternation	Never	
+German	6	FEAR	Angst haben	Ambitransitive Alternation (A>S)	Never	
+German	6	FEAR	Angst haben	Anticausative Alternation	Never	
+German	6	FEAR	Angst haben	be- Alternation (I)	Never	
+German	6	FEAR	Angst haben	be- Alternation (II)	Never	
+German	6	FEAR	Angst haben	Benefactive Alternation	Never	
+German	6	FEAR	Angst haben	Cognate Object Insertion	Never	
+German	6	FEAR	Angst haben	er- Alternation	Never	
+German	6	FEAR	Angst haben	Impersonal Passive	Marginally	
+German	6	FEAR	Angst haben	Instrument Subject Alternation	Never	
+German	6	FEAR	Angst haben	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	6	FEAR	Angst haben	Passive with sein		
+German	6	FEAR	Angst haben	Passive with werden	Never	
+German	6	FEAR	Angst haben	Prepositional Alternation	Never	
+German	6	FEAR	Angst haben	ver- Alternation	Never	
+German	6	FEAR	fürchten	Ambitransitive Alternation (A>S)	Never	
+German	6	FEAR	fürchten	Anticausative Alternation	Never	
+German	6	FEAR	fürchten	be- Alternation (I)	Never	
+German	6	FEAR	fürchten	be- Alternation (II)	Never	
+German	6	FEAR	fürchten	Benefactive Alternation	Never	
+German	6	FEAR	fürchten	Cognate Object Insertion	Never	
+German	6	FEAR	fürchten	er- Alternation	Never	
+German	6	FEAR	fürchten	Impersonal Passive	Never	
+German	6	FEAR	fürchten	Instrument Subject Alternation	Never	
+German	6	FEAR	fürchten	Object Omission Alternation	Never	
+German	6	FEAR	fürchten	Passive with sein		
+German	6	FEAR	fürchten	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	6	FEAR	fürchten	Prepositional Alternation	Never	
+German	6	FEAR	fürchten	ver- Alternation	Never	
+German	7	FRIGHTEN	erschrecken	Ambitransitive Alternation (A>S)	Never	
+German	7	FRIGHTEN	erschrecken	Anticausative Alternation	Never	
+German	7	FRIGHTEN	erschrecken	be- Alternation (I)	Never	
+German	7	FRIGHTEN	erschrecken	be- Alternation (II)	Never	
+German	7	FRIGHTEN	erschrecken	Benefactive Alternation	Never	
+German	7	FRIGHTEN	erschrecken	Cognate Object Insertion	Never	
+German	7	FRIGHTEN	erschrecken	er- Alternation	Never	
+German	7	FRIGHTEN	erschrecken	Impersonal Passive	Never	
+German	7	FRIGHTEN	erschrecken	Instrument Subject Alternation	Marginally	
+German	7	FRIGHTEN	erschrecken	Object Omission Alternation	Never	
+German	7	FRIGHTEN	erschrecken	Passive with sein		
+German	7	FRIGHTEN	erschrecken	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	7	FRIGHTEN	erschrecken	Prepositional Alternation	Never	
+German	7	FRIGHTEN	erschrecken	ver- Alternation	Never	
+German	8	LIKE	gefallen	Ambitransitive Alternation (A>S)	Never	
+German	8	LIKE	gefallen	Anticausative Alternation	Never	
+German	8	LIKE	gefallen	be- Alternation (I)	Never	
+German	8	LIKE	gefallen	be- Alternation (II)	Never	
+German	8	LIKE	gefallen	Benefactive Alternation	Never	
+German	8	LIKE	gefallen	Cognate Object Insertion	Never	
+German	8	LIKE	gefallen	er- Alternation	Never	
+German	8	LIKE	gefallen	Impersonal Passive	Never	
+German	8	LIKE	gefallen	Instrument Subject Alternation	Never	
+German	8	LIKE	gefallen	Object Omission Alternation	Never	
+German	8	LIKE	gefallen	Passive with sein	Never	
+German	8	LIKE	gefallen	Passive with werden	Never	
+German	8	LIKE	gefallen	Prepositional Alternation	Never	
+German	8	LIKE	gefallen	ver- Alternation	Never	
+German	8	LIKE	mögen	Ambitransitive Alternation (A>S)	Never	
+German	8	LIKE	mögen	Anticausative Alternation	Never	
+German	8	LIKE	mögen	be- Alternation (I)	Never	
+German	8	LIKE	mögen	be- Alternation (II)	Never	
+German	8	LIKE	mögen	Benefactive Alternation	Never	
+German	8	LIKE	mögen	Cognate Object Insertion	Never	
+German	8	LIKE	mögen	er- Alternation	Never	
+German	8	LIKE	mögen	Impersonal Passive	Never	
+German	8	LIKE	mögen	Instrument Subject Alternation	Never	
+German	8	LIKE	mögen	Object Omission Alternation	Never	
+German	8	LIKE	mögen	Passive with sein		
+German	8	LIKE	mögen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	8	LIKE	mögen	Prepositional Alternation	Never	
+German	8	LIKE	mögen	ver- Alternation	Never	
+German	9	KNOW	kennen	Ambitransitive Alternation (A>S)	Never	
+German	9	KNOW	kennen	Anticausative Alternation	Never	
+German	9	KNOW	kennen	be- Alternation (I)	Never	
+German	9	KNOW	kennen	be- Alternation (II)	Never	
+German	9	KNOW	kennen	Benefactive Alternation	Never	
+German	9	KNOW	kennen	Cognate Object Insertion	Never	
+German	9	KNOW	kennen	er- Alternation	Never	
+German	9	KNOW	kennen	Impersonal Passive	Never	
+German	9	KNOW	kennen	Instrument Subject Alternation	Never	
+German	9	KNOW	kennen	Object Omission Alternation	Never	
+German	9	KNOW	kennen	Passive with sein	Never	
+German	9	KNOW	kennen	Passive with werden	Marginally	
+German	9	KNOW	kennen	Prepositional Alternation	Never	
+German	9	KNOW	kennen	ver- Alternation	Never	
+German	10	THINK	denken	Ambitransitive Alternation (A>S)	Never	
+German	10	THINK	denken	Anticausative Alternation	Never	
+German	10	THINK	denken	be- Alternation (I)	Never	
+German	10	THINK	denken	be- Alternation (II)	Marginally	
+German	10	THINK	denken	Benefactive Alternation	Never	
+German	10	THINK	denken	Cognate Object Insertion	Marginally	
+German	10	THINK	denken	er- Alternation	Never	
+German	10	THINK	denken	Impersonal Passive	Regularly	x-nom passV'.subj[x] an+2-acc
+German	10	THINK	denken	Instrument Subject Alternation	Never	
+German	10	THINK	denken	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	10	THINK	denken	Passive with sein		
+German	10	THINK	denken	Passive with werden	Never	
+German	10	THINK	denken	Prepositional Alternation	Never	
+German	10	THINK	denken	ver- Alternation	Never	
+German	10	THINK	nachdenken	Ambitransitive Alternation (A>S)	Never	
+German	10	THINK	nachdenken	Anticausative Alternation	Never	
+German	10	THINK	nachdenken	be- Alternation (I)	Never	
+German	10	THINK	nachdenken	be- Alternation (II)	Never	
+German	10	THINK	nachdenken	Benefactive Alternation	Never	
+German	10	THINK	nachdenken	Cognate Object Insertion	Never	
+German	10	THINK	nachdenken	er- Alternation	Never	
+German	10	THINK	nachdenken	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	10	THINK	nachdenken	Instrument Subject Alternation	Never	
+German	10	THINK	nachdenken	Object Omission Alternation	Never	
+German	10	THINK	nachdenken	Passive with sein	Never	
+German	10	THINK	nachdenken	Passive with werden	Marginally	
+German	10	THINK	nachdenken	Prepositional Alternation	Never	
+German	10	THINK	nachdenken	ver- Alternation	Never	
+German	11	SEARCH FOR	suchen	Ambitransitive Alternation (A>S)	Never	
+German	11	SEARCH FOR	suchen	Anticausative Alternation	Never	
+German	11	SEARCH FOR	suchen	be- Alternation (I)	Never	
+German	11	SEARCH FOR	suchen	be- Alternation (II)	Never	
+German	11	SEARCH FOR	suchen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	11	SEARCH FOR	suchen	Cognate Object Insertion	Never	
+German	11	SEARCH FOR	suchen	er- Alternation	Never	
+German	11	SEARCH FOR	suchen	Impersonal Passive	Never	
+German	11	SEARCH FOR	suchen	Instrument Subject Alternation	Never	
+German	11	SEARCH FOR	suchen	Object Omission Alternation	Never	
+German	11	SEARCH FOR	suchen	Passive with sein		
+German	11	SEARCH FOR	suchen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	11	SEARCH FOR	suchen	Prepositional Alternation	Never	
+German	11	SEARCH FOR	suchen	ver- Alternation	Never	
+German	12	WASH	waschen	Ambitransitive Alternation (A>S)	Never	
+German	12	WASH	waschen	Anticausative Alternation	Never	
+German	12	WASH	waschen	be- Alternation (I)	Never	
+German	12	WASH	waschen	be- Alternation (II)	Never	
+German	12	WASH	waschen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	12	WASH	waschen	Cognate Object Insertion	Never	
+German	12	WASH	waschen	er- Alternation	Never	
+German	12	WASH	waschen	Impersonal Passive	Never	
+German	12	WASH	waschen	Instrument Subject Alternation	Marginally	
+German	12	WASH	waschen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	12	WASH	waschen	Passive with sein		
+German	12	WASH	waschen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	12	WASH	waschen	Prepositional Alternation	Never	
+German	12	WASH	waschen	ver- Alternation	Never	
+German	13	DRESS	anziehen	Ambitransitive Alternation (A>S)	Never	
+German	13	DRESS	anziehen	Anticausative Alternation	Never	
+German	13	DRESS	anziehen	be- Alternation (I)	Never	
+German	13	DRESS	anziehen	be- Alternation (II)	Never	
+German	13	DRESS	anziehen	Benefactive Alternation	Never	
+German	13	DRESS	anziehen	Cognate Object Insertion	Never	
+German	13	DRESS	anziehen	er- Alternation	Never	
+German	13	DRESS	anziehen	Impersonal Passive	Never	
+German	13	DRESS	anziehen	Instrument Subject Alternation	Never	
+German	13	DRESS	anziehen	Object Omission Alternation	Never	
+German	13	DRESS	anziehen	Passive with sein	Regularly	
+German	13	DRESS	anziehen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	13	DRESS	anziehen	Prepositional Alternation	Never	
+German	13	DRESS	anziehen	ver- Alternation	Never	
+German	14	SHAVE (a body part/person)	rasieren	Ambitransitive Alternation (A>S)	Never	
+German	14	SHAVE (a body part/person)	rasieren	Anticausative Alternation	Never	
+German	14	SHAVE (a body part/person)	rasieren	be- Alternation (I)	Never	
+German	14	SHAVE (a body part/person)	rasieren	be- Alternation (II)	Never	
+German	14	SHAVE (a body part/person)	rasieren	Benefactive Alternation	Marginally	
+German	14	SHAVE (a body part/person)	rasieren	Cognate Object Insertion	Never	
+German	14	SHAVE (a body part/person)	rasieren	er- Alternation	Never	
+German	14	SHAVE (a body part/person)	rasieren	Impersonal Passive	Never	
+German	14	SHAVE (a body part/person)	rasieren	Instrument Subject Alternation	Marginally	
+German	14	SHAVE (a body part/person)	rasieren	Object Omission Alternation	Never	
+German	14	SHAVE (a body part/person)	rasieren	Passive with sein		
+German	14	SHAVE (a body part/person)	rasieren	Passive with werden	Marginally	
+German	14	SHAVE (a body part/person)	rasieren	Prepositional Alternation	Never	
+German	14	SHAVE (a body part/person)	rasieren	ver- Alternation	Never	
+German	15	HELP	helfen	Ambitransitive Alternation (A>S)	Never	
+German	15	HELP	helfen	Anticausative Alternation	Never	
+German	15	HELP	helfen	be- Alternation (I)	Never	
+German	15	HELP	helfen	be- Alternation (II)	Never	
+German	15	HELP	helfen	Benefactive Alternation	Never	
+German	15	HELP	helfen	Cognate Object Insertion	Never	
+German	15	HELP	helfen	er- Alternation	Never	
+German	15	HELP	helfen	Impersonal Passive	Regularly	x-nom passV'.subj[x] 2-dat (von+1-dat)
+German	15	HELP	helfen	Instrument Subject Alternation	Never	
+German	15	HELP	helfen	Object Omission Alternation	Never	
+German	15	HELP	helfen	Passive with sein		
+German	15	HELP	helfen	Passive with werden	Never	
+German	15	HELP	helfen	Prepositional Alternation	Never	
+German	15	HELP	helfen	ver- Alternation	Never	
+German	16	FOLLOW	folgen	Ambitransitive Alternation (A>S)	Never	
+German	16	FOLLOW	folgen	Anticausative Alternation	Never	
+German	16	FOLLOW	folgen	be- Alternation (I)	Never	
+German	16	FOLLOW	folgen	be- Alternation (II)	Never	
+German	16	FOLLOW	folgen	Benefactive Alternation	Never	
+German	16	FOLLOW	folgen	Cognate Object Insertion	Never	
+German	16	FOLLOW	folgen	er- Alternation	Never	
+German	16	FOLLOW	folgen	Impersonal Passive	Regularly	x-nom passV'.subj[x] 2-dat (von+1-dat)
+German	16	FOLLOW	folgen	Instrument Subject Alternation	Marginally	
+German	16	FOLLOW	folgen	Object Omission Alternation	Never	
+German	16	FOLLOW	folgen	Passive with sein		
+German	16	FOLLOW	folgen	Passive with werden	Never	
+German	16	FOLLOW	folgen	Prepositional Alternation	Never	
+German	16	FOLLOW	folgen	ver- Alternation	Never	
+German	17	MEET	treffen	Ambitransitive Alternation (A>S)	Never	
+German	17	MEET	treffen	Anticausative Alternation	Never	
+German	17	MEET	treffen	be- Alternation (I)	Never	
+German	17	MEET	treffen	be- Alternation (II)	Never	
+German	17	MEET	treffen	Benefactive Alternation	Never	
+German	17	MEET	treffen	Cognate Object Insertion	Never	
+German	17	MEET	treffen	er- Alternation	Never	
+German	17	MEET	treffen	Impersonal Passive	Never	
+German	17	MEET	treffen	Instrument Subject Alternation	Never	
+German	17	MEET	treffen	Object Omission Alternation	Never	
+German	17	MEET	treffen	Passive with sein		
+German	17	MEET	treffen	Passive with werden	Never	
+German	17	MEET	treffen	Prepositional Alternation	Never	
+German	17	MEET	treffen	ver- Alternation	Never	
+German	18	TALK	reden	Ambitransitive Alternation (A>S)	Never	
+German	18	TALK	reden	Anticausative Alternation	Never	
+German	18	TALK	reden	be- Alternation (I)	Never	
+German	18	TALK	reden	be- Alternation (II)	Regularly	
+German	18	TALK	reden	Benefactive Alternation	Never	
+German	18	TALK	reden	Cognate Object Insertion	Never	
+German	18	TALK	reden	er- Alternation	Never	
+German	18	TALK	reden	Impersonal Passive	Regularly	x-nom passV'.subj[x] mit+2-dat
+German	18	TALK	reden	Instrument Subject Alternation	Never	
+German	18	TALK	reden	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	18	TALK	reden	Passive with sein		
+German	18	TALK	reden	Passive with werden	Never	
+German	18	TALK	reden	Prepositional Alternation	Never	
+German	18	TALK	reden	ver- Alternation	Never	
+German	18	TALK	sprechen	Ambitransitive Alternation (A>S)	Never	
+German	18	TALK	sprechen	Anticausative Alternation	Never	
+German	18	TALK	sprechen	be- Alternation (I)	Never	
+German	18	TALK	sprechen	be- Alternation (II)	Regularly	
+German	18	TALK	sprechen	Benefactive Alternation	Marginally	
+German	18	TALK	sprechen	Cognate Object Insertion	Never	
+German	18	TALK	sprechen	er- Alternation	Never	
+German	18	TALK	sprechen	Impersonal Passive	Regularly	x-nom passV'.subj[x] mit+2-dat
+German	18	TALK	sprechen	Instrument Subject Alternation	Never	
+German	18	TALK	sprechen	Object Omission Alternation	Marginally	
+German	18	TALK	sprechen	Passive with sein		
+German	18	TALK	sprechen	Passive with werden	Never	
+German	18	TALK	sprechen	Prepositional Alternation	Never	
+German	18	TALK	sprechen	ver- Alternation	Never	
+German	19	ASK FOR	bitten	Ambitransitive Alternation (A>S)	Never	
+German	19	ASK FOR	bitten	Anticausative Alternation	Never	
+German	19	ASK FOR	bitten	be- Alternation (I)	Never	
+German	19	ASK FOR	bitten	be- Alternation (II)	Never	
+German	19	ASK FOR	bitten	Benefactive Alternation	Never	
+German	19	ASK FOR	bitten	Cognate Object Insertion	Never	
+German	19	ASK FOR	bitten	er- Alternation	Regularly	1-nom erV'.subj[1] 3-acc (von+2-dat)
+German	19	ASK FOR	bitten	Impersonal Passive	Marginally	
+German	19	ASK FOR	bitten	Instrument Subject Alternation	Never	
+German	19	ASK FOR	bitten	Object Omission Alternation	Never	
+German	19	ASK FOR	bitten	Passive with sein		
+German	19	ASK FOR	bitten	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) um+3-acc
+German	19	ASK FOR	bitten	Prepositional Alternation	Never	
+German	19	ASK FOR	bitten	ver- Alternation	Never	
+German	20	SHOUT AT	anschreien	Ambitransitive Alternation (A>S)	Never	
+German	20	SHOUT AT	anschreien	Anticausative Alternation	Never	
+German	20	SHOUT AT	anschreien	be- Alternation (I)	Never	
+German	20	SHOUT AT	anschreien	be- Alternation (II)	Never	
+German	20	SHOUT AT	anschreien	Benefactive Alternation	Never	
+German	20	SHOUT AT	anschreien	Cognate Object Insertion	Never	
+German	20	SHOUT AT	anschreien	er- Alternation	Never	
+German	20	SHOUT AT	anschreien	Impersonal Passive	Never	
+German	20	SHOUT AT	anschreien	Instrument Subject Alternation	Never	
+German	20	SHOUT AT	anschreien	Object Omission Alternation	Never	
+German	20	SHOUT AT	anschreien	Passive with sein		
+German	20	SHOUT AT	anschreien	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	20	SHOUT AT	anschreien	Prepositional Alternation	Never	
+German	20	SHOUT AT	anschreien	ver- Alternation	Never	
+German	21	TELL	erzählen	Ambitransitive Alternation (A>S)	Never	
+German	21	TELL	erzählen	Anticausative Alternation	Never	
+German	21	TELL	erzählen	be- Alternation (I)	Never	
+German	21	TELL	erzählen	be- Alternation (II)	Never	
+German	21	TELL	erzählen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	21	TELL	erzählen	Cognate Object Insertion	Never	
+German	21	TELL	erzählen	er- Alternation	Never	
+German	21	TELL	erzählen	Impersonal Passive	Never	
+German	21	TELL	erzählen	Instrument Subject Alternation	Never	
+German	21	TELL	erzählen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	21	TELL	erzählen	Passive with sein		
+German	21	TELL	erzählen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	21	TELL	erzählen	Prepositional Alternation	Never	
+German	21	TELL	erzählen	ver- Alternation	Never	
+German	22	SAY	sagen	Ambitransitive Alternation (A>S)	Never	
+German	22	SAY	sagen	Anticausative Alternation	Never	
+German	22	SAY	sagen	be- Alternation (I)	Never	
+German	22	SAY	sagen	be- Alternation (II)	Never	
+German	22	SAY	sagen	Benefactive Alternation	Never	
+German	22	SAY	sagen	Cognate Object Insertion	Never	
+German	22	SAY	sagen	er- Alternation	Never	
+German	22	SAY	sagen	Impersonal Passive	Never	
+German	22	SAY	sagen	Instrument Subject Alternation	Never	
+German	22	SAY	sagen	Object Omission Alternation	Never	
+German	22	SAY	sagen	Passive with sein		
+German	22	SAY	sagen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	22	SAY	sagen	Prepositional Alternation	Never	
+German	22	SAY	sagen	ver- Alternation	Never	
+German	23	NAME	nennen	Ambitransitive Alternation (A>S)	Never	
+German	23	NAME	nennen	Anticausative Alternation	Never	
+German	23	NAME	nennen	be- Alternation (I)	Never	
+German	23	NAME	nennen	be- Alternation (II)	Never	
+German	23	NAME	nennen	Benefactive Alternation	Marginally	
+German	23	NAME	nennen	Cognate Object Insertion	Never	
+German	23	NAME	nennen	er- Alternation	Never	
+German	23	NAME	nennen	Impersonal Passive	Never	
+German	23	NAME	nennen	Instrument Subject Alternation	Never	
+German	23	NAME	nennen	Object Omission Alternation	Never	
+German	23	NAME	nennen	Passive with sein		
+German	23	NAME	nennen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) 3-nom
+German	23	NAME	nennen	Prepositional Alternation	Never	
+German	23	NAME	nennen	ver- Alternation	Never	
+German	24	BUILD	bauen	Ambitransitive Alternation (A>S)	Never	
+German	24	BUILD	bauen	Anticausative Alternation	Never	
+German	24	BUILD	bauen	be- Alternation (I)	Never	
+German	24	BUILD	bauen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 4-acc mit+2-dat
+German	24	BUILD	bauen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	24	BUILD	bauen	Cognate Object Insertion	Never	
+German	24	BUILD	bauen	er- Alternation	Never	
+German	24	BUILD	bauen	Impersonal Passive	Never	
+German	24	BUILD	bauen	Instrument Subject Alternation	Never	
+German	24	BUILD	bauen	Object Omission Alternation	Never	
+German	24	BUILD	bauen	Passive with sein		
+German	24	BUILD	bauen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	24	BUILD	bauen	Prepositional Alternation	Never	
+German	24	BUILD	bauen	ver- Alternation	Never	
+German	25	BREAK	zerbrechen	Ambitransitive Alternation (A>S)	Regularly	2-nom V'.subj[2]
+German	25	BREAK	zerbrechen	Anticausative Alternation	Never	
+German	25	BREAK	zerbrechen	be- Alternation (I)	Never	
+German	25	BREAK	zerbrechen	be- Alternation (II)	Never	
+German	25	BREAK	zerbrechen	Benefactive Alternation	Never	
+German	25	BREAK	zerbrechen	Cognate Object Insertion	Never	
+German	25	BREAK	zerbrechen	er- Alternation	Never	
+German	25	BREAK	zerbrechen	Impersonal Passive	Never	
+German	25	BREAK	zerbrechen	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	25	BREAK	zerbrechen	Object Omission Alternation	Never	
+German	25	BREAK	zerbrechen	Passive with sein		
+German	25	BREAK	zerbrechen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	25	BREAK	zerbrechen	Prepositional Alternation	Never	
+German	25	BREAK	zerbrechen	ver- Alternation	Never	
+German	26	KILL	töten	Ambitransitive Alternation (A>S)	Never	
+German	26	KILL	töten	Anticausative Alternation	Never	
+German	26	KILL	töten	be- Alternation (I)	Never	
+German	26	KILL	töten	be- Alternation (II)	Never	
+German	26	KILL	töten	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	26	KILL	töten	Cognate Object Insertion	Never	
+German	26	KILL	töten	er- Alternation	Never	
+German	26	KILL	töten	Impersonal Passive	Never	
+German	26	KILL	töten	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	26	KILL	töten	Object Omission Alternation	Marginally	
+German	26	KILL	töten	Passive with sein		
+German	26	KILL	töten	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	26	KILL	töten	Prepositional Alternation	Never	
+German	26	KILL	töten	ver- Alternation	Never	
+German	26	KILL	umbringen	Ambitransitive Alternation (A>S)	Never	
+German	26	KILL	umbringen	Anticausative Alternation	Never	
+German	26	KILL	umbringen	be- Alternation (I)	Never	
+German	26	KILL	umbringen	be- Alternation (II)	Never	
+German	26	KILL	umbringen	Benefactive Alternation	Never	
+German	26	KILL	umbringen	Cognate Object Insertion	Never	
+German	26	KILL	umbringen	er- Alternation	Never	
+German	26	KILL	umbringen	Impersonal Passive	Never	
+German	26	KILL	umbringen	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	26	KILL	umbringen	Object Omission Alternation	Never	
+German	26	KILL	umbringen	Passive with sein		
+German	26	KILL	umbringen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	26	KILL	umbringen	Prepositional Alternation	Never	
+German	26	KILL	umbringen	ver- Alternation	Never	
+German	27	BEAT	schlagen	Ambitransitive Alternation (A>S)	Never	
+German	27	BEAT	schlagen	Anticausative Alternation	Never	
+German	27	BEAT	schlagen	be- Alternation (I)	Never	
+German	27	BEAT	schlagen	be- Alternation (II)	Never	
+German	27	BEAT	schlagen	Benefactive Alternation	Marginally	
+German	27	BEAT	schlagen	Cognate Object Insertion	Never	
+German	27	BEAT	schlagen	er- Alternation	Never	
+German	27	BEAT	schlagen	Impersonal Passive	Never	
+German	27	BEAT	schlagen	Instrument Subject Alternation	Never	
+German	27	BEAT	schlagen	Object Omission Alternation	Never	
+German	27	BEAT	schlagen	Passive with sein		
+German	27	BEAT	schlagen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	27	BEAT	schlagen	Prepositional Alternation	Never	
+German	27	BEAT	schlagen	ver- Alternation	Never	
+German	28	HIT	schlagen	Ambitransitive Alternation (A>S)	Never	
+German	28	HIT	schlagen	Anticausative Alternation	Never	
+German	28	HIT	schlagen	be- Alternation (I)	Never	
+German	28	HIT	schlagen	be- Alternation (II)	Never	
+German	28	HIT	schlagen	Benefactive Alternation	Marginally	
+German	28	HIT	schlagen	Cognate Object Insertion	Never	
+German	28	HIT	schlagen	er- Alternation	Never	
+German	28	HIT	schlagen	Impersonal Passive	Never	
+German	28	HIT	schlagen	Instrument Subject Alternation	Never	
+German	28	HIT	schlagen	Object Omission Alternation	Never	
+German	28	HIT	schlagen	Passive with sein		
+German	28	HIT	schlagen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	28	HIT	schlagen	Prepositional Alternation	Never	
+German	28	HIT	schlagen	ver- Alternation	Never	
+German	29	TOUCH	anfassen	Ambitransitive Alternation (A>S)	Never	
+German	29	TOUCH	anfassen	Anticausative Alternation	Marginally	
+German	29	TOUCH	anfassen	be- Alternation (I)	Never	
+German	29	TOUCH	anfassen	be- Alternation (II)	Never	
+German	29	TOUCH	anfassen	Benefactive Alternation	Never	
+German	29	TOUCH	anfassen	Cognate Object Insertion	Never	
+German	29	TOUCH	anfassen	er- Alternation	Never	
+German	29	TOUCH	anfassen	Impersonal Passive	Never	
+German	29	TOUCH	anfassen	Instrument Subject Alternation	Never	
+German	29	TOUCH	anfassen	Object Omission Alternation	Never	
+German	29	TOUCH	anfassen	Passive with sein		
+German	29	TOUCH	anfassen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	29	TOUCH	anfassen	Prepositional Alternation	Never	
+German	29	TOUCH	anfassen	ver- Alternation	Never	
+German	29	TOUCH	berühren	Ambitransitive Alternation (A>S)	Never	
+German	29	TOUCH	berühren	Anticausative Alternation	Never	
+German	29	TOUCH	berühren	be- Alternation (I)	Never	
+German	29	TOUCH	berühren	be- Alternation (II)	Never	
+German	29	TOUCH	berühren	Benefactive Alternation	Never	
+German	29	TOUCH	berühren	Cognate Object Insertion	Never	
+German	29	TOUCH	berühren	er- Alternation	Never	
+German	29	TOUCH	berühren	Impersonal Passive	Never	
+German	29	TOUCH	berühren	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	29	TOUCH	berühren	Object Omission Alternation	Never	
+German	29	TOUCH	berühren	Passive with sein		
+German	29	TOUCH	berühren	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	29	TOUCH	berühren	Prepositional Alternation	Never	
+German	29	TOUCH	berühren	ver- Alternation	Never	
+German	30	CUT	schneiden	Ambitransitive Alternation (A>S)	Never	
+German	30	CUT	schneiden	Anticausative Alternation	Never	
+German	30	CUT	schneiden	be- Alternation (I)	Never	
+German	30	CUT	schneiden	be- Alternation (II)	Never	
+German	30	CUT	schneiden	Benefactive Alternation	Marginally	
+German	30	CUT	schneiden	Cognate Object Insertion	Never	
+German	30	CUT	schneiden	er- Alternation	Never	
+German	30	CUT	schneiden	Impersonal Passive	Never	
+German	30	CUT	schneiden	Instrument Subject Alternation	Marginally	
+German	30	CUT	schneiden	Object Omission Alternation	Never	
+German	30	CUT	schneiden	Passive with sein		
+German	30	CUT	schneiden	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	30	CUT	schneiden	Prepositional Alternation	Never	
+German	30	CUT	schneiden	ver- Alternation	Never	
+German	31	TAKE	nehmen	Ambitransitive Alternation (A>S)	Never	
+German	31	TAKE	nehmen	Anticausative Alternation	Never	
+German	31	TAKE	nehmen	be- Alternation (I)	Never	
+German	31	TAKE	nehmen	be- Alternation (II)	Never	
+German	31	TAKE	nehmen	Benefactive Alternation	Never	
+German	31	TAKE	nehmen	Cognate Object Insertion	Never	
+German	31	TAKE	nehmen	er- Alternation	Never	
+German	31	TAKE	nehmen	Impersonal Passive	Never	
+German	31	TAKE	nehmen	Instrument Subject Alternation	Never	
+German	31	TAKE	nehmen	Object Omission Alternation	Never	
+German	31	TAKE	nehmen	Passive with sein		
+German	31	TAKE	nehmen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	31	TAKE	nehmen	Prepositional Alternation	Never	
+German	31	TAKE	nehmen	ver- Alternation	Never	
+German	32	TEAR	reißen	Ambitransitive Alternation (A>S)	Never	
+German	32	TEAR	reißen	Anticausative Alternation	Never	
+German	32	TEAR	reißen	be- Alternation (I)	Never	
+German	32	TEAR	reißen	be- Alternation (II)	Never	
+German	32	TEAR	reißen	Benefactive Alternation	Marginally	
+German	32	TEAR	reißen	Cognate Object Insertion	Never	
+German	32	TEAR	reißen	er- Alternation	Never	
+German	32	TEAR	reißen	Impersonal Passive	Never	
+German	32	TEAR	reißen	Instrument Subject Alternation	Never	
+German	32	TEAR	reißen	Object Omission Alternation	Never	
+German	32	TEAR	reißen	Passive with sein		
+German	32	TEAR	reißen	Passive with werden	Marginally	
+German	32	TEAR	reißen	Prepositional Alternation	Never	
+German	32	TEAR	reißen	ver- Alternation	Never	
+German	33	PEEL	schälen	Ambitransitive Alternation (A>S)	Never	
+German	33	PEEL	schälen	Anticausative Alternation	Never	
+German	33	PEEL	schälen	be- Alternation (I)	Never	
+German	33	PEEL	schälen	be- Alternation (II)	Never	
+German	33	PEEL	schälen	Benefactive Alternation	Marginally	
+German	33	PEEL	schälen	Cognate Object Insertion	Never	
+German	33	PEEL	schälen	er- Alternation	Never	
+German	33	PEEL	schälen	Impersonal Passive	Never	
+German	33	PEEL	schälen	Instrument Subject Alternation	Marginally	
+German	33	PEEL	schälen	Object Omission Alternation	Never	
+German	33	PEEL	schälen	Passive with sein		
+German	33	PEEL	schälen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	33	PEEL	schälen	Prepositional Alternation	Never	
+German	33	PEEL	schälen	ver- Alternation	Never	
+German	34	HIDE	verstecken	Ambitransitive Alternation (A>S)	Never	
+German	34	HIDE	verstecken	Anticausative Alternation	Never	
+German	34	HIDE	verstecken	be- Alternation (I)	Never	
+German	34	HIDE	verstecken	be- Alternation (II)	Never	
+German	34	HIDE	verstecken	Benefactive Alternation	Marginally	
+German	34	HIDE	verstecken	Cognate Object Insertion	Never	
+German	34	HIDE	verstecken	er- Alternation	Never	
+German	34	HIDE	verstecken	Impersonal Passive	Never	
+German	34	HIDE	verstecken	Instrument Subject Alternation	Never	
+German	34	HIDE	verstecken	Object Omission Alternation	Never	
+German	34	HIDE	verstecken	Passive with sein		
+German	34	HIDE	verstecken	Passive with werden	Regularly	
+German	34	HIDE	verstecken	Prepositional Alternation	Never	
+German	34	HIDE	verstecken	ver- Alternation	Never	
+German	35	SHOW	zeigen	Ambitransitive Alternation (A>S)	Never	
+German	35	SHOW	zeigen	Anticausative Alternation	Never	
+German	35	SHOW	zeigen	be- Alternation (I)	Never	
+German	35	SHOW	zeigen	be- Alternation (II)	Never	
+German	35	SHOW	zeigen	Benefactive Alternation	Never	
+German	35	SHOW	zeigen	Cognate Object Insertion	Never	
+German	35	SHOW	zeigen	er- Alternation	Never	
+German	35	SHOW	zeigen	Impersonal Passive	Never	
+German	35	SHOW	zeigen	Instrument Subject Alternation	Marginally	
+German	35	SHOW	zeigen	Object Omission Alternation	Never	
+German	35	SHOW	zeigen	Passive with sein		
+German	35	SHOW	zeigen	Passive with werden	Regularly	3-nom passV'.subj[3] 2-dat (von+1-dat)
+German	35	SHOW	zeigen	Prepositional Alternation	Never	
+German	35	SHOW	zeigen	ver- Alternation	Never	
+German	36	GIVE	geben	Ambitransitive Alternation (A>S)	Never	
+German	36	GIVE	geben	Anticausative Alternation	Never	
+German	36	GIVE	geben	be- Alternation (I)	Never	
+German	36	GIVE	geben	be- Alternation (II)	Never	
+German	36	GIVE	geben	Benefactive Alternation	Never	
+German	36	GIVE	geben	Cognate Object Insertion	Never	
+German	36	GIVE	geben	er- Alternation	Never	
+German	36	GIVE	geben	Impersonal Passive	Never	
+German	36	GIVE	geben	Instrument Subject Alternation	Never	
+German	36	GIVE	geben	Object Omission Alternation	Marginally	
+German	36	GIVE	geben	Passive with sein		
+German	36	GIVE	geben	Passive with werden	Marginally	
+German	36	GIVE	geben	Prepositional Alternation	Never	
+German	36	GIVE	geben	ver- Alternation	Never	
+German	37	SEND	schicken	Ambitransitive Alternation (A>S)	Never	
+German	37	SEND	schicken	Anticausative Alternation	Never	
+German	37	SEND	schicken	be- Alternation (I)	Never	
+German	37	SEND	schicken	be- Alternation (II)	Never	
+German	37	SEND	schicken	Benefactive Alternation	Never	
+German	37	SEND	schicken	Cognate Object Insertion	Never	
+German	37	SEND	schicken	er- Alternation	Never	
+German	37	SEND	schicken	Impersonal Passive	Never	
+German	37	SEND	schicken	Instrument Subject Alternation	Never	
+German	37	SEND	schicken	Object Omission Alternation	Never	
+German	37	SEND	schicken	Passive with sein		
+German	37	SEND	schicken	Passive with werden	Regularly	3-nom passV'.subj[3] 2-dat (von+1-dat)
+German	37	SEND	schicken	Prepositional Alternation	Regularly	1-nom V'.subj[1] 3-acc (prep+2-case)
+German	37	SEND	schicken	ver- Alternation	Regularly	1-nom verV'.subj[1] 3-acc
+German	38	CARRY	tragen	Ambitransitive Alternation (A>S)	Never	
+German	38	CARRY	tragen	Anticausative Alternation	Never	
+German	38	CARRY	tragen	be- Alternation (I)	Never	
+German	38	CARRY	tragen	be- Alternation (II)	Never	
+German	38	CARRY	tragen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	38	CARRY	tragen	Cognate Object Insertion	Never	
+German	38	CARRY	tragen	er- Alternation	Never	
+German	38	CARRY	tragen	Impersonal Passive	Never	
+German	38	CARRY	tragen	Instrument Subject Alternation	Never	
+German	38	CARRY	tragen	Object Omission Alternation	Never	
+German	38	CARRY	tragen	Passive with sein		
+German	38	CARRY	tragen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	38	CARRY	tragen	Prepositional Alternation	Never	
+German	38	CARRY	tragen	ver- Alternation	Never	
+German	39	THROW	werfen	Ambitransitive Alternation (A>S)	Never	
+German	39	THROW	werfen	Anticausative Alternation	Never	
+German	39	THROW	werfen	be- Alternation (I)	Never	
+German	39	THROW	werfen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	39	THROW	werfen	Benefactive Alternation	Never	
+German	39	THROW	werfen	Cognate Object Insertion	Never	
+German	39	THROW	werfen	er- Alternation	Never	
+German	39	THROW	werfen	Impersonal Passive	Never	
+German	39	THROW	werfen	Instrument Subject Alternation	Never	
+German	39	THROW	werfen	Object Omission Alternation	Never	
+German	39	THROW	werfen	Passive with sein		
+German	39	THROW	werfen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	39	THROW	werfen	Prepositional Alternation	Never	
+German	39	THROW	werfen	ver- Alternation	Never	
+German	40	TIE	anbinden	Ambitransitive Alternation (A>S)	Never	
+German	40	TIE	anbinden	Anticausative Alternation	Never	
+German	40	TIE	anbinden	be- Alternation (I)	Never	
+German	40	TIE	anbinden	be- Alternation (II)	Never	
+German	40	TIE	anbinden	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	40	TIE	anbinden	Cognate Object Insertion	Never	
+German	40	TIE	anbinden	er- Alternation	Never	
+German	40	TIE	anbinden	Impersonal Passive	Never	
+German	40	TIE	anbinden	Instrument Subject Alternation	Never	
+German	40	TIE	anbinden	Object Omission Alternation	Never	
+German	40	TIE	anbinden	Passive with sein		
+German	40	TIE	anbinden	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	40	TIE	anbinden	Prepositional Alternation	Never	
+German	40	TIE	anbinden	ver- Alternation	Never	
+German	41	PUT	legen	Ambitransitive Alternation (A>S)	Never	
+German	41	PUT	legen	Anticausative Alternation	Never	
+German	41	PUT	legen	be- Alternation (I)	Never	
+German	41	PUT	legen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	41	PUT	legen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc LOC3
+German	41	PUT	legen	Cognate Object Insertion	Never	
+German	41	PUT	legen	er- Alternation	Never	
+German	41	PUT	legen	Impersonal Passive	Never	
+German	41	PUT	legen	Instrument Subject Alternation	Never	
+German	41	PUT	legen	Object Omission Alternation	Never	
+German	41	PUT	legen	Passive with sein	Marginally	
+German	41	PUT	legen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	41	PUT	legen	Prepositional Alternation	Never	
+German	41	PUT	legen	ver- Alternation	Never	
+German	41	PUT	setzen	Ambitransitive Alternation (A>S)	Never	
+German	41	PUT	setzen	Anticausative Alternation	Never	
+German	41	PUT	setzen	be- Alternation (I)	Never	
+German	41	PUT	setzen	be- Alternation (II)	Marginally	
+German	41	PUT	setzen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc LOC3
+German	41	PUT	setzen	Cognate Object Insertion	Never	
+German	41	PUT	setzen	er- Alternation	Never	
+German	41	PUT	setzen	Impersonal Passive	Never	
+German	41	PUT	setzen	Instrument Subject Alternation	Never	
+German	41	PUT	setzen	Object Omission Alternation	Never	
+German	41	PUT	setzen	Passive with sein	Regularly	
+German	41	PUT	setzen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	41	PUT	setzen	Prepositional Alternation	Never	
+German	41	PUT	setzen	ver- Alternation	Never	
+German	41	PUT	stellen	Ambitransitive Alternation (A>S)	Never	
+German	41	PUT	stellen	Anticausative Alternation	Never	
+German	41	PUT	stellen	be- Alternation (I)	Never	
+German	41	PUT	stellen	be- Alternation (II)	Marginally	
+German	41	PUT	stellen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc LOC3
+German	41	PUT	stellen	Cognate Object Insertion	Never	
+German	41	PUT	stellen	er- Alternation	Never	
+German	41	PUT	stellen	Impersonal Passive	Never	
+German	41	PUT	stellen	Instrument Subject Alternation	Never	
+German	41	PUT	stellen	Object Omission Alternation	Never	
+German	41	PUT	stellen	Passive with sein		
+German	41	PUT	stellen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	41	PUT	stellen	Prepositional Alternation	Never	
+German	41	PUT	stellen	ver- Alternation	Never	
+German	42	POUR	gießen	Ambitransitive Alternation (A>S)	Never	
+German	42	POUR	gießen	Anticausative Alternation	Never	
+German	42	POUR	gießen	be- Alternation (I)	Never	
+German	42	POUR	gießen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	42	POUR	gießen	Benefactive Alternation	Marginally	
+German	42	POUR	gießen	Cognate Object Insertion	Never	
+German	42	POUR	gießen	er- Alternation	Never	
+German	42	POUR	gießen	Impersonal Passive	Never	
+German	42	POUR	gießen	Instrument Subject Alternation	Never	
+German	42	POUR	gießen	Object Omission Alternation	Never	
+German	42	POUR	gießen	Passive with sein		
+German	42	POUR	gießen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	42	POUR	gießen	Prepositional Alternation	Never	
+German	42	POUR	gießen	ver- Alternation	Never	
+German	43	COVER	zudecken	Ambitransitive Alternation (A>S)	Never	
+German	43	COVER	zudecken	Anticausative Alternation	Never	
+German	43	COVER	zudecken	be- Alternation (I)	Never	
+German	43	COVER	zudecken	be- Alternation (II)	Never	
+German	43	COVER	zudecken	Benefactive Alternation	Never	
+German	43	COVER	zudecken	Cognate Object Insertion	Never	
+German	43	COVER	zudecken	er- Alternation	Never	
+German	43	COVER	zudecken	Impersonal Passive	Never	
+German	43	COVER	zudecken	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	43	COVER	zudecken	Object Omission Alternation	Never	
+German	43	COVER	zudecken	Passive with sein		
+German	43	COVER	zudecken	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	43	COVER	zudecken	Prepositional Alternation	Never	
+German	43	COVER	zudecken	ver- Alternation	Never	
+German	44	FILL	füllen	Ambitransitive Alternation (A>S)	Never	
+German	44	FILL	füllen	Anticausative Alternation	Regularly	
+German	44	FILL	füllen	be- Alternation (I)	Never	
+German	44	FILL	füllen	be- Alternation (II)	Never	
+German	44	FILL	füllen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc mit+3-acc
+German	44	FILL	füllen	Cognate Object Insertion	Never	
+German	44	FILL	füllen	er- Alternation	Never	
+German	44	FILL	füllen	Impersonal Passive	Never	
+German	44	FILL	füllen	Instrument Subject Alternation	Regularly	3-nom V'.subj[3] 2-acc
+German	44	FILL	füllen	Object Omission Alternation	Never	
+German	44	FILL	füllen	Passive with sein		
+German	44	FILL	füllen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) mit+3-dat
+German	44	FILL	füllen	Prepositional Alternation	Never	
+German	44	FILL	füllen	ver- Alternation	Never	
+German	45	LOAD	laden	Ambitransitive Alternation (A>S)	Never	
+German	45	LOAD	laden	Anticausative Alternation	Never	
+German	45	LOAD	laden	be- Alternation (I)	Never	
+German	45	LOAD	laden	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	45	LOAD	laden	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc auf+3-acc
+German	45	LOAD	laden	Cognate Object Insertion	Never	
+German	45	LOAD	laden	er- Alternation	Never	
+German	45	LOAD	laden	Impersonal Passive	Never	
+German	45	LOAD	laden	Instrument Subject Alternation	Never	
+German	45	LOAD	laden	Object Omission Alternation	Never	
+German	45	LOAD	laden	Passive with sein		
+German	45	LOAD	laden	Passive with werden	Marginally	
+German	45	LOAD	laden	Prepositional Alternation	Never	
+German	45	LOAD	laden	ver- Alternation	Regularly	1-nom verV'.subj[1] 2-acc
+German	46	BLINK	blinzeln	Ambitransitive Alternation (A>S)	Never	
+German	46	BLINK	blinzeln	Anticausative Alternation	Never	
+German	46	BLINK	blinzeln	be- Alternation (I)	Never	
+German	46	BLINK	blinzeln	be- Alternation (II)	Never	
+German	46	BLINK	blinzeln	Benefactive Alternation	Never	
+German	46	BLINK	blinzeln	Cognate Object Insertion	Never	
+German	46	BLINK	blinzeln	er- Alternation	Never	
+German	46	BLINK	blinzeln	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	46	BLINK	blinzeln	Instrument Subject Alternation	Never	
+German	46	BLINK	blinzeln	Object Omission Alternation	Never	
+German	46	BLINK	blinzeln	Passive with sein	Never	
+German	46	BLINK	blinzeln	Passive with werden	Never	
+German	46	BLINK	blinzeln	Prepositional Alternation	Never	
+German	46	BLINK	blinzeln	ver- Alternation	Never	
+German	47	COUGH	husten	Ambitransitive Alternation (A>S)	Never	
+German	47	COUGH	husten	Anticausative Alternation	Never	
+German	47	COUGH	husten	be- Alternation (I)	Never	
+German	47	COUGH	husten	be- Alternation (II)	Never	
+German	47	COUGH	husten	Benefactive Alternation	Never	
+German	47	COUGH	husten	Cognate Object Insertion	Never	
+German	47	COUGH	husten	er- Alternation	Never	
+German	47	COUGH	husten	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	47	COUGH	husten	Instrument Subject Alternation	Never	
+German	47	COUGH	husten	Object Omission Alternation	Never	
+German	47	COUGH	husten	Passive with sein	Never	
+German	47	COUGH	husten	Passive with werden	Marginally	
+German	47	COUGH	husten	Prepositional Alternation	Never	
+German	47	COUGH	husten	ver- Alternation	Never	
+German	48	CLIMB	klettern	Ambitransitive Alternation (A>S)	Never	
+German	48	CLIMB	klettern	Anticausative Alternation	Never	
+German	48	CLIMB	klettern	be- Alternation (I)	Never	
+German	48	CLIMB	klettern	be- Alternation (II)	Marginally	
+German	48	CLIMB	klettern	Benefactive Alternation	Never	
+German	48	CLIMB	klettern	Cognate Object Insertion	Never	
+German	48	CLIMB	klettern	er- Alternation	Marginally	
+German	48	CLIMB	klettern	Impersonal Passive	Marginally	
+German	48	CLIMB	klettern	Instrument Subject Alternation	Never	
+German	48	CLIMB	klettern	Object Omission Alternation	Never	
+German	48	CLIMB	klettern	Passive with sein		
+German	48	CLIMB	klettern	Passive with werden	Marginally	
+German	48	CLIMB	klettern	Prepositional Alternation	Never	
+German	48	CLIMB	klettern	ver- Alternation	Never	
+German	49	RUN	rennen	Ambitransitive Alternation (A>S)	Never	
+German	49	RUN	rennen	Anticausative Alternation	Never	
+German	49	RUN	rennen	be- Alternation (I)	Never	
+German	49	RUN	rennen	be- Alternation (II)	Never	
+German	49	RUN	rennen	Benefactive Alternation	Never	
+German	49	RUN	rennen	Cognate Object Insertion	Marginally	
+German	49	RUN	rennen	er- Alternation	Never	
+German	49	RUN	rennen	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	49	RUN	rennen	Instrument Subject Alternation	Never	
+German	49	RUN	rennen	Object Omission Alternation	Never	
+German	49	RUN	rennen	Passive with sein	Never	
+German	49	RUN	rennen	Passive with werden	Marginally	
+German	49	RUN	rennen	Prepositional Alternation	Never	
+German	49	RUN	rennen	ver- Alternation	Never	
+German	50	SIT	sitzen	Ambitransitive Alternation (A>S)	Never	
+German	50	SIT	sitzen	Anticausative Alternation	Never	
+German	50	SIT	sitzen	be- Alternation (I)	Never	
+German	50	SIT	sitzen	be- Alternation (II)	Never	
+German	50	SIT	sitzen	Benefactive Alternation	Never	
+German	50	SIT	sitzen	Cognate Object Insertion	Never	
+German	50	SIT	sitzen	er- Alternation	Never	
+German	50	SIT	sitzen	Impersonal Passive	Marginally	
+German	50	SIT	sitzen	Instrument Subject Alternation	Never	
+German	50	SIT	sitzen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	50	SIT	sitzen	Passive with sein		
+German	50	SIT	sitzen	Passive with werden	Marginally	
+German	50	SIT	sitzen	Prepositional Alternation	Never	
+German	50	SIT	sitzen	ver- Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	Ambitransitive Alternation (A>S)	Never	
+German	51	SIT DOWN	sich hinsetzen	Anticausative Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	be- Alternation (I)	Never	
+German	51	SIT DOWN	sich hinsetzen	be- Alternation (II)	Never	
+German	51	SIT DOWN	sich hinsetzen	Benefactive Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	Cognate Object Insertion	Never	
+German	51	SIT DOWN	sich hinsetzen	er- Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	Impersonal Passive	Marginally	
+German	51	SIT DOWN	sich hinsetzen	Instrument Subject Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	Object Omission Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	Passive with sein	Never	
+German	51	SIT DOWN	sich hinsetzen	Passive with werden	Never	
+German	51	SIT DOWN	sich hinsetzen	Prepositional Alternation	Never	
+German	51	SIT DOWN	sich hinsetzen	ver- Alternation	Never	
+German	52	JUMP	hüpfen	Ambitransitive Alternation (A>S)	Never	
+German	52	JUMP	hüpfen	Anticausative Alternation	Never	
+German	52	JUMP	hüpfen	be- Alternation (I)	Never	
+German	52	JUMP	hüpfen	be- Alternation (II)	Never	
+German	52	JUMP	hüpfen	Benefactive Alternation	Never	
+German	52	JUMP	hüpfen	Cognate Object Insertion	Never	
+German	52	JUMP	hüpfen	er- Alternation	Never	
+German	52	JUMP	hüpfen	Impersonal Passive	Marginally	
+German	52	JUMP	hüpfen	Instrument Subject Alternation	Never	
+German	52	JUMP	hüpfen	Object Omission Alternation	Never	
+German	52	JUMP	hüpfen	Passive with sein		
+German	52	JUMP	hüpfen	Passive with werden	Marginally	
+German	52	JUMP	hüpfen	Prepositional Alternation	Never	
+German	52	JUMP	hüpfen	ver- Alternation	Never	
+German	52	JUMP	springen	Ambitransitive Alternation (A>S)	Never	
+German	52	JUMP	springen	Anticausative Alternation	Never	
+German	52	JUMP	springen	be- Alternation (I)	Never	
+German	52	JUMP	springen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 2-acc
+German	52	JUMP	springen	Benefactive Alternation	Never	
+German	52	JUMP	springen	Cognate Object Insertion	Never	
+German	52	JUMP	springen	er- Alternation	Never	
+German	52	JUMP	springen	Impersonal Passive	Marginally	
+German	52	JUMP	springen	Instrument Subject Alternation	Never	
+German	52	JUMP	springen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	52	JUMP	springen	Passive with sein		
+German	52	JUMP	springen	Passive with werden	Marginally	
+German	52	JUMP	springen	Prepositional Alternation	Never	
+German	52	JUMP	springen	ver- Alternation	Never	
+German	53	SING	singen	Ambitransitive Alternation (A>S)	Never	
+German	53	SING	singen	Anticausative Alternation	Never	
+German	53	SING	singen	be- Alternation (I)	Marginally	
+German	53	SING	singen	be- Alternation (II)	Never	
+German	53	SING	singen	Benefactive Alternation	Never	
+German	53	SING	singen	Cognate Object Insertion	Regularly	1-nom V'.subj[1] 2-acc
+German	53	SING	singen	er- Alternation	Never	
+German	53	SING	singen	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	53	SING	singen	Instrument Subject Alternation	Never	
+German	53	SING	singen	Object Omission Alternation	Never	
+German	53	SING	singen	Passive with sein	Marginally	
+German	53	SING	singen	Passive with werden	Marginally	
+German	53	SING	singen	Prepositional Alternation	Never	
+German	53	SING	singen	ver- Alternation	Never	
+German	54	GO	gehen	Ambitransitive Alternation (A>S)	Never	
+German	54	GO	gehen	Anticausative Alternation	Never	
+German	54	GO	gehen	be- Alternation (I)	Never	
+German	54	GO	gehen	be- Alternation (II)	Marginally	
+German	54	GO	gehen	Benefactive Alternation	Never	
+German	54	GO	gehen	Cognate Object Insertion	Marginally	
+German	54	GO	gehen	er- Alternation	Never	
+German	54	GO	gehen	Impersonal Passive	Marginally	
+German	54	GO	gehen	Instrument Subject Alternation	Never	
+German	54	GO	gehen	Object Omission Alternation	Marginally	
+German	54	GO	gehen	Passive with sein		
+German	54	GO	gehen	Passive with werden	Never	
+German	54	GO	gehen	Prepositional Alternation	Never	
+German	54	GO	gehen	ver- Alternation	Never	
+German	55	LEAVE	verlassen	Ambitransitive Alternation (A>S)	Never	
+German	55	LEAVE	verlassen	Anticausative Alternation	Never	
+German	55	LEAVE	verlassen	be- Alternation (I)	Never	
+German	55	LEAVE	verlassen	be- Alternation (II)	Never	
+German	55	LEAVE	verlassen	Benefactive Alternation	Never	
+German	55	LEAVE	verlassen	Cognate Object Insertion	Never	
+German	55	LEAVE	verlassen	er- Alternation	Never	
+German	55	LEAVE	verlassen	Impersonal Passive	Never	
+German	55	LEAVE	verlassen	Instrument Subject Alternation	Never	
+German	55	LEAVE	verlassen	Object Omission Alternation	Never	
+German	55	LEAVE	verlassen	Passive with sein		
+German	55	LEAVE	verlassen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	55	LEAVE	verlassen	Prepositional Alternation	Never	
+German	55	LEAVE	verlassen	ver- Alternation	Never	
+German	56	LIVE	leben	Ambitransitive Alternation (A>S)	Never	
+German	56	LIVE	leben	Anticausative Alternation	Never	
+German	56	LIVE	leben	be- Alternation (I)	Never	
+German	56	LIVE	leben	be- Alternation (II)	Never	
+German	56	LIVE	leben	Benefactive Alternation	Never	
+German	56	LIVE	leben	Cognate Object Insertion	Regularly	1-nom V'.subj[1] 3-acc LOC2
+German	56	LIVE	leben	er- Alternation	Never	
+German	56	LIVE	leben	Impersonal Passive	Marginally	
+German	56	LIVE	leben	Instrument Subject Alternation	Never	
+German	56	LIVE	leben	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	56	LIVE	leben	Passive with sein		
+German	56	LIVE	leben	Passive with werden	Marginally	
+German	56	LIVE	leben	Prepositional Alternation	Never	
+German	56	LIVE	leben	ver- Alternation	Never	
+German	56	LIVE	wohnen	Ambitransitive Alternation (A>S)	Never	
+German	56	LIVE	wohnen	Anticausative Alternation	Never	
+German	56	LIVE	wohnen	be- Alternation (I)	Never	
+German	56	LIVE	wohnen	be- Alternation (II)	Regularly	1-nom beV'.subj[1] 2-acc
+German	56	LIVE	wohnen	Benefactive Alternation	Never	
+German	56	LIVE	wohnen	Cognate Object Insertion	Never	
+German	56	LIVE	wohnen	er- Alternation	Never	
+German	56	LIVE	wohnen	Impersonal Passive	Marginally	
+German	56	LIVE	wohnen	Instrument Subject Alternation	Never	
+German	56	LIVE	wohnen	Object Omission Alternation	Never	
+German	56	LIVE	wohnen	Passive with sein		
+German	56	LIVE	wohnen	Passive with werden	Marginally	
+German	56	LIVE	wohnen	Prepositional Alternation	Never	
+German	56	LIVE	wohnen	ver- Alternation	Never	
+German	57	LAUGH	lachen	Ambitransitive Alternation (A>S)	Never	
+German	57	LAUGH	lachen	Anticausative Alternation	Never	
+German	57	LAUGH	lachen	be- Alternation (I)	Never	
+German	57	LAUGH	lachen	be- Alternation (II)	Never	
+German	57	LAUGH	lachen	Benefactive Alternation	Never	
+German	57	LAUGH	lachen	Cognate Object Insertion	Regularly	1-nom V'.subj[1] 2-acc
+German	57	LAUGH	lachen	er- Alternation	Never	
+German	57	LAUGH	lachen	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	57	LAUGH	lachen	Instrument Subject Alternation	Never	
+German	57	LAUGH	lachen	Object Omission Alternation	Never	
+German	57	LAUGH	lachen	Passive with sein	Never	
+German	57	LAUGH	lachen	Passive with werden	Never	
+German	57	LAUGH	lachen	Prepositional Alternation	Never	
+German	57	LAUGH	lachen	ver- Alternation	Never	
+German	58	SCREAM	schreien	Ambitransitive Alternation (A>S)	Never	
+German	58	SCREAM	schreien	Anticausative Alternation	Never	
+German	58	SCREAM	schreien	be- Alternation (I)	Never	
+German	58	SCREAM	schreien	be- Alternation (II)	Never	
+German	58	SCREAM	schreien	Benefactive Alternation	Never	
+German	58	SCREAM	schreien	Cognate Object Insertion	Marginally	
+German	58	SCREAM	schreien	er- Alternation	Never	
+German	58	SCREAM	schreien	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	58	SCREAM	schreien	Instrument Subject Alternation	Never	
+German	58	SCREAM	schreien	Object Omission Alternation	Never	
+German	58	SCREAM	schreien	Passive with sein	Never	
+German	58	SCREAM	schreien	Passive with werden	Never	
+German	58	SCREAM	schreien	Prepositional Alternation	Never	
+German	58	SCREAM	schreien	ver- Alternation	Never	
+German	59	FEEL PAIN	weh tun	Ambitransitive Alternation (A>S)	Never	
+German	59	FEEL PAIN	weh tun	Anticausative Alternation	Never	
+German	59	FEEL PAIN	weh tun	be- Alternation (I)	Never	
+German	59	FEEL PAIN	weh tun	be- Alternation (II)	Never	
+German	59	FEEL PAIN	weh tun	Benefactive Alternation	Never	
+German	59	FEEL PAIN	weh tun	Cognate Object Insertion	Never	
+German	59	FEEL PAIN	weh tun	er- Alternation	Never	
+German	59	FEEL PAIN	weh tun	Impersonal Passive	Never	
+German	59	FEEL PAIN	weh tun	Instrument Subject Alternation	Never	
+German	59	FEEL PAIN	weh tun	Object Omission Alternation	Never	
+German	59	FEEL PAIN	weh tun	Passive with sein	Never	
+German	59	FEEL PAIN	weh tun	Passive with werden	Never	
+German	59	FEEL PAIN	weh tun	Prepositional Alternation	Never	
+German	59	FEEL PAIN	weh tun	ver- Alternation	Never	
+German	60	FEEL COLD	kalt sein	Ambitransitive Alternation (A>S)	Never	
+German	60	FEEL COLD	kalt sein	Anticausative Alternation	Never	
+German	60	FEEL COLD	kalt sein	be- Alternation (I)	Never	
+German	60	FEEL COLD	kalt sein	be- Alternation (II)	Never	
+German	60	FEEL COLD	kalt sein	Benefactive Alternation	Never	
+German	60	FEEL COLD	kalt sein	Cognate Object Insertion	Never	
+German	60	FEEL COLD	kalt sein	er- Alternation	Never	
+German	60	FEEL COLD	kalt sein	Impersonal Passive	Never	
+German	60	FEEL COLD	kalt sein	Instrument Subject Alternation	Never	
+German	60	FEEL COLD	kalt sein	Object Omission Alternation	Never	
+German	60	FEEL COLD	kalt sein	Passive with sein	Never	
+German	60	FEEL COLD	kalt sein	Passive with werden	Never	
+German	60	FEEL COLD	kalt sein	Prepositional Alternation	Never	
+German	60	FEEL COLD	kalt sein	ver- Alternation	Never	
+German	61	DIE	sterben	Ambitransitive Alternation (A>S)	Never	
+German	61	DIE	sterben	Anticausative Alternation	Never	
+German	61	DIE	sterben	be- Alternation (I)	Never	
+German	61	DIE	sterben	be- Alternation (II)	Never	
+German	61	DIE	sterben	Benefactive Alternation	Never	
+German	61	DIE	sterben	Cognate Object Insertion	Never	
+German	61	DIE	sterben	er- Alternation	Never	
+German	61	DIE	sterben	Impersonal Passive	Marginally	
+German	61	DIE	sterben	Instrument Subject Alternation	Never	
+German	61	DIE	sterben	Object Omission Alternation	Never	
+German	61	DIE	sterben	Passive with sein	Never	
+German	61	DIE	sterben	Passive with werden	Never	
+German	61	DIE	sterben	Prepositional Alternation	Never	
+German	61	DIE	sterben	ver- Alternation	Never	
+German	62	PLAY	spielen	Ambitransitive Alternation (A>S)	Never	
+German	62	PLAY	spielen	Anticausative Alternation	Never	
+German	62	PLAY	spielen	be- Alternation (I)	Never	
+German	62	PLAY	spielen	be- Alternation (II)	Never	
+German	62	PLAY	spielen	Benefactive Alternation	Never	
+German	62	PLAY	spielen	Cognate Object Insertion	Regularly	1-nom V'.subj[1] 2-acc
+German	62	PLAY	spielen	er- Alternation	Never	
+German	62	PLAY	spielen	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	62	PLAY	spielen	Instrument Subject Alternation	Never	
+German	62	PLAY	spielen	Object Omission Alternation	Never	
+German	62	PLAY	spielen	Passive with sein	Never	
+German	62	PLAY	spielen	Passive with werden	Never	
+German	62	PLAY	spielen	Prepositional Alternation	Never	
+German	62	PLAY	spielen	ver- Alternation	Never	
+German	63	BE SAD	trauern	Ambitransitive Alternation (A>S)	Never	
+German	63	BE SAD	trauern	Anticausative Alternation	Never	
+German	63	BE SAD	trauern	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 2-acc
+German	63	BE SAD	trauern	be- Alternation (II)	Never	
+German	63	BE SAD	trauern	Benefactive Alternation	Never	
+German	63	BE SAD	trauern	Cognate Object Insertion	Never	
+German	63	BE SAD	trauern	er- Alternation	Never	
+German	63	BE SAD	trauern	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	63	BE SAD	trauern	Instrument Subject Alternation	Never	
+German	63	BE SAD	trauern	Object Omission Alternation	Never	
+German	63	BE SAD	trauern	Passive with sein		
+German	63	BE SAD	trauern	Passive with werden	Marginally	
+German	63	BE SAD	trauern	Prepositional Alternation	Never	
+German	63	BE SAD	trauern	ver- Alternation	Never	
+German	63	BE SAD	traurig sein	Ambitransitive Alternation (A>S)	Never	
+German	63	BE SAD	traurig sein	Anticausative Alternation	Never	
+German	63	BE SAD	traurig sein	be- Alternation (I)	Never	
+German	63	BE SAD	traurig sein	be- Alternation (II)	Never	
+German	63	BE SAD	traurig sein	Benefactive Alternation	Never	
+German	63	BE SAD	traurig sein	Cognate Object Insertion	Never	
+German	63	BE SAD	traurig sein	er- Alternation	Never	
+German	63	BE SAD	traurig sein	Impersonal Passive	Never	
+German	63	BE SAD	traurig sein	Instrument Subject Alternation	Never	
+German	63	BE SAD	traurig sein	Object Omission Alternation	Never	
+German	63	BE SAD	traurig sein	Passive with sein	Never	
+German	63	BE SAD	traurig sein	Passive with werden	Never	
+German	63	BE SAD	traurig sein	Prepositional Alternation	Never	
+German	63	BE SAD	traurig sein	ver- Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	Ambitransitive Alternation (A>S)	Never	
+German	64	BE HUNGRY	Hunger haben	Anticausative Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	be- Alternation (I)	Never	
+German	64	BE HUNGRY	Hunger haben	be- Alternation (II)	Never	
+German	64	BE HUNGRY	Hunger haben	Benefactive Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	Cognate Object Insertion	Never	
+German	64	BE HUNGRY	Hunger haben	er- Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	Impersonal Passive	Marginally	
+German	64	BE HUNGRY	Hunger haben	Instrument Subject Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	Object Omission Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	Passive with sein	Never	
+German	64	BE HUNGRY	Hunger haben	Passive with werden	Never	
+German	64	BE HUNGRY	Hunger haben	Prepositional Alternation	Never	
+German	64	BE HUNGRY	Hunger haben	ver- Alternation	Never	
+German	65	ROLL	rollen	Ambitransitive Alternation (A>S)	Never	
+German	65	ROLL	rollen	Anticausative Alternation	Never	
+German	65	ROLL	rollen	be- Alternation (I)	Never	
+German	65	ROLL	rollen	be- Alternation (II)	Never	
+German	65	ROLL	rollen	Benefactive Alternation	Never	
+German	65	ROLL	rollen	Cognate Object Insertion	Never	
+German	65	ROLL	rollen	er- Alternation	Never	
+German	65	ROLL	rollen	Impersonal Passive	Never	
+German	65	ROLL	rollen	Instrument Subject Alternation	Never	
+German	65	ROLL	rollen	Object Omission Alternation	Never	
+German	65	ROLL	rollen	Passive with sein	Never	
+German	65	ROLL	rollen	Passive with werden	Never	
+German	65	ROLL	rollen	Prepositional Alternation	Never	
+German	65	ROLL	rollen	ver- Alternation	Never	
+German	66	SINK	sinken	Ambitransitive Alternation (A>S)	Never	
+German	66	SINK	sinken	Anticausative Alternation	Never	
+German	66	SINK	sinken	be- Alternation (I)	Never	
+German	66	SINK	sinken	be- Alternation (II)	Never	
+German	66	SINK	sinken	Benefactive Alternation	Never	
+German	66	SINK	sinken	Cognate Object Insertion	Never	
+German	66	SINK	sinken	er- Alternation	Never	
+German	66	SINK	sinken	Impersonal Passive	Never	
+German	66	SINK	sinken	Instrument Subject Alternation	Never	
+German	66	SINK	sinken	Object Omission Alternation	Never	
+German	66	SINK	sinken	Passive with sein		
+German	66	SINK	sinken	Passive with werden	Never	
+German	66	SINK	sinken	Prepositional Alternation	Never	
+German	66	SINK	sinken	ver- Alternation	Never	
+German	67	BURN	brennen	Ambitransitive Alternation (A>S)	Never	
+German	67	BURN	brennen	Anticausative Alternation	Never	
+German	67	BURN	brennen	be- Alternation (I)	Never	
+German	67	BURN	brennen	be- Alternation (II)	Never	
+German	67	BURN	brennen	Benefactive Alternation	Never	
+German	67	BURN	brennen	Cognate Object Insertion	Never	
+German	67	BURN	brennen	er- Alternation	Never	
+German	67	BURN	brennen	Impersonal Passive	Never	
+German	67	BURN	brennen	Instrument Subject Alternation	Never	
+German	67	BURN	brennen	Object Omission Alternation	Never	
+German	67	BURN	brennen	Passive with sein	Marginally	
+German	67	BURN	brennen	Passive with werden	Never	
+German	67	BURN	brennen	Prepositional Alternation	Never	
+German	67	BURN	brennen	ver- Alternation	Never	
+German	68	BE DRY	trocken sein	Ambitransitive Alternation (A>S)	Never	
+German	68	BE DRY	trocken sein	Anticausative Alternation	Never	
+German	68	BE DRY	trocken sein	be- Alternation (I)	Never	
+German	68	BE DRY	trocken sein	be- Alternation (II)	Never	
+German	68	BE DRY	trocken sein	Benefactive Alternation	Never	
+German	68	BE DRY	trocken sein	Cognate Object Insertion	Never	
+German	68	BE DRY	trocken sein	er- Alternation	Never	
+German	68	BE DRY	trocken sein	Impersonal Passive	Never	
+German	68	BE DRY	trocken sein	Instrument Subject Alternation	Never	
+German	68	BE DRY	trocken sein	Object Omission Alternation	Never	
+German	68	BE DRY	trocken sein	Passive with sein	Never	
+German	68	BE DRY	trocken sein	Passive with werden	Never	
+German	68	BE DRY	trocken sein	Prepositional Alternation	Never	
+German	68	BE DRY	trocken sein	ver- Alternation	Never	
+German	69	RAIN	regnen	Ambitransitive Alternation (A>S)	Never	
+German	69	RAIN	regnen	Anticausative Alternation	Never	
+German	69	RAIN	regnen	be- Alternation (I)	Never	
+German	69	RAIN	regnen	be- Alternation (II)	Never	
+German	69	RAIN	regnen	Benefactive Alternation	Never	
+German	69	RAIN	regnen	Cognate Object Insertion	Marginally	
+German	69	RAIN	regnen	er- Alternation	Never	
+German	69	RAIN	regnen	Impersonal Passive	Never	
+German	69	RAIN	regnen	Instrument Subject Alternation	Never	
+German	69	RAIN	regnen	Object Omission Alternation	Never	
+German	69	RAIN	regnen	Passive with sein	Never	
+German	69	RAIN	regnen	Passive with werden	Never	
+German	69	RAIN	regnen	Prepositional Alternation	Never	
+German	69	RAIN	regnen	ver- Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	Ambitransitive Alternation (A>S)	Never	
+German	70	BE A HUNTER	Jäger sein	Anticausative Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	be- Alternation (I)	Never	
+German	70	BE A HUNTER	Jäger sein	be- Alternation (II)	Never	
+German	70	BE A HUNTER	Jäger sein	Benefactive Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	Cognate Object Insertion	Never	
+German	70	BE A HUNTER	Jäger sein	er- Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	Impersonal Passive	Never	
+German	70	BE A HUNTER	Jäger sein	Instrument Subject Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	Object Omission Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	Passive with sein		
+German	70	BE A HUNTER	Jäger sein	Passive with werden	Never	
+German	70	BE A HUNTER	Jäger sein	Prepositional Alternation	Never	
+German	70	BE A HUNTER	Jäger sein	ver- Alternation	Never	
+German	71	GRIND	mahlen	Ambitransitive Alternation (A>S)	Never	
+German	71	GRIND	mahlen	Anticausative Alternation	Never	
+German	71	GRIND	mahlen	be- Alternation (I)	Never	
+German	71	GRIND	mahlen	be- Alternation (II)	Never	
+German	71	GRIND	mahlen	Benefactive Alternation	Marginally	
+German	71	GRIND	mahlen	Cognate Object Insertion	Never	
+German	71	GRIND	mahlen	er- Alternation	Never	
+German	71	GRIND	mahlen	Impersonal Passive	Never	
+German	71	GRIND	mahlen	Instrument Subject Alternation	Regularly	4-nom V'.subj[4] 2-acc
+German	71	GRIND	mahlen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	71	GRIND	mahlen	Passive with sein		
+German	71	GRIND	mahlen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	71	GRIND	mahlen	Prepositional Alternation	Never	
+German	71	GRIND	mahlen	ver- Alternation	Never	
+German	72	WIPE	wischen	Ambitransitive Alternation (A>S)	Never	
+German	72	WIPE	wischen	Anticausative Alternation	Never	
+German	72	WIPE	wischen	be- Alternation (I)	Never	
+German	72	WIPE	wischen	be- Alternation (II)	Never	
+German	72	WIPE	wischen	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc LOC3
+German	72	WIPE	wischen	Cognate Object Insertion	Never	
+German	72	WIPE	wischen	er- Alternation	Never	
+German	72	WIPE	wischen	Impersonal Passive	Never	
+German	72	WIPE	wischen	Instrument Subject Alternation	Never	
+German	72	WIPE	wischen	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	72	WIPE	wischen	Passive with sein		
+German	72	WIPE	wischen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	72	WIPE	wischen	Prepositional Alternation	Never	
+German	72	WIPE	wischen	ver- Alternation	Never	
+German	73	DIG	graben	Ambitransitive Alternation (A>S)	Never	
+German	73	DIG	graben	Anticausative Alternation	Never	
+German	73	DIG	graben	be- Alternation (I)	Never	
+German	73	DIG	graben	be- Alternation (II)	Never	
+German	73	DIG	graben	Benefactive Alternation	Marginally	
+German	73	DIG	graben	Cognate Object Insertion	Never	
+German	73	DIG	graben	er- Alternation	Marginally	
+German	73	DIG	graben	Impersonal Passive	Regularly	x-nom passV'.subj[x] (nach+2-dat)
+German	73	DIG	graben	Instrument Subject Alternation	Never	
+German	73	DIG	graben	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	73	DIG	graben	Passive with sein		
+German	73	DIG	graben	Passive with werden	Never	
+German	73	DIG	graben	Prepositional Alternation	Never	
+German	73	DIG	graben	ver- Alternation	Never	
+German	74	PUSH	schieben	Ambitransitive Alternation (A>S)	Never	
+German	74	PUSH	schieben	Anticausative Alternation	Never	
+German	74	PUSH	schieben	be- Alternation (I)	Never	
+German	74	PUSH	schieben	be- Alternation (II)	Never	
+German	74	PUSH	schieben	Benefactive Alternation	Regularly	1-nom V'.subj[1] 4-dat 2-acc LOC3
+German	74	PUSH	schieben	Cognate Object Insertion	Never	
+German	74	PUSH	schieben	er- Alternation	Never	
+German	74	PUSH	schieben	Impersonal Passive	Never	
+German	74	PUSH	schieben	Instrument Subject Alternation	Marginally	
+German	74	PUSH	schieben	Object Omission Alternation	Never	
+German	74	PUSH	schieben	Passive with sein		
+German	74	PUSH	schieben	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	74	PUSH	schieben	Prepositional Alternation	Never	
+German	74	PUSH	schieben	ver- Alternation	Never	
+German	74	PUSH	schubsen	Ambitransitive Alternation (A>S)	Never	
+German	74	PUSH	schubsen	Anticausative Alternation	Never	
+German	74	PUSH	schubsen	be- Alternation (I)	Never	
+German	74	PUSH	schubsen	be- Alternation (II)	Never	
+German	74	PUSH	schubsen	Benefactive Alternation	Never	
+German	74	PUSH	schubsen	Cognate Object Insertion	Never	
+German	74	PUSH	schubsen	er- Alternation	Never	
+German	74	PUSH	schubsen	Impersonal Passive	Never	
+German	74	PUSH	schubsen	Instrument Subject Alternation	Marginally	
+German	74	PUSH	schubsen	Object Omission Alternation	Never	
+German	74	PUSH	schubsen	Passive with sein		
+German	74	PUSH	schubsen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	74	PUSH	schubsen	Prepositional Alternation	Never	
+German	74	PUSH	schubsen	ver- Alternation	Never	
+German	74	PUSH	stoßen	Ambitransitive Alternation (A>S)	Never	
+German	74	PUSH	stoßen	Anticausative Alternation	Never	
+German	74	PUSH	stoßen	be- Alternation (I)	Never	
+German	74	PUSH	stoßen	be- Alternation (II)	Never	
+German	74	PUSH	stoßen	Benefactive Alternation	Never	
+German	74	PUSH	stoßen	Cognate Object Insertion	Never	
+German	74	PUSH	stoßen	er- Alternation	Never	
+German	74	PUSH	stoßen	Impersonal Passive	Never	
+German	74	PUSH	stoßen	Instrument Subject Alternation	Marginally	
+German	74	PUSH	stoßen	Object Omission Alternation	Never	
+German	74	PUSH	stoßen	Passive with sein		
+German	74	PUSH	stoßen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat) LOC3
+German	74	PUSH	stoßen	Prepositional Alternation	Never	
+German	74	PUSH	stoßen	ver- Alternation	Never	
+German	75	BRING	bringen	Ambitransitive Alternation (A>S)	Never	
+German	75	BRING	bringen	Anticausative Alternation	Never	
+German	75	BRING	bringen	be- Alternation (I)	Never	
+German	75	BRING	bringen	be- Alternation (II)	Never	
+German	75	BRING	bringen	Benefactive Alternation	Never	
+German	75	BRING	bringen	Cognate Object Insertion	Never	
+German	75	BRING	bringen	er- Alternation	Never	
+German	75	BRING	bringen	Impersonal Passive	Never	
+German	75	BRING	bringen	Instrument Subject Alternation	Never	
+German	75	BRING	bringen	Object Omission Alternation	Never	
+German	75	BRING	bringen	Passive with sein		
+German	75	BRING	bringen	Passive with werden	Regularly	3-nom passV'.subj[3] 2-dat (von+1-dat)
+German	75	BRING	bringen	Prepositional Alternation	Regularly	1-nom V'.subj[1] 3-acc (prep+2-case)
+German	75	BRING	bringen	ver- Alternation	Never	
+German	76	STEAL	stehlen	Ambitransitive Alternation (A>S)	Never	
+German	76	STEAL	stehlen	Anticausative Alternation	Never	
+German	76	STEAL	stehlen	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 2-acc
+German	76	STEAL	stehlen	be- Alternation (II)	Never	
+German	76	STEAL	stehlen	Benefactive Alternation	Never	
+German	76	STEAL	stehlen	Cognate Object Insertion	Never	
+German	76	STEAL	stehlen	er- Alternation	Never	
+German	76	STEAL	stehlen	Impersonal Passive	Never	
+German	76	STEAL	stehlen	Instrument Subject Alternation	Never	
+German	76	STEAL	stehlen	Object Omission Alternation	Marginally	
+German	76	STEAL	stehlen	Passive with sein		
+German	76	STEAL	stehlen	Passive with werden	Regularly	3-nom passV'.subj[3] 2-dat (von+1-dat)
+German	76	STEAL	stehlen	Prepositional Alternation	Regularly	1-nom V'.subj[1] 3-acc (prep+2-case)
+German	76	STEAL	stehlen	ver- Alternation	Never	
+German	77	TEACH	beibringen	Ambitransitive Alternation (A>S)	Never	
+German	77	TEACH	beibringen	Anticausative Alternation	Never	
+German	77	TEACH	beibringen	be- Alternation (I)	Never	
+German	77	TEACH	beibringen	be- Alternation (II)	Never	
+German	77	TEACH	beibringen	Benefactive Alternation	Never	
+German	77	TEACH	beibringen	Cognate Object Insertion	Never	
+German	77	TEACH	beibringen	er- Alternation	Never	
+German	77	TEACH	beibringen	Impersonal Passive	Never	
+German	77	TEACH	beibringen	Instrument Subject Alternation	Never	
+German	77	TEACH	beibringen	Object Omission Alternation	Never	
+German	77	TEACH	beibringen	Passive with sein		
+German	77	TEACH	beibringen	Passive with werden	Regularly	3-nom passV'.subj[3] 2-dat (von+1-dat)
+German	77	TEACH	beibringen	Prepositional Alternation	Never	
+German	77	TEACH	beibringen	ver- Alternation	Never	
+German	77	TEACH	lehren	Ambitransitive Alternation (A>S)	Never	
+German	77	TEACH	lehren	Anticausative Alternation	Never	
+German	77	TEACH	lehren	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	77	TEACH	lehren	be- Alternation (II)	Never	
+German	77	TEACH	lehren	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	77	TEACH	lehren	Cognate Object Insertion	Never	
+German	77	TEACH	lehren	er- Alternation	Never	
+German	77	TEACH	lehren	Impersonal Passive	Regularly	x-nom passV'.subj[x] 2-nom
+German	77	TEACH	lehren	Instrument Subject Alternation	Never	
+German	77	TEACH	lehren	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	77	TEACH	lehren	Passive with sein	Never	
+German	77	TEACH	lehren	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	77	TEACH	lehren	Prepositional Alternation	Never	
+German	77	TEACH	lehren	ver- Alternation	Never	
+German	78	HEAR	hören	Ambitransitive Alternation (A>S)	Never	
+German	78	HEAR	hören	Anticausative Alternation	Never	
+German	78	HEAR	hören	be- Alternation (I)	Never	
+German	78	HEAR	hören	be- Alternation (II)	Never	
+German	78	HEAR	hören	Benefactive Alternation	Never	
+German	78	HEAR	hören	Cognate Object Insertion	Never	
+German	78	HEAR	hören	er- Alternation	Never	
+German	78	HEAR	hören	Impersonal Passive	Never	
+German	78	HEAR	hören	Instrument Subject Alternation	Never	
+German	78	HEAR	hören	Object Omission Alternation	Never	
+German	78	HEAR	hören	Passive with sein		
+German	78	HEAR	hören	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	78	HEAR	hören	Prepositional Alternation	Never	
+German	78	HEAR	hören	ver- Alternation	Never	
+German	79	COOK	kochen (1)	Ambitransitive Alternation (A>S)	Regularly	2-nom V'.subj[2]
+German	79	COOK	kochen (1)	Anticausative Alternation	Never	
+German	79	COOK	kochen (1)	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	79	COOK	kochen (1)	be- Alternation (II)	Never	
+German	79	COOK	kochen (1)	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	79	COOK	kochen (1)	Cognate Object Insertion	Never	
+German	79	COOK	kochen (1)	er- Alternation	Never	
+German	79	COOK	kochen (1)	Impersonal Passive	Never	
+German	79	COOK	kochen (1)	Instrument Subject Alternation	Never	
+German	79	COOK	kochen (1)	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	79	COOK	kochen (1)	Passive with sein		
+German	79	COOK	kochen (1)	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	79	COOK	kochen (1)	Prepositional Alternation	Never	
+German	79	COOK	kochen (1)	ver- Alternation	Never	
+German	80	BOIL	kochen (2)	Ambitransitive Alternation (A>S)	Never	
+German	80	BOIL	kochen (2)	Anticausative Alternation	Never	
+German	80	BOIL	kochen (2)	be- Alternation (I)	Never	
+German	80	BOIL	kochen (2)	be- Alternation (II)	Never	
+German	80	BOIL	kochen (2)	Benefactive Alternation	Never	
+German	80	BOIL	kochen (2)	Cognate Object Insertion	Never	
+German	80	BOIL	kochen (2)	er- Alternation	Never	
+German	80	BOIL	kochen (2)	Impersonal Passive	Never	
+German	80	BOIL	kochen (2)	Instrument Subject Alternation	Never	
+German	80	BOIL	kochen (2)	Object Omission Alternation	Never	
+German	80	BOIL	kochen (2)	Passive with sein	Never	
+German	80	BOIL	kochen (2)	Passive with werden	Never	
+German	80	BOIL	kochen (2)	Prepositional Alternation	Never	
+German	80	BOIL	kochen (2)	ver- Alternation	Never	
+German	81	APPEAR	erscheinen	Ambitransitive Alternation (A>S)	Never	
+German	81	APPEAR	erscheinen	Anticausative Alternation	Never	
+German	81	APPEAR	erscheinen	be- Alternation (I)	Never	
+German	81	APPEAR	erscheinen	be- Alternation (II)	Never	
+German	81	APPEAR	erscheinen	Benefactive Alternation	Marginally	
+German	81	APPEAR	erscheinen	Cognate Object Insertion	Never	
+German	81	APPEAR	erscheinen	er- Alternation	Never	
+German	81	APPEAR	erscheinen	Impersonal Passive	Marginally	
+German	81	APPEAR	erscheinen	Instrument Subject Alternation	Never	
+German	81	APPEAR	erscheinen	Object Omission Alternation	Never	
+German	81	APPEAR	erscheinen	Passive with sein		
+German	81	APPEAR	erscheinen	Passive with werden	Never	
+German	81	APPEAR	erscheinen	Prepositional Alternation	Never	
+German	81	APPEAR	erscheinen	ver- Alternation	Never	
+German	82	BE ILL	krank sein	Ambitransitive Alternation (A>S)	Never	
+German	82	BE ILL	krank sein	Anticausative Alternation	Never	
+German	82	BE ILL	krank sein	be- Alternation (I)	Never	
+German	82	BE ILL	krank sein	be- Alternation (II)	Never	
+German	82	BE ILL	krank sein	Benefactive Alternation	Never	
+German	82	BE ILL	krank sein	Cognate Object Insertion	Never	
+German	82	BE ILL	krank sein	er- Alternation	Never	
+German	82	BE ILL	krank sein	Impersonal Passive	Never	
+German	82	BE ILL	krank sein	Instrument Subject Alternation	Never	
+German	82	BE ILL	krank sein	Object Omission Alternation	Never	
+German	82	BE ILL	krank sein	Passive with sein	Never	
+German	82	BE ILL	krank sein	Passive with werden	Never	
+German	82	BE ILL	krank sein	Prepositional Alternation	Never	
+German	82	BE ILL	krank sein	ver- Alternation	Never	
+German	83	CRY	weinen	Ambitransitive Alternation (A>S)	Never	
+German	83	CRY	weinen	Anticausative Alternation	Never	
+German	83	CRY	weinen	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 2-acc
+German	83	CRY	weinen	be- Alternation (II)	Never	
+German	83	CRY	weinen	Benefactive Alternation	Never	
+German	83	CRY	weinen	Cognate Object Insertion	Never	
+German	83	CRY	weinen	er- Alternation	Never	
+German	83	CRY	weinen	Impersonal Passive	Regularly	x-nom passV'.subj[x]
+German	83	CRY	weinen	Instrument Subject Alternation	Never	
+German	83	CRY	weinen	Object Omission Alternation	Never	
+German	83	CRY	weinen	Passive with sein		
+German	83	CRY	weinen	Passive with werden	Never	
+German	83	CRY	weinen	Prepositional Alternation	Never	
+German	83	CRY	weinen	ver- Alternation	Never	
+German	84	FALL	fallen	Ambitransitive Alternation (A>S)	Never	
+German	84	FALL	fallen	Anticausative Alternation	Never	
+German	84	FALL	fallen	be- Alternation (I)	Never	
+German	84	FALL	fallen	be- Alternation (II)	Never	
+German	84	FALL	fallen	Benefactive Alternation	Never	
+German	84	FALL	fallen	Cognate Object Insertion	Never	
+German	84	FALL	fallen	er- Alternation	Never	
+German	84	FALL	fallen	Impersonal Passive	Marginally	
+German	84	FALL	fallen	Instrument Subject Alternation	Never	
+German	84	FALL	fallen	Object Omission Alternation	Never	
+German	84	FALL	fallen	Passive with sein		
+German	84	FALL	fallen	Passive with werden	Never	
+German	84	FALL	fallen	Prepositional Alternation	Never	
+German	84	FALL	fallen	ver- Alternation	Never	
+German	85	MAKE	machen	Ambitransitive Alternation (A>S)	Never	
+German	85	MAKE	machen	Anticausative Alternation	Never	
+German	85	MAKE	machen	be- Alternation (I)	Never	
+German	85	MAKE	machen	be- Alternation (II)	Never	
+German	85	MAKE	machen	Benefactive Alternation	Marginally	
+German	85	MAKE	machen	Cognate Object Insertion	Never	
+German	85	MAKE	machen	er- Alternation	Never	
+German	85	MAKE	machen	Impersonal Passive	Never	
+German	85	MAKE	machen	Instrument Subject Alternation	Never	
+German	85	MAKE	machen	Object Omission Alternation	Never	
+German	85	MAKE	machen	Passive with sein		
+German	85	MAKE	machen	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	85	MAKE	machen	Prepositional Alternation	Never	
+German	85	MAKE	machen	ver- Alternation	Never	
+German	86	GET	bekommen	Ambitransitive Alternation (A>S)	Never	
+German	86	GET	bekommen	Anticausative Alternation	Never	
+German	86	GET	bekommen	be- Alternation (I)	Never	
+German	86	GET	bekommen	be- Alternation (II)	Never	
+German	86	GET	bekommen	Benefactive Alternation	Never	
+German	86	GET	bekommen	Cognate Object Insertion	Never	
+German	86	GET	bekommen	er- Alternation	Never	
+German	86	GET	bekommen	Impersonal Passive	Never	
+German	86	GET	bekommen	Instrument Subject Alternation	Never	
+German	86	GET	bekommen	Object Omission Alternation	Never	
+German	86	GET	bekommen	Passive with sein		
+German	86	GET	bekommen	Passive with werden	Never	
+German	86	GET	bekommen	Prepositional Alternation	Never	
+German	86	GET	bekommen	ver- Alternation	Never	
+German	87	WANT	wollen	Ambitransitive Alternation (A>S)	Never	
+German	87	WANT	wollen	Anticausative Alternation	Never	
+German	87	WANT	wollen	be- Alternation (I)	Never	
+German	87	WANT	wollen	be- Alternation (II)	Never	
+German	87	WANT	wollen	Benefactive Alternation	Never	
+German	87	WANT	wollen	Cognate Object Insertion	Never	
+German	87	WANT	wollen	er- Alternation	Never	
+German	87	WANT	wollen	Impersonal Passive	Marginally	
+German	87	WANT	wollen	Instrument Subject Alternation	Never	
+German	87	WANT	wollen	Object Omission Alternation	Marginally	
+German	87	WANT	wollen	Passive with sein		
+German	87	WANT	wollen	Passive with werden	Marginally	
+German	87	WANT	wollen	Prepositional Alternation	Never	
+German	87	WANT	wollen	ver- Alternation	Never	
+German	126	BOIL (tr)	kochen (1)	Ambitransitive Alternation (A>S)	Regularly	2-nom V'.subj[2]
+German	126	BOIL (tr)	kochen (1)	Anticausative Alternation	Never	
+German	126	BOIL (tr)	kochen (1)	be- Alternation (I)	Regularly	1-nom beV'.subj[1] 3-acc (mit+2-dat)
+German	126	BOIL (tr)	kochen (1)	be- Alternation (II)	Never	
+German	126	BOIL (tr)	kochen (1)	Benefactive Alternation	Regularly	1-nom V'.subj[1] 3-dat 2-acc
+German	126	BOIL (tr)	kochen (1)	Cognate Object Insertion	Never	
+German	126	BOIL (tr)	kochen (1)	er- Alternation	Never	
+German	126	BOIL (tr)	kochen (1)	Impersonal Passive	Never	
+German	126	BOIL (tr)	kochen (1)	Instrument Subject Alternation	Never	
+German	126	BOIL (tr)	kochen (1)	Object Omission Alternation	Regularly	1-nom V'.subj[1]
+German	126	BOIL (tr)	kochen (1)	Passive with sein		
+German	126	BOIL (tr)	kochen (1)	Passive with werden	Regularly	2-nom passV'.subj[2] (von+1-dat)
+German	126	BOIL (tr)	kochen (1)	Prepositional Alternation	Never	
+German	126	BOIL (tr)	kochen (1)	ver- Alternation	Never	

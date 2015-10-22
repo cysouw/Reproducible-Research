@@ -1,0 +1,18 @@
+{
+    "contents" : "#' ---\n#' title: \"Analysis of ValPal data\"\n#' author: \"Michael Cysouw\"\n#' date: \"30 September 2015\"\n#' ---\n\n# make html-version of this manual with:\n# rmarkdown::render(\"manual.R\")\n#+ fig.width = 7, fig.height = 7\n\n# install visualisations from github\n# only necessary once\n# install.packages(\"devtools\")\n# devtools::install_github(\"cysouw/qlcVisualize\")\nlibrary(qlcVisualize)\n\n# load ad-hoc functions\nsource(\"code/adhocfunctions.R\")\n\n# read data, selecting only basic coding frames\ndata <- read.valpal(\"data\")\n\n# distances between microroles ignoring frequencies below 5 languages\n# for distances, separate coding into parts\n# returns a distance and a new data matrix!\nd <- role.dist(data, ignore = 5, separate = TRUE)\n\n# multidimensional scaling\np <- cmdscale(d$dist)\n\n# ad-hoc condensing of dimension 1 for nicer display\np[,1] <- abs(p[,1])^2 * sign(p[,1])\n\n# show roles\nplot(p, type = \"n\", axes =  FALSE, xlab = \"\", ylab = \"\")\ntext(p, labels = rownames(d$dist), cex = 0.5)\n\n# semantic map, based internally on lmap() from qlcVisualize\n# setting parameters to get suitable visualization\n\ntmp <- function(x) {\n\t\tsemantic.map(p, x, d$data\n\t\t\t\t\t, draw = 5\n\t\t\t\t\t, levels = 0.2\n\t\t\t\t\t, cex = 0.7\n\t\t\t\t\t, density = 0.1\n\t\t\t\t\t, box = 0.2\n\t\t\t\t\t, position = \"topright\"\n\t\t\t\t\t, font = \"CharisSIL\"\n\t\t\t\t\t, note = FALSE\n\t\t\t\t\t, cex.legend = 0.7\n\t\t\t\t\t, tightness = 0.01\n\t\t\t\t\t) }\n\ntmp(\"Chintang\")\ntmp(\"Bezhta\")\ntmp(\"Nen\")\ntmp(\"Yupik\")\ntmp(\"Hooc\")\ntmp(\"Jaminjung\")\n",
+    "created" : 1443545111887.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1218096671",
+    "id" : "2585964",
+    "lastKnownWriteTime" : 1443612532,
+    "path" : "~/Desktop/valency/manual.R",
+    "project_path" : "manual.R",
+    "properties" : {
+        "notebook_format" : "html_document"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

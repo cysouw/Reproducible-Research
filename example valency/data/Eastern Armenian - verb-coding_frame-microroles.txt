@@ -1,0 +1,270 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Eastern Armenian	1	EAT	utel	Basic	1-nom 2-nomdat V.subj[1]	1	eater	NP-nom V.subj	A
+Eastern Armenian	1	EAT	utel	Basic	1-nom 2-nomdat V.subj[1]	2	eaten food	NP-nomdat	P
+Eastern Armenian	2	HUG	gɾkel	Basic	1-nom 2-nomdat V.subj[1]	1	hugger	NP-nom V.subj	A
+Eastern Armenian	2	HUG	gɾkel	Basic	1-nom 2-nomdat V.subj[1]	2	huggee	NP-nomdat	P
+Eastern Armenian	3	LOOK AT	najel	Basic	1-nom 2-dat V.subj[1]	1	looker	NP-nom V.subj	S
+Eastern Armenian	3	LOOK AT	najel	Basic	1-nom 2-dat V.subj[1]	2	looked at entity	NP-dat	X
+Eastern Armenian	3	LOOK AT	najel	Derived	1/2-nom V'.subj[1/2]	1	looker	NP-nom V.subj	
+Eastern Armenian	3	LOOK AT	najel	Derived	1/2-nom V'.subj[1/2]	2	looked at entity	NP-nom V.subj	
+Eastern Armenian	4	SEE	tesnel	Basic	1-nom 2-nomdat V.subj[1]	1	seeer	NP-nom V.subj	A
+Eastern Armenian	4	SEE	tesnel	Basic	1-nom 2-nomdat V.subj[1]	2	seen entity	NP-nomdat	P
+Eastern Armenian	5	SMELL	hot arnel	Basic	1-nom 2-gen V.subj[1]	1	smeller	NP-nom V.subj	S
+Eastern Armenian	5	SMELL	hot arnel	Basic	1-nom 2-gen V.subj[1]	2	smelled entity	NP-gen	X
+Eastern Armenian	5	SMELL	hototel	Basic	1-nom 2-nomdat V.subj[1]	1	smeller	NP-nom V.subj	A
+Eastern Armenian	5	SMELL	hototel	Basic	1-nom 2-nomdat V.subj[1]	2	smelled entity	NP-nomdat	P
+Eastern Armenian	6	FEAR	vaχenal	Basic	1-nom 2-abl V.subj[1]	1	fearer	NP-nom V.subj	S
+Eastern Armenian	6	FEAR	vaχenal	Basic	1-nom 2-abl V.subj[1]	2	fear stimulus	NP-abl	X
+Eastern Armenian	6	FEAR	vaχenal	Derived	4-nom 1-dat causV'.subj[4]	1	fearer	NP-dat	
+Eastern Armenian	6	FEAR	vaχenal	Derived	4-nom 1-dat causV'.subj[4]	4	fear causer	NP-nom V.subj	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Basic	1-nom 2-nomdat V.subj[1]	1	frightener	NP-nom V.subj	A
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Basic	1-nom 2-nomdat V.subj[1]	2	frightenee	NP-nomdat	P
+Eastern Armenian	8	LIKE	dur gal	Basic	1-nom 2-nomdat V.subj[1]	1	liked entity	NP-nom V.subj	A
+Eastern Armenian	8	LIKE	dur gal	Basic	1-nom 2-nomdat V.subj[1]	2	liker	NP-nomdat	P
+Eastern Armenian	8	LIKE	havanel	Basic	1-nom 2-nomdat V.subj[1]	1	liked entity	NP-nom V.subj	A
+Eastern Armenian	8	LIKE	havanel	Basic	1-nom 2-nomdat V.subj[1]	2	liker	NP-nomdat	P
+Eastern Armenian	8	LIKE	siɾel	Basic	1-nom 2-nomdat V.subj[1]	1	liked entity	NP-nom V.subj	A
+Eastern Armenian	8	LIKE	siɾel	Basic	1-nom 2-nomdat V.subj[1]	2	liker	NP-nomdat	P
+Eastern Armenian	9	KNOW	čanačʰel	Basic	1-nom 2-nomdat V.subj[1]	1	knower	NP-nom V.subj	A
+Eastern Armenian	9	KNOW	čanačʰel	Basic	1-nom 2-nomdat V.subj[1]	2	known thing/person	NP-nomdat	P
+Eastern Armenian	10	THINK	mtacel	Basic	1-nom 2+masin V.subj[1]	1	thinker	NP-nom V.subj	S
+Eastern Armenian	10	THINK	mtacel	Basic	1-nom 2+masin V.subj[1]	2	thought content	NP+masin	X
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Basic	1-nom 2-nomdat V.subj[1]	1	searcher	NP-nom V.subj	A
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Basic	1-nom 2-nomdat V.subj[1]	2	searched for thing	NP-nomdat	P
+Eastern Armenian	12	WASH	loʁacʰnel	Basic	1-nom 2-nomdat V.subj[1]	1	washer	NP-nom V.subj	A
+Eastern Armenian	12	WASH	loʁacʰnel	Basic	1-nom 2-nomdat V.subj[1]	2	washed entity	NP-nomdat	P
+Eastern Armenian	12	WASH	lval	Basic	1-nom 2-nomdat V.subj[1]	1	washer	NP-nom V.subj	A
+Eastern Armenian	12	WASH	lval	Basic	1-nom 2-nomdat V.subj[1]	2	washed entity	NP-nomdat	P
+Eastern Armenian	12	WASH	lval	Derived	1/2-nom causmedV'.subj[1/2]	1	washer	NP-nom V.subj	
+Eastern Armenian	12	WASH	lval	Derived	1/2-nom causmedV'.subj[1/2]	2	washed entity	NP-nom V.subj	
+Eastern Armenian	13	DRESS	hagcʰnel	Basic	1-nom 2-nomdat V.subj[1]	1	dresser	NP-nom V.subj	A
+Eastern Armenian	13	DRESS	hagcʰnel	Basic	1-nom 2-nomdat V.subj[1]	2	dressee	NP-nomdat	P
+Eastern Armenian	15	HELP	ognel	Basic	1-nom 2-dat V.subj[1]	1	helper	NP-nom V.subj	S
+Eastern Armenian	15	HELP	ognel	Basic	1-nom 2-dat V.subj[1]	2	helpee	NP-dat	X
+Eastern Armenian	16	FOLLOW	hetevel	Basic	1-nom 2-dat V.subj[1]	1	follower	NP-nom V.subj	S
+Eastern Armenian	16	FOLLOW	hetevel	Basic	1-nom 2-dat V.subj[1]	2	followee	NP-dat	X
+Eastern Armenian	17	MEET	handipel	Basic	1-nom 2-dat V.subj[1]	1	meeter	NP-nom V.subj	S
+Eastern Armenian	17	MEET	handipel	Basic	1-nom 2-dat V.subj[1]	2	met person	NP-dat	X
+Eastern Armenian	18	TALK	χosel	Basic	1-nom 2+het 3+masin V.subj[1]	1	talker	NP-nom V.subj	S
+Eastern Armenian	18	TALK	χosel	Basic	1-nom 2+het 3+masin V.subj[1]	2	talked to person	NP+het	X
+Eastern Armenian	18	TALK	χosel	Basic	1-nom 2+het 3+masin V.subj[1]	3	talked about content	NP+masin	X
+Eastern Armenian	19	ASK FOR	χndɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	asker	NP-nom V.subj	A
+Eastern Armenian	19	ASK FOR	χndɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	requested thing	NP-nomdat	P
+Eastern Armenian	19	ASK FOR	χndɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	askee	NP-abl	X
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Basic	1-nom 2-dat V.subj[1]	1	shouter	NP-nom V.subj	S
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Basic	1-nom 2-dat V.subj[1]	2	shoutee	NP-dat	X
+Eastern Armenian	20	SHOUT AT	gorgoral	Basic	1-nom 2-gen+vra V.subj[1]	1	shouter	NP-nom	X
+Eastern Armenian	20	SHOUT AT	gorgoral	Basic	1-nom 2-gen+vra V.subj[1]	2	shoutee	NP-gen+vra	X
+Eastern Armenian	20	SHOUT AT	kančʰel	Basic	1-nom 2-dat V.subj[1]	1	shouter	NP-nom V.subj	S
+Eastern Armenian	20	SHOUT AT	kančʰel	Basic	1-nom 2-dat V.subj[1]	2	shoutee	NP-dat	X
+Eastern Armenian	21	TELL	patmel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	1	teller	NP-nom V.subj	A
+Eastern Armenian	21	TELL	patmel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	2	tellee	NP-nomdat	P
+Eastern Armenian	21	TELL	patmel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	3	told content	NP-dat	X
+Eastern Armenian	22	SAY	asel	Basic	1-nom UTT2 (3-dat) V.subj[1]	1	sayer	NP-nom	X
+Eastern Armenian	22	SAY	asel	Basic	1-nom UTT2 (3-dat) V.subj[1]	2	said content	UTT	X
+Eastern Armenian	22	SAY	asel	Basic	1-nom UTT2 (3-dat) V.subj[1]	3	saying addressee	NP-dat	X
+Eastern Armenian	23	NAME	anvanel	Basic	1-nom 2-nomdat 3-nom V.subj[1]	1	namer	NP-nom	X
+Eastern Armenian	23	NAME	anvanel	Basic	1-nom 2-nomdat 3-nom V.subj[1]	2	namee	NP-nomdat	X
+Eastern Armenian	23	NAME	anvanel	Basic	1-nom 2-nomdat 3-nom V.subj[1]	3	name	NP-nom	X
+Eastern Armenian	24	BUILD	karucʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	builder	NP-nom V.subj	A
+Eastern Armenian	24	BUILD	karucʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	built thing	NP-nomdat	P
+Eastern Armenian	24	BUILD	karucʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	building material	NP-abl	X
+Eastern Armenian	24	BUILD	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	builder	NP-nom V.subj	A
+Eastern Armenian	24	BUILD	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	built thing	NP-nomdat	P
+Eastern Armenian	24	BUILD	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	building material	NP-abl	X
+Eastern Armenian	25	BREAK	ǯaɾdel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	breaker	NP-nom V.subj	A
+Eastern Armenian	25	BREAK	ǯaɾdel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	broken thing	NP-nomdat	P
+Eastern Armenian	25	BREAK	ǯaɾdel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	breaking instrument	NP-instr	I
+Eastern Armenian	26	KILL	mahacʰnel	Basic	1-nom 2-nomdat V.subj[1]	1	killer	NP-nom V.subj	A
+Eastern Armenian	26	KILL	mahacʰnel	Basic	1-nom 2-nomdat V.subj[1]	2	killee	NP-nomdat	P
+Eastern Armenian	26	KILL	moɾtʰel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	killer	NP-nom V.subj	A
+Eastern Armenian	26	KILL	moɾtʰel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	killee	NP-nomdat	P
+Eastern Armenian	26	KILL	moɾtʰel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	killing instrument	NP-instr	I
+Eastern Armenian	26	KILL	spanel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	killer	NP-nom V.subj	A
+Eastern Armenian	26	KILL	spanel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	killee	NP-nomdat	P
+Eastern Armenian	26	KILL	spanel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	killing instrument	NP-instr	I
+Eastern Armenian	27	BEAT	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	beater	NP-nom V.subj	A
+Eastern Armenian	27	BEAT	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	beatee	NP-nomdat	P
+Eastern Armenian	27	BEAT	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	beating instrument	NP-instr	I
+Eastern Armenian	28	HIT	haɾvacel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	hitter	NP-nom V.subj	A
+Eastern Armenian	28	HIT	haɾvacel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	hittee	NP-nomdat	P
+Eastern Armenian	28	HIT	haɾvacel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	hitting instrument	NP-instr	I
+Eastern Armenian	29	TOUCH	dipčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	1	toucher	NP-nom V.subj	S
+Eastern Armenian	29	TOUCH	dipčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	2	touchee	NP-dat	X
+Eastern Armenian	29	TOUCH	dipčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	3	touching instrument	NP-instr	I
+Eastern Armenian	29	TOUCH	kpčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	1	toucher	NP-nom V.subj	S
+Eastern Armenian	29	TOUCH	kpčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	2	touchee	NP-dat	X
+Eastern Armenian	29	TOUCH	kpčʰel	Basic	1-nom 2-dat 3-instr V.subj[1]	3	touching instrument	NP-instr	I
+Eastern Armenian	30	CUT	ktɾel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	cutter	NP-nom V.subj	A
+Eastern Armenian	30	CUT	ktɾel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	cut thing	NP-nomdat	P
+Eastern Armenian	30	CUT	ktɾel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	cutting instrument	NP-instr	I
+Eastern Armenian	31	TAKE	arnel	Basic	1-nom 2-nomdat V.subj[1]	1	taker	NP-nom V.subj	A
+Eastern Armenian	31	TAKE	arnel	Basic	1-nom 2-nomdat V.subj[1]	2	taken thing	NP-nomdat	P
+Eastern Armenian	31	TAKE	veɾcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	taker	NP-nom V.subj	A
+Eastern Armenian	31	TAKE	veɾcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	taken thing	NP-nomdat	P
+Eastern Armenian	31	TAKE	veɾcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	taking source	NP-abl	X
+Eastern Armenian	32	TEAR	patrel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	tearer	NP-nom V.subj	A
+Eastern Armenian	32	TEAR	patrel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	torn thing	NP-nomdat	P
+Eastern Armenian	32	TEAR	patrel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	tearing source	NP-abl	X
+Eastern Armenian	32	TEAR	pokel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	tearer	NP-nom V.subj	A
+Eastern Armenian	32	TEAR	pokel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	torn thing	NP-nomdat	P
+Eastern Armenian	32	TEAR	pokel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	tearing source	NP-abl	X
+Eastern Armenian	33	PEEL	klpel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	peeler	NP-nom V.subj	A
+Eastern Armenian	33	PEEL	klpel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	peel	NP-nomdat	P
+Eastern Armenian	33	PEEL	klpel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	peeled object	NP-abl	X
+Eastern Armenian	33	PEEL	kʰeɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	peeler	NP-nom V.subj	A
+Eastern Armenian	33	PEEL	kʰeɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	peel	NP-nomdat	P
+Eastern Armenian	33	PEEL	kʰeɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	peeled object	NP-abl	X
+Eastern Armenian	33	PEEL	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	peeler	NP-nom V.subj	A
+Eastern Armenian	33	PEEL	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	peel	NP-nomdat	P
+Eastern Armenian	33	PEEL	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	peeled object	NP-abl	X
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	hider	NP-nom V.subj	A
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	hidden thing	NP-nomdat	P
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	hiding affectee	NP-abl	X
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	1	shower	NP-nom V.subj	A
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	2	shown thing	NP-nomdat	P
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	3	showing addressee	NP-dat	X
+Eastern Armenian	36	GIVE	tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	1	giver	NP-nom V.subj	A
+Eastern Armenian	36	GIVE	tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	2	gift	NP-nomdat	P
+Eastern Armenian	36	GIVE	tal	Basic	1-nom 2-nomdat 3-dat V.subj[1]	3	giving recipient	NP-dat	X
+Eastern Armenian	37	SEND	uʁaɾkel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	sender	NP-nom V.subj	A
+Eastern Armenian	37	SEND	uʁaɾkel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	sent thing	NP-nomdat	P
+Eastern Armenian	37	SEND	uʁaɾkel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	sending recipient	LOC	L
+Eastern Armenian	38	CARRY	tanel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	carrier	NP-nom V.subj	A
+Eastern Armenian	38	CARRY	tanel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	carried thing	NP-nomdat	P
+Eastern Armenian	38	CARRY	tanel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	carrying goal	LOC	L
+Eastern Armenian	39	THROW	netel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	thrower	NP-nom V.subj	A
+Eastern Armenian	39	THROW	netel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	thrown thing	NP-nomdat	P
+Eastern Armenian	39	THROW	netel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	throwing goal	LOC	L
+Eastern Armenian	40	TIE	kapel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	tier	NP-nom V.subj	A
+Eastern Armenian	40	TIE	kapel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	tied thing	NP-nomdat	P
+Eastern Armenian	40	TIE	kapel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	tying goal	LOC	L
+Eastern Armenian	41	PUT	daɾsel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	putter	NP-nom V.subj	A
+Eastern Armenian	41	PUT	daɾsel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	put thing	NP-nomdat	P
+Eastern Armenian	41	PUT	daɾsel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	putting goal	LOC	L
+Eastern Armenian	41	PUT	dnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	putter	NP-nom V.subj	A
+Eastern Armenian	41	PUT	dnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	put thing	NP-nomdat	P
+Eastern Armenian	41	PUT	dnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	putting goal	LOC	L
+Eastern Armenian	42	POUR	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	pourer	NP-nom V.subj	A
+Eastern Armenian	42	POUR	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	pouring goal	NP-nomdat	P
+Eastern Armenian	42	POUR	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	poured substance	LOC	L
+Eastern Armenian	43	COVER	cackel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	coverer	NP-nom V.subj	A
+Eastern Armenian	43	COVER	cackel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	covered thing	NP-nomdat	P
+Eastern Armenian	43	COVER	cackel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	cover	NP-instr	I
+Eastern Armenian	44	FILL	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	filler	NP-nom V.subj	A
+Eastern Armenian	44	FILL	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	filled container	NP-nomdat	P
+Eastern Armenian	44	FILL	lcʰnel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	filling material	LOC	L
+Eastern Armenian	45	LOAD	baɾʒel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	loader	NP-nom V.subj	A
+Eastern Armenian	45	LOAD	baɾʒel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	loaded thing	NP-nomdat	P
+Eastern Armenian	45	LOAD	baɾʒel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	loading place	LOC	L
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Basic	1-nom 2-nomdat V.subj[1]	1	blinker	NP-nom V.subj	A
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Basic	1-nom 2-nomdat V.subj[1]	2	eye	NP-nomdat	P
+Eastern Armenian	47	COUGH	hagal	Basic	1-nom V.subj[1]	1	cougher	NP-nom V.subj	S
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Basic	1-nom (LOC2) V.subj[1]	1	climber	NP-nom V.subj	S
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Basic	1-nom (LOC2) V.subj[1]	2	climbing goal	LOC	L
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Derived	4-nom 1-dat causV'.subj[4]	1	climber	NP-dat	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Derived	4-nom 1-dat causV'.subj[4]	4	climb causer	NP-nom V.subj	
+Eastern Armenian	49	RUN	vazel	Basic	1-nom V.subj[1]	1	runner	NP-nom V.subj	S
+Eastern Armenian	49	RUN	vazel	Derived	4-nom 1-dat causV'.subj[4]	1	runner	NP-dat	
+Eastern Armenian	49	RUN	vazel	Derived	4-nom 1-dat causV'.subj[4]	4	run causer	NP-nom V.subj	
+Eastern Armenian	50	SIT	nstel	Basic	1-nom (LOC2) V.subj[1]	1	sitter	NP-nom V.subj	S
+Eastern Armenian	50	SIT	nstel	Basic	1-nom (LOC2) V.subj[1]	2	sitting place	LOC	L
+Eastern Armenian	50	SIT	nstel	Derived	4-nom 1-dat causV'.subj[4]	1	sitter	NP-dat	
+Eastern Armenian	50	SIT	nstel	Derived	4-nom 1-dat causV'.subj[4]	4	sit causer	NP-nom V.subj	
+Eastern Armenian	51	SIT DOWN	nstel	Basic	1-nom (LOC2) V.subj[1]	1	sitdowner	NP-nom V.subj	S
+Eastern Armenian	51	SIT DOWN	nstel	Basic	1-nom (LOC2) V.subj[1]	2	sitting-down place	LOC	L
+Eastern Armenian	51	SIT DOWN	nstel	Derived	4-nom 1-dat causV'.subj[4]	1	sitdowner	NP-dat	
+Eastern Armenian	51	SIT DOWN	nstel	Derived	4-nom 1-dat causV'.subj[4]	4	sit down causer	NP-nom V.subj	
+Eastern Armenian	52	JUMP	cʰatkel	Basic	1-nom V.subj[1]	1	jumper	NP-nom V.subj	S
+Eastern Armenian	53	SING	jeɾgel	Basic	1-nom 2-nomdat V.subj[1]	1	singer	NP-nom V.subj	A
+Eastern Armenian	53	SING	jeɾgel	Basic	1-nom 2-nomdat V.subj[1]	2	song	NP-nomdat	P
+Eastern Armenian	53	SING	jeɾgel	Derived	1-nom V'.subj[1]	1	singer	NP-nom V.subj	
+Eastern Armenian	54	GO	gnal	Basic	1-nom (LOC2) V.subj[1]	1	goer	NP-nom V.subj	S
+Eastern Armenian	54	GO	gnal	Basic	1-nom (LOC2) V.subj[1]	2	going goal	LOC	L
+Eastern Armenian	55	LEAVE	meknel	Basic	1-nom 2-abl V.subj[1]	1	leaver	NP-nom V.subj	S
+Eastern Armenian	55	LEAVE	meknel	Basic	1-nom 2-abl V.subj[1]	2	left place/person	NP-abl	X
+Eastern Armenian	56	LIVE	apɾel	Basic	1-nom (LOC2) V.subj[1]	1	liver	NP-nom V.subj	S
+Eastern Armenian	56	LIVE	apɾel	Basic	1-nom (LOC2) V.subj[1]	2	living place	LOC	L
+Eastern Armenian	56	LIVE	apɾel	Derived	4-nom 1-dat causV'.subj[4]	1	liver	NP-dat	
+Eastern Armenian	56	LIVE	apɾel	Derived	4-nom 1-dat causV'.subj[4]	4	live causer	NP-nom V.subj	
+Eastern Armenian	57	LAUGH	cicaʁel	Basic	1-nom (2+vra) V.subj[1]	1	laugher	NP-nom V.subj	S
+Eastern Armenian	57	LAUGH	cicaʁel	Basic	1-nom (2+vra) V.subj[1]	2	laughed-about thing	NP+vra	X
+Eastern Armenian	57	LAUGH	cicaʁel	Derived	4-nom 1-dat causV'.subj[4]	1	laugher	NP-dat	
+Eastern Armenian	57	LAUGH	cicaʁel	Derived	4-nom 1-dat causV'.subj[4]	4	laugh causer	NP-nom V.subj	
+Eastern Armenian	58	SCREAM	goral	Basic	1-nom V.subj[1]	1	screamer	NP-nom V.subj	S
+Eastern Armenian	59	FEEL PAIN	cʰavel	Basic	1-nom V.subj[1]	1	pain locus	NP-nom V.subj	S
+Eastern Armenian	59	FEEL PAIN	cʰavel	Derived	4-nom 1-dat causV'.subj[4]	1	pain locus	NP-dat	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Derived	4-nom 1-dat causV'.subj[4]	4	pain causer	NP-nom V.subj	
+Eastern Armenian	60	FEEL COLD	mɾsel	Basic	1-nom V.subj[1]	1	freezing person	NP-nom V.subj	S
+Eastern Armenian	60	FEEL COLD	mɾsel	Derived	4-nom 1-dat causV'.subj[4]	1	freezing person	NP-dat	
+Eastern Armenian	60	FEEL COLD	mɾsel	Derived	4-nom 1-dat causV'.subj[4]	4	chill causer	NP-nom V.subj	
+Eastern Armenian	60	FEEL COLD	sarel	Basic	1-nom V.subj[1]	1	freezing person	NP-nom V.subj	S
+Eastern Armenian	60	FEEL COLD	sarel	Derived	1/4-nom causmedV'.subj[1/4]	1	freezing person	NP-nom V.subj	
+Eastern Armenian	60	FEEL COLD	sarel	Derived	1/4-nom causmedV'.subj[1/4]	4	chill causer	NP-nom V.subj	
+Eastern Armenian	60	FEEL COLD	sarel	Derived	4-nom 1-dat causV'.subj[4]	1	freezing person	NP-dat	
+Eastern Armenian	60	FEEL COLD	sarel	Derived	4-nom 1-dat causV'.subj[4]	4	chill causer	NP-nom V.subj	
+Eastern Armenian	61	DIE	mahanal	Basic	1-nom V.subj[1]	1	dieer	NP-nom V.subj	S
+Eastern Armenian	61	DIE	mernel	Basic	1-nom V.subj[1]	1	dieer	NP-nom V.subj	S
+Eastern Armenian	61	DIE	mernel	Derived	4-nom 1-dat causV'.subj[4]	1	dieer	NP-dat	
+Eastern Armenian	61	DIE	mernel	Derived	4-nom 1-dat causV'.subj[4]	4	killer/death causer	NP-nom V.subj	
+Eastern Armenian	62	PLAY	χaʁal	Basic	1-nom (2-instr) V.subj[1]	1	player	NP-nom V.subj	S
+Eastern Armenian	62	PLAY	χaʁal	Basic	1-nom (2-instr) V.subj[1]	2	musical instrument	NP-instr	I
+Eastern Armenian	62	PLAY	χaʁal	Derived	1/2-nom causmedV'.subj[1/2]	1	player	NP-nom V.subj	
+Eastern Armenian	62	PLAY	χaʁal	Derived	1/2-nom causmedV'.subj[1/2]	2	musical instrument	NP-nom V.subj	
+Eastern Armenian	62	PLAY	χaʁal	Derived	4-nom 1-dat causV'.subj[4]	1	player	NP-dat	
+Eastern Armenian	62	PLAY	χaʁal	Derived	4-nom 1-dat causV'.subj[4]	4	play causer	NP-nom V.subj	
+Eastern Armenian	63	BE SAD	tχuɾ e	Basic	1-nom V.subj[1]	1	sad person	NP-nom V.subj	S
+Eastern Armenian	64	BE HUNGRY	sovel	Basic	1-nom V.subj[1]	1	hungry person	NP-nom V.subj	S
+Eastern Armenian	65	ROLL	gloɾvel	Basic	1-nom V.subj[1]	1	rolling entity	NP-nom V.subj	S
+Eastern Armenian	66	SINK	χoɾtakvel	Basic	1-nom V.subj[1]	1	sunken entity	NP-nom V.subj	S
+Eastern Armenian	67	BURN	ajɾvel	Basic	1-nom V.subj[1]	1	burnt thing	NP-nom V.subj	S
+Eastern Armenian	68	BE DRY	čʰoɾ e	Basic	1-nom V.subj[1]	1	dry thing	NP-nom V.subj	S
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Basic	1-nom V.subj[1]	1	specialist/hunter	NP-nom V.subj	S
+Eastern Armenian	71	GRIND	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	1	grinder	NP-nom V.subj	A
+Eastern Armenian	71	GRIND	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	2	ground thing	NP-nomdat	P
+Eastern Armenian	71	GRIND	cecel	Basic	1-nom 2-nomdat (3-instr) V.subj[1]	3	grinding instrument	NP-instr	I
+Eastern Armenian	72	WIPE	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	wiper	NP-nom V.subj	A
+Eastern Armenian	72	WIPE	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	wiped material	NP-nomdat	P
+Eastern Armenian	72	WIPE	makʰɾel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	wiping surface	NP-abl	X
+Eastern Armenian	73	DIG	pʰoɾel	Basic	1-nom 2-nomdat V.subj[1]	1	digger	NP-nom V.subj	A
+Eastern Armenian	73	DIG	pʰoɾel	Basic	1-nom 2-nomdat V.subj[1]	2	dug up thing	NP-nomdat	P
+Eastern Armenian	74	PUSH	hɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	pusher	NP-nom V.subj	A
+Eastern Armenian	74	PUSH	hɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	pushee	NP-nomdat	P
+Eastern Armenian	74	PUSH	hɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	pushing goal	LOC	L
+Eastern Armenian	75	BRING	beɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	1	bringer	NP-nom V.subj	A
+Eastern Armenian	75	BRING	beɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	2	brought thing	NP-nomdat	P
+Eastern Armenian	75	BRING	beɾel	Basic	1-nom 2-nomdat LOC3 V.subj[1]	3	bringing recipient	LOC	L
+Eastern Armenian	76	STEAL	goʁanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	stealer	NP-nom V.subj	A
+Eastern Armenian	76	STEAL	goʁanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	stolen thing	NP-nomdat	P
+Eastern Armenian	76	STEAL	goʁanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	stealing source	NP-abl	X
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	1	teacher	NP-nom V.subj	A
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	2	taught content	NP-nomdat	P
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Basic	1-nom 2-nomdat 3-dat V.subj[1]	3	teachee	NP-dat	X
+Eastern Armenian	78	HEAR	lsel	Basic	1-nom 2-nomdat V.subj[1]	1	hearer	NP-nom V.subj	A
+Eastern Armenian	78	HEAR	lsel	Basic	1-nom 2-nomdat V.subj[1]	2	heard sound	NP-nomdat	P
+Eastern Armenian	79	COOK	jepʰel	Basic	1-nom 2-nomdat V.subj[1]	1	cooker	NP-nom V.subj	A
+Eastern Armenian	79	COOK	jepʰel	Basic	1-nom 2-nomdat V.subj[1]	2	cooked food	NP-nomdat	P
+Eastern Armenian	80	BOIL	jeral	Basic	1-nom V.subj[1]	1	boiled thing	NP-nom V.subj	S
+Eastern Armenian	80	BOIL	jeral	Derived	4-nom 1-dat causV'.subj[4]	1	boiled thing	NP-dat	
+Eastern Armenian	80	BOIL	jeral	Derived	4-nom 1-dat causV'.subj[4]	4	boiler	NP-nom V.subj	
+Eastern Armenian	81	APPEAR	hajtnvel	Basic	1-nom (LOC2) V.subj[1]	1	appearer	NP-nom V.subj	S
+Eastern Armenian	81	APPEAR	hajtnvel	Basic	1-nom (LOC2) V.subj[1]	2	appear location	LOC	L
+Eastern Armenian	82	BE ILL	hivand e	Basic	1-nom V.subj[1]	1	sick person	NP-nom V.subj	S
+Eastern Armenian	83	CRY	lacʰel	Basic	1-nom V.subj[1]	1	crier	NP-nom V.subj	S
+Eastern Armenian	84	FALL	ənknel	Basic	1-nom (LOC2) V.subj[1]	1	fallee	NP-nom V.subj	S
+Eastern Armenian	84	FALL	ənknel	Basic	1-nom (LOC2) V.subj[1]	2	fall goal	LOC	L
+Eastern Armenian	85	MAKE	saɾkʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	maker	NP-nom V.subj	A
+Eastern Armenian	85	MAKE	saɾkʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	made thing	NP-nomdat	P
+Eastern Armenian	85	MAKE	saɾkʰel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	making material	NP-abl	X
+Eastern Armenian	85	MAKE	steʁcel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	maker	NP-nom V.subj	A
+Eastern Armenian	85	MAKE	steʁcel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	made thing	NP-nomdat	P
+Eastern Armenian	85	MAKE	steʁcel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	making material	NP-abl	X
+Eastern Armenian	85	MAKE	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	maker	NP-nom V.subj	A
+Eastern Armenian	85	MAKE	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	made thing	NP-nomdat	P
+Eastern Armenian	85	MAKE	šinel	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	making material	NP-abl	X
+Eastern Armenian	86	GET	stanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	1	receiver	NP-nom V.subj	A
+Eastern Armenian	86	GET	stanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	2	received thing	NP-nomdat	P
+Eastern Armenian	86	GET	stanal	Basic	1-nom 2-nomdat 3-abl V.subj[1]	3	receiving source	NP-abl	X
+Eastern Armenian	87	WANT	uzel	Basic	1-nom 2-nomdat V.subj[1]	1	wanter	NP-nom V.subj	A
+Eastern Armenian	87	WANT	uzel	Basic	1-nom 2-nomdat V.subj[1]	2	wanted thing	NP-nomdat	P
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Basic	1-nom V.subj[1]	1	shaver (of self)	NP-nom V.subj	S

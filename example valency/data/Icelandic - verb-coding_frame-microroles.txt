@@ -1,0 +1,550 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Icelandic	1	EAT	borða	Basic	1-nom V.agr[1] 2-acc	1	eater	NP-nom & V.agr	A
+Icelandic	1	EAT	borða	Basic	1-nom V.agr[1] 2-acc	2	eaten food	NP-acc	P
+Icelandic	1	EAT	borða	Derived	2-nom passV'.agr[2]	2	eaten food	NP-nom & V.agr	
+Icelandic	1	EAT	borða	Derived	x-nom passV'.agr[x] 2-acc	2	eaten food	NP-acc	
+Icelandic	2	HUG	faðma	Basic	1-nom V.agr[1] 2-acc	1	hugger	NP-nom & V.agr	A
+Icelandic	2	HUG	faðma	Basic	1-nom V.agr[1] 2-acc	2	huggee	NP-acc	P
+Icelandic	2	HUG	faðma	Derived	1/2-nom rcpV'.agr[1/2]	1	hugger	NP-nom & V.agr	
+Icelandic	2	HUG	faðma	Derived	1/2-nom rcpV'.agr[1/2]	2	huggee	NP-nom & V.agr	
+Icelandic	2	HUG	faðma	Derived	2-nom passV'.agr[2]	2	huggee	NP-nom & V.agr	
+Icelandic	2	HUG	faðma	Derived	x-nom passV'.agr[x] 2-acc	2	huggee	NP-acc	
+Icelandic	3	LOOK AT	horfa	Basic	1-nom V.agr[1] á+2-acc	1	looker	NP-nom & V.agr	S
+Icelandic	3	LOOK AT	horfa	Basic	1-nom V.agr[1] á+2-acc	2	looked at entity	á+NP-acc	X
+Icelandic	3	LOOK AT	horfa	Derived	1/2-nom rcpV'.agr[1/2] á	1	looker	NP-nom & V.agr	
+Icelandic	3	LOOK AT	horfa	Derived	1/2-nom rcpV'.agr[1/2] á	2	looked at entity	NP-nom & V.agr	
+Icelandic	3	LOOK AT	horfa	Derived	x-nom passV'.agr[x] á+2-acc	2	looked at entity	á+NP-acc	
+Icelandic	3	LOOK AT	líta	Basic	1-nom V.agr[1] á+2-acc	1	looker	NP-nom & V.agr	S
+Icelandic	3	LOOK AT	líta	Basic	1-nom V.agr[1] á+2-acc	2	looked at entity	á+NP-acc	X
+Icelandic	3	LOOK AT	líta	Derived	x-nom passV'.agr[x] á+2-acc	2	looked at entity	á+NP-acc	
+Icelandic	4	SEE	sjá	Basic	1-nom V.agr[1] 2-acc	1	seeer	NP-nom & V.agr	A
+Icelandic	4	SEE	sjá	Basic	1-nom V.agr[1] 2-acc	2	seen entity	NP-acc	P
+Icelandic	4	SEE	sjá	Derived	1/2-nom rcpV'.agr[1/2]	1	seeer	NP-nom & V.agr	
+Icelandic	4	SEE	sjá	Derived	1/2-nom rcpV'.agr[1/2]	2	seen entity	NP-nom & V.agr	
+Icelandic	4	SEE	sjá	Derived	2-nom medV'.agr[2]	2	seen entity	NP-nom & V.agr	
+Icelandic	5	SMELL	finna lykt	Basic	1-nom V.agr[1] af+2-dat	1	smeller	NP-nom & V.agr	S
+Icelandic	5	SMELL	finna lykt	Basic	1-nom V.agr[1] af+2-dat	2	smelled entity	af+NP-dat	X
+Icelandic	5	SMELL	finna lykt	Derived	x-nom medV'.agr[x] af+2-dat	2	smelled entity	af+NP-dat	
+Icelandic	6	FEAR	vera hræddur	Basic	1-nom V.agr[1] við+2-acc	1	fearer	NP-nom & V.agr	S
+Icelandic	6	FEAR	vera hræddur	Basic	1-nom V.agr[1] við+2-acc	2	fear stimulus	við+NP-acc	X
+Icelandic	7	FRIGHTEN	hræða	Basic	1-nom V.agr[1] 2-acc	1	frightener	NP-nom & V.agr	A
+Icelandic	7	FRIGHTEN	hræða	Basic	1-nom V.agr[1] 2-acc	2	frightenee	NP-acc	P
+Icelandic	7	FRIGHTEN	hræða	Derived	2-nom medV'.agr[2]	2	frightenee	NP-nom & V.agr	
+Icelandic	7	FRIGHTEN	hræða	Derived	2-nom passV'.agr[2]	2	frightenee	NP-nom & V.agr	
+Icelandic	8	LIKE	líka	Basic	1-dat V.agr[2] 2-nom	1	liker	NP-dat	X
+Icelandic	8	LIKE	líka	Basic	1-dat V.agr[2] 2-nom	2	liked entity	NP-nom & V.agr	S
+Icelandic	8	LIKE	líka	Derived	1-nom V'.agr[1] við+2-acc	1	liker	NP-nom & V.agr	
+Icelandic	8	LIKE	líka	Derived	1-nom V'.agr[1] við+2-acc	2	liked entity	við+NP-acc	
+Icelandic	9	KNOW	þekkja	Basic	1-nom V.agr[1] 2-acc	1	knower	NP-nom & V.agr	A
+Icelandic	9	KNOW	þekkja	Basic	1-nom V.agr[1] 2-acc	2	known thing/person	NP-acc	P
+Icelandic	9	KNOW	þekkja	Derived	1/2-nom rcpV'.agr[1/2]	1	knower	NP-nom & V.agr	
+Icelandic	9	KNOW	þekkja	Derived	1/2-nom rcpV'.agr[1/2]	2	known thing/person	NP-nom & V.agr	
+Icelandic	9	KNOW	þekkja	Derived	2-nom medV'.agr[2]	2	known thing/person	NP-nom & V.agr	
+Icelandic	10	THINK	hugsa	Basic	1-nom V.agr[1] um+2-acc	1	thinker	NP-nom & V.agr	S
+Icelandic	10	THINK	hugsa	Basic	1-nom V.agr[1] um+2-acc	2	thought content	um+NP-acc	X
+Icelandic	10	THINK	hugsa	Derived	1-nom V'.agr[1] 2-acc	1	thinker	NP-nom & V.agr	
+Icelandic	10	THINK	hugsa	Derived	1-nom V'.agr[1] 2-acc	2	thought content	NP-acc	
+Icelandic	10	THINK	hugsa	Derived	2-nom passV'.agr[2]	2	thought content	NP-nom & V.agr	
+Icelandic	10	THINK	hugsa	Derived	x-nom medV'.agr[x] um+2-acc	2	thought content	um+NP-acc	
+Icelandic	10	THINK	hugsa	Derived	x-nom passV'.agr[x] um+2-acc	2	thought content	um+NP-acc	
+Icelandic	11	SEARCH FOR	leita (1)	Basic	1-nom V.agr[1] að+2-dat	1	searcher	NP-nom & V.agr	S
+Icelandic	11	SEARCH FOR	leita (1)	Basic	1-nom V.agr[1] að+2-dat	2	searched for thing	að+NP-dat	X
+Icelandic	11	SEARCH FOR	leita (1)	Derived	1-nom V'.agr[1] 2-gen	1	searcher	NP-nom & V.agr	
+Icelandic	11	SEARCH FOR	leita (1)	Derived	1-nom V'.agr[1] 2-gen	2	searched for thing	NP-gen	
+Icelandic	11	SEARCH FOR	leita (1)	Derived	x-nom passV'.agr[x] að+2-dat	2	searched for thing	að+NP-dat	
+Icelandic	11	SEARCH FOR	leita (2)	Basic	1-nom V.agr[1] 2-gen	1	searcher	NP-nom & V.agr	S
+Icelandic	11	SEARCH FOR	leita (2)	Basic	1-nom V.agr[1] 2-gen	2	searched for thing	NP-gen	X
+Icelandic	11	SEARCH FOR	leita (2)	Derived	2-gen passV'	2	searched for thing	NP-gen	
+Icelandic	11	SEARCH FOR	leita (2)	Derived	x-nom passV'.agr[x] 2-gen	2	searched for thing	NP-gen	
+Icelandic	12	WASH	þvo	Basic	1-nom V.agr[1] 2-dat	1	washer	NP-nom & V.agr	S
+Icelandic	12	WASH	þvo	Basic	1-nom V.agr[1] 2-dat	2	washed entity	NP-dat	X
+Icelandic	12	WASH	þvo	Derived	2-nom medV'.agr[2]	2	washed entity	NP-nom & V.agr	
+Icelandic	12	WASH	þvo	Derived	2-nom passV'.agr[2]	2	washed entity	NP-nom & V.agr	
+Icelandic	12	WASH	þvo	Derived	x-nom passV'.agr[x] 2-dat	2	washed entity	NP-dat	
+Icelandic	13	DRESS	klæða	Basic	1-nom V.agr[1] 2-acc (í +3-acc)	1	dresser	NP-nom & V.agr	A
+Icelandic	13	DRESS	klæða	Basic	1-nom V.agr[1] 2-acc (í +3-acc)	2	dressee	NP-acc	P
+Icelandic	13	DRESS	klæða	Basic	1-nom V.agr[1] 2-acc (í +3-acc)	3	clothes	í+NP-acc	X
+Icelandic	13	DRESS	klæða	Derived	1/2-nom reflV'.agr[1/2] 3-dat	1	dresser	NP-nom & V.agr	
+Icelandic	13	DRESS	klæða	Derived	1/2-nom reflV'.agr[1/2] 3-dat	2	dressee	NP-nom & V.agr	
+Icelandic	13	DRESS	klæða	Derived	1/2-nom reflV'.agr[1/2] 3-dat	3	clothes	NP-dat	
+Icelandic	13	DRESS	klæða	Derived	2-nom passV'.agr[2] í+3-dat	2	dressee	NP-nom & V.agr	
+Icelandic	13	DRESS	klæða	Derived	2-nom passV'.agr[2] í+3-dat	3	clothes	í+NP-dat	
+Icelandic	13	DRESS	klæða	Derived	x-nom passV'.agr[x] 2-acc (í+3-acc)	2	dressee	NP-acc	
+Icelandic	13	DRESS	klæða	Derived	x-nom passV'.agr[x] 2-acc (í+3-acc)	3	clothes	í+NP-acc	
+Icelandic	14	SHAVE (a body part/person)	raka	Basic	1-nom V.agr[1] 2-acc	1	shaver (of body part)	NP-nom & V.agr	A
+Icelandic	14	SHAVE (a body part/person)	raka	Basic	1-nom V.agr[1] 2-acc	2	shaved body part	NP-acc	P
+Icelandic	14	SHAVE (a body part/person)	raka	Derived	2-nom passV'.agr[2]	2	shaved body part	NP-nom & V.agr	
+Icelandic	14	SHAVE (a body part/person)	raka	Derived	x-nom passV'.agr[x] 2-acc	2	shaved body part	NP-acc	
+Icelandic	15	HELP	hjálpa	Basic	1-nom V.agr[1] 2-dat	1	helper	NP-nom & V.agr	S
+Icelandic	15	HELP	hjálpa	Basic	1-nom V.agr[1] 2-dat	2	helpee	NP-dat	X
+Icelandic	15	HELP	hjálpa	Derived	1/2-nom rcpV'.agr[1/2] að	1	helper	NP-nom & V.agr	
+Icelandic	15	HELP	hjálpa	Derived	1/2-nom rcpV'.agr[1/2] að	2	helpee	NP-nom & V.agr	
+Icelandic	15	HELP	hjálpa	Derived	2-dat passV'	2	helpee	NP-dat	
+Icelandic	15	HELP	hjálpa	Derived	x-nom passV'.agr[x] 2-dat	2	helpee	NP-dat	
+Icelandic	16	FOLLOW	elta	Basic	1-nom V.agr[1] 2-acc	1	follower	NP-nom & V.agr	A
+Icelandic	16	FOLLOW	elta	Basic	1-nom V.agr[1] 2-acc	2	followee	NP-acc	P
+Icelandic	16	FOLLOW	elta	Derived	2-nom passV'.agr[2]	2	followee	NP-nom & V.agr	
+Icelandic	16	FOLLOW	elta	Derived	x-nom passV'.agr[x] 2-acc	2	followee	NP-acc	
+Icelandic	16	FOLLOW	fylgja	Basic	1-nom V.agr[1] 2-dat	1	follower	NP-nom & V.agr	S
+Icelandic	16	FOLLOW	fylgja	Basic	1-nom V.agr[1] 2-dat	2	followee	NP-dat	X
+Icelandic	16	FOLLOW	fylgja	Derived	1/2-nom rcpV'.agr[1/2] að	1	follower	NP-nom & V.agr	
+Icelandic	16	FOLLOW	fylgja	Derived	1/2-nom rcpV'.agr[1/2] að	2	followee	NP-nom & V.agr	
+Icelandic	16	FOLLOW	fylgja	Derived	2-dat passV'	2	followee	NP-dat	
+Icelandic	16	FOLLOW	fylgja	Derived	x-nom passV'.agr[x] 2-dat	2	followee	NP-dat	
+Icelandic	17	MEET	hitta	Basic	1-nom V.agr[1] 2-acc	1	meeter	NP-nom & V.agr	A
+Icelandic	17	MEET	hitta	Basic	1-nom V.agr[1] 2-acc	2	met person	NP-acc	P
+Icelandic	17	MEET	hitta	Derived	1/2-nom rcpV'.agr[1/2]	1	meeter	NP-nom & V.agr	
+Icelandic	17	MEET	hitta	Derived	1/2-nom rcpV'.agr[1/2]	2	met person	NP-nom & V.agr	
+Icelandic	17	MEET	hitta	Derived	x-nom passV'.agr[x] 2-acc	2	met person	NP-acc	
+Icelandic	18	TALK	tala	Basic	1-nom V.agr[1] við-2-acc um+3-acc	1	talker	NP-nom & V.agr	S
+Icelandic	18	TALK	tala	Basic	1-nom V.agr[1] við-2-acc um+3-acc	2	talked to person	við+NP-acc	X
+Icelandic	18	TALK	tala	Basic	1-nom V.agr[1] við-2-acc um+3-acc	3	talked about content	um+NP-acc	X
+Icelandic	18	TALK	tala	Derived	1-nom V'.agr[1] 2-acc	1	talker	NP-nom & V.agr	
+Icelandic	18	TALK	tala	Derived	1-nom V'.agr[1] 2-acc	2	talked to person	NP-acc	
+Icelandic	18	TALK	tala	Derived	1/2-nom rcpV'.agr[1/2] við	1	talker	NP-nom & V.agr	
+Icelandic	18	TALK	tala	Derived	1/2-nom rcpV'.agr[1/2] við	2	talked to person	NP-nom & V.agr	
+Icelandic	18	TALK	tala	Derived	x-nom passV'.agr[x] við-2-acc	2	talked to person	við+NP-acc	
+Icelandic	19	ASK FOR	biðja (1)	Basic	1-nom V.agr[1] (2-acc) um+3-acc	1	asker	NP-nom & V.agr	A
+Icelandic	19	ASK FOR	biðja (1)	Basic	1-nom V.agr[1] (2-acc) um+3-acc	2	askee	NP-acc	P
+Icelandic	19	ASK FOR	biðja (1)	Basic	1-nom V.agr[1] (2-acc) um+3-acc	3	requested thing	um+NP-acc	X
+Icelandic	19	ASK FOR	biðja (1)	Derived	2-nom passV'.agr[2] um+3-acc	2	askee	NP-nom & V.agr	
+Icelandic	19	ASK FOR	biðja (1)	Derived	2-nom passV'.agr[2] um+3-acc	3	requested thing	um+NP-acc	
+Icelandic	19	ASK FOR	biðja (1)	Derived	x-nom passV'agr[x] um+3-acc	3	requested thing	um+NP-acc	
+Icelandic	20	SHOUT AT	hrópa	Basic	1-nom V.agr[1] á+2-acc	1	shouter	NP-nom & V.agr	S
+Icelandic	20	SHOUT AT	hrópa	Basic	1-nom V.agr[1] á+2-acc	2	shoutee	á+NP-acc	X
+Icelandic	20	SHOUT AT	hrópa	Derived	1-nom V'.agr[1] 2-acc	1	shouter	NP-nom & V.agr	
+Icelandic	20	SHOUT AT	hrópa	Derived	1-nom V'.agr[1] 2-acc	2	shoutee	NP-acc	
+Icelandic	20	SHOUT AT	hrópa	Derived	1/2-nom rcpV'.agr[1/2] á	1	shouter	NP-nom & V.agr	
+Icelandic	20	SHOUT AT	hrópa	Derived	1/2-nom rcpV'.agr[1/2] á	2	shoutee	NP-nom & V.agr	
+Icelandic	20	SHOUT AT	hrópa	Derived	x-nom passV'.agr[x] á+2-acc	2	shoutee	á+NP-acc	
+Icelandic	21	TELL	segja (2)	Basic	1-nom V.agr[1] 2-dat 3-acc	1	teller	NP-nom & V.agr	A
+Icelandic	21	TELL	segja (2)	Basic	1-nom V.agr[1] 2-dat 3-acc	2	tellee	NP-dat	X
+Icelandic	21	TELL	segja (2)	Basic	1-nom V.agr[1] 2-dat 3-acc	3	told content	NP-acc	P
+Icelandic	21	TELL	segja (2)	Derived	2-dat passV'.agr[3] 3-nom	2	tellee	NP-dat	
+Icelandic	21	TELL	segja (2)	Derived	2-dat passV'.agr[3] 3-nom	3	told content	NP-nom & V.agr	
+Icelandic	21	TELL	segja (2)	Derived	3-nom passV'.agr[3]	3	told content	NP-nom & V.agr	
+Icelandic	21	TELL	segja (2)	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	2	tellee	NP-dat	
+Icelandic	21	TELL	segja (2)	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	3	told content	NP-acc	
+Icelandic	22	SAY	segja (1)	Basic	1-nom V.agr[1] UTT2 við+3-acc	1	sayer	NP-nom & V.agr	S
+Icelandic	22	SAY	segja (1)	Basic	1-nom V.agr[1] UTT2 við+3-acc	2	said content	UTT	X
+Icelandic	22	SAY	segja (1)	Basic	1-nom V.agr[1] UTT2 við+3-acc	3	saying addressee	við+NP-acc	X
+Icelandic	22	SAY	segja (1)	Derived	1/2-nom reflV'.agr[1/2]	1	sayer	NP-nom & V.agr	
+Icelandic	22	SAY	segja (1)	Derived	1/2-nom reflV'.agr[1/2]	2	said content	NP-nom & V.agr	
+Icelandic	23	NAME	kalla	Basic	1-nom V.agr[1] 2-acc 3-acc	1	namer	NP-nom & V.agr	A
+Icelandic	23	NAME	kalla	Basic	1-nom V.agr[1] 2-acc 3-acc	2	namee	NP-acc	P
+Icelandic	23	NAME	kalla	Basic	1-nom V.agr[1] 2-acc 3-acc	3	name	NP-acc	P
+Icelandic	23	NAME	kalla	Derived	1/2-nom rcpV'.agr[1/2] á	1	namer	NP-nom & V.agr	
+Icelandic	23	NAME	kalla	Derived	1/2-nom rcpV'.agr[1/2] á	2	namee	NP-nom & V.agr	
+Icelandic	23	NAME	kalla	Derived	2-nom medV'.agr[2] 3-nom	2	namee	NP-nom & V.agr	
+Icelandic	23	NAME	kalla	Derived	2-nom medV'.agr[2] 3-nom	3	name	NP-nom	
+Icelandic	23	NAME	kalla	Derived	2-nom passV'.agr[2] 3-nom	2	namee	NP-nom & V.agr	
+Icelandic	23	NAME	kalla	Derived	2-nom passV'.agr[2] 3-nom	3	name	NP-nom	
+Icelandic	23	NAME	nefna	Basic	1-nom V.agr[1] 2-acc 3-acc	1	namer	NP-nom & V.agr	A
+Icelandic	23	NAME	nefna	Basic	1-nom V.agr[1] 2-acc 3-acc	2	namee	NP-acc	P
+Icelandic	23	NAME	nefna	Basic	1-nom V.agr[1] 2-acc 3-acc	3	name	NP-acc	P
+Icelandic	23	NAME	nefna	Derived	2-nom medV'.agr[2] 3-nom	2	namee	NP-nom & V.agr	
+Icelandic	23	NAME	nefna	Derived	2-nom medV'.agr[2] 3-nom	3	name	NP-nom	
+Icelandic	23	NAME	nefna	Derived	2-nom passV'.agr[2] 3-nom	2	namee	NP-nom & V.agr	
+Icelandic	23	NAME	nefna	Derived	2-nom passV'.agr[2] 3-nom	3	name	NP-nom	
+Icelandic	23	NAME	nefna	Derived	x-nom passV'.agr[x] 3-acc við+2-acc	2	namee	við+NP-acc	
+Icelandic	23	NAME	nefna	Derived	x-nom passV'.agr[x] 3-acc við+2-acc	3	name	NP-acc	
+Icelandic	24	BUILD	byggja	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	1	builder	NP-nom & V.agr	A
+Icelandic	24	BUILD	byggja	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	2	built thing	NP-acc	P
+Icelandic	24	BUILD	byggja	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	3	building material	úr+NP-dat	X
+Icelandic	24	BUILD	byggja	Derived	2-nom medV'.agr[2]	2	built thing	NP-nom & V.agr	
+Icelandic	24	BUILD	byggja	Derived	2-nom passV'.agr[2] (úr+3-dat)	2	built thing	NP-nom & V.agr	
+Icelandic	24	BUILD	byggja	Derived	2-nom passV'.agr[2] (úr+3-dat)	3	building material	úr+NP-dat	
+Icelandic	24	BUILD	byggja	Derived	x-nom passV'.agr[x] 2-acc (úr+3-dat)	2	built thing	NP-acc	
+Icelandic	24	BUILD	byggja	Derived	x-nom passV'.agr[x] 2-acc (úr+3-dat)	3	building material	úr+NP-dat	
+Icelandic	25	BREAK	brjóta	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	breaker	NP-nom & V.agr	A
+Icelandic	25	BREAK	brjóta	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	broken thing	NP-acc	P
+Icelandic	25	BREAK	brjóta	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	breaking instrument	með +NP-dat	I
+Icelandic	25	BREAK	brjóta	Derived	1/2-nom reflV'.agr[1/2]	1	breaker	NP-nom & V.agr	
+Icelandic	25	BREAK	brjóta	Derived	1/2-nom reflV'.agr[1/2]	2	broken thing	NP-nom & V.agr	
+Icelandic	25	BREAK	brjóta	Derived	2-acc V'	2	broken thing	NP-acc	
+Icelandic	25	BREAK	brjóta	Derived	2-nom passV'.agr[2]	2	broken thing	NP-nom & V.agr	
+Icelandic	25	BREAK	brjóta	Derived	2-nom V'na.agr[2]	2	broken thing	NP-nom & V.agr	
+Icelandic	25	BREAK	brjóta	Derived	x-nom passV'.agr[x] 2-acc	2	broken thing	NP-acc	
+Icelandic	26	KILL	deyða	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	killer	NP-nom & V.agr	A
+Icelandic	26	KILL	deyða	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	killee	NP-acc	P
+Icelandic	26	KILL	deyða	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	killing instrument	með +NP-dat	I
+Icelandic	26	KILL	deyða	Derived	2-nom V'ja.agr[2]	2	killee	NP-nom & V.agr	
+Icelandic	26	KILL	drepa	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	killer	NP-nom & V.agr	A
+Icelandic	26	KILL	drepa	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	killee	NP-acc	P
+Icelandic	26	KILL	drepa	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	killing instrument	með +NP-dat	I
+Icelandic	26	KILL	drepa	Derived	2-acc V'	2	killee	NP-acc	
+Icelandic	26	KILL	drepa	Derived	2-nom medV'.agr[2]	2	killee	NP-nom & V.agr	
+Icelandic	26	KILL	drepa	Derived	2-nom passV'.agr[2]	2	killee	NP-nom & V.agr	
+Icelandic	26	KILL	drepa	Derived	x-nom passV'.agr[x] 2-acc	2	killee	NP-acc	
+Icelandic	27	BEAT	lemja	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	beater	NP-nom & V.agr	A
+Icelandic	27	BEAT	lemja	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	beatee	NP-acc	P
+Icelandic	27	BEAT	lemja	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	beating instrument	með +NP-dat	I
+Icelandic	27	BEAT	lemja	Derived	2-nom medV'.agr[2]	2	beatee	NP-nom & V.agr	
+Icelandic	27	BEAT	lemja	Derived	2-nom passV'.agr[2]	2	beatee	NP-nom & V.agr	
+Icelandic	27	BEAT	lemja	Derived	x-nom passV'.agr[x] 2-acc	2	beatee	NP-acc	
+Icelandic	28	HIT	slá	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	hitter	NP-nom & V.agr	A
+Icelandic	28	HIT	slá	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	hittee	NP-acc	P
+Icelandic	28	HIT	slá	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	hitting instrument	með +NP-dat	I
+Icelandic	28	HIT	slá	Derived	1/2-nom rcpV'.agr[1/2]	1	hitter	NP-nom & V.agr	
+Icelandic	28	HIT	slá	Derived	1/2-nom rcpV'.agr[1/2]	2	hittee	NP-nom & V.agr	
+Icelandic	28	HIT	slá	Derived	2-nom medV'.agr[2]	2	hittee	NP-nom & V.agr	
+Icelandic	28	HIT	slá	Derived	2-nom passV'.agr[2]	2	hittee	NP-nom & V.agr	
+Icelandic	28	HIT	slá	Derived	x-nom passV'.agr[x] 2-acc	2	hittee	NP-acc	
+Icelandic	29	TOUCH	snerta	Basic	1-nom V.agr[1] 2-acc	1	toucher	NP-nom & V.agr	A
+Icelandic	29	TOUCH	snerta	Basic	1-nom V.agr[1] 2-acc	2	touchee	NP-acc	P
+Icelandic	29	TOUCH	snerta	Derived	1/2-nom rcpV'.agr[1/2]	1	toucher	NP-nom & V.agr	
+Icelandic	29	TOUCH	snerta	Derived	1/2-nom rcpV'.agr[1/2]	2	touchee	NP-nom & V.agr	
+Icelandic	29	TOUCH	snerta	Derived	2-nom passV'.agr[2]	2	touchee	NP-nom & V.agr	
+Icelandic	29	TOUCH	snerta	Derived	x-nom passV'.agr[x] 2-acc	2	touchee	NP-acc	
+Icelandic	30	CUT	klippa	Basic	1-nom V.agr[1] 2-acc	1	cutter	NP-nom & V.agr	A
+Icelandic	30	CUT	klippa	Basic	1-nom V.agr[1] 2-acc	2	cut thing	NP-acc	P
+Icelandic	30	CUT	klippa	Derived	2-nom medV'.agr[2]	2	cut thing	NP-nom & V.agr	
+Icelandic	30	CUT	klippa	Derived	2-nom passV'.agr[2]	2	cut thing	NP-nom & V.agr	
+Icelandic	30	CUT	klippa	Derived	x-nom passV'.agr[x] 2-acc	2	cut thing	NP-acc	
+Icelandic	30	CUT	skera	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	cutter	NP-nom & V.agr	A
+Icelandic	30	CUT	skera	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	cut thing	NP-acc	P
+Icelandic	30	CUT	skera	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	cutting instrument	með +NP-dat	I
+Icelandic	30	CUT	skera	Derived	2-nom medV'.agr[2]	2	cut thing	NP-nom & V.agr	
+Icelandic	30	CUT	skera	Derived	2-nom passV'.agr[2]	2	cut thing	NP-nom & V.agr	
+Icelandic	30	CUT	skera	Derived	x-nom passV'.agr[x] 2-acc	2	cut thing	NP-acc	
+Icelandic	31	TAKE	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	1	taker	NP-nom & V.agr	A
+Icelandic	31	TAKE	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	2	taken thing	NP-acc	P
+Icelandic	31	TAKE	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	3	taking source	af+NP-dat	X
+Icelandic	31	TAKE	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	1	taker	NP-nom & V.agr	
+Icelandic	31	TAKE	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	2	taken thing	við+NP-dat	
+Icelandic	31	TAKE	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	3	taking source	frá+NP-dat	
+Icelandic	31	TAKE	taka	Derived	2-acc V'	2	taken thing	NP-acc	
+Icelandic	31	TAKE	taka	Derived	2-nom passV'.agr[2] (af+3-dat)	2	taken thing	NP-nom & V.agr	
+Icelandic	31	TAKE	taka	Derived	2-nom passV'.agr[2] (af+3-dat)	3	taking source	af+NP-dat	
+Icelandic	31	TAKE	taka	Derived	x-nom passV'.agr[x] 2-acc	2	taken thing	NP-acc	
+Icelandic	32	TEAR	rífa	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	1	tearer	NP-nom & V.agr	A
+Icelandic	32	TEAR	rífa	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	2	torn thing	NP-acc	P
+Icelandic	32	TEAR	rífa	Basic	1-nom V.agr[1] 2-acc (úr+3-dat)	3	tearing source	úr+NP-dat	X
+Icelandic	32	TEAR	rífa	Derived	1/2-nom rcpV'.agr[1/2]	1	tearer	NP-nom & V.agr	
+Icelandic	32	TEAR	rífa	Derived	1/2-nom rcpV'.agr[1/2]	2	torn thing	NP-nom & V.agr	
+Icelandic	32	TEAR	rífa	Derived	2-acc V'	2	torn thing	NP-acc	
+Icelandic	32	TEAR	rífa	Derived	2-nom passV'.agr[2] (úr+3-dat)	2	torn thing	NP-nom & V.agr	
+Icelandic	32	TEAR	rífa	Derived	2-nom passV'.agr[2] (úr+3-dat)	3	tearing source	úr+NP-dat	
+Icelandic	32	TEAR	rífa	Derived	2-nom V'na.agr[2] úr+3-dat	2	torn thing	NP-nom & V.agr	
+Icelandic	32	TEAR	rífa	Derived	2-nom V'na.agr[2] úr+3-dat	3	tearing source	úr+NP-dat	
+Icelandic	32	TEAR	rífa	Derived	x-nom passV'.agr[x] 2-acc (úr+3-dat)	2	torn thing	NP-acc	
+Icelandic	32	TEAR	rífa	Derived	x-nom passV'.agr[x] 2-acc (úr+3-dat)	3	tearing source	úr+NP-dat	
+Icelandic	33	PEEL	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	1	peeler	NP-nom & V.agr	A
+Icelandic	33	PEEL	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	2	peel	NP-acc	P
+Icelandic	33	PEEL	taka	Basic	1-nom V.agr[1] 2-acc af+3-dat	3	peeled object	af+NP-dat	X
+Icelandic	33	PEEL	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	1	peeler	NP-nom & V.agr	
+Icelandic	33	PEEL	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	2	peel	við+NP-dat	
+Icelandic	33	PEEL	taka	Derived	1-nom V'.agr[1] við+2-dat frá+3-dat	3	peeled object	frá+NP-dat	
+Icelandic	33	PEEL	taka	Derived	2-acc V'	2	peel	NP-acc	
+Icelandic	33	PEEL	taka	Derived	2-nom passV'.agr[2] (af+3-dat)	2	peel	NP-nom & V.agr	
+Icelandic	33	PEEL	taka	Derived	2-nom passV'.agr[2] (af+3-dat)	3	peeled object	af+NP-dat	
+Icelandic	33	PEEL	taka	Derived	x-nom passV'.agr[x] 2-acc	2	peel	NP-acc	
+Icelandic	34	HIDE	fela	Basic	1-nom V.agr[1] 2-acc (fyrir+3-dat)	1	hider	NP-nom & V.agr	A
+Icelandic	34	HIDE	fela	Basic	1-nom V.agr[1] 2-acc (fyrir+3-dat)	2	hidden thing	NP-acc	P
+Icelandic	34	HIDE	fela	Basic	1-nom V.agr[1] 2-acc (fyrir+3-dat)	3	hiding affectee	fyrir+NP-dat	X
+Icelandic	34	HIDE	fela	Derived	2-nom passV'.agr[2]	2	hidden thing	NP-nom & V.agr	
+Icelandic	34	HIDE	fela	Derived	x-nom passV'.agr[x] 2-acc	2	hidden thing	NP-acc	
+Icelandic	35	SHOW	sýna	Basic	1-nom V.agr[1] 2-dat 3-acc	1	shower	NP-nom & V.agr	A
+Icelandic	35	SHOW	sýna	Basic	1-nom V.agr[1] 2-dat 3-acc	2	showing addressee	NP-dat	X
+Icelandic	35	SHOW	sýna	Basic	1-nom V.agr[1] 2-dat 3-acc	3	shown thing	NP-acc	P
+Icelandic	35	SHOW	sýna	Derived	2-dat passV'.agr[3] 3-nom	2	showing addressee	NP-dat	
+Icelandic	35	SHOW	sýna	Derived	2-dat passV'.agr[3] 3-nom	3	shown thing	NP-nom & V.agr	
+Icelandic	35	SHOW	sýna	Derived	3-nom passV'.agr[3]	3	shown thing	NP-nom & V.agr	
+Icelandic	35	SHOW	sýna	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	2	showing addressee	NP-dat	
+Icelandic	35	SHOW	sýna	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	3	shown thing	NP-acc	
+Icelandic	36	GIVE	gefa	Basic	1-nom V.agr[1] 2-dat 3-acc	1	giver	NP-nom & V.agr	A
+Icelandic	36	GIVE	gefa	Basic	1-nom V.agr[1] 2-dat 3-acc	2	giving recipient	NP-dat	X
+Icelandic	36	GIVE	gefa	Basic	1-nom V.agr[1] 2-dat 3-acc	3	gift	NP-acc	P
+Icelandic	36	GIVE	gefa	Derived	2-dat passV'.agr[3] 3-nom	2	giving recipient	NP-dat	
+Icelandic	36	GIVE	gefa	Derived	2-dat passV'.agr[3] 3-nom	3	gift	NP-nom & V.agr	
+Icelandic	36	GIVE	gefa	Derived	2-dat V' 3-acc	2	giving recipient	NP-dat	
+Icelandic	36	GIVE	gefa	Derived	2-dat V' 3-acc	3	gift	NP-acc	
+Icelandic	36	GIVE	gefa	Derived	3-nom passV'.agr[3]	3	gift	NP-nom & V.agr	
+Icelandic	36	GIVE	gefa	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	2	giving recipient	NP-dat	
+Icelandic	36	GIVE	gefa	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	3	gift	NP-acc	
+Icelandic	36	GIVE	rétta	Basic	1-nom V.agr[1] 2-dat 3-acc	1	giver	NP-nom & V.agr	A
+Icelandic	36	GIVE	rétta	Basic	1-nom V.agr[1] 2-dat 3-acc	2	giving recipient	NP-dat	X
+Icelandic	36	GIVE	rétta	Basic	1-nom V.agr[1] 2-dat 3-acc	3	gift	NP-acc	P
+Icelandic	36	GIVE	rétta	Derived	1-nom V'.agr[1] 3-acc til 2-gen	1	giver	NP-nom & V.agr	
+Icelandic	36	GIVE	rétta	Derived	1-nom V'.agr[1] 3-acc til 2-gen	2	giving recipient	til+NP-gen	
+Icelandic	36	GIVE	rétta	Derived	1-nom V'.agr[1] 3-acc til 2-gen	3	gift	NP-acc	
+Icelandic	36	GIVE	rétta	Derived	2-dat passV'.agr[3] 3-nom	2	giving recipient	NP-dat	
+Icelandic	36	GIVE	rétta	Derived	2-dat passV'.agr[3] 3-nom	3	gift	NP-nom & V.agr	
+Icelandic	36	GIVE	rétta	Derived	3-nom passV'.agr[3]	3	gift	NP-nom & V.agr	
+Icelandic	36	GIVE	rétta	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	2	giving recipient	NP-dat	
+Icelandic	36	GIVE	rétta	Derived	x-nom passV'.agr[x] (2-dat) 3-acc	3	gift	NP-acc	
+Icelandic	37	SEND	senda	Basic	1-nom V.agr[1] 2-acc til+3-gen	1	sender	NP-nom & V.agr	A
+Icelandic	37	SEND	senda	Basic	1-nom V.agr[1] 2-acc til+3-gen	2	sent thing	NP-acc	P
+Icelandic	37	SEND	senda	Basic	1-nom V.agr[1] 2-acc til+3-gen	3	sending recipient	til+NP-gen	X
+Icelandic	37	SEND	senda	Derived	1-nom V'.agr[1] 3-dat 2-acc	1	sender	NP-nom & V.agr	
+Icelandic	37	SEND	senda	Derived	1-nom V'.agr[1] 3-dat 2-acc	2	sent thing	NP-acc	
+Icelandic	37	SEND	senda	Derived	1-nom V'.agr[1] 3-dat 2-acc	3	sending recipient	NP-dat	
+Icelandic	37	SEND	senda	Derived	2-nom medV'.agr[2] til+3-gen	2	sent thing	NP-nom & V.agr	
+Icelandic	37	SEND	senda	Derived	2-nom medV'.agr[2] til+3-gen	3	sending recipient	til+NP-gen	
+Icelandic	37	SEND	senda	Derived	2-nom passV'.agr[2] til+3-gen	2	sent thing	NP-nom & V.agr	
+Icelandic	37	SEND	senda	Derived	2-nom passV'.agr[2] til+3-gen	3	sending recipient	til+NP-gen	
+Icelandic	37	SEND	senda	Derived	x-nom passV'.agr[x] 2-acc	2	sent thing	NP-acc	
+Icelandic	38	CARRY	bera (1)	Basic	1-nom V.agr[1] 2-acc á+3-acc	1	carrier	NP-nom & V.agr	A
+Icelandic	38	CARRY	bera (1)	Basic	1-nom V.agr[1] 2-acc á+3-acc	2	carried thing	NP-acc	P
+Icelandic	38	CARRY	bera (1)	Basic	1-nom V.agr[1] 2-acc á+3-acc	3	carrying goal	á+NP-acc	X
+Icelandic	38	CARRY	bera (1)	Derived	2-acc V'	2	carried thing	NP-acc	
+Icelandic	38	CARRY	bera (1)	Derived	2-nom passV'.agr[2] á+3-acc	2	carried thing	NP-nom & V.agr	
+Icelandic	38	CARRY	bera (1)	Derived	2-nom passV'.agr[2] á+3-acc	3	carrying goal	á+NP-acc	
+Icelandic	38	CARRY	bera (1)	Derived	x-nom passV'.agr[x] 2-acc	2	carried thing	NP-acc	
+Icelandic	39	THROW	kasta	Basic	1-nom V.agr[1] 2-dat LOC3	1	thrower	NP-nom & V.agr	S
+Icelandic	39	THROW	kasta	Basic	1-nom V.agr[1] 2-dat LOC3	2	thrown thing	NP-dat	X
+Icelandic	39	THROW	kasta	Basic	1-nom V.agr[1] 2-dat LOC3	3	throwing goal	LOC	L
+Icelandic	39	THROW	kasta	Derived	2-dat passV' (LOC3)	2	thrown thing	NP-dat	
+Icelandic	39	THROW	kasta	Derived	2-dat passV' (LOC3)	3	throwing goal	LOC	
+Icelandic	39	THROW	kasta	Derived	2-dat V'	2	thrown thing	NP-dat	
+Icelandic	39	THROW	kasta	Derived	2-nom medV'.agr[2] LOC3	2	thrown thing	NP-nom & V.agr	
+Icelandic	39	THROW	kasta	Derived	2-nom medV'.agr[2] LOC3	3	throwing goal	LOC	
+Icelandic	40	TIE	binda	Basic	1-nom V.agr[1] 2-acc (með+3-dat) (við+4-acc)	1	tier	NP-nom & V.agr	A
+Icelandic	40	TIE	binda	Basic	1-nom V.agr[1] 2-acc (með+3-dat) (við+4-acc)	2	tied thing	NP-acc	P
+Icelandic	40	TIE	binda	Basic	1-nom V.agr[1] 2-acc (með+3-dat) (við+4-acc)	3	tying instrument	með +NP-dat	I
+Icelandic	40	TIE	binda	Basic	1-nom V.agr[1] 2-acc (með+3-dat) (við+4-acc)	4	tying goal	við+NP-acc	X
+Icelandic	40	TIE	binda	Derived	1/2-nom rcpV'.agr[1/2] hvort öðru	1	tier	NP-nom & V.agr	
+Icelandic	40	TIE	binda	Derived	1/2-nom rcpV'.agr[1/2] hvort öðru	2	tied thing	NP-nom & V.agr	
+Icelandic	40	TIE	binda	Derived	2-nom medV'.agr[2]	2	tied thing	NP-nom & V.agr	
+Icelandic	40	TIE	binda	Derived	2-nom passV'.agr[2] með+3-dat	2	tied thing	NP-nom & V.agr	
+Icelandic	40	TIE	binda	Derived	2-nom passV'.agr[2] með+3-dat	3	tying instrument	með +NP-dat	
+Icelandic	41	PUT	setja	Basic	1-nom V.agr[1] 2-acc LOC3	1	putter	NP-nom & V.agr	A
+Icelandic	41	PUT	setja	Basic	1-nom V.agr[1] 2-acc LOC3	2	put thing	NP-acc	P
+Icelandic	41	PUT	setja	Basic	1-nom V.agr[1] 2-acc LOC3	3	putting goal	LOC	L
+Icelandic	41	PUT	setja	Derived	1/2-nom reflV'.agr[1/2]	1	putter	NP-nom & V.agr	
+Icelandic	41	PUT	setja	Derived	1/2-nom reflV'.agr[1/2]	2	put thing	NP-nom & V.agr	
+Icelandic	41	PUT	setja	Derived	2-nom passV'.agr[2] LOC3	2	put thing	NP-nom & V.agr	
+Icelandic	41	PUT	setja	Derived	2-nom passV'.agr[2] LOC3	3	putting goal	LOC	
+Icelandic	41	PUT	setja	Derived	x-nom passV'.agr[x] 2-acc LOC3	2	put thing	NP-acc	
+Icelandic	41	PUT	setja	Derived	x-nom passV'.agr[x] 2-acc LOC3	3	putting goal	LOC	
+Icelandic	42	POUR	hella	Basic	1-nom V.agr[1] 2-dat LOC3	1	pourer	NP-nom & V.agr	S
+Icelandic	42	POUR	hella	Basic	1-nom V.agr[1] 2-dat LOC3	2	poured substance	NP-dat	X
+Icelandic	42	POUR	hella	Basic	1-nom V.agr[1] 2-dat LOC3	3	pouring goal	LOC	L
+Icelandic	42	POUR	hella	Derived	1-nom V'.agr[1] 3-acc með+2-dat	1	pourer	NP-nom & V.agr	
+Icelandic	42	POUR	hella	Derived	1-nom V'.agr[1] 3-acc með+2-dat	2	poured substance	með +NP-dat	
+Icelandic	42	POUR	hella	Derived	1-nom V'.agr[1] 3-acc með+2-dat	3	pouring goal	NP-acc	
+Icelandic	42	POUR	hella	Derived	2-dat passV' (LOC3)	2	poured substance	NP-dat	
+Icelandic	42	POUR	hella	Derived	2-dat passV' (LOC3)	3	pouring goal	LOC	
+Icelandic	42	POUR	hella	Derived	2-nom medV'.agr[2] LOC3	2	poured substance	NP-nom & V.agr	
+Icelandic	42	POUR	hella	Derived	2-nom medV'.agr[2] LOC3	3	pouring goal	LOC	
+Icelandic	42	POUR	hella	Derived	x-nom passV'.agr[x] 2-dat LOC3	2	poured substance	NP-dat	
+Icelandic	42	POUR	hella	Derived	x-nom passV'.agr[x] 2-dat LOC3	3	pouring goal	LOC	
+Icelandic	43	COVER	breiða	Basic	1-nom V.agr[1] 2-acc yfir+3-acc	1	coverer	NP-nom & V.agr	A
+Icelandic	43	COVER	breiða	Basic	1-nom V.agr[1] 2-acc yfir+3-acc	2	cover	NP-acc	P
+Icelandic	43	COVER	breiða	Basic	1-nom V.agr[1] 2-acc yfir+3-acc	3	covered thing	yfir+NP-acc	X
+Icelandic	43	COVER	breiða	Derived	2-nom passV'.agr[2] yfir+3-acc	2	cover	NP-nom & V.agr	
+Icelandic	43	COVER	breiða	Derived	2-nom passV'.agr[2] yfir+3-acc	3	covered thing	yfir+NP-acc	
+Icelandic	43	COVER	þekja	Basic	1-nom V.agr[1] 2-dat á+3-acc	1	coverer	NP-nom & V.agr	S
+Icelandic	43	COVER	þekja	Basic	1-nom V.agr[1] 2-dat á+3-acc	2	cover	NP-dat	X
+Icelandic	43	COVER	þekja	Basic	1-nom V.agr[1] 2-dat á+3-acc	3	covered thing	á+NP-acc	X
+Icelandic	43	COVER	þekja	Derived	1-nom V'.agr[1] 3-acc með+2-dat	1	coverer	NP-nom & V.agr	
+Icelandic	43	COVER	þekja	Derived	1-nom V'.agr[1] 3-acc með+2-dat	2	cover	með +NP-dat	
+Icelandic	43	COVER	þekja	Derived	1-nom V'.agr[1] 3-acc með+2-dat	3	covered thing	NP-acc	
+Icelandic	43	COVER	þekja	Derived	2-nom V'.agr[2]	2	cover	NP-nom & V.agr	
+Icelandic	43	COVER	þekja	Derived	3-nom passV'.agr[3]	3	covered thing	NP-nom & V.agr	
+Icelandic	44	FILL	fylla	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	1	filler	NP-nom & V.agr	A
+Icelandic	44	FILL	fylla	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	2	filled container	NP-acc	P
+Icelandic	44	FILL	fylla	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	3	filling material	af+NP-dat	X
+Icelandic	44	FILL	fylla	Derived	2-acc V'	2	filled container	NP-acc	
+Icelandic	44	FILL	fylla	Derived	2-nom medV'.agr[2]	2	filled container	NP-nom & V.agr	
+Icelandic	44	FILL	fylla	Derived	2-nom passV'.agr[2] með+3-dat	2	filled container	NP-nom & V.agr	
+Icelandic	44	FILL	fylla	Derived	2-nom passV'.agr[2] með+3-dat	3	filling material	með +NP-dat	
+Icelandic	44	FILL	fylla	Derived	x-nom passV'.agr[x] 2-acc með+3-dat	2	filled container	NP-acc	
+Icelandic	44	FILL	fylla	Derived	x-nom passV'.agr[x] 2-acc með+3-dat	3	filling material	með +NP-dat	
+Icelandic	45	LOAD	hlaða	Basic	1-nom V.agr[1] 2-dat á+3-acc	1	loader	NP-nom & V.agr	S
+Icelandic	45	LOAD	hlaða	Basic	1-nom V.agr[1] 2-dat á+3-acc	2	loaded thing	NP-dat	X
+Icelandic	45	LOAD	hlaða	Basic	1-nom V.agr[1] 2-dat á+3-acc	3	loading place	á+NP-acc	X
+Icelandic	45	LOAD	hlaða	Derived	1-nom V'.agr[1] 3-acc með+2-dat	1	loader	NP-nom & V.agr	
+Icelandic	45	LOAD	hlaða	Derived	1-nom V'.agr[1] 3-acc með+2-dat	2	loaded thing	með +NP-dat	
+Icelandic	45	LOAD	hlaða	Derived	1-nom V'.agr[1] 3-acc með+2-dat	3	loading place	NP-acc	
+Icelandic	45	LOAD	hlaða	Derived	2-dat V'	2	loaded thing	NP-dat	
+Icelandic	45	LOAD	hlaða	Derived	2-nom medV'.agr[2]	2	loaded thing	NP-nom & V.agr	
+Icelandic	45	LOAD	hlaða	Derived	3-nom passV'.agr[3]	3	loading place	NP-nom & V.agr	
+Icelandic	45	LOAD	hlaða	Derived	x-nom passV'.agr[x] 2-dat	2	loaded thing	NP-dat	
+Icelandic	46	BLINK	blikka (augunum)	Basic	1-nom V.agr[1]	1	blinker	NP-nom & V.agr	S
+Icelandic	46	BLINK	blikka (augunum)	Derived	1-nom V'.agr[1] 2-acc	1	blinker	NP-nom & V.agr	
+Icelandic	46	BLINK	blikka (augunum)	Derived	1-nom V'.agr[1] 2-acc	2	winked at person	NP-acc	
+Icelandic	46	BLINK	blikka (augunum)	Derived	x-nom passV'.agr[x]	1	blinker		
+Icelandic	47	COUGH	hósta	Basic	1-nom V.agr[1] (2-dat)	1	cougher	NP-nom & V.agr	S
+Icelandic	47	COUGH	hósta	Basic	1-nom V.agr[1] (2-dat)	2	coughed up thing	NP-dat	X
+Icelandic	47	COUGH	hósta	Derived	1-nom V'.agr[1] 2-dat LOC3	1	cougher	NP-nom & V.agr	
+Icelandic	47	COUGH	hósta	Derived	1-nom V'.agr[1] 2-dat LOC3	2	coughed up thing	NP-dat	
+Icelandic	47	COUGH	hósta	Derived	1-nom V'.agr[1] 2-dat LOC3	3	cough origin	LOC	
+Icelandic	47	COUGH	hósta	Derived	2-dat passV'	2	coughed up thing	NP-dat	
+Icelandic	47	COUGH	hósta	Derived	2-nom medV'.agr[2]	2	coughed up thing	NP-nom & V.agr	
+Icelandic	47	COUGH	hósta	Derived	x-nom passV'.agr[x] 2-dat	2	coughed up thing	NP-dat	
+Icelandic	48	CLIMB	klifra	Basic	1-nom V.agr[1] 2-acc	1	climber	NP-nom & V.agr	A
+Icelandic	48	CLIMB	klifra	Basic	1-nom V.agr[1] 2-acc	2	climbing goal	NP-acc	P
+Icelandic	48	CLIMB	klifra	Derived	x-nom passV'.agr[x] 2-acc	2	climbing goal	NP-acc	
+Icelandic	49	RUN	hlaupa	Basic	1-nom V.agr[1]	1	runner	NP-nom & V.agr	S
+Icelandic	49	RUN	hlaupa	Derived	1-nom medV'.agr[1]	1	runner	NP-nom & V.agr	
+Icelandic	50	SIT	sitja	Basic	1-nom V.agr[1] (LOC2)	1	sitter	NP-nom & V.agr	S
+Icelandic	50	SIT	sitja	Basic	1-nom V.agr[1] (LOC2)	2	sitting place	LOC	L
+Icelandic	50	SIT	sitja	Derived	x-nom passV'.agr[x]	2	sitting place		
+Icelandic	51	SIT DOWN	setjast	Basic	1-nom V.agr[1] (LOC2)	1	sitdowner	NP-nom & V.agr	S
+Icelandic	51	SIT DOWN	setjast	Basic	1-nom V.agr[1] (LOC2)	2	sitting-down place	LOC	L
+Icelandic	51	SIT DOWN	setjast	Derived	x-nom medV'.arg[x] LOC2	2	sitting-down place	LOC	
+Icelandic	52	JUMP	hoppa	Basic	1-nom V.agr[1]	1	jumper	NP-nom & V.agr	S
+Icelandic	53	SING	syngja	Basic	1-nom V.agr[1] 2-acc	1	singer	NP-nom & V.agr	A
+Icelandic	53	SING	syngja	Basic	1-nom V.agr[1] 2-acc	2	song	NP-acc	P
+Icelandic	53	SING	syngja	Derived	2-nom passV'.agr[2]	2	song	NP-nom & V.agr	
+Icelandic	53	SING	syngja	Derived	x-nom passV'.agr[x] 2-acc	2	song	NP-acc	
+Icelandic	54	GO	fara	Basic	1-nom V.agr[1] (á+2-acc)	1	goer	NP-nom & V.agr	S
+Icelandic	54	GO	fara	Basic	1-nom V.agr[1] (á+2-acc)	2	going goal	á+NP-acc	X
+Icelandic	54	GO	fara	Derived	x-nom passV'.agr[x] á+2-acc	2	going goal	á+NP-acc	
+Icelandic	55	LEAVE	yfirgefa	Basic	1-nom V.agr[1] 2-acc	1	leaver	NP-nom & V.agr	A
+Icelandic	55	LEAVE	yfirgefa	Basic	1-nom V.agr[1] 2-acc	2	left place/person	NP-acc	P
+Icelandic	55	LEAVE	yfirgefa	Derived	2-nom passV'.agr[2]	2	left place/person	NP-nom & V.agr	
+Icelandic	55	LEAVE	yfirgefa	Derived	x-nom passV'.agr[x] 2-acc	2	left place/person	NP-acc	
+Icelandic	56	LIVE	búa (1)	Basic	1-nom V.agr[1] í+2-dat	1	liver	NP-nom & V.agr	S
+Icelandic	56	LIVE	búa (1)	Basic	1-nom V.agr[1] í+2-dat	2	living place	í+NP-dat	X
+Icelandic	56	LIVE	búa (1)	Derived	x-nom passV'.agr[x] í+2-dat	2	living place	í+NP-dat	
+Icelandic	57	LAUGH	hlæja	Basic	1-nom V.agr[1]	1	laugher	NP-nom & V.agr	S
+Icelandic	58	SCREAM	öskra	Basic	1-nom V.agr[1]	1	screamer	NP-nom & V.agr	S
+Icelandic	58	SCREAM	öskra	Derived	1-nom rcpV'.agr[1] á	1	screamer	NP-nom & V.agr	
+Icelandic	59	FEEL PAIN	vera illt	Basic	1-dat V (í+2-dat)	1	pain-feeler	NP-dat	X
+Icelandic	59	FEEL PAIN	vera illt	Basic	1-dat V (í+2-dat)	2	pain locus	í+NP-dat	X
+Icelandic	60	FEEL COLD	vera kalt	Basic	1-dat V	1	freezing person	NP-dat	X
+Icelandic	61	DIE	deyja	Basic	1-nom V.agr[1]	1	dieer	NP-nom & V.agr	S
+Icelandic	62	PLAY	leika sér	Basic	1-nom V.agr[1]	1	player	NP-nom & V.agr	S
+Icelandic	62	PLAY	leika sér	Derived	1-nom rcpV'.agr[1] á	1	player	NP-nom & V.agr	
+Icelandic	63	BE SAD	vera sorgmæddur	Basic	1-nom V.agr[1]	1	sad person	NP-nom & V.agr	S
+Icelandic	64	BE HUNGRY	hungra	Basic	1-acc V	1	hungry person	NP-acc	X
+Icelandic	64	BE HUNGRY	vera svangur	Basic	1-nom V.agr[1]	1	hungry person	NP-nom & V.agr	S
+Icelandic	65	ROLL	rúlla	Basic	1-nom V.agr[1]	1	rolling entity	NP-nom & V.agr	S
+Icelandic	65	ROLL	rúlla	Derived	1-nom medV'.agr[1]	1	rolling entity	NP-nom & V.agr	
+Icelandic	65	ROLL	rúlla	Derived	4-nom V'.agr[1] 1-dat LOC3	1	rolling entity	NP-dat	
+Icelandic	65	ROLL	rúlla	Derived	4-nom V'.agr[1] 1-dat LOC3	3	rolling goal	LOC	
+Icelandic	65	ROLL	rúlla	Derived	4-nom V'.agr[1] 1-dat LOC3	4	roll causer	NP-nom & V.agr	
+Icelandic	66	SINK	sökkva (1)	Basic	1-nom V.agr[1]	1	sunken entity	NP-nom & V.agr	S
+Icelandic	67	BURN	brenna (1)	Basic	1-nom V.agr[1]	1	burnt thing	NP-nom & V.agr	S
+Icelandic	67	BURN	brenna (1)	Derived	1-nom medV'.agr[1]	1	burnt thing	NP-nom & V.agr	
+Icelandic	67	BURN	brenna (1)	Derived	1/2-nom reflV'.agr[1/2]	1	burnt thing	NP-nom & V.agr	
+Icelandic	68	BE DRY	vera þurr	Basic	1-nom V.agr[1]	1	dry thing	NP-nom & V.agr	S
+Icelandic	70	BE A HUNTER	vera veiðmaður	Basic	1-nom V.agr[1]	1	specialist/hunter	NP-nom & V.agr	S
+Icelandic	71	GRIND	mala	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	1	grinder	NP-nom & V.agr	A
+Icelandic	71	GRIND	mala	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	2	ground thing	NP-acc	P
+Icelandic	71	GRIND	mala	Basic	1-nom V.agr[1] 2-acc (með+3-dat)	3	grinding instrument	með +NP-dat	I
+Icelandic	71	GRIND	mala	Derived	2-nom medV'.agr[2]	2	ground thing	NP-nom & V.agr	
+Icelandic	71	GRIND	mala	Derived	2-nom passV'.agr[2]	2	ground thing	NP-nom & V.agr	
+Icelandic	71	GRIND	mala	Derived	x-nom passV'.agr[x] 2-acc	2	ground thing	NP-acc	
+Icelandic	72	WIPE	þurrka	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	1	wiper	NP-nom & V.agr	A
+Icelandic	72	WIPE	þurrka	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	2	wiped material	NP-acc	P
+Icelandic	72	WIPE	þurrka	Basic	1-nom V.agr[1] 2-acc (af+3-dat)	3	wiping surface	af+NP-dat	X
+Icelandic	72	WIPE	þurrka	Derived	2-nom medV'.agr[2]	2	wiped material	NP-nom & V.agr	
+Icelandic	72	WIPE	þurrka	Derived	2-nom passV'.agr[2] með+3-dat	2	wiped material	NP-nom & V.agr	
+Icelandic	72	WIPE	þurrka	Derived	2-nom passV'.agr[2] með+3-dat	3	wiping surface	með +NP-dat	
+Icelandic	72	WIPE	þurrka	Derived	x-nom passV'.agr[x] 2-acc með+3-dat	2	wiped material	NP-acc	
+Icelandic	72	WIPE	þurrka	Derived	x-nom passV'.agr[x] 2-acc með+3-dat	3	wiping surface	með +NP-dat	
+Icelandic	73	DIG	grafa	Basic	1-nom V.agr[1] eftir+2-dat	1	digger	NP-nom & V.agr	S
+Icelandic	73	DIG	grafa	Basic	1-nom V.agr[1] eftir+2-dat	2	dug up thing	eftir+NP-dat	X
+Icelandic	73	DIG	grafa	Derived	2-nom medV'.agr[2]	2	dug up thing	NP-nom & V.agr	
+Icelandic	73	DIG	grafa	Derived	x-nom passV'.agr[x] eftir+2-dat	2	dug up thing	eftir+NP-dat	
+Icelandic	74	PUSH	ýta	Basic	1-nom V.agr[1] 2-dat (í+3-acc)	1	pusher	NP-nom & V.agr	S
+Icelandic	74	PUSH	ýta	Basic	1-nom V.agr[1] 2-dat (í+3-acc)	2	pushee	NP-dat	X
+Icelandic	74	PUSH	ýta	Basic	1-nom V.agr[1] 2-dat (í+3-acc)	3	pushing goal	í+NP-acc	X
+Icelandic	74	PUSH	ýta	Derived	2-dat passV'	2	pushee	NP-dat	
+Icelandic	74	PUSH	ýta	Derived	x-nom passV'.agr[x] 2-dat (í+3-acc)	2	pushee	NP-dat	
+Icelandic	74	PUSH	ýta	Derived	x-nom passV'.agr[x] 2-dat (í+3-acc)	3	pushing goal	í+NP-acc	
+Icelandic	75	BRING	færa	Basic	1-nom V.agr[1] 2-dat 3-acc	1	bringer	NP-nom & V.agr	A
+Icelandic	75	BRING	færa	Basic	1-nom V.agr[1] 2-dat 3-acc	2	bringing recipient	NP-dat	X
+Icelandic	75	BRING	færa	Basic	1-nom V.agr[1] 2-dat 3-acc	3	brought thing	NP-acc	P
+Icelandic	75	BRING	færa	Derived	2-dat passV'.agr[3] 3-nom	2	bringing recipient	NP-dat	
+Icelandic	75	BRING	færa	Derived	2-dat passV'.agr[3] 3-nom	3	brought thing	NP-nom & V.agr	
+Icelandic	75	BRING	færa	Derived	2-nom medV'.agr[2]	2	bringing recipient	NP-nom & V.agr	
+Icelandic	75	BRING	færa	Derived	3-nom passV'.agr[3]	3	brought thing	NP-nom & V.agr	
+Icelandic	76	STEAL	stela	Basic	1-nom V.agr[1] 2-dat (frá+3-dat)	1	stealer	NP-nom & V.agr	S
+Icelandic	76	STEAL	stela	Basic	1-nom V.agr[1] 2-dat (frá+3-dat)	2	stolen thing	NP-dat	X
+Icelandic	76	STEAL	stela	Basic	1-nom V.agr[1] 2-dat (frá+3-dat)	3	stealing source	frá+NP-dat	X
+Icelandic	76	STEAL	stela	Derived	2-dat passV'	2	stolen thing	NP-dat	
+Icelandic	76	STEAL	stela	Derived	x-nom passV'.agr[x] 2-dat	2	stolen thing	NP-dat	
+Icelandic	77	TEACH	kenna	Basic	1-nom V.agr[1] 2-dat 3-acc	1	teacher	NP-nom & V.agr	A
+Icelandic	77	TEACH	kenna	Basic	1-nom V.agr[1] 2-dat 3-acc	2	teachee	NP-dat	X
+Icelandic	77	TEACH	kenna	Basic	1-nom V.agr[1] 2-dat 3-acc	3	taught content	NP-acc	P
+Icelandic	77	TEACH	kenna	Derived	2-dat passV'.agr[3] 3-nom	2	teachee	NP-dat	
+Icelandic	77	TEACH	kenna	Derived	2-dat passV'.agr[3] 3-nom	3	taught content	NP-nom & V.agr	
+Icelandic	77	TEACH	kenna	Derived	3-nom passV'.agr[3]	3	taught content	NP-nom & V.agr	
+Icelandic	78	HEAR	heyra	Basic	1-nom V.agr[1] í+2-dat	1	hearer	NP-nom & V.agr	S
+Icelandic	78	HEAR	heyra	Basic	1-nom V.agr[1] í+2-dat	2	heard sound	í+NP-dat	X
+Icelandic	78	HEAR	heyra	Derived	2-nom medV'.agr[2]	2	heard sound	NP-nom & V.agr	
+Icelandic	78	HEAR	heyra	Derived	x-nom medV'.arg[x] í+2-dat	2	heard sound	í+NP-dat	
+Icelandic	78	HEAR	heyra	Derived	x-nom passV'.agr[x] í+2-dat	2	heard sound	í+NP-dat	
+Icelandic	79	COOK	elda	Basic	1-nom V.agr[1] 2-acc	1	cooker	NP-nom & V.agr	A
+Icelandic	79	COOK	elda	Basic	1-nom V.agr[1] 2-acc	2	cooked food	NP-acc	P
+Icelandic	79	COOK	elda	Derived	2-nom passV'.agr[2]	2	cooked food	NP-nom & V.agr	
+Icelandic	79	COOK	elda	Derived	x-nom passV'.agr[x] 2-acc	2	cooked food	NP-acc	
+Icelandic	82	BE ILL	vera veikur	Basic	1-nom V.agr[1]	1	sick person	NP-nom & V.agr	S
+Icelandic	86	GET	berast	Basic	1-dat V.agr[2] 2-nom (frá+3-dat)	1	receiver	NP-dat	X
+Icelandic	86	GET	berast	Basic	1-dat V.agr[2] 2-nom (frá+3-dat)	2	received thing	NP-nom & V.agr	S
+Icelandic	86	GET	berast	Basic	1-dat V.agr[2] 2-nom (frá+3-dat)	3	receiving source	frá+NP-dat	X
+Icelandic	86	GET	berast	Derived	2-nom V'.agr[2] 1-dat	1	receiver	NP-dat	
+Icelandic	86	GET	berast	Derived	2-nom V'.agr[2] 1-dat	2	received thing	NP-nom & V.agr	
+Icelandic	90	FEEL SLEEPY	sækja syfja	Basic	1-acc V	1	sleepy head	NP-acc	X
+Icelandic	91	DREAM	dreyma	Basic	1-acc V 2-acc	1	dreamer	NP-acc	X
+Icelandic	91	DREAM	dreyma	Basic	1-acc V 2-acc	2	dream(t-of thing)	NP-acc	X
+Icelandic	92	FEEL SICK	vera óglatt	Basic	1-dat V	1	sick feeling person	NP-dat	X
+Icelandic	93	PROPOSE (a marriage)	biðja (2)	Basic	1-nom V.agr[1] 2-gen	1	proposer	NP-nom & V.agr	S
+Icelandic	93	PROPOSE (a marriage)	biðja (2)	Basic	1-nom V.agr[1] 2-gen	2	proposed to person	NP-gen	X
+Icelandic	93	PROPOSE (a marriage)	biðja (2)	Derived	2-gen passV'	2	proposed to person	NP-gen	
+Icelandic	93	PROPOSE (a marriage)	biðja (2)	Derived	x-nom passV'.agr[x] 2-gen	2	proposed to person	NP-gen	
+Icelandic	95	CAPSIZE	hvolfa	Basic	1-nom V.agr[1] 2-dat	1	capsizing causer	NP-nom & V.agr	S
+Icelandic	95	CAPSIZE	hvolfa	Basic	1-nom V.agr[1] 2-dat	2	capsizing entity	NP-dat	X
+Icelandic	95	CAPSIZE	hvolfa	Derived	2-dat passV'	2	capsizing entity	NP-dat	
+Icelandic	95	CAPSIZE	hvolfa	Derived	2-dat V'	2	capsizing entity	NP-dat	
+Icelandic	95	CAPSIZE	hvolfa	Derived	2-nom medV'.agr[2]	2	capsizing entity	NP-nom & V.agr	
+Icelandic	95	CAPSIZE	hvolfa	Derived	x-nom passV'.agr[x] 2-dat	2	capsizing entity	NP-dat	
+Icelandic	96	STUMBLE	skrika fótur	Basic	1-dat V	1	stumbling person	NP-dat	X
+Icelandic	97	SAY (impersonal)	geta	Basic	1-nom V.agr[1] 2-gen (í+3-dat)	1	sayer (quotation)	NP-nom & V.agr	S
+Icelandic	97	SAY (impersonal)	geta	Basic	1-nom V.agr[1] 2-gen (í+3-dat)	2	said thing  (quotation)	NP-gen	X
+Icelandic	97	SAY (impersonal)	geta	Basic	1-nom V.agr[1] 2-gen (í+3-dat)	3	source of quotation	í+NP-dat	X
+Icelandic	97	SAY (impersonal)	geta	Derived	2-gen passV' (í+3-dat)	2	said thing  (quotation)	NP-gen	
+Icelandic	97	SAY (impersonal)	geta	Derived	2-gen passV' (í+3-dat)	3	source of quotation	í+NP-dat	
+Icelandic	97	SAY (impersonal)	geta	Derived	2-gen V' í+3-dat	2	said thing  (quotation)	NP-gen	
+Icelandic	97	SAY (impersonal)	geta	Derived	2-gen V' í+3-dat	3	source of quotation	í+NP-dat	
+Icelandic	97	SAY (impersonal)	geta	Derived	x-nom passV'.agr[x] 2-gen (í+3-dat)	2	said thing  (quotation)	NP-gen	
+Icelandic	97	SAY (impersonal)	geta	Derived	x-nom passV'.agr[x] 2-gen (í+3-dat)	3	source of quotation	í+NP-dat	
+Icelandic	98	MAKE ONE'S PRESENCE KNOWN	verða vart	Basic	1-gen V	1	presence known maker	NP-gen	X
+Icelandic	99	BE NEEDED	vera þörf	Basic	1-gen V	1	needee	NP-gen	X
+Icelandic	114	LONG FOR	fýsa	Basic	1-acc V 2-gen	1	longer	NP-acc	X
+Icelandic	114	LONG FOR	fýsa	Basic	1-acc V 2-gen	2	longed for person/thing	NP-gen	X
+Icelandic	115	DRIVE OUT	reka	Basic	1-nom V.agr[1] 2-acc	1	out driver	NP-nom & V.agr	A
+Icelandic	115	DRIVE OUT	reka	Basic	1-nom V.agr[1] 2-acc	2	driven out thing/person	NP-acc	P
+Icelandic	115	DRIVE OUT	reka	Derived	1/2-nom rcpV'.agr[1/2]	1	out driver	NP-nom & V.agr	
+Icelandic	115	DRIVE OUT	reka	Derived	1/2-nom rcpV'.agr[1/2]	2	driven out thing/person	NP-nom & V.agr	
+Icelandic	115	DRIVE OUT	reka	Derived	2-acc V'	2	driven out thing/person	NP-acc	
+Icelandic	115	DRIVE OUT	reka	Derived	2-nom passV'.agr[2]	2	driven out thing/person	NP-nom & V.agr	
+Icelandic	115	DRIVE OUT	reka	Derived	x-nom passV'.agr[x] 2-acc	2	driven out thing/person	NP-acc	
+Icelandic	116	BURN (tr)	brenna (2)	Basic	1-nom V.agr[1] 2-acc	1	burner (tr)	NP-nom & V.agr	A
+Icelandic	116	BURN (tr)	brenna (2)	Basic	1-nom V.agr[1] 2-acc	2	burnt thing (tr)	NP-acc	P
+Icelandic	116	BURN (tr)	brenna (2)	Derived	1/2-nom reflV'.agr[1/2]	1	burner (tr)	NP-nom & V.agr	
+Icelandic	116	BURN (tr)	brenna (2)	Derived	1/2-nom reflV'.agr[1/2]	2	burnt thing (tr)	NP-nom & V.agr	
+Icelandic	116	BURN (tr)	brenna (2)	Derived	2-nom passV'.agr[2]	2	burnt thing (tr)	NP-nom & V.agr	
+Icelandic	116	BURN (tr)	brenna (2)	Derived	x-nom passV'.agr[x] 2-acc	2	burnt thing (tr)	NP-acc	
+Icelandic	125	SINK (tr)	sökkva (2)	Basic	1-nom V.agr[1] 2-dat	1	sink-(caus)er (tr)	NP-nom & V.agr	S
+Icelandic	125	SINK (tr)	sökkva (2)	Basic	1-nom V.agr[1] 2-dat	2	sunken entity (tr)	NP-dat	X
+Icelandic	125	SINK (tr)	sökkva (2)	Derived	2-dat passV'	2	sunken entity (tr)	NP-dat	
+Icelandic	125	SINK (tr)	sökkva (2)	Derived	x-nom passV'.agr[x] 2-dat	2	sunken entity (tr)	NP-dat	
+Icelandic	126	BOIL (tr)	sjóða	Basic	1-nom V.agr[1] 2-acc	1	boiler (tr)	NP-nom & V.agr	A
+Icelandic	126	BOIL (tr)	sjóða	Basic	1-nom V.agr[1] 2-acc	2	boiled thing (tr)	NP-acc	P
+Icelandic	126	BOIL (tr)	sjóða	Derived	2-nom medV'.agr[2]	2	boiled thing (tr)	NP-nom & V.agr	
+Icelandic	126	BOIL (tr)	sjóða	Derived	2-nom V'.agr[2]	2	boiled thing (tr)	NP-nom & V.agr	
+Icelandic	126	BOIL (tr)	sjóða	Derived	x-nom passV'.agr[x] 2-acc	2	boiled thing (tr)	NP-acc	
+Icelandic	129	DESERVE	bera (2)	Basic	1-dat V.agr[2] 2-nom	1	deserver	NP-dat	X
+Icelandic	129	DESERVE	bera (2)	Basic	1-dat V.agr[2] 2-nom	2	deserved thing	NP-nom & V.agr	S
+Icelandic	130	BE BURDENED	brenna fyrir brjósti	Basic	1-dat V.agr[2] 2-nom	1	burdened person	NP-dat	X
+Icelandic	130	BE BURDENED	brenna fyrir brjósti	Basic	1-dat V.agr[2] 2-nom	2	burden	NP-nom & V.agr	S
+Icelandic	130	BE BURDENED	brenna fyrir brjósti	Derived	2-nom V'.agr[2] 1-dat	1	burdened person	NP-dat	
+Icelandic	130	BE BURDENED	brenna fyrir brjósti	Derived	2-nom V'.agr[2] 1-dat	2	burden	NP-nom & V.agr	
+Icelandic	130	BE BURDENED	búa (2)	Basic	1-dat V.agr[2] 2-nom	1	burdened person	NP-dat	X
+Icelandic	130	BE BURDENED	búa (2)	Basic	1-dat V.agr[2] 2-nom	2	burden	NP-nom & V.agr	S
+Icelandic	130	BE BURDENED	búa (2)	Derived	2-nom V'.agr[2] 1-dat	1	burdened person	NP-dat	
+Icelandic	130	BE BURDENED	búa (2)	Derived	2-nom V'.agr[2] 1-dat	2	burden	NP-nom & V.agr	
+Icelandic	131	HAVE AN INTUITION	segja hugur um	Basic	1-dat V um+2	1	intuition haver	NP-dat	X
+Icelandic	131	HAVE AN INTUITION	segja hugur um	Basic	1-dat V um+2	2	intuition topic	um+NP	X
+Icelandic	132	BE GLAD	hlæja hugur í brjósti	Basic	1-dat V	1	gladdened entity	NP-dat	X
+Icelandic	133	GO WELL	leika allt í lyndi	Basic	1-dat V.agr[2] 2-nom	1	well going beneficiary	NP-dat	X
+Icelandic	133	GO WELL	leika allt í lyndi	Basic	1-dat V.agr[2] 2-nom	2	well going entity	NP-nom & V.agr	S
+Icelandic	134	SETTLE	slá niður	Basic	1-nom V.agr[1] í+2-dat	1	settler	NP-nom & V.agr	S
+Icelandic	134	SETTLE	slá niður	Basic	1-nom V.agr[1] í+2-dat	2	settling place	í+NP-dat	X
+Icelandic	135	GET EXCITED	hlaupa kapp í kinn	Basic	1-dat V	1	excited entity	NP-dat	X
+Icelandic	136	BE FAR FROM THE TRUTH	fara fjarri	Basic	1-dat V	1	untrue entity	NP-dat	X

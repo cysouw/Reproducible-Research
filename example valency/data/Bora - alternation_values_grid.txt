@@ -1,0 +1,85 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Causative derivation	Instrument alternation	Reciprocal derivation	Reflexive derivation	Secondary object ALL or INST/LOC
+Bora	1	EAT	majchó	43, 73	1-nom 2-acc V	Regularly	Never	Never	Never	Never
+Bora	1	EAT	do	72	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	2	HUG	ámabúcu	74	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	3	LOOK AT	ɨɨté	33	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	4	SEE	ájtyumɨ́	32, 40	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	5	SMELL	árahjúcu	75	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	6	FEAR	illí	35, 118	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	7	FRIGHTEN	íllívyeebó	34	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	8	LIKE	ímillé	36	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	9	KNOW	wáájacú	30	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	10	THINK	ɨ́tsaave	31, 76	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	11	SEARCH FOR	nehco	37	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	12	WASH	nijtyú	45, 46	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	13	DRESS	uácó	44, 125	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Marginally	Never
+Bora	13	DRESS	babyáro	77, 107	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Regularly
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	100	1-nom 2-acc V	Regularly	Marginally	Regularly	Regularly	Never
+Bora	15	HELP	pɨ́aabó	42, 111	1-nom 2-acc V	Regularly	Never	Regularly	Never	Never
+Bora	16	FOLLOW	úraavyé	41	1-nom 2-acc V	Regularly	Never	Regularly	Never	Never
+Bora	17	MEET	ájtyumɨ́	32, 40	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	18	TALK	ihjyúvá	29	1-nom 2-soc 3-loc/instr V	Regularly	Never	Regularly	Regularly	Never
+Bora	19	ASK FOR	táuméí	28, 94, 115, 127	1-nom 2-acc 3-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	20	SHOUT AT	tsɨjpáju	78	1-nom 2-acc V	Regularly	Never	Regularly	Never	Never
+Bora	20	SHOUT AT	ihjyúcunu	87	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	21	TELL	uubálle	27	1-nom 2-acc 3-nom V	Regularly	Never	Regularly	Regularly	Never
+Bora	22	SAY	néé	26	1-nom 2-acc UTT3	Regularly	Never	Regularly	Regularly	Never
+Bora	23	NAME	dilló	25, 106	1-nom 2-acc 3-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	24	BUILD	meenú	24, 79	1-nom 2-acc 3-abl V	Regularly	Never	Marginally	Marginally	Never
+Bora	25	BREAK	cápujuhjácó	23	1-nom 2-acc (3-loc/instr) V	Regularly	Marginally	Regularly	Regularly	Never
+Bora	26	KILL	dsɨ́jɨ́vetsó	22, 113	1-nom 2-acc (3-loc/instr) V	Regularly	Regularly	Regularly	Regularly	Never
+Bora	27	BEAT	wádɨ́rɨhcó	20, 21	1-nom 2-acc (3-loc/instr) V	Regularly	Regularly	Regularly	Regularly	Never
+Bora	28	HIT	wádɨ́rɨhcó	20, 21	1-nom 2-acc (3-loc/instr) V	Regularly	Regularly	Regularly	Regularly	Never
+Bora	29	TOUCH	dómajcó	19	1-nom 2-acc (3-loc/instr) V	Regularly	Never	Regularly	Regularly	Never
+Bora	30	CUT	kídyahɨ́nú	18, 112	1-nom 2-acc (3-loc/instr) V	Regularly	Regularly	Regularly	Regularly	Never
+Bora	31	TAKE	ujcú	15, 122	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Regularly	Never
+Bora	32	TEAR	dóbahjyúcú	80	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Regularly	Never
+Bora	33	PEEL	ɨhtu	81	1-nom 2-acc V	Regularly	No data	Never	Regularly	Never
+Bora	34	HIDE	páátanú	17	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Never	Never
+Bora	35	SHOW	úúje-tsó	14, 95	1-nom 2-acc (3-all) V	No data	Never	Regularly	Regularly	Never
+Bora	36	GIVE	ajcú	13, 96, 126	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	37	SEND	walló	11, 12, 121	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	38	CARRY	tsajtyé	9, 10	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	39	THROW	waaó	7, 102, 114, 120	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	40	TIE	chijchú	4	1-nom 2-acc 3-abl V	Regularly	Regularly	Regularly	Regularly	Never
+Bora	41	PUT	picyo	3, 6, 97, 124	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	42	POUR	cáhpiñú	5, 123	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	43	COVER	wátájcó	1, 64, 65, 66, 67, 68, 69, 70, 128	1-nom 2-acc (3-all) V	Regularly	Regularly	Regularly	Regularly	Marginally
+Bora	44	FILL	wahpétsó	2, 71	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Regularly	Never
+Bora	45	LOAD	picyo	3, 6, 97, 124	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	46	BLINK	támihjyáco	82	1-nom V	Regularly	Never	Marginally	Never	Never
+Bora	47	COUGH	éjéhtsó	47	1-nom V	Regularly	Never	Never	Never	Never
+Bora	48	CLIMB	nériivyé	48	1-nom 2-acc V	Regularly	Never	Regularly	Never	Never
+Bora	49	RUN	dsɨɨné	51	1-nom V	Regularly	Never	Marginally	No data	Never
+Bora	50	SIT	ácuúcunú	50, 83	1-nom (2-loc/instr) V	Regularly	Never	Never	Never	Never
+Bora	51	SIT DOWN	ácuuvé	49	1-nom (2-all) V	Regularly	Never	Never	Never	Never
+Bora	52	JUMP	cátsíñiivyé	52	1-nom V	Regularly	Never	Never	Never	Never
+Bora	53	SING	májtsivá	56	1-nom V	Regularly	Never	Never	Never	Never
+Bora	54	GO	pee	84	1-nom (2-all) V	Regularly	Never	Marginally	Never	Never
+Bora	55	LEAVE	tsáá	53, 54	1-nom 2-abl V	Regularly	Never	Never	Never	Never
+Bora	55	LEAVE	ijchívye	85	1-nom 2-abl V	Regularly	Never	Never	Never	Never
+Bora	56	LIVE	ícyahíjcá	55	1-nom (2-loc/instr) V	Never	Never	Never	Never	Never
+Bora	57	LAUGH	gooco	86, 117	1-nom (2-loc/instr) V	Regularly	Never	Regularly	Never	Never
+Bora	58	SCREAM								
+Bora	59	FEEL PAIN	avyé	58	1-nom 2-acc V	Regularly	Never	Never	Never	Never
+Bora	60	FEEL COLD	tsuucó	61	1-nom V	Regularly	Never	Never	Never	Never
+Bora	61	DIE	dsɨ́jívé	59	1-nom V	Regularly	Never	Never	Never	Never
+Bora	62	PLAY	ɨɨcú	88	1-nom (2-loc/instr) V	Regularly	Never	Marginally	Never	Never
+Bora	63	BE SAD	ɨ́dáátsové	89	1-nom V	Regularly	Never	Marginally	Marginally	Never
+Bora	64	BE HUNGRY	ajyábáávaté	62	1-nom V	Regularly	Never	Never	Never	Never
+Bora	65	ROLL	víyiivye	90	1-nom (2-all) V	Regularly	Never	Never	Never	Never
+Bora	66	SINK	pámaave	91	1-nom V	Regularly	Never	Never	Never	Never
+Bora	67	BURN	áiivye	92	1-nom V	Regularly	Never	Never	Marginally	Never
+Bora	68	BE DRY	daarɨ	93	1-nom V	Regularly	Never	Never	Never	Never
+Bora	69	RAIN	allé	63, 116	1-nom V	Regularly	Never	Never	Never	Never
+Bora	70	BE A HUNTER	no verbal counterpart	108	N/A	Never	Never	Never	Never	Never
+Bora	71	GRIND	caanú	98	1-nom 2-acc (3-loc/instr) V	Regularly	Never	Never	Never	Never
+Bora	72	WIPE	píchóuáco	99	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Regularly	Never
+Bora	73	DIG	tsehdi	110	1-nom 2-acc (3-loc/instr) V	Regularly	Never	Regularly	Never	Never
+Bora	74	PUSH	waaó	7, 102, 114, 120	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Regularly	Never
+Bora	75	BRING	tsiivá	8, 119	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Never	Never
+Bora	76	STEAL	naní	16	1-nom 2-acc 3-abl V	Regularly	Never	Regularly	Never	Never
+Bora	77	TEACH	úwááboó	104	1-nom 2-acc (3-all) V	Regularly	Never	Regularly	Marginally	Never
+Bora	78	HEAR	lleebo	101	1-nom 2-acc V	Regularly	Never	Regularly	Regularly	Never
+Bora	79	COOK	tuu	103	1-nom 2-acc V	Regularly	Never	Never	Marginally	Never
+Bora	80	BOIL	waáne	105	1-nom V	Regularly	Never	Never	Never	Never

@@ -1,0 +1,441 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Bora	1	EAT	do	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	1	EAT	do	Instrument alternation	Never	
+Bora	1	EAT	do	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	1	EAT	do	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	1	EAT	do	Secondary object ALL or INST/LOC	Never	
+Bora	1	EAT	majchó	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	1	EAT	majchó	Instrument alternation	Never	
+Bora	1	EAT	majchó	Reciprocal derivation	Never	
+Bora	1	EAT	majchó	Reflexive derivation	Never	
+Bora	1	EAT	majchó	Secondary object ALL or INST/LOC	Never	
+Bora	2	HUG	ámabúcu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	2	HUG	ámabúcu	Instrument alternation	Never	
+Bora	2	HUG	ámabúcu	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	2	HUG	ámabúcu	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	2	HUG	ámabúcu	Secondary object ALL or INST/LOC	Never	
+Bora	3	LOOK AT	ɨɨté	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	3	LOOK AT	ɨɨté	Instrument alternation	Never	
+Bora	3	LOOK AT	ɨɨté	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	3	LOOK AT	ɨɨté	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	3	LOOK AT	ɨɨté	Secondary object ALL or INST/LOC	Never	
+Bora	4	SEE	ájtyumɨ́	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	4	SEE	ájtyumɨ́	Instrument alternation	Never	
+Bora	4	SEE	ájtyumɨ́	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	4	SEE	ájtyumɨ́	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	4	SEE	ájtyumɨ́	Secondary object ALL or INST/LOC	Never	
+Bora	5	SMELL	árahjúcu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	5	SMELL	árahjúcu	Instrument alternation	Never	
+Bora	5	SMELL	árahjúcu	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	5	SMELL	árahjúcu	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	5	SMELL	árahjúcu	Secondary object ALL or INST/LOC	Never	
+Bora	6	FEAR	illí	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	6	FEAR	illí	Instrument alternation	Never	
+Bora	6	FEAR	illí	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	6	FEAR	illí	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	6	FEAR	illí	Secondary object ALL or INST/LOC	Never	
+Bora	7	FRIGHTEN	íllívyeebó	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	7	FRIGHTEN	íllívyeebó	Instrument alternation	Never	
+Bora	7	FRIGHTEN	íllívyeebó	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	7	FRIGHTEN	íllívyeebó	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	7	FRIGHTEN	íllívyeebó	Secondary object ALL or INST/LOC	Never	
+Bora	8	LIKE	ímillé	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	8	LIKE	ímillé	Instrument alternation	Never	
+Bora	8	LIKE	ímillé	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	8	LIKE	ímillé	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	8	LIKE	ímillé	Secondary object ALL or INST/LOC	Never	
+Bora	9	KNOW	wáájacú	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	9	KNOW	wáájacú	Instrument alternation	Never	
+Bora	9	KNOW	wáájacú	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	9	KNOW	wáájacú	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	9	KNOW	wáájacú	Secondary object ALL or INST/LOC	Never	
+Bora	10	THINK	ɨ́tsaave	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	10	THINK	ɨ́tsaave	Instrument alternation	Never	
+Bora	10	THINK	ɨ́tsaave	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	10	THINK	ɨ́tsaave	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	10	THINK	ɨ́tsaave	Secondary object ALL or INST/LOC	Never	
+Bora	11	SEARCH FOR	nehco	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	11	SEARCH FOR	nehco	Instrument alternation	Never	
+Bora	11	SEARCH FOR	nehco	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	11	SEARCH FOR	nehco	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	11	SEARCH FOR	nehco	Secondary object ALL or INST/LOC	Never	
+Bora	12	WASH	nijtyú	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	12	WASH	nijtyú	Instrument alternation	Never	
+Bora	12	WASH	nijtyú	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	12	WASH	nijtyú	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	12	WASH	nijtyú	Secondary object ALL or INST/LOC	Never	
+Bora	13	DRESS	babyáro	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	13	DRESS	babyáro	Instrument alternation	Never	
+Bora	13	DRESS	babyáro	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	13	DRESS	babyáro	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	13	DRESS	babyáro	Secondary object ALL or INST/LOC	Regularly	1-nom 2-acc 3-loc/instr V'
+Bora	13	DRESS	uácó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	13	DRESS	uácó	Instrument alternation	Never	
+Bora	13	DRESS	uácó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	13	DRESS	uácó	Reflexive derivation	Marginally	
+Bora	13	DRESS	uácó	Secondary object ALL or INST/LOC	Never	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Instrument alternation	Marginally	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Secondary object ALL or INST/LOC	Never	
+Bora	15	HELP	pɨ́aabó	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	15	HELP	pɨ́aabó	Instrument alternation	Never	
+Bora	15	HELP	pɨ́aabó	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	15	HELP	pɨ́aabó	Reflexive derivation	Never	
+Bora	15	HELP	pɨ́aabó	Secondary object ALL or INST/LOC	Never	
+Bora	16	FOLLOW	úraavyé	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	16	FOLLOW	úraavyé	Instrument alternation	Never	
+Bora	16	FOLLOW	úraavyé	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	16	FOLLOW	úraavyé	Reflexive derivation	Never	
+Bora	16	FOLLOW	úraavyé	Secondary object ALL or INST/LOC	Never	
+Bora	17	MEET	ájtyumɨ́	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	17	MEET	ájtyumɨ́	Instrument alternation	Never	
+Bora	17	MEET	ájtyumɨ́	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	17	MEET	ájtyumɨ́	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	17	MEET	ájtyumɨ́	Secondary object ALL or INST/LOC	Never	
+Bora	18	TALK	ihjyúvá	Causative derivation	Regularly	4-nom 1-acc 2-soc 3-loc/instr V'tso
+Bora	18	TALK	ihjyúvá	Instrument alternation	Never	
+Bora	18	TALK	ihjyúvá	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	18	TALK	ihjyúvá	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	18	TALK	ihjyúvá	Secondary object ALL or INST/LOC	Never	
+Bora	19	ASK FOR	táuméí	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-acc V'tso
+Bora	19	ASK FOR	táuméí	Instrument alternation	Never	
+Bora	19	ASK FOR	táuméí	Reciprocal derivation	Regularly	1/2-nom 3-acc V'jcatsí
+Bora	19	ASK FOR	táuméí	Reflexive derivation	Regularly	1/2-nom 3-acc V'meí
+Bora	19	ASK FOR	táuméí	Secondary object ALL or INST/LOC	Never	
+Bora	20	SHOUT AT	ihjyúcunu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	20	SHOUT AT	ihjyúcunu	Instrument alternation	Never	
+Bora	20	SHOUT AT	ihjyúcunu	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	20	SHOUT AT	ihjyúcunu	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	20	SHOUT AT	ihjyúcunu	Secondary object ALL or INST/LOC	Never	
+Bora	20	SHOUT AT	tsɨjpáju	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	20	SHOUT AT	tsɨjpáju	Instrument alternation	Never	
+Bora	20	SHOUT AT	tsɨjpáju	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	20	SHOUT AT	tsɨjpáju	Reflexive derivation	Never	
+Bora	20	SHOUT AT	tsɨjpáju	Secondary object ALL or INST/LOC	Never	
+Bora	21	TELL	uubálle	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-nom V'tso
+Bora	21	TELL	uubálle	Instrument alternation	Never	
+Bora	21	TELL	uubálle	Reciprocal derivation	Regularly	1/2-nom 3-nom V'jcatsí
+Bora	21	TELL	uubálle	Reflexive derivation	Regularly	1/2-nom 3-nom V'meí
+Bora	21	TELL	uubálle	Secondary object ALL or INST/LOC	Never	
+Bora	22	SAY	néé	Causative derivation	Regularly	4-nom 1-acc 2-acc UTT3 V'tso
+Bora	22	SAY	néé	Instrument alternation	Never	
+Bora	22	SAY	néé	Reciprocal derivation	Regularly	1/2-nom UTT3 V'jcatsí
+Bora	22	SAY	néé	Reflexive derivation	Regularly	1/2-nom UTT3 V'meí
+Bora	22	SAY	néé	Secondary object ALL or INST/LOC	Never	
+Bora	23	NAME	dilló	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-acc V'tso
+Bora	23	NAME	dilló	Instrument alternation	Never	
+Bora	23	NAME	dilló	Reciprocal derivation	Regularly	1/2-nom 3-acc V'jcatsí
+Bora	23	NAME	dilló	Reflexive derivation	Regularly	1/2-nom 3-acc V'meí
+Bora	23	NAME	dilló	Secondary object ALL or INST/LOC	Never	
+Bora	24	BUILD	meenú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	24	BUILD	meenú	Instrument alternation	Never	
+Bora	24	BUILD	meenú	Reciprocal derivation	Marginally	
+Bora	24	BUILD	meenú	Reflexive derivation	Marginally	
+Bora	24	BUILD	meenú	Secondary object ALL or INST/LOC	Never	
+Bora	25	BREAK	cápujuhjácó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	25	BREAK	cápujuhjácó	Instrument alternation	Marginally	
+Bora	25	BREAK	cápujuhjácó	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	25	BREAK	cápujuhjácó	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	25	BREAK	cápujuhjácó	Secondary object ALL or INST/LOC	Never	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	26	KILL	dsɨ́jɨ́vetsó	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	26	KILL	dsɨ́jɨ́vetsó	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	26	KILL	dsɨ́jɨ́vetsó	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	26	KILL	dsɨ́jɨ́vetsó	Secondary object ALL or INST/LOC	Never	
+Bora	27	BEAT	wádɨ́rɨhcó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	27	BEAT	wádɨ́rɨhcó	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	27	BEAT	wádɨ́rɨhcó	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	27	BEAT	wádɨ́rɨhcó	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	27	BEAT	wádɨ́rɨhcó	Secondary object ALL or INST/LOC	Never	
+Bora	28	HIT	wádɨ́rɨhcó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	28	HIT	wádɨ́rɨhcó	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	28	HIT	wádɨ́rɨhcó	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	28	HIT	wádɨ́rɨhcó	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	28	HIT	wádɨ́rɨhcó	Secondary object ALL or INST/LOC	Never	
+Bora	29	TOUCH	dómajcó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	29	TOUCH	dómajcó	Instrument alternation	Never	
+Bora	29	TOUCH	dómajcó	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	29	TOUCH	dómajcó	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	29	TOUCH	dómajcó	Secondary object ALL or INST/LOC	Never	
+Bora	30	CUT	kídyahɨ́nú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	30	CUT	kídyahɨ́nú	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	30	CUT	kídyahɨ́nú	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	30	CUT	kídyahɨ́nú	Reflexive derivation	Regularly	1/2-nom 3-loc/instr V'meí
+Bora	30	CUT	kídyahɨ́nú	Secondary object ALL or INST/LOC	Never	
+Bora	31	TAKE	ujcú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	31	TAKE	ujcú	Instrument alternation	Never	
+Bora	31	TAKE	ujcú	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	31	TAKE	ujcú	Reflexive derivation	Regularly	1/2-nom 3-abl V'meí
+Bora	31	TAKE	ujcú	Secondary object ALL or INST/LOC	Never	
+Bora	32	TEAR	dóbahjyúcú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	32	TEAR	dóbahjyúcú	Instrument alternation	Never	
+Bora	32	TEAR	dóbahjyúcú	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	32	TEAR	dóbahjyúcú	Reflexive derivation	Regularly	1/2-nom 3-abl V'meí
+Bora	32	TEAR	dóbahjyúcú	Secondary object ALL or INST/LOC	Never	
+Bora	33	PEEL	ɨhtu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	33	PEEL	ɨhtu	Instrument alternation	No data	
+Bora	33	PEEL	ɨhtu	Reciprocal derivation	Never	
+Bora	33	PEEL	ɨhtu	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	33	PEEL	ɨhtu	Secondary object ALL or INST/LOC	Never	
+Bora	34	HIDE	páátanú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	34	HIDE	páátanú	Instrument alternation	Never	
+Bora	34	HIDE	páátanú	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	34	HIDE	páátanú	Reflexive derivation	Never	
+Bora	34	HIDE	páátanú	Secondary object ALL or INST/LOC	Never	
+Bora	35	SHOW	úúje-tsó	Causative derivation	No data	
+Bora	35	SHOW	úúje-tsó	Instrument alternation	Never	
+Bora	35	SHOW	úúje-tsó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	35	SHOW	úúje-tsó	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	35	SHOW	úúje-tsó	Secondary object ALL or INST/LOC	Never	
+Bora	36	GIVE	ajcú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	36	GIVE	ajcú	Instrument alternation	Never	
+Bora	36	GIVE	ajcú	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	36	GIVE	ajcú	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	36	GIVE	ajcú	Secondary object ALL or INST/LOC	Never	
+Bora	37	SEND	walló	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	37	SEND	walló	Instrument alternation	Never	
+Bora	37	SEND	walló	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	37	SEND	walló	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	37	SEND	walló	Secondary object ALL or INST/LOC	Never	
+Bora	38	CARRY	tsajtyé	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	38	CARRY	tsajtyé	Instrument alternation	Never	
+Bora	38	CARRY	tsajtyé	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	38	CARRY	tsajtyé	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	38	CARRY	tsajtyé	Secondary object ALL or INST/LOC	Never	
+Bora	39	THROW	waaó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	39	THROW	waaó	Instrument alternation	Never	
+Bora	39	THROW	waaó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	39	THROW	waaó	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	39	THROW	waaó	Secondary object ALL or INST/LOC	Never	
+Bora	40	TIE	chijchú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	40	TIE	chijchú	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	40	TIE	chijchú	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	40	TIE	chijchú	Reflexive derivation	Regularly	1/2-nom 3-abl V'meí
+Bora	40	TIE	chijchú	Secondary object ALL or INST/LOC	Never	
+Bora	41	PUT	picyo	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	41	PUT	picyo	Instrument alternation	Never	
+Bora	41	PUT	picyo	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	41	PUT	picyo	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	41	PUT	picyo	Secondary object ALL or INST/LOC	Never	
+Bora	42	POUR	cáhpiñú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	42	POUR	cáhpiñú	Instrument alternation	Never	
+Bora	42	POUR	cáhpiñú	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	42	POUR	cáhpiñú	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	42	POUR	cáhpiñú	Secondary object ALL or INST/LOC	Never	
+Bora	43	COVER	wátájcó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	43	COVER	wátájcó	Instrument alternation	Regularly	3-nom 2-acc V'
+Bora	43	COVER	wátájcó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	43	COVER	wátájcó	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	43	COVER	wátájcó	Secondary object ALL or INST/LOC	Marginally	
+Bora	44	FILL	wahpétsó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	44	FILL	wahpétsó	Instrument alternation	Never	
+Bora	44	FILL	wahpétsó	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	44	FILL	wahpétsó	Reflexive derivation	Regularly	1/2-nom 3-abl V'meí
+Bora	44	FILL	wahpétsó	Secondary object ALL or INST/LOC	Never	
+Bora	45	LOAD	picyo	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	45	LOAD	picyo	Instrument alternation	Never	
+Bora	45	LOAD	picyo	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	45	LOAD	picyo	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	45	LOAD	picyo	Secondary object ALL or INST/LOC	Never	
+Bora	46	BLINK	támihjyáco	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	46	BLINK	támihjyáco	Instrument alternation	Never	
+Bora	46	BLINK	támihjyáco	Reciprocal derivation	Marginally	
+Bora	46	BLINK	támihjyáco	Reflexive derivation	Never	
+Bora	46	BLINK	támihjyáco	Secondary object ALL or INST/LOC	Never	
+Bora	47	COUGH	éjéhtsó	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	47	COUGH	éjéhtsó	Instrument alternation	Never	
+Bora	47	COUGH	éjéhtsó	Reciprocal derivation	Never	
+Bora	47	COUGH	éjéhtsó	Reflexive derivation	Never	
+Bora	47	COUGH	éjéhtsó	Secondary object ALL or INST/LOC	Never	
+Bora	48	CLIMB	nériivyé	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	48	CLIMB	nériivyé	Instrument alternation	Never	
+Bora	48	CLIMB	nériivyé	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	48	CLIMB	nériivyé	Reflexive derivation	Never	
+Bora	48	CLIMB	nériivyé	Secondary object ALL or INST/LOC	Never	
+Bora	49	RUN	dsɨɨné	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	49	RUN	dsɨɨné	Instrument alternation	Never	
+Bora	49	RUN	dsɨɨné	Reciprocal derivation	Marginally	
+Bora	49	RUN	dsɨɨné	Reflexive derivation	No data	
+Bora	49	RUN	dsɨɨné	Secondary object ALL or INST/LOC	Never	
+Bora	50	SIT	ácuúcunú	Causative derivation	Regularly	4-nom 1-acc (2-loc/instr) V'tso
+Bora	50	SIT	ácuúcunú	Instrument alternation	Never	
+Bora	50	SIT	ácuúcunú	Reciprocal derivation	Never	
+Bora	50	SIT	ácuúcunú	Reflexive derivation	Never	
+Bora	50	SIT	ácuúcunú	Secondary object ALL or INST/LOC	Never	
+Bora	51	SIT DOWN	ácuuvé	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	51	SIT DOWN	ácuuvé	Instrument alternation	Never	
+Bora	51	SIT DOWN	ácuuvé	Reciprocal derivation	Never	
+Bora	51	SIT DOWN	ácuuvé	Reflexive derivation	Never	
+Bora	51	SIT DOWN	ácuuvé	Secondary object ALL or INST/LOC	Never	
+Bora	52	JUMP	cátsíñiivyé	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	52	JUMP	cátsíñiivyé	Instrument alternation	Never	
+Bora	52	JUMP	cátsíñiivyé	Reciprocal derivation	Never	
+Bora	52	JUMP	cátsíñiivyé	Reflexive derivation	Never	
+Bora	52	JUMP	cátsíñiivyé	Secondary object ALL or INST/LOC	Never	
+Bora	53	SING	májtsivá	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	53	SING	májtsivá	Instrument alternation	Never	
+Bora	53	SING	májtsivá	Reciprocal derivation	Never	
+Bora	53	SING	májtsivá	Reflexive derivation	Never	
+Bora	53	SING	májtsivá	Secondary object ALL or INST/LOC	Never	
+Bora	54	GO	pee	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	54	GO	pee	Instrument alternation	Never	
+Bora	54	GO	pee	Reciprocal derivation	Marginally	
+Bora	54	GO	pee	Reflexive derivation	Never	
+Bora	54	GO	pee	Secondary object ALL or INST/LOC	Never	
+Bora	55	LEAVE	ijchívye	Causative derivation	Regularly	4-nom 1-acc 2-abl V'tso
+Bora	55	LEAVE	ijchívye	Instrument alternation	Never	
+Bora	55	LEAVE	ijchívye	Reciprocal derivation	Never	
+Bora	55	LEAVE	ijchívye	Reflexive derivation	Never	
+Bora	55	LEAVE	ijchívye	Secondary object ALL or INST/LOC	Never	
+Bora	55	LEAVE	tsáá	Causative derivation	Regularly	4-nom 1-acc 2-abl V'tso
+Bora	55	LEAVE	tsáá	Instrument alternation	Never	
+Bora	55	LEAVE	tsáá	Reciprocal derivation	Never	
+Bora	55	LEAVE	tsáá	Reflexive derivation	Never	
+Bora	55	LEAVE	tsáá	Secondary object ALL or INST/LOC	Never	
+Bora	56	LIVE	ícyahíjcá	Causative derivation	Never	
+Bora	56	LIVE	ícyahíjcá	Instrument alternation	Never	
+Bora	56	LIVE	ícyahíjcá	Reciprocal derivation	Never	
+Bora	56	LIVE	ícyahíjcá	Reflexive derivation	Never	
+Bora	56	LIVE	ícyahíjcá	Secondary object ALL or INST/LOC	Never	
+Bora	57	LAUGH	gooco	Causative derivation	Regularly	4-nom 1-acc (2-loc/instr) V'tso
+Bora	57	LAUGH	gooco	Instrument alternation	Never	
+Bora	57	LAUGH	gooco	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	57	LAUGH	gooco	Reflexive derivation	Never	
+Bora	57	LAUGH	gooco	Secondary object ALL or INST/LOC	Never	
+Bora	59	FEEL PAIN	avyé	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	59	FEEL PAIN	avyé	Instrument alternation	Never	
+Bora	59	FEEL PAIN	avyé	Reciprocal derivation	Never	
+Bora	59	FEEL PAIN	avyé	Reflexive derivation	Never	
+Bora	59	FEEL PAIN	avyé	Secondary object ALL or INST/LOC	Never	
+Bora	60	FEEL COLD	tsuucó	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	60	FEEL COLD	tsuucó	Instrument alternation	Never	
+Bora	60	FEEL COLD	tsuucó	Reciprocal derivation	Never	
+Bora	60	FEEL COLD	tsuucó	Reflexive derivation	Never	
+Bora	60	FEEL COLD	tsuucó	Secondary object ALL or INST/LOC	Never	
+Bora	61	DIE	dsɨ́jívé	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	61	DIE	dsɨ́jívé	Instrument alternation	Never	
+Bora	61	DIE	dsɨ́jívé	Reciprocal derivation	Never	
+Bora	61	DIE	dsɨ́jívé	Reflexive derivation	Never	
+Bora	61	DIE	dsɨ́jívé	Secondary object ALL or INST/LOC	Never	
+Bora	62	PLAY	ɨɨcú	Causative derivation	Regularly	4-nom 1-acc (2-loc/instr) V'tso
+Bora	62	PLAY	ɨɨcú	Instrument alternation	Never	
+Bora	62	PLAY	ɨɨcú	Reciprocal derivation	Marginally	
+Bora	62	PLAY	ɨɨcú	Reflexive derivation	Never	
+Bora	62	PLAY	ɨɨcú	Secondary object ALL or INST/LOC	Never	
+Bora	63	BE SAD	ɨ́dáátsové	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	63	BE SAD	ɨ́dáátsové	Instrument alternation	Never	
+Bora	63	BE SAD	ɨ́dáátsové	Reciprocal derivation	Marginally	
+Bora	63	BE SAD	ɨ́dáátsové	Reflexive derivation	Marginally	
+Bora	63	BE SAD	ɨ́dáátsové	Secondary object ALL or INST/LOC	Never	
+Bora	64	BE HUNGRY	ajyábáávaté	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	64	BE HUNGRY	ajyábáávaté	Instrument alternation	Never	
+Bora	64	BE HUNGRY	ajyábáávaté	Reciprocal derivation	Never	
+Bora	64	BE HUNGRY	ajyábáávaté	Reflexive derivation	Never	
+Bora	64	BE HUNGRY	ajyábáávaté	Secondary object ALL or INST/LOC	Never	
+Bora	65	ROLL	víyiivye	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	65	ROLL	víyiivye	Instrument alternation	Never	
+Bora	65	ROLL	víyiivye	Reciprocal derivation	Never	
+Bora	65	ROLL	víyiivye	Reflexive derivation	Never	
+Bora	65	ROLL	víyiivye	Secondary object ALL or INST/LOC	Never	
+Bora	66	SINK	pámaave	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	66	SINK	pámaave	Instrument alternation	Never	
+Bora	66	SINK	pámaave	Reciprocal derivation	Never	
+Bora	66	SINK	pámaave	Reflexive derivation	Never	
+Bora	66	SINK	pámaave	Secondary object ALL or INST/LOC	Never	
+Bora	67	BURN	áiivye	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	67	BURN	áiivye	Instrument alternation	Never	
+Bora	67	BURN	áiivye	Reciprocal derivation	Never	
+Bora	67	BURN	áiivye	Reflexive derivation	Marginally	
+Bora	67	BURN	áiivye	Secondary object ALL or INST/LOC	Never	
+Bora	68	BE DRY	daarɨ	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	68	BE DRY	daarɨ	Instrument alternation	Never	
+Bora	68	BE DRY	daarɨ	Reciprocal derivation	Never	
+Bora	68	BE DRY	daarɨ	Reflexive derivation	Never	
+Bora	68	BE DRY	daarɨ	Secondary object ALL or INST/LOC	Never	
+Bora	69	RAIN	allé	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	69	RAIN	allé	Instrument alternation	Never	
+Bora	69	RAIN	allé	Reciprocal derivation	Never	
+Bora	69	RAIN	allé	Reflexive derivation	Never	
+Bora	69	RAIN	allé	Secondary object ALL or INST/LOC	Never	
+Bora	70	BE A HUNTER	no verbal counterpart	Causative derivation	Never	
+Bora	70	BE A HUNTER	no verbal counterpart	Instrument alternation	Never	
+Bora	70	BE A HUNTER	no verbal counterpart	Reciprocal derivation	Never	
+Bora	70	BE A HUNTER	no verbal counterpart	Reflexive derivation	Never	
+Bora	70	BE A HUNTER	no verbal counterpart	Secondary object ALL or INST/LOC	Never	
+Bora	71	GRIND	caanú	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	71	GRIND	caanú	Instrument alternation	Never	
+Bora	71	GRIND	caanú	Reciprocal derivation	Never	
+Bora	71	GRIND	caanú	Reflexive derivation	Never	
+Bora	71	GRIND	caanú	Secondary object ALL or INST/LOC	Never	
+Bora	72	WIPE	píchóuáco	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	72	WIPE	píchóuáco	Instrument alternation	Never	
+Bora	72	WIPE	píchóuáco	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	72	WIPE	píchóuáco	Reflexive derivation	Regularly	1/2-nom 3-abl V'meí
+Bora	72	WIPE	píchóuáco	Secondary object ALL or INST/LOC	Never	
+Bora	73	DIG	tsehdi	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-loc/instr V'tso
+Bora	73	DIG	tsehdi	Instrument alternation	Never	
+Bora	73	DIG	tsehdi	Reciprocal derivation	Regularly	1/2-nom 3-loc/instr V'jcatsí
+Bora	73	DIG	tsehdi	Reflexive derivation	Never	
+Bora	73	DIG	tsehdi	Secondary object ALL or INST/LOC	Never	
+Bora	74	PUSH	waaó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	74	PUSH	waaó	Instrument alternation	Never	
+Bora	74	PUSH	waaó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	74	PUSH	waaó	Reflexive derivation	Regularly	1/2-nom 3-all V'meí
+Bora	74	PUSH	waaó	Secondary object ALL or INST/LOC	Never	
+Bora	75	BRING	tsiivá	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	75	BRING	tsiivá	Instrument alternation	Never	
+Bora	75	BRING	tsiivá	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	75	BRING	tsiivá	Reflexive derivation	Never	
+Bora	75	BRING	tsiivá	Secondary object ALL or INST/LOC	Never	
+Bora	76	STEAL	naní	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-abl V'tso
+Bora	76	STEAL	naní	Instrument alternation	Never	
+Bora	76	STEAL	naní	Reciprocal derivation	Regularly	1/2-nom 3-abl V'jcatsí
+Bora	76	STEAL	naní	Reflexive derivation	Never	
+Bora	76	STEAL	naní	Secondary object ALL or INST/LOC	Never	
+Bora	77	TEACH	úwááboó	Causative derivation	Regularly	4-nom 1-acc 2-acc 3-all V'tso
+Bora	77	TEACH	úwááboó	Instrument alternation	Never	
+Bora	77	TEACH	úwááboó	Reciprocal derivation	Regularly	1/2-nom (3-all) V'jcatsí
+Bora	77	TEACH	úwááboó	Reflexive derivation	Marginally	
+Bora	77	TEACH	úwááboó	Secondary object ALL or INST/LOC	Never	
+Bora	78	HEAR	lleebo	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	78	HEAR	lleebo	Instrument alternation	Never	
+Bora	78	HEAR	lleebo	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	78	HEAR	lleebo	Reflexive derivation	Regularly	1/2-nom V'meí
+Bora	78	HEAR	lleebo	Secondary object ALL or INST/LOC	Never	
+Bora	79	COOK	tuu	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	79	COOK	tuu	Instrument alternation	Never	
+Bora	79	COOK	tuu	Reciprocal derivation	Never	
+Bora	79	COOK	tuu	Reflexive derivation	Marginally	
+Bora	79	COOK	tuu	Secondary object ALL or INST/LOC	Never	
+Bora	80	BOIL	waáne	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	80	BOIL	waáne	Instrument alternation	Never	
+Bora	80	BOIL	waáne	Reciprocal derivation	Never	
+Bora	80	BOIL	waáne	Reflexive derivation	Never	
+Bora	80	BOIL	waáne	Secondary object ALL or INST/LOC	Never	
+Bora	81	APPEAR	bóhowaavé	Causative derivation	Regularly	4-nom 1-acc (2-loc/instr) V'tso
+Bora	81	APPEAR	bóhowaavé	Instrument alternation	Never	
+Bora	81	APPEAR	bóhowaavé	Reciprocal derivation	Never	
+Bora	81	APPEAR	bóhowaavé	Reflexive derivation	Never	
+Bora	81	APPEAR	bóhowaavé	Secondary object ALL or INST/LOC	Never	
+Bora	84	FALL	áákityé	Causative derivation	Never	
+Bora	84	FALL	áákityé	Instrument alternation	Never	
+Bora	84	FALL	áákityé	Reciprocal derivation	Never	
+Bora	84	FALL	áákityé	Reflexive derivation	Never	
+Bora	84	FALL	áákityé	Secondary object ALL or INST/LOC	Never	
+Bora	93	HUNT (FOR)	llííñájá	Causative derivation	Regularly	4-nom 1-acc V'tso
+Bora	93	HUNT (FOR)	llííñájá	Instrument alternation	No data	
+Bora	93	HUNT (FOR)	llííñájá	Reciprocal derivation	Never	
+Bora	93	HUNT (FOR)	llííñájá	Reflexive derivation	Never	
+Bora	93	HUNT (FOR)	llííñájá	Secondary object ALL or INST/LOC	Never	
+Bora	93	HUNT (FOR)	taavá	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	93	HUNT (FOR)	taavá	Instrument alternation	Never	
+Bora	93	HUNT (FOR)	taavá	Reciprocal derivation	Never	
+Bora	93	HUNT (FOR)	taavá	Reflexive derivation	Never	
+Bora	93	HUNT (FOR)	taavá	Secondary object ALL or INST/LOC	Never	
+Bora	96	MARRY	táábavá	Causative derivation	Regularly	4-nom 1-acc 2-all V'tso
+Bora	96	MARRY	táábavá	Instrument alternation	Never	
+Bora	96	MARRY	táábavá	Reciprocal derivation	Regularly	1/2-nom V'jcatsí
+Bora	96	MARRY	táábavá	Reflexive derivation	Never	
+Bora	96	MARRY	táábavá	Secondary object ALL or INST/LOC	Never	

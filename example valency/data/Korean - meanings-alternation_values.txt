@@ -1,0 +1,1041 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Korean	1	EAT	meogda	Benefactive Alternation	Never	
+Korean	1	EAT	meogda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	1	EAT	meogda	Causative (periphrastic)	Regularly	
+Korean	1	EAT	meogda	hada-alternation	Never	
+Korean	1	EAT	meogda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	1	EAT	meogda	Locative alternation	Never	
+Korean	1	EAT	meogda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	1	EAT	meogda	Possessor ascension	Regularly	
+Korean	1	EAT	meogda	Recipient double accusative alternation	Never	
+Korean	1	EAT	meogda	Reciprocal Alternation	Never	
+Korean	2	HUG	anda	Benefactive Alternation	Never	
+Korean	2	HUG	anda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	2	HUG	anda	Causative (periphrastic)	Regularly	
+Korean	2	HUG	anda	hada-alternation	Never	
+Korean	2	HUG	anda	ji-Passive (periphrastic)	Never	
+Korean	2	HUG	anda	Locative alternation	Never	
+Korean	2	HUG	anda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	2	HUG	anda	Possessor ascension	Regularly	
+Korean	2	HUG	anda	Recipient double accusative alternation	Never	
+Korean	2	HUG	anda	Reciprocal Alternation	Regularly	1-nom 2-com V'
+Korean	3	LOOK AT	baraboda	Benefactive Alternation	Never	
+Korean	3	LOOK AT	baraboda	Causative (morphological)	Never	
+Korean	3	LOOK AT	baraboda	Causative (periphrastic)	Regularly	
+Korean	3	LOOK AT	baraboda	hada-alternation	Never	
+Korean	3	LOOK AT	baraboda	ji-Passive (periphrastic)	Never	
+Korean	3	LOOK AT	baraboda	Locative alternation	Never	
+Korean	3	LOOK AT	baraboda	Passive (morphological)	Never	
+Korean	3	LOOK AT	baraboda	Possessor ascension	Regularly	
+Korean	3	LOOK AT	baraboda	Recipient double accusative alternation	Never	
+Korean	3	LOOK AT	baraboda	Reciprocal Alternation	Never	
+Korean	4	SEE	boda	Benefactive Alternation	Never	
+Korean	4	SEE	boda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	4	SEE	boda	Causative (periphrastic)	Regularly	
+Korean	4	SEE	boda	hada-alternation	Never	
+Korean	4	SEE	boda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	4	SEE	boda	Locative alternation	Never	
+Korean	4	SEE	boda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	4	SEE	boda	Possessor ascension	Regularly	
+Korean	4	SEE	boda	Recipient double accusative alternation	Never	
+Korean	4	SEE	boda	Reciprocal Alternation	Never	
+Korean	5	SMELL	naemsaereul matta	Benefactive Alternation	Never	
+Korean	5	SMELL	naemsaereul matta	Causative (morphological)	Never	
+Korean	5	SMELL	naemsaereul matta	Causative (periphrastic)	Regularly	
+Korean	5	SMELL	naemsaereul matta	hada-alternation	Never	
+Korean	5	SMELL	naemsaereul matta	ji-Passive (periphrastic)	Never	
+Korean	5	SMELL	naemsaereul matta	Locative alternation	Never	
+Korean	5	SMELL	naemsaereul matta	Passive (morphological)	Never	
+Korean	5	SMELL	naemsaereul matta	Possessor ascension	Regularly	
+Korean	5	SMELL	naemsaereul matta	Recipient double accusative alternation	Never	
+Korean	5	SMELL	naemsaereul matta	Reciprocal Alternation	Never	
+Korean	6	FEAR	museobda	Benefactive Alternation	Never	
+Korean	6	FEAR	museobda	Causative (morphological)	Never	
+Korean	6	FEAR	museobda	Causative (periphrastic)	Never	
+Korean	6	FEAR	museobda	hada-alternation	Regularly	
+Korean	6	FEAR	museobda	ji-Passive (periphrastic)	Never	
+Korean	6	FEAR	museobda	Locative alternation	Never	
+Korean	6	FEAR	museobda	Passive (morphological)	Never	
+Korean	6	FEAR	museobda	Possessor ascension	Never	
+Korean	6	FEAR	museobda	Recipient double accusative alternation	Never	
+Korean	6	FEAR	museobda	Reciprocal Alternation	Never	
+Korean	7	FRIGHTEN	nollaeda	Benefactive Alternation	Never	
+Korean	7	FRIGHTEN	nollaeda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	7	FRIGHTEN	nollaeda	Causative (periphrastic)	Regularly	
+Korean	7	FRIGHTEN	nollaeda	hada-alternation	Never	
+Korean	7	FRIGHTEN	nollaeda	ji-Passive (periphrastic)	Never	
+Korean	7	FRIGHTEN	nollaeda	Locative alternation	Never	
+Korean	7	FRIGHTEN	nollaeda	Passive (morphological)	Never	
+Korean	7	FRIGHTEN	nollaeda	Possessor ascension	Never	
+Korean	7	FRIGHTEN	nollaeda	Recipient double accusative alternation	Never	
+Korean	7	FRIGHTEN	nollaeda	Reciprocal Alternation	Never	
+Korean	8	LIKE	johda	Benefactive Alternation	Never	
+Korean	8	LIKE	johda	Causative (morphological)	Never	
+Korean	8	LIKE	johda	Causative (periphrastic)	Never	
+Korean	8	LIKE	johda	hada-alternation	Regularly	
+Korean	8	LIKE	johda	ji-Passive (periphrastic)	Never	
+Korean	8	LIKE	johda	Locative alternation	Never	
+Korean	8	LIKE	johda	Passive (morphological)	Never	
+Korean	8	LIKE	johda	Possessor ascension	Never	
+Korean	8	LIKE	johda	Recipient double accusative alternation	Never	
+Korean	8	LIKE	johda	Reciprocal Alternation	Never	
+Korean	9	KNOW	alda	Benefactive Alternation	Never	
+Korean	9	KNOW	alda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	9	KNOW	alda	Causative (periphrastic)	Regularly	
+Korean	9	KNOW	alda	hada-alternation	Never	
+Korean	9	KNOW	alda	ji-Passive (periphrastic)	Marginally	
+Korean	9	KNOW	alda	Locative alternation	Never	
+Korean	9	KNOW	alda	Passive (morphological)	Never	
+Korean	9	KNOW	alda	Possessor ascension	Never	
+Korean	9	KNOW	alda	Recipient double accusative alternation	Never	
+Korean	9	KNOW	alda	Reciprocal Alternation	Never	
+Korean	10	THINK	saenggaghada	Benefactive Alternation	Never	
+Korean	10	THINK	saenggaghada	Causative (morphological)	Never	
+Korean	10	THINK	saenggaghada	Causative (periphrastic)	Regularly	
+Korean	10	THINK	saenggaghada	hada-alternation	Never	
+Korean	10	THINK	saenggaghada	ji-Passive (periphrastic)	Never	
+Korean	10	THINK	saenggaghada	Locative alternation	Never	
+Korean	10	THINK	saenggaghada	Passive (morphological)	Never	
+Korean	10	THINK	saenggaghada	Possessor ascension	Never	
+Korean	10	THINK	saenggaghada	Recipient double accusative alternation	Never	
+Korean	10	THINK	saenggaghada	Reciprocal Alternation	Never	
+Korean	11	SEARCH FOR	chajda	Benefactive Alternation	Regularly	
+Korean	11	SEARCH FOR	chajda	Causative (morphological)	Never	
+Korean	11	SEARCH FOR	chajda	Causative (periphrastic)	Regularly	
+Korean	11	SEARCH FOR	chajda	hada-alternation	Never	
+Korean	11	SEARCH FOR	chajda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	11	SEARCH FOR	chajda	Locative alternation	Never	
+Korean	11	SEARCH FOR	chajda	Passive (morphological)	Never	
+Korean	11	SEARCH FOR	chajda	Possessor ascension	Never	
+Korean	11	SEARCH FOR	chajda	Recipient double accusative alternation	Never	
+Korean	11	SEARCH FOR	chajda	Reciprocal Alternation	Never	
+Korean	12	WASH	mogyoksikida	Benefactive Alternation	Never	
+Korean	12	WASH	mogyoksikida	Causative (morphological)	Never	
+Korean	12	WASH	mogyoksikida	Causative (periphrastic)	Regularly	
+Korean	12	WASH	mogyoksikida	hada-alternation	Never	
+Korean	12	WASH	mogyoksikida	ji-Passive (periphrastic)	Never	
+Korean	12	WASH	mogyoksikida	Locative alternation	Never	
+Korean	12	WASH	mogyoksikida	Passive (morphological)	Never	
+Korean	12	WASH	mogyoksikida	Possessor ascension	Never	
+Korean	12	WASH	mogyoksikida	Recipient double accusative alternation	Never	
+Korean	12	WASH	mogyoksikida	Reciprocal Alternation	Never	
+Korean	12	WASH	ppalda	Benefactive Alternation	Never	
+Korean	12	WASH	ppalda	Causative (morphological)	Never	
+Korean	12	WASH	ppalda	Causative (periphrastic)	Regularly	
+Korean	12	WASH	ppalda	hada-alternation	Never	
+Korean	12	WASH	ppalda	ji-Passive (periphrastic)	Regularly	2-nom 3-instr passperV'
+Korean	12	WASH	ppalda	Locative alternation	Never	
+Korean	12	WASH	ppalda	Passive (morphological)	Never	
+Korean	12	WASH	ppalda	Possessor ascension	Never	
+Korean	12	WASH	ppalda	Recipient double accusative alternation	Never	
+Korean	12	WASH	ppalda	Reciprocal Alternation	Never	
+Korean	12	WASH	sesuhada	Benefactive Alternation	Never	
+Korean	12	WASH	sesuhada	Causative (morphological)	Never	
+Korean	12	WASH	sesuhada	Causative (periphrastic)	Regularly	
+Korean	12	WASH	sesuhada	hada-alternation	Never	
+Korean	12	WASH	sesuhada	ji-Passive (periphrastic)	Never	
+Korean	12	WASH	sesuhada	Locative alternation	Never	
+Korean	12	WASH	sesuhada	Passive (morphological)	Never	
+Korean	12	WASH	sesuhada	Possessor ascension	Never	
+Korean	12	WASH	sesuhada	Recipient double accusative alternation	Never	
+Korean	12	WASH	sesuhada	Reciprocal Alternation	Never	
+Korean	12	WASH	ssisda	Benefactive Alternation	Never	
+Korean	12	WASH	ssisda	Causative (morphological)	Never	
+Korean	12	WASH	ssisda	Causative (periphrastic)	Regularly	
+Korean	12	WASH	ssisda	hada-alternation	Never	
+Korean	12	WASH	ssisda	ji-Passive (periphrastic)	Regularly	2-nom 3-instr passperV'
+Korean	12	WASH	ssisda	Locative alternation	Never	
+Korean	12	WASH	ssisda	Passive (morphological)	Regularly	2-nom 1-dat 3-instr passV'
+Korean	12	WASH	ssisda	Possessor ascension	Regularly	
+Korean	12	WASH	ssisda	Recipient double accusative alternation	Never	
+Korean	12	WASH	ssisda	Reciprocal Alternation	Never	
+Korean	13	DRESS	os(eul) ibda	Benefactive Alternation	Never	
+Korean	13	DRESS	os(eul) ibda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	13	DRESS	os(eul) ibda	Causative (periphrastic)	Regularly	
+Korean	13	DRESS	os(eul) ibda	hada-alternation	Never	
+Korean	13	DRESS	os(eul) ibda	ji-Passive (periphrastic)	Never	
+Korean	13	DRESS	os(eul) ibda	Locative alternation	Never	
+Korean	13	DRESS	os(eul) ibda	Passive (morphological)	Never	
+Korean	13	DRESS	os(eul) ibda	Possessor ascension	Never	
+Korean	13	DRESS	os(eul) ibda	Recipient double accusative alternation	Never	
+Korean	13	DRESS	os(eul) ibda	Reciprocal Alternation	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Benefactive Alternation	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Causative (morphological)	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Causative (periphrastic)	Regularly	
+Korean	14	SHAVE (a body part/person)	kkakkda	hada-alternation	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	14	SHAVE (a body part/person)	kkakkda	Locative alternation	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	14	SHAVE (a body part/person)	kkakkda	Possessor ascension	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Recipient double accusative alternation	Never	
+Korean	14	SHAVE (a body part/person)	kkakkda	Reciprocal Alternation	Never	
+Korean	15	HELP	dowajuda	Benefactive Alternation	Never	
+Korean	15	HELP	dowajuda	Causative (morphological)	Never	
+Korean	15	HELP	dowajuda	Causative (periphrastic)	Regularly	
+Korean	15	HELP	dowajuda	hada-alternation	Never	
+Korean	15	HELP	dowajuda	ji-Passive (periphrastic)	Never	
+Korean	15	HELP	dowajuda	Locative alternation	Never	
+Korean	15	HELP	dowajuda	Passive (morphological)	Never	
+Korean	15	HELP	dowajuda	Possessor ascension	Never	
+Korean	15	HELP	dowajuda	Recipient double accusative alternation	Never	
+Korean	15	HELP	dowajuda	Reciprocal Alternation	Never	
+Korean	16	FOLLOW	ttaragada	Benefactive Alternation	Never	
+Korean	16	FOLLOW	ttaragada	Causative (morphological)	Never	
+Korean	16	FOLLOW	ttaragada	Causative (periphrastic)	Regularly	
+Korean	16	FOLLOW	ttaragada	hada-alternation	Never	
+Korean	16	FOLLOW	ttaragada	ji-Passive (periphrastic)	Never	
+Korean	16	FOLLOW	ttaragada	Locative alternation	Never	
+Korean	16	FOLLOW	ttaragada	Passive (morphological)	Never	
+Korean	16	FOLLOW	ttaragada	Possessor ascension	Never	
+Korean	16	FOLLOW	ttaragada	Recipient double accusative alternation	Never	
+Korean	16	FOLLOW	ttaragada	Reciprocal Alternation	Never	
+Korean	17	MEET	mannada	Benefactive Alternation	Never	
+Korean	17	MEET	mannada	Causative (morphological)	Never	
+Korean	17	MEET	mannada	Causative (periphrastic)	Regularly	
+Korean	17	MEET	mannada	hada-alternation	Never	
+Korean	17	MEET	mannada	ji-Passive (periphrastic)	Never	
+Korean	17	MEET	mannada	Locative alternation	Never	
+Korean	17	MEET	mannada	Passive (morphological)	Never	
+Korean	17	MEET	mannada	Possessor ascension	Never	
+Korean	17	MEET	mannada	Recipient double accusative alternation	Never	
+Korean	17	MEET	mannada	Reciprocal Alternation	Regularly	1-nom 2-com V'
+Korean	18	TALK	iyagihada	Benefactive Alternation	Never	
+Korean	18	TALK	iyagihada	Causative (morphological)	Never	
+Korean	18	TALK	iyagihada	Causative (periphrastic)	Regularly	
+Korean	18	TALK	iyagihada	hada-alternation	Never	
+Korean	18	TALK	iyagihada	ji-Passive (periphrastic)	Never	
+Korean	18	TALK	iyagihada	Locative alternation	Never	
+Korean	18	TALK	iyagihada	Passive (morphological)	Never	
+Korean	18	TALK	iyagihada	Possessor ascension	Never	
+Korean	18	TALK	iyagihada	Recipient double accusative alternation	Never	
+Korean	18	TALK	iyagihada	Reciprocal Alternation	Regularly	1-nom 2-com UTT3 V'
+Korean	19	ASK FOR	yoguhada	Benefactive Alternation	Never	
+Korean	19	ASK FOR	yoguhada	Causative (morphological)	Never	
+Korean	19	ASK FOR	yoguhada	Causative (periphrastic)	Regularly	
+Korean	19	ASK FOR	yoguhada	hada-alternation	Never	
+Korean	19	ASK FOR	yoguhada	ji-Passive (periphrastic)	Never	
+Korean	19	ASK FOR	yoguhada	Locative alternation	Never	
+Korean	19	ASK FOR	yoguhada	Passive (morphological)	Never	
+Korean	19	ASK FOR	yoguhada	Possessor ascension	Never	
+Korean	19	ASK FOR	yoguhada	Recipient double accusative alternation	Never	
+Korean	19	ASK FOR	yoguhada	Reciprocal Alternation	Never	
+Korean	20	SHOUT AT	sorijireuda	Benefactive Alternation	Never	
+Korean	20	SHOUT AT	sorijireuda	Causative (morphological)	Never	
+Korean	20	SHOUT AT	sorijireuda	Causative (periphrastic)	Regularly	
+Korean	20	SHOUT AT	sorijireuda	hada-alternation	Never	
+Korean	20	SHOUT AT	sorijireuda	ji-Passive (periphrastic)	Never	
+Korean	20	SHOUT AT	sorijireuda	Locative alternation	Never	
+Korean	20	SHOUT AT	sorijireuda	Passive (morphological)	Never	
+Korean	20	SHOUT AT	sorijireuda	Possessor ascension	Never	
+Korean	20	SHOUT AT	sorijireuda	Recipient double accusative alternation	Never	
+Korean	20	SHOUT AT	sorijireuda	Reciprocal Alternation	Never	
+Korean	21	TELL	deullida (2)	Benefactive Alternation	Never	
+Korean	21	TELL	deullida (2)	Causative (morphological)	Never	
+Korean	21	TELL	deullida (2)	Causative (periphrastic)	Regularly	
+Korean	21	TELL	deullida (2)	hada-alternation	Never	
+Korean	21	TELL	deullida (2)	ji-Passive (periphrastic)	Never	
+Korean	21	TELL	deullida (2)	Locative alternation	Never	
+Korean	21	TELL	deullida (2)	Passive (morphological)	Never	
+Korean	21	TELL	deullida (2)	Possessor ascension	Never	
+Korean	21	TELL	deullida (2)	Recipient double accusative alternation	Regularly	1-nom 2-acc 3-acc V'
+Korean	21	TELL	deullida (2)	Reciprocal Alternation	Never	
+Korean	21	TELL	iyagihada	Benefactive Alternation	Never	
+Korean	21	TELL	iyagihada	Causative (morphological)	Never	
+Korean	21	TELL	iyagihada	Causative (periphrastic)	Regularly	
+Korean	21	TELL	iyagihada	hada-alternation	Never	
+Korean	21	TELL	iyagihada	ji-Passive (periphrastic)	Never	
+Korean	21	TELL	iyagihada	Locative alternation	Never	
+Korean	21	TELL	iyagihada	Passive (morphological)	Never	
+Korean	21	TELL	iyagihada	Possessor ascension	Never	
+Korean	21	TELL	iyagihada	Recipient double accusative alternation	Never	
+Korean	21	TELL	iyagihada	Reciprocal Alternation	Regularly	1-nom 2-com UTT3 V'
+Korean	21	TELL	malhada	Benefactive Alternation	Never	
+Korean	21	TELL	malhada	Causative (morphological)	Never	
+Korean	21	TELL	malhada	Causative (periphrastic)	Regularly	
+Korean	21	TELL	malhada	hada-alternation	Never	
+Korean	21	TELL	malhada	ji-Passive (periphrastic)	Never	
+Korean	21	TELL	malhada	Locative alternation	Never	
+Korean	21	TELL	malhada	Passive (morphological)	Never	
+Korean	21	TELL	malhada	Possessor ascension	Never	
+Korean	21	TELL	malhada	Recipient double accusative alternation	Never	
+Korean	21	TELL	malhada	Reciprocal Alternation	Never	
+Korean	22	SAY	malhada	Benefactive Alternation	Never	
+Korean	22	SAY	malhada	Causative (morphological)	Never	
+Korean	22	SAY	malhada	Causative (periphrastic)	Regularly	
+Korean	22	SAY	malhada	hada-alternation	Never	
+Korean	22	SAY	malhada	ji-Passive (periphrastic)	Never	
+Korean	22	SAY	malhada	Locative alternation	Never	
+Korean	22	SAY	malhada	Passive (morphological)	Never	
+Korean	22	SAY	malhada	Possessor ascension	Never	
+Korean	22	SAY	malhada	Recipient double accusative alternation	Never	
+Korean	22	SAY	malhada	Reciprocal Alternation	Never	
+Korean	23	NAME	bureuda	Benefactive Alternation	Never	
+Korean	23	NAME	bureuda	Causative (morphological)	Never	
+Korean	23	NAME	bureuda	Causative (periphrastic)	Regularly	
+Korean	23	NAME	bureuda	hada-alternation	Never	
+Korean	23	NAME	bureuda	ji-Passive (periphrastic)	Never	
+Korean	23	NAME	bureuda	Locative alternation	Never	
+Korean	23	NAME	bureuda	Passive (morphological)	Regularly	2-nom 1-dat 3-quot passV'
+Korean	23	NAME	bureuda	Possessor ascension	Never	
+Korean	23	NAME	bureuda	Recipient double accusative alternation	Never	
+Korean	23	NAME	bureuda	Reciprocal Alternation	Never	
+Korean	24	BUILD	jisda	Benefactive Alternation	Regularly	
+Korean	24	BUILD	jisda	Causative (morphological)	Never	
+Korean	24	BUILD	jisda	Causative (periphrastic)	Regularly	
+Korean	24	BUILD	jisda	hada-alternation	Never	
+Korean	24	BUILD	jisda	ji-Passive (periphrastic)	Regularly	2-nom 3-instr passperV'
+Korean	24	BUILD	jisda	Locative alternation	Never	
+Korean	24	BUILD	jisda	Passive (morphological)	Never	
+Korean	24	BUILD	jisda	Possessor ascension	Never	
+Korean	24	BUILD	jisda	Recipient double accusative alternation	Never	
+Korean	24	BUILD	jisda	Reciprocal Alternation	Never	
+Korean	25	BREAK	kkaeda	Benefactive Alternation	Never	
+Korean	25	BREAK	kkaeda	Causative (morphological)	Never	
+Korean	25	BREAK	kkaeda	Causative (periphrastic)	Regularly	
+Korean	25	BREAK	kkaeda	hada-alternation	Never	
+Korean	25	BREAK	kkaeda	ji-Passive (periphrastic)	Marginally	
+Korean	25	BREAK	kkaeda	Locative alternation	Never	
+Korean	25	BREAK	kkaeda	Passive (morphological)	Never	
+Korean	25	BREAK	kkaeda	Possessor ascension	Regularly	
+Korean	25	BREAK	kkaeda	Recipient double accusative alternation	Never	
+Korean	25	BREAK	kkaeda	Reciprocal Alternation	Never	
+Korean	25	BREAK	kkaetteurida	Benefactive Alternation	Never	
+Korean	25	BREAK	kkaetteurida	Causative (morphological)	Never	
+Korean	25	BREAK	kkaetteurida	Causative (periphrastic)	Regularly	
+Korean	25	BREAK	kkaetteurida	hada-alternation	Never	
+Korean	25	BREAK	kkaetteurida	ji-Passive (periphrastic)	Marginally	
+Korean	25	BREAK	kkaetteurida	Locative alternation	Never	
+Korean	25	BREAK	kkaetteurida	Passive (morphological)	Never	
+Korean	25	BREAK	kkaetteurida	Possessor ascension	Regularly	
+Korean	25	BREAK	kkaetteurida	Recipient double accusative alternation	Never	
+Korean	25	BREAK	kkaetteurida	Reciprocal Alternation	Never	
+Korean	26	KILL	jugida	Benefactive Alternation	Never	
+Korean	26	KILL	jugida	Causative (morphological)	Never	
+Korean	26	KILL	jugida	Causative (periphrastic)	Regularly	
+Korean	26	KILL	jugida	hada-alternation	Never	
+Korean	26	KILL	jugida	ji-Passive (periphrastic)	Never	
+Korean	26	KILL	jugida	Locative alternation	Never	
+Korean	26	KILL	jugida	Passive (morphological)	Never	
+Korean	26	KILL	jugida	Possessor ascension	Never	
+Korean	26	KILL	jugida	Recipient double accusative alternation	Never	
+Korean	26	KILL	jugida	Reciprocal Alternation	Never	
+Korean	27	BEAT	ttaerida	Benefactive Alternation	Never	
+Korean	27	BEAT	ttaerida	Causative (morphological)	Never	
+Korean	27	BEAT	ttaerida	Causative (periphrastic)	Regularly	
+Korean	27	BEAT	ttaerida	hada-alternation	Never	
+Korean	27	BEAT	ttaerida	ji-Passive (periphrastic)	Never	
+Korean	27	BEAT	ttaerida	Locative alternation	Never	
+Korean	27	BEAT	ttaerida	Passive (morphological)	Never	
+Korean	27	BEAT	ttaerida	Possessor ascension	Regularly	
+Korean	27	BEAT	ttaerida	Recipient double accusative alternation	Marginally	
+Korean	27	BEAT	ttaerida	Reciprocal Alternation	Never	
+Korean	28	HIT	chida	Benefactive Alternation	Marginally	
+Korean	28	HIT	chida	Causative (morphological)	Never	
+Korean	28	HIT	chida	Causative (periphrastic)	Regularly	
+Korean	28	HIT	chida	hada-alternation	Never	
+Korean	28	HIT	chida	ji-Passive (periphrastic)	Never	
+Korean	28	HIT	chida	Locative alternation	Never	
+Korean	28	HIT	chida	Passive (morphological)	Never	
+Korean	28	HIT	chida	Possessor ascension	Regularly	
+Korean	28	HIT	chida	Recipient double accusative alternation	Never	
+Korean	28	HIT	chida	Reciprocal Alternation	Never	
+Korean	28	HIT	ttaerida	Benefactive Alternation	Never	
+Korean	28	HIT	ttaerida	Causative (morphological)	Never	
+Korean	28	HIT	ttaerida	Causative (periphrastic)	Regularly	
+Korean	28	HIT	ttaerida	hada-alternation	Never	
+Korean	28	HIT	ttaerida	ji-Passive (periphrastic)	Never	
+Korean	28	HIT	ttaerida	Locative alternation	Never	
+Korean	28	HIT	ttaerida	Passive (morphological)	Never	
+Korean	28	HIT	ttaerida	Possessor ascension	Regularly	
+Korean	28	HIT	ttaerida	Recipient double accusative alternation	Marginally	
+Korean	28	HIT	ttaerida	Reciprocal Alternation	Never	
+Korean	29	TOUCH	manjida	Benefactive Alternation	Never	
+Korean	29	TOUCH	manjida	Causative (morphological)	Never	
+Korean	29	TOUCH	manjida	Causative (periphrastic)	Regularly	
+Korean	29	TOUCH	manjida	hada-alternation	Never	
+Korean	29	TOUCH	manjida	ji-Passive (periphrastic)	Marginally	
+Korean	29	TOUCH	manjida	Locative alternation	Never	
+Korean	29	TOUCH	manjida	Passive (morphological)	Never	
+Korean	29	TOUCH	manjida	Possessor ascension	Regularly	
+Korean	29	TOUCH	manjida	Recipient double accusative alternation	Never	
+Korean	29	TOUCH	manjida	Reciprocal Alternation	Never	
+Korean	30	CUT	jareuda	Benefactive Alternation	Regularly	
+Korean	30	CUT	jareuda	Causative (morphological)	Never	
+Korean	30	CUT	jareuda	Causative (periphrastic)	Regularly	
+Korean	30	CUT	jareuda	hada-alternation	Never	
+Korean	30	CUT	jareuda	ji-Passive (periphrastic)	Regularly	2-nom 3-instr passperV'
+Korean	30	CUT	jareuda	Locative alternation	Never	
+Korean	30	CUT	jareuda	Passive (morphological)	Regularly	2-nom 1-dat 3-instr passV'
+Korean	30	CUT	jareuda	Possessor ascension	Regularly	
+Korean	30	CUT	jareuda	Recipient double accusative alternation	Never	
+Korean	30	CUT	jareuda	Reciprocal Alternation	Never	
+Korean	30	CUT	kkakkda	Benefactive Alternation	Never	
+Korean	30	CUT	kkakkda	Causative (morphological)	Never	
+Korean	30	CUT	kkakkda	Causative (periphrastic)	Regularly	
+Korean	30	CUT	kkakkda	hada-alternation	Never	
+Korean	30	CUT	kkakkda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	30	CUT	kkakkda	Locative alternation	Never	
+Korean	30	CUT	kkakkda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	30	CUT	kkakkda	Possessor ascension	Never	
+Korean	30	CUT	kkakkda	Recipient double accusative alternation	Never	
+Korean	30	CUT	kkakkda	Reciprocal Alternation	Never	
+Korean	31	TAKE	gajyeogada	Benefactive Alternation	Never	
+Korean	31	TAKE	gajyeogada	Causative (morphological)	Never	
+Korean	31	TAKE	gajyeogada	Causative (periphrastic)	Regularly	
+Korean	31	TAKE	gajyeogada	hada-alternation	Never	
+Korean	31	TAKE	gajyeogada	ji-Passive (periphrastic)	Never	
+Korean	31	TAKE	gajyeogada	Locative alternation	Never	
+Korean	31	TAKE	gajyeogada	Passive (morphological)	Never	
+Korean	31	TAKE	gajyeogada	Possessor ascension	Never	
+Korean	31	TAKE	gajyeogada	Recipient double accusative alternation	Never	
+Korean	31	TAKE	gajyeogada	Reciprocal Alternation	Never	
+Korean	31	TAKE	jibda	Benefactive Alternation	Never	
+Korean	31	TAKE	jibda	Causative (morphological)	Never	
+Korean	31	TAKE	jibda	Causative (periphrastic)	Regularly	
+Korean	31	TAKE	jibda	hada-alternation	Never	
+Korean	31	TAKE	jibda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	31	TAKE	jibda	Locative alternation	Never	
+Korean	31	TAKE	jibda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	31	TAKE	jibda	Possessor ascension	Regularly	
+Korean	31	TAKE	jibda	Recipient double accusative alternation	Never	
+Korean	31	TAKE	jibda	Reciprocal Alternation	Never	
+Korean	32	TEAR	jjijda	Benefactive Alternation	Never	
+Korean	32	TEAR	jjijda	Causative (morphological)	Marginally	
+Korean	32	TEAR	jjijda	Causative (periphrastic)	Regularly	
+Korean	32	TEAR	jjijda	hada-alternation	Never	
+Korean	32	TEAR	jjijda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	32	TEAR	jjijda	Locative alternation	Never	
+Korean	32	TEAR	jjijda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	32	TEAR	jjijda	Possessor ascension	Regularly	
+Korean	32	TEAR	jjijda	Recipient double accusative alternation	Never	
+Korean	32	TEAR	jjijda	Reciprocal Alternation	Never	
+Korean	33	PEEL	beosgida	Benefactive Alternation	Regularly	
+Korean	33	PEEL	beosgida	Causative (morphological)	Never	
+Korean	33	PEEL	beosgida	Causative (periphrastic)	Regularly	
+Korean	33	PEEL	beosgida	hada-alternation	Never	
+Korean	33	PEEL	beosgida	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	33	PEEL	beosgida	Locative alternation	Never	
+Korean	33	PEEL	beosgida	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	33	PEEL	beosgida	Possessor ascension	Marginally	
+Korean	33	PEEL	beosgida	Recipient double accusative alternation	Never	
+Korean	33	PEEL	beosgida	Reciprocal Alternation	Never	
+Korean	33	PEEL	kkada	Benefactive Alternation	Regularly	
+Korean	33	PEEL	kkada	Causative (morphological)	Never	
+Korean	33	PEEL	kkada	Causative (periphrastic)	Regularly	
+Korean	33	PEEL	kkada	hada-alternation	Never	
+Korean	33	PEEL	kkada	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	33	PEEL	kkada	Locative alternation	Never	
+Korean	33	PEEL	kkada	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	33	PEEL	kkada	Possessor ascension	Regularly	
+Korean	33	PEEL	kkada	Recipient double accusative alternation	Never	
+Korean	33	PEEL	kkada	Reciprocal Alternation	Never	
+Korean	33	PEEL	kkakkda	Benefactive Alternation	Never	
+Korean	33	PEEL	kkakkda	Causative (morphological)	Never	
+Korean	33	PEEL	kkakkda	Causative (periphrastic)	Regularly	
+Korean	33	PEEL	kkakkda	hada-alternation	Never	
+Korean	33	PEEL	kkakkda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	33	PEEL	kkakkda	Locative alternation	Never	
+Korean	33	PEEL	kkakkda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	33	PEEL	kkakkda	Possessor ascension	Never	
+Korean	33	PEEL	kkakkda	Recipient double accusative alternation	Never	
+Korean	33	PEEL	kkakkda	Reciprocal Alternation	Never	
+Korean	34	HIDE	sumda	Benefactive Alternation	Never	
+Korean	34	HIDE	sumda	Causative (morphological)	Regularly	
+Korean	34	HIDE	sumda	Causative (periphrastic)	Regularly	
+Korean	34	HIDE	sumda	hada-alternation	Never	
+Korean	34	HIDE	sumda	ji-Passive (periphrastic)	Marginally	
+Korean	34	HIDE	sumda	Locative alternation	Never	
+Korean	34	HIDE	sumda	Passive (morphological)	Never	
+Korean	34	HIDE	sumda	Possessor ascension	Regularly	
+Korean	34	HIDE	sumda	Recipient double accusative alternation	Never	
+Korean	34	HIDE	sumda	Reciprocal Alternation	Never	
+Korean	34	HIDE	sumgida	Benefactive Alternation	Never	
+Korean	34	HIDE	sumgida	Causative (morphological)	Never	
+Korean	34	HIDE	sumgida	Causative (periphrastic)	Regularly	
+Korean	34	HIDE	sumgida	hada-alternation	Never	
+Korean	34	HIDE	sumgida	ji-Passive (periphrastic)	Regularly	
+Korean	34	HIDE	sumgida	Locative alternation	Never	
+Korean	34	HIDE	sumgida	Passive (morphological)	Never	
+Korean	34	HIDE	sumgida	Possessor ascension	Never	
+Korean	34	HIDE	sumgida	Recipient double accusative alternation	Never	
+Korean	34	HIDE	sumgida	Reciprocal Alternation	Never	
+Korean	35	SHOW	boida	Benefactive Alternation	Regularly	
+Korean	35	SHOW	boida	Causative (morphological)	Never	
+Korean	35	SHOW	boida	Causative (periphrastic)	Regularly	
+Korean	35	SHOW	boida	hada-alternation	Never	
+Korean	35	SHOW	boida	ji-Passive (periphrastic)	Never	
+Korean	35	SHOW	boida	Locative alternation	Never	
+Korean	35	SHOW	boida	Passive (morphological)	Never	
+Korean	35	SHOW	boida	Possessor ascension	Never	
+Korean	35	SHOW	boida	Recipient double accusative alternation	Never	
+Korean	35	SHOW	boida	Reciprocal Alternation	Never	
+Korean	35	SHOW	deullida (2)	Benefactive Alternation	Never	
+Korean	35	SHOW	deullida (2)	Causative (morphological)	Never	
+Korean	35	SHOW	deullida (2)	Causative (periphrastic)	Regularly	
+Korean	35	SHOW	deullida (2)	hada-alternation	Never	
+Korean	35	SHOW	deullida (2)	ji-Passive (periphrastic)	Never	
+Korean	35	SHOW	deullida (2)	Locative alternation	Never	
+Korean	35	SHOW	deullida (2)	Passive (morphological)	Never	
+Korean	35	SHOW	deullida (2)	Possessor ascension	Never	
+Korean	35	SHOW	deullida (2)	Recipient double accusative alternation	Regularly	1-nom 2-acc 3-acc V'
+Korean	35	SHOW	deullida (2)	Reciprocal Alternation	Never	
+Korean	36	GIVE	juda	Benefactive Alternation	Never	
+Korean	36	GIVE	juda	Causative (morphological)	Never	
+Korean	36	GIVE	juda	Causative (periphrastic)	Regularly	
+Korean	36	GIVE	juda	hada-alternation	Never	
+Korean	36	GIVE	juda	ji-Passive (periphrastic)	Regularly	2-nom 3-dat passperV'
+Korean	36	GIVE	juda	Locative alternation	Never	
+Korean	36	GIVE	juda	Passive (morphological)	Never	
+Korean	36	GIVE	juda	Possessor ascension	Never	
+Korean	36	GIVE	juda	Recipient double accusative alternation	Regularly	1-nom 2-acc 3-acc V'
+Korean	36	GIVE	juda	Reciprocal Alternation	Never	
+Korean	37	SEND	bonaeda	Benefactive Alternation	Never	
+Korean	37	SEND	bonaeda	Causative (morphological)	Never	
+Korean	37	SEND	bonaeda	Causative (periphrastic)	Regularly	
+Korean	37	SEND	bonaeda	hada-alternation	Never	
+Korean	37	SEND	bonaeda	ji-Passive (periphrastic)	Regularly	
+Korean	37	SEND	bonaeda	Locative alternation	Never	
+Korean	37	SEND	bonaeda	Passive (morphological)	Never	
+Korean	37	SEND	bonaeda	Possessor ascension	Never	
+Korean	37	SEND	bonaeda	Recipient double accusative alternation	Never	
+Korean	37	SEND	bonaeda	Reciprocal Alternation	Never	
+Korean	38	CARRY	deulda	Benefactive Alternation	Regularly	
+Korean	38	CARRY	deulda	Causative (morphological)	Never	
+Korean	38	CARRY	deulda	Causative (periphrastic)	Regularly	
+Korean	38	CARRY	deulda	hada-alternation	Never	
+Korean	38	CARRY	deulda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	38	CARRY	deulda	Locative alternation	Never	
+Korean	38	CARRY	deulda	Passive (morphological)	Never	
+Korean	38	CARRY	deulda	Possessor ascension	Never	
+Korean	38	CARRY	deulda	Recipient double accusative alternation	Never	
+Korean	38	CARRY	deulda	Reciprocal Alternation	Never	
+Korean	39	THROW	deonjida	Benefactive Alternation	Never	
+Korean	39	THROW	deonjida	Causative (morphological)	Never	
+Korean	39	THROW	deonjida	Causative (periphrastic)	Regularly	
+Korean	39	THROW	deonjida	hada-alternation	Never	
+Korean	39	THROW	deonjida	ji-Passive (periphrastic)	Regularly	
+Korean	39	THROW	deonjida	Locative alternation	Never	
+Korean	39	THROW	deonjida	Passive (morphological)	Never	
+Korean	39	THROW	deonjida	Possessor ascension	Never	
+Korean	39	THROW	deonjida	Recipient double accusative alternation	Never	
+Korean	39	THROW	deonjida	Reciprocal Alternation	Never	
+Korean	40	TIE	mukkda	Benefactive Alternation	Regularly	
+Korean	40	TIE	mukkda	Causative (morphological)	Never	
+Korean	40	TIE	mukkda	Causative (periphrastic)	Regularly	
+Korean	40	TIE	mukkda	hada-alternation	Never	
+Korean	40	TIE	mukkda	ji-Passive (periphrastic)	Regularly	2-nom 3-loc passperV'
+Korean	40	TIE	mukkda	Locative alternation	Never	
+Korean	40	TIE	mukkda	Passive (morphological)	Regularly	2-nom 1-dat 3-loc passV'
+Korean	40	TIE	mukkda	Possessor ascension	Regularly	
+Korean	40	TIE	mukkda	Recipient double accusative alternation	Never	
+Korean	40	TIE	mukkda	Reciprocal Alternation	Never	
+Korean	41	PUT	nohda	Benefactive Alternation	Never	
+Korean	41	PUT	nohda	Causative (morphological)	Never	
+Korean	41	PUT	nohda	Causative (periphrastic)	Regularly	
+Korean	41	PUT	nohda	hada-alternation	Never	
+Korean	41	PUT	nohda	ji-Passive (periphrastic)	Regularly	2-nom 3-loc passperV'
+Korean	41	PUT	nohda	Locative alternation	Never	
+Korean	41	PUT	nohda	Passive (morphological)	Regularly	2-nom 1-dat 3-loc passV'
+Korean	41	PUT	nohda	Possessor ascension	Never	
+Korean	41	PUT	nohda	Recipient double accusative alternation	Never	
+Korean	41	PUT	nohda	Reciprocal Alternation	Never	
+Korean	42	POUR	busda	Benefactive Alternation	Regularly	
+Korean	42	POUR	busda	Causative (morphological)	Never	
+Korean	42	POUR	busda	Causative (periphrastic)	Regularly	
+Korean	42	POUR	busda	hada-alternation	Never	
+Korean	42	POUR	busda	ji-Passive (periphrastic)	Regularly	2-nom 3-loc passperV'
+Korean	42	POUR	busda	Locative alternation	Never	
+Korean	42	POUR	busda	Passive (morphological)	Never	
+Korean	42	POUR	busda	Possessor ascension	Never	
+Korean	42	POUR	busda	Recipient double accusative alternation	Never	
+Korean	42	POUR	busda	Reciprocal Alternation	Never	
+Korean	43	COVER	deopda	Benefactive Alternation	Regularly	
+Korean	43	COVER	deopda	Causative (morphological)	Never	
+Korean	43	COVER	deopda	Causative (periphrastic)	Regularly	
+Korean	43	COVER	deopda	hada-alternation	Never	
+Korean	43	COVER	deopda	ji-Passive (periphrastic)	Regularly	2-nom 3-loc passperV'
+Korean	43	COVER	deopda	Locative alternation	Regularly	1-nom 3-acc 2-instr V'
+Korean	43	COVER	deopda	Passive (morphological)	Regularly	2-nom 1-dat 3-loc passV'
+Korean	43	COVER	deopda	Possessor ascension	Regularly	
+Korean	43	COVER	deopda	Recipient double accusative alternation	Never	
+Korean	43	COVER	deopda	Reciprocal Alternation	Never	
+Korean	44	FILL	chada	Benefactive Alternation	Never	
+Korean	44	FILL	chada	Causative (morphological)	Regularly	4-nom 1-acc 2-loc causV'
+Korean	44	FILL	chada	Causative (periphrastic)	Regularly	
+Korean	44	FILL	chada	hada-alternation	Never	
+Korean	44	FILL	chada	ji-Passive (periphrastic)	Never	
+Korean	44	FILL	chada	Locative alternation	Regularly	2-nom 1-instr V'
+Korean	44	FILL	chada	Passive (morphological)	Never	
+Korean	44	FILL	chada	Possessor ascension	Never	
+Korean	44	FILL	chada	Recipient double accusative alternation	Never	
+Korean	44	FILL	chada	Reciprocal Alternation	Never	
+Korean	44	FILL	chaeuda	Benefactive Alternation	Never	
+Korean	44	FILL	chaeuda	Causative (morphological)	Never	
+Korean	44	FILL	chaeuda	Causative (periphrastic)	Regularly	
+Korean	44	FILL	chaeuda	hada-alternation	Never	
+Korean	44	FILL	chaeuda	ji-Passive (periphrastic)	Never	
+Korean	44	FILL	chaeuda	Locative alternation	Regularly	
+Korean	44	FILL	chaeuda	Passive (morphological)	Never	
+Korean	44	FILL	chaeuda	Possessor ascension	Never	
+Korean	44	FILL	chaeuda	Recipient double accusative alternation	Never	
+Korean	44	FILL	chaeuda	Reciprocal Alternation	Never	
+Korean	45	LOAD	sidda	Benefactive Alternation	Never	
+Korean	45	LOAD	sidda	Causative (morphological)	Never	
+Korean	45	LOAD	sidda	Causative (periphrastic)	Regularly	
+Korean	45	LOAD	sidda	hada-alternation	Never	
+Korean	45	LOAD	sidda	ji-Passive (periphrastic)	Regularly	2-nom 3-loc passperV'
+Korean	45	LOAD	sidda	Locative alternation	Never	
+Korean	45	LOAD	sidda	Passive (morphological)	Regularly	2-nom 1-dat 3-loc passV'
+Korean	45	LOAD	sidda	Possessor ascension	Never	
+Korean	45	LOAD	sidda	Recipient double accusative alternation	Never	
+Korean	45	LOAD	sidda	Reciprocal Alternation	Never	
+Korean	46	BLINK	nuneul kkambagida	Benefactive Alternation	Never	
+Korean	46	BLINK	nuneul kkambagida	Causative (morphological)	Never	
+Korean	46	BLINK	nuneul kkambagida	Causative (periphrastic)	Regularly	
+Korean	46	BLINK	nuneul kkambagida	hada-alternation	Never	
+Korean	46	BLINK	nuneul kkambagida	ji-Passive (periphrastic)	Regularly	passperV'
+Korean	46	BLINK	nuneul kkambagida	Locative alternation	Never	
+Korean	46	BLINK	nuneul kkambagida	Passive (morphological)	Never	
+Korean	46	BLINK	nuneul kkambagida	Possessor ascension	Never	
+Korean	46	BLINK	nuneul kkambagida	Recipient double accusative alternation	Never	
+Korean	46	BLINK	nuneul kkambagida	Reciprocal Alternation	Never	
+Korean	47	COUGH	gichimhada	Benefactive Alternation	Never	
+Korean	47	COUGH	gichimhada	Causative (morphological)	Never	
+Korean	47	COUGH	gichimhada	Causative (periphrastic)	Regularly	
+Korean	47	COUGH	gichimhada	hada-alternation	Never	
+Korean	47	COUGH	gichimhada	ji-Passive (periphrastic)	Never	
+Korean	47	COUGH	gichimhada	Locative alternation	Never	
+Korean	47	COUGH	gichimhada	Passive (morphological)	Never	
+Korean	47	COUGH	gichimhada	Possessor ascension	Never	
+Korean	47	COUGH	gichimhada	Recipient double accusative alternation	Never	
+Korean	47	COUGH	gichimhada	Reciprocal Alternation	Never	
+Korean	48	CLIMB	oreuda	Benefactive Alternation	Never	
+Korean	48	CLIMB	oreuda	Causative (morphological)	Regularly	4-nom 1-acc 2-loc causV'
+Korean	48	CLIMB	oreuda	Causative (periphrastic)	Regularly	
+Korean	48	CLIMB	oreuda	hada-alternation	Never	
+Korean	48	CLIMB	oreuda	ji-Passive (periphrastic)	Never	
+Korean	48	CLIMB	oreuda	Locative alternation	Never	
+Korean	48	CLIMB	oreuda	Passive (morphological)	Never	
+Korean	48	CLIMB	oreuda	Possessor ascension	Never	
+Korean	48	CLIMB	oreuda	Recipient double accusative alternation	Never	
+Korean	48	CLIMB	oreuda	Reciprocal Alternation	Never	
+Korean	48	CLIMB	tada (2)	Benefactive Alternation	Never	
+Korean	48	CLIMB	tada (2)	Causative (morphological)	Never	
+Korean	48	CLIMB	tada (2)	Causative (periphrastic)	Regularly	
+Korean	48	CLIMB	tada (2)	hada-alternation	Never	
+Korean	48	CLIMB	tada (2)	ji-Passive (periphrastic)	Never	
+Korean	48	CLIMB	tada (2)	Locative alternation	Never	
+Korean	48	CLIMB	tada (2)	Passive (morphological)	Never	
+Korean	48	CLIMB	tada (2)	Possessor ascension	Never	
+Korean	48	CLIMB	tada (2)	Recipient double accusative alternation	Never	
+Korean	48	CLIMB	tada (2)	Reciprocal Alternation	Never	
+Korean	49	RUN	dallida	Benefactive Alternation	Never	
+Korean	49	RUN	dallida	Causative (morphological)	Never	
+Korean	49	RUN	dallida	Causative (periphrastic)	Regularly	
+Korean	49	RUN	dallida	hada-alternation	Never	
+Korean	49	RUN	dallida	ji-Passive (periphrastic)	Marginally	
+Korean	49	RUN	dallida	Locative alternation	Never	
+Korean	49	RUN	dallida	Passive (morphological)	Never	
+Korean	49	RUN	dallida	Possessor ascension	Never	
+Korean	49	RUN	dallida	Recipient double accusative alternation	Never	
+Korean	49	RUN	dallida	Reciprocal Alternation	Never	
+Korean	49	RUN	ttwida	Benefactive Alternation	Never	
+Korean	49	RUN	ttwida	Causative (morphological)	Never	
+Korean	49	RUN	ttwida	Causative (periphrastic)	Regularly	
+Korean	49	RUN	ttwida	hada-alternation	Never	
+Korean	49	RUN	ttwida	ji-Passive (periphrastic)	Marginally	
+Korean	49	RUN	ttwida	Locative alternation	Never	
+Korean	49	RUN	ttwida	Passive (morphological)	Never	
+Korean	49	RUN	ttwida	Possessor ascension	Never	
+Korean	49	RUN	ttwida	Recipient double accusative alternation	Never	
+Korean	49	RUN	ttwida	Reciprocal Alternation	Never	
+Korean	50	SIT	anja itta	Benefactive Alternation	Never	
+Korean	50	SIT	anja itta	Causative (morphological)	Never	
+Korean	50	SIT	anja itta	Causative (periphrastic)	Regularly	
+Korean	50	SIT	anja itta	hada-alternation	Never	
+Korean	50	SIT	anja itta	ji-Passive (periphrastic)	Never	
+Korean	50	SIT	anja itta	Locative alternation	Never	
+Korean	50	SIT	anja itta	Passive (morphological)	Never	
+Korean	50	SIT	anja itta	Possessor ascension	Never	
+Korean	50	SIT	anja itta	Recipient double accusative alternation	Never	
+Korean	50	SIT	anja itta	Reciprocal Alternation	Never	
+Korean	51	SIT DOWN	anjda	Benefactive Alternation	Never	
+Korean	51	SIT DOWN	anjda	Causative (morphological)	Regularly	4-nom 1-acc 2-loc causV'
+Korean	51	SIT DOWN	anjda	Causative (periphrastic)	Regularly	
+Korean	51	SIT DOWN	anjda	hada-alternation	Never	
+Korean	51	SIT DOWN	anjda	ji-Passive (periphrastic)	Never	
+Korean	51	SIT DOWN	anjda	Locative alternation	Never	
+Korean	51	SIT DOWN	anjda	Passive (morphological)	Never	
+Korean	51	SIT DOWN	anjda	Possessor ascension	Never	
+Korean	51	SIT DOWN	anjda	Recipient double accusative alternation	Never	
+Korean	51	SIT DOWN	anjda	Reciprocal Alternation	Never	
+Korean	52	JUMP	ttwida	Benefactive Alternation	Never	
+Korean	52	JUMP	ttwida	Causative (morphological)	Never	
+Korean	52	JUMP	ttwida	Causative (periphrastic)	Regularly	
+Korean	52	JUMP	ttwida	hada-alternation	Never	
+Korean	52	JUMP	ttwida	ji-Passive (periphrastic)	Marginally	
+Korean	52	JUMP	ttwida	Locative alternation	Never	
+Korean	52	JUMP	ttwida	Passive (morphological)	Never	
+Korean	52	JUMP	ttwida	Possessor ascension	Never	
+Korean	52	JUMP	ttwida	Recipient double accusative alternation	Never	
+Korean	52	JUMP	ttwida	Reciprocal Alternation	Never	
+Korean	53	SING	noraebureuda	Benefactive Alternation	Regularly	
+Korean	53	SING	noraebureuda	Causative (morphological)	Never	
+Korean	53	SING	noraebureuda	Causative (periphrastic)	Regularly	
+Korean	53	SING	noraebureuda	hada-alternation	Never	
+Korean	53	SING	noraebureuda	ji-Passive (periphrastic)	Never	
+Korean	53	SING	noraebureuda	Locative alternation	Never	
+Korean	53	SING	noraebureuda	Passive (morphological)	Never	
+Korean	53	SING	noraebureuda	Possessor ascension	Never	
+Korean	53	SING	noraebureuda	Recipient double accusative alternation	Never	
+Korean	53	SING	noraebureuda	Reciprocal Alternation	Never	
+Korean	54	GO	gada	Benefactive Alternation	Never	
+Korean	54	GO	gada	Causative (morphological)	Never	
+Korean	54	GO	gada	Causative (periphrastic)	Regularly	
+Korean	54	GO	gada	hada-alternation	Never	
+Korean	54	GO	gada	ji-Passive (periphrastic)	Never	
+Korean	54	GO	gada	Locative alternation	Never	
+Korean	54	GO	gada	Passive (morphological)	Never	
+Korean	54	GO	gada	Possessor ascension	Never	
+Korean	54	GO	gada	Recipient double accusative alternation	Never	
+Korean	54	GO	gada	Reciprocal Alternation	Never	
+Korean	55	LEAVE	tteonada	Benefactive Alternation	Never	
+Korean	55	LEAVE	tteonada	Causative (morphological)	Never	
+Korean	55	LEAVE	tteonada	Causative (periphrastic)	Regularly	
+Korean	55	LEAVE	tteonada	hada-alternation	Never	
+Korean	55	LEAVE	tteonada	ji-Passive (periphrastic)	Never	
+Korean	55	LEAVE	tteonada	Locative alternation	Never	
+Korean	55	LEAVE	tteonada	Passive (morphological)	Never	
+Korean	55	LEAVE	tteonada	Possessor ascension	Never	
+Korean	55	LEAVE	tteonada	Recipient double accusative alternation	Never	
+Korean	55	LEAVE	tteonada	Reciprocal Alternation	Never	
+Korean	56	LIVE	salda	Benefactive Alternation	Never	
+Korean	56	LIVE	salda	Causative (morphological)	Marginally	
+Korean	56	LIVE	salda	Causative (periphrastic)	Regularly	
+Korean	56	LIVE	salda	hada-alternation	Never	
+Korean	56	LIVE	salda	ji-Passive (periphrastic)	Never	
+Korean	56	LIVE	salda	Locative alternation	Never	
+Korean	56	LIVE	salda	Passive (morphological)	Never	
+Korean	56	LIVE	salda	Possessor ascension	Never	
+Korean	56	LIVE	salda	Recipient double accusative alternation	Never	
+Korean	56	LIVE	salda	Reciprocal Alternation	Never	
+Korean	57	LAUGH	usda	Benefactive Alternation	Never	
+Korean	57	LAUGH	usda	Causative (morphological)	Marginally	
+Korean	57	LAUGH	usda	Causative (periphrastic)	Regularly	
+Korean	57	LAUGH	usda	hada-alternation	Never	
+Korean	57	LAUGH	usda	ji-Passive (periphrastic)	Never	
+Korean	57	LAUGH	usda	Locative alternation	Never	
+Korean	57	LAUGH	usda	Passive (morphological)	Never	
+Korean	57	LAUGH	usda	Possessor ascension	Never	
+Korean	57	LAUGH	usda	Recipient double accusative alternation	Never	
+Korean	57	LAUGH	usda	Reciprocal Alternation	Never	
+Korean	58	SCREAM	sorijireuda	Benefactive Alternation	Never	
+Korean	58	SCREAM	sorijireuda	Causative (morphological)	Never	
+Korean	58	SCREAM	sorijireuda	Causative (periphrastic)	Regularly	
+Korean	58	SCREAM	sorijireuda	hada-alternation	Never	
+Korean	58	SCREAM	sorijireuda	ji-Passive (periphrastic)	Never	
+Korean	58	SCREAM	sorijireuda	Locative alternation	Never	
+Korean	58	SCREAM	sorijireuda	Passive (morphological)	Never	
+Korean	58	SCREAM	sorijireuda	Possessor ascension	Never	
+Korean	58	SCREAM	sorijireuda	Recipient double accusative alternation	Never	
+Korean	58	SCREAM	sorijireuda	Reciprocal Alternation	Never	
+Korean	59	FEEL PAIN	apeuda	Benefactive Alternation	Never	
+Korean	59	FEEL PAIN	apeuda	Causative (morphological)	Never	
+Korean	59	FEEL PAIN	apeuda	Causative (periphrastic)	Regularly	
+Korean	59	FEEL PAIN	apeuda	hada-alternation	Regularly	
+Korean	59	FEEL PAIN	apeuda	ji-Passive (periphrastic)	Never	
+Korean	59	FEEL PAIN	apeuda	Locative alternation	Never	
+Korean	59	FEEL PAIN	apeuda	Passive (morphological)	Never	
+Korean	59	FEEL PAIN	apeuda	Possessor ascension	Regularly	
+Korean	59	FEEL PAIN	apeuda	Recipient double accusative alternation	Never	
+Korean	59	FEEL PAIN	apeuda	Reciprocal Alternation	Never	
+Korean	60	FEEL COLD	chubda	Benefactive Alternation	Never	
+Korean	60	FEEL COLD	chubda	Causative (morphological)	Never	
+Korean	60	FEEL COLD	chubda	Causative (periphrastic)	Regularly	
+Korean	60	FEEL COLD	chubda	hada-alternation	Marginally	
+Korean	60	FEEL COLD	chubda	ji-Passive (periphrastic)	Never	
+Korean	60	FEEL COLD	chubda	Locative alternation	Never	
+Korean	60	FEEL COLD	chubda	Passive (morphological)	Never	
+Korean	60	FEEL COLD	chubda	Possessor ascension	Regularly	
+Korean	60	FEEL COLD	chubda	Recipient double accusative alternation	Never	
+Korean	60	FEEL COLD	chubda	Reciprocal Alternation	Never	
+Korean	61	DIE	jugda	Benefactive Alternation	Never	
+Korean	61	DIE	jugda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	61	DIE	jugda	Causative (periphrastic)	Regularly	
+Korean	61	DIE	jugda	hada-alternation	Never	
+Korean	61	DIE	jugda	ji-Passive (periphrastic)	Never	
+Korean	61	DIE	jugda	Locative alternation	Never	
+Korean	61	DIE	jugda	Passive (morphological)	Never	
+Korean	61	DIE	jugda	Possessor ascension	Regularly	
+Korean	61	DIE	jugda	Recipient double accusative alternation	Never	
+Korean	61	DIE	jugda	Reciprocal Alternation	Never	
+Korean	62	PLAY	nolda	Benefactive Alternation	Never	
+Korean	62	PLAY	nolda	Causative (morphological)	Marginally	
+Korean	62	PLAY	nolda	Causative (periphrastic)	Regularly	
+Korean	62	PLAY	nolda	hada-alternation	Never	
+Korean	62	PLAY	nolda	ji-Passive (periphrastic)	Never	
+Korean	62	PLAY	nolda	Locative alternation	Never	
+Korean	62	PLAY	nolda	Passive (morphological)	Never	
+Korean	62	PLAY	nolda	Possessor ascension	Never	
+Korean	62	PLAY	nolda	Recipient double accusative alternation	Never	
+Korean	62	PLAY	nolda	Reciprocal Alternation	Never	
+Korean	63	BE SAD	seulpeuda	Benefactive Alternation	Never	
+Korean	63	BE SAD	seulpeuda	Causative (morphological)	Never	
+Korean	63	BE SAD	seulpeuda	Causative (periphrastic)	Regularly	
+Korean	63	BE SAD	seulpeuda	hada-alternation	Regularly	
+Korean	63	BE SAD	seulpeuda	ji-Passive (periphrastic)	Never	
+Korean	63	BE SAD	seulpeuda	Locative alternation	Never	
+Korean	63	BE SAD	seulpeuda	Passive (morphological)	Never	
+Korean	63	BE SAD	seulpeuda	Possessor ascension	Regularly	
+Korean	63	BE SAD	seulpeuda	Recipient double accusative alternation	Never	
+Korean	63	BE SAD	seulpeuda	Reciprocal Alternation	Never	
+Korean	64	BE HUNGRY	baegopeuda	Benefactive Alternation	Never	
+Korean	64	BE HUNGRY	baegopeuda	Causative (morphological)	Never	
+Korean	64	BE HUNGRY	baegopeuda	Causative (periphrastic)	Regularly	
+Korean	64	BE HUNGRY	baegopeuda	hada-alternation	Never	
+Korean	64	BE HUNGRY	baegopeuda	ji-Passive (periphrastic)	Never	
+Korean	64	BE HUNGRY	baegopeuda	Locative alternation	Never	
+Korean	64	BE HUNGRY	baegopeuda	Passive (morphological)	Never	
+Korean	64	BE HUNGRY	baegopeuda	Possessor ascension	Regularly	
+Korean	64	BE HUNGRY	baegopeuda	Recipient double accusative alternation	Never	
+Korean	64	BE HUNGRY	baegopeuda	Reciprocal Alternation	Never	
+Korean	65	ROLL	gureuda	Benefactive Alternation	Never	
+Korean	65	ROLL	gureuda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	65	ROLL	gureuda	Causative (periphrastic)	Regularly	
+Korean	65	ROLL	gureuda	hada-alternation	Never	
+Korean	65	ROLL	gureuda	ji-Passive (periphrastic)	Never	
+Korean	65	ROLL	gureuda	Locative alternation	Never	
+Korean	65	ROLL	gureuda	Passive (morphological)	Never	
+Korean	65	ROLL	gureuda	Possessor ascension	Never	
+Korean	65	ROLL	gureuda	Recipient double accusative alternation	Never	
+Korean	65	ROLL	gureuda	Reciprocal Alternation	Never	
+Korean	66	SINK	garaanjda	Benefactive Alternation	Never	
+Korean	66	SINK	garaanjda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	66	SINK	garaanjda	Causative (periphrastic)	Regularly	
+Korean	66	SINK	garaanjda	hada-alternation	Never	
+Korean	66	SINK	garaanjda	ji-Passive (periphrastic)	Never	
+Korean	66	SINK	garaanjda	Locative alternation	Never	
+Korean	66	SINK	garaanjda	Passive (morphological)	Never	
+Korean	66	SINK	garaanjda	Possessor ascension	Regularly	
+Korean	66	SINK	garaanjda	Recipient double accusative alternation	Never	
+Korean	66	SINK	garaanjda	Reciprocal Alternation	Never	
+Korean	67	BURN	tada (1)	Benefactive Alternation	Never	
+Korean	67	BURN	tada (1)	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	67	BURN	tada (1)	Causative (periphrastic)	Regularly	
+Korean	67	BURN	tada (1)	hada-alternation	Never	
+Korean	67	BURN	tada (1)	ji-Passive (periphrastic)	Never	
+Korean	67	BURN	tada (1)	Locative alternation	Never	
+Korean	67	BURN	tada (1)	Passive (morphological)	Never	
+Korean	67	BURN	tada (1)	Possessor ascension	Regularly	
+Korean	67	BURN	tada (1)	Recipient double accusative alternation	Never	
+Korean	67	BURN	tada (1)	Reciprocal Alternation	Never	
+Korean	68	BE DRY	mareuda	Benefactive Alternation	Never	
+Korean	68	BE DRY	mareuda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	68	BE DRY	mareuda	Causative (periphrastic)	Regularly	
+Korean	68	BE DRY	mareuda	hada-alternation	Never	
+Korean	68	BE DRY	mareuda	ji-Passive (periphrastic)	Never	
+Korean	68	BE DRY	mareuda	Locative alternation	Never	
+Korean	68	BE DRY	mareuda	Passive (morphological)	Never	
+Korean	68	BE DRY	mareuda	Possessor ascension	Never	
+Korean	68	BE DRY	mareuda	Recipient double accusative alternation	Never	
+Korean	68	BE DRY	mareuda	Reciprocal Alternation	Never	
+Korean	69	RAIN	biga oda	Benefactive Alternation	Never	
+Korean	69	RAIN	biga oda	Causative (morphological)	Never	
+Korean	69	RAIN	biga oda	Causative (periphrastic)	Regularly	
+Korean	69	RAIN	biga oda	hada-alternation	Never	
+Korean	69	RAIN	biga oda	ji-Passive (periphrastic)	Never	
+Korean	69	RAIN	biga oda	Locative alternation	Never	
+Korean	69	RAIN	biga oda	Passive (morphological)	Never	
+Korean	69	RAIN	biga oda	Possessor ascension	Never	
+Korean	69	RAIN	biga oda	Recipient double accusative alternation	Never	
+Korean	69	RAIN	biga oda	Reciprocal Alternation	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Benefactive Alternation	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Causative (morphological)	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Causative (periphrastic)	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	hada-alternation	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	ji-Passive (periphrastic)	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Locative alternation	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Passive (morphological)	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Possessor ascension	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Recipient double accusative alternation	Never	
+Korean	70	BE A HUNTER	sanyanggun ida	Reciprocal Alternation	Never	
+Korean	71	GRIND	galda	Benefactive Alternation	Never	
+Korean	71	GRIND	galda	Causative (morphological)	Never	
+Korean	71	GRIND	galda	Causative (periphrastic)	Regularly	
+Korean	71	GRIND	galda	hada-alternation	Never	
+Korean	71	GRIND	galda	ji-Passive (periphrastic)	Regularly	2-nom 3-instr passperV'
+Korean	71	GRIND	galda	Locative alternation	Never	
+Korean	71	GRIND	galda	Passive (morphological)	Never	
+Korean	71	GRIND	galda	Possessor ascension	Never	
+Korean	71	GRIND	galda	Recipient double accusative alternation	Never	
+Korean	71	GRIND	galda	Reciprocal Alternation	Never	
+Korean	72	WIPE	dakkda	Benefactive Alternation	Never	
+Korean	72	WIPE	dakkda	Causative (morphological)	Marginally	
+Korean	72	WIPE	dakkda	Causative (periphrastic)	Regularly	
+Korean	72	WIPE	dakkda	hada-alternation	Never	
+Korean	72	WIPE	dakkda	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	72	WIPE	dakkda	Locative alternation	Never	
+Korean	72	WIPE	dakkda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	72	WIPE	dakkda	Possessor ascension	Never	
+Korean	72	WIPE	dakkda	Recipient double accusative alternation	Never	
+Korean	72	WIPE	dakkda	Reciprocal Alternation	Never	
+Korean	73	DIG	pada	Benefactive Alternation	Never	
+Korean	73	DIG	pada	Causative (morphological)	Never	
+Korean	73	DIG	pada	Causative (periphrastic)	Regularly	
+Korean	73	DIG	pada	hada-alternation	Never	
+Korean	73	DIG	pada	ji-Passive (periphrastic)	Regularly	2-nom passperV'
+Korean	73	DIG	pada	Locative alternation	Never	
+Korean	73	DIG	pada	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	73	DIG	pada	Possessor ascension	Never	
+Korean	73	DIG	pada	Recipient double accusative alternation	Never	
+Korean	73	DIG	pada	Reciprocal Alternation	Never	
+Korean	74	PUSH	milda	Benefactive Alternation	Never	
+Korean	74	PUSH	milda	Causative (morphological)	Never	
+Korean	74	PUSH	milda	Causative (periphrastic)	Regularly	
+Korean	74	PUSH	milda	hada-alternation	Never	
+Korean	74	PUSH	milda	ji-Passive (periphrastic)	Regularly	2-nom 3-dir passperV'
+Korean	74	PUSH	milda	Locative alternation	Never	
+Korean	74	PUSH	milda	Passive (morphological)	Regularly	2-nom 1-dat 3-dir passV'
+Korean	74	PUSH	milda	Possessor ascension	Regularly	
+Korean	74	PUSH	milda	Recipient double accusative alternation	Never	
+Korean	74	PUSH	milda	Reciprocal Alternation	Never	
+Korean	75	BRING	gajyeogada	Benefactive Alternation	Never	
+Korean	75	BRING	gajyeogada	Causative (morphological)	Never	
+Korean	75	BRING	gajyeogada	Causative (periphrastic)	Regularly	
+Korean	75	BRING	gajyeogada	hada-alternation	Never	
+Korean	75	BRING	gajyeogada	ji-Passive (periphrastic)	Never	
+Korean	75	BRING	gajyeogada	Locative alternation	Never	
+Korean	75	BRING	gajyeogada	Passive (morphological)	Never	
+Korean	75	BRING	gajyeogada	Possessor ascension	Never	
+Korean	75	BRING	gajyeogada	Recipient double accusative alternation	Never	
+Korean	75	BRING	gajyeogada	Reciprocal Alternation	Never	
+Korean	75	BRING	gajyeooda	Benefactive Alternation	Never	
+Korean	75	BRING	gajyeooda	Causative (morphological)	Never	
+Korean	75	BRING	gajyeooda	Causative (periphrastic)	Regularly	
+Korean	75	BRING	gajyeooda	hada-alternation	Never	
+Korean	75	BRING	gajyeooda	ji-Passive (periphrastic)	Never	
+Korean	75	BRING	gajyeooda	Locative alternation	Never	
+Korean	75	BRING	gajyeooda	Passive (morphological)	Never	
+Korean	75	BRING	gajyeooda	Possessor ascension	Never	
+Korean	75	BRING	gajyeooda	Recipient double accusative alternation	Never	
+Korean	75	BRING	gajyeooda	Reciprocal Alternation	Never	
+Korean	76	STEAL	humchida	Benefactive Alternation	Marginally	
+Korean	76	STEAL	humchida	Causative (morphological)	Never	
+Korean	76	STEAL	humchida	Causative (periphrastic)	Regularly	
+Korean	76	STEAL	humchida	hada-alternation	Never	
+Korean	76	STEAL	humchida	ji-Passive (periphrastic)	Marginally	
+Korean	76	STEAL	humchida	Locative alternation	Never	
+Korean	76	STEAL	humchida	Passive (morphological)	Never	
+Korean	76	STEAL	humchida	Possessor ascension	Never	
+Korean	76	STEAL	humchida	Recipient double accusative alternation	Never	
+Korean	76	STEAL	humchida	Reciprocal Alternation	Never	
+Korean	77	TEACH	gareuchida	Benefactive Alternation	Never	
+Korean	77	TEACH	gareuchida	Causative (morphological)	Never	
+Korean	77	TEACH	gareuchida	Causative (periphrastic)	Regularly	
+Korean	77	TEACH	gareuchida	hada-alternation	Never	
+Korean	77	TEACH	gareuchida	ji-Passive (periphrastic)	Never	
+Korean	77	TEACH	gareuchida	Locative alternation	Never	
+Korean	77	TEACH	gareuchida	Passive (morphological)	Never	
+Korean	77	TEACH	gareuchida	Possessor ascension	Never	
+Korean	77	TEACH	gareuchida	Recipient double accusative alternation	Regularly	1-nom 2-acc 3-acc V'
+Korean	77	TEACH	gareuchida	Reciprocal Alternation	Never	
+Korean	78	HEAR	deullida (1)	Benefactive Alternation	Never	
+Korean	78	HEAR	deullida (1)	Causative (morphological)	Never	
+Korean	78	HEAR	deullida (1)	Causative (periphrastic)	Marginally	
+Korean	78	HEAR	deullida (1)	hada-alternation	Never	
+Korean	78	HEAR	deullida (1)	ji-Passive (periphrastic)	Never	
+Korean	78	HEAR	deullida (1)	Locative alternation	Never	
+Korean	78	HEAR	deullida (1)	Passive (morphological)	Never	
+Korean	78	HEAR	deullida (1)	Possessor ascension	Never	
+Korean	78	HEAR	deullida (1)	Recipient double accusative alternation	Never	
+Korean	78	HEAR	deullida (1)	Reciprocal Alternation	Never	
+Korean	80	BOIL	kkeulhda	Benefactive Alternation	Never	
+Korean	80	BOIL	kkeulhda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	80	BOIL	kkeulhda	Causative (periphrastic)	Regularly	
+Korean	80	BOIL	kkeulhda	hada-alternation	Never	
+Korean	80	BOIL	kkeulhda	ji-Passive (periphrastic)	Never	
+Korean	80	BOIL	kkeulhda	Locative alternation	Never	
+Korean	80	BOIL	kkeulhda	Passive (morphological)	Never	
+Korean	80	BOIL	kkeulhda	Possessor ascension	Never	
+Korean	80	BOIL	kkeulhda	Recipient double accusative alternation	Never	
+Korean	80	BOIL	kkeulhda	Reciprocal Alternation	Never	
+Korean	81	APPEAR	natanada	Benefactive Alternation	Never	
+Korean	81	APPEAR	natanada	Causative (morphological)	Regularly	4-nom 1-acc 2-loc causV'
+Korean	81	APPEAR	natanada	Causative (periphrastic)	Regularly	
+Korean	81	APPEAR	natanada	hada-alternation	Never	
+Korean	81	APPEAR	natanada	ji-Passive (periphrastic)	Never	
+Korean	81	APPEAR	natanada	Locative alternation	Never	
+Korean	81	APPEAR	natanada	Passive (morphological)	Never	
+Korean	81	APPEAR	natanada	Possessor ascension	Never	
+Korean	81	APPEAR	natanada	Recipient double accusative alternation	Never	
+Korean	81	APPEAR	natanada	Reciprocal Alternation	Never	
+Korean	83	CRY	ulda	Benefactive Alternation	Never	
+Korean	83	CRY	ulda	Causative (morphological)	Regularly	4-nom 1-acc causV'
+Korean	83	CRY	ulda	Causative (periphrastic)	Regularly	
+Korean	83	CRY	ulda	hada-alternation	Never	
+Korean	83	CRY	ulda	ji-Passive (periphrastic)	Never	
+Korean	83	CRY	ulda	Locative alternation	Never	
+Korean	83	CRY	ulda	Passive (morphological)	Never	
+Korean	83	CRY	ulda	Possessor ascension	Never	
+Korean	83	CRY	ulda	Recipient double accusative alternation	Never	
+Korean	83	CRY	ulda	Reciprocal Alternation	Never	
+Korean	84	FALL	tteoreojida	Benefactive Alternation	Never	
+Korean	84	FALL	tteoreojida	Causative (morphological)	Never	
+Korean	84	FALL	tteoreojida	Causative (periphrastic)	Regularly	
+Korean	84	FALL	tteoreojida	hada-alternation	Never	
+Korean	84	FALL	tteoreojida	ji-Passive (periphrastic)	Never	
+Korean	84	FALL	tteoreojida	Locative alternation	Never	
+Korean	84	FALL	tteoreojida	Passive (morphological)	Never	
+Korean	84	FALL	tteoreojida	Possessor ascension	Never	
+Korean	84	FALL	tteoreojida	Recipient double accusative alternation	Never	
+Korean	84	FALL	tteoreojida	Reciprocal Alternation	Never	
+Korean	86	GET	badda	Benefactive Alternation	Never	
+Korean	86	GET	badda	Causative (morphological)	Marginally	
+Korean	86	GET	badda	Causative (periphrastic)	Regularly	
+Korean	86	GET	badda	hada-alternation	Never	
+Korean	86	GET	badda	ji-Passive (periphrastic)	Never	
+Korean	86	GET	badda	Locative alternation	Never	
+Korean	86	GET	badda	Passive (morphological)	Never	
+Korean	86	GET	badda	Possessor ascension	Never	
+Korean	86	GET	badda	Recipient double accusative alternation	Never	
+Korean	86	GET	badda	Reciprocal Alternation	Never	
+Korean	87	WANT	weonhada	Benefactive Alternation	Never	
+Korean	87	WANT	weonhada	Causative (morphological)	Never	
+Korean	87	WANT	weonhada	Causative (periphrastic)	Never	
+Korean	87	WANT	weonhada	hada-alternation	Never	
+Korean	87	WANT	weonhada	ji-Passive (periphrastic)	Never	
+Korean	87	WANT	weonhada	Locative alternation	Never	
+Korean	87	WANT	weonhada	Passive (morphological)	Never	
+Korean	87	WANT	weonhada	Possessor ascension	Never	
+Korean	87	WANT	weonhada	Recipient double accusative alternation	Never	
+Korean	87	WANT	weonhada	Reciprocal Alternation	Never	
+Korean	146	BE BRIGHT	balgda	Benefactive Alternation	Never	
+Korean	146	BE BRIGHT	balgda	Causative (morphological)	Marginally	
+Korean	146	BE BRIGHT	balgda	Causative (periphrastic)	Regularly	
+Korean	146	BE BRIGHT	balgda	hada-alternation	Never	
+Korean	146	BE BRIGHT	balgda	ji-Passive (periphrastic)	Never	
+Korean	146	BE BRIGHT	balgda	Locative alternation	Never	
+Korean	146	BE BRIGHT	balgda	Passive (morphological)	Never	
+Korean	146	BE BRIGHT	balgda	Possessor ascension	Never	
+Korean	146	BE BRIGHT	balgda	Recipient double accusative alternation	Never	
+Korean	146	BE BRIGHT	balgda	Reciprocal Alternation	Never	
+Korean	147	LISTEN	deudda	Benefactive Alternation	Never	
+Korean	147	LISTEN	deudda	Causative (morphological)	Regularly	4-nom 1-dat 2-acc causV'
+Korean	147	LISTEN	deudda	Causative (periphrastic)	Regularly	
+Korean	147	LISTEN	deudda	hada-alternation	Never	
+Korean	147	LISTEN	deudda	ji-Passive (periphrastic)	Never	
+Korean	147	LISTEN	deudda	Locative alternation	Never	
+Korean	147	LISTEN	deudda	Passive (morphological)	Regularly	2-nom 1-dat passV'
+Korean	147	LISTEN	deudda	Possessor ascension	Never	
+Korean	147	LISTEN	deudda	Recipient double accusative alternation	Never	
+Korean	147	LISTEN	deudda	Reciprocal Alternation	Never	
+Korean	150	SHAVE (self)	myeondohada	Benefactive Alternation	Never	
+Korean	150	SHAVE (self)	myeondohada	Causative (morphological)	Never	
+Korean	150	SHAVE (self)	myeondohada	Causative (periphrastic)	Regularly	
+Korean	150	SHAVE (self)	myeondohada	hada-alternation	Never	
+Korean	150	SHAVE (self)	myeondohada	ji-Passive (periphrastic)	Never	
+Korean	150	SHAVE (self)	myeondohada	Locative alternation	Never	
+Korean	150	SHAVE (self)	myeondohada	Passive (morphological)	Never	
+Korean	150	SHAVE (self)	myeondohada	Possessor ascension	Never	
+Korean	150	SHAVE (self)	myeondohada	Recipient double accusative alternation	Never	
+Korean	150	SHAVE (self)	myeondohada	Reciprocal Alternation	Never	

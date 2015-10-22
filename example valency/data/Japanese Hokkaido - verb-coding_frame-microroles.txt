@@ -1,0 +1,902 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Hokkaido Japanese	1	EAT	tabe-ru	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Hokkaido Japanese	1	EAT	tabe-ru	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	1-nom 2-acc V'pot	1	eater	NP-nom	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	1-nom 2-acc V'pot	2	eaten food	NP-acc	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	2-nom 1-dat/niyotte V'pass	1	eater	NP-dat/niyotte	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	2-nom 1-dat/niyotte V'pass	2	eaten food	NP-nom	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	2-nom V'pot	2	eaten food	NP-nom	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	4-nom 1-dat 2-acc V'cause	1	eater	NP-dat	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	4-nom 1-dat 2-acc V'cause	2	eaten food	NP-acc	
+Hokkaido Japanese	1	EAT	tabe-ru	Derived	4-nom 1-dat 2-acc V'cause	4	eat causer/feeder	NP-nom	
+Hokkaido Japanese	2	HUG	dakituk-u	Basic	1-nom 2-dat V	1	hugger	NP-nom	S
+Hokkaido Japanese	2	HUG	dakituk-u	Basic	1-nom 2-dat V	2	huggee	NP-dat	L
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	1-nom 2-dat V'pot	1	hugger	NP-nom	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	1-nom 2-dat V'pot	2	huggee	NP-dat	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	2-nom 1-dat/niyotte V'pass	1	hugger	NP-dat/niyotte	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	2-nom 1-dat/niyotte V'pass	2	huggee	NP-nom	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	2-nom V'pot	2	huggee	NP-nom	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	4-nom 1-acc 2-dat V'caus	1	hugger	NP-acc	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	4-nom 1-acc 2-dat V'caus	2	huggee	NP-dat	
+Hokkaido Japanese	2	HUG	dakituk-u	Derived	4-nom 1-acc 2-dat V'caus	4	hug causer	NP-nom	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Hokkaido Japanese	3	LOOK AT	mi-ru	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	1-nom 2-acc V'pot	1	looker	NP-nom	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	1-nom 2-acc V'pot	2	looked at entity	NP-acc	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	2-nom 1-dat/niyotte V'pass	1	looker	NP-dat/niyotte	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	2-nom 1-dat/niyotte V'pass	2	looked at entity	NP-nom	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	2-nom V'pot	2	looked at entity	NP-nom	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	1	looker	NP-dat	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	2	looked at entity	NP-acc	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	4	look causer	NP-nom	
+Hokkaido Japanese	4	SEE	mi-ru	Basic	1-nom 2-acc V	1	seeer	NP-nom	A
+Hokkaido Japanese	4	SEE	mi-ru	Basic	1-nom 2-acc V	2	seen entity	NP-acc	P
+Hokkaido Japanese	4	SEE	mi-ru	Derived	1-nom 2-acc V'pot	1	seeer	NP-nom	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	1-nom 2-acc V'pot	2	seen entity	NP-acc	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	2-nom 1-dat/niyotte V'pass	1	seeer	NP-dat/niyotte	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	2-nom 1-dat/niyotte V'pass	2	seen entity	NP-nom	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	2-nom V'pot	2	seen entity	NP-nom	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	1	seeer	NP-dat	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	2	seen entity	NP-acc	
+Hokkaido Japanese	4	SEE	mi-ru	Derived	4-nom 1-dat 2-acc V'cause	4	see causer	NP-nom	
+Hokkaido Japanese	5	SMELL	kag-u	Basic	1-nom 2-acc V	1	smeller	NP-nom	A
+Hokkaido Japanese	5	SMELL	kag-u	Basic	1-nom 2-acc V	2	smelled entity	NP-acc	P
+Hokkaido Japanese	5	SMELL	kag-u	Derived	1-nom 2-acc V'pot	1	smeller	NP-nom	
+Hokkaido Japanese	5	SMELL	kag-u	Derived	1-nom 2-acc V'pot	2	smelled entity	NP-acc	
+Hokkaido Japanese	5	SMELL	kag-u	Derived	4-nom 1-dat 2-acc V'cause	1	smeller	NP-dat	
+Hokkaido Japanese	5	SMELL	kag-u	Derived	4-nom 1-dat 2-acc V'cause	2	smelled entity	NP-acc	
+Hokkaido Japanese	5	SMELL	kag-u	Derived	4-nom 1-dat 2-acc V'cause	4	smell causer	NP-nom	
+Hokkaido Japanese	6	FEAR	kowagar-u	Basic	1-nom 2-acc V	1	fearer	NP-nom	A
+Hokkaido Japanese	6	FEAR	kowagar-u	Basic	1-nom 2-acc V	2	fear stimulus	NP-acc	P
+Hokkaido Japanese	6	FEAR	kowagar-u	Derived	2-nom 1-dat/niyotte V'pass	1	fearer	NP-dat/niyotte	
+Hokkaido Japanese	6	FEAR	kowagar-u	Derived	2-nom 1-dat/niyotte V'pass	2	fear stimulus	NP-nom	
+Hokkaido Japanese	6	FEAR	kowagar-u	Derived	4-nom 1-dat 2-acc V'cause	1	fearer	NP-dat	
+Hokkaido Japanese	6	FEAR	kowagar-u	Derived	4-nom 1-dat 2-acc V'cause	2	fear stimulus	NP-acc	
+Hokkaido Japanese	6	FEAR	kowagar-u	Derived	4-nom 1-dat 2-acc V'cause	4	fear causer	NP-nom	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	1-nom 2-acc V'pot	1	frightener	NP-nom	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	1-nom 2-acc V'pot	2	frightenee	NP-acc	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	2-nom 1-dat/niyotte V'pass	1	frightener	NP-dat/niyotte	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	2-nom 1-dat/niyotte V'pass	2	frightenee	NP-nom	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	2-nom V'pot	2	frightenee	NP-nom	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	4-nom 1-dat 2-acc V'cause	1	frightener	NP-dat	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	4-nom 1-dat 2-acc V'cause	2	frightenee	NP-acc	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Derived	4-nom 1-dat 2-acc V'cause	4	scare causer	NP-nom	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Derived	2-nom 1-dat/niyotte V'pass	1	liker	NP-dat/niyotte	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Derived	2-nom 1-dat/niyotte V'pass	2	liked entity	NP-nom	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Derived	4-nom 1-dat 2-acc V'cause	1	liker	NP-dat	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Derived	4-nom 1-dat 2-acc V'cause	2	liked entity	NP-acc	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Derived	4-nom 1-dat 2-acc V'cause	4	like causer	NP-nom	
+Hokkaido Japanese	8	LIKE	suki=da	Basic	1-nom 2-nom V	1	liker	NP-nom	S
+Hokkaido Japanese	8	LIKE	suki=da	Basic	1-nom 2-nom V	2	liked entity	NP-nom	X
+Hokkaido Japanese	8	LIKE	suki=da	Derived	2-nom 1-dat V'pass	1	liker	NP-dat	
+Hokkaido Japanese	8	LIKE	suki=da	Derived	2-nom 1-dat V'pass	2	liked entity	NP-nom	
+Hokkaido Japanese	9	KNOW	sir-u	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Hokkaido Japanese	9	KNOW	sir-u	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Hokkaido Japanese	9	KNOW	sir-u	Derived	2-nom 1-dat/niyotte V'pass	1	knower	NP-dat/niyotte	
+Hokkaido Japanese	9	KNOW	sir-u	Derived	2-nom 1-dat/niyotte V'pass	2	known thing/person	NP-nom	
+Hokkaido Japanese	10	THINK	kangae-ru	Basic	1-nom 2+nituite V	1	thinker	NP-nom	S
+Hokkaido Japanese	10	THINK	kangae-ru	Basic	1-nom 2+nituite V	2	thought content	NP-nituite	X
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	1-nom 2+nituite V'pot	1	thinker	NP-nom	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	1-nom 2+nituite V'pot	2	thought content	NP-nituite	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	2-nom 1-dat V'pass	1	thinker	NP-dat	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	2-nom 1-dat V'pass	2	thought content	NP-nom	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	4-nom 1-dat 2+nituite V'caus	1	thinker	NP-dat	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	4-nom 1-dat 2+nituite V'caus	2	thought content	NP-nituite	
+Hokkaido Japanese	10	THINK	kangae-ru	Derived	4-nom 1-dat 2+nituite V'caus	4	think causer	NP-nom	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	1-nom 2-acc V'pot	1	searcher	NP-nom	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	1-nom 2-acc V'pot	2	searched for thing	NP-acc	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	2-nom 1-dat/niyotte V'pass	1	searcher	NP-dat/niyotte	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	2-nom 1-dat/niyotte V'pass	2	searched for thing	NP-nom	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	2-nom V'pot	2	searched for thing	NP-nom	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	4-nom 1-dat 2-acc V'cause	1	searcher	NP-dat	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	4-nom 1-dat 2-acc V'cause	2	searched for thing	NP-acc	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Derived	4-nom 1-dat 2-acc V'cause	4	search causer	NP-nom	
+Hokkaido Japanese	12	WASH	ara(w)-u	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Hokkaido Japanese	12	WASH	ara(w)-u	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	1-nom 2-acc V'pot	1	washer	NP-nom	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	1-nom 2-acc V'pot	2	washed entity	NP-acc	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	2-nom 1-dat/niyotte V'pass	1	washer	NP-dat/niyotte	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	2-nom 1-dat/niyotte V'pass	2	washed entity	NP-nom	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	2-nom V'anticaus	2	washed entity	NP-nom	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	2-nom V'pot	2	washed entity	NP-nom	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	4-nom 1-dat 2-acc V'cause	1	washer	NP-dat	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	4-nom 1-dat 2-acc V'cause	2	washed entity	NP-acc	
+Hokkaido Japanese	12	WASH	ara(w)-u	Derived	4-nom 1-dat 2-acc V'cause	4	wash causer	NP-nom	
+Hokkaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	1	dresser	NP-nom	A
+Hokkaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	2	dressee	NP-dat	L
+Hokkaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	3	clothes	NP-acc	P
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	1-nom 2-dat 3-acc V'pot	1	dresser	NP-nom	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	1-nom 2-dat 3-acc V'pot	2	dressee	NP-dat	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	1-nom 2-dat 3-acc V'pot	3	clothes	NP-acc	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	dresser	NP-dat/niyotte	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	dressee	NP-nom	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	clothes	NP-acc	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	dresser	NP-niyotte	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	dressee	NP-dat	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	clothes	NP-nom	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	3-nom 2-dat V'anticaus	2	dressee	NP-dat	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	3-nom 2-dat V'anticaus	3	clothes	NP-nom	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	dresser	NP-dat	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	dressee	NP-dat	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	clothes	NP-acc	
+Hokkaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	dress causer	NP-nom	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	1-nom 2-acc V'pot	1	shaver (of body part)	NP-nom	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	1-nom 2-acc V'pot	2	shaved body part	NP-acc	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	2-nom 1-dat/niyotte V'pass	1	shaver (of body part)	NP-dat/niyotte	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	2-nom 1-dat/niyotte V'pass	2	shaved body part	NP-nom	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	2-nom V'anticaus	2	shaved body part	NP-nom	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	4-nom 1-dat 2-acc V'cause	1	shaver (of body part)	NP-dat	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	4-nom 1-dat 2-acc V'cause	2	shaved body part	NP-acc	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Derived	4-nom 1-dat 2-acc V'cause	4	shave causer	NP-nom	
+Hokkaido Japanese	15	HELP	tasuke-ru	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Hokkaido Japanese	15	HELP	tasuke-ru	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	1-nom 2-acc V'pot	1	helper	NP-nom	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	1-nom 2-acc V'pot	2	helpee	NP-acc	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	2-nom 1-dat/niyotte V'pass	1	helper	NP-dat/niyotte	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	2-nom 1-dat/niyotte V'pass	2	helpee	NP-nom	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	2-nom V'pot	2	helpee	NP-nom	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	4-nom 1-dat 2-acc V'cause	1	helper	NP-dat	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	4-nom 1-dat 2-acc V'cause	2	helpee	NP-acc	
+Hokkaido Japanese	15	HELP	tasuke-ru	Derived	4-nom 1-dat 2-acc V'cause	4	help causer	NP-nom	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	1-nom 2-acc V'pot	1	helper	NP-nom	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	1-nom 2-acc V'pot	2	helpee	NP-acc	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	2-nom 1-dat/niyotte V'pass	1	helper	NP-dat/niyotte	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	2-nom 1-dat/niyotte V'pass	2	helpee	NP-nom	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	4-nom 1-dat 2-acc V'cause	1	helper	NP-dat	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	4-nom 1-dat 2-acc V'cause	2	helpee	NP-acc	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Derived	4-nom 1-dat 2-acc V'cause	4	help causer	NP-nom	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	1-nom 2-acc V'pot	1	follower	NP-nom	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	1-nom 2-acc V'pot	2	followee	NP-acc	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	2-nom 1-dat/niyotte V'pass	1	follower	NP-dat/niyotte	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	2-nom 1-dat/niyotte V'pass	2	followee	NP-nom	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	4-nom 1-dat 2-acc V'cause	1	follower	NP-dat	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	4-nom 1-dat 2-acc V'cause	2	followee	NP-acc	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Derived	4-nom 1-dat 2-acc V'cause	4	follow causer	NP-nom	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Basic	1-nom 2-dat V	1	follower	NP-nom	S
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Basic	1-nom 2-dat V	2	followee	NP-dat	L
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	1-nom 2-dat V'pot	1	follower	NP-nom	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	1-nom 2-dat V'pot	2	followee	NP-dat	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	2-nom 1-dat/niyotte V'pass	1	follower	NP-dat/niyotte	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	2-nom 1-dat/niyotte V'pass	2	followee	NP-nom	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	4-nom 1-acc 2-dat V'caus	1	follower	NP-acc	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	4-nom 1-acc 2-dat V'caus	2	followee	NP-dat	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Derived	4-nom 1-acc 2-dat V'caus	4	follow causer	NP-nom	
+Hokkaido Japanese	17	MEET	a(w)-u	Basic	1-nom 2-com/dat V	1	meeter	NP-nom	S
+Hokkaido Japanese	17	MEET	a(w)-u	Basic	1-nom 2-com/dat V	2	met person	NP-com/dat	X
+Hokkaido Japanese	17	MEET	a(w)-u	Derived	1-nom 2-com/dat V'pot	1	meeter	NP-nom	
+Hokkaido Japanese	17	MEET	a(w)-u	Derived	1-nom 2-com/dat V'pot	2	met person	NP-com/dat	
+Hokkaido Japanese	17	MEET	a(w)-u	Derived	4-nom 1-acc 2-com/dat V'caus	1	meeter	NP-acc	
+Hokkaido Japanese	17	MEET	a(w)-u	Derived	4-nom 1-acc 2-com/dat V'caus	2	met person	NP-com/dat	
+Hokkaido Japanese	17	MEET	a(w)-u	Derived	4-nom 1-acc 2-com/dat V'caus	4	meet causer	NP-nom	
+Hokkaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	1	talker	NP-nom	A
+Hokkaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	2	talked to person	NP-dat	L
+Hokkaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	3	talked about content	NP-acc	P
+Hokkaido Japanese	18	TALK	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	1	talker	NP-nom	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	2	talked to person	NP-dat	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	3	talked about content	NP-acc	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	talker	NP-dat/niyotte	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	talked to person	NP-nom	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	talked about content	NP-acc	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	talker	NP-niyotte	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	talked to person	NP-dat	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	talked about content	NP-nom	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	3-nom 2-dat V'pot	2	talked to person	NP-dat	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	3-nom 2-dat V'pot	3	talked about content	NP-nom	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	talker	NP-dat	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	talked to person	NP-dat	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	talked about content	NP-acc	
+Hokkaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	talk causer	NP-nom	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Basic	1-nom 2-dat 3-acc V	1	asker	NP-nom	A
+Hokkaido Japanese	19	ASK FOR	motome-ru	Basic	1-nom 2-dat 3-acc V	2	askee	NP-dat	L
+Hokkaido Japanese	19	ASK FOR	motome-ru	Basic	1-nom 2-dat 3-acc V	3	requested thing	NP-acc	P
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	1-nom 2-dat 3-acc V'pot	1	asker	NP-nom	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	1-nom 2-dat 3-acc V'pot	2	askee	NP-dat	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	1-nom 2-dat 3-acc V'pot	3	requested thing	NP-acc	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	asker	NP-dat/niyotte	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	askee	NP-nom	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	requested thing	NP-acc	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	asker	NP-niyotte	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	askee	NP-dat	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	requested thing	NP-nom	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	asker	NP-dat	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	askee	NP-dat	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	requested thing	NP-acc	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	ask for causer	NP-nom	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Basic	1-nom 2-acc V	1	shouter	NP-nom	A
+Hokkaido Japanese	20	SHOUT AT	donar-u	Basic	1-nom 2-acc V	2	shoutee	NP-acc	P
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	1-nom 2-acc V'pot	1	shouter	NP-nom	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	1-nom 2-acc V'pot	2	shoutee	NP-acc	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	2-nom 1-dat/niyotte V'pass	1	shouter	NP-dat/niyotte	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	2-nom 1-dat/niyotte V'pass	2	shoutee	NP-nom	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-dat 2-acc V'cause	1	shouter	NP-dat	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-dat 2-acc V'cause	2	shoutee	NP-acc	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-dat 2-acc V'cause	4	shout causer	NP-nom	
+Hokkaido Japanese	21	TELL	hanas-u	Basic	1-nom 2-dat 3-acc V	1	teller	NP-nom	A
+Hokkaido Japanese	21	TELL	hanas-u	Basic	1-nom 2-dat 3-acc V	2	tellee	NP-dat	L
+Hokkaido Japanese	21	TELL	hanas-u	Basic	1-nom 2-dat 3-acc V	3	told content	NP-acc	P
+Hokkaido Japanese	21	TELL	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	1	teller	NP-nom	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	2	tellee	NP-dat	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	1-nom 2-dat 3-acc V'pot	3	told content	NP-acc	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	teller	NP-dat/niyotte	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	tellee	NP-nom	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	told content	NP-acc	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	teller	NP-niyotte	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	tellee	NP-dat	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	told content	NP-nom	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	3-nom 2-dat V'pot	2	tellee	NP-dat	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	3-nom 2-dat V'pot	3	told content	NP-nom	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	teller	NP-dat	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	tellee	NP-dat	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	told content	NP-acc	
+Hokkaido Japanese	21	TELL	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	tell causer	NP-nom	
+Hokkaido Japanese	22	SAY	i(w)-u	Basic	1-nom 2-dat UTT3 V	1	sayer	NP-nom	S
+Hokkaido Japanese	22	SAY	i(w)-u	Basic	1-nom 2-dat UTT3 V	2	saying addressee	NP-dat	L
+Hokkaido Japanese	22	SAY	i(w)-u	Basic	1-nom 2-dat UTT3 V	3	said content	UTT	X
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	1-nom 2-dat UTT3 V'pot	1	sayer	NP-nom	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	1-nom 2-dat UTT3 V'pot	2	saying addressee	NP-dat	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	1-nom 2-dat UTT3 V'pot	3	said content	UTT	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	2-nom UTT3 1-dat/niyotte V'pass	1	sayer	NP-dat/niyotte	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	2-nom UTT3 1-dat/niyotte V'pass	2	saying addressee	NP-nom	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	2-nom UTT3 1-dat/niyotte V'pass	3	said content	UTT	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	4-nom 1-dat 2-dat UTT3 V'caus	1	sayer	NP-dat	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	4-nom 1-dat 2-dat UTT3 V'caus	2	saying addressee	NP-dat	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	4-nom 1-dat 2-dat UTT3 V'caus	3	said content	UTT	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	4-nom 1-dat 2-dat UTT3 V'caus	4	say causer	NP-nom	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	UTT3 1-dat/niyotte 2-dat V'pass	1	sayer	NP-dat/niyotte	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	UTT3 1-dat/niyotte 2-dat V'pass	2	saying addressee	NP-dat	
+Hokkaido Japanese	22	SAY	i(w)-u	Derived	UTT3 1-dat/niyotte 2-dat V'pass	3	said content	UTT	
+Hokkaido Japanese	23	NAME	yob-u	Basic	1-nom 2-acc 3-com V	1	namer	NP-nom	A
+Hokkaido Japanese	23	NAME	yob-u	Basic	1-nom 2-acc 3-com V	2	namee	NP-acc	P
+Hokkaido Japanese	23	NAME	yob-u	Basic	1-nom 2-acc 3-com V	3	name	NP-com	X
+Hokkaido Japanese	23	NAME	yob-u	Derived	1-nom 2-acc 3-com V'pot	1	namer	NP-nom	
+Hokkaido Japanese	23	NAME	yob-u	Derived	1-nom 2-acc 3-com V'pot	2	namee	NP-acc	
+Hokkaido Japanese	23	NAME	yob-u	Derived	1-nom 2-acc 3-com V'pot	3	name	NP-com	
+Hokkaido Japanese	23	NAME	yob-u	Derived	2-nom 1-dat/niyotte 3-com V'pass	1	namer	NP-dat/niyotte	
+Hokkaido Japanese	23	NAME	yob-u	Derived	2-nom 1-dat/niyotte 3-com V'pass	2	namee	NP-nom	
+Hokkaido Japanese	23	NAME	yob-u	Derived	2-nom 1-dat/niyotte 3-com V'pass	3	name	NP-com	
+Hokkaido Japanese	23	NAME	yob-u	Derived	2-nom 3-com V'pot	2	namee	NP-nom	
+Hokkaido Japanese	23	NAME	yob-u	Derived	2-nom 3-com V'pot	3	name	NP-com	
+Hokkaido Japanese	23	NAME	yob-u	Derived	4-nom 1-dat 2-acc 3-com V'cause	1	namer	NP-dat	
+Hokkaido Japanese	23	NAME	yob-u	Derived	4-nom 1-dat 2-acc 3-com V'cause	2	namee	NP-acc	
+Hokkaido Japanese	23	NAME	yob-u	Derived	4-nom 1-dat 2-acc 3-com V'cause	3	name	NP-com	
+Hokkaido Japanese	23	NAME	yob-u	Derived	4-nom 1-dat 2-acc 3-com V'cause	4	name causer	NP-nom	
+Hokkaido Japanese	24	BUILD	tate-ru	Basic	1-nom 2-acc V	1	builder	NP-nom	A
+Hokkaido Japanese	24	BUILD	tate-ru	Basic	1-nom 2-acc V	2	built thing	NP-acc	P
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	1-nom 2-acc V'pot	1	builder	NP-nom	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	1-nom 2-acc V'pot	2	built thing	NP-acc	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	2-nom 1-dat/niyotte V'pass	1	builder	NP-dat/niyotte	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	2-nom 1-dat/niyotte V'pass	2	built thing	NP-nom	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	2-nom V'anticaus	2	built thing	NP-nom	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	4-nom 1-dat 2-acc V'cause	1	builder	NP-dat	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	4-nom 1-dat 2-acc V'cause	2	built thing	NP-acc	
+Hokkaido Japanese	24	BUILD	tate-ru	Derived	4-nom 1-dat 2-acc V'cause	4	build causer	NP-nom	
+Hokkaido Japanese	25	BREAK	war-u	Basic	1-nom 2-acc (3-instr) V	1	breaker	NP-nom	A
+Hokkaido Japanese	25	BREAK	war-u	Basic	1-nom 2-acc (3-instr) V	2	broken thing	NP-acc	P
+Hokkaido Japanese	25	BREAK	war-u	Basic	1-nom 2-acc (3-instr) V	3	breaking instrument	NP-instr	I
+Hokkaido Japanese	25	BREAK	war-u	Derived	1-nom 2-acc (3-instr) V'pot	1	breaker	NP-nom	
+Hokkaido Japanese	25	BREAK	war-u	Derived	1-nom 2-acc (3-instr) V'pot	2	broken thing	NP-acc	
+Hokkaido Japanese	25	BREAK	war-u	Derived	1-nom 2-acc (3-instr) V'pot	3	breaking instrument	NP-instr	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	1	breaker	NP-dat/niyotte	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	2	broken thing	NP-nom	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	3	breaking instrument	NP-instr	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 3-instr V'anticaus	2	broken thing	NP-nom	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 3-instr V'anticaus	3	breaking instrument	NP-instr	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 3-instr V'pot	2	broken thing	NP-nom	
+Hokkaido Japanese	25	BREAK	war-u	Derived	2-nom 3-instr V'pot	3	breaking instrument	NP-instr	
+Hokkaido Japanese	25	BREAK	war-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	breaker	NP-dat	
+Hokkaido Japanese	25	BREAK	war-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	broken thing	NP-acc	
+Hokkaido Japanese	25	BREAK	war-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	breaking instrument	NP-instr	
+Hokkaido Japanese	25	BREAK	war-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	4	break causer	NP-nom	
+Hokkaido Japanese	26	KILL	koros-u	Basic	1-nom 2-acc (3-instr) V	1	killer	NP-nom	A
+Hokkaido Japanese	26	KILL	koros-u	Basic	1-nom 2-acc (3-instr) V	2	killee	NP-acc	P
+Hokkaido Japanese	26	KILL	koros-u	Basic	1-nom 2-acc (3-instr) V	3	killing instrument	NP-instr	I
+Hokkaido Japanese	26	KILL	koros-u	Derived	1-nom 2-acc (3-instr) V'pot	1	killer	NP-nom	
+Hokkaido Japanese	26	KILL	koros-u	Derived	1-nom 2-acc (3-instr) V'pot	2	killee	NP-acc	
+Hokkaido Japanese	26	KILL	koros-u	Derived	1-nom 2-acc (3-instr) V'pot	3	killing instrument	NP-instr	
+Hokkaido Japanese	26	KILL	koros-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	1	killer	NP-dat/niyotte	
+Hokkaido Japanese	26	KILL	koros-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	2	killee	NP-nom	
+Hokkaido Japanese	26	KILL	koros-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	3	killing instrument	NP-instr	
+Hokkaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	killer	NP-dat	
+Hokkaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	killee	NP-acc	
+Hokkaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	killing instrument	NP-instr	
+Hokkaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	4	kill causer	NP-nom	
+Hokkaido Japanese	27	BEAT	tatak-u	Basic	1-nom 2-acc (3-instr) V	1	beater	NP-nom	A
+Hokkaido Japanese	27	BEAT	tatak-u	Basic	1-nom 2-acc (3-instr) V	2	beatee	NP-acc	P
+Hokkaido Japanese	27	BEAT	tatak-u	Basic	1-nom 2-acc (3-instr) V	3	beating instrument	NP-instr	I
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	1	beater	NP-nom	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	2	beatee	NP-acc	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	3	beating instrument	NP-instr	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	1	beater	NP-dat/niyotte	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	2	beatee	NP-nom	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	3	beating instrument	NP-instr	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 3-instr V'anticaus	2	beatee	NP-nom	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 3-instr V'anticaus	3	beating instrument	NP-instr	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 3-instr V'pot	2	beatee	NP-nom	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	2-nom 3-instr V'pot	3	beating instrument	NP-instr	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	beater	NP-dat	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	beatee	NP-acc	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	beating instrument	NP-instr	
+Hokkaido Japanese	27	BEAT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	4	beat causer	NP-nom	
+Hokkaido Japanese	28	HIT	tatak-u	Basic	1-nom 2-acc (3-instr) V	1	hitter	NP-nom	A
+Hokkaido Japanese	28	HIT	tatak-u	Basic	1-nom 2-acc (3-instr) V	2	hittee	NP-acc	P
+Hokkaido Japanese	28	HIT	tatak-u	Basic	1-nom 2-acc (3-instr) V	3	hitting instrument	NP-instr	I
+Hokkaido Japanese	28	HIT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	1	hitter	NP-nom	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	2	hittee	NP-acc	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	1-nom 2-acc (3-instr) V'pot	3	hitting instrument	NP-instr	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	1	hitter	NP-dat/niyotte	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	2	hittee	NP-nom	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 1-dat/niyotte 3-instr V'pass	3	hitting instrument	NP-instr	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 3-instr V'anticaus	2	hittee	NP-nom	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 3-instr V'anticaus	3	hitting instrument	NP-instr	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 3-instr V'pot	2	hittee	NP-nom	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	2-nom 3-instr V'pot	3	hitting instrument	NP-instr	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	hitter	NP-dat	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	hittee	NP-acc	
+Hokkaido Japanese	28	HIT	tatak-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	hitting instrument	NP-instr	
+Hokkaido Japanese	29	TOUCH	sawar-u	Basic	1-nom 2-dat V	1	toucher	NP-nom	S
+Hokkaido Japanese	29	TOUCH	sawar-u	Basic	1-nom 2-dat V	2	touchee	NP-dat	L
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	1-nom 2-dat V'pot	1	toucher	NP-nom	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	1-nom 2-dat V'pot	2	touchee	NP-dat	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	2-nom 1-dat/niyotte V'pass	1	toucher	NP-dat/niyotte	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	2-nom 1-dat/niyotte V'pass	2	touchee	NP-nom	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	2-nom V'pot	2	touchee	NP-nom	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	4-nom 1-acc 2-dat V'caus	1	toucher	NP-acc	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	4-nom 1-acc 2-dat V'caus	2	touchee	NP-dat	
+Hokkaido Japanese	29	TOUCH	sawar-u	Derived	4-nom 1-acc 2-dat V'caus	4	touch causer	NP-nom	
+Hokkaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	1	cutter	NP-nom	A
+Hokkaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	2	cut thing	NP-acc	P
+Hokkaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	3	cutting instrument	NP-instr	I
+Hokkaido Japanese	30	CUT	kir-u	Derived	1-nom 2-acc (3-instr) V'pot	1	cutter	NP-nom	
+Hokkaido Japanese	30	CUT	kir-u	Derived	1-nom 2-acc (3-instr) V'pot	2	cut thing	NP-acc	
+Hokkaido Japanese	30	CUT	kir-u	Derived	1-nom 2-acc (3-instr) V'pot	3	cutting instrument	NP-instr	
+Hokkaido Japanese	30	CUT	kir-u	Derived	2-nom 3-instr V'anticaus	2	cut thing	NP-nom	
+Hokkaido Japanese	30	CUT	kir-u	Derived	2-nom 3-instr V'anticaus	3	cutting instrument	NP-instr	
+Hokkaido Japanese	30	CUT	kir-u	Derived	2-nom 3-instr V'pot	2	cut thing	NP-nom	
+Hokkaido Japanese	30	CUT	kir-u	Derived	2-nom 3-instr V'pot	3	cutting instrument	NP-instr	
+Hokkaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	cutter	NP-dat	
+Hokkaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	cut thing	NP-acc	
+Hokkaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	cutting instrument	NP-instr	
+Hokkaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc 3-instr V'caus	4	cutting causer	NP-nom	
+Hokkaido Japanese	31	TAKE	mog-u	Basic	1-nom 2-abl 3-acc V	1	taker	NP-nom	A
+Hokkaido Japanese	31	TAKE	mog-u	Basic	1-nom 2-abl 3-acc V	2	taking source	NP-abl	X
+Hokkaido Japanese	31	TAKE	mog-u	Basic	1-nom 2-abl 3-acc V	3	taken thing	NP-acc	P
+Hokkaido Japanese	31	TAKE	mog-u	Derived	1-nom 2-abl 3-acc V'pot	1	taker	NP-nom	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	1-nom 2-abl 3-acc V'pot	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	1-nom 2-abl 3-acc V'pot	3	taken thing	NP-acc	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	1	taker	NP-dat/niyotte	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	3	taken thing	NP-nom	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom 2-abl V'anticaus	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom 2-abl V'anticaus	3	taken thing	NP-nom	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	3-nom V'pot	3	taken thing	NP-nom	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	1	taker	NP-dat	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	3	taken thing	NP-acc	
+Hokkaido Japanese	31	TAKE	mog-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	4	take causer	NP-nom	
+Hokkaido Japanese	31	TAKE	tor-u	Basic	1-nom 2-abl 3-acc V	1	taker	NP-nom	A
+Hokkaido Japanese	31	TAKE	tor-u	Basic	1-nom 2-abl 3-acc V	2	taking source	NP-abl	X
+Hokkaido Japanese	31	TAKE	tor-u	Basic	1-nom 2-abl 3-acc V	3	taken thing	NP-acc	P
+Hokkaido Japanese	31	TAKE	tor-u	Derived	1-nom 2-abl 3-acc V'pot	1	taker	NP-nom	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	1-nom 2-abl 3-acc V'pot	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	1-nom 2-abl 3-acc V'pot	3	taken thing	NP-acc	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	2-nom 1-abl 3-acc V'pass	1	taker	NP-abl	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	2-nom 1-abl 3-acc V'pass	2	taking source	NP-nom	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	2-nom 1-abl 3-acc V'pass	3	taken thing	NP-acc	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	1	taker	NP-dat/niyotte	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	3	taken thing	NP-nom	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	1	taker	NP-dat	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	2	taking source	NP-abl	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	3	taken thing	NP-acc	
+Hokkaido Japanese	31	TAKE	tor-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	4	take causer	NP-nom	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Basic	1-nom 2-abl 3-acc V	1	tearer	NP-nom	A
+Hokkaido Japanese	32	TEAR	hikitigir-u	Basic	1-nom 2-abl 3-acc V	2	tearing source	NP-abl	X
+Hokkaido Japanese	32	TEAR	hikitigir-u	Basic	1-nom 2-abl 3-acc V	3	torn thing	NP-acc	P
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	1-nom 2-abl 3-acc V'pot	1	tearer	NP-nom	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	1-nom 2-abl 3-acc V'pot	2	tearing source	NP-abl	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	1-nom 2-abl 3-acc V'pot	3	torn thing	NP-acc	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	1	tearer	NP-dat/niyotte	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	2	tearing source	NP-abl	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom 2-abl 1-dat/niyotte V'pass	3	torn thing	NP-nom	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom 2-abl V'anticaus	2	tearing source	NP-abl	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom 2-abl V'anticaus	3	torn thing	NP-nom	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	3-nom V'pot	3	torn thing	NP-nom	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	1	tearer	NP-dat	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	2	tearing source	NP-abl	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	3	torn thing	NP-acc	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Derived	4-nom 1-dat 2-abl 3-acc V'caus	4	tear causer	NP-nom	
+Hokkaido Japanese	33	PEEL	muk-u	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Hokkaido Japanese	33	PEEL	muk-u	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Hokkaido Japanese	33	PEEL	muk-u	Derived	1-nom 2-acc V'pot	1	peeler	NP-nom	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	1-nom 2-acc V'pot	2	peeled object	NP-acc	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	2-nom 1-dat/niyotte V'pass	1	peeler	NP-dat/niyotte	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	2-nom 1-dat/niyotte V'pass	2	peeled object	NP-nom	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	2-nom V'anticaus	2	peeled object	NP-nom	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	4-nom 1-dat 2-acc V'cause	1	peeler	NP-dat	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	4-nom 1-dat 2-acc V'cause	2	peeled object	NP-acc	
+Hokkaido Japanese	33	PEEL	muk-u	Derived	4-nom 1-dat 2-acc V'cause	4	peel causer	NP-nom	
+Hokkaido Japanese	34	HIDE	kakus-u	Basic	1-nom 2-acc V	1	hider	NP-nom	A
+Hokkaido Japanese	34	HIDE	kakus-u	Basic	1-nom 2-acc V	2	hidden thing	NP-acc	P
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	1-nom 2-acc V'pot	1	hider	NP-nom	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	1-nom 2-acc V'pot	2	hidden thing	NP-acc	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	2-nom 1-dat/niyotte V'pass	1	hider	NP-dat/niyotte	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	2-nom 1-dat/niyotte V'pass	2	hidden thing	NP-nom	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	2-nom V'pot	2	hidden thing	NP-nom	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	4-nom 1-dat 2-acc V'cause	1	hider	NP-dat	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	4-nom 1-dat 2-acc V'cause	2	hidden thing	NP-acc	
+Hokkaido Japanese	34	HIDE	kakus-u	Derived	4-nom 1-dat 2-acc V'cause	4	hide causer	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	1	shower	NP-nom	A
+Hokkaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	2	showing addressee	NP-dat	L
+Hokkaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	3	shown thing	NP-acc	P
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	1-nom 2-dat 3-acc V'pot	1	shower	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	1-nom 2-dat 3-acc V'pot	2	showing addressee	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	1-nom 2-dat 3-acc V'pot	3	shown thing	NP-acc	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	shower	NP-dat/niyotte	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	showing addressee	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	shown thing	NP-acc	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	shower	NP-niyotte	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	showing addressee	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	shown thing	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat V'anticaus	2	showing addressee	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat V'anticaus	3	shown thing	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat V'pot	2	showing addressee	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat V'pot	3	shown thing	NP-nom	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	shower	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	showing addressee	NP-dat	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	shown thing	NP-acc	
+Hokkaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	show causer	NP-nom	
+Hokkaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	1	giver	NP-nom	A
+Hokkaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	2	giving recipient	NP-dat	L
+Hokkaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	3	gift	NP-acc	P
+Hokkaido Japanese	36	GIVE	yar-u	Basic	1-nom 2-dat 3-acc V	1	giver	NP-nom	A
+Hokkaido Japanese	36	GIVE	yar-u	Basic	1-nom 2-dat 3-acc V	2	giving recipient	NP-dat	L
+Hokkaido Japanese	36	GIVE	yar-u	Basic	1-nom 2-dat 3-acc V	3	gift	NP-acc	P
+Hokkaido Japanese	36	GIVE	yar-u	Derived	1-nom 2-dat 3-acc V'pot	1	giver	NP-nom	
+Hokkaido Japanese	36	GIVE	yar-u	Derived	1-nom 2-dat 3-acc V'pot	2	giving recipient	NP-dat	
+Hokkaido Japanese	36	GIVE	yar-u	Derived	1-nom 2-dat 3-acc V'pot	3	gift	NP-acc	
+Hokkaido Japanese	36	GIVE	yar-u	Derived	3-nom 2-dat V'pot	2	giving recipient	NP-dat	
+Hokkaido Japanese	36	GIVE	yar-u	Derived	3-nom 2-dat V'pot	3	gift	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Basic	1-nom 2-dat 3-acc V	1	sender	NP-nom	A
+Hokkaido Japanese	37	SEND	okur-u	Basic	1-nom 2-dat 3-acc V	2	sending recipient	NP-dat	L
+Hokkaido Japanese	37	SEND	okur-u	Basic	1-nom 2-dat 3-acc V	3	sent thing	NP-acc	P
+Hokkaido Japanese	37	SEND	okur-u	Derived	1-nom 2-dat 3-acc V'pot	1	sender	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Derived	1-nom 2-dat 3-acc V'pot	2	sending recipient	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	1-nom 2-dat 3-acc V'pot	3	sent thing	NP-acc	
+Hokkaido Japanese	37	SEND	okur-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	sender	NP-dat/niyotte	
+Hokkaido Japanese	37	SEND	okur-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	sending recipient	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	sent thing	NP-acc	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	sender	NP-niyotte	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	sending recipient	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	sent thing	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 2-dat V'anticaus	2	sending recipient	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 2-dat V'anticaus	3	sent thing	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 2-dat V'pot	2	sending recipient	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	3-nom 2-dat V'pot	3	sent thing	NP-nom	
+Hokkaido Japanese	37	SEND	okur-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	sender	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	sending recipient	NP-dat	
+Hokkaido Japanese	37	SEND	okur-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	sent thing	NP-acc	
+Hokkaido Japanese	37	SEND	okur-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	send causer	NP-nom	
+Hokkaido Japanese	38	CARRY	hakob-u	Basic	1-nom 2-dat 3-acc V	1	carrier	NP-nom	A
+Hokkaido Japanese	38	CARRY	hakob-u	Basic	1-nom 2-dat 3-acc V	2	carrying goal	NP-dat	L
+Hokkaido Japanese	38	CARRY	hakob-u	Basic	1-nom 2-dat 3-acc V	3	carried thing	NP-acc	P
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	1-nom 2-dat 3-acc V'pot	1	carrier	NP-nom	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	1-nom 2-dat 3-acc V'pot	2	carrying goal	NP-dat	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	1-nom 2-dat 3-acc V'pot	3	carried thing	NP-acc	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	carrier	NP-niyotte	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	carrying goal	NP-dat	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	carried thing	NP-nom	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	3-nom 2-dat V'anticaus	2	carrying goal	NP-dat	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	3-nom 2-dat V'anticaus	3	carried thing	NP-nom	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	carrier	NP-dat	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	carrying goal	NP-dat	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	carried thing	NP-acc	
+Hokkaido Japanese	38	CARRY	hakob-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	carry causer	NP-nom	
+Hokkaido Japanese	39	THROW	nage-ru	Basic	1-nom 2-dat 3-acc V	1	thrower	NP-nom	A
+Hokkaido Japanese	39	THROW	nage-ru	Basic	1-nom 2-dat 3-acc V	2	throwing goal	NP-dat	L
+Hokkaido Japanese	39	THROW	nage-ru	Basic	1-nom 2-dat 3-acc V	3	thrown thing	NP-acc	P
+Hokkaido Japanese	39	THROW	nage-ru	Derived	1-nom 2-dat 3-acc V'pot	1	thrower	NP-nom	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	1-nom 2-dat 3-acc V'pot	2	throwing goal	NP-dat	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	1-nom 2-dat 3-acc V'pot	3	thrown thing	NP-acc	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	thrower	NP-niyotte	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	throwing goal	NP-dat	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	thrown thing	NP-nom	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	3-nom 2-dat V'pot	2	throwing goal	NP-dat	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	3-nom 2-dat V'pot	3	thrown thing	NP-nom	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	thrower	NP-dat	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	throwing goal	NP-dat	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	thrown thing	NP-acc	
+Hokkaido Japanese	39	THROW	nage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	throw causer	NP-nom	
+Hokkaido Japanese	40	TIE	tunag-u	Basic	1-nom 2-dat 3-acc V	1	tier	NP-nom	A
+Hokkaido Japanese	40	TIE	tunag-u	Basic	1-nom 2-dat 3-acc V	2	tied thing	NP-dat	L
+Hokkaido Japanese	40	TIE	tunag-u	Basic	1-nom 2-dat 3-acc V	3	tying goal	NP-acc	P
+Hokkaido Japanese	40	TIE	tunag-u	Derived	1-nom 2-dat 3-acc V'pot	1	tier	NP-nom	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	1-nom 2-dat 3-acc V'pot	2	tied thing	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	1-nom 2-dat 3-acc V'pot	3	tying goal	NP-acc	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	tier	NP-niyotte	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	tied thing	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	tying goal	NP-nom	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 2-dat V'anticaus	2	tied thing	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 2-dat V'anticaus	3	tying goal	NP-nom	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 2-dat V'pot	2	tied thing	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	3-nom 2-dat V'pot	3	tying goal	NP-nom	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	tier	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	tied thing	NP-dat	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	tying goal	NP-acc	
+Hokkaido Japanese	40	TIE	tunag-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	tie causer	NP-nom	
+Hokkaido Japanese	41	PUT	ok-u	Basic	1-nom 2-dat 3-acc V	1	putter	NP-nom	A
+Hokkaido Japanese	41	PUT	ok-u	Basic	1-nom 2-dat 3-acc V	2	putting goal	NP-dat	L
+Hokkaido Japanese	41	PUT	ok-u	Basic	1-nom 2-dat 3-acc V	3	put thing	NP-acc	P
+Hokkaido Japanese	41	PUT	ok-u	Derived	1-nom 2-dat 3-acc V'pot	1	putter	NP-nom	
+Hokkaido Japanese	41	PUT	ok-u	Derived	1-nom 2-dat 3-acc V'pot	2	putting goal	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	1-nom 2-dat 3-acc V'pot	3	put thing	NP-acc	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	putter	NP-niyotte	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	putting goal	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	put thing	NP-nom	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 2-dat V'anticaus	2	putting goal	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 2-dat V'anticaus	3	put thing	NP-nom	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 2-dat V'pot	2	putting goal	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	3-nom 2-dat V'pot	3	put thing	NP-nom	
+Hokkaido Japanese	41	PUT	ok-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	putter	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	putting goal	NP-dat	
+Hokkaido Japanese	41	PUT	ok-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	put thing	NP-acc	
+Hokkaido Japanese	41	PUT	ok-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	put causer	NP-nom	
+Hokkaido Japanese	42	POUR	tug-u	Basic	1-nom 2-dat 3-acc V	1	pourer	NP-nom	A
+Hokkaido Japanese	42	POUR	tug-u	Basic	1-nom 2-dat 3-acc V	2	pouring goal	NP-dat	L
+Hokkaido Japanese	42	POUR	tug-u	Basic	1-nom 2-dat 3-acc V	3	poured substance	NP-acc	P
+Hokkaido Japanese	42	POUR	tug-u	Derived	1-nom 2-dat 3-acc V'pot	1	pourer	NP-nom	
+Hokkaido Japanese	42	POUR	tug-u	Derived	1-nom 2-dat 3-acc V'pot	2	pouring goal	NP-dat	
+Hokkaido Japanese	42	POUR	tug-u	Derived	1-nom 2-dat 3-acc V'pot	3	poured substance	NP-acc	
+Hokkaido Japanese	42	POUR	tug-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	pourer	NP-niyotte	
+Hokkaido Japanese	42	POUR	tug-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	pouring goal	NP-dat	
+Hokkaido Japanese	42	POUR	tug-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	poured substance	NP-nom	
+Hokkaido Japanese	42	POUR	tug-u	Derived	3-nom 2-dat V'anticaus	2	pouring goal	NP-dat	
+Hokkaido Japanese	42	POUR	tug-u	Derived	3-nom 2-dat V'anticaus	3	poured substance	NP-nom	
+Hokkaido Japanese	42	POUR	tug-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	pourer	NP-dat	
+Hokkaido Japanese	42	POUR	tug-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	pouring goal	NP-dat	
+Hokkaido Japanese	42	POUR	tug-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	poured substance	NP-acc	
+Hokkaido Japanese	42	POUR	tug-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	pour causer	NP-nom	
+Hokkaido Japanese	43	COVER	kake-ru	Basic	1-nom 2-dat 3-acc V	1	coverer	NP-nom	A
+Hokkaido Japanese	43	COVER	kake-ru	Basic	1-nom 2-dat 3-acc V	2	covered thing	NP-dat	L
+Hokkaido Japanese	43	COVER	kake-ru	Basic	1-nom 2-dat 3-acc V	3	cover	NP-acc	P
+Hokkaido Japanese	43	COVER	kake-ru	Derived	1-nom 2-dat 3-acc V'pot	1	coverer	NP-nom	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	1-nom 2-dat 3-acc V'pot	2	covered thing	NP-dat	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	1-nom 2-dat 3-acc V'pot	3	cover	NP-acc	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	coverer	NP-dat/niyotte	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	covered thing	NP-nom	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	cover	NP-acc	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	coverer	NP-niyotte	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	covered thing	NP-dat	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	cover	NP-nom	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	3-nom 2-dat V'pot	2	covered thing	NP-dat	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	3-nom 2-dat V'pot	3	cover	NP-nom	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	coverer	NP-dat	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	covered thing	NP-dat	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	cover	NP-acc	
+Hokkaido Japanese	43	COVER	kake-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	cover causer	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Basic	1-nom 2-dat 3-acc V	1	filler	NP-nom	A
+Hokkaido Japanese	44	FILL	mitas-u (1)	Basic	1-nom 2-dat 3-acc V	2	filled container	NP-dat	L
+Hokkaido Japanese	44	FILL	mitas-u (1)	Basic	1-nom 2-dat 3-acc V	3	filling material	NP-acc	P
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	1-nom 2-dat 3-acc V'pot	1	filler	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	1-nom 2-dat 3-acc V'pot	2	filled container	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	1-nom 2-dat 3-acc V'pot	3	filling material	NP-acc	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	3-nom 1-niyotte 2-dat V'pass	1	filler	NP-niyotte	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	3-nom 1-niyotte 2-dat V'pass	2	filled container	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	3-nom 1-niyotte 2-dat V'pass	3	filling material	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	3-nom 2-dat V'anticaus	2	filled container	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	3-nom 2-dat V'anticaus	3	filling material	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	filler	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	filled container	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	filling material	NP-acc	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	fill causer	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Basic	1-nom 2-acc (3-instr) V	1	filler	NP-nom	A
+Hokkaido Japanese	44	FILL	mitas-u (2)	Basic	1-nom 2-acc (3-instr) V	2	filled container	NP-acc	P
+Hokkaido Japanese	44	FILL	mitas-u (2)	Basic	1-nom 2-acc (3-instr) V	3	filling material	NP-instr	I
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	1-nom 2-acc (3-instr) V'pot	1	filler	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	1-nom 2-acc (3-instr) V'pot	2	filled container	NP-acc	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	1-nom 2-acc (3-instr) V'pot	3	filling material	NP-instr	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	2-nom 1-dat/niyotte 3-instr V'pass	1	filler	NP-dat/niyotte	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	2-nom 1-dat/niyotte 3-instr V'pass	2	filled container	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	2-nom 1-dat/niyotte 3-instr V'pass	3	filling material	NP-instr	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	2-nom 3-instr V'anticaus	2	filled container	NP-nom	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	2-nom 3-instr V'anticaus	3	filling material	NP-instr	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	4-nom 1-dat 2-acc 3-instr V'caus	1	filler	NP-dat	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	4-nom 1-dat 2-acc 3-instr V'caus	2	filled container	NP-acc	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	4-nom 1-dat 2-acc 3-instr V'caus	3	filling material	NP-instr	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Derived	4-nom 1-dat 2-acc 3-instr V'caus	4	fill causer	NP-nom	
+Hokkaido Japanese	45	LOAD	tum-u	Basic	1-nom 2-dat 3-acc V	1	loader	NP-nom	A
+Hokkaido Japanese	45	LOAD	tum-u	Basic	1-nom 2-dat 3-acc V	2	loading place	NP-dat	L
+Hokkaido Japanese	45	LOAD	tum-u	Basic	1-nom 2-dat 3-acc V	3	loaded thing	NP-acc	P
+Hokkaido Japanese	45	LOAD	tum-u	Derived	1-nom 2-dat 3-acc V'pot	1	loader	NP-nom	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	1-nom 2-dat 3-acc V'pot	2	loading place	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	1-nom 2-dat 3-acc V'pot	3	loaded thing	NP-acc	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	loader	NP-niyotte	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	loading place	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	loaded thing	NP-nom	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 2-dat V'anticaus	2	loading place	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 2-dat V'anticaus	3	loaded thing	NP-nom	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 2-dat V'pot	2	loading place	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	3-nom 2-dat V'pot	3	loaded thing	NP-nom	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	loader	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	loading place	NP-dat	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	loaded thing	NP-acc	
+Hokkaido Japanese	45	LOAD	tum-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	load causer	NP-nom	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Basic	1-nom V	1	blinker	NP-nom	S
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Basic	1-nom V	1	cougher	NP-nom	S
+Hokkaido Japanese	48	CLIMB	nobor-u	Basic	1-nom 2-dat V	1	climber	NP-nom	S
+Hokkaido Japanese	48	CLIMB	nobor-u	Basic	1-nom 2-dat V	2	climbing goal	NP-dat	L
+Hokkaido Japanese	48	CLIMB	nobor-u	Derived	1-nom 2-dat V'pot	1	climber	NP-nom	
+Hokkaido Japanese	48	CLIMB	nobor-u	Derived	1-nom 2-dat V'pot	2	climbing goal	NP-dat	
+Hokkaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat V'caus	1	climber	NP-acc	
+Hokkaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat V'caus	2	climbing goal	NP-dat	
+Hokkaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat V'caus	4	climb causer	NP-nom	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Basic	1-nom 2-acc V	1	climber	NP-nom	A
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Basic	1-nom 2-acc V	2	climbing goal	NP-acc	P
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Derived	1-nom 2-acc V'pot	1	climber	NP-nom	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Derived	1-nom 2-acc V'pot	2	climbing goal	NP-acc	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	1	climber	NP-dat	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	2	climbing goal	NP-acc	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	4	climb causer	NP-nom	
+Hokkaido Japanese	49	RUN	hasir-u	Basic	1-nom V	1	runner	NP-nom	S
+Hokkaido Japanese	49	RUN	hasir-u	Derived	1-nom V'pot	1	runner	NP-nom	
+Hokkaido Japanese	49	RUN	hasir-u	Derived	4-nom 1-acc V'caus	1	runner	NP-acc	
+Hokkaido Japanese	49	RUN	hasir-u	Derived	4-nom 1-acc V'caus	4	run causer	NP-nom	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Basic	1-nom 2-dat V	1	sitdowner	NP-nom	S
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Basic	1-nom 2-dat V	2	sitting-down place	NP-dat	L
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Derived	1-nom 2-dat V'pot	1	sitdowner	NP-nom	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Derived	1-nom 2-dat V'pot	2	sitting-down place	NP-dat	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Derived	4-nom 1-acc 2-dat V'caus	1	sitdowner	NP-acc	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Derived	4-nom 1-acc 2-dat V'caus	2	sitting-down place	NP-dat	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Derived	4-nom 1-acc 2-dat V'caus	4	sit down causer	NP-nom	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Basic	1-nom V	1	sitdowner	NP-nom	S
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Derived	1-nom V'pot	1	sitdowner	NP-nom	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Derived	4-nom 1-acc V'caus	1	sitdowner	NP-acc	
+Hokkaido Japanese	52	JUMP	hane-ru	Basic	1-nom V	1	jumper	NP-nom	S
+Hokkaido Japanese	52	JUMP	hane-ru	Derived	1-nom V'pot	1	jumper	NP-nom	
+Hokkaido Japanese	52	JUMP	hane-ru	Derived	4-nom 1-acc V'caus	1	jumper	NP-acc	
+Hokkaido Japanese	52	JUMP	hane-ru	Derived	4-nom 1-acc V'caus	4	jump causer	NP-nom	
+Hokkaido Japanese	53	SING	uta(w)-u	Basic	1-nom 2-acc V	1	singer	NP-nom	A
+Hokkaido Japanese	53	SING	uta(w)-u	Basic	1-nom 2-acc V	2	song	NP-acc	P
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	1-nom 2-acc V'pot	1	singer	NP-nom	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	1-nom 2-acc V'pot	2	song	NP-acc	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	2-nom 1-dat/niyotte V'pass	1	singer	NP-dat/niyotte	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	2-nom 1-dat/niyotte V'pass	2	song	NP-nom	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	2-nom V'pot	2	song	NP-nom	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	4-nom 1-dat 2-acc V'cause	1	singer	NP-dat	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	4-nom 1-dat 2-acc V'cause	2	song	NP-acc	
+Hokkaido Japanese	53	SING	uta(w)-u	Derived	4-nom 1-dat 2-acc V'cause	4	sing causer	NP-nom	
+Hokkaido Japanese	54	GO	ik-u	Basic	1-nom 2-dat V	1	goer	NP-nom	S
+Hokkaido Japanese	54	GO	ik-u	Basic	1-nom 2-dat V	2	going goal	NP-dat	L
+Hokkaido Japanese	54	GO	ik-u	Derived	1-nom 2-dat V'pot	1	goer	NP-nom	
+Hokkaido Japanese	54	GO	ik-u	Derived	1-nom 2-dat V'pot	2	going goal	NP-dat	
+Hokkaido Japanese	54	GO	ik-u	Derived	4-nom 1-acc 2-dat V'caus	1	goer	NP-acc	
+Hokkaido Japanese	54	GO	ik-u	Derived	4-nom 1-acc 2-dat V'caus	2	going goal	NP-dat	
+Hokkaido Japanese	54	GO	ik-u	Derived	4-nom 1-acc 2-dat V'caus	4	go causer	NP-nom	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Basic	1-nom 2-acc V	1	leaver	NP-nom	A
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Basic	1-nom 2-acc V	2	left place/person	NP-acc	P
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Derived	1-nom 2-acc V'pot	1	leaver	NP-nom	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Derived	1-nom 2-acc V'pot	2	left place/person	NP-acc	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Derived	4-nom 1-dat 2-acc V'cause	1	leaver	NP-dat	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Derived	4-nom 1-dat 2-acc V'cause	2	left place/person	NP-acc	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Derived	4-nom 1-dat 2-acc V'cause	4	leave causer	NP-nom	
+Hokkaido Japanese	56	LIVE	sum-u	Basic	1-nom 2-dat V	1	liver	NP-nom	S
+Hokkaido Japanese	56	LIVE	sum-u	Basic	1-nom 2-dat V	2	living place	NP-dat	L
+Hokkaido Japanese	56	LIVE	sum-u	Derived	1-nom 2-dat V'pot	1	liver	NP-nom	
+Hokkaido Japanese	56	LIVE	sum-u	Derived	1-nom 2-dat V'pot	2	living place	NP-dat	
+Hokkaido Japanese	56	LIVE	sum-u	Derived	2-nom V'pot	2	living place	NP-nom	
+Hokkaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'caus	1	liver	NP-acc	
+Hokkaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'caus	2	living place	NP-dat	
+Hokkaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'caus	4	live causer	NP-nom	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Basic	1-nom V	1	laugher	NP-nom	S
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Derived	1-nom V'pot	1	laugher	NP-nom	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Derived	4-nom 1-acc V'caus	1	laugher	NP-acc	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Derived	4-nom 1-acc V'caus	4	laugh causer	NP-nom	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Basic	1-nom V	1	screamer	NP-nom	S
+Hokkaido Japanese	58	SCREAM	sakeb-u	Derived	1-nom V'pot	1	screamer	NP-nom	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Derived	4-nom 1-acc V'caus	1	screamer	NP-acc	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Derived	4-nom 1-acc V'caus	4	scream causer	NP-nom	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Basic	1-nom 2-nom V	1	pain-feeler	NP-nom	S
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Basic	1-nom 2-nom V	2	pain locus	NP-nom	X
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Basic	1-nom V	1	freezing person	NP-nom	S
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Derived	4-nom 1-acc V'caus	1	freezing person	NP-acc	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Derived	4-nom 1-acc V'caus	4	chill causer	NP-nom	
+Hokkaido Japanese	61	DIE	sin-u	Basic	1-nom V	1	dieer	NP-nom	S
+Hokkaido Japanese	61	DIE	sin-u	Derived	1-nom V'pot	1	dieer	NP-nom	
+Hokkaido Japanese	61	DIE	sin-u	Derived	4-nom 1-acc V'caus	1	dieer	NP-acc	
+Hokkaido Japanese	61	DIE	sin-u	Derived	4-nom 1-acc V'caus	4	killer/death causer	NP-nom	
+Hokkaido Japanese	62	PLAY	asob-u	Basic	1-nom V	1	player	NP-nom	S
+Hokkaido Japanese	62	PLAY	asob-u	Derived	1-nom V'pot	1	player	NP-nom	
+Hokkaido Japanese	62	PLAY	asob-u	Derived	4-nom 1-acc V'caus	1	player	NP-acc	
+Hokkaido Japanese	62	PLAY	asob-u	Derived	4-nom 1-acc V'caus	4	play causer	NP-nom	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Basic	1-nom V	1	sad person	NP-nom	S
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Basic	1-nom V	1	hungry person	NP-nom	S
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Basic	1-nom V	1	hungry person	NP-nom	S
+Hokkaido Japanese	65	ROLL	korogar-u	Basic	1-nom V	1	rolling entity	NP-nom	S
+Hokkaido Japanese	65	ROLL	korogar-u	Derived	1-nom V'pot	1	rolling entity	NP-nom	
+Hokkaido Japanese	65	ROLL	korogar-u	Derived	4-nom 1-acc V'caus	1	rolling entity	NP-acc	
+Hokkaido Japanese	65	ROLL	korogar-u	Derived	4-nom 1-acc V'caus	4	roll causer	NP-nom	
+Hokkaido Japanese	66	SINK	sizum-u	Basic	1-nom V	1	sunken entity	NP-nom	S
+Hokkaido Japanese	66	SINK	sizum-u	Derived	1-nom V'anticaus	1	sunken entity	NP-nom	
+Hokkaido Japanese	66	SINK	sizum-u	Derived	4-nom 1-acc V'caus	1	sunken entity	NP-acc	
+Hokkaido Japanese	66	SINK	sizum-u	Derived	4-nom 1-acc V'caus	4	sink-(caus)er	NP-nom	
+Hokkaido Japanese	67	BURN	moe-ru	Basic	1-nom V	1	burnt thing	NP-nom	S
+Hokkaido Japanese	67	BURN	moe-ru	Derived	1-nom V'pot	1	burnt thing	NP-nom	
+Hokkaido Japanese	67	BURN	yake-ru	Basic	1-nom V	1	burnt thing	NP-nom	S
+Hokkaido Japanese	68	BE DRY	kawak-u	Basic	1-nom V	1	dry thing	NP-nom	S
+Hokkaido Japanese	68	BE DRY	kawak-u	Derived	1-nom V'anticaus	1	dry thing	NP-nom	
+Hokkaido Japanese	68	BE DRY	kawak-u	Derived	1-nom V'pot	1	dry thing	NP-nom	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Basic	1-nom V	1	rain	NP-nom	S
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Derived	4-nom 1-acc V'caus	1	rain	NP-acc	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Derived	4-nom 1-acc V'caus	4	rain causer	NP-nom	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Basic	1-nom V	1	specialist/hunter	NP-nom	S
+Hokkaido Japanese	71	GRIND	sur-u	Basic	1-nom 2-acc V	1	grinder	NP-nom	A
+Hokkaido Japanese	71	GRIND	sur-u	Basic	1-nom 2-acc V	2	ground thing	NP-acc	P
+Hokkaido Japanese	71	GRIND	sur-u	Derived	1-nom 2-acc V'pot	1	grinder	NP-nom	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	1-nom 2-acc V'pot	2	ground thing	NP-acc	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	2-nom 1-dat/niyotte V'pass	1	grinder	NP-dat/niyotte	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	2-nom 1-dat/niyotte V'pass	2	ground thing	NP-nom	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	2-nom V'anticaus	2	ground thing	NP-nom	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	4-nom 1-dat 2-acc V'cause	1	grinder	NP-dat	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	4-nom 1-dat 2-acc V'cause	2	ground thing	NP-acc	
+Hokkaido Japanese	71	GRIND	sur-u	Derived	4-nom 1-dat 2-acc V'cause	4	grind causer	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Hokkaido Japanese	72	WIPE	huk-u	Basic	1-nom 2-acc V	2	wiping surface	NP-acc	P
+Hokkaido Japanese	72	WIPE	huk-u	Derived	1-nom 2-acc V'pot	1	wiper	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	1-nom 2-acc V'pot	2	wiping surface	NP-acc	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	2-nom V'anticaus	2	wiping surface	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	2-nom V'pot	2	wiping surface	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	4-nom 1-dat 2-acc V'cause	1	wiper	NP-dat	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	4-nom 1-dat 2-acc V'cause	2	wiping surface	NP-acc	
+Hokkaido Japanese	72	WIPE	huk-u	Derived	4-nom 1-dat 2-acc V'cause	4	wipe causer	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Hokkaido Japanese	72	WIPE	huk-u (2)	Basic	1-nom 2-acc V	2	wiped material	NP-acc	P
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	1-nom 2-acc V'pot	1	wiper	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	1-nom 2-acc V'pot	2	wiped material	NP-acc	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	2-nom 1-dat/niyotte V'pass	1	wiper	NP-dat/niyotte	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	2-nom 1-dat/niyotte V'pass	2	wiped material	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	2-nom V'anticaus	2	wiped material	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	2-nom V'pot	2	wiped material	NP-nom	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	4-nom 1-dat 2-acc V'cause	1	wiper	NP-dat	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	4-nom 1-dat 2-acc V'cause	2	wiped material	NP-acc	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Derived	4-nom 1-dat 2-acc V'cause	4	wipe causer	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (1)	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Hokkaido Japanese	73	DIG	hor-u (1)	Basic	1-nom 2-acc V	2	dug hole/ground	NP-acc	P
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	1-nom 2-acc V'pot	1	digger	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	1-nom 2-acc V'pot	2	dug hole/ground	NP-acc	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	2-nom 1-dat/niyotte V'pass	1	digger	NP-dat/niyotte	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	2-nom 1-dat/niyotte V'pass	2	dug hole/ground	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	2-nom V'anticaus	2	dug hole/ground	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-acc V'cause	1	digger	NP-dat	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-acc V'cause	2	dug hole/ground	NP-acc	
+Hokkaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-acc V'cause	4	dig causer	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (2)	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Hokkaido Japanese	73	DIG	hor-u (2)	Basic	1-nom 2-acc V	2	dug up thing	NP-acc	P
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	1-nom 2-acc V'pot	1	digger	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	1-nom 2-acc V'pot	2	dug up thing	NP-acc	
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	2-nom V'anticaus	2	dug up thing	NP-nom	
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	1	digger	NP-dat	
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	2	dug up thing	NP-acc	
+Hokkaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'cause	4	dig causer	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u	Basic	1-nom 2-acc V	1	pusher	NP-nom	A
+Hokkaido Japanese	74	PUSH	os-u	Basic	1-nom 2-acc V	2	pushee	NP-acc	P
+Hokkaido Japanese	74	PUSH	os-u	Derived	1-nom 2-acc V'pot	1	pusher	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u	Derived	1-nom 2-acc V'pot	2	pushee	NP-acc	
+Hokkaido Japanese	74	PUSH	os-u	Derived	2-nom 1-dat/niyotte V'pass	1	pusher	NP-dat/niyotte	
+Hokkaido Japanese	74	PUSH	os-u	Derived	2-nom 1-dat/niyotte V'pass	2	pushee	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'cause	1	pusher	NP-dat	
+Hokkaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'cause	2	pushee	NP-acc	
+Hokkaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'cause	4	push causer	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u (2)	Basic	1-nom 2-acc V	1	pusher	NP-nom	A
+Hokkaido Japanese	74	PUSH	os-u (2)	Basic	1-nom 2-acc V	2	pushee	NP-acc	P
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	1-nom 2-acc V'pot	1	pusher	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	1-nom 2-acc V'pot	2	pushee	NP-acc	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	2-nom V'anticaus	2	pushee	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	2-nom V'pot	2	pushee	NP-nom	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	4-nom 1-dat 2-acc V'cause	1	pusher	NP-dat	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	4-nom 1-dat 2-acc V'cause	2	pushee	NP-acc	
+Hokkaido Japanese	74	PUSH	os-u (2)	Derived	4-nom 1-dat 2-acc V'cause	4	push causer	NP-nom	
+Hokkaido Japanese	75	BRING	motteik-u	Basic	1-nom 2-dat 3-acc V	1	bringer	NP-nom	A
+Hokkaido Japanese	75	BRING	motteik-u	Basic	1-nom 2-dat 3-acc V	2	bringing recipient	NP-dat	L
+Hokkaido Japanese	75	BRING	motteik-u	Basic	1-nom 2-dat 3-acc V	3	brought thing	NP-acc	P
+Hokkaido Japanese	75	BRING	motteik-u	Derived	1-nom 2-dat 3-acc V'pot	1	bringer	NP-nom	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	1-nom 2-dat 3-acc V'pot	2	bringing recipient	NP-dat	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	1-nom 2-dat 3-acc V'pot	3	brought thing	NP-acc	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	3-nom 1-niyotte 2-dat V'pass	1	bringer	NP-niyotte	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	3-nom 1-niyotte 2-dat V'pass	2	bringing recipient	NP-dat	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	3-nom 1-niyotte 2-dat V'pass	3	brought thing	NP-nom	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	3-nom 2-dat V'pot	2	bringing recipient	NP-dat	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	3-nom 2-dat V'pot	3	brought thing	NP-nom	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	bringer	NP-dat	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	bringing recipient	NP-dat	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	brought thing	NP-acc	
+Hokkaido Japanese	75	BRING	motteik-u	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	bring causer	NP-nom	
+Hokkaido Japanese	76	STEAL	nusum-u	Basic	1-nom 2-acc V	1	stealer	NP-nom	A
+Hokkaido Japanese	76	STEAL	nusum-u	Basic	1-nom 2-acc V	2	stolen thing	NP-acc	P
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	1-nom 2-acc V'pot	1	stealer	NP-nom	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	1-nom 2-acc V'pot	2	stolen thing	NP-acc	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	2-nom 1-dat/niyotte V'pass	1	stealer	NP-dat/niyotte	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	2-nom 1-dat/niyotte V'pass	2	stolen thing	NP-nom	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'cause	1	stealer	NP-dat	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'cause	2	stolen thing	NP-acc	
+Hokkaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'cause	4	steal causer	NP-nom	
+Hokkaido Japanese	77	TEACH	osie-ru	Basic	1-nom 2-dat 3-acc V	1	teacher	NP-nom	A
+Hokkaido Japanese	77	TEACH	osie-ru	Basic	1-nom 2-dat 3-acc V	2	teachee	NP-dat	L
+Hokkaido Japanese	77	TEACH	osie-ru	Basic	1-nom 2-dat 3-acc V	3	taught content	NP-acc	P
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	1-nom 2-dat 3-acc V'pot	1	teacher	NP-nom	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	1-nom 2-dat 3-acc V'pot	2	teachee	NP-dat	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	1-nom 2-dat 3-acc V'pot	3	taught content	NP-acc	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	1	teacher	NP-dat/niyotte	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	2	teachee	NP-nom	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	2-nom 3-acc 1-dat/niyotte V'pass	3	taught content	NP-acc	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	3-nom 1-niyotte 2-dat V'pass	1	teacher	NP-niyotte	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	3-nom 1-niyotte 2-dat V'pass	2	teachee	NP-dat	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	3-nom 1-niyotte 2-dat V'pass	3	taught content	NP-nom	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	1	teacher	NP-dat	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	2	teachee	NP-dat	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	3	taught content	NP-acc	
+Hokkaido Japanese	77	TEACH	osie-ru	Derived	4-nom 1-dat 2-dat 3-acc V'caus	4	teach causer	NP-nom	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Basic	1-nom 2-dat V	1	heard sound	NP-nom	S
+Hokkaido Japanese	78	HEAR	kikoe-ru	Basic	1-nom 2-dat V	2	hearer	NP-dat	L
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Basic	1-nom 2-acc V	1	cooker	NP-nom	A
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Basic	1-nom 2-acc V	2	cooked food	NP-acc	P
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	1-nom 2-acc V'pot	1	cooker	NP-nom	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	1-nom 2-acc V'pot	2	cooked food	NP-acc	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	2-nom 1-dat/niyotte V'pass	1	cooker	NP-dat/niyotte	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	2-nom 1-dat/niyotte V'pass	2	cooked food	NP-nom	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	4-nom 1-dat 2-acc V'cause	1	cooker	NP-dat	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	4-nom 1-dat 2-acc V'cause	2	cooked food	NP-acc	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Derived	4-nom 1-dat 2-acc V'cause	4	cook causer	NP-nom	
+Hokkaido Japanese	80	BOIL	wak-u	Basic	1-nom V	1	boiled thing	NP-nom	S
+Hokkaido Japanese	80	BOIL	wak-u	Derived	1-nom V'anticaus	1	boiled thing	NP-nom	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Basic	1-nom 2-acc V	1	burner (tr)	NP-nom	A
+Hokkaido Japanese	116	BURN (tr)	yak-u	Basic	1-nom 2-acc V	2	burnt thing (tr)	NP-acc	P
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	1-nom 2-acc V'pot	1	burner (tr)	NP-nom	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	1-nom 2-acc V'pot	2	burnt thing (tr)	NP-acc	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	2-nom V'anticaus	2	burnt thing (tr)	NP-nom	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	2-nom V'pot	2	burnt thing (tr)	NP-nom	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	4-nom 1-dat 2-acc V'cause	1	burner (tr)	NP-dat	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	4-nom 1-dat 2-acc V'cause	2	burnt thing (tr)	NP-acc	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Derived	4-nom 1-dat 2-acc V'cause	4	burn causer (tr)	NP-nom	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Basic	1-nom 2-acc V	1	sink-(caus)er (tr)	NP-nom	A
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Basic	1-nom 2-acc V	2	sunken entity (tr)	NP-acc	P
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	1-nom 2-acc V'pot	1	sink-(caus)er (tr)	NP-nom	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	1-nom 2-acc V'pot	2	sunken entity (tr)	NP-acc	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	2-nom 1-dat/niyotte V'pass	1	sink-(caus)er (tr)	NP-dat/niyotte	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	2-nom 1-dat/niyotte V'pass	2	sunken entity (tr)	NP-nom	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	2-nom V'anticaus	2	sunken entity (tr)	NP-nom	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	4-nom 1-dat 2-acc V'cause	1	sink-(caus)er (tr)	NP-dat	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	4-nom 1-dat 2-acc V'cause	2	sunken entity (tr)	NP-acc	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Derived	4-nom 1-dat 2-acc V'cause	4	sinking causer (tr)	NP-nom	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Basic	1-nom 2-acc V	1	boiler (tr)	NP-nom	A
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Basic	1-nom 2-acc V	2	boiled thing (tr)	NP-acc	P
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	1-nom 2-acc V'pot	1	boiler (tr)	NP-nom	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	1-nom 2-acc V'pot	2	boiled thing (tr)	NP-acc	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	2-nom V'anticaus	2	boiled thing (tr)	NP-nom	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	4-nom 1-dat 2-acc V'cause	1	boiler (tr)	NP-dat	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	4-nom 1-dat 2-acc V'cause	2	boiled thing (tr)	NP-acc	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Derived	4-nom 1-dat 2-acc V'cause	4	boiling causer (tr)	NP-nom	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Basic	1-nom 2-acc V	1	roller (tr)	NP-nom	A
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Basic	1-nom 2-acc V	2	rolling thing (tr)	NP-acc	P
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	1-nom 2-acc V'pot	1	roller (tr)	NP-nom	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	1-nom 2-acc V'pot	2	rolling thing (tr)	NP-acc	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	2-nom 1-dat/niyotte V'pass	1	roller (tr)	NP-dat/niyotte	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	2-nom 1-dat/niyotte V'pass	2	rolling thing (tr)	NP-nom	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	2-nom V'anticaus	2	rolling thing (tr)	NP-nom	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	4-nom 1-dat 2-acc V'cause	1	roller (tr)	NP-dat	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	4-nom 1-dat 2-acc V'cause	2	rolling thing (tr)	NP-acc	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Derived	4-nom 1-dat 2-acc V'cause	4	roll causer (tr)	NP-nom	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Basic	1-nom 2-acc V	1	sad person (about)	NP-nom	A
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Basic	1-nom 2-acc V	2	sad about thing	NP-acc	P
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Derived	2-nom 1-dat/niyotte V'pass	1	sad person (about)	NP-dat/niyotte	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Derived	2-nom 1-dat/niyotte V'pass	2	sad about thing	NP-nom	

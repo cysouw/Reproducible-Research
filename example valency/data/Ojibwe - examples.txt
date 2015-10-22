@@ -1,0 +1,171 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Ojibwe	1	Constructed by native speaker linguist	Gwiiwzens gii-miijin maanwang.	Gwiiwzens gii-miijin maanwang.	gwiiwizens o-gii-miij-i-n maaniwang	boy.AN 3ERG-PAST-VTI.eat.IN-IN.OBJ-N IN.PT.fruit	The boy ate the fruit.
+Ojibwe	2	Constructed by native speaker linguist	Kwe gii-aabtoojiinaan gwiiwzensman.	Kwe gii-aabtoojiinaan gwiiwzensman.	akwew o-gii-aabitoojiin-aa-an o-gwiiwizensim-an	woman.AN 3ERG-PAST-VTA.hug.AN-3OBJ-AN.OBV 3POSS-little.boy-AN.OBV	The woman hugged her little boy.
+Ojibwe	3	Constructed by native speaker linguist	Gwiiwzens gii-gnawaabmaan kwezensan.	Gwiiwzens gii-gnawaabmaan kwezensan.	gwiiwizens o-gii-ganawaabam-aa-an akwezens-an	boy.AN 3ERG-PAST-look.at.AN-3OBJ-AN.OBV girl.AN-AN.OBV	The boy saw the girl.
+Ojibwe	4	Constructed by native speaker linguist	Nini gii-waabmaan mkoon.	Nini gii-waabmaan mkoon.	aniniw o-gii-waabam-aa-an makwa-an	man.AN 3ERG-PAST-see.AN-3OBJ-AN.OBV bear.AN-AN.OBV	The man saw the bear.
+Ojibwe	5	Constructed by native speaker linguist	Mko gii-biijmaamaan gwiiwzensan.	Mko gii-biijmaamaan gwiiwzensan.	makwa gii-biijimaam-aa-an gwiiwizens-an	bear.AN PAST-VTA.smell.AN-3OBJ-AN.OBV boy.AN-AN.OBV	The bear smelled the boy.
+Ojibwe	6	Constructed by native speaker linguist	Nini gii-gsaan mkoon.	Nini gii-gsaan mkoon	aniniw gii-goS-aa-an makwa-an	man.AN PAST-VTA.fear.AN-3OBJ-AN.OBV bear.AN-AN.OBV	The man feared the bear.
+Ojibwe	7	Constructed by native speaker linguist	Mko gii-zeghaan ninwan.	Mko gii-zeghaan ninwan.	makwa o-gii-zegih-aa-an aniniw-an	bear.AN 3ERG-PAST-VTA.frighten.AN-3OBJ-AN.OBV man.AN-AN.OBV	The bear frightened the man.
+Ojibwe	8	Constructed by native speaker linguist	Kwezens gii-kenmaan gwiiwzensan.	Kwezens gii-kenmaan gwiiwzensan.	akwezens o-gii-gikenim-aa-an gwiiwizens-an	girl.AN 3ERG-PAST-VTA.know.AN-3OBJ-AN.OBV boy.AN-AN.OBV	The girl knew the boy.
+Ojibwe	9	Constructed by native speaker linguist	Ninwag gii-ndanewaawaan kwewan.	Ninwag gii-ndanewaawaan kwewan.	aniniw-ag o-gii-nandaneh-w-aa-waa-an akwew-an	man.AN-AN.PL 3ERG-PAST-search.for-TR.AN-3OBJ-3PL-AN.OBV woman.AN-AN.OBV	The men searched for the women.
+Ojibwe	10	Constructed by native speaker linguist	Gashwan binoojiins gii-gziibiignigoon.	Gashwan binoojiins gii-gziibiignigoon.	o-gashiw-an abinoojiins o-gii=giziibiigin-igo-an	3POSS-mother.AN-OBV baby.AN 3ERG-PAST=wash.TR-INV-OBV	His mother (obv.) washed the boy (prox.).
+Ojibwe	11	Constructed by native speaker linguist	Gii-biiskon’yehgoon kwezens ’gashwan.	Gii-biiskon’yehgoon kwezens ’gashwan	o-gii=biizikonaye-ih-igo-an akwezens o-gashiw-an	3ERG-PAST=wear.clothes/dress.AI-CAUS.TR.AN-INV-OBV girl.AN 3POSS-mother.AN-OBV	The girl (prox.) was dressed by her mother (obv.).
+Ojibwe	12	Constructed by native speaker linguist	Nini gii-gaashkbaazo.	Nini gii-gaashkbaazo.	aniniw gii=gaashkibaa-zo-w	man.AN PAST=shave-AN.INTR.MIDDLE-3SBJ	The man shaved (his beard).
+Ojibwe	13	Constructed by native speaker linguist	Ngii-naadmawaag gwiiwzensag.		ni gii=naadam-aw-aa-ag gwiiwizens-ag	1SBJ PAST=help-TR.AN-3OBJ-AN.PL boy.AN-AN.PL	I helped the boys.
+Ojibwe	14	Constructed by native speaker linguist	Gwiiwzensag ’gii-bminaashkwaawaan kwezensan.	Gwiiwzensag ’gii-bminaashkwaawaan kwezensan.	gwiiwizens-ag o-gii=noopinaN-aa-waa-an akwezans-an	boy.AN-AN.PL 3ERG-PAST=follow.AN-3OBJ-3PL-OBV girl.AN-OBV	The boys followed the girls.
+Ojibwe	15	Naturalistic spoken	Zgimenyag wdamwaawaan bemaadzin'jin.		Zgimeny-ag wd-amw-aa-waa-an bemaadzin'jin.	mosquito-AN.PL pref-eat.AN-TH-3PL-OBV people.AN.OBV	Mosquitoes eat human beings.
+Ojibwe	16	Naturalistic spoken	Weweni dash gii-aabtoojiinaan niw mtigoon.		weweni dash o-gii-aabitoojiiN-aa-an aniw mitigw-an	properly then 3ERG-PAST-grip.AN-3OBJ-OBV that.AN.OBV tree.AN-OBV	He got a good grip round that tree.
+Ojibwe	17	Naturalistic spoken	Gii-gmiwan dbikong.		gii-gimiwan-w dibikong	PAST-rain.II-3SBJ last.night	It rained last night.
+Ojibwe	18	Constructed by native speaker linguist	Maaba bsagaak nakaazan; baasa maaba.		maaba basagaakw anakaazo-n baaso-w maaba	this.AN board.AN use-2S.IMP dry.AI-3SBJ this.AN	Use this board; it's dry.
+Ojibwe	19	Constructed by native speaker linguist	Baate ki.		baate-w aky	dry.II-0SBJ ground.IN	The ground is dry.
+Ojibwe	20	Naturalistic spoken	Zkide wiigwaam.		zakide-w wiigiwaam	burn.II-0SBJ house.IN	The house is burning.
+Ojibwe	21	Naturalistic spoken	Megwaa giiwenh miikkamgak waya gii-mdwe-noondaagzid, "Gzakzomi!".		megwaa giiwenh miikakamigad-g waya gii-madwe-noondaagozi-d gi-zakizo-mi	while evidently have.a.good.time-0SBJ someone PAST-within.earshot-shout-3SBJ 2SBJ-be.on.fire.AI-1PL	One time in one of these hotels, everybody was having a good time, when somebody shouted in the distance: 'We're on fire!'."
+Ojibwe	22	Constructed by native speaker linguist	Gii-gzaabii jiimaan.		gii-gonzaabii-w jiimaan	PAST-sink.II-0SBJ boat.IN	The boat sank.
+Ojibwe	23	Constructed by native speaker linguist	Gtigse bkaakod.		gotigose-w bikaakod	roll.II-0SBJ ball.IN	The ball is rolling.
+Ojibwe	24	Naturalistic spoken	Njiimaan gii-gtigse.		ni-jiimaan gii-gotigose-w	1POSS-canoe.IN PAST-roll.II-0SBJ	My canoe tipped over.
+Ojibwe	25	Constructed by native speaker linguist	Giiwse-nini aawi.		giiwose-aniniw aawi-w	hunter.AN-man.AN be.AI-3SBJ	This man is a hunter.
+Ojibwe	26	Constructed by linguist	Giiwse-nini maaba.		giiwose-aniniw maaba	hunter.AN-man.AN this.AN	This (man) is a hunter.
+Ojibwe	27	Constructed by native speaker linguist	Bkade binoojiins.		bakade-w abinoojiins	be.hungry.AI-3SBJ child.AN	The baby is hungry.
+Ojibwe	28	Constructed by native speaker linguist	Maanaadendam kwezens.		maanaadendam-w akwezens	be.sad.AI-3SBJ girl.AN	The little girl is/was sad.
+Ojibwe	29	Naturalistic spoken	Gnebig gii-nbo.		ginebigw gii-nibo-w	snake.AN PAST-die.AI-3SBJ	The snake died.
+Ojibwe	30	Constructed by native speaker linguist	Nbiingej.		ni-biingeji	1SBJ-be.cold.AI	I'm cold.
+Ojibwe	31	Naturalistic spoken	Ngiikiijnike.		ni-giikiijinike	1SBJ-have.sore.arm.AI	My arm is hurting.
+Ojibwe	32	Constructed by native speaker linguist	Ndaakzin ko ngidig mdookak.		ni(d)-aakozi-n ako ni-gidig midookad-g	1SBJ-be.ill.AI-N usually 1POSS-knee be.damp.II-0SBJ	I usually have pain in my knee when the weather is damp.
+Ojibwe	33	Constructed by native speaker linguist	Gii-mbiigzi nini.		gii-ombiigizi-w aniniw	PAST-scream.AI-3SBJ man.AN	The man screamed.
+Ojibwe	34	Constructed by native speaker linguist	Aw kwezens gii-baapi.		aw akwezens gii-baapi-w	that.AN girl.AN PAST-laugh.AI-3SBJ	The little girl laughed.
+Ojibwe	35	Constructed by native speaker linguist	Binoojiinh damno.		abinoojiinh odamino-w	child.AN play.AI-3SBJ	The child is playing.
+Ojibwe	36	Constructed by native speaker linguist	Gekaajig oodenaang daawag.		gekaad-ig oodenaw-ing daa-w-ag	old.person.AI-AN.PL town.IN-LOC live.there.AI-3SBJ-AN.PL	The old people live in town.
+Ojibwe	37	Constructed by native speaker linguist	Oodenaang dnakii.		oodenaw-ing danakii-w	town.IN-LOC live.there.AI-3SBJ	He lives in Detroit.
+Ojibwe	38	Constructed by native speaker linguist	Gwiiwzens wgii-n'gadaan oodena.		gwiiwizens o-gii-nagad-am-n oodena	boy.AN 3ERG-PAST-leave.IN-IN.OBJ-N town.IN	The boy left the village/town.
+Ojibwe	39	Naturalistic spoken	Aaniish igo naa gaa-ikidoyeg wii-nagazhiyaang?		aaniish igo naa IC-gii-ikido-eg wii-nagaN-i-aang	how EMPH EMPH REL.CL-PAST-speak.AI-2P.SBJ DES-leave.AN-1OBJ-1PL	How can you (pl.) speak of leaving us?
+Ojibwe	40	Constructed by native speaker linguist	Kwe gii-zhaa daawegamgong.		akwew gii-izhaa-w adaawewigamigw-ing	woman.AN PAST-go.AI-3SBJ store.IN-LOC	The woman went to the store.
+Ojibwe	41	Constructed by native speaker linguist	Gwiiwzens gii-n'gamo.		gwiiwizens gii-nagamo-w	boy.AN PAST-sing.AI-3SBJ	The boy sang (a song).
+Ojibwe	42	Constructed by native speaker linguist	Kwezens gii-mbigwaashkni.		akwezens gii-ombigwaashkoni-w	girl.AN PAST-jump.up.AI-3SBJ	The girl jumped.
+Ojibwe	43	Constructed by native speaker linguist	Biiji-gwaashknin.		biiji-gwaashkoni-n	hither-jump.AI-2S.IMP	Jump towards me.
+Ojibwe	44	Constructed by native speaker linguist	Binoojiinyag gii-nmadbiwag maa mchisag.		abinoojiinh-ag gii-namadabi-w-ag maa michisag	child.AN-AN.PL PAST-sit.AI-3SBJ-AN.PL there on.the.floor	The children sat on the floor.
+Ojibwe	45	Constructed by native speaker linguist	Bezhgoogzhiinh bmibtoo.		bezhigooganzhiinh bimibatoo-w	horse.AN run.along.AI-3SBJ	The horse is running.
+Ojibwe	46	Constructed by native speaker linguist	Ninwag gii-bmaandwaawaan mtigoon.		aniniw-ag gii-bimaandaw-aa-waa-an	man.AN-AN.PL PAST-climb.AN-3OBJ-3PL-OBV	The men climbed (the tree).
+Ojibwe	47	Constructed by native speaker linguist	Kiwenzii gii-zosdam.		akiwenziiy gii-ozosodam-w	old.man.AN PAST-cough.AI-3SBJ	The old man coughed.
+Ojibwe	48	Constructed by native speaker linguist	Ngii-pasknaab.		ni-gii-bapaskinaabi	1SBJ-PAST-blink.AI	I blinked.
+Ojibwe	49	Constructed by native speaker linguist	Wgii-biiskon'yehgoon kwezens wgashwan.		o-gii-biiskonayeh-igoo-an akwezens o-gashiw-an	3ERG-PAST-dress.AN-INV-OBV girl.AN 3POSS-mother.AN-OBV	Her mother dressed the girl (i.e., her own daughter)."
+Ojibwe	50	Constructed by native speaker linguist	Ninwag wgii-nkweshkwaawaan wgwiiwzensman.		aniniw-ag o-gii-nakweshkaw-aa-waa-an o-gwiiwizensim-an	man.AN-AN.PL 3ERG-PAST-meet.AN-3OBJ-3PL-AN.OBV 3POSS-little.boy-AN.OBV	The men met the boys.
+Ojibwe	51	Constructed by native speaker linguist	Kwezens wgii-tanenmaan ookmisan bjiinaago.		akwezens o-gii-dadanemin-aa-an o-ookomis-an bijiinaago	girl.AN 3SBJ-PAST-think.about.AN-3OBJ-OBV 3POSS-grandmother.AN-OBV yesterday	The girl thought about her grandmother yesterday.
+Ojibwe	52	Constructed by native speaker linguist	Gwiiwzens wgii-mdaagwendaan da-shki-damnowin.		gwiiwizens o-gii-mandaagwend-am-n o-oshki-odaminowin	boy.AN 3ERG-PAST-like.IN-IN.OBJ-N 3POSS-new-toy.IN	The boy liked his new toy.
+Ojibwe	53	Constructed by native speaker linguist	Gbishgendaan na?		gi-bishigend-am-n na	2ERG-like.IN-IN.OBJ-N YES/NO.Q	Do you like it?
+Ojibwe	54	Constructed by native speaker linguist	Maaba genii dnawa mndaamin nbishgenmaa.		maaba genii danawa mandaamin ni-bishigenim-aa	this.AN as.for.me kind corn.AN 1SBJ-like.AN-3OBJ	I like this kind of corn.
+Ojibwe	55	Constructed by native speaker linguist	Ggii-gnawaabndaan na Titanic?		gi-gii-ganawaaband-am-n na Titanic	2ERG-PAST-watch.IN-IN.OBJ-N YES/NO.Q Titanic.IN	Did you watch [the movie] "Titanic"?"
+Ojibwe	56	Constructed by native speaker linguist	Aanoodwewemaan niwin wmamaanyin pane zhoonyaans ndadmawaad.		aanoodwewem-aa-an niwin o-mamaanh-an apane zhooniyaans andodamaw-aa-d	exasperate.AN-3OBJ-OBV that.OBV 3POSS-mother.AN-OBV always money.IN ask.AN.for-3OBJ-3SBJ	He exasperates his mother always asking her for money.
+Ojibwe	57	Naturalistic spoken	Ogii-ganoonaan dash aw gwiiwizens aniw oosan.		o-gii-ganooN-aa-an dash aw gwiiwizens aniw o-oos-an	3SBJ-PAST-speak.to.AN-3OBJ-OBV then that.AN boy.AN that.AN.OBV 3POSS-father.AN-OBV	Then that young man addressed his father.
+Ojibwe	58	Naturalistic spoken	Ngii-wiindmaag wiidgemaagnan aakzinid.		ni-gii-wiindamaw-igw o-wiidigemaagan-an aakozi-ni-d	1SBJ-PAST-tell.AN-INV 3POSS-spouse.AN-OBV be.ill.AI-OBV-3SBJ	He told me his wife was ill.
+Ojibwe	59	Naturalistic spoken	Aa nii nga-waabndaan, kido dash aw kiwenziinh.		aa nii ni-ga-waaband-am-n ikido-w dash aw akiwenziiny	well I 1SBJ-FUT-see.IN-IN.OBJ-N say.AN-3SBJ then that.AN old.man.AN	"Well, let me take a look at it," says the old man."
+Ojibwe	60	Naturalistic spoken	Gii-naan dash wshiimenyan, Gego wiin zegziken.		o-gii-iN-aa-an dash o-shiimeny-an gego wiin zegizi-ke-n	3ERG-PAST-say.to.AN-3OBJ-OBV then 3POSS-younger.sibling.AN-AN.OBV don't at.all be.afraid.AN-PROHIB-2SBJ	Then he said to his younger brother, "Don't be afraid."."
+Ojibwe	61	Constructed by native speaker linguist	Mookmaanens gii-giishkkodaan mtigoons.		mookomaanens o-gii-giishkikod-am-n mitigoons	little.knife.IN 3SBJ-PAST-cut.IN-IN.OBJ-N stick.IN	With his pocketknife he whittled through the stick.
+Ojibwe	62	Naturalistic spoken	Mii dash eta niiwin gii-daapnaawaad pwaagnan.		mii dash eta niiwin o-gii-odaapiN-aa-waa-d opwaagan-an	and so just four 3SBJ-PAST-take.AN-3OBJ-3P.SBJ-3SBJ pipe.AN-OBV	Only four of them took the pipe.
+Ojibwe	63	Constructed by native speaker linguist	Wgii-bchi-gaakbidoon wi bbagoyaan; wiiksatoonaaba wii-bna'ang.		o-gii-bichi-gaakibid-oo-n iwi babagoyaan o-wiikasat-oo-n(aa)-ban	3SBJ-PAST-accidentally-tear.IN-IN.OBJ-N that.IN shirt.IN 3SBJ-jerk.IN-IN.OBJ-N-PRET	She tore the shirt by mistake; she was jerking it to take it off the [clothes]line.
+Ojibwe	64	Constructed by native speaker linguist	Gii-bnagjiiknaag na mshi piniig?		gi-gii-banagijiikoN-aa-ag ina mashi opiny-ag	2SBJ-PAST-peel.AN-3OBJ-AN.PL yes/no.Q yet potato.AN-AN.PL	Did you peel the potatoes yet?
+Ojibwe	65	Constructed by native speaker linguist	Nga-bnagjiikdaanan na jiisensan?		ni-ga-banagijiikod-am-n-an ina jiisens-an	1SBJ-FUT-peel.IN-IN.OBJ-N-IN.PL yes/no.Q carrot.IN-IN.PL	Shall I peel the carrots?
+Ojibwe	66	Constructed by native speaker linguist	Ngii-nagjiibnaa wa ezaamin'gaanh.		ni-gii-banagijiibiN-aa iwa ezaaminagaany	1ERG-PAST-peel.AN-3OBJ that.AN orange.AN	I peeled that/the orange.
+Ojibwe	67	Naturalistic spoken	Baamaa dash zhgwa nendwenmaajin aw kiwenziinh gii-bwaanaanid...		baamaa dash zhigwa IC nandawenim-aa-d-in aw akiwenziiny gii-bawaaN-aa-ni-d	later then now when want.AN-3OBJ-3SBJ-OBV that.AN old.man.AN PAST-dream.of.AN-3OBJ-OBV-3SBJ	Finally, when the other had dreamt of that being which the old man desired, then he would give his son something to eat..."
+Ojibwe	68	Naturalistic spoken	Gnandwenmin da-miijyan.		gi-nandawenim-in da-miij-i-yan	2SBJ-want.AN-INV to-eat.IN-IN.OBJ-2SBJ	I want you to eat it.
+Ojibwe	69	Naturalistic spoken	Gaa dash iw dnawa nokiiwin ngii-ndawendnziin.		gaa dash iw danawa anokiiwin ni-gii-andawend-am-sii-n	not but that.IN kind work.IN 1SBJ-PAST-want.IN-IN.OBJ-NEG-N	I didn't want that kind of work.
+Ojibwe	70	Naturalistic spoken	Mii maa zhaazhi go giw bemaadzijig ndo-nsaawaad niw sa Nishnaaben bkaan enwen'jin.		mii imaa zhaazhi igo agiw bemaadizij-ig ando-nis-aa-waa-d aniw sa anishinaabe-an bakaan enwenijin	it's there long.ago EMPH those.AN person-AN.PL seek-kill.AN-3OBJ-3PL-3SBJ those.AN EMPH Indian-OBV different language	For in the old time those people tried to kill the Indian of other tongue.
+Ojibwe	71	Naturalistic spoken	Ngii-bkigdoonehog, ngii-bkitehog ndooning.		ni-gii-bakigidoonehw-igw ni-gii-bakitehw ni-doon-ing	1SBJ-PAST-hit.AN.on.mouth-INV 1SBJ-PAST-hit.AN 1POSS-mouth.IN-LOC	He hit me on my mouth; he gave me a blow on my mouth.
+Ojibwe	72	Naturalistic spoken	Mii dash bakitehang iw biiwaanagwaabik.		mii dash bakiteh-am-g iw biiwaanagwaabik	and then hit.IN-IN.OBJ-3SBJ that.IN flint.IN	Then he strikes that flint stone.
+Ojibwe	73	Naturalistic spoken	Wewiib ogii-gakinaawaan agiw gaa-wiidookaagojig.		wewiib o-gii-gakin-aa-waa agiw gaawiidookaagojig	right.away 3SUBJ-PAST-conceal.AN-3OBJ-3PL those.AN who.OBV.helped.him.PROX	Those whom he helped had quickly concealed him.
+Ojibwe	74	Naturalistic spoken	Gii-bookbidoon dabwi.		o-gii-bookobid-oo-n od-abwi	3SBJ-PAST-break.IN-IN.OBJ-N 3POSS-paddle.IN	He broke his paddle.
+Ojibwe	75	Naturalistic spoken	Gii-zhiwnaan widi megyaak; gii-zhinoohmawaan zaagkiinig iw mshkiki.		o-gii-izhiwin-aa-an widi megwayaak o-gii-zhinoohamaw-aa-an zaagakii-ni-g iw mashkikiw	3SBJ-PAST-take.AN-3OBJ-OBV there woods 3SBJ-PAST-show.AN-3OBJ-OBV grow.IN-OBV-0SBJ that.IN medicine.IN	He took him into the woods; and showed him where that herb grew.
+Ojibwe	76	Naturalistic spoken	Gonda-sh bnewag gga-miin'goo.		agonda dash binew-ag gi-ga-miiN-igoo	these.AN then partridge.AN-AN.PL 2SBJ-FUT-give.AN-PASS	We will give you these partridges.
+Ojibwe	77	Naturalistic spoken	Ngii-ni-niindaahaa zhoon'yaa.		ni-gii-ani-niindaah-aa zhooniyaa	1ERG-PAST-AWAY-send.to.AN-3OBJ money.IN	I sent him some money.
+Ojibwe	78	Naturalistic spoken	Nahii dash giiwenh giwi gii-bmiwdoonaawaa zhmaagnishii-gimaag gchi-gozhewin giiwenh.		nahii dash giiwenh giwi o-gii-bimiwid-oo-naawaa zhimaaganishiiogimaa-ag gichi-agozhewin	well then allegedly those.AN 3SBJ-PAST-carry.IN-IN.OBJ-3PL military.officer.AN-AN.PL big-covering.IN	Military officers evidently used to carry large blankets with them.
+Ojibwe	79	Naturalistic spoken	Ngii-dkobdoon nmakzin.		ni-gii-dakobid-oo-n ni-makizin	1SBJ-PAST-tie.IN-IN.OBJ-N 1POSS-shoe.IN	I have tied my shoe.
+Ojibwe	80	Naturalistic spoken	Ogii-dakobinaan asabaab ji-awa-gwaabahaminid iw nibiish.		o-gii-dakobiN-aa-an asabaab ji-awa-gwaabah-am-ini-d iw nibiish	3SBJ-PAST-tie.AN-3OBJ-OBV rope.AN COMP-TRANS-scoop.IN-IN.OBJ-OBV-3SBJ that.IN water.IN	He tied him on a rope and he was to go scoop up water.
+Ojibwe	81	Constructed by native speaker linguist	Binoojiinyag gii-nmadbiwag maa e-gnooyaag gwiidbwining.		abinoojiiny-ag gii-namadabi-w-ag imaa e-ginooyaa-g gwiidabiwin-ing	child.AN-AN.PL PAST-sit.AN-3SBJ-AN.PL there REL-be.long.IN-3SBJ chair.IN-LOC	The children sat down on the bench.
+Ojibwe	82	Naturalistic spoken	Dasaan niw gaawyan makzining.		o-aS-aa-an aniw gaaway-an makizin-ing	3SBJ-put.on.AN-3OBJ-OBV that.AN.OBV porcupine.quill.AN-OBV shoe.IN-LOC	She is putting those quills on her moccasins.
+Ojibwe	83	Naturalistic spoken	Nbiish gii-toon kikong.		nibiish o-gii-at-oo-n akikw-ing	water.IN 3SBJ-PAST-put.IN-IN.OBJ-N kettle.AN-LOC	She put some water in the kettle.
+Ojibwe	84	Naturalistic spoken	Pii wii-aabjitooyan maanda wiikwebjigan mii da-ziignaman maa moozhwegaansing.		apii wii-aabajit-oo-an maanda wiikwebijigan mii da-ziigan-am-an maa moozhwegaans-ing	when FUT-use.IN-IN.OBJ-2SBJ this.IN love.medicine.IN then FUT-pour.IN-IN.OBJ-2SBJ there handkerchief.IN-LOC	When you are ready to use this love medicine, then you must pour it on a handkerchief."
+Ojibwe	85	Constructed by native speaker linguist	Gbahan wi mnoomin mnazman, wii-bwaa-bengdeg.		gibah-am-n awi manoomin minaz-am-an wii-bwaa-bengide-g	cover.IN-IN.OBJ-2SBJ that.IN rice.IN cook.IN-IN.OBJ-2SBJ FUT-NEG-dry.II-3SBJ	Cover that rice when you cook it so it doesn't dry out.
+Ojibwe	86	Constructed by native speaker linguist	Kina aabdeg gwii-gbawaag giwi gindaaswinag blackout pii damnang.		gakina aabideg gi-wii-gibaw-aa-ag agiwi agindaasowin-ag blackout apii odamino-ng	all necessary 2SBJ-FUT-cover.AN-3OBJ-AN.PL those.AN number.AN-AN.PL blackout when play.AI-XSBJ	You have to cover all the numbers when playing blackout [in bingo].
+Ojibwe	87	Naturalistic spoken	Nwaabndaan wjiimaanwaa.		ni-waaband-am-n o-jiimaan-waa	1SBJ-see.IN-IN.OBJ-N 3POSS-boat.IN-3P.POSS	I see their boat.
+Ojibwe	88	Naturalistic spoken	Ga-biijmaandaan maanda mshkiki.		o-ga-biijimaand-am-g maanda mashkikiw	3ERG-FUT-smell.IN-IN.OBJ-3SBJ this.IN medicine.IN	He will smell this medicine.
+Ojibwe	89	Constructed by native speaker linguist	Waasechganaabik aawan maanda, plastic dash gewii aawan wi.		waasechiganaabikw aawan-w maanda plastic dash gewii aawan-w wi	glass.IN be.IN-0SBJ this.IN plastic.IN but as.for.it be.IN-0SBJ that.IN	This is glass, whereas that is plastic."
+Ojibwe	90	Constructed by native speaker linguist	Pinaaboo genii nga-ndodaan.		pinaaboo genii ni-ga-andod-am-n	potato.soup.IN as.for.me 1SBJ-FUT-ask.for.IN-IN.OBJ-N	I'll ask for potato soup. [e.g. at a restaurant].
+Ojibwe	91	Naturalistic written	Penag ngii-kwedwenag.		pen-ag ni-gii-gagwedwe-n-ag	pen.AN-AN.PL 1SBJ-PAST-ask.for-N-AN.PL	I asked for the pens.
+Ojibwe	92	Constructed by native speaker linguist	Lemon pie ngii-ndodmaagen.		lemon_pie ni-gii-andodamaage-n	lemon_pie.AN 1SBJ-PAST-ask.for.VAIO-N	I asked for lemon pie.
+Ojibwe	93	Elicited from speaker	Gii-bmaandwaadaanaawaa binoojiinyag pakwan.		o-gii-bimaandawaad-am-n(aa)-waa abinjoojiinh-ag pakwan	3SBJ-PAST-climb.IN-IN.OBJ-N-3PL child.AN-AN.PL roof.IN	The children climbed on the roof.
+Ojibwe	94	Constructed by native speaker linguist	Giigoonyin mnozwaan.		giigoonh-an o-minozw-aa-an	fish.AN-OBV 3SBJ-cook.AN-3OBJ-OBV	He's cooking fish.
+Ojibwe	95	Constructed by native speaker linguist	Nenaabgaanh nga-mnozaan.		nenaabgaanh ni-ga-minoz-am-n	rolled.oat.IN 1SBJ-FUT-cook.IN-IN.OBJ-N	I'll cook rolled oats.
+Ojibwe	96	Constructed by native speaker linguist	Piniin moon'hwaan.		opiny-an o-moonahw-aa-an	potato.AN-OBV 3SBJ-dig.AN-3OBJ-OBV	He's digging up potatoes.
+Ojibwe	97	Constructed by native speaker linguist	Gtaan nbiish.		o-got-am-n nbiish	3SBJ-fear.IN-IN.OBJ-N water.IN	He's afraid of water.
+Ojibwe	98	Constructed by native speaker linguist	Ngii-mooshknadoon kokbinaagan.		ni-gii-mooshkonad-oo akokobinaagan	1SBJ-PAST-fill.IN-IN.OBJ basket.IN	I filled the basket.
+Ojibwe	99	Constructed by native speaker linguist	Ngii-mooshknanaa kik.		ni-gii-mooshkonan-aa akikw	1SBJ-PAST-fill.AN-3OBJ pail.AN	I fillled the pail.
+Ojibwe	100	Constructed by native speaker linguist	Ngii-mooshknebdoon mooday.		ni-gii-mooshkonebid-oo-n omooday	1SBJ-PAST-fill.IN-IN.OBJ-N bottle.IN	I filled the bottle.
+Ojibwe	101	Constructed by native speaker linguist	Ngii-mooshknebnaa kik.		ni-gii-mooshkonebiN-aa akikw	1SBJ-PAST-fill.AN.by.hand-3OBJ kettle.AN	I filled the kettle.
+Ojibwe	102	Constructed by native speaker linguist	Gii-noondaan gdotaagan.		o-gii-noond-am-n godotaagan	3ERG-PAST-hear.IN-IN.OBJ-N bell.IN	He heard the bell.
+Ojibwe	103	Constructed by native speaker linguist	Gookookoo ngii-noondwaa.		gookookohoo ni-gii-noondaw-aa	owl.AN 1ERG-PAST-hear.AN-3OBJ	I heard an owl.
+Ojibwe	104	Constructed by native speaker linguist	Gii-gkidoonan ziizbaakdoonsan.		o-gii-gakid-oo-n-an ziizibaakwadoons-an	3ERG-PAST-hide.IN-IN.OBJ-N-IN.PL candy.IN-IN.PL	He hid the candies.
+Ojibwe	105	Constructed by native speaker linguist	Ngii-ntoon nzaagkiichgan.		ni-gii-nit-oo-n ni-zaagikiichigan	1ERG-PAST-kill.IN-IN.OBJ-N 1POSS-house.plant.IN	I killed my houseplant.
+Ojibwe	106	Constructed by native speaker linguist	Gkendaan wi edming.		o-gikend-am-n iwi IC-id-am-ing	3ERG-know.IN-IN.OBJ-N that.IN REL.CL-mean.IN-IN.OBJ-X	He knows what that means.
+Ojibwe	107	Constructed by native speaker linguist	?Ngii-booz'haa detbisenh truckoonsing.		ni-gii-boozih-aa detibisenh truckoons-ing	1ERG-PAST-load.AN-3OBJ tire.AN truck.AN-LOC	I loaded the tire onto the truck.
+Ojibwe	108	Constructed by native speaker linguist	Gii- boozdoon niwin mkakoonyin.		o- gii- boozid-oo-n aniwin makakoony-an	3ERG- PAST- load.IN-IN.OBJ-N those.IN box.IN-IN.PL	He loaded those boxes [on the vehicle].
+Ojibwe	109	Constructed by native speaker linguist	Ngoding go gewii da-nkweshkaan gichi-znagendmowin.		ningoding igo gewiin o-nakweshk-am-n gichi-zanagendamowin	one.day EMPH he.too 3ERG-encounter.IN-IN.OBJ-N big-problem.IN	One day he too will encounter a big problem.
+Ojibwe	110	Constructed by native speaker linguist	Gaawii mshi waawiinaasiin nimshan.		gaawiin mashi o-waawiiN-aa-sii-n animosh-an	not yet 3ERG-name.AN-3OBJ-NEG-N dog.AN-OBV	He hasn't named the dog yet.
+Ojibwe	111	Constructed by native speaker linguist	Waawiindaanaawaan jiimaanwaan Zhaagnaashag.		o-waawiind-am-n(aa)-waa-an o-jiimaan-waa-an zhaaganaash-ag	3ERG-name.IN-IN.OBJ-N-3PL-IN.PL 3POSS-boat.IN-3PL-IN.PL white.person-AN.PL	White people name their boats.
+Ojibwe	112	Constructed by native speaker linguist	'Fido' gii-zhinkaanaan dayan.		Fido o-gii-izhinikaaN-aa-an o-day-an	Fido 3ERG-PAST-name.AN-3OBJ-AN.OBV 3POSS-dog.AN-OBV	He named his dog, 'FIdo.'."
+Ojibwe	113	Constructed by native speaker linguist	Ngii-bnagjiibdoon mbananoo.		ni-gii-banagijiibid-oo-n mbananoo	1ERG-PAST-peel.IN-IN.OBJ-N banana.IN	I peeled the banana.
+Ojibwe	114	Constructed by native speaker linguist	Shawekna gii-zhi-gaandnaawaan daabaanan.		ashawekana o-gii-izhi-gaandin-aa-waa-an odaabaan-an	side.of.road 3ERG-PAST-there-push.AN-3OBJ-3PL-OBV car.AN-OBV	They pushed the car to the side of the road.
+Ojibwe	115	Constructed by native speaker linguist	Gaandnaan bshkozhgan.		o-gaandin-am-n bashkozhigan	3ERG-push.IN-IN.OBJ-N lawnmower.IN	He's pushing the lawnmower.
+Ojibwe	116	Constructed by native speaker linguist	Gtigse detbisenh.		gotigise-w detibisenh	roll.AN-3SBJ tire.AN	The tire is rolling.
+Ojibwe	117	Constructed by native speaker linguist	Gii-noondaagzi nini.		gii-noondaagozi-w aniniw	PAST-scream.AI-3SBJ man.AN	The man is screamed.
+Ojibwe	118	Constructed by native speaker linguist	Ndanehan sabaab.		andaneh-am-n asabaab	search.for.IN-IN.OBJ-2S.IMP rope.IN	Look for a rope.
+Ojibwe	119	Constructed by native speaker linguist	Ngii-waabndahaa gaa-zhitooyin waabowaan.		ni-gii-waabandah-aa IC-gii-ozhit-oo-an waabowaan	1ERG-PAST-show.AN-3OBJ REL.CL-PAST-make.IN-IN.OBJ-2SBJ quilt.IN	I showed her the quilt you made.
+Ojibwe	120	Constructed by native speaker linguist	Gaawii gii-ntaa-bgizsii, mii dash gii-gzaabiid.		gaawii gii-nitaa-bgizo-sii-w mii dash gii-gonzaabii-d	not PAST-be.good.at-swim.AI-NEG-3SBJ so then PAST-sink-3SBJ	He wasn't a good swimmer, so he drowned."
+Ojibwe	121	Constructed by native speaker linguist	Gii-gmoodmaan zhoon'yaans.		o-gii-gimoodim-aa-an zhooniyaans	3ERG-PAST-steal.from.AN-3OBJ-OBV money.IN	He stole money from her.
+Ojibwe	122	Constructed by native speaker linguist	Ngii-daapnaan wi jiimaan.		ni-gii-odaapin-am-n wi jiimaan	1ERG-PAST-take.IN-IN.OBJ-N that.IN boat.IN	I took that boat.
+Ojibwe	123	Constructed by native speaker linguist	Weweni gii-gkinoohmawaan niijaansan.		weweni o-gii-gikinoohamaw-aa-an o-niijaanis-an	well 3ERG-PAST-teach.AN-3OBJ-OBV 3POSS-child.AN-OBV	She taught her children well.
+Ojibwe	124	Constructed by native speaker linguist	Gii-gaakbinaan mooshkweniiganan.		o-gii-gaakibiN-aa-an mooshkweniigan-an	3ERG-PAST-tear.AN-3OBJ-OBV handkerchief.AN-OBV	She tore the handkerchief.
+Ojibwe	125	Constructed by native speaker linguist	Ngoji gii-pagdaan wi gete-miijmenh.		ningoji o- gii- apagid-am-n iwi gete-miijim-enh	away 3ERG- PAST- throw.IN-IN.OBJ-N that.IN old-food.IN-CNT	He threw that old food away.
+Ojibwe	126	Constructed by native speaker linguist	Ngoji gii-pagnaan niwi kikwaabkoonyin.		ningoji o- gii- apagiN-aa-an niwi akikwaabikoonh-an	away 3ERG- PAST- throw.AN-AN.OBJ-OBV those.AN.OBV tin.can.AN-AN.OBV	He threw those tin cans away.
+Ojibwe	127	Constructed by native speaker linguist	Gdaa-piichidehesii wii-daangnad wa gnebig!		gi-daa-apiichidehe-sii wii-daangin-ad awa ginebigw	2SBJ-would-be.brave.enough.AI-NEG would-touch.AN-2S:3S that.AN snake.AN	You're not brave enough to touch that snake!
+Ojibwe	128	Constructed by native speaker linguist	Gego daangnange wi, bjiinag wi ngii-shoosgahaan.		gego daangin-am-ken iwi bijiinag iwi ni-gii-zhazhoosagah-am-n	don't touch.IN-IN.OBJ-NEG that.IN recently that.IN 1ERG-PAST-paint.IN-IN.OBJ-N	Don't touch that, I just recently painted it."
+Ojibwe	129	Constructed by native speaker linguist	Weweni gziibiignan niwin moodyin.		weweni giziibiigin-am-n niwin mooday-an	properly wash.IN-IN.OBJ-2S.IMP those.IN bottle.IN-IN.PL	Wash those bottles properly.
+Ojibwe	130	Constructed by linguist	Gii-giiwseniniiwi.		gii-giiwseniniiwi-w	PAST-be.hunter-3SBJ	He was a hunter.
+Ojibwe	131	Constructed by native speaker linguist	Gaawii wii go gii-jaagzosii.		gaawii wii go gii-jaagizo-sii-w	not EMPH EMPH PAST-burn.AN-NEG-3SBJ	It (anim.) didn't burn (up).
+Ojibwe	132	Constructed by native speaker linguist	Nmooshknadoon wi naagaans mii dash aazhta-ziignagwaa kokbinaaganing giwi mskomnag.		ni-mooshkad-oo-n wi naagaans mii dash aazhita-ziigin-ag-waa kokbinaagan-ing giwi miskomin-ag	1SBJ-fill.IN-IN.OBJ-N that.IN cup and then one.to.another-pour.AN-1SBJ-3PL basket-LOC those.AN raspberry-AN.PL	I fill up the cup then I pour [transfer] those raspberries into the basket.
+Ojibwe	133		Ngii-miinaa ndoodaabaanan ngwis.		ni-gii=miiN-aa ni(d)-odaabaan-an ni-gwis	1SBJ-PAST=give.AN-3OBJ 1POSS-car.AN-OBV 1POSS-son.AN	I gave my car to my son.
+Ojibwe	134		Ngii-biidoon mnikewin.		ni-gii=bii-d-oo-n minikewin	1SBJ-PAST=bring-TR.IN-IN.OBJ-N drink.IN	I brought the drinks.
+Ojibwe	135		Ngii-biidmawaa mnikwewin.		ni-gii=bii-d-am-aw-aa minikewin	1SBJ-PAST=bring-STEM-APPL-TR.AN-3OBJ drink.IN	I brought the drinks for him.
+Ojibwe	136		Mookmaan ngii-miindizon.		mookomaan ni-gii=miiN-idizo-n(aa)	knife.IN 1SBJ-PAST=give.AN-REFL.AN.INTR-N	I gave myself a knife.
+Ojibwe	137		Mookmaan 'gii-miindinaawaa.		mookomaan o-gii=miiN-idi-naa-waa	knife.IN 3ERG-PAST=give.AN-RECIP.AN.INTR-N-3PL	They gave each other a knife.
+Ojibwe	138		Ngii-waabmaa maaba Menomini girl dzhi-gziibiignang waasechganan.		ni-gii-waabm-aa maaba Menomini girl dzhi-gziibiignan-g waasechgan-an	1ERG-PAST-see.AN-3OBJ this.AN Menomini girl there-wash.IN-3SBJ window-IN.PL	I saw this Menonimee girl washing the windows.
+Ojibwe	139		Nga-moon'haan mshkiki.		ni-ga-moon'h-am-n mshkiki	1ERG-FUT-dig.IN-IN.OBJ-N medicine	I will dig medicine.
+Ojibwe	140		Gii-biinaan niw jiiskiiwninwan.		o-gii-biin-aa-an niw jiiskwiinini-an	3ERG-PAST-bring.AN-3OBJ-AN.OBV shaman that:AN.OBV-OBV	He brought the shaking-tent shaman.
+Ojibwe	141		Naagaans nde.		onaagaans onde-w	cup boil.IN-3SBJ	The cup has come to a boil.
+Ojibwe	142		Jiimaan sa gga-zhitoomin.		jiimaan sa gi-ga-ozhitoo-min	boat EMPH 2ERG-FUT-make.IN.OBJ-1P	We (incl.) will build a boat.
+Ojibwe	143		Baashkiziganan ogii-bimiwidoonaawaan.		baashkizigan-an o-gii-bimiwid-oo-naawaa-an	gun-IN.PL 3ERG-PAST-carry.IN-IN.OBJ-2P/3P.ERG-IN.PL	They carried guns.
+Ojibwe	144		Ngii-zhihaa pwaagan.		ni-gii-ozhih-aa opwaagan	3ERG-PAST-make.AN-3OBJ pipe.AN	I made a pipe (for smoking).
+Ojibwe	145		Mooz ngii-nsaa.		mooz ni-gii-niS-aa	moose 1ERG-PAST-kill.AN-3OBJ	I killed a moose.
+Ojibwe	146		Waaswaani gii-zhinkaadaanaawaa.		waaswaani o-gii-izhinikaad-am-naawaa	shining.light 3ERG-PAST-name.IN-IN.OBJ-2P/3P.ERG	They named it "Shining Lights"."
+Ojibwe	147		Mookmaanens ngii-giishkkonaa mshiimin.		mookomaanens ni-gii-giishkikoN-aa mishiimin	pocket.knife 1ERG-PAST-cut.AN-3OBJ apple	I cut the apple with my pocket knife.
+Ojibwe	148		Gii-daangnaan gnebigoon gwiiwzens.		o-gii-daangin-aa-an ginebigw-an gwiiwizens	3ERG-PAST-touch.AN-3OBJ-AN.OBV snake-AN.OBV boy.AN	The boy touched the snake.
+Ojibwe	149		Ngii-wiindmawaa maanda gaa-zhiwebziyaanh.		ni-gii-wiindamaw-aa maanda IC-gaa-izhiwebizi-yaanh	1ERG-PAST-tell.AN-3OBJ this.IN IC-PAST-happen-1S	I told him what happened to me.
+Ojibwe	150		Gii-ndodmawaa gwiiwzens maamaayin zhoon'yaa.		o-gii-andodamaw-aa gwiiwizens o-maamaay-an zhooniyaa	3ERG-PAST-ask.AN.for-3OBJ boy.AN 3POSS-mother-AN.OBV money.IN	The boy asked his mother for money.
+Ojibwe	151		Ngii-gziibiigiingwe.		ni-gii-giziibiigiingwe	1SBJ-PAST-wash.one's.face	I washed my face.
+Ojibwe	152		Ngii-nmadbihaa mdimooyenh.		ni-gii-namadabih-aa mindimooyenh	1ERG-PAST-seat.AN-3OBJ old.lady	I seated the old lady.
+Ojibwe	153		Gii-bbaa-nda-nshiwewag.		gii-babaa-anda-nishiwe-w-ag	PAST-around-go-kill.people-3-AN.PL	They went around killing people.
+Ojibwe	154		Gii-bkitehge binoojiins.		gii-bakitehige-w abinoojiins	PAST-hit.things-3SBJ child.AN	The child was hitting (things).
+Ojibwe	155		Gii-bkitehgaazo nini.		gii-bakitehigaazo-w ininiw	PAST-be.hit-3SBJ man	The man was hit.
+Ojibwe	156		Wenbi nini.		(wa)wenabi-w aniniw	VAI.sit.down-3SBJ man.AN	The man is sitting down.
+Ojibwe	157		Mii dash kina gii-wenbiwaad.		mii dash kina gii-wawenabi-waa-d	and so all PAST-VAI.sit.down-3P.SBJ-3.SBJ	They all sat down.
+Ojibwe	158		Nmishoom Ngii-gaashkbaanaa.		ni-mishoom ni-gii-gaashkibaan-aa	1POSS-grandfather 1ERG-PAST-shave.AN-3OBJ	I shaved my grandfather.
+Ojibwe	159		Nzowag piniig.		onzo-w-ag opiny-ag	boil.AN-3SBJ-AN.PL potato.AN-AN.PL	The potatoes are boiling.
+Ojibwe	160		Nbiisboodoon waasgang.		ni-biisibood-oo-n waasagang	1ERG-grind.IN-IN.OBJ-N pepper.IN	I’m grinding the pepper.
+Ojibwe	161		Ngii-biisboonaag bgaanag.		ni-gii-biisiboon-aa-ag bagaan-ag	1ERG-PAST-grind.AN-3OBJ-AN.PL nuts.AN-AN.PL	I ground the nuts.
+Ojibwe	162		Ngii-bchi-bookbinaa ndoo-pen.		ni-gii-bichi-bookobiNaa ndoo-pen	1ERG-PAST-accidentally-break.AN 1POSS-pen.AN	I accidentally broke my pen.
+Ojibwe	163		Ndoo-gnoodaan ndoo-bshkozhgan.		ndoo-ganood-am-n ndoo-bashkozhigan	1ERG-speak.to.IN-IN.OBJ-N 1POSS-lawnmower	I’m talking to my lawn mower.
+Ojibwe	164		Gii-mdaagwenmaan shkinwe shkiniigikwen.		o-gii-midaagwenim-aa-an oshkinawe oshkiniigikwe-an	3ERG-PAST-desire.AN-3OBJ-AN.OBV young.man.AN young.woman-AN.OBV	The young man desired the young woman.
+Ojibwe	165		Ndoo-nendaan nenaabgaanh.		ndoo-onend-am-n nenaabagaanh	1ERG-forget.IN-IN.OBJ-N porridge.IN	I’m forgetting the porridge (as one might say, recalling it, while shopping)."
+Ojibwe	166		Ndoo-nenmaag mshiimnag.		ndoo-onenim-aa-ag mishiimin-ag	1ERG-forget.AN-3OBJ-AN.PL apple.AN-AN.PL	I’m forgetting the apples (as one might say, recalling them, while shopping)."
+Ojibwe	167		Nsweyaan gii-biibaagmaan nongo mekdewkon’ye.		nisweyaan o-gii-biibaagimaa-an nongo mekadewikonaye	three.times 3ERG-PAST-read.banns.regarding.AN-AN.OBV today priest.AN	The priest announced wedding banns for three couples today.
+Ojibwe	168		Ngii-bmiwnaa bzagaak.		ni-gii-bimiwiN-aa bazagaakw	1ERG-PAST-carry.along.AN-3OBJ board.AN	I carried the board along.
+Ojibwe	169		Jiigshkwaand wii-gwaashkni ngashi.		jiigishkwaand wii-gwaashkoni-w ni-gashiw	near.door FUT-jump(.off)-3SBJ 1POSS-mother.AN	My mother will get off near the door (e.g., exit a bus)."
+Ojibwe	170		Ngii-zhinoohmaag dooshki-daabaan.		ni-gii-izhinoohamaw-igw o-oshki-odaabaan	1OBJ-PAST-show.to.AN-3SBJ 3POSS-new-car.IN	He showed me his new car.

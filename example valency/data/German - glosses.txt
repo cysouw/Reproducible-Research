@@ -1,0 +1,34 @@
+﻿Language_name	Gloss	Meaning
+German	ACC	accusative
+German	APPL	applicative
+German	AUX	auxilary
+German	DAT	dative
+German	DEF	definite
+German	DEM	demonstrative
+German	EXPL	expletive
+German	F	feminine
+German	GEN	genetive
+German	IMP	imperative
+German	INDEF	indefinite
+German	INF	infinitive
+German	IPRX	inseperable prefix
+German	M	masculine
+German	N	neuter
+German	NEG	negation
+German	NOM	nominative
+German	PASS	passive
+German	PAST	past
+German	PL	plural
+German	POSS	possessive
+German	PREP	preposition
+German	PRF	perfect
+German	PRS	present
+German	PST	past
+German	PTC	particle
+German	PTCP	participle
+German	RECIP	reciprocal
+German	REFL	reflexive
+German	SG	singular
+German	STEM	stem
+German	SUPERL	superlative
+German	VPCL	particle belonging to the verb

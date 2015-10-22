@@ -1,0 +1,149 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Balinese	1	EAT	ngajeng	Basic	1 V 2	1	eater	Ø	A
+Balinese	1	EAT	ngajeng	Basic	1 V 2	2	eaten food	Ø	P
+Balinese	2	HUG	ngelut	Basic	1 V 2	1	hugger	Ø	A
+Balinese	2	HUG	ngelut	Basic	1 V 2	2	huggee	Ø	P
+Balinese	3	LOOK AT	nlektekang	Basic	1 V 2	1	looker	Ø	A
+Balinese	3	LOOK AT	nlektekang	Basic	1 V 2	2	looked at entity	Ø	P
+Balinese	4	SEE	nepukin	Basic	1 V 2	1	seeer	Ø	A
+Balinese	4	SEE	nepukin	Basic	1 V 2	2	seen entity	Ø	P
+Balinese	5	SMELL	ngadekin	Basic	1 V 2	1	smeller	Ø	A
+Balinese	5	SMELL	ngadekin	Basic	1 V 2	2	smelled entity	Ø	P
+Balinese	6	FEAR	nakutin	Basic	1 V 2	1	fearer	Ø	A
+Balinese	6	FEAR	nakutin	Basic	1 V 2	2	fear stimulus	Ø	P
+Balinese	7	FRIGHTEN	nakutin	Basic	1 V 2	1	frightener	Ø	A
+Balinese	7	FRIGHTEN	nakutin	Basic	1 V 2	2	frightenee	Ø	P
+Balinese	8	LIKE	nemenin	Basic	1 V 2	1	liker	Ø	A
+Balinese	8	LIKE	nemenin	Basic	1 V 2	2	liked entity	Ø	P
+Balinese	9	KNOW	nawang	Basic	1 V 2	1	knower	Ø	A
+Balinese	9	KNOW	nawang	Basic	1 V 2	2	known thing/person	Ø	P
+Balinese	10	THINK	ngenehang	Basic	1 V 2	1	thinker	Ø	A
+Balinese	10	THINK	ngenehang	Basic	1 V 2	2	thought content	Ø	P
+Balinese	11	SEARCH FOR	ngalihin	Basic	1 V 2	1	searcher	Ø	A
+Balinese	11	SEARCH FOR	ngalihin	Basic	1 V 2	2	searched for thing	Ø	P
+Balinese	12	WASH	ngayehang	Basic	1 V 2	1	washer	Ø	A
+Balinese	12	WASH	ngayehang	Basic	1 V 2	2	washed entity	Ø	P
+Balinese	13	DRESS	majunin	Basic	1 V 2	1	dresser	Ø	A
+Balinese	13	DRESS	majunin	Basic	1 V 2	2	dressee	Ø	P
+Balinese	14	SHAVE (a body part/person)	nguris	Basic	1 V 2	1	shaver (of body part)	Ø	A
+Balinese	14	SHAVE (a body part/person)	nguris	Basic	1 V 2	2	shaved body part	Ø	P
+Balinese	15	HELP	nulungin	Basic	1 V 2	1	helper	Ø	A
+Balinese	15	HELP	nulungin	Basic	1 V 2	2	helpee	Ø	P
+Balinese	16	FOLLOW	ngikutin	Basic	1 V 2	1	follower	Ø	A
+Balinese	16	FOLLOW	ngikutin	Basic	1 V 2	2	followee	Ø	P
+Balinese	17	MEET	matemu	Basic	1 V teken+2	1	meeter	Ø	S
+Balinese	17	MEET	matemu	Basic	1 V teken+2	2	met person	teken+NP	X
+Balinese	18	TALK	ngomongin	Basic	1 V 2 unduk+3	1	talker	Ø	A
+Balinese	18	TALK	ngomongin	Basic	1 V 2 unduk+3	2	talked to person	Ø	P
+Balinese	18	TALK	ngomongin	Basic	1 V 2 unduk+3	3	talked about content	unduk+NP	X
+Balinese	19	ASK FOR	nagihin	Basic	1 V 2 3	1	asker	Ø	A
+Balinese	19	ASK FOR	nagihin	Basic	1 V 2 3	2	askee	Ø	P
+Balinese	19	ASK FOR	nagihin	Basic	1 V 2 3	3	requested thing	Ø	P
+Balinese	20	SHOUT AT	ngerakin	Basic	1 V 2	1	shouter	Ø	A
+Balinese	20	SHOUT AT	ngerakin	Basic	1 V 2	2	shoutee	Ø	P
+Balinese	21	TELL	ngorahin	Basic	1 V 2 3	1	teller	Ø	A
+Balinese	21	TELL	ngorahin	Basic	1 V 2 3	2	tellee	Ø	P
+Balinese	21	TELL	ngorahin	Basic	1 V 2 3	3	told content	Ø	P
+Balinese	22	SAY	ngorahang	Basic	1 V UTT2 teken+3	1	sayer	Ø	S
+Balinese	22	SAY	ngorahang	Basic	1 V UTT2 teken+3	2	said content	UTT	X
+Balinese	22	SAY	ngorahang	Basic	1 V UTT2 teken+3	3	saying addressee	teken+NP	X
+Balinese	23	NAME	ngelunin	Basic	1 V 2 3	1	namer	Ø	A
+Balinese	23	NAME	ngelunin	Basic	1 V 2 3	2	namee	Ø	P
+Balinese	23	NAME	ngelunin	Basic	1 V 2 3	3	name	Ø	P
+Balinese	24	BUILD	mangunang	Basic	1 V 2 aji+3	1	builder	Ø	A
+Balinese	24	BUILD	mangunang	Basic	1 V 2 aji+3	2	built thing	Ø	P
+Balinese	24	BUILD	mangunang	Basic	1 V 2 aji+3	3	building material	aji+NP	I
+Balinese	25	BREAK	melahang	Basic	1 V 2 aji+3	1	breaker	Ø	A
+Balinese	25	BREAK	melahang	Basic	1 V 2 aji+3	2	broken thing	Ø	P
+Balinese	25	BREAK	melahang	Basic	1 V 2 aji+3	3	breaking instrument	aji+NP	I
+Balinese	26	KILL	ngematiang	Basic	1 V 2 aji+3	1	killer	Ø	A
+Balinese	26	KILL	ngematiang	Basic	1 V 2 aji+3	2	killee	Ø	P
+Balinese	26	KILL	ngematiang	Basic	1 V 2 aji+3	3	killing instrument	aji+NP	I
+Balinese	27	BEAT	nglempagin	Basic	1 V 2 aji+3	1	beater	Ø	A
+Balinese	27	BEAT	nglempagin	Basic	1 V 2 aji+3	2	beatee	Ø	P
+Balinese	27	BEAT	nglempagin	Basic	1 V 2 aji+3	3	beating instrument	aji+NP	I
+Balinese	28	HIT	nglempag	Basic	1 V 2 aji+3	1	hitter	Ø	A
+Balinese	28	HIT	nglempag	Basic	1 V 2 aji+3	2	hittee	Ø	P
+Balinese	28	HIT	nglempag	Basic	1 V 2 aji+3	3	hitting instrument	aji+NP	I
+Balinese	29	TOUCH	nundik	Basic	1 V 2 aji+3	1	toucher	Ø	A
+Balinese	29	TOUCH	nundik	Basic	1 V 2 aji+3	2	touchee	Ø	P
+Balinese	29	TOUCH	nundik	Basic	1 V 2 aji+3	3	touching instrument	aji+NP	I
+Balinese	30	CUT	ngodot	Basic	1 V 2 aji+3	1	cutter	Ø	A
+Balinese	30	CUT	ngodot	Basic	1 V 2 aji+3	2	cut thing	Ø	P
+Balinese	30	CUT	ngodot	Basic	1 V 2 aji+3	3	cutting instrument	aji+NP	I
+Balinese	31	TAKE	nyemak	Basic	1 V 2 uli+3	1	taker	Ø	A
+Balinese	31	TAKE	nyemak	Basic	1 V 2 uli+3	2	taken thing	Ø	P
+Balinese	31	TAKE	nyemak	Basic	1 V 2 uli+3	3	taking source	uli+NP	X
+Balinese	32	TEAR	nguek	Basic	1 V 2 uli+3	1	tearer	Ø	A
+Balinese	32	TEAR	nguek	Basic	1 V 2 uli+3	2	torn thing	Ø	P
+Balinese	32	TEAR	nguek	Basic	1 V 2 uli+3	3	tearing source	uli+NP	X
+Balinese	33	PEEL	melutin	Basic	1 V 2	1	peeler	Ø	A
+Balinese	33	PEEL	melutin	Basic	1 V 2	2	peeled object	Ø	P
+Balinese	34	HIDE	ngengkebang	Basic	1 V 2 uli+3	1	hider	Ø	A
+Balinese	34	HIDE	ngengkebang	Basic	1 V 2 uli+3	2	hidden thing	Ø	P
+Balinese	34	HIDE	ngengkebang	Basic	1 V 2 uli+3	3	hiding affectee	uli+NP	X
+Balinese	35	SHOW	ngedengang	Basic	1 V 2 ke+3	1	shower	Ø	A
+Balinese	35	SHOW	ngedengang	Basic	1 V 2 ke+3	2	shown thing	Ø	P
+Balinese	35	SHOW	ngedengang	Basic	1 V 2 ke+3	3	showing addressee	ke+NP	X
+Balinese	36	GIVE	maang	Basic	1 V 2 ke+3	1	giver	Ø	A
+Balinese	36	GIVE	maang	Basic	1 V 2 ke+3	2	gift	Ø	P
+Balinese	36	GIVE	maang	Basic	1 V 2 ke+3	3	giving recipient	ke+NP	X
+Balinese	37	SEND	ngirimang	Basic	1 V 2 ke+3	1	sender	Ø	A
+Balinese	37	SEND	ngirimang	Basic	1 V 2 ke+3	2	sent thing	Ø	P
+Balinese	37	SEND	ngirimang	Basic	1 V 2 ke+3	3	sending recipient	ke+NP	X
+Balinese	38	CARRY	ngaba	Basic	1 V 2 ke+3	1	carrier	Ø	A
+Balinese	38	CARRY	ngaba	Basic	1 V 2 ke+3	2	carried thing	Ø	P
+Balinese	38	CARRY	ngaba	Basic	1 V 2 ke+3	3	carrying goal	ke+NP	X
+Balinese	39	THROW	ngentungang	Basic	1 V 2 ke+3	1	thrower	Ø	A
+Balinese	39	THROW	ngentungang	Basic	1 V 2 ke+3	2	thrown thing	Ø	P
+Balinese	39	THROW	ngentungang	Basic	1 V 2 ke+3	3	throwing goal	ke+NP	X
+Balinese	40	TIE	negul	Basic	1 V 2 aji+3 ke+4	1	tier	Ø	A
+Balinese	40	TIE	negul	Basic	1 V 2 aji+3 ke+4	2	tied thing	Ø	P
+Balinese	40	TIE	negul	Basic	1 V 2 aji+3 ke+4	3	tying goal	ke+NP	X
+Balinese	40	TIE	negul	Basic	1 V 2 aji+3 ke+4	4	tying instrument	aji+NP	I
+Balinese	41	PUT	ngejang	Basic	1 V 2 di+3	1	putter	Ø	A
+Balinese	41	PUT	ngejang	Basic	1 V 2 di+3	2	put thing	Ø	P
+Balinese	41	PUT	ngejang	Basic	1 V 2 di+3	3	putting goal	di+NP	L
+Balinese	42	POUR	nuruhang	Basic	1 V 2 ke+3	1	pourer	Ø	A
+Balinese	42	POUR	nuruhang	Basic	1 V 2 ke+3	2	poured substance	Ø	P
+Balinese	42	POUR	nuruhang	Basic	1 V 2 ke+3	3	pouring goal	ke+NP	X
+Balinese	43	COVER	ngerurub	Basic	1 V 2 aji+3	1	coverer	Ø	A
+Balinese	43	COVER	ngerurub	Basic	1 V 2 aji+3	2	covered thing	Ø	P
+Balinese	43	COVER	ngerurub	Basic	1 V 2 aji+3	3	cover	aji+NP	I
+Balinese	44	FILL	ngisinin	Basic	1 V 2 aji+3	1	filler	Ø	A
+Balinese	44	FILL	ngisinin	Basic	1 V 2 aji+3	2	filled container	Ø	P
+Balinese	44	FILL	ngisinin	Basic	1 V 2 aji+3	3	filling material	aji+NP	I
+Balinese	45	LOAD	menekang	Basic	1 V 2 ke+3	1	loader	Ø	A
+Balinese	45	LOAD	menekang	Basic	1 V 2 ke+3	2	loaded thing	Ø	P
+Balinese	45	LOAD	menekang	Basic	1 V 2 ke+3	3	loading place	ke+NP	X
+Balinese	46	BLINK	ngedipang mata	Basic	1 V	1	blinker	Ø	S
+Balinese	47	COUGH	makokohan	Basic	1 V	1	cougher	Ø	S
+Balinese	48	CLIMB	menekin	Basic	1 V 2	1	climber	Ø	A
+Balinese	48	CLIMB	menekin	Basic	1 V 2	2	climbing goal	Ø	P
+Balinese	49	RUN	malaib	Basic	1 V	1	runner	Ø	S
+Balinese	50	SIT	negak	Basic	1 V di+2	1	sitter	Ø	S
+Balinese	50	SIT	negak	Basic	1 V di+2	2	sitting place	di+NP	L
+Balinese	51	SIT DOWN	negak	Basic	1 V di+2	1	sitdowner	Ø	S
+Balinese	51	SIT DOWN	negak	Basic	1 V di+2	2	sitting-down place	di+NP	L
+Balinese	52	JUMP	makejog	Basic	1 V	1	jumper	Ø	S
+Balinese	53	SING	magending	Basic	1 V	1	singer	Ø	S
+Balinese	54	GO	luas	Basic	1 V ke+2	1	goer	Ø	S
+Balinese	54	GO	luas	Basic	1 V ke+2	2	going goal	ke+NP	X
+Balinese	55	LEAVE	ngalahin	Basic	1 V 2	1	leaver	Ø	A
+Balinese	55	LEAVE	ngalahin	Basic	1 V 2	2	left place/person	Ø	P
+Balinese	56	LIVE	nongos	Basic	1 V di+2	1	liver	Ø	S
+Balinese	56	LIVE	nongos	Basic	1 V di+2	2	living place	di+NP	L
+Balinese	57	LAUGH	kedek	Basic	1 V	1	laugher	Ø	S
+Balinese	58	SCREAM	makraik	Basic	1 V	1	screamer	Ø	S
+Balinese	59	FEEL PAIN	nyakitang	Basic	1 V 2	1	pain-feeler	Ø	A
+Balinese	59	FEEL PAIN	nyakitang	Basic	1 V 2	2	pain locus	Ø	P
+Balinese	60	FEEL COLD	dingin	Basic	1 V	1	freezing person	Ø	S
+Balinese	61	DIE	mati	Basic	1 V	1	dieer	Ø	S
+Balinese	62	PLAY	macanada	Basic	1 V	1	player	Ø	S
+Balinese	63	BE SAD	sebet	Basic	1 V	1	sad person	Ø	S
+Balinese	64	BE HUNGRY	seduk	Basic	1 V	1	hungry person	Ø	S
+Balinese	65	ROLL	ngelilik	Basic	1 V	1	rolling entity	Ø	S
+Balinese	66	SINK	nyilem	Basic	1 V	1	sunken entity	Ø	S
+Balinese	67	BURN	puun	Basic	1 V	1	burnt thing	Ø	S
+Balinese	68	BE DRY	tuh	Basic	1 V	1	dry thing	Ø	S
+Balinese	70	BE A HUNTER	tukangboros	Basic	1 V	1	specialist/hunter	Ø	S

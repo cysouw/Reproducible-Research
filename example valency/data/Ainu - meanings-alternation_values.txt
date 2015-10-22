@@ -1,0 +1,971 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Ainu	1	EAT	e	Anticausative	Never	
+Ainu	1	EAT	e	Antipassive	Regularly	
+Ainu	1	EAT	e	Dative applicative ko-	Regularly	
+Ainu	1	EAT	e	Direct causative	Regularly	
+Ainu	1	EAT	e	Instrumental applicative e-	No data	
+Ainu	1	EAT	e	Locative applicative o-	No data	
+Ainu	1	EAT	e	Noun incorporation	No data	
+Ainu	1	EAT	e	Object-oriented reciprocal	No data	
+Ainu	1	EAT	e	Reflexive	No data	
+Ainu	1	EAT	e	Subject-oriented reciprocal	Regularly	
+Ainu	2	HUG	kisma	Anticausative	Never	
+Ainu	2	HUG	kisma	Antipassive	Regularly	
+Ainu	2	HUG	kisma	Dative applicative ko-	Regularly	
+Ainu	2	HUG	kisma	Direct causative	Never	
+Ainu	2	HUG	kisma	Instrumental applicative e-	No data	
+Ainu	2	HUG	kisma	Locative applicative o-	No data	
+Ainu	2	HUG	kisma	Noun incorporation	Regularly	
+Ainu	2	HUG	kisma	Object-oriented reciprocal	No data	
+Ainu	2	HUG	kisma	Reflexive	No data	
+Ainu	2	HUG	kisma	Subject-oriented reciprocal	Regularly	
+Ainu	3	LOOK AT	inkar	Anticausative	Never	
+Ainu	3	LOOK AT	inkar	Antipassive	Never	
+Ainu	3	LOOK AT	inkar	Dative applicative ko-	Regularly	
+Ainu	3	LOOK AT	inkar	Direct causative	No data	
+Ainu	3	LOOK AT	inkar	Instrumental applicative e-	Regularly	
+Ainu	3	LOOK AT	inkar	Locative applicative o-	Regularly	
+Ainu	3	LOOK AT	inkar	Noun incorporation	Never	
+Ainu	3	LOOK AT	inkar	Object-oriented reciprocal	Never	
+Ainu	3	LOOK AT	inkar	Reflexive	Never	
+Ainu	3	LOOK AT	inkar	Subject-oriented reciprocal	Never	
+Ainu	4	SEE	nukar	Anticausative	Never	
+Ainu	4	SEE	nukar	Antipassive	Regularly	
+Ainu	4	SEE	nukar	Dative applicative ko-	Regularly	
+Ainu	4	SEE	nukar	Direct causative	Regularly	
+Ainu	4	SEE	nukar	Instrumental applicative e-	No data	
+Ainu	4	SEE	nukar	Locative applicative o-	No data	
+Ainu	4	SEE	nukar	Noun incorporation	No data	
+Ainu	4	SEE	nukar	Object-oriented reciprocal	Regularly	
+Ainu	4	SEE	nukar	Reflexive	No data	
+Ainu	4	SEE	nukar	Subject-oriented reciprocal	Regularly	
+Ainu	5	SMELL	hurarakkar	Anticausative	Never	
+Ainu	5	SMELL	hurarakkar	Antipassive	No data	
+Ainu	5	SMELL	hurarakkar	Dative applicative ko-	No data	
+Ainu	5	SMELL	hurarakkar	Direct causative	Never	
+Ainu	5	SMELL	hurarakkar	Instrumental applicative e-	No data	
+Ainu	5	SMELL	hurarakkar	Locative applicative o-	No data	
+Ainu	5	SMELL	hurarakkar	Noun incorporation	No data	
+Ainu	5	SMELL	hurarakkar	Object-oriented reciprocal	No data	
+Ainu	5	SMELL	hurarakkar	Reflexive	No data	
+Ainu	5	SMELL	hurarakkar	Subject-oriented reciprocal	No data	
+Ainu	6	FEAR	sitoma	Anticausative	Never	
+Ainu	6	FEAR	sitoma	Antipassive	Regularly	
+Ainu	6	FEAR	sitoma	Dative applicative ko-	Regularly	
+Ainu	6	FEAR	sitoma	Direct causative	Regularly	
+Ainu	6	FEAR	sitoma	Instrumental applicative e-	No data	
+Ainu	6	FEAR	sitoma	Locative applicative o-	No data	
+Ainu	6	FEAR	sitoma	Noun incorporation	Never	
+Ainu	6	FEAR	sitoma	Object-oriented reciprocal	No data	
+Ainu	6	FEAR	sitoma	Reflexive	Regularly	
+Ainu	6	FEAR	sitoma	Subject-oriented reciprocal	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Anticausative	Never	
+Ainu	7	FRIGHTEN	kimatek-ka	Antipassive	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Dative applicative ko-	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Direct causative	Never	
+Ainu	7	FRIGHTEN	kimatek-ka	Instrumental applicative e-	Regularly	
+Ainu	7	FRIGHTEN	kimatek-ka	Locative applicative o-	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Noun incorporation	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Object-oriented reciprocal	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Reflexive	No data	
+Ainu	7	FRIGHTEN	kimatek-ka	Subject-oriented reciprocal	No data	
+Ainu	8	LIKE	eramasu(y)	Anticausative	Never	
+Ainu	8	LIKE	eramasu(y)	Antipassive	No data	
+Ainu	8	LIKE	eramasu(y)	Dative applicative ko-	No data	
+Ainu	8	LIKE	eramasu(y)	Direct causative	Regularly	
+Ainu	8	LIKE	eramasu(y)	Instrumental applicative e-	Never	
+Ainu	8	LIKE	eramasu(y)	Locative applicative o-	Never	
+Ainu	8	LIKE	eramasu(y)	Noun incorporation	No data	
+Ainu	8	LIKE	eramasu(y)	Object-oriented reciprocal	No data	
+Ainu	8	LIKE	eramasu(y)	Reflexive	No data	
+Ainu	8	LIKE	eramasu(y)	Subject-oriented reciprocal	Regularly	
+Ainu	8	LIKE	omap	Anticausative	Never	
+Ainu	8	LIKE	omap	Antipassive	Regularly	
+Ainu	8	LIKE	omap	Dative applicative ko-	Regularly	
+Ainu	8	LIKE	omap	Direct causative	Regularly	
+Ainu	8	LIKE	omap	Instrumental applicative e-	No data	
+Ainu	8	LIKE	omap	Locative applicative o-	No data	
+Ainu	8	LIKE	omap	Noun incorporation	No data	
+Ainu	8	LIKE	omap	Object-oriented reciprocal	No data	
+Ainu	8	LIKE	omap	Reflexive	No data	
+Ainu	8	LIKE	omap	Subject-oriented reciprocal	Regularly	
+Ainu	9	KNOW	amkir	Anticausative	Never	
+Ainu	9	KNOW	amkir	Antipassive	No data	
+Ainu	9	KNOW	amkir	Dative applicative ko-	Regularly	
+Ainu	9	KNOW	amkir	Direct causative	Regularly	
+Ainu	9	KNOW	amkir	Instrumental applicative e-	Never	
+Ainu	9	KNOW	amkir	Locative applicative o-	Never	
+Ainu	9	KNOW	amkir	Noun incorporation	Marginally	
+Ainu	9	KNOW	amkir	Object-oriented reciprocal	No data	
+Ainu	9	KNOW	amkir	Reflexive	Regularly	
+Ainu	9	KNOW	amkir	Subject-oriented reciprocal	No data	
+Ainu	10	THINK	ramu	Anticausative	Never	
+Ainu	10	THINK	ramu	Antipassive	Regularly	
+Ainu	10	THINK	ramu	Dative applicative ko-	Regularly	
+Ainu	10	THINK	ramu	Direct causative	Regularly	
+Ainu	10	THINK	ramu	Instrumental applicative e-	No data	
+Ainu	10	THINK	ramu	Locative applicative o-	No data	
+Ainu	10	THINK	ramu	Noun incorporation	No data	
+Ainu	10	THINK	ramu	Object-oriented reciprocal	No data	
+Ainu	10	THINK	ramu	Reflexive	No data	
+Ainu	10	THINK	ramu	Subject-oriented reciprocal	No data	
+Ainu	11	SEARCH FOR	hunara	Anticausative	Never	
+Ainu	11	SEARCH FOR	hunara	Antipassive	Regularly	
+Ainu	11	SEARCH FOR	hunara	Dative applicative ko-	Regularly	
+Ainu	11	SEARCH FOR	hunara	Direct causative	Regularly	
+Ainu	11	SEARCH FOR	hunara	Instrumental applicative e-	No data	
+Ainu	11	SEARCH FOR	hunara	Locative applicative o-	No data	
+Ainu	11	SEARCH FOR	hunara	Noun incorporation	Regularly	
+Ainu	11	SEARCH FOR	hunara	Object-oriented reciprocal	No data	
+Ainu	11	SEARCH FOR	hunara	Reflexive	No data	
+Ainu	11	SEARCH FOR	hunara	Subject-oriented reciprocal	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Anticausative	Never	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Antipassive	Regularly	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Dative applicative ko-	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Direct causative	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Instrumental applicative e-	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Locative applicative o-	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Noun incorporation	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Reflexive	Regularly	
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	13	DRESS	i-mi-re	Anticausative	Never	
+Ainu	13	DRESS	i-mi-re	Antipassive	Never	
+Ainu	13	DRESS	i-mi-re	Dative applicative ko-	No data	
+Ainu	13	DRESS	i-mi-re	Direct causative	Never	
+Ainu	13	DRESS	i-mi-re	Instrumental applicative e-	No data	
+Ainu	13	DRESS	i-mi-re	Locative applicative o-	No data	
+Ainu	13	DRESS	i-mi-re	Noun incorporation	Never	
+Ainu	13	DRESS	i-mi-re	Object-oriented reciprocal	No data	
+Ainu	13	DRESS	i-mi-re	Reflexive	Regularly	
+Ainu	13	DRESS	i-mi-re	Subject-oriented reciprocal	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Anticausative	Never	
+Ainu	14	SHAVE (a body part/person)	memke	Antipassive	Regularly	
+Ainu	14	SHAVE (a body part/person)	memke	Dative applicative ko-	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Direct causative	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Instrumental applicative e-	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Locative applicative o-	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Noun incorporation	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Object-oriented reciprocal	No data	
+Ainu	14	SHAVE (a body part/person)	memke	Reflexive	Regularly	
+Ainu	14	SHAVE (a body part/person)	memke	Subject-oriented reciprocal	No data	
+Ainu	15	HELP	kasuy	Anticausative	Never	
+Ainu	15	HELP	kasuy	Antipassive	Regularly	
+Ainu	15	HELP	kasuy	Dative applicative ko-	No data	
+Ainu	15	HELP	kasuy	Direct causative	No data	
+Ainu	15	HELP	kasuy	Instrumental applicative e-	Regularly	
+Ainu	15	HELP	kasuy	Locative applicative o-	No data	
+Ainu	15	HELP	kasuy	Noun incorporation	No data	
+Ainu	15	HELP	kasuy	Object-oriented reciprocal	No data	
+Ainu	15	HELP	kasuy	Reflexive	Regularly	
+Ainu	15	HELP	kasuy	Subject-oriented reciprocal	No data	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Anticausative	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Antipassive	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Dative applicative ko-	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Direct causative	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Instrumental applicative e-	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Locative applicative o-	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Noun incorporation	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Object-oriented reciprocal	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Reflexive	Never	
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Subject-oriented reciprocal	Never	
+Ainu	17	MEET	nukar	Anticausative	Never	
+Ainu	17	MEET	nukar	Antipassive	Regularly	
+Ainu	17	MEET	nukar	Dative applicative ko-	Regularly	
+Ainu	17	MEET	nukar	Direct causative	Regularly	
+Ainu	17	MEET	nukar	Instrumental applicative e-	No data	
+Ainu	17	MEET	nukar	Locative applicative o-	No data	
+Ainu	17	MEET	nukar	Noun incorporation	No data	
+Ainu	17	MEET	nukar	Object-oriented reciprocal	Regularly	
+Ainu	17	MEET	nukar	Reflexive	No data	
+Ainu	17	MEET	nukar	Subject-oriented reciprocal	Regularly	
+Ainu	18	TALK	e-ko-itak	Anticausative	Never	
+Ainu	18	TALK	e-ko-itak	Antipassive	No data	
+Ainu	18	TALK	e-ko-itak	Dative applicative ko-	Never	
+Ainu	18	TALK	e-ko-itak	Direct causative	Never	
+Ainu	18	TALK	e-ko-itak	Instrumental applicative e-	Never	
+Ainu	18	TALK	e-ko-itak	Locative applicative o-	Never	
+Ainu	18	TALK	e-ko-itak	Noun incorporation	No data	
+Ainu	18	TALK	e-ko-itak	Object-oriented reciprocal	No data	
+Ainu	18	TALK	e-ko-itak	Reflexive	No data	
+Ainu	18	TALK	e-ko-itak	Subject-oriented reciprocal	Regularly	
+Ainu	19	ASK FOR	ko-tak	Anticausative	Never	
+Ainu	19	ASK FOR	ko-tak	Antipassive	No data	
+Ainu	19	ASK FOR	ko-tak	Dative applicative ko-	Never	
+Ainu	19	ASK FOR	ko-tak	Direct causative	No data	
+Ainu	19	ASK FOR	ko-tak	Instrumental applicative e-	No data	
+Ainu	19	ASK FOR	ko-tak	Locative applicative o-	Never	
+Ainu	19	ASK FOR	ko-tak	Noun incorporation	No data	
+Ainu	19	ASK FOR	ko-tak	Object-oriented reciprocal	No data	
+Ainu	19	ASK FOR	ko-tak	Reflexive	Marginally	
+Ainu	19	ASK FOR	ko-tak	Subject-oriented reciprocal	No data	
+Ainu	20	SHOUT AT	hawekoyki	Anticausative	Never	
+Ainu	20	SHOUT AT	hawekoyki	Antipassive	No data	
+Ainu	20	SHOUT AT	hawekoyki	Dative applicative ko-	No data	
+Ainu	20	SHOUT AT	hawekoyki	Direct causative	Never	
+Ainu	20	SHOUT AT	hawekoyki	Instrumental applicative e-	Marginally	
+Ainu	20	SHOUT AT	hawekoyki	Locative applicative o-	No data	
+Ainu	20	SHOUT AT	hawekoyki	Noun incorporation	Never	
+Ainu	20	SHOUT AT	hawekoyki	Object-oriented reciprocal	No data	
+Ainu	20	SHOUT AT	hawekoyki	Reflexive	Never	
+Ainu	20	SHOUT AT	hawekoyki	Subject-oriented reciprocal	No data	
+Ainu	21	TELL	e-ko-isoytak	Anticausative	Never	
+Ainu	21	TELL	e-ko-isoytak	Antipassive	No data	
+Ainu	21	TELL	e-ko-isoytak	Dative applicative ko-	Never	
+Ainu	21	TELL	e-ko-isoytak	Direct causative	Never	
+Ainu	21	TELL	e-ko-isoytak	Instrumental applicative e-	Never	
+Ainu	21	TELL	e-ko-isoytak	Locative applicative o-	Never	
+Ainu	21	TELL	e-ko-isoytak	Noun incorporation	No data	
+Ainu	21	TELL	e-ko-isoytak	Object-oriented reciprocal	No data	
+Ainu	21	TELL	e-ko-isoytak	Reflexive	No data	
+Ainu	21	TELL	e-ko-isoytak	Subject-oriented reciprocal	Regularly	
+Ainu	21	TELL	nu-re	Anticausative	Never	
+Ainu	21	TELL	nu-re	Antipassive	Regularly	
+Ainu	21	TELL	nu-re	Dative applicative ko-	Marginally	
+Ainu	21	TELL	nu-re	Direct causative	Never	
+Ainu	21	TELL	nu-re	Instrumental applicative e-	No data	
+Ainu	21	TELL	nu-re	Locative applicative o-	Never	
+Ainu	21	TELL	nu-re	Noun incorporation	Regularly	
+Ainu	21	TELL	nu-re	Object-oriented reciprocal	No data	
+Ainu	21	TELL	nu-re	Reflexive	Regularly	
+Ainu	21	TELL	nu-re	Subject-oriented reciprocal	Regularly	
+Ainu	22	SAY	ye	Anticausative	Never	
+Ainu	22	SAY	ye	Antipassive	Regularly	
+Ainu	22	SAY	ye	Dative applicative ko-	No data	
+Ainu	22	SAY	ye	Direct causative	Never	
+Ainu	22	SAY	ye	Instrumental applicative e-	No data	
+Ainu	22	SAY	ye	Locative applicative o-	Never	
+Ainu	22	SAY	ye	Noun incorporation	Never	
+Ainu	22	SAY	ye	Object-oriented reciprocal	No data	
+Ainu	22	SAY	ye	Reflexive	Regularly	
+Ainu	22	SAY	ye	Subject-oriented reciprocal	Regularly	
+Ainu	23	NAME	ye	Anticausative	Never	
+Ainu	23	NAME	ye	Antipassive	Regularly	
+Ainu	23	NAME	ye	Dative applicative ko-	No data	
+Ainu	23	NAME	ye	Direct causative	Never	
+Ainu	23	NAME	ye	Instrumental applicative e-	No data	
+Ainu	23	NAME	ye	Locative applicative o-	Never	
+Ainu	23	NAME	ye	Noun incorporation	Never	
+Ainu	23	NAME	ye	Object-oriented reciprocal	No data	
+Ainu	23	NAME	ye	Reflexive	Regularly	
+Ainu	23	NAME	ye	Subject-oriented reciprocal	Regularly	
+Ainu	24	BUILD	kar	Anticausative	Never	
+Ainu	24	BUILD	kar	Antipassive	No data	
+Ainu	24	BUILD	kar	Dative applicative ko-	No data	
+Ainu	24	BUILD	kar	Direct causative	Never	
+Ainu	24	BUILD	kar	Instrumental applicative e-	Regularly	
+Ainu	24	BUILD	kar	Locative applicative o-	No data	
+Ainu	24	BUILD	kar	Noun incorporation	Marginally	
+Ainu	24	BUILD	kar	Object-oriented reciprocal	No data	
+Ainu	24	BUILD	kar	Reflexive	Regularly	
+Ainu	24	BUILD	kar	Subject-oriented reciprocal	Never	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Anticausative	Regularly	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Antipassive	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Dative applicative ko-	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Direct causative	Never	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Instrumental applicative e-	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Locative applicative o-	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Noun incorporation	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Reflexive	Never	
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Subject-oriented reciprocal	Never	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Anticausative	Never	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Antipassive	No data	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Dative applicative ko-	No data	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Direct causative	Never	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Instrumental applicative e-	No data	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Locative applicative o-	No data	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Noun incorporation	Never	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Object-oriented reciprocal	Never	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Reflexive	Regularly	
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	27	BEAT	kik-kik	Anticausative	Never	
+Ainu	27	BEAT	kik-kik	Antipassive	No data	
+Ainu	27	BEAT	kik-kik	Dative applicative ko-	No data	
+Ainu	27	BEAT	kik-kik	Direct causative	Never	
+Ainu	27	BEAT	kik-kik	Instrumental applicative e-	Regularly	
+Ainu	27	BEAT	kik-kik	Locative applicative o-	No data	
+Ainu	27	BEAT	kik-kik	Noun incorporation	Regularly	
+Ainu	27	BEAT	kik-kik	Object-oriented reciprocal	Regularly	
+Ainu	27	BEAT	kik-kik	Reflexive	Regularly	
+Ainu	27	BEAT	kik-kik	Subject-oriented reciprocal	No data	
+Ainu	28	HIT	kik	Anticausative	Never	
+Ainu	28	HIT	kik	Antipassive	No data	
+Ainu	28	HIT	kik	Dative applicative ko-	Marginally	
+Ainu	28	HIT	kik	Direct causative	Never	
+Ainu	28	HIT	kik	Instrumental applicative e-	Regularly	
+Ainu	28	HIT	kik	Locative applicative o-	No data	
+Ainu	28	HIT	kik	Noun incorporation	No data	
+Ainu	28	HIT	kik	Object-oriented reciprocal	No data	
+Ainu	28	HIT	kik	Reflexive	No data	
+Ainu	28	HIT	kik	Subject-oriented reciprocal	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Anticausative	Never	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Antipassive	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Dative applicative ko-	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Direct causative	Never	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Instrumental applicative e-	Regularly	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Locative applicative o-	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Noun incorporation	Regularly	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Reflexive	No data	
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Anticausative	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Antipassive	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Dative applicative ko-	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Direct causative	Never	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Instrumental applicative e-	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Locative applicative o-	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Noun incorporation	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Reflexive	No data	
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Anticausative	Never	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Antipassive	No data	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Dative applicative ko-	Never	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Direct causative	No data	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Instrumental applicative e-	Regularly	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Locative applicative o-	No data	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Noun incorporation	Marginally	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Object-oriented reciprocal	No data	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Reflexive	Never	
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Anticausative	Regularly	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Antipassive	Never	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Dative applicative ko-	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Direct causative	Never	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Instrumental applicative e-	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Locative applicative o-	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Noun incorporation	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Reflexive	No data	
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Anticausative	Regularly	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Antipassive	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Dative applicative ko-	Regularly	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Direct causative	Never	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Instrumental applicative e-	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Locative applicative o-	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Noun incorporation	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Reflexive	No data	
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	34	HIDE	ko-nuyna	Anticausative	No data	
+Ainu	34	HIDE	ko-nuyna	Antipassive	No data	
+Ainu	34	HIDE	ko-nuyna	Dative applicative ko-	Never	
+Ainu	34	HIDE	ko-nuyna	Direct causative	Never	
+Ainu	34	HIDE	ko-nuyna	Instrumental applicative e-	No data	
+Ainu	34	HIDE	ko-nuyna	Locative applicative o-	No data	
+Ainu	34	HIDE	ko-nuyna	Noun incorporation	No data	
+Ainu	34	HIDE	ko-nuyna	Object-oriented reciprocal	No data	
+Ainu	34	HIDE	ko-nuyna	Reflexive	No data	
+Ainu	34	HIDE	ko-nuyna	Subject-oriented reciprocal	No data	
+Ainu	35	SHOW	nukar-e	Anticausative	Never	
+Ainu	35	SHOW	nukar-e	Antipassive	No data	
+Ainu	35	SHOW	nukar-e	Dative applicative ko-	No data	
+Ainu	35	SHOW	nukar-e	Direct causative	Never	
+Ainu	35	SHOW	nukar-e	Instrumental applicative e-	Never	
+Ainu	35	SHOW	nukar-e	Locative applicative o-	Never	
+Ainu	35	SHOW	nukar-e	Noun incorporation	Marginally	
+Ainu	35	SHOW	nukar-e	Object-oriented reciprocal	No data	
+Ainu	35	SHOW	nukar-e	Reflexive	Regularly	
+Ainu	35	SHOW	nukar-e	Subject-oriented reciprocal	Regularly	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Anticausative	Never	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Antipassive	Marginally	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Dative applicative ko-	No data	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Direct causative	Never	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Instrumental applicative e-	Never	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Locative applicative o-	Never	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Noun incorporation	Marginally	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Object-oriented reciprocal	Regularly	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Reflexive	No data	
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Anticausative	Never	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Antipassive	Never	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Dative applicative ko-	Regularly	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Direct causative	Never	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Instrumental applicative e-	No data	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Locative applicative o-	Regularly	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Noun incorporation	Marginally	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Object-oriented reciprocal	Never	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Reflexive	Never	
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Subject-oriented reciprocal	No data	
+Ainu	38	CARRY	rúra	Anticausative	Never	
+Ainu	38	CARRY	rúra	Antipassive	Regularly	
+Ainu	38	CARRY	rúra	Dative applicative ko-	Regularly	
+Ainu	38	CARRY	rúra	Direct causative	Never	
+Ainu	38	CARRY	rúra	Instrumental applicative e-	Regularly	
+Ainu	38	CARRY	rúra	Locative applicative o-	Marginally	
+Ainu	38	CARRY	rúra	Noun incorporation	Marginally	
+Ainu	38	CARRY	rúra	Object-oriented reciprocal	Never	
+Ainu	38	CARRY	rúra	Reflexive	Never	
+Ainu	38	CARRY	rúra	Subject-oriented reciprocal	No data	
+Ainu	39	THROW	e-yapkir	Anticausative	Never	
+Ainu	39	THROW	e-yapkir	Antipassive	No data	
+Ainu	39	THROW	e-yapkir	Dative applicative ko-	Regularly	
+Ainu	39	THROW	e-yapkir	Direct causative	Never	
+Ainu	39	THROW	e-yapkir	Instrumental applicative e-	Never	
+Ainu	39	THROW	e-yapkir	Locative applicative o-	Never	
+Ainu	39	THROW	e-yapkir	Noun incorporation	No data	
+Ainu	39	THROW	e-yapkir	Object-oriented reciprocal	No data	
+Ainu	39	THROW	e-yapkir	Reflexive	Never	
+Ainu	39	THROW	e-yapkir	Subject-oriented reciprocal	Regularly	
+Ainu	40	TIE	kot-e	Anticausative	Never	
+Ainu	40	TIE	kot-e	Antipassive	Never	
+Ainu	40	TIE	kot-e	Dative applicative ko-	No data	
+Ainu	40	TIE	kot-e	Direct causative	Never	
+Ainu	40	TIE	kot-e	Instrumental applicative e-	No data	
+Ainu	40	TIE	kot-e	Locative applicative o-	No data	
+Ainu	40	TIE	kot-e	Noun incorporation	Regularly	
+Ainu	40	TIE	kot-e	Object-oriented reciprocal	No data	
+Ainu	40	TIE	kot-e	Reflexive	No data	
+Ainu	40	TIE	kot-e	Subject-oriented reciprocal	No data	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Anticausative	Never	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Antipassive	No data	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Dative applicative ko-	Regularly	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Direct causative	Never	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Instrumental applicative e-	Regularly	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Locative applicative o-	Never	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Noun incorporation	No data	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Object-oriented reciprocal	No data	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Reflexive	No data	
+Ainu	41	PUT	an-u (SG) / ari (PL)	Subject-oriented reciprocal	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Anticausative	Never	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Antipassive	Regularly	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Dative applicative ko-	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Direct causative	Never	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Instrumental applicative e-	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Locative applicative o-	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Noun incorporation	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Object-oriented reciprocal	No data	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Reflexive	Never	
+Ainu	41	PUT	oma-re (SG) / o (PL)	Subject-oriented reciprocal	No data	
+Ainu	42	POUR	kuta	Anticausative	Never	
+Ainu	42	POUR	kuta	Antipassive	No data	
+Ainu	42	POUR	kuta	Dative applicative ko-	No data	
+Ainu	42	POUR	kuta	Direct causative	Never	
+Ainu	42	POUR	kuta	Instrumental applicative e-	No data	
+Ainu	42	POUR	kuta	Locative applicative o-	Regularly	
+Ainu	42	POUR	kuta	Noun incorporation	No data	
+Ainu	42	POUR	kuta	Object-oriented reciprocal	No data	
+Ainu	42	POUR	kuta	Reflexive	Never	
+Ainu	42	POUR	kuta	Subject-oriented reciprocal	Never	
+Ainu	42	POUR	o-ta	Anticausative	Never	
+Ainu	42	POUR	o-ta	Antipassive	No data	
+Ainu	42	POUR	o-ta	Dative applicative ko-	No data	
+Ainu	42	POUR	o-ta	Direct causative	Never	
+Ainu	42	POUR	o-ta	Instrumental applicative e-	No data	
+Ainu	42	POUR	o-ta	Locative applicative o-	Never	
+Ainu	42	POUR	o-ta	Noun incorporation	Marginally	
+Ainu	42	POUR	o-ta	Object-oriented reciprocal	No data	
+Ainu	42	POUR	o-ta	Reflexive	Never	
+Ainu	42	POUR	o-ta	Subject-oriented reciprocal	No data	
+Ainu	43	COVER	kamu-re	Anticausative	Never	
+Ainu	43	COVER	kamu-re	Antipassive	No data	
+Ainu	43	COVER	kamu-re	Dative applicative ko-	No data	
+Ainu	43	COVER	kamu-re	Direct causative	Never	
+Ainu	43	COVER	kamu-re	Instrumental applicative e-	No data	
+Ainu	43	COVER	kamu-re	Locative applicative o-	Never	
+Ainu	43	COVER	kamu-re	Noun incorporation	Regularly	
+Ainu	43	COVER	kamu-re	Object-oriented reciprocal	Regularly	
+Ainu	43	COVER	kamu-re	Reflexive	No data	
+Ainu	43	COVER	kamu-re	Subject-oriented reciprocal	No data	
+Ainu	44	FILL	e-sik-te	Anticausative	Never	
+Ainu	44	FILL	e-sik-te	Antipassive	Never	
+Ainu	44	FILL	e-sik-te	Dative applicative ko-	No data	
+Ainu	44	FILL	e-sik-te	Direct causative	Never	
+Ainu	44	FILL	e-sik-te	Instrumental applicative e-	Never	
+Ainu	44	FILL	e-sik-te	Locative applicative o-	No data	
+Ainu	44	FILL	e-sik-te	Noun incorporation	Marginally	
+Ainu	44	FILL	e-sik-te	Object-oriented reciprocal	No data	
+Ainu	44	FILL	e-sik-te	Reflexive	No data	
+Ainu	44	FILL	e-sik-te	Subject-oriented reciprocal	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Anticausative	Never	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Antipassive	Regularly	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Dative applicative ko-	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Direct causative	Never	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Instrumental applicative e-	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Locative applicative o-	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Noun incorporation	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Object-oriented reciprocal	No data	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Reflexive	Never	
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Subject-oriented reciprocal	No data	
+Ainu	46	BLINK	sik-rap-rap-u	Anticausative	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Antipassive	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Dative applicative ko-	No data	
+Ainu	46	BLINK	sik-rap-rap-u	Direct causative	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Instrumental applicative e-	No data	
+Ainu	46	BLINK	sik-rap-rap-u	Locative applicative o-	No data	
+Ainu	46	BLINK	sik-rap-rap-u	Noun incorporation	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Object-oriented reciprocal	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Reflexive	Never	
+Ainu	46	BLINK	sik-rap-rap-u	Subject-oriented reciprocal	Never	
+Ainu	47	COUGH	omke	Anticausative	Never	
+Ainu	47	COUGH	omke	Antipassive	Never	
+Ainu	47	COUGH	omke	Dative applicative ko-	Never	
+Ainu	47	COUGH	omke	Direct causative	Never	
+Ainu	47	COUGH	omke	Instrumental applicative e-	Never	
+Ainu	47	COUGH	omke	Locative applicative o-	Never	
+Ainu	47	COUGH	omke	Noun incorporation	Never	
+Ainu	47	COUGH	omke	Object-oriented reciprocal	Never	
+Ainu	47	COUGH	omke	Reflexive	Never	
+Ainu	47	COUGH	omke	Subject-oriented reciprocal	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Anticausative	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Antipassive	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Dative applicative ko-	Regularly	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Direct causative	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Instrumental applicative e-	No data	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Locative applicative o-	Regularly	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Noun incorporation	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Object-oriented reciprocal	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Reflexive	Never	
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Subject-oriented reciprocal	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Anticausative	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Antipassive	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Dative applicative ko-	No data	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Direct causative	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Instrumental applicative e-	Regularly	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Locative applicative o-	No data	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Noun incorporation	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Object-oriented reciprocal	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Reflexive	Never	
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Subject-oriented reciprocal	Never	
+Ainu	49	RUN	pas	Anticausative	Never	
+Ainu	49	RUN	pas	Antipassive	Never	
+Ainu	49	RUN	pas	Dative applicative ko-	Regularly	
+Ainu	49	RUN	pas	Direct causative	Regularly	
+Ainu	49	RUN	pas	Instrumental applicative e-	Regularly	
+Ainu	49	RUN	pas	Locative applicative o-	Regularly	
+Ainu	49	RUN	pas	Noun incorporation	Never	
+Ainu	49	RUN	pas	Object-oriented reciprocal	Never	
+Ainu	49	RUN	pas	Reflexive	Never	
+Ainu	49	RUN	pas	Subject-oriented reciprocal	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Anticausative	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Antipassive	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Dative applicative ko-	No data	
+Ainu	50	SIT	a (SG) / rok (PL)	Direct causative	Regularly	
+Ainu	50	SIT	a (SG) / rok (PL)	Instrumental applicative e-	Regularly	
+Ainu	50	SIT	a (SG) / rok (PL)	Locative applicative o-	No data	
+Ainu	50	SIT	a (SG) / rok (PL)	Noun incorporation	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Object-oriented reciprocal	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Reflexive	Never	
+Ainu	50	SIT	a (SG) / rok (PL)	Subject-oriented reciprocal	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Anticausative	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Antipassive	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Dative applicative ko-	No data	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Direct causative	Regularly	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Instrumental applicative e-	Regularly	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Locative applicative o-	No data	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Noun incorporation	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Object-oriented reciprocal	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Reflexive	Never	
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Subject-oriented reciprocal	Never	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Anticausative	Never	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Antipassive	Never	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Dative applicative ko-	Regularly	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Direct causative	Regularly	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Instrumental applicative e-	Regularly	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Locative applicative o-	No data	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Noun incorporation	Never	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Object-oriented reciprocal	No data	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Reflexive	Never	
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Subject-oriented reciprocal	Never	
+Ainu	52	JUMP	tetterke	Anticausative	Never	
+Ainu	52	JUMP	tetterke	Antipassive	Never	
+Ainu	52	JUMP	tetterke	Dative applicative ko-	Regularly	
+Ainu	52	JUMP	tetterke	Direct causative	Never	
+Ainu	52	JUMP	tetterke	Instrumental applicative e-	No data	
+Ainu	52	JUMP	tetterke	Locative applicative o-	No data	
+Ainu	52	JUMP	tetterke	Noun incorporation	Never	
+Ainu	52	JUMP	tetterke	Object-oriented reciprocal	Never	
+Ainu	52	JUMP	tetterke	Reflexive	Never	
+Ainu	52	JUMP	tetterke	Subject-oriented reciprocal	Never	
+Ainu	53	SING	sinotca-ki	Anticausative	Never	
+Ainu	53	SING	sinotca-ki	Antipassive	Never	
+Ainu	53	SING	sinotca-ki	Dative applicative ko-	No data	
+Ainu	53	SING	sinotca-ki	Direct causative	Never	
+Ainu	53	SING	sinotca-ki	Instrumental applicative e-	No data	
+Ainu	53	SING	sinotca-ki	Locative applicative o-	No data	
+Ainu	53	SING	sinotca-ki	Noun incorporation	Never	
+Ainu	53	SING	sinotca-ki	Object-oriented reciprocal	Never	
+Ainu	53	SING	sinotca-ki	Reflexive	Never	
+Ainu	53	SING	sinotca-ki	Subject-oriented reciprocal	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Anticausative	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Antipassive	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Dative applicative ko-	Regularly	
+Ainu	54	GO	arpa (SG) / paye (PL)	Direct causative	Regularly	
+Ainu	54	GO	arpa (SG) / paye (PL)	Instrumental applicative e-	Regularly	
+Ainu	54	GO	arpa (SG) / paye (PL)	Locative applicative o-	Regularly	
+Ainu	54	GO	arpa (SG) / paye (PL)	Noun incorporation	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Object-oriented reciprocal	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Reflexive	Never	
+Ainu	54	GO	arpa (SG) / paye (PL)	Subject-oriented reciprocal	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Anticausative	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Antipassive	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Dative applicative ko-	Regularly	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Direct causative	Regularly	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Instrumental applicative e-	Regularly	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Locative applicative o-	Regularly	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Noun incorporation	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Object-oriented reciprocal	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Reflexive	Never	
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Subject-oriented reciprocal	Never	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Anticausative	Never	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Antipassive	Regularly	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Dative applicative ko-	Regularly	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Direct causative	Never	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Instrumental applicative e-	Never	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Locative applicative o-	No data	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Noun incorporation	Regularly	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Reflexive	Never	
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	56	LIVE	an (SG) / oka (PL)	Anticausative	Never	
+Ainu	56	LIVE	an (SG) / oka (PL)	Antipassive	Never	
+Ainu	56	LIVE	an (SG) / oka (PL)	Dative applicative ko-	Regularly	
+Ainu	56	LIVE	an (SG) / oka (PL)	Direct causative	Regularly	
+Ainu	56	LIVE	an (SG) / oka (PL)	Instrumental applicative e-	Regularly	
+Ainu	56	LIVE	an (SG) / oka (PL)	Locative applicative o-	No data	
+Ainu	56	LIVE	an (SG) / oka (PL)	Noun incorporation	Never	
+Ainu	56	LIVE	an (SG) / oka (PL)	Object-oriented reciprocal	Never	
+Ainu	56	LIVE	an (SG) / oka (PL)	Reflexive	Never	
+Ainu	56	LIVE	an (SG) / oka (PL)	Subject-oriented reciprocal	Never	
+Ainu	57	LAUGH	mina	Anticausative	Never	
+Ainu	57	LAUGH	mina	Antipassive	Never	
+Ainu	57	LAUGH	mina	Dative applicative ko-	No data	
+Ainu	57	LAUGH	mina	Direct causative	Regularly	
+Ainu	57	LAUGH	mina	Instrumental applicative e-	Regularly	
+Ainu	57	LAUGH	mina	Locative applicative o-	No data	
+Ainu	57	LAUGH	mina	Noun incorporation	Never	
+Ainu	57	LAUGH	mina	Object-oriented reciprocal	Never	
+Ainu	57	LAUGH	mina	Reflexive	Never	
+Ainu	57	LAUGH	mina	Subject-oriented reciprocal	Never	
+Ainu	58	SCREAM	kirirse	Anticausative	Never	
+Ainu	58	SCREAM	kirirse	Antipassive	Never	
+Ainu	58	SCREAM	kirirse	Dative applicative ko-	No data	
+Ainu	58	SCREAM	kirirse	Direct causative	No data	
+Ainu	58	SCREAM	kirirse	Instrumental applicative e-	No data	
+Ainu	58	SCREAM	kirirse	Locative applicative o-	No data	
+Ainu	58	SCREAM	kirirse	Noun incorporation	Never	
+Ainu	58	SCREAM	kirirse	Object-oriented reciprocal	Never	
+Ainu	58	SCREAM	kirirse	Reflexive	Never	
+Ainu	58	SCREAM	kirirse	Subject-oriented reciprocal	Never	
+Ainu	59	FEEL PAIN	arka	Anticausative	Never	
+Ainu	59	FEEL PAIN	arka	Antipassive	Never	
+Ainu	59	FEEL PAIN	arka	Dative applicative ko-	No data	
+Ainu	59	FEEL PAIN	arka	Direct causative	Regularly	
+Ainu	59	FEEL PAIN	arka	Instrumental applicative e-	No data	
+Ainu	59	FEEL PAIN	arka	Locative applicative o-	No data	
+Ainu	59	FEEL PAIN	arka	Noun incorporation	Never	
+Ainu	59	FEEL PAIN	arka	Object-oriented reciprocal	Never	
+Ainu	59	FEEL PAIN	arka	Reflexive	Never	
+Ainu	59	FEEL PAIN	arka	Subject-oriented reciprocal	Never	
+Ainu	59	FEEL PAIN	koni	Anticausative	Never	
+Ainu	59	FEEL PAIN	koni	Antipassive	Marginally	
+Ainu	59	FEEL PAIN	koni	Dative applicative ko-	No data	
+Ainu	59	FEEL PAIN	koni	Direct causative	No data	
+Ainu	59	FEEL PAIN	koni	Instrumental applicative e-	No data	
+Ainu	59	FEEL PAIN	koni	Locative applicative o-	Never	
+Ainu	59	FEEL PAIN	koni	Noun incorporation	Never	
+Ainu	59	FEEL PAIN	koni	Object-oriented reciprocal	Never	
+Ainu	59	FEEL PAIN	koni	Reflexive	Never	
+Ainu	59	FEEL PAIN	koni	Subject-oriented reciprocal	Never	
+Ainu	60	FEEL COLD	merayke	Anticausative	Never	
+Ainu	60	FEEL COLD	merayke	Antipassive	Never	
+Ainu	60	FEEL COLD	merayke	Dative applicative ko-	No data	
+Ainu	60	FEEL COLD	merayke	Direct causative	No data	
+Ainu	60	FEEL COLD	merayke	Instrumental applicative e-	No data	
+Ainu	60	FEEL COLD	merayke	Locative applicative o-	No data	
+Ainu	60	FEEL COLD	merayke	Noun incorporation	Never	
+Ainu	60	FEEL COLD	merayke	Object-oriented reciprocal	Never	
+Ainu	60	FEEL COLD	merayke	Reflexive	Never	
+Ainu	60	FEEL COLD	merayke	Subject-oriented reciprocal	Never	
+Ainu	61	DIE	ray	Anticausative	Never	
+Ainu	61	DIE	ray	Antipassive	Never	
+Ainu	61	DIE	ray	Dative applicative ko-	No data	
+Ainu	61	DIE	ray	Direct causative	Regularly	
+Ainu	61	DIE	ray	Instrumental applicative e-	Marginally	
+Ainu	61	DIE	ray	Locative applicative o-	No data	
+Ainu	61	DIE	ray	Noun incorporation	Never	
+Ainu	61	DIE	ray	Object-oriented reciprocal	Never	
+Ainu	61	DIE	ray	Reflexive	Never	
+Ainu	61	DIE	ray	Subject-oriented reciprocal	Never	
+Ainu	62	PLAY	sinot	Anticausative	Never	
+Ainu	62	PLAY	sinot	Antipassive	Never	
+Ainu	62	PLAY	sinot	Dative applicative ko-	No data	
+Ainu	62	PLAY	sinot	Direct causative	Regularly	
+Ainu	62	PLAY	sinot	Instrumental applicative e-	Regularly	
+Ainu	62	PLAY	sinot	Locative applicative o-	Regularly	
+Ainu	62	PLAY	sinot	Noun incorporation	Never	
+Ainu	62	PLAY	sinot	Object-oriented reciprocal	Never	
+Ainu	62	PLAY	sinot	Reflexive	Never	
+Ainu	62	PLAY	sinot	Subject-oriented reciprocal	Never	
+Ainu	63	BE SAD	mismu	Anticausative	Never	
+Ainu	63	BE SAD	mismu	Antipassive	Never	
+Ainu	63	BE SAD	mismu	Dative applicative ko-	No data	
+Ainu	63	BE SAD	mismu	Direct causative	No data	
+Ainu	63	BE SAD	mismu	Instrumental applicative e-	Regularly	
+Ainu	63	BE SAD	mismu	Locative applicative o-	No data	
+Ainu	63	BE SAD	mismu	Noun incorporation	Never	
+Ainu	63	BE SAD	mismu	Object-oriented reciprocal	Never	
+Ainu	63	BE SAD	mismu	Reflexive	Never	
+Ainu	63	BE SAD	mismu	Subject-oriented reciprocal	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Anticausative	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Antipassive	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Dative applicative ko-	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Direct causative	Regularly	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Instrumental applicative e-	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Locative applicative o-	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Noun incorporation	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Object-oriented reciprocal	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Reflexive	Never	
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Subject-oriented reciprocal	Never	
+Ainu	65	ROLL	karkarse	Anticausative	Never	
+Ainu	65	ROLL	karkarse	Antipassive	Never	
+Ainu	65	ROLL	karkarse	Dative applicative ko-	Marginally	
+Ainu	65	ROLL	karkarse	Direct causative	Regularly	
+Ainu	65	ROLL	karkarse	Instrumental applicative e-	No data	
+Ainu	65	ROLL	karkarse	Locative applicative o-	Never	
+Ainu	65	ROLL	karkarse	Noun incorporation	Never	
+Ainu	65	ROLL	karkarse	Object-oriented reciprocal	Never	
+Ainu	65	ROLL	karkarse	Reflexive	Never	
+Ainu	65	ROLL	karkarse	Subject-oriented reciprocal	Never	
+Ainu	66	SINK	rer	Anticausative	Never	
+Ainu	66	SINK	rer	Antipassive	Never	
+Ainu	66	SINK	rer	Dative applicative ko-	No data	
+Ainu	66	SINK	rer	Direct causative	Regularly	
+Ainu	66	SINK	rer	Instrumental applicative e-	No data	
+Ainu	66	SINK	rer	Locative applicative o-	Regularly	
+Ainu	66	SINK	rer	Noun incorporation	Never	
+Ainu	66	SINK	rer	Object-oriented reciprocal	Never	
+Ainu	66	SINK	rer	Reflexive	Never	
+Ainu	66	SINK	rer	Subject-oriented reciprocal	Never	
+Ainu	67	BURN	uhuy	Anticausative	Never	
+Ainu	67	BURN	uhuy	Antipassive	Never	
+Ainu	67	BURN	uhuy	Dative applicative ko-	No data	
+Ainu	67	BURN	uhuy	Direct causative	Regularly	
+Ainu	67	BURN	uhuy	Instrumental applicative e-	No data	
+Ainu	67	BURN	uhuy	Locative applicative o-	No data	
+Ainu	67	BURN	uhuy	Noun incorporation	Never	
+Ainu	67	BURN	uhuy	Object-oriented reciprocal	Never	
+Ainu	67	BURN	uhuy	Reflexive	Never	
+Ainu	67	BURN	uhuy	Subject-oriented reciprocal	Never	
+Ainu	68	BE DRY	sat	Anticausative	Never	
+Ainu	68	BE DRY	sat	Antipassive	Never	
+Ainu	68	BE DRY	sat	Dative applicative ko-	No data	
+Ainu	68	BE DRY	sat	Direct causative	Regularly	
+Ainu	68	BE DRY	sat	Instrumental applicative e-	No data	
+Ainu	68	BE DRY	sat	Locative applicative o-	No data	
+Ainu	68	BE DRY	sat	Noun incorporation	Never	
+Ainu	68	BE DRY	sat	Object-oriented reciprocal	Never	
+Ainu	68	BE DRY	sat	Reflexive	Never	
+Ainu	68	BE DRY	sat	Subject-oriented reciprocal	Never	
+Ainu	69	RAIN	(apto) as	Anticausative	Never	
+Ainu	69	RAIN	(apto) as	Antipassive	Never	
+Ainu	69	RAIN	(apto) as	Dative applicative ko-	Never	
+Ainu	69	RAIN	(apto) as	Direct causative	Regularly	
+Ainu	69	RAIN	(apto) as	Instrumental applicative e-	Never	
+Ainu	69	RAIN	(apto) as	Locative applicative o-	Never	
+Ainu	69	RAIN	(apto) as	Noun incorporation	Never	
+Ainu	69	RAIN	(apto) as	Object-oriented reciprocal	Never	
+Ainu	69	RAIN	(apto) as	Reflexive	Never	
+Ainu	69	RAIN	(apto) as	Subject-oriented reciprocal	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Anticausative	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Antipassive	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Dative applicative ko-	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Direct causative	Regularly	
+Ainu	70	BE A HUNTER	isonkur ne	Instrumental applicative e-	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Locative applicative o-	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Noun incorporation	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Object-oriented reciprocal	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Reflexive	Never	
+Ainu	70	BE A HUNTER	isonkur ne	Subject-oriented reciprocal	Never	
+Ainu	71	GRIND	uta	Anticausative	Never	
+Ainu	71	GRIND	uta	Antipassive	Regularly	
+Ainu	71	GRIND	uta	Dative applicative ko-	No data	
+Ainu	71	GRIND	uta	Direct causative	Never	
+Ainu	71	GRIND	uta	Instrumental applicative e-	No data	
+Ainu	71	GRIND	uta	Locative applicative o-	No data	
+Ainu	71	GRIND	uta	Noun incorporation	No data	
+Ainu	71	GRIND	uta	Object-oriented reciprocal	No data	
+Ainu	71	GRIND	uta	Reflexive	Never	
+Ainu	71	GRIND	uta	Subject-oriented reciprocal	Never	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Anticausative	Never	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Antipassive	Marginally	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Dative applicative ko-	Regularly	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Direct causative	Never	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Instrumental applicative e-	No data	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Locative applicative o-	Regularly	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Noun incorporation	Marginally	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Reflexive	No data	
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	73	DIG	ta	Anticausative	Never	
+Ainu	73	DIG	ta	Antipassive	No data	
+Ainu	73	DIG	ta	Dative applicative ko-	No data	
+Ainu	73	DIG	ta	Direct causative	Never	
+Ainu	73	DIG	ta	Instrumental applicative e-	No data	
+Ainu	73	DIG	ta	Locative applicative o-	No data	
+Ainu	73	DIG	ta	Noun incorporation	Regularly	
+Ainu	73	DIG	ta	Object-oriented reciprocal	No data	
+Ainu	73	DIG	ta	Reflexive	Never	
+Ainu	73	DIG	ta	Subject-oriented reciprocal	Never	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Anticausative	Never	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Antipassive	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Dative applicative ko-	Regularly	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Direct causative	Never	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Instrumental applicative e-	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Locative applicative o-	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Noun incorporation	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Reflexive	No data	
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Subject-oriented reciprocal	No data	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Anticausative	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Antipassive	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Dative applicative ko-	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Direct causative	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Instrumental applicative e-	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Locative applicative o-	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Noun incorporation	No data	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Object-oriented reciprocal	Never	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Reflexive	No data	
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Anticausative	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Antipassive	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Dative applicative ko-	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Direct causative	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Instrumental applicative e-	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Locative applicative o-	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Noun incorporation	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Object-oriented reciprocal	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Reflexive	Never	
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Subject-oriented reciprocal	Never	
+Ainu	76	STEAL	ko-e-ikka	Anticausative	Never	
+Ainu	76	STEAL	ko-e-ikka	Antipassive	No data	
+Ainu	76	STEAL	ko-e-ikka	Dative applicative ko-	Never	
+Ainu	76	STEAL	ko-e-ikka	Direct causative	Never	
+Ainu	76	STEAL	ko-e-ikka	Instrumental applicative e-	Never	
+Ainu	76	STEAL	ko-e-ikka	Locative applicative o-	No data	
+Ainu	76	STEAL	ko-e-ikka	Noun incorporation	No data	
+Ainu	76	STEAL	ko-e-ikka	Object-oriented reciprocal	No data	
+Ainu	76	STEAL	ko-e-ikka	Reflexive	No data	
+Ainu	76	STEAL	ko-e-ikka	Subject-oriented reciprocal	No data	
+Ainu	77	TEACH	e-pakasnu	Anticausative	Never	
+Ainu	77	TEACH	e-pakasnu	Antipassive	Regularly	
+Ainu	77	TEACH	e-pakasnu	Dative applicative ko-	No data	
+Ainu	77	TEACH	e-pakasnu	Direct causative	Never	
+Ainu	77	TEACH	e-pakasnu	Instrumental applicative e-	No data	
+Ainu	77	TEACH	e-pakasnu	Locative applicative o-	No data	
+Ainu	77	TEACH	e-pakasnu	Noun incorporation	Marginally	
+Ainu	77	TEACH	e-pakasnu	Object-oriented reciprocal	No data	
+Ainu	77	TEACH	e-pakasnu	Reflexive	No data	
+Ainu	77	TEACH	e-pakasnu	Subject-oriented reciprocal	Regularly	
+Ainu	78	HEAR	nu	Anticausative	Never	
+Ainu	78	HEAR	nu	Antipassive	Regularly	
+Ainu	78	HEAR	nu	Dative applicative ko-	Regularly	
+Ainu	78	HEAR	nu	Direct causative	Regularly	
+Ainu	78	HEAR	nu	Instrumental applicative e-	No data	
+Ainu	78	HEAR	nu	Locative applicative o-	No data	
+Ainu	78	HEAR	nu	Noun incorporation	No data	
+Ainu	78	HEAR	nu	Object-oriented reciprocal	No data	
+Ainu	78	HEAR	nu	Reflexive	Regularly	
+Ainu	78	HEAR	nu	Subject-oriented reciprocal	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Anticausative	Never	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Antipassive	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Dative applicative ko-	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Direct causative	Never	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Instrumental applicative e-	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Locative applicative o-	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Noun incorporation	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Object-oriented reciprocal	No data	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Reflexive	Never	
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Subject-oriented reciprocal	Never	
+Ainu	80	BOIL	pop	Anticausative	Never	
+Ainu	80	BOIL	pop	Antipassive	Never	
+Ainu	80	BOIL	pop	Dative applicative ko-	Never	
+Ainu	80	BOIL	pop	Direct causative	Regularly	
+Ainu	80	BOIL	pop	Instrumental applicative e-	Never	
+Ainu	80	BOIL	pop	Locative applicative o-	Never	
+Ainu	80	BOIL	pop	Noun incorporation	Never	
+Ainu	80	BOIL	pop	Object-oriented reciprocal	Never	
+Ainu	80	BOIL	pop	Reflexive	Never	
+Ainu	80	BOIL	pop	Subject-oriented reciprocal	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Anticausative	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Antipassive	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Dative applicative ko-	Regularly	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Direct causative	Regularly	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Instrumental applicative e-	Regularly	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Locative applicative o-	No data	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Noun incorporation	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Object-oriented reciprocal	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Reflexive	Never	
+Ainu	81	APPEAR	an (SG) / oka (PL)	Subject-oriented reciprocal	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Anticausative	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Antipassive	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Dative applicative ko-	Regularly	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Direct causative	Regularly	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Instrumental applicative e-	No data	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Locative applicative o-	No data	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Noun incorporation	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Object-oriented reciprocal	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Reflexive	Never	
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Subject-oriented reciprocal	Never	
+Ainu	82	BE ILL	siyeye	Anticausative	Never	
+Ainu	82	BE ILL	siyeye	Antipassive	Never	
+Ainu	82	BE ILL	siyeye	Dative applicative ko-	No data	
+Ainu	82	BE ILL	siyeye	Direct causative	No data	
+Ainu	82	BE ILL	siyeye	Instrumental applicative e-	No data	
+Ainu	82	BE ILL	siyeye	Locative applicative o-	No data	
+Ainu	82	BE ILL	siyeye	Noun incorporation	Never	
+Ainu	82	BE ILL	siyeye	Object-oriented reciprocal	Never	
+Ainu	82	BE ILL	siyeye	Reflexive	Never	
+Ainu	82	BE ILL	siyeye	Subject-oriented reciprocal	Never	
+Ainu	83	CRY	cis	Anticausative	Never	
+Ainu	83	CRY	cis	Antipassive	Never	
+Ainu	83	CRY	cis	Dative applicative ko-	No data	
+Ainu	83	CRY	cis	Direct causative	Regularly	
+Ainu	83	CRY	cis	Instrumental applicative e-	Marginally	
+Ainu	83	CRY	cis	Locative applicative o-	No data	
+Ainu	83	CRY	cis	Noun incorporation	Never	
+Ainu	83	CRY	cis	Object-oriented reciprocal	Never	
+Ainu	83	CRY	cis	Reflexive	Never	
+Ainu	83	CRY	cis	Subject-oriented reciprocal	Never	
+Ainu	84	FALL	hácir	Anticausative	Never	
+Ainu	84	FALL	hácir	Antipassive	Never	
+Ainu	84	FALL	hácir	Dative applicative ko-	No data	
+Ainu	84	FALL	hácir	Direct causative	Regularly	
+Ainu	84	FALL	hácir	Instrumental applicative e-	No data	
+Ainu	84	FALL	hácir	Locative applicative o-	No data	
+Ainu	84	FALL	hácir	Noun incorporation	Never	
+Ainu	84	FALL	hácir	Object-oriented reciprocal	Never	
+Ainu	84	FALL	hácir	Reflexive	Never	
+Ainu	84	FALL	hácir	Subject-oriented reciprocal	Never	
+Ainu	85	MAKE	kar	Anticausative	Never	
+Ainu	85	MAKE	kar	Antipassive	No data	
+Ainu	85	MAKE	kar	Dative applicative ko-	No data	
+Ainu	85	MAKE	kar	Direct causative	Never	
+Ainu	85	MAKE	kar	Instrumental applicative e-	Regularly	
+Ainu	85	MAKE	kar	Locative applicative o-	No data	
+Ainu	85	MAKE	kar	Noun incorporation	Marginally	
+Ainu	85	MAKE	kar	Object-oriented reciprocal	No data	
+Ainu	85	MAKE	kar	Reflexive	Regularly	
+Ainu	85	MAKE	kar	Subject-oriented reciprocal	Never	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Anticausative	Never	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Antipassive	No data	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Dative applicative ko-	Never	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Direct causative	No data	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Instrumental applicative e-	Regularly	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Locative applicative o-	No data	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Noun incorporation	Marginally	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Object-oriented reciprocal	No data	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Reflexive	Never	
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Subject-oriented reciprocal	Regularly	
+Ainu	87	WANT	eramasu(y)	Anticausative	Never	
+Ainu	87	WANT	eramasu(y)	Antipassive	No data	
+Ainu	87	WANT	eramasu(y)	Dative applicative ko-	No data	
+Ainu	87	WANT	eramasu(y)	Direct causative	Regularly	
+Ainu	87	WANT	eramasu(y)	Instrumental applicative e-	Never	
+Ainu	87	WANT	eramasu(y)	Locative applicative o-	Never	
+Ainu	87	WANT	eramasu(y)	Noun incorporation	No data	
+Ainu	87	WANT	eramasu(y)	Object-oriented reciprocal	No data	
+Ainu	87	WANT	eramasu(y)	Reflexive	No data	
+Ainu	87	WANT	eramasu(y)	Subject-oriented reciprocal	Regularly	

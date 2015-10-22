@@ -1,0 +1,81 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Ambitransitive Alternation	BA Alternation	BEI Alternation	Locative Inversion Alternation	Middle Alternation	Neutral Ditransitive Alternation	Quantity Ratio Alternation
+Mandarin Chinese	1	EAT	chī	1, 283, 277, 279, 281, 218, 219	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Regularly	Regularly
+Mandarin Chinese	2	HUG	yōngbào	3, 220	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	3	LOOK AT	kàn	7, 285, 222	1 > V > 2	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	4	SEE	kànjiàn	16, 87, 109, 288	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	5	SMELL	wén	20, 110, 111, 112	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	6	FEAR	pà	15	1 > V > 2	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	39, 256, 135, 136, 137, 251	1 > V > 2	Regularly	Regularly	Regularly	Never	Marginally	Never	Never
+Mandarin Chinese	8	LIKE	xǐhuān	57, 156	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	9	KNOW	zhīdào	43, 155	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	10	THINK	xiǎng	21, 113, 114, 115	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	11	SEARCH FOR	sōuxún	268, 106, 184, 185, 299	1 > V > 2	Never	Never	Marginally	Never	Marginally	Never	Never
+Mandarin Chinese	12	WASH	xǐ	9, 223, 224, 225, 226, 227	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Marginally	Regularly
+Mandarin Chinese	13	DRESS	no counterpart	108	N/A	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	80, 270, 190, 191, 192, 301	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	15	HELP	bāngzhù	53, 144, 145	1 > V > 2	Never	Never	Marginally	Never	Never	Marginally	Never
+Mandarin Chinese	16	FOLLOW	gēn	51, 96	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	17	MEET	pèngjiàn	60, 165	1 > (LOC2 >) V > 3	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	18	TALK	tán(huà)	72	1 > PREP+2 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	19	ASK FOR	yào	22, 116, 117, 118, 119	1 > (PREP+2 >) V > 3	Never	Regularly	Regularly	Never	Marginally	Regularly	Never
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	193	1 > V > 2	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	21	TELL	gàosù	17, 235, 236	1 > V > 2 > 3	Never	Regularly	Regularly	Never	Never	Regularly	Never
+Mandarin Chinese	22	SAY	shuō	71, 183	1 > (duì+2 >) V > UTT3	Never	Never	Never	Never	Regularly	Never	Never
+Mandarin Chinese	23	NAME	mìngmíng	79, 194	1 > V > 2 > 3	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	24	BUILD	jiàn(zào)	45, 12, 14, 91, 248, 249, 250	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	25	BREAK	dǎduàn	32, 8, 10, 244, 245	1 > V > 2	Regularly	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	26	KILL	shā	42, 258, 153, 154, 253	1 > (yòng+2 >) V > 3	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	27	BEAT	pāidǎ	27, 89, 124, 125, 126	1 > V > 2	Never	Marginally	Marginally	Never	Marginally	Never	Never
+Mandarin Chinese	28	HIT	dǎ	41, 150, 151, 152	1 > (yòng+2 >) V > 3	Never	Regularly	Regularly	Never	Marginally	Never	Never
+Mandarin Chinese	29	TOUCH	(chù)mō	31, 90, 241, 242, 243	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	30	CUT	qiē	84, 92, 85, 294, 93, 129, 130, 284	1 > (yòng+2 >) V > 3	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Mandarin Chinese	31	TAKE	názǒu	205, 206, 207, 274	1 > (cóng+2 >) V > 3	Never	Regularly	Regularly	Never	Never	Regularly	Never
+Mandarin Chinese	32	TEAR	sī	13, 107, 233, 234	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	33	PEEL	xiāo (2)	61, 262, 263, 103, 166, 167, 168, 255, 298	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	34	HIDE	cáng	55, 146, 147, 148, 149, 252	1 > V > 2	Never	Regularly	Regularly	Marginally	Marginally	Never	Never
+Mandarin Chinese	35	SHOW	zhǎnshì	76, 195, 196	1 > (PREP+2 >) V > 3	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	36	GIVE	gěi	40, 138, 139, 297	1 > V > 2 > 3	Never	Regularly	Regularly	Never	Never	Regularly	Never
+Mandarin Chinese	37	SEND	fā	77, 186, 187, 188, 189, 300	1 > (gěi+2 >) V 3	Never	Regularly	Regularly	Never	Regularly	Regularly	Never
+Mandarin Chinese	38	CARRY	(xié)dài	46, 267, 269, 271	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	39	THROW	rēng	296, 208, 209, 210	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Mandarin Chinese	40	TIE	shuān	63, 211, 212, 213, 214, 215	1 > ba+2 > V > zài+3-loc	Never	Regularly	Regularly	Regularly	Marginally	Never	Never
+Mandarin Chinese	41	PUT	fàng	64, 266, 176, 177, 178, 291	1 > ba+2 > V > zài+3-loc	Never	Regularly	Regularly	Regularly	Marginally	Never	Never
+Mandarin Chinese	42	POUR	dào	104, 171, 172, 173	1 > (PREP+2 >) V > 3	Never	Regularly	Regularly	Never	Marginally	Marginally	Never
+Mandarin Chinese	43	COVER	gài(shàng)	99, 100, 278, 101, 280, 282	1 > (yòng+2 >) V > 3	Never	Regularly	Regularly	Never	Marginally	Never	Never
+Mandarin Chinese	44	FILL	zhuāngmǎn	254, 81, 131, 132, 133, 134, 286	1 > (yòng+2 >) V > 3	Regularly	Regularly	Regularly	Regularly	Never	Never	Never
+Mandarin Chinese	45	LOAD	zhuāng(zài)	59, 260, 159, 160, 161, 162, 163, 164	1 > (LOC2 >) V > 3	Never	Regularly	Regularly	Regularly	Regularly	Never	Never
+Mandarin Chinese	46	BLINK										
+Mandarin Chinese	47	COUGH	ké(sòu）	33	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	48	CLIMB	pá (2)	35, 272	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never
+Mandarin Chinese	49	RUN	pǎo	73	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	50	SIT	zuò	65, 197, 198, 199, 200	1 > V > zài+2	Never	Never	Marginally	Never	Regularly	Never	Regularly
+Mandarin Chinese	51	SIT DOWN	zuòxià	66	1 > (zài+2 >) V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	54	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	53	SING	gēchàng	75	1 > V > 2	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	54	GO	qù	94	1 > V > 2	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	55	LEAVE	líkāi	56	1 > V > 2	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	56	LIVE	(jū)zhù	58, 157, 158	1 > V > zài+2	Never	Never	Never	Regularly	Never	Never	Never
+Mandarin Chinese	57	LAUGH	xiào	44	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	58	SCREAM	jiānjiào	78	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	38	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	50	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	61	DIE	sǐ	5, 221, 292, 293	1 > V	Never	Never	Never	Regularly	Never	Never	Never
+Mandarin Chinese	62	PLAY	wán	62, 264, 169, 170	1 > V > 2	Never	Marginally	Marginally	Never	Regularly	Never	Never
+Mandarin Chinese	63	BE SAD	bēishāng	25	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	64	BE HUNGRY	è	26, 2, 121, 122, 123	1 > V	Regularly	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	65	ROLL	gǔn(dòng)	67, 180, 181, 182	1 > (zài+2 >) V	Regularly	Never	Never	Never	Regularly	Never	Never
+Mandarin Chinese	66	SINK	chén	11, 287, 228, 229, 230, 231, 232	1 > V	Regularly	Regularly	Regularly	Never	Marginally	Marginally	Never
+Mandarin Chinese	67	BURN	(rán)shāo	34, 82	1 > V	Never	Never	Never	Never	Never	Marginally	Never
+Mandarin Chinese	68	BE DRY	gān	24	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	69	RAIN	xiàyǔ	69	V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	88	1 > V	Never	Never	Never	Never	Never	Never	Never
+Mandarin Chinese	71	GRIND	mò	52, 105, 140, 141, 142	1 > (yòng+2 >) V > 3	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Mandarin Chinese	72	WIPE	cā	74, 95, 275, 216, 217, 302	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Mandarin Chinese	73	DIG	wā	48, 86, 295, 127, 128	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Mandarin Chinese	74	PUSH	tuī	102, 265, 174, 175	1 > V > 2	Never	Marginally	Marginally	Never	Marginally	Never	Never
+Mandarin Chinese	75	BRING	dàilái	36, 246, 247	1 > (gěi+2 >) V 3	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandarin Chinese	76	STEAL	tōu	68, 201, 202, 203, 204	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Regularly	Never
+Mandarin Chinese	77	TEACH	jiāo	18, 289, 237, 238, 303	1 > V > 2 > 3	Never	Regularly	Regularly	Never	Regularly	Regularly	Never
+Mandarin Chinese	78	HEAR	tīngjiàn	97, 143	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never
+Mandarin Chinese	79	COOK	zhǔ	47, 83, 273, 276	1 > V > 2	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Mandarin Chinese	80	BOIL	kāi	29	1 > V	Never	Never	Never	Never	Never	Never	Never

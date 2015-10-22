@@ -1,0 +1,86 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	General NP addition	General NP drop	Reciprocal alternation
+Sri Lanka Malay	1	EAT	maakang	24, 96, 97	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	2	HUG	pullok	134	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	3	LOOK AT	diyath	94, 95	1-dat 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	4	SEE	kuthumung	22, 91, 92	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	5	SMELL	vaanging liiyath	135	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	6	FEAR	thaakuth	120	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	158	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	8	LIKE	suuka	117, 118, 119	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	9	KNOW	thaau	21, 121, 122, 123, 124, 125	1-dat 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	10	THINK	thaksir	161, 162, 163	1 2-acc V	Marginally	Never	No data
+Sri Lanka Malay	10	THINK	iingath	81, 82, 83, 84, 85	1 2-acc V	Marginally	Never	No data
+Sri Lanka Malay	11	SEARCH FOR	caari	64, 132, 133	1 2-acc V	Marginally	Never	No data
+Sri Lanka Malay	12	WASH	cuuci	25, 67	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	13	DRESS	pakeking	136	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	14	SHAVE (a body part/person)						
+Sri Lanka Malay	15	HELP	banthu	23, 56	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	16	FOLLOW	pii (2)	137, 149	1 2-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	17	MEET	caanda	62, 63	1-dat 2-acc V	Marginally	Regularly	Regularly
+Sri Lanka Malay	18	TALK	oomong	20, 105, 106	1 2-dat 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	19	ASK FOR	mintha	19, 50	1 2-loc 3-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	20	SHOUT AT	kaaluth	138	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	21	TELL	biilang	18, 57, 58	1 2-dat UTT3 V	Marginally	Regularly	No data
+Sri Lanka Malay	22	SAY	biilang	18, 57, 58	1 2-dat UTT3 V	Marginally	Regularly	No data
+Sri Lanka Malay	23	NAME	naama thaaro	139	1 2-dat 3+katha V	Regularly	Regularly	No data
+Sri Lanka Malay	24	BUILD	ikkath (1)	140	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	25	BREAK	picaking	17, 107, 108, 109	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	26	KILL	buunung	15, 61	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	26	KILL	mathiking	16	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	27	BEAT	puukul	14, 160	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	28	HIT	puukul	14, 160	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	29	TOUCH	thìkkam	141	1 2-dat 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	30	CUT	poothong	13, 111, 112, 113	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	31	TAKE	ambel	38, 55	1 2-acc 3-abl V	Marginally	Never	No data
+Sri Lanka Malay	32	TEAR	soovek(kang)	12, 116	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	33	PEEL	kuupas	142	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	34	HIDE	sbuuniking	143	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	35	SHOW	cunjiking	10, 65, 66	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	36	GIVE	kaasi	9, 87, 88	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	37	SEND	kiiring	8, 53, 89	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	38	CARRY	angkath baapi	144	1 2-dat 3 V	Marginally	Regularly	No data
+Sri Lanka Malay	39	THROW	buwang	6, 51	1 2-acc 3-dat V	Regularly	Regularly	No data
+Sri Lanka Malay	40	TIE	ikkath (2)	4	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	41	PUT	thaaro	5, 49, 145	1 2-acc LOC3 V	Marginally	Regularly	No data
+Sri Lanka Malay	42	POUR	thuuwang	3, 131	1 2-acc LOC3 V	Marginally	Regularly	No data
+Sri Lanka Malay	43	COVER	thuuthup	1, 48	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	44	FILL	thuuwang	3, 131	1 2-acc LOC3 V	Marginally	Regularly	No data
+Sri Lanka Malay	44	FILL	punuking	2	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	45	LOAD	thaaro	5, 49, 145	1 2-acc LOC3 V	Marginally	Regularly	No data
+Sri Lanka Malay	46	BLINK						
+Sri Lanka Malay	47	COUGH	baathok	146	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	48	CLIMB	naayek	147	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	49	RUN	laari	26, 93	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	50	SIT	duuduk	40, 77, 78, 79, 148	1 LOC2 V	Marginally	Regularly	No data
+Sri Lanka Malay	51	SIT DOWN	duuduk	40, 77, 78, 79, 148	1 LOC2 V	Marginally	Regularly	No data
+Sri Lanka Malay	52	JUMP	lompath	27, 96	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	53	SING	nyaanyi	28	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	54	GO	pii (1)	36, 110	1 2-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	55	LEAVE	luppas	150	1 2 V	Marginally	Regularly	No data
+Sri Lanka Malay	55	LEAVE	pii (2)	137, 149	1 2-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	56	LIVE	duuduk	40, 77, 78, 79, 148	1 LOC2 V	Marginally	Regularly	No data
+Sri Lanka Malay	57	LAUGH						
+Sri Lanka Malay	58	SCREAM	bitharak	42, 59, 60	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	59	FEEL PAIN	saakith	151	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	60	FEEL COLD	diinging	32	1-dat V	Regularly	Regularly	No data
+Sri Lanka Malay	61	DIE	maathi	29, 99, 100	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	61	DIE	mniinggal	30	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	62	PLAY	maayeng	152	1 V	Marginally	Regularly	No data
+Sri Lanka Malay	63	BE SAD	suusa	153	1-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	64	BE HUNGRY	laapar	33	1-dat V	Marginally	Never	No data
+Sri Lanka Malay	65	ROLL						
+Sri Lanka Malay	66	SINK	thìnggalam	46, 128	1-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	67	BURN	appi aràpeegang	154	1-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	68	BE DRY	kìrring	35	1 V	Marginally	Never	No data
+Sri Lanka Malay	69	RAIN	uujang	34	V	Never	Never	No data
+Sri Lanka Malay	70	BE A HUNTER	oorang neembak	37, 159	1 V	Never	Marginally	No data
+Sri Lanka Malay	71	GRIND	giiling	80, 155	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	72	WIPE	saapu	156	1 2-acc 3-abl V	Regularly	Marginally	No data
+Sri Lanka Malay	73	DIG	gaali	157	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	74	PUSH	thoolak	39, 129, 130	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	75	BRING	baa(va)	7, 52	1 2-acc 3-dat V	Marginally	Regularly	No data
+Sri Lanka Malay	76	STEAL	cuuri	11, 68, 69	1 2-acc 3-abl V	Marginally	Regularly	No data
+Sri Lanka Malay	77	TEACH	aajar	41, 54	1 2-dat 3 V	Marginally	Regularly	No data
+Sri Lanka Malay	78	HEAR	dìnngar	44, 74, 75, 76	1-dat 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	79	COOK	maasak	43, 98	1 2-acc V	Marginally	Regularly	No data
+Sri Lanka Malay	80	BOIL	mdiidi	47, 103	1 V	Marginally	Regularly	No data

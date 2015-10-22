@@ -1,0 +1,85 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Active/inactive alternation	Ambitransitive alternation	Applicative	Causative of active verb	Equipollent causative/intransitive alternation	Intransitive alternation	Object omission alternation	Object/instrument incorporation	u-Causative alternation
+Zenzontepec Chatino	1	EAT	y-aku	4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 71, 130, 165, 171, 282	V 1 jiʔį̄+2	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	148, 149, 150	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	151	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	19, 64, 110, 120, 153, 178, 223, 224, 271	V 1 jiʔį̄+2	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	4	SEE	nkā-naʔa	19, 64, 110, 120, 153, 178, 223, 224, 271	V 1 jiʔį̄+2	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	262, 289	V 1 jiʔį̄+2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	6	FEAR	y-utzę	63, 65, 66, 67, 118, 232, 270, 273	V 1 jiʔį̄+2	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	66, 67, 118, 180	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	154, 155, 156	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	74	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	75, 76, 237	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	45, 46, 47, 48, 264	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	68, 69, 70, 233	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	68, 234	V 1 jiʔį̄+2 3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	14	SHAVE (a body part/person)												
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	158, 159, 160, 161, 176	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	152, 157, 175	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	110, 111	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	18	TALK	y-akwiʔ	197, 200, 201, 203, 204, 231, 258, 259, 276, 288	V 1 jiʔį̄+2 3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	77, 78, 79, 80, 81, 82	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	98	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	21	TELL	nakwę	55, 64, 67, 110, 130, 141, 157, 164, 197, 198, 199, 203, 270	UTT1 V 2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	22	SAY	nakwę	55, 64, 67, 110, 130, 141, 157, 164, 197, 198, 199, 203, 270	UTT1 V 2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	287	V 1 jiʔį̄+2 3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	24	BUILD	nka-jnyā	103, 104, 105, 106, 107, 108, 109, 115, 268, 272	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	25	BREAK	nka-laʔa	121, 177, 248	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	48, 49, 50, 120	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	No data	Never	Never
+Zenzontepec Chatino	27	BEAT	nka-ʔni	100, 242, 243, 244	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Zenzontepec Chatino	28	HIT	nkā-rá	117, 118	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	119, 120, 121, 122	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	123, 124, 125, 126, 127, 128, 129	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	31	TAKE	nkā-láā	131, 132, 133, 279	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	1, 2, 3	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	33	PEEL	nka-s-atą	9, 134, 250	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	121, 246, 247	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	35	SHOW	nka-suʔū	135, 136, 137, 138, 139, 251	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	36	GIVE	nkā-tāá	40, 154, 157, 185, 204, 225, 274	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Marginally	Never	Never
+Zenzontepec Chatino	37	SEND	nkā-tēję́	41, 42, 43, 44, 143	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Zenzontepec Chatino	38	CARRY	nka-teę	235, 236, 293	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	140, 141, 142, 252	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	28, 29, 30, 31, 32, 33	V 1 jiʔį̄+2 jiʔį̄+3 lóʔō+4	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	38, 39, 115, 116, 230, 280	V 1 jiʔį̄+2 jiʔį̄+3	Marginally	Never	Never	Marginally	Never	Never	Never	Never	Never
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	38, 39, 115, 116, 230, 280	V 1 jiʔį̄+2 jiʔį̄+3	Marginally	Never	Never	Marginally	Never	Never	Never	Never	Never
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	34, 35, 36, 37, 126, 195, 218, 219	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Marginally	Never	Never
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 261	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	27, 228	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	34, 35, 36, 37, 126, 195, 218, 219	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Marginally	Never	Never
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	144	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	15, 16	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	193, 194	V 1 (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	145, 146, 147, 253	V 1	Never	Never	Marginally	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	50	SIT	n-tyukwā	196	V 1 (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	182, 185	V 1 (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	183, 184, 186	V 1 (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	210, 211, 212	V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	86, 87, 88, 89, 90	V 1 jiʔį̄+2	Never	Never	Never	Regularly	Never	Never	Regularly	Marginally	Never
+Zenzontepec Chatino	54	GO	y-aa	164, 167, 186, 198, 199, 202, 203, 205, 206, 256, 257, 275, 283	V 1 (LOC2)	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	165, 166, 167, 237, 254, 255, 275	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	112, 113, 114, 167	V 1 (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	57	LAUGH	nka-xiti	91, 92, 93	V 1	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	94, 95, 96, 97, 98, 283	V 1	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	144, 168, 169, 170, 171, 172, 181	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	173, 229	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	191, 192	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	48, 49, 50, 51, 52, 53, 54, 167	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly
+Zenzontepec Chatino	62	PLAY	nka-jyā	99, 100, 101, 252, 284	V 1	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	102, 163, 238	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	172, 174, 295	V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	220, 221, 222, 290	V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	263, 265, 291, 294	V 1 jiʔį̄+2	Never	Never	Never	Marginally	Never	Never	Never	Never	Regularly
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	239, 240, 241	V 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never
+Zenzontepec Chatino	68	BE DRY	witi	213, 214, 215, 216	V 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	177, 178, 179, 214	V	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	292	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	71	GRIND	nkay-oō	71, 72, 73, 282	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	72	WIPE												
+Zenzontepec Chatino	73	DIG	nkā-lúū	207, 208, 209, 260	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	74	PUSH												
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	72, 198, 205, 206	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	76	STEAL	nka-wanā	187, 188, 189, 190, 286	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	77	TEACH	nka-suʔū	135, 136, 137, 138, 139, 251	V 1 jiʔį̄+2 jiʔį̄+3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	78	HEAR	y-una (2)	120, 245, 285	V 1 jiʔį̄+2	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	129, 130, 166, 249	V 1 jiʔį̄+2 (lóʔō+3)	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	83, 84, 85	V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never

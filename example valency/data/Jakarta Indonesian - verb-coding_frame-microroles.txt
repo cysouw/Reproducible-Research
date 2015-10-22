@@ -1,0 +1,202 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Jakarta Indonesian	1	EAT	makan	Basic	1 V 2	1	eater	Ø	A
+Jakarta Indonesian	1	EAT	makan	Basic	1 V 2	2	eaten food	Ø	P
+Jakarta Indonesian	2	HUG	peluk	Basic	1 V 2	1	hugger	Ø	A
+Jakarta Indonesian	2	HUG	peluk	Basic	1 V 2	2	huggee	Ø	P
+Jakarta Indonesian	3	LOOK AT	liat	Basic	1 V 2	1	looker	Ø	A
+Jakarta Indonesian	3	LOOK AT	liat	Basic	1 V 2	2	looked at entity	Ø	P
+Jakarta Indonesian	4	SEE	liat	Basic	1 V 2	1	seeer	Ø	A
+Jakarta Indonesian	4	SEE	liat	Basic	1 V 2	2	seen entity	Ø	P
+Jakarta Indonesian	5	SMELL	cium	Basic	1 V 2	1	smeller	Ø	A
+Jakarta Indonesian	5	SMELL	cium	Basic	1 V 2	2	smelled entity	Ø	P
+Jakarta Indonesian	6	FEAR	takut	Basic	1 V 2	1	fearer	Ø	A
+Jakarta Indonesian	6	FEAR	takut	Basic	1 V 2	2	fear stimulus	Ø	P
+Jakarta Indonesian	7	FRIGHTEN	takutin	Basic	1 V 2	1	frightener	Ø	A
+Jakarta Indonesian	7	FRIGHTEN	takutin	Basic	1 V 2	2	frightenee	Ø	P
+Jakarta Indonesian	8	LIKE	seneng	Basic	1 V 2	1	liker	Ø	A
+Jakarta Indonesian	8	LIKE	seneng	Basic	1 V 2	2	liked entity	Ø	P
+Jakarta Indonesian	8	LIKE	suka	Basic	1 V 2	1	liker	Ø	A
+Jakarta Indonesian	8	LIKE	suka	Basic	1 V 2	2	liked entity	Ø	P
+Jakarta Indonesian	9	KNOW	kenal	Basic	1 V 2	1	knower	Ø	A
+Jakarta Indonesian	9	KNOW	kenal	Basic	1 V 2	2	known thing/person	Ø	P
+Jakarta Indonesian	10	THINK	pikir	Basic	1 V	1	thinker	Ø	S
+Jakarta Indonesian	11	SEARCH FOR	cari	Basic	1 V 2	1	searcher	Ø	A
+Jakarta Indonesian	11	SEARCH FOR	cari	Basic	1 V 2	2	searched for thing	Ø	P
+Jakarta Indonesian	12	WASH	cuci	Basic	1 V 2	1	washer	Ø	A
+Jakarta Indonesian	12	WASH	cuci	Basic	1 V 2	2	washed entity	Ø	P
+Jakarta Indonesian	12	WASH	mandiin	Basic	1 V 2	1	washer	Ø	A
+Jakarta Indonesian	12	WASH	mandiin	Basic	1 V 2	2	washed entity	Ø	P
+Jakarta Indonesian	13	DRESS	pakein	Basic	1 V 2 ke+3	1	dresser	Ø	A
+Jakarta Indonesian	13	DRESS	pakein	Basic	1 V 2 ke+3	2	clothes	Ø	P
+Jakarta Indonesian	13	DRESS	pakein	Basic	1 V 2 ke+3	3	dressee	ke+NP	X
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Basic	1 V 2	1	shaver (of body part)	Ø	A
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Basic	1 V 2	2	shaved body part	Ø	P
+Jakarta Indonesian	15	HELP	bantu	Basic	1 V 2	1	helper	Ø	A
+Jakarta Indonesian	15	HELP	bantu	Basic	1 V 2	2	helpee	Ø	P
+Jakarta Indonesian	15	HELP	tolong	Basic	1 V 2	1	helper	Ø	A
+Jakarta Indonesian	15	HELP	tolong	Basic	1 V 2	2	helpee	Ø	P
+Jakarta Indonesian	16	FOLLOW	ikut	Basic	1 V 2	1	follower	Ø	A
+Jakarta Indonesian	16	FOLLOW	ikut	Basic	1 V 2	2	followee	Ø	P
+Jakarta Indonesian	17	MEET	ketemu	Basic	1 V 2	1	meeter	Ø	A
+Jakarta Indonesian	17	MEET	ketemu	Basic	1 V 2	2	met person	Ø	P
+Jakarta Indonesian	17	MEET	temu	Basic	1 V 2	1	meeter	Ø	A
+Jakarta Indonesian	17	MEET	temu	Basic	1 V 2	2	met person	Ø	P
+Jakarta Indonesian	18	TALK	bicara	Basic	1 V ama+2 soal+3	1	talker	Ø	S
+Jakarta Indonesian	18	TALK	bicara	Basic	1 V ama+2 soal+3	2	talked to person	ama-NP	X
+Jakarta Indonesian	18	TALK	bicara	Basic	1 V ama+2 soal+3	3	talked about content	soal+NP	X
+Jakarta Indonesian	19	ASK FOR	minta	Basic	1 V 2	1	asker	Ø	A
+Jakarta Indonesian	19	ASK FOR	minta	Basic	1 V 2	2	requested thing	Ø	P
+Jakarta Indonesian	20	SHOUT AT	teriak	Basic	1 V	1	shouter	Ø	S
+Jakarta Indonesian	21	TELL	cerita	Basic	1 V ke+2 soal+3	1	teller	Ø	S
+Jakarta Indonesian	21	TELL	cerita	Basic	1 V ke+2 soal+3	2	tellee	ke+NP	X
+Jakarta Indonesian	21	TELL	cerita	Basic	1 V ke+2 soal+3	3	told content	soal+NP	X
+Jakarta Indonesian	21	TELL	kasitahu	Basic	1 V 2 3	1	teller	Ø	A
+Jakarta Indonesian	21	TELL	kasitahu	Basic	1 V 2 3	2	tellee	Ø	P
+Jakarta Indonesian	21	TELL	kasitahu	Basic	1 V 2 3	3	told content	Ø	P
+Jakarta Indonesian	22	SAY	bilang	Basic	1 V ke+2 UTT3	1	sayer	Ø	S
+Jakarta Indonesian	22	SAY	bilang	Basic	1 V ke+2 UTT3	2	saying addressee	ke+NP	X
+Jakarta Indonesian	22	SAY	bilang	Basic	1 V ke+2 UTT3	3	said content	UTT	X
+Jakarta Indonesian	22	SAY	omong	Basic	1 V (UTT2)	1	sayer	Ø	S
+Jakarta Indonesian	22	SAY	omong	Basic	1 V (UTT2)	2	said content	UTT	X
+Jakarta Indonesian	24	BUILD	bangun	Basic	1 V 2	1	builder	Ø	A
+Jakarta Indonesian	24	BUILD	bangun	Basic	1 V 2	2	built thing	Ø	P
+Jakarta Indonesian	25	BREAK	patahin	Basic	1 V 2	1	breaker	Ø	A
+Jakarta Indonesian	25	BREAK	patahin	Basic	1 V 2	2	broken thing	Ø	P
+Jakarta Indonesian	25	BREAK	pecahin	Basic	1 V 2	1	breaker	Ø	A
+Jakarta Indonesian	25	BREAK	pecahin	Basic	1 V 2	2	broken thing	Ø	P
+Jakarta Indonesian	26	KILL	bunuh	Basic	1 V 2	1	killer	Ø	A
+Jakarta Indonesian	26	KILL	bunuh	Basic	1 V 2	2	killee	Ø	P
+Jakarta Indonesian	26	KILL	matiin	Basic	1 V 2	1	killer	Ø	A
+Jakarta Indonesian	26	KILL	matiin	Basic	1 V 2	2	killee	Ø	P
+Jakarta Indonesian	27	BEAT	pukul	Basic	1 V 2	1	beater	Ø	A
+Jakarta Indonesian	27	BEAT	pukul	Basic	1 V 2	2	beatee	Ø	P
+Jakarta Indonesian	28	HIT	gebuk	Basic	1 V 2	1	hitter	Ø	A
+Jakarta Indonesian	28	HIT	gebuk	Basic	1 V 2	2	hittee	Ø	P
+Jakarta Indonesian	28	HIT	pukul	Basic	1 V 2	1	hitter	Ø	A
+Jakarta Indonesian	28	HIT	pukul	Basic	1 V 2	2	hittee	Ø	P
+Jakarta Indonesian	29	TOUCH	colok	Basic	1 V 2	1	toucher	Ø	A
+Jakarta Indonesian	29	TOUCH	colok	Basic	1 V 2	2	touchee	Ø	P
+Jakarta Indonesian	29	TOUCH	pegang	Basic	1 V 2	1	toucher	Ø	A
+Jakarta Indonesian	29	TOUCH	pegang	Basic	1 V 2	2	touchee	Ø	P
+Jakarta Indonesian	29	TOUCH	sentuh	Basic	1 V 2	1	toucher	Ø	A
+Jakarta Indonesian	29	TOUCH	sentuh	Basic	1 V 2	2	touchee	Ø	P
+Jakarta Indonesian	30	CUT	potong	Basic	1 V 2	1	cutter	Ø	A
+Jakarta Indonesian	30	CUT	potong	Basic	1 V 2	2	cut thing	Ø	P
+Jakarta Indonesian	31	TAKE	ambil	Basic	1 V 2 dari+3	1	taker	Ø	A
+Jakarta Indonesian	31	TAKE	ambil	Basic	1 V 2 dari+3	2	taken thing	Ø	P
+Jakarta Indonesian	31	TAKE	ambil	Basic	1 V 2 dari+3	3	taking source	dari-NP	X
+Jakarta Indonesian	32	TEAR	sobek	Basic	1 V 2	1	tearer	Ø	A
+Jakarta Indonesian	32	TEAR	sobek	Basic	1 V 2	2	torn thing	Ø	P
+Jakarta Indonesian	33	PEEL	kulitin	Basic	1 V 2	1	peeler	Ø	A
+Jakarta Indonesian	33	PEEL	kulitin	Basic	1 V 2	2	peeled object	Ø	P
+Jakarta Indonesian	33	PEEL	kupas	Basic	1 V 2	1	peeler	Ø	A
+Jakarta Indonesian	33	PEEL	kupas	Basic	1 V 2	2	peeled object	Ø	P
+Jakarta Indonesian	34	HIDE	umpetin	Basic	1 V 2	1	hider	Ø	A
+Jakarta Indonesian	34	HIDE	umpetin	Basic	1 V 2	2	hidden thing	Ø	P
+Jakarta Indonesian	35	SHOW	tunjukin	Basic	1 V 2 ke+3	1	shower	Ø	A
+Jakarta Indonesian	35	SHOW	tunjukin	Basic	1 V 2 ke+3	2	shown thing	Ø	P
+Jakarta Indonesian	35	SHOW	tunjukin	Basic	1 V 2 ke+3	3	showing addressee	ke+NP	X
+Jakarta Indonesian	36	GIVE	kasi	Basic	1 V 2 3	1	giver	Ø	A
+Jakarta Indonesian	36	GIVE	kasi	Basic	1 V 2 3	2	giving recipient	Ø	P
+Jakarta Indonesian	36	GIVE	kasi	Basic	1 V 2 3	3	gift	Ø	P
+Jakarta Indonesian	37	SEND	kirim	Basic	1 V 2 3	1	sender	Ø	A
+Jakarta Indonesian	37	SEND	kirim	Basic	1 V 2 3	2	sending recipient	Ø	P
+Jakarta Indonesian	37	SEND	kirim	Basic	1 V 2 3	3	sent thing	Ø	P
+Jakarta Indonesian	38	CARRY	bawa	Basic	1 V 2	1	carrier	Ø	A
+Jakarta Indonesian	38	CARRY	bawa	Basic	1 V 2	2	carried thing	Ø	P
+Jakarta Indonesian	39	THROW	lempar	Basic	1 V 2 ke+3	1	thrower	Ø	A
+Jakarta Indonesian	39	THROW	lempar	Basic	1 V 2 ke+3	2	thrown thing	Ø	P
+Jakarta Indonesian	39	THROW	lempar	Basic	1 V 2 ke+3	3	throwing goal	ke+NP	X
+Jakarta Indonesian	40	TIE	ikat	Basic	1 V 2	1	tier	Ø	A
+Jakarta Indonesian	40	TIE	ikat	Basic	1 V 2	2	tied thing	Ø	P
+Jakarta Indonesian	41	PUT	taro	Basic	1 V 2 LOC3	1	putter	Ø	A
+Jakarta Indonesian	41	PUT	taro	Basic	1 V 2 LOC3	2	put thing	Ø	P
+Jakarta Indonesian	41	PUT	taro	Basic	1 V 2 LOC3	3	putting goal	LOC	L
+Jakarta Indonesian	42	POUR	tuang	Basic	1 V 2 ke+3	1	pourer	Ø	A
+Jakarta Indonesian	42	POUR	tuang	Basic	1 V 2 ke+3	2	poured substance	Ø	P
+Jakarta Indonesian	42	POUR	tuang	Basic	1 V 2 ke+3	3	pouring goal	ke+NP	X
+Jakarta Indonesian	43	COVER	tutup	Basic	1 V 2	1	coverer	Ø	A
+Jakarta Indonesian	43	COVER	tutup	Basic	1 V 2	2	covered thing	Ø	P
+Jakarta Indonesian	44	FILL	isi	Basic	1 V 2 ke+3	1	filler	Ø	A
+Jakarta Indonesian	44	FILL	isi	Basic	1 V 2 ke+3	2	filling material	Ø	P
+Jakarta Indonesian	44	FILL	isi	Basic	1 V 2 ke+3	3	filled container	ke+NP	X
+Jakarta Indonesian	44	FILL	penuhin	Basic	1 V 2	1	filler	Ø	A
+Jakarta Indonesian	44	FILL	penuhin	Basic	1 V 2	2	filled container	Ø	P
+Jakarta Indonesian	45	LOAD	masuk	Basic	1 V 2 ke+3	1	loader	Ø	A
+Jakarta Indonesian	45	LOAD	masuk	Basic	1 V 2 ke+3	2	loaded thing	Ø	P
+Jakarta Indonesian	45	LOAD	masuk	Basic	1 V 2 ke+3	3	loading place	ke+NP	X
+Jakarta Indonesian	45	LOAD	taro	Basic	1 V 2 LOC3	1	loader	Ø	A
+Jakarta Indonesian	45	LOAD	taro	Basic	1 V 2 LOC3	2	loaded thing	Ø	P
+Jakarta Indonesian	45	LOAD	taro	Basic	1 V 2 LOC3	3	loading place	LOC	L
+Jakarta Indonesian	46	BLINK	ng(k)edip	Basic	1 V	1	blinker	Ø	S
+Jakarta Indonesian	47	COUGH	batuk	Basic	1 V	1	cougher	Ø	S
+Jakarta Indonesian	48	CLIMB	naik	Basic	1 V 2	1	climber	Ø	A
+Jakarta Indonesian	48	CLIMB	naik	Basic	1 V 2	2	climbing goal	Ø	P
+Jakarta Indonesian	48	CLIMB	panjat	Basic	1 V 2	1	climber	Ø	A
+Jakarta Indonesian	48	CLIMB	panjat	Basic	1 V 2	2	climbing goal	Ø	P
+Jakarta Indonesian	49	RUN	lari	Basic	1 V	1	runner	Ø	S
+Jakarta Indonesian	50	SIT	duduk	Basic	1 V LOC2	1	sitter	Ø	S
+Jakarta Indonesian	50	SIT	duduk	Basic	1 V LOC2	2	sitting place	LOC	L
+Jakarta Indonesian	51	SIT DOWN	duduk	Basic	1 V LOC2	1	sitdowner	Ø	S
+Jakarta Indonesian	51	SIT DOWN	duduk	Basic	1 V LOC2	2	sitting-down place	LOC	L
+Jakarta Indonesian	52	JUMP	lompat	Basic	1 V	1	jumper	Ø	S
+Jakarta Indonesian	52	JUMP	loncat	Basic	1 V	1	jumper	Ø	S
+Jakarta Indonesian	53	SING	nyanyi	Basic	1 V	1	singer	Ø	S
+Jakarta Indonesian	54	GO	pergi	Basic	1 V	1	goer	Ø	S
+Jakarta Indonesian	55	LEAVE	berangkat	Basic	1 V	1	leaver	Ø	S
+Jakarta Indonesian	56	LIVE	tinggal (1)	Basic	1 V LOC2	1	liver	Ø	S
+Jakarta Indonesian	56	LIVE	tinggal (1)	Basic	1 V LOC2	2	living place	LOC	L
+Jakarta Indonesian	57	LAUGH	ketawa	Basic	1 V	1	laugher	Ø	S
+Jakarta Indonesian	58	SCREAM	teriak	Basic	1 V	1	screamer	Ø	S
+Jakarta Indonesian	59	FEEL PAIN	sakit	Basic	1 V	1	pain-feeler	Ø	S
+Jakarta Indonesian	60	FEEL COLD	dingin	Basic	1 V	1	freezing person	Ø	S
+Jakarta Indonesian	61	DIE	mati	Basic	1 V	1	dieer	Ø	S
+Jakarta Indonesian	61	DIE	tinggal (2)	Basic	1 V	1	dieer	Ø	S
+Jakarta Indonesian	62	PLAY	main	Basic	1 V 2	1	player	Ø	A
+Jakarta Indonesian	62	PLAY	main	Basic	1 V 2	2	game	Ø	P
+Jakarta Indonesian	63	BE SAD	sedih	Basic	1 V	1	sad person	Ø	S
+Jakarta Indonesian	64	BE HUNGRY	laper	Basic	1 V	1	hungry person	Ø	S
+Jakarta Indonesian	65	ROLL	gelinding	Basic	1 V	1	rolling entity	Ø	S
+Jakarta Indonesian	66	SINK	tenggelem	Basic	1 V	1	sunken entity	Ø	S
+Jakarta Indonesian	67	BURN	nyala	Basic	1 V	1	burnt thing	Ø	S
+Jakarta Indonesian	68	BE DRY	kering	Basic	1 V	1	dry thing	Ø	S
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Basic	1 V	1	specialist/hunter	Ø	S
+Jakarta Indonesian	71	GRIND	giling	Basic	1 V 2	1	grinder	Ø	A
+Jakarta Indonesian	71	GRIND	giling	Basic	1 V 2	2	ground thing	Ø	P
+Jakarta Indonesian	72	WIPE	lap	Basic	1 V 2	1	wiper	Ø	A
+Jakarta Indonesian	72	WIPE	lap	Basic	1 V 2	2	wiping surface	Ø	P
+Jakarta Indonesian	73	DIG	gali	Basic	1 V 2	1	digger	Ø	A
+Jakarta Indonesian	73	DIG	gali	Basic	1 V 2	2	dug hole/ground	Ø	P
+Jakarta Indonesian	74	PUSH	dorong	Basic	1 V 2	1	pusher	Ø	A
+Jakarta Indonesian	74	PUSH	dorong	Basic	1 V 2	2	pushee	Ø	P
+Jakarta Indonesian	75	BRING	bawa	Basic	1 V 2	1	bringer	Ø	A
+Jakarta Indonesian	75	BRING	bawa	Basic	1 V 2	2	brought thing	Ø	P
+Jakarta Indonesian	76	STEAL	colong	Basic	1 V 2	1	stealer	Ø	A
+Jakarta Indonesian	76	STEAL	colong	Basic	1 V 2	2	stolen thing	Ø	P
+Jakarta Indonesian	76	STEAL	curi	Basic	1 V 2 dari+3	1	stealer	Ø	A
+Jakarta Indonesian	76	STEAL	curi	Basic	1 V 2 dari+3	2	stolen thing	Ø	P
+Jakarta Indonesian	76	STEAL	curi	Basic	1 V 2 dari+3	3	stealing source	dari-NP	X
+Jakarta Indonesian	77	TEACH	ajar	Basic	1 V 2	1	teacher	Ø	A
+Jakarta Indonesian	77	TEACH	ajar	Basic	1 V 2	2	taught content	Ø	P
+Jakarta Indonesian	78	HEAR	dengar	Basic	1 V 2	1	hearer	Ø	A
+Jakarta Indonesian	78	HEAR	dengar	Basic	1 V 2	2	heard sound	Ø	P
+Jakarta Indonesian	79	COOK	masak	Basic	1 V 2	1	cooker	Ø	A
+Jakarta Indonesian	79	COOK	masak	Basic	1 V 2	2	cooked food	Ø	P
+Jakarta Indonesian	80	BOIL	mendidih	Basic	1 V	1	boiled thing	Ø	S
+Jakarta Indonesian	81	APPEAR	muncul	Basic	1 V LOC2	1	appearer	Ø	S
+Jakarta Indonesian	81	APPEAR	muncul	Basic	1 V LOC2	2	appear location	LOC	L
+Jakarta Indonesian	81	APPEAR	nongol	Basic	1 V	1	appearer	Ø	S
+Jakarta Indonesian	82	BE ILL	sakit	Basic	1 V	1	sick person	Ø	S
+Jakarta Indonesian	83	CRY	n(t)angis	Basic	1 V	1	crier	Ø	S
+Jakarta Indonesian	84	FALL	jatoh	Basic	1 V	1	fallee	Ø	S
+Jakarta Indonesian	85	MAKE	bikin	Basic	1 V 2	1	maker	Ø	A
+Jakarta Indonesian	85	MAKE	bikin	Basic	1 V 2	2	made thing	Ø	P
+Jakarta Indonesian	86	GET	terima	Basic	1 V 2	1	receiver	Ø	A
+Jakarta Indonesian	86	GET	terima	Basic	1 V 2	2	received thing	Ø	P
+Jakarta Indonesian	87	WANT	pengen	Basic	1 V 2	1	wanter	Ø	A
+Jakarta Indonesian	87	WANT	pengen	Basic	1 V 2	2	wanted thing	Ø	P
+Jakarta Indonesian	89	GET (= obtain)	dapet	Basic	1 V 2	1	obtainer	Ø	A
+Jakarta Indonesian	89	GET (= obtain)	dapet	Basic	1 V 2	2	obtained thing	Ø	P
+Jakarta Indonesian	91	BE COLD	dingin	Basic	1 V	1	cold thing	Ø	S
+Jakarta Indonesian	116	BURN (tr)	bakar	Basic	1 V 2	1	burner (tr)	Ø	A
+Jakarta Indonesian	116	BURN (tr)	bakar	Basic	1 V 2	2	burnt thing (tr)	Ø	P

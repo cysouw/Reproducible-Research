@@ -1,0 +1,558 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Russian	1	EAT	estʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	eater	NP-nom & V.subj	A
+Russian	1	EAT	estʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	eaten food	NP-acc	P
+Russian	1	EAT	estʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	eating instrument	NP-instr	I
+Russian	1	EAT	estʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	eater	NP-nom & V.subj	
+Russian	1	EAT	estʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	eaten food	NP-gen	
+Russian	1	EAT	estʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	eating instrument	NP-instr	
+Russian	1	EAT	estʹ	Derived	1-nom V'.subj[1] (3-instr)	1	eater	NP-nom & V.subj	
+Russian	1	EAT	estʹ	Derived	1-nom V'.subj[1] (3-instr)	3	eating instrument	NP-instr	
+Russian	1	EAT	estʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	eater	NP-instr	
+Russian	1	EAT	estʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	eaten food	NP-nom & V.subj	
+Russian	1	EAT	estʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	eating instrument	NP-instr	
+Russian	2	HUG	obnjatʹ	Basic	1-nom V.subj[1] 2-acc	1	hugger	NP-nom & V.subj	A
+Russian	2	HUG	obnjatʹ	Basic	1-nom V.subj[1] 2-acc	2	huggee	NP-acc	P
+Russian	2	HUG	obnjatʹ	Derived	1-nom V'sja.subj[1]	1	hugger	NP-nom & V.subj	
+Russian	2	HUG	obnjatʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	hugger	NP-instr	
+Russian	2	HUG	obnjatʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	huggee	NP-nom & V.subj	
+Russian	3	LOOK AT	smotretʹ	Basic	1-nom V.subj[1] na+2-acc	1	looker	NP-nom & V.subj	S
+Russian	3	LOOK AT	smotretʹ	Basic	1-nom V.subj[1] na+2-acc	2	looked at entity	na+NP-acc	X
+Russian	4	SEE	videtʹ	Basic	1-nom V.subj[1] 2-acc	1	seeer	NP-nom & V.subj	A
+Russian	4	SEE	videtʹ	Basic	1-nom V.subj[1] 2-acc	2	seen entity	NP-acc	P
+Russian	4	SEE	videtʹ	Derived	1-nom negV'.subj[1] 2-gen	1	seeer	NP-nom & V.subj	
+Russian	4	SEE	videtʹ	Derived	1-nom negV'.subj[1] 2-gen	2	seen entity	NP-gen	
+Russian	4	SEE	videtʹ	Derived	1-nom V'sja.subj[1]	1	seeer	NP-nom & V.subj	
+Russian	4	SEE	videtʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	seeer	NP-instr	
+Russian	4	SEE	videtʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	seen entity	NP-nom & V.subj	
+Russian	5	SMELL	njuxatʹ	Basic	1-nom V.subj[1] 2-acc	1	smeller	NP-nom & V.subj	A
+Russian	5	SMELL	njuxatʹ	Basic	1-nom V.subj[1] 2-acc	2	smelled entity	NP-acc	P
+Russian	5	SMELL	njuxatʹ	Derived	1-nom negV'.subj[1] 2-gen	1	smeller	NP-nom & V.subj	
+Russian	5	SMELL	njuxatʹ	Derived	1-nom negV'.subj[1] 2-gen	2	smelled entity	NP-gen	
+Russian	6	FEAR	bojatʹsja	Basic	1-nom V.subj[1] 2-acc	1	fearer	NP-nom & V.subj	A
+Russian	6	FEAR	bojatʹsja	Basic	1-nom V.subj[1] 2-acc	2	fear stimulus	NP-acc	P
+Russian	6	FEAR	bojatʹsja	Derived	1-nom V'.subj[1] 2-gen	1	fearer	NP-nom & V.subj	
+Russian	6	FEAR	bojatʹsja	Derived	1-nom V'.subj[1] 2-gen	2	fear stimulus	NP-gen	
+Russian	7	FRIGHTEN	pugatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	frightener	NP-nom & V.subj	A
+Russian	7	FRIGHTEN	pugatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	frightenee	NP-acc	P
+Russian	7	FRIGHTEN	pugatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	frightening thing/instr.	NP-instr	I
+Russian	7	FRIGHTEN	pugatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	frightener	NP-instr	
+Russian	7	FRIGHTEN	pugatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	frightenee	NP-nom & V.subj	
+Russian	7	FRIGHTEN	pugatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	frightening thing/instr.	NP-instr	
+Russian	7	FRIGHTEN	pugatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	2	frightenee	NP-nom & V.subj	
+Russian	7	FRIGHTEN	pugatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	3	frightening thing/instr.	NP-instr	
+Russian	8	LIKE	nravitʹsja	Basic	1-nom V.subj[1] 2-dat	1	liked entity	NP-nom & V.subj	S
+Russian	8	LIKE	nravitʹsja	Basic	1-nom V.subj[1] 2-dat	2	liker	NP-dat	X
+Russian	9	KNOW	znatʹ	Basic	1-nom V.subj[1] 2-acc	1	knower	NP-nom & V.subj	A
+Russian	9	KNOW	znatʹ	Basic	1-nom V.subj[1] 2-acc	2	known thing/person	NP-acc	P
+Russian	9	KNOW	znatʹ	Derived	1-nom negV'.subj[1] 2-gen	1	knower	NP-nom & V.subj	
+Russian	9	KNOW	znatʹ	Derived	1-nom negV'.subj[1] 2-gen	2	known thing/person	NP-gen	
+Russian	10	THINK	dumatʹ	Basic	1-nom V.subj[1] o+2-LOC	1	thinker	NP-nom & V.subj	S
+Russian	10	THINK	dumatʹ	Basic	1-nom V.subj[1] o+2-LOC	2	thought content	o+NP-loc	X
+Russian	10	THINK	dumatʹ	Derived	1-nom V'.subj[1] 3-acc	1	thinker	NP-nom & V.subj	
+Russian	10	THINK	dumatʹ	Derived	1-nom V'.subj[1] 3-acc	3	thought (abstract)	NP-acc	
+Russian	11	SEARCH FOR	iskatʹ	Basic	1-nom V.subj[1] 2-acc	1	searcher	NP-nom & V.subj	A
+Russian	11	SEARCH FOR	iskatʹ	Basic	1-nom V.subj[1] 2-acc	2	searched for thing	NP-acc	P
+Russian	11	SEARCH FOR	iskatʹ	Derived	1-nom negV'.subj[1] 2-gen	1	searcher	NP-nom & V.subj	
+Russian	11	SEARCH FOR	iskatʹ	Derived	1-nom negV'.subj[1] 2-gen	2	searched for thing	NP-gen	
+Russian	11	SEARCH FOR	iskatʹ	Derived	1-nom V'.subj[1] 2-gen	1	searcher	NP-nom & V.subj	
+Russian	11	SEARCH FOR	iskatʹ	Derived	1-nom V'.subj[1] 2-gen	2	searched for thing	NP-gen	
+Russian	12	WASH	mytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	washer	NP-nom & V.subj	A
+Russian	12	WASH	mytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	washed entity	NP-acc	P
+Russian	12	WASH	mytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	washing instrument	NP-instr	I
+Russian	12	WASH	mytʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	washer	NP-nom & V.subj	
+Russian	12	WASH	mytʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	washed entity	NP-gen	
+Russian	12	WASH	mytʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	washing instrument	NP-instr	
+Russian	12	WASH	mytʹ	Derived	1-nom V'sja.subj[1] (3-instr)	1	washer	NP-nom & V.subj	
+Russian	12	WASH	mytʹ	Derived	1-nom V'sja.subj[1] (3-instr)	3	washing instrument	NP-instr	
+Russian	12	WASH	mytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	washer	NP-instr	
+Russian	12	WASH	mytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	washed entity	NP-nom & V.subj	
+Russian	12	WASH	mytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	washing instrument	NP-instr	
+Russian	12	WASH	mytʹ	Derived	2-nom V'sja.subj[2] (3-instr)	2	washed entity	NP-nom & V.subj	
+Russian	12	WASH	mytʹ	Derived	2-nom V'sja.subj[2] (3-instr)	3	washing instrument	NP-instr	
+Russian	13	DRESS	odetʹ	Basic	1-nom V.subj[1] 2-acc (v+3-acc)	1	dresser	NP-nom & V.subj	A
+Russian	13	DRESS	odetʹ	Basic	1-nom V.subj[1] 2-acc (v+3-acc)	2	dressee	NP-acc	P
+Russian	13	DRESS	odetʹ	Basic	1-nom V.subj[1] 2-acc (v+3-acc)	3	clothes	v+NP-acc	X
+Russian	13	DRESS	odetʹ	Derived	1-nom negV'.subj[1] 2-gen (v+3-acc)	1	dresser	NP-nom & V.subj	
+Russian	13	DRESS	odetʹ	Derived	1-nom negV'.subj[1] 2-gen (v+3-acc)	2	dressee	NP-gen	
+Russian	13	DRESS	odetʹ	Derived	1-nom negV'.subj[1] 2-gen (v+3-acc)	3	clothes	v+NP-acc	
+Russian	13	DRESS	odetʹ	Derived	1-nom V'sja.subj[1] (v+3-acc)	1	dresser	NP-nom & V.subj	
+Russian	13	DRESS	odetʹ	Derived	1-nom V'sja.subj[1] (v+3-acc)	3	clothes	v+NP-acc	
+Russian	13	DRESS	odetʹ	Derived	2-nom passV'.subj[2] (v+3-acc) (1-instr)	1	dresser	NP-instr	
+Russian	13	DRESS	odetʹ	Derived	2-nom passV'.subj[2] (v+3-acc) (1-instr)	2	dressee	NP-nom & V.subj	
+Russian	13	DRESS	odetʹ	Derived	2-nom passV'.subj[2] (v+3-acc) (1-instr)	3	clothes	v+NP-acc	
+Russian	14	SHAVE (a body part/person)	britʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	shaver (of body part)	NP-nom & V.subj	A
+Russian	14	SHAVE (a body part/person)	britʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	shaved body part	NP-acc	P
+Russian	14	SHAVE (a body part/person)	britʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	shaving instrument	NP-instr	I
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	shaver (of body part)	NP-nom & V.subj	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	shaved body part	NP-gen	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	shaving instrument	NP-instr	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	1-nom V'sja.subj[1] (3-instr)	1	shaver (of body part)	NP-nom & V.subj	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	1-nom V'sja.subj[1] (3-instr)	3	shaving instrument	NP-instr	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	shaver (of body part)	NP-instr	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	shaved body part	NP-nom & V.subj	
+Russian	14	SHAVE (a body part/person)	britʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	shaving instrument	NP-instr	
+Russian	15	HELP	pomočʹ	Basic	1-nom V.subj[1] 2-dat	1	helper	NP-nom & V.subj	S
+Russian	15	HELP	pomočʹ	Basic	1-nom V.subj[1] 2-dat	2	helpee	NP-dat	X
+Russian	16	FOLLOW	sledovatʹ	Basic	1-nom V.subj[1] za+2-instr	1	follower	NP-nom & V.subj	S
+Russian	16	FOLLOW	sledovatʹ	Basic	1-nom V.subj[1] za+2-instr	2	followee	za+NP-instr	X
+Russian	17	MEET	vstretitʹ	Basic	1-nom V.subj[1] 2-acc	1	meeter	NP-nom & V.subj	A
+Russian	17	MEET	vstretitʹ	Basic	1-nom V.subj[1] 2-acc	2	met person	NP-acc	P
+Russian	17	MEET	vstretitʹ	Derived	1-nom negV'.subj[1] 2-gen	1	meeter	NP-nom & V.subj	
+Russian	17	MEET	vstretitʹ	Derived	1-nom negV'.subj[1] 2-gen	2	met person	NP-gen	
+Russian	17	MEET	vstretitʹ	Derived	1-nom V'sja.subj[1]	1	meeter	NP-nom & V.subj	
+Russian	17	MEET	vstretitʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	meeter	NP-instr	
+Russian	17	MEET	vstretitʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	met person	NP-nom & V.subj	
+Russian	18	TALK	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	1	talker	NP-nom & V.subj	S
+Russian	18	TALK	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	2	talked to person	NP-dat	X
+Russian	18	TALK	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	3	talked about content	UTT	X
+Russian	18	TALK	govoritʹ	Derived	1-nom V'.subj[1] s+2-instr	1	talker	NP-nom & V.subj	
+Russian	18	TALK	govoritʹ	Derived	1-nom V'.subj[1] s+2-instr	2	talked to person	s+NP-instr	
+Russian	19	ASK FOR	prositʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	1	asker	NP-nom & V.subj	A
+Russian	19	ASK FOR	prositʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	2	requested thing	NP-acc	P
+Russian	19	ASK FOR	prositʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	3	askee	u+NP-gen	X
+Russian	19	ASK FOR	prositʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	1	asker	NP-nom & V.subj	
+Russian	19	ASK FOR	prositʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	2	requested thing	NP-gen	
+Russian	19	ASK FOR	prositʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	3	askee	u+NP-gen	
+Russian	20	SHOUT AT	kričatʹ	Basic	1-nom V.subj[1] na+2-acc	1	shouter	NP-nom & V.subj	S
+Russian	20	SHOUT AT	kričatʹ	Basic	1-nom V.subj[1] na+2-acc	2	shoutee	na+NP-acc	X
+Russian	21	TELL	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	1	teller	NP-nom & V.subj	S
+Russian	21	TELL	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	2	tellee	NP-dat	X
+Russian	21	TELL	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	3	told content	UTT	X
+Russian	22	SAY	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	1	sayer	NP-nom & V.subj	S
+Russian	22	SAY	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	2	saying addressee	NP-dat	X
+Russian	22	SAY	govoritʹ	Basic	1-nom V.subj[1] 2-dat UTT3	3	said content	UTT	X
+Russian	22	SAY	govoritʹ	Derived	1-nom V'.subj[1] s+2-instr	1	sayer	NP-nom & V.subj	
+Russian	22	SAY	govoritʹ	Derived	1-nom V'.subj[1] s+2-instr	2	saying addressee	s+NP-instr	
+Russian	22	SAY	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	1	sayer	NP-nom & V.subj	S
+Russian	22	SAY	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	2	saying addressee	NP-dat	X
+Russian	22	SAY	skazatʹ	Basic	1-nom V.subj[1] 2-dat UTT3	3	said content	UTT	X
+Russian	23	NAME	nazvatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	namer	NP-nom & V.subj	A
+Russian	23	NAME	nazvatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	namee	NP-acc	P
+Russian	23	NAME	nazvatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	name	NP-instr	I
+Russian	23	NAME	nazvatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	namer	NP-instr	
+Russian	23	NAME	nazvatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	namee	NP-nom & V.subj	
+Russian	23	NAME	nazvatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	name	NP-instr	
+Russian	24	BUILD	stroitʹ	Basic	1-nom V.subj[1] 2-acc (iz+3-gen)	1	builder	NP-nom & V.subj	A
+Russian	24	BUILD	stroitʹ	Basic	1-nom V.subj[1] 2-acc (iz+3-gen)	2	built thing	NP-acc	P
+Russian	24	BUILD	stroitʹ	Basic	1-nom V.subj[1] 2-acc (iz+3-gen)	3	building material	iz+NP-gen	X
+Russian	24	BUILD	stroitʹ	Derived	1-nom negV'.subj[1] 2-gen (iz+3-gen)	1	builder	NP-nom & V.subj	
+Russian	24	BUILD	stroitʹ	Derived	1-nom negV'.subj[1] 2-gen (iz+3-gen)	2	built thing	NP-gen	
+Russian	24	BUILD	stroitʹ	Derived	1-nom negV'.subj[1] 2-gen (iz+3-gen)	3	building material	iz+NP-gen	
+Russian	24	BUILD	stroitʹ	Derived	2-nom passV'.subj[2] (iz+3-gen) (1-instr)	1	builder	NP-instr	
+Russian	24	BUILD	stroitʹ	Derived	2-nom passV'.subj[2] (iz+3-gen) (1-instr)	2	built thing	NP-nom & V.subj	
+Russian	24	BUILD	stroitʹ	Derived	2-nom passV'.subj[2] (iz+3-gen) (1-instr)	3	building material	iz+NP-gen	
+Russian	24	BUILD	stroitʹ	Derived	2-nom V'sja.subj[2] iz+3-gen (1-instr)	1	builder	NP-instr	
+Russian	24	BUILD	stroitʹ	Derived	2-nom V'sja.subj[2] iz+3-gen (1-instr)	2	built thing	NP-nom & V.subj	
+Russian	24	BUILD	stroitʹ	Derived	2-nom V'sja.subj[2] iz+3-gen (1-instr)	3	building material	iz+NP-gen	
+Russian	25	BREAK	slomatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	breaker	NP-nom & V.subj	A
+Russian	25	BREAK	slomatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	broken thing	NP-acc	P
+Russian	25	BREAK	slomatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	breaking instrument	NP-instr	I
+Russian	25	BREAK	slomatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	breaker	NP-nom & V.subj	
+Russian	25	BREAK	slomatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	broken thing	NP-gen	
+Russian	25	BREAK	slomatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	breaking instrument	NP-instr	
+Russian	25	BREAK	slomatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	breaker	NP-instr	
+Russian	25	BREAK	slomatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	broken thing	NP-nom & V.subj	
+Russian	25	BREAK	slomatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	breaking instrument	NP-instr	
+Russian	25	BREAK	slomatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	2	broken thing	NP-nom & V.subj	
+Russian	25	BREAK	slomatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	3	breaking instrument	NP-instr	
+Russian	25	BREAK	slomatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	1	breaker	NP-instr	
+Russian	25	BREAK	slomatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	2	broken thing	NP-nom & V.subj	
+Russian	25	BREAK	slomatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	3	breaking instrument	NP-instr	
+Russian	26	KILL	ubitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	killer	NP-nom & V.subj	A
+Russian	26	KILL	ubitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	killee	NP-acc	P
+Russian	26	KILL	ubitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	killing instrument	NP-instr	I
+Russian	26	KILL	ubitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	killer	NP-instr	
+Russian	26	KILL	ubitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	killee	NP-nom & V.subj	
+Russian	26	KILL	ubitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	killing instrument	NP-instr	
+Russian	26	KILL	ubitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	1	killer	NP-instr	
+Russian	26	KILL	ubitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	2	killee	NP-nom & V.subj	
+Russian	26	KILL	ubitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	3	killing instrument	NP-instr	
+Russian	27	BEAT	bitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	beater	NP-nom & V.subj	A
+Russian	27	BEAT	bitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	beatee	NP-acc	P
+Russian	27	BEAT	bitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	beating instrument	NP-instr	I
+Russian	27	BEAT	bitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	beater	NP-nom & V.subj	
+Russian	27	BEAT	bitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	beatee	NP-gen	
+Russian	27	BEAT	bitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	beating instrument	NP-instr	
+Russian	27	BEAT	bitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	beater	NP-instr	
+Russian	27	BEAT	bitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	beatee	NP-nom & V.subj	
+Russian	27	BEAT	bitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	beating instrument	NP-instr	
+Russian	28	HIT	udaritʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	hitter	NP-nom & V.subj	A
+Russian	28	HIT	udaritʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	hittee	NP-acc	P
+Russian	28	HIT	udaritʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	hitting instrument	NP-instr	I
+Russian	28	HIT	udaritʹ	Derived	1-nom V'sja.subj[1] (3-instr)	1	hitter	NP-nom & V.subj	
+Russian	28	HIT	udaritʹ	Derived	1-nom V'sja.subj[1] (3-instr)	3	hitting instrument	NP-instr	
+Russian	28	HIT	udaritʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	hitter	NP-instr	
+Russian	28	HIT	udaritʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	hittee	NP-nom & V.subj	
+Russian	28	HIT	udaritʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	hitting instrument	NP-instr	
+Russian	29	TOUCH	kosnutʹsja	Basic	1-nom V.subj[1] 2-gen (3-instr)	1	toucher	NP-nom & V.subj	S
+Russian	29	TOUCH	kosnutʹsja	Basic	1-nom V.subj[1] 2-gen (3-instr)	2	touchee	NP-gen	X
+Russian	29	TOUCH	kosnutʹsja	Basic	1-nom V.subj[1] 2-gen (3-instr)	3	touching instrument	NP-instr	I
+Russian	29	TOUCH	kosnutʹsja	Derived	3-nom V'.subj[3] 2-gen	2	touchee	NP-gen	
+Russian	29	TOUCH	kosnutʹsja	Derived	3-nom V'.subj[3] 2-gen	3	touching instrument	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	cutter	NP-nom & V.subj	A
+Russian	30	CUT	rezatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	cut thing	NP-acc	P
+Russian	30	CUT	rezatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	cutting instrument	NP-instr	I
+Russian	30	CUT	rezatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	cutter	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	cut thing	NP-gen	
+Russian	30	CUT	rezatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	cutting instrument	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	1-nom V'sja.subj[1] (3-instr)	1	cutter	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Derived	1-nom V'sja.subj[1] (3-instr)	3	cutting instrument	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	cutter	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	cut thing	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	cutting instrument	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	2	cut thing	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Derived	2-nom V'sja.subj[2] (3-instr)	3	cutting instrument	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	1	cutter	NP-instr	
+Russian	30	CUT	rezatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	2	cut thing	NP-nom & V.subj	
+Russian	30	CUT	rezatʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	3	cutting instrument	NP-instr	
+Russian	31	TAKE	vzjatʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	1	taker	NP-nom & V.subj	A
+Russian	31	TAKE	vzjatʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	2	taken thing	NP-acc	P
+Russian	31	TAKE	vzjatʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	3	taking source	u+NP-gen	X
+Russian	31	TAKE	vzjatʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	1	taker	NP-nom & V.subj	
+Russian	31	TAKE	vzjatʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	2	taken thing	NP-gen	
+Russian	31	TAKE	vzjatʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	3	taking source	u+NP-gen	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	1	taker	NP-instr	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	2	taken thing	NP-nom & V.subj	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	3	taking source	u+NP-gen	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	1	taker	NP-instr	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	2	taken thing	NP-nom & V.subj	
+Russian	31	TAKE	vzjatʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	3	taking source	u+NP-gen	
+Russian	32	TEAR	otorvatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	1	tearer	NP-nom & V.subj	A
+Russian	32	TEAR	otorvatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	2	torn thing	NP-acc	P
+Russian	32	TEAR	otorvatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	3	tearing source	ot+NP-gen	X
+Russian	32	TEAR	otorvatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	1	tearer	NP-nom & V.subj	
+Russian	32	TEAR	otorvatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	2	torn thing	NP-gen	
+Russian	32	TEAR	otorvatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	3	tearing source	ot+NP-gen	
+Russian	32	TEAR	otorvatʹ	Derived	1-nom obV'.subj[1] 3-acc	1	tearer	NP-nom & V.subj	
+Russian	32	TEAR	otorvatʹ	Derived	1-nom obV'.subj[1] 3-acc	3	tearing source	NP-acc	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	1	tearer	NP-instr	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	2	torn thing	NP-nom & V.subj	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	3	tearing source	ot+NP-gen	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen)	2	torn thing	NP-nom & V.subj	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen)	3	tearing source	ot+NP-gen	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	1	tearer	NP-instr	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	2	torn thing	NP-nom & V.subj	
+Russian	32	TEAR	otorvatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	3	tearing source	ot+NP-gen	
+Russian	33	PEEL	očistitʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	1	peeler	NP-nom & V.subj	A
+Russian	33	PEEL	očistitʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	2	peeled object	NP-acc	P
+Russian	33	PEEL	očistitʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	3	peel	ot+NP-gen	X
+Russian	33	PEEL	očistitʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	1	peeler	NP-nom & V.subj	
+Russian	33	PEEL	očistitʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	2	peeled object	NP-gen	
+Russian	33	PEEL	očistitʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	3	peel	ot+NP-gen	
+Russian	33	PEEL	očistitʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	1	peeler	NP-instr	
+Russian	33	PEEL	očistitʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	2	peeled object	NP-nom & V.subj	
+Russian	33	PEEL	očistitʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	3	peel	ot+NP-gen	
+Russian	34	HIDE	sprjatatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	1	hider	NP-nom & V.subj	A
+Russian	34	HIDE	sprjatatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	2	hidden thing	NP-acc	P
+Russian	34	HIDE	sprjatatʹ	Basic	1-nom V.subj[1] 2-acc (ot+3-gen)	3	hiding affectee	ot+NP-gen	X
+Russian	34	HIDE	sprjatatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	1	hider	NP-nom & V.subj	
+Russian	34	HIDE	sprjatatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	2	hidden thing	NP-gen	
+Russian	34	HIDE	sprjatatʹ	Derived	1-nom negV'.subj[1] 2-gen (ot+3-gen)	3	hiding affectee	ot+NP-gen	
+Russian	34	HIDE	sprjatatʹ	Derived	1-nom V'sja.subj[1] (ot+3-gen)	1	hider	NP-nom & V.subj	
+Russian	34	HIDE	sprjatatʹ	Derived	1-nom V'sja.subj[1] (ot+3-gen)	3	hiding affectee	ot+NP-gen	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	1	hider	NP-instr	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	2	hidden thing	NP-nom & V.subj	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom passV'.subj[2] (ot+3-gen) (1-instr)	3	hiding affectee	ot+NP-gen	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	1	hider	NP-instr	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	2	hidden thing	NP-nom & V.subj	
+Russian	34	HIDE	sprjatatʹ	Derived	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)	3	hiding affectee	ot+NP-gen	
+Russian	35	SHOW	pokazatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	1	shower	NP-nom & V.subj	A
+Russian	35	SHOW	pokazatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	2	shown thing	NP-acc	P
+Russian	35	SHOW	pokazatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	3	showing addressee	NP-dat	X
+Russian	35	SHOW	pokazatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	1	shower	NP-nom & V.subj	
+Russian	35	SHOW	pokazatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	2	shown thing	NP-gen	
+Russian	35	SHOW	pokazatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	3	showing addressee	NP-dat	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	1	shower	NP-instr	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	2	shown thing	NP-nom & V.subj	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	3	showing addressee	NP-dat	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	1	shower	NP-instr	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	2	shown thing	NP-nom & V.subj	
+Russian	35	SHOW	pokazatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	3	showing addressee	NP-dat	
+Russian	36	GIVE	datʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	1	giver	NP-nom & V.subj	A
+Russian	36	GIVE	datʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	2	gift	NP-acc	P
+Russian	36	GIVE	datʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	3	giving recipient	NP-dat	X
+Russian	36	GIVE	datʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	1	giver	NP-nom & V.subj	
+Russian	36	GIVE	datʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	2	gift	NP-gen	
+Russian	36	GIVE	datʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	3	giving recipient	NP-dat	
+Russian	36	GIVE	datʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	1	giver	NP-instr	
+Russian	36	GIVE	datʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	2	gift	NP-nom & V.subj	
+Russian	36	GIVE	datʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	3	giving recipient	NP-dat	
+Russian	36	GIVE	datʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	1	giver	NP-instr	
+Russian	36	GIVE	datʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	2	gift	NP-nom & V.subj	
+Russian	36	GIVE	datʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	3	giving recipient	NP-dat	
+Russian	37	SEND	poslatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	1	sender	NP-nom & V.subj	A
+Russian	37	SEND	poslatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	2	sent thing	NP-acc	P
+Russian	37	SEND	poslatʹ	Basic	1-nom V.subj[1] 2-acc 3-dat	3	sending recipient	NP-dat	X
+Russian	37	SEND	poslatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	1	sender	NP-nom & V.subj	
+Russian	37	SEND	poslatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	2	sent thing	NP-gen	
+Russian	37	SEND	poslatʹ	Derived	1-nom negV'.subj[1] 2-gen 3-dat	3	sending recipient	NP-dat	
+Russian	37	SEND	poslatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	1	sender	NP-instr	
+Russian	37	SEND	poslatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	2	sent thing	NP-nom & V.subj	
+Russian	37	SEND	poslatʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	3	sending recipient	NP-dat	
+Russian	37	SEND	poslatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	1	sender	NP-instr	
+Russian	37	SEND	poslatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	2	sent thing	NP-nom & V.subj	
+Russian	37	SEND	poslatʹ	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	3	sending recipient	NP-dat	
+Russian	38	CARRY	nesti	Basic	1-nom V.subj[1] 2-acc LOC3	1	carrier	NP-nom & V.subj	A
+Russian	38	CARRY	nesti	Basic	1-nom V.subj[1] 2-acc LOC3	2	carried thing	NP-acc	P
+Russian	38	CARRY	nesti	Basic	1-nom V.subj[1] 2-acc LOC3	3	carrying goal	LOC	L
+Russian	38	CARRY	nesti	Derived	1-nom negV'.subj[1] 2-gen LOC3	1	carrier	NP-nom & V.subj	
+Russian	38	CARRY	nesti	Derived	1-nom negV'.subj[1] 2-gen LOC3	2	carried thing	NP-gen	
+Russian	38	CARRY	nesti	Derived	1-nom negV'.subj[1] 2-gen LOC3	3	carrying goal	LOC	
+Russian	38	CARRY	nesti	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	1	carrier	NP-instr	
+Russian	38	CARRY	nesti	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	2	carried thing	NP-nom & V.subj	
+Russian	38	CARRY	nesti	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	3	carrying goal	LOC	
+Russian	38	CARRY	nesti	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	1	carrier	NP-instr	
+Russian	38	CARRY	nesti	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	2	carried thing	NP-nom & V.subj	
+Russian	38	CARRY	nesti	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	3	carrying goal	LOC	
+Russian	39	THROW	brositʹ	Basic	1-nom V.subj[1] 2-acc LOC3	1	thrower	NP-nom & V.subj	A
+Russian	39	THROW	brositʹ	Basic	1-nom V.subj[1] 2-acc LOC3	2	thrown thing	NP-acc	P
+Russian	39	THROW	brositʹ	Basic	1-nom V.subj[1] 2-acc LOC3	3	throwing goal	LOC	L
+Russian	39	THROW	brositʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	1	thrower	NP-nom & V.subj	
+Russian	39	THROW	brositʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	2	thrown thing	NP-gen	
+Russian	39	THROW	brositʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	3	throwing goal	LOC	
+Russian	39	THROW	brositʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	1	thrower	NP-nom & V.subj	
+Russian	39	THROW	brositʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	2	thrown thing	NP-instr	
+Russian	39	THROW	brositʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	3	throwing goal	NP-acc	
+Russian	39	THROW	brositʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	1	thrower	NP-instr	
+Russian	39	THROW	brositʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	2	thrown thing	NP-nom & V.subj	
+Russian	39	THROW	brositʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	3	throwing goal	LOC	
+Russian	39	THROW	brositʹ	Derived	2-nom V'sja.subj[2] LOC3	2	thrown thing	NP-nom & V.subj	
+Russian	39	THROW	brositʹ	Derived	2-nom V'sja.subj[2] LOC3	3	throwing goal	LOC	
+Russian	40	TIE	privjazatʹ	Basic	1-nom V.subj[1] 2-acc k+3-dat (4-instr)	1	tier	NP-nom & V.subj	A
+Russian	40	TIE	privjazatʹ	Basic	1-nom V.subj[1] 2-acc k+3-dat (4-instr)	2	tied thing	NP-acc	P
+Russian	40	TIE	privjazatʹ	Basic	1-nom V.subj[1] 2-acc k+3-dat (4-instr)	3	tying goal	k+NP-dat	X
+Russian	40	TIE	privjazatʹ	Basic	1-nom V.subj[1] 2-acc k+3-dat (4-instr)	4	tying instrument	NP-instr	I
+Russian	40	TIE	privjazatʹ	Derived	1-nom negV'.subj[1] 2-gen k+3-dat (4-instr)	1	tier	NP-nom & V.subj	
+Russian	40	TIE	privjazatʹ	Derived	1-nom negV'.subj[1] 2-gen k+3-dat (4-instr)	2	tied thing	NP-gen	
+Russian	40	TIE	privjazatʹ	Derived	1-nom negV'.subj[1] 2-gen k+3-dat (4-instr)	3	tying goal	k+NP-dat	
+Russian	40	TIE	privjazatʹ	Derived	1-nom negV'.subj[1] 2-gen k+3-dat (4-instr)	4	tying instrument	NP-instr	
+Russian	40	TIE	privjazatʹ	Derived	1-nom obV'.subj[1] 3-acc (4-instr)	1	tier	NP-nom & V.subj	
+Russian	40	TIE	privjazatʹ	Derived	1-nom obV'.subj[1] 3-acc (4-instr)	3	tying goal	NP-acc	
+Russian	40	TIE	privjazatʹ	Derived	1-nom obV'.subj[1] 3-acc (4-instr)	4	tying instrument	NP-instr	
+Russian	40	TIE	privjazatʹ	Derived	2-nom passV'.subj[2] k+3-dat (4-instr)/(1-instr)	1	tier	NP-instr	
+Russian	40	TIE	privjazatʹ	Derived	2-nom passV'.subj[2] k+3-dat (4-instr)/(1-instr)	2	tied thing	NP-nom & V.subj	
+Russian	40	TIE	privjazatʹ	Derived	2-nom passV'.subj[2] k+3-dat (4-instr)/(1-instr)	3	tying goal	k+NP-dat	
+Russian	40	TIE	privjazatʹ	Derived	2-nom passV'.subj[2] k+3-dat (4-instr)/(1-instr)	4	tying instrument	NP-instr	
+Russian	41	PUT	položitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	1	putter	NP-nom & V.subj	A
+Russian	41	PUT	položitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	2	put thing	NP-acc	P
+Russian	41	PUT	položitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	3	putting goal	LOC	L
+Russian	41	PUT	položitʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	1	putter	NP-nom & V.subj	
+Russian	41	PUT	položitʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	2	put thing	NP-gen	
+Russian	41	PUT	položitʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	3	putting goal	LOC	
+Russian	41	PUT	položitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	1	putter	NP-nom & V.subj	
+Russian	41	PUT	položitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	2	put thing	NP-instr	
+Russian	41	PUT	položitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	3	putting goal	NP-acc	
+Russian	41	PUT	položitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	1	putter	NP-instr	
+Russian	41	PUT	položitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	2	put thing	NP-nom & V.subj	
+Russian	41	PUT	položitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	3	putting goal	LOC	
+Russian	41	PUT	položitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	1	putter	NP-instr	
+Russian	41	PUT	položitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	2	put thing	NP-nom & V.subj	
+Russian	41	PUT	položitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	3	putting goal	LOC	
+Russian	42	POUR	litʹ	Basic	1-nom V.subj[1] 2-acc LOC3	1	pourer	NP-nom & V.subj	A
+Russian	42	POUR	litʹ	Basic	1-nom V.subj[1] 2-acc LOC3	2	poured substance	NP-acc	P
+Russian	42	POUR	litʹ	Basic	1-nom V.subj[1] 2-acc LOC3	3	pouring goal	LOC	L
+Russian	42	POUR	litʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	1	pourer	NP-nom & V.subj	
+Russian	42	POUR	litʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	2	poured substance	NP-gen	
+Russian	42	POUR	litʹ	Derived	1-nom negV'.subj[1] 2-gen LOC3	3	pouring goal	LOC	
+Russian	42	POUR	litʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	1	pourer	NP-nom & V.subj	
+Russian	42	POUR	litʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	2	poured substance	NP-instr	
+Russian	42	POUR	litʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	3	pouring goal	NP-acc	
+Russian	42	POUR	litʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	1	pourer	NP-instr	
+Russian	42	POUR	litʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	2	poured substance	NP-nom & V.subj	
+Russian	42	POUR	litʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	3	pouring goal	LOC	
+Russian	42	POUR	litʹ	Derived	2-nom V'sja.subj[2] LOC3	2	poured substance	NP-nom & V.subj	
+Russian	42	POUR	litʹ	Derived	2-nom V'sja.subj[2] LOC3	3	pouring goal	LOC	
+Russian	42	POUR	litʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	1	pourer	NP-instr	
+Russian	42	POUR	litʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	2	poured substance	NP-nom & V.subj	
+Russian	42	POUR	litʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	3	pouring goal	LOC	
+Russian	43	COVER	nakrytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	coverer	NP-nom & V.subj	A
+Russian	43	COVER	nakrytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	covered thing	NP-acc	P
+Russian	43	COVER	nakrytʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	cover	NP-instr	I
+Russian	43	COVER	nakrytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	coverer	NP-instr	
+Russian	43	COVER	nakrytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	covered thing	NP-nom & V.subj	
+Russian	43	COVER	nakrytʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	cover	NP-instr	
+Russian	43	COVER	nakrytʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	1	coverer	NP-instr	
+Russian	43	COVER	nakrytʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	2	covered thing	NP-nom & V.subj	
+Russian	43	COVER	nakrytʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	3	cover	NP-instr	
+Russian	44	FILL	napolnitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	filler	NP-nom & V.subj	A
+Russian	44	FILL	napolnitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	filled container	NP-acc	P
+Russian	44	FILL	napolnitʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	filling material	NP-instr	I
+Russian	44	FILL	napolnitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	filler	NP-nom & V.subj	
+Russian	44	FILL	napolnitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	filled container	NP-gen	
+Russian	44	FILL	napolnitʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	filling material	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	filler	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	filled container	NP-nom & V.subj	
+Russian	44	FILL	napolnitʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	filling material	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	2-nom V'sja.subj[2] (3-instr)	2	filled container	NP-nom & V.subj	
+Russian	44	FILL	napolnitʹ	Derived	2-nom V'sja.subj[2] (3-instr)	3	filling material	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	1	filler	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	2	filled container	NP-nom & V.subj	
+Russian	44	FILL	napolnitʹ	Derived	2-nom V'sja.subj[2] (3-instr)/(1-instr)	3	filling material	NP-instr	
+Russian	44	FILL	napolnitʹ	Derived	3-nom V'.subj[3] 2-acc	2	filled container	NP-acc	
+Russian	44	FILL	napolnitʹ	Derived	3-nom V'.subj[3] 2-acc	3	filling material	NP-nom & V.subj	
+Russian	45	LOAD	nagruzitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	1	loader	NP-nom & V.subj	A
+Russian	45	LOAD	nagruzitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	2	loaded thing	NP-acc	P
+Russian	45	LOAD	nagruzitʹ	Basic	1-nom V.subj[1] 2-acc LOC3	3	loading place	LOC	L
+Russian	45	LOAD	nagruzitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	1	loader	NP-nom & V.subj	
+Russian	45	LOAD	nagruzitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	2	loaded thing	NP-instr	
+Russian	45	LOAD	nagruzitʹ	Derived	1-nom zaV'.subj[1] 3-acc 2-instr	3	loading place	NP-acc	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	1	loader	NP-instr	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	2	loaded thing	NP-nom & V.subj	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom passV'.subj[2] LOC3 (1-instr)	3	loading place	LOC	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	1	loader	NP-instr	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	2	loaded thing	NP-nom & V.subj	
+Russian	45	LOAD	nagruzitʹ	Derived	2-nom V'sja.subj[2] LOC3 (1-instr)	3	loading place	LOC	
+Russian	46	BLINK	morgnutʹ	Basic	1-nom V.subj[1]	1	blinker	NP-nom & V.subj	S
+Russian	47	COUGH	kašljatʹ	Basic	1-nom V.subj[1]	1	cougher	NP-nom & V.subj	S
+Russian	48	CLIMB	vzobratʹsja	Basic	1-nom V.subj[1] na+2-acc	1	climber	NP-nom & V.subj	S
+Russian	48	CLIMB	vzobratʹsja	Basic	1-nom V.subj[1] na+2-acc	2	climbing goal	na+NP-acc	X
+Russian	49	RUN	bežatʹ	Basic	1-nom V.subj[1] (LOC2)	1	runner	NP-nom & V.subj	S
+Russian	49	RUN	bežatʹ	Basic	1-nom V.subj[1] (LOC2)	2	running place	LOC	L
+Russian	49	RUN	bežatʹ	Derived	(1-dat) V'sja.subj	1	runner	NP-dat & V.subj	
+Russian	50	SIT	sidetʹ	Basic	1-nom V.subj[1] (LOC2)	1	sitter	NP-nom & V.subj	S
+Russian	50	SIT	sidetʹ	Basic	1-nom V.subj[1] (LOC2)	2	sitting place	LOC	L
+Russian	50	SIT	sidetʹ	Derived	(1-dat) V'sja.subj	1	sitter	NP-dat & V.subj	
+Russian	51	SIT DOWN	sestʹ	Basic	1-nom V.subj[1] (LOC2)	1	sitdowner	NP-nom & V.subj	S
+Russian	51	SIT DOWN	sestʹ	Basic	1-nom V.subj[1] (LOC2)	2	sitting-down place	LOC	L
+Russian	52	JUMP	prygnutʹ	Basic	1-nom V.subj[1] (LOC2)	1	jumper	NP-nom & V.subj	S
+Russian	52	JUMP	prygnutʹ	Basic	1-nom V.subj[1] (LOC2)	2	jump location	LOC	L
+Russian	52	JUMP	prygnutʹ	Derived	(1-dat) V'sja.subj	1	jumper	NP-dat & V.subj	
+Russian	53	SING	petʹ	Basic	1-nom V.subj[1]	1	singer	NP-nom & V.subj	S
+Russian	53	SING	petʹ	Derived	(1-dat) V'sja.subj	1	singer	NP-dat & V.subj	
+Russian	53	SING	petʹ	Derived	1-nom V'.subj[1] 2-acc	1	singer	NP-nom & V.subj	
+Russian	53	SING	petʹ	Derived	1-nom V'.subj[1] 2-acc	2	song	NP-acc	
+Russian	54	GO	idti	Basic	1-nom V.subj[1] (LOC2)	1	goer	NP-nom & V.subj	S
+Russian	54	GO	idti	Basic	1-nom V.subj[1] (LOC2)	2	going goal	LOC	L
+Russian	54	GO	idti	Derived	(1-dat) V'sja.subj	1	goer	NP-dat & V.subj	
+Russian	55	LEAVE	uexatʹ	Basic	1-nom V.subj[1] (iz/ot 2-gen)	1	leaver	NP-nom & V.subj	S
+Russian	55	LEAVE	uexatʹ	Basic	1-nom V.subj[1] (iz/ot 2-gen)	2	left place/person	iz/ot+NP-gen	X
+Russian	55	LEAVE	ujti	Basic	1-nom V.subj[1] (iz/ot 2-gen)	1	leaver	NP-nom & V.subj	S
+Russian	55	LEAVE	ujti	Basic	1-nom V.subj[1] (iz/ot 2-gen)	2	left place/person	iz/ot+NP-gen	X
+Russian	56	LIVE	žitʹ	Basic	1-nom V.subj[1] (LOC2)	1	liver	NP-nom & V.subj	S
+Russian	56	LIVE	žitʹ	Basic	1-nom V.subj[1] (LOC2)	2	living place	LOC	L
+Russian	56	LIVE	žitʹ	Derived	(1-dat) V'sja.subj	1	liver	NP-dat & V.subj	
+Russian	56	LIVE	žitʹ	Derived	1-nom V'.subj[1] 3-acc (LOC2)	1	liver	NP-nom & V.subj	
+Russian	56	LIVE	žitʹ	Derived	1-nom V'.subj[1] 3-acc (LOC2)	2	living place	LOC	
+Russian	56	LIVE	žitʹ	Derived	1-nom V'.subj[1] 3-acc (LOC2)	3	life	NP-acc	
+Russian	57	LAUGH	smejatʹsja	Basic	1-nom V.subj[1]	1	laugher	NP-nom & V.subj	S
+Russian	58	SCREAM	vopit'	Basic	1-nom V.subj[1]	1	screamer	NP-nom & V.subj	S
+Russian	59	FEEL PAIN	boletʹ	Basic	1-nom V.subj[1] u+2-gen	1	pain locus	NP-nom & V.subj	S
+Russian	59	FEEL PAIN	boletʹ	Basic	1-nom V.subj[1] u+2-gen	2	pain-feeler	u+NP-gen	X
+Russian	60	FEEL COLD	mërznutʹ	Basic	1-nom V.subj[1]	1	freezing person	NP-nom & V.subj	S
+Russian	61	DIE	umeretʹ	Basic	1-nom V.subj[1]	1	dieer	NP-nom & V.subj	S
+Russian	62	PLAY	igratʹ (1)	Basic	1-nom V.subj[1] (v+2-acc)	1	player	NP-nom & V.subj	S
+Russian	62	PLAY	igratʹ (1)	Basic	1-nom V.subj[1] (v+2-acc)	2	game	v+NP-acc	X
+Russian	62	PLAY	igratʹ (1)	Derived	(1-dat) V'sja.subj	1	player	NP-dat & V.subj	
+Russian	62	PLAY	igratʹ (2)	Basic	1-nom V.subj[1] (na+2-loc)	1	player	NP-nom & V.subj	S
+Russian	62	PLAY	igratʹ (2)	Basic	1-nom V.subj[1] (na+2-loc)	2	musical instrument	na+NP-loc	I
+Russian	62	PLAY	igratʹ (2)	Derived	(1-dat) V'sja.subj	1	player	NP-dat & V.subj	
+Russian	63	BE SAD	grustitʹ	Basic	1-nom V.subj[1]	1	sad person	NP-nom & V.subj	S
+Russian	64	BE HUNGRY	bytʹ golodnym	Basic	1-nom V.subj[1]	1	hungry person	NP-nom & V.subj	S
+Russian	65	ROLL	katitʹsja	Basic	1-nom V.subj[1]	1	rolling entity	NP-nom & V.subj	S
+Russian	66	SINK	utonutʹ	Basic	1-nom V.subj[1]	1	sunken entity	NP-nom & V.subj	S
+Russian	67	BURN	goretʹ	Basic	1-nom V.subj[1]	1	burnt thing	NP-nom & V.subj	S
+Russian	71	GRIND	molotʹ	Basic	1-nom V.subj[1] 2-acc	1	grinder	NP-nom & V.subj	A
+Russian	71	GRIND	molotʹ	Basic	1-nom V.subj[1] 2-acc	2	ground thing	NP-acc	P
+Russian	71	GRIND	molotʹ	Derived	1-nom negV'.subj[1] 2-gen	1	grinder	NP-nom & V.subj	
+Russian	71	GRIND	molotʹ	Derived	1-nom negV'.subj[1] 2-gen	2	ground thing	NP-gen	
+Russian	71	GRIND	molotʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	grinder	NP-instr	
+Russian	71	GRIND	molotʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	ground thing	NP-nom & V.subj	
+Russian	71	GRIND	molotʹ	Derived	2-nom V'sja.subj[2]	2	ground thing	NP-nom & V.subj	
+Russian	72	WIPE	vyteretʹ	Basic	1-nom V.subj[1] 2-acc s+3-gen	1	wiper	NP-nom & V.subj	A
+Russian	72	WIPE	vyteretʹ	Basic	1-nom V.subj[1] 2-acc s+3-gen	2	wiped material	NP-acc	P
+Russian	72	WIPE	vyteretʹ	Basic	1-nom V.subj[1] 2-acc s+3-gen	3	wiping surface	s+NP-gen	X
+Russian	72	WIPE	vyteretʹ	Derived	1-nom negV'.subj[1] 2-gen s+3-gen	1	wiper	NP-nom & V.subj	
+Russian	72	WIPE	vyteretʹ	Derived	1-nom negV'.subj[1] 2-gen s+3-gen	2	wiped material	NP-gen	
+Russian	72	WIPE	vyteretʹ	Derived	1-nom negV'.subj[1] 2-gen s+3-gen	3	wiping surface	s+NP-gen	
+Russian	72	WIPE	vyteretʹ	Derived	1-nom obV'.subj[1] 3-acc	1	wiper	NP-nom & V.subj	
+Russian	72	WIPE	vyteretʹ	Derived	1-nom obV'.subj[1] 3-acc	3	wiping surface	NP-acc	
+Russian	72	WIPE	vyteretʹ	Derived	1-nom V'sja.subj[1]	1	wiper	NP-nom & V.subj	
+Russian	72	WIPE	vyteretʹ	Derived	2-nom V'sja.subj[2] s+3-gen (1-instr)	1	wiper	NP-instr	
+Russian	72	WIPE	vyteretʹ	Derived	2-nom V'sja.subj[2] s+3-gen (1-instr)	2	wiped material	NP-nom & V.subj	
+Russian	72	WIPE	vyteretʹ	Derived	2-nom V'sja.subj[2] s+3-gen (1-instr)	3	wiping surface	s+NP-gen	
+Russian	73	DIG	kopatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	1	digger	NP-nom & V.subj	A
+Russian	73	DIG	kopatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	2	dug hole/ground	NP-acc	P
+Russian	73	DIG	kopatʹ	Basic	1-nom V.subj[1] 2-acc (3-instr)	3	digging instrument	NP-instr	I
+Russian	73	DIG	kopatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	1	digger	NP-nom & V.subj	
+Russian	73	DIG	kopatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	2	dug hole/ground	NP-gen	
+Russian	73	DIG	kopatʹ	Derived	1-nom negV'.subj[1] 2-gen (3-instr)	3	digging instrument	NP-instr	
+Russian	73	DIG	kopatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	1	digger	NP-instr	
+Russian	73	DIG	kopatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	2	dug hole/ground	NP-nom & V.subj	
+Russian	73	DIG	kopatʹ	Derived	2-nom passV'.subj[2] (3-instr)/(1-instr)	3	digging instrument	NP-instr	
+Russian	74	PUSH	tolknutʹ	Basic	1-nom V.subj[1] 2-acc (LOC3)	1	pusher	NP-nom & V.subj	A
+Russian	74	PUSH	tolknutʹ	Basic	1-nom V.subj[1] 2-acc (LOC3)	2	pushee	NP-acc	P
+Russian	74	PUSH	tolknutʹ	Basic	1-nom V.subj[1] 2-acc (LOC3)	3	pushing goal	LOC	L
+Russian	75	BRING	prinesti	Basic	1-nom V.subj[1] 2-acc 3-dat	1	bringer	NP-nom & V.subj	A
+Russian	75	BRING	prinesti	Basic	1-nom V.subj[1] 2-acc 3-dat	2	brought thing	NP-acc	P
+Russian	75	BRING	prinesti	Basic	1-nom V.subj[1] 2-acc 3-dat	3	bringing recipient	NP-dat	X
+Russian	75	BRING	prinesti	Derived	1-nom negV'.subj[1] 2-gen 3-dat	1	bringer	NP-nom & V.subj	
+Russian	75	BRING	prinesti	Derived	1-nom negV'.subj[1] 2-gen 3-dat	2	brought thing	NP-gen	
+Russian	75	BRING	prinesti	Derived	1-nom negV'.subj[1] 2-gen 3-dat	3	bringing recipient	NP-dat	
+Russian	75	BRING	prinesti	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	1	bringer	NP-instr	
+Russian	75	BRING	prinesti	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	2	brought thing	NP-nom & V.subj	
+Russian	75	BRING	prinesti	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	3	bringing recipient	NP-dat	
+Russian	75	BRING	prinesti	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	1	bringer	NP-instr	
+Russian	75	BRING	prinesti	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	2	brought thing	NP-nom & V.subj	
+Russian	75	BRING	prinesti	Derived	2-nom V'sja.subj[2] 3-dat (1-instr)	3	bringing recipient	NP-dat	
+Russian	76	STEAL	ukrastʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	1	stealer	NP-nom & V.subj	A
+Russian	76	STEAL	ukrastʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	2	stolen thing	NP-acc	P
+Russian	76	STEAL	ukrastʹ	Basic	1-nom V.subj[1] 2-acc (u+3-gen)	3	stealing source	u+NP-gen	X
+Russian	76	STEAL	ukrastʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	1	stealer	NP-nom & V.subj	
+Russian	76	STEAL	ukrastʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	2	stolen thing	NP-gen	
+Russian	76	STEAL	ukrastʹ	Derived	1-nom negV'.subj[1] 2-gen (u+3-gen)	3	stealing source	u+NP-gen	
+Russian	76	STEAL	ukrastʹ	Derived	1-nom obV'.subj[1] 3-acc	1	stealer	NP-nom & V.subj	
+Russian	76	STEAL	ukrastʹ	Derived	1-nom obV'.subj[1] 3-acc	3	stealing source	NP-acc	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	1	stealer	NP-instr	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	2	stolen thing	NP-nom & V.subj	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom passV'.subj[2] (u+3-gen) (1-instr)	3	stealing source	u+NP-gen	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	1	stealer	NP-instr	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	2	stolen thing	NP-nom & V.subj	
+Russian	76	STEAL	ukrastʹ	Derived	2-nom V'sja.subj[2] u+3-gen (1-instr)	3	stealing source	u+NP-gen	
+Russian	77	TEACH	naučitʹ	Basic	1-nom V.subj[1] 2-acc (3-dat)	1	teacher	NP-nom & V.subj	A
+Russian	77	TEACH	naučitʹ	Basic	1-nom V.subj[1] 2-acc (3-dat)	2	teachee	NP-acc	P
+Russian	77	TEACH	naučitʹ	Basic	1-nom V.subj[1] 2-acc (3-dat)	3	taught content	NP-dat	X
+Russian	77	TEACH	naučitʹ	Derived	1-nom V'sja.subj[1] (3-dat)	1	teacher	NP-nom & V.subj	
+Russian	77	TEACH	naučitʹ	Derived	1-nom V'sja.subj[1] (3-dat)	3	taught content	NP-dat	
+Russian	77	TEACH	naučitʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	1	teacher	NP-instr	
+Russian	77	TEACH	naučitʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	2	teachee	NP-nom & V.subj	
+Russian	77	TEACH	naučitʹ	Derived	2-nom passV'.subj[2] 3-dat (1-instr)	3	taught content	NP-dat	
+Russian	77	TEACH	naučitʹ	Derived	2-nom V'sja.subj[2] 3-dat	2	teachee	NP-nom & V.subj	
+Russian	77	TEACH	naučitʹ	Derived	2-nom V'sja.subj[2] 3-dat	3	taught content	NP-dat	
+Russian	78	HEAR	uslyšatʹ	Basic	1-nom V.subj[1] 2-acc	1	hearer	NP-nom & V.subj	A
+Russian	78	HEAR	uslyšatʹ	Basic	1-nom V.subj[1] 2-acc	2	heard sound	NP-acc	P
+Russian	78	HEAR	uslyšatʹ	Derived	1-nom negV'.subj[1] 2-gen	1	hearer	NP-nom & V.subj	
+Russian	78	HEAR	uslyšatʹ	Derived	1-nom negV'.subj[1] 2-gen	2	heard sound	NP-gen	
+Russian	78	HEAR	uslyšatʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	hearer	NP-instr	
+Russian	78	HEAR	uslyšatʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	heard sound	NP-nom & V.subj	
+Russian	79	COOK	gotovitʹ	Basic	1-nom V.subj[1] 2-acc	1	cooker	NP-nom & V.subj	A
+Russian	79	COOK	gotovitʹ	Basic	1-nom V.subj[1] 2-acc	2	cooked food	NP-acc	P
+Russian	79	COOK	gotovitʹ	Derived	1-nom negV'.subj[1] 2-gen	1	cooker	NP-nom & V.subj	
+Russian	79	COOK	gotovitʹ	Derived	1-nom negV'.subj[1] 2-gen	2	cooked food	NP-gen	
+Russian	79	COOK	gotovitʹ	Derived	1-nom V'.subj[1]	1	cooker	NP-nom & V.subj	
+Russian	79	COOK	gotovitʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	cooker	NP-instr	
+Russian	79	COOK	gotovitʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	cooked food	NP-nom & V.subj	
+Russian	79	COOK	gotovitʹ	Derived	2-nom V'sja.subj[2]	2	cooked food	NP-nom & V.subj	
+Russian	79	COOK	gotovitʹ	Derived	2-nom V'sja.subj[2] (1-instr)	1	cooker	NP-instr	
+Russian	79	COOK	gotovitʹ	Derived	2-nom V'sja.subj[2] (1-instr)	2	cooked food	NP-nom & V.subj	
+Russian	79	COOK	varitʹ	Basic	1-nom V.subj[1] 2-acc	1	cooker	NP-nom & V.subj	A
+Russian	79	COOK	varitʹ	Basic	1-nom V.subj[1] 2-acc	2	cooked food	NP-acc	P
+Russian	79	COOK	varitʹ	Derived	1-nom negV'.subj[1] 2-gen	1	cooker	NP-nom & V.subj	
+Russian	79	COOK	varitʹ	Derived	1-nom negV'.subj[1] 2-gen	2	cooked food	NP-gen	
+Russian	79	COOK	varitʹ	Derived	2-nom passV'.subj[2] (1-instr)	1	cooker	NP-instr	
+Russian	79	COOK	varitʹ	Derived	2-nom passV'.subj[2] (1-instr)	2	cooked food	NP-nom & V.subj	
+Russian	79	COOK	varitʹ	Derived	2-nom V'sja.subj[2]	2	cooked food	NP-nom & V.subj	
+Russian	80	BOIL	kipetʹ	Basic	1-nom V.subj[1]	1	boiled thing	NP-nom & V.subj	S
+Russian	81	APPEAR	pojavitʹsja	Basic	1-nom V.subj[1] (LOC2)	1	appearer	NP-nom & V.subj	S
+Russian	81	APPEAR	pojavitʹsja	Basic	1-nom V.subj[1] (LOC2)	2	appear location	LOC	L
+Russian	84	FALL	upastʹ	Basic	1-nom V.subj[1] (LOC2)	1	fallee	NP-nom & V.subj	S
+Russian	84	FALL	upastʹ	Basic	1-nom V.subj[1] (LOC2)	2	fall goal	LOC	L
+Russian	91	REMEMBER	zapomnitʹ	Basic	1-nom V.subj[1] 2-acc	1	rememberer	NP-nom & V.subj	A
+Russian	91	REMEMBER	zapomnitʹ	Basic	1-nom V.subj[1] 2-acc	2	remembered thing	NP-acc	P
+Russian	91	REMEMBER	zapomnitʹ	Derived	1-nom negV'.subj[1] 2-gen	1	rememberer	NP-nom & V.subj	
+Russian	91	REMEMBER	zapomnitʹ	Derived	1-nom negV'.subj[1] 2-gen	2	remembered thing	NP-gen	
+Russian	91	REMEMBER	zapomnitʹ	Derived	2-nom V'sja.subj[2]	2	remembered thing	NP-nom & V.subj	
+Russian	93	HUNT (FOR)	oxotitʹsja	Basic	1-nom V.subj[1] na+2-acc	1	hunter	NP-nom & V.subj	S
+Russian	93	HUNT (FOR)	oxotitʹsja	Basic	1-nom V.subj[1] na+2-acc	2	hunted thing	na+NP-acc	X
+Russian	100	DROWN	utonutʹ	Basic	1-nom V.subj[1]	1	drowned thing/person	NP-nom & V.subj	S
+Russian	112	COME (2)	prijti	Basic	1-nom V.subj[1] (LOC2)	1	coming person/thing	NP-nom & V.subj	S
+Russian	112	COME (2)	prijti	Basic	1-nom V.subj[1] (LOC2)	2	come source	LOC	L

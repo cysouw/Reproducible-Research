@@ -1,0 +1,19 @@
+﻿Language_name	Gloss	Meaning
+Japanese (standard)	1	first person
+Japanese (standard)	abl	ablative
+Japanese (standard)	acc	accusative
+Japanese (standard)	com	comitative
+Japanese (standard)	dat	dative
+Japanese (standard)	dir	directional
+Japanese (standard)	gen	genitive
+Japanese (standard)	ger	gerund
+Japanese (standard)	instr	instrument
+Japanese (standard)	loc	locative
+Japanese (standard)	nom	nominative
+Japanese (standard)	past	past
+Japanese (standard)	pl	plural
+Japanese (standard)	pot	potential
+Japanese (standard)	pres	present
+Japanese (standard)	ptcp	participle
+Japanese (standard)	quot	quotation
+Japanese (standard)	sg	singular

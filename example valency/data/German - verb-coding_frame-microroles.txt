@@ -1,0 +1,486 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+German	1	EAT	essen	Basic	1-nom V.subj[1] 2-acc	1	eater	NP-nom V.subj	A
+German	1	EAT	essen	Basic	1-nom V.subj[1] 2-acc	2	eaten food	NP-acc	P
+German	1	EAT	essen	Derived	1-nom V'.subj[1]	1	eater	NP-nom V.subj	
+German	1	EAT	essen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	eater	von+NP-dat	
+German	1	EAT	essen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	eaten food	NP-nom V.subj	
+German	2	HUG	umarmen	Basic	1-nom V.subj[1] 2-acc	1	hugger	NP-nom V.subj	A
+German	2	HUG	umarmen	Basic	1-nom V.subj[1] 2-acc	2	huggee	NP-acc	P
+German	2	HUG	umarmen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	hugger	von+NP-dat	
+German	2	HUG	umarmen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	huggee	NP-nom V.subj	
+German	3	LOOK AT	anschauen	Basic	1-nom V.subj[1] 2-acc	1	looker	NP-nom V.subj	A
+German	3	LOOK AT	anschauen	Basic	1-nom V.subj[1] 2-acc	2	looked at entity	NP-acc	P
+German	3	LOOK AT	anschauen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	looker	von+NP-dat	
+German	3	LOOK AT	anschauen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	looked at entity	NP-nom V.subj	
+German	4	SEE	sehen	Basic	1-nom V.subj[1] 2-acc	1	seeer	NP-nom V.subj	A
+German	4	SEE	sehen	Basic	1-nom V.subj[1] 2-acc	2	seen entity	NP-acc	P
+German	4	SEE	sehen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	seeer	von+NP-dat	
+German	4	SEE	sehen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	seen entity	NP-nom V.subj	
+German	5	SMELL	riechen	Basic	1-nom V.subj[1] 2-acc	1	smeller	NP-nom V.subj	A
+German	5	SMELL	riechen	Basic	1-nom V.subj[1] 2-acc	2	smelled entity	NP-acc	P
+German	5	SMELL	riechen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	smeller	von+NP-dat	
+German	5	SMELL	riechen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	smelled entity	NP-nom V.subj	
+German	5	SMELL	riechen	Derived	2-nom V'.subj[2]	2	smelled entity	NP-nom V.subj	
+German	6	FEAR	Angst haben	Basic	1-nom V.subj[1] vor+2-dat	1	fearer	NP-nom V.subj	S
+German	6	FEAR	Angst haben	Basic	1-nom V.subj[1] vor+2-dat	2	fear stimulus	vor+NP-dat	X
+German	6	FEAR	Angst haben	Derived	1-nom V'.subj[1]	1	fearer	NP-nom V.subj	
+German	6	FEAR	fürchten	Basic	1-nom V.subj[1] 2-acc	1	fearer	NP-nom V.subj	A
+German	6	FEAR	fürchten	Basic	1-nom V.subj[1] 2-acc	2	fear stimulus	NP-acc	P
+German	6	FEAR	fürchten	Derived	2-nom passV'.subj[2] (von+1-dat)	1	fearer	von+NP-dat	
+German	6	FEAR	fürchten	Derived	2-nom passV'.subj[2] (von+1-dat)	2	fear stimulus	NP-nom V.subj	
+German	7	FRIGHTEN	erschrecken	Basic	1-nom V.subj[1] 2-acc	1	frightener	NP-nom V.subj	A
+German	7	FRIGHTEN	erschrecken	Basic	1-nom V.subj[1] 2-acc	2	frightenee	NP-acc	P
+German	7	FRIGHTEN	erschrecken	Derived	2-nom passV'.subj[2] (von+1-dat)	1	frightener	von+NP-dat	
+German	7	FRIGHTEN	erschrecken	Derived	2-nom passV'.subj[2] (von+1-dat)	2	frightenee	NP-nom V.subj	
+German	8	LIKE	gefallen	Basic	1-dat V.subj[2] 2-nom	1	liker	NP-dat	X
+German	8	LIKE	gefallen	Basic	1-dat V.subj[2] 2-nom	2	liked entity	NP-nom V.subj	S
+German	8	LIKE	mögen	Basic	1-nom V.subj[1] 2-acc	1	liker	NP-nom V.subj	A
+German	8	LIKE	mögen	Basic	1-nom V.subj[1] 2-acc	2	liked entity	NP-acc	P
+German	8	LIKE	mögen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	liker	von+NP-dat	
+German	8	LIKE	mögen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	liked entity	NP-nom V.subj	
+German	9	KNOW	kennen	Basic	1-nom V.subj[1] 2-acc	1	knower	NP-nom V.subj	A
+German	9	KNOW	kennen	Basic	1-nom V.subj[1] 2-acc	2	known thing/person	NP-acc	P
+German	10	THINK	denken	Basic	1-nom V.subj[1] an+2-acc	1	thinker	NP-nom V.subj	S
+German	10	THINK	denken	Basic	1-nom V.subj[1] an+2-acc	2	thought content	an+NP-acc	X
+German	10	THINK	denken	Derived	1-nom V'.subj[1]	1	thinker	NP-nom V.subj	
+German	10	THINK	denken	Derived	x-nom passV'.subj[x] an+2-acc	2	thought content	an+NP-acc	
+German	10	THINK	nachdenken	Basic	1-nom V.subj[1]	1	thinker	NP-nom V.subj	S
+German	11	SEARCH FOR	suchen	Basic	1-nom V.subj[1] 2-acc	1	searcher	NP-nom V.subj	A
+German	11	SEARCH FOR	suchen	Basic	1-nom V.subj[1] 2-acc	2	searched for thing	NP-acc	P
+German	11	SEARCH FOR	suchen	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	searcher	NP-nom V.subj	
+German	11	SEARCH FOR	suchen	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	searched for thing	NP-acc	
+German	11	SEARCH FOR	suchen	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	search beneficiary	NP-dat	
+German	11	SEARCH FOR	suchen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	searcher	von+NP-dat	
+German	11	SEARCH FOR	suchen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	searched for thing	NP-nom V.subj	
+German	12	WASH	waschen	Basic	1-nom V.subj[1] 2-acc	1	washer	NP-nom V.subj	A
+German	12	WASH	waschen	Basic	1-nom V.subj[1] 2-acc	2	washed entity	NP-acc	P
+German	12	WASH	waschen	Derived	1-nom V'.subj[1]	1	washer	NP-nom V.subj	
+German	12	WASH	waschen	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	washer	NP-nom V.subj	
+German	12	WASH	waschen	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	washed entity	NP-acc	
+German	12	WASH	waschen	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	wash beneficiary	NP-dat	
+German	12	WASH	waschen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	washer	von+NP-dat	
+German	12	WASH	waschen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	washed entity	NP-nom V.subj	
+German	13	DRESS	anziehen	Basic	1-nom V.subj[1] 2-acc	1	dresser	NP-nom V.subj	A
+German	13	DRESS	anziehen	Basic	1-nom V.subj[1] 2-acc	2	clothes	NP-acc	P
+German	13	DRESS	anziehen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	dresser	von+NP-dat	
+German	13	DRESS	anziehen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	clothes	NP-nom V.subj	
+German	14	SHAVE (a body part/person)	rasieren	Basic	1-nom V.subj[1] 2-acc	1	shaver (of body part)	NP-nom V.subj	A
+German	14	SHAVE (a body part/person)	rasieren	Basic	1-nom V.subj[1] 2-acc	2	shaved person	NP-acc	P
+German	15	HELP	helfen	Basic	1-nom V.subj[1] 2-dat	1	helper	NP-nom V.subj	S
+German	15	HELP	helfen	Basic	1-nom V.subj[1] 2-dat	2	helpee	NP-dat	X
+German	15	HELP	helfen	Derived	x-nom passV'.subj[x] 2-dat (von+1-dat)	1	helper	von+NP-dat	
+German	15	HELP	helfen	Derived	x-nom passV'.subj[x] 2-dat (von+1-dat)	2	helpee	NP-dat	
+German	16	FOLLOW	folgen	Basic	1-nom V.subj[1] 2-dat	1	follower	NP-nom V.subj	S
+German	16	FOLLOW	folgen	Basic	1-nom V.subj[1] 2-dat	2	followee	NP-dat	X
+German	16	FOLLOW	folgen	Derived	x-nom passV'.subj[x] 2-dat (von+1-dat)	1	follower	von+NP-dat	
+German	16	FOLLOW	folgen	Derived	x-nom passV'.subj[x] 2-dat (von+1-dat)	2	followee	NP-dat	
+German	17	MEET	treffen	Basic	1-nom V.subj[1] 2-acc	1	meeter	NP-nom V.subj	A
+German	17	MEET	treffen	Basic	1-nom V.subj[1] 2-acc	2	met person	NP-acc	P
+German	18	TALK	reden	Basic	1-nom V.subj[1] mit+2-dat	1	talker	NP-nom V.subj	S
+German	18	TALK	reden	Basic	1-nom V.subj[1] mit+2-dat	2	talked to person	mit+NP-dat	X
+German	18	TALK	reden	Derived	1-nom V'.subj[1]	1	talker	NP-nom V.subj	
+German	18	TALK	reden	Derived	x-nom passV'.subj[x] mit+2-dat	2	talked to person	mit+NP-dat	
+German	18	TALK	sprechen	Basic	1-nom V.subj[1] mit+2-dat	1	talker	NP-nom V.subj	S
+German	18	TALK	sprechen	Basic	1-nom V.subj[1] mit+2-dat	2	talked to person	mit+NP-dat	X
+German	18	TALK	sprechen	Derived	x-nom passV'.subj[x] mit+2-dat	2	talked to person	mit+NP-dat	
+German	19	ASK FOR	bitten	Basic	1-nom V.subj[1] (2-acc) um+3-acc	1	asker	NP-nom V.subj	A
+German	19	ASK FOR	bitten	Basic	1-nom V.subj[1] (2-acc) um+3-acc	2	askee	NP-acc	P
+German	19	ASK FOR	bitten	Basic	1-nom V.subj[1] (2-acc) um+3-acc	3	requested thing	um+NP-acc	X
+German	19	ASK FOR	bitten	Derived	1-nom erV'.subj[1] 3-acc (von+2-dat)	1	asker	NP-nom V.subj	
+German	19	ASK FOR	bitten	Derived	1-nom erV'.subj[1] 3-acc (von+2-dat)	2	askee	von+NP-dat	
+German	19	ASK FOR	bitten	Derived	1-nom erV'.subj[1] 3-acc (von+2-dat)	3	requested thing	NP-acc	
+German	19	ASK FOR	bitten	Derived	2-nom passV'.subj[2] (von+1-dat) um+3-acc	1	asker	von+NP-dat	
+German	19	ASK FOR	bitten	Derived	2-nom passV'.subj[2] (von+1-dat) um+3-acc	2	askee	NP-nom V.subj	
+German	19	ASK FOR	bitten	Derived	2-nom passV'.subj[2] (von+1-dat) um+3-acc	3	requested thing	um+NP-acc	
+German	20	SHOUT AT	anschreien	Basic	1-nom V.subj[1] 2-acc	1	shouter	NP-nom V.subj	A
+German	20	SHOUT AT	anschreien	Basic	1-nom V.subj[1] 2-acc	2	shoutee	NP-acc	P
+German	20	SHOUT AT	anschreien	Derived	2-nom passV'.subj[2] (von+1-dat)	1	shouter	von+NP-dat	
+German	20	SHOUT AT	anschreien	Derived	2-nom passV'.subj[2] (von+1-dat)	2	shoutee	NP-nom V.subj	
+German	21	TELL	erzählen	Basic	1-nom V.subj[1] 2-acc	1	teller	NP-nom V.subj	A
+German	21	TELL	erzählen	Basic	1-nom V.subj[1] 2-acc	2	told content	NP-acc	P
+German	21	TELL	erzählen	Derived	1-nom V'.subj[1]	1	teller	NP-nom V.subj	
+German	21	TELL	erzählen	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	teller	NP-nom V.subj	
+German	21	TELL	erzählen	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	told content	NP-acc	
+German	21	TELL	erzählen	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	tellee	NP-dat	
+German	21	TELL	erzählen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	teller	von+NP-dat	
+German	21	TELL	erzählen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	told content	NP-nom V.subj	
+German	22	SAY	sagen	Basic	1-nom V.subj[1] 2-acc (zu+3-dat)	1	sayer	NP-nom V.subj	A
+German	22	SAY	sagen	Basic	1-nom V.subj[1] 2-acc (zu+3-dat)	2	said content	NP-acc	P
+German	22	SAY	sagen	Basic	1-nom V.subj[1] 2-acc (zu+3-dat)	3	saying addressee	zu+NP-dat	X
+German	22	SAY	sagen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	sayer	von+NP-dat	
+German	22	SAY	sagen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	said content	NP-nom V.subj	
+German	23	NAME	nennen	Basic	1-nom V.subj[1] 2-acc 3-acc	1	namer	NP-nom V.subj	A
+German	23	NAME	nennen	Basic	1-nom V.subj[1] 2-acc 3-acc	2	namee	NP-acc	P
+German	23	NAME	nennen	Basic	1-nom V.subj[1] 2-acc 3-acc	3	name	NP-acc	P
+German	23	NAME	nennen	Derived	2-nom passV'.subj[2] (von+1-dat) 3-nom	1	namer	von+NP-dat	
+German	23	NAME	nennen	Derived	2-nom passV'.subj[2] (von+1-dat) 3-nom	2	namee	NP-nom V.subj	
+German	23	NAME	nennen	Derived	2-nom passV'.subj[2] (von+1-dat) 3-nom	3	name	NP-nom	
+German	24	BUILD	bauen	Basic	1-nom V.subj[1] 2-acc	1	builder	NP-nom V.subj	A
+German	24	BUILD	bauen	Basic	1-nom V.subj[1] 2-acc	2	built thing	NP-acc	P
+German	24	BUILD	bauen	Derived	1-nom beV'.subj[1] 4-acc mit+2-dat	1	builder	NP-nom V.subj	
+German	24	BUILD	bauen	Derived	1-nom beV'.subj[1] 4-acc mit+2-dat	2	built thing	mit+NP-dat	
+German	24	BUILD	bauen	Derived	1-nom beV'.subj[1] 4-acc mit+2-dat	4	building location	NP-acc	
+German	24	BUILD	bauen	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	builder	NP-nom V.subj	
+German	24	BUILD	bauen	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	built thing	NP-acc	
+German	24	BUILD	bauen	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	build beneficiary	NP-dat	
+German	24	BUILD	bauen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	builder	von+NP-dat	
+German	24	BUILD	bauen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	built thing	NP-nom V.subj	
+German	25	BREAK	zerbrechen	Basic	1-nom V.subj[1] 2-acc	1	breaker	NP-nom V.subj	A
+German	25	BREAK	zerbrechen	Basic	1-nom V.subj[1] 2-acc	2	broken thing	NP-acc	P
+German	25	BREAK	zerbrechen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	breaker	von+NP-dat	
+German	25	BREAK	zerbrechen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	broken thing	NP-nom V.subj	
+German	25	BREAK	zerbrechen	Derived	2-nom V'.subj[2]	2	broken thing	NP-nom V.subj	
+German	25	BREAK	zerbrechen	Derived	4-nom V'.subj[4] 2-acc	2	broken thing	NP-acc	
+German	25	BREAK	zerbrechen	Derived	4-nom V'.subj[4] 2-acc	4	breaking instrument	NP-nom V.subj	
+German	26	KILL	töten	Basic	1-nom V.subj[1] 2-acc	1	killer	NP-nom V.subj	A
+German	26	KILL	töten	Basic	1-nom V.subj[1] 2-acc	2	killee	NP-acc	P
+German	26	KILL	töten	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	killer	NP-nom V.subj	
+German	26	KILL	töten	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	killee	NP-acc	
+German	26	KILL	töten	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	killing beneficiary	NP-dat	
+German	26	KILL	töten	Derived	2-nom passV'.subj[2] (von+1-dat)	1	killer	von+NP-dat	
+German	26	KILL	töten	Derived	2-nom passV'.subj[2] (von+1-dat)	2	killee	NP-nom V.subj	
+German	26	KILL	töten	Derived	4-nom V'.subj[4] 2-acc	2	killee	NP-acc	
+German	26	KILL	töten	Derived	4-nom V'.subj[4] 2-acc	4	killing instrument	NP-nom V.subj	
+German	26	KILL	umbringen	Basic	1-nom V.subj[1] 2-acc	1	killer	NP-nom V.subj	A
+German	26	KILL	umbringen	Basic	1-nom V.subj[1] 2-acc	2	killee	NP-acc	P
+German	26	KILL	umbringen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	killer	von+NP-dat	
+German	26	KILL	umbringen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	killee	NP-nom V.subj	
+German	26	KILL	umbringen	Derived	4-nom V'.subj[4] 2-acc	2	killee	NP-acc	
+German	26	KILL	umbringen	Derived	4-nom V'.subj[4] 2-acc	4	killing instrument	NP-nom V.subj	
+German	27	BEAT	schlagen	Basic	1-nom V.subj[1] 2-acc	1	beater	NP-nom V.subj	A
+German	27	BEAT	schlagen	Basic	1-nom V.subj[1] 2-acc	2	beatee	NP-acc	P
+German	27	BEAT	schlagen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	beater	von+NP-dat	
+German	27	BEAT	schlagen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	beatee	NP-nom V.subj	
+German	28	HIT	schlagen	Basic	1-nom V.subj[1] 2-acc	1	hitter	NP-nom V.subj	A
+German	28	HIT	schlagen	Basic	1-nom V.subj[1] 2-acc	2	hittee	NP-acc	P
+German	28	HIT	schlagen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	hitter	von+NP-dat	
+German	28	HIT	schlagen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	hittee	NP-nom V.subj	
+German	29	TOUCH	anfassen	Basic	1-nom V.subj[1] 2-acc	1	toucher	NP-nom V.subj	A
+German	29	TOUCH	anfassen	Basic	1-nom V.subj[1] 2-acc	2	touchee	NP-acc	P
+German	29	TOUCH	anfassen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	toucher	von+NP-dat	
+German	29	TOUCH	anfassen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	touchee	NP-nom V.subj	
+German	29	TOUCH	berühren	Basic	1-nom V.subj[1] 2-acc	1	toucher	NP-nom V.subj	A
+German	29	TOUCH	berühren	Basic	1-nom V.subj[1] 2-acc	2	touchee	NP-acc	P
+German	29	TOUCH	berühren	Derived	2-nom passV'.subj[2] (von+1-dat)	1	toucher	von+NP-dat	
+German	29	TOUCH	berühren	Derived	2-nom passV'.subj[2] (von+1-dat)	2	touchee	NP-nom V.subj	
+German	29	TOUCH	berühren	Derived	4-nom V'.subj[4] 2-acc	2	touchee	NP-acc	
+German	29	TOUCH	berühren	Derived	4-nom V'.subj[4] 2-acc	4	touching instrument	NP-nom V.subj	
+German	30	CUT	schneiden	Basic	1-nom V.subj[1] 2-acc	1	cutter	NP-nom V.subj	A
+German	30	CUT	schneiden	Basic	1-nom V.subj[1] 2-acc	2	cut thing	NP-acc	P
+German	30	CUT	schneiden	Derived	2-nom passV'.subj[2] (von+1-dat)	1	cutter	von+NP-dat	
+German	30	CUT	schneiden	Derived	2-nom passV'.subj[2] (von+1-dat)	2	cut thing	NP-nom V.subj	
+German	31	TAKE	nehmen	Basic	1-nom V.subj[1] 2-acc	1	taker	NP-nom V.subj	A
+German	31	TAKE	nehmen	Basic	1-nom V.subj[1] 2-acc	2	taken thing	NP-acc	P
+German	31	TAKE	nehmen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	taker	von+NP-dat	
+German	31	TAKE	nehmen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	taken thing	NP-nom V.subj	
+German	32	TEAR	reißen	Basic	1-nom V.subj[1] 2-acc aus+3-dat	1	tearer	NP-nom V.subj	A
+German	32	TEAR	reißen	Basic	1-nom V.subj[1] 2-acc aus+3-dat	2	torn thing	NP-acc	P
+German	32	TEAR	reißen	Basic	1-nom V.subj[1] 2-acc aus+3-dat	3	tearing source	aus+NP-dat	X
+German	33	PEEL	schälen	Basic	1-nom V.subj[1] 2-acc	1	peeler	NP-nom V.subj	A
+German	33	PEEL	schälen	Basic	1-nom V.subj[1] 2-acc	2	peeled object	NP-acc	P
+German	33	PEEL	schälen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	peeler	von+NP-dat	
+German	33	PEEL	schälen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	peeled object	NP-nom V.subj	
+German	34	HIDE	verstecken	Basic	1-nom V.subj[1] 2-acc vor+3-dat	1	hider	NP-nom V.subj	A
+German	34	HIDE	verstecken	Basic	1-nom V.subj[1] 2-acc vor+3-dat	2	hidden thing	NP-acc	P
+German	34	HIDE	verstecken	Basic	1-nom V.subj[1] 2-acc vor+3-dat	3	hiding beneficiary	vor+NP-dat	X
+German	35	SHOW	zeigen	Basic	1-nom V.subj[1] 2-dat 3-acc	1	shower	NP-nom V.subj	A
+German	35	SHOW	zeigen	Basic	1-nom V.subj[1] 2-dat 3-acc	2	showing addressee	NP-dat	X
+German	35	SHOW	zeigen	Basic	1-nom V.subj[1] 2-dat 3-acc	3	shown thing	NP-acc	P
+German	35	SHOW	zeigen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	1	shower	von+NP-dat	
+German	35	SHOW	zeigen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	2	showing addressee	NP-dat	
+German	35	SHOW	zeigen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	3	shown thing	NP-nom V.subj	
+German	36	GIVE	geben	Basic	1-nom V.subj[1] 2-dat 3-acc	1	giver	NP-nom V.subj	A
+German	36	GIVE	geben	Basic	1-nom V.subj[1] 2-dat 3-acc	2	giving recipient	NP-dat	X
+German	36	GIVE	geben	Basic	1-nom V.subj[1] 2-dat 3-acc	3	gift	NP-acc	P
+German	37	SEND	schicken	Basic	1-nom V.subj[1] 2-dat 3-acc	1	sender	NP-nom V.subj	A
+German	37	SEND	schicken	Basic	1-nom V.subj[1] 2-dat 3-acc	2	sending recipient	NP-dat	X
+German	37	SEND	schicken	Basic	1-nom V.subj[1] 2-dat 3-acc	3	sent thing	NP-acc	P
+German	37	SEND	schicken	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	1	sender	NP-nom V.subj	
+German	37	SEND	schicken	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	2	sending recipient	PREP+NP-case	
+German	37	SEND	schicken	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	3	sent thing	NP-acc	
+German	37	SEND	schicken	Derived	1-nom verV'.subj[1] 3-acc	1	sender	NP-nom V.subj	
+German	37	SEND	schicken	Derived	1-nom verV'.subj[1] 3-acc	3	sent thing	NP-acc	
+German	37	SEND	schicken	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	1	sender	von+NP-dat	
+German	37	SEND	schicken	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	2	sending recipient	NP-dat	
+German	37	SEND	schicken	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	3	sent thing	NP-nom V.subj	
+German	38	CARRY	tragen	Basic	1-nom V.subj[1] 2-acc	1	carrier	NP-nom V.subj	A
+German	38	CARRY	tragen	Basic	1-nom V.subj[1] 2-acc	2	carried thing	NP-acc	P
+German	38	CARRY	tragen	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	carrier	NP-nom V.subj	
+German	38	CARRY	tragen	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	carried thing	NP-acc	
+German	38	CARRY	tragen	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	carry beneficiary	NP-dat	
+German	38	CARRY	tragen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	carrier	von+NP-dat	
+German	38	CARRY	tragen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	carried thing	NP-nom V.subj	
+German	39	THROW	werfen	Basic	1-nom V.subj[1] 2-acc LOC3	1	thrower	NP-nom V.subj	A
+German	39	THROW	werfen	Basic	1-nom V.subj[1] 2-acc LOC3	2	thrown thing	NP-acc	P
+German	39	THROW	werfen	Basic	1-nom V.subj[1] 2-acc LOC3	3	throwing goal	LOC	L
+German	39	THROW	werfen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	thrower	NP-nom V.subj	
+German	39	THROW	werfen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	thrown thing	mit+NP-dat	
+German	39	THROW	werfen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	throwing goal	NP-acc	
+German	39	THROW	werfen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	thrower	von+NP-dat	
+German	39	THROW	werfen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	thrown thing	NP-nom V.subj	
+German	39	THROW	werfen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	throwing goal	LOC	
+German	40	TIE	anbinden	Basic	1-nom V.subj[1] 2-acc	1	tier	NP-nom V.subj	A
+German	40	TIE	anbinden	Basic	1-nom V.subj[1] 2-acc	2	tied thing	NP-acc	P
+German	40	TIE	anbinden	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	tier	NP-nom V.subj	
+German	40	TIE	anbinden	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	tied thing	NP-acc	
+German	40	TIE	anbinden	Derived	2-nom passV'.subj[2] (von+1-dat)	1	tier	von+NP-dat	
+German	40	TIE	anbinden	Derived	2-nom passV'.subj[2] (von+1-dat)	2	tied thing	NP-nom V.subj	
+German	41	PUT	legen	Basic	1-nom V.subj[1] 2-acc LOC3	1	putter	NP-nom V.subj	A
+German	41	PUT	legen	Basic	1-nom V.subj[1] 2-acc LOC3	2	put thing	NP-acc	P
+German	41	PUT	legen	Basic	1-nom V.subj[1] 2-acc LOC3	3	putting goal	LOC	L
+German	41	PUT	legen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	putter	NP-nom V.subj	
+German	41	PUT	legen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	put thing	mit+NP-dat	
+German	41	PUT	legen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	putting goal	NP-acc	
+German	41	PUT	legen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	1	putter	NP-nom V.subj	
+German	41	PUT	legen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	2	put thing	NP-acc	
+German	41	PUT	legen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	3	putting goal	LOC	
+German	41	PUT	legen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	4	put beneficiary	NP-dat	
+German	41	PUT	legen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	putter	von+NP-dat	
+German	41	PUT	legen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	put thing	NP-nom V.subj	
+German	41	PUT	legen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	putting goal	LOC	
+German	41	PUT	setzen	Basic	1-nom V.subj[1] 2-acc LOC3	1	putter	NP-nom V.subj	A
+German	41	PUT	setzen	Basic	1-nom V.subj[1] 2-acc LOC3	2	put thing	NP-acc	P
+German	41	PUT	setzen	Basic	1-nom V.subj[1] 2-acc LOC3	3	putting goal	LOC	L
+German	41	PUT	setzen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	1	putter	NP-nom V.subj	
+German	41	PUT	setzen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	2	put thing	NP-acc	
+German	41	PUT	setzen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	3	putting goal	LOC	
+German	41	PUT	setzen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	putter	von+NP-dat	
+German	41	PUT	setzen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	put thing	NP-nom V.subj	
+German	41	PUT	setzen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	putting goal	LOC	
+German	41	PUT	stellen	Basic	1-nom V.subj[1] 2-acc LOC3	1	putter	NP-nom V.subj	A
+German	41	PUT	stellen	Basic	1-nom V.subj[1] 2-acc LOC3	2	put thing	NP-acc	P
+German	41	PUT	stellen	Basic	1-nom V.subj[1] 2-acc LOC3	3	putting goal	LOC	L
+German	41	PUT	stellen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	1	putter	NP-nom V.subj	
+German	41	PUT	stellen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	2	put thing	NP-acc	
+German	41	PUT	stellen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	3	putting goal	LOC	
+German	41	PUT	stellen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	4	put beneficiary	NP-dat	
+German	41	PUT	stellen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	putter	von+NP-dat	
+German	41	PUT	stellen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	put thing	NP-nom V.subj	
+German	41	PUT	stellen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	putting goal	LOC	
+German	42	POUR	gießen	Basic	1-nom V.subj[1] 2-acc LOC3	1	pourer	NP-nom V.subj	A
+German	42	POUR	gießen	Basic	1-nom V.subj[1] 2-acc LOC3	2	poured substance	NP-acc	P
+German	42	POUR	gießen	Basic	1-nom V.subj[1] 2-acc LOC3	3	pouring goal	LOC	L
+German	42	POUR	gießen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	pourer	NP-nom V.subj	
+German	42	POUR	gießen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	poured substance	mit+NP-dat	
+German	42	POUR	gießen	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	pouring goal	NP-acc	
+German	42	POUR	gießen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	pourer	von+NP-dat	
+German	42	POUR	gießen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	poured substance	NP-nom V.subj	
+German	42	POUR	gießen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	pouring goal	LOC	
+German	43	COVER	zudecken	Basic	1-nom V.subj[1] 2-acc	1	coverer	NP-nom V.subj	A
+German	43	COVER	zudecken	Basic	1-nom V.subj[1] 2-acc	2	covered thing	NP-acc	P
+German	43	COVER	zudecken	Derived	2-nom passV'.subj[2] (von+1-dat)	1	coverer	von+NP-dat	
+German	43	COVER	zudecken	Derived	2-nom passV'.subj[2] (von+1-dat)	2	covered thing	NP-nom V.subj	
+German	43	COVER	zudecken	Derived	4-nom V'.subj[4] 2-acc	2	covered thing	NP-acc	
+German	43	COVER	zudecken	Derived	4-nom V'.subj[4] 2-acc	4	cover	NP-nom V.subj	
+German	44	FILL	füllen	Basic	1-nom V.subj[1] 2-acc mit+3-dat	1	filler	NP-nom V.subj	A
+German	44	FILL	füllen	Basic	1-nom V.subj[1] 2-acc mit+3-dat	2	filled container	NP-acc	P
+German	44	FILL	füllen	Basic	1-nom V.subj[1] 2-acc mit+3-dat	3	filling material	mit+NP-dat	X
+German	44	FILL	füllen	Derived	1-nom V'.subj[1] 4-dat 2-acc mit+3-acc	1	filler	NP-nom V.subj	
+German	44	FILL	füllen	Derived	1-nom V'.subj[1] 4-dat 2-acc mit+3-acc	2	filled container	NP-acc	
+German	44	FILL	füllen	Derived	1-nom V'.subj[1] 4-dat 2-acc mit+3-acc	3	filling material	mit+NP-dat	
+German	44	FILL	füllen	Derived	1-nom V'.subj[1] 4-dat 2-acc mit+3-acc	4	fill beneficiary	NP-dat	
+German	44	FILL	füllen	Derived	2-nom passV'.subj[2] (von+1-dat) mit+3-dat	1	filler	von+NP-dat	
+German	44	FILL	füllen	Derived	2-nom passV'.subj[2] (von+1-dat) mit+3-dat	2	filled container	NP-nom V.subj	
+German	44	FILL	füllen	Derived	2-nom passV'.subj[2] (von+1-dat) mit+3-dat	3	filling material	mit+NP-dat	
+German	44	FILL	füllen	Derived	3-nom V'.subj[3] 2-acc	2	filled container	NP-acc	
+German	44	FILL	füllen	Derived	3-nom V'.subj[3] 2-acc	3	filling material	NP-nom V.subj	
+German	45	LOAD	laden	Basic	1-nom V.subj[1] 2-acc auf+3-acc	1	loader	NP-nom V.subj	A
+German	45	LOAD	laden	Basic	1-nom V.subj[1] 2-acc auf+3-acc	2	loaded thing	NP-acc	P
+German	45	LOAD	laden	Basic	1-nom V.subj[1] 2-acc auf+3-acc	3	loading place	auf+NP-acc	X
+German	45	LOAD	laden	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	loader	NP-nom V.subj	
+German	45	LOAD	laden	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	loaded thing	mit+NP-dat	
+German	45	LOAD	laden	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	loading place	NP-acc	
+German	45	LOAD	laden	Derived	1-nom V'.subj[1] 4-dat 2-acc auf+3-acc	1	loader	NP-nom V.subj	
+German	45	LOAD	laden	Derived	1-nom V'.subj[1] 4-dat 2-acc auf+3-acc	2	loaded thing	NP-acc	
+German	45	LOAD	laden	Derived	1-nom V'.subj[1] 4-dat 2-acc auf+3-acc	3	loading place	auf+NP-acc	
+German	45	LOAD	laden	Derived	1-nom V'.subj[1] 4-dat 2-acc auf+3-acc	4	load beneficiary	NP-dat	
+German	45	LOAD	laden	Derived	1-nom verV'.subj[1] 2-acc	1	loader	NP-nom V.subj	
+German	45	LOAD	laden	Derived	1-nom verV'.subj[1] 2-acc	2	loaded thing	NP-acc	
+German	46	BLINK	blinzeln	Basic	1-nom V.subj[1]	1	blinker	NP-nom V.subj	S
+German	47	COUGH	husten	Basic	1-nom V.subj[1]	1	cougher	NP-nom V.subj	S
+German	48	CLIMB	klettern	Basic	1-nom V.subj[1] LOC2	1	climber	NP-nom V.subj	S
+German	48	CLIMB	klettern	Basic	1-nom V.subj[1] LOC2	2	climbing goal	LOC	L
+German	49	RUN	rennen	Basic	1-nom V.subj[1]	1	runner	NP-nom V.subj	S
+German	50	SIT	sitzen	Basic	1-nom V.subj[1] LOC2	1	sitter	NP-nom V.subj	S
+German	50	SIT	sitzen	Basic	1-nom V.subj[1] LOC2	2	sitting place	LOC	L
+German	50	SIT	sitzen	Derived	1-nom V'.subj[1]	1	sitter	NP-nom V.subj	
+German	51	SIT DOWN	sich hinsetzen	Basic	1-nom V.subj[1]	1	sitdowner	NP-nom V.subj	S
+German	52	JUMP	hüpfen	Basic	1-nom V.subj[1] LOC2	1	jumper	NP-nom V.subj	S
+German	52	JUMP	hüpfen	Basic	1-nom V.subj[1] LOC2	2	jump location	LOC	L
+German	52	JUMP	springen	Basic	1-nom V.subj[1] LOC2	1	jumper	NP-nom V.subj	S
+German	52	JUMP	springen	Basic	1-nom V.subj[1] LOC2	2	jump location	LOC	L
+German	52	JUMP	springen	Derived	1-nom beV'.subj[1] 2-acc	1	jumper	NP-nom V.subj	
+German	52	JUMP	springen	Derived	1-nom beV'.subj[1] 2-acc	2	jump location	NP-acc	
+German	52	JUMP	springen	Derived	1-nom V'.subj[1]	1	jumper	NP-nom V.subj	
+German	53	SING	singen	Basic	1-nom V.subj[1]	1	singer	NP-nom V.subj	S
+German	53	SING	singen	Derived	1-nom V'.subj[1] 2-acc	1	singer	NP-nom V.subj	
+German	53	SING	singen	Derived	1-nom V'.subj[1] 2-acc	2	song	NP-acc	
+German	53	SING	singen	Derived	x-nom passV'.subj[x]	1	singer		
+German	54	GO	gehen	Basic	1-nom V.subj[1] LOC2	1	goer	NP-nom V.subj	S
+German	54	GO	gehen	Basic	1-nom V.subj[1] LOC2	2	going goal	LOC	L
+German	55	LEAVE	verlassen	Basic	1-nom V.subj[1] 2-acc	1	leaver	NP-nom V.subj	A
+German	55	LEAVE	verlassen	Basic	1-nom V.subj[1] 2-acc	2	left place/person	NP-acc	P
+German	55	LEAVE	verlassen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	leaver	von+NP-dat	
+German	55	LEAVE	verlassen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	left place/person	NP-nom V.subj	
+German	56	LIVE	leben	Basic	1-nom V.subj[1] LOC2	1	liver	NP-nom V.subj	S
+German	56	LIVE	leben	Basic	1-nom V.subj[1] LOC2	2	living place	LOC	L
+German	56	LIVE	leben	Derived	1-nom V'.subj[1]	1	liver	NP-nom V.subj	
+German	56	LIVE	leben	Derived	1-nom V'.subj[1] 3-acc LOC2	1	liver	NP-nom V.subj	
+German	56	LIVE	leben	Derived	1-nom V'.subj[1] 3-acc LOC2	2	living place	LOC	
+German	56	LIVE	leben	Derived	1-nom V'.subj[1] 3-acc LOC2	3	life	NP-acc	
+German	56	LIVE	wohnen	Basic	1-nom V.subj[1] LOC2	1	liver	NP-nom V.subj	S
+German	56	LIVE	wohnen	Basic	1-nom V.subj[1] LOC2	2	living place	LOC	L
+German	56	LIVE	wohnen	Derived	1-nom beV'.subj[1] 2-acc	1	liver	NP-nom V.subj	
+German	56	LIVE	wohnen	Derived	1-nom beV'.subj[1] 2-acc	2	living place	NP-acc	
+German	57	LAUGH	lachen	Basic	1-nom V.subj[1]	1	laugher	NP-nom V.subj	S
+German	57	LAUGH	lachen	Derived	1-nom V'.subj[1] 2-acc	1	laugher	NP-nom V.subj	
+German	57	LAUGH	lachen	Derived	1-nom V'.subj[1] 2-acc	2	laugh	NP-acc	
+German	57	LAUGH	lachen	Derived	x-nom passV'.subj[x]	1	laugher		
+German	58	SCREAM	schreien	Basic	1-nom V.subj[1]	1	screamer	NP-nom V.subj	S
+German	59	FEEL PAIN	weh tun	Basic	1-dat V.subj[2] 2-nom	1	pain-feeler	NP-dat	X
+German	59	FEEL PAIN	weh tun	Basic	1-dat V.subj[2] 2-nom	2	pain locus	NP-nom V.subj	S
+German	60	FEEL COLD	kalt sein	Basic	1-dat V	1	freezing person	NP-dat	X
+German	61	DIE	sterben	Basic	1-nom V.subj[1]	1	dieer	NP-nom V.subj	S
+German	62	PLAY	spielen	Basic	1-nom V.subj[1]	1	player	NP-nom V.subj	S
+German	62	PLAY	spielen	Derived	1-nom V'.subj[1] 2-acc	1	player	NP-nom V.subj	
+German	62	PLAY	spielen	Derived	1-nom V'.subj[1] 2-acc	2	game	NP-acc	
+German	62	PLAY	spielen	Derived	x-nom passV'.subj[x]	1	player		
+German	63	BE SAD	trauern	Basic	1-nom V.subj[1]	1	sad person	NP-nom V.subj	S
+German	63	BE SAD	trauern	Derived	1-nom beV'.subj[1] 2-acc	1	sad person	NP-nom V.subj	
+German	63	BE SAD	trauern	Derived	1-nom beV'.subj[1] 2-acc	2	sadness causer	NP-acc	
+German	63	BE SAD	trauern	Derived	x-nom passV'.subj[x]	1	sad person		
+German	63	BE SAD	traurig sein	Basic	1-nom V.subj[1]	1	sad person	NP-nom V.subj	S
+German	64	BE HUNGRY	Hunger haben	Basic	1-nom V.subj[1]	1	hungry person	NP-nom V.subj	S
+German	65	ROLL	rollen	Basic	1-nom V.subj[1]	1	rolling entity	NP-nom V.subj	S
+German	66	SINK	sinken	Basic	1-nom V.subj[1]	1	sunken entity	NP-nom V.subj	S
+German	67	BURN	brennen	Basic	1-nom V.subj[1]	1	burnt thing	NP-nom V.subj	S
+German	68	BE DRY	trocken sein	Basic	1-nom V.subj[1]	1	dry thing	NP-nom V.subj	S
+German	70	BE A HUNTER	Jäger sein	Basic	1-nom V.subj[1]	1	specialist/hunter	NP-nom V.subj	S
+German	71	GRIND	mahlen	Basic	1-nom V.subj[1] 2-acc	1	grinder	NP-nom V.subj	A
+German	71	GRIND	mahlen	Basic	1-nom V.subj[1] 2-acc	2	ground thing	NP-acc	P
+German	71	GRIND	mahlen	Derived	1-nom V'.subj[1]	1	grinder	NP-nom V.subj	
+German	71	GRIND	mahlen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	grinder	von+NP-dat	
+German	71	GRIND	mahlen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	ground thing	NP-nom V.subj	
+German	71	GRIND	mahlen	Derived	4-nom V'.subj[4] 2-acc	2	ground thing	NP-acc	
+German	71	GRIND	mahlen	Derived	4-nom V'.subj[4] 2-acc	4	grinding instrument	NP-nom V.subj	
+German	72	WIPE	wischen	Basic	1-nom V.subj[1] 2-acc LOC3	1	wiper	NP-nom V.subj	A
+German	72	WIPE	wischen	Basic	1-nom V.subj[1] 2-acc LOC3	2	wiped material	NP-acc	P
+German	72	WIPE	wischen	Basic	1-nom V.subj[1] 2-acc LOC3	3	wiping surface	LOC	L
+German	72	WIPE	wischen	Derived	1-nom V'.subj[1]	1	wiper	NP-nom V.subj	
+German	72	WIPE	wischen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	1	wiper	NP-nom V.subj	
+German	72	WIPE	wischen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	2	wiped material	NP-acc	
+German	72	WIPE	wischen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	3	wiping surface	LOC	
+German	72	WIPE	wischen	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	4	wipe causer	NP-dat	
+German	72	WIPE	wischen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	wiper	von+NP-dat	
+German	72	WIPE	wischen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	wiped material	NP-nom V.subj	
+German	72	WIPE	wischen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	wiping surface	LOC	
+German	73	DIG	graben	Basic	1-nom V.subj[1] nach+2-dat	1	digger	NP-nom V.subj	S
+German	73	DIG	graben	Basic	1-nom V.subj[1] nach+2-dat	2	dug up thing	nach+NP-dat	X
+German	73	DIG	graben	Derived	1-nom V'.subj[1]	1	digger	NP-nom V.subj	
+German	73	DIG	graben	Derived	x-nom passV'.subj[x] (nach+2-dat)	2	dug up thing	nach+NP-dat	
+German	74	PUSH	schieben	Basic	1-nom V.subj[1] 2-acc LOC3	1	pusher	NP-nom V.subj	A
+German	74	PUSH	schieben	Basic	1-nom V.subj[1] 2-acc LOC3	2	pushee	NP-acc	P
+German	74	PUSH	schieben	Basic	1-nom V.subj[1] 2-acc LOC3	3	pushing goal	LOC	L
+German	74	PUSH	schieben	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	1	pusher	NP-nom V.subj	
+German	74	PUSH	schieben	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	2	pushee	NP-acc	
+German	74	PUSH	schieben	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	3	pushing goal	LOC	
+German	74	PUSH	schieben	Derived	1-nom V'.subj[1] 4-dat 2-acc LOC3	4	push beneficiary	NP-dat	
+German	74	PUSH	schieben	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	pusher	von+NP-dat	
+German	74	PUSH	schieben	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	pushee	NP-nom V.subj	
+German	74	PUSH	schieben	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	pushing goal	LOC	
+German	74	PUSH	schubsen	Basic	1-nom V.subj[1] 2-acc LOC3	1	pusher	NP-nom V.subj	A
+German	74	PUSH	schubsen	Basic	1-nom V.subj[1] 2-acc LOC3	2	pushee	NP-acc	P
+German	74	PUSH	schubsen	Basic	1-nom V.subj[1] 2-acc LOC3	3	pushing goal	LOC	L
+German	74	PUSH	schubsen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	pusher	von+NP-dat	
+German	74	PUSH	schubsen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	pushee	NP-nom V.subj	
+German	74	PUSH	schubsen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	pushing goal	LOC	
+German	74	PUSH	stoßen	Basic	1-nom V.subj[1] 2-acc LOC3	1	pusher	NP-nom V.subj	A
+German	74	PUSH	stoßen	Basic	1-nom V.subj[1] 2-acc LOC3	2	pushee	NP-acc	P
+German	74	PUSH	stoßen	Basic	1-nom V.subj[1] 2-acc LOC3	3	pushing goal	LOC	L
+German	74	PUSH	stoßen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	1	pusher	von+NP-dat	
+German	74	PUSH	stoßen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	2	pushee	NP-nom V.subj	
+German	74	PUSH	stoßen	Derived	2-nom passV'.subj[2] (von+1-dat) LOC3	3	pushing goal	LOC	
+German	75	BRING	bringen	Basic	1-nom V.subj[1] 2-dat 3-acc	1	bringer	NP-nom V.subj	A
+German	75	BRING	bringen	Basic	1-nom V.subj[1] 2-dat 3-acc	2	bringing recipient	NP-dat	X
+German	75	BRING	bringen	Basic	1-nom V.subj[1] 2-dat 3-acc	3	brought thing	NP-acc	P
+German	75	BRING	bringen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	1	bringer	NP-nom V.subj	
+German	75	BRING	bringen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	2	bringing recipient	PREP+NP-case	
+German	75	BRING	bringen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	3	brought thing	NP-acc	
+German	75	BRING	bringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	1	bringer	von+NP-dat	
+German	75	BRING	bringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	2	bringing recipient	NP-dat	
+German	75	BRING	bringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	3	brought thing	NP-nom V.subj	
+German	76	STEAL	stehlen	Basic	1-nom V.subj[1] 2-dat 3-acc	1	stealer	NP-nom V.subj	A
+German	76	STEAL	stehlen	Basic	1-nom V.subj[1] 2-dat 3-acc	2	stealing source	NP-dat	X
+German	76	STEAL	stehlen	Basic	1-nom V.subj[1] 2-dat 3-acc	3	stolen thing	NP-acc	P
+German	76	STEAL	stehlen	Derived	1-nom beV'.subj[1] 2-acc	1	stealer	NP-nom V.subj	
+German	76	STEAL	stehlen	Derived	1-nom beV'.subj[1] 2-acc	2	stealing source	NP-acc	
+German	76	STEAL	stehlen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	1	stealer	NP-nom V.subj	
+German	76	STEAL	stehlen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	2	stealing source	PREP+NP-case	
+German	76	STEAL	stehlen	Derived	1-nom V'.subj[1] 3-acc (prep+2-case)	3	stolen thing	NP-acc	
+German	76	STEAL	stehlen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	1	stealer	von+NP-dat	
+German	76	STEAL	stehlen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	2	stealing source	NP-dat	
+German	76	STEAL	stehlen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	3	stolen thing	NP-nom V.subj	
+German	77	TEACH	beibringen	Basic	1-nom V.subj[1] 2-dat 3-acc	1	teacher	NP-nom V.subj	A
+German	77	TEACH	beibringen	Basic	1-nom V.subj[1] 2-dat 3-acc	2	teachee	NP-dat	X
+German	77	TEACH	beibringen	Basic	1-nom V.subj[1] 2-dat 3-acc	3	taught content	NP-acc	P
+German	77	TEACH	beibringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	1	teacher	von+NP-dat	
+German	77	TEACH	beibringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	2	teachee	NP-dat	
+German	77	TEACH	beibringen	Derived	3-nom passV'.subj[3] 2-dat (von+1-dat)	3	taught content	NP-nom V.subj	
+German	77	TEACH	lehren	Basic	1-nom V.subj[1] 2-acc	1	teacher	NP-nom V.subj	A
+German	77	TEACH	lehren	Basic	1-nom V.subj[1] 2-acc	2	taught content	NP-acc	P
+German	77	TEACH	lehren	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	teacher	NP-nom V.subj	
+German	77	TEACH	lehren	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	taught content	mit+NP-dat	
+German	77	TEACH	lehren	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	teachee	NP-acc	
+German	77	TEACH	lehren	Derived	1-nom V'.subj[1]	1	teacher	NP-nom V.subj	
+German	77	TEACH	lehren	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	teacher	NP-nom V.subj	
+German	77	TEACH	lehren	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	taught content	NP-acc	
+German	77	TEACH	lehren	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	teachee	NP-dat	
+German	77	TEACH	lehren	Derived	2-nom passV'.subj[2] (von+1-dat)	1	teacher	von+NP-dat	
+German	77	TEACH	lehren	Derived	2-nom passV'.subj[2] (von+1-dat)	2	taught content	NP-nom V.subj	
+German	77	TEACH	lehren	Derived	x-nom passV'.subj[x] 2-nom	2	taught content	NP-nom	
+German	78	HEAR	hören	Basic	1-nom V.subj[1] 2-acc	1	hearer	NP-nom V.subj	A
+German	78	HEAR	hören	Basic	1-nom V.subj[1] 2-acc	2	heard sound	NP-acc	P
+German	78	HEAR	hören	Derived	2-nom passV'.subj[2] (von+1-dat)	1	hearer	von+NP-dat	
+German	78	HEAR	hören	Derived	2-nom passV'.subj[2] (von+1-dat)	2	heard sound	NP-nom V.subj	
+German	79	COOK	kochen (1)	Basic	1-nom V.subj[1] 2-acc	1	cooker	NP-nom V.subj	A
+German	79	COOK	kochen (1)	Basic	1-nom V.subj[1] 2-acc	2	cooked food	NP-acc	P
+German	79	COOK	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	cooker	NP-nom V.subj	
+German	79	COOK	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	cooked food	mit+NP-dat	
+German	79	COOK	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	cook beneficiary	NP-acc	
+German	79	COOK	kochen (1)	Derived	1-nom V'.subj[1]	1	cooker	NP-nom V.subj	
+German	79	COOK	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	cooker	NP-nom V.subj	
+German	79	COOK	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	cooked food	NP-acc	
+German	79	COOK	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	cook beneficiary	NP-dat	
+German	79	COOK	kochen (1)	Derived	2-nom passV'.subj[2] (von+1-dat)	1	cooker	von+NP-dat	
+German	79	COOK	kochen (1)	Derived	2-nom passV'.subj[2] (von+1-dat)	2	cooked food	NP-nom V.subj	
+German	79	COOK	kochen (1)	Derived	2-nom V'.subj[2]	2	cooked food	NP-nom V.subj	
+German	80	BOIL	kochen (2)	Basic	1-nom V.subj[1]	1	boiled thing	NP-nom V.subj	S
+German	81	APPEAR	erscheinen	Basic	1-nom V.subj[1] LOC2	1	appearer	NP-nom V.subj	S
+German	81	APPEAR	erscheinen	Basic	1-nom V.subj[1] LOC2	2	appear location	LOC	L
+German	82	BE ILL	krank sein	Basic	1-nom V.subj[1]	1	sick person	NP-nom V.subj	S
+German	83	CRY	weinen	Basic	1-nom V.subj[1]	1	crier	NP-nom V.subj	S
+German	83	CRY	weinen	Derived	1-nom beV'.subj[1] 2-acc	1	crier	NP-nom V.subj	
+German	83	CRY	weinen	Derived	1-nom beV'.subj[1] 2-acc	2	cried after/for person	NP-acc	
+German	83	CRY	weinen	Derived	x-nom passV'.subj[x]	1	crier		
+German	84	FALL	fallen	Basic	1-nom V.subj[1] LOC2	1	fallee	NP-nom V.subj	S
+German	84	FALL	fallen	Basic	1-nom V.subj[1] LOC2	2	fall goal	LOC	L
+German	85	MAKE	machen	Basic	1-nom V.subj[1] 2-acc	1	maker	NP-nom V.subj	A
+German	85	MAKE	machen	Basic	1-nom V.subj[1] 2-acc	2	made thing	NP-acc	P
+German	85	MAKE	machen	Derived	2-nom passV'.subj[2] (von+1-dat)	1	maker	von+NP-dat	
+German	85	MAKE	machen	Derived	2-nom passV'.subj[2] (von+1-dat)	2	made thing	NP-nom V.subj	
+German	86	GET	bekommen	Basic	1-nom V.subj[1] 2-acc	1	receiver	NP-nom V.subj	A
+German	86	GET	bekommen	Basic	1-nom V.subj[1] 2-acc	2	received thing	NP-acc	P
+German	87	WANT	wollen	Basic	1-nom V.subj[1] 2-acc	1	wanter	NP-nom V.subj	A
+German	87	WANT	wollen	Basic	1-nom V.subj[1] 2-acc	2	wanted thing	NP-acc	P
+German	126	BOIL (tr)	kochen (1)	Basic	1-nom V.subj[1] 2-acc	1	boiler (tr)	NP-nom V.subj	A
+German	126	BOIL (tr)	kochen (1)	Basic	1-nom V.subj[1] 2-acc	2	boiled thing (tr)	NP-acc	P
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	1	boiler (tr)	NP-nom V.subj	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	2	boiled thing (tr)	mit+NP-dat	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom beV'.subj[1] 3-acc (mit+2-dat)	3	boiling beneficiary (tr)	NP-acc	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom V'.subj[1]	1	boiler (tr)	NP-nom V.subj	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	1	boiler (tr)	NP-nom V.subj	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	2	boiled thing (tr)	NP-acc	
+German	126	BOIL (tr)	kochen (1)	Derived	1-nom V'.subj[1] 3-dat 2-acc	3	boiling beneficiary (tr)	NP-dat	
+German	126	BOIL (tr)	kochen (1)	Derived	2-nom passV'.subj[2] (von+1-dat)	1	boiler (tr)	von+NP-dat	
+German	126	BOIL (tr)	kochen (1)	Derived	2-nom passV'.subj[2] (von+1-dat)	2	boiled thing (tr)	NP-nom V.subj	
+German	126	BOIL (tr)	kochen (1)	Derived	2-nom V'.subj[2]	2	boiled thing (tr)	NP-nom V.subj	

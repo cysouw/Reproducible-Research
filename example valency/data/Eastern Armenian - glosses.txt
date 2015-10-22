@@ -1,0 +1,37 @@
+﻿Language_name	Gloss	Meaning
+Eastern Armenian	1	first person
+Eastern Armenian	2	second person
+Eastern Armenian	3	third person
+Eastern Armenian	abl	ablative
+Eastern Armenian	adj	adjective
+Eastern Armenian	aor	aorist
+Eastern Armenian	aux	auxiliary
+Eastern Armenian	caus	causative
+Eastern Armenian	conneg	connegative
+Eastern Armenian	cvb	converb
+Eastern Armenian	dat	dative
+Eastern Armenian	def	definite
+Eastern Armenian	fut	future
+Eastern Armenian	gen	genitive
+Eastern Armenian	imp	imperative
+Eastern Armenian	indef	indefinite
+Eastern Armenian	inf	infinitive
+Eastern Armenian	instr	instrumental
+Eastern Armenian	ipfv	imperfective
+Eastern Armenian	loc	locative
+Eastern Armenian	med	mediopassive
+Eastern Armenian	neg	negative
+Eastern Armenian	nom	nominative
+Eastern Armenian	part	particle
+Eastern Armenian	pl	plural
+Eastern Armenian	poss	possessive
+Eastern Armenian	proh	prohibitive
+Eastern Armenian	prs	present
+Eastern Armenian	prvb	?
+Eastern Armenian	pst	past
+Eastern Armenian	ptcp	participle
+Eastern Armenian	res	resultative
+Eastern Armenian	sbjn	?
+Eastern Armenian	sbjv	subjunctive
+Eastern Armenian	sg	singular
+Eastern Armenian	subj	subjective

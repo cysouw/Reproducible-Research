@@ -1,0 +1,1041 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Chintang	1	EAT	ca	Benefactive	Regularly	
+Chintang	1	EAT	ca	Causative	Regularly	
+Chintang	1	EAT	ca	Locative/absolutive alternation	Never	
+Chintang	1	EAT	ca	Passive participle	Regularly	
+Chintang	1	EAT	ca	Reciprocal	Regularly	
+Chintang	1	EAT	ca	Reciprocal ambitransitivity	Never	
+Chintang	1	EAT	ca	Reflexive	Regularly	
+Chintang	1	EAT	ca	S/A detransitivisation	Regularly	
+Chintang	1	EAT	ca	S/P ambitransitivity	Never	
+Chintang	1	EAT	ca	Theme alternation	Never	
+Chintang	2	HUG	hept	Benefactive	Marginally	
+Chintang	2	HUG	hept	Causative	Regularly	
+Chintang	2	HUG	hept	Locative/absolutive alternation	Never	
+Chintang	2	HUG	hept	Passive participle	Marginally	
+Chintang	2	HUG	hept	Reciprocal	Marginally	
+Chintang	2	HUG	hept	Reciprocal ambitransitivity	Never	
+Chintang	2	HUG	hept	Reflexive	Marginally	
+Chintang	2	HUG	hept	S/A detransitivisation	Regularly	
+Chintang	2	HUG	hept	S/P ambitransitivity	Never	
+Chintang	2	HUG	hept	Theme alternation	Never	
+Chintang	3	LOOK AT	copt	Benefactive	Marginally	
+Chintang	3	LOOK AT	copt	Causative	Regularly	
+Chintang	3	LOOK AT	copt	Locative/absolutive alternation	Never	
+Chintang	3	LOOK AT	copt	Passive participle	Marginally	
+Chintang	3	LOOK AT	copt	Reciprocal	Regularly	
+Chintang	3	LOOK AT	copt	Reciprocal ambitransitivity	Regularly	
+Chintang	3	LOOK AT	copt	Reflexive	Regularly	
+Chintang	3	LOOK AT	copt	S/A detransitivisation	Regularly	
+Chintang	3	LOOK AT	copt	S/P ambitransitivity	Never	
+Chintang	3	LOOK AT	copt	Theme alternation	Never	
+Chintang	4	SEE	khaŋ	Benefactive	Regularly	
+Chintang	4	SEE	khaŋ	Causative	Regularly	
+Chintang	4	SEE	khaŋ	Locative/absolutive alternation	Never	
+Chintang	4	SEE	khaŋ	Passive participle	Regularly	
+Chintang	4	SEE	khaŋ	Reciprocal	Regularly	
+Chintang	4	SEE	khaŋ	Reciprocal ambitransitivity	Never	
+Chintang	4	SEE	khaŋ	Reflexive	Regularly	
+Chintang	4	SEE	khaŋ	S/A detransitivisation	Regularly	
+Chintang	4	SEE	khaŋ	S/P ambitransitivity	Never	
+Chintang	4	SEE	khaŋ	Theme alternation	Never	
+Chintang	5	SMELL	nams	Benefactive	Marginally	
+Chintang	5	SMELL	nams	Causative	Regularly	
+Chintang	5	SMELL	nams	Locative/absolutive alternation	Never	
+Chintang	5	SMELL	nams	Passive participle	Marginally	
+Chintang	5	SMELL	nams	Reciprocal	Marginally	
+Chintang	5	SMELL	nams	Reciprocal ambitransitivity	Never	
+Chintang	5	SMELL	nams	Reflexive	Marginally	
+Chintang	5	SMELL	nams	S/A detransitivisation	Regularly	
+Chintang	5	SMELL	nams	S/P ambitransitivity	Regularly	
+Chintang	5	SMELL	nams	Theme alternation	Never	
+Chintang	6	FEAR	kipma kat	Benefactive	Never	
+Chintang	6	FEAR	kipma kat	Causative	Marginally	
+Chintang	6	FEAR	kipma kat	Locative/absolutive alternation	Never	
+Chintang	6	FEAR	kipma kat	Passive participle	Never	
+Chintang	6	FEAR	kipma kat	Reciprocal	Never	
+Chintang	6	FEAR	kipma kat	Reciprocal ambitransitivity	Never	
+Chintang	6	FEAR	kipma kat	Reflexive	Never	
+Chintang	6	FEAR	kipma kat	S/A detransitivisation	Never	
+Chintang	6	FEAR	kipma kat	S/P ambitransitivity	Never	
+Chintang	6	FEAR	kipma kat	Theme alternation	Never	
+Chintang	6	FEAR	kipma katt	Benefactive	Never	
+Chintang	6	FEAR	kipma katt	Causative	Never	
+Chintang	6	FEAR	kipma katt	Locative/absolutive alternation	Never	
+Chintang	6	FEAR	kipma katt	Passive participle	Never	
+Chintang	6	FEAR	kipma katt	Reciprocal	Marginally	
+Chintang	6	FEAR	kipma katt	Reciprocal ambitransitivity	Never	
+Chintang	6	FEAR	kipma katt	Reflexive	Regularly	
+Chintang	6	FEAR	kipma katt	S/A detransitivisation	Regularly	
+Chintang	6	FEAR	kipma katt	S/P ambitransitivity	Never	
+Chintang	6	FEAR	kipma katt	Theme alternation	Never	
+Chintang	6	FEAR	kitt	Benefactive	Never	
+Chintang	6	FEAR	kitt	Causative	Regularly	
+Chintang	6	FEAR	kitt	Locative/absolutive alternation	Never	
+Chintang	6	FEAR	kitt	Passive participle	Never	
+Chintang	6	FEAR	kitt	Reciprocal	Marginally	
+Chintang	6	FEAR	kitt	Reciprocal ambitransitivity	Never	
+Chintang	6	FEAR	kitt	Reflexive	Marginally	
+Chintang	6	FEAR	kitt	S/A detransitivisation	Regularly	
+Chintang	6	FEAR	kitt	S/P ambitransitivity	Never	
+Chintang	6	FEAR	kitt	Theme alternation	Never	
+Chintang	7	FRIGHTEN	kip-mett	Benefactive	Never	
+Chintang	7	FRIGHTEN	kip-mett	Causative	Never	
+Chintang	7	FRIGHTEN	kip-mett	Locative/absolutive alternation	Never	
+Chintang	7	FRIGHTEN	kip-mett	Passive participle	Marginally	
+Chintang	7	FRIGHTEN	kip-mett	Reciprocal	Marginally	
+Chintang	7	FRIGHTEN	kip-mett	Reciprocal ambitransitivity	Never	
+Chintang	7	FRIGHTEN	kip-mett	Reflexive	Marginally	
+Chintang	7	FRIGHTEN	kip-mett	S/A detransitivisation	Regularly	
+Chintang	7	FRIGHTEN	kip-mett	S/P ambitransitivity	Never	
+Chintang	7	FRIGHTEN	kip-mett	Theme alternation	Never	
+Chintang	8	LIKE	khaŋma les	Benefactive	Marginally	
+Chintang	8	LIKE	khaŋma les	Causative	Marginally	
+Chintang	8	LIKE	khaŋma les	Locative/absolutive alternation	Never	
+Chintang	8	LIKE	khaŋma les	Passive participle	Marginally	
+Chintang	8	LIKE	khaŋma les	Reciprocal	Regularly	
+Chintang	8	LIKE	khaŋma les	Reciprocal ambitransitivity	Never	
+Chintang	8	LIKE	khaŋma les	Reflexive	Marginally	
+Chintang	8	LIKE	khaŋma les	S/A detransitivisation	Regularly	
+Chintang	8	LIKE	khaŋma les	S/P ambitransitivity	Never	
+Chintang	8	LIKE	khaŋma les	Theme alternation	Never	
+Chintang	9	KNOW	mɨksi-khaŋ	Benefactive	Marginally	
+Chintang	9	KNOW	mɨksi-khaŋ	Causative	Marginally	
+Chintang	9	KNOW	mɨksi-khaŋ	Locative/absolutive alternation	Never	
+Chintang	9	KNOW	mɨksi-khaŋ	Passive participle	Marginally	
+Chintang	9	KNOW	mɨksi-khaŋ	Reciprocal	Regularly	
+Chintang	9	KNOW	mɨksi-khaŋ	Reciprocal ambitransitivity	Never	
+Chintang	9	KNOW	mɨksi-khaŋ	Reflexive	Marginally	
+Chintang	9	KNOW	mɨksi-khaŋ	S/A detransitivisation	Regularly	
+Chintang	9	KNOW	mɨksi-khaŋ	S/P ambitransitivity	Never	
+Chintang	9	KNOW	mɨksi-khaŋ	Theme alternation	Never	
+Chintang	9	KNOW	nis	Benefactive	Marginally	
+Chintang	9	KNOW	nis	Causative	Marginally	
+Chintang	9	KNOW	nis	Locative/absolutive alternation	Never	
+Chintang	9	KNOW	nis	Passive participle	Marginally	
+Chintang	9	KNOW	nis	Reciprocal	Regularly	
+Chintang	9	KNOW	nis	Reciprocal ambitransitivity	Never	
+Chintang	9	KNOW	nis	Reflexive	Marginally	
+Chintang	9	KNOW	nis	S/A detransitivisation	Regularly	
+Chintang	9	KNOW	nis	S/P ambitransitivity	Never	
+Chintang	9	KNOW	nis	Theme alternation	Never	
+Chintang	10	THINK	mitt	Benefactive	Marginally	
+Chintang	10	THINK	mitt	Causative	Marginally	
+Chintang	10	THINK	mitt	Locative/absolutive alternation	Never	
+Chintang	10	THINK	mitt	Passive participle	Regularly	
+Chintang	10	THINK	mitt	Reciprocal	Marginally	
+Chintang	10	THINK	mitt	Reciprocal ambitransitivity	Never	
+Chintang	10	THINK	mitt	Reflexive	Marginally	
+Chintang	10	THINK	mitt	S/A detransitivisation	Regularly	
+Chintang	10	THINK	mitt	S/P ambitransitivity	Never	
+Chintang	10	THINK	mitt	Theme alternation	Never	
+Chintang	11	SEARCH FOR	kond	Benefactive	Regularly	
+Chintang	11	SEARCH FOR	kond	Causative	Regularly	
+Chintang	11	SEARCH FOR	kond	Locative/absolutive alternation	Never	
+Chintang	11	SEARCH FOR	kond	Passive participle	Marginally	
+Chintang	11	SEARCH FOR	kond	Reciprocal	Regularly	
+Chintang	11	SEARCH FOR	kond	Reciprocal ambitransitivity	Never	
+Chintang	11	SEARCH FOR	kond	Reflexive	Marginally	
+Chintang	11	SEARCH FOR	kond	S/A detransitivisation	Regularly	
+Chintang	11	SEARCH FOR	kond	S/P ambitransitivity	Never	
+Chintang	11	SEARCH FOR	kond	Theme alternation	Never	
+Chintang	12	WASH	wa-chid-	Benefactive	Regularly	
+Chintang	12	WASH	wa-chid-	Causative	Regularly	
+Chintang	12	WASH	wa-chid-	Locative/absolutive alternation	Never	
+Chintang	12	WASH	wa-chid-	Passive participle	Marginally	
+Chintang	12	WASH	wa-chid-	Reciprocal	Marginally	
+Chintang	12	WASH	wa-chid-	Reciprocal ambitransitivity	Never	
+Chintang	12	WASH	wa-chid-	Reflexive	Never	
+Chintang	12	WASH	wa-chid-	S/A detransitivisation	Regularly	
+Chintang	12	WASH	wa-chid-	S/P ambitransitivity	Never	
+Chintang	12	WASH	wa-chid-	Theme alternation	Never	
+Chintang	12	WASH	wa-dhapt	Benefactive	Regularly	
+Chintang	12	WASH	wa-dhapt	Causative	Marginally	
+Chintang	12	WASH	wa-dhapt	Locative/absolutive alternation	Never	
+Chintang	12	WASH	wa-dhapt	Passive participle	Marginally	
+Chintang	12	WASH	wa-dhapt	Reciprocal	Never	
+Chintang	12	WASH	wa-dhapt	Reciprocal ambitransitivity	Never	
+Chintang	12	WASH	wa-dhapt	Reflexive	Never	
+Chintang	12	WASH	wa-dhapt	S/A detransitivisation	Regularly	
+Chintang	12	WASH	wa-dhapt	S/P ambitransitivity	Never	
+Chintang	12	WASH	wa-dhapt	Theme alternation	Never	
+Chintang	12	WASH	wa-lekt	Benefactive	Regularly	
+Chintang	12	WASH	wa-lekt	Causative	Marginally	
+Chintang	12	WASH	wa-lekt	Locative/absolutive alternation	Never	
+Chintang	12	WASH	wa-lekt	Passive participle	Marginally	
+Chintang	12	WASH	wa-lekt	Reciprocal	Never	
+Chintang	12	WASH	wa-lekt	Reciprocal ambitransitivity	Never	
+Chintang	12	WASH	wa-lekt	Reflexive	Never	
+Chintang	12	WASH	wa-lekt	S/A detransitivisation	Regularly	
+Chintang	12	WASH	wa-lekt	S/P ambitransitivity	Never	
+Chintang	12	WASH	wa-lekt	Theme alternation	Never	
+Chintang	12	WASH	wahu-mett	Benefactive	Never	
+Chintang	12	WASH	wahu-mett	Causative	Never	
+Chintang	12	WASH	wahu-mett	Locative/absolutive alternation	Never	
+Chintang	12	WASH	wahu-mett	Passive participle	Marginally	
+Chintang	12	WASH	wahu-mett	Reciprocal	Regularly	
+Chintang	12	WASH	wahu-mett	Reciprocal ambitransitivity	Never	
+Chintang	12	WASH	wahu-mett	Reflexive	Regularly	
+Chintang	12	WASH	wahu-mett	S/A detransitivisation	Regularly	
+Chintang	12	WASH	wahu-mett	S/P ambitransitivity	Never	
+Chintang	12	WASH	wahu-mett	Theme alternation	Never	
+Chintang	13	DRESS	waiʔ-mett	Benefactive	Never	
+Chintang	13	DRESS	waiʔ-mett	Causative	Never	
+Chintang	13	DRESS	waiʔ-mett	Locative/absolutive alternation	Never	
+Chintang	13	DRESS	waiʔ-mett	Passive participle	Never	
+Chintang	13	DRESS	waiʔ-mett	Reciprocal	Marginally	
+Chintang	13	DRESS	waiʔ-mett	Reciprocal ambitransitivity	Never	
+Chintang	13	DRESS	waiʔ-mett	Reflexive	Marginally	
+Chintang	13	DRESS	waiʔ-mett	S/A detransitivisation	Regularly	
+Chintang	13	DRESS	waiʔ-mett	S/P ambitransitivity	Never	
+Chintang	13	DRESS	waiʔ-mett	Theme alternation	Never	
+Chintang	14	SHAVE (a body part/person)	khos	Benefactive	Marginally	
+Chintang	14	SHAVE (a body part/person)	khos	Causative	Regularly	
+Chintang	14	SHAVE (a body part/person)	khos	Locative/absolutive alternation	Never	
+Chintang	14	SHAVE (a body part/person)	khos	Passive participle	Marginally	
+Chintang	14	SHAVE (a body part/person)	khos	Reciprocal	Marginally	
+Chintang	14	SHAVE (a body part/person)	khos	Reciprocal ambitransitivity	Never	
+Chintang	14	SHAVE (a body part/person)	khos	Reflexive	Marginally	
+Chintang	14	SHAVE (a body part/person)	khos	S/A detransitivisation	Regularly	
+Chintang	14	SHAVE (a body part/person)	khos	S/P ambitransitivity	Never	
+Chintang	14	SHAVE (a body part/person)	khos	Theme alternation	Never	
+Chintang	15	HELP	phad	Benefactive	Marginally	
+Chintang	15	HELP	phad	Causative	Marginally	
+Chintang	15	HELP	phad	Locative/absolutive alternation	Never	
+Chintang	15	HELP	phad	Passive participle	Marginally	
+Chintang	15	HELP	phad	Reciprocal	Regularly	
+Chintang	15	HELP	phad	Reciprocal ambitransitivity	Never	
+Chintang	15	HELP	phad	Reflexive	Never	
+Chintang	15	HELP	phad	S/A detransitivisation	Regularly	
+Chintang	15	HELP	phad	S/P ambitransitivity	Never	
+Chintang	15	HELP	phad	Theme alternation	Never	
+Chintang	16	FOLLOW	rɨkt	Benefactive	Regularly	
+Chintang	16	FOLLOW	rɨkt	Causative	Regularly	
+Chintang	16	FOLLOW	rɨkt	Locative/absolutive alternation	Never	
+Chintang	16	FOLLOW	rɨkt	Passive participle	Marginally	
+Chintang	16	FOLLOW	rɨkt	Reciprocal	Regularly	
+Chintang	16	FOLLOW	rɨkt	Reciprocal ambitransitivity	Never	
+Chintang	16	FOLLOW	rɨkt	Reflexive	Never	
+Chintang	16	FOLLOW	rɨkt	S/A detransitivisation	Regularly	
+Chintang	16	FOLLOW	rɨkt	S/P ambitransitivity	Never	
+Chintang	16	FOLLOW	rɨkt	Theme alternation	Never	
+Chintang	17	MEET	tok	Benefactive	Marginally	
+Chintang	17	MEET	tok	Causative	Marginally	
+Chintang	17	MEET	tok	Locative/absolutive alternation	Never	
+Chintang	17	MEET	tok	Passive participle	Marginally	
+Chintang	17	MEET	tok	Reciprocal	Marginally	
+Chintang	17	MEET	tok	Reciprocal ambitransitivity	Never	
+Chintang	17	MEET	tok	Reflexive	Marginally	
+Chintang	17	MEET	tok	S/A detransitivisation	Regularly	
+Chintang	17	MEET	tok	S/P ambitransitivity	Never	
+Chintang	17	MEET	tok	Theme alternation	Never	
+Chintang	17	MEET	tup	Benefactive	Marginally	
+Chintang	17	MEET	tup	Causative	Marginally	
+Chintang	17	MEET	tup	Locative/absolutive alternation	Never	
+Chintang	17	MEET	tup	Passive participle	Marginally	
+Chintang	17	MEET	tup	Reciprocal	Marginally	
+Chintang	17	MEET	tup	Reciprocal ambitransitivity	Regularly	
+Chintang	17	MEET	tup	Reflexive	Never	
+Chintang	17	MEET	tup	S/A detransitivisation	Marginally	
+Chintang	17	MEET	tup	S/P ambitransitivity	Never	
+Chintang	17	MEET	tup	Theme alternation	Never	
+Chintang	18	TALK	hand	Benefactive	Marginally	
+Chintang	18	TALK	hand	Causative	Regularly	
+Chintang	18	TALK	hand	Locative/absolutive alternation	Never	
+Chintang	18	TALK	hand	Passive participle	Marginally	
+Chintang	18	TALK	hand	Reciprocal	Never	
+Chintang	18	TALK	hand	Reciprocal ambitransitivity	Never	
+Chintang	18	TALK	hand	Reflexive	Never	
+Chintang	18	TALK	hand	S/A detransitivisation	Regularly	
+Chintang	18	TALK	hand	S/P ambitransitivity	Never	
+Chintang	18	TALK	hand	Theme alternation	Never	
+Chintang	19	ASK FOR	nakt	Benefactive	Regularly	
+Chintang	19	ASK FOR	nakt	Causative	Marginally	
+Chintang	19	ASK FOR	nakt	Locative/absolutive alternation	Never	
+Chintang	19	ASK FOR	nakt	Passive participle	Marginally	
+Chintang	19	ASK FOR	nakt	Reciprocal	Regularly	
+Chintang	19	ASK FOR	nakt	Reciprocal ambitransitivity	Never	
+Chintang	19	ASK FOR	nakt	Reflexive	Marginally	
+Chintang	19	ASK FOR	nakt	S/A detransitivisation	Regularly	
+Chintang	19	ASK FOR	nakt	S/P ambitransitivity	Never	
+Chintang	19	ASK FOR	nakt	Theme alternation	Never	
+Chintang	20	SHOUT AT	ratt	Benefactive	Marginally	
+Chintang	20	SHOUT AT	ratt	Causative	Regularly	
+Chintang	20	SHOUT AT	ratt	Locative/absolutive alternation	Never	
+Chintang	20	SHOUT AT	ratt	Passive participle	Marginally	
+Chintang	20	SHOUT AT	ratt	Reciprocal	Marginally	
+Chintang	20	SHOUT AT	ratt	Reciprocal ambitransitivity	Never	
+Chintang	20	SHOUT AT	ratt	Reflexive	Marginally	
+Chintang	20	SHOUT AT	ratt	S/A detransitivisation	Regularly	
+Chintang	20	SHOUT AT	ratt	S/P ambitransitivity	Never	
+Chintang	20	SHOUT AT	ratt	Theme alternation	Never	
+Chintang	21	TELL	lud	Benefactive	Marginally	
+Chintang	21	TELL	lud	Causative	Regularly	
+Chintang	21	TELL	lud	Locative/absolutive alternation	Never	
+Chintang	21	TELL	lud	Passive participle	Marginally	
+Chintang	21	TELL	lud	Reciprocal	Marginally	
+Chintang	21	TELL	lud	Reciprocal ambitransitivity	Never	
+Chintang	21	TELL	lud	Reflexive	Marginally	
+Chintang	21	TELL	lud	S/A detransitivisation	Regularly	
+Chintang	21	TELL	lud	S/P ambitransitivity	Never	
+Chintang	21	TELL	lud	Theme alternation	Never	
+Chintang	22	SAY	lud	Benefactive	Marginally	
+Chintang	22	SAY	lud	Causative	Regularly	
+Chintang	22	SAY	lud	Locative/absolutive alternation	Never	
+Chintang	22	SAY	lud	Passive participle	Marginally	
+Chintang	22	SAY	lud	Reciprocal	Marginally	
+Chintang	22	SAY	lud	Reciprocal ambitransitivity	Never	
+Chintang	22	SAY	lud	Reflexive	Marginally	
+Chintang	22	SAY	lud	S/A detransitivisation	Regularly	
+Chintang	22	SAY	lud	S/P ambitransitivity	Never	
+Chintang	22	SAY	lud	Theme alternation	Never	
+Chintang	23	NAME	lud	Benefactive	Marginally	
+Chintang	23	NAME	lud	Causative	Regularly	
+Chintang	23	NAME	lud	Locative/absolutive alternation	Never	
+Chintang	23	NAME	lud	Passive participle	Marginally	
+Chintang	23	NAME	lud	Reciprocal	Marginally	
+Chintang	23	NAME	lud	Reciprocal ambitransitivity	Never	
+Chintang	23	NAME	lud	Reflexive	Marginally	
+Chintang	23	NAME	lud	S/A detransitivisation	Regularly	
+Chintang	23	NAME	lud	S/P ambitransitivity	Never	
+Chintang	23	NAME	lud	Theme alternation	Never	
+Chintang	23	NAME	patt	Benefactive	Regularly	
+Chintang	23	NAME	patt	Causative	Marginally	
+Chintang	23	NAME	patt	Locative/absolutive alternation	Never	
+Chintang	23	NAME	patt	Passive participle	Marginally	
+Chintang	23	NAME	patt	Reciprocal	Marginally	
+Chintang	23	NAME	patt	Reciprocal ambitransitivity	Never	
+Chintang	23	NAME	patt	Reflexive	Marginally	
+Chintang	23	NAME	patt	S/A detransitivisation	Regularly	
+Chintang	23	NAME	patt	S/P ambitransitivity	Never	
+Chintang	23	NAME	patt	Theme alternation	Never	
+Chintang	24	BUILD	numd	Benefactive	Regularly	
+Chintang	24	BUILD	numd	Causative	Regularly	
+Chintang	24	BUILD	numd	Locative/absolutive alternation	Never	
+Chintang	24	BUILD	numd	Passive participle	Marginally	
+Chintang	24	BUILD	numd	Reciprocal	Never	
+Chintang	24	BUILD	numd	Reciprocal ambitransitivity	Never	
+Chintang	24	BUILD	numd	Reflexive	Never	
+Chintang	24	BUILD	numd	S/A detransitivisation	Regularly	
+Chintang	24	BUILD	numd	S/P ambitransitivity	Never	
+Chintang	24	BUILD	numd	Theme alternation	Never	
+Chintang	25	BREAK	ket	Benefactive	Regularly	
+Chintang	25	BREAK	ket	Causative	Marginally	
+Chintang	25	BREAK	ket	Locative/absolutive alternation	Never	
+Chintang	25	BREAK	ket	Passive participle	Marginally	
+Chintang	25	BREAK	ket	Reciprocal	Marginally	
+Chintang	25	BREAK	ket	Reciprocal ambitransitivity	Never	
+Chintang	25	BREAK	ket	Reflexive	Marginally	
+Chintang	25	BREAK	ket	S/A detransitivisation	Regularly	
+Chintang	25	BREAK	ket	S/P ambitransitivity	Regularly	
+Chintang	25	BREAK	ket	Theme alternation	Never	
+Chintang	25	BREAK	ot	Benefactive	Regularly	
+Chintang	25	BREAK	ot	Causative	Marginally	
+Chintang	25	BREAK	ot	Locative/absolutive alternation	Never	
+Chintang	25	BREAK	ot	Passive participle	Marginally	
+Chintang	25	BREAK	ot	Reciprocal	Marginally	
+Chintang	25	BREAK	ot	Reciprocal ambitransitivity	Never	
+Chintang	25	BREAK	ot	Reflexive	Marginally	
+Chintang	25	BREAK	ot	S/A detransitivisation	Regularly	
+Chintang	25	BREAK	ot	S/P ambitransitivity	Regularly	
+Chintang	25	BREAK	ot	Theme alternation	Never	
+Chintang	26	KILL	set	Benefactive	Regularly	
+Chintang	26	KILL	set	Causative	Regularly	
+Chintang	26	KILL	set	Locative/absolutive alternation	Never	
+Chintang	26	KILL	set	Passive participle	Marginally	
+Chintang	26	KILL	set	Reciprocal	Regularly	
+Chintang	26	KILL	set	Reciprocal ambitransitivity	Never	
+Chintang	26	KILL	set	Reflexive	Marginally	
+Chintang	26	KILL	set	S/A detransitivisation	Regularly	
+Chintang	26	KILL	set	S/P ambitransitivity	Never	
+Chintang	26	KILL	set	Theme alternation	Never	
+Chintang	27	BEAT	ten	Benefactive	Regularly	
+Chintang	27	BEAT	ten	Causative	Marginally	
+Chintang	27	BEAT	ten	Locative/absolutive alternation	Never	
+Chintang	27	BEAT	ten	Passive participle	Marginally	
+Chintang	27	BEAT	ten	Reciprocal	Regularly	
+Chintang	27	BEAT	ten	Reciprocal ambitransitivity	Never	
+Chintang	27	BEAT	ten	Reflexive	Regularly	
+Chintang	27	BEAT	ten	S/A detransitivisation	Regularly	
+Chintang	27	BEAT	ten	S/P ambitransitivity	Never	
+Chintang	27	BEAT	ten	Theme alternation	Never	
+Chintang	27	BEAT	thatt	Benefactive	Marginally	
+Chintang	27	BEAT	thatt	Causative	Marginally	
+Chintang	27	BEAT	thatt	Locative/absolutive alternation	Never	
+Chintang	27	BEAT	thatt	Passive participle	Marginally	
+Chintang	27	BEAT	thatt	Reciprocal	Marginally	
+Chintang	27	BEAT	thatt	Reciprocal ambitransitivity	Never	
+Chintang	27	BEAT	thatt	Reflexive	Marginally	
+Chintang	27	BEAT	thatt	S/A detransitivisation	Regularly	
+Chintang	27	BEAT	thatt	S/P ambitransitivity	Never	
+Chintang	27	BEAT	thatt	Theme alternation	Never	
+Chintang	28	HIT	ten	Benefactive	Regularly	
+Chintang	28	HIT	ten	Causative	Marginally	
+Chintang	28	HIT	ten	Locative/absolutive alternation	Never	
+Chintang	28	HIT	ten	Passive participle	Marginally	
+Chintang	28	HIT	ten	Reciprocal	Regularly	
+Chintang	28	HIT	ten	Reciprocal ambitransitivity	Never	
+Chintang	28	HIT	ten	Reflexive	Regularly	
+Chintang	28	HIT	ten	S/A detransitivisation	Regularly	
+Chintang	28	HIT	ten	S/P ambitransitivity	Never	
+Chintang	28	HIT	ten	Theme alternation	Never	
+Chintang	29	TOUCH	nop	Benefactive	Marginally	
+Chintang	29	TOUCH	nop	Causative	Marginally	
+Chintang	29	TOUCH	nop	Locative/absolutive alternation	Never	
+Chintang	29	TOUCH	nop	Passive participle	Marginally	
+Chintang	29	TOUCH	nop	Reciprocal	Marginally	
+Chintang	29	TOUCH	nop	Reciprocal ambitransitivity	Never	
+Chintang	29	TOUCH	nop	Reflexive	Marginally	
+Chintang	29	TOUCH	nop	S/A detransitivisation	Regularly	
+Chintang	29	TOUCH	nop	S/P ambitransitivity	Never	
+Chintang	29	TOUCH	nop	Theme alternation	Never	
+Chintang	30	CUT	kɨpt	Benefactive	Regularly	
+Chintang	30	CUT	kɨpt	Causative	Regularly	
+Chintang	30	CUT	kɨpt	Locative/absolutive alternation	Never	
+Chintang	30	CUT	kɨpt	Passive participle	Marginally	
+Chintang	30	CUT	kɨpt	Reciprocal	Marginally	
+Chintang	30	CUT	kɨpt	Reciprocal ambitransitivity	Never	
+Chintang	30	CUT	kɨpt	Reflexive	Marginally	
+Chintang	30	CUT	kɨpt	S/A detransitivisation	Regularly	
+Chintang	30	CUT	kɨpt	S/P ambitransitivity	Never	
+Chintang	30	CUT	kɨpt	Theme alternation	Never	
+Chintang	31	TAKE	khatt	Benefactive	Regularly	
+Chintang	31	TAKE	khatt	Causative	Regularly	
+Chintang	31	TAKE	khatt	Locative/absolutive alternation	Regularly	
+Chintang	31	TAKE	khatt	Passive participle	Marginally	
+Chintang	31	TAKE	khatt	Reciprocal	Marginally	
+Chintang	31	TAKE	khatt	Reciprocal ambitransitivity	Never	
+Chintang	31	TAKE	khatt	Reflexive	Marginally	
+Chintang	31	TAKE	khatt	S/A detransitivisation	Regularly	
+Chintang	31	TAKE	khatt	S/P ambitransitivity	Never	
+Chintang	31	TAKE	khatt	Theme alternation	Never	
+Chintang	32	TEAR	rek	Benefactive	Regularly	
+Chintang	32	TEAR	rek	Causative	Regularly	
+Chintang	32	TEAR	rek	Locative/absolutive alternation	Never	
+Chintang	32	TEAR	rek	Passive participle	Marginally	
+Chintang	32	TEAR	rek	Reciprocal	Marginally	
+Chintang	32	TEAR	rek	Reciprocal ambitransitivity	Never	
+Chintang	32	TEAR	rek	Reflexive	Marginally	
+Chintang	32	TEAR	rek	S/A detransitivisation	Regularly	
+Chintang	32	TEAR	rek	S/P ambitransitivity	Regularly	
+Chintang	32	TEAR	rek	Theme alternation	Never	
+Chintang	33	PEEL	ok	Benefactive	Regularly	
+Chintang	33	PEEL	ok	Causative	Regularly	
+Chintang	33	PEEL	ok	Locative/absolutive alternation	Never	
+Chintang	33	PEEL	ok	Passive participle	Regularly	
+Chintang	33	PEEL	ok	Reciprocal	Never	
+Chintang	33	PEEL	ok	Reciprocal ambitransitivity	Never	
+Chintang	33	PEEL	ok	Reflexive	Never	
+Chintang	33	PEEL	ok	S/A detransitivisation	Regularly	
+Chintang	33	PEEL	ok	S/P ambitransitivity	Never	
+Chintang	33	PEEL	ok	Theme alternation	Never	
+Chintang	34	HIDE	tek	Benefactive	Regularly	
+Chintang	34	HIDE	tek	Causative	Regularly	
+Chintang	34	HIDE	tek	Locative/absolutive alternation	Never	
+Chintang	34	HIDE	tek	Passive participle	Marginally	
+Chintang	34	HIDE	tek	Reciprocal	Marginally	
+Chintang	34	HIDE	tek	Reciprocal ambitransitivity	Never	
+Chintang	34	HIDE	tek	Reflexive	Regularly	
+Chintang	34	HIDE	tek	S/A detransitivisation	Regularly	
+Chintang	34	HIDE	tek	S/P ambitransitivity	Never	
+Chintang	34	HIDE	tek	Theme alternation	Never	
+Chintang	35	SHOW	khaŋ-mett	Benefactive	Never	
+Chintang	35	SHOW	khaŋ-mett	Causative	Never	
+Chintang	35	SHOW	khaŋ-mett	Locative/absolutive alternation	Never	
+Chintang	35	SHOW	khaŋ-mett	Passive participle	Never	
+Chintang	35	SHOW	khaŋ-mett	Reciprocal	Regularly	
+Chintang	35	SHOW	khaŋ-mett	Reciprocal ambitransitivity	Never	
+Chintang	35	SHOW	khaŋ-mett	Reflexive	Regularly	
+Chintang	35	SHOW	khaŋ-mett	S/A detransitivisation	Regularly	
+Chintang	35	SHOW	khaŋ-mett	S/P ambitransitivity	Never	
+Chintang	35	SHOW	khaŋ-mett	Theme alternation	Never	
+Chintang	36	GIVE	pid	Benefactive	Marginally	
+Chintang	36	GIVE	pid	Causative	Marginally	
+Chintang	36	GIVE	pid	Locative/absolutive alternation	Never	
+Chintang	36	GIVE	pid	Passive participle	Marginally	
+Chintang	36	GIVE	pid	Reciprocal	Regularly	
+Chintang	36	GIVE	pid	Reciprocal ambitransitivity	Never	
+Chintang	36	GIVE	pid	Reflexive	Regularly	
+Chintang	36	GIVE	pid	S/A detransitivisation	Regularly	
+Chintang	36	GIVE	pid	S/P ambitransitivity	Never	
+Chintang	36	GIVE	pid	Theme alternation	Never	
+Chintang	37	SEND	hakt	Benefactive	Never	
+Chintang	37	SEND	hakt	Causative	Marginally	
+Chintang	37	SEND	hakt	Locative/absolutive alternation	Never	
+Chintang	37	SEND	hakt	Passive participle	Marginally	
+Chintang	37	SEND	hakt	Reciprocal	Marginally	
+Chintang	37	SEND	hakt	Reciprocal ambitransitivity	Never	
+Chintang	37	SEND	hakt	Reflexive	Marginally	
+Chintang	37	SEND	hakt	S/A detransitivisation	Regularly	
+Chintang	37	SEND	hakt	S/P ambitransitivity	Never	
+Chintang	37	SEND	hakt	Theme alternation	Never	
+Chintang	37	SEND	haŋs	Benefactive	Marginally	
+Chintang	37	SEND	haŋs	Causative	Marginally	
+Chintang	37	SEND	haŋs	Locative/absolutive alternation	Regularly	
+Chintang	37	SEND	haŋs	Passive participle	Marginally	
+Chintang	37	SEND	haŋs	Reciprocal	Marginally	
+Chintang	37	SEND	haŋs	Reciprocal ambitransitivity	Never	
+Chintang	37	SEND	haŋs	Reflexive	Never	
+Chintang	37	SEND	haŋs	S/A detransitivisation	Regularly	
+Chintang	37	SEND	haŋs	S/P ambitransitivity	Never	
+Chintang	37	SEND	haŋs	Theme alternation	Never	
+Chintang	38	CARRY	khur	Benefactive	Marginally	
+Chintang	38	CARRY	khur	Causative	Regularly	
+Chintang	38	CARRY	khur	Locative/absolutive alternation	Never	
+Chintang	38	CARRY	khur	Passive participle	Marginally	
+Chintang	38	CARRY	khur	Reciprocal	Marginally	
+Chintang	38	CARRY	khur	Reciprocal ambitransitivity	Never	
+Chintang	38	CARRY	khur	Reflexive	Marginally	
+Chintang	38	CARRY	khur	S/A detransitivisation	Regularly	
+Chintang	38	CARRY	khur	S/P ambitransitivity	Regularly	
+Chintang	38	CARRY	khur	Theme alternation	Never	
+Chintang	38	CARRY	khutt	Benefactive	Regularly	
+Chintang	38	CARRY	khutt	Causative	Regularly	
+Chintang	38	CARRY	khutt	Locative/absolutive alternation	Never	
+Chintang	38	CARRY	khutt	Passive participle	Marginally	
+Chintang	38	CARRY	khutt	Reciprocal	Marginally	
+Chintang	38	CARRY	khutt	Reciprocal ambitransitivity	Never	
+Chintang	38	CARRY	khutt	Reflexive	Marginally	
+Chintang	38	CARRY	khutt	S/A detransitivisation	Regularly	
+Chintang	38	CARRY	khutt	S/P ambitransitivity	Never	
+Chintang	38	CARRY	khutt	Theme alternation	Never	
+Chintang	39	THROW	or	Benefactive	Regularly	
+Chintang	39	THROW	or	Causative	Regularly	
+Chintang	39	THROW	or	Locative/absolutive alternation	Never	
+Chintang	39	THROW	or	Passive participle	Regularly	
+Chintang	39	THROW	or	Reciprocal	Marginally	
+Chintang	39	THROW	or	Reciprocal ambitransitivity	Never	
+Chintang	39	THROW	or	Reflexive	Regularly	
+Chintang	39	THROW	or	S/A detransitivisation	Regularly	
+Chintang	39	THROW	or	S/P ambitransitivity	Never	
+Chintang	39	THROW	or	Theme alternation	Never	
+Chintang	39	THROW	os	Benefactive	Regularly	
+Chintang	39	THROW	os	Causative	Marginally	
+Chintang	39	THROW	os	Locative/absolutive alternation	Regularly	
+Chintang	39	THROW	os	Passive participle	Regularly	
+Chintang	39	THROW	os	Reciprocal	Marginally	
+Chintang	39	THROW	os	Reciprocal ambitransitivity	Never	
+Chintang	39	THROW	os	Reflexive	Regularly	
+Chintang	39	THROW	os	S/A detransitivisation	Regularly	
+Chintang	39	THROW	os	S/P ambitransitivity	Never	
+Chintang	39	THROW	os	Theme alternation	Never	
+Chintang	40	TIE	chud	Benefactive	Regularly	
+Chintang	40	TIE	chud	Causative	Marginally	
+Chintang	40	TIE	chud	Locative/absolutive alternation	Never	
+Chintang	40	TIE	chud	Passive participle	Marginally	
+Chintang	40	TIE	chud	Reciprocal	Marginally	
+Chintang	40	TIE	chud	Reciprocal ambitransitivity	Never	
+Chintang	40	TIE	chud	Reflexive	Marginally	
+Chintang	40	TIE	chud	S/A detransitivisation	Regularly	
+Chintang	40	TIE	chud	S/P ambitransitivity	Never	
+Chintang	40	TIE	chud	Theme alternation	Never	
+Chintang	41	PUT	yuŋs	Benefactive	Regularly	
+Chintang	41	PUT	yuŋs	Causative	Regularly	
+Chintang	41	PUT	yuŋs	Locative/absolutive alternation	Never	
+Chintang	41	PUT	yuŋs	Passive participle	Regularly	
+Chintang	41	PUT	yuŋs	Reciprocal	Marginally	
+Chintang	41	PUT	yuŋs	Reciprocal ambitransitivity	Never	
+Chintang	41	PUT	yuŋs	Reflexive	Marginally	
+Chintang	41	PUT	yuŋs	S/A detransitivisation	Regularly	
+Chintang	41	PUT	yuŋs	S/P ambitransitivity	Never	
+Chintang	41	PUT	yuŋs	Theme alternation	Never	
+Chintang	42	POUR	bhare numd	Benefactive	Marginally	
+Chintang	42	POUR	bhare numd	Causative	Marginally	
+Chintang	42	POUR	bhare numd	Locative/absolutive alternation	Never	
+Chintang	42	POUR	bhare numd	Passive participle	Marginally	
+Chintang	42	POUR	bhare numd	Reciprocal	Never	
+Chintang	42	POUR	bhare numd	Reciprocal ambitransitivity	Never	
+Chintang	42	POUR	bhare numd	Reflexive	Never	
+Chintang	42	POUR	bhare numd	S/A detransitivisation	Regularly	
+Chintang	42	POUR	bhare numd	S/P ambitransitivity	Never	
+Chintang	42	POUR	bhare numd	Theme alternation	Marginally	
+Chintang	43	COVER	bhukt	Benefactive	Marginally	
+Chintang	43	COVER	bhukt	Causative	Regularly	
+Chintang	43	COVER	bhukt	Locative/absolutive alternation	Never	
+Chintang	43	COVER	bhukt	Passive participle	Regularly	
+Chintang	43	COVER	bhukt	Reciprocal	Regularly	
+Chintang	43	COVER	bhukt	Reciprocal ambitransitivity	Never	
+Chintang	43	COVER	bhukt	Reflexive	Regularly	
+Chintang	43	COVER	bhukt	S/A detransitivisation	Regularly	
+Chintang	43	COVER	bhukt	S/P ambitransitivity	Never	
+Chintang	43	COVER	bhukt	Theme alternation	Regularly	
+Chintang	44	FILL	bhare numd	Benefactive	Marginally	
+Chintang	44	FILL	bhare numd	Causative	Marginally	
+Chintang	44	FILL	bhare numd	Locative/absolutive alternation	Never	
+Chintang	44	FILL	bhare numd	Passive participle	Marginally	
+Chintang	44	FILL	bhare numd	Reciprocal	Never	
+Chintang	44	FILL	bhare numd	Reciprocal ambitransitivity	Never	
+Chintang	44	FILL	bhare numd	Reflexive	Never	
+Chintang	44	FILL	bhare numd	S/A detransitivisation	Regularly	
+Chintang	44	FILL	bhare numd	S/P ambitransitivity	Never	
+Chintang	44	FILL	bhare numd	Theme alternation	Marginally	
+Chintang	44	FILL	tipt	Benefactive	Marginally	
+Chintang	44	FILL	tipt	Causative	Marginally	
+Chintang	44	FILL	tipt	Locative/absolutive alternation	Never	
+Chintang	44	FILL	tipt	Passive participle	Never	
+Chintang	44	FILL	tipt	Reciprocal	Never	
+Chintang	44	FILL	tipt	Reciprocal ambitransitivity	Never	
+Chintang	44	FILL	tipt	Reflexive	Never	
+Chintang	44	FILL	tipt	S/A detransitivisation	Regularly	
+Chintang	44	FILL	tipt	S/P ambitransitivity	Regularly	
+Chintang	44	FILL	tipt	Theme alternation	Never	
+Chintang	45	LOAD	yuŋs	Benefactive	Regularly	
+Chintang	45	LOAD	yuŋs	Causative	Regularly	
+Chintang	45	LOAD	yuŋs	Locative/absolutive alternation	Never	
+Chintang	45	LOAD	yuŋs	Passive participle	Regularly	
+Chintang	45	LOAD	yuŋs	Reciprocal	Marginally	
+Chintang	45	LOAD	yuŋs	Reciprocal ambitransitivity	Never	
+Chintang	45	LOAD	yuŋs	Reflexive	Marginally	
+Chintang	45	LOAD	yuŋs	S/A detransitivisation	Regularly	
+Chintang	45	LOAD	yuŋs	S/P ambitransitivity	Never	
+Chintang	45	LOAD	yuŋs	Theme alternation	Never	
+Chintang	46	BLINK	sipt (1)	Benefactive	Marginally	
+Chintang	46	BLINK	sipt (1)	Causative	Marginally	
+Chintang	46	BLINK	sipt (1)	Locative/absolutive alternation	Never	
+Chintang	46	BLINK	sipt (1)	Passive participle	Marginally	
+Chintang	46	BLINK	sipt (1)	Reciprocal	Never	
+Chintang	46	BLINK	sipt (1)	Reciprocal ambitransitivity	Never	
+Chintang	46	BLINK	sipt (1)	Reflexive	Marginally	
+Chintang	46	BLINK	sipt (1)	S/A detransitivisation	Regularly	
+Chintang	46	BLINK	sipt (1)	S/P ambitransitivity	Regularly	
+Chintang	46	BLINK	sipt (1)	Theme alternation	Never	
+Chintang	47	COUGH	chuŋs	Benefactive	Never	
+Chintang	47	COUGH	chuŋs	Causative	Marginally	
+Chintang	47	COUGH	chuŋs	Locative/absolutive alternation	Never	
+Chintang	47	COUGH	chuŋs	Passive participle	Never	
+Chintang	47	COUGH	chuŋs	Reciprocal	Never	
+Chintang	47	COUGH	chuŋs	Reciprocal ambitransitivity	Never	
+Chintang	47	COUGH	chuŋs	Reflexive	Never	
+Chintang	47	COUGH	chuŋs	S/A detransitivisation	Never	
+Chintang	47	COUGH	chuŋs	S/P ambitransitivity	Never	
+Chintang	47	COUGH	chuŋs	Theme alternation	Never	
+Chintang	48	CLIMB	sopt	Benefactive	Marginally	
+Chintang	48	CLIMB	sopt	Causative	Marginally	
+Chintang	48	CLIMB	sopt	Locative/absolutive alternation	Never	
+Chintang	48	CLIMB	sopt	Passive participle	Marginally	
+Chintang	48	CLIMB	sopt	Reciprocal	Never	
+Chintang	48	CLIMB	sopt	Reciprocal ambitransitivity	Never	
+Chintang	48	CLIMB	sopt	Reflexive	Never	
+Chintang	48	CLIMB	sopt	S/A detransitivisation	Regularly	
+Chintang	48	CLIMB	sopt	S/P ambitransitivity	Never	
+Chintang	48	CLIMB	sopt	Theme alternation	Never	
+Chintang	49	RUN	pind	Benefactive	Marginally	
+Chintang	49	RUN	pind	Causative	Regularly	
+Chintang	49	RUN	pind	Locative/absolutive alternation	Marginally	
+Chintang	49	RUN	pind	Passive participle	Never	
+Chintang	49	RUN	pind	Reciprocal	Never	
+Chintang	49	RUN	pind	Reciprocal ambitransitivity	Never	
+Chintang	49	RUN	pind	Reflexive	Never	
+Chintang	49	RUN	pind	S/A detransitivisation	Never	
+Chintang	49	RUN	pind	S/P ambitransitivity	Never	
+Chintang	49	RUN	pind	Theme alternation	Never	
+Chintang	50	SIT	yuŋ	Benefactive	Never	
+Chintang	50	SIT	yuŋ	Causative	Regularly	
+Chintang	50	SIT	yuŋ	Locative/absolutive alternation	Regularly	
+Chintang	50	SIT	yuŋ	Passive participle	Never	
+Chintang	50	SIT	yuŋ	Reciprocal	Never	
+Chintang	50	SIT	yuŋ	Reciprocal ambitransitivity	Never	
+Chintang	50	SIT	yuŋ	Reflexive	Never	
+Chintang	50	SIT	yuŋ	S/A detransitivisation	Never	
+Chintang	50	SIT	yuŋ	S/P ambitransitivity	Never	
+Chintang	50	SIT	yuŋ	Theme alternation	Never	
+Chintang	51	SIT DOWN	yuŋ	Benefactive	Never	
+Chintang	51	SIT DOWN	yuŋ	Causative	Regularly	
+Chintang	51	SIT DOWN	yuŋ	Locative/absolutive alternation	Regularly	
+Chintang	51	SIT DOWN	yuŋ	Passive participle	Never	
+Chintang	51	SIT DOWN	yuŋ	Reciprocal	Never	
+Chintang	51	SIT DOWN	yuŋ	Reciprocal ambitransitivity	Never	
+Chintang	51	SIT DOWN	yuŋ	Reflexive	Never	
+Chintang	51	SIT DOWN	yuŋ	S/A detransitivisation	Never	
+Chintang	51	SIT DOWN	yuŋ	S/P ambitransitivity	Never	
+Chintang	51	SIT DOWN	yuŋ	Theme alternation	Never	
+Chintang	52	JUMP	tand	Benefactive	Never	
+Chintang	52	JUMP	tand	Causative	Regularly	
+Chintang	52	JUMP	tand	Locative/absolutive alternation	Never	
+Chintang	52	JUMP	tand	Passive participle	Never	
+Chintang	52	JUMP	tand	Reciprocal	Never	
+Chintang	52	JUMP	tand	Reciprocal ambitransitivity	Never	
+Chintang	52	JUMP	tand	Reflexive	Never	
+Chintang	52	JUMP	tand	S/A detransitivisation	Never	
+Chintang	52	JUMP	tand	S/P ambitransitivity	Never	
+Chintang	52	JUMP	tand	Theme alternation	Never	
+Chintang	53	SING	cham lus	Benefactive	Marginally	
+Chintang	53	SING	cham lus	Causative	Regularly	
+Chintang	53	SING	cham lus	Locative/absolutive alternation	Never	
+Chintang	53	SING	cham lus	Passive participle	Marginally	
+Chintang	53	SING	cham lus	Reciprocal	Never	
+Chintang	53	SING	cham lus	Reciprocal ambitransitivity	Never	
+Chintang	53	SING	cham lus	Reflexive	Never	
+Chintang	53	SING	cham lus	S/A detransitivisation	Regularly	
+Chintang	53	SING	cham lus	S/P ambitransitivity	Never	
+Chintang	53	SING	cham lus	Theme alternation	Never	
+Chintang	54	GO	khat	Benefactive	Never	
+Chintang	54	GO	khat	Causative	Regularly	
+Chintang	54	GO	khat	Locative/absolutive alternation	Regularly	
+Chintang	54	GO	khat	Passive participle	Never	
+Chintang	54	GO	khat	Reciprocal	Never	
+Chintang	54	GO	khat	Reciprocal ambitransitivity	Never	
+Chintang	54	GO	khat	Reflexive	Never	
+Chintang	54	GO	khat	S/A detransitivisation	Never	
+Chintang	54	GO	khat	S/P ambitransitivity	Never	
+Chintang	54	GO	khat	Theme alternation	Never	
+Chintang	55	LEAVE	khat (2)	Benefactive	Never	
+Chintang	55	LEAVE	khat (2)	Causative	Regularly	
+Chintang	55	LEAVE	khat (2)	Locative/absolutive alternation	Regularly	
+Chintang	55	LEAVE	khat (2)	Passive participle	Never	
+Chintang	55	LEAVE	khat (2)	Reciprocal	Never	
+Chintang	55	LEAVE	khat (2)	Reciprocal ambitransitivity	Never	
+Chintang	55	LEAVE	khat (2)	Reflexive	Never	
+Chintang	55	LEAVE	khat (2)	S/A detransitivisation	Never	
+Chintang	55	LEAVE	khat (2)	S/P ambitransitivity	Never	
+Chintang	55	LEAVE	khat (2)	Theme alternation	Never	
+Chintang	56	LIVE	yuŋ	Benefactive	Never	
+Chintang	56	LIVE	yuŋ	Causative	Regularly	
+Chintang	56	LIVE	yuŋ	Locative/absolutive alternation	Regularly	
+Chintang	56	LIVE	yuŋ	Passive participle	Never	
+Chintang	56	LIVE	yuŋ	Reciprocal	Never	
+Chintang	56	LIVE	yuŋ	Reciprocal ambitransitivity	Never	
+Chintang	56	LIVE	yuŋ	Reflexive	Never	
+Chintang	56	LIVE	yuŋ	S/A detransitivisation	Never	
+Chintang	56	LIVE	yuŋ	S/P ambitransitivity	Never	
+Chintang	56	LIVE	yuŋ	Theme alternation	Never	
+Chintang	58	SCREAM	ratt (2)	Benefactive	Marginally	
+Chintang	58	SCREAM	ratt (2)	Causative	Regularly	
+Chintang	58	SCREAM	ratt (2)	Locative/absolutive alternation	Never	
+Chintang	58	SCREAM	ratt (2)	Passive participle	Marginally	
+Chintang	58	SCREAM	ratt (2)	Reciprocal	Marginally	
+Chintang	58	SCREAM	ratt (2)	Reciprocal ambitransitivity	Never	
+Chintang	58	SCREAM	ratt (2)	Reflexive	Marginally	
+Chintang	58	SCREAM	ratt (2)	S/A detransitivisation	Never	
+Chintang	58	SCREAM	ratt (2)	S/P ambitransitivity	Never	
+Chintang	58	SCREAM	ratt (2)	Theme alternation	Never	
+Chintang	59	FEEL PAIN	tuk	Benefactive	Never	
+Chintang	59	FEEL PAIN	tuk	Causative	Marginally	
+Chintang	59	FEEL PAIN	tuk	Locative/absolutive alternation	Never	
+Chintang	59	FEEL PAIN	tuk	Passive participle	Never	
+Chintang	59	FEEL PAIN	tuk	Reciprocal	Never	
+Chintang	59	FEEL PAIN	tuk	Reciprocal ambitransitivity	Never	
+Chintang	59	FEEL PAIN	tuk	Reflexive	Never	
+Chintang	59	FEEL PAIN	tuk	S/A detransitivisation	Never	
+Chintang	59	FEEL PAIN	tuk	S/P ambitransitivity	Never	
+Chintang	59	FEEL PAIN	tuk	Theme alternation	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Benefactive	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Causative	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Locative/absolutive alternation	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Passive participle	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Reciprocal	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Reciprocal ambitransitivity	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Reflexive	Never	
+Chintang	60	FEEL COLD	cuŋwa si	S/A detransitivisation	Never	
+Chintang	60	FEEL COLD	cuŋwa si	S/P ambitransitivity	Never	
+Chintang	60	FEEL COLD	cuŋwa si	Theme alternation	Never	
+Chintang	61	DIE	si	Benefactive	Never	
+Chintang	61	DIE	si	Causative	Never	
+Chintang	61	DIE	si	Locative/absolutive alternation	Never	
+Chintang	61	DIE	si	Passive participle	Never	
+Chintang	61	DIE	si	Reciprocal	Never	
+Chintang	61	DIE	si	Reciprocal ambitransitivity	Never	
+Chintang	61	DIE	si	Reflexive	Never	
+Chintang	61	DIE	si	S/A detransitivisation	Never	
+Chintang	61	DIE	si	S/P ambitransitivity	Never	
+Chintang	61	DIE	si	Theme alternation	Never	
+Chintang	62	PLAY	khoŋs	Benefactive	Marginally	
+Chintang	62	PLAY	khoŋs	Causative	Marginally	
+Chintang	62	PLAY	khoŋs	Locative/absolutive alternation	Never	
+Chintang	62	PLAY	khoŋs	Passive participle	Marginally	
+Chintang	62	PLAY	khoŋs	Reciprocal	Never	
+Chintang	62	PLAY	khoŋs	Reciprocal ambitransitivity	Never	
+Chintang	62	PLAY	khoŋs	Reflexive	Never	
+Chintang	62	PLAY	khoŋs	S/A detransitivisation	Regularly	
+Chintang	62	PLAY	khoŋs	S/P ambitransitivity	Never	
+Chintang	62	PLAY	khoŋs	Theme alternation	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Benefactive	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Causative	Marginally	
+Chintang	63	BE SAD	micinɨŋ tuk	Locative/absolutive alternation	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Passive participle	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Reciprocal	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Reciprocal ambitransitivity	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Reflexive	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	S/A detransitivisation	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	S/P ambitransitivity	Never	
+Chintang	63	BE SAD	micinɨŋ tuk	Theme alternation	Never	
+Chintang	63	BE SAD	som tuk	Benefactive	Never	
+Chintang	63	BE SAD	som tuk	Causative	Marginally	
+Chintang	63	BE SAD	som tuk	Locative/absolutive alternation	Never	
+Chintang	63	BE SAD	som tuk	Passive participle	Never	
+Chintang	63	BE SAD	som tuk	Reciprocal	Never	
+Chintang	63	BE SAD	som tuk	Reciprocal ambitransitivity	Never	
+Chintang	63	BE SAD	som tuk	Reflexive	Never	
+Chintang	63	BE SAD	som tuk	S/A detransitivisation	Never	
+Chintang	63	BE SAD	som tuk	S/P ambitransitivity	Never	
+Chintang	63	BE SAD	som tuk	Theme alternation	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Benefactive	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Causative	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Locative/absolutive alternation	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Passive participle	Marginally	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Reciprocal	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Reciprocal ambitransitivity	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Reflexive	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	S/A detransitivisation	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	S/P ambitransitivity	Never	
+Chintang	64	BE HUNGRY	sɨŋsawa si	Theme alternation	Never	
+Chintang	69	RAIN	weiʔ ta	Benefactive	Never	
+Chintang	69	RAIN	weiʔ ta	Causative	Marginally	
+Chintang	69	RAIN	weiʔ ta	Locative/absolutive alternation	Never	
+Chintang	69	RAIN	weiʔ ta	Passive participle	Never	
+Chintang	69	RAIN	weiʔ ta	Reciprocal	Never	
+Chintang	69	RAIN	weiʔ ta	Reciprocal ambitransitivity	Never	
+Chintang	69	RAIN	weiʔ ta	Reflexive	Never	
+Chintang	69	RAIN	weiʔ ta	S/A detransitivisation	Never	
+Chintang	69	RAIN	weiʔ ta	S/P ambitransitivity	Never	
+Chintang	69	RAIN	weiʔ ta	Theme alternation	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Benefactive	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Causative	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Locative/absolutive alternation	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Passive participle	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Reciprocal	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Reciprocal ambitransitivity	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Reflexive	Never	
+Chintang	70	BE A HUNTER	kaʔappa	S/A detransitivisation	Never	
+Chintang	70	BE A HUNTER	kaʔappa	S/P ambitransitivity	Never	
+Chintang	70	BE A HUNTER	kaʔappa	Theme alternation	Never	
+Chintang	71	GRIND	cemd	Benefactive	Marginally	
+Chintang	71	GRIND	cemd	Causative	Marginally	
+Chintang	71	GRIND	cemd	Locative/absolutive alternation	Never	
+Chintang	71	GRIND	cemd	Passive participle	Marginally	
+Chintang	71	GRIND	cemd	Reciprocal	Marginally	
+Chintang	71	GRIND	cemd	Reciprocal ambitransitivity	Never	
+Chintang	71	GRIND	cemd	Reflexive	Marginally	
+Chintang	71	GRIND	cemd	S/A detransitivisation	Regularly	
+Chintang	71	GRIND	cemd	S/P ambitransitivity	Marginally	
+Chintang	71	GRIND	cemd	Theme alternation	Never	
+Chintang	72	WIPE	tɨk	Benefactive	Regularly	
+Chintang	72	WIPE	tɨk	Causative	Marginally	
+Chintang	72	WIPE	tɨk	Locative/absolutive alternation	Never	
+Chintang	72	WIPE	tɨk	Passive participle	Marginally	
+Chintang	72	WIPE	tɨk	Reciprocal	Marginally	
+Chintang	72	WIPE	tɨk	Reciprocal ambitransitivity	Never	
+Chintang	72	WIPE	tɨk	Reflexive	Never	
+Chintang	72	WIPE	tɨk	S/A detransitivisation	Regularly	
+Chintang	72	WIPE	tɨk	S/P ambitransitivity	Never	
+Chintang	72	WIPE	tɨk	Theme alternation	Never	
+Chintang	73	DIG	phol	Benefactive	Marginally	
+Chintang	73	DIG	phol	Causative	Marginally	
+Chintang	73	DIG	phol	Locative/absolutive alternation	Never	
+Chintang	73	DIG	phol	Passive participle	Marginally	
+Chintang	73	DIG	phol	Reciprocal	Never	
+Chintang	73	DIG	phol	Reciprocal ambitransitivity	Never	
+Chintang	73	DIG	phol	Reflexive	Never	
+Chintang	73	DIG	phol	S/A detransitivisation	Regularly	
+Chintang	73	DIG	phol	S/P ambitransitivity	Never	
+Chintang	73	DIG	phol	Theme alternation	Never	
+Chintang	73	DIG	tus	Benefactive	Marginally	
+Chintang	73	DIG	tus	Causative	Marginally	
+Chintang	73	DIG	tus	Locative/absolutive alternation	Never	
+Chintang	73	DIG	tus	Passive participle	Marginally	
+Chintang	73	DIG	tus	Reciprocal	Never	
+Chintang	73	DIG	tus	Reciprocal ambitransitivity	Never	
+Chintang	73	DIG	tus	Reflexive	Never	
+Chintang	73	DIG	tus	S/A detransitivisation	Regularly	
+Chintang	73	DIG	tus	S/P ambitransitivity	Never	
+Chintang	73	DIG	tus	Theme alternation	Never	
+Chintang	74	PUSH	tol	Benefactive	Marginally	
+Chintang	74	PUSH	tol	Causative	Marginally	
+Chintang	74	PUSH	tol	Locative/absolutive alternation	Never	
+Chintang	74	PUSH	tol	Passive participle	Marginally	
+Chintang	74	PUSH	tol	Reciprocal	Marginally	
+Chintang	74	PUSH	tol	Reciprocal ambitransitivity	Never	
+Chintang	74	PUSH	tol	Reflexive	Marginally	
+Chintang	74	PUSH	tol	S/A detransitivisation	Regularly	
+Chintang	74	PUSH	tol	S/P ambitransitivity	Never	
+Chintang	74	PUSH	tol	Theme alternation	Never	
+Chintang	75	BRING	khutt	Benefactive	Regularly	
+Chintang	75	BRING	khutt	Causative	Regularly	
+Chintang	75	BRING	khutt	Locative/absolutive alternation	Never	
+Chintang	75	BRING	khutt	Passive participle	Marginally	
+Chintang	75	BRING	khutt	Reciprocal	Marginally	
+Chintang	75	BRING	khutt	Reciprocal ambitransitivity	Never	
+Chintang	75	BRING	khutt	Reflexive	Marginally	
+Chintang	75	BRING	khutt	S/A detransitivisation	Regularly	
+Chintang	75	BRING	khutt	S/P ambitransitivity	Never	
+Chintang	75	BRING	khutt	Theme alternation	Never	
+Chintang	76	STEAL	khutt	Benefactive	Regularly	
+Chintang	76	STEAL	khutt	Causative	Regularly	
+Chintang	76	STEAL	khutt	Locative/absolutive alternation	Never	
+Chintang	76	STEAL	khutt	Passive participle	Marginally	
+Chintang	76	STEAL	khutt	Reciprocal	Marginally	
+Chintang	76	STEAL	khutt	Reciprocal ambitransitivity	Never	
+Chintang	76	STEAL	khutt	Reflexive	Marginally	
+Chintang	76	STEAL	khutt	S/A detransitivisation	Regularly	
+Chintang	76	STEAL	khutt	S/P ambitransitivity	Never	
+Chintang	76	STEAL	khutt	Theme alternation	Never	
+Chintang	77	TEACH	cind	Benefactive	Never	
+Chintang	77	TEACH	cind	Causative	Marginally	
+Chintang	77	TEACH	cind	Locative/absolutive alternation	Never	
+Chintang	77	TEACH	cind	Passive participle	Marginally	
+Chintang	77	TEACH	cind	Reciprocal	Marginally	
+Chintang	77	TEACH	cind	Reciprocal ambitransitivity	Never	
+Chintang	77	TEACH	cind	Reflexive	Regularly	
+Chintang	77	TEACH	cind	S/A detransitivisation	Regularly	
+Chintang	77	TEACH	cind	S/P ambitransitivity	Never	
+Chintang	77	TEACH	cind	Theme alternation	Never	
+Chintang	78	HEAR	khems	Benefactive	Marginally	
+Chintang	78	HEAR	khems	Causative	Regularly	
+Chintang	78	HEAR	khems	Locative/absolutive alternation	Never	
+Chintang	78	HEAR	khems	Passive participle	Marginally	
+Chintang	78	HEAR	khems	Reciprocal	Never	
+Chintang	78	HEAR	khems	Reciprocal ambitransitivity	Never	
+Chintang	78	HEAR	khems	Reflexive	Regularly	
+Chintang	78	HEAR	khems	S/A detransitivisation	Regularly	
+Chintang	78	HEAR	khems	S/P ambitransitivity	Never	
+Chintang	78	HEAR	khems	Theme alternation	Never	
+Chintang	79	COOK	thukt	Benefactive	Regularly	
+Chintang	79	COOK	thukt	Causative	Marginally	
+Chintang	79	COOK	thukt	Locative/absolutive alternation	Never	
+Chintang	79	COOK	thukt	Passive participle	Marginally	
+Chintang	79	COOK	thukt	Reciprocal	Never	
+Chintang	79	COOK	thukt	Reciprocal ambitransitivity	Never	
+Chintang	79	COOK	thukt	Reflexive	Never	
+Chintang	79	COOK	thukt	S/A detransitivisation	Regularly	
+Chintang	79	COOK	thukt	S/P ambitransitivity	Never	
+Chintang	79	COOK	thukt	Theme alternation	Never	
+Chintang	80	BOIL	lokt	Benefactive	Marginally	
+Chintang	80	BOIL	lokt	Causative	Regularly	
+Chintang	80	BOIL	lokt	Locative/absolutive alternation	Never	
+Chintang	80	BOIL	lokt	Passive participle	Marginally	
+Chintang	80	BOIL	lokt	Reciprocal	Never	
+Chintang	80	BOIL	lokt	Reciprocal ambitransitivity	Never	
+Chintang	80	BOIL	lokt	Reflexive	Never	
+Chintang	80	BOIL	lokt	S/A detransitivisation	Never	
+Chintang	80	BOIL	lokt	S/P ambitransitivity	Never	
+Chintang	80	BOIL	lokt	Theme alternation	Never	
+Chintang	81	APPEAR	that	Benefactive	Never	
+Chintang	81	APPEAR	that	Causative	Regularly	
+Chintang	81	APPEAR	that	Locative/absolutive alternation	Never	
+Chintang	81	APPEAR	that	Passive participle	Never	
+Chintang	81	APPEAR	that	Reciprocal	Never	
+Chintang	81	APPEAR	that	Reciprocal ambitransitivity	Never	
+Chintang	81	APPEAR	that	Reflexive	Never	
+Chintang	81	APPEAR	that	S/A detransitivisation	Never	
+Chintang	81	APPEAR	that	S/P ambitransitivity	Never	
+Chintang	81	APPEAR	that	Theme alternation	Never	
+Chintang	82	BE ILL	maihid	Benefactive	Never	
+Chintang	82	BE ILL	maihid	Causative	Marginally	
+Chintang	82	BE ILL	maihid	Locative/absolutive alternation	Never	
+Chintang	82	BE ILL	maihid	Passive participle	Never	
+Chintang	82	BE ILL	maihid	Reciprocal	Never	
+Chintang	82	BE ILL	maihid	Reciprocal ambitransitivity	Never	
+Chintang	82	BE ILL	maihid	Reflexive	Never	
+Chintang	82	BE ILL	maihid	S/A detransitivisation	Never	
+Chintang	82	BE ILL	maihid	S/P ambitransitivity	Never	
+Chintang	82	BE ILL	maihid	Theme alternation	Never	
+Chintang	83	CRY	hap	Benefactive	Never	
+Chintang	83	CRY	hap	Causative	Regularly	
+Chintang	83	CRY	hap	Locative/absolutive alternation	Never	
+Chintang	83	CRY	hap	Passive participle	Never	
+Chintang	83	CRY	hap	Reciprocal	Never	
+Chintang	83	CRY	hap	Reciprocal ambitransitivity	Never	
+Chintang	83	CRY	hap	Reflexive	Never	
+Chintang	83	CRY	hap	S/A detransitivisation	Never	
+Chintang	83	CRY	hap	S/P ambitransitivity	Never	
+Chintang	83	CRY	hap	Theme alternation	Never	
+Chintang	85	MAKE	bane numd	Benefactive	Marginally	
+Chintang	85	MAKE	bane numd	Causative	Marginally	
+Chintang	85	MAKE	bane numd	Locative/absolutive alternation	Never	
+Chintang	85	MAKE	bane numd	Passive participle	Marginally	
+Chintang	85	MAKE	bane numd	Reciprocal	Never	
+Chintang	85	MAKE	bane numd	Reciprocal ambitransitivity	Never	
+Chintang	85	MAKE	bane numd	Reflexive	Never	
+Chintang	85	MAKE	bane numd	S/A detransitivisation	Regularly	
+Chintang	85	MAKE	bane numd	S/P ambitransitivity	Never	
+Chintang	85	MAKE	bane numd	Theme alternation	Never	
+Chintang	86	GET	tok	Benefactive	Marginally	
+Chintang	86	GET	tok	Causative	Marginally	
+Chintang	86	GET	tok	Locative/absolutive alternation	Never	
+Chintang	86	GET	tok	Passive participle	Marginally	
+Chintang	86	GET	tok	Reciprocal	Marginally	
+Chintang	86	GET	tok	Reciprocal ambitransitivity	Never	
+Chintang	86	GET	tok	Reflexive	Marginally	
+Chintang	86	GET	tok	S/A detransitivisation	Regularly	
+Chintang	86	GET	tok	S/P ambitransitivity	Never	
+Chintang	86	GET	tok	Theme alternation	Never	
+Chintang	87	WANT	lamma katt	Benefactive	Never	
+Chintang	87	WANT	lamma katt	Causative	Marginally	
+Chintang	87	WANT	lamma katt	Locative/absolutive alternation	Never	
+Chintang	87	WANT	lamma katt	Passive participle	Never	
+Chintang	87	WANT	lamma katt	Reciprocal	Marginally	
+Chintang	87	WANT	lamma katt	Reciprocal ambitransitivity	Never	
+Chintang	87	WANT	lamma katt	Reflexive	Marginally	
+Chintang	87	WANT	lamma katt	S/A detransitivisation	Never	
+Chintang	87	WANT	lamma katt	S/P ambitransitivity	Never	
+Chintang	87	WANT	lamma katt	Theme alternation	Never	
+Chintang	116	BURN (tr)	hutt	Benefactive	Marginally	
+Chintang	116	BURN (tr)	hutt	Causative	Marginally	
+Chintang	116	BURN (tr)	hutt	Locative/absolutive alternation	Never	
+Chintang	116	BURN (tr)	hutt	Passive participle	Marginally	
+Chintang	116	BURN (tr)	hutt	Reciprocal	Marginally	
+Chintang	116	BURN (tr)	hutt	Reciprocal ambitransitivity	Never	
+Chintang	116	BURN (tr)	hutt	Reflexive	Marginally	
+Chintang	116	BURN (tr)	hutt	S/A detransitivisation	Regularly	
+Chintang	116	BURN (tr)	hutt	S/P ambitransitivity	Regularly	
+Chintang	116	BURN (tr)	hutt	Theme alternation	Never	
+Chintang	119	DRY	sipt (2)	Benefactive	Never	
+Chintang	119	DRY	sipt (2)	Causative	Never	
+Chintang	119	DRY	sipt (2)	Locative/absolutive alternation	Never	
+Chintang	119	DRY	sipt (2)	Passive participle	Never	
+Chintang	119	DRY	sipt (2)	Reciprocal	Never	
+Chintang	119	DRY	sipt (2)	Reciprocal ambitransitivity	Never	
+Chintang	119	DRY	sipt (2)	Reflexive	Never	
+Chintang	119	DRY	sipt (2)	S/A detransitivisation	Regularly	
+Chintang	119	DRY	sipt (2)	S/P ambitransitivity	Regularly	
+Chintang	119	DRY	sipt (2)	Theme alternation	Never	
+Chintang	122	DROP	thams	Benefactive	Regularly	
+Chintang	122	DROP	thams	Causative	Marginally	
+Chintang	122	DROP	thams	Locative/absolutive alternation	Never	
+Chintang	122	DROP	thams	Passive participle	Marginally	
+Chintang	122	DROP	thams	Reciprocal	Marginally	
+Chintang	122	DROP	thams	Reciprocal ambitransitivity	Never	
+Chintang	122	DROP	thams	Reflexive	Marginally	
+Chintang	122	DROP	thams	S/A detransitivisation	Regularly	
+Chintang	122	DROP	thams	S/P ambitransitivity	Regularly	
+Chintang	122	DROP	thams	Theme alternation	Never	
+Chintang	125	SINK (tr)	lums	Benefactive	Marginally	
+Chintang	125	SINK (tr)	lums	Causative	Marginally	
+Chintang	125	SINK (tr)	lums	Locative/absolutive alternation	Never	
+Chintang	125	SINK (tr)	lums	Passive participle	Marginally	
+Chintang	125	SINK (tr)	lums	Reciprocal	Marginally	
+Chintang	125	SINK (tr)	lums	Reciprocal ambitransitivity	Never	
+Chintang	125	SINK (tr)	lums	Reflexive	Marginally	
+Chintang	125	SINK (tr)	lums	S/A detransitivisation	Regularly	
+Chintang	125	SINK (tr)	lums	S/P ambitransitivity	Regularly	
+Chintang	125	SINK (tr)	lums	Theme alternation	Never	
+Chintang	126	BOIL (tr)	phaŋs	Benefactive	Marginally	
+Chintang	126	BOIL (tr)	phaŋs	Causative	Marginally	
+Chintang	126	BOIL (tr)	phaŋs	Locative/absolutive alternation	Never	
+Chintang	126	BOIL (tr)	phaŋs	Passive participle	Marginally	
+Chintang	126	BOIL (tr)	phaŋs	Reciprocal	Marginally	
+Chintang	126	BOIL (tr)	phaŋs	Reciprocal ambitransitivity	Never	
+Chintang	126	BOIL (tr)	phaŋs	Reflexive	Marginally	
+Chintang	126	BOIL (tr)	phaŋs	S/A detransitivisation	Regularly	
+Chintang	126	BOIL (tr)	phaŋs	S/P ambitransitivity	Regularly	
+Chintang	126	BOIL (tr)	phaŋs	Theme alternation	Never	
+Chintang	128	ROLL (tr)	kɨr	Benefactive	Marginally	
+Chintang	128	ROLL (tr)	kɨr	Causative	Marginally	
+Chintang	128	ROLL (tr)	kɨr	Locative/absolutive alternation	Never	
+Chintang	128	ROLL (tr)	kɨr	Passive participle	Marginally	
+Chintang	128	ROLL (tr)	kɨr	Reciprocal	Marginally	
+Chintang	128	ROLL (tr)	kɨr	Reciprocal ambitransitivity	Never	
+Chintang	128	ROLL (tr)	kɨr	Reflexive	Regularly	
+Chintang	128	ROLL (tr)	kɨr	S/A detransitivisation	Regularly	
+Chintang	128	ROLL (tr)	kɨr	S/P ambitransitivity	Regularly	
+Chintang	128	ROLL (tr)	kɨr	Theme alternation	Never	
+Chintang	141	LAUGH ABOUT	rett	Benefactive	Marginally	
+Chintang	141	LAUGH ABOUT	rett	Causative	Marginally	
+Chintang	141	LAUGH ABOUT	rett	Locative/absolutive alternation	Never	
+Chintang	141	LAUGH ABOUT	rett	Passive participle	Never	
+Chintang	141	LAUGH ABOUT	rett	Reciprocal	Marginally	
+Chintang	141	LAUGH ABOUT	rett	Reciprocal ambitransitivity	Never	
+Chintang	141	LAUGH ABOUT	rett	Reflexive	Marginally	
+Chintang	141	LAUGH ABOUT	rett	S/A detransitivisation	Regularly	
+Chintang	141	LAUGH ABOUT	rett	S/P ambitransitivity	Never	
+Chintang	141	LAUGH ABOUT	rett	Theme alternation	Never	

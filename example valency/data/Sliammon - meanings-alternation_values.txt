@@ -1,0 +1,1730 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Sliammon	1	EAT	məkʷ-t	Active-intransitive	Regularly	
+Sliammon	1	EAT	məkʷ-t	Active-intransitive-causative	Marginally	
+Sliammon	1	EAT	məkʷ-t	Causative	Never	
+Sliammon	1	EAT	məkʷ-t	Causative with Active-intransitive	No data	
+Sliammon	1	EAT	məkʷ-t	Causative with Passive	No data	
+Sliammon	1	EAT	məkʷ-t	Causative with Reflexive	No data	
+Sliammon	1	EAT	məkʷ-t	Control transitive	Never	
+Sliammon	1	EAT	məkʷ-t	Indirective applicative	Regularly	
+Sliammon	1	EAT	məkʷ-t	Indirective applicative with Passive	No data	
+Sliammon	1	EAT	məkʷ-t	Lexical suffix with Middle	No data	
+Sliammon	1	EAT	məkʷ-t	Middle	No data	
+Sliammon	1	EAT	məkʷ-t	Middle with Causative	No data	
+Sliammon	1	EAT	məkʷ-t	Middle with Indirective applicative	No data	
+Sliammon	1	EAT	məkʷ-t	Middle with Relational applicative	No data	
+Sliammon	1	EAT	məkʷ-t	Noncontrol transitive	Regularly	
+Sliammon	1	EAT	məkʷ-t	Passive	Regularly	
+Sliammon	1	EAT	məkʷ-t	Relational applicative	Never	
+Sliammon	1	EAT	məkʷ-t	Relational applicative with Passive	No data	
+Sliammon	1	EAT	məkʷ-t	Unsuffixed	Never	
+Sliammon	1	EAT	ʔiɬtən	Active-intransitive	Never	
+Sliammon	1	EAT	ʔiɬtən	Active-intransitive-causative	No data	
+Sliammon	1	EAT	ʔiɬtən	Causative	Regularly	
+Sliammon	1	EAT	ʔiɬtən	Causative with Active-intransitive	No data	
+Sliammon	1	EAT	ʔiɬtən	Causative with Passive	No data	
+Sliammon	1	EAT	ʔiɬtən	Causative with Reflexive	No data	
+Sliammon	1	EAT	ʔiɬtən	Control transitive	Never	
+Sliammon	1	EAT	ʔiɬtən	Indirective applicative	Never	
+Sliammon	1	EAT	ʔiɬtən	Indirective applicative with Passive	No data	
+Sliammon	1	EAT	ʔiɬtən	Lexical suffix with Middle	No data	
+Sliammon	1	EAT	ʔiɬtən	Middle	No data	
+Sliammon	1	EAT	ʔiɬtən	Middle with Causative	No data	
+Sliammon	1	EAT	ʔiɬtən	Middle with Indirective applicative	No data	
+Sliammon	1	EAT	ʔiɬtən	Middle with Relational applicative	No data	
+Sliammon	1	EAT	ʔiɬtən	Noncontrol transitive	Never	
+Sliammon	1	EAT	ʔiɬtən	Passive	No data	
+Sliammon	1	EAT	ʔiɬtən	Relational applicative	Never	
+Sliammon	1	EAT	ʔiɬtən	Relational applicative with Passive	No data	
+Sliammon	1	EAT	ʔiɬtən	Unsuffixed	Never	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Active-intransitive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Active-intransitive-causative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Causative	Never	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Causative with Active-intransitive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Causative with Passive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Causative with Reflexive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Control transitive	Never	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Indirective applicative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Indirective applicative with Passive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Lexical suffix with Middle	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Middle	Never	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Middle with Causative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Middle with Indirective applicative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Middle with Relational applicative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Noncontrol transitive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Passive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Relational applicative	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Relational applicative with Passive	No data	
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Unsuffixed	Never	
+Sliammon	3	LOOK AT	kʼʷən-t	Active-intransitive	Regularly	
+Sliammon	3	LOOK AT	kʼʷən-t	Active-intransitive-causative	Regularly	
+Sliammon	3	LOOK AT	kʼʷən-t	Causative	Regularly	
+Sliammon	3	LOOK AT	kʼʷən-t	Causative with Active-intransitive	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Causative with Passive	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Causative with Reflexive	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Control transitive	Never	
+Sliammon	3	LOOK AT	kʼʷən-t	Indirective applicative	Never	
+Sliammon	3	LOOK AT	kʼʷən-t	Indirective applicative with Passive	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Lexical suffix with Middle	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Middle	Never	
+Sliammon	3	LOOK AT	kʼʷən-t	Middle with Causative	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Middle with Indirective applicative	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Middle with Relational applicative	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Noncontrol transitive	Regularly	
+Sliammon	3	LOOK AT	kʼʷən-t	Passive	Regularly	
+Sliammon	3	LOOK AT	kʼʷən-t	Relational applicative	Never	
+Sliammon	3	LOOK AT	kʼʷən-t	Relational applicative with Passive	No data	
+Sliammon	3	LOOK AT	kʼʷən-t	Unsuffixed	Never	
+Sliammon	4	SEE	kʼʷən-t	Active-intransitive	Regularly	
+Sliammon	4	SEE	kʼʷən-t	Active-intransitive-causative	Regularly	
+Sliammon	4	SEE	kʼʷən-t	Causative	Regularly	
+Sliammon	4	SEE	kʼʷən-t	Causative with Active-intransitive	No data	
+Sliammon	4	SEE	kʼʷən-t	Causative with Passive	No data	
+Sliammon	4	SEE	kʼʷən-t	Causative with Reflexive	No data	
+Sliammon	4	SEE	kʼʷən-t	Control transitive	Never	
+Sliammon	4	SEE	kʼʷən-t	Indirective applicative	Never	
+Sliammon	4	SEE	kʼʷən-t	Indirective applicative with Passive	No data	
+Sliammon	4	SEE	kʼʷən-t	Lexical suffix with Middle	No data	
+Sliammon	4	SEE	kʼʷən-t	Middle	Never	
+Sliammon	4	SEE	kʼʷən-t	Middle with Causative	No data	
+Sliammon	4	SEE	kʼʷən-t	Middle with Indirective applicative	No data	
+Sliammon	4	SEE	kʼʷən-t	Middle with Relational applicative	No data	
+Sliammon	4	SEE	kʼʷən-t	Noncontrol transitive	Regularly	
+Sliammon	4	SEE	kʼʷən-t	Passive	Regularly	
+Sliammon	4	SEE	kʼʷən-t	Relational applicative	Never	
+Sliammon	4	SEE	kʼʷən-t	Relational applicative with Passive	No data	
+Sliammon	4	SEE	kʼʷən-t	Unsuffixed	Never	
+Sliammon	5	SMELL	həqʷ-t	Active-intransitive	Regularly	
+Sliammon	5	SMELL	həqʷ-t	Active-intransitive-causative	Regularly	
+Sliammon	5	SMELL	həqʷ-t	Causative	Never	
+Sliammon	5	SMELL	həqʷ-t	Causative with Active-intransitive	No data	
+Sliammon	5	SMELL	həqʷ-t	Causative with Passive	No data	
+Sliammon	5	SMELL	həqʷ-t	Causative with Reflexive	No data	
+Sliammon	5	SMELL	həqʷ-t	Control transitive	Never	
+Sliammon	5	SMELL	həqʷ-t	Indirective applicative	No data	
+Sliammon	5	SMELL	həqʷ-t	Indirective applicative with Passive	No data	
+Sliammon	5	SMELL	həqʷ-t	Lexical suffix with Middle	Regularly	
+Sliammon	5	SMELL	həqʷ-t	Middle	Never	
+Sliammon	5	SMELL	həqʷ-t	Middle with Causative	No data	
+Sliammon	5	SMELL	həqʷ-t	Middle with Indirective applicative	No data	
+Sliammon	5	SMELL	həqʷ-t	Middle with Relational applicative	No data	
+Sliammon	5	SMELL	həqʷ-t	Noncontrol transitive	Regularly	
+Sliammon	5	SMELL	həqʷ-t	Passive	No data	
+Sliammon	5	SMELL	həqʷ-t	Relational applicative	No data	
+Sliammon	5	SMELL	həqʷ-t	Relational applicative with Passive	No data	
+Sliammon	5	SMELL	həqʷ-t	Unsuffixed	Never	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Active-intransitive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Active-intransitive-causative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Causative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Causative with Active-intransitive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Causative with Passive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Causative with Reflexive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Control transitive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Indirective applicative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Indirective applicative with Passive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Lexical suffix with Middle	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Middle	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Middle with Causative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Middle with Indirective applicative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Middle with Relational applicative	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Noncontrol transitive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Passive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Relational applicative	Never	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Relational applicative with Passive	No data	
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Unsuffixed	Never	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Active-intransitive	Regularly	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Active-intransitive-causative	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Causative	Never	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Causative with Active-intransitive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Causative with Passive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Causative with Reflexive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Control transitive	Never	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Indirective applicative	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Indirective applicative with Passive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Lexical suffix with Middle	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Middle	Regularly	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Middle with Causative	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Middle with Indirective applicative	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Middle with Relational applicative	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Noncontrol transitive	Regularly	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Passive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Relational applicative	Regularly	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Relational applicative with Passive	No data	
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Unsuffixed	Regularly	
+Sliammon	8	LIKE	ʔəy-sxʷ	Active-intransitive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Active-intransitive-causative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Causative	Never	
+Sliammon	8	LIKE	ʔəy-sxʷ	Causative with Active-intransitive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Causative with Passive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Causative with Reflexive	Regularly	
+Sliammon	8	LIKE	ʔəy-sxʷ	Control transitive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Indirective applicative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Indirective applicative with Passive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Lexical suffix with Middle	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Middle	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Middle with Causative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Middle with Indirective applicative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Middle with Relational applicative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Noncontrol transitive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Passive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Relational applicative	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Relational applicative with Passive	No data	
+Sliammon	8	LIKE	ʔəy-sxʷ	Unsuffixed	Regularly	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Active-intransitive	Never	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Active-intransitive-causative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Causative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Causative with Active-intransitive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Causative with Passive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Causative with Reflexive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Control transitive	Regularly	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Indirective applicative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Indirective applicative with Passive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Lexical suffix with Middle	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Middle	Never	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Middle with Causative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Middle with Indirective applicative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Middle with Relational applicative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Noncontrol transitive	Never	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Passive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Relational applicative	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Relational applicative with Passive	No data	
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Unsuffixed	Never	
+Sliammon	10	THINK	nu-np-igan-mi-t	Active-intransitive	Never	
+Sliammon	10	THINK	nu-np-igan-mi-t	Active-intransitive-causative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Causative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Causative with Active-intransitive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Causative with Passive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Causative with Reflexive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Control transitive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Indirective applicative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Indirective applicative with Passive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Lexical suffix with Middle	Regularly	
+Sliammon	10	THINK	nu-np-igan-mi-t	Middle	Regularly	
+Sliammon	10	THINK	nu-np-igan-mi-t	Middle with Causative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Middle with Indirective applicative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Middle with Relational applicative	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Noncontrol transitive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Passive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Relational applicative	Never	
+Sliammon	10	THINK	nu-np-igan-mi-t	Relational applicative with Passive	No data	
+Sliammon	10	THINK	nu-np-igan-mi-t	Unsuffixed	Never	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Active-intransitive	Regularly	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Active-intransitive-causative	Regularly	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Causative	Never	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Causative with Active-intransitive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Causative with Passive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Causative with Reflexive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Control transitive	Never	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Indirective applicative	Regularly	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Indirective applicative with Passive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Lexical suffix with Middle	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Middle	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Middle with Causative	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Middle with Indirective applicative	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Middle with Relational applicative	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Noncontrol transitive	Never	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Passive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Relational applicative	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Relational applicative with Passive	No data	
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Unsuffixed	Never	
+Sliammon	12	WASH	θap-a-t	Active-intransitive	Marginally	
+Sliammon	12	WASH	θap-a-t	Active-intransitive-causative	Regularly	
+Sliammon	12	WASH	θap-a-t	Causative	Never	
+Sliammon	12	WASH	θap-a-t	Causative with Active-intransitive	No data	
+Sliammon	12	WASH	θap-a-t	Causative with Passive	No data	
+Sliammon	12	WASH	θap-a-t	Causative with Reflexive	No data	
+Sliammon	12	WASH	θap-a-t	Control transitive	Never	
+Sliammon	12	WASH	θap-a-t	Indirective applicative	Regularly	
+Sliammon	12	WASH	θap-a-t	Indirective applicative with Passive	No data	
+Sliammon	12	WASH	θap-a-t	Lexical suffix with Middle	No data	
+Sliammon	12	WASH	θap-a-t	Middle	Regularly	
+Sliammon	12	WASH	θap-a-t	Middle with Causative	Regularly	
+Sliammon	12	WASH	θap-a-t	Middle with Indirective applicative	No data	
+Sliammon	12	WASH	θap-a-t	Middle with Relational applicative	No data	
+Sliammon	12	WASH	θap-a-t	Noncontrol transitive	Regularly	
+Sliammon	12	WASH	θap-a-t	Passive	Regularly	
+Sliammon	12	WASH	θap-a-t	Relational applicative	No data	
+Sliammon	12	WASH	θap-a-t	Relational applicative with Passive	No data	
+Sliammon	12	WASH	θap-a-t	Unsuffixed	Never	
+Sliammon	13	DRESS	niʔ-i-t	Active-intransitive	Regularly	
+Sliammon	13	DRESS	niʔ-i-t	Active-intransitive-causative	Regularly	
+Sliammon	13	DRESS	niʔ-i-t	Causative	No data	
+Sliammon	13	DRESS	niʔ-i-t	Causative with Active-intransitive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Causative with Passive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Causative with Reflexive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Control transitive	Never	
+Sliammon	13	DRESS	niʔ-i-t	Indirective applicative	Regularly	
+Sliammon	13	DRESS	niʔ-i-t	Indirective applicative with Passive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Lexical suffix with Middle	No data	
+Sliammon	13	DRESS	niʔ-i-t	Middle	No data	
+Sliammon	13	DRESS	niʔ-i-t	Middle with Causative	No data	
+Sliammon	13	DRESS	niʔ-i-t	Middle with Indirective applicative	No data	
+Sliammon	13	DRESS	niʔ-i-t	Middle with Relational applicative	No data	
+Sliammon	13	DRESS	niʔ-i-t	Noncontrol transitive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Passive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Relational applicative	No data	
+Sliammon	13	DRESS	niʔ-i-t	Relational applicative with Passive	No data	
+Sliammon	13	DRESS	niʔ-i-t	Unsuffixed	Never	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Active-intransitive	Regularly	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Active-intransitive-causative	Regularly	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Causative	Never	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Causative with Active-intransitive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Causative with Passive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Causative with Reflexive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Control transitive	Never	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Indirective applicative	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Indirective applicative with Passive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Lexical suffix with Middle	Regularly	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Middle	Regularly	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Middle with Causative	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Middle with Indirective applicative	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Middle with Relational applicative	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Noncontrol transitive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Passive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Relational applicative	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Relational applicative with Passive	No data	
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Unsuffixed	Never	
+Sliammon	15	HELP	čʼag-a-t	Active-intransitive	Never	
+Sliammon	15	HELP	čʼag-a-t	Active-intransitive-causative	No data	
+Sliammon	15	HELP	čʼag-a-t	Causative	Never	
+Sliammon	15	HELP	čʼag-a-t	Causative with Active-intransitive	No data	
+Sliammon	15	HELP	čʼag-a-t	Causative with Passive	No data	
+Sliammon	15	HELP	čʼag-a-t	Causative with Reflexive	No data	
+Sliammon	15	HELP	čʼag-a-t	Control transitive	Never	
+Sliammon	15	HELP	čʼag-a-t	Indirective applicative	No data	
+Sliammon	15	HELP	čʼag-a-t	Indirective applicative with Passive	No data	
+Sliammon	15	HELP	čʼag-a-t	Lexical suffix with Middle	No data	
+Sliammon	15	HELP	čʼag-a-t	Middle	Never	
+Sliammon	15	HELP	čʼag-a-t	Middle with Causative	No data	
+Sliammon	15	HELP	čʼag-a-t	Middle with Indirective applicative	No data	
+Sliammon	15	HELP	čʼag-a-t	Middle with Relational applicative	No data	
+Sliammon	15	HELP	čʼag-a-t	Noncontrol transitive	Regularly	
+Sliammon	15	HELP	čʼag-a-t	Passive	Regularly	
+Sliammon	15	HELP	čʼag-a-t	Relational applicative	No data	
+Sliammon	15	HELP	čʼag-a-t	Relational applicative with Passive	No data	
+Sliammon	15	HELP	čʼag-a-t	Unsuffixed	Never	
+Sliammon	16	FOLLOW	tuyʔap-t	Active-intransitive	Never	
+Sliammon	16	FOLLOW	tuyʔap-t	Active-intransitive-causative	Regularly	
+Sliammon	16	FOLLOW	tuyʔap-t	Causative	Regularly	
+Sliammon	16	FOLLOW	tuyʔap-t	Causative with Active-intransitive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Causative with Passive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Causative with Reflexive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Control transitive	Never	
+Sliammon	16	FOLLOW	tuyʔap-t	Indirective applicative	Regularly	
+Sliammon	16	FOLLOW	tuyʔap-t	Indirective applicative with Passive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Lexical suffix with Middle	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Middle	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Middle with Causative	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Middle with Indirective applicative	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Middle with Relational applicative	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Noncontrol transitive	Regularly	
+Sliammon	16	FOLLOW	tuyʔap-t	Passive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Relational applicative	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Relational applicative with Passive	No data	
+Sliammon	16	FOLLOW	tuyʔap-t	Unsuffixed	Regularly	
+Sliammon	17	MEET	no verbal counterpart	Active-intransitive	Never	
+Sliammon	17	MEET	no verbal counterpart	Active-intransitive-causative	Never	
+Sliammon	17	MEET	no verbal counterpart	Causative	Never	
+Sliammon	17	MEET	no verbal counterpart	Causative with Active-intransitive	Never	
+Sliammon	17	MEET	no verbal counterpart	Causative with Passive	Never	
+Sliammon	17	MEET	no verbal counterpart	Causative with Reflexive	Never	
+Sliammon	17	MEET	no verbal counterpart	Control transitive	Never	
+Sliammon	17	MEET	no verbal counterpart	Indirective applicative	Never	
+Sliammon	17	MEET	no verbal counterpart	Indirective applicative with Passive	Never	
+Sliammon	17	MEET	no verbal counterpart	Lexical suffix with Middle	Never	
+Sliammon	17	MEET	no verbal counterpart	Middle	Never	
+Sliammon	17	MEET	no verbal counterpart	Middle with Causative	Never	
+Sliammon	17	MEET	no verbal counterpart	Middle with Indirective applicative	Never	
+Sliammon	17	MEET	no verbal counterpart	Middle with Relational applicative	Never	
+Sliammon	17	MEET	no verbal counterpart	Noncontrol transitive	Never	
+Sliammon	17	MEET	no verbal counterpart	Passive	Never	
+Sliammon	17	MEET	no verbal counterpart	Relational applicative	Never	
+Sliammon	17	MEET	no verbal counterpart	Relational applicative with Passive	Never	
+Sliammon	17	MEET	no verbal counterpart	Unsuffixed	Never	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Active-intransitive	Never	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Active-intransitive-causative	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Causative	Marginally	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Causative with Active-intransitive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Causative with Passive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Causative with Reflexive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Control transitive	Never	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Indirective applicative	Regularly	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Indirective applicative with Passive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Lexical suffix with Middle	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Middle	Never	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Middle with Causative	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Middle with Indirective applicative	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Middle with Relational applicative	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Noncontrol transitive	Never	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Passive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Relational applicative	Marginally	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Relational applicative with Passive	No data	
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Unsuffixed	Regularly	
+Sliammon	19	ASK FOR	gay-a-t	Active-intransitive	Never	
+Sliammon	19	ASK FOR	gay-a-t	Active-intransitive-causative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Causative	Marginally	
+Sliammon	19	ASK FOR	gay-a-t	Causative with Active-intransitive	Marginally	
+Sliammon	19	ASK FOR	gay-a-t	Causative with Passive	No data	
+Sliammon	19	ASK FOR	gay-a-t	Causative with Reflexive	No data	
+Sliammon	19	ASK FOR	gay-a-t	Control transitive	Never	
+Sliammon	19	ASK FOR	gay-a-t	Indirective applicative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Indirective applicative with Passive	No data	
+Sliammon	19	ASK FOR	gay-a-t	Lexical suffix with Middle	No data	
+Sliammon	19	ASK FOR	gay-a-t	Middle	Never	
+Sliammon	19	ASK FOR	gay-a-t	Middle with Causative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Middle with Indirective applicative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Middle with Relational applicative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Noncontrol transitive	Regularly	
+Sliammon	19	ASK FOR	gay-a-t	Passive	Regularly	
+Sliammon	19	ASK FOR	gay-a-t	Relational applicative	No data	
+Sliammon	19	ASK FOR	gay-a-t	Relational applicative with Passive	No data	
+Sliammon	19	ASK FOR	gay-a-t	Unsuffixed	Never	
+Sliammon	20	SHOUT AT	qʼiya-t	Active-intransitive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Active-intransitive-causative	Regularly	
+Sliammon	20	SHOUT AT	qʼiya-t	Causative	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Causative with Active-intransitive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Causative with Passive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Causative with Reflexive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Control transitive	Never	
+Sliammon	20	SHOUT AT	qʼiya-t	Indirective applicative	Regularly	
+Sliammon	20	SHOUT AT	qʼiya-t	Indirective applicative with Passive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Lexical suffix with Middle	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Middle	Regularly	
+Sliammon	20	SHOUT AT	qʼiya-t	Middle with Causative	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Middle with Indirective applicative	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Middle with Relational applicative	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Noncontrol transitive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Passive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Relational applicative	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Relational applicative with Passive	No data	
+Sliammon	20	SHOUT AT	qʼiya-t	Unsuffixed	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Active-intransitive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Active-intransitive-causative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Causative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Causative with Active-intransitive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Causative with Passive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Causative with Reflexive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Control transitive	Never	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Indirective applicative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Indirective applicative with Passive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Lexical suffix with Middle	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Middle	Regularly	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Middle with Causative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Middle with Indirective applicative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Middle with Relational applicative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Noncontrol transitive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Passive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Relational applicative	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Relational applicative with Passive	No data	
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Unsuffixed	Never	
+Sliammon	21	TELL	taw-t	Active-intransitive		
+Sliammon	21	TELL	taw-t	Active-intransitive-causative		
+Sliammon	21	TELL	taw-t	Causative	Never	
+Sliammon	21	TELL	taw-t	Causative with Active-intransitive		
+Sliammon	21	TELL	taw-t	Causative with Passive		
+Sliammon	21	TELL	taw-t	Causative with Reflexive		
+Sliammon	21	TELL	taw-t	Control transitive	Never	
+Sliammon	21	TELL	taw-t	Indirective applicative	No data	
+Sliammon	21	TELL	taw-t	Indirective applicative with Passive		
+Sliammon	21	TELL	taw-t	Lexical suffix with Middle		
+Sliammon	21	TELL	taw-t	Middle	Regularly	
+Sliammon	21	TELL	taw-t	Middle with Causative		
+Sliammon	21	TELL	taw-t	Middle with Indirective applicative		
+Sliammon	21	TELL	taw-t	Middle with Relational applicative		
+Sliammon	21	TELL	taw-t	Noncontrol transitive	Regularly	
+Sliammon	21	TELL	taw-t	Passive		
+Sliammon	21	TELL	taw-t	Relational applicative	Never	
+Sliammon	21	TELL	taw-t	Relational applicative with Passive	No data	
+Sliammon	21	TELL	taw-t	Unsuffixed	Never	
+Sliammon	22	SAY	na-t	Active-intransitive	Never	
+Sliammon	22	SAY	na-t	Active-intransitive-causative	Never	
+Sliammon	22	SAY	na-t	Causative	Never	
+Sliammon	22	SAY	na-t	Causative with Active-intransitive	No data	
+Sliammon	22	SAY	na-t	Causative with Passive	No data	
+Sliammon	22	SAY	na-t	Causative with Reflexive	No data	
+Sliammon	22	SAY	na-t	Control transitive	Never	
+Sliammon	22	SAY	na-t	Indirective applicative	No data	
+Sliammon	22	SAY	na-t	Indirective applicative with Passive	No data	
+Sliammon	22	SAY	na-t	Lexical suffix with Middle	No data	
+Sliammon	22	SAY	na-t	Middle	No data	
+Sliammon	22	SAY	na-t	Middle with Causative	No data	
+Sliammon	22	SAY	na-t	Middle with Indirective applicative	No data	
+Sliammon	22	SAY	na-t	Middle with Relational applicative	No data	
+Sliammon	22	SAY	na-t	Noncontrol transitive	No data	
+Sliammon	22	SAY	na-t	Passive	No data	
+Sliammon	22	SAY	na-t	Relational applicative	No data	
+Sliammon	22	SAY	na-t	Relational applicative with Passive	No data	
+Sliammon	22	SAY	na-t	Unsuffixed	Never	
+Sliammon	23	NAME	nan-a-t	Active-intransitive	Marginally	
+Sliammon	23	NAME	nan-a-t	Active-intransitive-causative	Regularly	
+Sliammon	23	NAME	nan-a-t	Causative	Never	
+Sliammon	23	NAME	nan-a-t	Causative with Active-intransitive	No data	
+Sliammon	23	NAME	nan-a-t	Causative with Passive	No data	
+Sliammon	23	NAME	nan-a-t	Causative with Reflexive	No data	
+Sliammon	23	NAME	nan-a-t	Control transitive	Never	
+Sliammon	23	NAME	nan-a-t	Indirective applicative	Regularly	
+Sliammon	23	NAME	nan-a-t	Indirective applicative with Passive	No data	
+Sliammon	23	NAME	nan-a-t	Lexical suffix with Middle	No data	
+Sliammon	23	NAME	nan-a-t	Middle	No data	
+Sliammon	23	NAME	nan-a-t	Middle with Causative	No data	
+Sliammon	23	NAME	nan-a-t	Middle with Indirective applicative	No data	
+Sliammon	23	NAME	nan-a-t	Middle with Relational applicative	No data	
+Sliammon	23	NAME	nan-a-t	Noncontrol transitive	Regularly	
+Sliammon	23	NAME	nan-a-t	Passive	Regularly	
+Sliammon	23	NAME	nan-a-t	Relational applicative	No data	
+Sliammon	23	NAME	nan-a-t	Relational applicative with Passive	No data	
+Sliammon	23	NAME	nan-a-t	Unsuffixed	Regularly	
+Sliammon	24	BUILD	həy-t	Active-intransitive	Regularly	
+Sliammon	24	BUILD	həy-t	Active-intransitive-causative	Regularly	
+Sliammon	24	BUILD	həy-t	Causative	Never	
+Sliammon	24	BUILD	həy-t	Causative with Active-intransitive	No data	
+Sliammon	24	BUILD	həy-t	Causative with Passive	No data	
+Sliammon	24	BUILD	həy-t	Causative with Reflexive	No data	
+Sliammon	24	BUILD	həy-t	Control transitive	Never	
+Sliammon	24	BUILD	həy-t	Indirective applicative	Regularly	
+Sliammon	24	BUILD	həy-t	Indirective applicative with Passive	No data	
+Sliammon	24	BUILD	həy-t	Lexical suffix with Middle	No data	
+Sliammon	24	BUILD	həy-t	Middle	Never	
+Sliammon	24	BUILD	həy-t	Middle with Causative	No data	
+Sliammon	24	BUILD	həy-t	Middle with Indirective applicative	No data	
+Sliammon	24	BUILD	həy-t	Middle with Relational applicative	No data	
+Sliammon	24	BUILD	həy-t	Noncontrol transitive	Regularly	
+Sliammon	24	BUILD	həy-t	Passive	No data	
+Sliammon	24	BUILD	həy-t	Relational applicative	No data	
+Sliammon	24	BUILD	həy-t	Relational applicative with Passive	No data	
+Sliammon	24	BUILD	həy-t	Unsuffixed	Never	
+Sliammon	25	BREAK	yəpʼ-t	Active-intransitive	Regularly	
+Sliammon	25	BREAK	yəpʼ-t	Active-intransitive-causative	Regularly	
+Sliammon	25	BREAK	yəpʼ-t	Causative	Never	
+Sliammon	25	BREAK	yəpʼ-t	Causative with Active-intransitive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Causative with Passive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Causative with Reflexive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Control transitive	Never	
+Sliammon	25	BREAK	yəpʼ-t	Indirective applicative	Regularly	
+Sliammon	25	BREAK	yəpʼ-t	Indirective applicative with Passive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Lexical suffix with Middle	No data	
+Sliammon	25	BREAK	yəpʼ-t	Middle	No data	
+Sliammon	25	BREAK	yəpʼ-t	Middle with Causative	No data	
+Sliammon	25	BREAK	yəpʼ-t	Middle with Indirective applicative	No data	
+Sliammon	25	BREAK	yəpʼ-t	Middle with Relational applicative	No data	
+Sliammon	25	BREAK	yəpʼ-t	Noncontrol transitive	Regularly	
+Sliammon	25	BREAK	yəpʼ-t	Passive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Relational applicative	No data	
+Sliammon	25	BREAK	yəpʼ-t	Relational applicative with Passive	No data	
+Sliammon	25	BREAK	yəpʼ-t	Unsuffixed	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Active-intransitive	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Active-intransitive-causative	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Causative	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Causative with Active-intransitive	No data	
+Sliammon	26	KILL	qəyʼ-t	Causative with Passive	No data	
+Sliammon	26	KILL	qəyʼ-t	Causative with Reflexive	No data	
+Sliammon	26	KILL	qəyʼ-t	Control transitive	Never	
+Sliammon	26	KILL	qəyʼ-t	Indirective applicative	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Indirective applicative with Passive	No data	
+Sliammon	26	KILL	qəyʼ-t	Lexical suffix with Middle	No data	
+Sliammon	26	KILL	qəyʼ-t	Middle	No data	
+Sliammon	26	KILL	qəyʼ-t	Middle with Causative	No data	
+Sliammon	26	KILL	qəyʼ-t	Middle with Indirective applicative	No data	
+Sliammon	26	KILL	qəyʼ-t	Middle with Relational applicative	No data	
+Sliammon	26	KILL	qəyʼ-t	Noncontrol transitive	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Passive	Regularly	
+Sliammon	26	KILL	qəyʼ-t	Relational applicative	No data	
+Sliammon	26	KILL	qəyʼ-t	Relational applicative with Passive	No data	
+Sliammon	26	KILL	qəyʼ-t	Unsuffixed	Regularly	
+Sliammon	27	BEAT	sapʼ-a-t	Active-intransitive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Active-intransitive-causative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Causative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Causative with Active-intransitive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Causative with Passive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Causative with Reflexive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Control transitive	Never	
+Sliammon	27	BEAT	sapʼ-a-t	Indirective applicative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Indirective applicative with Passive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Lexical suffix with Middle	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Middle	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Middle with Causative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Middle with Indirective applicative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Middle with Relational applicative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Noncontrol transitive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Passive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Relational applicative	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Relational applicative with Passive	No data	
+Sliammon	27	BEAT	sapʼ-a-t	Unsuffixed	Never	
+Sliammon	28	HIT	səpʼ-t	Active-intransitive	Regularly	
+Sliammon	28	HIT	səpʼ-t	Active-intransitive-causative	Regularly	
+Sliammon	28	HIT	səpʼ-t	Causative	Never	
+Sliammon	28	HIT	səpʼ-t	Causative with Active-intransitive	No data	
+Sliammon	28	HIT	səpʼ-t	Causative with Passive	No data	
+Sliammon	28	HIT	səpʼ-t	Causative with Reflexive	No data	
+Sliammon	28	HIT	səpʼ-t	Control transitive	Never	
+Sliammon	28	HIT	səpʼ-t	Indirective applicative	Regularly	
+Sliammon	28	HIT	səpʼ-t	Indirective applicative with Passive	No data	
+Sliammon	28	HIT	səpʼ-t	Lexical suffix with Middle	No data	
+Sliammon	28	HIT	səpʼ-t	Middle	Never	
+Sliammon	28	HIT	səpʼ-t	Middle with Causative	No data	
+Sliammon	28	HIT	səpʼ-t	Middle with Indirective applicative	No data	
+Sliammon	28	HIT	səpʼ-t	Middle with Relational applicative	No data	
+Sliammon	28	HIT	səpʼ-t	Noncontrol transitive	Regularly	
+Sliammon	28	HIT	səpʼ-t	Passive	No data	
+Sliammon	28	HIT	səpʼ-t	Relational applicative	No data	
+Sliammon	28	HIT	səpʼ-t	Relational applicative with Passive	No data	
+Sliammon	28	HIT	səpʼ-t	Unsuffixed	Regularly	
+Sliammon	29	TOUCH	qəp-t	Active-intransitive	Regularly	
+Sliammon	29	TOUCH	qəp-t	Active-intransitive-causative	Regularly	
+Sliammon	29	TOUCH	qəp-t	Causative	Never	
+Sliammon	29	TOUCH	qəp-t	Causative with Active-intransitive	No data	
+Sliammon	29	TOUCH	qəp-t	Causative with Passive	No data	
+Sliammon	29	TOUCH	qəp-t	Causative with Reflexive	No data	
+Sliammon	29	TOUCH	qəp-t	Control transitive	Never	
+Sliammon	29	TOUCH	qəp-t	Indirective applicative	Regularly	
+Sliammon	29	TOUCH	qəp-t	Indirective applicative with Passive	No data	
+Sliammon	29	TOUCH	qəp-t	Lexical suffix with Middle	No data	
+Sliammon	29	TOUCH	qəp-t	Middle	Never	
+Sliammon	29	TOUCH	qəp-t	Middle with Causative	No data	
+Sliammon	29	TOUCH	qəp-t	Middle with Indirective applicative	No data	
+Sliammon	29	TOUCH	qəp-t	Middle with Relational applicative	No data	
+Sliammon	29	TOUCH	qəp-t	Noncontrol transitive	Regularly	
+Sliammon	29	TOUCH	qəp-t	Passive	Regularly	
+Sliammon	29	TOUCH	qəp-t	Relational applicative	No data	
+Sliammon	29	TOUCH	qəp-t	Relational applicative with Passive	No data	
+Sliammon	29	TOUCH	qəp-t	Unsuffixed	Never	
+Sliammon	30	CUT	čʼət-t	Active-intransitive	Regularly	
+Sliammon	30	CUT	čʼət-t	Active-intransitive-causative	Regularly	
+Sliammon	30	CUT	čʼət-t	Causative	Never	
+Sliammon	30	CUT	čʼət-t	Causative with Active-intransitive	No data	
+Sliammon	30	CUT	čʼət-t	Causative with Passive	No data	
+Sliammon	30	CUT	čʼət-t	Causative with Reflexive	No data	
+Sliammon	30	CUT	čʼət-t	Control transitive	Never	
+Sliammon	30	CUT	čʼət-t	Indirective applicative	Regularly	
+Sliammon	30	CUT	čʼət-t	Indirective applicative with Passive	No data	
+Sliammon	30	CUT	čʼət-t	Lexical suffix with Middle	No data	
+Sliammon	30	CUT	čʼət-t	Middle	No data	
+Sliammon	30	CUT	čʼət-t	Middle with Causative	No data	
+Sliammon	30	CUT	čʼət-t	Middle with Indirective applicative	No data	
+Sliammon	30	CUT	čʼət-t	Middle with Relational applicative	No data	
+Sliammon	30	CUT	čʼət-t	Noncontrol transitive	Regularly	
+Sliammon	30	CUT	čʼət-t	Passive	Regularly	
+Sliammon	30	CUT	čʼət-t	Relational applicative	No data	
+Sliammon	30	CUT	čʼət-t	Relational applicative with Passive	No data	
+Sliammon	30	CUT	čʼət-t	Unsuffixed	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Active-intransitive	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Active-intransitive-causative	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Causative	Never	
+Sliammon	31	TAKE	ma(ʔ)-t	Causative with Active-intransitive	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Causative with Passive	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Causative with Reflexive	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Control transitive	Never	
+Sliammon	31	TAKE	ma(ʔ)-t	Indirective applicative	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Indirective applicative with Passive	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Lexical suffix with Middle	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Middle	Never	
+Sliammon	31	TAKE	ma(ʔ)-t	Middle with Causative	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Middle with Indirective applicative	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Middle with Relational applicative	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Noncontrol transitive	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Passive	Regularly	
+Sliammon	31	TAKE	ma(ʔ)-t	Relational applicative	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Relational applicative with Passive	No data	
+Sliammon	31	TAKE	ma(ʔ)-t	Unsuffixed	Never	
+Sliammon	32	TEAR	pəx̣-t	Active-intransitive	Regularly	
+Sliammon	32	TEAR	pəx̣-t	Active-intransitive-causative	Regularly	
+Sliammon	32	TEAR	pəx̣-t	Causative	Never	
+Sliammon	32	TEAR	pəx̣-t	Causative with Active-intransitive	No data	
+Sliammon	32	TEAR	pəx̣-t	Causative with Passive	No data	
+Sliammon	32	TEAR	pəx̣-t	Causative with Reflexive	No data	
+Sliammon	32	TEAR	pəx̣-t	Control transitive	Never	
+Sliammon	32	TEAR	pəx̣-t	Indirective applicative	Regularly	
+Sliammon	32	TEAR	pəx̣-t	Indirective applicative with Passive	No data	
+Sliammon	32	TEAR	pəx̣-t	Lexical suffix with Middle	No data	
+Sliammon	32	TEAR	pəx̣-t	Middle	Never	
+Sliammon	32	TEAR	pəx̣-t	Middle with Causative	No data	
+Sliammon	32	TEAR	pəx̣-t	Middle with Indirective applicative	No data	
+Sliammon	32	TEAR	pəx̣-t	Middle with Relational applicative	No data	
+Sliammon	32	TEAR	pəx̣-t	Noncontrol transitive	Regularly	
+Sliammon	32	TEAR	pəx̣-t	Passive	Regularly	
+Sliammon	32	TEAR	pəx̣-t	Relational applicative	No data	
+Sliammon	32	TEAR	pəx̣-t	Relational applicative with Passive	No data	
+Sliammon	32	TEAR	pəx̣-t	Unsuffixed	Regularly	
+Sliammon	33	PEEL	ɬupʼ-u-t	Active-intransitive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Active-intransitive-causative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Causative	Never	
+Sliammon	33	PEEL	ɬupʼ-u-t	Causative with Active-intransitive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Causative with Passive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Causative with Reflexive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Control transitive	Never	
+Sliammon	33	PEEL	ɬupʼ-u-t	Indirective applicative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Indirective applicative with Passive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Lexical suffix with Middle	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Middle	Never	
+Sliammon	33	PEEL	ɬupʼ-u-t	Middle with Causative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Middle with Indirective applicative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Middle with Relational applicative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Noncontrol transitive	Regularly	
+Sliammon	33	PEEL	ɬupʼ-u-t	Passive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Relational applicative	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Relational applicative with Passive	No data	
+Sliammon	33	PEEL	ɬupʼ-u-t	Unsuffixed	Never	
+Sliammon	34	HIDE	kʷay-iš	Active-intransitive	Regularly	
+Sliammon	34	HIDE	kʷay-iš	Active-intransitive-causative	Regularly	
+Sliammon	34	HIDE	kʷay-iš	Causative	Never	
+Sliammon	34	HIDE	kʷay-iš	Causative with Active-intransitive	No data	
+Sliammon	34	HIDE	kʷay-iš	Causative with Passive	No data	
+Sliammon	34	HIDE	kʷay-iš	Causative with Reflexive	No data	
+Sliammon	34	HIDE	kʷay-iš	Control transitive	Never	
+Sliammon	34	HIDE	kʷay-iš	Indirective applicative	Regularly	
+Sliammon	34	HIDE	kʷay-iš	Indirective applicative with Passive	No data	
+Sliammon	34	HIDE	kʷay-iš	Lexical suffix with Middle	No data	
+Sliammon	34	HIDE	kʷay-iš	Middle	Never	
+Sliammon	34	HIDE	kʷay-iš	Middle with Causative	No data	
+Sliammon	34	HIDE	kʷay-iš	Middle with Indirective applicative	No data	
+Sliammon	34	HIDE	kʷay-iš	Middle with Relational applicative	No data	
+Sliammon	34	HIDE	kʷay-iš	Noncontrol transitive	No data	
+Sliammon	34	HIDE	kʷay-iš	Passive	No data	
+Sliammon	34	HIDE	kʷay-iš	Relational applicative	No data	
+Sliammon	34	HIDE	kʷay-iš	Relational applicative with Passive	No data	
+Sliammon	34	HIDE	kʷay-iš	Unsuffixed	Never	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Active-intransitive	Regularly	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Active-intransitive-causative	Regularly	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Causative	Never	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Causative with Active-intransitive	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Causative with Passive	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Causative with Reflexive	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Control transitive	Regularly	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Indirective applicative	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Indirective applicative with Passive	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Lexical suffix with Middle	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Middle	Never	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Middle with Causative	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Middle with Indirective applicative	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Middle with Relational applicative	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Noncontrol transitive	Regularly	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Passive	Regularly	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Relational applicative	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Relational applicative with Passive	No data	
+Sliammon	35	SHOW	kʼʷən-sxʷ	Unsuffixed	Never	
+Sliammon	36	GIVE	x̣ənat-t	Active-intransitive	Regularly	
+Sliammon	36	GIVE	x̣ənat-t	Active-intransitive-causative	Regularly	
+Sliammon	36	GIVE	x̣ənat-t	Causative	Never	
+Sliammon	36	GIVE	x̣ənat-t	Causative with Active-intransitive	No data	
+Sliammon	36	GIVE	x̣ənat-t	Causative with Passive	No data	
+Sliammon	36	GIVE	x̣ənat-t	Causative with Reflexive	No data	
+Sliammon	36	GIVE	x̣ənat-t	Control transitive	Never	
+Sliammon	36	GIVE	x̣ənat-t	Indirective applicative	No data	
+Sliammon	36	GIVE	x̣ənat-t	Indirective applicative with Passive	No data	
+Sliammon	36	GIVE	x̣ənat-t	Lexical suffix with Middle	No data	
+Sliammon	36	GIVE	x̣ənat-t	Middle	No data	
+Sliammon	36	GIVE	x̣ənat-t	Middle with Causative	No data	
+Sliammon	36	GIVE	x̣ənat-t	Middle with Indirective applicative	No data	
+Sliammon	36	GIVE	x̣ənat-t	Middle with Relational applicative	No data	
+Sliammon	36	GIVE	x̣ənat-t	Noncontrol transitive	Regularly	
+Sliammon	36	GIVE	x̣ənat-t	Passive	Regularly	
+Sliammon	36	GIVE	x̣ənat-t	Relational applicative	No data	
+Sliammon	36	GIVE	x̣ənat-t	Relational applicative with Passive	No data	
+Sliammon	36	GIVE	x̣ənat-t	Unsuffixed	Never	
+Sliammon	37	SEND	no verbal counterpart	Active-intransitive	Never	
+Sliammon	37	SEND	no verbal counterpart	Active-intransitive-causative	Never	
+Sliammon	37	SEND	no verbal counterpart	Causative	Never	
+Sliammon	37	SEND	no verbal counterpart	Causative with Active-intransitive	Never	
+Sliammon	37	SEND	no verbal counterpart	Causative with Passive	Never	
+Sliammon	37	SEND	no verbal counterpart	Causative with Reflexive	Never	
+Sliammon	37	SEND	no verbal counterpart	Control transitive	Never	
+Sliammon	37	SEND	no verbal counterpart	Indirective applicative	Never	
+Sliammon	37	SEND	no verbal counterpart	Indirective applicative with Passive	Never	
+Sliammon	37	SEND	no verbal counterpart	Lexical suffix with Middle	Never	
+Sliammon	37	SEND	no verbal counterpart	Middle	Never	
+Sliammon	37	SEND	no verbal counterpart	Middle with Causative	Never	
+Sliammon	37	SEND	no verbal counterpart	Middle with Indirective applicative	Never	
+Sliammon	37	SEND	no verbal counterpart	Middle with Relational applicative	Never	
+Sliammon	37	SEND	no verbal counterpart	Noncontrol transitive	Never	
+Sliammon	37	SEND	no verbal counterpart	Passive	Never	
+Sliammon	37	SEND	no verbal counterpart	Relational applicative	Never	
+Sliammon	37	SEND	no verbal counterpart	Relational applicative with Passive	Never	
+Sliammon	37	SEND	no verbal counterpart	Unsuffixed	Never	
+Sliammon	38	CARRY	kʷinat-t	Active-intransitive	Regularly	
+Sliammon	38	CARRY	kʷinat-t	Active-intransitive-causative	Regularly	
+Sliammon	38	CARRY	kʷinat-t	Causative	Never	
+Sliammon	38	CARRY	kʷinat-t	Causative with Active-intransitive	No data	
+Sliammon	38	CARRY	kʷinat-t	Causative with Passive	No data	
+Sliammon	38	CARRY	kʷinat-t	Causative with Reflexive	No data	
+Sliammon	38	CARRY	kʷinat-t	Control transitive	Never	
+Sliammon	38	CARRY	kʷinat-t	Indirective applicative	No data	
+Sliammon	38	CARRY	kʷinat-t	Indirective applicative with Passive	No data	
+Sliammon	38	CARRY	kʷinat-t	Lexical suffix with Middle	No data	
+Sliammon	38	CARRY	kʷinat-t	Middle	No data	
+Sliammon	38	CARRY	kʷinat-t	Middle with Causative	No data	
+Sliammon	38	CARRY	kʷinat-t	Middle with Indirective applicative	No data	
+Sliammon	38	CARRY	kʷinat-t	Middle with Relational applicative	No data	
+Sliammon	38	CARRY	kʷinat-t	Noncontrol transitive	Never	
+Sliammon	38	CARRY	kʷinat-t	Passive	Regularly	
+Sliammon	38	CARRY	kʷinat-t	Relational applicative	No data	
+Sliammon	38	CARRY	kʷinat-t	Relational applicative with Passive	No data	
+Sliammon	38	CARRY	kʷinat-t	Unsuffixed	Never	
+Sliammon	39	THROW	səytʼ-a-t	Active-intransitive	Regularly	
+Sliammon	39	THROW	səytʼ-a-t	Active-intransitive-causative	Regularly	
+Sliammon	39	THROW	səytʼ-a-t	Causative	Never	
+Sliammon	39	THROW	səytʼ-a-t	Causative with Active-intransitive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Causative with Passive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Causative with Reflexive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Control transitive	Never	
+Sliammon	39	THROW	səytʼ-a-t	Indirective applicative	Regularly	
+Sliammon	39	THROW	səytʼ-a-t	Indirective applicative with Passive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Lexical suffix with Middle	No data	
+Sliammon	39	THROW	səytʼ-a-t	Middle	Never	
+Sliammon	39	THROW	səytʼ-a-t	Middle with Causative	No data	
+Sliammon	39	THROW	səytʼ-a-t	Middle with Indirective applicative	No data	
+Sliammon	39	THROW	səytʼ-a-t	Middle with Relational applicative	No data	
+Sliammon	39	THROW	səytʼ-a-t	Noncontrol transitive	Regularly	
+Sliammon	39	THROW	səytʼ-a-t	Passive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Relational applicative	No data	
+Sliammon	39	THROW	səytʼ-a-t	Relational applicative with Passive	No data	
+Sliammon	39	THROW	səytʼ-a-t	Unsuffixed	Never	
+Sliammon	40	TIE	qʼis-i-t	Active-intransitive	Marginally	
+Sliammon	40	TIE	qʼis-i-t	Active-intransitive-causative	Regularly	
+Sliammon	40	TIE	qʼis-i-t	Causative	Never	
+Sliammon	40	TIE	qʼis-i-t	Causative with Active-intransitive	No data	
+Sliammon	40	TIE	qʼis-i-t	Causative with Passive	No data	
+Sliammon	40	TIE	qʼis-i-t	Causative with Reflexive	No data	
+Sliammon	40	TIE	qʼis-i-t	Control transitive	Never	
+Sliammon	40	TIE	qʼis-i-t	Indirective applicative	Regularly	
+Sliammon	40	TIE	qʼis-i-t	Indirective applicative with Passive	No data	
+Sliammon	40	TIE	qʼis-i-t	Lexical suffix with Middle	No data	
+Sliammon	40	TIE	qʼis-i-t	Middle	Never	
+Sliammon	40	TIE	qʼis-i-t	Middle with Causative	No data	
+Sliammon	40	TIE	qʼis-i-t	Middle with Indirective applicative	No data	
+Sliammon	40	TIE	qʼis-i-t	Middle with Relational applicative	No data	
+Sliammon	40	TIE	qʼis-i-t	Noncontrol transitive	Regularly	
+Sliammon	40	TIE	qʼis-i-t	Passive	No data	
+Sliammon	40	TIE	qʼis-i-t	Relational applicative	No data	
+Sliammon	40	TIE	qʼis-i-t	Relational applicative with Passive	No data	
+Sliammon	40	TIE	qʼis-i-t	Unsuffixed	Never	
+Sliammon	41	PUT	kʷa(ʔ)-t	Active-intransitive	Never	
+Sliammon	41	PUT	kʷa(ʔ)-t	Active-intransitive-causative	Never	
+Sliammon	41	PUT	kʷa(ʔ)-t	Causative	Never	
+Sliammon	41	PUT	kʷa(ʔ)-t	Causative with Active-intransitive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Causative with Passive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Causative with Reflexive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Control transitive	Never	
+Sliammon	41	PUT	kʷa(ʔ)-t	Indirective applicative	Regularly	
+Sliammon	41	PUT	kʷa(ʔ)-t	Indirective applicative with Passive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Lexical suffix with Middle	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Middle	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Middle with Causative	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Middle with Indirective applicative	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Middle with Relational applicative	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Noncontrol transitive	Regularly	
+Sliammon	41	PUT	kʷa(ʔ)-t	Passive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Relational applicative	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Relational applicative with Passive	No data	
+Sliammon	41	PUT	kʷa(ʔ)-t	Unsuffixed	Never	
+Sliammon	42	POUR	kʼʷəɬ-aš	Active-intransitive	Regularly	
+Sliammon	42	POUR	kʼʷəɬ-aš	Active-intransitive-causative	Regularly	
+Sliammon	42	POUR	kʼʷəɬ-aš	Causative	Never	
+Sliammon	42	POUR	kʼʷəɬ-aš	Causative with Active-intransitive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Causative with Passive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Causative with Reflexive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Control transitive	Never	
+Sliammon	42	POUR	kʼʷəɬ-aš	Indirective applicative	Regularly	
+Sliammon	42	POUR	kʼʷəɬ-aš	Indirective applicative with Passive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Lexical suffix with Middle	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Middle	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Middle with Causative	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Middle with Indirective applicative	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Middle with Relational applicative	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Noncontrol transitive	Regularly	
+Sliammon	42	POUR	kʼʷəɬ-aš	Passive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Relational applicative	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Relational applicative with Passive	No data	
+Sliammon	42	POUR	kʼʷəɬ-aš	Unsuffixed	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Active-intransitive	Never	
+Sliammon	43	COVER	tʼayš-a-t	Active-intransitive-causative	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Causative	Never	
+Sliammon	43	COVER	tʼayš-a-t	Causative with Active-intransitive	No data	
+Sliammon	43	COVER	tʼayš-a-t	Causative with Passive	No data	
+Sliammon	43	COVER	tʼayš-a-t	Causative with Reflexive	No data	
+Sliammon	43	COVER	tʼayš-a-t	Control transitive	Never	
+Sliammon	43	COVER	tʼayš-a-t	Indirective applicative	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Indirective applicative with Passive	No data	
+Sliammon	43	COVER	tʼayš-a-t	Lexical suffix with Middle	No data	
+Sliammon	43	COVER	tʼayš-a-t	Middle	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Middle with Causative	No data	
+Sliammon	43	COVER	tʼayš-a-t	Middle with Indirective applicative	No data	
+Sliammon	43	COVER	tʼayš-a-t	Middle with Relational applicative	No data	
+Sliammon	43	COVER	tʼayš-a-t	Noncontrol transitive	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Passive	Regularly	
+Sliammon	43	COVER	tʼayš-a-t	Relational applicative	No data	
+Sliammon	43	COVER	tʼayš-a-t	Relational applicative with Passive	No data	
+Sliammon	43	COVER	tʼayš-a-t	Unsuffixed	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Active-intransitive	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Active-intransitive-causative	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Causative	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Causative with Active-intransitive	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Causative with Passive	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Causative with Reflexive	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Control transitive	Never	
+Sliammon	44	FILL	yaʔčʼ-aš	Indirective applicative	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Indirective applicative with Passive	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Lexical suffix with Middle	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Middle	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Middle with Causative	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Middle with Indirective applicative	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Middle with Relational applicative	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Noncontrol transitive	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Passive	No data	
+Sliammon	44	FILL	yaʔčʼ-aš	Relational applicative	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Relational applicative with Passive	Regularly	
+Sliammon	44	FILL	yaʔčʼ-aš	Unsuffixed	Regularly	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Active-intransitive	Never	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Active-intransitive-causative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Causative	Never	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Causative with Active-intransitive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Causative with Passive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Causative with Reflexive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Control transitive	Never	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Indirective applicative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Indirective applicative with Passive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Lexical suffix with Middle	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Middle	Never	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Middle with Causative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Middle with Indirective applicative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Middle with Relational applicative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Noncontrol transitive	Never	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Passive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Relational applicative	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Relational applicative with Passive	No data	
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Unsuffixed	Regularly	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Active-intransitive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Active-intransitive-causative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Causative	Regularly	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Causative with Active-intransitive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Causative with Passive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Causative with Reflexive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Control transitive	Never	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Indirective applicative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Indirective applicative with Passive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Lexical suffix with Middle	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Middle	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Middle with Causative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Middle with Indirective applicative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Middle with Relational applicative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Noncontrol transitive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Passive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Relational applicative	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Relational applicative with Passive	No data	
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Unsuffixed	Never	
+Sliammon	47	COUGH	tuqʼʷt	Active-intransitive	Never	
+Sliammon	47	COUGH	tuqʼʷt	Active-intransitive-causative	Never	
+Sliammon	47	COUGH	tuqʼʷt	Causative	Regularly	
+Sliammon	47	COUGH	tuqʼʷt	Causative with Active-intransitive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Causative with Passive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Causative with Reflexive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Control transitive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Indirective applicative	No data	
+Sliammon	47	COUGH	tuqʼʷt	Indirective applicative with Passive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Lexical suffix with Middle	No data	
+Sliammon	47	COUGH	tuqʼʷt	Middle	Regularly	
+Sliammon	47	COUGH	tuqʼʷt	Middle with Causative	Regularly	
+Sliammon	47	COUGH	tuqʼʷt	Middle with Indirective applicative	No data	
+Sliammon	47	COUGH	tuqʼʷt	Middle with Relational applicative	No data	
+Sliammon	47	COUGH	tuqʼʷt	Noncontrol transitive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Passive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Relational applicative	No data	
+Sliammon	47	COUGH	tuqʼʷt	Relational applicative with Passive	No data	
+Sliammon	47	COUGH	tuqʼʷt	Unsuffixed	Never	
+Sliammon	48	CLIMB	šaʔ	Active-intransitive	Never	
+Sliammon	48	CLIMB	šaʔ	Active-intransitive-causative	No data	
+Sliammon	48	CLIMB	šaʔ	Causative	Regularly	
+Sliammon	48	CLIMB	šaʔ	Causative with Active-intransitive	No data	
+Sliammon	48	CLIMB	šaʔ	Causative with Passive	No data	
+Sliammon	48	CLIMB	šaʔ	Causative with Reflexive	No data	
+Sliammon	48	CLIMB	šaʔ	Control transitive	Never	
+Sliammon	48	CLIMB	šaʔ	Indirective applicative	Never	
+Sliammon	48	CLIMB	šaʔ	Indirective applicative with Passive	No data	
+Sliammon	48	CLIMB	šaʔ	Lexical suffix with Middle	No data	
+Sliammon	48	CLIMB	šaʔ	Middle	Marginally	
+Sliammon	48	CLIMB	šaʔ	Middle with Causative	No data	
+Sliammon	48	CLIMB	šaʔ	Middle with Indirective applicative	No data	
+Sliammon	48	CLIMB	šaʔ	Middle with Relational applicative	No data	
+Sliammon	48	CLIMB	šaʔ	Noncontrol transitive	No data	
+Sliammon	48	CLIMB	šaʔ	Passive	No data	
+Sliammon	48	CLIMB	šaʔ	Relational applicative	Regularly	
+Sliammon	48	CLIMB	šaʔ	Relational applicative with Passive	No data	
+Sliammon	48	CLIMB	šaʔ	Unsuffixed	Never	
+Sliammon	49	RUN	ǰəƛʼ	Active-intransitive	Never	
+Sliammon	49	RUN	ǰəƛʼ	Active-intransitive-causative	No data	
+Sliammon	49	RUN	ǰəƛʼ	Causative	Regularly	
+Sliammon	49	RUN	ǰəƛʼ	Causative with Active-intransitive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Causative with Passive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Causative with Reflexive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Control transitive	Never	
+Sliammon	49	RUN	ǰəƛʼ	Indirective applicative	Regularly	
+Sliammon	49	RUN	ǰəƛʼ	Indirective applicative with Passive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Lexical suffix with Middle	No data	
+Sliammon	49	RUN	ǰəƛʼ	Middle	No data	
+Sliammon	49	RUN	ǰəƛʼ	Middle with Causative	No data	
+Sliammon	49	RUN	ǰəƛʼ	Middle with Indirective applicative	No data	
+Sliammon	49	RUN	ǰəƛʼ	Middle with Relational applicative	No data	
+Sliammon	49	RUN	ǰəƛʼ	Noncontrol transitive	Regularly	
+Sliammon	49	RUN	ǰəƛʼ	Passive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Relational applicative	Regularly	
+Sliammon	49	RUN	ǰəƛʼ	Relational applicative with Passive	No data	
+Sliammon	49	RUN	ǰəƛʼ	Unsuffixed	Never	
+Sliammon	50	SIT	kʷanač	Active-intransitive	Never	
+Sliammon	50	SIT	kʷanač	Active-intransitive-causative	No data	
+Sliammon	50	SIT	kʷanač	Causative	Regularly	
+Sliammon	50	SIT	kʷanač	Causative with Active-intransitive	No data	
+Sliammon	50	SIT	kʷanač	Causative with Passive	No data	
+Sliammon	50	SIT	kʷanač	Causative with Reflexive	No data	
+Sliammon	50	SIT	kʷanač	Control transitive	Regularly	
+Sliammon	50	SIT	kʷanač	Indirective applicative	No data	
+Sliammon	50	SIT	kʷanač	Indirective applicative with Passive	No data	
+Sliammon	50	SIT	kʷanač	Lexical suffix with Middle	No data	
+Sliammon	50	SIT	kʷanač	Middle	Regularly	
+Sliammon	50	SIT	kʷanač	Middle with Causative	No data	
+Sliammon	50	SIT	kʷanač	Middle with Indirective applicative	No data	
+Sliammon	50	SIT	kʷanač	Middle with Relational applicative	No data	
+Sliammon	50	SIT	kʷanač	Noncontrol transitive	Regularly	
+Sliammon	50	SIT	kʷanač	Passive	No data	
+Sliammon	50	SIT	kʷanač	Relational applicative	Regularly	
+Sliammon	50	SIT	kʷanač	Relational applicative with Passive	Regularly	
+Sliammon	50	SIT	kʷanač	Unsuffixed	Never	
+Sliammon	51	SIT DOWN	kʷanač-əm	Active-intransitive	Never	
+Sliammon	51	SIT DOWN	kʷanač-əm	Active-intransitive-causative	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Causative	Regularly	
+Sliammon	51	SIT DOWN	kʷanač-əm	Causative with Active-intransitive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Causative with Passive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Causative with Reflexive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Control transitive	Regularly	
+Sliammon	51	SIT DOWN	kʷanač-əm	Indirective applicative	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Indirective applicative with Passive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Lexical suffix with Middle	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Middle	Never	
+Sliammon	51	SIT DOWN	kʷanač-əm	Middle with Causative	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Middle with Indirective applicative	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Middle with Relational applicative	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Noncontrol transitive	Regularly	
+Sliammon	51	SIT DOWN	kʷanač-əm	Passive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Relational applicative	Regularly	
+Sliammon	51	SIT DOWN	kʷanač-əm	Relational applicative with Passive	No data	
+Sliammon	51	SIT DOWN	kʷanač-əm	Unsuffixed	Regularly	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Active-intransitive	Never	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Active-intransitive-causative	Never	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Causative	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Causative with Active-intransitive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Causative with Passive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Causative with Reflexive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Control transitive	Never	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Indirective applicative	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Indirective applicative with Passive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Lexical suffix with Middle	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Middle	Never	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Middle with Causative	Regularly	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Middle with Indirective applicative	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Middle with Relational applicative	Regularly	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Noncontrol transitive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Passive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Relational applicative	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Relational applicative with Passive	No data	
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Unsuffixed	Never	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Active-intransitive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Active-intransitive-causative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Causative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Causative with Active-intransitive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Causative with Passive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Causative with Reflexive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Control transitive	Never	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Indirective applicative	Regularly	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Indirective applicative with Passive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Lexical suffix with Middle	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Middle	Never	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Middle with Causative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Middle with Indirective applicative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Middle with Relational applicative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Noncontrol transitive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Passive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Relational applicative	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Relational applicative with Passive	No data	
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Unsuffixed	Never	
+Sliammon	53	SING	wuw-um	Active-intransitive	No data	
+Sliammon	53	SING	wuw-um	Active-intransitive-causative	No data	
+Sliammon	53	SING	wuw-um	Causative	No data	
+Sliammon	53	SING	wuw-um	Causative with Active-intransitive	No data	
+Sliammon	53	SING	wuw-um	Causative with Passive	No data	
+Sliammon	53	SING	wuw-um	Causative with Reflexive	No data	
+Sliammon	53	SING	wuw-um	Control transitive	Never	
+Sliammon	53	SING	wuw-um	Indirective applicative	Regularly	
+Sliammon	53	SING	wuw-um	Indirective applicative with Passive	No data	
+Sliammon	53	SING	wuw-um	Lexical suffix with Middle	No data	
+Sliammon	53	SING	wuw-um	Middle	Never	
+Sliammon	53	SING	wuw-um	Middle with Causative	Regularly	
+Sliammon	53	SING	wuw-um	Middle with Indirective applicative	No data	
+Sliammon	53	SING	wuw-um	Middle with Relational applicative	No data	
+Sliammon	53	SING	wuw-um	Noncontrol transitive	No data	
+Sliammon	53	SING	wuw-um	Passive	No data	
+Sliammon	53	SING	wuw-um	Relational applicative	No data	
+Sliammon	53	SING	wuw-um	Relational applicative with Passive	No data	
+Sliammon	53	SING	wuw-um	Unsuffixed	Never	
+Sliammon	54	GO	hu	Active-intransitive	Never	
+Sliammon	54	GO	hu	Active-intransitive-causative	No data	
+Sliammon	54	GO	hu	Causative	Regularly	
+Sliammon	54	GO	hu	Causative with Active-intransitive	Regularly	
+Sliammon	54	GO	hu	Causative with Passive	No data	
+Sliammon	54	GO	hu	Causative with Reflexive	No data	
+Sliammon	54	GO	hu	Control transitive	Never	
+Sliammon	54	GO	hu	Indirective applicative	No data	
+Sliammon	54	GO	hu	Indirective applicative with Passive	No data	
+Sliammon	54	GO	hu	Lexical suffix with Middle	No data	
+Sliammon	54	GO	hu	Middle	Never	
+Sliammon	54	GO	hu	Middle with Causative	No data	
+Sliammon	54	GO	hu	Middle with Indirective applicative	No data	
+Sliammon	54	GO	hu	Middle with Relational applicative	No data	
+Sliammon	54	GO	hu	Noncontrol transitive	Never	
+Sliammon	54	GO	hu	Passive	No data	
+Sliammon	54	GO	hu	Relational applicative	Regularly	
+Sliammon	54	GO	hu	Relational applicative with Passive	Regularly	
+Sliammon	54	GO	hu	Unsuffixed	Never	
+Sliammon	55	LEAVE	ɬaw-š	Active-intransitive	Never	
+Sliammon	55	LEAVE	ɬaw-š	Active-intransitive-causative	No data	
+Sliammon	55	LEAVE	ɬaw-š	Causative	Never	
+Sliammon	55	LEAVE	ɬaw-š	Causative with Active-intransitive	No data	
+Sliammon	55	LEAVE	ɬaw-š	Causative with Passive	No data	
+Sliammon	55	LEAVE	ɬaw-š	Causative with Reflexive	No data	
+Sliammon	55	LEAVE	ɬaw-š	Control transitive	Never	
+Sliammon	55	LEAVE	ɬaw-š	Indirective applicative	Regularly	
+Sliammon	55	LEAVE	ɬaw-š	Indirective applicative with Passive	No data	
+Sliammon	55	LEAVE	ɬaw-š	Lexical suffix with Middle	No data	
+Sliammon	55	LEAVE	ɬaw-š	Middle	Never	
+Sliammon	55	LEAVE	ɬaw-š	Middle with Causative	No data	
+Sliammon	55	LEAVE	ɬaw-š	Middle with Indirective applicative	No data	
+Sliammon	55	LEAVE	ɬaw-š	Middle with Relational applicative	No data	
+Sliammon	55	LEAVE	ɬaw-š	Noncontrol transitive	Regularly	
+Sliammon	55	LEAVE	ɬaw-š	Passive	Regularly	
+Sliammon	55	LEAVE	ɬaw-š	Relational applicative	No data	
+Sliammon	55	LEAVE	ɬaw-š	Relational applicative with Passive	No data	
+Sliammon	55	LEAVE	ɬaw-š	Unsuffixed	Never	
+Sliammon	56	LIVE	no verbal counterpart	Active-intransitive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Active-intransitive-causative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Causative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Causative with Active-intransitive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Causative with Passive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Causative with Reflexive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Control transitive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Indirective applicative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Indirective applicative with Passive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Lexical suffix with Middle	Never	
+Sliammon	56	LIVE	no verbal counterpart	Middle	Never	
+Sliammon	56	LIVE	no verbal counterpart	Middle with Causative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Middle with Indirective applicative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Middle with Relational applicative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Noncontrol transitive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Passive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Relational applicative	Never	
+Sliammon	56	LIVE	no verbal counterpart	Relational applicative with Passive	Never	
+Sliammon	56	LIVE	no verbal counterpart	Unsuffixed	Never	
+Sliammon	57	LAUGH	qəs-əm	Active-intransitive	No data	
+Sliammon	57	LAUGH	qəs-əm	Active-intransitive-causative	No data	
+Sliammon	57	LAUGH	qəs-əm	Causative	No data	
+Sliammon	57	LAUGH	qəs-əm	Causative with Active-intransitive	No data	
+Sliammon	57	LAUGH	qəs-əm	Causative with Passive	No data	
+Sliammon	57	LAUGH	qəs-əm	Causative with Reflexive	No data	
+Sliammon	57	LAUGH	qəs-əm	Control transitive	Never	
+Sliammon	57	LAUGH	qəs-əm	Indirective applicative	No data	
+Sliammon	57	LAUGH	qəs-əm	Indirective applicative with Passive	No data	
+Sliammon	57	LAUGH	qəs-əm	Lexical suffix with Middle	No data	
+Sliammon	57	LAUGH	qəs-əm	Middle	Never	
+Sliammon	57	LAUGH	qəs-əm	Middle with Causative	No data	
+Sliammon	57	LAUGH	qəs-əm	Middle with Indirective applicative	No data	
+Sliammon	57	LAUGH	qəs-əm	Middle with Relational applicative	No data	
+Sliammon	57	LAUGH	qəs-əm	Noncontrol transitive	No data	
+Sliammon	57	LAUGH	qəs-əm	Passive	No data	
+Sliammon	57	LAUGH	qəs-əm	Relational applicative	Regularly	
+Sliammon	57	LAUGH	qəs-əm	Relational applicative with Passive	No data	
+Sliammon	57	LAUGH	qəs-əm	Unsuffixed	Never	
+Sliammon	58	SCREAM	tʼᶿikʼt	Active-intransitive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Active-intransitive-causative	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Causative	Never	
+Sliammon	58	SCREAM	tʼᶿikʼt	Causative with Active-intransitive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Causative with Passive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Causative with Reflexive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Control transitive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Indirective applicative	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Indirective applicative with Passive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Lexical suffix with Middle	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Middle	Never	
+Sliammon	58	SCREAM	tʼᶿikʼt	Middle with Causative	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Middle with Indirective applicative	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Middle with Relational applicative	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Noncontrol transitive	Regularly	
+Sliammon	58	SCREAM	tʼᶿikʼt	Passive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Relational applicative	Regularly	
+Sliammon	58	SCREAM	tʼᶿikʼt	Relational applicative with Passive	No data	
+Sliammon	58	SCREAM	tʼᶿikʼt	Unsuffixed	Never	
+Sliammon	59	FEEL PAIN	ʔah	Active-intransitive	Never	
+Sliammon	59	FEEL PAIN	ʔah	Active-intransitive-causative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Causative	Marginally	
+Sliammon	59	FEEL PAIN	ʔah	Causative with Active-intransitive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Causative with Passive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Causative with Reflexive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Control transitive	Never	
+Sliammon	59	FEEL PAIN	ʔah	Indirective applicative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Indirective applicative with Passive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Lexical suffix with Middle	No data	
+Sliammon	59	FEEL PAIN	ʔah	Middle	Regularly	
+Sliammon	59	FEEL PAIN	ʔah	Middle with Causative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Middle with Indirective applicative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Middle with Relational applicative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Noncontrol transitive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Passive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Relational applicative	No data	
+Sliammon	59	FEEL PAIN	ʔah	Relational applicative with Passive	No data	
+Sliammon	59	FEEL PAIN	ʔah	Unsuffixed	Never	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Active-intransitive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Active-intransitive-causative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Causative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Causative with Active-intransitive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Causative with Passive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Causative with Reflexive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Control transitive	Regularly	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Indirective applicative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Indirective applicative with Passive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Lexical suffix with Middle	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Middle	Regularly	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Middle with Causative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Middle with Indirective applicative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Middle with Relational applicative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Noncontrol transitive	Regularly	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Passive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Relational applicative	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Relational applicative with Passive	No data	
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Unsuffixed	Never	
+Sliammon	61	DIE	qəyʼ	Active-intransitive	Regularly	
+Sliammon	61	DIE	qəyʼ	Active-intransitive-causative	Regularly	
+Sliammon	61	DIE	qəyʼ	Causative	Regularly	
+Sliammon	61	DIE	qəyʼ	Causative with Active-intransitive	No data	
+Sliammon	61	DIE	qəyʼ	Causative with Passive	No data	
+Sliammon	61	DIE	qəyʼ	Causative with Reflexive	No data	
+Sliammon	61	DIE	qəyʼ	Control transitive	Regularly	
+Sliammon	61	DIE	qəyʼ	Indirective applicative	Regularly	
+Sliammon	61	DIE	qəyʼ	Indirective applicative with Passive	No data	
+Sliammon	61	DIE	qəyʼ	Lexical suffix with Middle	No data	
+Sliammon	61	DIE	qəyʼ	Middle	No data	
+Sliammon	61	DIE	qəyʼ	Middle with Causative	No data	
+Sliammon	61	DIE	qəyʼ	Middle with Indirective applicative	No data	
+Sliammon	61	DIE	qəyʼ	Middle with Relational applicative	No data	
+Sliammon	61	DIE	qəyʼ	Noncontrol transitive	Regularly	
+Sliammon	61	DIE	qəyʼ	Passive	Regularly	
+Sliammon	61	DIE	qəyʼ	Relational applicative	No data	
+Sliammon	61	DIE	qəyʼ	Relational applicative with Passive	No data	
+Sliammon	61	DIE	qəyʼ	Unsuffixed	Never	
+Sliammon	62	PLAY	qaqs-imʼ	Active-intransitive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Active-intransitive-causative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Causative	Marginally	
+Sliammon	62	PLAY	qaqs-imʼ	Causative with Active-intransitive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Causative with Passive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Causative with Reflexive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Control transitive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Indirective applicative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Indirective applicative with Passive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Lexical suffix with Middle	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Middle	Never	
+Sliammon	62	PLAY	qaqs-imʼ	Middle with Causative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Middle with Indirective applicative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Middle with Relational applicative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Noncontrol transitive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Passive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Relational applicative	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Relational applicative with Passive	No data	
+Sliammon	62	PLAY	qaqs-imʼ	Unsuffixed	Never	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Active-intransitive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Active-intransitive-causative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Causative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Causative with Active-intransitive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Causative with Passive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Causative with Reflexive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Control transitive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Indirective applicative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Indirective applicative with Passive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Lexical suffix with Middle	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Middle	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Middle with Causative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Middle with Indirective applicative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Middle with Relational applicative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Noncontrol transitive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Passive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Relational applicative	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Relational applicative with Passive	No data	
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Unsuffixed	Never	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Active-intransitive	Never	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Active-intransitive-causative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Causative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Causative with Active-intransitive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Causative with Passive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Causative with Reflexive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Control transitive	Regularly	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Indirective applicative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Indirective applicative with Passive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Lexical suffix with Middle	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Middle	Never	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Middle with Causative	Regularly	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Middle with Indirective applicative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Middle with Relational applicative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Noncontrol transitive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Passive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Relational applicative	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Relational applicative with Passive	No data	
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Unsuffixed	Never	
+Sliammon	65	ROLL	pəlʼkʷ	Active-intransitive	Regularly	
+Sliammon	65	ROLL	pəlʼkʷ	Active-intransitive-causative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Causative	Never	
+Sliammon	65	ROLL	pəlʼkʷ	Causative with Active-intransitive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Causative with Passive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Causative with Reflexive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Control transitive	Regularly	
+Sliammon	65	ROLL	pəlʼkʷ	Indirective applicative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Indirective applicative with Passive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Lexical suffix with Middle	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Middle	Never	
+Sliammon	65	ROLL	pəlʼkʷ	Middle with Causative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Middle with Indirective applicative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Middle with Relational applicative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Noncontrol transitive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Passive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Relational applicative	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Relational applicative with Passive	No data	
+Sliammon	65	ROLL	pəlʼkʷ	Unsuffixed	Never	
+Sliammon	66	SINK	θayʼ-əm	Active-intransitive	No data	
+Sliammon	66	SINK	θayʼ-əm	Active-intransitive-causative	No data	
+Sliammon	66	SINK	θayʼ-əm	Causative	No data	
+Sliammon	66	SINK	θayʼ-əm	Causative with Active-intransitive	No data	
+Sliammon	66	SINK	θayʼ-əm	Causative with Passive	No data	
+Sliammon	66	SINK	θayʼ-əm	Causative with Reflexive	No data	
+Sliammon	66	SINK	θayʼ-əm	Control transitive	Regularly	
+Sliammon	66	SINK	θayʼ-əm	Indirective applicative	Regularly	
+Sliammon	66	SINK	θayʼ-əm	Indirective applicative with Passive	No data	
+Sliammon	66	SINK	θayʼ-əm	Lexical suffix with Middle	No data	
+Sliammon	66	SINK	θayʼ-əm	Middle	Never	
+Sliammon	66	SINK	θayʼ-əm	Middle with Causative	No data	
+Sliammon	66	SINK	θayʼ-əm	Middle with Indirective applicative	No data	
+Sliammon	66	SINK	θayʼ-əm	Middle with Relational applicative	No data	
+Sliammon	66	SINK	θayʼ-əm	Noncontrol transitive	No data	
+Sliammon	66	SINK	θayʼ-əm	Passive	No data	
+Sliammon	66	SINK	θayʼ-əm	Relational applicative	No data	
+Sliammon	66	SINK	θayʼ-əm	Relational applicative with Passive	No data	
+Sliammon	66	SINK	θayʼ-əm	Unsuffixed	Never	
+Sliammon	67	BURN	qʼətxʷ	Active-intransitive	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Active-intransitive-causative	No data	
+Sliammon	67	BURN	qʼətxʷ	Causative	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Causative with Active-intransitive	No data	
+Sliammon	67	BURN	qʼətxʷ	Causative with Passive	No data	
+Sliammon	67	BURN	qʼətxʷ	Causative with Reflexive	No data	
+Sliammon	67	BURN	qʼətxʷ	Control transitive	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Indirective applicative	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Indirective applicative with Passive	No data	
+Sliammon	67	BURN	qʼətxʷ	Lexical suffix with Middle	No data	
+Sliammon	67	BURN	qʼətxʷ	Middle	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Middle with Causative	No data	
+Sliammon	67	BURN	qʼətxʷ	Middle with Indirective applicative	No data	
+Sliammon	67	BURN	qʼətxʷ	Middle with Relational applicative	No data	
+Sliammon	67	BURN	qʼətxʷ	Noncontrol transitive	Regularly	
+Sliammon	67	BURN	qʼətxʷ	Passive	No data	
+Sliammon	67	BURN	qʼətxʷ	Relational applicative	No data	
+Sliammon	67	BURN	qʼətxʷ	Relational applicative with Passive	No data	
+Sliammon	67	BURN	qʼətxʷ	Unsuffixed	Never	
+Sliammon	68	BE DRY	šəmʼ	Active-intransitive	Regularly	
+Sliammon	68	BE DRY	šəmʼ	Active-intransitive-causative	No data	
+Sliammon	68	BE DRY	šəmʼ	Causative	Never	
+Sliammon	68	BE DRY	šəmʼ	Causative with Active-intransitive	No data	
+Sliammon	68	BE DRY	šəmʼ	Causative with Passive	No data	
+Sliammon	68	BE DRY	šəmʼ	Causative with Reflexive	No data	
+Sliammon	68	BE DRY	šəmʼ	Control transitive	Regularly	
+Sliammon	68	BE DRY	šəmʼ	Indirective applicative	No data	
+Sliammon	68	BE DRY	šəmʼ	Indirective applicative with Passive	No data	
+Sliammon	68	BE DRY	šəmʼ	Lexical suffix with Middle	No data	
+Sliammon	68	BE DRY	šəmʼ	Middle	No data	
+Sliammon	68	BE DRY	šəmʼ	Middle with Causative	No data	
+Sliammon	68	BE DRY	šəmʼ	Middle with Indirective applicative	No data	
+Sliammon	68	BE DRY	šəmʼ	Middle with Relational applicative	No data	
+Sliammon	68	BE DRY	šəmʼ	Noncontrol transitive	Regularly	
+Sliammon	68	BE DRY	šəmʼ	Passive	No data	
+Sliammon	68	BE DRY	šəmʼ	Relational applicative	No data	
+Sliammon	68	BE DRY	šəmʼ	Relational applicative with Passive	No data	
+Sliammon	68	BE DRY	šəmʼ	Unsuffixed	Never	
+Sliammon	69	RAIN	čʼəɬ	Active-intransitive	Never	
+Sliammon	69	RAIN	čʼəɬ	Active-intransitive-causative	No data	
+Sliammon	69	RAIN	čʼəɬ	Causative	Marginally	
+Sliammon	69	RAIN	čʼəɬ	Causative with Active-intransitive	No data	
+Sliammon	69	RAIN	čʼəɬ	Causative with Passive	Marginally	
+Sliammon	69	RAIN	čʼəɬ	Causative with Reflexive	No data	
+Sliammon	69	RAIN	čʼəɬ	Control transitive	Never	
+Sliammon	69	RAIN	čʼəɬ	Indirective applicative	Never	
+Sliammon	69	RAIN	čʼəɬ	Indirective applicative with Passive	No data	
+Sliammon	69	RAIN	čʼəɬ	Lexical suffix with Middle	No data	
+Sliammon	69	RAIN	čʼəɬ	Middle	No data	
+Sliammon	69	RAIN	čʼəɬ	Middle with Causative	No data	
+Sliammon	69	RAIN	čʼəɬ	Middle with Indirective applicative	No data	
+Sliammon	69	RAIN	čʼəɬ	Middle with Relational applicative	No data	
+Sliammon	69	RAIN	čʼəɬ	Noncontrol transitive	Never	
+Sliammon	69	RAIN	čʼəɬ	Passive	Regularly	
+Sliammon	69	RAIN	čʼəɬ	Relational applicative	Never	
+Sliammon	69	RAIN	čʼəɬ	Relational applicative with Passive	No data	
+Sliammon	69	RAIN	čʼəɬ	Unsuffixed	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Active-intransitive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Active-intransitive-causative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Causative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Causative with Active-intransitive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Causative with Passive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Causative with Reflexive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Control transitive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Indirective applicative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Indirective applicative with Passive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Lexical suffix with Middle	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Middle	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Middle with Causative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Middle with Indirective applicative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Middle with Relational applicative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Noncontrol transitive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Passive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Relational applicative	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Relational applicative with Passive	Never	
+Sliammon	70	BE A HUNTER	no verbal counterpart	Unsuffixed	Never	
+Sliammon	71	GRIND	no verbal counterpart	Active-intransitive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Active-intransitive-causative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Causative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Causative with Active-intransitive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Causative with Passive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Causative with Reflexive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Control transitive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Indirective applicative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Indirective applicative with Passive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Lexical suffix with Middle	Never	
+Sliammon	71	GRIND	no verbal counterpart	Middle	Never	
+Sliammon	71	GRIND	no verbal counterpart	Middle with Causative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Middle with Indirective applicative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Middle with Relational applicative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Noncontrol transitive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Passive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Relational applicative	Never	
+Sliammon	71	GRIND	no verbal counterpart	Relational applicative with Passive	Never	
+Sliammon	71	GRIND	no verbal counterpart	Unsuffixed	Never	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Active-intransitive	Regularly	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Active-intransitive-causative	Regularly	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Causative	Never	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Causative with Active-intransitive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Causative with Passive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Causative with Reflexive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Control transitive	Never	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Indirective applicative	Regularly	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Indirective applicative with Passive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Lexical suffix with Middle	Regularly	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Middle	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Middle with Causative	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Middle with Indirective applicative	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Middle with Relational applicative	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Noncontrol transitive	Regularly	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Passive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Relational applicative	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Relational applicative with Passive	No data	
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Unsuffixed	Regularly	
+Sliammon	73	DIG	ʔuɬqʷu	Active-intransitive	Never	
+Sliammon	73	DIG	ʔuɬqʷu	Active-intransitive-causative	Marginally	
+Sliammon	73	DIG	ʔuɬqʷu	Causative	Regularly	
+Sliammon	73	DIG	ʔuɬqʷu	Causative with Active-intransitive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Causative with Passive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Causative with Reflexive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Control transitive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Indirective applicative	Regularly	
+Sliammon	73	DIG	ʔuɬqʷu	Indirective applicative with Passive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Lexical suffix with Middle	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Middle	Never	
+Sliammon	73	DIG	ʔuɬqʷu	Middle with Causative	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Middle with Indirective applicative	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Middle with Relational applicative	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Noncontrol transitive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Passive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Relational applicative	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Relational applicative with Passive	No data	
+Sliammon	73	DIG	ʔuɬqʷu	Unsuffixed	Never	
+Sliammon	73	DIG	θiq-i-t	Active-intransitive	Regularly	
+Sliammon	73	DIG	θiq-i-t	Active-intransitive-causative	No data	
+Sliammon	73	DIG	θiq-i-t	Causative	No data	
+Sliammon	73	DIG	θiq-i-t	Causative with Active-intransitive	No data	
+Sliammon	73	DIG	θiq-i-t	Causative with Passive	No data	
+Sliammon	73	DIG	θiq-i-t	Causative with Reflexive	No data	
+Sliammon	73	DIG	θiq-i-t	Control transitive	Never	
+Sliammon	73	DIG	θiq-i-t	Indirective applicative	Regularly	
+Sliammon	73	DIG	θiq-i-t	Indirective applicative with Passive	No data	
+Sliammon	73	DIG	θiq-i-t	Lexical suffix with Middle	No data	
+Sliammon	73	DIG	θiq-i-t	Middle	Never	
+Sliammon	73	DIG	θiq-i-t	Middle with Causative	No data	
+Sliammon	73	DIG	θiq-i-t	Middle with Indirective applicative	No data	
+Sliammon	73	DIG	θiq-i-t	Middle with Relational applicative	No data	
+Sliammon	73	DIG	θiq-i-t	Noncontrol transitive	Regularly	
+Sliammon	73	DIG	θiq-i-t	Passive	No data	
+Sliammon	73	DIG	θiq-i-t	Relational applicative	No data	
+Sliammon	73	DIG	θiq-i-t	Relational applicative with Passive	No data	
+Sliammon	73	DIG	θiq-i-t	Unsuffixed	Never	
+Sliammon	74	PUSH	ǰuθ-u-t	Active-intransitive	Regularly	
+Sliammon	74	PUSH	ǰuθ-u-t	Active-intransitive-causative	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Causative	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Causative with Active-intransitive	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Causative with Passive	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Causative with Reflexive	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Control transitive	Never	
+Sliammon	74	PUSH	ǰuθ-u-t	Indirective applicative	Regularly	
+Sliammon	74	PUSH	ǰuθ-u-t	Indirective applicative with Passive	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Lexical suffix with Middle	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Middle	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Middle with Causative	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Middle with Indirective applicative	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Middle with Relational applicative	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Noncontrol transitive	Regularly	
+Sliammon	74	PUSH	ǰuθ-u-t	Passive	Regularly	
+Sliammon	74	PUSH	ǰuθ-u-t	Relational applicative	Never	
+Sliammon	74	PUSH	ǰuθ-u-t	Relational applicative with Passive	No data	
+Sliammon	74	PUSH	ǰuθ-u-t	Unsuffixed	Never	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Active-intransitive	Regularly	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Active-intransitive-causative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Causative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Causative with Active-intransitive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Causative with Passive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Causative with Reflexive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Control transitive	Never	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Indirective applicative	Regularly	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Indirective applicative with Passive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Lexical suffix with Middle	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Middle	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Middle with Causative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Middle with Indirective applicative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Middle with Relational applicative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Noncontrol transitive	Regularly	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Passive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Relational applicative	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Relational applicative with Passive	No data	
+Sliammon	75	BRING	tʼaʔqʼ-aš	Unsuffixed	Never	
+Sliammon	76	STEAL	čəwʼu-ni-t	Active-intransitive	Never	
+Sliammon	76	STEAL	čəwʼu-ni-t	Active-intransitive-causative	Regularly	
+Sliammon	76	STEAL	čəwʼu-ni-t	Causative	Never	
+Sliammon	76	STEAL	čəwʼu-ni-t	Causative with Active-intransitive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Causative with Passive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Causative with Reflexive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Control transitive	Never	
+Sliammon	76	STEAL	čəwʼu-ni-t	Indirective applicative	Never	
+Sliammon	76	STEAL	čəwʼu-ni-t	Indirective applicative with Passive	Regularly	
+Sliammon	76	STEAL	čəwʼu-ni-t	Lexical suffix with Middle	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Middle	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Middle with Causative	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Middle with Indirective applicative	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Middle with Relational applicative	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Noncontrol transitive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Passive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Relational applicative	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Relational applicative with Passive	No data	
+Sliammon	76	STEAL	čəwʼu-ni-t	Unsuffixed	Regularly	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Active-intransitive	Never	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Active-intransitive-causative	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Causative	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Causative with Active-intransitive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Causative with Passive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Causative with Reflexive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Control transitive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Indirective applicative	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Indirective applicative with Passive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Lexical suffix with Middle	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Middle	Regularly	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Middle with Causative	Never	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Middle with Indirective applicative	Regularly	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Middle with Relational applicative	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Noncontrol transitive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Passive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Relational applicative	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Relational applicative with Passive	No data	
+Sliammon	77	TEACH	tiwš-am-sxʷ	Unsuffixed	Never	
+Sliammon	78	HEAR	čʼiy-i-t	Active-intransitive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Active-intransitive-causative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Causative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Causative with Active-intransitive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Causative with Passive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Causative with Reflexive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Control transitive	Never	
+Sliammon	78	HEAR	čʼiy-i-t	Indirective applicative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Indirective applicative with Passive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Lexical suffix with Middle	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Middle	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Middle with Causative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Middle with Indirective applicative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Middle with Relational applicative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Noncontrol transitive	Regularly	
+Sliammon	78	HEAR	čʼiy-i-t	Passive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Relational applicative	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Relational applicative with Passive	No data	
+Sliammon	78	HEAR	čʼiy-i-t	Unsuffixed	Never	
+Sliammon	79	COOK	čʼəx̣-a-t	Active-intransitive	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Active-intransitive-causative	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Causative	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Causative with Active-intransitive	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Causative with Passive	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Causative with Reflexive	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Control transitive	Never	
+Sliammon	79	COOK	čʼəx̣-a-t	Indirective applicative	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Indirective applicative with Passive	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Lexical suffix with Middle	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Middle	Never	
+Sliammon	79	COOK	čʼəx̣-a-t	Middle with Causative	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Middle with Indirective applicative	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Middle with Relational applicative	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Noncontrol transitive	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Passive	Regularly	
+Sliammon	79	COOK	čʼəx̣-a-t	Relational applicative	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Relational applicative with Passive	No data	
+Sliammon	79	COOK	čʼəx̣-a-t	Unsuffixed	Regularly	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Active-intransitive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Active-intransitive-causative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Causative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Causative with Active-intransitive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Causative with Passive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Causative with Reflexive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Control transitive	Regularly	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Indirective applicative	Regularly	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Indirective applicative with Passive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Lexical suffix with Middle	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Middle	Never	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Middle with Causative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Middle with Indirective applicative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Middle with Relational applicative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Noncontrol transitive	Regularly	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Passive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Relational applicative	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Relational applicative with Passive	No data	
+Sliammon	80	BOIL	paɬuqʼʷ-um	Unsuffixed	Never	
+Sliammon	81	APPEAR	ših-imut	Active-intransitive	No data	
+Sliammon	81	APPEAR	ših-imut	Active-intransitive-causative	Regularly	
+Sliammon	81	APPEAR	ših-imut	Causative	Never	
+Sliammon	81	APPEAR	ših-imut	Causative with Active-intransitive	No data	
+Sliammon	81	APPEAR	ših-imut	Causative with Passive	No data	
+Sliammon	81	APPEAR	ših-imut	Causative with Reflexive	No data	
+Sliammon	81	APPEAR	ših-imut	Control transitive	Regularly	
+Sliammon	81	APPEAR	ših-imut	Indirective applicative	Regularly	
+Sliammon	81	APPEAR	ših-imut	Indirective applicative with Passive	No data	
+Sliammon	81	APPEAR	ših-imut	Lexical suffix with Middle	No data	
+Sliammon	81	APPEAR	ših-imut	Middle	Never	
+Sliammon	81	APPEAR	ših-imut	Middle with Causative	No data	
+Sliammon	81	APPEAR	ših-imut	Middle with Indirective applicative	No data	
+Sliammon	81	APPEAR	ših-imut	Middle with Relational applicative	No data	
+Sliammon	81	APPEAR	ših-imut	Noncontrol transitive	No data	
+Sliammon	81	APPEAR	ših-imut	Passive	No data	
+Sliammon	81	APPEAR	ših-imut	Relational applicative	No data	
+Sliammon	81	APPEAR	ših-imut	Relational applicative with Passive	No data	
+Sliammon	81	APPEAR	ših-imut	Unsuffixed	Never	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Active-intransitive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Active-intransitive-causative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Causative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Causative with Active-intransitive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Causative with Passive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Causative with Reflexive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Control transitive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Indirective applicative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Indirective applicative with Passive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Lexical suffix with Middle	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Middle	Never	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Middle with Causative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Middle with Indirective applicative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Middle with Relational applicative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Noncontrol transitive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Passive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Relational applicative	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Relational applicative with Passive	No data	
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Unsuffixed	Never	
+Sliammon	83	CRY	ƛʼux̣ʷt	Active-intransitive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Active-intransitive-causative	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Causative	Regularly	
+Sliammon	83	CRY	ƛʼux̣ʷt	Causative with Active-intransitive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Causative with Passive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Causative with Reflexive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Control transitive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Indirective applicative	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Indirective applicative with Passive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Lexical suffix with Middle	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Middle	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Middle with Causative	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Middle with Indirective applicative	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Middle with Relational applicative	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Noncontrol transitive	Regularly	
+Sliammon	83	CRY	ƛʼux̣ʷt	Passive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Relational applicative	Regularly	
+Sliammon	83	CRY	ƛʼux̣ʷt	Relational applicative with Passive	No data	
+Sliammon	83	CRY	ƛʼux̣ʷt	Unsuffixed	Never	
+Sliammon	84	FALL	ǰaqʼ	Active-intransitive	Regularly	
+Sliammon	84	FALL	ǰaqʼ	Active-intransitive-causative	Regularly	
+Sliammon	84	FALL	ǰaqʼ	Causative	Never	
+Sliammon	84	FALL	ǰaqʼ	Causative with Active-intransitive	No data	
+Sliammon	84	FALL	ǰaqʼ	Causative with Passive	No data	
+Sliammon	84	FALL	ǰaqʼ	Causative with Reflexive	No data	
+Sliammon	84	FALL	ǰaqʼ	Control transitive	Regularly	
+Sliammon	84	FALL	ǰaqʼ	Indirective applicative	No data	
+Sliammon	84	FALL	ǰaqʼ	Indirective applicative with Passive	No data	
+Sliammon	84	FALL	ǰaqʼ	Lexical suffix with Middle	No data	
+Sliammon	84	FALL	ǰaqʼ	Middle	No data	
+Sliammon	84	FALL	ǰaqʼ	Middle with Causative	No data	
+Sliammon	84	FALL	ǰaqʼ	Middle with Indirective applicative	No data	
+Sliammon	84	FALL	ǰaqʼ	Middle with Relational applicative	No data	
+Sliammon	84	FALL	ǰaqʼ	Noncontrol transitive	Regularly	
+Sliammon	84	FALL	ǰaqʼ	Passive	No data	
+Sliammon	84	FALL	ǰaqʼ	Relational applicative	No data	
+Sliammon	84	FALL	ǰaqʼ	Relational applicative with Passive	No data	
+Sliammon	84	FALL	ǰaqʼ	Unsuffixed	Never	
+Sliammon	85	MAKE	həy-t	Active-intransitive	Regularly	
+Sliammon	85	MAKE	həy-t	Active-intransitive-causative	Regularly	
+Sliammon	85	MAKE	həy-t	Causative	Never	
+Sliammon	85	MAKE	həy-t	Causative with Active-intransitive	No data	
+Sliammon	85	MAKE	həy-t	Causative with Passive	No data	
+Sliammon	85	MAKE	həy-t	Causative with Reflexive	No data	
+Sliammon	85	MAKE	həy-t	Control transitive	Never	
+Sliammon	85	MAKE	həy-t	Indirective applicative	Regularly	
+Sliammon	85	MAKE	həy-t	Indirective applicative with Passive	No data	
+Sliammon	85	MAKE	həy-t	Lexical suffix with Middle	No data	
+Sliammon	85	MAKE	həy-t	Middle	Never	
+Sliammon	85	MAKE	həy-t	Middle with Causative	No data	
+Sliammon	85	MAKE	həy-t	Middle with Indirective applicative	No data	
+Sliammon	85	MAKE	həy-t	Middle with Relational applicative	No data	
+Sliammon	85	MAKE	həy-t	Noncontrol transitive	Regularly	
+Sliammon	85	MAKE	həy-t	Passive	No data	
+Sliammon	85	MAKE	həy-t	Relational applicative	No data	
+Sliammon	85	MAKE	həy-t	Relational applicative with Passive	No data	
+Sliammon	85	MAKE	həy-t	Unsuffixed	Never	
+Sliammon	86	GET	ma(ʔ)-t	Active-intransitive	Regularly	
+Sliammon	86	GET	ma(ʔ)-t	Active-intransitive-causative	Regularly	
+Sliammon	86	GET	ma(ʔ)-t	Causative	Never	
+Sliammon	86	GET	ma(ʔ)-t	Causative with Active-intransitive	No data	
+Sliammon	86	GET	ma(ʔ)-t	Causative with Passive	No data	
+Sliammon	86	GET	ma(ʔ)-t	Causative with Reflexive	No data	
+Sliammon	86	GET	ma(ʔ)-t	Control transitive	Never	
+Sliammon	86	GET	ma(ʔ)-t	Indirective applicative	Regularly	
+Sliammon	86	GET	ma(ʔ)-t	Indirective applicative with Passive	No data	
+Sliammon	86	GET	ma(ʔ)-t	Lexical suffix with Middle	No data	
+Sliammon	86	GET	ma(ʔ)-t	Middle	Never	
+Sliammon	86	GET	ma(ʔ)-t	Middle with Causative	No data	
+Sliammon	86	GET	ma(ʔ)-t	Middle with Indirective applicative	No data	
+Sliammon	86	GET	ma(ʔ)-t	Middle with Relational applicative	No data	
+Sliammon	86	GET	ma(ʔ)-t	Noncontrol transitive	Regularly	
+Sliammon	86	GET	ma(ʔ)-t	Passive	Regularly	
+Sliammon	86	GET	ma(ʔ)-t	Relational applicative	No data	
+Sliammon	86	GET	ma(ʔ)-t	Relational applicative with Passive	No data	
+Sliammon	86	GET	ma(ʔ)-t	Unsuffixed	Never	
+Sliammon	87	WANT	x̣aƛʼ	Active-intransitive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Active-intransitive-causative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Causative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Causative with Active-intransitive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Causative with Passive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Causative with Reflexive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Control transitive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Indirective applicative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Indirective applicative with Passive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Lexical suffix with Middle	No data	
+Sliammon	87	WANT	x̣aƛʼ	Middle	No data	
+Sliammon	87	WANT	x̣aƛʼ	Middle with Causative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Middle with Indirective applicative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Middle with Relational applicative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Noncontrol transitive	Marginally	
+Sliammon	87	WANT	x̣aƛʼ	Passive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Relational applicative	No data	
+Sliammon	87	WANT	x̣aƛʼ	Relational applicative with Passive	No data	
+Sliammon	87	WANT	x̣aƛʼ	Unsuffixed	Never	

@@ -1,0 +1,802 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Zenzontepec Chatino	1	EAT	y-aku	Active/inactive alternation	Never	
+Zenzontepec Chatino	1	EAT	y-aku	Ambitransitive alternation	Never	
+Zenzontepec Chatino	1	EAT	y-aku	Applicative	Never	
+Zenzontepec Chatino	1	EAT	y-aku	Causative of active verb	Regularly	eV' 3 jiʔį̄+2 jiʔį̄+1
+Zenzontepec Chatino	1	EAT	y-aku	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	1	EAT	y-aku	Intransitive alternation	Regularly	yV' 2
+Zenzontepec Chatino	1	EAT	y-aku	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	1	EAT	y-aku	Object/instrument incorporation	Never	
+Zenzontepec Chatino	1	EAT	y-aku	u-Causative alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Applicative	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Causative of active verb	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Object omission alternation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Applicative	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Causative of active verb	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Object omission alternation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Active/inactive alternation	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Ambitransitive alternation	Regularly	V' 2
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Applicative	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Causative of active verb	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Intransitive alternation	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Object/instrument incorporation	Never	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	u-Causative alternation	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Active/inactive alternation	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Ambitransitive alternation	Regularly	V' 2
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Applicative	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Causative of active verb	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Intransitive alternation	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Object/instrument incorporation	Never	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	u-Causative alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Applicative	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Causative of active verb	Regularly	eV' 3 jiʔį̄+2 jiʔį̄+1
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Object omission alternation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Active/inactive alternation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Ambitransitive alternation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Applicative	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Causative of active verb	Regularly	eV' 3 jiʔį̄+2 jiʔį̄+1
+Zenzontepec Chatino	6	FEAR	y-utzę	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Intransitive alternation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	6	FEAR	y-utzę	Object/instrument incorporation	Never	
+Zenzontepec Chatino	6	FEAR	y-utzę	u-Causative alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Active/inactive alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Ambitransitive alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Applicative	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Causative of active verb	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Intransitive alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Object omission alternation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Object/instrument incorporation	Never	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	u-Causative alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Applicative	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Causative of active verb	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Object omission alternation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Active/inactive alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Ambitransitive alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Applicative	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Causative of active verb	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Intransitive alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Object omission alternation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Object/instrument incorporation	Never	
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	u-Causative alternation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Applicative	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Causative of active verb	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Active/inactive alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Ambitransitive alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Applicative	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Causative of active verb	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Intransitive alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Object omission alternation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Object/instrument incorporation	Never	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	u-Causative alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Active/inactive alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Ambitransitive alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Applicative	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Causative of active verb	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Intransitive alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Object omission alternation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Object/instrument incorporation	Never	
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	u-Causative alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Active/inactive alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Ambitransitive alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Applicative	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Causative of active verb	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Intransitive alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Object omission alternation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Object/instrument incorporation	Never	
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	u-Causative alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Active/inactive alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Applicative	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Causative of active verb	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Intransitive alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Object omission alternation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Object/instrument incorporation	Never	
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	u-Causative alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Active/inactive alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Ambitransitive alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Applicative	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Causative of active verb	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Intransitive alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Object omission alternation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Object/instrument incorporation	Never	
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	u-Causative alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Active/inactive alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Ambitransitive alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Applicative	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Causative of active verb	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Intransitive alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Object omission alternation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Object/instrument incorporation	Never	
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	u-Causative alternation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Applicative	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Causative of active verb	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	18	TALK	y-akwiʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Active/inactive alternation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Ambitransitive alternation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Applicative	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Causative of active verb	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Intransitive alternation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Object/instrument incorporation	Never	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	u-Causative alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Active/inactive alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Ambitransitive alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Applicative	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Causative of active verb	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Intransitive alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Object omission alternation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Object/instrument incorporation	Never	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	u-Causative alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Active/inactive alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Ambitransitive alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Applicative	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Causative of active verb	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Intransitive alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Object omission alternation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	Object/instrument incorporation	Never	
+Zenzontepec Chatino	21	TELL	nakwę	u-Causative alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Active/inactive alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Ambitransitive alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Applicative	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Causative of active verb	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Intransitive alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Object omission alternation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	Object/instrument incorporation	Never	
+Zenzontepec Chatino	22	SAY	nakwę	u-Causative alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Active/inactive alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Ambitransitive alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Applicative	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Causative of active verb	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Intransitive alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Object omission alternation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Object/instrument incorporation	Never	
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	u-Causative alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Active/inactive alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Applicative	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Causative of active verb	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Intransitive alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Object omission alternation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	24	BUILD	nka-jnyā	u-Causative alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Active/inactive alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Ambitransitive alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Applicative	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Causative of active verb	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Intransitive alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Object omission alternation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Object/instrument incorporation	Never	
+Zenzontepec Chatino	25	BREAK	nka-laʔa	u-Causative alternation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Active/inactive alternation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Ambitransitive alternation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Applicative	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Causative of active verb	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Intransitive alternation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Object omission alternation	No data	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Object/instrument incorporation	Never	
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	u-Causative alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Active/inactive alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Ambitransitive alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Applicative	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Causative of active verb	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Intransitive alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Object omission alternation	Never	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Object/instrument incorporation	Regularly	V' 1 jiʔį̄+3
+Zenzontepec Chatino	27	BEAT	nka-ʔni	u-Causative alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Active/inactive alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Applicative	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Causative of active verb	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Intransitive alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Object omission alternation	Never	
+Zenzontepec Chatino	28	HIT	nkā-rá	Object/instrument incorporation	Regularly	V' 1 jiʔį̄+2
+Zenzontepec Chatino	28	HIT	nkā-rá	u-Causative alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Applicative	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Causative of active verb	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Object omission alternation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Active/inactive alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Ambitransitive alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Applicative	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Causative of active verb	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Intransitive alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Object omission alternation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Object/instrument incorporation	Never	
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	u-Causative alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Active/inactive alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Applicative	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Causative of active verb	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Intransitive alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Object omission alternation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	31	TAKE	nkā-láā	u-Causative alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Applicative	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Causative of active verb	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Object omission alternation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Active/inactive alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Ambitransitive alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Applicative	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Causative of active verb	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Intransitive alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Object omission alternation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Object/instrument incorporation	Never	
+Zenzontepec Chatino	33	PEEL	nka-s-atą	u-Causative alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Applicative	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Causative of active verb	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Object omission alternation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Active/inactive alternation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Ambitransitive alternation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Applicative	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Causative of active verb	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Intransitive alternation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Object/instrument incorporation	Never	
+Zenzontepec Chatino	35	SHOW	nka-suʔū	u-Causative alternation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Active/inactive alternation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Applicative	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Causative of active verb	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Intransitive alternation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Object omission alternation	Marginally	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Object/instrument incorporation	Never	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	u-Causative alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Active/inactive alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Ambitransitive alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Applicative	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Causative of active verb	No data	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Intransitive alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Object omission alternation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Object/instrument incorporation	Never	
+Zenzontepec Chatino	37	SEND	nkā-tēję́	u-Causative alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Active/inactive alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Ambitransitive alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Applicative	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Causative of active verb	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Intransitive alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Object omission alternation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	Object/instrument incorporation	Never	
+Zenzontepec Chatino	38	CARRY	nka-teę	u-Causative alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Active/inactive alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Ambitransitive alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Applicative	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Causative of active verb	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Intransitive alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Object omission alternation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Object/instrument incorporation	Never	
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	u-Causative alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Applicative	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Causative of active verb	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Object omission alternation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Active/inactive alternation	Marginally	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Ambitransitive alternation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Applicative	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Causative of active verb	Marginally	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Intransitive alternation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Object omission alternation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Object/instrument incorporation	Never	
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	u-Causative alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Active/inactive alternation	Marginally	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Ambitransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Applicative	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Causative of active verb	Marginally	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Intransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Object omission alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Object/instrument incorporation	Never	
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	u-Causative alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Active/inactive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Applicative	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Causative of active verb	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Intransitive alternation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Object omission alternation	Marginally	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Object/instrument incorporation	Never	
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	u-Causative alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Applicative	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Causative of active verb	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Object omission alternation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Active/inactive alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Ambitransitive alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Applicative	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Causative of active verb	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Intransitive alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Object omission alternation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Object/instrument incorporation	Never	
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	u-Causative alternation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Active/inactive alternation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Applicative	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Causative of active verb	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Intransitive alternation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Object omission alternation	Marginally	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Object/instrument incorporation	Never	
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	u-Causative alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Active/inactive alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Ambitransitive alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Applicative	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Causative of active verb	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Intransitive alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Object omission alternation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Object/instrument incorporation	Never	
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	u-Causative alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Applicative	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Causative of active verb	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Object omission alternation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Active/inactive alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Ambitransitive alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Applicative	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Causative of active verb	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Intransitive alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Object omission alternation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Object/instrument incorporation	Never	
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	u-Causative alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Active/inactive alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Ambitransitive alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Applicative	Marginally	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Intransitive alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Object omission alternation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Object/instrument incorporation	Never	
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	u-Causative alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Active/inactive alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Applicative	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Causative of active verb	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Intransitive alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Object omission alternation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	50	SIT	n-tyukwā	u-Causative alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Active/inactive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Ambitransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Applicative	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Causative of active verb	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Intransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Object omission alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Object/instrument incorporation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	u-Causative alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Active/inactive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Applicative	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Causative of active verb	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Intransitive alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Object omission alternation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	u-Causative alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Active/inactive alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Ambitransitive alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Applicative	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Intransitive alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Object omission alternation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Object/instrument incorporation	Never	
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	u-Causative alternation	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Active/inactive alternation	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Ambitransitive alternation	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Applicative	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Causative of active verb	Regularly	eV' 3 jiʔį̄+2 jiʔį̄+1
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Intransitive alternation	Never	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Object/instrument incorporation	Marginally	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	u-Causative alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Active/inactive alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Ambitransitive alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Applicative	Regularly	V'lóʔō 1 jiʔį̄+3 LOC2
+Zenzontepec Chatino	54	GO	y-aa	Causative of active verb	Never	
+Zenzontepec Chatino	54	GO	y-aa	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Intransitive alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Object omission alternation	Never	
+Zenzontepec Chatino	54	GO	y-aa	Object/instrument incorporation	Never	
+Zenzontepec Chatino	54	GO	y-aa	u-Causative alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Active/inactive alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Ambitransitive alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Applicative	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Causative of active verb	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Intransitive alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Object omission alternation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Object/instrument incorporation	Never	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	u-Causative alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Active/inactive alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Ambitransitive alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Applicative	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Causative of active verb	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Intransitive alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Object omission alternation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Object/instrument incorporation	Never	
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	u-Causative alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Active/inactive alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Ambitransitive alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Applicative	Regularly	V'lóʔō 1 jiʔį̄+3
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Intransitive alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Object omission alternation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Object/instrument incorporation	Never	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	u-Causative alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Active/inactive alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Applicative	Regularly	V'lóʔō 1 jiʔį̄+3
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Intransitive alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Object omission alternation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	u-Causative alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Active/inactive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Ambitransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Applicative	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Causative of active verb	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Intransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Object omission alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Object/instrument incorporation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	u-Causative alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Active/inactive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Ambitransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Applicative	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Causative of active verb	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Intransitive alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Object omission alternation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Object/instrument incorporation	Never	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	u-Causative alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Applicative	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Causative of active verb	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Object omission alternation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Active/inactive alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Ambitransitive alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Applicative	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Causative of active verb	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Intransitive alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Object omission alternation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Object/instrument incorporation	Never	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	u-Causative alternation	Regularly	uV' 2 jiʔį̄+1
+Zenzontepec Chatino	62	PLAY	nka-jyā	Active/inactive alternation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Applicative	Regularly	V'lóʔō 1 jiʔį̄+3
+Zenzontepec Chatino	62	PLAY	nka-jyā	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	62	PLAY	nka-jyā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Intransitive alternation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Object omission alternation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	62	PLAY	nka-jyā	u-Causative alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Applicative	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Causative of active verb	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Object omission alternation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Applicative	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Object omission alternation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Active/inactive alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Ambitransitive alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Applicative	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Intransitive alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Object omission alternation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Object/instrument incorporation	Never	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	u-Causative alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Applicative	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Causative of active verb	Marginally	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Object omission alternation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	u-Causative alternation	Regularly	uV' 3 jiʔį̄+1
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Active/inactive alternation	Regularly	tV' 3
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Ambitransitive alternation	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Applicative	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Causative of active verb	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Equipollent causative/intransitive alternation	Regularly	utV' 2 jiʔį̄+1
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Intransitive alternation	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Object omission alternation	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Object/instrument incorporation	Never	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	u-Causative alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Active/inactive alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Ambitransitive alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Applicative	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Causative of active verb	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Intransitive alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Object omission alternation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	Object/instrument incorporation	Never	
+Zenzontepec Chatino	68	BE DRY	witi	u-Causative alternation	Regularly	uV' 2 jiʔį̄+1
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Active/inactive alternation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Ambitransitive alternation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Applicative	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Causative of active verb	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Intransitive alternation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Object omission alternation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	Object/instrument incorporation	Never	
+Zenzontepec Chatino	69	RAIN	nkw-eʔe (choo)	u-Causative alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Active/inactive alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Ambitransitive alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Applicative	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Causative of active verb	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Intransitive alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Object omission alternation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	Object/instrument incorporation	Never	
+Zenzontepec Chatino	70	BE A HUNTER	no verbal counterpart	u-Causative alternation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Active/inactive alternation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Ambitransitive alternation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Applicative	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Causative of active verb	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Intransitive alternation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	71	GRIND	nkay-oō	Object/instrument incorporation	Never	
+Zenzontepec Chatino	71	GRIND	nkay-oō	u-Causative alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Active/inactive alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Ambitransitive alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Applicative	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Causative of active verb	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Intransitive alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Object omission alternation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Object/instrument incorporation	Never	
+Zenzontepec Chatino	73	DIG	nkā-lúū	u-Causative alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Active/inactive alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Ambitransitive alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Applicative	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Causative of active verb	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Intransitive alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Object omission alternation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Object/instrument incorporation	Never	
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	u-Causative alternation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Active/inactive alternation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Applicative	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Causative of active verb	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Intransitive alternation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	76	STEAL	nka-wanā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	76	STEAL	nka-wanā	u-Causative alternation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Active/inactive alternation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Ambitransitive alternation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Applicative	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Causative of active verb	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Intransitive alternation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Object/instrument incorporation	Never	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	u-Causative alternation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Active/inactive alternation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Ambitransitive alternation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Applicative	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Causative of active verb	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Intransitive alternation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Object omission alternation	Regularly	V' 1
+Zenzontepec Chatino	78	HEAR	y-una (2)	Object/instrument incorporation	Never	
+Zenzontepec Chatino	78	HEAR	y-una (2)	u-Causative alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Applicative	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Causative of active verb	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Object omission alternation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Active/inactive alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Ambitransitive alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Applicative	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Intransitive alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Object omission alternation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Object/instrument incorporation	Never	
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	u-Causative alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Active/inactive alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Ambitransitive alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Applicative	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Causative of active verb	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Intransitive alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Object omission alternation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Object/instrument incorporation	Never	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	u-Causative alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Active/inactive alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Ambitransitive alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Applicative	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Causative of active verb	Regularly	eV' 2 jiʔį̄+1
+Zenzontepec Chatino	83	CRY	y-ūná	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Intransitive alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Object omission alternation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	Object/instrument incorporation	Never	
+Zenzontepec Chatino	83	CRY	y-ūná	u-Causative alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Active/inactive alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Ambitransitive alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Applicative	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Causative of active verb	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Intransitive alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Object omission alternation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Object/instrument incorporation	Never	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	u-Causative alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Active/inactive alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Ambitransitive alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Applicative	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Causative of active verb	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Intransitive alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Object omission alternation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Object/instrument incorporation	Never	
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	u-Causative alternation	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Active/inactive alternation	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Ambitransitive alternation	Regularly	V' 2
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Applicative	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Causative of active verb	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Intransitive alternation	Marginally	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Object omission alternation	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Object/instrument incorporation	Never	
+Zenzontepec Chatino	86	GET	nku-jwī (2)	u-Causative alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Active/inactive alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Ambitransitive alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Applicative	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Causative of active verb	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Intransitive alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Object omission alternation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	Object/instrument incorporation	Never	
+Zenzontepec Chatino	87	WANT	nkw-ii	u-Causative alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Applicative	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Causative of active verb	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Object omission alternation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	u-Causative alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Active/inactive alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Ambitransitive alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Applicative	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Causative of active verb	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Equipollent causative/intransitive alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Intransitive alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Object omission alternation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Object/instrument incorporation	Never	
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	u-Causative alternation	Never	

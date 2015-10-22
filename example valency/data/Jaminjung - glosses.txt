@@ -1,0 +1,73 @@
+﻿Language_name	Gloss	Meaning
+Jaminjung	1	first person
+Jaminjung	2	second person
+Jaminjung	3	third person
+Jaminjung	A	agent
+Jaminjung	ABL	ablative
+Jaminjung	ALL	allative
+Jaminjung	ALSO	also
+Jaminjung	ASSOC	associative
+Jaminjung	BEN	benefactive
+Jaminjung	CNTRF	counterfactual
+Jaminjung	COLL	collective
+Jaminjung	COLL1	collective1
+Jaminjung	COLL2	collective2
+Jaminjung	COM	comitative
+Jaminjung	CONT	continuative
+Jaminjung	CONTR	contrastive focus
+Jaminjung	DAT	dative
+Jaminjung	DEM	demonstrative
+Jaminjung	DIR	directional
+Jaminjung	DIST	distal
+Jaminjung	DOUBT	dubitative
+Jaminjung	DU	dual
+Jaminjung	DUR	durative
+Jaminjung	DaCh	daughter's child
+Jaminjung	ERG	ergative
+Jaminjung	ETC	associative plural
+Jaminjung	EXCL	exclusive
+Jaminjung	FIRST	first
+Jaminjung	FaMo	Father"s mother"
+Jaminjung	FaSi	Father's sister
+Jaminjung	GIVEN	given
+Jaminjung	IMP	imperative
+Jaminjung	IMPV	imperfective
+Jaminjung	INCL	inclusive
+Jaminjung	INST	instrument
+Jaminjung	INSTR	instrumental
+Jaminjung	IPFV	imperfective
+Jaminjung	IRR	irrealis
+Jaminjung	ITER	iterative
+Jaminjung	KIN	kinship
+Jaminjung	KIN2	'your kin'
+Jaminjung	LOC	locative
+Jaminjung	MoFa	mother's father
+Jaminjung	MoMo	mother's mother
+Jaminjung	NEG	negation
+Jaminjung	O	obejct
+Jaminjung	ONLY	only
+Jaminjung	ORIG	origin
+Jaminjung	P	patient
+Jaminjung	PAIR	pair
+Jaminjung	PFV	perfective
+Jaminjung	PL	plural
+Jaminjung	POSS	possessive
+Jaminjung	POT	potential
+Jaminjung	PROPR	proprietive ('having')
+Jaminjung	PROX	proximal
+Jaminjung	PRS	present tense
+Jaminjung	PST	past
+Jaminjung	PURP	purposive
+Jaminjung	RDP	redublication
+Jaminjung	REFL	reflexive
+Jaminjung	RESTR	restricted
+Jaminjung	S	single argument
+Jaminjung	SEQ	sequential
+Jaminjung	SFOC	sentence focus
+Jaminjung	SG	singular
+Jaminjung	SUBORD	subordination
+Jaminjung	SoCh	son's child
+Jaminjung	TAG	tag question
+Jaminjung	TR	transitive marker
+Jaminjung	U	undergoer
+Jaminjung	YOU.KNOW	you know

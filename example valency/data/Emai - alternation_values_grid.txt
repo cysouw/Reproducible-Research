@@ -1,0 +1,102 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Addressee li + hon insertion	Addressee vbiee insertion	Allative insertion	Ambitransitive	Applicative li insertion	Causative insertion	Distributive locative insertion (specific)	Distributive locative insertion (unspecific)	Elative insertion	External possessor alternation	Instrument insertion	Locative change of state	Locative omission	Object omission	Projected adherence insertion
+Emai	1	EAT	e	1, 265	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never
+Emai	2	HUG	tutu nwu	2	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	3	LOOK AT	ghoo	3, 256	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	4	SEE	miẹ	4	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	5	SMELL	yaa	5, 10	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	6	FEAR	ófẹ̀n nwu	6, 7	V>1	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	7	FRIGHTEN	niaa	8, 9	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	8	LIKE	ẹghẹn	11, 12	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Emai	9	KNOW	ẹẹn	13, 14	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Emai	9	KNOW	guẹ	15	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	10	THINK	oo	16	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	11	SEARCH FOR	hoo (1)	17, 186, 187	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	12	WASH	khọọ	18, 19, 188, 189	1 > V > 2	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never
+Emai	12	WASH	kpe (2)	272, 273, 274, 275, 276	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Emai	13	DRESS	ku ọ	20	1>V>2>vbi+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Emai	14	SHAVE (a body part/person)	zẹ (1)	21, 190, 257	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	15	HELP	kpayẹ óbọ̀	22	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Emai	16	FOLLOW	rẹkhaẹn	23	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	17	MEET	ga ze	24	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	18	TALK	vbayẹ	25	1>V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	18	TALK	ta étà	26, 27, 28	1>V	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	19	ASK FOR																		
+Emai	20	SHOUT AT	khuee	32, 33, 132	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Emai	21	TELL	kpe (1)	34, 35, 36	1 > V > 2	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	21	TELL	gue	37, 38, 39, 40	1 > V > 2	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never
+Emai	21	TELL	ẹ	43, 44	1>V>2 UTT3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	22	SAY	ẹ ọ́í	41, 42	1>V>UTT2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	23	NAME	no direct counterpart	45	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	24	BUILD	zẹ(2)	46, 47, 48, 191, 266	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Regularly	Regularly	Never	Never	Never
+Emai	24	BUILD	hu	49, 50, 51	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never
+Emai	25	BREAK	guọghọ	52, 53, 54, 192, 258	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Regularly	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	25	BREAK	gbe a	55, 56, 57	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never
+Emai	25	BREAK	gboo ku a	58, 59, 60, 193	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never	Never	Never
+Emai	26	KILL	gbe (1)	61, 62	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	26	KILL	gboo	63, 64, 194, 259	1 > V > 2	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	27	BEAT	gbe (2)	65, 66, 195	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	28	HIT	fi (1)	67, 68, 69	1>V>2>3>vbi+4	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Emai	29	TOUCH	rẹ óbọ̀ so	70	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	30	CUT	hian	71, 72, 196, 197, 198, 199, 200	1 > V > 2	Never	Never	Regularly	Regularly	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Regularly	Never	Never	Never
+Emai	30	CUT	bẹnnọ	73, 74, 201, 202, 260	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Emai	31	TAKE	miẹẹ (1)	75, 255	1>V>2>3>vbi+4	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Emai	32	TEAR	nya a	76, 77, 203	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Emai	33	PEEL	bolo	78, 79, 204, 205	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	33	PEEL	fọlọ	80, 81, 206	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	34	HIDE	V hee	82, 83, 84, 85	1 > V > 2	Never	Never	Never	Regularly	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	35	SHOW	rẹ vbiẹẹ	86	1>V>2>3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	36	GIVE	V li	87, 88	1>V>2>lí+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	37	SEND	ye	90, 91	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	37	SEND	ye úhùnmì	89, 92, 93	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	38	CARRY	nwu	94, 95, 207	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	39	THROW	fi (2)	96, 97, 208, 209, 261	1 > V > 2	Never	Never	Regularly	Never	Never	Never	Regularly	Regularly	Never	Marginally	Never	Never	Never	Never	Regularly
+Emai	40	TIE	din	98, 99, 100, 101	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never
+Emai	40	TIE	gba	102, 210, 211	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Emai	40	TIE	gba íì	103	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	41	PUT	V ọ	104, 262	1>V>2>vbi+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Emai	42	POUR	ọọn ọ́	105, 106	1>V>2>vbi+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never
+Emai	43	COVER	voo	107, 108	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	44	FILL	vọọn	109, 110	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	44	FILL	khaan	111	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	45	LOAD	maa	112, 113, 114	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never
+Emai	45	LOAD	hee	115, 271	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	46	BLINK	gbe ẹ̀ò	116	1>V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	47	COUGH	kẹnhẹn	212, 213, 263	1>V	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Emai	48	CLIMB	hẹẹn	117, 118, 214	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	49	RUN	la	119, 215, 216	1>V	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Emai	50	SIT	dia (1)	120, 121	1>V>vbi+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Emai	51	SIT DOWN																		
+Emai	52	JUMP	vbọọ	122, 217, 218	1>V	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Emai	52	JUMP	san	123, 219, 220	1>V	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Emai	53	SING	so	124, 221	1 > V > 2	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	54	GO	lodẹ	125	1>V>vbi+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	55	LEAVE	zá raalẹ	126, 127	1>V>vbi+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Emai	55	LEAVE	shọọ re	128, 222	1>V>vbi+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+Emai	56	LIVE	dia (2)	129	1>V>vbi+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	57	LAUGH	jẹ	130, 131	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Emai	58	SCREAM																		
+Emai	59	FEEL PAIN	to (1)	133	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	60	FEEL COLD	úììn gbe	134, 135	V>1	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	61	DIE	u	136, 223, 224, 225	1>V	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Emai	62	PLAY	sie	137	1>V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	62	PLAY	doo	138, 226	1>V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	63	BE SAD	no direct counterpart	139	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	64	BE HUNGRY	òhànmì gbe	140, 227	V>1	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	65	ROLL																		
+Emai	66	SINK	de o	145, 270	1>V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	67	BURN																		
+Emai	68	BE DRY	ka	148, 231	1>V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	69	RAIN	àmẹ̀ rọọn	149	V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	70	BE A HUNTER	no verbal counterpart	150, 151	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	71	GRIND	lọ	152, 153, 232, 233, 234	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Regularly	Regularly	Never	Never	Never
+Emai	72	WIPE	kalọ	154, 155, 156, 157, 235, 236	1 > V > 2	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Never
+Emai	73	DIG	tọn	158, 159, 237, 238	1 > V > 2	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	73	DIG	vun	160, 161, 239, 240	1 > V > 2	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never
+Emai	74	PUSH	sua	162, 241, 242, 243, 244	1 > V > 2	Never	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Emai	75	BRING	V re	163, 245	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	76	STEAL	do V	164, 165	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Emai	77	TEACH	vbiẹẹ	166, 167	1>V>2>3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	78	HEAR	họn	168, 169, 170	1 > V > 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	79	COOK	vbie	171, 172	1 > V > 2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Emai	79	COOK	nyẹ	173, 174, 246, 247	1 > V > 2	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Emai	80	BOIL	tin	175, 248, 249	1>V	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never

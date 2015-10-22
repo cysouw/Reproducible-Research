@@ -1,0 +1,1888 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Nen	1	EAT	nne	Adjunct addition	No data	
+Nen	1	EAT	nne	Allative alternation	No data	
+Nen	1	EAT	nne	Assume.position alternation	No data	
+Nen	1	EAT	nne	Autobenefactive	No data	
+Nen	1	EAT	nne	Causative	No data	
+Nen	1	EAT	nne	Dative addition	No data	
+Nen	1	EAT	nne	Dative alternation	No data	
+Nen	1	EAT	nne	Deagentive alternation	No data	
+Nen	1	EAT	nne	Locative alternation	No data	
+Nen	1	EAT	nne	Middle	No data	
+Nen	1	EAT	nne	Middle object addition	No data	
+Nen	1	EAT	nne	Middle object-downgrading alternation	No data	
+Nen	1	EAT	nne	Object omission	No data	
+Nen	1	EAT	nne	Placement alternation	No data	
+Nen	1	EAT	nne	Pseudo-passive	No data	
+Nen	1	EAT	nne	Reciprocal (copular version)	No data	
+Nen	1	EAT	nne	Reflexive/reciprocal	Regularly	
+Nen	2	HUG	wambns	Adjunct addition	No data	
+Nen	2	HUG	wambns	Allative alternation	No data	
+Nen	2	HUG	wambns	Assume.position alternation	No data	
+Nen	2	HUG	wambns	Autobenefactive	No data	
+Nen	2	HUG	wambns	Causative	No data	
+Nen	2	HUG	wambns	Dative addition	No data	
+Nen	2	HUG	wambns	Dative alternation	No data	
+Nen	2	HUG	wambns	Deagentive alternation	No data	
+Nen	2	HUG	wambns	Locative alternation	No data	
+Nen	2	HUG	wambns	Middle	No data	
+Nen	2	HUG	wambns	Middle object addition	No data	
+Nen	2	HUG	wambns	Middle object-downgrading alternation	No data	
+Nen	2	HUG	wambns	Object omission	No data	
+Nen	2	HUG	wambns	Placement alternation	No data	
+Nen	2	HUG	wambns	Pseudo-passive	No data	
+Nen	2	HUG	wambns	Reciprocal (copular version)	No data	
+Nen	2	HUG	wambns	Reflexive/reciprocal	Regularly	
+Nen	3	LOOK AT	wakaes	Adjunct addition	No data	
+Nen	3	LOOK AT	wakaes	Allative alternation	No data	
+Nen	3	LOOK AT	wakaes	Assume.position alternation	No data	
+Nen	3	LOOK AT	wakaes	Autobenefactive	No data	
+Nen	3	LOOK AT	wakaes	Causative	No data	
+Nen	3	LOOK AT	wakaes	Dative addition	No data	
+Nen	3	LOOK AT	wakaes	Dative alternation	No data	
+Nen	3	LOOK AT	wakaes	Deagentive alternation	No data	
+Nen	3	LOOK AT	wakaes	Locative alternation	No data	
+Nen	3	LOOK AT	wakaes	Middle	No data	
+Nen	3	LOOK AT	wakaes	Middle object addition	No data	
+Nen	3	LOOK AT	wakaes	Middle object-downgrading alternation	No data	
+Nen	3	LOOK AT	wakaes	Object omission	No data	
+Nen	3	LOOK AT	wakaes	Placement alternation	No data	
+Nen	3	LOOK AT	wakaes	Pseudo-passive	No data	
+Nen	3	LOOK AT	wakaes	Reciprocal (copular version)	No data	
+Nen	3	LOOK AT	wakaes	Reflexive/reciprocal	Regularly	
+Nen	4	SEE	wakaes	Adjunct addition	No data	
+Nen	4	SEE	wakaes	Allative alternation	No data	
+Nen	4	SEE	wakaes	Assume.position alternation	No data	
+Nen	4	SEE	wakaes	Autobenefactive	No data	
+Nen	4	SEE	wakaes	Causative	No data	
+Nen	4	SEE	wakaes	Dative addition	No data	
+Nen	4	SEE	wakaes	Dative alternation	No data	
+Nen	4	SEE	wakaes	Deagentive alternation	No data	
+Nen	4	SEE	wakaes	Locative alternation	No data	
+Nen	4	SEE	wakaes	Middle	No data	
+Nen	4	SEE	wakaes	Middle object addition	No data	
+Nen	4	SEE	wakaes	Middle object-downgrading alternation	No data	
+Nen	4	SEE	wakaes	Object omission	No data	
+Nen	4	SEE	wakaes	Placement alternation	No data	
+Nen	4	SEE	wakaes	Pseudo-passive	No data	
+Nen	4	SEE	wakaes	Reciprocal (copular version)	No data	
+Nen	4	SEE	wakaes	Reflexive/reciprocal	Regularly	
+Nen	4	SEE	winḡs	Adjunct addition	No data	
+Nen	4	SEE	winḡs	Allative alternation	No data	
+Nen	4	SEE	winḡs	Assume.position alternation	No data	
+Nen	4	SEE	winḡs	Autobenefactive	No data	
+Nen	4	SEE	winḡs	Causative	No data	
+Nen	4	SEE	winḡs	Dative addition	No data	
+Nen	4	SEE	winḡs	Dative alternation	No data	
+Nen	4	SEE	winḡs	Deagentive alternation	No data	
+Nen	4	SEE	winḡs	Locative alternation	No data	
+Nen	4	SEE	winḡs	Middle	No data	
+Nen	4	SEE	winḡs	Middle object addition	No data	
+Nen	4	SEE	winḡs	Middle object-downgrading alternation	No data	
+Nen	4	SEE	winḡs	Object omission	No data	
+Nen	4	SEE	winḡs	Placement alternation	No data	
+Nen	4	SEE	winḡs	Pseudo-passive	No data	
+Nen	4	SEE	winḡs	Reciprocal (copular version)	No data	
+Nen	4	SEE	winḡs	Reflexive/reciprocal	Regularly	
+Nen	5	SMELL	wambaes	Adjunct addition	No data	
+Nen	5	SMELL	wambaes	Allative alternation	No data	
+Nen	5	SMELL	wambaes	Assume.position alternation	No data	
+Nen	5	SMELL	wambaes	Autobenefactive	No data	
+Nen	5	SMELL	wambaes	Causative	No data	
+Nen	5	SMELL	wambaes	Dative addition	No data	
+Nen	5	SMELL	wambaes	Dative alternation	No data	
+Nen	5	SMELL	wambaes	Deagentive alternation	No data	
+Nen	5	SMELL	wambaes	Locative alternation	No data	
+Nen	5	SMELL	wambaes	Middle	No data	
+Nen	5	SMELL	wambaes	Middle object addition	No data	
+Nen	5	SMELL	wambaes	Middle object-downgrading alternation	No data	
+Nen	5	SMELL	wambaes	Object omission	No data	
+Nen	5	SMELL	wambaes	Placement alternation	No data	
+Nen	5	SMELL	wambaes	Pseudo-passive	No data	
+Nen	5	SMELL	wambaes	Reciprocal (copular version)	No data	
+Nen	5	SMELL	wambaes	Reflexive/reciprocal	Regularly	
+Nen	6	FEAR	brbräm räms	Adjunct addition	No data	
+Nen	6	FEAR	brbräm räms	Allative alternation	No data	
+Nen	6	FEAR	brbräm räms	Assume.position alternation	No data	
+Nen	6	FEAR	brbräm räms	Autobenefactive	No data	
+Nen	6	FEAR	brbräm räms	Causative	No data	
+Nen	6	FEAR	brbräm räms	Dative addition	No data	
+Nen	6	FEAR	brbräm räms	Dative alternation	No data	
+Nen	6	FEAR	brbräm räms	Deagentive alternation	No data	
+Nen	6	FEAR	brbräm räms	Locative alternation	No data	
+Nen	6	FEAR	brbräm räms	Middle	No data	
+Nen	6	FEAR	brbräm räms	Middle object addition	No data	
+Nen	6	FEAR	brbräm räms	Middle object-downgrading alternation	No data	
+Nen	6	FEAR	brbräm räms	Object omission	No data	
+Nen	6	FEAR	brbräm räms	Placement alternation	No data	
+Nen	6	FEAR	brbräm räms	Pseudo-passive	No data	
+Nen	6	FEAR	brbräm räms	Reciprocal (copular version)	No data	
+Nen	6	FEAR	brbräm räms	Reflexive/reciprocal	No data	
+Nen	7	FRIGHTEN	brbr wets	Adjunct addition	No data	
+Nen	7	FRIGHTEN	brbr wets	Allative alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Assume.position alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Autobenefactive	No data	
+Nen	7	FRIGHTEN	brbr wets	Causative	No data	
+Nen	7	FRIGHTEN	brbr wets	Dative addition	No data	
+Nen	7	FRIGHTEN	brbr wets	Dative alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Deagentive alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Locative alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Middle	No data	
+Nen	7	FRIGHTEN	brbr wets	Middle object addition	No data	
+Nen	7	FRIGHTEN	brbr wets	Middle object-downgrading alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Object omission	No data	
+Nen	7	FRIGHTEN	brbr wets	Placement alternation	No data	
+Nen	7	FRIGHTEN	brbr wets	Pseudo-passive	No data	
+Nen	7	FRIGHTEN	brbr wets	Reciprocal (copular version)	No data	
+Nen	7	FRIGHTEN	brbr wets	Reflexive/reciprocal	No data	
+Nen	8	LIKE	mñteba wakaes	Adjunct addition	No data	
+Nen	8	LIKE	mñteba wakaes	Allative alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Assume.position alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Autobenefactive	No data	
+Nen	8	LIKE	mñteba wakaes	Causative	No data	
+Nen	8	LIKE	mñteba wakaes	Dative addition	No data	
+Nen	8	LIKE	mñteba wakaes	Dative alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Deagentive alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Locative alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Middle	No data	
+Nen	8	LIKE	mñteba wakaes	Middle object addition	No data	
+Nen	8	LIKE	mñteba wakaes	Middle object-downgrading alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Object omission	No data	
+Nen	8	LIKE	mñteba wakaes	Placement alternation	No data	
+Nen	8	LIKE	mñteba wakaes	Pseudo-passive	No data	
+Nen	8	LIKE	mñteba wakaes	Reciprocal (copular version)	No data	
+Nen	8	LIKE	mñteba wakaes	Reflexive/reciprocal	Regularly	
+Nen	9	KNOW	mete	Adjunct addition	No data	
+Nen	9	KNOW	mete	Allative alternation	No data	
+Nen	9	KNOW	mete	Assume.position alternation	No data	
+Nen	9	KNOW	mete	Autobenefactive	No data	
+Nen	9	KNOW	mete	Causative	No data	
+Nen	9	KNOW	mete	Dative addition	No data	
+Nen	9	KNOW	mete	Dative alternation	No data	
+Nen	9	KNOW	mete	Deagentive alternation	No data	
+Nen	9	KNOW	mete	Locative alternation	No data	
+Nen	9	KNOW	mete	Middle	No data	
+Nen	9	KNOW	mete	Middle object addition	No data	
+Nen	9	KNOW	mete	Middle object-downgrading alternation	No data	
+Nen	9	KNOW	mete	Object omission	No data	
+Nen	9	KNOW	mete	Placement alternation	No data	
+Nen	9	KNOW	mete	Pseudo-passive	No data	
+Nen	9	KNOW	mete	Reciprocal (copular version)	Regularly	
+Nen	9	KNOW	mete	Reflexive/reciprocal	No data	
+Nen	10	THINK	embärs	Adjunct addition	No data	
+Nen	10	THINK	embärs	Allative alternation	No data	
+Nen	10	THINK	embärs	Assume.position alternation	No data	
+Nen	10	THINK	embärs	Autobenefactive	No data	
+Nen	10	THINK	embärs	Causative	No data	
+Nen	10	THINK	embärs	Dative addition	No data	
+Nen	10	THINK	embärs	Dative alternation	No data	
+Nen	10	THINK	embärs	Deagentive alternation	No data	
+Nen	10	THINK	embärs	Locative alternation	No data	
+Nen	10	THINK	embärs	Middle	No data	
+Nen	10	THINK	embärs	Middle object addition	No data	
+Nen	10	THINK	embärs	Middle object-downgrading alternation	No data	
+Nen	10	THINK	embärs	Object omission	No data	
+Nen	10	THINK	embärs	Placement alternation	No data	
+Nen	10	THINK	embärs	Pseudo-passive	No data	
+Nen	10	THINK	embärs	Reciprocal (copular version)	No data	
+Nen	10	THINK	embärs	Reflexive/reciprocal	No data	
+Nen	10	THINK	wabaes	Adjunct addition	No data	
+Nen	10	THINK	wabaes	Allative alternation	No data	
+Nen	10	THINK	wabaes	Assume.position alternation	No data	
+Nen	10	THINK	wabaes	Autobenefactive	No data	
+Nen	10	THINK	wabaes	Causative	No data	
+Nen	10	THINK	wabaes	Dative addition	No data	
+Nen	10	THINK	wabaes	Dative alternation	No data	
+Nen	10	THINK	wabaes	Deagentive alternation	No data	
+Nen	10	THINK	wabaes	Locative alternation	No data	
+Nen	10	THINK	wabaes	Middle	No data	
+Nen	10	THINK	wabaes	Middle object addition	No data	
+Nen	10	THINK	wabaes	Middle object-downgrading alternation	No data	
+Nen	10	THINK	wabaes	Object omission	No data	
+Nen	10	THINK	wabaes	Placement alternation	No data	
+Nen	10	THINK	wabaes	Pseudo-passive	No data	
+Nen	10	THINK	wabaes	Reciprocal (copular version)	No data	
+Nen	10	THINK	wabaes	Reflexive/reciprocal	Regularly	
+Nen	11	SEARCH FOR	ronzas	Adjunct addition	No data	
+Nen	11	SEARCH FOR	ronzas	Allative alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Assume.position alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Autobenefactive	No data	
+Nen	11	SEARCH FOR	ronzas	Causative	No data	
+Nen	11	SEARCH FOR	ronzas	Dative addition	No data	
+Nen	11	SEARCH FOR	ronzas	Dative alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Deagentive alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Locative alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Middle	No data	
+Nen	11	SEARCH FOR	ronzas	Middle object addition	No data	
+Nen	11	SEARCH FOR	ronzas	Middle object-downgrading alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Object omission	No data	
+Nen	11	SEARCH FOR	ronzas	Placement alternation	No data	
+Nen	11	SEARCH FOR	ronzas	Pseudo-passive	No data	
+Nen	11	SEARCH FOR	ronzas	Reciprocal (copular version)	No data	
+Nen	11	SEARCH FOR	ronzas	Reflexive/reciprocal	No data	
+Nen	12	WASH	wémbärs	Adjunct addition	No data	
+Nen	12	WASH	wémbärs	Allative alternation	No data	
+Nen	12	WASH	wémbärs	Assume.position alternation	No data	
+Nen	12	WASH	wémbärs	Autobenefactive	Regularly	
+Nen	12	WASH	wémbärs	Causative	No data	
+Nen	12	WASH	wémbärs	Dative addition	No data	
+Nen	12	WASH	wémbärs	Dative alternation	No data	
+Nen	12	WASH	wémbärs	Deagentive alternation	No data	
+Nen	12	WASH	wémbärs	Locative alternation	No data	
+Nen	12	WASH	wémbärs	Middle	No data	
+Nen	12	WASH	wémbärs	Middle object addition	No data	
+Nen	12	WASH	wémbärs	Middle object-downgrading alternation	No data	
+Nen	12	WASH	wémbärs	Object omission	No data	
+Nen	12	WASH	wémbärs	Placement alternation	No data	
+Nen	12	WASH	wémbärs	Pseudo-passive	No data	
+Nen	12	WASH	wémbärs	Reciprocal (copular version)	No data	
+Nen	12	WASH	wémbärs	Reflexive/reciprocal	No data	
+Nen	13	DRESS	wamanes	Adjunct addition	No data	
+Nen	13	DRESS	wamanes	Allative alternation	No data	
+Nen	13	DRESS	wamanes	Assume.position alternation	No data	
+Nen	13	DRESS	wamanes	Autobenefactive	Regularly	
+Nen	13	DRESS	wamanes	Causative	No data	
+Nen	13	DRESS	wamanes	Dative addition	No data	
+Nen	13	DRESS	wamanes	Dative alternation	No data	
+Nen	13	DRESS	wamanes	Deagentive alternation	No data	
+Nen	13	DRESS	wamanes	Locative alternation	No data	
+Nen	13	DRESS	wamanes	Middle	No data	
+Nen	13	DRESS	wamanes	Middle object addition	No data	
+Nen	13	DRESS	wamanes	Middle object-downgrading alternation	No data	
+Nen	13	DRESS	wamanes	Object omission	No data	
+Nen	13	DRESS	wamanes	Placement alternation	No data	
+Nen	13	DRESS	wamanes	Pseudo-passive	No data	
+Nen	13	DRESS	wamanes	Reciprocal (copular version)	No data	
+Nen	13	DRESS	wamanes	Reflexive/reciprocal	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Adjunct addition	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Allative alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Assume.position alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Autobenefactive	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Causative	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Dative addition	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Dative alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Deagentive alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Locative alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Middle	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Middle object addition	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Middle object-downgrading alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Object omission	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Placement alternation	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Pseudo-passive	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Reciprocal (copular version)	No data	
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Reflexive/reciprocal	Regularly	
+Nen	15	HELP	wetrs	Adjunct addition	No data	
+Nen	15	HELP	wetrs	Allative alternation	No data	
+Nen	15	HELP	wetrs	Assume.position alternation	No data	
+Nen	15	HELP	wetrs	Autobenefactive	No data	
+Nen	15	HELP	wetrs	Causative	No data	
+Nen	15	HELP	wetrs	Dative addition	No data	
+Nen	15	HELP	wetrs	Dative alternation	No data	
+Nen	15	HELP	wetrs	Deagentive alternation	No data	
+Nen	15	HELP	wetrs	Locative alternation	No data	
+Nen	15	HELP	wetrs	Middle	No data	
+Nen	15	HELP	wetrs	Middle object addition	No data	
+Nen	15	HELP	wetrs	Middle object-downgrading alternation	No data	
+Nen	15	HELP	wetrs	Object omission	No data	
+Nen	15	HELP	wetrs	Placement alternation	No data	
+Nen	15	HELP	wetrs	Pseudo-passive	No data	
+Nen	15	HELP	wetrs	Reciprocal (copular version)	No data	
+Nen	15	HELP	wetrs	Reflexive/reciprocal	No data	
+Nen	16	FOLLOW	waets	Adjunct addition	No data	
+Nen	16	FOLLOW	waets	Allative alternation	No data	
+Nen	16	FOLLOW	waets	Assume.position alternation	No data	
+Nen	16	FOLLOW	waets	Autobenefactive	No data	
+Nen	16	FOLLOW	waets	Causative	No data	
+Nen	16	FOLLOW	waets	Dative addition	No data	
+Nen	16	FOLLOW	waets	Dative alternation	No data	
+Nen	16	FOLLOW	waets	Deagentive alternation	No data	
+Nen	16	FOLLOW	waets	Locative alternation	No data	
+Nen	16	FOLLOW	waets	Middle	No data	
+Nen	16	FOLLOW	waets	Middle object addition	No data	
+Nen	16	FOLLOW	waets	Middle object-downgrading alternation	No data	
+Nen	16	FOLLOW	waets	Object omission	Regularly	
+Nen	16	FOLLOW	waets	Placement alternation	No data	
+Nen	16	FOLLOW	waets	Pseudo-passive	No data	
+Nen	16	FOLLOW	waets	Reciprocal (copular version)	No data	
+Nen	16	FOLLOW	waets	Reflexive/reciprocal	Regularly	
+Nen	17	MEET	bäts	Adjunct addition	No data	
+Nen	17	MEET	bäts	Allative alternation	No data	
+Nen	17	MEET	bäts	Assume.position alternation	No data	
+Nen	17	MEET	bäts	Autobenefactive	No data	
+Nen	17	MEET	bäts	Causative	No data	
+Nen	17	MEET	bäts	Dative addition	No data	
+Nen	17	MEET	bäts	Dative alternation	No data	
+Nen	17	MEET	bäts	Deagentive alternation	No data	
+Nen	17	MEET	bäts	Locative alternation	No data	
+Nen	17	MEET	bäts	Middle	No data	
+Nen	17	MEET	bäts	Middle object addition	No data	
+Nen	17	MEET	bäts	Middle object-downgrading alternation	No data	
+Nen	17	MEET	bäts	Object omission	No data	
+Nen	17	MEET	bäts	Placement alternation	No data	
+Nen	17	MEET	bäts	Pseudo-passive	No data	
+Nen	17	MEET	bäts	Reciprocal (copular version)	No data	
+Nen	17	MEET	bäts	Reflexive/reciprocal	Regularly	
+Nen	17	MEET	kiwinḡs	Adjunct addition	No data	
+Nen	17	MEET	kiwinḡs	Allative alternation	No data	
+Nen	17	MEET	kiwinḡs	Assume.position alternation	No data	
+Nen	17	MEET	kiwinḡs	Autobenefactive	No data	
+Nen	17	MEET	kiwinḡs	Causative	No data	
+Nen	17	MEET	kiwinḡs	Dative addition	No data	
+Nen	17	MEET	kiwinḡs	Dative alternation	No data	
+Nen	17	MEET	kiwinḡs	Deagentive alternation	No data	
+Nen	17	MEET	kiwinḡs	Locative alternation	No data	
+Nen	17	MEET	kiwinḡs	Middle	No data	
+Nen	17	MEET	kiwinḡs	Middle object addition	No data	
+Nen	17	MEET	kiwinḡs	Middle object-downgrading alternation	No data	
+Nen	17	MEET	kiwinḡs	Object omission	No data	
+Nen	17	MEET	kiwinḡs	Placement alternation	No data	
+Nen	17	MEET	kiwinḡs	Pseudo-passive	No data	
+Nen	17	MEET	kiwinḡs	Reciprocal (copular version)	No data	
+Nen	17	MEET	kiwinḡs	Reflexive/reciprocal	No data	
+Nen	18	TALK	mts	Adjunct addition	No data	
+Nen	18	TALK	mts	Allative alternation	No data	
+Nen	18	TALK	mts	Assume.position alternation	No data	
+Nen	18	TALK	mts	Autobenefactive	No data	
+Nen	18	TALK	mts	Causative	No data	
+Nen	18	TALK	mts	Dative addition	No data	
+Nen	18	TALK	mts	Dative alternation	No data	
+Nen	18	TALK	mts	Deagentive alternation	No data	
+Nen	18	TALK	mts	Locative alternation	No data	
+Nen	18	TALK	mts	Middle	No data	
+Nen	18	TALK	mts	Middle object addition	No data	
+Nen	18	TALK	mts	Middle object-downgrading alternation	No data	
+Nen	18	TALK	mts	Object omission	No data	
+Nen	18	TALK	mts	Placement alternation	No data	
+Nen	18	TALK	mts	Pseudo-passive	No data	
+Nen	18	TALK	mts	Reciprocal (copular version)	No data	
+Nen	18	TALK	mts	Reflexive/reciprocal	No data	
+Nen	18	TALK	owabs	Adjunct addition	No data	
+Nen	18	TALK	owabs	Allative alternation	No data	
+Nen	18	TALK	owabs	Assume.position alternation	No data	
+Nen	18	TALK	owabs	Autobenefactive	No data	
+Nen	18	TALK	owabs	Causative	No data	
+Nen	18	TALK	owabs	Dative addition	No data	
+Nen	18	TALK	owabs	Dative alternation	No data	
+Nen	18	TALK	owabs	Deagentive alternation	No data	
+Nen	18	TALK	owabs	Locative alternation	No data	
+Nen	18	TALK	owabs	Middle	No data	
+Nen	18	TALK	owabs	Middle object addition	No data	
+Nen	18	TALK	owabs	Middle object-downgrading alternation	No data	
+Nen	18	TALK	owabs	Object omission	No data	
+Nen	18	TALK	owabs	Placement alternation	No data	
+Nen	18	TALK	owabs	Pseudo-passive	No data	
+Nen	18	TALK	owabs	Reciprocal (copular version)	No data	
+Nen	18	TALK	owabs	Reflexive/reciprocal	No data	
+Nen	19	ASK FOR	wémés	Adjunct addition	No data	
+Nen	19	ASK FOR	wémés	Allative alternation	No data	
+Nen	19	ASK FOR	wémés	Assume.position alternation	No data	
+Nen	19	ASK FOR	wémés	Autobenefactive	No data	
+Nen	19	ASK FOR	wémés	Causative	No data	
+Nen	19	ASK FOR	wémés	Dative addition	No data	
+Nen	19	ASK FOR	wémés	Dative alternation	No data	
+Nen	19	ASK FOR	wémés	Deagentive alternation	No data	
+Nen	19	ASK FOR	wémés	Locative alternation	No data	
+Nen	19	ASK FOR	wémés	Middle	No data	
+Nen	19	ASK FOR	wémés	Middle object addition	No data	
+Nen	19	ASK FOR	wémés	Middle object-downgrading alternation	No data	
+Nen	19	ASK FOR	wémés	Object omission	No data	
+Nen	19	ASK FOR	wémés	Placement alternation	No data	
+Nen	19	ASK FOR	wémés	Pseudo-passive	No data	
+Nen	19	ASK FOR	wémés	Reciprocal (copular version)	No data	
+Nen	19	ASK FOR	wémés	Reflexive/reciprocal	No data	
+Nen	20	SHOUT AT	ke oters	Adjunct addition	No data	
+Nen	20	SHOUT AT	ke oters	Allative alternation	No data	
+Nen	20	SHOUT AT	ke oters	Assume.position alternation	No data	
+Nen	20	SHOUT AT	ke oters	Autobenefactive	No data	
+Nen	20	SHOUT AT	ke oters	Causative	No data	
+Nen	20	SHOUT AT	ke oters	Dative addition	No data	
+Nen	20	SHOUT AT	ke oters	Dative alternation	No data	
+Nen	20	SHOUT AT	ke oters	Deagentive alternation	No data	
+Nen	20	SHOUT AT	ke oters	Locative alternation	No data	
+Nen	20	SHOUT AT	ke oters	Middle	No data	
+Nen	20	SHOUT AT	ke oters	Middle object addition	No data	
+Nen	20	SHOUT AT	ke oters	Middle object-downgrading alternation	No data	
+Nen	20	SHOUT AT	ke oters	Object omission	No data	
+Nen	20	SHOUT AT	ke oters	Placement alternation	No data	
+Nen	20	SHOUT AT	ke oters	Pseudo-passive	No data	
+Nen	20	SHOUT AT	ke oters	Reciprocal (copular version)	No data	
+Nen	20	SHOUT AT	ke oters	Reflexive/reciprocal	No data	
+Nen	20	SHOUT AT	weräns	Adjunct addition	No data	
+Nen	20	SHOUT AT	weräns	Allative alternation	No data	
+Nen	20	SHOUT AT	weräns	Assume.position alternation	No data	
+Nen	20	SHOUT AT	weräns	Autobenefactive	No data	
+Nen	20	SHOUT AT	weräns	Causative	No data	
+Nen	20	SHOUT AT	weräns	Dative addition	No data	
+Nen	20	SHOUT AT	weräns	Dative alternation	No data	
+Nen	20	SHOUT AT	weräns	Deagentive alternation	No data	
+Nen	20	SHOUT AT	weräns	Locative alternation	No data	
+Nen	20	SHOUT AT	weräns	Middle	No data	
+Nen	20	SHOUT AT	weräns	Middle object addition	No data	
+Nen	20	SHOUT AT	weräns	Middle object-downgrading alternation	No data	
+Nen	20	SHOUT AT	weräns	Object omission	No data	
+Nen	20	SHOUT AT	weräns	Placement alternation	No data	
+Nen	20	SHOUT AT	weräns	Pseudo-passive	No data	
+Nen	20	SHOUT AT	weräns	Reciprocal (copular version)	No data	
+Nen	20	SHOUT AT	weräns	Reflexive/reciprocal	No data	
+Nen	21	TELL	mts	Adjunct addition	No data	
+Nen	21	TELL	mts	Allative alternation	No data	
+Nen	21	TELL	mts	Assume.position alternation	No data	
+Nen	21	TELL	mts	Autobenefactive	No data	
+Nen	21	TELL	mts	Causative	No data	
+Nen	21	TELL	mts	Dative addition	No data	
+Nen	21	TELL	mts	Dative alternation	No data	
+Nen	21	TELL	mts	Deagentive alternation	No data	
+Nen	21	TELL	mts	Locative alternation	No data	
+Nen	21	TELL	mts	Middle	No data	
+Nen	21	TELL	mts	Middle object addition	No data	
+Nen	21	TELL	mts	Middle object-downgrading alternation	No data	
+Nen	21	TELL	mts	Object omission	No data	
+Nen	21	TELL	mts	Placement alternation	No data	
+Nen	21	TELL	mts	Pseudo-passive	No data	
+Nen	21	TELL	mts	Reciprocal (copular version)	No data	
+Nen	21	TELL	mts	Reflexive/reciprocal	No data	
+Nen	21	TELL	wawaets	Adjunct addition	No data	
+Nen	21	TELL	wawaets	Allative alternation	No data	
+Nen	21	TELL	wawaets	Assume.position alternation	No data	
+Nen	21	TELL	wawaets	Autobenefactive	No data	
+Nen	21	TELL	wawaets	Causative	No data	
+Nen	21	TELL	wawaets	Dative addition	No data	
+Nen	21	TELL	wawaets	Dative alternation	No data	
+Nen	21	TELL	wawaets	Deagentive alternation	No data	
+Nen	21	TELL	wawaets	Locative alternation	No data	
+Nen	21	TELL	wawaets	Middle	No data	
+Nen	21	TELL	wawaets	Middle object addition	No data	
+Nen	21	TELL	wawaets	Middle object-downgrading alternation	No data	
+Nen	21	TELL	wawaets	Object omission	No data	
+Nen	21	TELL	wawaets	Placement alternation	No data	
+Nen	21	TELL	wawaets	Pseudo-passive	No data	
+Nen	21	TELL	wawaets	Reciprocal (copular version)	No data	
+Nen	21	TELL	wawaets	Reflexive/reciprocal	No data	
+Nen	21	TELL	wetls	Adjunct addition	No data	
+Nen	21	TELL	wetls	Allative alternation	No data	
+Nen	21	TELL	wetls	Assume.position alternation	No data	
+Nen	21	TELL	wetls	Autobenefactive	No data	
+Nen	21	TELL	wetls	Causative	No data	
+Nen	21	TELL	wetls	Dative addition	No data	
+Nen	21	TELL	wetls	Dative alternation	No data	
+Nen	21	TELL	wetls	Deagentive alternation	No data	
+Nen	21	TELL	wetls	Locative alternation	No data	
+Nen	21	TELL	wetls	Middle	No data	
+Nen	21	TELL	wetls	Middle object addition	No data	
+Nen	21	TELL	wetls	Middle object-downgrading alternation	No data	
+Nen	21	TELL	wetls	Object omission	No data	
+Nen	21	TELL	wetls	Placement alternation	No data	
+Nen	21	TELL	wetls	Pseudo-passive	No data	
+Nen	21	TELL	wetls	Reciprocal (copular version)	No data	
+Nen	21	TELL	wetls	Reflexive/reciprocal	Regularly	
+Nen	22	SAY	owabs	Adjunct addition	No data	
+Nen	22	SAY	owabs	Allative alternation	No data	
+Nen	22	SAY	owabs	Assume.position alternation	No data	
+Nen	22	SAY	owabs	Autobenefactive	No data	
+Nen	22	SAY	owabs	Causative	No data	
+Nen	22	SAY	owabs	Dative addition	No data	
+Nen	22	SAY	owabs	Dative alternation	No data	
+Nen	22	SAY	owabs	Deagentive alternation	No data	
+Nen	22	SAY	owabs	Locative alternation	No data	
+Nen	22	SAY	owabs	Middle	No data	
+Nen	22	SAY	owabs	Middle object addition	No data	
+Nen	22	SAY	owabs	Middle object-downgrading alternation	No data	
+Nen	22	SAY	owabs	Object omission	No data	
+Nen	22	SAY	owabs	Placement alternation	No data	
+Nen	22	SAY	owabs	Pseudo-passive	No data	
+Nen	22	SAY	owabs	Reciprocal (copular version)	No data	
+Nen	22	SAY	owabs	Reflexive/reciprocal	No data	
+Nen	23	NAME	yétqén ewets	Adjunct addition	No data	
+Nen	23	NAME	yétqén ewets	Allative alternation	No data	
+Nen	23	NAME	yétqén ewets	Assume.position alternation	No data	
+Nen	23	NAME	yétqén ewets	Autobenefactive	No data	
+Nen	23	NAME	yétqén ewets	Causative	No data	
+Nen	23	NAME	yétqén ewets	Dative addition	No data	
+Nen	23	NAME	yétqén ewets	Dative alternation	No data	
+Nen	23	NAME	yétqén ewets	Deagentive alternation	No data	
+Nen	23	NAME	yétqén ewets	Locative alternation	No data	
+Nen	23	NAME	yétqén ewets	Middle	No data	
+Nen	23	NAME	yétqén ewets	Middle object addition	No data	
+Nen	23	NAME	yétqén ewets	Middle object-downgrading alternation	No data	
+Nen	23	NAME	yétqén ewets	Object omission	No data	
+Nen	23	NAME	yétqén ewets	Placement alternation	No data	
+Nen	23	NAME	yétqén ewets	Pseudo-passive	No data	
+Nen	23	NAME	yétqén ewets	Reciprocal (copular version)	No data	
+Nen	23	NAME	yétqén ewets	Reflexive/reciprocal	No data	
+Nen	24	BUILD	räms	Adjunct addition	No data	
+Nen	24	BUILD	räms	Allative alternation	No data	
+Nen	24	BUILD	räms	Assume.position alternation	No data	
+Nen	24	BUILD	räms	Autobenefactive	Regularly	
+Nen	24	BUILD	räms	Causative	No data	
+Nen	24	BUILD	räms	Dative addition	No data	
+Nen	24	BUILD	räms	Dative alternation	No data	
+Nen	24	BUILD	räms	Deagentive alternation	No data	
+Nen	24	BUILD	räms	Locative alternation	No data	
+Nen	24	BUILD	räms	Middle	No data	
+Nen	24	BUILD	räms	Middle object addition	No data	
+Nen	24	BUILD	räms	Middle object-downgrading alternation	No data	
+Nen	24	BUILD	räms	Object omission	No data	
+Nen	24	BUILD	räms	Placement alternation	No data	
+Nen	24	BUILD	räms	Pseudo-passive	No data	
+Nen	24	BUILD	räms	Reciprocal (copular version)	No data	
+Nen	24	BUILD	räms	Reflexive/reciprocal	No data	
+Nen	25	BREAK	dars	Adjunct addition	No data	
+Nen	25	BREAK	dars	Allative alternation	No data	
+Nen	25	BREAK	dars	Assume.position alternation	No data	
+Nen	25	BREAK	dars	Autobenefactive	No data	
+Nen	25	BREAK	dars	Causative	No data	
+Nen	25	BREAK	dars	Dative addition	No data	
+Nen	25	BREAK	dars	Dative alternation	No data	
+Nen	25	BREAK	dars	Deagentive alternation	No data	
+Nen	25	BREAK	dars	Locative alternation	No data	
+Nen	25	BREAK	dars	Middle	No data	
+Nen	25	BREAK	dars	Middle object addition	No data	
+Nen	25	BREAK	dars	Middle object-downgrading alternation	No data	
+Nen	25	BREAK	dars	Object omission	No data	
+Nen	25	BREAK	dars	Placement alternation	No data	
+Nen	25	BREAK	dars	Pseudo-passive	No data	
+Nen	25	BREAK	dars	Reciprocal (copular version)	No data	
+Nen	25	BREAK	dars	Reflexive/reciprocal	Regularly	
+Nen	25	BREAK	räbärs	Adjunct addition	No data	
+Nen	25	BREAK	räbärs	Allative alternation	No data	
+Nen	25	BREAK	räbärs	Assume.position alternation	No data	
+Nen	25	BREAK	räbärs	Autobenefactive	No data	
+Nen	25	BREAK	räbärs	Causative	No data	
+Nen	25	BREAK	räbärs	Dative addition	No data	
+Nen	25	BREAK	räbärs	Dative alternation	No data	
+Nen	25	BREAK	räbärs	Deagentive alternation	Regularly	
+Nen	25	BREAK	räbärs	Locative alternation	No data	
+Nen	25	BREAK	räbärs	Middle	No data	
+Nen	25	BREAK	räbärs	Middle object addition	No data	
+Nen	25	BREAK	räbärs	Middle object-downgrading alternation	No data	
+Nen	25	BREAK	räbärs	Object omission	No data	
+Nen	25	BREAK	räbärs	Placement alternation	No data	
+Nen	25	BREAK	räbärs	Pseudo-passive	No data	
+Nen	25	BREAK	räbärs	Reciprocal (copular version)	No data	
+Nen	25	BREAK	räbärs	Reflexive/reciprocal	No data	
+Nen	26	KILL	gms	Adjunct addition	No data	
+Nen	26	KILL	gms	Allative alternation	No data	
+Nen	26	KILL	gms	Assume.position alternation	No data	
+Nen	26	KILL	gms	Autobenefactive	No data	
+Nen	26	KILL	gms	Causative	No data	
+Nen	26	KILL	gms	Dative addition	No data	
+Nen	26	KILL	gms	Dative alternation	No data	
+Nen	26	KILL	gms	Deagentive alternation	No data	
+Nen	26	KILL	gms	Locative alternation	No data	
+Nen	26	KILL	gms	Middle	No data	
+Nen	26	KILL	gms	Middle object addition	No data	
+Nen	26	KILL	gms	Middle object-downgrading alternation	No data	
+Nen	26	KILL	gms	Object omission	No data	
+Nen	26	KILL	gms	Placement alternation	No data	
+Nen	26	KILL	gms	Pseudo-passive	Regularly	
+Nen	26	KILL	gms	Reciprocal (copular version)	No data	
+Nen	26	KILL	gms	Reflexive/reciprocal	Regularly	
+Nen	27	BEAT	gms	Adjunct addition	No data	
+Nen	27	BEAT	gms	Allative alternation	No data	
+Nen	27	BEAT	gms	Assume.position alternation	No data	
+Nen	27	BEAT	gms	Autobenefactive	No data	
+Nen	27	BEAT	gms	Causative	No data	
+Nen	27	BEAT	gms	Dative addition	No data	
+Nen	27	BEAT	gms	Dative alternation	No data	
+Nen	27	BEAT	gms	Deagentive alternation	No data	
+Nen	27	BEAT	gms	Locative alternation	No data	
+Nen	27	BEAT	gms	Middle	No data	
+Nen	27	BEAT	gms	Middle object addition	No data	
+Nen	27	BEAT	gms	Middle object-downgrading alternation	No data	
+Nen	27	BEAT	gms	Object omission	No data	
+Nen	27	BEAT	gms	Placement alternation	No data	
+Nen	27	BEAT	gms	Pseudo-passive	Regularly	
+Nen	27	BEAT	gms	Reciprocal (copular version)	No data	
+Nen	27	BEAT	gms	Reflexive/reciprocal	Regularly	
+Nen	28	HIT	gms	Adjunct addition	No data	
+Nen	28	HIT	gms	Allative alternation	No data	
+Nen	28	HIT	gms	Assume.position alternation	No data	
+Nen	28	HIT	gms	Autobenefactive	No data	
+Nen	28	HIT	gms	Causative	No data	
+Nen	28	HIT	gms	Dative addition	No data	
+Nen	28	HIT	gms	Dative alternation	No data	
+Nen	28	HIT	gms	Deagentive alternation	No data	
+Nen	28	HIT	gms	Locative alternation	No data	
+Nen	28	HIT	gms	Middle	No data	
+Nen	28	HIT	gms	Middle object addition	No data	
+Nen	28	HIT	gms	Middle object-downgrading alternation	No data	
+Nen	28	HIT	gms	Object omission	No data	
+Nen	28	HIT	gms	Placement alternation	No data	
+Nen	28	HIT	gms	Pseudo-passive	Regularly	
+Nen	28	HIT	gms	Reciprocal (copular version)	No data	
+Nen	28	HIT	gms	Reflexive/reciprocal	Regularly	
+Nen	29	TOUCH	wenzas	Adjunct addition	No data	
+Nen	29	TOUCH	wenzas	Allative alternation	No data	
+Nen	29	TOUCH	wenzas	Assume.position alternation	No data	
+Nen	29	TOUCH	wenzas	Autobenefactive	No data	
+Nen	29	TOUCH	wenzas	Causative	No data	
+Nen	29	TOUCH	wenzas	Dative addition	No data	
+Nen	29	TOUCH	wenzas	Dative alternation	No data	
+Nen	29	TOUCH	wenzas	Deagentive alternation	No data	
+Nen	29	TOUCH	wenzas	Locative alternation	No data	
+Nen	29	TOUCH	wenzas	Middle	No data	
+Nen	29	TOUCH	wenzas	Middle object addition	No data	
+Nen	29	TOUCH	wenzas	Middle object-downgrading alternation	No data	
+Nen	29	TOUCH	wenzas	Object omission	No data	
+Nen	29	TOUCH	wenzas	Placement alternation	No data	
+Nen	29	TOUCH	wenzas	Pseudo-passive	No data	
+Nen	29	TOUCH	wenzas	Reciprocal (copular version)	No data	
+Nen	29	TOUCH	wenzas	Reflexive/reciprocal	Regularly	
+Nen	30	CUT	nps	Adjunct addition	No data	
+Nen	30	CUT	nps	Allative alternation	No data	
+Nen	30	CUT	nps	Assume.position alternation	No data	
+Nen	30	CUT	nps	Autobenefactive	Regularly	
+Nen	30	CUT	nps	Causative	No data	
+Nen	30	CUT	nps	Dative addition	No data	
+Nen	30	CUT	nps	Dative alternation	No data	
+Nen	30	CUT	nps	Deagentive alternation	Regularly	
+Nen	30	CUT	nps	Locative alternation	No data	
+Nen	30	CUT	nps	Middle	No data	
+Nen	30	CUT	nps	Middle object addition	No data	
+Nen	30	CUT	nps	Middle object-downgrading alternation	No data	
+Nen	30	CUT	nps	Object omission	No data	
+Nen	30	CUT	nps	Placement alternation	No data	
+Nen	30	CUT	nps	Pseudo-passive	No data	
+Nen	30	CUT	nps	Reciprocal (copular version)	No data	
+Nen	30	CUT	nps	Reflexive/reciprocal	Regularly	
+Nen	31	TAKE	kaps renzas	Adjunct addition	No data	
+Nen	31	TAKE	kaps renzas	Allative alternation	No data	
+Nen	31	TAKE	kaps renzas	Assume.position alternation	No data	
+Nen	31	TAKE	kaps renzas	Autobenefactive	No data	
+Nen	31	TAKE	kaps renzas	Causative	No data	
+Nen	31	TAKE	kaps renzas	Dative addition	No data	
+Nen	31	TAKE	kaps renzas	Dative alternation	No data	
+Nen	31	TAKE	kaps renzas	Deagentive alternation	No data	
+Nen	31	TAKE	kaps renzas	Locative alternation	No data	
+Nen	31	TAKE	kaps renzas	Middle	No data	
+Nen	31	TAKE	kaps renzas	Middle object addition	No data	
+Nen	31	TAKE	kaps renzas	Middle object-downgrading alternation	No data	
+Nen	31	TAKE	kaps renzas	Object omission	No data	
+Nen	31	TAKE	kaps renzas	Placement alternation	No data	
+Nen	31	TAKE	kaps renzas	Pseudo-passive	No data	
+Nen	31	TAKE	kaps renzas	Reciprocal (copular version)	No data	
+Nen	31	TAKE	kaps renzas	Reflexive/reciprocal	No data	
+Nen	31	TAKE	renzas	Adjunct addition	No data	
+Nen	31	TAKE	renzas	Allative alternation	Regularly	
+Nen	31	TAKE	renzas	Assume.position alternation	No data	
+Nen	31	TAKE	renzas	Autobenefactive	No data	
+Nen	31	TAKE	renzas	Causative	No data	
+Nen	31	TAKE	renzas	Dative addition	No data	
+Nen	31	TAKE	renzas	Dative alternation	No data	
+Nen	31	TAKE	renzas	Deagentive alternation	No data	
+Nen	31	TAKE	renzas	Locative alternation	No data	
+Nen	31	TAKE	renzas	Middle	No data	
+Nen	31	TAKE	renzas	Middle object addition	No data	
+Nen	31	TAKE	renzas	Middle object-downgrading alternation	No data	
+Nen	31	TAKE	renzas	Object omission	No data	
+Nen	31	TAKE	renzas	Placement alternation	No data	
+Nen	31	TAKE	renzas	Pseudo-passive	No data	
+Nen	31	TAKE	renzas	Reciprocal (copular version)	No data	
+Nen	31	TAKE	renzas	Reflexive/reciprocal	No data	
+Nen	32	TEAR	drers	Adjunct addition	No data	
+Nen	32	TEAR	drers	Allative alternation	No data	
+Nen	32	TEAR	drers	Assume.position alternation	No data	
+Nen	32	TEAR	drers	Autobenefactive	No data	
+Nen	32	TEAR	drers	Causative	No data	
+Nen	32	TEAR	drers	Dative addition	No data	
+Nen	32	TEAR	drers	Dative alternation	No data	
+Nen	32	TEAR	drers	Deagentive alternation	Regularly	
+Nen	32	TEAR	drers	Locative alternation	No data	
+Nen	32	TEAR	drers	Middle	No data	
+Nen	32	TEAR	drers	Middle object addition	No data	
+Nen	32	TEAR	drers	Middle object-downgrading alternation	No data	
+Nen	32	TEAR	drers	Object omission	No data	
+Nen	32	TEAR	drers	Placement alternation	No data	
+Nen	32	TEAR	drers	Pseudo-passive	No data	
+Nen	32	TEAR	drers	Reciprocal (copular version)	No data	
+Nen	32	TEAR	drers	Reflexive/reciprocal	No data	
+Nen	33	PEEL	wétrers	Adjunct addition	No data	
+Nen	33	PEEL	wétrers	Allative alternation	No data	
+Nen	33	PEEL	wétrers	Assume.position alternation	No data	
+Nen	33	PEEL	wétrers	Autobenefactive	No data	
+Nen	33	PEEL	wétrers	Causative	No data	
+Nen	33	PEEL	wétrers	Dative addition	No data	
+Nen	33	PEEL	wétrers	Dative alternation	No data	
+Nen	33	PEEL	wétrers	Deagentive alternation	No data	
+Nen	33	PEEL	wétrers	Locative alternation	No data	
+Nen	33	PEEL	wétrers	Middle	No data	
+Nen	33	PEEL	wétrers	Middle object addition	No data	
+Nen	33	PEEL	wétrers	Middle object-downgrading alternation	No data	
+Nen	33	PEEL	wétrers	Object omission	No data	
+Nen	33	PEEL	wétrers	Placement alternation	No data	
+Nen	33	PEEL	wétrers	Pseudo-passive	No data	
+Nen	33	PEEL	wétrers	Reciprocal (copular version)	No data	
+Nen	33	PEEL	wétrers	Reflexive/reciprocal	No data	
+Nen	34	HIDE	wérnis	Adjunct addition	No data	
+Nen	34	HIDE	wérnis	Allative alternation	No data	
+Nen	34	HIDE	wérnis	Assume.position alternation	No data	
+Nen	34	HIDE	wérnis	Autobenefactive	No data	
+Nen	34	HIDE	wérnis	Causative	No data	
+Nen	34	HIDE	wérnis	Dative addition	No data	
+Nen	34	HIDE	wérnis	Dative alternation	No data	
+Nen	34	HIDE	wérnis	Deagentive alternation	No data	
+Nen	34	HIDE	wérnis	Locative alternation	No data	
+Nen	34	HIDE	wérnis	Middle	No data	
+Nen	34	HIDE	wérnis	Middle object addition	No data	
+Nen	34	HIDE	wérnis	Middle object-downgrading alternation	No data	
+Nen	34	HIDE	wérnis	Object omission	No data	
+Nen	34	HIDE	wérnis	Placement alternation	No data	
+Nen	34	HIDE	wérnis	Pseudo-passive	No data	
+Nen	34	HIDE	wérnis	Reciprocal (copular version)	No data	
+Nen	34	HIDE	wérnis	Reflexive/reciprocal	Regularly	
+Nen	35	SHOW	wayabs	Adjunct addition	No data	
+Nen	35	SHOW	wayabs	Allative alternation	No data	
+Nen	35	SHOW	wayabs	Assume.position alternation	No data	
+Nen	35	SHOW	wayabs	Autobenefactive	Regularly	
+Nen	35	SHOW	wayabs	Causative	No data	
+Nen	35	SHOW	wayabs	Dative addition	No data	
+Nen	35	SHOW	wayabs	Dative alternation	Regularly	
+Nen	35	SHOW	wayabs	Deagentive alternation	No data	
+Nen	35	SHOW	wayabs	Locative alternation	No data	
+Nen	35	SHOW	wayabs	Middle	No data	
+Nen	35	SHOW	wayabs	Middle object addition	No data	
+Nen	35	SHOW	wayabs	Middle object-downgrading alternation	No data	
+Nen	35	SHOW	wayabs	Object omission	No data	
+Nen	35	SHOW	wayabs	Placement alternation	No data	
+Nen	35	SHOW	wayabs	Pseudo-passive	No data	
+Nen	35	SHOW	wayabs	Reciprocal (copular version)	No data	
+Nen	35	SHOW	wayabs	Reflexive/reciprocal	No data	
+Nen	36	GIVE	warams	Adjunct addition	No data	
+Nen	36	GIVE	warams	Allative alternation	No data	
+Nen	36	GIVE	warams	Assume.position alternation	No data	
+Nen	36	GIVE	warams	Autobenefactive	No data	
+Nen	36	GIVE	warams	Causative	No data	
+Nen	36	GIVE	warams	Dative addition	No data	
+Nen	36	GIVE	warams	Dative alternation	Regularly	
+Nen	36	GIVE	warams	Deagentive alternation	No data	
+Nen	36	GIVE	warams	Locative alternation	No data	
+Nen	36	GIVE	warams	Middle	No data	
+Nen	36	GIVE	warams	Middle object addition	No data	
+Nen	36	GIVE	warams	Middle object-downgrading alternation	No data	
+Nen	36	GIVE	warams	Object omission	No data	
+Nen	36	GIVE	warams	Placement alternation	No data	
+Nen	36	GIVE	warams	Pseudo-passive	No data	
+Nen	36	GIVE	warams	Reciprocal (copular version)	No data	
+Nen	36	GIVE	warams	Reflexive/reciprocal	No data	
+Nen	37	SEND	trärs	Adjunct addition	No data	
+Nen	37	SEND	trärs	Allative alternation	No data	
+Nen	37	SEND	trärs	Assume.position alternation	No data	
+Nen	37	SEND	trärs	Autobenefactive	No data	
+Nen	37	SEND	trärs	Causative	No data	
+Nen	37	SEND	trärs	Dative addition	Regularly	
+Nen	37	SEND	trärs	Dative alternation	No data	
+Nen	37	SEND	trärs	Deagentive alternation	No data	
+Nen	37	SEND	trärs	Locative alternation	No data	
+Nen	37	SEND	trärs	Middle	No data	
+Nen	37	SEND	trärs	Middle object addition	No data	
+Nen	37	SEND	trärs	Middle object-downgrading alternation	No data	
+Nen	37	SEND	trärs	Object omission	No data	
+Nen	37	SEND	trärs	Placement alternation	No data	
+Nen	37	SEND	trärs	Pseudo-passive	No data	
+Nen	37	SEND	trärs	Reciprocal (copular version)	No data	
+Nen	37	SEND	trärs	Reflexive/reciprocal	Regularly	
+Nen	37	SEND	watembs	Adjunct addition	No data	
+Nen	37	SEND	watembs	Allative alternation	No data	
+Nen	37	SEND	watembs	Assume.position alternation	No data	
+Nen	37	SEND	watembs	Autobenefactive	No data	
+Nen	37	SEND	watembs	Causative	No data	
+Nen	37	SEND	watembs	Dative addition	No data	
+Nen	37	SEND	watembs	Dative alternation	No data	
+Nen	37	SEND	watembs	Deagentive alternation	No data	
+Nen	37	SEND	watembs	Locative alternation	No data	
+Nen	37	SEND	watembs	Middle	No data	
+Nen	37	SEND	watembs	Middle object addition	No data	
+Nen	37	SEND	watembs	Middle object-downgrading alternation	No data	
+Nen	37	SEND	watembs	Object omission	No data	
+Nen	37	SEND	watembs	Placement alternation	No data	
+Nen	37	SEND	watembs	Pseudo-passive	No data	
+Nen	37	SEND	watembs	Reciprocal (copular version)	No data	
+Nen	37	SEND	watembs	Reflexive/reciprocal	No data	
+Nen	37	SEND	wäbäres	Adjunct addition	No data	
+Nen	37	SEND	wäbäres	Allative alternation	No data	
+Nen	37	SEND	wäbäres	Assume.position alternation	No data	
+Nen	37	SEND	wäbäres	Autobenefactive	No data	
+Nen	37	SEND	wäbäres	Causative	No data	
+Nen	37	SEND	wäbäres	Dative addition	No data	
+Nen	37	SEND	wäbäres	Dative alternation	No data	
+Nen	37	SEND	wäbäres	Deagentive alternation	No data	
+Nen	37	SEND	wäbäres	Locative alternation	No data	
+Nen	37	SEND	wäbäres	Middle	No data	
+Nen	37	SEND	wäbäres	Middle object addition	No data	
+Nen	37	SEND	wäbäres	Middle object-downgrading alternation	No data	
+Nen	37	SEND	wäbäres	Object omission	No data	
+Nen	37	SEND	wäbäres	Placement alternation	No data	
+Nen	37	SEND	wäbäres	Pseudo-passive	No data	
+Nen	37	SEND	wäbäres	Reciprocal (copular version)	No data	
+Nen	37	SEND	wäbäres	Reflexive/reciprocal	No data	
+Nen	38	CARRY	menzas	Adjunct addition	No data	
+Nen	38	CARRY	menzas	Allative alternation	No data	
+Nen	38	CARRY	menzas	Assume.position alternation	No data	
+Nen	38	CARRY	menzas	Autobenefactive	No data	
+Nen	38	CARRY	menzas	Causative	No data	
+Nen	38	CARRY	menzas	Dative addition	No data	
+Nen	38	CARRY	menzas	Dative alternation	No data	
+Nen	38	CARRY	menzas	Deagentive alternation	No data	
+Nen	38	CARRY	menzas	Locative alternation	No data	
+Nen	38	CARRY	menzas	Middle	No data	
+Nen	38	CARRY	menzas	Middle object addition	No data	
+Nen	38	CARRY	menzas	Middle object-downgrading alternation	No data	
+Nen	38	CARRY	menzas	Object omission	No data	
+Nen	38	CARRY	menzas	Placement alternation	No data	
+Nen	38	CARRY	menzas	Pseudo-passive	No data	
+Nen	38	CARRY	menzas	Reciprocal (copular version)	No data	
+Nen	38	CARRY	menzas	Reflexive/reciprocal	No data	
+Nen	38	CARRY	renzas	Adjunct addition	No data	
+Nen	38	CARRY	renzas	Allative alternation	Regularly	
+Nen	38	CARRY	renzas	Assume.position alternation	No data	
+Nen	38	CARRY	renzas	Autobenefactive	No data	
+Nen	38	CARRY	renzas	Causative	No data	
+Nen	38	CARRY	renzas	Dative addition	No data	
+Nen	38	CARRY	renzas	Dative alternation	No data	
+Nen	38	CARRY	renzas	Deagentive alternation	No data	
+Nen	38	CARRY	renzas	Locative alternation	No data	
+Nen	38	CARRY	renzas	Middle	No data	
+Nen	38	CARRY	renzas	Middle object addition	No data	
+Nen	38	CARRY	renzas	Middle object-downgrading alternation	No data	
+Nen	38	CARRY	renzas	Object omission	No data	
+Nen	38	CARRY	renzas	Placement alternation	No data	
+Nen	38	CARRY	renzas	Pseudo-passive	No data	
+Nen	38	CARRY	renzas	Reciprocal (copular version)	No data	
+Nen	38	CARRY	renzas	Reflexive/reciprocal	No data	
+Nen	38	CARRY	wazrs (2)	Adjunct addition	No data	
+Nen	38	CARRY	wazrs (2)	Allative alternation	No data	
+Nen	38	CARRY	wazrs (2)	Assume.position alternation	No data	
+Nen	38	CARRY	wazrs (2)	Autobenefactive	No data	
+Nen	38	CARRY	wazrs (2)	Causative	No data	
+Nen	38	CARRY	wazrs (2)	Dative addition	No data	
+Nen	38	CARRY	wazrs (2)	Dative alternation	No data	
+Nen	38	CARRY	wazrs (2)	Deagentive alternation	No data	
+Nen	38	CARRY	wazrs (2)	Locative alternation	No data	
+Nen	38	CARRY	wazrs (2)	Middle	No data	
+Nen	38	CARRY	wazrs (2)	Middle object addition	No data	
+Nen	38	CARRY	wazrs (2)	Middle object-downgrading alternation	No data	
+Nen	38	CARRY	wazrs (2)	Object omission	No data	
+Nen	38	CARRY	wazrs (2)	Placement alternation	No data	
+Nen	38	CARRY	wazrs (2)	Pseudo-passive	No data	
+Nen	38	CARRY	wazrs (2)	Reciprocal (copular version)	No data	
+Nen	38	CARRY	wazrs (2)	Reflexive/reciprocal	No data	
+Nen	39	THROW	wwis	Adjunct addition	No data	
+Nen	39	THROW	wwis	Allative alternation	No data	
+Nen	39	THROW	wwis	Assume.position alternation	No data	
+Nen	39	THROW	wwis	Autobenefactive	No data	
+Nen	39	THROW	wwis	Causative	No data	
+Nen	39	THROW	wwis	Dative addition	No data	
+Nen	39	THROW	wwis	Dative alternation	No data	
+Nen	39	THROW	wwis	Deagentive alternation	No data	
+Nen	39	THROW	wwis	Locative alternation	No data	
+Nen	39	THROW	wwis	Middle	No data	
+Nen	39	THROW	wwis	Middle object addition	No data	
+Nen	39	THROW	wwis	Middle object-downgrading alternation	No data	
+Nen	39	THROW	wwis	Object omission	No data	
+Nen	39	THROW	wwis	Placement alternation	No data	
+Nen	39	THROW	wwis	Pseudo-passive	No data	
+Nen	39	THROW	wwis	Reciprocal (copular version)	No data	
+Nen	39	THROW	wwis	Reflexive/reciprocal	No data	
+Nen	40	TIE	sns	Adjunct addition	No data	
+Nen	40	TIE	sns	Allative alternation	No data	
+Nen	40	TIE	sns	Assume.position alternation	No data	
+Nen	40	TIE	sns	Autobenefactive	No data	
+Nen	40	TIE	sns	Causative	No data	
+Nen	40	TIE	sns	Dative addition	No data	
+Nen	40	TIE	sns	Dative alternation	No data	
+Nen	40	TIE	sns	Deagentive alternation	Regularly	
+Nen	40	TIE	sns	Locative alternation	No data	
+Nen	40	TIE	sns	Middle	No data	
+Nen	40	TIE	sns	Middle object addition	No data	
+Nen	40	TIE	sns	Middle object-downgrading alternation	No data	
+Nen	40	TIE	sns	Object omission	No data	
+Nen	40	TIE	sns	Placement alternation	No data	
+Nen	40	TIE	sns	Pseudo-passive	No data	
+Nen	40	TIE	sns	Reciprocal (copular version)	No data	
+Nen	40	TIE	sns	Reflexive/reciprocal	No data	
+Nen	40	TIE	wmbaes	Adjunct addition	Regularly	
+Nen	40	TIE	wmbaes	Allative alternation	No data	
+Nen	40	TIE	wmbaes	Assume.position alternation	No data	
+Nen	40	TIE	wmbaes	Autobenefactive	No data	
+Nen	40	TIE	wmbaes	Causative	No data	
+Nen	40	TIE	wmbaes	Dative addition	No data	
+Nen	40	TIE	wmbaes	Dative alternation	No data	
+Nen	40	TIE	wmbaes	Deagentive alternation	No data	
+Nen	40	TIE	wmbaes	Locative alternation	No data	
+Nen	40	TIE	wmbaes	Middle	No data	
+Nen	40	TIE	wmbaes	Middle object addition	No data	
+Nen	40	TIE	wmbaes	Middle object-downgrading alternation	No data	
+Nen	40	TIE	wmbaes	Object omission	No data	
+Nen	40	TIE	wmbaes	Placement alternation	No data	
+Nen	40	TIE	wmbaes	Pseudo-passive	No data	
+Nen	40	TIE	wmbaes	Reciprocal (copular version)	No data	
+Nen	40	TIE	wmbaes	Reflexive/reciprocal	No data	
+Nen	41	PUT	kms	Adjunct addition	No data	
+Nen	41	PUT	kms	Allative alternation	No data	
+Nen	41	PUT	kms	Assume.position alternation	Regularly	
+Nen	41	PUT	kms	Autobenefactive	No data	
+Nen	41	PUT	kms	Causative	No data	
+Nen	41	PUT	kms	Dative addition	No data	
+Nen	41	PUT	kms	Dative alternation	No data	
+Nen	41	PUT	kms	Deagentive alternation	No data	
+Nen	41	PUT	kms	Locative alternation	No data	
+Nen	41	PUT	kms	Middle	No data	
+Nen	41	PUT	kms	Middle object addition	No data	
+Nen	41	PUT	kms	Middle object-downgrading alternation	No data	
+Nen	41	PUT	kms	Object omission	No data	
+Nen	41	PUT	kms	Placement alternation	Regularly	
+Nen	41	PUT	kms	Pseudo-passive	No data	
+Nen	41	PUT	kms	Reciprocal (copular version)	No data	
+Nen	41	PUT	kms	Reflexive/reciprocal	No data	
+Nen	42	POUR	wazrs (1)	Adjunct addition	No data	
+Nen	42	POUR	wazrs (1)	Allative alternation	No data	
+Nen	42	POUR	wazrs (1)	Assume.position alternation	No data	
+Nen	42	POUR	wazrs (1)	Autobenefactive	No data	
+Nen	42	POUR	wazrs (1)	Causative	No data	
+Nen	42	POUR	wazrs (1)	Dative addition	No data	
+Nen	42	POUR	wazrs (1)	Dative alternation	No data	
+Nen	42	POUR	wazrs (1)	Deagentive alternation	No data	
+Nen	42	POUR	wazrs (1)	Locative alternation	No data	
+Nen	42	POUR	wazrs (1)	Middle	Regularly	
+Nen	42	POUR	wazrs (1)	Middle object addition	No data	
+Nen	42	POUR	wazrs (1)	Middle object-downgrading alternation	No data	
+Nen	42	POUR	wazrs (1)	Object omission	No data	
+Nen	42	POUR	wazrs (1)	Placement alternation	No data	
+Nen	42	POUR	wazrs (1)	Pseudo-passive	No data	
+Nen	42	POUR	wazrs (1)	Reciprocal (copular version)	No data	
+Nen	42	POUR	wazrs (1)	Reflexive/reciprocal	No data	
+Nen	43	COVER	awapars	Adjunct addition	No data	
+Nen	43	COVER	awapars	Allative alternation	No data	
+Nen	43	COVER	awapars	Assume.position alternation	No data	
+Nen	43	COVER	awapars	Autobenefactive	No data	
+Nen	43	COVER	awapars	Causative	No data	
+Nen	43	COVER	awapars	Dative addition	No data	
+Nen	43	COVER	awapars	Dative alternation	No data	
+Nen	43	COVER	awapars	Deagentive alternation	No data	
+Nen	43	COVER	awapars	Locative alternation	No data	
+Nen	43	COVER	awapars	Middle	No data	
+Nen	43	COVER	awapars	Middle object addition	No data	
+Nen	43	COVER	awapars	Middle object-downgrading alternation	No data	
+Nen	43	COVER	awapars	Object omission	No data	
+Nen	43	COVER	awapars	Placement alternation	No data	
+Nen	43	COVER	awapars	Pseudo-passive	No data	
+Nen	43	COVER	awapars	Reciprocal (copular version)	No data	
+Nen	43	COVER	awapars	Reflexive/reciprocal	No data	
+Nen	43	COVER	wapars	Adjunct addition	No data	
+Nen	43	COVER	wapars	Allative alternation	No data	
+Nen	43	COVER	wapars	Assume.position alternation	No data	
+Nen	43	COVER	wapars	Autobenefactive	No data	
+Nen	43	COVER	wapars	Causative	No data	
+Nen	43	COVER	wapars	Dative addition	No data	
+Nen	43	COVER	wapars	Dative alternation	No data	
+Nen	43	COVER	wapars	Deagentive alternation	No data	
+Nen	43	COVER	wapars	Locative alternation	No data	
+Nen	43	COVER	wapars	Middle	No data	
+Nen	43	COVER	wapars	Middle object addition	No data	
+Nen	43	COVER	wapars	Middle object-downgrading alternation	No data	
+Nen	43	COVER	wapars	Object omission	No data	
+Nen	43	COVER	wapars	Placement alternation	No data	
+Nen	43	COVER	wapars	Pseudo-passive	No data	
+Nen	43	COVER	wapars	Reciprocal (copular version)	No data	
+Nen	43	COVER	wapars	Reflexive/reciprocal	Regularly	
+Nen	44	FILL	waps	Adjunct addition	No data	
+Nen	44	FILL	waps	Allative alternation	No data	
+Nen	44	FILL	waps	Assume.position alternation	No data	
+Nen	44	FILL	waps	Autobenefactive	No data	
+Nen	44	FILL	waps	Causative	No data	
+Nen	44	FILL	waps	Dative addition	No data	
+Nen	44	FILL	waps	Dative alternation	No data	
+Nen	44	FILL	waps	Deagentive alternation	No data	
+Nen	44	FILL	waps	Locative alternation	No data	
+Nen	44	FILL	waps	Middle	Regularly	
+Nen	44	FILL	waps	Middle object addition	No data	
+Nen	44	FILL	waps	Middle object-downgrading alternation	No data	
+Nen	44	FILL	waps	Object omission	No data	
+Nen	44	FILL	waps	Placement alternation	No data	
+Nen	44	FILL	waps	Pseudo-passive	No data	
+Nen	44	FILL	waps	Reciprocal (copular version)	No data	
+Nen	44	FILL	waps	Reflexive/reciprocal	No data	
+Nen	45	LOAD	wapls	Adjunct addition	No data	
+Nen	45	LOAD	wapls	Allative alternation	No data	
+Nen	45	LOAD	wapls	Assume.position alternation	No data	
+Nen	45	LOAD	wapls	Autobenefactive	No data	
+Nen	45	LOAD	wapls	Causative	Regularly	
+Nen	45	LOAD	wapls	Dative addition	No data	
+Nen	45	LOAD	wapls	Dative alternation	No data	
+Nen	45	LOAD	wapls	Deagentive alternation	No data	
+Nen	45	LOAD	wapls	Locative alternation	Regularly	
+Nen	45	LOAD	wapls	Middle	No data	
+Nen	45	LOAD	wapls	Middle object addition	No data	
+Nen	45	LOAD	wapls	Middle object-downgrading alternation	No data	
+Nen	45	LOAD	wapls	Object omission	No data	
+Nen	45	LOAD	wapls	Placement alternation	No data	
+Nen	45	LOAD	wapls	Pseudo-passive	No data	
+Nen	45	LOAD	wapls	Reciprocal (copular version)	No data	
+Nen	45	LOAD	wapls	Reflexive/reciprocal	No data	
+Nen	45	LOAD	wawags	Adjunct addition	No data	
+Nen	45	LOAD	wawags	Allative alternation	No data	
+Nen	45	LOAD	wawags	Assume.position alternation	No data	
+Nen	45	LOAD	wawags	Autobenefactive	No data	
+Nen	45	LOAD	wawags	Causative	No data	
+Nen	45	LOAD	wawags	Dative addition	No data	
+Nen	45	LOAD	wawags	Dative alternation	No data	
+Nen	45	LOAD	wawags	Deagentive alternation	No data	
+Nen	45	LOAD	wawags	Locative alternation	No data	
+Nen	45	LOAD	wawags	Middle	No data	
+Nen	45	LOAD	wawags	Middle object addition	No data	
+Nen	45	LOAD	wawags	Middle object-downgrading alternation	Regularly	
+Nen	45	LOAD	wawags	Object omission	No data	
+Nen	45	LOAD	wawags	Placement alternation	No data	
+Nen	45	LOAD	wawags	Pseudo-passive	No data	
+Nen	45	LOAD	wawags	Reciprocal (copular version)	No data	
+Nen	45	LOAD	wawags	Reflexive/reciprocal	Regularly	
+Nen	45	LOAD	wewes	Adjunct addition	No data	
+Nen	45	LOAD	wewes	Allative alternation	No data	
+Nen	45	LOAD	wewes	Assume.position alternation	No data	
+Nen	45	LOAD	wewes	Autobenefactive	No data	
+Nen	45	LOAD	wewes	Causative	No data	
+Nen	45	LOAD	wewes	Dative addition	No data	
+Nen	45	LOAD	wewes	Dative alternation	No data	
+Nen	45	LOAD	wewes	Deagentive alternation	No data	
+Nen	45	LOAD	wewes	Locative alternation	No data	
+Nen	45	LOAD	wewes	Middle	No data	
+Nen	45	LOAD	wewes	Middle object addition	No data	
+Nen	45	LOAD	wewes	Middle object-downgrading alternation	No data	
+Nen	45	LOAD	wewes	Object omission	No data	
+Nen	45	LOAD	wewes	Placement alternation	No data	
+Nen	45	LOAD	wewes	Pseudo-passive	No data	
+Nen	45	LOAD	wewes	Reciprocal (copular version)	No data	
+Nen	45	LOAD	wewes	Reflexive/reciprocal	No data	
+Nen	46	BLINK	no direct counterpart	Adjunct addition	No data	
+Nen	46	BLINK	no direct counterpart	Allative alternation	No data	
+Nen	46	BLINK	no direct counterpart	Assume.position alternation	No data	
+Nen	46	BLINK	no direct counterpart	Autobenefactive	No data	
+Nen	46	BLINK	no direct counterpart	Causative	No data	
+Nen	46	BLINK	no direct counterpart	Dative addition	No data	
+Nen	46	BLINK	no direct counterpart	Dative alternation	No data	
+Nen	46	BLINK	no direct counterpart	Deagentive alternation	No data	
+Nen	46	BLINK	no direct counterpart	Locative alternation	No data	
+Nen	46	BLINK	no direct counterpart	Middle	No data	
+Nen	46	BLINK	no direct counterpart	Middle object addition	No data	
+Nen	46	BLINK	no direct counterpart	Middle object-downgrading alternation	No data	
+Nen	46	BLINK	no direct counterpart	Object omission	No data	
+Nen	46	BLINK	no direct counterpart	Placement alternation	No data	
+Nen	46	BLINK	no direct counterpart	Pseudo-passive	No data	
+Nen	46	BLINK	no direct counterpart	Reciprocal (copular version)	No data	
+Nen	46	BLINK	no direct counterpart	Reflexive/reciprocal	No data	
+Nen	47	COUGH	momae ke otärs	Adjunct addition	No data	
+Nen	47	COUGH	momae ke otärs	Allative alternation	No data	
+Nen	47	COUGH	momae ke otärs	Assume.position alternation	No data	
+Nen	47	COUGH	momae ke otärs	Autobenefactive	No data	
+Nen	47	COUGH	momae ke otärs	Causative	No data	
+Nen	47	COUGH	momae ke otärs	Dative addition	No data	
+Nen	47	COUGH	momae ke otärs	Dative alternation	No data	
+Nen	47	COUGH	momae ke otärs	Deagentive alternation	No data	
+Nen	47	COUGH	momae ke otärs	Locative alternation	No data	
+Nen	47	COUGH	momae ke otärs	Middle	No data	
+Nen	47	COUGH	momae ke otärs	Middle object addition	No data	
+Nen	47	COUGH	momae ke otärs	Middle object-downgrading alternation	No data	
+Nen	47	COUGH	momae ke otärs	Object omission	No data	
+Nen	47	COUGH	momae ke otärs	Placement alternation	No data	
+Nen	47	COUGH	momae ke otärs	Pseudo-passive	No data	
+Nen	47	COUGH	momae ke otärs	Reciprocal (copular version)	No data	
+Nen	47	COUGH	momae ke otärs	Reflexive/reciprocal	No data	
+Nen	48	CLIMB	armbs	Adjunct addition	No data	
+Nen	48	CLIMB	armbs	Allative alternation	No data	
+Nen	48	CLIMB	armbs	Assume.position alternation	No data	
+Nen	48	CLIMB	armbs	Autobenefactive	No data	
+Nen	48	CLIMB	armbs	Causative	Regularly	
+Nen	48	CLIMB	armbs	Dative addition	No data	
+Nen	48	CLIMB	armbs	Dative alternation	No data	
+Nen	48	CLIMB	armbs	Deagentive alternation	No data	
+Nen	48	CLIMB	armbs	Locative alternation	No data	
+Nen	48	CLIMB	armbs	Middle	No data	
+Nen	48	CLIMB	armbs	Middle object addition	No data	
+Nen	48	CLIMB	armbs	Middle object-downgrading alternation	No data	
+Nen	48	CLIMB	armbs	Object omission	No data	
+Nen	48	CLIMB	armbs	Placement alternation	No data	
+Nen	48	CLIMB	armbs	Pseudo-passive	No data	
+Nen	48	CLIMB	armbs	Reciprocal (copular version)	No data	
+Nen	48	CLIMB	armbs	Reflexive/reciprocal	No data	
+Nen	49	RUN	alnzs	Adjunct addition	No data	
+Nen	49	RUN	alnzs	Allative alternation	No data	
+Nen	49	RUN	alnzs	Assume.position alternation	No data	
+Nen	49	RUN	alnzs	Autobenefactive	No data	
+Nen	49	RUN	alnzs	Causative	No data	
+Nen	49	RUN	alnzs	Dative addition	No data	
+Nen	49	RUN	alnzs	Dative alternation	No data	
+Nen	49	RUN	alnzs	Deagentive alternation	No data	
+Nen	49	RUN	alnzs	Locative alternation	No data	
+Nen	49	RUN	alnzs	Middle	No data	
+Nen	49	RUN	alnzs	Middle object addition	No data	
+Nen	49	RUN	alnzs	Middle object-downgrading alternation	No data	
+Nen	49	RUN	alnzs	Object omission	No data	
+Nen	49	RUN	alnzs	Placement alternation	No data	
+Nen	49	RUN	alnzs	Pseudo-passive	No data	
+Nen	49	RUN	alnzs	Reciprocal (copular version)	No data	
+Nen	49	RUN	alnzs	Reflexive/reciprocal	No data	
+Nen	50	SIT	weret	Adjunct addition	No data	
+Nen	50	SIT	weret	Allative alternation	No data	
+Nen	50	SIT	weret	Assume.position alternation	No data	
+Nen	50	SIT	weret	Autobenefactive	No data	
+Nen	50	SIT	weret	Causative	No data	
+Nen	50	SIT	weret	Dative addition	No data	
+Nen	50	SIT	weret	Dative alternation	No data	
+Nen	50	SIT	weret	Deagentive alternation	No data	
+Nen	50	SIT	weret	Locative alternation	No data	
+Nen	50	SIT	weret	Middle	No data	
+Nen	50	SIT	weret	Middle object addition	No data	
+Nen	50	SIT	weret	Middle object-downgrading alternation	No data	
+Nen	50	SIT	weret	Object omission	No data	
+Nen	50	SIT	weret	Placement alternation	No data	
+Nen	50	SIT	weret	Pseudo-passive	No data	
+Nen	50	SIT	weret	Reciprocal (copular version)	No data	
+Nen	50	SIT	weret	Reflexive/reciprocal	No data	
+Nen	50	SIT	√mzngr	Adjunct addition	No data	
+Nen	50	SIT	√mzngr	Allative alternation	No data	
+Nen	50	SIT	√mzngr	Assume.position alternation	Regularly	
+Nen	50	SIT	√mzngr	Autobenefactive	No data	
+Nen	50	SIT	√mzngr	Causative	Regularly	
+Nen	50	SIT	√mzngr	Dative addition	No data	
+Nen	50	SIT	√mzngr	Dative alternation	No data	
+Nen	50	SIT	√mzngr	Deagentive alternation	No data	
+Nen	50	SIT	√mzngr	Locative alternation	No data	
+Nen	50	SIT	√mzngr	Middle	No data	
+Nen	50	SIT	√mzngr	Middle object addition	No data	
+Nen	50	SIT	√mzngr	Middle object-downgrading alternation	No data	
+Nen	50	SIT	√mzngr	Object omission	No data	
+Nen	50	SIT	√mzngr	Placement alternation	No data	
+Nen	50	SIT	√mzngr	Pseudo-passive	No data	
+Nen	50	SIT	√mzngr	Reciprocal (copular version)	No data	
+Nen	50	SIT	√mzngr	Reflexive/reciprocal	No data	
+Nen	51	SIT DOWN	amzs	Adjunct addition	No data	
+Nen	51	SIT DOWN	amzs	Allative alternation	No data	
+Nen	51	SIT DOWN	amzs	Assume.position alternation	No data	
+Nen	51	SIT DOWN	amzs	Autobenefactive	No data	
+Nen	51	SIT DOWN	amzs	Causative	Regularly	
+Nen	51	SIT DOWN	amzs	Dative addition	No data	
+Nen	51	SIT DOWN	amzs	Dative alternation	No data	
+Nen	51	SIT DOWN	amzs	Deagentive alternation	No data	
+Nen	51	SIT DOWN	amzs	Locative alternation	No data	
+Nen	51	SIT DOWN	amzs	Middle	No data	
+Nen	51	SIT DOWN	amzs	Middle object addition	No data	
+Nen	51	SIT DOWN	amzs	Middle object-downgrading alternation	No data	
+Nen	51	SIT DOWN	amzs	Object omission	No data	
+Nen	51	SIT DOWN	amzs	Placement alternation	No data	
+Nen	51	SIT DOWN	amzs	Pseudo-passive	No data	
+Nen	51	SIT DOWN	amzs	Reciprocal (copular version)	No data	
+Nen	51	SIT DOWN	amzs	Reflexive/reciprocal	No data	
+Nen	52	JUMP	ábrms	Adjunct addition	No data	
+Nen	52	JUMP	ábrms	Allative alternation	No data	
+Nen	52	JUMP	ábrms	Assume.position alternation	No data	
+Nen	52	JUMP	ábrms	Autobenefactive	No data	
+Nen	52	JUMP	ábrms	Causative	No data	
+Nen	52	JUMP	ábrms	Dative addition	No data	
+Nen	52	JUMP	ábrms	Dative alternation	No data	
+Nen	52	JUMP	ábrms	Deagentive alternation	No data	
+Nen	52	JUMP	ábrms	Locative alternation	No data	
+Nen	52	JUMP	ábrms	Middle	No data	
+Nen	52	JUMP	ábrms	Middle object addition	No data	
+Nen	52	JUMP	ábrms	Middle object-downgrading alternation	No data	
+Nen	52	JUMP	ábrms	Object omission	No data	
+Nen	52	JUMP	ábrms	Placement alternation	No data	
+Nen	52	JUMP	ábrms	Pseudo-passive	No data	
+Nen	52	JUMP	ábrms	Reciprocal (copular version)	No data	
+Nen	52	JUMP	ábrms	Reflexive/reciprocal	No data	
+Nen	52	JUMP	ätäns	Adjunct addition	No data	
+Nen	52	JUMP	ätäns	Allative alternation	No data	
+Nen	52	JUMP	ätäns	Assume.position alternation	No data	
+Nen	52	JUMP	ätäns	Autobenefactive	No data	
+Nen	52	JUMP	ätäns	Causative	No data	
+Nen	52	JUMP	ätäns	Dative addition	No data	
+Nen	52	JUMP	ätäns	Dative alternation	No data	
+Nen	52	JUMP	ätäns	Deagentive alternation	No data	
+Nen	52	JUMP	ätäns	Locative alternation	No data	
+Nen	52	JUMP	ätäns	Middle	No data	
+Nen	52	JUMP	ätäns	Middle object addition	No data	
+Nen	52	JUMP	ätäns	Middle object-downgrading alternation	No data	
+Nen	52	JUMP	ätäns	Object omission	No data	
+Nen	52	JUMP	ätäns	Placement alternation	No data	
+Nen	52	JUMP	ätäns	Pseudo-passive	No data	
+Nen	52	JUMP	ätäns	Reciprocal (copular version)	No data	
+Nen	52	JUMP	ätäns	Reflexive/reciprocal	No data	
+Nen	53	SING	angan räms	Adjunct addition	No data	
+Nen	53	SING	angan räms	Allative alternation	No data	
+Nen	53	SING	angan räms	Assume.position alternation	No data	
+Nen	53	SING	angan räms	Autobenefactive	No data	
+Nen	53	SING	angan räms	Causative	No data	
+Nen	53	SING	angan räms	Dative addition	Regularly	
+Nen	53	SING	angan räms	Dative alternation	No data	
+Nen	53	SING	angan räms	Deagentive alternation	No data	
+Nen	53	SING	angan räms	Locative alternation	No data	
+Nen	53	SING	angan räms	Middle	No data	
+Nen	53	SING	angan räms	Middle object addition	No data	
+Nen	53	SING	angan räms	Middle object-downgrading alternation	No data	
+Nen	53	SING	angan räms	Object omission	No data	
+Nen	53	SING	angan räms	Placement alternation	No data	
+Nen	53	SING	angan räms	Pseudo-passive	No data	
+Nen	53	SING	angan räms	Reciprocal (copular version)	No data	
+Nen	53	SING	angan räms	Reflexive/reciprocal	No data	
+Nen	54	GO	yls	Adjunct addition	No data	
+Nen	54	GO	yls	Allative alternation	No data	
+Nen	54	GO	yls	Assume.position alternation	No data	
+Nen	54	GO	yls	Autobenefactive	No data	
+Nen	54	GO	yls	Causative	No data	
+Nen	54	GO	yls	Dative addition	No data	
+Nen	54	GO	yls	Dative alternation	No data	
+Nen	54	GO	yls	Deagentive alternation	No data	
+Nen	54	GO	yls	Locative alternation	No data	
+Nen	54	GO	yls	Middle	No data	
+Nen	54	GO	yls	Middle object addition	No data	
+Nen	54	GO	yls	Middle object-downgrading alternation	No data	
+Nen	54	GO	yls	Object omission	No data	
+Nen	54	GO	yls	Placement alternation	No data	
+Nen	54	GO	yls	Pseudo-passive	No data	
+Nen	54	GO	yls	Reciprocal (copular version)	No data	
+Nen	54	GO	yls	Reflexive/reciprocal	No data	
+Nen	55	LEAVE	branḡs	Adjunct addition	No data	
+Nen	55	LEAVE	branḡs	Allative alternation	No data	
+Nen	55	LEAVE	branḡs	Assume.position alternation	No data	
+Nen	55	LEAVE	branḡs	Autobenefactive	No data	
+Nen	55	LEAVE	branḡs	Causative	No data	
+Nen	55	LEAVE	branḡs	Dative addition	No data	
+Nen	55	LEAVE	branḡs	Dative alternation	No data	
+Nen	55	LEAVE	branḡs	Deagentive alternation	No data	
+Nen	55	LEAVE	branḡs	Locative alternation	No data	
+Nen	55	LEAVE	branḡs	Middle	No data	
+Nen	55	LEAVE	branḡs	Middle object addition	No data	
+Nen	55	LEAVE	branḡs	Middle object-downgrading alternation	No data	
+Nen	55	LEAVE	branḡs	Object omission	No data	
+Nen	55	LEAVE	branḡs	Placement alternation	No data	
+Nen	55	LEAVE	branḡs	Pseudo-passive	No data	
+Nen	55	LEAVE	branḡs	Reciprocal (copular version)	No data	
+Nen	55	LEAVE	branḡs	Reflexive/reciprocal	Regularly	
+Nen	55	LEAVE	ors	Adjunct addition	No data	
+Nen	55	LEAVE	ors	Allative alternation	No data	
+Nen	55	LEAVE	ors	Assume.position alternation	No data	
+Nen	55	LEAVE	ors	Autobenefactive	No data	
+Nen	55	LEAVE	ors	Causative	No data	
+Nen	55	LEAVE	ors	Dative addition	No data	
+Nen	55	LEAVE	ors	Dative alternation	Regularly	
+Nen	55	LEAVE	ors	Deagentive alternation	No data	
+Nen	55	LEAVE	ors	Locative alternation	No data	
+Nen	55	LEAVE	ors	Middle	No data	
+Nen	55	LEAVE	ors	Middle object addition	No data	
+Nen	55	LEAVE	ors	Middle object-downgrading alternation	No data	
+Nen	55	LEAVE	ors	Object omission	No data	
+Nen	55	LEAVE	ors	Placement alternation	No data	
+Nen	55	LEAVE	ors	Pseudo-passive	No data	
+Nen	55	LEAVE	ors	Reciprocal (copular version)	No data	
+Nen	55	LEAVE	ors	Reflexive/reciprocal	No data	
+Nen	56	LIVE	weret	Adjunct addition	No data	
+Nen	56	LIVE	weret	Allative alternation	No data	
+Nen	56	LIVE	weret	Assume.position alternation	No data	
+Nen	56	LIVE	weret	Autobenefactive	No data	
+Nen	56	LIVE	weret	Causative	No data	
+Nen	56	LIVE	weret	Dative addition	No data	
+Nen	56	LIVE	weret	Dative alternation	No data	
+Nen	56	LIVE	weret	Deagentive alternation	No data	
+Nen	56	LIVE	weret	Locative alternation	No data	
+Nen	56	LIVE	weret	Middle	No data	
+Nen	56	LIVE	weret	Middle object addition	No data	
+Nen	56	LIVE	weret	Middle object-downgrading alternation	No data	
+Nen	56	LIVE	weret	Object omission	No data	
+Nen	56	LIVE	weret	Placement alternation	No data	
+Nen	56	LIVE	weret	Pseudo-passive	No data	
+Nen	56	LIVE	weret	Reciprocal (copular version)	No data	
+Nen	56	LIVE	weret	Reflexive/reciprocal	No data	
+Nen	57	LAUGH	urs	Adjunct addition	No data	
+Nen	57	LAUGH	urs	Allative alternation	No data	
+Nen	57	LAUGH	urs	Assume.position alternation	No data	
+Nen	57	LAUGH	urs	Autobenefactive	No data	
+Nen	57	LAUGH	urs	Causative	No data	
+Nen	57	LAUGH	urs	Dative addition	No data	
+Nen	57	LAUGH	urs	Dative alternation	No data	
+Nen	57	LAUGH	urs	Deagentive alternation	No data	
+Nen	57	LAUGH	urs	Locative alternation	No data	
+Nen	57	LAUGH	urs	Middle	No data	
+Nen	57	LAUGH	urs	Middle object addition	No data	
+Nen	57	LAUGH	urs	Middle object-downgrading alternation	No data	
+Nen	57	LAUGH	urs	Object omission	No data	
+Nen	57	LAUGH	urs	Placement alternation	No data	
+Nen	57	LAUGH	urs	Pseudo-passive	No data	
+Nen	57	LAUGH	urs	Reciprocal (copular version)	No data	
+Nen	57	LAUGH	urs	Reflexive/reciprocal	No data	
+Nen	58	SCREAM	awambs	Adjunct addition	No data	
+Nen	58	SCREAM	awambs	Allative alternation	No data	
+Nen	58	SCREAM	awambs	Assume.position alternation	No data	
+Nen	58	SCREAM	awambs	Autobenefactive	No data	
+Nen	58	SCREAM	awambs	Causative	No data	
+Nen	58	SCREAM	awambs	Dative addition	No data	
+Nen	58	SCREAM	awambs	Dative alternation	No data	
+Nen	58	SCREAM	awambs	Deagentive alternation	No data	
+Nen	58	SCREAM	awambs	Locative alternation	No data	
+Nen	58	SCREAM	awambs	Middle	No data	
+Nen	58	SCREAM	awambs	Middle object addition	No data	
+Nen	58	SCREAM	awambs	Middle object-downgrading alternation	No data	
+Nen	58	SCREAM	awambs	Object omission	No data	
+Nen	58	SCREAM	awambs	Placement alternation	No data	
+Nen	58	SCREAM	awambs	Pseudo-passive	No data	
+Nen	58	SCREAM	awambs	Reciprocal (copular version)	No data	
+Nen	58	SCREAM	awambs	Reflexive/reciprocal	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Adjunct addition	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Allative alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Assume.position alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Autobenefactive	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Causative	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Dative addition	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Dative alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Deagentive alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Locative alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Middle	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Middle object addition	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Middle object-downgrading alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Object omission	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Placement alternation	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Pseudo-passive	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Reciprocal (copular version)	No data	
+Nen	59	FEEL PAIN	tkretewäm räms	Reflexive/reciprocal	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Adjunct addition	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Allative alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Assume.position alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Autobenefactive	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Causative	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Dative addition	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Dative alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Deagentive alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Locative alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Middle	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Middle object addition	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Middle object-downgrading alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Object omission	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Placement alternation	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Pseudo-passive	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Reciprocal (copular version)	No data	
+Nen	60	FEEL COLD	kérbéräm räms	Reflexive/reciprocal	No data	
+Nen	61	DIE	kr √m	Adjunct addition	No data	
+Nen	61	DIE	kr √m	Allative alternation	No data	
+Nen	61	DIE	kr √m	Assume.position alternation	No data	
+Nen	61	DIE	kr √m	Autobenefactive	No data	
+Nen	61	DIE	kr √m	Causative	No data	
+Nen	61	DIE	kr √m	Dative addition	No data	
+Nen	61	DIE	kr √m	Dative alternation	No data	
+Nen	61	DIE	kr √m	Deagentive alternation	No data	
+Nen	61	DIE	kr √m	Locative alternation	No data	
+Nen	61	DIE	kr √m	Middle	No data	
+Nen	61	DIE	kr √m	Middle object addition	No data	
+Nen	61	DIE	kr √m	Middle object-downgrading alternation	No data	
+Nen	61	DIE	kr √m	Object omission	No data	
+Nen	61	DIE	kr √m	Placement alternation	No data	
+Nen	61	DIE	kr √m	Pseudo-passive	No data	
+Nen	61	DIE	kr √m	Reciprocal (copular version)	No data	
+Nen	61	DIE	kr √m	Reflexive/reciprocal	No data	
+Nen	62	PLAY	izers	Adjunct addition	No data	
+Nen	62	PLAY	izers	Allative alternation	No data	
+Nen	62	PLAY	izers	Assume.position alternation	No data	
+Nen	62	PLAY	izers	Autobenefactive	No data	
+Nen	62	PLAY	izers	Causative	No data	
+Nen	62	PLAY	izers	Dative addition	No data	
+Nen	62	PLAY	izers	Dative alternation	No data	
+Nen	62	PLAY	izers	Deagentive alternation	No data	
+Nen	62	PLAY	izers	Locative alternation	No data	
+Nen	62	PLAY	izers	Middle	No data	
+Nen	62	PLAY	izers	Middle object addition	No data	
+Nen	62	PLAY	izers	Middle object-downgrading alternation	No data	
+Nen	62	PLAY	izers	Object omission	No data	
+Nen	62	PLAY	izers	Placement alternation	No data	
+Nen	62	PLAY	izers	Pseudo-passive	No data	
+Nen	62	PLAY	izers	Reciprocal (copular version)	No data	
+Nen	62	PLAY	izers	Reflexive/reciprocal	No data	
+Nen	63	BE SAD	weiweiyäm räms	Adjunct addition	No data	
+Nen	63	BE SAD	weiweiyäm räms	Allative alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Assume.position alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Autobenefactive	No data	
+Nen	63	BE SAD	weiweiyäm räms	Causative	No data	
+Nen	63	BE SAD	weiweiyäm räms	Dative addition	No data	
+Nen	63	BE SAD	weiweiyäm räms	Dative alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Deagentive alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Locative alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Middle	No data	
+Nen	63	BE SAD	weiweiyäm räms	Middle object addition	No data	
+Nen	63	BE SAD	weiweiyäm räms	Middle object-downgrading alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Object omission	No data	
+Nen	63	BE SAD	weiweiyäm räms	Placement alternation	No data	
+Nen	63	BE SAD	weiweiyäm räms	Pseudo-passive	No data	
+Nen	63	BE SAD	weiweiyäm räms	Reciprocal (copular version)	No data	
+Nen	63	BE SAD	weiweiyäm räms	Reflexive/reciprocal	No data	
+Nen	64	BE HUNGRY	gersäm räms	Adjunct addition	No data	
+Nen	64	BE HUNGRY	gersäm räms	Allative alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Assume.position alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Autobenefactive	No data	
+Nen	64	BE HUNGRY	gersäm räms	Causative	No data	
+Nen	64	BE HUNGRY	gersäm räms	Dative addition	No data	
+Nen	64	BE HUNGRY	gersäm räms	Dative alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Deagentive alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Locative alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Middle	No data	
+Nen	64	BE HUNGRY	gersäm räms	Middle object addition	No data	
+Nen	64	BE HUNGRY	gersäm räms	Middle object-downgrading alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Object omission	No data	
+Nen	64	BE HUNGRY	gersäm räms	Placement alternation	No data	
+Nen	64	BE HUNGRY	gersäm räms	Pseudo-passive	No data	
+Nen	64	BE HUNGRY	gersäm räms	Reciprocal (copular version)	No data	
+Nen	64	BE HUNGRY	gersäm räms	Reflexive/reciprocal	No data	
+Nen	66	SINK	olets	Adjunct addition	No data	
+Nen	66	SINK	olets	Allative alternation	No data	
+Nen	66	SINK	olets	Assume.position alternation	No data	
+Nen	66	SINK	olets	Autobenefactive	No data	
+Nen	66	SINK	olets	Causative	Regularly	
+Nen	66	SINK	olets	Dative addition	No data	
+Nen	66	SINK	olets	Dative alternation	No data	
+Nen	66	SINK	olets	Deagentive alternation	No data	
+Nen	66	SINK	olets	Locative alternation	No data	
+Nen	66	SINK	olets	Middle	No data	
+Nen	66	SINK	olets	Middle object addition	No data	
+Nen	66	SINK	olets	Middle object-downgrading alternation	No data	
+Nen	66	SINK	olets	Object omission	No data	
+Nen	66	SINK	olets	Placement alternation	No data	
+Nen	66	SINK	olets	Pseudo-passive	No data	
+Nen	66	SINK	olets	Reciprocal (copular version)	No data	
+Nen	66	SINK	olets	Reflexive/reciprocal	No data	
+Nen	67	BURN	uzers	Adjunct addition	No data	
+Nen	67	BURN	uzers	Allative alternation	No data	
+Nen	67	BURN	uzers	Assume.position alternation	No data	
+Nen	67	BURN	uzers	Autobenefactive	No data	
+Nen	67	BURN	uzers	Causative	Regularly	
+Nen	67	BURN	uzers	Dative addition	No data	
+Nen	67	BURN	uzers	Dative alternation	No data	
+Nen	67	BURN	uzers	Deagentive alternation	No data	
+Nen	67	BURN	uzers	Locative alternation	No data	
+Nen	67	BURN	uzers	Middle	No data	
+Nen	67	BURN	uzers	Middle object addition	No data	
+Nen	67	BURN	uzers	Middle object-downgrading alternation	No data	
+Nen	67	BURN	uzers	Object omission	No data	
+Nen	67	BURN	uzers	Placement alternation	No data	
+Nen	67	BURN	uzers	Pseudo-passive	No data	
+Nen	67	BURN	uzers	Reciprocal (copular version)	No data	
+Nen	67	BURN	uzers	Reflexive/reciprocal	No data	
+Nen	67	BURN	äkrärs	Adjunct addition	No data	
+Nen	67	BURN	äkrärs	Allative alternation	No data	
+Nen	67	BURN	äkrärs	Assume.position alternation	No data	
+Nen	67	BURN	äkrärs	Autobenefactive	No data	
+Nen	67	BURN	äkrärs	Causative	No data	
+Nen	67	BURN	äkrärs	Dative addition	No data	
+Nen	67	BURN	äkrärs	Dative alternation	No data	
+Nen	67	BURN	äkrärs	Deagentive alternation	No data	
+Nen	67	BURN	äkrärs	Locative alternation	No data	
+Nen	67	BURN	äkrärs	Middle	No data	
+Nen	67	BURN	äkrärs	Middle object addition	No data	
+Nen	67	BURN	äkrärs	Middle object-downgrading alternation	No data	
+Nen	67	BURN	äkrärs	Object omission	No data	
+Nen	67	BURN	äkrärs	Placement alternation	No data	
+Nen	67	BURN	äkrärs	Pseudo-passive	No data	
+Nen	67	BURN	äkrärs	Reciprocal (copular version)	No data	
+Nen	67	BURN	äkrärs	Reflexive/reciprocal	No data	
+Nen	68	BE DRY	ombtes √m	Adjunct addition	No data	
+Nen	68	BE DRY	ombtes √m	Allative alternation	No data	
+Nen	68	BE DRY	ombtes √m	Assume.position alternation	No data	
+Nen	68	BE DRY	ombtes √m	Autobenefactive	No data	
+Nen	68	BE DRY	ombtes √m	Causative	No data	
+Nen	68	BE DRY	ombtes √m	Dative addition	No data	
+Nen	68	BE DRY	ombtes √m	Dative alternation	No data	
+Nen	68	BE DRY	ombtes √m	Deagentive alternation	No data	
+Nen	68	BE DRY	ombtes √m	Locative alternation	No data	
+Nen	68	BE DRY	ombtes √m	Middle	No data	
+Nen	68	BE DRY	ombtes √m	Middle object addition	No data	
+Nen	68	BE DRY	ombtes √m	Middle object-downgrading alternation	No data	
+Nen	68	BE DRY	ombtes √m	Object omission	No data	
+Nen	68	BE DRY	ombtes √m	Placement alternation	No data	
+Nen	68	BE DRY	ombtes √m	Pseudo-passive	No data	
+Nen	68	BE DRY	ombtes √m	Reciprocal (copular version)	No data	
+Nen	68	BE DRY	ombtes √m	Reflexive/reciprocal	No data	
+Nen	69	RAIN	nu apams	Adjunct addition	No data	
+Nen	69	RAIN	nu apams	Allative alternation	No data	
+Nen	69	RAIN	nu apams	Assume.position alternation	No data	
+Nen	69	RAIN	nu apams	Autobenefactive	No data	
+Nen	69	RAIN	nu apams	Causative	No data	
+Nen	69	RAIN	nu apams	Dative addition	No data	
+Nen	69	RAIN	nu apams	Dative alternation	No data	
+Nen	69	RAIN	nu apams	Deagentive alternation	No data	
+Nen	69	RAIN	nu apams	Locative alternation	No data	
+Nen	69	RAIN	nu apams	Middle	No data	
+Nen	69	RAIN	nu apams	Middle object addition	No data	
+Nen	69	RAIN	nu apams	Middle object-downgrading alternation	No data	
+Nen	69	RAIN	nu apams	Object omission	No data	
+Nen	69	RAIN	nu apams	Placement alternation	No data	
+Nen	69	RAIN	nu apams	Pseudo-passive	No data	
+Nen	69	RAIN	nu apams	Reciprocal (copular version)	No data	
+Nen	69	RAIN	nu apams	Reflexive/reciprocal	No data	
+Nen	71	GRIND	éss	Adjunct addition	No data	
+Nen	71	GRIND	éss	Allative alternation	No data	
+Nen	71	GRIND	éss	Assume.position alternation	No data	
+Nen	71	GRIND	éss	Autobenefactive	No data	
+Nen	71	GRIND	éss	Causative	No data	
+Nen	71	GRIND	éss	Dative addition	No data	
+Nen	71	GRIND	éss	Dative alternation	No data	
+Nen	71	GRIND	éss	Deagentive alternation	No data	
+Nen	71	GRIND	éss	Locative alternation	No data	
+Nen	71	GRIND	éss	Middle	No data	
+Nen	71	GRIND	éss	Middle object addition	No data	
+Nen	71	GRIND	éss	Middle object-downgrading alternation	No data	
+Nen	71	GRIND	éss	Object omission	No data	
+Nen	71	GRIND	éss	Placement alternation	No data	
+Nen	71	GRIND	éss	Pseudo-passive	No data	
+Nen	71	GRIND	éss	Reciprocal (copular version)	No data	
+Nen	71	GRIND	éss	Reflexive/reciprocal	No data	
+Nen	72	WIPE	läns	Adjunct addition	No data	
+Nen	72	WIPE	läns	Allative alternation	No data	
+Nen	72	WIPE	läns	Assume.position alternation	No data	
+Nen	72	WIPE	läns	Autobenefactive	No data	
+Nen	72	WIPE	läns	Causative	No data	
+Nen	72	WIPE	läns	Dative addition	No data	
+Nen	72	WIPE	läns	Dative alternation	No data	
+Nen	72	WIPE	läns	Deagentive alternation	No data	
+Nen	72	WIPE	läns	Locative alternation	No data	
+Nen	72	WIPE	läns	Middle	No data	
+Nen	72	WIPE	läns	Middle object addition	No data	
+Nen	72	WIPE	läns	Middle object-downgrading alternation	No data	
+Nen	72	WIPE	läns	Object omission	No data	
+Nen	72	WIPE	läns	Placement alternation	No data	
+Nen	72	WIPE	läns	Pseudo-passive	No data	
+Nen	72	WIPE	läns	Reciprocal (copular version)	No data	
+Nen	72	WIPE	läns	Reflexive/reciprocal	No data	
+Nen	73	DIG	tars	Adjunct addition	No data	
+Nen	73	DIG	tars	Allative alternation	No data	
+Nen	73	DIG	tars	Assume.position alternation	No data	
+Nen	73	DIG	tars	Autobenefactive	No data	
+Nen	73	DIG	tars	Causative	No data	
+Nen	73	DIG	tars	Dative addition	No data	
+Nen	73	DIG	tars	Dative alternation	No data	
+Nen	73	DIG	tars	Deagentive alternation	No data	
+Nen	73	DIG	tars	Locative alternation	No data	
+Nen	73	DIG	tars	Middle	No data	
+Nen	73	DIG	tars	Middle object addition	No data	
+Nen	73	DIG	tars	Middle object-downgrading alternation	No data	
+Nen	73	DIG	tars	Object omission	No data	
+Nen	73	DIG	tars	Placement alternation	No data	
+Nen	73	DIG	tars	Pseudo-passive	No data	
+Nen	73	DIG	tars	Reciprocal (copular version)	No data	
+Nen	73	DIG	tars	Reflexive/reciprocal	No data	
+Nen	74	PUSH	wédéḡés	Adjunct addition	No data	
+Nen	74	PUSH	wédéḡés	Allative alternation	No data	
+Nen	74	PUSH	wédéḡés	Assume.position alternation	No data	
+Nen	74	PUSH	wédéḡés	Autobenefactive	No data	
+Nen	74	PUSH	wédéḡés	Causative	No data	
+Nen	74	PUSH	wédéḡés	Dative addition	No data	
+Nen	74	PUSH	wédéḡés	Dative alternation	No data	
+Nen	74	PUSH	wédéḡés	Deagentive alternation	No data	
+Nen	74	PUSH	wédéḡés	Locative alternation	No data	
+Nen	74	PUSH	wédéḡés	Middle	No data	
+Nen	74	PUSH	wédéḡés	Middle object addition	No data	
+Nen	74	PUSH	wédéḡés	Middle object-downgrading alternation	No data	
+Nen	74	PUSH	wédéḡés	Object omission	No data	
+Nen	74	PUSH	wédéḡés	Placement alternation	No data	
+Nen	74	PUSH	wédéḡés	Pseudo-passive	No data	
+Nen	74	PUSH	wédéḡés	Reciprocal (copular version)	No data	
+Nen	74	PUSH	wédéḡés	Reflexive/reciprocal	No data	
+Nen	75	BRING	renzas	Adjunct addition	No data	
+Nen	75	BRING	renzas	Allative alternation	Regularly	
+Nen	75	BRING	renzas	Assume.position alternation	No data	
+Nen	75	BRING	renzas	Autobenefactive	No data	
+Nen	75	BRING	renzas	Causative	No data	
+Nen	75	BRING	renzas	Dative addition	No data	
+Nen	75	BRING	renzas	Dative alternation	No data	
+Nen	75	BRING	renzas	Deagentive alternation	No data	
+Nen	75	BRING	renzas	Locative alternation	No data	
+Nen	75	BRING	renzas	Middle	No data	
+Nen	75	BRING	renzas	Middle object addition	No data	
+Nen	75	BRING	renzas	Middle object-downgrading alternation	No data	
+Nen	75	BRING	renzas	Object omission	No data	
+Nen	75	BRING	renzas	Placement alternation	No data	
+Nen	75	BRING	renzas	Pseudo-passive	No data	
+Nen	75	BRING	renzas	Reciprocal (copular version)	No data	
+Nen	75	BRING	renzas	Reflexive/reciprocal	No data	
+Nen	76	STEAL	wr	Adjunct addition	No data	
+Nen	76	STEAL	wr	Allative alternation	No data	
+Nen	76	STEAL	wr	Assume.position alternation	No data	
+Nen	76	STEAL	wr	Autobenefactive	No data	
+Nen	76	STEAL	wr	Causative	No data	
+Nen	76	STEAL	wr	Dative addition	No data	
+Nen	76	STEAL	wr	Dative alternation	No data	
+Nen	76	STEAL	wr	Deagentive alternation	No data	
+Nen	76	STEAL	wr	Locative alternation	No data	
+Nen	76	STEAL	wr	Middle	No data	
+Nen	76	STEAL	wr	Middle object addition	No data	
+Nen	76	STEAL	wr	Middle object-downgrading alternation	No data	
+Nen	76	STEAL	wr	Object omission	No data	
+Nen	76	STEAL	wr	Placement alternation	No data	
+Nen	76	STEAL	wr	Pseudo-passive	No data	
+Nen	76	STEAL	wr	Reciprocal (copular version)	No data	
+Nen	76	STEAL	wr	Reflexive/reciprocal	No data	
+Nen	76	STEAL	wérnis	Adjunct addition	No data	
+Nen	76	STEAL	wérnis	Allative alternation	No data	
+Nen	76	STEAL	wérnis	Assume.position alternation	No data	
+Nen	76	STEAL	wérnis	Autobenefactive	No data	
+Nen	76	STEAL	wérnis	Causative	No data	
+Nen	76	STEAL	wérnis	Dative addition	No data	
+Nen	76	STEAL	wérnis	Dative alternation	No data	
+Nen	76	STEAL	wérnis	Deagentive alternation	No data	
+Nen	76	STEAL	wérnis	Locative alternation	No data	
+Nen	76	STEAL	wérnis	Middle	No data	
+Nen	76	STEAL	wérnis	Middle object addition	No data	
+Nen	76	STEAL	wérnis	Middle object-downgrading alternation	No data	
+Nen	76	STEAL	wérnis	Object omission	No data	
+Nen	76	STEAL	wérnis	Placement alternation	No data	
+Nen	76	STEAL	wérnis	Pseudo-passive	No data	
+Nen	76	STEAL	wérnis	Reciprocal (copular version)	No data	
+Nen	76	STEAL	wérnis	Reflexive/reciprocal	Regularly	
+Nen	77	TEACH	awapaps	Adjunct addition	No data	
+Nen	77	TEACH	awapaps	Allative alternation	No data	
+Nen	77	TEACH	awapaps	Assume.position alternation	No data	
+Nen	77	TEACH	awapaps	Autobenefactive	Regularly	
+Nen	77	TEACH	awapaps	Causative	No data	
+Nen	77	TEACH	awapaps	Dative addition	No data	
+Nen	77	TEACH	awapaps	Dative alternation	Regularly	
+Nen	77	TEACH	awapaps	Deagentive alternation	No data	
+Nen	77	TEACH	awapaps	Locative alternation	No data	
+Nen	77	TEACH	awapaps	Middle	No data	
+Nen	77	TEACH	awapaps	Middle object addition	No data	
+Nen	77	TEACH	awapaps	Middle object-downgrading alternation	No data	
+Nen	77	TEACH	awapaps	Object omission	No data	
+Nen	77	TEACH	awapaps	Placement alternation	No data	
+Nen	77	TEACH	awapaps	Pseudo-passive	No data	
+Nen	77	TEACH	awapaps	Reciprocal (copular version)	No data	
+Nen	77	TEACH	awapaps	Reflexive/reciprocal	No data	
+Nen	78	HEAR	weres	Adjunct addition	No data	
+Nen	78	HEAR	weres	Allative alternation	No data	
+Nen	78	HEAR	weres	Assume.position alternation	No data	
+Nen	78	HEAR	weres	Autobenefactive	Regularly	
+Nen	78	HEAR	weres	Causative	No data	
+Nen	78	HEAR	weres	Dative addition	No data	
+Nen	78	HEAR	weres	Dative alternation	No data	
+Nen	78	HEAR	weres	Deagentive alternation	Regularly	
+Nen	78	HEAR	weres	Locative alternation	No data	
+Nen	78	HEAR	weres	Middle	No data	
+Nen	78	HEAR	weres	Middle object addition	No data	
+Nen	78	HEAR	weres	Middle object-downgrading alternation	Regularly	
+Nen	78	HEAR	weres	Object omission	No data	
+Nen	78	HEAR	weres	Placement alternation	No data	
+Nen	78	HEAR	weres	Pseudo-passive	No data	
+Nen	78	HEAR	weres	Reciprocal (copular version)	No data	
+Nen	78	HEAR	weres	Reflexive/reciprocal	No data	
+Nen	79	COOK	dus	Adjunct addition	No data	
+Nen	79	COOK	dus	Allative alternation	No data	
+Nen	79	COOK	dus	Assume.position alternation	No data	
+Nen	79	COOK	dus	Autobenefactive	No data	
+Nen	79	COOK	dus	Causative	No data	
+Nen	79	COOK	dus	Dative addition	No data	
+Nen	79	COOK	dus	Dative alternation	No data	
+Nen	79	COOK	dus	Deagentive alternation	No data	
+Nen	79	COOK	dus	Locative alternation	No data	
+Nen	79	COOK	dus	Middle	No data	
+Nen	79	COOK	dus	Middle object addition	No data	
+Nen	79	COOK	dus	Middle object-downgrading alternation	No data	
+Nen	79	COOK	dus	Object omission	No data	
+Nen	79	COOK	dus	Placement alternation	No data	
+Nen	79	COOK	dus	Pseudo-passive	No data	
+Nen	79	COOK	dus	Reciprocal (copular version)	No data	
+Nen	79	COOK	dus	Reflexive/reciprocal	No data	
+Nen	79	COOK	zeyas	Adjunct addition	No data	
+Nen	79	COOK	zeyas	Allative alternation	No data	
+Nen	79	COOK	zeyas	Assume.position alternation	No data	
+Nen	79	COOK	zeyas	Autobenefactive	Regularly	
+Nen	79	COOK	zeyas	Causative	No data	
+Nen	79	COOK	zeyas	Dative addition	No data	
+Nen	79	COOK	zeyas	Dative alternation	No data	
+Nen	79	COOK	zeyas	Deagentive alternation	No data	
+Nen	79	COOK	zeyas	Locative alternation	No data	
+Nen	79	COOK	zeyas	Middle	No data	
+Nen	79	COOK	zeyas	Middle object addition	No data	
+Nen	79	COOK	zeyas	Middle object-downgrading alternation	No data	
+Nen	79	COOK	zeyas	Object omission	No data	
+Nen	79	COOK	zeyas	Placement alternation	No data	
+Nen	79	COOK	zeyas	Pseudo-passive	No data	
+Nen	79	COOK	zeyas	Reciprocal (copular version)	No data	
+Nen	79	COOK	zeyas	Reflexive/reciprocal	No data	
+Nen	80	BOIL	rngs	Adjunct addition	No data	
+Nen	80	BOIL	rngs	Allative alternation	No data	
+Nen	80	BOIL	rngs	Assume.position alternation	No data	
+Nen	80	BOIL	rngs	Autobenefactive	No data	
+Nen	80	BOIL	rngs	Causative	No data	
+Nen	80	BOIL	rngs	Dative addition	No data	
+Nen	80	BOIL	rngs	Dative alternation	No data	
+Nen	80	BOIL	rngs	Deagentive alternation	No data	
+Nen	80	BOIL	rngs	Locative alternation	No data	
+Nen	80	BOIL	rngs	Middle	No data	
+Nen	80	BOIL	rngs	Middle object addition	No data	
+Nen	80	BOIL	rngs	Middle object-downgrading alternation	No data	
+Nen	80	BOIL	rngs	Object omission	No data	
+Nen	80	BOIL	rngs	Placement alternation	No data	
+Nen	80	BOIL	rngs	Pseudo-passive	No data	
+Nen	80	BOIL	rngs	Reciprocal (copular version)	No data	
+Nen	80	BOIL	rngs	Reflexive/reciprocal	No data	
+Nen	81	APPEAR	ipars	Adjunct addition	No data	
+Nen	81	APPEAR	ipars	Allative alternation	No data	
+Nen	81	APPEAR	ipars	Assume.position alternation	No data	
+Nen	81	APPEAR	ipars	Autobenefactive	No data	
+Nen	81	APPEAR	ipars	Causative	No data	
+Nen	81	APPEAR	ipars	Dative addition	Regularly	
+Nen	81	APPEAR	ipars	Dative alternation	No data	
+Nen	81	APPEAR	ipars	Deagentive alternation	No data	
+Nen	81	APPEAR	ipars	Locative alternation	No data	
+Nen	81	APPEAR	ipars	Middle	No data	
+Nen	81	APPEAR	ipars	Middle object addition	No data	
+Nen	81	APPEAR	ipars	Middle object-downgrading alternation	No data	
+Nen	81	APPEAR	ipars	Object omission	No data	
+Nen	81	APPEAR	ipars	Placement alternation	No data	
+Nen	81	APPEAR	ipars	Pseudo-passive	No data	
+Nen	81	APPEAR	ipars	Reciprocal (copular version)	No data	
+Nen	81	APPEAR	ipars	Reflexive/reciprocal	No data	
+Nen	82	BE ILL	enzinewäm räms	Adjunct addition	No data	
+Nen	82	BE ILL	enzinewäm räms	Allative alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Assume.position alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Autobenefactive	No data	
+Nen	82	BE ILL	enzinewäm räms	Causative	No data	
+Nen	82	BE ILL	enzinewäm räms	Dative addition	No data	
+Nen	82	BE ILL	enzinewäm räms	Dative alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Deagentive alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Locative alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Middle	No data	
+Nen	82	BE ILL	enzinewäm räms	Middle object addition	No data	
+Nen	82	BE ILL	enzinewäm räms	Middle object-downgrading alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Object omission	No data	
+Nen	82	BE ILL	enzinewäm räms	Placement alternation	No data	
+Nen	82	BE ILL	enzinewäm räms	Pseudo-passive	No data	
+Nen	82	BE ILL	enzinewäm räms	Reciprocal (copular version)	No data	
+Nen	82	BE ILL	enzinewäm räms	Reflexive/reciprocal	No data	
+Nen	83	CRY	engs	Adjunct addition	No data	
+Nen	83	CRY	engs	Allative alternation	No data	
+Nen	83	CRY	engs	Assume.position alternation	No data	
+Nen	83	CRY	engs	Autobenefactive	No data	
+Nen	83	CRY	engs	Causative	No data	
+Nen	83	CRY	engs	Dative addition	No data	
+Nen	83	CRY	engs	Dative alternation	No data	
+Nen	83	CRY	engs	Deagentive alternation	No data	
+Nen	83	CRY	engs	Locative alternation	No data	
+Nen	83	CRY	engs	Middle	No data	
+Nen	83	CRY	engs	Middle object addition	No data	
+Nen	83	CRY	engs	Middle object-downgrading alternation	No data	
+Nen	83	CRY	engs	Object omission	No data	
+Nen	83	CRY	engs	Placement alternation	No data	
+Nen	83	CRY	engs	Pseudo-passive	No data	
+Nen	83	CRY	engs	Reciprocal (copular version)	No data	
+Nen	83	CRY	engs	Reflexive/reciprocal	No data	
+Nen	84	FALL	uwis	Adjunct addition	No data	
+Nen	84	FALL	uwis	Allative alternation	No data	
+Nen	84	FALL	uwis	Assume.position alternation	No data	
+Nen	84	FALL	uwis	Autobenefactive	No data	
+Nen	84	FALL	uwis	Causative	No data	
+Nen	84	FALL	uwis	Dative addition	No data	
+Nen	84	FALL	uwis	Dative alternation	No data	
+Nen	84	FALL	uwis	Deagentive alternation	No data	
+Nen	84	FALL	uwis	Locative alternation	No data	
+Nen	84	FALL	uwis	Middle	No data	
+Nen	84	FALL	uwis	Middle object addition	No data	
+Nen	84	FALL	uwis	Middle object-downgrading alternation	No data	
+Nen	84	FALL	uwis	Object omission	No data	
+Nen	84	FALL	uwis	Placement alternation	No data	
+Nen	84	FALL	uwis	Pseudo-passive	No data	
+Nen	84	FALL	uwis	Reciprocal (copular version)	No data	
+Nen	84	FALL	uwis	Reflexive/reciprocal	No data	
+Nen	85	MAKE	räms	Adjunct addition	No data	
+Nen	85	MAKE	räms	Allative alternation	No data	
+Nen	85	MAKE	räms	Assume.position alternation	No data	
+Nen	85	MAKE	räms	Autobenefactive	Regularly	
+Nen	85	MAKE	räms	Causative	No data	
+Nen	85	MAKE	räms	Dative addition	No data	
+Nen	85	MAKE	räms	Dative alternation	No data	
+Nen	85	MAKE	räms	Deagentive alternation	No data	
+Nen	85	MAKE	räms	Locative alternation	No data	
+Nen	85	MAKE	räms	Middle	No data	
+Nen	85	MAKE	räms	Middle object addition	No data	
+Nen	85	MAKE	räms	Middle object-downgrading alternation	No data	
+Nen	85	MAKE	räms	Object omission	No data	
+Nen	85	MAKE	räms	Placement alternation	No data	
+Nen	85	MAKE	räms	Pseudo-passive	No data	
+Nen	85	MAKE	räms	Reciprocal (copular version)	No data	
+Nen	85	MAKE	räms	Reflexive/reciprocal	No data	
+Nen	85	MAKE	waprs	Adjunct addition	No data	
+Nen	85	MAKE	waprs	Allative alternation	No data	
+Nen	85	MAKE	waprs	Assume.position alternation	No data	
+Nen	85	MAKE	waprs	Autobenefactive	No data	
+Nen	85	MAKE	waprs	Causative	No data	
+Nen	85	MAKE	waprs	Dative addition	No data	
+Nen	85	MAKE	waprs	Dative alternation	No data	
+Nen	85	MAKE	waprs	Deagentive alternation	No data	
+Nen	85	MAKE	waprs	Locative alternation	No data	
+Nen	85	MAKE	waprs	Middle	No data	
+Nen	85	MAKE	waprs	Middle object addition	No data	
+Nen	85	MAKE	waprs	Middle object-downgrading alternation	No data	
+Nen	85	MAKE	waprs	Object omission	No data	
+Nen	85	MAKE	waprs	Placement alternation	No data	
+Nen	85	MAKE	waprs	Pseudo-passive	No data	
+Nen	85	MAKE	waprs	Reciprocal (copular version)	No data	
+Nen	85	MAKE	waprs	Reflexive/reciprocal	No data	
+Nen	86	GET	√ane	Adjunct addition	No data	
+Nen	86	GET	√ane	Allative alternation	No data	
+Nen	86	GET	√ane	Assume.position alternation	No data	
+Nen	86	GET	√ane	Autobenefactive	No data	
+Nen	86	GET	√ane	Causative	No data	
+Nen	86	GET	√ane	Dative addition	No data	
+Nen	86	GET	√ane	Dative alternation	No data	
+Nen	86	GET	√ane	Deagentive alternation	No data	
+Nen	86	GET	√ane	Locative alternation	No data	
+Nen	86	GET	√ane	Middle	No data	
+Nen	86	GET	√ane	Middle object addition	No data	
+Nen	86	GET	√ane	Middle object-downgrading alternation	No data	
+Nen	86	GET	√ane	Object omission	No data	
+Nen	86	GET	√ane	Placement alternation	No data	
+Nen	86	GET	√ane	Pseudo-passive	No data	
+Nen	86	GET	√ane	Reciprocal (copular version)	No data	
+Nen	86	GET	√ane	Reflexive/reciprocal	No data	
+Nen	87	WANT	mñte √m	Adjunct addition	No data	
+Nen	87	WANT	mñte √m	Allative alternation	No data	
+Nen	87	WANT	mñte √m	Assume.position alternation	No data	
+Nen	87	WANT	mñte √m	Autobenefactive	No data	
+Nen	87	WANT	mñte √m	Causative	No data	
+Nen	87	WANT	mñte √m	Dative addition	No data	
+Nen	87	WANT	mñte √m	Dative alternation	No data	
+Nen	87	WANT	mñte √m	Deagentive alternation	No data	
+Nen	87	WANT	mñte √m	Locative alternation	No data	
+Nen	87	WANT	mñte √m	Middle	No data	
+Nen	87	WANT	mñte √m	Middle object addition	No data	
+Nen	87	WANT	mñte √m	Middle object-downgrading alternation	No data	
+Nen	87	WANT	mñte √m	Object omission	No data	
+Nen	87	WANT	mñte √m	Placement alternation	No data	
+Nen	87	WANT	mñte √m	Pseudo-passive	No data	
+Nen	87	WANT	mñte √m	Reciprocal (copular version)	No data	
+Nen	87	WANT	mñte √m	Reflexive/reciprocal	No data	
+Nen	93	HUNT (FOR)	ärs	Adjunct addition	No data	
+Nen	93	HUNT (FOR)	ärs	Allative alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Assume.position alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Autobenefactive	No data	
+Nen	93	HUNT (FOR)	ärs	Causative	No data	
+Nen	93	HUNT (FOR)	ärs	Dative addition	No data	
+Nen	93	HUNT (FOR)	ärs	Dative alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Deagentive alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Locative alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Middle	No data	
+Nen	93	HUNT (FOR)	ärs	Middle object addition	Regularly	
+Nen	93	HUNT (FOR)	ärs	Middle object-downgrading alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Object omission	No data	
+Nen	93	HUNT (FOR)	ärs	Placement alternation	No data	
+Nen	93	HUNT (FOR)	ärs	Pseudo-passive	No data	
+Nen	93	HUNT (FOR)	ärs	Reciprocal (copular version)	No data	
+Nen	93	HUNT (FOR)	ärs	Reflexive/reciprocal	No data	
+Nen	128	ROLL (tr)	paes	Adjunct addition	No data	
+Nen	128	ROLL (tr)	paes	Allative alternation	No data	
+Nen	128	ROLL (tr)	paes	Assume.position alternation	No data	
+Nen	128	ROLL (tr)	paes	Autobenefactive	No data	
+Nen	128	ROLL (tr)	paes	Causative	No data	
+Nen	128	ROLL (tr)	paes	Dative addition	No data	
+Nen	128	ROLL (tr)	paes	Dative alternation	No data	
+Nen	128	ROLL (tr)	paes	Deagentive alternation	No data	
+Nen	128	ROLL (tr)	paes	Locative alternation	No data	
+Nen	128	ROLL (tr)	paes	Middle	No data	
+Nen	128	ROLL (tr)	paes	Middle object addition	No data	
+Nen	128	ROLL (tr)	paes	Middle object-downgrading alternation	No data	
+Nen	128	ROLL (tr)	paes	Object omission	No data	
+Nen	128	ROLL (tr)	paes	Placement alternation	No data	
+Nen	128	ROLL (tr)	paes	Pseudo-passive	No data	
+Nen	128	ROLL (tr)	paes	Reciprocal (copular version)	No data	
+Nen	128	ROLL (tr)	paes	Reflexive/reciprocal	No data	

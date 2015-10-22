@@ -1,0 +1,42 @@
+﻿Language_name	Gloss	Meaning
+Xârâcùù	1	first person
+Xârâcùù	2	second person
+Xârâcùù	3	third person
+Xârâcùù	ART	article
+Xârâcùù	ASS	assertive
+Xârâcùù	BEN	benefactive
+Xârâcùù	CAUS	causative
+Xârâcùù	CLF	classifier
+Xârâcùù	COLL	collective
+Xârâcùù	COMP	complementizer
+Xârâcùù	DEM	demonstrative
+Xârâcùù	DIR	directional
+Xârâcùù	DU	dual
+Xârâcùù	EXCL	exclusive
+Xârâcùù	FUT	future
+Xârâcùù	GEN	genitive
+Xârâcùù	IMPERS	impersonal
+Xârâcùù	INCL	inclusive
+Xârâcùù	INDEF	indefinite
+Xârâcùù	INDEP	independent
+Xârâcùù	INS	instrumental
+Xârâcùù	INTERR	interrogative
+Xârâcùù	IPFV	imperfective
+Xârâcùù	MID	middle
+Xârâcùù	NBEN	non-beneficiary
+Xârâcùù	NDEF	non-definite??
+Xârâcùù	NEG	negation
+Xârâcùù	NMLZ	nominalizer
+Xârâcùù	NPERS	impersonal
+Xârâcùù	PFV	perfective
+Xârâcùù	PL	plural
+Xârâcùù	POSS	possessive
+Xârâcùù	PROHIB	prohibitive
+Xârâcùù	PRON	pronoun
+Xârâcùù	PST	past
+Xârâcùù	RECP	reciprocal
+Xârâcùù	REDUP	reduplication
+Xârâcùù	SG	singular
+Xârâcùù	SM	subject marker?
+Xârâcùù	TR	transitive?
+Xârâcùù	VOC	vocative

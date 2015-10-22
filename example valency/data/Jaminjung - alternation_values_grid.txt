@@ -1,0 +1,95 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Ambitransitive alternation	Causative alternation of internally caused change of state predicates and non-locative states	Causative-inchoative alternation of "cooking" predicates	Causative-inchoative alternation of change of location predicates	Causative-inchoative alternation of externally caused change of state predicates	Causative-inchoative-stative alternation of predicates of location, position and configuration	Ditransitive object alternation of IVs	Inchoative-causative alternation of change of location predicates	Inchoative-causative-stative alternation of predicates of location, position and configuration	Locative-object (applicative) Alternation	Locative-recipient alternation	Reflexive-reciprocal alternation of IVs	Telicity alternation	Transitivity alternation of activity predicates	Transitivity alternation of motion predicates	Transitivity alternation of stative predicates	Verbless/verbal clause with predicative nominal=UV
+Jaminjung	1	EAT	ganimindany	1	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	1	EAT	thawaya gagba	176	1-abs 2-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	2	HUG	warrgi ganimuwa	3	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	No data	Never	Never	Never	Never
+Jaminjung	2	HUG	warrgi ganangu	4	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	3	LOOK AT	mung ganingawu	5, 6	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never
+Jaminjung	4	SEE	ganingawu	7, 157	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Jaminjung	5	SMELL	ngabuj ganangu	8, 9, 10, 177	1-erg 2-abs subj[1].obj[2].V	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Regularly	Never	Never	Never	Never
+Jaminjung	6	FEAR	ganiyangmany	11, 12	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	6	FEAR	yarrajgu gagba	155, 156, 157	1-abs 2-dat subj[1].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	7	FRIGHTEN	braitenim ganangu	13	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Jaminjung	8	LIKE	ngunthug ganangu (1)	14	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	9	KNOW	jurriya (gagba)	15, 16, 120, 194	1-abs 2-dat subj[1].V	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally
+Jaminjung	10	THINK	langa gagba	17, 18	1-abs 2-dat subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	19, 20, 195	1-abs 2-dat subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never
+Jaminjung	12	WASH	ngabulg ganarrany	21, 44, 158	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	No data	Regularly	Never	Never	Never	Never
+Jaminjung	12	WASH	gulyu ganangu	22	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Jaminjung	13	DRESS																				
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	23, 45, 46, 180	1-abs 2-abs subj[1].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never
+Jaminjung	15	HELP	helpim ganangu	217	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	No data	Never	Never	Never	Never
+Jaminjung	16	FOLLOW	ganiwardagarrany	24, 25	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Jaminjung	17	MEET	wamam ganangu	26, 196, 197	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	18	TALK	yirrgbi gagba	27	1-abs 2-dat subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	19	ASK FOR	yanggi ganarrany	28, 29, 198	1-erg 2-abs 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Marginally	Never	Never	Never	Never
+Jaminjung	20	SHOUT AT	bawa ganiyu	39, 40, 193	1-erg 2-abs subj[1].obj[2].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	21	TELL	yirrg ganarrany	62, 63, 178	1-erg 2-abs 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	22	SAY	ganiyu	30, 31	UTT2 1-erg 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	23	NAME	bag ganima (2)	32	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	No data	Never	No data	Never	Never	No data	No data	No data	No data	Never	Never	Never	Never
+Jaminjung	23	NAME	nij ganarrany	166, 167, 168, 169	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	23	NAME	ganarrany (2)	170, 171	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	24	BUILD	ganilinymany (2)	41	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	24	BUILD	jardij ganima	42, 43	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	25	BREAK	bag ganima (1)	47, 200, 201	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Never	Never	Never	Never
+Jaminjung	26	KILL	ning ganima	48, 49, 50	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	No data	Regularly	Never	Never	Never	Never
+Jaminjung	26	KILL	digirrij ganima	51, 52	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	No data	Marginally	Never	Never	Never	Never
+Jaminjung	27	BEAT	wanywany ganima	61	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	No data	Never	Never	Never	Never
+Jaminjung	28	HIT	ganima	64, 65, 66	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Jaminjung	29	TOUCH	mard ganangu	67, 68	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	No data	Never	Never	Never	Never
+Jaminjung	30	CUT	gad ganima	69, 70, 71, 72, 73	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never
+Jaminjung	31	TAKE	ganuga	2, 74, 204	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Jaminjung	31	TAKE	birrg ganiyunggany	76, 77	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never	Never
+Jaminjung	31	TAKE	ganangu (2)	75, 78	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Jaminjung	32	TEAR	gub ganangu	159, 160, 163, 164, 165	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Marginally	No data	No data	Never	Never	Never	Never
+Jaminjung	33	PEEL	dirawu ganangu	80	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	No data	No data	Never	Never	No data	Never
+Jaminjung	34	HIDE	marrug ganarrany	81, 82, 83, 84	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Jaminjung	35	SHOW	yurrg ganarrany	85, 86, 87, 88, 89	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Marginally	Marginally	Never	Never	Never	Never
+Jaminjung	36	GIVE	ganingarnany	37, 38, 76, 133	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Jaminjung	37	SEND	dalag ganarrany	58, 59	1-erg 2-abs 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	38	CARRY	thuruny ganuga	60	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	39	THROW	ganardgiyany	90, 91	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Jaminjung	40	TIE	dirrg ganarrany	92, 93, 94	1-erg 2-abs subj[1].obj[2].V 3-instr 4-loc	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	No data	Never	No data	No data	Never	Never	Never	Never
+Jaminjung	40	TIE	dibird ganangu	182, 183, 184	1-erg 2-abs LOC3 subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never
+Jaminjung	41	PUT	ganarrany (1)	78, 95, 97, 98	1-erg 2-abs LOC3 subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Jaminjung	42	POUR	lawu ganarrany	99, 100, 151, 152	1-erg 2-abs LOC3 subj[1].obj[2].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	No data	Marginally	Never	Never	Never	Never
+Jaminjung	43	COVER	bardbard ganarrany	36, 96, 101	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	No data	Never	Marginally	Never	Never	Never	Never	Never	Marginally	Marginally	Never	Never	Never	Never
+Jaminjung	44	FILL	jardi ganarrany	102, 103, 104	1-erg 2-abs LOC3 subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	No data	No data	No data	Never	Never	Never	Marginally	Never
+Jaminjung	45	LOAD	bagurr ganarrany	105	1-erg 2-abs LOC3 subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	No data	No data	No data	Never	Never	Regularly	Never
+Jaminjung	46	BLINK	yimij ganiyu	134	1-abs subj[1].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Jaminjung	47	COUGH	ngujul ganiyu	34, 35	1-abs subj[1].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	48	CLIMB	burduj gajgany	135, 149, 150	1-abs 2-all subj[1].V	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	No data	Never	Never	No data	Never	Regularly	Never	Never
+Jaminjung	49	RUN	yugung gajgany	136, 137, 138, 139, 211	1-abs 2-all subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Regularly	Never	Never
+Jaminjung	50	SIT	waga gagba	140	1-abs subj[1].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	51	SIT DOWN	waga gardbany	140, 141	1-abs subj[1].V	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	52	JUMP	dibard gajgany	185, 186, 187	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never
+Jaminjung	53	SING	nganya gagba	144	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never
+Jaminjung	54	GO	gajgany	142	1-abs 2-all subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	55	LEAVE	ganungany	143, 172	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Jaminjung	56	LIVE	gagba	172, 173, 174, 175	1-abs 2-loc subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	57	LAUGH	gambaja gagba	56, 154, 179	1-abs subj[1].V	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Jaminjung	58	SCREAM	bawa ganiyu	39, 40, 193	1-erg 2-abs subj[1].obj[2].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	59	FEEL PAIN	janga gagba	189, 190, 191, 192	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Marginally
+Jaminjung	60	FEEL COLD	garrijni ganangu	188	2-abs obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	61	DIE	digirrij gajgany	51, 52	1-abs subj[1].V	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Jaminjung	62	PLAY	garlagarla gagba	53	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	63	BE SAD	burru marring ganiyu	146, 147, 212, 213	1-abs subj[1].V	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	64	BE HUNGRY	guyawud gagba	106, 107, 205	1-abs subj[1].V	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	65	ROLL	dididmayan gangga	108, 206, 207	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never
+Jaminjung	66	SINK	thawu gardbany	109, 181, 208	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	No data	Never	Marginally	Never	Never	Never	Never
+Jaminjung	67	BURN	garnaya	67, 110	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	68	BE DRY	larrman gagba	111, 209, 210	1-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally
+Jaminjung	69	RAIN	gugu gardbany	33, 199	V	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	70	BE A HUNTER	lalabangngarna	112	1-abs V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	71	GRIND	gardaj ganarrany	113	1-erg 2-abs subj[1].obj[2].V 3-instr	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Jaminjung	72	WIPE	wunyu ganimangu	114, 115	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	No data	Never	Never	Never	Never
+Jaminjung	73	DIG	gurr ganangu	116, 117	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Jaminjung	74	PUSH	durl ganuga	145	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	No data	Never	Never	Never	Never
+Jaminjung	75	BRING	gananthamany	118, 121	1-erg 2-abs 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Jaminjung	76	STEAL	bunug ganangu	55, 202, 203	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	No data	Never	Regularly	Never	Never	Never
+Jaminjung	76	STEAL	bunug ganiyunggany	54, 57, 202	1-erg 2-abs 3-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	No data	No data	Never	Never	Never	Never
+Jaminjung	77	TEACH	jurriya ganangu	15, 16, 119, 120	1-erg 2-abs 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never	Regularly
+Jaminjung	78	HEAR	malangayij ganuga	122, 123, 124	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never
+Jaminjung	79	COOK	ganirriga	125	1-erg 2-abs subj[1].obj[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	79	COOK	wirrigaja gagba	218	1-abs 2-abs subj[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	80	BOIL	burrngburrng garna	126	1-abs subj[1].V	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Jaminjung	80	BOIL	bud garna	214, 215, 216	1-abs subj[1].V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	No data	Never	Never	Never	Never

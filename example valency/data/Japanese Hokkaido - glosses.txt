@@ -1,0 +1,25 @@
+﻿Language_name	Gloss	Meaning
+Hokkaido Japanese	ABL	ablative
+Hokkaido Japanese	AC	anticausative
+Hokkaido Japanese	ACC	accusative
+Hokkaido Japanese	ADN	?
+Hokkaido Japanese	ADV	adversative
+Hokkaido Japanese	CAUS	causative
+Hokkaido Japanese	COM	comitative
+Hokkaido Japanese	COMP	?
+Hokkaido Japanese	COPULA	copula
+Hokkaido Japanese	DAT	dative
+Hokkaido Japanese	GEN	genetive
+Hokkaido Japanese	GER	gerund?
+Hokkaido Japanese	INST	instrumental
+Hokkaido Japanese	NEG	negative
+Hokkaido Japanese	NOM	nominative
+Hokkaido Japanese	NPST	non-past
+Hokkaido Japanese	PASS	passive
+Hokkaido Japanese	POT	potential
+Hokkaido Japanese	PRES	present tense
+Hokkaido Japanese	PROG	progressive
+Hokkaido Japanese	PRT	perfect?
+Hokkaido Japanese	PST	past tense
+Hokkaido Japanese	TOP	topic
+Hokkaido Japanese	sg	singular

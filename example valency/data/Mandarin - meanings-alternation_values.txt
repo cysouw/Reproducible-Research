@@ -1,0 +1,603 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Mandarin Chinese	1	EAT	chī	Ambitransitive Alternation	Never	
+Mandarin Chinese	1	EAT	chī	BA Alternation	Regularly	
+Mandarin Chinese	1	EAT	chī	BEI Alternation	Regularly	
+Mandarin Chinese	1	EAT	chī	Locative Inversion Alternation	Never	
+Mandarin Chinese	1	EAT	chī	Middle Alternation	Regularly	
+Mandarin Chinese	1	EAT	chī	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	1	EAT	chī	Quantity Ratio Alternation	Regularly	
+Mandarin Chinese	2	HUG	yōngbào	Ambitransitive Alternation	Never	
+Mandarin Chinese	2	HUG	yōngbào	BA Alternation	Never	
+Mandarin Chinese	2	HUG	yōngbào	BEI Alternation	Regularly	
+Mandarin Chinese	2	HUG	yōngbào	Locative Inversion Alternation	Never	
+Mandarin Chinese	2	HUG	yōngbào	Middle Alternation	Never	
+Mandarin Chinese	2	HUG	yōngbào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	2	HUG	yōngbào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	3	LOOK AT	kàn	Ambitransitive Alternation	Never	
+Mandarin Chinese	3	LOOK AT	kàn	BA Alternation	Regularly	
+Mandarin Chinese	3	LOOK AT	kàn	BEI Alternation	Regularly	
+Mandarin Chinese	3	LOOK AT	kàn	Locative Inversion Alternation	Never	
+Mandarin Chinese	3	LOOK AT	kàn	Middle Alternation	Never	
+Mandarin Chinese	3	LOOK AT	kàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	3	LOOK AT	kàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	Ambitransitive Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	BA Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	BEI Alternation	Regularly	
+Mandarin Chinese	4	SEE	kànjiàn	Locative Inversion Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	Middle Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	4	SEE	kànjiàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	5	SMELL	wén	Ambitransitive Alternation	Never	
+Mandarin Chinese	5	SMELL	wén	BA Alternation	Regularly	
+Mandarin Chinese	5	SMELL	wén	BEI Alternation	Regularly	
+Mandarin Chinese	5	SMELL	wén	Locative Inversion Alternation	Never	
+Mandarin Chinese	5	SMELL	wén	Middle Alternation	Regularly	
+Mandarin Chinese	5	SMELL	wén	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	5	SMELL	wén	Quantity Ratio Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	Ambitransitive Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	BA Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	BEI Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	Locative Inversion Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	Middle Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	6	FEAR	pà	Quantity Ratio Alternation	Never	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	BA Alternation	Regularly	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	BEI Alternation	Regularly	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Locative Inversion Alternation	Never	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Middle Alternation	Marginally	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	Ambitransitive Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	BA Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	BEI Alternation	Regularly	
+Mandarin Chinese	8	LIKE	xǐhuān	Locative Inversion Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	Middle Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	8	LIKE	xǐhuān	Quantity Ratio Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	Ambitransitive Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	BA Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	BEI Alternation	Regularly	
+Mandarin Chinese	9	KNOW	zhīdào	Locative Inversion Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	Middle Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	9	KNOW	zhīdào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	10	THINK	xiǎng	Ambitransitive Alternation	Never	
+Mandarin Chinese	10	THINK	xiǎng	BA Alternation	Regularly	
+Mandarin Chinese	10	THINK	xiǎng	BEI Alternation	Regularly	
+Mandarin Chinese	10	THINK	xiǎng	Locative Inversion Alternation	Never	
+Mandarin Chinese	10	THINK	xiǎng	Middle Alternation	Regularly	
+Mandarin Chinese	10	THINK	xiǎng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	10	THINK	xiǎng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Ambitransitive Alternation	Never	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	BA Alternation	Never	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	BEI Alternation	Marginally	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Locative Inversion Alternation	Never	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Middle Alternation	Marginally	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Quantity Ratio Alternation	Never	
+Mandarin Chinese	12	WASH	xǐ	Ambitransitive Alternation	Never	
+Mandarin Chinese	12	WASH	xǐ	BA Alternation	Regularly	
+Mandarin Chinese	12	WASH	xǐ	BEI Alternation	Regularly	
+Mandarin Chinese	12	WASH	xǐ	Locative Inversion Alternation	Never	
+Mandarin Chinese	12	WASH	xǐ	Middle Alternation	Regularly	
+Mandarin Chinese	12	WASH	xǐ	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	12	WASH	xǐ	Quantity Ratio Alternation	Regularly	
+Mandarin Chinese	13	DRESS	no counterpart	Ambitransitive Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	BA Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	BEI Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	Locative Inversion Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	Middle Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	13	DRESS	no counterpart	Quantity Ratio Alternation	Never	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Ambitransitive Alternation	Never	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	BA Alternation	Regularly	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	BEI Alternation	Regularly	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Locative Inversion Alternation	Never	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Middle Alternation	Regularly	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Quantity Ratio Alternation	Never	
+Mandarin Chinese	15	HELP	bāngzhù	Ambitransitive Alternation	Never	
+Mandarin Chinese	15	HELP	bāngzhù	BA Alternation	Never	
+Mandarin Chinese	15	HELP	bāngzhù	BEI Alternation	Marginally	
+Mandarin Chinese	15	HELP	bāngzhù	Locative Inversion Alternation	Never	
+Mandarin Chinese	15	HELP	bāngzhù	Middle Alternation	Never	
+Mandarin Chinese	15	HELP	bāngzhù	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	15	HELP	bāngzhù	Quantity Ratio Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	Ambitransitive Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	BA Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	BEI Alternation	Regularly	
+Mandarin Chinese	16	FOLLOW	gēn	Locative Inversion Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	Middle Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	16	FOLLOW	gēn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	Ambitransitive Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	BA Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	BEI Alternation	Regularly	
+Mandarin Chinese	17	MEET	pèngjiàn	Locative Inversion Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	Middle Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	17	MEET	pèngjiàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	Ambitransitive Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	BA Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	BEI Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	Locative Inversion Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	Middle Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	18	TALK	tán(huà)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	19	ASK FOR	yào	Ambitransitive Alternation	Never	
+Mandarin Chinese	19	ASK FOR	yào	BA Alternation	Regularly	
+Mandarin Chinese	19	ASK FOR	yào	BEI Alternation	Regularly	
+Mandarin Chinese	19	ASK FOR	yào	Locative Inversion Alternation	Never	
+Mandarin Chinese	19	ASK FOR	yào	Middle Alternation	Marginally	
+Mandarin Chinese	19	ASK FOR	yào	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	19	ASK FOR	yào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Ambitransitive Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	BA Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	BEI Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Locative Inversion Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Middle Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	21	TELL	gàosù	Ambitransitive Alternation	Never	
+Mandarin Chinese	21	TELL	gàosù	BA Alternation	Regularly	
+Mandarin Chinese	21	TELL	gàosù	BEI Alternation	Regularly	
+Mandarin Chinese	21	TELL	gàosù	Locative Inversion Alternation	Never	
+Mandarin Chinese	21	TELL	gàosù	Middle Alternation	Never	
+Mandarin Chinese	21	TELL	gàosù	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	21	TELL	gàosù	Quantity Ratio Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	Ambitransitive Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	BA Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	BEI Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	Locative Inversion Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	Middle Alternation	Regularly	
+Mandarin Chinese	22	SAY	shuō	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	22	SAY	shuō	Quantity Ratio Alternation	Never	
+Mandarin Chinese	23	NAME	mìngmíng	Ambitransitive Alternation	Never	
+Mandarin Chinese	23	NAME	mìngmíng	BA Alternation	Regularly	
+Mandarin Chinese	23	NAME	mìngmíng	BEI Alternation	Regularly	
+Mandarin Chinese	23	NAME	mìngmíng	Locative Inversion Alternation	Never	
+Mandarin Chinese	23	NAME	mìngmíng	Middle Alternation	Never	
+Mandarin Chinese	23	NAME	mìngmíng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	23	NAME	mìngmíng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	24	BUILD	jiàn(zào)	Ambitransitive Alternation	Never	
+Mandarin Chinese	24	BUILD	jiàn(zào)	BA Alternation	Regularly	
+Mandarin Chinese	24	BUILD	jiàn(zào)	BEI Alternation	Regularly	
+Mandarin Chinese	24	BUILD	jiàn(zào)	Locative Inversion Alternation	Never	
+Mandarin Chinese	24	BUILD	jiàn(zào)	Middle Alternation	Regularly	
+Mandarin Chinese	24	BUILD	jiàn(zào)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	24	BUILD	jiàn(zào)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	25	BREAK	dǎduàn	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	25	BREAK	dǎduàn	BA Alternation	Regularly	
+Mandarin Chinese	25	BREAK	dǎduàn	BEI Alternation	Regularly	
+Mandarin Chinese	25	BREAK	dǎduàn	Locative Inversion Alternation	Never	
+Mandarin Chinese	25	BREAK	dǎduàn	Middle Alternation	Never	
+Mandarin Chinese	25	BREAK	dǎduàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	25	BREAK	dǎduàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	26	KILL	shā	Ambitransitive Alternation	Never	
+Mandarin Chinese	26	KILL	shā	BA Alternation	Regularly	
+Mandarin Chinese	26	KILL	shā	BEI Alternation	Regularly	
+Mandarin Chinese	26	KILL	shā	Locative Inversion Alternation	Never	
+Mandarin Chinese	26	KILL	shā	Middle Alternation	Never	
+Mandarin Chinese	26	KILL	shā	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	26	KILL	shā	Quantity Ratio Alternation	Never	
+Mandarin Chinese	27	BEAT	pāidǎ	Ambitransitive Alternation	Never	
+Mandarin Chinese	27	BEAT	pāidǎ	BA Alternation	Marginally	
+Mandarin Chinese	27	BEAT	pāidǎ	BEI Alternation	Marginally	
+Mandarin Chinese	27	BEAT	pāidǎ	Locative Inversion Alternation	Never	
+Mandarin Chinese	27	BEAT	pāidǎ	Middle Alternation	Marginally	
+Mandarin Chinese	27	BEAT	pāidǎ	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	27	BEAT	pāidǎ	Quantity Ratio Alternation	Never	
+Mandarin Chinese	28	HIT	dǎ	Ambitransitive Alternation	Never	
+Mandarin Chinese	28	HIT	dǎ	BA Alternation	Regularly	
+Mandarin Chinese	28	HIT	dǎ	BEI Alternation	Regularly	
+Mandarin Chinese	28	HIT	dǎ	Locative Inversion Alternation	Never	
+Mandarin Chinese	28	HIT	dǎ	Middle Alternation	Marginally	
+Mandarin Chinese	28	HIT	dǎ	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	28	HIT	dǎ	Quantity Ratio Alternation	Never	
+Mandarin Chinese	29	TOUCH	(chù)mō	Ambitransitive Alternation	Never	
+Mandarin Chinese	29	TOUCH	(chù)mō	BA Alternation	Regularly	
+Mandarin Chinese	29	TOUCH	(chù)mō	BEI Alternation	Regularly	
+Mandarin Chinese	29	TOUCH	(chù)mō	Locative Inversion Alternation	Never	
+Mandarin Chinese	29	TOUCH	(chù)mō	Middle Alternation	Regularly	
+Mandarin Chinese	29	TOUCH	(chù)mō	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	29	TOUCH	(chù)mō	Quantity Ratio Alternation	Never	
+Mandarin Chinese	30	CUT	qiē	Ambitransitive Alternation	Never	
+Mandarin Chinese	30	CUT	qiē	BA Alternation	Regularly	
+Mandarin Chinese	30	CUT	qiē	BEI Alternation	Regularly	
+Mandarin Chinese	30	CUT	qiē	Locative Inversion Alternation	Never	
+Mandarin Chinese	30	CUT	qiē	Middle Alternation	Regularly	
+Mandarin Chinese	30	CUT	qiē	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	30	CUT	qiē	Quantity Ratio Alternation	Never	
+Mandarin Chinese	31	TAKE	názǒu	Ambitransitive Alternation	Never	
+Mandarin Chinese	31	TAKE	názǒu	BA Alternation	Regularly	
+Mandarin Chinese	31	TAKE	názǒu	BEI Alternation	Regularly	
+Mandarin Chinese	31	TAKE	názǒu	Locative Inversion Alternation	Never	
+Mandarin Chinese	31	TAKE	názǒu	Middle Alternation	Never	
+Mandarin Chinese	31	TAKE	názǒu	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	31	TAKE	názǒu	Quantity Ratio Alternation	Never	
+Mandarin Chinese	32	TEAR	sī	Ambitransitive Alternation	Never	
+Mandarin Chinese	32	TEAR	sī	BA Alternation	Regularly	
+Mandarin Chinese	32	TEAR	sī	BEI Alternation	Regularly	
+Mandarin Chinese	32	TEAR	sī	Locative Inversion Alternation	Never	
+Mandarin Chinese	32	TEAR	sī	Middle Alternation	Regularly	
+Mandarin Chinese	32	TEAR	sī	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	32	TEAR	sī	Quantity Ratio Alternation	Never	
+Mandarin Chinese	33	PEEL	xiāo (2)	Ambitransitive Alternation	Never	
+Mandarin Chinese	33	PEEL	xiāo (2)	BA Alternation	Regularly	
+Mandarin Chinese	33	PEEL	xiāo (2)	BEI Alternation	Regularly	
+Mandarin Chinese	33	PEEL	xiāo (2)	Locative Inversion Alternation	Never	
+Mandarin Chinese	33	PEEL	xiāo (2)	Middle Alternation	Regularly	
+Mandarin Chinese	33	PEEL	xiāo (2)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	33	PEEL	xiāo (2)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	34	HIDE	cáng	Ambitransitive Alternation	Never	
+Mandarin Chinese	34	HIDE	cáng	BA Alternation	Regularly	
+Mandarin Chinese	34	HIDE	cáng	BEI Alternation	Regularly	
+Mandarin Chinese	34	HIDE	cáng	Locative Inversion Alternation	Marginally	
+Mandarin Chinese	34	HIDE	cáng	Middle Alternation	Marginally	
+Mandarin Chinese	34	HIDE	cáng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	34	HIDE	cáng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	35	SHOW	zhǎnshì	Ambitransitive Alternation	Never	
+Mandarin Chinese	35	SHOW	zhǎnshì	BA Alternation	Regularly	
+Mandarin Chinese	35	SHOW	zhǎnshì	BEI Alternation	Regularly	
+Mandarin Chinese	35	SHOW	zhǎnshì	Locative Inversion Alternation	Never	
+Mandarin Chinese	35	SHOW	zhǎnshì	Middle Alternation	Never	
+Mandarin Chinese	35	SHOW	zhǎnshì	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	35	SHOW	zhǎnshì	Quantity Ratio Alternation	Never	
+Mandarin Chinese	36	GIVE	gěi	Ambitransitive Alternation	Never	
+Mandarin Chinese	36	GIVE	gěi	BA Alternation	Regularly	
+Mandarin Chinese	36	GIVE	gěi	BEI Alternation	Regularly	
+Mandarin Chinese	36	GIVE	gěi	Locative Inversion Alternation	Never	
+Mandarin Chinese	36	GIVE	gěi	Middle Alternation	Never	
+Mandarin Chinese	36	GIVE	gěi	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	36	GIVE	gěi	Quantity Ratio Alternation	Never	
+Mandarin Chinese	37	SEND	fā	Ambitransitive Alternation	Never	
+Mandarin Chinese	37	SEND	fā	BA Alternation	Regularly	
+Mandarin Chinese	37	SEND	fā	BEI Alternation	Regularly	
+Mandarin Chinese	37	SEND	fā	Locative Inversion Alternation	Never	
+Mandarin Chinese	37	SEND	fā	Middle Alternation	Regularly	
+Mandarin Chinese	37	SEND	fā	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	37	SEND	fā	Quantity Ratio Alternation	Never	
+Mandarin Chinese	38	CARRY	(xié)dài	Ambitransitive Alternation	Never	
+Mandarin Chinese	38	CARRY	(xié)dài	BA Alternation	Regularly	
+Mandarin Chinese	38	CARRY	(xié)dài	BEI Alternation	Regularly	
+Mandarin Chinese	38	CARRY	(xié)dài	Locative Inversion Alternation	Never	
+Mandarin Chinese	38	CARRY	(xié)dài	Middle Alternation	Regularly	
+Mandarin Chinese	38	CARRY	(xié)dài	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	38	CARRY	(xié)dài	Quantity Ratio Alternation	Never	
+Mandarin Chinese	39	THROW	rēng	Ambitransitive Alternation	Never	
+Mandarin Chinese	39	THROW	rēng	BA Alternation	Regularly	
+Mandarin Chinese	39	THROW	rēng	BEI Alternation	Regularly	
+Mandarin Chinese	39	THROW	rēng	Locative Inversion Alternation	Never	
+Mandarin Chinese	39	THROW	rēng	Middle Alternation	Regularly	
+Mandarin Chinese	39	THROW	rēng	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	39	THROW	rēng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	40	TIE	shuān	Ambitransitive Alternation	Never	
+Mandarin Chinese	40	TIE	shuān	BA Alternation	Regularly	
+Mandarin Chinese	40	TIE	shuān	BEI Alternation	Regularly	
+Mandarin Chinese	40	TIE	shuān	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	40	TIE	shuān	Middle Alternation	Marginally	
+Mandarin Chinese	40	TIE	shuān	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	40	TIE	shuān	Quantity Ratio Alternation	Never	
+Mandarin Chinese	41	PUT	fàng	Ambitransitive Alternation	Never	
+Mandarin Chinese	41	PUT	fàng	BA Alternation	Regularly	
+Mandarin Chinese	41	PUT	fàng	BEI Alternation	Regularly	
+Mandarin Chinese	41	PUT	fàng	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	41	PUT	fàng	Middle Alternation	Marginally	
+Mandarin Chinese	41	PUT	fàng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	41	PUT	fàng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	42	POUR	dào	Ambitransitive Alternation	Never	
+Mandarin Chinese	42	POUR	dào	BA Alternation	Regularly	
+Mandarin Chinese	42	POUR	dào	BEI Alternation	Regularly	
+Mandarin Chinese	42	POUR	dào	Locative Inversion Alternation	Never	
+Mandarin Chinese	42	POUR	dào	Middle Alternation	Marginally	
+Mandarin Chinese	42	POUR	dào	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	42	POUR	dào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	43	COVER	gài(shàng)	Ambitransitive Alternation	Never	
+Mandarin Chinese	43	COVER	gài(shàng)	BA Alternation	Regularly	
+Mandarin Chinese	43	COVER	gài(shàng)	BEI Alternation	Regularly	
+Mandarin Chinese	43	COVER	gài(shàng)	Locative Inversion Alternation	Never	
+Mandarin Chinese	43	COVER	gài(shàng)	Middle Alternation	Marginally	
+Mandarin Chinese	43	COVER	gài(shàng)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	43	COVER	gài(shàng)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	44	FILL	zhuāngmǎn	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	44	FILL	zhuāngmǎn	BA Alternation	Regularly	
+Mandarin Chinese	44	FILL	zhuāngmǎn	BEI Alternation	Regularly	
+Mandarin Chinese	44	FILL	zhuāngmǎn	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	44	FILL	zhuāngmǎn	Middle Alternation	Never	
+Mandarin Chinese	44	FILL	zhuāngmǎn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	44	FILL	zhuāngmǎn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Ambitransitive Alternation	Never	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	BA Alternation	Regularly	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	BEI Alternation	Regularly	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Middle Alternation	Regularly	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	Ambitransitive Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	BA Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	BEI Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	Locative Inversion Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	Middle Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	47	COUGH	ké(sòu）	Quantity Ratio Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	Ambitransitive Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	BA Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	BEI Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	Locative Inversion Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	Middle Alternation	Regularly	
+Mandarin Chinese	48	CLIMB	pá (2)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	48	CLIMB	pá (2)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	Ambitransitive Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	BA Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	BEI Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	Locative Inversion Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	Middle Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	49	RUN	pǎo	Quantity Ratio Alternation	Never	
+Mandarin Chinese	50	SIT	zuò	Ambitransitive Alternation	Never	
+Mandarin Chinese	50	SIT	zuò	BA Alternation	Never	
+Mandarin Chinese	50	SIT	zuò	BEI Alternation	Marginally	
+Mandarin Chinese	50	SIT	zuò	Locative Inversion Alternation	Never	
+Mandarin Chinese	50	SIT	zuò	Middle Alternation	Regularly	
+Mandarin Chinese	50	SIT	zuò	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	50	SIT	zuò	Quantity Ratio Alternation	Regularly	
+Mandarin Chinese	51	SIT DOWN	zuòxià	Ambitransitive Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	BA Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	BEI Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	Locative Inversion Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	Middle Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	51	SIT DOWN	zuòxià	Quantity Ratio Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Ambitransitive Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	BA Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	BEI Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Locative Inversion Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Middle Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	Ambitransitive Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	BA Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	BEI Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	Locative Inversion Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	Middle Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	53	SING	gēchàng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	54	GO	qù	Ambitransitive Alternation	Never	
+Mandarin Chinese	54	GO	qù	BA Alternation	Never	
+Mandarin Chinese	54	GO	qù	BEI Alternation	Never	
+Mandarin Chinese	54	GO	qù	Locative Inversion Alternation	Never	
+Mandarin Chinese	54	GO	qù	Middle Alternation	Never	
+Mandarin Chinese	54	GO	qù	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	54	GO	qù	Quantity Ratio Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	Ambitransitive Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	BA Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	BEI Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	Locative Inversion Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	Middle Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	55	LEAVE	líkāi	Quantity Ratio Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	Ambitransitive Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	BA Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	BEI Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	56	LIVE	(jū)zhù	Middle Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	56	LIVE	(jū)zhù	Quantity Ratio Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	Ambitransitive Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	BA Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	BEI Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	Locative Inversion Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	Middle Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	57	LAUGH	xiào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	Ambitransitive Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	BA Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	BEI Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	Locative Inversion Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	Middle Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	58	SCREAM	jiānjiào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Ambitransitive Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	BA Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	BEI Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Locative Inversion Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Middle Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Ambitransitive Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	BA Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	BEI Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Locative Inversion Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Middle Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	Ambitransitive Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	BA Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	BEI Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	61	DIE	sǐ	Middle Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	61	DIE	sǐ	Quantity Ratio Alternation	Never	
+Mandarin Chinese	62	PLAY	wán	Ambitransitive Alternation	Never	
+Mandarin Chinese	62	PLAY	wán	BA Alternation	Marginally	
+Mandarin Chinese	62	PLAY	wán	BEI Alternation	Marginally	
+Mandarin Chinese	62	PLAY	wán	Locative Inversion Alternation	Never	
+Mandarin Chinese	62	PLAY	wán	Middle Alternation	Regularly	
+Mandarin Chinese	62	PLAY	wán	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	62	PLAY	wán	Quantity Ratio Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	Ambitransitive Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	BA Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	BEI Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	Locative Inversion Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	Middle Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	63	BE SAD	bēishāng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	64	BE HUNGRY	è	BA Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	BEI Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	Locative Inversion Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	Middle Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	64	BE HUNGRY	è	Quantity Ratio Alternation	Never	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	BA Alternation	Never	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	BEI Alternation	Never	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Locative Inversion Alternation	Never	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Middle Alternation	Regularly	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	66	SINK	chén	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	66	SINK	chén	BA Alternation	Regularly	
+Mandarin Chinese	66	SINK	chén	BEI Alternation	Regularly	
+Mandarin Chinese	66	SINK	chén	Locative Inversion Alternation	Never	
+Mandarin Chinese	66	SINK	chén	Middle Alternation	Marginally	
+Mandarin Chinese	66	SINK	chén	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	66	SINK	chén	Quantity Ratio Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	Ambitransitive Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	BA Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	BEI Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	Locative Inversion Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	Middle Alternation	Never	
+Mandarin Chinese	67	BURN	(rán)shāo	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	67	BURN	(rán)shāo	Quantity Ratio Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	Ambitransitive Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	BA Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	BEI Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	Locative Inversion Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	Middle Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	68	BE DRY	gān	Quantity Ratio Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	Ambitransitive Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	BA Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	BEI Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	Locative Inversion Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	Middle Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	69	RAIN	xiàyǔ	Quantity Ratio Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Ambitransitive Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	BA Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	BEI Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Locative Inversion Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Middle Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Quantity Ratio Alternation	Never	
+Mandarin Chinese	71	GRIND	mò	Ambitransitive Alternation	Never	
+Mandarin Chinese	71	GRIND	mò	BA Alternation	Regularly	
+Mandarin Chinese	71	GRIND	mò	BEI Alternation	Regularly	
+Mandarin Chinese	71	GRIND	mò	Locative Inversion Alternation	Never	
+Mandarin Chinese	71	GRIND	mò	Middle Alternation	Regularly	
+Mandarin Chinese	71	GRIND	mò	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	71	GRIND	mò	Quantity Ratio Alternation	Never	
+Mandarin Chinese	72	WIPE	cā	Ambitransitive Alternation	Never	
+Mandarin Chinese	72	WIPE	cā	BA Alternation	Regularly	
+Mandarin Chinese	72	WIPE	cā	BEI Alternation	Regularly	
+Mandarin Chinese	72	WIPE	cā	Locative Inversion Alternation	Never	
+Mandarin Chinese	72	WIPE	cā	Middle Alternation	Regularly	
+Mandarin Chinese	72	WIPE	cā	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	72	WIPE	cā	Quantity Ratio Alternation	Never	
+Mandarin Chinese	73	DIG	wā	Ambitransitive Alternation	Never	
+Mandarin Chinese	73	DIG	wā	BA Alternation	Regularly	
+Mandarin Chinese	73	DIG	wā	BEI Alternation	Regularly	
+Mandarin Chinese	73	DIG	wā	Locative Inversion Alternation	Never	
+Mandarin Chinese	73	DIG	wā	Middle Alternation	Regularly	
+Mandarin Chinese	73	DIG	wā	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	73	DIG	wā	Quantity Ratio Alternation	Never	
+Mandarin Chinese	74	PUSH	tuī	Ambitransitive Alternation	Never	
+Mandarin Chinese	74	PUSH	tuī	BA Alternation	Marginally	
+Mandarin Chinese	74	PUSH	tuī	BEI Alternation	Marginally	
+Mandarin Chinese	74	PUSH	tuī	Locative Inversion Alternation	Never	
+Mandarin Chinese	74	PUSH	tuī	Middle Alternation	Marginally	
+Mandarin Chinese	74	PUSH	tuī	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	74	PUSH	tuī	Quantity Ratio Alternation	Never	
+Mandarin Chinese	75	BRING	dàilái	Ambitransitive Alternation	Never	
+Mandarin Chinese	75	BRING	dàilái	BA Alternation	Regularly	
+Mandarin Chinese	75	BRING	dàilái	BEI Alternation	Regularly	
+Mandarin Chinese	75	BRING	dàilái	Locative Inversion Alternation	Never	
+Mandarin Chinese	75	BRING	dàilái	Middle Alternation	Never	
+Mandarin Chinese	75	BRING	dàilái	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	75	BRING	dàilái	Quantity Ratio Alternation	Never	
+Mandarin Chinese	76	STEAL	tōu	Ambitransitive Alternation	Never	
+Mandarin Chinese	76	STEAL	tōu	BA Alternation	Regularly	
+Mandarin Chinese	76	STEAL	tōu	BEI Alternation	Regularly	
+Mandarin Chinese	76	STEAL	tōu	Locative Inversion Alternation	Never	
+Mandarin Chinese	76	STEAL	tōu	Middle Alternation	Regularly	
+Mandarin Chinese	76	STEAL	tōu	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	76	STEAL	tōu	Quantity Ratio Alternation	Never	
+Mandarin Chinese	77	TEACH	jiāo	Ambitransitive Alternation	Never	
+Mandarin Chinese	77	TEACH	jiāo	BA Alternation	Regularly	
+Mandarin Chinese	77	TEACH	jiāo	BEI Alternation	Regularly	
+Mandarin Chinese	77	TEACH	jiāo	Locative Inversion Alternation	Never	
+Mandarin Chinese	77	TEACH	jiāo	Middle Alternation	Regularly	
+Mandarin Chinese	77	TEACH	jiāo	Neutral Ditransitive Alternation	Regularly	
+Mandarin Chinese	77	TEACH	jiāo	Quantity Ratio Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	Ambitransitive Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	BA Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	BEI Alternation	Regularly	
+Mandarin Chinese	78	HEAR	tīngjiàn	Locative Inversion Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	Middle Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	78	HEAR	tīngjiàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	79	COOK	zhǔ	Ambitransitive Alternation	Never	
+Mandarin Chinese	79	COOK	zhǔ	BA Alternation	Regularly	
+Mandarin Chinese	79	COOK	zhǔ	BEI Alternation	Regularly	
+Mandarin Chinese	79	COOK	zhǔ	Locative Inversion Alternation	Never	
+Mandarin Chinese	79	COOK	zhǔ	Middle Alternation	Regularly	
+Mandarin Chinese	79	COOK	zhǔ	Neutral Ditransitive Alternation	Marginally	
+Mandarin Chinese	79	COOK	zhǔ	Quantity Ratio Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	Ambitransitive Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	BA Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	BEI Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	Locative Inversion Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	Middle Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	80	BOIL	kāi	Quantity Ratio Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	Ambitransitive Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	BA Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	BEI Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	Locative Inversion Alternation	Regularly	
+Mandarin Chinese	81	APPEAR	chūxiàn	Middle Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	81	APPEAR	chūxiàn	Quantity Ratio Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	Ambitransitive Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	BA Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	BEI Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	Locative Inversion Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	Middle Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	82	BE ILL	shēngbìng	Quantity Ratio Alternation	Never	
+Mandarin Chinese	83	CRY	kū	Ambitransitive Alternation	Never	
+Mandarin Chinese	83	CRY	kū	BA Alternation	Never	
+Mandarin Chinese	83	CRY	kū	BEI Alternation	Never	
+Mandarin Chinese	83	CRY	kū	Locative Inversion Alternation	Never	
+Mandarin Chinese	83	CRY	kū	Middle Alternation	Never	
+Mandarin Chinese	83	CRY	kū	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	83	CRY	kū	Quantity Ratio Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	Ambitransitive Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	BA Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	BEI Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	Locative Inversion Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	Middle Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	84	FALL	luò(xiàlái)	Quantity Ratio Alternation	Never	
+Mandarin Chinese	85	MAKE	zào	Ambitransitive Alternation	Never	
+Mandarin Chinese	85	MAKE	zào	BA Alternation	Regularly	
+Mandarin Chinese	85	MAKE	zào	BEI Alternation	Regularly	
+Mandarin Chinese	85	MAKE	zào	Locative Inversion Alternation	Never	
+Mandarin Chinese	85	MAKE	zào	Middle Alternation	Regularly	
+Mandarin Chinese	85	MAKE	zào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	85	MAKE	zào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	86	GET	dédào	Ambitransitive Alternation	Never	
+Mandarin Chinese	86	GET	dédào	BA Alternation	Never	
+Mandarin Chinese	86	GET	dédào	BEI Alternation	Regularly	
+Mandarin Chinese	86	GET	dédào	Locative Inversion Alternation	Never	
+Mandarin Chinese	86	GET	dédào	Middle Alternation	Never	
+Mandarin Chinese	86	GET	dédào	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	86	GET	dédào	Quantity Ratio Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	Ambitransitive Alternation	Regularly	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	BA Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	BEI Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	Locative Inversion Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	Middle Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	Neutral Ditransitive Alternation	Never	
+Mandarin Chinese	113	WINK	zhǎ[yǎn(jing)]	Quantity Ratio Alternation	Never	

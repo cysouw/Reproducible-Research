@@ -1,0 +1,160 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Nǀǀng	1	EAT	ain	Basic	1 V 2	1	eater	Ø	A
+Nǀǀng	1	EAT	ain	Basic	1 V 2	2	eaten food	Ø	P
+Nǀǀng	3	LOOK AT	ǂaqe	Basic	1 V 2	1	looker	Ø	A
+Nǀǀng	3	LOOK AT	ǂaqe	Basic	1 V 2	2	looked at entity	Ø	P
+Nǀǀng	4	SEE	nǀai	Basic	1 V 2	1	seeer	Ø	A
+Nǀǀng	4	SEE	nǀai	Basic	1 V 2	2	seen entity	Ø	P
+Nǀǀng	5	SMELL	ǃqhao	Basic	1 V 2	1	smeller	Ø	A
+Nǀǀng	5	SMELL	ǃqhao	Basic	1 V 2	2	smelled entity	Ø	P
+Nǀǀng	6	FEAR	ǃauka	Basic	1 V ng+2	1	fearer	Ø	S
+Nǀǀng	6	FEAR	ǃauka	Basic	1 V ng+2	2	fear stimulus	ng+NP	X
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Basic	1 V 2	1	frightener	Ø	A
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Basic	1 V 2	2	frightenee	Ø	P
+Nǀǀng	8	LIKE	tsʼaanʼa	Basic	1 V 2	1	liker	Ø	A
+Nǀǀng	8	LIKE	tsʼaanʼa	Basic	1 V 2	2	liked entity	Ø	P
+Nǀǀng	9	KNOW	ǁxae(-a)	Basic	1 V 2	1	knower	Ø	A
+Nǀǀng	9	KNOW	ǁxae(-a)	Basic	1 V 2	2	known thing/person	Ø	P
+Nǀǀng	10	THINK	ǂʼain(ke)	Basic	1 V ng+2	1	thinker	Ø	S
+Nǀǀng	10	THINK	ǂʼain(ke)	Basic	1 V ng+2	2	thought content	ng+NP	X
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Basic	1 V 2	1	searcher	Ø	A
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Basic	1 V 2	2	searched for thing	Ø	P
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Basic	1 V 2	1	searcher	Ø	A
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Basic	1 V 2	2	searched for thing	Ø	P
+Nǀǀng	12	WASH	ǁkxʼam	Basic	1 V 2	1	washer	Ø	A
+Nǀǀng	12	WASH	ǁkxʼam	Basic	1 V 2	2	washed entity	Ø	P
+Nǀǀng	13	DRESS	nǁaa (1)	Basic	1 V 2	1	dresser	Ø	A
+Nǀǀng	13	DRESS	nǁaa (1)	Basic	1 V 2	2	dressee	Ø	P
+Nǀǀng	13	DRESS	ǂaasinn	Basic	1 V 2	1	dresser	Ø	A
+Nǀǀng	13	DRESS	ǂaasinn	Basic	1 V 2	2	dressee	Ø	P
+Nǀǀng	15	HELP	hui	Basic	1 V 2	1	helper	Ø	A
+Nǀǀng	15	HELP	hui	Basic	1 V 2	2	helpee	Ø	P
+Nǀǀng	16	FOLLOW	ǀhunn	Basic	1 V 2	1	follower	Ø	A
+Nǀǀng	16	FOLLOW	ǀhunn	Basic	1 V 2	2	followee	Ø	P
+Nǀǀng	17	MEET	hoo (2)	Basic	1 V 2	1	meeter	Ø	A
+Nǀǀng	17	MEET	hoo (2)	Basic	1 V 2	2	met person	Ø	P
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Basic	1 V 2 ng+3	1	asker	Ø	A
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Basic	1 V 2 ng+3	2	requested thing	Ø	P
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Basic	1 V 2 ng+3	3	askee	ng+NP	X
+Nǀǀng	21	TELL	ǀkxʼae(a)	Basic	1 V 2-dat 3	1	teller	Ø	A
+Nǀǀng	21	TELL	ǀkxʼae(a)	Basic	1 V 2-dat 3	2	tellee	NP-dat	X
+Nǀǀng	21	TELL	ǀkxʼae(a)	Basic	1 V 2-dat 3	3	told content	Ø	P
+Nǀǀng	22	SAY	ku	Basic	1 V ng+2 UTT3	1	sayer	Ø	S
+Nǀǀng	22	SAY	ku	Basic	1 V ng+2 UTT3	2	saying addressee	ng+NP	X
+Nǀǀng	22	SAY	ku	Basic	1 V ng+2 UTT3	3	said content	UTT	X
+Nǀǀng	24	BUILD	kxʼuu	Basic	1 V 2	1	builder	Ø	A
+Nǀǀng	24	BUILD	kxʼuu	Basic	1 V 2	2	built thing	Ø	P
+Nǀǀng	25	BREAK	ǁhaa	Basic	1 V 2	1	breaker	Ø	A
+Nǀǀng	25	BREAK	ǁhaa	Basic	1 V 2	2	broken thing	Ø	P
+Nǀǀng	26	KILL	ǀhaa	Basic	1 V 2	1	killer	Ø	A
+Nǀǀng	26	KILL	ǀhaa	Basic	1 V 2	2	killee	Ø	P
+Nǀǀng	27	BEAT	ǀkxʼaike	Basic	1 V 2	1	beater	Ø	A
+Nǀǀng	27	BEAT	ǀkxʼaike	Basic	1 V 2	2	beatee	Ø	P
+Nǀǀng	27	BEAT	ǂamʼa	Basic	1 V 2	1	beater	Ø	A
+Nǀǀng	27	BEAT	ǂamʼa	Basic	1 V 2	2	beatee	Ø	P
+Nǀǀng	28	HIT	ǀkxʼaike	Basic	1 V 2	1	hitter	Ø	A
+Nǀǀng	28	HIT	ǀkxʼaike	Basic	1 V 2	2	hittee	Ø	P
+Nǀǀng	28	HIT	ǂamʼa	Basic	1 V 2	1	hitter	Ø	A
+Nǀǀng	28	HIT	ǂamʼa	Basic	1 V 2	2	hittee	Ø	P
+Nǀǀng	29	TOUCH	ǀai (2)	Basic	1 V ng+2	1	toucher	Ø	S
+Nǀǀng	29	TOUCH	ǀai (2)	Basic	1 V ng+2	2	touchee	ng+NP	X
+Nǀǀng	30	CUT	ǀaa	Basic	1 V 2	1	cutter	Ø	A
+Nǀǀng	30	CUT	ǀaa	Basic	1 V 2	2	cut thing	Ø	P
+Nǀǀng	31	TAKE	ǀai (1)	Basic	1 V 2	1	taker	Ø	A
+Nǀǀng	31	TAKE	ǀai (1)	Basic	1 V 2	2	taken thing	Ø	P
+Nǀǀng	32	TEAR	tyxaa	Basic	1 V 2	1	tearer	Ø	A
+Nǀǀng	32	TEAR	tyxaa	Basic	1 V 2	2	torn thing	Ø	P
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Basic	1 V 2	1	hider	Ø	A
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Basic	1 V 2	2	hidden thing	Ø	P
+Nǀǀng	35	SHOW	kadyama	Basic	1 V 2-dat 3	1	shower	Ø	A
+Nǀǀng	35	SHOW	kadyama	Basic	1 V 2-dat 3	2	showing addressee	NP-dat	X
+Nǀǀng	35	SHOW	kadyama	Basic	1 V 2-dat 3	3	shown thing	Ø	P
+Nǀǀng	35	SHOW	qann(-ya)	Basic	1 V 2-dat 3	1	shower	Ø	A
+Nǀǀng	35	SHOW	qann(-ya)	Basic	1 V 2-dat 3	2	showing addressee	NP-dat	X
+Nǀǀng	35	SHOW	qann(-ya)	Basic	1 V 2-dat 3	3	shown thing	Ø	P
+Nǀǀng	36	GIVE	aa	Basic	1 V 2-dat 3	1	giver	Ø	A
+Nǀǀng	36	GIVE	aa	Basic	1 V 2-dat 3	2	giving recipient	NP-dat	X
+Nǀǀng	36	GIVE	aa	Basic	1 V 2-dat 3	3	gift	Ø	P
+Nǀǀng	37	SEND	ǀae(-a)	Basic	1 V 2-dat 3	1	sender	Ø	A
+Nǀǀng	37	SEND	ǀae(-a)	Basic	1 V 2-dat 3	2	sending recipient	NP-dat	X
+Nǀǀng	37	SEND	ǀae(-a)	Basic	1 V 2-dat 3	3	sent thing	Ø	P
+Nǀǀng	38	CARRY	ǃxau	Basic	1 V 2	1	carrier	Ø	A
+Nǀǀng	38	CARRY	ǃxau	Basic	1 V 2	2	carried thing	Ø	P
+Nǀǀng	39	THROW	ǂaqbeke	Basic	1 V 2 ng+3	1	thrower	Ø	A
+Nǀǀng	39	THROW	ǂaqbeke	Basic	1 V 2 ng+3	2	thrown thing	Ø	P
+Nǀǀng	39	THROW	ǂaqbeke	Basic	1 V 2 ng+3	3	throwing goal	ng+NP	X
+Nǀǀng	40	TIE	ǁʼngke	Basic	1 V 2 ng+3	1	tier	Ø	A
+Nǀǀng	40	TIE	ǁʼngke	Basic	1 V 2 ng+3	2	tied thing	Ø	P
+Nǀǀng	40	TIE	ǁʼngke	Basic	1 V 2 ng+3	3	tying goal	ng+NP	X
+Nǀǀng	41	PUT	ǁhoo	Basic	1 V 2 ng+3	1	putter	Ø	A
+Nǀǀng	41	PUT	ǁhoo	Basic	1 V 2 ng+3	2	put thing	Ø	P
+Nǀǀng	41	PUT	ǁhoo	Basic	1 V 2 ng+3	3	putting goal	ng+NP	X
+Nǀǀng	42	POUR	ǂhaun	Basic	1 V 2	1	pourer	Ø	A
+Nǀǀng	42	POUR	ǂhaun	Basic	1 V 2	2	poured substance	Ø	P
+Nǀǀng	43	COVER	ǂanu	Basic	1 V 2	1	coverer	Ø	A
+Nǀǀng	43	COVER	ǂanu	Basic	1 V 2	2	covered thing	Ø	P
+Nǀǀng	43	COVER	ǂʼaoke	Basic	1 V 2	1	coverer	Ø	A
+Nǀǀng	43	COVER	ǂʼaoke	Basic	1 V 2	2	covered thing	Ø	P
+Nǀǀng	44	FILL	ǂunn	Basic	1 V 2	1	filler	Ø	A
+Nǀǀng	44	FILL	ǂunn	Basic	1 V 2	2	filled container	Ø	P
+Nǀǀng	45	LOAD	nǃao	Basic	1 V 2 ng+3	1	loader	Ø	A
+Nǀǀng	45	LOAD	nǃao	Basic	1 V 2 ng+3	2	loading place	Ø	P
+Nǀǀng	45	LOAD	nǃao	Basic	1 V 2 ng+3	3	loaded thing	ng+NP	X
+Nǀǀng	47	COUGH	ǁʼhoqo	Basic	1 V	1	cougher	Ø	S
+Nǀǀng	48	CLIMB	ǁain	Basic	1 V 2	1	climber	Ø	A
+Nǀǀng	48	CLIMB	ǁain	Basic	1 V 2	2	climbing goal	Ø	P
+Nǀǀng	49	RUN	ǃae	Basic	1 V	1	runner	Ø	S
+Nǀǀng	50	SIT	soo	Basic	1 V 2	1	sitter	Ø	A
+Nǀǀng	50	SIT	soo	Basic	1 V 2	2	sitting place	Ø	P
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Basic	1 V 2	1	sitdowner	Ø	A
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Basic	1 V 2	2	sitting-down place	Ø	P
+Nǀǀng	52	JUMP	ǂkhuun	Basic	1 V	1	jumper	Ø	S
+Nǀǀng	53	SING	ǂeeke	Basic	1 V	1	singer	Ø	S
+Nǀǀng	54	GO	ǁʼaa	Basic	1 V 2	1	goer	Ø	A
+Nǀǀng	54	GO	ǁʼaa	Basic	1 V 2	2	going goal	Ø	P
+Nǀǀng	55	LEAVE	xuu	Basic	1 V 2	1	leaver	Ø	A
+Nǀǀng	55	LEAVE	xuu	Basic	1 V 2	2	left place/person	Ø	P
+Nǀǀng	56	LIVE	nǁaa (2)	Basic	1 V 2	1	liver	Ø	A
+Nǀǀng	56	LIVE	nǁaa (2)	Basic	1 V 2	2	living place	Ø	P
+Nǀǀng	56	LIVE	ǀʼhoa	Basic	1 V 2	1	liver	Ø	A
+Nǀǀng	56	LIVE	ǀʼhoa	Basic	1 V 2	2	living place	Ø	P
+Nǀǀng	57	LAUGH	kxʼainʼa	Basic	1 V	1	laugher	Ø	S
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Basic	1 V	1	pain-feeler	Ø	S
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Basic	1 V	1	freezing person	Ø	S
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Basic	1 V	1	freezing person	Ø	S
+Nǀǀng	61	DIE	ǀʼaa	Basic	1 V	1	dieer	Ø	S
+Nǀǀng	62	PLAY	(ka) ǃqora	Basic	1 V	1	player	Ø	S
+Nǀǀng	63	BE SAD	idiomatic expressions	Basic	1 V	1	sad person	Ø	S
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Basic	1 V	1	hungry person	Ø	S
+Nǀǀng	68	BE DRY	ǁoo(-a)	Basic	1 V	1	dry thing	Ø	S
+Nǀǀng	69	RAIN	ǂhau	Basic	1 V	1	rain	Ø	S
+Nǀǀng	70	BE A HUNTER	ng X	Basic	1 V	1	specialist/hunter	Ø	S
+Nǀǀng	71	GRIND	ǂxaike	Basic	1 V 2	1	grinder	Ø	A
+Nǀǀng	71	GRIND	ǂxaike	Basic	1 V 2	2	ground thing	Ø	P
+Nǀǀng	73	DIG	ǁʼau	Basic	1 V 2	1	digger	Ø	A
+Nǀǀng	73	DIG	ǁʼau	Basic	1 V 2	2	dug up thing	Ø	P
+Nǀǀng	74	PUSH	ǂʼhaqa	Basic	1 V 2	1	pusher	Ø	A
+Nǀǀng	74	PUSH	ǂʼhaqa	Basic	1 V 2	2	pushee	Ø	P
+Nǀǀng	75	BRING	tsaa	Basic	1 V 2-dat 3	1	bringer	Ø	A
+Nǀǀng	75	BRING	tsaa	Basic	1 V 2-dat 3	2	bringing recipient	NP-dat	X
+Nǀǀng	75	BRING	tsaa	Basic	1 V 2-dat 3	3	brought thing	Ø	P
+Nǀǀng	76	STEAL	gaake	Basic	1 V 2	1	stealer	Ø	A
+Nǀǀng	76	STEAL	gaake	Basic	1 V 2	2	stolen thing	Ø	P
+Nǀǀng	78	HEAR	tyuu	Basic	1 V 2	1	hearer	Ø	A
+Nǀǀng	78	HEAR	tyuu	Basic	1 V 2	2	heard sound	Ø	P
+Nǀǀng	79	COOK	ǃxama	Basic	1 V 2	1	cooker	Ø	A
+Nǀǀng	79	COOK	ǃxama	Basic	1 V 2	2	cooked food	Ø	P
+Nǀǀng	80	BOIL	ǀuun	Basic	1 V	1	boiled thing	Ø	S
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Basic	1 V	1	sick person	Ø	S
+Nǀǀng	83	CRY	kxʼaa	Basic	1 V	1	crier	Ø	S
+Nǀǀng	84	FALL	ǂqau kiin	Basic	1 V	1	fallee	Ø	S
+Nǀǀng	85	MAKE	kxʼuu	Basic	1 V 2	1	maker	Ø	A
+Nǀǀng	85	MAKE	kxʼuu	Basic	1 V 2	2	made thing	Ø	P
+Nǀǀng	86	GET	hoo (1)	Basic	1 V 2	1	receiver	Ø	A
+Nǀǀng	86	GET	hoo (1)	Basic	1 V 2	2	received thing	Ø	P
+Nǀǀng	87	WANT	ǂao(-a)	Basic	1 V 2	1	wanter	Ø	A
+Nǀǀng	87	WANT	ǂao(-a)	Basic	1 V 2	2	wanted thing	Ø	P
+Nǀǀng	87	WANT	ǂxaqake	Basic	1 V 2	1	wanter	Ø	A
+Nǀǀng	87	WANT	ǂxaqake	Basic	1 V 2	2	wanted thing	Ø	P
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Basic	1 V 2	1	burner (tr)	Ø	A
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Basic	1 V 2	2	burnt thing (tr)	Ø	P

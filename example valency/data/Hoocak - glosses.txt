@@ -1,0 +1,64 @@
+﻿Language_name	Gloss	Meaning
+Hoocąk	1	1st person
+Hoocąk	2	2nd person
+Hoocąk	3	3rd person
+Hoocąk	A	actor
+Hoocąk	ANT	anterior
+Hoocąk	APPL	applicative
+Hoocąk	APPL BEN	applicative
+Hoocąk	BEN	benefactive
+Hoocąk	CAUS	causative
+Hoocąk	CAUSAL	causal
+Hoocąk	COLL	collective
+Hoocąk	CONT	continuative
+Hoocąk	D	dual
+Hoocąk	DECL	declarative
+Hoocąk	DEF	definite
+Hoocąk	DEM	demonstrative
+Hoocąk	DI	dual inclusive
+Hoocąk	DIM	diminutive
+Hoocąk	DIST	distal
+Hoocąk	DUB	dubitative
+Hoocąk	E	exclusive
+Hoocąk	EMPH	emphatic
+Hoocąk	FIN	final
+Hoocąk	FUT	future
+Hoocąk	HAB	habitual
+Hoocąk	HOR	horizontal
+Hoocąk	HYP	hypothetical
+Hoocąk	I	inclusive
+Hoocąk	IMP	imperative
+Hoocąk	IN	initial
+Hoocąk	INESS	inessive
+Hoocąk	INST	instrumental
+Hoocąk	INTJ	interjection
+Hoocąk	INTS	intensifier
+Hoocąk	ITER	iterative
+Hoocąk	LOC	locative
+Hoocąk	NEG	negator
+Hoocąk	NMLZ	nominalizer
+Hoocąk	NTL	neutral
+Hoocąk	OBJ	object
+Hoocąk	OBL	obligative
+Hoocąk	P	plural
+Hoocąk	PL	plural
+Hoocąk	POS	positional
+Hoocąk	POSS	possessive
+Hoocąk	POST	posterior
+Hoocąk	POT	potential
+Hoocąk	PROG	progressive
+Hoocąk	PROP	proper name
+Hoocąk	PROX	proximal
+Hoocąk	QUOT	quotative
+Hoocąk	RCP	reciprocal
+Hoocąk	RDP	reduplication
+Hoocąk	REL	relator
+Hoocąk	RFL	reflexive
+Hoocąk	SBJ	subject
+Hoocąk	SEQ	sequential
+Hoocąk	SG	singular
+Hoocąk	SIM	simultaneous
+Hoocąk	SUPESS	superessive
+Hoocąk	TOP	topic
+Hoocąk	U	undergoer
+Hoocąk	VERT	vertical

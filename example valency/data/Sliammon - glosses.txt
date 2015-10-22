@@ -1,0 +1,38 @@
+﻿Language_name	Gloss	Meaning
+Sliammon	1	1st person
+Sliammon	2	2nd person
+Sliammon	3	3rd person
+Sliammon	A	active
+Sliammon	A.INTR	active-intransitive
+Sliammon	CAU	causative
+Sliammon	CLF	cleft marker
+Sliammon	CLT	clitic
+Sliammon	CNJ	conjunctive
+Sliammon	CTR	control transitive
+Sliammon	DEM	demonstrative
+Sliammon	DET	determiner
+Sliammon	EPEN	epenthetic h and ʔ
+Sliammon	FUT	future
+Sliammon	IMP	imperative
+Sliammon	IMPF	imperfective
+Sliammon	IND	indirective (applicative)
+Sliammon	INDC	indicative
+Sliammon	INDP	independent pronoun
+Sliammon	INTR	intransitive
+Sliammon	LV	link vowel
+Sliammon	MDL	middle
+Sliammon	NTR	noncontrol transitive
+Sliammon	OBJ	object
+Sliammon	OBL	oblique
+Sliammon	PASS	passive
+Sliammon	PAST	past
+Sliammon	PL	plural
+Sliammon	POSS	possessive
+Sliammon	QN	question marker
+Sliammon	QUOT	quotative
+Sliammon	RDPL	reduplication
+Sliammon	RFL	reflexive
+Sliammon	RLT	relational (applicative)
+Sliammon	SBJ	subject
+Sliammon	SG	singular
+Sliammon	STV	stative

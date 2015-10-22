@@ -1,0 +1,714 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Bezhta	1	EAT	yüⁿqal	Basic	1-erg 2-abs abs[2].V	1	eater	NP-erg	A
+Bezhta	1	EAT	yüⁿqal	Basic	1-erg 2-abs abs[2].V	2	eaten food	NP-abs & abs.V	P
+Bezhta	1	EAT	yüⁿqal	Derived	1-abs 2-instr abs[1].V'antip	1	eater	NP-abs & abs.V	
+Bezhta	1	EAT	yüⁿqal	Derived	1-abs 2-instr abs[1].V'antip	2	eaten food	NP-instr	
+Bezhta	1	EAT	yüⁿqal	Derived	1-poss 2-abs abs[2].V'pot	1	eater	NP-poss	
+Bezhta	1	EAT	yüⁿqal	Derived	1-poss 2-abs abs[2].V'pot	2	eaten food	NP-abs & abs.V	
+Bezhta	1	EAT	yüⁿqal	Derived	3-erg 1-abs 2-instr abs[1].V'caus4	1	eater	NP-abs & abs.V	
+Bezhta	1	EAT	yüⁿqal	Derived	3-erg 1-abs 2-instr abs[1].V'caus4	2	eaten food	NP-instr	
+Bezhta	1	EAT	yüⁿqal	Derived	3-erg 1-abs 2-instr abs[1].V'caus4	3	eat causer/feeder	NP-erg	
+Bezhta	2	HUG	aⁿło yoc'al	Basic	1-erg 2-lat V	1	hugger	NP-erg	X
+Bezhta	2	HUG	aⁿło yoc'al	Basic	1-erg 2-lat V	2	huggee	NP-lat	X
+Bezhta	2	HUG	aⁿło yoc'al	Derived	1-abs 2-lat abs[1].V'antip	1	hugger	NP-abs & abs.V	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	1-abs 2-lat abs[1].V'antip	2	huggee	NP-lat	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	1-poss 2-lat V'pot	1	hugger	NP-poss	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	1-poss 2-lat V'pot	2	huggee	NP-lat	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	3-erg 1-instr 2-lat V'caus	1	hugger	NP-instr	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	3-erg 1-instr 2-lat V'caus	2	huggee	NP-lat	
+Bezhta	2	HUG	aⁿło yoc'al	Derived	3-erg 1-instr 2-lat V'caus	3	hug causer	NP-erg	
+Bezhta	3	LOOK AT	goc'oqal	Basic	1-abs 2-poss abs[1].V	1	looker	NP-abs & abs.V	I
+Bezhta	3	LOOK AT	goc'oqal	Basic	1-abs 2-poss abs[1].V	2	looked at entity	NP-poss	X
+Bezhta	3	LOOK AT	goc'oqal	Derived	1-poss 2-poss abs[1].V'pot	1	looker	NP-poss & abs.V	
+Bezhta	3	LOOK AT	goc'oqal	Derived	1-poss 2-poss abs[1].V'pot	2	looked at entity	NP-poss	
+Bezhta	3	LOOK AT	goc'oqal	Derived	3-erg 1-abs 2-poss abs[1].V'caus	1	looker	NP-abs & abs.V	
+Bezhta	3	LOOK AT	goc'oqal	Derived	3-erg 1-abs 2-poss abs[1].V'caus	2	looked at entity	NP-poss	
+Bezhta	3	LOOK AT	goc'oqal	Derived	3-erg 1-abs 2-poss abs[1].V'caus	3	look causer	NP-erg	
+Bezhta	4	SEE	yegaal	Basic	1-lat 2-abs abs[2].V	1	seeer	NP-lat	X
+Bezhta	4	SEE	yegaal	Basic	1-lat 2-abs abs[2].V	2	seen entity	NP-abs & abs.V	I
+Bezhta	5	SMELL	mäh biq'al	Basic	1-lat V	1	smeller	NP-lat	X
+Bezhta	5	SMELL	mäh biq'al	Derived	1-poss V'pot	1	smeller	NP-poss	
+Bezhta	5	SMELL	mäh biq'al	Derived	2-erg 1-lat V'caus	1	smeller	NP-lat	
+Bezhta	5	SMELL	mäh biq'al	Derived	2-erg 1-lat V'caus	2	smell causer	NP-erg	
+Bezhta	6	FEAR	hic'al	Basic	1-abs 2-poss abs[1].V	1	fearer	NP-abs & abs.V	I
+Bezhta	6	FEAR	hic'al	Basic	1-abs 2-poss abs[1].V	2	fear stimulus	NP-poss	X
+Bezhta	6	FEAR	hic'al	Derived	1-poss 2-poss abs[1].V'pot	1	fearer	NP-poss & abs.V	
+Bezhta	6	FEAR	hic'al	Derived	1-poss 2-poss abs[1].V'pot	2	fear stimulus	NP-poss	
+Bezhta	6	FEAR	hic'al	Derived	3-erg 1-abs abs[1].V'caus4	1	fearer	NP-abs & abs.V	
+Bezhta	6	FEAR	hic'al	Derived	3-erg 1-abs abs[1].V'caus4	3	fear causer	NP-erg	
+Bezhta	7	FRIGHTEN	hič'egolal	Basic	1-erg 2-abs abs[2].V	1	frightener	NP-erg	A
+Bezhta	7	FRIGHTEN	hič'egolal	Basic	1-erg 2-abs abs[2].V	2	frightenee	NP-abs & abs.V	P
+Bezhta	7	FRIGHTEN	hič'egolal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	frightener	NP-instr	
+Bezhta	7	FRIGHTEN	hič'egolal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	frightenee	NP-abs & abs.V	
+Bezhta	7	FRIGHTEN	hič'egolal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	scare causer	NP-erg	
+Bezhta	8	LIKE	yat'al	Basic	1-lat 2-abs abs[2].V	1	liker	NP-lat	X
+Bezhta	8	LIKE	yat'al	Basic	1-lat 2-abs abs[2].V	2	liked entity	NP-abs & abs.V	I
+Bezhta	8	LIKE	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	1	liker	NP-lat	
+Bezhta	8	LIKE	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	2	liked entity	NP-abs & abs.V	
+Bezhta	8	LIKE	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	3	like causer	NP-erg	
+Bezhta	9	KNOW	yiq'al	Basic	1-lat 2-abs abs[2].V	1	knower	NP-lat	X
+Bezhta	9	KNOW	yiq'al	Basic	1-lat 2-abs abs[2].V	2	known thing/person	NP-abs & abs.V	I
+Bezhta	9	KNOW	yiq'al	Derived	1-abs 2-instr abs[1].V'antip	1	knower	NP-abs & abs.V	
+Bezhta	9	KNOW	yiq'al	Derived	1-abs 2-instr abs[1].V'antip	2	known thing/person	NP-instr	
+Bezhta	9	KNOW	yiq'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	1	knower	NP-lat	
+Bezhta	9	KNOW	yiq'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	2	known thing/person	NP-abs & abs.V	
+Bezhta	9	KNOW	yiq'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	3	know causer	NP-erg	
+Bezhta	10	THINK	urɣeziyaqal	Basic	1-abs 2-supabl abs[1].V	1	thinker	NP-abs & abs.V	I
+Bezhta	10	THINK	urɣeziyaqal	Basic	1-abs 2-supabl abs[1].V	2	thought content	NP-supabl	X
+Bezhta	10	THINK	urɣeziyaqal	Derived	1-poss 2-supabl abs[1].V'pot	1	thinker	NP-poss & abs.V	
+Bezhta	10	THINK	urɣeziyaqal	Derived	1-poss 2-supabl abs[1].V'pot	2	thought content	NP-supabl	
+Bezhta	10	THINK	urɣeziyaqal	Derived	3-erg 1-abs 2-supabl abs[1].V'caus3	1	thinker	NP-abs & abs.V	
+Bezhta	10	THINK	urɣeziyaqal	Derived	3-erg 1-abs 2-supabl abs[1].V'caus3	2	thought content	NP-supabl	
+Bezhta	11	SEARCH FOR	xalbowal	Basic	1-erg 2-abs abs[2].V	1	searcher	NP-erg	A
+Bezhta	11	SEARCH FOR	xalbowal	Basic	1-erg 2-abs abs[2].V	2	searched for thing	NP-abs & abs.V	P
+Bezhta	11	SEARCH FOR	xalbowal	Derived	1-poss 2-abs abs[2].V'pot	1	searcher	NP-poss	
+Bezhta	11	SEARCH FOR	xalbowal	Derived	1-poss 2-abs abs[2].V'pot	2	searched for thing	NP-abs & abs.V	
+Bezhta	11	SEARCH FOR	xalbowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	searcher	NP-instr	
+Bezhta	11	SEARCH FOR	xalbowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	searched for thing	NP-abs & abs.V	
+Bezhta	11	SEARCH FOR	xalbowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	search causer	NP-erg	
+Bezhta	12	WASH	nizal	Basic	1-erg 2-abs abs[2].V	1	washer	NP-erg	A
+Bezhta	12	WASH	nizal	Basic	1-erg 2-abs abs[2].V	2	washed entity	NP-abs & abs.V	P
+Bezhta	12	WASH	nizal	Derived	1-abs 2-instr abs[1].V'antip	1	washer	NP-abs & abs.V	
+Bezhta	12	WASH	nizal	Derived	1-abs 2-instr abs[1].V'antip	2	washed entity	NP-instr	
+Bezhta	12	WASH	nizal	Derived	1-abs abs[1].V'antip	1	washer	NP-abs & abs.V	
+Bezhta	12	WASH	nizal	Derived	1-poss 2-abs abs[2].V'pot	1	washer	NP-poss	
+Bezhta	12	WASH	nizal	Derived	1-poss 2-abs abs[2].V'pot	2	washed entity	NP-abs & abs.V	
+Bezhta	12	WASH	nizal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	washer	NP-instr	
+Bezhta	12	WASH	nizal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	washed entity	NP-abs & abs.V	
+Bezhta	12	WASH	nizal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	wash causer	NP-erg	
+Bezhta	13	DRESS	łič'elal	Basic	1-erg 2-abs 3-sup abs[2].V	1	dresser	NP-erg	A
+Bezhta	13	DRESS	łič'elal	Basic	1-erg 2-abs 3-sup abs[2].V	2	clothes	NP-sup	X
+Bezhta	13	DRESS	łič'elal	Basic	1-erg 2-abs 3-sup abs[2].V	3	dressee	NP-abs & abs.V	P
+Bezhta	13	DRESS	łič'elal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	1	dresser	NP-abs	
+Bezhta	13	DRESS	łič'elal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	2	clothes	NP-instr	
+Bezhta	13	DRESS	łič'elal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	3	dressee	NP-sup	
+Bezhta	13	DRESS	łič'elal	Derived	1-poss 2-abs 3-sup abs[2].V'pot	1	dresser	NP-poss	
+Bezhta	13	DRESS	łič'elal	Derived	1-poss 2-abs 3-sup abs[2].V'pot	2	clothes	NP-abs & abs.V	
+Bezhta	13	DRESS	łič'elal	Derived	1-poss 2-abs 3-sup abs[2].V'pot	3	dressee	NP-sup	
+Bezhta	13	DRESS	łič'elal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	1	dresser	NP-instr	
+Bezhta	13	DRESS	łič'elal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	2	clothes	NP-abs & abs.V	
+Bezhta	13	DRESS	łič'elal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	3	dressee	NP-sup	
+Bezhta	13	DRESS	łič'elal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	4	dress causer	NP-erg	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Basic	1-erg 2-abs abs[2].V	1	shaver (of body part)	NP-erg	A
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Basic	1-erg 2-abs abs[2].V	2	shaved body part	NP-abs & abs.V	P
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	1-abs 2-instr abs[1].V'antip	1	shaver (of body part)	NP-abs & abs.V	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	1-abs 2-instr abs[1].V'antip	2	shaved body part	NP-instr	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	1-poss 2-abs abs[2].V'pot	1	shaver (of body part)	NP-poss	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	1-poss 2-abs abs[2].V'pot	2	shaved body part	NP-abs & abs.V	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	shaver (of body part)	NP-instr	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	shaved body part	NP-abs & abs.V	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	shave causer	NP-erg	
+Bezhta	15	HELP	komak bowal	Basic	1-erg 2-lat V	1	helper	NP-erg	X
+Bezhta	15	HELP	komak bowal	Basic	1-erg 2-lat V	2	helpee	NP-lat	X
+Bezhta	15	HELP	komak bowal	Derived	1-poss 2-lat V'pot	1	helper	NP-poss	
+Bezhta	15	HELP	komak bowal	Derived	1-poss 2-lat V'pot	2	helpee	NP-lat	
+Bezhta	15	HELP	komak bowal	Derived	3-erg 1-instr 2-lat V'caus	1	helper	NP-instr	
+Bezhta	15	HELP	komak bowal	Derived	3-erg 1-instr 2-lat V'caus	2	helpee	NP-lat	
+Bezhta	15	HELP	komak bowal	Derived	3-erg 1-instr 2-lat V'caus	3	help causer	NP-erg	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Basic	1-abs 2-com abs[1].V	1	follower	NP-abs & abs.V	I
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Basic	1-abs 2-com abs[1].V	2	followee	NP-com	X
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Derived	1-abs 2-com abs[1].V'antip	1	follower	NP-abs & abs.V	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Derived	1-abs 2-com abs[1].V'antip	2	followee	NP-com	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Derived	1-poss 2-com abs[1].V'pot	1	follower	NP-poss & abs.V	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Derived	1-poss 2-com abs[1].V'pot	2	followee	NP-com	
+Bezhta	17	MEET	keziyaqal	Basic	1-erg 2-abs abs[2].V	1	meeter	NP-erg	A
+Bezhta	17	MEET	keziyaqal	Basic	1-erg 2-abs abs[2].V	2	met person	NP-abs & abs.V	P
+Bezhta	18	TALK	yiq'lašal	Basic	1-abs 2-poss abs[1].V	1	talker	NP-abs & abs.V	I
+Bezhta	18	TALK	yiq'lašal	Basic	1-abs 2-poss abs[1].V	2	talked to person	NP-poss	X
+Bezhta	18	TALK	yiq'lašal	Derived	1-poss 2-poss abs[1].V'pot	1	talker	NP-poss & abs.V	
+Bezhta	18	TALK	yiq'lašal	Derived	1-poss 2-poss abs[1].V'pot	2	talked to person	NP-poss	
+Bezhta	18	TALK	yiq'lašal	Derived	3-erg 1-abs abs[1].V'caus4	1	talker	NP-abs & abs.V	
+Bezhta	18	TALK	yiq'lašal	Derived	3-erg 1-abs abs[1].V'caus4	3	talk causer	NP-erg	
+Bezhta	19	ASK FOR	harziyowal	Basic	1-erg 2-poss 3-abs abs[3].V	1	asker	NP-erg	A
+Bezhta	19	ASK FOR	harziyowal	Basic	1-erg 2-poss 3-abs abs[3].V	2	askee	NP-poss	X
+Bezhta	19	ASK FOR	harziyowal	Basic	1-erg 2-poss 3-abs abs[3].V	3	requested thing	NP-abs & abs.V	P
+Bezhta	19	ASK FOR	harziyowal	Derived	1-poss 2-poss 3-abs abs[3].V'pot	1	asker	NP-poss	
+Bezhta	19	ASK FOR	harziyowal	Derived	1-poss 2-poss 3-abs abs[3].V'pot	2	askee	NP-poss	
+Bezhta	19	ASK FOR	harziyowal	Derived	1-poss 2-poss 3-abs abs[3].V'pot	3	requested thing	NP-abs & abs.V	
+Bezhta	19	ASK FOR	harziyowal	Derived	4-erg 1-instr 2-poss 3-abs abs[3].V'caus	1	asker	NP-instr	
+Bezhta	19	ASK FOR	harziyowal	Derived	4-erg 1-instr 2-poss 3-abs abs[3].V'caus	2	askee	NP-poss	
+Bezhta	19	ASK FOR	harziyowal	Derived	4-erg 1-instr 2-poss 3-abs abs[3].V'caus	3	requested thing	NP-abs & abs.V	
+Bezhta	19	ASK FOR	harziyowal	Derived	4-erg 1-instr 2-poss 3-abs abs[3].V'caus	4	ask for causer	NP-erg	
+Bezhta	20	SHOUT AT	lalaƛal	Basic	1-erg 2-sup V	1	shouter	NP-erg	X
+Bezhta	20	SHOUT AT	lalaƛal	Basic	1-erg 2-sup V	2	shoutee	NP-sup	X
+Bezhta	20	SHOUT AT	lalaƛal	Derived	1-abs 2-sup abs[1].V'antip	1	shouter	NP-abs & abs.V	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	1-abs 2-sup abs[1].V'antip	2	shoutee	NP-sup	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	1-poss 2-sup V'pot	1	shouter	NP-poss	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	1-poss 2-sup V'pot	2	shoutee	NP-sup	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	1	shouter	NP-instr	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	2	shoutee	NP-sup	
+Bezhta	20	SHOUT AT	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	3	shout causer	NP-erg	
+Bezhta	21	TELL	xabar meyal	Basic	1-erg 2-lat V	1	teller	NP-erg	X
+Bezhta	21	TELL	xabar meyal	Basic	1-erg 2-lat V	2	tellee	NP-lat	X
+Bezhta	21	TELL	xabar meyal	Derived	1-abs 2-lat abs[1].V'antip	1	teller	NP-abs & abs.V	
+Bezhta	21	TELL	xabar meyal	Derived	1-abs 2-lat abs[1].V'antip	2	tellee	NP-lat	
+Bezhta	21	TELL	xabar meyal	Derived	1-poss 2-lat V'pot	1	teller	NP-poss	
+Bezhta	21	TELL	xabar meyal	Derived	1-poss 2-lat V'pot	2	tellee	NP-lat	
+Bezhta	21	TELL	xabar meyal	Derived	3-erg 1-instr 2-lat V'caus	1	teller	NP-instr	
+Bezhta	21	TELL	xabar meyal	Derived	3-erg 1-instr 2-lat V'caus	2	tellee	NP-lat	
+Bezhta	21	TELL	xabar meyal	Derived	3-erg 1-instr 2-lat V'caus	3	tell causer	NP-erg	
+Bezhta	22	SAY	nisal	Basic	1-erg 2-poss UTT3 V	1	sayer	NP-erg	X
+Bezhta	22	SAY	nisal	Basic	1-erg 2-poss UTT3 V	2	saying addressee	NP-poss	X
+Bezhta	22	SAY	nisal	Basic	1-erg 2-poss UTT3 V	3	said content	UTT	X
+Bezhta	22	SAY	nisal	Derived	1-poss 2-poss UTT3-quot V'pot	1	sayer	NP-poss	
+Bezhta	22	SAY	nisal	Derived	1-poss 2-poss UTT3-quot V'pot	2	saying addressee	NP-poss	
+Bezhta	22	SAY	nisal	Derived	1-poss 2-poss UTT3-quot V'pot	3	said content	UTT	
+Bezhta	22	SAY	nisal	Derived	4-erg 1-instr 2-poss UTT3-quot V'caus	1	sayer	NP-instr	
+Bezhta	22	SAY	nisal	Derived	4-erg 1-instr 2-poss UTT3-quot V'caus	2	saying addressee	NP-poss	
+Bezhta	22	SAY	nisal	Derived	4-erg 1-instr 2-poss UTT3-quot V'caus	3	said content	UTT	
+Bezhta	22	SAY	nisal	Derived	4-erg 1-instr 2-poss UTT3-quot V'caus	4	say causer	NP-erg	
+Bezhta	23	NAME	caaⁿ gulal	Basic	1-erg 2-sup V	1	namer	NP-erg	X
+Bezhta	23	NAME	caaⁿ gulal	Basic	1-erg 2-sup V	2	namee	NP-sup	X
+Bezhta	23	NAME	caaⁿ gulal	Derived	1-abs 2-sup abs[1].V'antip	1	namer	NP-abs & abs.V	
+Bezhta	23	NAME	caaⁿ gulal	Derived	1-abs 2-sup abs[1].V'antip	2	namee	NP-sup	
+Bezhta	23	NAME	caaⁿ gulal	Derived	1-poss 2-sup V'pot	1	namer	NP-poss	
+Bezhta	23	NAME	caaⁿ gulal	Derived	1-poss 2-sup V'pot	2	namee	NP-sup	
+Bezhta	23	NAME	caaⁿ gulal	Derived	3-erg 1-instr 2-sup V'caus	1	namer	NP-instr	
+Bezhta	23	NAME	caaⁿ gulal	Derived	3-erg 1-instr 2-sup V'caus	2	namee	NP-sup	
+Bezhta	23	NAME	caaⁿ gulal	Derived	3-erg 1-instr 2-sup V'caus	3	name	NP-erg	
+Bezhta	25	BREAK	yišelal	Basic	1-erg 2-abs 3-instr abs[2].V	1	breaker	NP-erg	A
+Bezhta	25	BREAK	yišelal	Basic	1-erg 2-abs 3-instr abs[2].V	2	broken thing	NP-abs & abs.V	P
+Bezhta	25	BREAK	yišelal	Basic	1-erg 2-abs 3-instr abs[2].V	3	breaking instrument	NP-instr	I
+Bezhta	25	BREAK	yišelal	Derived	1-abs 2-instr abs[1].V'antip	1	breaker	NP-abs & abs.V	
+Bezhta	25	BREAK	yišelal	Derived	1-abs 2-instr abs[1].V'antip	2	broken thing	NP-instr	
+Bezhta	25	BREAK	yišelal	Derived	1-poss 3-instr 2-abs abs[2].V'	1	breaker	NP-poss	
+Bezhta	25	BREAK	yišelal	Derived	1-poss 3-instr 2-abs abs[2].V'	2	broken thing	NP-abs & abs.V	
+Bezhta	25	BREAK	yišelal	Derived	1-poss 3-instr 2-abs abs[2].V'	3	breaking instrument	NP-instr	
+Bezhta	25	BREAK	yišelal	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	1	breaker	NP-instr	
+Bezhta	25	BREAK	yišelal	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	2	broken thing	NP-abs & abs.V	
+Bezhta	25	BREAK	yišelal	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	3	breaking instrument	NP-instr	
+Bezhta	25	BREAK	yišelal	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	4	break causer	NP-erg	
+Bezhta	26	KILL	yiƛ'al (1)	Basic	1-erg 2-abs 3-instr abs[2].V	1	killer	NP-erg	A
+Bezhta	26	KILL	yiƛ'al (1)	Basic	1-erg 2-abs 3-instr abs[2].V	2	killee	NP-abs & abs.V	P
+Bezhta	26	KILL	yiƛ'al (1)	Basic	1-erg 2-abs 3-instr abs[2].V	3	killing instrument	NP-instr	I
+Bezhta	26	KILL	yiƛ'al (1)	Derived	1-abs 2-instr abs[1].V'antip	1	killer	NP-abs & abs.V	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	1-abs 2-instr abs[1].V'antip	2	killee	NP-instr	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	1-poss 2-abs 3-instr abs[2].V'pot	1	killer	NP-poss	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	1-poss 2-abs 3-instr abs[2].V'pot	2	killee	NP-abs & abs.V	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	1-poss 2-abs 3-instr abs[2].V'pot	3	killing instrument	NP-instr	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	1	killer	NP-instr	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	2	killee	NP-abs & abs.V	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	3	killing instrument	NP-instr	
+Bezhta	26	KILL	yiƛ'al (1)	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	4	kill causer	NP-erg	
+Bezhta	27	BEAT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	1	beater	NP-erg	A
+Bezhta	27	BEAT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	2	beatee	NP-lat	X
+Bezhta	27	BEAT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	3	beating instrument	NP-abs & abs.V	P
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	beater	NP-abs & abs.V	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	beatee	NP-lat	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	beating instrument	NP-instr	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	1	beater	NP-erg	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	2	beatee	NP-abs & abs.V	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	3	beating instrument	NP-instr	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	beater	NP-poss	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	beatee	NP-lat	
+Bezhta	27	BEAT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	beating instrument	NP-abs & abs.V	
+Bezhta	27	BEAT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	beater	NP-instr	
+Bezhta	27	BEAT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	beatee	NP-lat	
+Bezhta	27	BEAT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	beating instrument	NP-abs & abs.V	
+Bezhta	27	BEAT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	beat causer	NP-erg	
+Bezhta	28	HIT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	1	hitter	NP-erg	A
+Bezhta	28	HIT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	2	hittee	NP-lat	X
+Bezhta	28	HIT	yäƛ'elal	Basic	1-erg 2-lat 3-abs abs[3].V	3	hitting instrument	NP-abs & abs.V	P
+Bezhta	28	HIT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	hitter	NP-abs & abs.V	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	hittee	NP-lat	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	hitting instrument	NP-instr	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	1	hitter	NP-erg	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	2	hittee	NP-abs & abs.V	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-erg 2-abs 3-instr abs[2].V'	3	hitting instrument	NP-instr	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	hitter	NP-poss	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	hittee	NP-lat	
+Bezhta	28	HIT	yäƛ'elal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	hitting instrument	NP-abs & abs.V	
+Bezhta	28	HIT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	hitter	NP-instr	
+Bezhta	28	HIT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	hittee	NP-lat	
+Bezhta	28	HIT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	hitting instrument	NP-abs & abs.V	
+Bezhta	28	HIT	yäƛ'elal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	hit causer	NP-erg	
+Bezhta	29	TOUCH	yeⁿxelal	Basic	1-erg 2-lat 3-abs abs[3].V	1	toucher	NP-erg	A
+Bezhta	29	TOUCH	yeⁿxelal	Basic	1-erg 2-lat 3-abs abs[3].V	2	touchee	NP-lat	X
+Bezhta	29	TOUCH	yeⁿxelal	Basic	1-erg 2-lat 3-abs abs[3].V	3	touching instrument	NP-abs & abs.V	P
+Bezhta	29	TOUCH	yeⁿxelal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	toucher	NP-abs & abs.V	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	touchee	NP-lat	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	touching instrument	NP-instr	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	toucher	NP-instr	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	touchee	NP-lat	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	touching instrument	NP-abs & abs.V	
+Bezhta	29	TOUCH	yeⁿxelal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	touch causer	NP-erg	
+Bezhta	30	CUT	yüč'al	Basic	1-erg 2-abs 3-instr abs[2].V	1	cutter	NP-erg	A
+Bezhta	30	CUT	yüč'al	Basic	1-erg 2-abs 3-instr abs[2].V	2	cut thing	NP-abs & abs.V	P
+Bezhta	30	CUT	yüč'al	Basic	1-erg 2-abs 3-instr abs[2].V	3	cutting instrument	NP-instr	I
+Bezhta	30	CUT	yüč'al	Derived	1-abs 2-instr abs[1].V'antip	1	cutter	NP-abs & abs.V	
+Bezhta	30	CUT	yüč'al	Derived	1-abs 2-instr abs[1].V'antip	2	cut thing	NP-instr	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 2-abs 3-instr abs[2].V'pot	1	cutter	NP-poss	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 2-abs 3-instr abs[2].V'pot	2	cut thing	NP-abs & abs.V	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 2-abs 3-instr abs[2].V'pot	3	cutting instrument	NP-instr	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 3-instr 2-abs abs[2].V'	1	cutter	NP-poss	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 3-instr 2-abs abs[2].V'	2	cut thing	NP-abs & abs.V	
+Bezhta	30	CUT	yüč'al	Derived	1-poss 3-instr 2-abs abs[2].V'	3	cutting instrument	NP-instr	
+Bezhta	30	CUT	yüč'al	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	1	cutter	NP-instr	
+Bezhta	30	CUT	yüč'al	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	2	cut thing	NP-abs & abs.V	
+Bezhta	30	CUT	yüč'al	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	3	cutting instrument	NP-instr	
+Bezhta	30	CUT	yüč'al	Derived	4-erg 1-instr 2-abs 3-instr abs[2].V'caus	4	cutting causer	NP-erg	
+Bezhta	31	TAKE	yokčal	Basic	1-erg 2-possabl 3-abs abs[3].V	1	taker	NP-erg	A
+Bezhta	31	TAKE	yokčal	Basic	1-erg 2-possabl 3-abs abs[3].V	2	taking source	NP-possabl	X
+Bezhta	31	TAKE	yokčal	Basic	1-erg 2-possabl 3-abs abs[3].V	3	taken thing	NP-abs & abs.V	P
+Bezhta	31	TAKE	yokčal	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	1	taker	NP-abs & abs.V	
+Bezhta	31	TAKE	yokčal	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	2	taking source	NP-possabl	
+Bezhta	31	TAKE	yokčal	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	3	taken thing	NP-instr	
+Bezhta	31	TAKE	yokčal	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	1	taker	NP-poss	
+Bezhta	31	TAKE	yokčal	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	2	taking source	NP-possabl	
+Bezhta	31	TAKE	yokčal	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	3	taken thing	NP-abs & abs.V	
+Bezhta	31	TAKE	yokčal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	1	taker	NP-instr	
+Bezhta	31	TAKE	yokčal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	2	taking source	NP-possabl	
+Bezhta	31	TAKE	yokčal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	3	taken thing	NP-abs & abs.V	
+Bezhta	31	TAKE	yokčal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	4	take causer	NP-erg	
+Bezhta	32	TEAR	yäxelal	Basic	1-erg 2-abl 3-abs abs[3].V	1	tearer	NP-erg	A
+Bezhta	32	TEAR	yäxelal	Basic	1-erg 2-abl 3-abs abs[3].V	2	tearing source	NP-abl	X
+Bezhta	32	TEAR	yäxelal	Basic	1-erg 2-abl 3-abs abs[3].V	3	torn thing	NP-abs & abs.V	P
+Bezhta	32	TEAR	yäxelal	Derived	1-abs 3-instr 2-abl abs[1].V'antip	1	tearer	NP-abs & abs.V	
+Bezhta	32	TEAR	yäxelal	Derived	1-abs 3-instr 2-abl abs[1].V'antip	2	tearing source	NP-abl	
+Bezhta	32	TEAR	yäxelal	Derived	1-abs 3-instr 2-abl abs[1].V'antip	3	torn thing	NP-instr	
+Bezhta	32	TEAR	yäxelal	Derived	1-poss 2-abl 3-abs abs[3].V'pot	1	tearer	NP-poss	
+Bezhta	32	TEAR	yäxelal	Derived	1-poss 2-abl 3-abs abs[3].V'pot	2	tearing source	NP-abl	
+Bezhta	32	TEAR	yäxelal	Derived	1-poss 2-abl 3-abs abs[3].V'pot	3	torn thing	NP-abs & abs.V	
+Bezhta	32	TEAR	yäxelal	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	1	tearer	NP-instr	
+Bezhta	32	TEAR	yäxelal	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	2	tearing source	NP-abl	
+Bezhta	32	TEAR	yäxelal	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	3	torn thing	NP-abs & abs.V	
+Bezhta	32	TEAR	yäxelal	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	4	tear causer	NP-erg	
+Bezhta	34	HIDE	yuⁿcal (1)	Basic	1-erg 2-abl 3-abs abs[3].V	1	hider	NP-erg	A
+Bezhta	34	HIDE	yuⁿcal (1)	Basic	1-erg 2-abl 3-abs abs[3].V	2	hiding affectee	NP-abl	X
+Bezhta	34	HIDE	yuⁿcal (1)	Basic	1-erg 2-abl 3-abs abs[3].V	3	hidden thing	NP-abs & abs.V	P
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	1-poss 2-abl 3-abs abs[3].V'pot	1	hider	NP-poss	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	1-poss 2-abl 3-abs abs[3].V'pot	2	hiding affectee	NP-abl	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	1-poss 2-abl 3-abs abs[3].V'pot	3	hidden thing	NP-abs & abs.V	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	1	hider	NP-instr	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	2	hiding affectee	NP-abl	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	3	hidden thing	NP-abs & abs.V	
+Bezhta	34	HIDE	yuⁿcal (1)	Derived	4-erg 1-instr 2-abl 3-abs abs[3].V'caus	4	hide causer	NP-erg	
+Bezhta	35	SHOW	yegalal	Basic	1-erg 2-lat 3-abs abs[3].V	1	shower	NP-erg	A
+Bezhta	35	SHOW	yegalal	Basic	1-erg 2-lat 3-abs abs[3].V	2	showing addressee	NP-lat	X
+Bezhta	35	SHOW	yegalal	Basic	1-erg 2-lat 3-abs abs[3].V	3	shown thing	NP-abs & abs.V	P
+Bezhta	35	SHOW	yegalal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	shower	NP-instr	
+Bezhta	35	SHOW	yegalal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	showing addressee	NP-lat	
+Bezhta	35	SHOW	yegalal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	shown thing	NP-abs & abs.V	
+Bezhta	35	SHOW	yegalal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	show causer	NP-erg	
+Bezhta	36	GIVE	niƛal	Basic	1-erg 2-lat 3-abs abs[3].V	1	giver	NP-erg	A
+Bezhta	36	GIVE	niƛal	Basic	1-erg 2-lat 3-abs abs[3].V	2	giving recipient	NP-lat	X
+Bezhta	36	GIVE	niƛal	Basic	1-erg 2-lat 3-abs abs[3].V	3	gift	NP-abs & abs.V	P
+Bezhta	36	GIVE	niƛal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	giver	NP-abs & abs.V	
+Bezhta	36	GIVE	niƛal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	giving recipient	NP-lat	
+Bezhta	36	GIVE	niƛal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	gift	NP-instr	
+Bezhta	36	GIVE	niƛal	Derived	1-erg 2-poss 3-abs abs[3].V'	1	giver	NP-erg	
+Bezhta	36	GIVE	niƛal	Derived	1-erg 2-poss 3-abs abs[3].V'	2	giving recipient	NP-poss	
+Bezhta	36	GIVE	niƛal	Derived	1-erg 2-poss 3-abs abs[3].V'	3	gift	NP-abs & abs.V	
+Bezhta	36	GIVE	niƛal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	giver	NP-poss	
+Bezhta	36	GIVE	niƛal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	giving recipient	NP-lat	
+Bezhta	36	GIVE	niƛal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	gift	NP-abs & abs.V	
+Bezhta	36	GIVE	niƛal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	giver	NP-instr	
+Bezhta	36	GIVE	niƛal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	giving recipient	NP-lat	
+Bezhta	36	GIVE	niƛal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	gift	NP-abs & abs.V	
+Bezhta	36	GIVE	niƛal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	give causer	NP-erg	
+Bezhta	37	SEND	yeⁿyal	Basic	1-erg 2-lat 3-abs abs[3].V	1	sender	NP-erg	A
+Bezhta	37	SEND	yeⁿyal	Basic	1-erg 2-lat 3-abs abs[3].V	2	sending recipient	NP-lat	X
+Bezhta	37	SEND	yeⁿyal	Basic	1-erg 2-lat 3-abs abs[3].V	3	sent thing	NP-abs & abs.V	P
+Bezhta	37	SEND	yeⁿyal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	sender	NP-abs & abs.V	
+Bezhta	37	SEND	yeⁿyal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	sending recipient	NP-lat	
+Bezhta	37	SEND	yeⁿyal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	sent thing	NP-instr	
+Bezhta	37	SEND	yeⁿyal	Derived	1-erg 2-apud 3-abs abs[3].V'	1	sender	NP-erg	
+Bezhta	37	SEND	yeⁿyal	Derived	1-erg 2-apud 3-abs abs[3].V'	2	sending recipient	NP-apud	
+Bezhta	37	SEND	yeⁿyal	Derived	1-erg 2-apud 3-abs abs[3].V'	3	sent thing	NP-abs & abs.V	
+Bezhta	37	SEND	yeⁿyal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	sender	NP-poss	
+Bezhta	37	SEND	yeⁿyal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	sending recipient	NP-lat	
+Bezhta	37	SEND	yeⁿyal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	sent thing	NP-abs & abs.V	
+Bezhta	37	SEND	yeⁿyal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	sender	NP-instr	
+Bezhta	37	SEND	yeⁿyal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	sending recipient	NP-lat	
+Bezhta	37	SEND	yeⁿyal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	sent thing	NP-abs & abs.V	
+Bezhta	37	SEND	yeⁿyal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	send causer	NP-erg	
+Bezhta	38	CARRY	yezal	Basic	1-erg 2-lat 3-abs abs[3].V	1	carrier	NP-erg	A
+Bezhta	38	CARRY	yezal	Basic	1-erg 2-lat 3-abs abs[3].V	2	carry beneficiary	NP-lat	X
+Bezhta	38	CARRY	yezal	Basic	1-erg 2-lat 3-abs abs[3].V	3	carried thing	NP-abs & abs.V	P
+Bezhta	38	CARRY	yezal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	carrier	NP-abs & abs.V	
+Bezhta	38	CARRY	yezal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	carry beneficiary	NP-lat	
+Bezhta	38	CARRY	yezal	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	carried thing	NP-instr	
+Bezhta	38	CARRY	yezal	Derived	1-erg 2-apud 3-abs abs[3].V'	1	carrier	NP-erg	
+Bezhta	38	CARRY	yezal	Derived	1-erg 2-apud 3-abs abs[3].V'	2	carry beneficiary	NP-apud	
+Bezhta	38	CARRY	yezal	Derived	1-erg 2-apud 3-abs abs[3].V'	3	carried thing	NP-abs & abs.V	
+Bezhta	38	CARRY	yezal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	carrier	NP-poss	
+Bezhta	38	CARRY	yezal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	carry beneficiary	NP-lat	
+Bezhta	38	CARRY	yezal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	carried thing	NP-abs & abs.V	
+Bezhta	38	CARRY	yezal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	carrier	NP-instr	
+Bezhta	38	CARRY	yezal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	carry beneficiary	NP-lat	
+Bezhta	38	CARRY	yezal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	carried thing	NP-abs & abs.V	
+Bezhta	38	CARRY	yezal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	carry causer	NP-erg	
+Bezhta	39	THROW	yiƛ'al (2)	Basic	1-erg 2-lat 3-abs abs[3].V	1	thrower	NP-erg	A
+Bezhta	39	THROW	yiƛ'al (2)	Basic	1-erg 2-lat 3-abs abs[3].V	2	throwing goal	NP-lat	X
+Bezhta	39	THROW	yiƛ'al (2)	Basic	1-erg 2-lat 3-abs abs[3].V	3	thrown thing	NP-abs & abs.V	P
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	thrower	NP-abs & abs.V	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	throwing goal	NP-lat	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	thrown thing	NP-instr	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-apud 3-abs abs[3].V'	1	thrower	NP-erg	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-apud 3-abs abs[3].V'	2	throwing goal	NP-apud	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-apud 3-abs abs[3].V'	3	thrown thing	NP-abs & abs.V	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-poss 3-abs abs[3].V'	1	thrower	NP-erg	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-poss 3-abs abs[3].V'	2	throwing goal	NP-poss	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-erg 2-poss 3-abs abs[3].V'	3	thrown thing	NP-abs & abs.V	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	thrower	NP-poss	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	throwing goal	NP-lat	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	thrown thing	NP-abs & abs.V	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	thrower	NP-instr	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	throwing goal	NP-lat	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	thrown thing	NP-abs & abs.V	
+Bezhta	39	THROW	yiƛ'al (2)	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	throw causer	NP-erg	
+Bezhta	40	TIE	yiⁿcal	Basic	1-erg 2-abs 3-instr LOC4 abs[2].V	1	tier	NP-erg	A
+Bezhta	40	TIE	yiⁿcal	Basic	1-erg 2-abs 3-instr LOC4 abs[2].V	2	tied thing	NP-abs & abs.V	P
+Bezhta	40	TIE	yiⁿcal	Basic	1-erg 2-abs 3-instr LOC4 abs[2].V	3	tying instrument	NP-instr	I
+Bezhta	40	TIE	yiⁿcal	Basic	1-erg 2-abs 3-instr LOC4 abs[2].V	4	tying goal	LOC	X
+Bezhta	40	TIE	yiⁿcal	Derived	1-abs 3-instr 4-loc abs[1].V'antip	1	tier	NP-abs & abs.V	
+Bezhta	40	TIE	yiⁿcal	Derived	1-abs 3-instr 4-loc abs[1].V'antip	3	tying instrument	NP-instr	
+Bezhta	40	TIE	yiⁿcal	Derived	1-abs 3-instr 4-loc abs[1].V'antip	4	tying goal	NP-loc	
+Bezhta	40	TIE	yiⁿcal	Derived	1-poss 2-abs 3-instr LOC4 abs[2].V'pot	1	tier	NP-poss	
+Bezhta	40	TIE	yiⁿcal	Derived	1-poss 2-abs 3-instr LOC4 abs[2].V'pot	2	tied thing	NP-abs & abs.V	
+Bezhta	40	TIE	yiⁿcal	Derived	1-poss 2-abs 3-instr LOC4 abs[2].V'pot	3	tying instrument	NP-instr	
+Bezhta	40	TIE	yiⁿcal	Derived	1-poss 2-abs 3-instr LOC4 abs[2].V'pot	4	tying goal	LOC	
+Bezhta	40	TIE	yiⁿcal	Derived	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus	1	tier	NP-instr	
+Bezhta	40	TIE	yiⁿcal	Derived	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus	2	tied thing	NP-abs & abs.V	
+Bezhta	40	TIE	yiⁿcal	Derived	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus	3	tying instrument	NP-instr	
+Bezhta	40	TIE	yiⁿcal	Derived	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus	4	tying goal	LOC	
+Bezhta	40	TIE	yiⁿcal	Derived	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus	5	tie causer	NP-erg	
+Bezhta	41	PUT	gulal	Basic	1-erg LOC2 3-abs abs[3].V	1	putter	NP-erg	A
+Bezhta	41	PUT	gulal	Basic	1-erg LOC2 3-abs abs[3].V	2	putting goal	LOC	X
+Bezhta	41	PUT	gulal	Basic	1-erg LOC2 3-abs abs[3].V	3	put thing	NP-abs & abs.V	P
+Bezhta	41	PUT	gulal	Derived	1-abs LOC2 3-instr abs[1].V'antip	1	putter	NP-abs & abs.V	
+Bezhta	41	PUT	gulal	Derived	1-abs LOC2 3-instr abs[1].V'antip	2	putting goal	LOC	
+Bezhta	41	PUT	gulal	Derived	1-abs LOC2 3-instr abs[1].V'antip	3	put thing	NP-instr	
+Bezhta	41	PUT	gulal	Derived	1-poss LOC2 3-abs abs[3].V'pot	1	putter	NP-poss	
+Bezhta	41	PUT	gulal	Derived	1-poss LOC2 3-abs abs[3].V'pot	2	putting goal	LOC	
+Bezhta	41	PUT	gulal	Derived	1-poss LOC2 3-abs abs[3].V'pot	3	put thing	NP-abs & abs.V	
+Bezhta	41	PUT	gulal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	1	putter	NP-instr	
+Bezhta	41	PUT	gulal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	2	putting goal	LOC	
+Bezhta	41	PUT	gulal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	3	put thing	NP-abs & abs.V	
+Bezhta	41	PUT	gulal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	4	put causer	NP-erg	
+Bezhta	42	POUR	git'al	Basic	1-erg LOC2 3-abs abs[3].V	1	pourer	NP-erg	A
+Bezhta	42	POUR	git'al	Basic	1-erg LOC2 3-abs abs[3].V	2	pouring goal	LOC	X
+Bezhta	42	POUR	git'al	Basic	1-erg LOC2 3-abs abs[3].V	3	poured substance	NP-abs & abs.V	P
+Bezhta	42	POUR	git'al	Derived	1-abs LOC2 3-instr abs[1].V'antip	1	pourer	NP-abs & abs.V	
+Bezhta	42	POUR	git'al	Derived	1-abs LOC2 3-instr abs[1].V'antip	2	pouring goal	LOC	
+Bezhta	42	POUR	git'al	Derived	1-abs LOC2 3-instr abs[1].V'antip	3	poured substance	NP-instr	
+Bezhta	42	POUR	git'al	Derived	1-poss LOC2 3-abs abs[3].V'pot	1	pourer	NP-poss	
+Bezhta	42	POUR	git'al	Derived	1-poss LOC2 3-abs abs[3].V'pot	2	pouring goal	LOC	
+Bezhta	42	POUR	git'al	Derived	1-poss LOC2 3-abs abs[3].V'pot	3	poured substance	NP-abs & abs.V	
+Bezhta	42	POUR	git'al	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	1	pourer	NP-instr	
+Bezhta	42	POUR	git'al	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	2	pouring goal	LOC	
+Bezhta	42	POUR	git'al	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	3	poured substance	NP-abs & abs.V	
+Bezhta	42	POUR	git'al	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	4	pour causer	NP-erg	
+Bezhta	43	COVER	yoq'olal	Basic	1-erg 2-abs 3-sup abs[2].V	1	coverer	NP-erg	A
+Bezhta	43	COVER	yoq'olal	Basic	1-erg 2-abs 3-sup abs[2].V	2	cover	NP-sup	X
+Bezhta	43	COVER	yoq'olal	Basic	1-erg 2-abs 3-sup abs[2].V	3	covered thing	NP-abs & abs.V	P
+Bezhta	43	COVER	yoq'olal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	1	coverer	NP-abs	
+Bezhta	43	COVER	yoq'olal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	2	cover	NP-instr	
+Bezhta	43	COVER	yoq'olal	Derived	1-abs 3-sup 2-instr abs[1].V'antip	3	covered thing	NP-sup	
+Bezhta	43	COVER	yoq'olal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	1	coverer	NP-instr	
+Bezhta	43	COVER	yoq'olal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	2	cover	NP-abs & abs.V	
+Bezhta	43	COVER	yoq'olal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	3	covered thing	NP-sup	
+Bezhta	43	COVER	yoq'olal	Derived	4-erg 1-instr 2-abs 3-sup abs[2].V'caus	4	cover causer	NP-erg	
+Bezhta	44	FILL	yoc'lal	Basic	1-erg 2-abs abs[2].V	1	filler	NP-erg	A
+Bezhta	44	FILL	yoc'lal	Basic	1-erg 2-abs abs[2].V	2	filled container	NP-abs & abs.V	P
+Bezhta	44	FILL	yoc'lal	Derived	1-abs 2-instr abs[1].V'antip	1	filler	NP-abs & abs.V	
+Bezhta	44	FILL	yoc'lal	Derived	1-abs 2-instr abs[1].V'antip	2	filled container	NP-instr	
+Bezhta	44	FILL	yoc'lal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	filler	NP-instr	
+Bezhta	44	FILL	yoc'lal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	filled container	NP-abs & abs.V	
+Bezhta	44	FILL	yoc'lal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	fill causer	NP-erg	
+Bezhta	45	LOAD	yoⁿsal	Basic	1-erg LOC2 3-abs abs[3].V	1	loader	NP-erg	A
+Bezhta	45	LOAD	yoⁿsal	Basic	1-erg LOC2 3-abs abs[3].V	2	loading place	LOC	X
+Bezhta	45	LOAD	yoⁿsal	Basic	1-erg LOC2 3-abs abs[3].V	3	loaded thing	NP-abs & abs.V	P
+Bezhta	45	LOAD	yoⁿsal	Derived	1-abs LOC2 3-instr abs[1].V'antip	1	loader	NP-abs & abs.V	
+Bezhta	45	LOAD	yoⁿsal	Derived	1-abs LOC2 3-instr abs[1].V'antip	2	loading place	LOC	
+Bezhta	45	LOAD	yoⁿsal	Derived	1-abs LOC2 3-instr abs[1].V'antip	3	loaded thing	NP-instr	
+Bezhta	45	LOAD	yoⁿsal	Derived	1-poss LOC2 3-abs abs[3].V'pot	1	loader	NP-poss	
+Bezhta	45	LOAD	yoⁿsal	Derived	1-poss LOC2 3-abs abs[3].V'pot	2	loading place	LOC	
+Bezhta	45	LOAD	yoⁿsal	Derived	1-poss LOC2 3-abs abs[3].V'pot	3	loaded thing	NP-abs & abs.V	
+Bezhta	45	LOAD	yoⁿsal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	1	loader	NP-instr	
+Bezhta	45	LOAD	yoⁿsal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	2	loading place	LOC	
+Bezhta	45	LOAD	yoⁿsal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	3	loaded thing	NP-abs & abs.V	
+Bezhta	45	LOAD	yoⁿsal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	4	load causer	NP-erg	
+Bezhta	46	BLINK	häydä pacpaƛal	Derived	1-erg V'caus	1	blinker	NP-erg	
+Bezhta	46	BLINK	häydä pacpaƛal	Derived	1-poss V'	1	blinker	NP-poss	
+Bezhta	46	BLINK	häydä pacpaƛal	Derived	1-poss V'pot	1	blinker	NP-poss	
+Bezhta	47	COUGH	öhƛäl	Basic	1-erg V	1	cougher	NP-erg	X
+Bezhta	47	COUGH	öhƛäl	Derived	1-abs abs[1].V'antip	1	cougher	NP-abs & abs.V	
+Bezhta	47	COUGH	öhƛäl	Derived	1-poss V'pot	1	cougher	NP-poss	
+Bezhta	49	RUN	č'an yaɣal	Basic	1-erg V	1	runner	NP-erg	X
+Bezhta	49	RUN	č'an yaɣal	Derived	1-abs abs[1].V'antip	1	runner	NP-abs & abs.V	
+Bezhta	49	RUN	č'an yaɣal	Derived	1-poss V'pot	1	runner	NP-poss	
+Bezhta	49	RUN	č'an yaɣal	Derived	2-erg 1-instr V'caus	1	runner	NP-instr	
+Bezhta	49	RUN	č'an yaɣal	Derived	2-erg 1-instr V'caus	2	run causer	NP-erg	
+Bezhta	49	RUN	č'änaɣal	Basic	1-erg V	1	runner	NP-erg	X
+Bezhta	49	RUN	č'änaɣal	Derived	1-poss V'pot	1	runner	NP-poss	
+Bezhta	49	RUN	č'änaɣal	Derived	2-erg 1-instr V'caus	1	runner	NP-instr	
+Bezhta	49	RUN	č'änaɣal	Derived	2-erg 1-instr V'caus	2	run causer	NP-erg	
+Bezhta	50	SIT	q'ey yecal	Basic	1-abs abs[1].V	1	sitter	NP-abs & abs.V	I
+Bezhta	50	SIT	q'ey yecal	Derived	1-poss abs[1].V'pot	1	sitter	NP-poss & abs.V	
+Bezhta	50	SIT	q'ey yecal	Derived	2-erg 1-abs abs[1].V'caus	1	sitter	NP-abs & abs.V	
+Bezhta	50	SIT	q'ey yecal	Derived	2-erg 1-abs abs[1].V'caus	2	sit causer	NP-erg	
+Bezhta	51	SIT DOWN	q'ey yecal	Basic	1-abs abs[1].V	1	sitdowner	NP-abs & abs.V	I
+Bezhta	51	SIT DOWN	q'ey yecal	Derived	1-poss abs[1].V'pot	1	sitdowner	NP-poss & abs.V	
+Bezhta	51	SIT DOWN	q'ey yecal	Derived	2-erg 1-abs abs[1].V'caus	1	sitdowner	NP-abs & abs.V	
+Bezhta	51	SIT DOWN	q'ey yecal	Derived	2-erg 1-abs abs[1].V'caus	2	sit down causer	NP-erg	
+Bezhta	52	JUMP	yogic'al	Basic	1-abs abs[1].V	1	jumper	NP-abs & abs.V	I
+Bezhta	52	JUMP	yogic'al	Derived	1-abs abs[1].V'antip	1	jumper	NP-abs & abs.V	
+Bezhta	52	JUMP	yogic'al	Derived	1-poss abs[1].V'pot	1	jumper	NP-poss & abs.V	
+Bezhta	52	JUMP	yogic'al	Derived	2-erg 1-abs abs[1].V'caus	1	jumper	NP-abs & abs.V	
+Bezhta	52	JUMP	yogic'al	Derived	2-erg 1-abs abs[1].V'caus	2	jump causer	NP-erg	
+Bezhta	52	JUMP	yogic'al	Derived	2-poss 1-abs abs[1].V'pot	1	jumper	NP-abs & abs.V	
+Bezhta	52	JUMP	yogic'al	Derived	2-poss 1-abs abs[1].V'pot	2	jump causer	NP-poss	
+Bezhta	53	SING	no verbal counterpart	Basic	N/A	1	singer		
+Bezhta	53	SING	no verbal counterpart	Basic	N/A	3	sing causer		
+Bezhta	53	SING	no verbal counterpart	Derived	1-abs 2-instr abs[1].V'antip	1	singer	NP-abs & abs.V	
+Bezhta	53	SING	no verbal counterpart	Derived	1-abs 2-instr abs[1].V'antip	2	song	NP-instr	
+Bezhta	53	SING	no verbal counterpart	Derived	1-poss 2-abs abs[2].V'pot	1	singer	NP-poss	
+Bezhta	53	SING	no verbal counterpart	Derived	1-poss 2-abs abs[2].V'pot	2	song	NP-abs & abs.V	
+Bezhta	53	SING	no verbal counterpart	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	singer	NP-instr	
+Bezhta	53	SING	no verbal counterpart	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	song	NP-abs & abs.V	
+Bezhta	53	SING	no verbal counterpart	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	sing causer	NP-erg	
+Bezhta	54	GO	yeⁿƛ'al (1)	Basic	1-abs LOC2 abs[1].V	1	goer	NP-abs & abs.V	I
+Bezhta	54	GO	yeⁿƛ'al (1)	Basic	1-abs LOC2 abs[1].V	2	going goal	LOC	X
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	1-abs LOC2 abs[1].V'antip	1	goer	NP-abs & abs.V	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	1-abs LOC2 abs[1].V'antip	2	going goal	LOC	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	1-poss LOC2 abs[1].V'pot	1	goer	NP-poss & abs.V	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	1-poss LOC2 abs[1].V'pot	2	going goal	LOC	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	3-erg 1-abs LOC2 abs[1].V'caus	1	goer	NP-abs & abs.V	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	3-erg 1-abs LOC2 abs[1].V'caus	2	going goal	LOC	
+Bezhta	54	GO	yeⁿƛ'al (1)	Derived	3-erg 1-abs LOC2 abs[1].V'caus	3	go causer	NP-erg	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Basic	1-abs 2-abl abs[1].V	1	leaver	NP-abs & abs.V	I
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Basic	1-abs 2-abl abs[1].V	2	left place/person	NP-abl	X
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Derived	1-abs 2-abl abs[1].V'antip	1	leaver	NP-abs	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Derived	1-abs 2-abl abs[1].V'antip	2	left place/person	NP-abl	
+Bezhta	56	LIVE	ömrö bowal	Basic	1-erg 2-iness V	1	liver	NP-erg	X
+Bezhta	56	LIVE	ömrö bowal	Basic	1-erg 2-iness V	2	living place	NP-iness	X
+Bezhta	56	LIVE	ömrö bowal	Derived	1-poss 2-iness V'pot	1	liver	NP-poss	
+Bezhta	56	LIVE	ömrö bowal	Derived	1-poss 2-iness V'pot	2	living place	NP-iness	
+Bezhta	56	LIVE	ömrö bowal	Derived	3-erg 1-instr 2-iness V'caus	1	liver	NP-instr	
+Bezhta	56	LIVE	ömrö bowal	Derived	3-erg 1-instr 2-iness V'caus	2	living place	NP-iness	
+Bezhta	56	LIVE	ömrö bowal	Derived	3-erg 1-instr 2-iness V'caus	3	live causer	NP-erg	
+Bezhta	57	LAUGH	łowal	Basic	1-abs abs[1].V	1	laugher	NP-abs & abs.V	I
+Bezhta	57	LAUGH	łowal	Derived	2-erg 1-abs abs[1].V'caus4	1	laugher	NP-abs & abs.V	
+Bezhta	57	LAUGH	łowal	Derived	2-erg 1-abs abs[1].V'caus4	2	laugh causer	NP-erg	
+Bezhta	58	SCREAM	lalaƛal	Basic	1-erg 2-sup V	1	screamer	NP-erg	X
+Bezhta	58	SCREAM	lalaƛal	Basic	1-erg 2-sup V	2	screamed at person	NP-sup	X
+Bezhta	58	SCREAM	lalaƛal	Derived	1-abs 2-sup abs[1].V'antip	1	screamer	NP-abs & abs.V	
+Bezhta	58	SCREAM	lalaƛal	Derived	1-abs 2-sup abs[1].V'antip	2	screamed at person	NP-sup	
+Bezhta	58	SCREAM	lalaƛal	Derived	1-poss 2-sup V'pot	1	screamer	NP-poss	
+Bezhta	58	SCREAM	lalaƛal	Derived	1-poss 2-sup V'pot	2	screamed at person	NP-sup	
+Bezhta	58	SCREAM	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	1	screamer	NP-instr	
+Bezhta	58	SCREAM	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	2	screamed at person	NP-sup	
+Bezhta	58	SCREAM	lalaƛal	Derived	3-erg 1-instr 2-sup V'caus	3	scream causer	NP-erg	
+Bezhta	59	FEEL PAIN	k'ok'al	Basic	1-abs abs[1].V	1	pain locus	NP-abs & abs.V	I
+Bezhta	59	FEEL PAIN	k'ok'al	Derived	2-erg 1-abs abs[1].V'caus	1	pain locus	NP-abs & abs.V	
+Bezhta	59	FEEL PAIN	k'ok'al	Derived	2-erg 1-abs abs[1].V'caus	2	pain causer	NP-erg	
+Bezhta	59	FEEL PAIN	k'ok'al	Derived	2-poss 1-abs abs[1].V'pot	1	pain locus	NP-abs & abs.V	
+Bezhta	59	FEEL PAIN	k'ok'al	Derived	2-poss 1-abs abs[1].V'pot	2	pain causer	NP-poss	
+Bezhta	60	FEEL COLD	yäč’ɬal	Basic	1-abs abs[1].V	1	freezing person	NP-abs & abs.V	I
+Bezhta	60	FEEL COLD	yäč’ɬal	Derived	2-erg 1-abs abs[1].V'caus2	1	freezing person	NP-abs & abs.V	
+Bezhta	60	FEEL COLD	yäč’ɬal	Derived	2-erg 1-abs abs[1].V'caus2	2	chill causer	NP-erg	
+Bezhta	60	FEEL COLD	yäč’ɬal	Derived	2-poss 1-abs abs[1].V'	1	freezing person	NP-abs & abs.V	
+Bezhta	60	FEEL COLD	yäč’ɬal	Derived	2-poss 1-abs abs[1].V'	2	chill causer	NP-poss	
+Bezhta	61	DIE	yuɣal	Basic	1-abs abs[1].V	1	dieer	NP-abs & abs.V	I
+Bezhta	61	DIE	yuɣal	Derived	1-poss abs[1].V'pot	1	dieer	NP-poss & abs.V	
+Bezhta	61	DIE	yuɣal	Derived	2-erg 1-abs abs[1].V'caus	1	dieer	NP-abs & abs.V	
+Bezhta	61	DIE	yuɣal	Derived	2-erg 1-abs abs[1].V'caus	2	killer/death causer	NP-erg	
+Bezhta	61	DIE	yuɣal	Derived	2-poss 1-abs abs[1].V'	1	dieer	NP-abs & abs.V	
+Bezhta	61	DIE	yuɣal	Derived	2-poss 1-abs abs[1].V'	2	killer/death causer	NP-poss	
+Bezhta	62	PLAY	k'isal	Basic	1-abs abs[1].V	1	player	NP-abs & abs.V	I
+Bezhta	62	PLAY	k'isal	Derived	1-abs abs[1].V'antip	1	player	NP-abs & abs.V	
+Bezhta	62	PLAY	k'isal	Derived	1-poss abs[1].V'pot	1	player	NP-poss & abs.V	
+Bezhta	62	PLAY	k'isal	Derived	2-erg 1-abs abs[1].V'caus4	1	player	NP-abs & abs.V	
+Bezhta	62	PLAY	k'isal	Derived	2-erg 1-abs abs[1].V'caus4	2	play causer	NP-erg	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Basic	1-abs abs[1].V	1	sad person	NP-abs & abs.V	I
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Derived	1-poss abs[1].V'pot	1	sad person	NP-poss & abs.V	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Derived	2-erg 1-abs abs[1].V'caus	1	sad person	NP-abs & abs.V	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Derived	2-erg 1-abs abs[1].V'caus	2	sadness causer	NP-erg	
+Bezhta	64	BE HUNGRY	nukal	Basic	1-abs abs[1].V	1	hungry person	NP-abs & abs.V	I
+Bezhta	64	BE HUNGRY	nukal	Derived	2-erg 1-abs abs[1].V'caus4	1	hungry person	NP-abs & abs.V	
+Bezhta	64	BE HUNGRY	nukal	Derived	2-erg 1-abs abs[1].V'caus4	2	hunger causer	NP-erg	
+Bezhta	64	BE HUNGRY	nukal	Derived	2-poss 1-abs abs[1].V'pot	1	hungry person	NP-abs & abs.V	
+Bezhta	64	BE HUNGRY	nukal	Derived	2-poss 1-abs abs[1].V'pot	2	hunger causer	NP-poss	
+Bezhta	65	ROLL	k'äyƛäl	Basic	1-abs abs[1].V	1	rolling entity	NP-abs & abs.V	I
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-erg 1-abs abs[1].V'caus	1	rolling entity	NP-abs & abs.V	
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-erg 1-abs abs[1].V'caus	2	roller	NP-erg	
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-poss 1-abs abs[1].V'	1	rolling entity	NP-abs & abs.V	
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-poss 1-abs abs[1].V'	2	roller	NP-poss	
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-poss 1-abs abs[1].V'pot	1	rolling entity	NP-abs & abs.V	
+Bezhta	65	ROLL	k'äyƛäl	Derived	2-poss 1-abs abs[1].V'pot	2	roller	NP-poss	
+Bezhta	66	SINK	ɣanq'iziyaqal	Basic	1-abs abs[1].V	1	sunken entity	NP-abs & abs.V	I
+Bezhta	66	SINK	ɣanq'iziyaqal	Derived	2-erg 1-abs abs[1].V'caus3	1	sunken entity	NP-abs & abs.V	
+Bezhta	66	SINK	ɣanq'iziyaqal	Derived	2-erg 1-abs abs[1].V'caus3	2	sink-(caus)er	NP-erg	
+Bezhta	66	SINK	ɣanq'iziyaqal	Derived	2-poss 1-abs abs[1].V'pot	1	sunken entity	NP-abs & abs.V	
+Bezhta	66	SINK	ɣanq'iziyaqal	Derived	2-poss 1-abs abs[1].V'pot	2	sink-(caus)er	NP-poss	
+Bezhta	67	BURN	yek'al	Basic	1-abs abs[1].V	1	burnt thing	NP-abs & abs.V	I
+Bezhta	67	BURN	yek'al	Derived	2-erg 1-abs abs[1].V'caus	1	burnt thing	NP-abs & abs.V	
+Bezhta	67	BURN	yek'al	Derived	2-erg 1-abs abs[1].V'caus	2	burner	NP-erg	
+Bezhta	67	BURN	yek'al	Derived	2-poss 1-abs abs[1].V'	1	burnt thing	NP-abs & abs.V	
+Bezhta	67	BURN	yek'al	Derived	2-poss 1-abs abs[1].V'	2	burner	NP-poss	
+Bezhta	67	BURN	yek'al	Derived	2-poss 1-abs abs[1].V'pot	1	burnt thing	NP-abs & abs.V	
+Bezhta	67	BURN	yek'al	Derived	2-poss 1-abs abs[1].V'pot	2	burner	NP-poss	
+Bezhta	68	BE DRY	qoqal	Basic	1-abs abs[1].V	1	dry thing	NP-abs & abs.V	I
+Bezhta	68	BE DRY	qoqal	Derived	1-abs abs[1].V'antip	1	dry thing	NP-abs & abs.V	
+Bezhta	68	BE DRY	qoqal	Derived	2-erg 1-abs abs[1].V'caus	1	dry thing	NP-abs & abs.V	
+Bezhta	68	BE DRY	qoqal	Derived	2-erg 1-abs abs[1].V'caus	2	drier / dry causer	NP-erg	
+Bezhta	68	BE DRY	qoqal	Derived	2-poss 1-abs abs[1].V'	1	dry thing	NP-abs & abs.V	
+Bezhta	68	BE DRY	qoqal	Derived	2-poss 1-abs abs[1].V'	2	drier / dry causer	NP-poss	
+Bezhta	68	BE DRY	qoqal	Derived	2-poss 1-abs abs[1].V'pot	1	dry thing	NP-abs & abs.V	
+Bezhta	68	BE DRY	qoqal	Derived	2-poss 1-abs abs[1].V'pot	2	drier / dry causer	NP-poss	
+Bezhta	71	GRIND	haʔal	Basic	1-erg 2-abs abs[2].V	1	grinder	NP-erg	A
+Bezhta	71	GRIND	haʔal	Basic	1-erg 2-abs abs[2].V	2	ground thing	NP-abs & abs.V	P
+Bezhta	71	GRIND	haʔal	Derived	1-abs 2-instr abs[1].V'antip	1	grinder	NP-abs & abs.V	
+Bezhta	71	GRIND	haʔal	Derived	1-abs 2-instr abs[1].V'antip	2	ground thing	NP-instr	
+Bezhta	71	GRIND	haʔal	Derived	1-poss 2-abs abs[2].V'	1	grinder	NP-poss	
+Bezhta	71	GRIND	haʔal	Derived	1-poss 2-abs abs[2].V'	2	ground thing	NP-abs & abs.V	
+Bezhta	71	GRIND	haʔal	Derived	1-poss 2-abs abs[2].V'pot	1	grinder	NP-poss	
+Bezhta	71	GRIND	haʔal	Derived	1-poss 2-abs abs[2].V'pot	2	ground thing	NP-abs & abs.V	
+Bezhta	71	GRIND	haʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	grinder	NP-instr	
+Bezhta	71	GRIND	haʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	ground thing	NP-abs & abs.V	
+Bezhta	71	GRIND	haʔal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	grind causer	NP-erg	
+Bezhta	72	WIPE	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	1	wiper	NP-erg	A
+Bezhta	72	WIPE	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	2	wiped material	LOC	X
+Bezhta	72	WIPE	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	3	wiping surface	NP-abs & abs.V	P
+Bezhta	72	WIPE	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	1	wiper	NP-abs & abs.V	
+Bezhta	72	WIPE	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	2	wiped material	LOC	
+Bezhta	72	WIPE	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	3	wiping surface	NP-instr	
+Bezhta	72	WIPE	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	1	wiper	NP-instr	
+Bezhta	72	WIPE	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	2	wiped material	LOC	
+Bezhta	72	WIPE	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	3	wiping surface	NP-abs & abs.V	
+Bezhta	72	WIPE	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	4	wipe causer	NP-erg	
+Bezhta	73	DIG	yäxäl	Basic	1-erg 2-abs abs[2].V	1	digger	NP-erg	A
+Bezhta	73	DIG	yäxäl	Basic	1-erg 2-abs abs[2].V	2	dug hole/ground	NP-abs & abs.V	P
+Bezhta	73	DIG	yäxäl	Derived	1-poss 2-abs abs[2].V'pot	1	digger	NP-poss	
+Bezhta	73	DIG	yäxäl	Derived	1-poss 2-abs abs[2].V'pot	2	dug hole/ground	NP-abs & abs.V	
+Bezhta	73	DIG	yäxäl	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	digger	NP-instr	
+Bezhta	73	DIG	yäxäl	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	dug hole/ground	NP-abs & abs.V	
+Bezhta	73	DIG	yäxäl	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	dig causer	NP-erg	
+Bezhta	74	PUSH	zistuqlal	Basic	1-erg 2-abs abs[2].V	1	pusher	NP-erg	A
+Bezhta	74	PUSH	zistuqlal	Basic	1-erg 2-abs abs[2].V	2	pushee	NP-abs & abs.V	P
+Bezhta	74	PUSH	zistuqlal	Derived	1-abs 2-instr abs[1].V'antip	1	pusher	NP-abs & abs.V	
+Bezhta	74	PUSH	zistuqlal	Derived	1-abs 2-instr abs[1].V'antip	2	pushee	NP-instr	
+Bezhta	74	PUSH	zistuqlal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	pusher	NP-instr	
+Bezhta	74	PUSH	zistuqlal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	pushee	NP-abs & abs.V	
+Bezhta	74	PUSH	zistuqlal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	push causer	NP-erg	
+Bezhta	75	BRING	yaq'al	Basic	1-erg 2-lat 3-abs abs[3].V	1	bringer	NP-erg	A
+Bezhta	75	BRING	yaq'al	Basic	1-erg 2-lat 3-abs abs[3].V	2	bringing recipient	NP-lat	X
+Bezhta	75	BRING	yaq'al	Basic	1-erg 2-lat 3-abs abs[3].V	3	brought thing	NP-abs & abs.V	P
+Bezhta	75	BRING	yaq'al	Derived	1-abs 2-lat 3-instr abs[1].V'antip	1	bringer	NP-abs & abs.V	
+Bezhta	75	BRING	yaq'al	Derived	1-abs 2-lat 3-instr abs[1].V'antip	2	bringing recipient	NP-lat	
+Bezhta	75	BRING	yaq'al	Derived	1-abs 2-lat 3-instr abs[1].V'antip	3	brought thing	NP-instr	
+Bezhta	75	BRING	yaq'al	Derived	1-erg 2-apud 3-abs abs[3].V'	1	bringer	NP-erg	
+Bezhta	75	BRING	yaq'al	Derived	1-erg 2-apud 3-abs abs[3].V'	2	bringing recipient	NP-apud	
+Bezhta	75	BRING	yaq'al	Derived	1-erg 2-apud 3-abs abs[3].V'	3	brought thing	NP-abs & abs.V	
+Bezhta	75	BRING	yaq'al	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	bringer	NP-poss	
+Bezhta	75	BRING	yaq'al	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	bringing recipient	NP-lat	
+Bezhta	75	BRING	yaq'al	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	brought thing	NP-abs & abs.V	
+Bezhta	75	BRING	yaq'al	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	bringer	NP-instr	
+Bezhta	75	BRING	yaq'al	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	bringing recipient	NP-lat	
+Bezhta	75	BRING	yaq'al	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	brought thing	NP-abs & abs.V	
+Bezhta	75	BRING	yaq'al	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	bring causer	NP-erg	
+Bezhta	76	STEAL	yuⁿcal (2)	Basic	1-erg 2-possabl 3-abs abs[3].V	1	stealer	NP-erg	A
+Bezhta	76	STEAL	yuⁿcal (2)	Basic	1-erg 2-possabl 3-abs abs[3].V	2	stealing source	NP-possabl	X
+Bezhta	76	STEAL	yuⁿcal (2)	Basic	1-erg 2-possabl 3-abs abs[3].V	3	stolen thing	NP-abs & abs.V	P
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	1	stealer	NP-abs & abs.V	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	2	stealing source	NP-possabl	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-abs 2-possabl 3-instr abs[1].V'antip	3	stolen thing	NP-instr	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	1	stealer	NP-poss	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	2	stealing source	NP-possabl	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	1-poss 2-possabl 3-abs abs[3]V'pot	3	stolen thing	NP-abs & abs.V	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	1	stealer	NP-instr	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	2	stealing source	NP-possabl	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	3	stolen thing	NP-abs & abs.V	
+Bezhta	76	STEAL	yuⁿcal (2)	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	4	steal causer	NP-erg	
+Bezhta	77	TEACH	małciyowal	Basic	1-erg 2-lat 3-abs abs[3].V	1	teacher	NP-erg	A
+Bezhta	77	TEACH	małciyowal	Basic	1-erg 2-lat 3-abs abs[3].V	2	teachee	NP-lat	X
+Bezhta	77	TEACH	małciyowal	Basic	1-erg 2-lat 3-abs abs[3].V	3	taught content	NP-abs & abs.V	P
+Bezhta	77	TEACH	małciyowal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	1	teacher	NP-poss	
+Bezhta	77	TEACH	małciyowal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	2	teachee	NP-lat	
+Bezhta	77	TEACH	małciyowal	Derived	1-poss 2-lat 3-abs abs[3].V'pot	3	taught content	NP-abs & abs.V	
+Bezhta	77	TEACH	małciyowal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	1	teacher	NP-instr	
+Bezhta	77	TEACH	małciyowal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	2	teachee	NP-lat	
+Bezhta	77	TEACH	małciyowal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	3	taught content	NP-abs & abs.V	
+Bezhta	77	TEACH	małciyowal	Derived	4-erg 1-instr 2-lat 3-abs abs[3].V'caus	4	teach causer	NP-erg	
+Bezhta	78	HEAR	tuqal	Basic	1-lat 2-abs abs[2].V	1	hearer	NP-lat	X
+Bezhta	78	HEAR	tuqal	Basic	1-lat 2-abs abs[2].V	2	heard sound	NP-abs & abs.V	I
+Bezhta	78	HEAR	tuqal	Derived	3-erg 1-lat 2-abs abs[2].V'caus	1	hearer	NP-lat	
+Bezhta	78	HEAR	tuqal	Derived	3-erg 1-lat 2-abs abs[2].V'caus	2	heard sound	NP-abs & abs.V	
+Bezhta	78	HEAR	tuqal	Derived	3-erg 1-lat 2-abs abs[2].V'caus	3	hear causer	NP-erg	
+Bezhta	79	COOK	helal	Basic	1-erg 2-abs abs[2].V	1	cooker	NP-erg	A
+Bezhta	79	COOK	helal	Basic	1-erg 2-abs abs[2].V	2	cooked food	NP-abs & abs.V	P
+Bezhta	79	COOK	helal	Derived	1-abs 2-instr abs[1].V'antip	1	cooker	NP-abs & abs.V	
+Bezhta	79	COOK	helal	Derived	1-abs 2-instr abs[1].V'antip	2	cooked food	NP-instr	
+Bezhta	79	COOK	helal	Derived	1-poss 2-abs abs[2].V'	1	cooker	NP-poss	
+Bezhta	79	COOK	helal	Derived	1-poss 2-abs abs[2].V'	2	cooked food	NP-abs & abs.V	
+Bezhta	79	COOK	helal	Derived	1-poss 2-abs abs[2].V'pot	1	cooker	NP-poss	
+Bezhta	79	COOK	helal	Derived	1-poss 2-abs abs[2].V'pot	2	cooked food	NP-abs & abs.V	
+Bezhta	79	COOK	helal	Derived	2-abs abs[2].V'	2	cooked food	NP-abs & abs.V	
+Bezhta	79	COOK	helal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	cooker	NP-instr	
+Bezhta	79	COOK	helal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	cooked food	NP-abs & abs.V	
+Bezhta	79	COOK	helal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	cook causer	NP-erg	
+Bezhta	80	BOIL	ɣayƛal	Basic	1-abs abs[1].V	1	boiled thing	NP-abs & abs.V	I
+Bezhta	80	BOIL	ɣayƛal	Derived	1-abs abs[1].V'antip	1	boiled thing	NP-abs & abs.V	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-erg 1-abs abs[1].V'caus	1	boiled thing	NP-abs & abs.V	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-erg 1-abs abs[1].V'caus	2	boiler	NP-erg	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-poss 1-abs abs[1].V'	1	boiled thing	NP-abs & abs.V	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-poss 1-abs abs[1].V'	2	boiler	NP-poss	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-poss 1-abs abs[1].V'pot	1	boiled thing	NP-abs & abs.V	
+Bezhta	80	BOIL	ɣayƛal	Derived	2-poss 1-abs abs[1].V'pot	2	boiler	NP-poss	
+Bezhta	81	APPEAR	yoⁿq'al	Basic	1-abs abs[1].V	1	appearer	NP-abs & abs.V	I
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-erg 1-abs abs[1].V'caus	1	appearer	NP-abs & abs.V	
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-erg 1-abs abs[1].V'caus	2	appear causer	NP-erg	
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-poss 1-abs abs[1].V'	1	appearer	NP-abs & abs.V	
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-poss 1-abs abs[1].V'	2	appear causer	NP-poss	
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-poss 1-abs abs[1].V'pot	1	appearer	NP-abs & abs.V	
+Bezhta	81	APPEAR	yoⁿq'al	Derived	2-poss 1-abs abs[1].V'pot	2	appear causer	NP-poss	
+Bezhta	82	BE ILL	k'ok'al	Basic	1-abs abs[1].V	1	sickness locus	NP-abs & abs.V	I
+Bezhta	82	BE ILL	k'ok'al	Derived	2-erg 1-abs abs[1].V'caus	1	sickness locus	NP-abs & abs.V	
+Bezhta	82	BE ILL	k'ok'al	Derived	2-erg 1-abs abs[1].V'caus	2	sickness causer	NP-erg	
+Bezhta	82	BE ILL	k'ok'al	Derived	2-poss 1-abs abs[1].V'pot	1	sickness locus	NP-abs & abs.V	
+Bezhta	82	BE ILL	k'ok'al	Derived	2-poss 1-abs abs[1].V'pot	2	sickness causer	NP-poss	
+Bezhta	83	CRY	yiyaal	Basic	1-abs abs[1].V	1	crier	NP-abs & abs.V	I
+Bezhta	83	CRY	yiyaal	Derived	1-poss abs[1].V'pot	1	crier	NP-poss & abs.V	
+Bezhta	83	CRY	yiyaal	Derived	2-erg 1-abs abs[1].V'caus4	1	crier	NP-abs & abs.V	
+Bezhta	83	CRY	yiyaal	Derived	2-erg 1-abs abs[1].V'caus4	2	cry causer	NP-erg	
+Bezhta	84	FALL	yekal	Basic	1-abs 2-supabl abs[1].V	1	fallee	NP-abs & abs.V	I
+Bezhta	84	FALL	yekal	Basic	1-abs 2-supabl abs[1].V	2	fall source	NP-supabl	X
+Bezhta	84	FALL	yekal	Derived	3-erg 1-abs 2-supabl abs[1].V'caus	1	fallee	NP-abs & abs.V	
+Bezhta	84	FALL	yekal	Derived	3-erg 1-abs 2-supabl abs[1].V'caus	2	fall source	NP-supabl	
+Bezhta	84	FALL	yekal	Derived	3-erg 1-abs 2-supabl abs[1].V'caus	3	fall causer	NP-erg	
+Bezhta	84	FALL	yekal	Derived	3-poss 1-abs abs[1].V'pot	1	fallee	NP-abs & abs.V	
+Bezhta	84	FALL	yekal	Derived	3-poss 1-abs abs[1].V'pot	3	fall causer	NP-poss	
+Bezhta	84	FALL	yekal	Derived	3-poss 2-supabl 1-abs abs[1].V'	1	fallee	NP-abs & abs.V	
+Bezhta	84	FALL	yekal	Derived	3-poss 2-supabl 1-abs abs[1].V'	2	fall source	NP-supabl	
+Bezhta	84	FALL	yekal	Derived	3-poss 2-supabl 1-abs abs[1].V'	3	fall causer	NP-poss	
+Bezhta	85	MAKE	yowal	Basic	1-erg 2-abs abs[2].V	1	maker	NP-erg	A
+Bezhta	85	MAKE	yowal	Basic	1-erg 2-abs abs[2].V	2	made thing	NP-abs & abs.V	P
+Bezhta	85	MAKE	yowal	Derived	1-abs 2-instr abs[1].V'antip	1	maker	NP-abs & abs.V	
+Bezhta	85	MAKE	yowal	Derived	1-abs 2-instr abs[1].V'antip	2	made thing	NP-instr	
+Bezhta	85	MAKE	yowal	Derived	1-poss 2-abs abs[2].V'pot	1	maker	NP-poss	
+Bezhta	85	MAKE	yowal	Derived	1-poss 2-abs abs[2].V'pot	2	made thing	NP-abs & abs.V	
+Bezhta	85	MAKE	yowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	1	maker	NP-instr	
+Bezhta	85	MAKE	yowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	2	made thing	NP-abs & abs.V	
+Bezhta	85	MAKE	yowal	Derived	3-erg 1-instr 2-abs abs[2].V'caus	3	make causer	NP-erg	
+Bezhta	86	GET	yiqal	Basic	1-lat 2-possabl 3-abs abs[3].V	1	receiver	NP-lat	X
+Bezhta	86	GET	yiqal	Basic	1-lat 2-possabl 3-abs abs[3].V	2	receiving source	NP-possabl	X
+Bezhta	86	GET	yiqal	Basic	1-lat 2-possabl 3-abs abs[3].V	3	received thing	NP-abs & abs.V	I
+Bezhta	86	GET	yiqal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	1	receiver	NP-instr	
+Bezhta	86	GET	yiqal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	2	receiving source	NP-possabl	
+Bezhta	86	GET	yiqal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	3	received thing	NP-abs & abs.V	
+Bezhta	86	GET	yiqal	Derived	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus	4	receive causer	NP-erg	
+Bezhta	87	WANT	yat'al	Basic	1-lat 2-abs abs[2].V	1	wanter	NP-lat	X
+Bezhta	87	WANT	yat'al	Basic	1-lat 2-abs abs[2].V	2	wanted thing	NP-abs & abs.V	I
+Bezhta	87	WANT	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	1	wanter	NP-lat	
+Bezhta	87	WANT	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	2	wanted thing	NP-abs & abs.V	
+Bezhta	87	WANT	yat'al	Derived	3-erg 1-lat 2-abs abs[2].V'caus	3	want causer	NP-erg	
+Bezhta	90	CLEAN	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	1	cleaner	NP-erg	A
+Bezhta	90	CLEAN	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	2	cleaned away material	LOC	X
+Bezhta	90	CLEAN	yaⁿcolal	Basic	1-erg LOC2 3-abs abs[3].V	3	cleaned thing	NP-abs & abs.V	P
+Bezhta	90	CLEAN	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	1	cleaner	NP-abs & abs.V	
+Bezhta	90	CLEAN	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	2	cleaned away material	LOC	
+Bezhta	90	CLEAN	yaⁿcolal	Derived	1-abs LOC2 3-instr abs[1].V'antip	3	cleaned thing	NP-instr	
+Bezhta	90	CLEAN	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	1	cleaner	NP-instr	
+Bezhta	90	CLEAN	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	2	cleaned away material	LOC	
+Bezhta	90	CLEAN	yaⁿcolal	Derived	4-erg 1-instr LOC2 3-abs abs[3].V'caus	3	cleaned thing	NP-abs & abs.V	

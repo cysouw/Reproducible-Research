@@ -1,0 +1,19 @@
+﻿Language_name	Gloss	Meaning
+Yorùbá	1	first person
+Yorùbá	3	third person
+Yorùbá	DEF	definite
+Yorùbá	DEM	demonstrative
+Yorùbá	INDEF	indefinite
+Yorùbá	INF	infinitive
+Yorùbá	INSTR	instrumental
+Yorùbá	O	object
+Yorùbá	PART1	part 1 of bipartite verb
+Yorùbá	PART2	part 2 of bipartite verb
+Yorùbá	PL	plural
+Yorùbá	POSS	possessive
+Yorùbá	PREP	preposition
+Yorùbá	PROG	progressive
+Yorùbá	S	subject
+Yorùbá	SG	singular
+Yorùbá	V1	part 1 of bipartite verb
+Yorùbá	V2	part 2 of bipartite verb

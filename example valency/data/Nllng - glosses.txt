@@ -1,0 +1,32 @@
+﻿Language_name	Gloss	Meaning
+Nǀǀng	BEN	benefactive
+Nǀǀng	CAUS	causative
+Nǀǀng	CONN	connector
+Nǀǀng	COP	copula
+Nǀǀng	DAT	dative
+Nǀǀng	DIM	diminuitive
+Nǀǀng	E	exclusive
+Nǀǀng	EPENTH	epenthesis
+Nǀǀng	FOC	focus
+Nǀǀng	GEN	genitive
+Nǀǀng	H	human
+Nǀǀng	I	inclusive
+Nǀǀng	IMP	imperative
+Nǀǀng	INST	instrumental
+Nǀǀng	INTERJ	interjection
+Nǀǀng	IRR	irrealis
+Nǀǀng	NEG	negation
+Nǀǀng	NH	non-human
+Nǀǀng	NOM	nominalizer
+Nǀǀng	OBL	multi-purpose oblique
+Nǀǀng	PFV	perfective
+Nǀǀng	PL	plural
+Nǀǀng	PROH	prohibitive
+Nǀǀng	PST	past
+Nǀǀng	PURP	purposive
+Nǀǀng	QF	question focus marker
+Nǀǀng	REL	relative clause
+Nǀǀng	SG	singular
+Nǀǀng	STAT	stative
+Nǀǀng	STR	strong pronoun
+Nǀǀng	SUBORD	subordination

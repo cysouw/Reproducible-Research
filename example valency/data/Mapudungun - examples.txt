@@ -1,0 +1,139 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Mapudungun	1	Elicited from speaker	Ti wentru takulmafi ti makuñ ti pichiche.		ti wentru taku-l-ma-fi ti makuñ ti pichi-che	ART man cover-CAUS1-APPL2-3O ART blanket ART little-person	The man covered the child with the blanket.
+Mapudungun	2	Elicited from speaker	Ti wentru takulfi ti pichiche ti makuñ mew.		ti wentru taku-l-fi ti pichi-che ti makuñ mew	ART man cover-CAUS1-3O ART little-person ART blanket PPOS	The man covered the child with the blanket.
+Mapudungun	3	Elicited from speaker	Ti wentru apoli ñi shifüñ ko mew.		ti wentru apo-l-i ñi shifüñ ko mew	ART man fill-CAUS1-IND 3.PSR bowl/glass water PPOS	The man filled the glass with water.
+Mapudungun	4	Elicited from speaker	Ti wentru chechümi ti kareta kachu mew.		ti wentru chechüm-i ti kareta kachu mew	ART man load-IND ART cart grass/hay PPOS	The man loaded the hay on the cart.
+Mapudungun	5	Elicited from speaker	Trapeli ñi kawell ti wentru.		trapel-i ñi kawell ti wentru	tie-IND 3.PSR horse ART man	The man tied his horse.
+Mapudungun	6	Elicited from speaker	Ti wentru wütruntukuy ko shifüñ mew.		ti wentru wütrun-tuku-i ko shifüñ mew	ART man flow-put-IND water bowl/glass PPOS	The man poured water into the glass.
+Mapudungun	7	Elicited from speaker	Wenta mesa mew eli ñi lifru ti wentru.		wenta mesa mew el-i ñi lifru ti wentru	above table PPOS put-IND 3.PSR book ART man	The man put his book on the table.
+Mapudungun	8	Elicited from speaker	Kiñe kura ütrüftufi ti ventana mew ti pichi wentru.		kiñe kura ütrüf-tu-fi ti ventana mew ti pichi wentru	one stone throw-APPL3-3O ART window PPOS ART little man	The boy threw a stone into the window.
+Mapudungun	9	Elicited from speaker	Ti pichi malen küpalelfi kiñe rayen ñi kimeltuchefe.		ti pichi malen küpa-l-el-fi kiñe rayen ñi kimeltuchefe	ART little girl come-CAUS1-APPL1-3O one flower 3.PSR teacher	The girl brought the flower to the teacher.
+Mapudungun	10		Ti pichi malen yelfi kiñe rayen ñi kimeltuchefe.		ti pichi malen ye-l-fi kiñe rayen ñi kimeltuchefe	ART little girl carry-APPL1-3O one flower 3.PSR teacher	The girl carried a flower to the teacher.
+Mapudungun	11		Ti pichi malen yetuy kiñe rayen colegio mew.		ti pichi malen ye-tu-i kiñe rayen colegio mew	ART little girl carry-TEL-IND one flower school PPOS	The girl carried a flower to school.
+Mapudungun	12		Ti pichi malen amulelfi ti lifru ñi kimeltuchefe.		ti pichi malen amu-l-el-fi ti lifru ñi kimeltuchefe	ART little girl go-CAUS1-APPL1-3O ART book 3.PSR teacher	The girl sent the book to her teacher.
+Mapudungun	13		Ti pichi malen amuli ti lifru ñi colegio mew.		ti pichi malen amu-l-i ti lifru ñi colegio mew	ART little girl go-CAUS1-IND ART book 3.PSR school PPOS	The girl sent the book to her school.
+Mapudungun	14		Elufi lifru ñi kimeltuchefe ti pichi wentru.		elu-fi lifru ñi kimeltuchefe ti pichi wentru	give-3O book 3.PSR teacher ART little man	The boy gave a book to the teacher.
+Mapudungun	15		Pengelfi lifru ñi kimeltuchefe ti pichi wentru.		penge-l-fi lifru ñi kimeltuchefe ti pichi wentru	show-APPL1-3O book 3.PSR teacher ART little man	The boy showed a book to the teacher.
+Mapudungun	16		Ti pichi wentru llowmafi ti lifru ñi kimeltuchefe.		ti pichi wentru llow-ma-fi ti lifru ñi kimeltuchefe	ART little man receive-APPL2-3O ART book 3.PSR teacher	The boy got the book from the teacher.
+Mapudungun	17		Ti pichi wentru weñeñmafi ti lifru ti kimeltuchefe.		ti pichi wentru weñe-ñma-fi ti lifru ti kimeltuchefe	ART little man steal-APPL2-3O ART book ART teacher	The boy stole the book from the teacher.
+Mapudungun	18		Ti pichi wentru llumümmafi ti lifru ñi kimeltuchefe.		ti pichi wentru llum-üm-ma-fi ti lifru ñi kimeltuchefe	ART little man hide-CAUS-APPL2-3O ART book 3.PSR teacher	The boy hid the book from the teacher.
+Mapudungun	19		Kacharnentumay ñi lifru kiñe hoja ti pichi wentru.		kacharnentu-ma-i ñi lifru kiñe hoja ti pichi wentru	tear.out-APPL2-IND 3.PSR book one page ART little man	The boy tore a page from the book.
+Mapudungun	20		Katrüy ti kofke ti pichi wentru kuchillu engu.		katrü-i ti kofke ti pichi wentru kuchillu engu	cut-IND ART bread ART little man knife 3DU	The boy cut the bread with a knife.
+Mapudungun	21		Kiñe mamüll mew kachillmafi ti filu ti pichi wentru.		kiñe mamüll mew kachillma-fi ti filu ti pichi wentru	one wood PPOS touch-3O ART snake ART little man	The boy touched the snake with a stick.
+Mapudungun	22		Kiñe mamüll mew trawawi ti filu ti pichi wentru.		kiñe mamüll mew trawaw-i ti filu ti pichi wentru	one wood PPOS hit-IND ART snake ART little man	The boy hit the snake with a stick.
+Mapudungun	23		Kiñe mamüll mew trawawtrawawtuy ti filu ti pichi wentru.		kiñe mamüll mew trawaw~trawaw-tu-i ti filu ti pichi wentru	one wood PPOS hit~REDUP-ITER-IND ART snake ART little man	The boy beat the snake with a stick.
+Mapudungun	24		Kiñe mamüll mew langümfi ti filu ti pichi wentru.		kiñe mamüll mew langüm-fi ti filu ti pichi wentru	one wood PPOS kill-3O ART snake ART little man	The boy killed the snake with a stick.
+Mapudungun	25		Ti pichi wentru watrofi ti malal kiñe fütra kura yengu.		ti pichi wentru watro-fi ti malal kiñe fütra kura yengu	ART little man break-3O ART pen one big stone 3DU	The boy broke the pen with a big stone.
+Mapudungun	26		Ti wentru dewmay kiñe ruka mamüll yengu.		ti wentru dewma-i kiñe ruka mamüll yengu	ART man make-IND one house wood 3DU	The man built a house with wood.
+Mapudungun	27		Chemnorume pilafi ti wentru tati pichi domo.		chemnorume pi-la-fi ti wentru tati pichi domo	nothing say-NEG-3O ART man ART little woman	The man said nothing to the girl.
+Mapudungun	28		Ti wentru wirarüfi ti pichi domo.		ti wentru wirarü-fi ti pichi domo	ART man shout-3O ART little woman	The man shouted (from afar) to the girl.
+Mapudungun	29		Ti wentru wirarütufi ti pichi domo.		ti wentru wirarü-tu-fi ti pichi domo	ART man shout-TEL-3O ART little woman	The man shouted (angrily) at the girl.
+Mapudungun	30		Ti wentru ngütramelfi ti pichi domo.		ti wentru ngütram-el-fi ti pichi domo	ART man tell.story-APPL1-3O ART little woman	The man told a story / stories to the girl.
+Mapudungun	31		Ti wentru kiñe ngütram pifi ti pichi domo.		ti wentru kiñe ngütram pi-fi ti pichi domo	ART man one story say-3O ART little woman	The man told a story to the girl.
+Mapudungun	32		Ti pichi wentru ngillatufi ti wentru pülata.		ti pichi wentru ngillatu-fi ti wentru pülata	ART little man ask.for-3O ART man money	The boy asked the man for money.
+Mapudungun	33		Ti wentru ngütramkalelfi ti pichi wentru ti pichi domo mew.		ti wentru ngütramka-lel-fi ti pichi wentru ti pichi domo mew	ART man talk-APPL1-3O ART little man ART little woman PPOS	The man talked to the boy about the girl.
+Mapudungun	34		Ti wentru ngütramkayefi ti pichi domo ti pichi wentru mew.		ti wentru ngütramka-ye-fi ti pichi domo ti pichi wentru mew	ART man talk-APPL4-3O ART little woman ART little man PPOS	The man talked to the boy about the girl.
+Mapudungun	35		Ti wentru kimfuy ti pichi wentru.		ti wentru kim-fu-i ti pichi wentru	ART man know-RI-IND ART little man	The man knew the boy.
+Mapudungun	36		Ti wentru pefi ti pichi wentru.		ti wentru pe-fi ti pichi wentru	ART man see-3O ART little man	The man saw the boy.
+Mapudungun	37		Ti wentru lelifi ti pichi wentru.		ti wentru leli-fi ti pichi wentru	ART man look.at-3O ART little man	The man looked at the boy.
+Mapudungun	38		Ti wentru adkintufi ti pichi wentru.		ti wentru adkintu-fi ti pichi wentru	ART man look.at-3O ART little man	The man looked at the boy (from afar).
+Mapudungun	39		Ti wentru trupefülfi ti pichi wentru.		ti wentru trupefü-l-fi ti pichi wentru	ART man be.frightened-CAUS1-3O ART little man	The man frightened the boy.
+Mapudungun	40		Ti pichi wentru llükafi ti wentru.		ti pichi wentru llüka-fi ti wentru	ART little man fear-3O ART man	The boy feared the man.
+Mapudungun	41		Ti pichi wentru ayüfi ti wentru.		ti pichi wentru ayü-fi ti wentru	ART little man like-3O ART man	The boy liked the man.
+Mapudungun	42		Ti pichi wentru kümentuy ti muday.		ti pichi wentru küme-ntu-i ti muday	ART little man good-VR-IND ART chicha	The boy likes the chicha.
+Mapudungun	43		Ti wentru kintufi ti pichi wentru.		ti wentru kintu-fi ti pichi wentru	ART man search.for-3O ART little man	The man searched for the boy.
+Mapudungun	44		Tralkatufengey ti wentru.		tralkatufe-nge-i ti wentru	hunter-be-IND ART man	The man is a hunter.
+Mapudungun	45		Ti wentru ka ti malen trafüyengu rüpü mew.		ti wentru ka ti malen trafü-yengu rüpü mew	ART man and ART girl meet-3DU road PPOS	The man met the girl on the road.
+Mapudungun	46		Ti wentru inafi ti pichi domo.		ti wentru ina-fi ti pichi domo	ART man follow-3O ART little woman	The man followed the girl.
+Mapudungun	47		Ti wentru kellufi ti pichi domo.		ti wentru kellu-fi ti pichi domo	ART man help-3O ART little woman	The man helped the girl.
+Mapudungun	48		Ti pichi domo i ti kofke.		ti pichi domo i ti kofke	ART little woman eat ART bread	The girl ate the bread.
+Mapudungun	49		Ti pichi domo takufi ti pichi wentru.		ti pichi domo taku-fi ti pichi wentru	ART little woman dress-3O ART little man	The girl dressed the boy.
+Mapudungun	50		Ti pichi domo küchafi ti pichi wentru.		ti pichi domo kücha-fi ti pichi wentru	ART little woman wash-3O ART little man	The girl washed the boy.
+Mapudungun	51		Ti wentru chafoy.		ti wentru chafo-i	ART man cough-IND	The man coughed.
+Mapudungun	52		Ti wentru wechuy wingkul mew.		ti wentru wechu-i wingkul mew	ART man climb-IND hill PPOS	The man climbed (up) the hill.
+Mapudungun	53		Ti wentru pülli mew anüy.		ti wentru pülli mew anü-i	ART man ground PPOS sit.down-IND	The man sat down on the ground.
+Mapudungun	54		Ti wentru pülli mew anülefuy.		ti wentru pülli mew anü-le-fu-i	ART man ground PPOS sit.down-RES-RI-IND	The man sat on the ground.
+Mapudungun	55		Ti pichi wentru lefi lelfün mew.		ti pichi wentru lef-i lelfün mew	ART little man run-IND field PPOS	The boy ran on the field.
+Mapudungun	56		Ti pichi wentru rüngküy pülli mew.		ti pichi wentru rüngkü-i pülli mew	ART little man jump-IND ground PPOS	The boy jumped on the ground.
+Mapudungun	57		Ti pichi wentru amuy waria mew.		ti pichi wentru amu-i waria mew	ART little man go-IND town PPOS	The boy went to the town.
+Mapudungun	58		Tüfa ruka mew müley che.		tüfa ruka mew müle-i che	this house PPOS live-IND people	This house is inhabited. / People live in this house.
+Mapudungun	59		ülkantuy ti pichi wentru.		ülkantu-i ti pichi wentru	sing-IND ART little man	The boy sang.
+Mapudungun	60		Wefpay ti pichi wentru rüpü mew.		wef-pa-i ti pichi wentru rüpü mew	appear-CIS-IND ART little man road PPOS	The boy appeared on the road.
+Mapudungun	61		Kutrani ñi lipang.		kutran-i ñi lipang	hurt-IND 1SG.PSR arm	My arm hurts.
+Mapudungun	62		Kutranlipangün.		kutran-lipang-ün	hurt-arm-1SG.IND	My arm hurts.
+Mapudungun	63		Lay ti wentru.		la-i ti wentru	die-IND ART man	The man died.
+Mapudungun	64		Trani ko mew ti wentru.		tran-i ko mew ti wentru	fall-IND water PPOS ART man	The man fell into the water.
+Mapudungun	65		Ngüñülefuy ti pichi wentru.		ngüñü-le-fu-i ti pichi wentru	get.hungry-RES-RI-IND ART little man	The boy was hungry.
+Mapudungun	66		Mawüni.		mawün-i	rain-IND	It rained.
+Mapudungun	67		Ti wentru rofülfi ti domo.		ti wentru rofül-fi ti domo	ART man hug-3O ART woman	The man hugged the woman.
+Mapudungun	68		Ti wentru nümütuy ti ilo.		ti wentru nümü-tu-i ti ilo	ART man smell-APPL3-IND ART meat	The man smelled the meat.
+Mapudungun	69		Ti wentru rakiduamyey ti wetripantu.		ti wentru rakiduam-ye-i ti wetripantu	ART man think-APPL4-IND ART New.Year	The man thinks about (the celebration of) New Year.
+Mapudungun	70		Lüfküley ti ruka.		lüf-küle-i ti ruka	burn-PROG-IND ART house	The house is burning.
+Mapudungun	71		Angküley mamüll.		angkü-le-i mamüll	become.dry-RES-IND wood	The (fire)wood is / has become dry.
+Mapudungun	72		Epu kofke afümi.		epu kofke afü-m-i	two bread boil-CAUS-IND	S/he cooked (=baked) two pieces of bread.
+Mapudungun	73		Afüy tüfachi ilo.		afü-i tüfa-chi ilo	boil-IND this-ATTR meat	This meat boiled.
+Mapudungun	74		Pu wentru allküy tralkan.		pu wentru allkü-i tralkan	PL man hear-IND thunder	The men heard the thunder.
+Mapudungun	75		Awkantuy ti pichi wentru.		awkantu-i ti pichi wentru	play-IND ART little man	The boy played.
+Mapudungun	76		Ayey ti pichi domo.		aye-i ti pichi domo	laugh-IND ART little woman	The girl laughed.
+Mapudungun	77		Ti wentru ayüy we küdaw.		ti wentru ayü-i we küdaw	ART man want-IND new work	The man wants a new job.
+Mapudungun	78		Chafimi tüfachi manshana.		chaf-i-m-i tüfa-chi manshana	peel-IND-2-SG this-ATTR apple	You (sg.) peeled this apple.
+Mapudungun	79		Püntun corte mew.		püntu-n corte mew	become.separate-1SG.IND court PPOS	I left the court.
+Mapudungun	80		Kutranküley ti wentru.		kutran-küle-i ti wentru	be.ill-PROG-IND ART man	The man is ill.
+Mapudungun	81		Payuntuy ti wentru.		payuntu-i ti wentru	shave-IND ART man	The man shaved.
+Mapudungun	82		Üyfi ñi peñi ñi chaw.		üy-fi ñi peñi ñi chaw	name-3O 1SG.PSR brother.of.man 1SG.PSR father	My father gave my brother his name / named my brother.
+Mapudungun	83		Trafoy kiñe fotella.		trafo-i kiñe fotella	break-IND one bottle	S/he broke a bottle.
+Mapudungun	84		Nüy ti kawell.		nü-i ti kawell	take-IND ART horse	S/he took the horse.
+Mapudungun	85		Tuy ñi ofisa.		tu-i ñi ofisa	take-IND 3.PSR sheep	She took his/her sheep.
+Mapudungun	86		Trarünimi ti maleta.		trarü-i-m-i ti maleta	tie-IND-2-SG ART luggage	You tied the luggage.
+Mapudungun	87		Llüpifi ti domo.		llüpif-i ti domo	blink-IND ART woman	The woman blinked.
+Mapudungun	88		Wütrey ti pichi domo.		wütre-i ti pichi domo	be.cold-IND ART little woman	The girl is cold.
+Mapudungun	89		Lladküy ñi ñuke.		lladkü-i ñi ñuke	be.sad-IND 3.PSR mother	His/her mother is sad.
+Mapudungun	90		Imüli kuram.		imül-i kuram	roll-IND egg	The egg rolled.
+Mapudungun	91		Lani ti wampu.		lan-i ti wampu	sink-IND ART boat	The boat sank.
+Mapudungun	92		Wirari ti kalku.		wirar-i ti kalku	scream-IND ART warlock	The warlock screamed.
+Mapudungun	93		Ti domo mülani afün kachilla.		ti domo mülan-i afü-n kachilla	ART woman grind-IND cook-NFIN wheat	The woman ground the cooked wheat.
+Mapudungun	94		Rüngay ti wentru.		rünga-i ti wentru	dig-IND ART man	The man dug.
+Mapudungun	95		Pelüy mesa ti wentru.		pelü-i mesa ti wentru	push-IND table ART man	The man pushed the table.
+Mapudungun	96		Kimelfi ti wentru ñi wedafemael.		kim-el-fi ti wentru ñi weda-fem-a-el	know-CAUS1-3O ART man 3.PSR bad-do.so-FUT-NFIN	S/he taught the man to behave badly.
+Mapudungun	97		Ngümay ñi püñeñ.		ngüma-i ñi püñeñ	cry-IND 3.PSR child.of.woman	Her child cried.
+Mapudungun	98		Ñi ñuke dewmayay kiñe makuñ kal ofisa mew.		ñi ñuke dewma-ya-i kiñe makuñ kal ofisa mew	1SG.PSR mother make-FUT-IND one blanket wool sheep PPOS	My mother will make a blanket (of sheep's wool).
+Mapudungun	99		Tuy ñi pülata ti wentru.		tu-i ñi pülata ti wentru	receive-IND 3.PSR money ART man	The man received his money.
+Mapudungun	100		Ñifi chi makuñ.		ñif-i chi makuñ	become.dry-IND ART blanket	The blanket dried.
+Mapudungun	101		Petu wepümlaymi külafo.		petu wepüm-la-i-m-i külafo	still appear.CAUS-NEG-IND-2-SG nail	You have not made the nail appear yet.
+Mapudungun	102		Ngillatuñmaenew ñi rosario.		ngillatu-ñma-e-n-ew ñi rosario	ask.for-APPL2-INV-1SG.IND-3A 1SG.PSR rosary	S/he asked me for my rosary.
+Mapudungun	103		Angkümi ti makuñ.		angkü-m-i ti makuñ	become.dry-CAUS-IND ART blanket	S/he dried the blanket.
+Mapudungun	104		Ñipümi chi makuñ.		ñipüm-i chi makuñ	become.dry.CAUS-IND ART blanket	S/he dried the blanket.
+Mapudungun	105		Fey ngüñülenew.		fey ngüñü-l-e-n-mew	DEM be.hungry-CAUS1-INV-1SG.IND-3A	That made me hungry.
+Mapudungun	106		Kutranelenew manshana.		kutran-el-e-n-mew manshana	become.ill-CAUS1-INV-1SG.IND-3A apple	The apple has made me ill.
+Mapudungun	107		Lladkütuniegenew.		lladkü-tu-nie-e-n-mew	be.sad-APPL3-have-INV-1SG.IND-3A	S/he is angry at me.
+Mapudungun	108		Lüfman ñi wün.		lüf-ma-n ñi wün	burn-APPL2-1SG.IND 1SG.PSR mouth	I burned my mouth.
+Mapudungun	109		Iñche yean pala.		iñche ye-a-n pala	1SG carry-FUT-1SG.IND shovel	I'll carry the shovel.
+Mapudungun	110		Elmanieñmagenew ñi kawellu.		el-ma-nie-ñma-e-n-mew ñi kawellu	put-APPL2-have-APPL2-INV-1SG.IND-3A 1SG.PSR horse	S/he has bad intentions concerning my horse (e.g. s/he wants to steal it).
+Mapudungun	111		Fey pilelen chi caballero.		fey pi-lel-e-n chi caballero	DEM say-APPL1-INV-1SG.IND ART gentleman	Tell that to the gentleman on my behalf.
+Mapudungun	112		Piñmangey ñi layagel.		pi-ñma-nge-i ñi la-a-el	say-APPL2-PASS-IND 3.PSR die-FUT-NFIN	S/he was given a death sentence.
+Mapudungun	113		Pelelen ñi allfen.		pe-lel-e-n ñi allfen	see-APPL1-INV-1SG.IND 1SG.PSR wound	Take a look at my wound.
+Mapudungun	114		Peñmalagenew ñi manshana.		pe-ñma-la-e-n-mew ñi manshana	see-APPL2-NEG-INV-1SG.IND-3A 1SG.PSR apple	S/he did not see my apples (e.g. the ones I had stolen from him/her).
+Mapudungun	115		Iñche ñi chedkuy anüñmaley kutran mew.		iñche ñi chedkuy anü-ñma-le-i kutran mew	1SG 1SG.PSR father.in.law sit-APPL2-RES-IND disease PPOS	My father-in-law['s house] is besieged by disease.
+Mapudungun	116		Anüñmakilnge chumpiru!		anü-ñma-ki-l-nge chumpiru	sit.down-APPL2-NEG-SUBJ-2SG.IMPER hat	Do not sit on the hat!
+Mapudungun	117		Weñeñmaenew ñi toki.		weñe-ñma-e-n-mew ñi toki	steal-APPL2-INV-1SG.IND-3A 1SG.PSR axe	S/he stole my axe.
+Mapudungun	118		Weñelfiñ chi pülata.		weñe-l-fi-n chi pülata	steal-APPL1-3O-1SG.IND ART money	I stole the money for him/her.
+Mapudungun	119		Weñey chi pülata.		weñe-i chi pülata	steal-IND ART money	S/he stole the money.
+Mapudungun	120		Nüñmaenew ñi trompo.		nü-ñma-e-n-mew ñi trompo	take-APPL2-INV-1SG.IND-3A 1SG.PSR spinning.top	S/he took my spinning top from me.
+Mapudungun	121		Kangelu tulkeeyew kutran.		ka-nge-lu tu-l-ke-e-i-mew kutran	other-be-PTCP take-APPL1-HAB-INV-IND-3A disease	Some other transmitted the disease to him/her.
+Mapudungun	122		Fey kimelmaenew ñi fotüm ñi wedafemagel.		fey kim-el-ma-e-n-mew ñi fotüm ñi weda-fem-a-el	DEM know-CAUS1-APPL2-INV-1SG.IND-3A 1SG.PSR son 3.PSR bad-do.so-FUT-NFIN	S/he taught my son to act badly.
+Mapudungun	123		Ngütramyey chi weychan.		ngütram-ye-i chi weychan	tell-APPL4-IND ART war	S/he talked about the war.
+Mapudungun	124		Rakiduami ñi ñuke mew.		rakiduam-i ñi ñuke mew	think-IND 3.PSR mother PPOS	S/he thought about his/her mother.
+Mapudungun	125		Ütrüftuenew kura mew.		ütrüf-tu-e-n-mew kura mew	throw-APPL3-INV-1SG.IND-3A stone PPOS	S/he threw a stone at me.
+Mapudungun	126		Liftuy mesa ti pichi wentru.		liftu-i mesa ti pichi wentru	wipe.clean-IND table ART little man	The boy wiped (the dirt off) the table.
+Mapudungun	127		Ti wentru takufi ti pichiche.		ti wentru taku-fi ti pichi-che	ART man cover-3O ART little-person	The man covered the child.
+Mapudungun	128		Chew mapu tuwimi?		chew mapu tu-w-i-m-i	where land take-REFL-IND-2-SG	Where do you (sg.) come from?
+Mapudungun	129		Tuwülay ñi küdaw.		tu-w-ü-la-i ñi küdaw	take-REFL-(epenthesis)-NEG-IND 3.PSR work	His/her work did not prosper.
+Mapudungun	130		Kutrantuwün ngey ñi longko.		kutrantu-w-ün nge-i ñi longko	hurt-REFL-INF be-IND 1SG.PSR head	I have a sore head.
+Mapudungun	131		Wefmawküley furi engu piwkekutran.		wef-ma-w-küle-i furi engu piwke-kutran	appear-APPL2-REFL-PROG-IND back 3DU heart-pain	Heartburn occurs together with back pain.
+Mapudungun	132		Ti pichi wentru llowi ti lifru.		ti pichi wentru llow-i ti lifru	ART little man receive-IND ART book	The boy received the book.
+Mapudungun	133		Wiya ngütramkafiñ.		wiya ngütramka-fi-n	yesterday talk-3O-1SG.IND	I talked to/with him yesterday.
+Mapudungun	134		Kacharnentuy kiñe hoja.		kacharnentu-i kiñe hoja	tear-IND one page	S/he tore a page (from something).
+Mapudungun	135		Ngütramenew.		ngütram-e-n-mew	tell-INV-1SG.IND-3A	S/he told me.
+Mapudungun	136		Ütrüfi kura.		ütrüf-i kura	throw-IND stone	S/he threw a stone / stones.
+Mapudungun	137		Wiya trafüfiñ ti pichi wentru.		wiya trafü-fi-n ti pichi wentru	yesterday meet-3O-1SG.IND ART little man	I met the boy yesterday.
+Mapudungun	138		Ti pichi wentru llumümi ti lifru.		ti pichi wentru llum-üm-i ti lifru	ART little man hide-CAUS-IND ART book	The boy hid the book.

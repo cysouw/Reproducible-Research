@@ -1,0 +1,350 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Xârâcùù	1	Elicited from speaker	Nèxuu chètia na nènèpéci kèwâ péci.		nèxuu chè-tia na nènè-péci kèwâ péci	girl draw-split PST page-book from book	The girl tore the page from the book.
+Xârâcùù	2	Naturalistic spoken	Kwiè xwa.		kwiè xwa	rain fall	It rains.
+Xârâcùù	3	Elicited from speaker	Kamûrû nä kasache na xûûchî nä ngê kwèrètii.		kamûrû nä ka=sache na xûûchî nä ngê kwèrètii	man DEM with.the.hands=cover PST child DEM with blanket	The man covered the child with a blanket.
+Xârâcùù	4	Elicited from speaker	Kamûrû nä faxûda na vèr ngê dökwé.		kamûrû nä fa-xûda na vèr ngê dö-kwé	man DEM CAUS-full PST glass with true-water	The man filled the glass with fresh water.
+Xârâcùù	5	Naturalistic spoken	Nâ faxûda chaa sië.		nâ fa-xûda chaa sië	1SG CAUS-full one bucket	I am filling a bucket.
+Xârâcùù	6	Elicited from speaker	Kamûrû nîî na karèèsi ngê nyüükwéré.		kamûrû nîî na karèèsi ngê nyüükwéré	man load PST cart with hay	The man loaded the cart with hay.
+Xârâcùù	7	Naturalistic spoken	Kamûrû curu na oosi töwâ puukwââ.		kamûrû curu na oosi töwâ puu-kwââ	man tie PST horse at trunk-tree	The man tied the horse to the tree.
+Xârâcùù	8	Elicited from speaker	Kamûrû nä suxwêê kwé nèpwéé vèr.		kamûrû nä su=xwêê kwé nèpwéé vèr	man DEM put=pour water in glass	The man poured the water (into) the glass.
+Xârâcùù	9	Elicited from speaker	Kamûrû xwêê na.		kamûrû xwêê na	man fall PST	The man fell down.
+Xârâcùù	10	Naturalistic spoken	Nâ xwêê kwé nèpwéé chaa mîrî.		nâ xwêê kwé nèpwéé chaa mîrî	1SG pour water in one plate	I am pouring water into a plate.
+Xârâcùù	11	Naturalistic spoken	Kwââ a xwêê na töwâ kwâdè.		kwââ a xwêê na töwâ kwâdè	tree DEM fall PST because wind	This tree fell because of the wind.
+Xârâcùù	12	Elicited from speaker	Kamûrû suè na péci xû taapërë.		kamûrû suè na péci xû taapërë	man put PST book on table	The man put the book on the table.
+Xârâcùù	13	Naturalistic spoken	Êê suè na pènèrè tö xû sêgè Nèsiwéa.		êê suè na pènè-rè tö xû sêgè Nèsiwéa	3SG.NPERS put PST fondation-3SG at on stone Nèsiwéa	The foundation stone has been laid on the rock Nèsiwéa. / One has laid the foundation stone on the rock Nèsiwéa.
+Xârâcùù	14	Elicited from speaker	Xûûchî gwéré na sêgè xû xwânyûû.		xûûchî gwéré na sêgè xû xwâ-nyûû	child throw PST stone on NMLZ-pierce	The boy threw the stone into the window.
+Xârâcùù	15	Elicited from speaker	Xûûchî gwéré catù na sêgè tö xwânyûû.		xûûchî gwéré catù na sêgè tö xwâ-nyûû	child throw enter PST stone at NMLZ-pierce	The child threw the stone through the window.
+Xârâcùù	16	Elicited from speaker	Nèxuu pè fè na péci ti afainû.		nèxuu pè fè na péci ti a-fa-inû	girl take go PST book to NMLZ-CAUS-learn	The girl brought the book to the teacher.
+Xârâcùù	17	Elicited from speaker	Nèxuu pè mê na péci ti afainû.		nèxuu pè mê na péci ti a-fa-inû	girl take come PST book to NMLZ-CAUS-learn	The girl brought the book to the teacher.
+Xârâcùù	18	Naturalistic spoken	È mê kèrè chaa kéböö-nû.		è mê kèrè chaa kéböö-nû	3SG come with one basket-coconut	He brings a basket full of coconuts.
+Xârâcùù	19	Elicited from speaker	Nèxuu nû na péci xù afainû.		nèxuu nû na péci xù a-fa-inû	girl send PST book BEN NMLZ-CAUS-learn	The girl sent the book to the teacher.
+Xârâcùù	20	Elicited from speaker	Nèxuu nû na péci ti mwâinû.		nèxuu nû na péci ti mwâ-inû	girl send PST book to house-learn	The girl sent the book to school.
+Xârâcùù	21	Elicited from speaker	Nèxuu xù na péci xù afainû.		nèxuu xù na péci xù a-fa-inû	girl give PST book BEN NMLZ-CAUS-learn	The girl gave the book to the teacher.
+Xârâcùù	22	Elicited from speaker	Nèxuu xù xù na afainû péci.		nèxuu xù xù na a-fa-inû péci	girl give BEN PST NMLZ-CAUS-learn book	The girl gave the book to the teacher.
+Xârâcùù	23	Elicited from speaker	Nèxuu xù na ngê chaa péci xù afainû.		nèxuu xù na ngê chaa péci xù a-fa-inû	girl give PST INS one book BEN NMLZ-CAUS-learn	The girl gave the book to the teacher (to show off).
+Xârâcùù	24	Elicited from speaker	Nèxuu xacië na péci xù afainû.		nèxuu xacië na péci xù a-fa-inû	girl show PST book BEN NMLZ-CAUS-learn	The girl showed the book to the teacher.
+Xârâcùù	25	Elicited from speaker	Nèxuu pêdè na péci taa afainû.		nèxuu pêdè na péci taa a-fa-inû	girl steal PST book NBEN NMLZ-CAUS-learn	The girl stole the book from the teacher.
+Xârâcùù	26	Elicited from speaker	Nèxuu sûûârâ na péci taa afainû.		nèxuu sûûârâ na péci taa a-fa-inû	girl hide PST book NBEN NMLZ-CAUS-learn	The girl hid the book from the teacher.
+Xârâcùù	27	Naturalistic spoken	Ri wâ sûûârâ kä-mârâdii nä.		ri wâ sûûârâ kä-mârâdii nä	3PL PFV hide skin-snake DEM	They are hiding the skin of the snake.
+Xârâcùù	28	Elicited from speaker	Nèxuu jee na chirèdöu kè xû taapërë.		nèxuu jee na chirè=döu kè xû taapërë	girl wipe PST remains=thing from on table	The girl wiped the dirt from the table.
+Xârâcùù	29	Naturalistic spoken	Nâ nä jee rè kûû-nâ.		nâ nä jee rè kûû-nâ	1SG IPFV wipe IPFV nose-1SG	I am wiping my nose.
+Xârâcùù	30	Elicited from speaker	Xötö söpuru na farawa (ngê nea).		xötö sö-puru na farawa ngê nea	boy beat-two.parts PST bread INS knife	The boy cut the bread (with the knife).
+Xârâcùù	31	Elicited from speaker	Xötö sakai na mârâdii ngê köökwââ.		xötö sakai na mârâdii ngê köö-kwââ	boy touch.sofly PST snake INS extremity-tree	The boy touched the snake with the stick.
+Xârâcùù	32	Elicited from speaker	Xötö fîda na mârâdii ngê köökwââ.		xötö fîda na mârâdii ngê köö-kwââ	boy hit.with.instrument PST snake INS extremity-tree	The boy hit the snake with the stick.
+Xârâcùù	33	Elicited from speaker	Xötö fîgai na mârâdii ngê köökwââ.		xötö fî-kai na mârâdii ngê köö-kwââ	boy hit.with.instrument-crumble PST snake INS extremity-tree	The boy beat the snake with the stick.
+Xârâcùù	34	Elicited from speaker	Xötö söömè na mârâdii (ngê köökwââ).		xötö söömè na mârâdii ngê köö-kwââ	boy kill PST snake INS extremity-tree	The boy killed the snake (with the stick).
+Xârâcùù	35	Elicited from speaker	Xötö jikörö na xwânyûû ngê sêgè.		xötö ji-körö na xwâ-nyûû ngê sêgè	boy throw-break.into.pieces PST NMLZ-pierce INS stone	The boy broke the window with the stone.
+Xârâcùù	36	Elicited from speaker	Kamûrû xwi na mwâ ngê sêgè.		kamûrû xwi na mwâ ngê sêgè	man build PST house INS stone	The man built the house with stones.
+Xârâcùù	37	Naturalistic spoken	Jööpè nä xwi?		jööpè nä xwi	what IPFV exist	What's going on?
+Xârâcùù	38	Naturalistic spoken	Xè mîî êrêcaa bwa purè-ri xwi.		xè mîî êrêcaa bwa purè-ri xwi	colour ART.PL living.creature DEM shell-3PL exist	Colour the living creatures which have a shell.
+Xârâcùù	39	Naturalistic spoken	Pa pwâgara xwi farawa va nèkè-ri.		pa pwâgara xwi farawa va nèkè-ri	COLL European make bread for GEN.CLF(starchy.food)-3PL	Europeans make bread for their starchy food.
+Xârâcùù	40	Elicited from speaker	Kamûrû sii ché na döu xù nèxuu.		kamûrû sii ché na döu xù nèxuu	man NEG say PST thing BEN girl	The man said nothing to the girl.
+Xârâcùù	41	Elicited from speaker	Kamûrû xangââ na xù nèxuu.		kamûrû xa=ngââ na xù nèxuu	man speak=shout PST BEN girl	The man shouted at the girl (to say hello to her).
+Xârâcùù	42	Elicited from speaker	Kamûrû xangââ na wâ nèxuu.		kamûrû xa=ngââ na wâ nèxuu	man speak=shout PST at girl	The man shouted at the girl (to yield at her).
+Xârâcùù	43	Elicited from speaker	Kamûrû xangââ ngê na chaa ùnââ taa nèxuu.		kamûrû xa=ngââ ngê na chaa ù-nââ taa nèxuu	man speak=shout INS PST one NMLZ-ask NBEN girl	The man shouted to ask something from the girl.
+Xârâcùù	44		Kamûrû xangââ ngê na xwâxatii xù nèxuu.		kamûrû xa=ngââ ngê na xwâ-xatii xù nèxuu	man speak=shout INS PST NMLZ-reprimand BEN girl	The man shouted reprimands at the girl. / The man shouted at the girl with a reprimand.
+Xârâcùù	45	Elicited from speaker	Kamûrû faxwata ngê chaa tèpë xù nèxuu.		kamûrû fa-xwata ngê chaa tèpe xù nèxuu	man CAUS-listen INS one story BEN girl	The man tells a story to the girl.
+Xârâcùù	46	Naturalistic spoken	Ri wâ sömârâ ngêrê chaa tèpe.		ri wâ sömârâ ngê=rê chaa tèpe	3PL PFV tell.story INS=PFV one story	They are going to tell a story.
+Xârâcùù	47	Elicited from speaker	Xötö nââ na mwânè taa kamûrû.		xötö nââ na mwânè taa kamûrû	boy ask.for PST money NBEN man	The boy asked the man for money. / The boy asked money from the man.
+Xârâcùù	48	Elicited from speaker	Xötö nä nêgé rè chaa péci xù chaa kamûrû.		xötö nä nêgé rè chaa péci xù chaa kamûrû	boy IPFV ask.for IPFV one book BEN one man	The boy asks someone for a book.
+Xârâcùù	49	Naturalistic spoken	Kamûrû néxä na xötö nä mè niè mê è wâ fè.		kamûrû néxä na xötö nä mè niè mê è wâ fè	man know PST boy DEM COMP 3SG.INDEP.PRON and 3SG PFV go	The man knew the boy with whom he was going to go.
+Xârâcùù	50	Elicited from speaker	Kamûrû téé na xötö.		kamûrû téé na xötö	man see PST boy	The man saw the boy.
+Xârâcùù	51	Elicited from speaker	Kamûrû fabata na xötö.		kamûrû fa-bata na xötö	man CAUS-fear PST boy	The man frightened the boy.
+Xârâcùù	52	Naturalistic spoken	È bata taa tèpe.		è bata taa tèpe	3SG fear NBEN speak	He is afraid of speaking.
+Xârâcùù	53	Elicited from speaker	Xötö bata xwi cara na kamûrû.		xötö bata=xwi=cara na kamûrû	boy fear=make=ashamed PST man	The boy feared the man. / The boy was afraid of the man.
+Xârâcùù	54	Elicited from speaker	Xötö pwâxwâ xwèrii na kamûrû.		xötö pwâxwâ xwèrii na kamûrû	boy much want PST man	The boy liked the man.
+Xârâcùù	55	Naturalistic spoken	A kamûrû nä, acaa.		a kamûrû nä a-caa	DEM man DEM NMLZ-hunt	This man is a hunter/fisherman.
+Xârâcùù	56	Naturalistic spoken	Ke da nènö-rö nô.		ke da nènö-rö nô	2SG eat GEN.CLF(food)-2SG.POSS fish	You are eating fish. / You are eating your food (which is) fish.
+Xârâcùù	57	Elicited from speaker	Nèxuu kê na pââ.		nèxuu kê na pââ	girl eat.starch PST bread	The girl ate the entire bread.
+Xârâcùù	58	Elicited from speaker	Nèxuu kê na kèwâ pââ.		nèxuu kê na kèwâ pââ	girl eat.starch PST from bread	The girl ate some bread.
+Xârâcùù	59	Elicited from speaker	Kamûrû chèxô na.		kamûrû chèxô na	man cough PST	The man coughed.
+Xârâcùù	60	Elicited from speaker	Kamûrû cuè na (tö nêdöö).		kamûrû cuè na tö nêdöö	man sit PST at ground	The man was sitting (on the floor).
+Xârâcùù	61	Naturalistic spoken	Ri ùcuè.		ri ù-cuè	3PL MID-sit	They are gathering. / They are sitting together.
+Xârâcùù	62	Elicited from speaker	Xötö mêrê.		xötö mêrê	boy hungry	The boy is hungry.
+Xârâcùù	63	Elicited from speaker	Xötö xùpè.		xötö xùpè	boy cold	The boy is cold.
+Xârâcùù	64	Naturalistic spoken	Xùpè sé na amû.		xùpè sé na amû	cold big PST yesterday	It was cold yesterday.
+Xârâcùù	65	Naturalistic spoken	Nâ nä faînû rèè ngê nââ xârâcùù.		nâ nä fa-înû rè-è ngê nââ xârâcùù	1SG IPFV CAUS-learn IPFV-3SG INS language Xârâcùù	I am teaching him the Xârâcùù language.
+Xârâcùù	66	Naturalistic spoken	Nâ faînû xù è ngê nââ xârâcùù.		nâ fa-înû xù è ngê nââ-xârâcùù	1SG CAUS-learn BEN 3SG INS language-Xârâcùù	I am teaching him the Xârâcùù language. / Lit. I am teaching to him with the Xârâcùù language.
+Xârâcùù	67	Naturalistic spoken	È bu bu rè nêdökètè.		è bu bu rè nêdökètè	3SG smell smell POSS earth	He smells a smell coming from the earth. / Lit. He smells a smell of earth.
+Xârâcùù	68	Elicited from speaker	Nèxuu famwâmwâ na xûûchî (ngê örööpe).		nèxuu fa-mwâmwâ na xûûchî ngê örööpe	girl CAUS-dress PST child INS robe	The girl dressed the child (with a robe).
+Xârâcùù	69	Elicited from speaker	Nèxuu ngûrû na xûûchî.		nèxuu ngûrû na xûûchî	girl wash PST child	The girl washed the child.
+Xârâcùù	70	Elicited from speaker	Kamûrû ngûrû mûgé na è.		kamûrû ngûrû mûgé na è	man wash return PST 3SG	The man washed (himself). / The man washed him again.
+Xârâcùù	71	Naturalistic spoken	Nâ xii è.		nâ xii è	1SG shave 3SG	I shave him.
+Xârâcùù	72	Naturalistic spoken	Nâ xii.		nâ xii	1SG shave	I shave.
+Xârâcùù	73	Elicited from speaker	Nèxuu pè na péci taa afainû.		nèxuu pè na péci taa a-fa-inû	girl take PST book NBEN NMLZ-CAUS-learn	The girl took the book from the teacher. / The girl got the book from the teacher.
+Xârâcùù	74	Elicited from speaker	Kamûrû wâ paiimè.		kamûrû wâ paii-mè	man PFV sick-completely	The man died.
+Xârâcùù	75	Naturalistic spoken	Nâ nimè.		nâ nimè	1SG blink	I am blinking (my eyes).
+Xârâcùù	76	Elicited from speaker	Kamûrû téé fè na xötö.		kamûrû téé fè na xötö	man look DIR PST boy	The man looked at the boy (who was going away).
+Xârâcùù	77	Elicited from speaker	Kamûrû téé mê na xötö.		kamûrû téé mê na xötö	man look come PST boy	The man looked at the boy (who was coming).
+Xârâcùù	78	Naturalistic spoken	Nâ nârâ chaa kâmûrû.		nâ nârâ chaa kâmûrû	1SG feel.pity one man	I feel pity for someone. / I am thinking about someone.
+Xârâcùù	79	Naturalistic spoken	Nâ nä nârâ rè kamè-nâ.		nâ nä nârâ rè kamè-nâ	1SG IPFV think IPFV house-1SG	I am homesick. / I am thinking about my house.
+Xârâcùù	80	Naturalistic spoken	È wâ fâwi chaaké dèèri mè ri wâ fè piicè rè ru.		è wâ fâwi chaaké dèèri mè ri wâ fè piicè rè ru	3SG PFV choose several people in.order.to 3PL PFV go search.for POSS 3DU	He chooses several persons to go search for the two of them.
+Xârâcùù	81	Naturalistic spoken	Wîrî wâ piicè nèmêrèbwaa-rè.		wîrî wâ piicè nè-mêrèbwaa-rè	2PL PFV search.for NMLZ-stay-3SG	You are going to search for a place to stay.
+Xârâcùù	82	Naturalistic spoken	È nä piicè rè nea rèè tö kètè wânîî.		è nä piicè rè nea rè-è tö kètè wânîî	3SG IPFV search.for IPFV knife POSS-3SG at place all	He is searching for his knife everywhere.
+Xârâcùù	83	Naturalistic spoken	Ri ciiwi ri.		ri ciiwi ri	3PL help 3PL	They are helping them. / They are helping each other.
+Xârâcùù	84	Elicited from speaker	Kamûrû ciiwi na nèxuu tiwâ kèè-caa.		kamûrû ciiwi na nèxuu tiwâ kèè-caa	man help PST girl about NMLZ-fish	The man helped the girl fishing.
+Xârâcùù	85	Elicited from speaker	Kamûrû fèèté na nèxuu xû xwâî.		kamûrû fèèté na nèxuu xû xwâî	man follow PST girl on road	The man followed the girl on the road.
+Xârâcùù	86	Naturalistic spoken	Dèèri mê anyââ pùùtè tö Kwênyêngêrê.		dèèri mê anyââ pùùtè tö Kwênyêngêrê	people and Mummy meet at Kwênyêngêrê	People and Mummy meet at Kwênyêngêrê.
+Xârâcùù	87	Elicited from speaker	Kamûrû mê nèxuu pùùtè na.		kamûrû mê nèxuu pùùtè na	man and girl meet PST	The man met the girl.
+Xârâcùù	88	Elicited from speaker	Kamûrû pùùtè na niè mê nèxuu.		kamûrû pùùtè na niè mê nèxuu	man meet PST 3SG.INDEP.PRON and girl	The man met the girl. / lit. The man met, he and the girl."
+Xârâcùù	89	Elicited from speaker	Kamûrû tèpe na wâ nèxuu xù xötö.		kamûrû tèpe na wâ nèxuu xù xötö	man talk PST about girl BEN boy	The man talked to the boy about the girl.
+Xârâcùù	90	Naturalistic spoken	Ke tèpe wâ puu-rö mê nîî-rö.		ke tèpe wâ puu-rö mê nîî-rö	2SG talk about origin-2SG and name-2SG	You are talking about your origin and your name.
+Xârâcùù	91	Naturalistic spoken	Xwârè bwa ke mââ ciköpuru na êê xacè ngê xwâ-Jarimwâ.		xwârè bwa ke mââ ciköpuru na êê xa-cè ngê xwâ-Jarimwâ	river DEM 2SG just cross PST 3SG.NPERS speak-for.a.specific.goal INS river-Jarimwâ	The river you just crossed is called river Jarimwâ.
+Xârâcùù	92	Elicited from speaker	Anyââ satee na xuu xûûchî rèè.		anyââ satee na xuu xûûchî rè-è	Mummy hug PST small child POSS-3SG	Mummy hugged her young child.
+Xârâcùù	93	Naturalistic spoken	Nâ tapöru kwââ.		nâ ta-pöru kwââ	1SG use.a.stick-peel tree	I am peeling the tree.
+Xârâcùù	94	Naturalistic spoken	Ri fètaa kwââ-ri nä ri döö fädë péré toa ti xûâ.		ri fè-taa kwââ-ri nä ri döö fädë péré toa ti xûâ	3PL go-leave boat-3PL then 3PL bare.hands walk go.up upwards to village	They leave their boat and go up to the village with bare hands.
+Xârâcùù	95	Elicited from speaker	Kamûrû péré na nyîdöökwè.		kamûrû péré na nyîdöö-kwè	man go.up PST ridge-mountain	The man climbed on the hill.
+Xârâcùù	96	Elicited from speaker	Xûûchî pûxûrû na.		xûûchî pûxûrû na	child run PST	The child ran.
+Xârâcùù	97	Elicited from speaker	Xûûchî cîchéé na ti nêdöö.		xûûchî cî-chéé na ti nêdöö	child jump-down PST at ground	The child jumped on the floor (from a chair, a wall...)."
+Xârâcùù	98	Elicited from speaker	Kamûrû cuè chéé na (tö nêdöö).		kamûrû cuè chéé na tö nêdöö	man sit down PST at ground	The man sat (on the floor).
+Xârâcùù	99	Elicited from speaker	Xötö xô na (chaa söö).		xötö xô na chaa söö	boy sing PST one song	The boy sang (a song).
+Xârâcùù	100	Naturalistic spoken	È xô xöru bare kèèrè märä.		è xô xöru bare kèèrè märä	3SG sing well also as bird	He sings as well as birds.
+Xârâcùù	101	Naturalistic spoken	Pa xûûchî fè ti xwârè.		pa xûûchî fè ti xwârè	COLL child go at river	Children are going to the river.
+Xârâcùù	102	Naturalistic spoken	Xötö wâ fè na kè döxûâ.		xötö wâ fè na kè döxûâ	boy PFV go PST from village	The boy left the village.
+Xârâcùù	103	Naturalistic spoken	È bata taa na fètaa rè mwâciri rèè.		è bata taa na fè-taa rè mwâciri rè-è	3SG fear NBEN PST go-leave POSS country POSS-3SG	He was afraid to leave his country.
+Xârâcùù	104	Naturalistic spoken	Ri fètaa na kwââ-ri.		ri fè-taa na kwââ-ri	3PL go-leave PST boat-3PL	They left their boat.
+Xârâcùù	105	Naturalistic spoken	Ri muru tö xwârè.		ri muru tö xwârè	3PL live at river	They are living at the river.
+Xârâcùù	106	Naturalistic spoken	Pa xûûchî mwârâ tö nèkèxûâ.		pa xûûchî mwârâ tö nèkèxûâ	COLL child play at outside	The children are playing outside.
+Xârâcùù	107	Naturalistic spoken	Pâê nä tèpe mê mwârâ döbwanä ri nä pètù rè döxöu.		pâê nä tèpe mê mwârâ döbwanä ri nä pètù rè döxöu	COLL.woman IPFV talk and laugh while 3PL IPFV plait IPFV mat	Women are talking and laughing while they are plaiting mats.
+Xârâcùù	108	Naturalistic spoken	Nâ ngââ chavaa lotoo xù chaa kâmûrû.		nâ ngââ chavaa lotoo xù chaa kâmûrû	1SG scream pay.attention car BEN one man	I scream to warn someone of the car.
+Xârâcùù	109	Elicited from speaker	Wâpwéé mê rè nâ paii.		wâpwéé mê rè nâ paii	inside arm POSS 1SG hurt	My arm hurts.
+Xârâcùù	110	Naturalistic spoken	Siè xêê-da rè nâ, pââ-nâ paii.		siè xêê-da rè nâ pââ-nâ paii	not.exist possibility-eat POSS 1SG tooth-1SG hurt	I can't eat, my teeth hurt."
+Xârâcùù	111	Naturalistic spoken	Nâ nârâyaa wâ panèè-nâ.		nâ nârâ-yaa wâ panèè-nâ	1SG think-badly about father-1SG	I regret my father. / I am sad because of my father.
+Xârâcùù	112	Naturalistic spoken	Nâ nârâyaa.		nâ nârâ-yaa	1SG think-badly	I am sad.
+Xârâcùù	113	Naturalistic spoken	Kwâ wâ mutu na.		kwâ wâ mutu na	boat PFV sink PST	The boat sank.
+Xârâcùù	114	Naturalistic spoken	Ku kê.		ku kê	yam burn	The yam is burnt.
+Xârâcùù	115	Naturalistic spoken	Kâmîâ kê nùi a.		kâmîâ kê nùi a	sun burn island DEM	The sun is burning the island.
+Xârâcùù	116	Naturalistic spoken	È wâ mëtë xöru na mèi.		è wâ mëtë xöru na mèi	3SG PFV dry well SM grass	The grass is very dry.
+Xârâcùù	117	Naturalistic spoken	Xöu mëtë töwâ kâmîâ tö nä.		xöu mëtë töwâ kâmîâ tö nä	clothes dry at sun at there	Clothes are drying under the sun over there.
+Xârâcùù	118	Naturalistic spoken	Nènyöwé wâ nä mëtë bwi.		nènyöwé wâ nä mëtë bwi	taro.field PFV IPFV dry slowly	The taro field is slowly getting dry.
+Xârâcùù	119	Naturalistic spoken	Êê nää chûrû mê bikörö rè pîî-köfi.		êê nää chûrû mê bi-körö rè pîî-köfi	3SG.NPERS IPFV.PST grill and turn-break IPFV seed-coffee	We used to grill and grind coffee beans.
+Xârâcùù	120	Naturalistic spoken	Kachuupôô kîî xwâî mwîrî.		Kachuupôô kîî xwâî mwîrî	Kachuupôô dig path DEM	Kachuupôô digs the tunnel.
+Xârâcùù	121	Naturalistic spoken	Gwèè îrî nää sëi ngê nachê.		gwèè îrî nää sëi ngê nachê	in.the.past 1PL.INCL IPFV.PST dig INS wooden.shovel	In the past we used to dig with a wooden shovel.
+Xârâcùù	122	Elicited from speaker	Balôô nä cipwîrî.		balôô nä ci=pwîrî	ball IPFV spread=roll	The ball is rolling.
+Xârâcùù	123	Naturalistic spoken	Pwââxwâ xô mè xwata wîrî!		pwââxwâ xô mè xwata wîrî	very sing that hear 2PL	Sing louder so that we can hear you!
+Xârâcùù	124	Naturalistic spoken	È sii xwata tönû.		è sii xwata tönû	3SG NEG hear totally	He doesn't listen at all. / He doesn't listen to anything.
+Xârâcùù	125	Naturalistic spoken	Xwata kèè-sööté rè apaa tö nuö!		xwata kèè-sööté rè apaa tö nuö	hear NMLZ-make.noise POSS Daddy in forest	Listen to the noise that Daddy makes in the forest!
+Xârâcùù	126	Elicited from speaker	Kwé bö.		kwé bö	water boil	Water is boiling.
+Xârâcùù	127	Naturalistic spoken	Kamûrû nä abaa tö kûcaa rè xwâî.		kamûrû nä abaa tö kûcaa rè xwâî	man IPFV appear at corner POSS road	The man appears at the corner of the road.
+Xârâcùù	128	Naturalistic spoken	Xûûchî têî.		xûûchî têî	child cry	The child is crying.
+Xârâcùù	129	Naturalistic spoken	Mârâdii a ne têîdùù rè kä-rè mwiri.		mârâdii a nä têî-dùù rè kä-rè mwiri	snake DEM IPFV cry-about IPFV skin-3SG DEM	The snake is crying about his skin.
+Xârâcùù	130	Naturalistic spoken	Nâ siè nârâ mè wîrî nöö Cöö.		nâ siè nârâ mè wîrî nöö Cöö	1SG NEG think that 2PL stay Thio	I don't think you are living in Thio.
+Xârâcùù	131		Nâ siè tâmwâ kètè bwa rè nöö nä.		nâ siè tâmwâ kètè bwa rè nöö nä	1SG NEG know place DEM 3SG stay there	I don't know where he is staying. / lit. I don't know the place he is staying there.
+Xârâcùù	132		Ke tâmwâ kèè-fârâ.		ke tâmwâ kèè-fârâ	2SG know NMLZ-count	You know how to count.
+Xârâcùù	133		Nâ tâmwâ xöru è.		nâ tâmwâ xöru è	1SG know well 3SG	I know him well.
+Xârâcùù	134		Q. Yaapè ché na xù rö? A. Nâ tâmwâ.		yaapè ché na xù rö nâ tâmwâ	who say PST BEN 2SG 1SG know	Who told you? - I know it.
+Xârâcùù	135		Ke tâmwâ kaù mè nâ mââ xöyö chaa sê ngürü?		ke tâmwâ kaù mè nâ mââ xöyö chaa sê ngürü	2SG know INTERR that 1SG just marry one woman black	Do you know that I just married a Kanak woman?
+Xârâcùù	136	Naturalistic spoken	Nâ nârâ mè ûrû nä ùpùùtè rè ngê chaa daa...		nâ nârâ mè ûrû nä ù-pùùtè rè ngê chaa daa	1SG think that 1DU.INCL IPFV RECP-meet IPFV during one day	I think we will meet [again] one day...
+Xârâcùù	137		Wîrî nä xâpârî rè chaa mwââxiti.		wîrî nä xâpârî rè chaa mwââ-xiti	2PL IPFV see IPFV one house-holy	You will see a church.
+Xârâcùù	138	Naturalistic spoken	È xâpârî xöru kèèrè gu.		è xâpârî xöru kèèrè gu	3SG see well as 1SG	He sees as well as I do.
+Xârâcùù	139		Arè è xöru mè nâ nä xacië röö xù aaxa.		arè è xöru mè nâ nä xacië rö-ö xù aaxa	tomorrow 3SG well that 1SG IPFV show IPFV-2SG BEN chief	Tomorrow, I will introduce you to the chief."
+Xârâcùù	140		È dù mè ke xacè è ngê Myriam.		è dù mè ke xacè è ngê Myriam	3SG possible that 2SG call 3SG INS Myriam	You can call her Myriam.
+Xârâcùù	141		Rè tèpe kaù ngê nââ pwângara, na aaxa röö?		rè tèpe kaù ngê nââ pwângara na aaxa rö-ö	3SG speak INTERR INS language white.people SM chief POSS-2SG	Is your chief speaking French? / Is your chief speaking with the French language?
+Xârâcùù	142		Rè ché na xù nû mè è nä dù rè mè göu fè téé rèè anâ.		rè ché na xù nû mè è nä dù rè mè göu fè téé rè-è anâ	3SG say PST BEN 1SG that 3SG IPFV possible IPFV that 2DU go see POSS-3SG now	He said to me that you can go and see him now.
+Xârâcùù	143		Wâ xutuè ûrû siè ùxâpârî rû.		wâ xutuè ûrû siè ù-xâpârî rû	PFV long.time 1DU.INCL NEG RECP-see 1DU.INCL	It has been a while since we didn't see each other.
+Xârâcùù	144		Nâ nä xwi rè chaa xiti nârâ kèè-faabaa rö xù dèèri kè xûâ.		nâ nä xwi rè chaa xiti nârâ kèè-fa-abaa rö xù dèèri kè xûâ	1SG IPFV do IPFV one feast for NMLZ-CAUS-appear 2SG BEN people from village	I will organize a feast to introduce you to the people of the village.
+Xârâcùù	145		Ke néxä kaù kèè-xê?		ke néxä kaù kèè-xê	2SG know INTERR NMLZ-swim	Do you know how to swim?
+Xârâcùù	146		Rè va dù xuu kèè-xê rè nâ mè nâ muru taa kèè-nä mutu rè nâ.		rè va dù xuu kèè-xê rè nâ mè nâ muru taa kèè-nä-mutu rè nâ	3SG really possible small NMLZ-swim POSS 1SG that 1SG live NBEN NMLZ-IPFV-sink POSS 1SG	Indeed, I only swim a little so that I escape from drowning.."
+Xârâcùù	147		Ri pisi cè nênê-ri, nä ri wâ da.		ri pisi cè nênê-ri nä ri wâ da	3PL look.for for.a.specific.goal food-POSS.3PL then 3PL PFV eat	The looked for food, and then ate."
+Xârâcùù	148		Pa Pokwé tê kwii mwîrî nä rè chètùrù kwââ-dèèri rè Deekwââxiti.		pa Pokwé tê kwii mwîrî nä rè chètùrù kwââ-dèèri rè Deekwââxiti	COLL Uvéa throw rope DEM then 3SG block boat-people POSS Deekwââxiti	People from Uvea throw a rope which blocks up the boat of Deekwââxiti's men.
+Xârâcùù	149		Tê chéé ri xêvadi tö nêböö-kwâ!		tê chéé ri xêvadi tö nêböö-kwâ	throw down 3PL all to inside-boat	Throw them all in the boat!
+Xârâcùù	150	Naturalistic spoken	Êê pwââxwâ tèpe wâ nèpwéé-kètè Cöö.		êê pwââxwâ tèpe wâ nèpwéé-kètè Cöö	3SG.INDEF much talk about inside-place Thio	One has so often talked about the Thio region.
+Xârâcùù	151	Naturalistic spoken	Mwîî aaxa kè Cöö nä cuè tö Wénênê.		mwîî aaxa kè Cöö nä cuè tö Wénênê	big chief from Thio IPFV sit at Wénênê	The main chief from Thio stays at Wénênê.
+Xârâcùù	152	Naturalistic spoken	Nâ muru-ri na nû.		nâ muru-ri na nû	1SG live-TR PST coconut	I am filled of coconuts.
+Xârâcùù	153	Naturalistic spoken	Ri nä muru ngê nôômara mê caa.		ri nä muru ngê nôômara mê caa	3PL IPFV live INS fields and fishing	They are living from cultivated plants and from fishing.
+Xârâcùù	154	Naturalistic spoken	Ke néxä kaù xwâda bwa êê xwi ngê na mwââxiti a?		ke néxä kaù xwâda bwa êê xwi ngê na mwââxiti a	2SG know INTERR year DEM 3SG.INDEF build during PST church DEM	Do you know which year this church was built?
+Xârâcùù	155	Naturalistic spoken	Êê nä bare xô rè söö dèèri néxä xöru mè ba xô wânîî.		êê nä bare xô rè söö dèèri néxä xöru mè ba xô wânîî	3SG.INDEF IPFV also sing IPFV song people know well so.that group sing all	One also sings songs people know well so that all the assembly will sing.
+Xârâcùù	156	Naturalistic spoken	Ri nä bare xwè rè piö êrêcaa kè nèmëtë.		ri nä bare xwè rè piö êrê-caa kè nè-mëtë	3PL IPFV also eat.meat IPFV flesh product-hunt from place-dry	They also eat meat (obtained) from hunting in dry places.
+Xârâcùù	157	Naturalistic spoken	Ri nârâ cè chaa xwâ caa.		ri nârâ cè chaa xwâ caa	3PL think for.a.specific.goal one kind.of hunting	They are thinking about a way of hunting.
+Xârâcùù	158	Naturalistic spoken	Wita bata, nâ tâmwâ döu bwa mè nâ xwi xöru kèèrè gè!		wita bata nâ tâmwâ döu bwa mè nâ xwi xöru kèèrè gè	don't fear 1SG know thing DEM that 1SG make well like 2SG	Don't be afraid, I know how to do as well as you do!"
+Xârâcùù	159	Naturalistic spoken	Wâ-daa chùù nä kwiè nä saù xwa.		wâ-daa chùù nä kwiè nä saù xwa	body-day covered then rain IPFV each.time fall	It is cloudy and it rains from time to time.
+Xârâcùù	160	Naturalistic written	Rè xwêê saa, döbwa rè siè dù kèè-fè chââri mwââ-nûû kwiöö-wakè rè nikèl ti Xômwâ.		rè xwêê saa döbwa rè siè dù kèè-fè chââri mwââ-nûû kwiöö-wakè rè nikèl ti Xômwâ	3SG fall bad because 3SG NEG possible NMLZ-go visit house-old tool-work POSS nickel at Thio.village	It is too bad that it is not possible to go to Thio village and visit the nickel museum.
+Xârâcùù	161	Naturalistic spoken	Duè bwa du axa, du ja na rè bwaanyöu atù.		duè bwa du axa du ja na rè bwaanyöu atù	two DEM DU.ART chief DU.ART dig PST POSS water.conduit there	These two chiefs, the ones who dig the water conduit over there."
+Xârâcùù	162	Naturalistic spoken	Wita péré chuu chaa nèpärä wâ nèsipùpù rè kâmîâ.		wita péré chuu chaa nèpärä wâ nèsipùpù rè kâmîâ	don't climb inside one yam.field while middle POSS sun	Don't climb in a yam field in the middle of the day.
+Xârâcùù	163	Naturalistic spoken	Nô fîda kwé ngê pûbè-rè.		nô fîda kwé ngê pûbè-rè	fish hit.with.instrument water INS tail-3SG	The fish hit the water with its tail.
+Xârâcùù	164	Naturalistic spoken	Dééri wâ baa kèrè jö mê jia.		dééri wâ baa kèrè jö mê jia	people PFV appear with spear and war.club	People appeared with spears and war clubs.
+Xârâcùù	165	Elicited from speaker	Xûûchî wâ abaa.		xûûchî wâ mââ abaa	child PFV just be.born	The child is just born.
+Xârâcùù	166	Naturalistic spoken	Rî fabata ngê kura chaa ketè kèèrèmè rè catoa kè nêmwââ-rè.		rî fa-bata ngê kura chaa ketè kèèrè-mè rè catoa kè nêmwââ-rè	1PL.INCL CAUS-fear INS lobster one octopus like-that 3SG go.out from hole-3SG	We frighten the lobster with an octopus so that it gets out of its hole.
+Xârâcùù	167	Naturalistic spoken	Îrî nîî chéé röwâ döu bö.		îrî nîî chéé röwâ döu bö	1PL.INCL fill down in thing boil	We put it in boiling water.
+Xârâcùù	168	Naturalistic spoken	Nee nyârî biri tö nèpwéé-kwé döbwa ri bu na bumata.		nee nyârî biri tö nèpwéé-kwé döbwa ri bu na bu-mata	shark turn around at inside-water because 3PL smell PST smell-raw	Sharks are turning back and forth in the water because they smelt a smell of raw flesh.
+Xârâcùù	169	Naturalistic spoken	Pa kwara chètia ri nêmwâ.		pa kwara chè-tia ri nêmwâ	COLL subject draw-split 3PL today	The subjects are separating today. / The subjects are separating them today.
+Xârâcùù	170	Elicited from speaker	È wâ chètia mwanöö.		è wâ chè-tia mwanöö	3SG PFV draw-split piece.of.tissue	He tears the piece of tissue.
+Xârâcùù	171	Naturalistic spoken	È nä mê ciiwi rè rî töwâ xwi rè mwâ nöö.		è nä mê ciiwi rè rî töwâ xwi rè mwâ nöö	3SG IPFV come help IPFV 1PL.INCL at build POSS house DEM	He will come to help us build that house.
+Xârâcùù	172	Naturalistic spoken	Ru wâ chäga cuè.		ru wâ chäga cuè	3DU PFV warm.on.the.sun sit	They are both warming themselves sitting on the sun.
+Xârâcùù	173	Naturalistic spoken	Mwêê-nâ xânî cuè tö nä.		mwêê-nâ xânî cuè tö nä	uncle-1SG often sit at there	My uncle often sits there.
+Xârâcùù	174	Naturalistic spoken	È ché nemè: "wèi kù téé, nâ kwèti wâ rö".		è ché nemè wèi kù téé nâ kwèti wâ rö	3SG say that you.VOC 2SG see 1SG tired about 2SG	He says: "Eh you! you see, I am tired of you!"."
+Xârâcùù	175	Naturalistic spoken	È xuu da.		è xuu da	3SG little eat	He doesn't eat much.
+Xârâcùù	176	Naturalistic spoken	Dui mê Léo nä da pepe rè.		Dui mê Léo nä da pepe rè	Dui and Léo IPFV eat separately IPFV	Dui and Léo will eat separately.
+Xârâcùù	177	Naturalistic spoken	Xai rö Kasöömèrè mè ke xwi mèrè mè rî fèèté mwaraa-rè...		xai rö Kasöömèrè mè ke xwi mèrè mè rî fèèté mwaraa-rè	where 2SG Kasöömèrè that 2SG make light that 1PL.INCL follow gleam-3SG	Where are you, Glow Worm, let the daylight come so that we may follow the first light of dawn..."
+Xârâcùù	178	Naturalistic spoken	È gwéré chéé chaa pârâ tö nèpwéé-kéé-rè.		è gwéré chéé chaa pârâ tö nèpwéé-kéé-rè	3SG throw down one eel at inside-basket-3SG	She throws an eel into her basket.
+Xârâcùù	179	Naturalistic spoken	Yaapè gwéré toa na chaa sêgè?		yaapè gwéré toa na chaa sêgè	who throw upwards PST one stone	Who threw up a stone?
+Xârâcùù	180	Elicited from speaker	Anyââ sache xûûchî (ngê jingâ).		anyââ sache xûûchî ngê jingâ	Mummy cover child INS blanket	Mummy covers the child (with a blanket).
+Xârâcùù	181	Naturalistic spoken	Nèxöö wâ sache è.		nèxöö wâ sache è	sky PFV cover 3SG	The weather becomes overcast. / lit. The sky has covered it(self).
+Xârâcùù	182	Elicited from speaker	Döchaapwê mê mwââ-nâ kê.		döchaapwê mê mwââ-nâ kê	almost and house-1SG burn	My house almost burnt down.
+Xârâcùù	183	Naturalistic spoken	Wâ daa rè kîî cè rè ku.		wâ daa rè kîî cè rè ku	PFV day POSS dig for.a.specific.goal POSS yam	It is the time to dig up yams.
+Xârâcùù	184	Elicited from speaker	Dèèri ja na chaa pô.		dèèri ja na chaa pô	people dig PST one hole	People dug a hole.
+Xârâcùù	185	Naturalistic spoken	Apaa pè mê na puuchéé ku.		apaa pè mê na puu-chéé ku	Dad take come PST CLF-three yam	Dad brought three yams (or three hips of three yams each).
+Xârâcùù	186	Naturalistic spoken	Bwèrèkètè, ketè wâ paii ngê mêrê.		bwèrè-kètè ketè wâ paii ngê mêrê	some-place octopus PFV sick INS hunger	Sometimes, the octopus is starving."
+Xârâcùù	187	Naturalistic spoken	Pwénî mè nâ muru mwâmwaa!		pwénî mè nâ muru mwâmwaa	provided that 1SG live for.long	Hoping I will live for a long time!
+Xârâcùù	188	Naturalistic spoken	Nâ mwârâ-kaciri tèpe nä.		nâ mwârâ-kaciri tèpe nä	1SG laugh-TR story DEM	I am laughing at this story.
+Xârâcùù	189	Naturalistic spoken	Nâ nââ taa rö kèè-fè ti niira.		nâ nââ taa rö kèè-fè ti niira	1SG ask.for NBEN 2SG NMLZ-go at plain	I ask you to go to the plain.
+Xârâcùù	190	Naturalistic spoken	Nâ nââ sââ-pwî taa rö.		nâ nââ sââ-pwî taa rö	1SG ask.for sucker-banana.tree NBEN 2SG	I am asking you for banana suckers.
+Xârâcùù	191	Naturalistic spoken	Nâ nââ mètùsè.		nâ nââ mètùsè	1SG feel.like sleep	I feel like sleeping.
+Xârâcùù	192	Naturalistic spoken	Nâ nêgé xù rö chaa péci.		nâ nêgé xù rö chaa péci	1SG ask.for BEN 2SG one book	I respecfully ask you for a book. / lit. I respectfully ask to you a book.
+Xârâcùù	193	Naturalistic spoken	Pa pwângara va néxä mè îrî pââbu-döö.		pa pwângara va néxä mè îrî pââbu-döö	COLL white.people ASS know that 1PL.INCL COLL.master-soil	The white people do know that we are the masters of this soil.
+Xârâcùù	194	Naturalistic spoken	Rè wâ néxä: "Nêêwâ-nâ nöö Pokwé!"		rè wâ néxä nêêwâ-nâ nöö Pokwé	3SG PFV know daughter-1SG stay Uvea	He is sure of it: "My daughter is in Uvea!""
+Xârâcùù	195	Naturalistic spoken	Rè wâ xacè pa kwara rèè mè ri wâ fè piicè nêêwâ-rè.		rè wâ xacè pa kwara rè-è mè ri wâ fè piicè nêêwâ-rè	3SG PFV call COLL servant POSS-3SG that 3PL PFV go search daughter-3SG	He calls his servants so that they go searching for his daughter.
+Xârâcùù	196	Naturalistic spoken	Nâ nîmè è xwi ngê kâmîâ.		nâ nîmè è xwi ngê kâmîâ	1SG blink 3SG exist SM sun	I am blinking because of the sun.
+Xârâcùù	197	Naturalistic spoken	Nâ nû na pââü rè nâ ti xwârè.		nâ nû na pââü rè nâ ti xwârè	1SG send PST COLL.child POSS 1SG at river	I sent my children to the river.
+Xârâcùù	198	Naturalistic spoken	Fè ngûrû rè nèkârâmè röö!		fè ngûrû rè nèkârâmè rö-ö	go wash POSS face POSS-2SG	Go wash your face!
+Xârâcùù	199	Naturalistic spoken	Chaa sê ngûrû mîrî, dè saakä kùrè.		chaa sê ngûrû mîrî dè saakä kùrè	one woman wash dish other stow.away cooking.pot	One woman washes the dishes, the other one stows away the cooking pots."
+Xârâcùù	200	Elicited from speaker	Taiki rè nâ paii, ngêê-Sili xöru.		taiki rè nâ paii ngêê-Sili xöru	dog POSS 1SG sick possession-Sili well	My dog is sick, Sili's dog is well."
+Xârâcùù	201	Naturalistic spoken	È nää bêêrî jaé rö döbwanä rè paii na.		è nää bêêrî jaé rö döbwanä rè paii na	3SG IPFV.PST old beyond 2SG when 3SG sick PST	He was older than you when he died.
+Xârâcùù	202	Elicited from speaker	È xwi bachéé daa mè péépé paii.		è xwi bachéé daa mè péépé paii	3SG exist three day that baby sick	The baby has been sick for three days.
+Xârâcùù	203	Elicited from speaker	È xwi bachéé daa mè péépé wâ paii.		è xwi bachéé daa mè péépé wâ paii	3SG exist three day that baby PFV sick	The baby died three days ago.
+Xârâcùù	204	Elicited from speaker	Pè cè mîrî nä taa Famuru!		pè cè mîrî nä taa Famuru	take for.a.specific.goal plate DEM NBEN Famuru	Take the plate from (the hands of) Famuru!
+Xârâcùù	205	Naturalistic spoken	Nâ töpwé kùrè pa kwara.		nâ töpwé kùrè pa kwara	1SG receive cooking.pot COLL subject	I accept the cooking-pot of the subjects.
+Xârâcùù	206	Naturalistic spoken	Sîbêêrî akö nèkéé-rè.		sîbêêrî akö nèkéé-rè	woman carry basket-3SG	The woman is carrying her basket with a harness.
+Xârâcùù	207	Elicited from speaker	Apêdè pêdè mwânêê taa axwiri.		a-pêdè pêdè mwânêê taa a-xwiri	NMLZ-steal steal money NBEN NMLZ-sell	The robber steals money from the merchant.
+Xârâcùù	208	Elicited from speaker	Apêdè pêdè axwiri.		a-pêdè pêdè a-xwiri	NMLZ-steal steal NMLZ-sell	The robber robs the merchant.
+Xârâcùù	209	Naturalistic spoken	Nâ pûxûrû kè nèpwéé-xûâ.		nâ pûxûrû kè nèpwéé-xûâ	1SG run from inside-village	I am running (coming) from the village.
+Xârâcùù	210	Naturalistic spoken	Wita pûxûrû tö nèsipùpùrè-xwâî ngê gè!		wita pûxûrû tö nèsipùpùrè-xwâî ngê gè	don't run at middle-road SM 2SG	Don't you run in the middle of the road!
+Xârâcùù	211	Elicited from speaker	Kèè-söömè rè panèè-rè niè.		kèè-söömè rè panèè-rè niè	NMLZ-kill POSS father-3SG 3SG.INDEP.PRON	His father killed him.
+Xârâcùù	212	Naturalistic spoken	È nää sa rè dèèri ri nää fè tè chéé a pwanâwâ.		è nää sa rè dèèri ri nää fè tè chéé a pwanâwâ	3SG IPFV.PST hit IPFV people 3PL IPFV.PST go along down DEM beach	He used to kill people walking along down on the beach.
+Xârâcùù	213	Naturalistic spoken	Chaaké dèèri wâ xwicè mè ri sa è.		chaaké dèèri wâ xwi-cè mè ri sa è	several people PFV do-for.a.specific.goal that 3PL hit 3SG	Several people tried to kill him.
+Xârâcùù	214	Naturalistic spoken	Dä, acaa pwèkè na è ngê chaa êrêjö.		dä a-caa pwèkè na è ngê chaa êrê-jö	notu.pigeon NMLZ-hunt kill PST 3SG INS one product-spear	The notu pigeon, the hunter killed it with (just) one cartridge."
+Xârâcùù	215	Naturalistic spoken	Döbwanamè è xâânîî pè-kwiè, è fa-xwa na kwiè.		döbwanamè è xâânîî pè-kwiè è fa-xwa na kwiè	when.PST 3SG touch.with.hands stone-rain 3SG CAUS-fall PST rain	When he touched the sacred stone for the rain, he would make the rain fall."
+Xârâcùù	216	Naturalistic spoken	Anyââ wâ sömârâ ngê chaa tèpe xù ri.		anyââ wâ sömârâ ngê chaa tèpe xù ri	Mummy PFV tell INS one story BEN 3PL	Mummy is telling them a story.
+Xârâcùù	217	Naturalistic spoken	Ri fè ùsömârâ ngê tèpe nä.		ri fè ù-sömârâ ngê tèpe nä	3PL go NMLZ-tell INS story DEM	They are going to tell this story. / They are going in order to tell this story.
+Xârâcùù	218	Naturalistic spoken	Aaxa Pokwé faari taa dèèri rèè mè ri dèpuu sùù chaa mwîî kwâdè...		aaxa Pokwé faari taa dèèri rè-è mè ri dèpuu sùù chaa mwîî kwâdè	chief Uvea ask NBEN people POSS-3SG that 3PL in.turn push one big wind	The chief of Uvea asked his people to push a big wind at their turn...
+Xârâcùù	219	Elicited from speaker	Ri téé ri.		ri téé ri	3PL see 3PL	They see them. / They see each other.
+Xârâcùù	220	Naturalistic spoken	Kârâmè röö paii ùtéé rè kâmîâ.		kârâmè rö-ö paii ù-téé rè kâmîâ	eye POSS-2SG feel.pain NMLZ-see POSS sun	I feel pain in my eyes looking at the sun. / My eyes hurt because of looking at the sun.
+Xârâcùù	221	Naturalistic spoken	Nâ kaii téé mwâ.		nâ kaii téé mwâ	1SG light see house	I turn the light on to see the house.
+Xârâcùù	222	Naturalistic spoken	È ché nemè "wèi, ke téé, nâ kwèti!"		è ché nemè wèi ke téé nâ kwèti	3SG say that 2SG.VOC 2SG see 1SG tired	He says: "Eh you, you see, I am tired!""
+Xârâcùù	223	Naturalistic spoken	Ke wîjè ke têî?		ke wîjè ke têî	2SG why 2SG cry	Why do you cry?
+Xârâcùù	224	Elicited from speaker	Nâ xii nû.		nâ xii nû	1SG grate coconut	I am grating coconuts.
+Xârâcùù	225	Naturalistic spoken	È fiö taa xwata röö.		è fiö taa xwata rö-ö	3SG refuse NBEN hear POSS-2SG	He refuses to listen to you.
+Xârâcùù	226	Naturalistic spoken	È xwata kéé-tapö rè chaa döu.		è xwata kèè-tapö rè chaa döu	3SG hear NMLZ-burst POSS one thing	He hears something bursting.
+Xârâcùù	227	Naturalistic spoken	Kèè-xwèrii rèèmwââ-nâ fabere nâ.		kèè-xwèrii rè-è mwââ-nâ fa-bere nâ	NMLZ-want POSS-3SG house-1SG CAUS-angry 1SG	His desire for my house makes me angry.
+Xârâcùù	228	Naturalistic spoken	Anyââ chutââ piö-pooka.		anyââ chutââ piö-pooka	Mummy cook flesh-pork	Mummy is cooking the pork.
+Xârâcùù	229	Naturalistic spoken	È cee nû.		è cee nû	3SG peel coconut	He takes off the coconut fibre.
+Xârâcùù	230	Naturalistic spoken	Êrê fëi nèmû tö xû mo...		êrê fëi nèmû tö xû mo	3SG.INDEF tie belt at on joist	Belts are tied on the joist. / Someone are tying belt on the joist.
+Xârâcùù	231	Naturalistic spoken	Ri nä mètu chuu rè nèmû, nä êrê fëi ri ngê jöökwii.		ri nä mètu chuu rè nèmû nä êrê fëi ri ngê jöökwii	3PL IPFV lie inside IPFV belt then 3SG.INDEF tie 3PL INS vine	They are put on the belts, and then tied with vine."
+Xârâcùù	232	Naturalistic spoken	Ri nä poa ché rè tèpe rè paii.		ri nä poa ché rè tèpe rè paii	3PL IPFV do.same say IPFV speech POSS death	They are helping in saying the death rituals.
+Xârâcùù	233	Naturalistic spoken	Dèèri kèwâ xwâmwâdö va pùùtè.		dèèri kèwâ xwâmwâdö va pùùtè	people inside clan ASS gather	People from a clan are gathering.
+Xârâcùù	234	Naturalistic spoken	È nèxä xöru kèè-xwi rè xiti tö mê axwè...		è nèxä xöru kèè-xwi rè xiti tö mê axwè	3SG know well NMLZ-make POSS feast at DIR(come) up.there	She knows well how the feast is organized up there.
+Xârâcùù	235	Elicited from speaker	Pa xûûchî chëi mûgé na ri ngê kwâ.		pa xûûchî chëi mûgé na ri ngê kwâ	COLL child hit return PST 3PL INS stick	Children hit each other with a stick. / Children hit themselves with a stick.
+Xârâcùù	236		Pa xûûchî chëi na ri ngê kwâ.		pa xûûchî chëi na ri ngê kwâ	COLL child hit PST 3PL INS stick	Children hit them with a stick. / Children hit each other with a stick.
+Xârâcùù	237		Xûûbêêrî faxwa na kwiè.		xûûbêêrî a fa-xwa na kwiè	old.man DEM CAUS-fall PST rain	This old man made the rain fall.
+Xârâcùù	238	Naturalistic spoken	È kwiè.		è kwiè	3SG rain	It rains.
+Xârâcùù	239		Kwiè.		kwiè	rain	It rains.
+Xârâcùù	240		Jee-nè fachèxô nâ.		jee-nè fa-chèxô nâ	smoke-fire CAUS-cough 1SG	The fire smoke makes me cough.
+Xârâcùù	241		Nô ùda.		nô ù-da	fish MID-eat	The fish is biting.
+Xârâcùù	242		Ri fada dèèri ngê nô.		ri fa-da dèèri ngê nô	3PL CAUS-eat people INS fish	They feed the people with fish.
+Xârâcùù	243		Nèxuu kê na ngê pââ.		nèxuu kê na ngê pââ	girl eat PST INS bread	The young girl ate (something) with bread.
+Xârâcùù	244		Apuu-döö wâ facuè dèèri.		apuu-döö wâ fa-cuè dèèri	master-earth PFV CAUS-sit people	The master of the earth made the people sit.
+Xârâcùù	245		Ri fabu ngê ri kwébuchéé.		ri fa-bu ngê ri kwébuchéé	3PL CAUS-smell INS 3PL perfume	They make them smell a perfume.
+Xârâcùù	246		Ri fabu ri.		ri fa-bu ri	3PL CAUS-smell 3PL	They give them a smell.
+Xârâcùù	247		Nèxuu fangûrû chaa xûûchî ngê sê.		nèxuu fa-ngûrû chaa xûûchî ngê sê	girl CAUS-wash one child INS woman	The young girl makes a woman wash the child.
+Xârâcùù	248		Kèè-mêrê rè nâ sé.		kèè-mêrê rè nâ sé	NMLZ-hungry POSS 1SG big	I am very hungry. / lit. My hunger is big.
+Xârâcùù	249		È nä fadë nä è nä bare tèpe.		è nä fadë nä è nä bare tèpe	3SG IPFV walk and 3SG IPFV also speak	He is walking and talking in the same time.
+Xârâcùù	250		Nâ fatèpe è töwâ mwâciri.		nâ fa-tèpe è töwâ mwâciri	1SG CAUS-speak 3SG about country	I make him speak about the country.
+Xârâcùù	251		È faacaa ri.		è fa-acaa ri	3SG CAUS-hunter 3PL	He makes them hunters.
+Xârâcùù	252		Panèè-nâ faxwi na mûduè-nâ (ngê) chaa dömwâ.		panèè-nâ fa-xwi na mûduè-nâ ngê chaa dömwâ	father-POSS.1SG CAUS-build PST young.brother-POSS.1SG INS one house	My father made my little brother build a traditional house.
+Xârâcùù	253		Nea söpuru rè kèi-äda, aji a.		nea söpuru rè kèi-äda aji a	knife cut POSS meat-food that.is DEM	This is a knife for cutting meat/fish.
+Xârâcùù	254		Jee-nè fa-nimè nâ.		jee-nè fa-nimè nâ	smoke-fire CAUS-blink 1SG	The smoke of the fire makes me blink.
+Xârâcùù	255		Chaakè dèèri wâ xwicè mè ri pwââmè è.		chaakè dèèri wâ xwicè mè ri pwââmè è	several people PFV try COMP 3PL kill 3SG	Several people tried to kill him.
+Xârâcùù	256		Jööpè döubwa mè è ciiwi töwâ mîî kèè-sèngû nä?		jööpè döubwa mè è ciiwi töwâ mîî kèè-sèngû nä	what that.thing that 3SG help on these NMLZ-work DEM	What can help, concerning these methods?"
+Xârâcùù	257		Ri fèèté kèèbwa rè döu nä.		ri fèèté kèè-bwa rè döu nä	3PL follow NMLZ-stay POSS thing DEM	They were following this principle.
+Xârâcùù	258		È péré tëpùù ti kamè-rè.		è péré tëpùù ti kamè-rè	3SG go.up directly to home-POSS.3SG	He goes straight home.
+Xârâcùù	259		Aaxa chéxwaé kèè nä péré rè du wè a toaa.		aaxa chéxwaé kèè=nä=péré rè du wèa toaa	chief explain NMLZ=IPFV=go.up POSS 3DU these.men towards.up	The chief is explaining how they will be going all the way up.
+Xârâcùù	260		Anyââ fasache ri.		anyââ fa-sache ri	Mummy CAUS-cover 3PL	Mummy makes them cover themselves.
+Xârâcùù	261		Mûduè-nâ chëi döbwè.		mûduè-nâ chëi döbwè	young.brother-POSS.1SG hit drum	My young brother is playing the drum.
+Xârâcùù	262		Ri ùcuè chéé.		ri ù-cuè chéé	3PL MID-sit down	They are sitting down together.
+Xârâcùù	263		Nâ fètaa mwââxê-râ.		nâ fè-taa mwââxê-râ	1SG go-off shoes-POSS.1SG	I am taking my shoes off.
+Xârâcùù	264		Mè nâ nä fètaa rè wîrî!		mè nâ nä fè-taa rè wîrî	FUT 1SG IPFV go-leave IPFV 2PL	I will leave you!
+Xârâcùù	265		Pa kwara famuru dèèri ngê nô.		pa kwara fa-muru dèèri ngê nô	COLL subject CAUS-live people INS fish	The subjects feed the people with fish.
+Xârâcùù	266		Ri muru.		ri muru	3PL live	They are alive.
+Xârâcùù	267		Mîrî pââübêêrî bwa ri nää saù akö rè kêböö-xöu rè ngêê kè mê axwè.		mîrî pââübêêrî bwa ri nää saù akö rè kêböö-xöu rè ngêê kè mê axwè	these COLL.old.men DEM 3PL IPFV.PST in.the.past carry IPFV basket-cloth POSS 1PL.EXCL from DIR up.there	This old men used to carry our basket full of clothes from up there.
+Xârâcùù	268		Ri sööpö ngê kâmîâ âgwii, nä chêêdè, ri akö péré mûgé.		ri sööpö ngê kâmîâ âgwii nä chêêdè ri akö péré mûgé	3PL wash during day entire then in.the.evening 3PL carry go.up again	They were doing the washing during the entire day, and in the evening, they were carrying back up (the clothes)."
+Xârâcùù	269		Ri wâ curu ngê nèmû rèè.		ri wâ curu ngê nèmû rè-è	3PL PFV tie INS belt POSS-3SG	They tied their belt.
+Xârâcùù	270	Naturalistic spoken	È faxwata chaari chaa tèpe.		è fa-xwata chaari chaa tèpe	3SG CAUS-hear only one story	He will only tell one story. / He spontaneously tells a story.
+Xârâcùù	271		È ùda ngê siisi.		è ù-da ngê siisi	3SG MID-eat SM fishing.line	The fish is biting. / lit. The fishing line is biting.
+Xârâcùù	272		A xûûchî a nä ùpè.		a xûûchî a nä ù-pè	DEM child DEM IPFV MID-take	This child is juggling.
+Xârâcùù	273		Paii nä, è ùxù.		paii nä è ù-xù	disease DEM 3SG MID-give	This disease is contagious.
+Xârâcùù	274		Rè va dù xuu kèè-xê rè nâ, mè nâ muru taa kèè nä mutu rè nâ.		rè va dù xuu kèè-xê rè nâ mè nâ muru taa kèè=nä=mutu rè nâ	3SG ASS possible little NMLZ-swim POSS 1SG that 1SG live NBEN NMLZ=IPFV=sink POSS 1SG	I can only swim a little, in order to avoid drowning."
+Xârâcùù	275	Naturalistic spoken	Nâ nârâ rö.		nâ nârâ rö	1SG think 2SG	I am thinking of you. / I feel pity for you.
+Xârâcùù	276		Dèèri sôpaari xwânârâ rè ri.		dèèri sôpaari xwâ-nârâ rè ri	people change NMLZ-think POSS 3PL	People changed their minds.
+Xârâcùù	277		Îrî xacië ùnéxä xù pa xûûchî.		îrî xacië ù-néxä xù pa xûûchî	1PL.INCL show NMLZ-know BEN COLL child	We showed our knowledge to the children.
+Xârâcùù	278		Ri ché na nämè nêmwâ döu röwâ sati mê fanêgé rè pa afaînû bwa, pa xârâcùù pa înû-gwéré séatö.		ri ché na nämè nêmwâ döu röwâ sati mê fa-nêgé rè pa a-fa-înû bwa pa xârâcùù pa înû-gwéré séatö.	3PL say PST that today thing concerning study and CAUS-ask POSS COLL NMLZ-CAUS-learn DEM COLL Xârâcùù COLL learn-succeed rare	They said that nowadays things about studies and formation of teachers, few Xârâcùù people are successful."
+Xârâcùù	279		È xöru mè sii nûgachö nâ kè mwâinû!		è xöru mè sii nû gachö nâ kè mwâinû	3SG well COMP NEG send make.a.round.trip 1SG from school	It would be good if I am not expelled from school!
+Xârâcùù	280		Chaa xwâpaii nöö wâ paa-nâ.		chaa xwâ-paii nöö wâ paa-nâ	one NMLZ-sick stay at foot-1SG	I have a wound on my foot/leg.
+Xârâcùù	281		Pââübêêrî rè nâ, ri sati xù bare na nû kèè-piicè rè kèè-mwâwîyâ toa mê.		pââübêêrî rè nâ ri sati xù bare na nû kèè-piicè rè kèè-mwâwîyâ toa mê	COLL.old.people POSS 1SG 3PL teach BEN also PST 1SG NMLZ-search POSS NMLZ-progress up DIR	My old people, they also taught me how to look for a way of rising (above one's situation)."
+Xârâcùù	282		È kwèti ùpûxûrû.		è kwèti ù-pûxûrû	3SG be.tired NMLZ-run	He is tired of running.
+Xârâcùù	283		Chaa kèè-pûxûrû rè pââdö.		chaa kèè-pûxûrû rè pââdö	one NMLZ-run POSS COLL.man	A running competition for men.
+Xârâcùù	284		È fä bare kèè-muru rèè.		è fä bare kèè-muru rè-è	3SG build also NMLZ-live POSS-3SG	She also organizes her lifestyle.
+Xârâcùù	285		Nä wèi a dö, rè xërù nä dê fè sa xwè rè xuu rèè.		nä wèi a dö rè xërù nä dê fè sa xwè rè xuu rè-è	then this.one DEM hen 3SG raise then buzzard go hit eat POSS young POSS-3SG	And when the hen has fledglings, the buzzard goes and catches and eats them."
+Xârâcùù	286		Kù téé, kù nä kèè-paii rè nû ii.		kù téé kù nä kèè-paii rè nû ii	2SG see 2SG IPFV NMLZ-sick POSS 1DU.INCL always	You see, you always make us suffer."
+Xârâcùù	287		È wâ ché nämè: "wèi, jööpè nä, jè faxwata?"		è wâ ché nämè wèi jööpè nä jè fa-xwata	3SG PFV say that you.VOC what DEM what CAUS-hear	He said: "eh you! What is this, what is the news?""
+Xârâcùù	288		Ri sëi ngê wâdöubwa pumöu.		ri sëi ngê wâdöubwa pumöu	3SG dig INS anything landing_net	They dig/lift anything with the landing net.
+Xârâcùù	289		Ri nä têî ngââ.		ri nä têî ngââ	3PL IPFV cry scream	They are crying and screaming.
+Xârâcùù	290		Cokwa xwa kèè-têî nä, da!		cokwa xwa kèè-têî nä da	stop really NMLZ-cry DEM eat	Do stop crying, eat!"
+Xârâcùù	291		È wâ ché xacië wèi a dê...		è wâ ché xacië wèi a dê	3SG PFV say show this.one DEM buzzard	He says, pointing to the buzzard..."
+Xârâcùù	292		Wâ wakè röö mè ke xwè ke sa è.		wâ wakè rö-ö mè ke xwè ke sa è	PFV work POSS-2SG that 2SG eat 2SG kill 3SG	Your work will be to eat it, to kill it."
+Xârâcùù	293		È nä xacè rè nâ nârâ kèè-xô.		è nä xacè rè nâ nârâ kèè-xô	3SG IPFV call IPFV 1SG in.order.to NMLZ-sing	He is calling me in order to sing.
+Xârâcùù	294		Ngêê dè xacië xù rè wîrî!		ngêê dè xacië xù rè wîrî	1PL.EXCL in.turn show BEN IPFV 2PL	It is our turn to show (it) to you!
+Xârâcùù	295		Ri wâ fëi ngê è kwiinètoo, fîda ngè è sîmîâgatè.		ri wâ fëi ngê è kwiinètoo fîda ngè è sîmîâgatè	3PL PFV tie INS 3SG rainbow hit.with.instrument INS 3SG lightning	They tied him with a rainbow, hit him with a lightning."
+Xârâcùù	296		Xäba pichöö faabaa kwéé pa nûnûû, xöö mèèwânyi.		xäba pichöö fa-abaa kwéé pa nûnûû xöö mèèwânyi	frame niaouli CAUS-appear image COLL grandfather spirit guardian	The niaouli door frames are representations of the ancestors, the protecting spirits."
+Xârâcùù	297		Pââübêêrî nää bèti rè xwâda xû kèè-abaa rè mwéa.		pââübêêrî nää bèti rè xwâda xû kèè-abaa rè mwéa	COLL.old.men IPFV.PST divide IPFV year on NMLZ-appear POSS moon	Old people used to divide the year according to the coming out of the moon.
+Xârâcùù	298	Naturalistic spoken	Êrê siè da ääda êê-chutââ ngê kwé.		êrê siè da ääda êê-chutââ ngê kwé	3SG.IMPERS NEG eat food NMLZ-cook INS water	One does not eat food boiled in water.
+Xârâcùù	299	Naturalistic spoken	Cokwa bèti, dèèri wâ cuè nârâ kèè-da fachaa.		cokwa bèti dèèri wâ cuè nârâ kèè-da fa-chaa	finish divide people PFV sit for NMLZ-eat CAUS-one	After the food sharing has been done, people sat to eat together."
+Xârâcùù	300	Naturalistic spoken	È sii mwaa nä wâ cokwa kèè-da.		è sii mwaa nä wâ cokwa kèè-da	3SG NEG long then PFV finish NMLZ-eat	The meal is going to end soon. / It is not long and the meal will be finished.
+Xârâcùù	301	Naturalistic spoken	Dèèri kè Pwângara xâdùù na pa faînû.		dèèri kè Pwângara xâdùù na pa fa-înû	people from France pay PST COLL CAUS-learn	French people paid the teachers.
+Xârâcùù	302		È dù kaù mè ke ché bwèrè kèè-ché rè xû dö söö?		è dù kaù mè ke ché bwèrè kèè-ché rè xû dö söö	3SG possible INTERR that 2sg say some NMLZ-say POSS on true dance	Could you tell me some words about the pilou dance?
+Xârâcùù	303		Xwânèkii rè gèwâ kèè-cuè rè bwèrè ba afädë tö bare Cöö.		xwânèkii rè gewâ kèè-cuè rè bwèrè ba a-fädë tö bare Cöö	maybe 3SG from NMLZ-sit POSS some group NMLZ-walk in also Thio	The reason could be that other ethnic groups are also settled in Thio. / Maybe it comes from the settlement of some migrate groups in Thio.
+Xârâcùù	304		Mîî mo bwa nä saù jai rè bwaö mè ri siè amwêrê kèè-suè rè kwéré mê kä pichöö.		mîî mo bwa nä saù jai rè bwaö mè ri siè amwêrê kèè-suè rè kwéré mê kä pichöö	DEM.PL rafter DEM IPFV each.time go.over IPFV post that 3PL NEG prevent NMLZ-put POSS straw and bark niaouli	These rafters usually are not higher than the posts so that they do not prevent the laying of straw and niaouli bark.
+Xârâcùù	305	Naturalistic spoken	Ke ché na xù nû nämè ke nä faxwata rè nâ ngê xiti rè ku.		ke ché na xù nû nämè ke nä fa-xwata rè nâ ngê xiti rè ku	2SG say PST BEN 1SG that 2SG IPFV CAUS-listen IPFV 1SG INS feast POSS yam	You said to me that you will tell me about the yam feast.
+Xârâcùù	306		Kèè-dii nä xêwi toa saù bwèrè kèè-mwârâ pai.		kèè-dii nä xêwi toa saù bwèrè kèè-mwârâ pai	NMLZ-refuse IPFV take.off DIR each.time some NMLZ-laugh many	A refusal is each time provoking bursts of laughter.
+Xârâcùù	307	Naturalistic spoken	Xai na kèè-tâmwâ röö?		xai na kèè-tâmwâ rö-ö	how PST NMLZ-know POSS-2SG	How did you know?
+Xârâcùù	308		Nä kèè-xacië rè nâ rö xù è, nâ xwèrii tèpe ngê nââ kèè-xa rè nâ, nââ xârâgurè.		nä kèè-xacië rè nâ rö xù è nâ xwèrii tèpe ngê nââ kèè-xa rè nâ nââ xârâgurè	then NMLZ-show POSS 1SG 2SG BEN 3SG 1SG want talk INS language NMLZ-speak POSS 1SG language Xârâgurè	Then (since) I am introducing you to him, I would prefer to talk in my own language, Xârâgurè. / Then my showing you to him ... ."
+Xârâcùù	309	Naturalistic spoken	Êrê pä mwêgè döö mwîrî mââîtaa kèè-nîî rèè tö nêböö-kwâ.		êrê pä mwêgè döö mwîrî mââîtaa kèè-nîî rè-è tö nêböö-kwâ	3SG.IMPERS sort again soil DEM before NMLZ-fill POSS-3SG in inside-boat	The soil is sorted again before filling up the boat with it.
+Xârâcùù	310		Pa pââdö nä cuè mââî ùbwa ti ùbwa rè ri mââîtaa kèè-nû rè taiki.		pa pââdö nä cuè mââî ù-bwa ti ù-bwa rè ri mââîtaa kèè-nû rè taiki	COLL men IPFV sit first NMLZ-stay at NMLZ-stay POSS 3PL before NMLZ-send POSS dog	First the men must be sitting at their place before sending the dogs.
+Xârâcùù	311		Dèèri muru nä xânî fa-tèpe rè pa paii.		dèèri muru nä xânî fa-tèpe rè pa paii	people live IPFV often CAUS-speak IPFV COLL feel.pain	The living often speak to the dead.
+Xârâcùù	312		Kèè-xù rè pa ga xäba pichöö nä xwi rè wakè rè chaa xwâmwâdö.		kèè-xù rè pa ga xäba pichöö nä xwi rè wakè rè chaa xwâmwâdö	NMLZ-give POSS COLL sculpt frame niaouli IPFV make IPFV work POSS one clan	The gift of the niaouli frames by the sculptors is under the responsibility of the clan.
+Xârâcùù	313		Rè dù kèè-bwa röö xû kwâ mè ke téé kèè-sa rè ngôô dawa.		rè dù kèè-bwa rö-ö xû kwâ mè ke téé kèè-sa rè ngôô dawa	3SG possible NMLZ-stay POSS-2SG on boat that 2SG see NMLZ-catch POSS 1DU.INCL dawa	It is better if you stay on the boat in order to see us catching dawas(fish).
+Xârâcùù	314		Ri fädë ngê mô tööi ngê chêêdè nârâ kèè-pisi cè rè nênè-ri.		ri fädë ngê mô tööi ngê chêêdè nârâ kèè-pisi cè rè nênè-ri	3PL walk during night or during evening in.order.to NMLZ-search for.a.specific.goal POSS food-3PL	They walk around during the night or in the evening searching for food.
+Xârâcùù	315		Xai kèè-ché rè mîî döu a?		xai kèè-ché rè mîî döu a	how NMLZ-say POSS DEM.PL thing DEM	How do you call these things?
+Xârâcùù	316		Nä kêrênôdö döbwanä ke téé, è xëtë kèè-xâpârî rè.		nä kêrênôdö döbwanä ke téé è xëtë kèè-xâpârî-rè	IPFV true if.IPFV 2SG look 3SG hard NMLZ-see-3SG	It is true that when you look (at it), it is difficult to see anything."
+Xârâcùù	317		Chavaa kèè-chètia rè péci!		chavaa kèè-chètia rè péci	pay.attention NMLZ-tear POSS book	Be careful not to tear the book!
+Xârâcùù	318		Nä xai kèè-xô rè nî söö rèè?		nä xai kèè-xô rè nî söö rè-è	and how NMLZ-sing POSS 1PL.INCL song POSS-3SG	And how are we going to sing his song?
+Xârâcùù	319		Ngêê xacië mîî kwéédöu nârâ kèè-tèpe rè pa xûûchî.		ngêê xacië mîî kwéé-döu nârâ kèè-tèpe rè pa xûûchî	1PL.EXCL show DEM.PL picture-thing in.order.to NMLZ-speak POSS COLL child	We are showing these pictures so that children will speak (about them).
+Xârâcùù	320		Îrî catù rö nèpwéé kwiöödöu êê suè rè pa pwâgara.		îrî catù rö nèpwéé-kwiöö-döu êê-suè rè pa pwâgara	1PL.INCL enter at inside-tool-thing NMLZ-put POSS COLL white	We are entering into the system set up by the Europeans.
+Xârâcùù	321	Naturalistic spoken	Êê fagwéré ngê è chaa böpèkwââ.		êê fa-gwéré ngê è chaa böpè-kwââ	3SG.IMPERS CAUS-throw INS 3SG one stick-wood	Someone made him throw a wooden stick.
+Xârâcùù	322	Naturalistic spoken	Kèè-gwéré rèè è xöru.		kèè-gwéré rè-è è xöru	NMLZ-throw POSS-3SG 3SG good	His way of throwing is fine.
+Xârâcùù	323	Naturalistic spoken	Kwiè fasùù na ngêê.		kwiè fa-sùù na ngêê	rain CAUS-push PST 1PL.EXCL	The rain made us change our plan. / The rain pushed us out.
+Xârâcùù	324	Naturalistic written	Anyââ fasùsùù ngê è chaa buruatè.		anyââ fa-sù-sùù ngê è chaa buruatè	Mummy CAUS-REDUP-push INS 3SG one barrow	Mummy made her/him push a wheelbarrow.
+Xârâcùù	325	Naturalistic written	Léo fatê ngê è sêgè.		Léo fa-tê ngê è sêgè	Léo CAUS-throw INS 3SG stone	Léo made him throw stones (to teach him how to do it).
+Xârâcùù	326	Naturalistic written	È mââsöö kèè-tê rè sêgè.		è mââsöö kèè-tê rè sêgè	3SG be.forbidden NMLZ-throw POSS stone	It is forbidden to throw stones.
+Xârâcùù	327	Naturalistic written	Anyââ fajee ngê è kûû-rè.		anyââ fa-jee ngê è kûû-rè	Mummy CAUS-wipe INS 3SG nose-3SG	Mummy made him wipe his nose.
+Xârâcùù	328	Naturalistic written	Kèè-jee rè nêdöö, è chaa mwîî wakè bare.		kèè-jee rè nêdöö è chaa mwîî wakè bare	NMLZ-wipe POSS ground 3SG one big work too	Housework is also an important task.
+Xârâcùù	329	Naturalistic written	È faja ngê ri chaa nèpô.		è fa-ja ngê ri chaa nèpô	3SG CAUS-dig INS 3PL one hole	He made them dig a hole. (with something).
+Xârâcùù	330	Naturalistic written	Va kèè-ja rè ri wèi nä.		va kèè-ja rè ri wèi nä	really NMLZ-dig POSS 3PL another DEM	This is their way of digging.
+Xârâcùù	331	Naturalistic written	Aaxa fapwââmè dèèri saa.		aaxa fa-pwââmè dèèri saa	chief CAUS-kill people bad	The chief is having the enemies killed.
+Xârâcùù	332	Naturalistic written	Aaxa fapwââmè ngê dèèri saa chapöri.		aaxa fa-pwââmè ngê dèèri saa chapöri	chief CAUS-kill INS people bad war.club	The chief is having the enemies killed with a war club.
+Xârâcùù	333	Naturalistic spoken	Catù mê, wita faxùpè röö!		catù mê wita fa-xùpè röö	enter DIR PROHIB CAUS-cold POSS:2SG	Come back in, don't catch a cold! / lit. Come in, don't make you cold!"
+Xârâcùù	334	Naturalistic spoken	Mê röö müü, ke faxùpè péépé.		mê rö-ö müü ke fa-xùpè péépé	hand POSS-2SG cold.and.humid 2SG CAUS-cold baby	Your hands are cold and humid, you are making the baby feel cold."
+Xârâcùù	335	Naturalistic spoken	Kwiè nä faxùpè nâ.		kwiè nä fa-xùpè nâ	rain DEM CAUS-cold 1SG	This rain cooled me down.
+Xârâcùù	336	Naturalistic written	Mîî dèèri nä wâ fafaxùpè ngêê töwâ kwiè.		mîî dèèri nä wâ fa-fa-xùpè ngêê töwâ kwiè	DEM.PL people DEM PFV CAUS-CAUS-cold 1PL.EXCL during rain	These people let us catch a cold under the rain.
+Xârâcùù	337	Naturalistic written	Kètè nä müü jaja, wâ kèè-xùpè rè ngêê!		kètè nä müü jaja wâ kèè-xùpè rè ngêê	place DEM cold.and.humid very PFV NMLZ-cold POSS 1PL.EXCL	This place is very cold and humid, we were very cold!"
+Xârâcùù	338	Naturalistic spoken	Ke fapaiimè na xuu rè nâ.		ke fa-paii-mè na xuu rè nâ	2SG CAUS-sick-totally PST son POSS 1SG	You have let my son die. / You are responsible of the death of my son.
+Xârâcùù	339	Naturalistic spoken	Êê nää fapaiimè rè dèèri tö kètè nä.		êê nää fa-paii-mè rè dèèri tö kètè nä	3SG.IMPERS IPFV.PST CAUS-sick-totally IPFV people in place DEM	We used to let people die in that place.
+Xârâcùù	340	Naturalistic spoken	Wita baraxwicara rè döbwa kèè-paiimè!		wita baraxwicara rè döbwa kèè-paii-mè	PROHIB be.afraid POSS that.thing NMLZ-sick-completely	Don't be afraid of dying!
+Xârâcùù	341	Naturalistic spoken	Kèè-toa fè rè ngêê, êê wâ fafamwâmwâ ngêê bwèrè xöu abêêrî.		kèè-toa fè rè ngêê êê wâ fa-fa-mwâmwâ ngêê bwèrè xöu a-bêêrî	NMLZ-arrive DIR POSS 1PL.EXCL 3SG.IMPERS PFV CAUS-CAUS-get.dress 1PL.EXCL some cloth NMLZ-old	At our arrival, we were dressed with old clothes. / lit. ... someone made us put on some old clothes."
+Xârâcùù	342	Naturalistic written	Anyââ fafaxûda ngê ri purèkwé.		anyââ fa-fa-xûda ngê ri purè-kwé	Mummy CAUS-CAUS-full.of INS 3PL empty-water	Mummy made them fill up empty bottles.
+Xârâcùù	343	Naturalistic written	Mika fafaxûda ngê dökwé chaa mwîî purèkwé.		Mika fa-fa-xûda ngê dö-kwé chaa mwîî purè-kwé	Mika CAUS-CAUS-fill.up INS true-water one big bottle-water	Mika made filled up with freshwater a big bottle.
+Xârâcùù	344	Naturalistic written	Êê fafaxwata ngêê kèè-xa rè chaa märä.		êê fa-fa-xwata ngêê kèè-xa rè chaa märä	3SG.IMPERS CAUS-CAUS-listen 1PL.EXCL NMLZ-speak POSS one bird	Someone makes us listen to the song of a bird.
+Xârâcùù	345	Naturalistic spoken	Nâ tê xù è chaa sêgè.		nâ tê xù è chaa sêgè	1SG throw BEN 3SG one stone	I threw a stone to him/her.
+Xârâcùù	346	Naturalistic spoken	È faja ri ngê chaa kwéfaö chaa nèpô.		è fa-ja ri ngê chaa kwéfaö chaa nèpô	3SG CAUS-dig 3PL INS one iron.bar one hole	He made them dig a hole with an iron bar.
+Xârâcùù	347	Naturalistic written	È fakasache ri.		è fa-kasache ri	3SG CAUS-cover 3PL	She makes them cover themselves.
+Xârâcùù	348		Nâ faxwêê è.		nâ fa-xwêê è	1SG CAUS-fall 3SG	I make him fall.
+Xârâcùù	349	Naturalistic written	Mwââdö nä fabaa rè kwéé kèè-töpwé rè dèèri.		mwââdö nä fa-baa rè kwéé kèè-töpwé rè dèèri	traditional.house IPFV CAUS-show IPFV image NMLZ-receive POSS people	The traditional Kanak house represents the symbol of the welcoming of people.

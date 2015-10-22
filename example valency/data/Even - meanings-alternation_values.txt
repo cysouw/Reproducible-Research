@@ -1,0 +1,649 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Even	1	EAT	d’eb-	Adversative Passive	Regularly	2-nom 1-dat advV'.subj[2]
+Even	1	EAT	d’eb-	Comitative alternation	Never	
+Even	1	EAT	d’eb-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	1	EAT	d’eb-	Indirect Reciprocal	Never	
+Even	1	EAT	d’eb-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	1	EAT	d’eb-	Object deletion	Regularly	1-nom V'.subj[1]
+Even	1	EAT	d’eb-	Reflexive deleting alternation	Never	
+Even	1	EAT	d’eb-	Resultative	Never	
+Even	2	HUG	kemni-	Adversative Passive	Marginally	
+Even	2	HUG	kemni-	Comitative alternation	Never	
+Even	2	HUG	kemni-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	2	HUG	kemni-	Indirect Reciprocal	Never	
+Even	2	HUG	kemni-	Mediopassive	Marginally	
+Even	2	HUG	kemni-	Object deletion	Never	
+Even	2	HUG	kemni-	Reflexive deleting alternation	Never	
+Even	2	HUG	kemni-	Resultative	Marginally	
+Even	3	LOOK AT	it- (1)	Adversative Passive	Marginally	
+Even	3	LOOK AT	it- (1)	Comitative alternation	Never	
+Even	3	LOOK AT	it- (1)	Direct Reciprocal	Regularly	
+Even	3	LOOK AT	it- (1)	Indirect Reciprocal	Never	
+Even	3	LOOK AT	it- (1)	Mediopassive	Never	
+Even	3	LOOK AT	it- (1)	Object deletion	Never	
+Even	3	LOOK AT	it- (1)	Reflexive deleting alternation	Never	
+Even	3	LOOK AT	it- (1)	Resultative	Never	
+Even	4	SEE	it- (2)	Adversative Passive	Marginally	
+Even	4	SEE	it- (2)	Comitative alternation	Never	
+Even	4	SEE	it- (2)	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	4	SEE	it- (2)	Indirect Reciprocal	Never	
+Even	4	SEE	it- (2)	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	4	SEE	it- (2)	Object deletion	Never	
+Even	4	SEE	it- (2)	Reflexive deleting alternation	Never	
+Even	4	SEE	it- (2)	Resultative	Never	
+Even	5	SMELL	ŋosu-t-	Adversative Passive	Marginally	
+Even	5	SMELL	ŋosu-t-	Comitative alternation	Never	
+Even	5	SMELL	ŋosu-t-	Direct Reciprocal	Marginally	
+Even	5	SMELL	ŋosu-t-	Indirect Reciprocal	Never	
+Even	5	SMELL	ŋosu-t-	Mediopassive	Marginally	
+Even	5	SMELL	ŋosu-t-	Object deletion	Never	
+Even	5	SMELL	ŋosu-t-	Reflexive deleting alternation	Never	
+Even	5	SMELL	ŋosu-t-	Resultative	Never	
+Even	6	FEAR	ŋel-	Adversative Passive	Marginally	
+Even	6	FEAR	ŋel-	Comitative alternation	Never	
+Even	6	FEAR	ŋel-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	6	FEAR	ŋel-	Indirect Reciprocal	Never	
+Even	6	FEAR	ŋel-	Mediopassive	Never	
+Even	6	FEAR	ŋel-	Object deletion	Never	
+Even	6	FEAR	ŋel-	Reflexive deleting alternation	Never	
+Even	6	FEAR	ŋel-	Resultative	Never	
+Even	7	FRIGHTEN	ŋelu-ken	Adversative Passive	Regularly	2-nom 1-dat advV'.subj[2]
+Even	7	FRIGHTEN	ŋelu-ken	Comitative alternation	Never	
+Even	7	FRIGHTEN	ŋelu-ken	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	7	FRIGHTEN	ŋelu-ken	Indirect Reciprocal	Never	
+Even	7	FRIGHTEN	ŋelu-ken	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	7	FRIGHTEN	ŋelu-ken	Object deletion	Never	
+Even	7	FRIGHTEN	ŋelu-ken	Reflexive deleting alternation	Never	
+Even	7	FRIGHTEN	ŋelu-ken	Resultative	Never	
+Even	8	LIKE	ajav-	Adversative Passive	Marginally	
+Even	8	LIKE	ajav-	Comitative alternation	Never	
+Even	8	LIKE	ajav-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	8	LIKE	ajav-	Indirect Reciprocal	Never	
+Even	8	LIKE	ajav-	Mediopassive	Marginally	
+Even	8	LIKE	ajav-	Object deletion	Never	
+Even	8	LIKE	ajav-	Reflexive deleting alternation	Never	
+Even	8	LIKE	ajav-	Resultative	Never	
+Even	9	KNOW	ha-	Adversative Passive	Marginally	
+Even	9	KNOW	ha-	Comitative alternation	Never	
+Even	9	KNOW	ha-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	9	KNOW	ha-	Indirect Reciprocal	Never	
+Even	9	KNOW	ha-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	9	KNOW	ha-	Object deletion	Marginally	
+Even	9	KNOW	ha-	Reflexive deleting alternation	Never	
+Even	9	KNOW	ha-	Resultative	Never	
+Even	10	THINK	mulgat-	Adversative Passive	Marginally	
+Even	10	THINK	mulgat-	Comitative alternation	Never	
+Even	10	THINK	mulgat-	Direct Reciprocal	Never	
+Even	10	THINK	mulgat-	Indirect Reciprocal	Never	
+Even	10	THINK	mulgat-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	10	THINK	mulgat-	Object deletion	Regularly	1-nom V'.subj[1]
+Even	10	THINK	mulgat-	Reflexive deleting alternation	Never	
+Even	10	THINK	mulgat-	Resultative	Never	
+Even	11	SEARCH FOR	gele-t	Adversative Passive	Marginally	
+Even	11	SEARCH FOR	gele-t	Comitative alternation	Never	
+Even	11	SEARCH FOR	gele-t	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	11	SEARCH FOR	gele-t	Indirect Reciprocal	Never	
+Even	11	SEARCH FOR	gele-t	Mediopassive	Marginally	
+Even	11	SEARCH FOR	gele-t	Object deletion	Never	
+Even	11	SEARCH FOR	gele-t	Reflexive deleting alternation	Never	
+Even	11	SEARCH FOR	gele-t	Resultative	Never	
+Even	12	WASH	av-	Adversative Passive	Marginally	
+Even	12	WASH	av-	Comitative alternation	Never	
+Even	12	WASH	av-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	12	WASH	av-	Indirect Reciprocal	Never	
+Even	12	WASH	av-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	12	WASH	av-	Object deletion	Never	
+Even	12	WASH	av-	Reflexive deleting alternation	Regularly	1-nom V'.subj[1]
+Even	12	WASH	av-	Resultative	Never	
+Even	13	DRESS	tet-	Adversative Passive	Never	
+Even	13	DRESS	tet-	Comitative alternation	Never	
+Even	13	DRESS	tet-	Direct Reciprocal	Never	
+Even	13	DRESS	tet-	Indirect Reciprocal	Never	
+Even	13	DRESS	tet-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	13	DRESS	tet-	Object deletion	Never	
+Even	13	DRESS	tet-	Reflexive deleting alternation	Regularly	1-nom V'.subj[1]
+Even	13	DRESS	tet-	Resultative	Never	
+Even	13	DRESS	tet-u	Adversative Passive	Marginally	
+Even	13	DRESS	tet-u	Comitative alternation	Never	
+Even	13	DRESS	tet-u	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	13	DRESS	tet-u	Indirect Reciprocal	Never	
+Even	13	DRESS	tet-u	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	13	DRESS	tet-u	Object deletion	Never	
+Even	13	DRESS	tet-u	Reflexive deleting alternation	Never	
+Even	13	DRESS	tet-u	Resultative	Regularly	2-nom resV'.subj[2]
+Even	14	SHAVE (a body part/person)	hus-	Adversative Passive	Marginally	
+Even	14	SHAVE (a body part/person)	hus-	Comitative alternation	Never	
+Even	14	SHAVE (a body part/person)	hus-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	14	SHAVE (a body part/person)	hus-	Indirect Reciprocal	Never	
+Even	14	SHAVE (a body part/person)	hus-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	14	SHAVE (a body part/person)	hus-	Object deletion	Marginally	
+Even	14	SHAVE (a body part/person)	hus-	Reflexive deleting alternation	Marginally	
+Even	14	SHAVE (a body part/person)	hus-	Resultative	Never	
+Even	15	HELP	bel-	Adversative Passive	Marginally	
+Even	15	HELP	bel-	Comitative alternation	Never	
+Even	15	HELP	bel-	Direct Reciprocal	Marginally	
+Even	15	HELP	bel-	Indirect Reciprocal	Never	
+Even	15	HELP	bel-	Mediopassive	Marginally	
+Even	15	HELP	bel-	Object deletion	Never	
+Even	15	HELP	bel-	Reflexive deleting alternation	Never	
+Even	15	HELP	bel-	Resultative	Never	
+Even	16	FOLLOW	bod-	Adversative Passive	Marginally	
+Even	16	FOLLOW	bod-	Comitative alternation	Never	
+Even	16	FOLLOW	bod-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	16	FOLLOW	bod-	Indirect Reciprocal	Never	
+Even	16	FOLLOW	bod-	Mediopassive	Marginally	
+Even	16	FOLLOW	bod-	Object deletion	Never	
+Even	16	FOLLOW	bod-	Reflexive deleting alternation	Never	
+Even	16	FOLLOW	bod-	Resultative	Never	
+Even	17	MEET	baka-lda-	Adversative Passive	Marginally	
+Even	17	MEET	baka-lda-	Comitative alternation	Regularly	1-nom 2-com V'.subj[1]
+Even	17	MEET	baka-lda-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	17	MEET	baka-lda-	Indirect Reciprocal	Never	
+Even	17	MEET	baka-lda-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	17	MEET	baka-lda-	Object deletion	Never	
+Even	17	MEET	baka-lda-	Reflexive deleting alternation	Never	
+Even	17	MEET	baka-lda-	Resultative	Never	
+Even	18	TALK	t’öre-	Adversative Passive	Never	
+Even	18	TALK	t’öre-	Comitative alternation	Regularly	1&3-nom 2-all V'.subj[1&3]
+Even	18	TALK	t’öre-	Direct Reciprocal	Marginally	
+Even	18	TALK	t’öre-	Indirect Reciprocal	Regularly	1&3-nom 2-all recV'.subj[1&3]
+Even	18	TALK	t’öre-	Mediopassive	Marginally	
+Even	18	TALK	t’öre-	Object deletion	Never	
+Even	18	TALK	t’öre-	Reflexive deleting alternation	Never	
+Even	18	TALK	t’öre-	Resultative	Marginally	
+Even	19	ASK FOR	ulgim-	Adversative Passive	Marginally	
+Even	19	ASK FOR	ulgim-	Comitative alternation	Never	
+Even	19	ASK FOR	ulgim-	Direct Reciprocal	Marginally	
+Even	19	ASK FOR	ulgim-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	19	ASK FOR	ulgim-	Mediopassive	Marginally	
+Even	19	ASK FOR	ulgim-	Object deletion	Never	
+Even	19	ASK FOR	ulgim-	Reflexive deleting alternation	Never	
+Even	19	ASK FOR	ulgim-	Resultative	Never	
+Even	20	SHOUT AT	irka	Adversative Passive	Never	
+Even	20	SHOUT AT	irka	Comitative alternation	Never	
+Even	20	SHOUT AT	irka	Direct Reciprocal	Marginally	
+Even	20	SHOUT AT	irka	Indirect Reciprocal	Never	
+Even	20	SHOUT AT	irka	Mediopassive	Never	
+Even	20	SHOUT AT	irka	Object deletion	Never	
+Even	20	SHOUT AT	irka	Reflexive deleting alternation	Never	
+Even	20	SHOUT AT	irka	Resultative	Never	
+Even	21	TELL	gö’n-	Adversative Passive	Marginally	
+Even	21	TELL	gö’n-	Comitative alternation	Never	
+Even	21	TELL	gö’n-	Direct Reciprocal	Marginally	
+Even	21	TELL	gö’n-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	21	TELL	gö’n-	Mediopassive	Regularly	2-nom 3-all medV'.subj[2]
+Even	21	TELL	gö’n-	Object deletion	Marginally	
+Even	21	TELL	gö’n-	Reflexive deleting alternation	Never	
+Even	21	TELL	gö’n-	Resultative	Never	
+Even	22	SAY	gö’n-	Adversative Passive	Marginally	
+Even	22	SAY	gö’n-	Comitative alternation	Never	
+Even	22	SAY	gö’n-	Direct Reciprocal	Marginally	
+Even	22	SAY	gö’n-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	22	SAY	gö’n-	Mediopassive	Regularly	2-nom 3-all medV'.subj[2]
+Even	22	SAY	gö’n-	Object deletion	Marginally	
+Even	22	SAY	gö’n-	Reflexive deleting alternation	Never	
+Even	22	SAY	gö’n-	Resultative	Never	
+Even	23	NAME	gerbet-	Adversative Passive	Marginally	
+Even	23	NAME	gerbet-	Comitative alternation	Never	
+Even	23	NAME	gerbet-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	23	NAME	gerbet-	Indirect Reciprocal	Never	
+Even	23	NAME	gerbet-	Mediopassive	Never	
+Even	23	NAME	gerbet-	Object deletion	Never	
+Even	23	NAME	gerbet-	Reflexive deleting alternation	Never	
+Even	23	NAME	gerbet-	Resultative	Never	
+Even	24	BUILD	d’uŋna-	Adversative Passive	Marginally	
+Even	24	BUILD	d’uŋna-	Comitative alternation	Never	
+Even	24	BUILD	d’uŋna-	Direct Reciprocal	Never	
+Even	24	BUILD	d’uŋna-	Indirect Reciprocal	Never	
+Even	24	BUILD	d’uŋna-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	24	BUILD	d’uŋna-	Object deletion	Never	
+Even	24	BUILD	d’uŋna-	Reflexive deleting alternation	Never	
+Even	24	BUILD	d’uŋna-	Resultative	Never	
+Even	24	BUILD	o-	Adversative Passive	Marginally	
+Even	24	BUILD	o-	Comitative alternation	Never	
+Even	24	BUILD	o-	Direct Reciprocal	Never	
+Even	24	BUILD	o-	Indirect Reciprocal	Never	
+Even	24	BUILD	o-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	24	BUILD	o-	Object deletion	Never	
+Even	24	BUILD	o-	Reflexive deleting alternation	Never	
+Even	24	BUILD	o-	Resultative	Never	
+Even	25	BREAK	čelgel-	Adversative Passive	Regularly	2-nom 1-dat 3-instr advV'.subj[2]
+Even	25	BREAK	čelgel-	Comitative alternation	Never	
+Even	25	BREAK	čelgel-	Direct Reciprocal	Never	
+Even	25	BREAK	čelgel-	Indirect Reciprocal	Never	
+Even	25	BREAK	čelgel-	Mediopassive	Marginally	
+Even	25	BREAK	čelgel-	Object deletion	Never	
+Even	25	BREAK	čelgel-	Reflexive deleting alternation	Never	
+Even	25	BREAK	čelgel-	Resultative	Never	
+Even	26	KILL	ma-	Adversative Passive	Regularly	2-nom 1-dat 3-instr advV'.subj[2]
+Even	26	KILL	ma-	Comitative alternation	Never	
+Even	26	KILL	ma-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	26	KILL	ma-	Indirect Reciprocal	Never	
+Even	26	KILL	ma-	Mediopassive	Regularly	2-nom 3-instr medV'.subj[2]
+Even	26	KILL	ma-	Object deletion	Never	
+Even	26	KILL	ma-	Reflexive deleting alternation	Never	
+Even	26	KILL	ma-	Resultative	Never	
+Even	27	BEAT	pavul-	Adversative Passive	Regularly	2-nom 1-dat 3-instr advV'.subj[2]
+Even	27	BEAT	pavul-	Comitative alternation	Never	
+Even	27	BEAT	pavul-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	27	BEAT	pavul-	Indirect Reciprocal	Never	
+Even	27	BEAT	pavul-	Mediopassive	Marginally	
+Even	27	BEAT	pavul-	Object deletion	Never	
+Even	27	BEAT	pavul-	Reflexive deleting alternation	Never	
+Even	27	BEAT	pavul-	Resultative	Never	
+Even	28	HIT	ieč-	Adversative Passive	Regularly	2-nom 1-dat 3-instr advV'.subj[2]
+Even	28	HIT	ieč-	Comitative alternation	Never	
+Even	28	HIT	ieč-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	28	HIT	ieč-	Indirect Reciprocal	Never	
+Even	28	HIT	ieč-	Mediopassive	Marginally	
+Even	28	HIT	ieč-	Object deletion	Never	
+Even	28	HIT	ieč-	Reflexive deleting alternation	Never	
+Even	28	HIT	ieč-	Resultative	Never	
+Even	29	TOUCH	huŋri-	Adversative Passive	Never	
+Even	29	TOUCH	huŋri-	Comitative alternation	Never	
+Even	29	TOUCH	huŋri-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	29	TOUCH	huŋri-	Indirect Reciprocal	Never	
+Even	29	TOUCH	huŋri-	Mediopassive	Regularly	2-nom 3-instr medV'.subj[2]
+Even	29	TOUCH	huŋri-	Object deletion	Never	
+Even	29	TOUCH	huŋri-	Reflexive deleting alternation	Never	
+Even	29	TOUCH	huŋri-	Resultative	Never	
+Even	30	CUT	mine-	Adversative Passive	Regularly	2-nom 1-dat 3-instr advV'.subj[2]
+Even	30	CUT	mine-	Comitative alternation	Never	
+Even	30	CUT	mine-	Direct Reciprocal	Regularly	1&2-nom 3-instr recV'.subj[1&2]
+Even	30	CUT	mine-	Indirect Reciprocal	Never	
+Even	30	CUT	mine-	Mediopassive	Regularly	2-nom 3-instr medV'.subj[2]
+Even	30	CUT	mine-	Object deletion	Never	
+Even	30	CUT	mine-	Reflexive deleting alternation	Never	
+Even	30	CUT	mine-	Resultative	Never	
+Even	31	TAKE	ga-	Adversative Passive	Regularly	2-nom 1-dat 3-abl advV'.subj[2]
+Even	31	TAKE	ga-	Comitative alternation	Never	
+Even	31	TAKE	ga-	Direct Reciprocal	Marginally	
+Even	31	TAKE	ga-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	31	TAKE	ga-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	31	TAKE	ga-	Object deletion	Never	
+Even	31	TAKE	ga-	Reflexive deleting alternation	Never	
+Even	31	TAKE	ga-	Resultative	Never	
+Even	32	TEAR	atal-	Adversative Passive	Regularly	2-nom 1-dat 3-abl advV'.subj[2]
+Even	32	TEAR	atal-	Comitative alternation	Never	
+Even	32	TEAR	atal-	Direct Reciprocal	Marginally	
+Even	32	TEAR	atal-	Indirect Reciprocal	Never	
+Even	32	TEAR	atal-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	32	TEAR	atal-	Object deletion	Never	
+Even	32	TEAR	atal-	Reflexive deleting alternation	Never	
+Even	32	TEAR	atal-	Resultative	Regularly	2-nom 3-abl resV'.subj[2]
+Even	33	PEEL	n'aŋu-	Adversative Passive	Marginally	
+Even	33	PEEL	n'aŋu-	Comitative alternation	Never	
+Even	33	PEEL	n'aŋu-	Direct Reciprocal	Never	
+Even	33	PEEL	n'aŋu-	Indirect Reciprocal	Never	
+Even	33	PEEL	n'aŋu-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	33	PEEL	n'aŋu-	Object deletion	Never	
+Even	33	PEEL	n'aŋu-	Reflexive deleting alternation	Never	
+Even	33	PEEL	n'aŋu-	Resultative	Marginally	
+Even	34	HIDE	diken-	Adversative Passive	Marginally	
+Even	34	HIDE	diken-	Comitative alternation	Never	
+Even	34	HIDE	diken-	Direct Reciprocal	Regularly	1&2-nom 3-abl recV'.subj[1&2]
+Even	34	HIDE	diken-	Indirect Reciprocal	Never	
+Even	34	HIDE	diken-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	34	HIDE	diken-	Object deletion	Never	
+Even	34	HIDE	diken-	Reflexive deleting alternation	Never	
+Even	34	HIDE	diken-	Resultative	Regularly	2-nom 3-abl resV'.subj[2]
+Even	35	SHOW	ič-uken-	Adversative Passive	Marginally	
+Even	35	SHOW	ič-uken-	Comitative alternation	Never	
+Even	35	SHOW	ič-uken-	Direct Reciprocal	Marginally	
+Even	35	SHOW	ič-uken-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	35	SHOW	ič-uken-	Mediopassive	Regularly	2-nom 3-dat medV'.subj[2]
+Even	35	SHOW	ič-uken-	Object deletion	Never	
+Even	35	SHOW	ič-uken-	Reflexive deleting alternation	Never	
+Even	35	SHOW	ič-uken-	Resultative	Never	
+Even	36	GIVE	bö-	Adversative Passive	Marginally	
+Even	36	GIVE	bö-	Comitative alternation	Never	
+Even	36	GIVE	bö-	Direct Reciprocal	Marginally	
+Even	36	GIVE	bö-	Indirect Reciprocal	Regularly	1&3-nom 2-acc recV'.subj[1&3]
+Even	36	GIVE	bö-	Mediopassive	Regularly	2-nom 3-dat medV'.subj[2]
+Even	36	GIVE	bö-	Object deletion	Never	
+Even	36	GIVE	bö-	Reflexive deleting alternation	Never	
+Even	36	GIVE	bö-	Resultative	Never	
+Even	37	SEND	hör-u-	Adversative Passive	Regularly	2-nom 1-dat 3-loc advV'.subj[2]
+Even	37	SEND	hör-u-	Comitative alternation	Never	
+Even	37	SEND	hör-u-	Direct Reciprocal	Marginally	
+Even	37	SEND	hör-u-	Indirect Reciprocal	Marginally	
+Even	37	SEND	hör-u-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	37	SEND	hör-u-	Object deletion	Never	
+Even	37	SEND	hör-u-	Reflexive deleting alternation	Never	
+Even	37	SEND	hör-u-	Resultative	Marginally	
+Even	38	CARRY	ŋal-	Adversative Passive	Marginally	
+Even	38	CARRY	ŋal-	Comitative alternation	Never	
+Even	38	CARRY	ŋal-	Direct Reciprocal	Regularly	1&2-nom 3-loc recV'.subj[1&2]
+Even	38	CARRY	ŋal-	Indirect Reciprocal	Never	
+Even	38	CARRY	ŋal-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	38	CARRY	ŋal-	Object deletion	Never	
+Even	38	CARRY	ŋal-	Reflexive deleting alternation	Never	
+Even	38	CARRY	ŋal-	Resultative	Never	
+Even	39	THROW	ule-	Adversative Passive	Regularly	2-nom 1-dat 3-loc advV'.subj[2]
+Even	39	THROW	ule-	Comitative alternation	Never	
+Even	39	THROW	ule-	Direct Reciprocal	Regularly	1&2-nom 3-loc recV'.subj[1&2]
+Even	39	THROW	ule-	Indirect Reciprocal	Never	
+Even	39	THROW	ule-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	39	THROW	ule-	Object deletion	Never	
+Even	39	THROW	ule-	Reflexive deleting alternation	Never	
+Even	39	THROW	ule-	Resultative	Marginally	
+Even	40	TIE	ön’e-	Adversative Passive	Regularly	2-nom 1-dat 3-loc advV'.subj[2]
+Even	40	TIE	ön’e-	Comitative alternation	Never	
+Even	40	TIE	ön’e-	Direct Reciprocal	Regularly	1&2-nom 3-loc recV'.subj[1&2]
+Even	40	TIE	ön’e-	Indirect Reciprocal	Never	
+Even	40	TIE	ön’e-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	40	TIE	ön’e-	Object deletion	Never	
+Even	40	TIE	ön’e-	Reflexive deleting alternation	Never	
+Even	40	TIE	ön’e-	Resultative	Regularly	2-nom 3-loc resV'.subj[2]
+Even	41	PUT	ne-	Adversative Passive	Marginally	
+Even	41	PUT	ne-	Comitative alternation	Never	
+Even	41	PUT	ne-	Direct Reciprocal	Regularly	1&2-nom 3-loc recV'.subj[1&2]
+Even	41	PUT	ne-	Indirect Reciprocal	Never	
+Even	41	PUT	ne-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	41	PUT	ne-	Object deletion	Never	
+Even	41	PUT	ne-	Reflexive deleting alternation	Never	
+Even	41	PUT	ne-	Resultative	Marginally	
+Even	42	POUR	öŋke-	Adversative Passive	Never	
+Even	42	POUR	öŋke-	Comitative alternation	Never	
+Even	42	POUR	öŋke-	Direct Reciprocal	Never	
+Even	42	POUR	öŋke-	Indirect Reciprocal	Never	
+Even	42	POUR	öŋke-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	42	POUR	öŋke-	Object deletion	Never	
+Even	42	POUR	öŋke-	Reflexive deleting alternation	Never	
+Even	42	POUR	öŋke-	Resultative	Regularly	2-nom 3-loc resV'.subj[2]
+Even	43	COVER	das-	Adversative Passive	Marginally	
+Even	43	COVER	das-	Comitative alternation	Never	
+Even	43	COVER	das-	Direct Reciprocal	Marginally	
+Even	43	COVER	das-	Indirect Reciprocal	Never	
+Even	43	COVER	das-	Mediopassive	Regularly	2-nom 3-instr medV'.subj[2]
+Even	43	COVER	das-	Object deletion	Never	
+Even	43	COVER	das-	Reflexive deleting alternation	Never	
+Even	43	COVER	das-	Resultative	Regularly	2-nom 3-instr resV'.subj[2]
+Even	44	FILL	miltere-mken-	Adversative Passive	Marginally	
+Even	44	FILL	miltere-mken-	Comitative alternation	Never	
+Even	44	FILL	miltere-mken-	Direct Reciprocal	Never	
+Even	44	FILL	miltere-mken-	Indirect Reciprocal	Never	
+Even	44	FILL	miltere-mken-	Mediopassive	Regularly	2-nom 3-instr medV'.subj[2]
+Even	44	FILL	miltere-mken-	Object deletion	Never	
+Even	44	FILL	miltere-mken-	Reflexive deleting alternation	Never	
+Even	44	FILL	miltere-mken-	Resultative	Marginally	
+Even	45	LOAD	in-u-	Adversative Passive	Marginally	
+Even	45	LOAD	in-u-	Comitative alternation	Never	
+Even	45	LOAD	in-u-	Direct Reciprocal	Marginally	
+Even	45	LOAD	in-u-	Indirect Reciprocal	Never	
+Even	45	LOAD	in-u-	Mediopassive	Regularly	2-nom 3-loc medV'.subj[2]
+Even	45	LOAD	in-u-	Object deletion	Never	
+Even	45	LOAD	in-u-	Reflexive deleting alternation	Never	
+Even	45	LOAD	in-u-	Resultative	Regularly	2-nom 3-loc resV'.subj[2]
+Even	46	BLINK	nimrun-	Adversative Passive	Never	
+Even	46	BLINK	nimrun-	Comitative alternation	Never	
+Even	46	BLINK	nimrun-	Direct Reciprocal	Never	
+Even	46	BLINK	nimrun-	Indirect Reciprocal	Never	
+Even	46	BLINK	nimrun-	Mediopassive	Marginally	
+Even	46	BLINK	nimrun-	Object deletion	Regularly	1-nom V'.subj[1]
+Even	46	BLINK	nimrun-	Reflexive deleting alternation	Never	
+Even	46	BLINK	nimrun-	Resultative	Marginally	
+Even	47	COUGH	hiemken-	Adversative Passive	Never	
+Even	47	COUGH	hiemken-	Comitative alternation	Never	
+Even	47	COUGH	hiemken-	Direct Reciprocal	Never	
+Even	47	COUGH	hiemken-	Indirect Reciprocal	Never	
+Even	47	COUGH	hiemken-	Mediopassive	Never	
+Even	47	COUGH	hiemken-	Object deletion	Never	
+Even	47	COUGH	hiemken-	Reflexive deleting alternation	Never	
+Even	47	COUGH	hiemken-	Resultative	Regularly	1-nom resV'.subj[1]
+Even	48	CLIMB	oj-či-	Adversative Passive	Marginally	
+Even	48	CLIMB	oj-či-	Comitative alternation	Never	
+Even	48	CLIMB	oj-či-	Direct Reciprocal	Never	
+Even	48	CLIMB	oj-či-	Indirect Reciprocal	Never	
+Even	48	CLIMB	oj-či-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	48	CLIMB	oj-či-	Object deletion	Never	
+Even	48	CLIMB	oj-či-	Reflexive deleting alternation	Never	
+Even	48	CLIMB	oj-či-	Resultative	Never	
+Even	49	RUN	tut-	Adversative Passive	Never	
+Even	49	RUN	tut-	Comitative alternation	Never	
+Even	49	RUN	tut-	Direct Reciprocal	Never	
+Even	49	RUN	tut-	Indirect Reciprocal	Never	
+Even	49	RUN	tut-	Mediopassive	Never	
+Even	49	RUN	tut-	Object deletion	Never	
+Even	49	RUN	tut-	Reflexive deleting alternation	Never	
+Even	49	RUN	tut-	Resultative	Never	
+Even	50	SIT	tege-t-	Adversative Passive	Never	
+Even	50	SIT	tege-t-	Comitative alternation	Never	
+Even	50	SIT	tege-t-	Direct Reciprocal	Never	
+Even	50	SIT	tege-t-	Indirect Reciprocal	Never	
+Even	50	SIT	tege-t-	Mediopassive	Marginally	
+Even	50	SIT	tege-t-	Object deletion	Never	
+Even	50	SIT	tege-t-	Reflexive deleting alternation	Never	
+Even	50	SIT	tege-t-	Resultative	Never	
+Even	51	SIT DOWN	teg-	Adversative Passive	Never	
+Even	51	SIT DOWN	teg-	Comitative alternation	Never	
+Even	51	SIT DOWN	teg-	Direct Reciprocal	Never	
+Even	51	SIT DOWN	teg-	Indirect Reciprocal	Never	
+Even	51	SIT DOWN	teg-	Mediopassive	Never	
+Even	51	SIT DOWN	teg-	Object deletion	Never	
+Even	51	SIT DOWN	teg-	Reflexive deleting alternation	Never	
+Even	51	SIT DOWN	teg-	Resultative	Regularly	1-nom 2-loc resV'.subj[1]
+Even	52	JUMP	melun	Adversative Passive	Never	
+Even	52	JUMP	melun	Comitative alternation	Never	
+Even	52	JUMP	melun	Direct Reciprocal	Never	
+Even	52	JUMP	melun	Indirect Reciprocal	Never	
+Even	52	JUMP	melun	Mediopassive	Never	
+Even	52	JUMP	melun	Object deletion	Never	
+Even	52	JUMP	melun	Reflexive deleting alternation	Never	
+Even	52	JUMP	melun	Resultative	Regularly	1-nom 2-loc resV'.subj[1]
+Even	53	SING	ike-	Adversative Passive	Never	
+Even	53	SING	ike-	Comitative alternation	Never	
+Even	53	SING	ike-	Direct Reciprocal	Marginally	
+Even	53	SING	ike-	Indirect Reciprocal	Never	
+Even	53	SING	ike-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	53	SING	ike-	Object deletion	Regularly	1-nom V'.subj[1]
+Even	53	SING	ike-	Reflexive deleting alternation	Never	
+Even	53	SING	ike-	Resultative	Never	
+Even	54	GO	hör- (1)	Adversative Passive	Never	
+Even	54	GO	hör- (1)	Comitative alternation	Never	
+Even	54	GO	hör- (1)	Direct Reciprocal	Never	
+Even	54	GO	hör- (1)	Indirect Reciprocal	Never	
+Even	54	GO	hör- (1)	Mediopassive	Never	
+Even	54	GO	hör- (1)	Object deletion	Never	
+Even	54	GO	hör- (1)	Reflexive deleting alternation	Never	
+Even	54	GO	hör- (1)	Resultative	Never	
+Even	55	LEAVE	hör- (2)	Adversative Passive	Never	
+Even	55	LEAVE	hör- (2)	Comitative alternation	Never	
+Even	55	LEAVE	hör- (2)	Direct Reciprocal	Never	
+Even	55	LEAVE	hör- (2)	Indirect Reciprocal	Never	
+Even	55	LEAVE	hör- (2)	Mediopassive	Never	
+Even	55	LEAVE	hör- (2)	Object deletion	Never	
+Even	55	LEAVE	hör- (2)	Reflexive deleting alternation	Never	
+Even	55	LEAVE	hör- (2)	Resultative	Never	
+Even	56	LIVE	bi-(s)	Adversative Passive	Never	
+Even	56	LIVE	bi-(s)	Comitative alternation	Never	
+Even	56	LIVE	bi-(s)	Direct Reciprocal	Never	
+Even	56	LIVE	bi-(s)	Indirect Reciprocal	Never	
+Even	56	LIVE	bi-(s)	Mediopassive	Marginally	
+Even	56	LIVE	bi-(s)	Object deletion	Never	
+Even	56	LIVE	bi-(s)	Reflexive deleting alternation	Never	
+Even	56	LIVE	bi-(s)	Resultative	Never	
+Even	57	LAUGH	inin-	Adversative Passive	Never	
+Even	57	LAUGH	inin-	Comitative alternation	Never	
+Even	57	LAUGH	inin-	Direct Reciprocal	Marginally	
+Even	57	LAUGH	inin-	Indirect Reciprocal	Never	
+Even	57	LAUGH	inin-	Mediopassive	Never	
+Even	57	LAUGH	inin-	Object deletion	Never	
+Even	57	LAUGH	inin-	Reflexive deleting alternation	Never	
+Even	57	LAUGH	inin-	Resultative	Marginally	
+Even	58	SCREAM	kuni-	Adversative Passive	Never	
+Even	58	SCREAM	kuni-	Comitative alternation	Never	
+Even	58	SCREAM	kuni-	Direct Reciprocal	Marginally	
+Even	58	SCREAM	kuni-	Indirect Reciprocal	Never	
+Even	58	SCREAM	kuni-	Mediopassive	Never	
+Even	58	SCREAM	kuni-	Object deletion	Never	
+Even	58	SCREAM	kuni-	Reflexive deleting alternation	Never	
+Even	58	SCREAM	kuni-	Resultative	Never	
+Even	59	FEEL PAIN	en-	Adversative Passive	Never	
+Even	59	FEEL PAIN	en-	Comitative alternation	Never	
+Even	59	FEEL PAIN	en-	Direct Reciprocal	Never	
+Even	59	FEEL PAIN	en-	Indirect Reciprocal	Never	
+Even	59	FEEL PAIN	en-	Mediopassive	Never	
+Even	59	FEEL PAIN	en-	Object deletion	Never	
+Even	59	FEEL PAIN	en-	Reflexive deleting alternation	Never	
+Even	59	FEEL PAIN	en-	Resultative	Never	
+Even	60	FEEL COLD	iŋem-	Adversative Passive	Marginally	
+Even	60	FEEL COLD	iŋem-	Comitative alternation	Never	
+Even	60	FEEL COLD	iŋem-	Direct Reciprocal	Never	
+Even	60	FEEL COLD	iŋem-	Indirect Reciprocal	Never	
+Even	60	FEEL COLD	iŋem-	Mediopassive	Never	
+Even	60	FEEL COLD	iŋem-	Object deletion	Never	
+Even	60	FEEL COLD	iŋem-	Reflexive deleting alternation	Never	
+Even	60	FEEL COLD	iŋem-	Resultative	Never	
+Even	61	DIE	kö’ke-	Adversative Passive	Never	
+Even	61	DIE	kö’ke-	Comitative alternation	Never	
+Even	61	DIE	kö’ke-	Direct Reciprocal	Never	
+Even	61	DIE	kö’ke-	Indirect Reciprocal	Never	
+Even	61	DIE	kö’ke-	Mediopassive	Never	
+Even	61	DIE	kö’ke-	Object deletion	Never	
+Even	61	DIE	kö’ke-	Reflexive deleting alternation	Never	
+Even	61	DIE	kö’ke-	Resultative	Never	
+Even	62	PLAY	evi-	Adversative Passive	Never	
+Even	62	PLAY	evi-	Comitative alternation	Never	
+Even	62	PLAY	evi-	Direct Reciprocal	Never	
+Even	62	PLAY	evi-	Indirect Reciprocal	Never	
+Even	62	PLAY	evi-	Mediopassive	Marginally	
+Even	62	PLAY	evi-	Object deletion	Never	
+Even	62	PLAY	evi-	Reflexive deleting alternation	Never	
+Even	62	PLAY	evi-	Resultative	Never	
+Even	63	BE SAD	nabu-t	Adversative Passive	Never	
+Even	63	BE SAD	nabu-t	Comitative alternation	Never	
+Even	63	BE SAD	nabu-t	Direct Reciprocal	Never	
+Even	63	BE SAD	nabu-t	Indirect Reciprocal	Never	
+Even	63	BE SAD	nabu-t	Mediopassive	Never	
+Even	63	BE SAD	nabu-t	Object deletion	Never	
+Even	63	BE SAD	nabu-t	Reflexive deleting alternation	Never	
+Even	63	BE SAD	nabu-t	Resultative	Never	
+Even	64	BE HUNGRY	d’em-	Adversative Passive	Never	
+Even	64	BE HUNGRY	d’em-	Comitative alternation	Never	
+Even	64	BE HUNGRY	d’em-	Direct Reciprocal	Never	
+Even	64	BE HUNGRY	d’em-	Indirect Reciprocal	Never	
+Even	64	BE HUNGRY	d’em-	Mediopassive	Never	
+Even	64	BE HUNGRY	d’em-	Object deletion	Never	
+Even	64	BE HUNGRY	d’em-	Reflexive deleting alternation	Never	
+Even	64	BE HUNGRY	d’em-	Resultative	Never	
+Even	65	ROLL	hirun-	Adversative Passive	Never	
+Even	65	ROLL	hirun-	Comitative alternation	Never	
+Even	65	ROLL	hirun-	Direct Reciprocal	Never	
+Even	65	ROLL	hirun-	Indirect Reciprocal	Never	
+Even	65	ROLL	hirun-	Mediopassive	Never	
+Even	65	ROLL	hirun-	Object deletion	Never	
+Even	65	ROLL	hirun-	Reflexive deleting alternation	Never	
+Even	65	ROLL	hirun-	Resultative	Regularly	1-nom resV'.subj[1]
+Even	66	SINK	hir-	Adversative Passive	Never	
+Even	66	SINK	hir-	Comitative alternation	Never	
+Even	66	SINK	hir-	Direct Reciprocal	Never	
+Even	66	SINK	hir-	Indirect Reciprocal	Never	
+Even	66	SINK	hir-	Mediopassive	Never	
+Even	66	SINK	hir-	Object deletion	Never	
+Even	66	SINK	hir-	Reflexive deleting alternation	Never	
+Even	66	SINK	hir-	Resultative	Never	
+Even	67	BURN	dur-	Adversative Passive	Never	
+Even	67	BURN	dur-	Comitative alternation	Never	
+Even	67	BURN	dur-	Direct Reciprocal	Never	
+Even	67	BURN	dur-	Indirect Reciprocal	Never	
+Even	67	BURN	dur-	Mediopassive	Never	
+Even	67	BURN	dur-	Object deletion	Never	
+Even	67	BURN	dur-	Reflexive deleting alternation	Never	
+Even	67	BURN	dur-	Resultative	Regularly	1-nom resV'.subj[1]
+Even	68	BE DRY	ileŋ bi-	Adversative Passive	Never	
+Even	68	BE DRY	ileŋ bi-	Comitative alternation	Never	
+Even	68	BE DRY	ileŋ bi-	Direct Reciprocal	Never	
+Even	68	BE DRY	ileŋ bi-	Indirect Reciprocal	Never	
+Even	68	BE DRY	ileŋ bi-	Mediopassive	Never	
+Even	68	BE DRY	ileŋ bi-	Object deletion	Never	
+Even	68	BE DRY	ileŋ bi-	Reflexive deleting alternation	Never	
+Even	68	BE DRY	ileŋ bi-	Resultative	Never	
+Even	69	RAIN	udn-	Adversative Passive	Marginally	
+Even	69	RAIN	udn-	Comitative alternation	Never	
+Even	69	RAIN	udn-	Direct Reciprocal	Never	
+Even	69	RAIN	udn-	Indirect Reciprocal	Never	
+Even	69	RAIN	udn-	Mediopassive	Never	
+Even	69	RAIN	udn-	Object deletion	Never	
+Even	69	RAIN	udn-	Reflexive deleting alternation	Never	
+Even	69	RAIN	udn-	Resultative	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Adversative Passive	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Comitative alternation	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Direct Reciprocal	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Indirect Reciprocal	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Mediopassive	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Object deletion	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Reflexive deleting alternation	Never	
+Even	70	BE A HUNTER	bujusemŋe bi-	Resultative	Never	
+Even	72	WIPE	tes-	Adversative Passive	Regularly	2-nom 1-dat 3-abl advV'.subj[2]
+Even	72	WIPE	tes-	Comitative alternation	Never	
+Even	72	WIPE	tes-	Direct Reciprocal	Marginally	
+Even	72	WIPE	tes-	Indirect Reciprocal	Never	
+Even	72	WIPE	tes-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	72	WIPE	tes-	Object deletion	Never	
+Even	72	WIPE	tes-	Reflexive deleting alternation	Never	
+Even	72	WIPE	tes-	Resultative	Never	
+Even	75	BRING	em-u-	Adversative Passive	Marginally	
+Even	75	BRING	em-u-	Comitative alternation	Never	
+Even	75	BRING	em-u-	Direct Reciprocal	Regularly	
+Even	75	BRING	em-u-	Indirect Reciprocal	Never	
+Even	75	BRING	em-u-	Mediopassive	Regularly	2-nom 3-dat medV'.subj[2]
+Even	75	BRING	em-u-	Object deletion	Never	
+Even	75	BRING	em-u-	Reflexive deleting alternation	Never	
+Even	75	BRING	em-u-	Resultative	Never	
+Even	76	STEAL	d’örmi-	Adversative Passive	Regularly	2-nom 1-dat 3-abl advV'.subj[2]
+Even	76	STEAL	d’örmi-	Comitative alternation	Never	
+Even	76	STEAL	d’örmi-	Direct Reciprocal	Marginally	
+Even	76	STEAL	d’örmi-	Indirect Reciprocal	Never	
+Even	76	STEAL	d’örmi-	Mediopassive	Regularly	2-nom 3-abl medV'.subj[2]
+Even	76	STEAL	d’örmi-	Object deletion	Never	
+Even	76	STEAL	d’örmi-	Reflexive deleting alternation	Never	
+Even	76	STEAL	d’örmi-	Resultative	Never	
+Even	81	APPEAR	hie	Adversative Passive	Marginally	
+Even	81	APPEAR	hie	Comitative alternation	Never	
+Even	81	APPEAR	hie	Direct Reciprocal	Never	
+Even	81	APPEAR	hie	Indirect Reciprocal	Never	
+Even	81	APPEAR	hie	Mediopassive	Never	
+Even	81	APPEAR	hie	Object deletion	Never	
+Even	81	APPEAR	hie	Reflexive deleting alternation	Never	
+Even	81	APPEAR	hie	Resultative	Never	
+Even	84	FALL	tik-	Adversative Passive	Never	
+Even	84	FALL	tik-	Comitative alternation	Never	
+Even	84	FALL	tik-	Direct Reciprocal	Never	
+Even	84	FALL	tik-	Indirect Reciprocal	Never	
+Even	84	FALL	tik-	Mediopassive	Never	
+Even	84	FALL	tik-	Object deletion	Never	
+Even	84	FALL	tik-	Reflexive deleting alternation	Never	
+Even	84	FALL	tik-	Resultative	Never	
+Even	91	REMEMBER	d’öŋči-	Adversative Passive	Marginally	
+Even	91	REMEMBER	d’öŋči-	Comitative alternation	Never	
+Even	91	REMEMBER	d’öŋči-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	91	REMEMBER	d’öŋči-	Indirect Reciprocal	Never	
+Even	91	REMEMBER	d’öŋči-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	91	REMEMBER	d’öŋči-	Object deletion	Marginally	
+Even	91	REMEMBER	d’öŋči-	Reflexive deleting alternation	Never	
+Even	91	REMEMBER	d’öŋči-	Resultative	Never	
+Even	93	HUNT (FOR)	buju-	Adversative Passive	Regularly	2-nom 1-dat advV'.subj[2]
+Even	93	HUNT (FOR)	buju-	Comitative alternation	Never	
+Even	93	HUNT (FOR)	buju-	Direct Reciprocal	Regularly	1&2-nom recV'.subj[1&2]
+Even	93	HUNT (FOR)	buju-	Indirect Reciprocal	Never	
+Even	93	HUNT (FOR)	buju-	Mediopassive	Regularly	2-nom medV'.subj[2]
+Even	93	HUNT (FOR)	buju-	Object deletion	Never	
+Even	93	HUNT (FOR)	buju-	Reflexive deleting alternation	Never	
+Even	93	HUNT (FOR)	buju-	Resultative	Never	
+Even	96	MARRY	atikanŋalbu-	Adversative Passive	Marginally	
+Even	96	MARRY	atikanŋalbu-	Comitative alternation	Never	
+Even	96	MARRY	atikanŋalbu-	Direct Reciprocal	Never	
+Even	96	MARRY	atikanŋalbu-	Indirect Reciprocal	Never	
+Even	96	MARRY	atikanŋalbu-	Mediopassive	Marginally	
+Even	96	MARRY	atikanŋalbu-	Object deletion	Regularly	1-nom V'.subj[1]
+Even	96	MARRY	atikanŋalbu-	Reflexive deleting alternation	Never	
+Even	96	MARRY	atikanŋalbu-	Resultative	Never	
+Even	112	COME (2)	em-	Adversative Passive	Never	
+Even	112	COME (2)	em-	Comitative alternation	Never	
+Even	112	COME (2)	em-	Direct Reciprocal	Never	
+Even	112	COME (2)	em-	Indirect Reciprocal	Never	
+Even	112	COME (2)	em-	Mediopassive	Marginally	
+Even	112	COME (2)	em-	Object deletion	Never	
+Even	112	COME (2)	em-	Reflexive deleting alternation	Never	
+Even	112	COME (2)	em-	Resultative	Never	

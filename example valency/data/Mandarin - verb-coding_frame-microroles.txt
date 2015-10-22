@@ -1,0 +1,170 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Mandarin Chinese	1	EAT	chī	Basic	1 > V > 2	1	eater	Ø	A
+Mandarin Chinese	1	EAT	chī	Basic	1 > V > 2	2	eaten food	Ø	P
+Mandarin Chinese	2	HUG	yōngbào	Basic	1 > V > 2	1	hugger	Ø	A
+Mandarin Chinese	2	HUG	yōngbào	Basic	1 > V > 2	2	huggee	Ø	P
+Mandarin Chinese	3	LOOK AT	kàn	Basic	1 > V > 2	1	looker	Ø	A
+Mandarin Chinese	3	LOOK AT	kàn	Basic	1 > V > 2	2	looked at entity	Ø	P
+Mandarin Chinese	4	SEE	kànjiàn	Basic	1 > V > 2	1	seeer	Ø	A
+Mandarin Chinese	4	SEE	kànjiàn	Basic	1 > V > 2	2	seen entity	Ø	P
+Mandarin Chinese	5	SMELL	wén	Basic	1 > V > 2	1	smeller	Ø	A
+Mandarin Chinese	5	SMELL	wén	Basic	1 > V > 2	2	smelled entity	Ø	P
+Mandarin Chinese	6	FEAR	pà	Basic	1 > V > 2	1	fearer	Ø	A
+Mandarin Chinese	6	FEAR	pà	Basic	1 > V > 2	2	fear stimulus	Ø	P
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Basic	1 > V > 2	1	frightener	Ø	A
+Mandarin Chinese	7	FRIGHTEN	xià(hu)	Basic	1 > V > 2	2	frightenee	Ø	P
+Mandarin Chinese	8	LIKE	xǐhuān	Basic	1 > V > 2	1	liker	Ø	A
+Mandarin Chinese	8	LIKE	xǐhuān	Basic	1 > V > 2	2	liked entity	Ø	P
+Mandarin Chinese	9	KNOW	zhīdào	Basic	1 > V > 2	1	knower	Ø	A
+Mandarin Chinese	9	KNOW	zhīdào	Basic	1 > V > 2	2	known thing/person	Ø	P
+Mandarin Chinese	10	THINK	xiǎng	Basic	1 > V > 2	1	thinker	Ø	A
+Mandarin Chinese	10	THINK	xiǎng	Basic	1 > V > 2	2	thought content	Ø	P
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Basic	1 > V > 2	1	searcher	Ø	A
+Mandarin Chinese	11	SEARCH FOR	sōuxún	Basic	1 > V > 2	2	searched for thing	Ø	P
+Mandarin Chinese	12	WASH	xǐ	Basic	1 > V > 2	1	washer	Ø	A
+Mandarin Chinese	12	WASH	xǐ	Basic	1 > V > 2	2	washed entity	Ø	P
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Basic	1 > V > 2	1	shaver (of body part)	Ø	A
+Mandarin Chinese	14	SHAVE (a body part/person)	guā	Basic	1 > V > 2	2	shaved body part	Ø	P
+Mandarin Chinese	15	HELP	bāngzhù	Basic	1 > V > 2	1	helper	Ø	A
+Mandarin Chinese	15	HELP	bāngzhù	Basic	1 > V > 2	2	helpee	Ø	P
+Mandarin Chinese	16	FOLLOW	gēn	Basic	1 > V > 2	1	follower	Ø	A
+Mandarin Chinese	16	FOLLOW	gēn	Basic	1 > V > 2	2	followee	Ø	P
+Mandarin Chinese	17	MEET	pèngjiàn	Basic	1 > (LOC2 >) V > 3	1	meeter	Ø	A
+Mandarin Chinese	17	MEET	pèngjiàn	Basic	1 > (LOC2 >) V > 3	2	meet location	LOC	X
+Mandarin Chinese	17	MEET	pèngjiàn	Basic	1 > (LOC2 >) V > 3	3	met person	Ø	P
+Mandarin Chinese	18	TALK	tán(huà)	Basic	1 > PREP+2 > V	1	talker	Ø	S
+Mandarin Chinese	18	TALK	tán(huà)	Basic	1 > PREP+2 > V	2	talked to person	PREP+NP	X
+Mandarin Chinese	19	ASK FOR	yào	Basic	1 > (PREP+2 >) V > 3	1	asker	Ø	A
+Mandarin Chinese	19	ASK FOR	yào	Basic	1 > (PREP+2 >) V > 3	2	askee	PREP+NP	X
+Mandarin Chinese	19	ASK FOR	yào	Basic	1 > (PREP+2 >) V > 3	3	requested thing	Ø	P
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Basic	1 > V > 2	1	shouter	Ø	A
+Mandarin Chinese	20	SHOUT AT	jiàohǎn	Basic	1 > V > 2	2	shoutee	Ø	P
+Mandarin Chinese	21	TELL	gàosù	Basic	1 > V > 2 > 3	1	teller	Ø	A
+Mandarin Chinese	21	TELL	gàosù	Basic	1 > V > 2 > 3	2	tellee	Ø	P
+Mandarin Chinese	21	TELL	gàosù	Basic	1 > V > 2 > 3	3	told content	Ø	P
+Mandarin Chinese	22	SAY	shuō	Basic	1 > (duì+2 >) V > UTT3	1	sayer	Ø	S
+Mandarin Chinese	22	SAY	shuō	Basic	1 > (duì+2 >) V > UTT3	2	saying addressee	duì+NP	X
+Mandarin Chinese	22	SAY	shuō	Basic	1 > (duì+2 >) V > UTT3	3	said content	UTT	X
+Mandarin Chinese	23	NAME	mìngmíng	Basic	1 > V > 2 > 3	1	namer	Ø	A
+Mandarin Chinese	23	NAME	mìngmíng	Basic	1 > V > 2 > 3	2	namee	Ø	P
+Mandarin Chinese	23	NAME	mìngmíng	Basic	1 > V > 2 > 3	3	name	Ø	P
+Mandarin Chinese	24	BUILD	jiàn(zào)	Basic	1 > V > 2	1	builder	Ø	A
+Mandarin Chinese	24	BUILD	jiàn(zào)	Basic	1 > V > 2	2	built thing	Ø	P
+Mandarin Chinese	25	BREAK	dǎduàn	Basic	1 > V > 2	1	breaker	Ø	A
+Mandarin Chinese	25	BREAK	dǎduàn	Basic	1 > V > 2	2	broken thing	Ø	P
+Mandarin Chinese	26	KILL	shā	Basic	1 > (yòng+2 >) V > 3	1	killer	Ø	A
+Mandarin Chinese	26	KILL	shā	Basic	1 > (yòng+2 >) V > 3	2	killing instrument	yòng+NP	I
+Mandarin Chinese	26	KILL	shā	Basic	1 > (yòng+2 >) V > 3	3	killee	Ø	P
+Mandarin Chinese	27	BEAT	pāidǎ	Basic	1 > V > 2	1	beater	Ø	A
+Mandarin Chinese	27	BEAT	pāidǎ	Basic	1 > V > 2	2	beatee	Ø	P
+Mandarin Chinese	28	HIT	dǎ	Basic	1 > (yòng+2 >) V > 3	1	hitter	Ø	A
+Mandarin Chinese	28	HIT	dǎ	Basic	1 > (yòng+2 >) V > 3	2	hitting instrument	yòng+NP	I
+Mandarin Chinese	28	HIT	dǎ	Basic	1 > (yòng+2 >) V > 3	3	hittee	Ø	P
+Mandarin Chinese	29	TOUCH	(chù)mō	Basic	1 > V > 2	1	toucher	Ø	A
+Mandarin Chinese	29	TOUCH	(chù)mō	Basic	1 > V > 2	2	touchee	Ø	P
+Mandarin Chinese	30	CUT	qiē	Basic	1 > (yòng+2 >) V > 3	1	cutter	Ø	A
+Mandarin Chinese	30	CUT	qiē	Basic	1 > (yòng+2 >) V > 3	2	cutting instrument	yòng+NP	I
+Mandarin Chinese	30	CUT	qiē	Basic	1 > (yòng+2 >) V > 3	3	cut thing	Ø	P
+Mandarin Chinese	31	TAKE	názǒu	Basic	1 > (cóng+2 >) V > 3	1	taker	Ø	A
+Mandarin Chinese	31	TAKE	názǒu	Basic	1 > (cóng+2 >) V > 3	2	taking source	cóng+NP	X
+Mandarin Chinese	31	TAKE	názǒu	Basic	1 > (cóng+2 >) V > 3	3	taken thing	Ø	P
+Mandarin Chinese	32	TEAR	sī	Basic	1 > V > 2	1	tearer	Ø	A
+Mandarin Chinese	32	TEAR	sī	Basic	1 > V > 2	2	torn thing	Ø	P
+Mandarin Chinese	33	PEEL	xiāo (2)	Basic	1 > V > 2	1	peeler	Ø	A
+Mandarin Chinese	33	PEEL	xiāo (2)	Basic	1 > V > 2	2	peeled object	Ø	P
+Mandarin Chinese	34	HIDE	cáng	Basic	1 > V > 2	1	hider	Ø	A
+Mandarin Chinese	34	HIDE	cáng	Basic	1 > V > 2	2	hidden thing	Ø	P
+Mandarin Chinese	35	SHOW	zhǎnshì	Basic	1 > (PREP+2 >) V > 3	1	shower	Ø	A
+Mandarin Chinese	35	SHOW	zhǎnshì	Basic	1 > (PREP+2 >) V > 3	2	showing addressee	PREP+NP	X
+Mandarin Chinese	35	SHOW	zhǎnshì	Basic	1 > (PREP+2 >) V > 3	3	shown thing	Ø	P
+Mandarin Chinese	36	GIVE	gěi	Basic	1 > V > 2 > 3	1	giver	Ø	A
+Mandarin Chinese	36	GIVE	gěi	Basic	1 > V > 2 > 3	2	giving recipient	Ø	P
+Mandarin Chinese	36	GIVE	gěi	Basic	1 > V > 2 > 3	3	gift	Ø	P
+Mandarin Chinese	37	SEND	fā	Basic	1 > (gěi+2 >) V 3	1	sender	Ø	A
+Mandarin Chinese	37	SEND	fā	Basic	1 > (gěi+2 >) V 3	2	sending recipient	gěi+NP	X
+Mandarin Chinese	37	SEND	fā	Basic	1 > (gěi+2 >) V 3	3	sent thing	Ø	P
+Mandarin Chinese	38	CARRY	(xié)dài	Basic	1 > V > 2	1	carrier	Ø	A
+Mandarin Chinese	38	CARRY	(xié)dài	Basic	1 > V > 2	2	carried thing	Ø	P
+Mandarin Chinese	39	THROW	rēng	Basic	1 > V > 2	1	thrower	Ø	A
+Mandarin Chinese	39	THROW	rēng	Basic	1 > V > 2	2	thrown thing	Ø	P
+Mandarin Chinese	40	TIE	shuān	Basic	1 > ba+2 > V > zài+3-loc	1	tier	Ø	S
+Mandarin Chinese	40	TIE	shuān	Basic	1 > ba+2 > V > zài+3-loc	2	tied thing	ba+NP	X
+Mandarin Chinese	40	TIE	shuān	Basic	1 > ba+2 > V > zài+3-loc	3	tying goal	zài+NP+loc	X
+Mandarin Chinese	41	PUT	fàng	Basic	1 > ba+2 > V > zài+3-loc	1	putter	Ø	S
+Mandarin Chinese	41	PUT	fàng	Basic	1 > ba+2 > V > zài+3-loc	2	put thing	ba+NP	X
+Mandarin Chinese	41	PUT	fàng	Basic	1 > ba+2 > V > zài+3-loc	3	putting goal	zài+NP+loc	X
+Mandarin Chinese	42	POUR	dào	Basic	1 > (PREP+2 >) V > 3	1	pourer	Ø	A
+Mandarin Chinese	42	POUR	dào	Basic	1 > (PREP+2 >) V > 3	2	pouring goal	PREP+NP	X
+Mandarin Chinese	42	POUR	dào	Basic	1 > (PREP+2 >) V > 3	3	poured substance	Ø	P
+Mandarin Chinese	43	COVER	gài(shàng)	Basic	1 > (yòng+2 >) V > 3	1	coverer	Ø	A
+Mandarin Chinese	43	COVER	gài(shàng)	Basic	1 > (yòng+2 >) V > 3	2	cover	yòng+NP	I
+Mandarin Chinese	43	COVER	gài(shàng)	Basic	1 > (yòng+2 >) V > 3	3	covered thing	Ø	P
+Mandarin Chinese	44	FILL	zhuāngmǎn	Basic	1 > (yòng+2 >) V > 3	1	filler	Ø	A
+Mandarin Chinese	44	FILL	zhuāngmǎn	Basic	1 > (yòng+2 >) V > 3	2	filling material	yòng+NP	I
+Mandarin Chinese	44	FILL	zhuāngmǎn	Basic	1 > (yòng+2 >) V > 3	3	filled container	Ø	P
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Basic	1 > (LOC2 >) V > 3	1	loader	Ø	A
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Basic	1 > (LOC2 >) V > 3	2	loading place	LOC	X
+Mandarin Chinese	45	LOAD	zhuāng(zài)	Basic	1 > (LOC2 >) V > 3	3	loaded thing	Ø	P
+Mandarin Chinese	47	COUGH	ké(sòu）	Basic	1 > V	1	cougher	Ø	S
+Mandarin Chinese	48	CLIMB	pá (2)	Basic	1 > V > 2	1	climber	Ø	A
+Mandarin Chinese	48	CLIMB	pá (2)	Basic	1 > V > 2	2	climbing goal	Ø	P
+Mandarin Chinese	49	RUN	pǎo	Basic	1 > V	1	runner	Ø	S
+Mandarin Chinese	50	SIT	zuò	Basic	1 > V > zài+2	1	sitter	Ø	S
+Mandarin Chinese	50	SIT	zuò	Basic	1 > V > zài+2	2	sitting place	zài+NP	L
+Mandarin Chinese	51	SIT DOWN	zuòxià	Basic	1 > (zài+2 >) V	1	sitdowner	Ø	S
+Mandarin Chinese	51	SIT DOWN	zuòxià	Basic	1 > (zài+2 >) V	2	sitting-down place	zài+NP	L
+Mandarin Chinese	52	JUMP	tiào(qǐlái)	Basic	1 > V	1	jumper	Ø	S
+Mandarin Chinese	53	SING	gēchàng	Basic	1 > V > 2	1	singer	Ø	A
+Mandarin Chinese	53	SING	gēchàng	Basic	1 > V > 2	2	song	Ø	P
+Mandarin Chinese	54	GO	qù	Basic	1 > V > 2	1	goer	Ø	A
+Mandarin Chinese	54	GO	qù	Basic	1 > V > 2	2	going goal	Ø	P
+Mandarin Chinese	55	LEAVE	líkāi	Basic	1 > V > 2	1	leaver	Ø	A
+Mandarin Chinese	55	LEAVE	líkāi	Basic	1 > V > 2	2	left place/person	Ø	P
+Mandarin Chinese	56	LIVE	(jū)zhù	Basic	1 > V > zài+2	1	liver	Ø	S
+Mandarin Chinese	56	LIVE	(jū)zhù	Basic	1 > V > zài+2	2	living place	zài+NP	L
+Mandarin Chinese	57	LAUGH	xiào	Basic	1 > V	1	laugher	Ø	S
+Mandarin Chinese	58	SCREAM	jiānjiào	Basic	1 > V	1	screamer	Ø	S
+Mandarin Chinese	59	FEEL PAIN	gǎndào téng	Basic	1 > V	1	pain-feeler	Ø	S
+Mandarin Chinese	60	FEEL COLD	gǎndào lěng	Basic	1 > V	1	freezing person	Ø	S
+Mandarin Chinese	61	DIE	sǐ	Basic	1 > V	1	dieer	Ø	S
+Mandarin Chinese	62	PLAY	wán	Basic	1 > V > 2	1	player	Ø	A
+Mandarin Chinese	62	PLAY	wán	Basic	1 > V > 2	2	toy	Ø	P
+Mandarin Chinese	63	BE SAD	bēishāng	Basic	1 > V	1	sad person	Ø	S
+Mandarin Chinese	64	BE HUNGRY	è	Basic	1 > V	1	hungry person	Ø	S
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Basic	1 > (zài+2 >) V	1	rolling entity	Ø	S
+Mandarin Chinese	65	ROLL	gǔn(dòng)	Basic	1 > (zài+2 >) V	2	rolling location	zài+NP	L
+Mandarin Chinese	66	SINK	chén	Basic	1 > V	1	sunken entity	Ø	S
+Mandarin Chinese	67	BURN	(rán)shāo	Basic	1 > V	1	burnt thing	Ø	S
+Mandarin Chinese	68	BE DRY	gān	Basic	1 > V	1	dry thing	Ø	S
+Mandarin Chinese	70	BE A HUNTER	shì gè lièrén	Basic	1 > V	1	specialist/hunter	Ø	S
+Mandarin Chinese	71	GRIND	mò	Basic	1 > (yòng+2 >) V > 3	1	grinder	Ø	A
+Mandarin Chinese	71	GRIND	mò	Basic	1 > (yòng+2 >) V > 3	2	grinding instrument	yòng+NP	I
+Mandarin Chinese	71	GRIND	mò	Basic	1 > (yòng+2 >) V > 3	3	ground thing	Ø	P
+Mandarin Chinese	72	WIPE	cā	Basic	1 > V > 2	1	wiper	Ø	A
+Mandarin Chinese	72	WIPE	cā	Basic	1 > V > 2	2	wiped material	Ø	P
+Mandarin Chinese	73	DIG	wā	Basic	1 > V > 2	1	digger	Ø	A
+Mandarin Chinese	73	DIG	wā	Basic	1 > V > 2	2	dug up thing	Ø	P
+Mandarin Chinese	74	PUSH	tuī	Basic	1 > V > 2	1	pusher	Ø	A
+Mandarin Chinese	74	PUSH	tuī	Basic	1 > V > 2	2	pushee	Ø	P
+Mandarin Chinese	75	BRING	dàilái	Basic	1 > (gěi+2 >) V 3	1	bringer	Ø	A
+Mandarin Chinese	75	BRING	dàilái	Basic	1 > (gěi+2 >) V 3	2	bringing recipient	gěi+NP	X
+Mandarin Chinese	75	BRING	dàilái	Basic	1 > (gěi+2 >) V 3	3	brought thing	Ø	P
+Mandarin Chinese	76	STEAL	tōu	Basic	1 > V > 2	1	stealer	Ø	A
+Mandarin Chinese	76	STEAL	tōu	Basic	1 > V > 2	2	stolen thing	Ø	P
+Mandarin Chinese	77	TEACH	jiāo	Basic	1 > V > 2 > 3	1	teacher	Ø	A
+Mandarin Chinese	77	TEACH	jiāo	Basic	1 > V > 2 > 3	2	teachee	Ø	P
+Mandarin Chinese	77	TEACH	jiāo	Basic	1 > V > 2 > 3	3	taught content	Ø	P
+Mandarin Chinese	78	HEAR	tīngjiàn	Basic	1 > V > 2	1	hearer	Ø	A
+Mandarin Chinese	78	HEAR	tīngjiàn	Basic	1 > V > 2	2	heard sound	Ø	P
+Mandarin Chinese	79	COOK	zhǔ	Basic	1 > V > 2	1	cooker	Ø	A
+Mandarin Chinese	79	COOK	zhǔ	Basic	1 > V > 2	2	cooked food	Ø	P
+Mandarin Chinese	80	BOIL	kāi	Basic	1 > V	1	boiled thing	Ø	S
+Mandarin Chinese	81	APPEAR	chūxiàn	Basic	1 > V	1	appearer	Ø	S
+Mandarin Chinese	82	BE ILL	shēngbìng	Basic	1 > V	1	sick person	Ø	S
+Mandarin Chinese	83	CRY	kū	Basic	1 > V	1	crier	Ø	S
+Mandarin Chinese	84	FALL	luò(xiàlái)	Basic	1 > V	1	fallee	Ø	S
+Mandarin Chinese	85	MAKE	zào	Basic	1 > V > 2	1	maker	Ø	A
+Mandarin Chinese	85	MAKE	zào	Basic	1 > V > 2	2	made thing	Ø	P
+Mandarin Chinese	86	GET	dédào	Basic	1 > (cóng+2 >) V > 3	1	receiver	Ø	A
+Mandarin Chinese	86	GET	dédào	Basic	1 > (cóng+2 >) V > 3	2	receiving source	cóng+NP	X
+Mandarin Chinese	86	GET	dédào	Basic	1 > (cóng+2 >) V > 3	3	received thing	Ø	P

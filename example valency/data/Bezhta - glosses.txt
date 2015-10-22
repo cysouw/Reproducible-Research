@@ -1,0 +1,38 @@
+﻿Language_name	Gloss	Meaning
+Bezhta	ABL	ablative
+Bezhta	ABS	absolutive
+Bezhta	ANTIP	antipassive
+Bezhta	APUD	apud-essive
+Bezhta	CAUS	causative
+Bezhta	CAUS2	causative 2??
+Bezhta	COMIT	comitative
+Bezhta	CVB	converb
+Bezhta	ERG	ergative
+Bezhta	ESS	essive
+Bezhta	GEN1	genitive 1
+Bezhta	GEN2	genitive 2
+Bezhta	HPL	human plural
+Bezhta	I	gender class I
+Bezhta	II	gender class II
+Bezhta	III	gender class III
+Bezhta	IMP	imperative
+Bezhta	IN	locative 'in'
+Bezhta	INESS	in-essive
+Bezhta	INSTR	instrumental
+Bezhta	INTER	inter-essive
+Bezhta	IV	gender class IV
+Bezhta	LAT	lative
+Bezhta	MAKE	??
+Bezhta	NEAR	=APUD?
+Bezhta	NHPL	non-human plural
+Bezhta	OBL	oblique
+Bezhta	PL	plural
+Bezhta	POSS	poss-essive
+Bezhta	POT	potential
+Bezhta	PRS	present
+Bezhta	PST	past
+Bezhta	QUOT	quotative
+Bezhta	REFL	reflexive
+Bezhta	SG	singular
+Bezhta	SUP	locative 'on'
+Bezhta	TR	transitive

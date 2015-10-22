@@ -1,0 +1,16 @@
+﻿Language_name	Gloss	Meaning
+Icelandic	1	first person
+Icelandic	2	second person
+Icelandic	3	third person
+Icelandic	acc	accusative
+Icelandic	dat	dative
+Icelandic	fem	feminine
+Icelandic	gen	genitive
+Icelandic	ill	illative
+Icelandic	masc	masculine
+Icelandic	neu	neuter
+Icelandic	nom	nominative
+Icelandic	pl	plural
+Icelandic	rcp	reciprocal
+Icelandic	refl	reflexive
+Icelandic	sg	singular

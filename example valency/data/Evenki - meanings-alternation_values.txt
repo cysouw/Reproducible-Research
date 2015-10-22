@@ -1,0 +1,436 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Evenki	1	EAT	d’ep-	Adversative Passive	Never	
+Evenki	1	EAT	d’ep-	Decausative	Never	
+Evenki	1	EAT	d’ep-	Personal passive	Regularly	
+Evenki	1	EAT	d’ep-	Reciprocal	Never	
+Evenki	1	EAT	d’ep-	Resultative	Never	
+Evenki	2	HUG	kumle-	Adversative Passive	Never	
+Evenki	2	HUG	kumle-	Decausative	Never	
+Evenki	2	HUG	kumle-	Personal passive	Regularly	
+Evenki	2	HUG	kumle-	Reciprocal	Regularly	
+Evenki	2	HUG	kumle-	Resultative	Never	
+Evenki	3	LOOK AT	ičet-	Adversative Passive	Never	
+Evenki	3	LOOK AT	ičet-	Decausative	Never	
+Evenki	3	LOOK AT	ičet-	Personal passive	Regularly	
+Evenki	3	LOOK AT	ičet-	Reciprocal	Regularly	
+Evenki	3	LOOK AT	ičet-	Resultative	Never	
+Evenki	4	SEE	iče-	Adversative Passive	Never	
+Evenki	4	SEE	iče-	Decausative	Never	
+Evenki	4	SEE	iče-	Personal passive	Regularly	
+Evenki	4	SEE	iče-	Reciprocal	Regularly	
+Evenki	4	SEE	iče-	Resultative	Never	
+Evenki	5	SMELL	Ŋosukta-	Adversative Passive	Never	
+Evenki	5	SMELL	Ŋosukta-	Decausative	Never	
+Evenki	5	SMELL	Ŋosukta-	Personal passive	Never	
+Evenki	5	SMELL	Ŋosukta-	Reciprocal	Regularly	
+Evenki	5	SMELL	Ŋosukta-	Resultative	Never	
+Evenki	6	FEAR	Ŋeelet-	Adversative Passive	Never	
+Evenki	6	FEAR	Ŋeelet-	Decausative	Never	
+Evenki	6	FEAR	Ŋeelet-	Personal passive	Never	
+Evenki	6	FEAR	Ŋeelet-	Reciprocal	Regularly	
+Evenki	6	FEAR	Ŋeelet-	Resultative	Regularly	
+Evenki	7	FRIGHTEN	ŋeele-vken-	Adversative Passive	Never	
+Evenki	7	FRIGHTEN	ŋeele-vken-	Decausative	Never	
+Evenki	7	FRIGHTEN	ŋeele-vken-	Personal passive	Regularly	
+Evenki	7	FRIGHTEN	ŋeele-vken-	Reciprocal	Regularly	
+Evenki	7	FRIGHTEN	ŋeele-vken-	Resultative	Never	
+Evenki	8	LIKE	ajav-	Adversative Passive	Never	
+Evenki	8	LIKE	ajav-	Decausative	Never	
+Evenki	8	LIKE	ajav-	Personal passive	Regularly	
+Evenki	8	LIKE	ajav-	Reciprocal	Never	
+Evenki	8	LIKE	ajav-	Resultative	Never	
+Evenki	9	KNOW	saa-	Adversative Passive	Never	
+Evenki	9	KNOW	saa-	Decausative	Never	
+Evenki	9	KNOW	saa-	Personal passive	Regularly	
+Evenki	9	KNOW	saa-	Reciprocal	Regularly	
+Evenki	9	KNOW	saa-	Resultative	Never	
+Evenki	10	THINK	d'alda-	Adversative Passive	Never	
+Evenki	10	THINK	d'alda-	Decausative	Never	
+Evenki	10	THINK	d'alda-	Personal passive	Regularly	
+Evenki	10	THINK	d'alda-	Reciprocal	Regularly	
+Evenki	10	THINK	d'alda-	Resultative	Never	
+Evenki	11	SEARCH FOR	gelekte-	Adversative Passive	Never	
+Evenki	11	SEARCH FOR	gelekte-	Decausative	Never	
+Evenki	11	SEARCH FOR	gelekte-	Personal passive	Never	
+Evenki	11	SEARCH FOR	gelekte-	Reciprocal	Never	
+Evenki	11	SEARCH FOR	gelekte-	Resultative	Never	
+Evenki	12	WASH	av-	Adversative Passive	Never	
+Evenki	12	WASH	av-	Decausative	Never	
+Evenki	12	WASH	av-	Personal passive	Regularly	
+Evenki	12	WASH	av-	Reciprocal	Regularly	
+Evenki	12	WASH	av-	Resultative	Never	
+Evenki	13	DRESS	tet-yv--	Adversative Passive	Never	
+Evenki	13	DRESS	tet-yv--	Decausative	Never	
+Evenki	13	DRESS	tet-yv--	Personal passive	Regularly	
+Evenki	13	DRESS	tet-yv--	Reciprocal	Regularly	
+Evenki	13	DRESS	tet-yv--	Resultative	Never	
+Evenki	14	SHAVE (a body part/person)	husča-	Adversative Passive	Never	
+Evenki	14	SHAVE (a body part/person)	husča-	Decausative	Never	
+Evenki	14	SHAVE (a body part/person)	husča-	Personal passive	Regularly	
+Evenki	14	SHAVE (a body part/person)	husča-	Reciprocal	Regularly	
+Evenki	14	SHAVE (a body part/person)	husča-	Resultative	Never	
+Evenki	15	HELP	bele-	Adversative Passive	Never	
+Evenki	15	HELP	bele-	Decausative	Never	
+Evenki	15	HELP	bele-	Personal passive	Never	
+Evenki	15	HELP	bele-	Reciprocal	Regularly	
+Evenki	15	HELP	bele-	Resultative	Never	
+Evenki	16	FOLLOW	bodo-	Adversative Passive	Never	
+Evenki	16	FOLLOW	bodo-	Decausative	Never	
+Evenki	16	FOLLOW	bodo-	Personal passive	Never	
+Evenki	16	FOLLOW	bodo-	Reciprocal	Never	
+Evenki	16	FOLLOW	bodo-	Resultative	Never	
+Evenki	17	MEET	asila- (1)	Adversative Passive	Never	
+Evenki	17	MEET	asila- (1)	Decausative	Never	
+Evenki	17	MEET	asila- (1)	Personal passive	Regularly	
+Evenki	17	MEET	asila- (1)	Reciprocal	Regularly	
+Evenki	17	MEET	asila- (1)	Resultative	Never	
+Evenki	18	TALK	ulgučen- (2)	Adversative Passive	Never	
+Evenki	18	TALK	ulgučen- (2)	Decausative	Never	
+Evenki	18	TALK	ulgučen- (2)	Personal passive	Never	
+Evenki	18	TALK	ulgučen- (2)	Reciprocal	Regularly	
+Evenki	18	TALK	ulgučen- (2)	Resultative	Never	
+Evenki	19	ASK FOR	ejet-	Adversative Passive	Never	
+Evenki	19	ASK FOR	ejet-	Decausative	Never	
+Evenki	19	ASK FOR	ejet-	Personal passive	Regularly	
+Evenki	19	ASK FOR	ejet-	Reciprocal	Regularly	
+Evenki	19	ASK FOR	ejet-	Resultative	Never	
+Evenki	20	SHOUT AT	tepke- (1)	Adversative Passive	Never	
+Evenki	20	SHOUT AT	tepke- (1)	Decausative	Never	
+Evenki	20	SHOUT AT	tepke- (1)	Personal passive	Regularly	
+Evenki	20	SHOUT AT	tepke- (1)	Reciprocal	Regularly	
+Evenki	20	SHOUT AT	tepke- (1)	Resultative	Never	
+Evenki	21	TELL	ulgučen- (1)	Adversative Passive	Never	
+Evenki	21	TELL	ulgučen- (1)	Decausative	Never	
+Evenki	21	TELL	ulgučen- (1)	Personal passive	Regularly	
+Evenki	21	TELL	ulgučen- (1)	Reciprocal	Regularly	
+Evenki	21	TELL	ulgučen- (1)	Resultative	Never	
+Evenki	22	SAY	guun-	Adversative Passive	Never	
+Evenki	22	SAY	guun-	Decausative	Never	
+Evenki	22	SAY	guun-	Personal passive	Regularly	
+Evenki	22	SAY	guun-	Reciprocal	Regularly	
+Evenki	22	SAY	guun-	Resultative	Regularly	
+Evenki	23	NAME	gerbit-	Adversative Passive	Never	
+Evenki	23	NAME	gerbit-	Decausative	Never	
+Evenki	23	NAME	gerbit-	Personal passive	Regularly	
+Evenki	23	NAME	gerbit-	Reciprocal	Regularly	
+Evenki	23	NAME	gerbit-	Resultative	Never	
+Evenki	24	BUILD	oo-	Adversative Passive	Never	
+Evenki	24	BUILD	oo-	Decausative	Never	
+Evenki	24	BUILD	oo-	Personal passive	Regularly	
+Evenki	24	BUILD	oo-	Reciprocal	Regularly	
+Evenki	24	BUILD	oo-	Resultative	Never	
+Evenki	25	BREAK	sukča-	Adversative Passive	Never	
+Evenki	25	BREAK	sukča-	Decausative	Regularly	
+Evenki	25	BREAK	sukča-	Personal passive	Regularly	
+Evenki	25	BREAK	sukča-	Reciprocal	Never	
+Evenki	25	BREAK	sukča-	Resultative	Never	
+Evenki	26	KILL	vaa-	Adversative Passive	Marginally	
+Evenki	26	KILL	vaa-	Decausative	Regularly	
+Evenki	26	KILL	vaa-	Personal passive	Regularly	
+Evenki	26	KILL	vaa-	Reciprocal	Regularly	
+Evenki	26	KILL	vaa-	Resultative	Never	
+Evenki	27	BEAT	iktu-	Adversative Passive	Never	
+Evenki	27	BEAT	iktu-	Decausative	Never	
+Evenki	27	BEAT	iktu-	Personal passive	Regularly	
+Evenki	27	BEAT	iktu-	Reciprocal	Regularly	
+Evenki	27	BEAT	iktu-	Resultative	Never	
+Evenki	28	HIT	ikte-	Adversative Passive	Marginally	
+Evenki	28	HIT	ikte-	Decausative	Never	
+Evenki	28	HIT	ikte-	Personal passive	Regularly	
+Evenki	28	HIT	ikte-	Reciprocal	Never	
+Evenki	28	HIT	ikte-	Resultative	Regularly	
+Evenki	29	TOUCH	Ileče-	Adversative Passive	Never	
+Evenki	29	TOUCH	Ileče-	Decausative	Never	
+Evenki	29	TOUCH	Ileče-	Personal passive	Never	
+Evenki	29	TOUCH	Ileče-	Reciprocal	Regularly	
+Evenki	29	TOUCH	Ileče-	Resultative	Never	
+Evenki	30	CUT	mine-	Adversative Passive	Never	
+Evenki	30	CUT	mine-	Decausative	Never	
+Evenki	30	CUT	mine-	Personal passive	Regularly	
+Evenki	30	CUT	mine-	Reciprocal	Never	
+Evenki	30	CUT	mine-	Resultative	Never	
+Evenki	31	TAKE	d'ava-	Adversative Passive	Never	
+Evenki	31	TAKE	d'ava-	Decausative	Never	
+Evenki	31	TAKE	d'ava-	Personal passive	Regularly	
+Evenki	31	TAKE	d'ava-	Reciprocal	Regularly	
+Evenki	31	TAKE	d'ava-	Resultative	Regularly	
+Evenki	32	TEAR	etyt-	Adversative Passive	Never	
+Evenki	32	TEAR	etyt-	Decausative	Never	
+Evenki	32	TEAR	etyt-	Personal passive	Regularly	
+Evenki	32	TEAR	etyt-	Reciprocal	Never	
+Evenki	32	TEAR	etyt-	Resultative	Regularly	
+Evenki	33	PEEL	ile-	Adversative Passive	Never	
+Evenki	33	PEEL	ile-	Decausative	Never	
+Evenki	33	PEEL	ile-	Personal passive	Regularly	
+Evenki	33	PEEL	ile-	Reciprocal	Never	
+Evenki	33	PEEL	ile-	Resultative	Never	
+Evenki	34	HIDE	d’aja-	Adversative Passive	Never	
+Evenki	34	HIDE	d’aja-	Decausative	Never	
+Evenki	34	HIDE	d’aja-	Personal passive	Regularly	
+Evenki	34	HIDE	d’aja-	Reciprocal	Never	
+Evenki	34	HIDE	d’aja-	Resultative	Regularly	
+Evenki	35	SHOW	iče-vken-	Adversative Passive	Never	
+Evenki	35	SHOW	iče-vken-	Decausative	Never	
+Evenki	35	SHOW	iče-vken-	Personal passive	Regularly	
+Evenki	35	SHOW	iče-vken-	Reciprocal	Regularly	
+Evenki	35	SHOW	iče-vken-	Resultative	Never	
+Evenki	36	GIVE	buu-	Adversative Passive	Never	
+Evenki	36	GIVE	buu-	Decausative	Never	
+Evenki	36	GIVE	buu-	Personal passive	Regularly	
+Evenki	36	GIVE	buu-	Reciprocal	Regularly	
+Evenki	36	GIVE	buu-	Resultative	Never	
+Evenki	37	SEND	ung-	Adversative Passive	Never	
+Evenki	37	SEND	ung-	Decausative	Never	
+Evenki	37	SEND	ung-	Personal passive	Regularly	
+Evenki	37	SEND	ung-	Reciprocal	Never	
+Evenki	37	SEND	ung-	Resultative	Never	
+Evenki	38	CARRY	Ŋene-v-	Adversative Passive	Never	
+Evenki	38	CARRY	Ŋene-v-	Decausative	Never	
+Evenki	38	CARRY	Ŋene-v-	Personal passive	Regularly	
+Evenki	38	CARRY	Ŋene-v-	Reciprocal	Never	
+Evenki	38	CARRY	Ŋene-v-	Resultative	Never	
+Evenki	39	THROW	nodaa-	Adversative Passive	Never	
+Evenki	39	THROW	nodaa-	Decausative	Never	
+Evenki	39	THROW	nodaa-	Personal passive	Regularly	
+Evenki	39	THROW	nodaa-	Reciprocal	Regularly	
+Evenki	39	THROW	nodaa-	Resultative	Never	
+Evenki	40	TIE	ui-	Adversative Passive	Never	
+Evenki	40	TIE	ui-	Decausative	Never	
+Evenki	40	TIE	ui-	Personal passive	Regularly	
+Evenki	40	TIE	ui-	Reciprocal	Regularly	
+Evenki	40	TIE	ui-	Resultative	Regularly	
+Evenki	41	PUT	nee-	Adversative Passive	Never	
+Evenki	41	PUT	nee-	Decausative	Never	
+Evenki	41	PUT	nee-	Personal passive	Regularly	
+Evenki	41	PUT	nee-	Reciprocal	Never	
+Evenki	41	PUT	nee-	Resultative	Regularly	
+Evenki	42	POUR	uŋku-	Adversative Passive	Never	
+Evenki	42	POUR	uŋku-	Decausative	Never	
+Evenki	42	POUR	uŋku-	Personal passive	Regularly	
+Evenki	42	POUR	uŋku-	Reciprocal	Never	
+Evenki	42	POUR	uŋku-	Resultative	Regularly	
+Evenki	43	COVER	das-	Adversative Passive	Never	
+Evenki	43	COVER	das-	Decausative	Never	
+Evenki	43	COVER	das-	Personal passive	Regularly	
+Evenki	43	COVER	das-	Reciprocal	Regularly	
+Evenki	43	COVER	das-	Resultative	Regularly	
+Evenki	44	FILL	d’alupki-	Adversative Passive	Never	
+Evenki	44	FILL	d’alupki-	Decausative	Never	
+Evenki	44	FILL	d’alupki-	Personal passive	Regularly	
+Evenki	44	FILL	d’alupki-	Reciprocal	Never	
+Evenki	44	FILL	d’alupki-	Resultative	Never	
+Evenki	45	LOAD	tev-	Adversative Passive	Never	
+Evenki	45	LOAD	tev-	Decausative	Never	
+Evenki	45	LOAD	tev-	Personal passive	Regularly	
+Evenki	45	LOAD	tev-	Reciprocal	Never	
+Evenki	45	LOAD	tev-	Resultative	Regularly	
+Evenki	46	BLINK	sarim-	Adversative Passive	Never	
+Evenki	46	BLINK	sarim-	Decausative	Never	
+Evenki	46	BLINK	sarim-	Personal passive	Never	
+Evenki	46	BLINK	sarim-	Reciprocal	Never	
+Evenki	46	BLINK	sarim-	Resultative	Never	
+Evenki	47	COUGH	simkit-	Adversative Passive	Never	
+Evenki	47	COUGH	simkit-	Decausative	Never	
+Evenki	47	COUGH	simkit-	Personal passive	Never	
+Evenki	47	COUGH	simkit-	Reciprocal	Never	
+Evenki	47	COUGH	simkit-	Resultative	Never	
+Evenki	48	CLIMB	tukty-	Adversative Passive	Never	
+Evenki	48	CLIMB	tukty-	Decausative	Never	
+Evenki	48	CLIMB	tukty-	Personal passive	Never	
+Evenki	48	CLIMB	tukty-	Reciprocal	Never	
+Evenki	48	CLIMB	tukty-	Resultative	Regularly	
+Evenki	49	RUN	tuksa-	Adversative Passive	Never	
+Evenki	49	RUN	tuksa-	Decausative	Never	
+Evenki	49	RUN	tuksa-	Personal passive	Never	
+Evenki	49	RUN	tuksa-	Reciprocal	Never	
+Evenki	49	RUN	tuksa-	Resultative	Never	
+Evenki	50	SIT	tege-t-	Adversative Passive	Never	
+Evenki	50	SIT	tege-t-	Decausative	Never	
+Evenki	50	SIT	tege-t-	Personal passive	Never	
+Evenki	50	SIT	tege-t-	Reciprocal	Never	
+Evenki	50	SIT	tege-t-	Resultative	Never	
+Evenki	51	SIT DOWN	tege-	Adversative Passive	Never	
+Evenki	51	SIT DOWN	tege-	Decausative	Never	
+Evenki	51	SIT DOWN	tege-	Personal passive	Never	
+Evenki	51	SIT DOWN	tege-	Reciprocal	Never	
+Evenki	51	SIT DOWN	tege-	Resultative	Never	
+Evenki	52	JUMP	mikčan-	Adversative Passive	Never	
+Evenki	52	JUMP	mikčan-	Decausative	Never	
+Evenki	52	JUMP	mikčan-	Personal passive	Never	
+Evenki	52	JUMP	mikčan-	Reciprocal	Never	
+Evenki	52	JUMP	mikčan-	Resultative	Never	
+Evenki	53	SING	ike-	Adversative Passive	Never	
+Evenki	53	SING	ike-	Decausative	Never	
+Evenki	53	SING	ike-	Personal passive	Regularly	
+Evenki	53	SING	ike-	Reciprocal	Never	
+Evenki	53	SING	ike-	Resultative	Never	
+Evenki	54	GO	ŋene-	Adversative Passive	Never	
+Evenki	54	GO	ŋene-	Decausative	Never	
+Evenki	54	GO	ŋene-	Personal passive	Never	
+Evenki	54	GO	ŋene-	Reciprocal	Never	
+Evenki	54	GO	ŋene-	Resultative	Never	
+Evenki	55	LEAVE	suru-	Adversative Passive	Marginally	
+Evenki	55	LEAVE	suru-	Decausative	Never	
+Evenki	55	LEAVE	suru-	Personal passive	No data	
+Evenki	55	LEAVE	suru-	Reciprocal	Never	
+Evenki	55	LEAVE	suru-	Resultative	Never	
+Evenki	56	LIVE	bi-	Adversative Passive	Never	
+Evenki	56	LIVE	bi-	Decausative	Never	
+Evenki	56	LIVE	bi-	Personal passive	Never	
+Evenki	56	LIVE	bi-	Reciprocal	Never	
+Evenki	56	LIVE	bi-	Resultative	Never	
+Evenki	57	LAUGH	in’ekte-	Adversative Passive	Never	
+Evenki	57	LAUGH	in’ekte-	Decausative	Never	
+Evenki	57	LAUGH	in’ekte-	Personal passive	Never	
+Evenki	57	LAUGH	in’ekte-	Reciprocal	Never	
+Evenki	57	LAUGH	in’ekte-	Resultative	Never	
+Evenki	58	SCREAM	tepke- (2)	Adversative Passive	Never	
+Evenki	58	SCREAM	tepke- (2)	Decausative	Never	
+Evenki	58	SCREAM	tepke- (2)	Personal passive	Never	
+Evenki	58	SCREAM	tepke- (2)	Reciprocal	Regularly	
+Evenki	58	SCREAM	tepke- (2)	Resultative	Never	
+Evenki	59	FEEL PAIN	enuu-	Adversative Passive	Never	
+Evenki	59	FEEL PAIN	enuu-	Decausative	Never	
+Evenki	59	FEEL PAIN	enuu-	Personal passive	Never	
+Evenki	59	FEEL PAIN	enuu-	Reciprocal	Never	
+Evenki	59	FEEL PAIN	enuu-	Resultative	Never	
+Evenki	60	FEEL COLD	doŋoto-	Adversative Passive	Marginally	
+Evenki	60	FEEL COLD	doŋoto-	Decausative	Never	
+Evenki	60	FEEL COLD	doŋoto-	Personal passive	Regularly	
+Evenki	60	FEEL COLD	doŋoto-	Reciprocal	Never	
+Evenki	60	FEEL COLD	doŋoto-	Resultative	Never	
+Evenki	61	DIE	bu-	Adversative Passive	Never	
+Evenki	61	DIE	bu-	Decausative	Never	
+Evenki	61	DIE	bu-	Personal passive	Never	
+Evenki	61	DIE	bu-	Reciprocal	Never	
+Evenki	61	DIE	bu-	Resultative	Never	
+Evenki	62	PLAY	evi-	Adversative Passive	Never	
+Evenki	62	PLAY	evi-	Decausative	Never	
+Evenki	62	PLAY	evi-	Personal passive	Never	
+Evenki	62	PLAY	evi-	Reciprocal	Never	
+Evenki	62	PLAY	evi-	Resultative	Never	
+Evenki	63	BE SAD	merge-	Adversative Passive	Never	
+Evenki	63	BE SAD	merge-	Decausative	Never	
+Evenki	63	BE SAD	merge-	Personal passive	Never	
+Evenki	63	BE SAD	merge-	Reciprocal	Never	
+Evenki	63	BE SAD	merge-	Resultative	Never	
+Evenki	64	BE HUNGRY	d’em-mu-	Adversative Passive	Never	
+Evenki	64	BE HUNGRY	d’em-mu-	Decausative	Never	
+Evenki	64	BE HUNGRY	d’em-mu-	Personal passive	Never	
+Evenki	64	BE HUNGRY	d’em-mu-	Reciprocal	Never	
+Evenki	64	BE HUNGRY	d’em-mu-	Resultative	Never	
+Evenki	65	ROLL	sirun-	Adversative Passive	Never	
+Evenki	65	ROLL	sirun-	Decausative	Never	
+Evenki	65	ROLL	sirun-	Personal passive	Never	
+Evenki	65	ROLL	sirun-	Reciprocal	Never	
+Evenki	65	ROLL	sirun-	Resultative	Regularly	
+Evenki	66	SINK	eje-	Adversative Passive	Never	
+Evenki	66	SINK	eje-	Decausative	Never	
+Evenki	66	SINK	eje-	Personal passive	Never	
+Evenki	66	SINK	eje-	Reciprocal	Never	
+Evenki	66	SINK	eje-	Resultative	Never	
+Evenki	67	BURN	d’egde-	Adversative Passive	Marginally	
+Evenki	67	BURN	d’egde-	Decausative	Never	
+Evenki	67	BURN	d’egde-	Personal passive	Never	
+Evenki	67	BURN	d’egde-	Reciprocal	Never	
+Evenki	67	BURN	d’egde-	Resultative	Never	
+Evenki	68	BE DRY	olgokin bi-	Adversative Passive	Never	
+Evenki	68	BE DRY	olgokin bi-	Decausative	Never	
+Evenki	68	BE DRY	olgokin bi-	Personal passive	Never	
+Evenki	68	BE DRY	olgokin bi-	Reciprocal	Never	
+Evenki	68	BE DRY	olgokin bi-	Resultative	Never	
+Evenki	69	RAIN	udun-	Adversative Passive	Marginally	
+Evenki	69	RAIN	udun-	Decausative	Never	
+Evenki	69	RAIN	udun-	Personal passive	No data	
+Evenki	69	RAIN	udun-	Reciprocal	Never	
+Evenki	69	RAIN	udun-	Resultative	Never	
+Evenki	70	BE A HUNTER	bejumimni bi-	Adversative Passive	Never	
+Evenki	70	BE A HUNTER	bejumimni bi-	Decausative	Never	
+Evenki	70	BE A HUNTER	bejumimni bi-	Personal passive	Never	
+Evenki	70	BE A HUNTER	bejumimni bi-	Reciprocal	Never	
+Evenki	70	BE A HUNTER	bejumimni bi-	Resultative	Never	
+Evenki	71	GRIND	huku-	Adversative Passive	Never	
+Evenki	71	GRIND	huku-	Decausative	Never	
+Evenki	71	GRIND	huku-	Personal passive	Regularly	
+Evenki	71	GRIND	huku-	Reciprocal	Never	
+Evenki	71	GRIND	huku-	Resultative	Never	
+Evenki	72	WIPE	tesi-	Adversative Passive	Never	
+Evenki	72	WIPE	tesi-	Decausative	Never	
+Evenki	72	WIPE	tesi-	Personal passive	Regularly	
+Evenki	72	WIPE	tesi-	Reciprocal	Never	
+Evenki	72	WIPE	tesi-	Resultative	Never	
+Evenki	73	DIG	ulee-	Adversative Passive	Never	
+Evenki	73	DIG	ulee-	Decausative	Never	
+Evenki	73	DIG	ulee-	Personal passive	Regularly	
+Evenki	73	DIG	ulee-	Reciprocal	Never	
+Evenki	73	DIG	ulee-	Resultative	Never	
+Evenki	74	PUSH	ana-	Adversative Passive	Never	
+Evenki	74	PUSH	ana-	Decausative	Never	
+Evenki	74	PUSH	ana-	Personal passive	Regularly	
+Evenki	74	PUSH	ana-	Reciprocal	Regularly	
+Evenki	74	PUSH	ana-	Resultative	Never	
+Evenki	75	BRING	eme-v-	Adversative Passive	Never	
+Evenki	75	BRING	eme-v-	Decausative	Never	
+Evenki	75	BRING	eme-v-	Personal passive	Regularly	
+Evenki	75	BRING	eme-v-	Reciprocal	Never	
+Evenki	75	BRING	eme-v-	Resultative	Never	
+Evenki	76	STEAL	d’oromo-	Adversative Passive	Marginally	
+Evenki	76	STEAL	d’oromo-	Decausative	Never	
+Evenki	76	STEAL	d’oromo-	Personal passive	Regularly	
+Evenki	76	STEAL	d’oromo-	Reciprocal	Never	
+Evenki	76	STEAL	d’oromo-	Resultative	Never	
+Evenki	77	TEACH	alagu-	Adversative Passive	Never	
+Evenki	77	TEACH	alagu-	Decausative	Never	
+Evenki	77	TEACH	alagu-	Personal passive	Regularly	
+Evenki	77	TEACH	alagu-	Reciprocal	Regularly	
+Evenki	77	TEACH	alagu-	Resultative	Never	
+Evenki	78	HEAR	dooldy-	Adversative Passive	Never	
+Evenki	78	HEAR	dooldy-	Decausative	Never	
+Evenki	78	HEAR	dooldy-	Personal passive	Regularly	
+Evenki	78	HEAR	dooldy-	Reciprocal	Regularly	
+Evenki	78	HEAR	dooldy-	Resultative	Never	
+Evenki	79	COOK	irii-	Adversative Passive	Never	
+Evenki	79	COOK	irii-	Decausative	Never	
+Evenki	79	COOK	irii-	Personal passive	Regularly	
+Evenki	79	COOK	irii-	Reciprocal	Never	
+Evenki	79	COOK	irii-	Resultative	Never	
+Evenki	80	BOIL	huju-	Adversative Passive	Never	
+Evenki	80	BOIL	huju-	Decausative	Never	
+Evenki	80	BOIL	huju-	Personal passive	Never	
+Evenki	80	BOIL	huju-	Reciprocal	Never	
+Evenki	80	BOIL	huju-	Resultative	Never	
+Evenki	81	APPEAR	iče-vu-l-	Adversative Passive	Never	
+Evenki	81	APPEAR	iče-vu-l-	Decausative	Never	
+Evenki	81	APPEAR	iče-vu-l-	Personal passive	Never	
+Evenki	81	APPEAR	iče-vu-l-	Reciprocal	Never	
+Evenki	81	APPEAR	iče-vu-l-	Resultative	Never	
+Evenki	84	FALL	buru-	Adversative Passive	Never	
+Evenki	84	FALL	buru-	Decausative	Never	
+Evenki	84	FALL	buru-	Personal passive	Never	
+Evenki	84	FALL	buru-	Reciprocal	Never	
+Evenki	84	FALL	buru-	Resultative	Never	
+Evenki	86	GET	ga-	Adversative Passive	Never	
+Evenki	86	GET	ga-	Decausative	Never	
+Evenki	86	GET	ga-	Personal passive	Regularly	
+Evenki	86	GET	ga-	Reciprocal	Regularly	
+Evenki	86	GET	ga-	Resultative	Never	
+Evenki	91	REMEMBER	d’onča-	Adversative Passive	Never	
+Evenki	91	REMEMBER	d’onča-	Decausative	Never	
+Evenki	91	REMEMBER	d’onča-	Personal passive	Regularly	
+Evenki	91	REMEMBER	d’onča-	Reciprocal	Regularly	
+Evenki	91	REMEMBER	d’onča-	Resultative	Never	
+Evenki	93	HUNT (FOR)	bejukte-	Adversative Passive	Never	
+Evenki	93	HUNT (FOR)	bejukte-	Decausative	Never	
+Evenki	93	HUNT (FOR)	bejukte-	Personal passive	Never	
+Evenki	93	HUNT (FOR)	bejukte-	Reciprocal	Never	
+Evenki	93	HUNT (FOR)	bejukte-	Resultative	Never	
+Evenki	96	MARRY	asila- (2)	Adversative Passive	Never	
+Evenki	96	MARRY	asila- (2)	Decausative	Never	
+Evenki	96	MARRY	asila- (2)	Personal passive	Never	
+Evenki	96	MARRY	asila- (2)	Reciprocal	Never	
+Evenki	96	MARRY	asila- (2)	Resultative	Never	
+Evenki	116	COME	eme-	Adversative Passive	Never	
+Evenki	116	COME	eme-	Decausative	Never	
+Evenki	116	COME	eme-	Personal passive	Never	
+Evenki	116	COME	eme-	Reciprocal	Never	
+Evenki	116	COME	eme-	Resultative	Never	

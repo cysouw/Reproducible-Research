@@ -1,0 +1,83 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Anti-Causative Alternation	Causative	Comitative Alternation	Incorporation	Reflexive/Reciprocal Alternation	Resultative
+Ket	1	EAT	a⁰ (S-O-a-pl )	1, 2, 88	1 2 subj[1].obj[2].V	Never	Never	Never	Regularly	Never	Never
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	62, 86	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	47	1 2-poss+tān subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	45	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Never
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	63	1 2-abl subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	49	1 2-abl subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	95	1 2-abl subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	48	1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Regularly	Regularly
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	50	1 2-dat subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	44	1 2 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	46	1 2-adess subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	51	1 2-adess subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	56	1 2 subj[1].obj[2].V	Never	Regularly	Never	Never	Regularly	Never
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	55	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	32, 64	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	54	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	53	1 2 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	52	1 2 subj[1].rfl/sbj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	43	1 2-instr 3 subj[1].obj[3].V	Never	Never	Never	Never	Never	Never
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	42	1 (2-abl) (3-transl) subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	40	1 2-dat subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	41	1 2 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never
+Ket	22	SAY	ma~da⁰	39	1 (2-dat) subj[1].V UTT3	Never	Never	Never	Never	Never	Never
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	41	1 2 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Never
+Ket	23	NAME	no direct counterpart		N/A	Never	Never	Never	Never	Never	Never
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	38	1 2 (3-abl) subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	37	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	36	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Marginally	Regularly	Never
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	35	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Never	Never	Never
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	34	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Regularly	Regularly	Regularly
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	33	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Never
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	32, 64	1 2 (3-instr) subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	28	1 2 (3-abl) subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	30	1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Marginally	Regularly
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)		1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Never	Regularly
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	29	1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Regularly	Regularly
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	26	1 2 3-dat subj[1].obj[2].V	Regularly	Never	Never	Never	Regularly	Regularly
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	25	1 2 3 subj[1].obj[3].V	Never	Never	Never	Marginally	Marginally	Never
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	24	1 2 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	12	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	10	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	7, 85, 87	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Regularly	Regularly
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	6, 9	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	8	1 2 (LOC3) subj[1].obj[2].V	Regularly	Never	Never	Marginally	Never	Regularly
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	3, 4	1 2 (3-instr) subj[1].obj[2].V	Regularly	Never	Never	Never	Regularly	Regularly
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	5	1 2 (3-instr) subj[1].obj[2].V	Regularly	Never	Never	Never	Never	Regularly
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	6, 9	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	66	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	57	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	58	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Never	Never
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	59	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	22	1 LOC2 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	23	1 LOC2 subj[1].V	Never	Regularly	Never	Never	Never	Regularly
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	60	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	53	SING	il⁰ (S-O-il-pl)	19	1 subj[1].obj[2].V	Never	Regularly	Never	Never	Never	Never
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	67	1 LOC2 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	21	1 2-abl subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	56	LIVE	daq⁰ (S-aq-pl)	20	1 LOC2 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	68, 89, 90	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	69	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	18	1 V	Never	Never	Never	Never	Never	Never
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	15	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	61	DIE	qo⁰ (S-qo-pl)	17	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	70	1 subj[1].V	Never	Never	Never	Never	Never	Never
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	71	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	64	BE HUNGRY	obɯlda qoʁot	14	1 V	Never	Never	Never	Never	Never	Never
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	72, 84	1 subj[1].V	Never	Regularly	Never	Never	Marginally	Never
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	73	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	74	1 subj[1].V	Never	Regularly	Never	Never	Never	Never
+Ket	68	BE DRY	obɯlda toqojiŋ	75	1 V	Marginally	Regularly	Never	Never	Marginally	Regularly
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	13	V	Never	Never	Never	Never	Never	Never
+Ket	70	BE A HUNTER	no verbal counterpart	76	N/A	Never	Never	Never	Never	Never	Never
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	77	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	31, 93, 94	1 2 (3-abl) subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	78	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	79	1 2 (LOC3) subj[1].obj[2].V	Never	Never	Never	Never	Marginally	Regularly
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	11	1 2 3-dat subj[1].obj[2].V	Never	Never	Never	Never	Never	Regularly
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	27	1 2 subj[1].obj[2].V	Never	Regularly	Never	Never	Marginally	Regularly
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	80	1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Regularly	Regularly
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	81	1 2 subj[1].obj[2].V	Never	Never	Never	Never	Never	Never
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	82	1 2 subj[1].obj[2].V	Regularly	Never	Never	Never	Never	Regularly
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	83	1 subj[1].V	Never	Regularly	Never	Never	Never	Never

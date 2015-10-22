@@ -1,0 +1,34 @@
+﻿Language_name	Gloss	Meaning
+Ket	ABL	ablative
+Ket	ADESS	adessive
+Ket	AGR	agreement suffix
+Ket	ANIM	animate class
+Ket	APPL	applicative
+Ket	CAUS	causative thematic consonant
+Ket	DAT	dative
+Ket	DEM	demonstrative
+Ket	EV	epenthetic vowel??
+Ket	F	feminine class
+Ket	INAN	inanimate class
+Ket	INCEPT	inceptive?
+Ket	INSTR	instrumental
+Ket	INTRANS	intransitive?
+Ket	ITER	iterative
+Ket	LOC	locative?
+Ket	M	masculine class
+Ket	MASC	masculine
+Ket	MOM	momentary??
+Ket	OBJ	object
+Ket	PL	plural
+Ket	POSS	possessive
+Ket	PRED	adjectival part of predicate nominal construction??
+Ket	PRES	present tense
+Ket	PROS	prosecutive
+Ket	PST	past
+Ket	RES	resultative
+Ket	RFLX	reflexive?
+Ket	SBJ	subject
+Ket	SG	singular
+Ket	STEM	stem
+Ket	TH	thematic consonant
+Ket	TRANSL	translative

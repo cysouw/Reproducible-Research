@@ -1,0 +1,1561 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Mandinka	1	EAT	dómo	Active/Passive Alternation	Regularly	
+Mandinka	1	EAT	dómo	Antipassive Middle	Never	
+Mandinka	1	EAT	dómo	Causative Alternation	Never	
+Mandinka	1	EAT	dómo	Causative Derivation 1	Never	
+Mandinka	1	EAT	dómo	Causative Derivation 2	Regularly	
+Mandinka	1	EAT	dómo	Deobjective Alternation	Never	
+Mandinka	1	EAT	dómo	Intransitive/Middle Alternation	Never	
+Mandinka	1	EAT	dómo	Noncausative Alternation	Never	
+Mandinka	1	EAT	dómo	Object/Oblique Permutation	Never	
+Mandinka	1	EAT	dómo	Oblique/Object Alternation	Never	
+Mandinka	1	EAT	dómo	Postposition Incorporation	Never	
+Mandinka	1	EAT	dómo	Subject/Oblique Alternation	Never	
+Mandinka	2	HUG	míniŋ	Active/Passive Alternation	Never	
+Mandinka	2	HUG	míniŋ	Antipassive Middle	Never	
+Mandinka	2	HUG	míniŋ	Causative Alternation	Regularly	
+Mandinka	2	HUG	míniŋ	Causative Derivation 1	Never	
+Mandinka	2	HUG	míniŋ	Causative Derivation 2	Marginally	
+Mandinka	2	HUG	míniŋ	Deobjective Alternation	Never	
+Mandinka	2	HUG	míniŋ	Intransitive/Middle Alternation	Marginally	
+Mandinka	2	HUG	míniŋ	Noncausative Alternation	No data	
+Mandinka	2	HUG	míniŋ	Object/Oblique Permutation	Never	
+Mandinka	2	HUG	míniŋ	Oblique/Object Alternation	Marginally	
+Mandinka	2	HUG	míniŋ	Postposition Incorporation	Never	
+Mandinka	2	HUG	míniŋ	Subject/Oblique Alternation	Never	
+Mandinka	3	LOOK AT	féle	Active/Passive Alternation	Marginally	
+Mandinka	3	LOOK AT	féle	Antipassive Middle	Never	
+Mandinka	3	LOOK AT	féle	Causative Alternation	Never	
+Mandinka	3	LOOK AT	féle	Causative Derivation 1	Never	
+Mandinka	3	LOOK AT	féle	Causative Derivation 2	Marginally	
+Mandinka	3	LOOK AT	féle	Deobjective Alternation	Never	
+Mandinka	3	LOOK AT	féle	Intransitive/Middle Alternation	Never	
+Mandinka	3	LOOK AT	féle	Noncausative Alternation	Never	
+Mandinka	3	LOOK AT	féle	Object/Oblique Permutation	Never	
+Mandinka	3	LOOK AT	féle	Oblique/Object Alternation	Never	
+Mandinka	3	LOOK AT	féle	Postposition Incorporation	Never	
+Mandinka	3	LOOK AT	féle	Subject/Oblique Alternation	Never	
+Mandinka	4	SEE	jé	Active/Passive Alternation	Regularly	
+Mandinka	4	SEE	jé	Antipassive Middle	Regularly	
+Mandinka	4	SEE	jé	Causative Alternation	Never	
+Mandinka	4	SEE	jé	Causative Derivation 1	Never	
+Mandinka	4	SEE	jé	Causative Derivation 2	Regularly	
+Mandinka	4	SEE	jé	Deobjective Alternation	Never	
+Mandinka	4	SEE	jé	Intransitive/Middle Alternation	Never	
+Mandinka	4	SEE	jé	Noncausative Alternation	Never	
+Mandinka	4	SEE	jé	Object/Oblique Permutation	Never	
+Mandinka	4	SEE	jé	Oblique/Object Alternation	Never	
+Mandinka	4	SEE	jé	Postposition Incorporation	Never	
+Mandinka	4	SEE	jé	Subject/Oblique Alternation	Never	
+Mandinka	5	SMELL	súmbu	Active/Passive Alternation	Marginally	
+Mandinka	5	SMELL	súmbu	Antipassive Middle	Never	
+Mandinka	5	SMELL	súmbu	Causative Alternation	Never	
+Mandinka	5	SMELL	súmbu	Causative Derivation 1	Never	
+Mandinka	5	SMELL	súmbu	Causative Derivation 2	Marginally	
+Mandinka	5	SMELL	súmbu	Deobjective Alternation	Never	
+Mandinka	5	SMELL	súmbu	Intransitive/Middle Alternation	Never	
+Mandinka	5	SMELL	súmbu	Noncausative Alternation	Never	
+Mandinka	5	SMELL	súmbu	Object/Oblique Permutation	Never	
+Mandinka	5	SMELL	súmbu	Oblique/Object Alternation	Never	
+Mandinka	5	SMELL	súmbu	Postposition Incorporation	Never	
+Mandinka	5	SMELL	súmbu	Subject/Oblique Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Active/Passive Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Antipassive Middle	Never	
+Mandinka	6	FEAR	sílaŋ	Causative Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Causative Derivation 1	Regularly	
+Mandinka	6	FEAR	sílaŋ	Causative Derivation 2	Never	
+Mandinka	6	FEAR	sílaŋ	Deobjective Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Intransitive/Middle Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Noncausative Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Object/Oblique Permutation	Never	
+Mandinka	6	FEAR	sílaŋ	Oblique/Object Alternation	Never	
+Mandinka	6	FEAR	sílaŋ	Postposition Incorporation	Never	
+Mandinka	6	FEAR	sílaŋ	Subject/Oblique Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Active/Passive Alternation	Marginally	
+Mandinka	7	FRIGHTEN	sílándi	Antipassive Middle	Never	
+Mandinka	7	FRIGHTEN	sílándi	Causative Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Causative Derivation 1	Never	
+Mandinka	7	FRIGHTEN	sílándi	Causative Derivation 2	Marginally	
+Mandinka	7	FRIGHTEN	sílándi	Deobjective Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Intransitive/Middle Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Noncausative Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Object/Oblique Permutation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Oblique/Object Alternation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Postposition Incorporation	Never	
+Mandinka	7	FRIGHTEN	sílándi	Subject/Oblique Alternation	Never	
+Mandinka	8	LIKE	díyaa	Active/Passive Alternation	Never	
+Mandinka	8	LIKE	díyaa	Antipassive Middle	Never	
+Mandinka	8	LIKE	díyaa	Causative Alternation	Never	
+Mandinka	8	LIKE	díyaa	Causative Derivation 1	Regularly	
+Mandinka	8	LIKE	díyaa	Causative Derivation 2	Never	
+Mandinka	8	LIKE	díyaa	Deobjective Alternation	Never	
+Mandinka	8	LIKE	díyaa	Intransitive/Middle Alternation	Never	
+Mandinka	8	LIKE	díyaa	Noncausative Alternation	Never	
+Mandinka	8	LIKE	díyaa	Object/Oblique Permutation	Never	
+Mandinka	8	LIKE	díyaa	Oblique/Object Alternation	Never	
+Mandinka	8	LIKE	díyaa	Postposition Incorporation	Never	
+Mandinka	8	LIKE	díyaa	Subject/Oblique Alternation	Never	
+Mandinka	8	LIKE	kanu	Active/Passive Alternation	Marginally	
+Mandinka	8	LIKE	kanu	Antipassive Middle	Never	
+Mandinka	8	LIKE	kanu	Causative Alternation	Never	
+Mandinka	8	LIKE	kanu	Causative Derivation 1	Marginally	
+Mandinka	8	LIKE	kanu	Causative Derivation 2	Never	
+Mandinka	8	LIKE	kanu	Deobjective Alternation	Never	
+Mandinka	8	LIKE	kanu	Intransitive/Middle Alternation	Never	
+Mandinka	8	LIKE	kanu	Noncausative Alternation	Never	
+Mandinka	8	LIKE	kanu	Object/Oblique Permutation	Never	
+Mandinka	8	LIKE	kanu	Oblique/Object Alternation	Never	
+Mandinka	8	LIKE	kanu	Postposition Incorporation	Never	
+Mandinka	8	LIKE	kanu	Subject/Oblique Alternation	Never	
+Mandinka	8	LIKE	lafi	Active/Passive Alternation	Never	
+Mandinka	8	LIKE	lafi	Antipassive Middle	Never	
+Mandinka	8	LIKE	lafi	Causative Alternation	Never	
+Mandinka	8	LIKE	lafi	Causative Derivation 1	Regularly	
+Mandinka	8	LIKE	lafi	Causative Derivation 2	Never	
+Mandinka	8	LIKE	lafi	Deobjective Alternation	Never	
+Mandinka	8	LIKE	lafi	Intransitive/Middle Alternation	Never	
+Mandinka	8	LIKE	lafi	Noncausative Alternation	Never	
+Mandinka	8	LIKE	lafi	Object/Oblique Permutation	Never	
+Mandinka	8	LIKE	lafi	Oblique/Object Alternation	Never	
+Mandinka	8	LIKE	lafi	Postposition Incorporation	Never	
+Mandinka	8	LIKE	lafi	Subject/Oblique Alternation	Never	
+Mandinka	9	KNOW	lóŋ	Active/Passive Alternation	Regularly	
+Mandinka	9	KNOW	lóŋ	Antipassive Middle	Never	
+Mandinka	9	KNOW	lóŋ	Causative Alternation	Never	
+Mandinka	9	KNOW	lóŋ	Causative Derivation 1	Never	
+Mandinka	9	KNOW	lóŋ	Causative Derivation 2	Never	
+Mandinka	9	KNOW	lóŋ	Deobjective Alternation	Regularly	
+Mandinka	9	KNOW	lóŋ	Intransitive/Middle Alternation	Never	
+Mandinka	9	KNOW	lóŋ	Noncausative Alternation	Never	
+Mandinka	9	KNOW	lóŋ	Object/Oblique Permutation	Never	
+Mandinka	9	KNOW	lóŋ	Oblique/Object Alternation	Never	
+Mandinka	9	KNOW	lóŋ	Postposition Incorporation	Never	
+Mandinka	9	KNOW	lóŋ	Subject/Oblique Alternation	Never	
+Mandinka	10	THINK	í míira	Active/Passive Alternation	Never	
+Mandinka	10	THINK	í míira	Antipassive Middle	Never	
+Mandinka	10	THINK	í míira	Causative Alternation	Never	
+Mandinka	10	THINK	í míira	Causative Derivation 1	Never	
+Mandinka	10	THINK	í míira	Causative Derivation 2	Never	
+Mandinka	10	THINK	í míira	Deobjective Alternation	Never	
+Mandinka	10	THINK	í míira	Intransitive/Middle Alternation	Never	
+Mandinka	10	THINK	í míira	Noncausative Alternation	Never	
+Mandinka	10	THINK	í míira	Object/Oblique Permutation	Never	
+Mandinka	10	THINK	í míira	Oblique/Object Alternation	Never	
+Mandinka	10	THINK	í míira	Postposition Incorporation	Never	
+Mandinka	10	THINK	í míira	Subject/Oblique Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Active/Passive Alternation	Marginally	
+Mandinka	11	SEARCH FOR	ñíni	Antipassive Middle	Never	
+Mandinka	11	SEARCH FOR	ñíni	Causative Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Causative Derivation 1	Never	
+Mandinka	11	SEARCH FOR	ñíni	Causative Derivation 2	Marginally	
+Mandinka	11	SEARCH FOR	ñíni	Deobjective Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Intransitive/Middle Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Noncausative Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Object/Oblique Permutation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Oblique/Object Alternation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Postposition Incorporation	Never	
+Mandinka	11	SEARCH FOR	ñíni	Subject/Oblique Alternation	Never	
+Mandinka	12	WASH	kuu	Active/Passive Alternation	Regularly	
+Mandinka	12	WASH	kuu	Antipassive Middle	Never	
+Mandinka	12	WASH	kuu	Causative Alternation	Never	
+Mandinka	12	WASH	kuu	Causative Derivation 1	Never	
+Mandinka	12	WASH	kuu	Causative Derivation 2	Regularly	
+Mandinka	12	WASH	kuu	Deobjective Alternation	Never	
+Mandinka	12	WASH	kuu	Intransitive/Middle Alternation	Never	
+Mandinka	12	WASH	kuu	Noncausative Alternation	Never	
+Mandinka	12	WASH	kuu	Object/Oblique Permutation	Never	
+Mandinka	12	WASH	kuu	Oblique/Object Alternation	Never	
+Mandinka	12	WASH	kuu	Postposition Incorporation	Never	
+Mandinka	12	WASH	kuu	Subject/Oblique Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Active/Passive Alternation	Marginally	
+Mandinka	13	DRESS	duŋ (1)	Antipassive Middle	Regularly	
+Mandinka	13	DRESS	duŋ (1)	Causative Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Causative Derivation 1	Never	
+Mandinka	13	DRESS	duŋ (1)	Causative Derivation 2	Regularly	
+Mandinka	13	DRESS	duŋ (1)	Deobjective Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Intransitive/Middle Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Noncausative Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Object/Oblique Permutation	Never	
+Mandinka	13	DRESS	duŋ (1)	Oblique/Object Alternation	Never	
+Mandinka	13	DRESS	duŋ (1)	Postposition Incorporation	Never	
+Mandinka	13	DRESS	duŋ (1)	Subject/Oblique Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Active/Passive Alternation	Regularly	
+Mandinka	14	SHAVE (a body part/person)	líi	Antipassive Middle	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Causative Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Causative Derivation 1	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Causative Derivation 2	Regularly	
+Mandinka	14	SHAVE (a body part/person)	líi	Deobjective Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Intransitive/Middle Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Noncausative Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Object/Oblique Permutation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Oblique/Object Alternation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Postposition Incorporation	Never	
+Mandinka	14	SHAVE (a body part/person)	líi	Subject/Oblique Alternation	Never	
+Mandinka	15	HELP	máakóyi	Active/Passive Alternation	Marginally	
+Mandinka	15	HELP	máakóyi	Antipassive Middle	Never	
+Mandinka	15	HELP	máakóyi	Causative Alternation	Never	
+Mandinka	15	HELP	máakóyi	Causative Derivation 1	Never	
+Mandinka	15	HELP	máakóyi	Causative Derivation 2	Marginally	
+Mandinka	15	HELP	máakóyi	Deobjective Alternation	Never	
+Mandinka	15	HELP	máakóyi	Intransitive/Middle Alternation	Never	
+Mandinka	15	HELP	máakóyi	Noncausative Alternation	Never	
+Mandinka	15	HELP	máakóyi	Object/Oblique Permutation	Never	
+Mandinka	15	HELP	máakóyi	Oblique/Object Alternation	Never	
+Mandinka	15	HELP	máakóyi	Postposition Incorporation	Never	
+Mandinka	15	HELP	máakóyi	Subject/Oblique Alternation	Never	
+Mandinka	16	FOLLOW	bula (2)	Active/Passive Alternation	Never	
+Mandinka	16	FOLLOW	bula (2)	Antipassive Middle	No data	
+Mandinka	16	FOLLOW	bula (2)	Causative Alternation	Never	
+Mandinka	16	FOLLOW	bula (2)	Causative Derivation 1	No data	
+Mandinka	16	FOLLOW	bula (2)	Causative Derivation 2	No data	
+Mandinka	16	FOLLOW	bula (2)	Deobjective Alternation	No data	
+Mandinka	16	FOLLOW	bula (2)	Intransitive/Middle Alternation	No data	
+Mandinka	16	FOLLOW	bula (2)	Noncausative Alternation	No data	
+Mandinka	16	FOLLOW	bula (2)	Object/Oblique Permutation	No data	
+Mandinka	16	FOLLOW	bula (2)	Oblique/Object Alternation	No data	
+Mandinka	16	FOLLOW	bula (2)	Postposition Incorporation	No data	
+Mandinka	16	FOLLOW	bula (2)	Subject/Oblique Alternation	No data	
+Mandinka	16	FOLLOW	báyíndi	Active/Passive Alternation	Marginally	
+Mandinka	16	FOLLOW	báyíndi	Antipassive Middle	Never	
+Mandinka	16	FOLLOW	báyíndi	Causative Alternation	Never	
+Mandinka	16	FOLLOW	báyíndi	Causative Derivation 1	Never	
+Mandinka	16	FOLLOW	báyíndi	Causative Derivation 2	Marginally	
+Mandinka	16	FOLLOW	báyíndi	Deobjective Alternation	Never	
+Mandinka	16	FOLLOW	báyíndi	Intransitive/Middle Alternation	Never	
+Mandinka	16	FOLLOW	báyíndi	Noncausative Alternation	Never	
+Mandinka	16	FOLLOW	báyíndi	Object/Oblique Permutation	Never	
+Mandinka	16	FOLLOW	báyíndi	Oblique/Object Alternation	Never	
+Mandinka	16	FOLLOW	báyíndi	Postposition Incorporation	Never	
+Mandinka	16	FOLLOW	báyíndi	Subject/Oblique Alternation	Never	
+Mandinka	17	MEET	beŋ	Active/Passive Alternation	Never	
+Mandinka	17	MEET	beŋ	Antipassive Middle	Never	
+Mandinka	17	MEET	beŋ	Causative Alternation	Never	
+Mandinka	17	MEET	beŋ	Causative Derivation 1	Regularly	
+Mandinka	17	MEET	beŋ	Causative Derivation 2	Never	
+Mandinka	17	MEET	beŋ	Deobjective Alternation	Never	
+Mandinka	17	MEET	beŋ	Intransitive/Middle Alternation	Never	
+Mandinka	17	MEET	beŋ	Noncausative Alternation	Never	
+Mandinka	17	MEET	beŋ	Object/Oblique Permutation	Never	
+Mandinka	17	MEET	beŋ	Oblique/Object Alternation	Never	
+Mandinka	17	MEET	beŋ	Postposition Incorporation	Never	
+Mandinka	17	MEET	beŋ	Subject/Oblique Alternation	Never	
+Mandinka	17	MEET	tara	Active/Passive Alternation	Marginally	
+Mandinka	17	MEET	tara	Antipassive Middle	Never	
+Mandinka	17	MEET	tara	Causative Alternation	Never	
+Mandinka	17	MEET	tara	Causative Derivation 1	Never	
+Mandinka	17	MEET	tara	Causative Derivation 2	Never	
+Mandinka	17	MEET	tara	Deobjective Alternation	Never	
+Mandinka	17	MEET	tara	Intransitive/Middle Alternation	Never	
+Mandinka	17	MEET	tara	Noncausative Alternation	Regularly	
+Mandinka	17	MEET	tara	Object/Oblique Permutation	Never	
+Mandinka	17	MEET	tara	Oblique/Object Alternation	Never	
+Mandinka	17	MEET	tara	Postposition Incorporation	Never	
+Mandinka	17	MEET	tara	Subject/Oblique Alternation	Never	
+Mandinka	18	TALK	fó	Active/Passive Alternation	Regularly	
+Mandinka	18	TALK	fó	Antipassive Middle	Never	
+Mandinka	18	TALK	fó	Causative Alternation	Never	
+Mandinka	18	TALK	fó	Causative Derivation 1	Never	
+Mandinka	18	TALK	fó	Causative Derivation 2	Regularly	
+Mandinka	18	TALK	fó	Deobjective Alternation	Never	
+Mandinka	18	TALK	fó	Intransitive/Middle Alternation	Never	
+Mandinka	18	TALK	fó	Noncausative Alternation	Never	
+Mandinka	18	TALK	fó	Object/Oblique Permutation	Never	
+Mandinka	18	TALK	fó	Oblique/Object Alternation	Never	
+Mandinka	18	TALK	fó	Postposition Incorporation	Never	
+Mandinka	18	TALK	fó	Subject/Oblique Alternation	Never	
+Mandinka	18	TALK	kúma	Active/Passive Alternation	Never	
+Mandinka	18	TALK	kúma	Antipassive Middle	Never	
+Mandinka	18	TALK	kúma	Causative Alternation	Never	
+Mandinka	18	TALK	kúma	Causative Derivation 1	Regularly	
+Mandinka	18	TALK	kúma	Causative Derivation 2	Never	
+Mandinka	18	TALK	kúma	Deobjective Alternation	Never	
+Mandinka	18	TALK	kúma	Intransitive/Middle Alternation	Never	
+Mandinka	18	TALK	kúma	Noncausative Alternation	Never	
+Mandinka	18	TALK	kúma	Object/Oblique Permutation	Never	
+Mandinka	18	TALK	kúma	Oblique/Object Alternation	Never	
+Mandinka	18	TALK	kúma	Postposition Incorporation	Never	
+Mandinka	18	TALK	kúma	Subject/Oblique Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Active/Passive Alternation	Regularly	
+Mandinka	19	ASK FOR	dáani	Antipassive Middle	Never	
+Mandinka	19	ASK FOR	dáani	Causative Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Causative Derivation 1	Never	
+Mandinka	19	ASK FOR	dáani	Causative Derivation 2	Marginally	
+Mandinka	19	ASK FOR	dáani	Deobjective Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Intransitive/Middle Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Noncausative Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Object/Oblique Permutation	Regularly	
+Mandinka	19	ASK FOR	dáani	Oblique/Object Alternation	Never	
+Mandinka	19	ASK FOR	dáani	Postposition Incorporation	Never	
+Mandinka	19	ASK FOR	dáani	Subject/Oblique Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Active/Passive Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Antipassive Middle	Never	
+Mandinka	20	SHOUT AT	sári	Causative Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Causative Derivation 1	Marginally	
+Mandinka	20	SHOUT AT	sári	Causative Derivation 2	Never	
+Mandinka	20	SHOUT AT	sári	Deobjective Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Intransitive/Middle Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Noncausative Alternation	Never	
+Mandinka	20	SHOUT AT	sári	Object/Oblique Permutation	Never	
+Mandinka	20	SHOUT AT	sári	Oblique/Object Alternation	Regularly	
+Mandinka	20	SHOUT AT	sári	Postposition Incorporation	Never	
+Mandinka	20	SHOUT AT	sári	Subject/Oblique Alternation	Never	
+Mandinka	21	TELL	fó	Active/Passive Alternation	Regularly	
+Mandinka	21	TELL	fó	Antipassive Middle	Never	
+Mandinka	21	TELL	fó	Causative Alternation	Never	
+Mandinka	21	TELL	fó	Causative Derivation 1	Never	
+Mandinka	21	TELL	fó	Causative Derivation 2	Regularly	
+Mandinka	21	TELL	fó	Deobjective Alternation	Never	
+Mandinka	21	TELL	fó	Intransitive/Middle Alternation	Never	
+Mandinka	21	TELL	fó	Noncausative Alternation	Never	
+Mandinka	21	TELL	fó	Object/Oblique Permutation	Never	
+Mandinka	21	TELL	fó	Oblique/Object Alternation	Never	
+Mandinka	21	TELL	fó	Postposition Incorporation	Never	
+Mandinka	21	TELL	fó	Subject/Oblique Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Active/Passive Alternation	Regularly	
+Mandinka	21	TELL	no verbal counterpart	Antipassive Middle	Never	
+Mandinka	21	TELL	no verbal counterpart	Causative Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Causative Derivation 1	Never	
+Mandinka	21	TELL	no verbal counterpart	Causative Derivation 2	Regularly	
+Mandinka	21	TELL	no verbal counterpart	Deobjective Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Intransitive/Middle Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Noncausative Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Object/Oblique Permutation	Never	
+Mandinka	21	TELL	no verbal counterpart	Oblique/Object Alternation	Never	
+Mandinka	21	TELL	no verbal counterpart	Postposition Incorporation	Never	
+Mandinka	21	TELL	no verbal counterpart	Subject/Oblique Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Active/Passive Alternation	Regularly	
+Mandinka	23	NAME	kúmándi (2)	Antipassive Middle	Never	
+Mandinka	23	NAME	kúmándi (2)	Causative Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Causative Derivation 1	Never	
+Mandinka	23	NAME	kúmándi (2)	Causative Derivation 2	Regularly	
+Mandinka	23	NAME	kúmándi (2)	Deobjective Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Intransitive/Middle Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Noncausative Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Object/Oblique Permutation	Never	
+Mandinka	23	NAME	kúmándi (2)	Oblique/Object Alternation	Never	
+Mandinka	23	NAME	kúmándi (2)	Postposition Incorporation	Never	
+Mandinka	23	NAME	kúmándi (2)	Subject/Oblique Alternation	Never	
+Mandinka	23	NAME	tóo láa	Active/Passive Alternation	Regularly	
+Mandinka	23	NAME	tóo láa	Antipassive Middle	Never	
+Mandinka	23	NAME	tóo láa	Causative Alternation	Never	
+Mandinka	23	NAME	tóo láa	Causative Derivation 1	Never	
+Mandinka	23	NAME	tóo láa	Causative Derivation 2	Never	
+Mandinka	23	NAME	tóo láa	Deobjective Alternation	Never	
+Mandinka	23	NAME	tóo láa	Intransitive/Middle Alternation	Never	
+Mandinka	23	NAME	tóo láa	Noncausative Alternation	Never	
+Mandinka	23	NAME	tóo láa	Object/Oblique Permutation	Never	
+Mandinka	23	NAME	tóo láa	Oblique/Object Alternation	Never	
+Mandinka	23	NAME	tóo láa	Postposition Incorporation	Never	
+Mandinka	23	NAME	tóo láa	Subject/Oblique Alternation	Never	
+Mandinka	24	BUILD	loo	Active/Passive Alternation	Regularly	
+Mandinka	24	BUILD	loo	Antipassive Middle	Never	
+Mandinka	24	BUILD	loo	Causative Alternation	Never	
+Mandinka	24	BUILD	loo	Causative Derivation 1	Marginally	
+Mandinka	24	BUILD	loo	Causative Derivation 2	Regularly	
+Mandinka	24	BUILD	loo	Deobjective Alternation	Never	
+Mandinka	24	BUILD	loo	Intransitive/Middle Alternation	Regularly	
+Mandinka	24	BUILD	loo	Noncausative Alternation	Regularly	
+Mandinka	24	BUILD	loo	Object/Oblique Permutation	Never	
+Mandinka	24	BUILD	loo	Oblique/Object Alternation	Never	
+Mandinka	24	BUILD	loo	Postposition Incorporation	Never	
+Mandinka	24	BUILD	loo	Subject/Oblique Alternation	Never	
+Mandinka	25	BREAK	káti	Active/Passive Alternation	Regularly	
+Mandinka	25	BREAK	káti	Antipassive Middle	Never	
+Mandinka	25	BREAK	káti	Causative Alternation	Never	
+Mandinka	25	BREAK	káti	Causative Derivation 1	Never	
+Mandinka	25	BREAK	káti	Causative Derivation 2	Regularly	
+Mandinka	25	BREAK	káti	Deobjective Alternation	Never	
+Mandinka	25	BREAK	káti	Intransitive/Middle Alternation	Never	
+Mandinka	25	BREAK	káti	Noncausative Alternation	No data	
+Mandinka	25	BREAK	káti	Object/Oblique Permutation	Never	
+Mandinka	25	BREAK	káti	Oblique/Object Alternation	Never	
+Mandinka	25	BREAK	káti	Postposition Incorporation	Never	
+Mandinka	25	BREAK	káti	Subject/Oblique Alternation	Never	
+Mandinka	25	BREAK	teyi (1)	Active/Passive Alternation	Regularly	
+Mandinka	25	BREAK	teyi (1)	Antipassive Middle	Never	
+Mandinka	25	BREAK	teyi (1)	Causative Alternation	Never	
+Mandinka	25	BREAK	teyi (1)	Causative Derivation 1	Never	
+Mandinka	25	BREAK	teyi (1)	Causative Derivation 2	Regularly	
+Mandinka	25	BREAK	teyi (1)	Deobjective Alternation	Never	
+Mandinka	25	BREAK	teyi (1)	Intransitive/Middle Alternation	Never	
+Mandinka	25	BREAK	teyi (1)	Noncausative Alternation	Regularly	
+Mandinka	25	BREAK	teyi (1)	Object/Oblique Permutation	Never	
+Mandinka	25	BREAK	teyi (1)	Oblique/Object Alternation	Never	
+Mandinka	25	BREAK	teyi (1)	Postposition Incorporation	Never	
+Mandinka	25	BREAK	teyi (1)	Subject/Oblique Alternation	Never	
+Mandinka	26	KILL	faa (1)	Active/Passive Alternation	Marginally	
+Mandinka	26	KILL	faa (1)	Antipassive Middle	Never	
+Mandinka	26	KILL	faa (1)	Causative Alternation	No data	
+Mandinka	26	KILL	faa (1)	Causative Derivation 1	Never	
+Mandinka	26	KILL	faa (1)	Causative Derivation 2	Regularly	
+Mandinka	26	KILL	faa (1)	Deobjective Alternation	Never	
+Mandinka	26	KILL	faa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	26	KILL	faa (1)	Noncausative Alternation	Regularly	
+Mandinka	26	KILL	faa (1)	Object/Oblique Permutation	Never	
+Mandinka	26	KILL	faa (1)	Oblique/Object Alternation	Never	
+Mandinka	26	KILL	faa (1)	Postposition Incorporation	Never	
+Mandinka	26	KILL	faa (1)	Subject/Oblique Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Active/Passive Alternation	Regularly	
+Mandinka	27	BEAT	búsa (1)	Antipassive Middle	Never	
+Mandinka	27	BEAT	búsa (1)	Causative Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Causative Derivation 1	Never	
+Mandinka	27	BEAT	búsa (1)	Causative Derivation 2	Regularly	
+Mandinka	27	BEAT	búsa (1)	Deobjective Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Noncausative Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Object/Oblique Permutation	Never	
+Mandinka	27	BEAT	búsa (1)	Oblique/Object Alternation	Never	
+Mandinka	27	BEAT	búsa (1)	Postposition Incorporation	Never	
+Mandinka	27	BEAT	búsa (1)	Subject/Oblique Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Active/Passive Alternation	Regularly	
+Mandinka	28	HIT	búsa (1)	Antipassive Middle	Never	
+Mandinka	28	HIT	búsa (1)	Causative Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Causative Derivation 1	Never	
+Mandinka	28	HIT	búsa (1)	Causative Derivation 2	Regularly	
+Mandinka	28	HIT	búsa (1)	Deobjective Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Noncausative Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Object/Oblique Permutation	Never	
+Mandinka	28	HIT	búsa (1)	Oblique/Object Alternation	Never	
+Mandinka	28	HIT	búsa (1)	Postposition Incorporation	Never	
+Mandinka	28	HIT	búsa (1)	Subject/Oblique Alternation	Never	
+Mandinka	29	TOUCH	maa	Active/Passive Alternation	Marginally	
+Mandinka	29	TOUCH	maa	Antipassive Middle	Never	
+Mandinka	29	TOUCH	maa	Causative Alternation	Never	
+Mandinka	29	TOUCH	maa	Causative Derivation 1	Never	
+Mandinka	29	TOUCH	maa	Causative Derivation 2	Marginally	
+Mandinka	29	TOUCH	maa	Deobjective Alternation	Never	
+Mandinka	29	TOUCH	maa	Intransitive/Middle Alternation	Never	
+Mandinka	29	TOUCH	maa	Noncausative Alternation	Never	
+Mandinka	29	TOUCH	maa	Object/Oblique Permutation	Never	
+Mandinka	29	TOUCH	maa	Oblique/Object Alternation	Never	
+Mandinka	29	TOUCH	maa	Postposition Incorporation	Never	
+Mandinka	29	TOUCH	maa	Subject/Oblique Alternation	Never	
+Mandinka	30	CUT	kuntu	Active/Passive Alternation	Regularly	
+Mandinka	30	CUT	kuntu	Antipassive Middle	Never	
+Mandinka	30	CUT	kuntu	Causative Alternation	Never	
+Mandinka	30	CUT	kuntu	Causative Derivation 1	Never	
+Mandinka	30	CUT	kuntu	Causative Derivation 2	Regularly	
+Mandinka	30	CUT	kuntu	Deobjective Alternation	Never	
+Mandinka	30	CUT	kuntu	Intransitive/Middle Alternation	Never	
+Mandinka	30	CUT	kuntu	Noncausative Alternation	Never	
+Mandinka	30	CUT	kuntu	Object/Oblique Permutation	Never	
+Mandinka	30	CUT	kuntu	Oblique/Object Alternation	Never	
+Mandinka	30	CUT	kuntu	Postposition Incorporation	Never	
+Mandinka	30	CUT	kuntu	Subject/Oblique Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Active/Passive Alternation	Regularly	
+Mandinka	30	CUT	teyi (2)	Antipassive Middle	Never	
+Mandinka	30	CUT	teyi (2)	Causative Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Causative Derivation 1	Never	
+Mandinka	30	CUT	teyi (2)	Causative Derivation 2	Regularly	
+Mandinka	30	CUT	teyi (2)	Deobjective Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Intransitive/Middle Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Noncausative Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Object/Oblique Permutation	Never	
+Mandinka	30	CUT	teyi (2)	Oblique/Object Alternation	Never	
+Mandinka	30	CUT	teyi (2)	Postposition Incorporation	Never	
+Mandinka	30	CUT	teyi (2)	Subject/Oblique Alternation	Never	
+Mandinka	31	TAKE	taa	Active/Passive Alternation	Regularly	
+Mandinka	31	TAKE	taa	Antipassive Middle	Never	
+Mandinka	31	TAKE	taa	Causative Alternation	Never	
+Mandinka	31	TAKE	taa	Causative Derivation 1	Never	
+Mandinka	31	TAKE	taa	Causative Derivation 2	Regularly	
+Mandinka	31	TAKE	taa	Deobjective Alternation	Never	
+Mandinka	31	TAKE	taa	Intransitive/Middle Alternation	Never	
+Mandinka	31	TAKE	taa	Noncausative Alternation	Never	
+Mandinka	31	TAKE	taa	Object/Oblique Permutation	Never	
+Mandinka	31	TAKE	taa	Oblique/Object Alternation	Never	
+Mandinka	31	TAKE	taa	Postposition Incorporation	Never	
+Mandinka	31	TAKE	taa	Subject/Oblique Alternation	Never	
+Mandinka	32	TEAR	farasi	Active/Passive Alternation	Regularly	
+Mandinka	32	TEAR	farasi	Antipassive Middle	Never	
+Mandinka	32	TEAR	farasi	Causative Alternation	Never	
+Mandinka	32	TEAR	farasi	Causative Derivation 1	Never	
+Mandinka	32	TEAR	farasi	Causative Derivation 2	Regularly	
+Mandinka	32	TEAR	farasi	Deobjective Alternation	Never	
+Mandinka	32	TEAR	farasi	Intransitive/Middle Alternation	Never	
+Mandinka	32	TEAR	farasi	Noncausative Alternation	Never	
+Mandinka	32	TEAR	farasi	Object/Oblique Permutation	Never	
+Mandinka	32	TEAR	farasi	Oblique/Object Alternation	Never	
+Mandinka	32	TEAR	farasi	Postposition Incorporation	Never	
+Mandinka	32	TEAR	farasi	Subject/Oblique Alternation	Never	
+Mandinka	33	PEEL	bóndi	Active/Passive Alternation	Regularly	
+Mandinka	33	PEEL	bóndi	Antipassive Middle	Never	
+Mandinka	33	PEEL	bóndi	Causative Alternation	Never	
+Mandinka	33	PEEL	bóndi	Causative Derivation 1	Never	
+Mandinka	33	PEEL	bóndi	Causative Derivation 2	Regularly	
+Mandinka	33	PEEL	bóndi	Deobjective Alternation	Never	
+Mandinka	33	PEEL	bóndi	Intransitive/Middle Alternation	Never	
+Mandinka	33	PEEL	bóndi	Noncausative Alternation	Never	
+Mandinka	33	PEEL	bóndi	Object/Oblique Permutation	Never	
+Mandinka	33	PEEL	bóndi	Oblique/Object Alternation	Never	
+Mandinka	33	PEEL	bóndi	Postposition Incorporation	Never	
+Mandinka	33	PEEL	bóndi	Subject/Oblique Alternation	Never	
+Mandinka	33	PEEL	wóto	Active/Passive Alternation	Regularly	
+Mandinka	33	PEEL	wóto	Antipassive Middle	Never	
+Mandinka	33	PEEL	wóto	Causative Alternation	Never	
+Mandinka	33	PEEL	wóto	Causative Derivation 1	Never	
+Mandinka	33	PEEL	wóto	Causative Derivation 2	Regularly	
+Mandinka	33	PEEL	wóto	Deobjective Alternation	Never	
+Mandinka	33	PEEL	wóto	Intransitive/Middle Alternation	Never	
+Mandinka	33	PEEL	wóto	Noncausative Alternation	Never	
+Mandinka	33	PEEL	wóto	Object/Oblique Permutation	Never	
+Mandinka	33	PEEL	wóto	Oblique/Object Alternation	Never	
+Mandinka	33	PEEL	wóto	Postposition Incorporation	Never	
+Mandinka	33	PEEL	wóto	Subject/Oblique Alternation	Never	
+Mandinka	34	HIDE	maabo	Active/Passive Alternation	Regularly	
+Mandinka	34	HIDE	maabo	Antipassive Middle	Never	
+Mandinka	34	HIDE	maabo	Causative Alternation	Never	
+Mandinka	34	HIDE	maabo	Causative Derivation 1	Regularly	
+Mandinka	34	HIDE	maabo	Causative Derivation 2	Regularly	
+Mandinka	34	HIDE	maabo	Deobjective Alternation	Never	
+Mandinka	34	HIDE	maabo	Intransitive/Middle Alternation	Never	
+Mandinka	34	HIDE	maabo	Noncausative Alternation	Regularly	
+Mandinka	34	HIDE	maabo	Object/Oblique Permutation	Never	
+Mandinka	34	HIDE	maabo	Oblique/Object Alternation	Never	
+Mandinka	34	HIDE	maabo	Postposition Incorporation	Never	
+Mandinka	34	HIDE	maabo	Subject/Oblique Alternation	Never	
+Mandinka	35	SHOW	yitandi	Active/Passive Alternation	Regularly	
+Mandinka	35	SHOW	yitandi	Antipassive Middle	Never	
+Mandinka	35	SHOW	yitandi	Causative Alternation	Never	
+Mandinka	35	SHOW	yitandi	Causative Derivation 1	Never	
+Mandinka	35	SHOW	yitandi	Causative Derivation 2	Regularly	
+Mandinka	35	SHOW	yitandi	Deobjective Alternation	Never	
+Mandinka	35	SHOW	yitandi	Intransitive/Middle Alternation	Never	
+Mandinka	35	SHOW	yitandi	Noncausative Alternation	Never	
+Mandinka	35	SHOW	yitandi	Object/Oblique Permutation	Never	
+Mandinka	35	SHOW	yitandi	Oblique/Object Alternation	Never	
+Mandinka	35	SHOW	yitandi	Postposition Incorporation	Never	
+Mandinka	35	SHOW	yitandi	Subject/Oblique Alternation	Never	
+Mandinka	36	GIVE	díi	Active/Passive Alternation	Regularly	
+Mandinka	36	GIVE	díi	Antipassive Middle	Never	
+Mandinka	36	GIVE	díi	Causative Alternation	Never	
+Mandinka	36	GIVE	díi	Causative Derivation 1	Never	
+Mandinka	36	GIVE	díi	Causative Derivation 2	Marginally	
+Mandinka	36	GIVE	díi	Deobjective Alternation	Never	
+Mandinka	36	GIVE	díi	Intransitive/Middle Alternation	Never	
+Mandinka	36	GIVE	díi	Noncausative Alternation	Never	
+Mandinka	36	GIVE	díi	Object/Oblique Permutation	Never	
+Mandinka	36	GIVE	díi	Oblique/Object Alternation	Never	
+Mandinka	36	GIVE	díi	Postposition Incorporation	Never	
+Mandinka	36	GIVE	díi	Subject/Oblique Alternation	Never	
+Mandinka	36	GIVE	só	Active/Passive Alternation	Regularly	
+Mandinka	36	GIVE	só	Antipassive Middle	Never	
+Mandinka	36	GIVE	só	Causative Alternation	Never	
+Mandinka	36	GIVE	só	Causative Derivation 1	Never	
+Mandinka	36	GIVE	só	Causative Derivation 2	Never	
+Mandinka	36	GIVE	só	Deobjective Alternation	Never	
+Mandinka	36	GIVE	só	Intransitive/Middle Alternation	Never	
+Mandinka	36	GIVE	só	Noncausative Alternation	Never	
+Mandinka	36	GIVE	só	Object/Oblique Permutation	Never	
+Mandinka	36	GIVE	só	Oblique/Object Alternation	Never	
+Mandinka	36	GIVE	só	Postposition Incorporation	Never	
+Mandinka	36	GIVE	só	Subject/Oblique Alternation	Never	
+Mandinka	37	SEND	kíi	Active/Passive Alternation	Regularly	
+Mandinka	37	SEND	kíi	Antipassive Middle	Never	
+Mandinka	37	SEND	kíi	Causative Alternation	Never	
+Mandinka	37	SEND	kíi	Causative Derivation 1	Never	
+Mandinka	37	SEND	kíi	Causative Derivation 2	Regularly	
+Mandinka	37	SEND	kíi	Deobjective Alternation	Never	
+Mandinka	37	SEND	kíi	Intransitive/Middle Alternation	Never	
+Mandinka	37	SEND	kíi	Noncausative Alternation	Never	
+Mandinka	37	SEND	kíi	Object/Oblique Permutation	Never	
+Mandinka	37	SEND	kíi	Oblique/Object Alternation	Never	
+Mandinka	37	SEND	kíi	Postposition Incorporation	Never	
+Mandinka	37	SEND	kíi	Subject/Oblique Alternation	Never	
+Mandinka	38	CARRY	samba	Active/Passive Alternation	Regularly	
+Mandinka	38	CARRY	samba	Antipassive Middle	Never	
+Mandinka	38	CARRY	samba	Causative Alternation	Never	
+Mandinka	38	CARRY	samba	Causative Derivation 1	Never	
+Mandinka	38	CARRY	samba	Causative Derivation 2	Regularly	
+Mandinka	38	CARRY	samba	Deobjective Alternation	Never	
+Mandinka	38	CARRY	samba	Intransitive/Middle Alternation	Never	
+Mandinka	38	CARRY	samba	Noncausative Alternation	Never	
+Mandinka	38	CARRY	samba	Object/Oblique Permutation	Never	
+Mandinka	38	CARRY	samba	Oblique/Object Alternation	Never	
+Mandinka	38	CARRY	samba	Postposition Incorporation	Never	
+Mandinka	38	CARRY	samba	Subject/Oblique Alternation	Never	
+Mandinka	38	CARRY	táa (2)	Active/Passive Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Antipassive Middle	No data	
+Mandinka	38	CARRY	táa (2)	Causative Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Causative Derivation 1	No data	
+Mandinka	38	CARRY	táa (2)	Causative Derivation 2	No data	
+Mandinka	38	CARRY	táa (2)	Deobjective Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Intransitive/Middle Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Noncausative Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Object/Oblique Permutation	No data	
+Mandinka	38	CARRY	táa (2)	Oblique/Object Alternation	No data	
+Mandinka	38	CARRY	táa (2)	Postposition Incorporation	No data	
+Mandinka	38	CARRY	táa (2)	Subject/Oblique Alternation	No data	
+Mandinka	39	THROW	búŋ	Active/Passive Alternation	Regularly	
+Mandinka	39	THROW	búŋ	Antipassive Middle	Never	
+Mandinka	39	THROW	búŋ	Causative Alternation	No data	
+Mandinka	39	THROW	búŋ	Causative Derivation 1	Never	
+Mandinka	39	THROW	búŋ	Causative Derivation 2	Regularly	
+Mandinka	39	THROW	búŋ	Deobjective Alternation	Never	
+Mandinka	39	THROW	búŋ	Intransitive/Middle Alternation	Never	
+Mandinka	39	THROW	búŋ	Noncausative Alternation	Never	
+Mandinka	39	THROW	búŋ	Object/Oblique Permutation	Never	
+Mandinka	39	THROW	búŋ	Oblique/Object Alternation	Never	
+Mandinka	39	THROW	búŋ	Postposition Incorporation	Never	
+Mandinka	39	THROW	búŋ	Subject/Oblique Alternation	Never	
+Mandinka	39	THROW	fáyi	Active/Passive Alternation	Regularly	
+Mandinka	39	THROW	fáyi	Antipassive Middle	Never	
+Mandinka	39	THROW	fáyi	Causative Alternation	Never	
+Mandinka	39	THROW	fáyi	Causative Derivation 1	Never	
+Mandinka	39	THROW	fáyi	Causative Derivation 2	Regularly	
+Mandinka	39	THROW	fáyi	Deobjective Alternation	Never	
+Mandinka	39	THROW	fáyi	Intransitive/Middle Alternation	Never	
+Mandinka	39	THROW	fáyi	Noncausative Alternation	Never	
+Mandinka	39	THROW	fáyi	Object/Oblique Permutation	Never	
+Mandinka	39	THROW	fáyi	Oblique/Object Alternation	Never	
+Mandinka	39	THROW	fáyi	Postposition Incorporation	Never	
+Mandinka	39	THROW	fáyi	Subject/Oblique Alternation	Never	
+Mandinka	40	TIE	siti	Active/Passive Alternation	Regularly	
+Mandinka	40	TIE	siti	Antipassive Middle	Never	
+Mandinka	40	TIE	siti	Causative Alternation	Never	
+Mandinka	40	TIE	siti	Causative Derivation 1	Never	
+Mandinka	40	TIE	siti	Causative Derivation 2	Regularly	
+Mandinka	40	TIE	siti	Deobjective Alternation	Never	
+Mandinka	40	TIE	siti	Intransitive/Middle Alternation	Never	
+Mandinka	40	TIE	siti	Noncausative Alternation	Never	
+Mandinka	40	TIE	siti	Object/Oblique Permutation	Never	
+Mandinka	40	TIE	siti	Oblique/Object Alternation	Never	
+Mandinka	40	TIE	siti	Postposition Incorporation	Never	
+Mandinka	40	TIE	siti	Subject/Oblique Alternation	Never	
+Mandinka	41	PUT	bula (1)	Active/Passive Alternation	Marginally	
+Mandinka	41	PUT	bula (1)	Antipassive Middle	Never	
+Mandinka	41	PUT	bula (1)	Causative Alternation	Never	
+Mandinka	41	PUT	bula (1)	Causative Derivation 1	Regularly	
+Mandinka	41	PUT	bula (1)	Causative Derivation 2	Never	
+Mandinka	41	PUT	bula (1)	Deobjective Alternation	Never	
+Mandinka	41	PUT	bula (1)	Intransitive/Middle Alternation	Never	
+Mandinka	41	PUT	bula (1)	Noncausative Alternation	Marginally	
+Mandinka	41	PUT	bula (1)	Object/Oblique Permutation	Never	
+Mandinka	41	PUT	bula (1)	Oblique/Object Alternation	Never	
+Mandinka	41	PUT	bula (1)	Postposition Incorporation	Never	
+Mandinka	41	PUT	bula (1)	Subject/Oblique Alternation	Never	
+Mandinka	41	PUT	ké (1)	Active/Passive Alternation	Regularly	
+Mandinka	41	PUT	ké (1)	Antipassive Middle	Never	
+Mandinka	41	PUT	ké (1)	Causative Alternation	Never	
+Mandinka	41	PUT	ké (1)	Causative Derivation 1	Never	
+Mandinka	41	PUT	ké (1)	Causative Derivation 2	Regularly	
+Mandinka	41	PUT	ké (1)	Deobjective Alternation	Never	
+Mandinka	41	PUT	ké (1)	Intransitive/Middle Alternation	Never	
+Mandinka	41	PUT	ké (1)	Noncausative Alternation	Never	
+Mandinka	41	PUT	ké (1)	Object/Oblique Permutation	Never	
+Mandinka	41	PUT	ké (1)	Oblique/Object Alternation	Never	
+Mandinka	41	PUT	ké (1)	Postposition Incorporation	Never	
+Mandinka	41	PUT	ké (1)	Subject/Oblique Alternation	Never	
+Mandinka	41	PUT	láa (1)	Active/Passive Alternation	Regularly	
+Mandinka	41	PUT	láa (1)	Antipassive Middle	Never	
+Mandinka	41	PUT	láa (1)	Causative Alternation	Never	
+Mandinka	41	PUT	láa (1)	Causative Derivation 1	Regularly	
+Mandinka	41	PUT	láa (1)	Causative Derivation 2	Regularly	
+Mandinka	41	PUT	láa (1)	Deobjective Alternation	Never	
+Mandinka	41	PUT	láa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	41	PUT	láa (1)	Noncausative Alternation	No data	
+Mandinka	41	PUT	láa (1)	Object/Oblique Permutation	Never	
+Mandinka	41	PUT	láa (1)	Oblique/Object Alternation	Never	
+Mandinka	41	PUT	láa (1)	Postposition Incorporation	Never	
+Mandinka	41	PUT	láa (1)	Subject/Oblique Alternation	Never	
+Mandinka	42	POUR	boŋ	Active/Passive Alternation	Regularly	
+Mandinka	42	POUR	boŋ	Antipassive Middle	Never	
+Mandinka	42	POUR	boŋ	Causative Alternation	Never	
+Mandinka	42	POUR	boŋ	Causative Derivation 1	Never	
+Mandinka	42	POUR	boŋ	Causative Derivation 2	Regularly	
+Mandinka	42	POUR	boŋ	Deobjective Alternation	Never	
+Mandinka	42	POUR	boŋ	Intransitive/Middle Alternation	Never	
+Mandinka	42	POUR	boŋ	Noncausative Alternation	Never	
+Mandinka	42	POUR	boŋ	Object/Oblique Permutation	Never	
+Mandinka	42	POUR	boŋ	Oblique/Object Alternation	Never	
+Mandinka	42	POUR	boŋ	Postposition Incorporation	Never	
+Mandinka	42	POUR	boŋ	Subject/Oblique Alternation	Never	
+Mandinka	42	POUR	soo	Active/Passive Alternation	Regularly	
+Mandinka	42	POUR	soo	Antipassive Middle	Never	
+Mandinka	42	POUR	soo	Causative Alternation	Never	
+Mandinka	42	POUR	soo	Causative Derivation 1	Never	
+Mandinka	42	POUR	soo	Causative Derivation 2	Regularly	
+Mandinka	42	POUR	soo	Deobjective Alternation	Never	
+Mandinka	42	POUR	soo	Intransitive/Middle Alternation	Never	
+Mandinka	42	POUR	soo	Noncausative Alternation	Never	
+Mandinka	42	POUR	soo	Object/Oblique Permutation	Never	
+Mandinka	42	POUR	soo	Oblique/Object Alternation	Never	
+Mandinka	42	POUR	soo	Postposition Incorporation	Never	
+Mandinka	42	POUR	soo	Subject/Oblique Alternation	Never	
+Mandinka	43	COVER	múura	Active/Passive Alternation	Regularly	
+Mandinka	43	COVER	múura	Antipassive Middle	Never	
+Mandinka	43	COVER	múura	Causative Alternation	Never	
+Mandinka	43	COVER	múura	Causative Derivation 1	Never	
+Mandinka	43	COVER	múura	Causative Derivation 2	Regularly	
+Mandinka	43	COVER	múura	Deobjective Alternation	Never	
+Mandinka	43	COVER	múura	Intransitive/Middle Alternation	Never	
+Mandinka	43	COVER	múura	Noncausative Alternation	Never	
+Mandinka	43	COVER	múura	Object/Oblique Permutation	Never	
+Mandinka	43	COVER	múura	Oblique/Object Alternation	Never	
+Mandinka	43	COVER	múura	Postposition Incorporation	Never	
+Mandinka	43	COVER	múura	Subject/Oblique Alternation	Never	
+Mandinka	44	FILL	fándi	Active/Passive Alternation	Regularly	
+Mandinka	44	FILL	fándi	Antipassive Middle	Never	
+Mandinka	44	FILL	fándi	Causative Alternation	Never	
+Mandinka	44	FILL	fándi	Causative Derivation 1	Never	
+Mandinka	44	FILL	fándi	Causative Derivation 2	Regularly	
+Mandinka	44	FILL	fándi	Deobjective Alternation	Never	
+Mandinka	44	FILL	fándi	Intransitive/Middle Alternation	Never	
+Mandinka	44	FILL	fándi	Noncausative Alternation	Never	
+Mandinka	44	FILL	fándi	Object/Oblique Permutation	Never	
+Mandinka	44	FILL	fándi	Oblique/Object Alternation	Never	
+Mandinka	44	FILL	fándi	Postposition Incorporation	Never	
+Mandinka	44	FILL	fándi	Subject/Oblique Alternation	Never	
+Mandinka	45	LOAD	láa (1)	Active/Passive Alternation	Regularly	
+Mandinka	45	LOAD	láa (1)	Antipassive Middle	Never	
+Mandinka	45	LOAD	láa (1)	Causative Alternation	Never	
+Mandinka	45	LOAD	láa (1)	Causative Derivation 1	Regularly	
+Mandinka	45	LOAD	láa (1)	Causative Derivation 2	Regularly	
+Mandinka	45	LOAD	láa (1)	Deobjective Alternation	Never	
+Mandinka	45	LOAD	láa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	45	LOAD	láa (1)	Noncausative Alternation	No data	
+Mandinka	45	LOAD	láa (1)	Object/Oblique Permutation	Never	
+Mandinka	45	LOAD	láa (1)	Oblique/Object Alternation	Never	
+Mandinka	45	LOAD	láa (1)	Postposition Incorporation	Never	
+Mandinka	45	LOAD	láa (1)	Subject/Oblique Alternation	Never	
+Mandinka	46	BLINK	ñâa káti	Active/Passive Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Antipassive Middle	No data	
+Mandinka	46	BLINK	ñâa káti	Causative Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Causative Derivation 1	No data	
+Mandinka	46	BLINK	ñâa káti	Causative Derivation 2	No data	
+Mandinka	46	BLINK	ñâa káti	Deobjective Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Intransitive/Middle Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Noncausative Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Object/Oblique Permutation	No data	
+Mandinka	46	BLINK	ñâa káti	Oblique/Object Alternation	No data	
+Mandinka	46	BLINK	ñâa káti	Postposition Incorporation	No data	
+Mandinka	46	BLINK	ñâa káti	Subject/Oblique Alternation	No data	
+Mandinka	47	COUGH	tootoo	Active/Passive Alternation	Never	
+Mandinka	47	COUGH	tootoo	Antipassive Middle	Never	
+Mandinka	47	COUGH	tootoo	Causative Alternation	Never	
+Mandinka	47	COUGH	tootoo	Causative Derivation 1	Regularly	
+Mandinka	47	COUGH	tootoo	Causative Derivation 2	Never	
+Mandinka	47	COUGH	tootoo	Deobjective Alternation	Never	
+Mandinka	47	COUGH	tootoo	Intransitive/Middle Alternation	Never	
+Mandinka	47	COUGH	tootoo	Noncausative Alternation	Never	
+Mandinka	47	COUGH	tootoo	Object/Oblique Permutation	Never	
+Mandinka	47	COUGH	tootoo	Oblique/Object Alternation	Never	
+Mandinka	47	COUGH	tootoo	Postposition Incorporation	Never	
+Mandinka	47	COUGH	tootoo	Subject/Oblique Alternation	Never	
+Mandinka	48	CLIMB	sele	Active/Passive Alternation	Never	
+Mandinka	48	CLIMB	sele	Antipassive Middle	Never	
+Mandinka	48	CLIMB	sele	Causative Alternation	Never	
+Mandinka	48	CLIMB	sele	Causative Derivation 1	Regularly	
+Mandinka	48	CLIMB	sele	Causative Derivation 2	Never	
+Mandinka	48	CLIMB	sele	Deobjective Alternation	Never	
+Mandinka	48	CLIMB	sele	Intransitive/Middle Alternation	Never	
+Mandinka	48	CLIMB	sele	Noncausative Alternation	Never	
+Mandinka	48	CLIMB	sele	Object/Oblique Permutation	Never	
+Mandinka	48	CLIMB	sele	Oblique/Object Alternation	Regularly	
+Mandinka	48	CLIMB	sele	Postposition Incorporation	Never	
+Mandinka	48	CLIMB	sele	Subject/Oblique Alternation	Never	
+Mandinka	49	RUN	bori	Active/Passive Alternation	Never	
+Mandinka	49	RUN	bori	Antipassive Middle	Never	
+Mandinka	49	RUN	bori	Causative Alternation	Marginally	
+Mandinka	49	RUN	bori	Causative Derivation 1	Regularly	
+Mandinka	49	RUN	bori	Causative Derivation 2	Never	
+Mandinka	49	RUN	bori	Deobjective Alternation	Never	
+Mandinka	49	RUN	bori	Intransitive/Middle Alternation	Regularly	
+Mandinka	49	RUN	bori	Noncausative Alternation	No data	
+Mandinka	49	RUN	bori	Object/Oblique Permutation	Never	
+Mandinka	49	RUN	bori	Oblique/Object Alternation	Never	
+Mandinka	49	RUN	bori	Postposition Incorporation	Never	
+Mandinka	49	RUN	bori	Subject/Oblique Alternation	Never	
+Mandinka	50	SIT	sii	Active/Passive Alternation	Never	
+Mandinka	50	SIT	sii	Antipassive Middle	Never	
+Mandinka	50	SIT	sii	Causative Alternation	Never	
+Mandinka	50	SIT	sii	Causative Derivation 1	Regularly	
+Mandinka	50	SIT	sii	Causative Derivation 2	Never	
+Mandinka	50	SIT	sii	Deobjective Alternation	Never	
+Mandinka	50	SIT	sii	Intransitive/Middle Alternation	Never	
+Mandinka	50	SIT	sii	Noncausative Alternation	Never	
+Mandinka	50	SIT	sii	Object/Oblique Permutation	Never	
+Mandinka	50	SIT	sii	Oblique/Object Alternation	Never	
+Mandinka	50	SIT	sii	Postposition Incorporation	Never	
+Mandinka	50	SIT	sii	Subject/Oblique Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Active/Passive Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Antipassive Middle	Never	
+Mandinka	51	SIT DOWN	sii	Causative Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Causative Derivation 1	Regularly	
+Mandinka	51	SIT DOWN	sii	Causative Derivation 2	Never	
+Mandinka	51	SIT DOWN	sii	Deobjective Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Intransitive/Middle Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Noncausative Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Object/Oblique Permutation	Never	
+Mandinka	51	SIT DOWN	sii	Oblique/Object Alternation	Never	
+Mandinka	51	SIT DOWN	sii	Postposition Incorporation	Never	
+Mandinka	51	SIT DOWN	sii	Subject/Oblique Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Active/Passive Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Antipassive Middle	Never	
+Mandinka	52	JUMP	sawuŋ	Causative Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Causative Derivation 1	Regularly	
+Mandinka	52	JUMP	sawuŋ	Causative Derivation 2	Never	
+Mandinka	52	JUMP	sawuŋ	Deobjective Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Intransitive/Middle Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Noncausative Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Object/Oblique Permutation	Never	
+Mandinka	52	JUMP	sawuŋ	Oblique/Object Alternation	Never	
+Mandinka	52	JUMP	sawuŋ	Postposition Incorporation	Never	
+Mandinka	52	JUMP	sawuŋ	Subject/Oblique Alternation	Never	
+Mandinka	54	GO	táa (1)	Active/Passive Alternation	Never	
+Mandinka	54	GO	táa (1)	Antipassive Middle	Never	
+Mandinka	54	GO	táa (1)	Causative Alternation	Never	
+Mandinka	54	GO	táa (1)	Causative Derivation 1	Never	
+Mandinka	54	GO	táa (1)	Causative Derivation 2	Never	
+Mandinka	54	GO	táa (1)	Deobjective Alternation	Never	
+Mandinka	54	GO	táa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	54	GO	táa (1)	Noncausative Alternation	Never	
+Mandinka	54	GO	táa (1)	Object/Oblique Permutation	Never	
+Mandinka	54	GO	táa (1)	Oblique/Object Alternation	Never	
+Mandinka	54	GO	táa (1)	Postposition Incorporation	Never	
+Mandinka	54	GO	táa (1)	Subject/Oblique Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Active/Passive Alternation	Regularly	
+Mandinka	55	LEAVE	bula (3)	Antipassive Middle	Never	
+Mandinka	55	LEAVE	bula (3)	Causative Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Causative Derivation 1	Never	
+Mandinka	55	LEAVE	bula (3)	Causative Derivation 2	Regularly	
+Mandinka	55	LEAVE	bula (3)	Deobjective Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Intransitive/Middle Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Noncausative Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Object/Oblique Permutation	Never	
+Mandinka	55	LEAVE	bula (3)	Oblique/Object Alternation	Never	
+Mandinka	55	LEAVE	bula (3)	Postposition Incorporation	Never	
+Mandinka	55	LEAVE	bula (3)	Subject/Oblique Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Active/Passive Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Antipassive Middle	Never	
+Mandinka	55	LEAVE	bó (1)	Causative Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Causative Derivation 1	Regularly	
+Mandinka	55	LEAVE	bó (1)	Causative Derivation 2	Never	
+Mandinka	55	LEAVE	bó (1)	Deobjective Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Intransitive/Middle Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Noncausative Alternation	No data	
+Mandinka	55	LEAVE	bó (1)	Object/Oblique Permutation	Never	
+Mandinka	55	LEAVE	bó (1)	Oblique/Object Alternation	Never	
+Mandinka	55	LEAVE	bó (1)	Postposition Incorporation	Never	
+Mandinka	55	LEAVE	bó (1)	Subject/Oblique Alternation	Never	
+Mandinka	56	LIVE	báluu	Active/Passive Alternation	Never	
+Mandinka	56	LIVE	báluu	Antipassive Middle	Never	
+Mandinka	56	LIVE	báluu	Causative Alternation	Never	
+Mandinka	56	LIVE	báluu	Causative Derivation 1	Regularly	
+Mandinka	56	LIVE	báluu	Causative Derivation 2	Never	
+Mandinka	56	LIVE	báluu	Deobjective Alternation	Never	
+Mandinka	56	LIVE	báluu	Intransitive/Middle Alternation	Never	
+Mandinka	56	LIVE	báluu	Noncausative Alternation	Never	
+Mandinka	56	LIVE	báluu	Object/Oblique Permutation	Never	
+Mandinka	56	LIVE	báluu	Oblique/Object Alternation	Never	
+Mandinka	56	LIVE	báluu	Postposition Incorporation	Never	
+Mandinka	56	LIVE	báluu	Subject/Oblique Alternation	Never	
+Mandinka	56	LIVE	sii	Active/Passive Alternation	Never	
+Mandinka	56	LIVE	sii	Antipassive Middle	Never	
+Mandinka	56	LIVE	sii	Causative Alternation	Never	
+Mandinka	56	LIVE	sii	Causative Derivation 1	Regularly	
+Mandinka	56	LIVE	sii	Causative Derivation 2	Never	
+Mandinka	56	LIVE	sii	Deobjective Alternation	Never	
+Mandinka	56	LIVE	sii	Intransitive/Middle Alternation	Never	
+Mandinka	56	LIVE	sii	Noncausative Alternation	Never	
+Mandinka	56	LIVE	sii	Object/Oblique Permutation	Never	
+Mandinka	56	LIVE	sii	Oblique/Object Alternation	Never	
+Mandinka	56	LIVE	sii	Postposition Incorporation	Never	
+Mandinka	56	LIVE	sii	Subject/Oblique Alternation	Never	
+Mandinka	57	LAUGH	jéle	Active/Passive Alternation	Never	
+Mandinka	57	LAUGH	jéle	Antipassive Middle	Never	
+Mandinka	57	LAUGH	jéle	Causative Alternation	Never	
+Mandinka	57	LAUGH	jéle	Causative Derivation 1	Regularly	
+Mandinka	57	LAUGH	jéle	Causative Derivation 2	Never	
+Mandinka	57	LAUGH	jéle	Deobjective Alternation	Never	
+Mandinka	57	LAUGH	jéle	Intransitive/Middle Alternation	Never	
+Mandinka	57	LAUGH	jéle	Noncausative Alternation	Never	
+Mandinka	57	LAUGH	jéle	Object/Oblique Permutation	Never	
+Mandinka	57	LAUGH	jéle	Oblique/Object Alternation	Regularly	
+Mandinka	57	LAUGH	jéle	Postposition Incorporation	Never	
+Mandinka	57	LAUGH	jéle	Subject/Oblique Alternation	Never	
+Mandinka	58	SCREAM	sári	Active/Passive Alternation	Never	
+Mandinka	58	SCREAM	sári	Antipassive Middle	Never	
+Mandinka	58	SCREAM	sári	Causative Alternation	Never	
+Mandinka	58	SCREAM	sári	Causative Derivation 1	Marginally	
+Mandinka	58	SCREAM	sári	Causative Derivation 2	Never	
+Mandinka	58	SCREAM	sári	Deobjective Alternation	Never	
+Mandinka	58	SCREAM	sári	Intransitive/Middle Alternation	Never	
+Mandinka	58	SCREAM	sári	Noncausative Alternation	Never	
+Mandinka	58	SCREAM	sári	Object/Oblique Permutation	Never	
+Mandinka	58	SCREAM	sári	Oblique/Object Alternation	Regularly	
+Mandinka	58	SCREAM	sári	Postposition Incorporation	Never	
+Mandinka	58	SCREAM	sári	Subject/Oblique Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Active/Passive Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Antipassive Middle	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Causative Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Causative Derivation 1	Regularly	
+Mandinka	59	FEEL PAIN	dímiŋ	Causative Derivation 2	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Deobjective Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Intransitive/Middle Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Noncausative Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Object/Oblique Permutation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Oblique/Object Alternation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Postposition Incorporation	Never	
+Mandinka	59	FEEL PAIN	dímiŋ	Subject/Oblique Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Active/Passive Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Antipassive Middle	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Causative Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Causative Derivation 1	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Causative Derivation 2	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Deobjective Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Intransitive/Middle Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Noncausative Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Object/Oblique Permutation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Oblique/Object Alternation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Postposition Incorporation	Never	
+Mandinka	60	FEEL COLD	no verbal counterpart	Subject/Oblique Alternation	Never	
+Mandinka	61	DIE	faa (2)	Active/Passive Alternation	No data	
+Mandinka	61	DIE	faa (2)	Antipassive Middle	No data	
+Mandinka	61	DIE	faa (2)	Causative Alternation	No data	
+Mandinka	61	DIE	faa (2)	Causative Derivation 1	No data	
+Mandinka	61	DIE	faa (2)	Causative Derivation 2	No data	
+Mandinka	61	DIE	faa (2)	Deobjective Alternation	No data	
+Mandinka	61	DIE	faa (2)	Intransitive/Middle Alternation	No data	
+Mandinka	61	DIE	faa (2)	Noncausative Alternation	No data	
+Mandinka	61	DIE	faa (2)	Object/Oblique Permutation	No data	
+Mandinka	61	DIE	faa (2)	Oblique/Object Alternation	No data	
+Mandinka	61	DIE	faa (2)	Postposition Incorporation	No data	
+Mandinka	61	DIE	faa (2)	Subject/Oblique Alternation	No data	
+Mandinka	61	DIE	saa	Active/Passive Alternation	Never	
+Mandinka	61	DIE	saa	Antipassive Middle	Never	
+Mandinka	61	DIE	saa	Causative Alternation	Never	
+Mandinka	61	DIE	saa	Causative Derivation 1	Never	
+Mandinka	61	DIE	saa	Causative Derivation 2	Never	
+Mandinka	61	DIE	saa	Deobjective Alternation	Never	
+Mandinka	61	DIE	saa	Intransitive/Middle Alternation	Never	
+Mandinka	61	DIE	saa	Noncausative Alternation	Never	
+Mandinka	61	DIE	saa	Object/Oblique Permutation	Never	
+Mandinka	61	DIE	saa	Oblique/Object Alternation	Never	
+Mandinka	61	DIE	saa	Postposition Incorporation	Never	
+Mandinka	61	DIE	saa	Subject/Oblique Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Active/Passive Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Antipassive Middle	Never	
+Mandinka	62	PLAY	túluŋ	Causative Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Causative Derivation 1	Regularly	
+Mandinka	62	PLAY	túluŋ	Causative Derivation 2	Never	
+Mandinka	62	PLAY	túluŋ	Deobjective Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Intransitive/Middle Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Noncausative Alternation	Never	
+Mandinka	62	PLAY	túluŋ	Object/Oblique Permutation	Never	
+Mandinka	62	PLAY	túluŋ	Oblique/Object Alternation	Regularly	
+Mandinka	62	PLAY	túluŋ	Postposition Incorporation	Never	
+Mandinka	62	PLAY	túluŋ	Subject/Oblique Alternation	Never	
+Mandinka	63	BE SAD	sunu	Active/Passive Alternation	Never	
+Mandinka	63	BE SAD	sunu	Antipassive Middle	Never	
+Mandinka	63	BE SAD	sunu	Causative Alternation	Regularly	
+Mandinka	63	BE SAD	sunu	Causative Derivation 1	Regularly	
+Mandinka	63	BE SAD	sunu	Causative Derivation 2	Never	
+Mandinka	63	BE SAD	sunu	Deobjective Alternation	Never	
+Mandinka	63	BE SAD	sunu	Intransitive/Middle Alternation	Never	
+Mandinka	63	BE SAD	sunu	Noncausative Alternation	No data	
+Mandinka	63	BE SAD	sunu	Object/Oblique Permutation	Never	
+Mandinka	63	BE SAD	sunu	Oblique/Object Alternation	Never	
+Mandinka	63	BE SAD	sunu	Postposition Incorporation	Never	
+Mandinka	63	BE SAD	sunu	Subject/Oblique Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Active/Passive Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Antipassive Middle	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Causative Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Causative Derivation 1	Regularly	
+Mandinka	64	BE HUNGRY	kóŋko	Causative Derivation 2	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Deobjective Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Intransitive/Middle Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Noncausative Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Object/Oblique Permutation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Oblique/Object Alternation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Postposition Incorporation	Never	
+Mandinka	64	BE HUNGRY	kóŋko	Subject/Oblique Alternation	Never	
+Mandinka	65	ROLL	bori	Active/Passive Alternation	Never	
+Mandinka	65	ROLL	bori	Antipassive Middle	Never	
+Mandinka	65	ROLL	bori	Causative Alternation	Marginally	
+Mandinka	65	ROLL	bori	Causative Derivation 1	Regularly	
+Mandinka	65	ROLL	bori	Causative Derivation 2	Never	
+Mandinka	65	ROLL	bori	Deobjective Alternation	Never	
+Mandinka	65	ROLL	bori	Intransitive/Middle Alternation	Regularly	
+Mandinka	65	ROLL	bori	Noncausative Alternation	No data	
+Mandinka	65	ROLL	bori	Object/Oblique Permutation	Never	
+Mandinka	65	ROLL	bori	Oblique/Object Alternation	Never	
+Mandinka	65	ROLL	bori	Postposition Incorporation	Never	
+Mandinka	65	ROLL	bori	Subject/Oblique Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Active/Passive Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Antipassive Middle	Never	
+Mandinka	66	SINK	túuneŋ	Causative Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Causative Derivation 1	Regularly	
+Mandinka	66	SINK	túuneŋ	Causative Derivation 2	Never	
+Mandinka	66	SINK	túuneŋ	Deobjective Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Intransitive/Middle Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Noncausative Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Object/Oblique Permutation	Never	
+Mandinka	66	SINK	túuneŋ	Oblique/Object Alternation	Never	
+Mandinka	66	SINK	túuneŋ	Postposition Incorporation	Never	
+Mandinka	66	SINK	túuneŋ	Subject/Oblique Alternation	Never	
+Mandinka	67	BURN	jani	Active/Passive Alternation	Never	
+Mandinka	67	BURN	jani	Antipassive Middle	Never	
+Mandinka	67	BURN	jani	Causative Alternation	Regularly	
+Mandinka	67	BURN	jani	Causative Derivation 1	Never	
+Mandinka	67	BURN	jani	Causative Derivation 2	Never	
+Mandinka	67	BURN	jani	Deobjective Alternation	Never	
+Mandinka	67	BURN	jani	Intransitive/Middle Alternation	Never	
+Mandinka	67	BURN	jani	Noncausative Alternation	No data	
+Mandinka	67	BURN	jani	Object/Oblique Permutation	Never	
+Mandinka	67	BURN	jani	Oblique/Object Alternation	Never	
+Mandinka	67	BURN	jani	Postposition Incorporation	Never	
+Mandinka	67	BURN	jani	Subject/Oblique Alternation	Never	
+Mandinka	68	BE DRY	jaa	Active/Passive Alternation	Never	
+Mandinka	68	BE DRY	jaa	Antipassive Middle	Never	
+Mandinka	68	BE DRY	jaa	Causative Alternation	Never	
+Mandinka	68	BE DRY	jaa	Causative Derivation 1	Regularly	
+Mandinka	68	BE DRY	jaa	Causative Derivation 2	Never	
+Mandinka	68	BE DRY	jaa	Deobjective Alternation	Never	
+Mandinka	68	BE DRY	jaa	Intransitive/Middle Alternation	Never	
+Mandinka	68	BE DRY	jaa	Noncausative Alternation	Never	
+Mandinka	68	BE DRY	jaa	Object/Oblique Permutation	Never	
+Mandinka	68	BE DRY	jaa	Oblique/Object Alternation	Never	
+Mandinka	68	BE DRY	jaa	Postposition Incorporation	Never	
+Mandinka	68	BE DRY	jaa	Subject/Oblique Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Active/Passive Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Antipassive Middle	Never	
+Mandinka	69	RAIN	no verbal counterpart	Causative Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Causative Derivation 1	Never	
+Mandinka	69	RAIN	no verbal counterpart	Causative Derivation 2	Never	
+Mandinka	69	RAIN	no verbal counterpart	Deobjective Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Intransitive/Middle Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Noncausative Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Object/Oblique Permutation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Oblique/Object Alternation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Postposition Incorporation	Never	
+Mandinka	69	RAIN	no verbal counterpart	Subject/Oblique Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Active/Passive Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Antipassive Middle	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Causative Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Causative Derivation 1	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Causative Derivation 2	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Deobjective Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Intransitive/Middle Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Noncausative Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Object/Oblique Permutation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Oblique/Object Alternation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Postposition Incorporation	Never	
+Mandinka	70	BE A HUNTER	no verbal counterpart	Subject/Oblique Alternation	Never	
+Mandinka	71	GRIND	síi	Active/Passive Alternation	Regularly	
+Mandinka	71	GRIND	síi	Antipassive Middle	Never	
+Mandinka	71	GRIND	síi	Causative Alternation	Never	
+Mandinka	71	GRIND	síi	Causative Derivation 1	Never	
+Mandinka	71	GRIND	síi	Causative Derivation 2	Regularly	
+Mandinka	71	GRIND	síi	Deobjective Alternation	Never	
+Mandinka	71	GRIND	síi	Intransitive/Middle Alternation	Never	
+Mandinka	71	GRIND	síi	Noncausative Alternation	Never	
+Mandinka	71	GRIND	síi	Object/Oblique Permutation	Never	
+Mandinka	71	GRIND	síi	Oblique/Object Alternation	Never	
+Mandinka	71	GRIND	síi	Postposition Incorporation	Never	
+Mandinka	71	GRIND	síi	Subject/Oblique Alternation	Never	
+Mandinka	72	WIPE	fíta	Active/Passive Alternation	Regularly	
+Mandinka	72	WIPE	fíta	Antipassive Middle	Never	
+Mandinka	72	WIPE	fíta	Causative Alternation	Never	
+Mandinka	72	WIPE	fíta	Causative Derivation 1	Never	
+Mandinka	72	WIPE	fíta	Causative Derivation 2	Regularly	
+Mandinka	72	WIPE	fíta	Deobjective Alternation	Never	
+Mandinka	72	WIPE	fíta	Intransitive/Middle Alternation	Never	
+Mandinka	72	WIPE	fíta	Noncausative Alternation	Never	
+Mandinka	72	WIPE	fíta	Object/Oblique Permutation	Never	
+Mandinka	72	WIPE	fíta	Oblique/Object Alternation	Never	
+Mandinka	72	WIPE	fíta	Postposition Incorporation	Never	
+Mandinka	72	WIPE	fíta	Subject/Oblique Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Active/Passive Alternation	Regularly	
+Mandinka	72	WIPE	kóŋkoŋ	Antipassive Middle	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Causative Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Causative Derivation 1	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Causative Derivation 2	Regularly	
+Mandinka	72	WIPE	kóŋkoŋ	Deobjective Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Intransitive/Middle Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Noncausative Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Object/Oblique Permutation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Oblique/Object Alternation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Postposition Incorporation	Never	
+Mandinka	72	WIPE	kóŋkoŋ	Subject/Oblique Alternation	Never	
+Mandinka	73	DIG	siŋ	Active/Passive Alternation	Regularly	
+Mandinka	73	DIG	siŋ	Antipassive Middle	Never	
+Mandinka	73	DIG	siŋ	Causative Alternation	Never	
+Mandinka	73	DIG	siŋ	Causative Derivation 1	Never	
+Mandinka	73	DIG	siŋ	Causative Derivation 2	Regularly	
+Mandinka	73	DIG	siŋ	Deobjective Alternation	Never	
+Mandinka	73	DIG	siŋ	Intransitive/Middle Alternation	Never	
+Mandinka	73	DIG	siŋ	Noncausative Alternation	Never	
+Mandinka	73	DIG	siŋ	Object/Oblique Permutation	Never	
+Mandinka	73	DIG	siŋ	Oblique/Object Alternation	Never	
+Mandinka	73	DIG	siŋ	Postposition Incorporation	Never	
+Mandinka	73	DIG	siŋ	Subject/Oblique Alternation	Never	
+Mandinka	74	PUSH	ñori	Active/Passive Alternation	Marginally	
+Mandinka	74	PUSH	ñori	Antipassive Middle	Never	
+Mandinka	74	PUSH	ñori	Causative Alternation	No data	
+Mandinka	74	PUSH	ñori	Causative Derivation 1	Regularly	
+Mandinka	74	PUSH	ñori	Causative Derivation 2	Never	
+Mandinka	74	PUSH	ñori	Deobjective Alternation	Never	
+Mandinka	74	PUSH	ñori	Intransitive/Middle Alternation	Never	
+Mandinka	74	PUSH	ñori	Noncausative Alternation	No data	
+Mandinka	74	PUSH	ñori	Object/Oblique Permutation	Never	
+Mandinka	74	PUSH	ñori	Oblique/Object Alternation	Never	
+Mandinka	74	PUSH	ñori	Postposition Incorporation	Never	
+Mandinka	74	PUSH	ñori	Subject/Oblique Alternation	Never	
+Mandinka	75	BRING	naa (1)	Active/Passive Alternation	Never	
+Mandinka	75	BRING	naa (1)	Antipassive Middle	Never	
+Mandinka	75	BRING	naa (1)	Causative Alternation	Never	
+Mandinka	75	BRING	naa (1)	Causative Derivation 1	Never	
+Mandinka	75	BRING	naa (1)	Causative Derivation 2	Never	
+Mandinka	75	BRING	naa (1)	Deobjective Alternation	Never	
+Mandinka	75	BRING	naa (1)	Intransitive/Middle Alternation	Never	
+Mandinka	75	BRING	naa (1)	Noncausative Alternation	Never	
+Mandinka	75	BRING	naa (1)	Object/Oblique Permutation	Never	
+Mandinka	75	BRING	naa (1)	Oblique/Object Alternation	Never	
+Mandinka	75	BRING	naa (1)	Postposition Incorporation	Regularly	
+Mandinka	75	BRING	naa (1)	Subject/Oblique Alternation	Never	
+Mandinka	75	BRING	samba	Active/Passive Alternation	Regularly	
+Mandinka	75	BRING	samba	Antipassive Middle	Never	
+Mandinka	75	BRING	samba	Causative Alternation	Never	
+Mandinka	75	BRING	samba	Causative Derivation 1	Never	
+Mandinka	75	BRING	samba	Causative Derivation 2	Regularly	
+Mandinka	75	BRING	samba	Deobjective Alternation	Never	
+Mandinka	75	BRING	samba	Intransitive/Middle Alternation	Never	
+Mandinka	75	BRING	samba	Noncausative Alternation	Never	
+Mandinka	75	BRING	samba	Object/Oblique Permutation	Never	
+Mandinka	75	BRING	samba	Oblique/Object Alternation	Never	
+Mandinka	75	BRING	samba	Postposition Incorporation	Never	
+Mandinka	75	BRING	samba	Subject/Oblique Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Active/Passive Alternation	Regularly	
+Mandinka	76	STEAL	suuñaa	Antipassive Middle	Never	
+Mandinka	76	STEAL	suuñaa	Causative Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Causative Derivation 1	Never	
+Mandinka	76	STEAL	suuñaa	Causative Derivation 2	Regularly	
+Mandinka	76	STEAL	suuñaa	Deobjective Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Intransitive/Middle Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Noncausative Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Object/Oblique Permutation	Regularly	
+Mandinka	76	STEAL	suuñaa	Oblique/Object Alternation	Never	
+Mandinka	76	STEAL	suuñaa	Postposition Incorporation	Never	
+Mandinka	76	STEAL	suuñaa	Subject/Oblique Alternation	Never	
+Mandinka	77	TEACH	karandi	Active/Passive Alternation	Regularly	
+Mandinka	77	TEACH	karandi	Antipassive Middle	Never	
+Mandinka	77	TEACH	karandi	Causative Alternation	Never	
+Mandinka	77	TEACH	karandi	Causative Derivation 1	Never	
+Mandinka	77	TEACH	karandi	Causative Derivation 2	Regularly	
+Mandinka	77	TEACH	karandi	Deobjective Alternation	Never	
+Mandinka	77	TEACH	karandi	Intransitive/Middle Alternation	Never	
+Mandinka	77	TEACH	karandi	Noncausative Alternation	Never	
+Mandinka	77	TEACH	karandi	Object/Oblique Permutation	Regularly	
+Mandinka	77	TEACH	karandi	Oblique/Object Alternation	Never	
+Mandinka	77	TEACH	karandi	Postposition Incorporation	Never	
+Mandinka	77	TEACH	karandi	Subject/Oblique Alternation	Never	
+Mandinka	77	TEACH	nikindi	Active/Passive Alternation	Regularly	
+Mandinka	77	TEACH	nikindi	Antipassive Middle	Never	
+Mandinka	77	TEACH	nikindi	Causative Alternation	Never	
+Mandinka	77	TEACH	nikindi	Causative Derivation 1	Never	
+Mandinka	77	TEACH	nikindi	Causative Derivation 2	Regularly	
+Mandinka	77	TEACH	nikindi	Deobjective Alternation	Never	
+Mandinka	77	TEACH	nikindi	Intransitive/Middle Alternation	Never	
+Mandinka	77	TEACH	nikindi	Noncausative Alternation	Never	
+Mandinka	77	TEACH	nikindi	Object/Oblique Permutation	Never	
+Mandinka	77	TEACH	nikindi	Oblique/Object Alternation	Never	
+Mandinka	77	TEACH	nikindi	Postposition Incorporation	Never	
+Mandinka	77	TEACH	nikindi	Subject/Oblique Alternation	Never	
+Mandinka	78	HEAR	moyi	Active/Passive Alternation	Regularly	
+Mandinka	78	HEAR	moyi	Antipassive Middle	Never	
+Mandinka	78	HEAR	moyi	Causative Alternation	Never	
+Mandinka	78	HEAR	moyi	Causative Derivation 1	Regularly	
+Mandinka	78	HEAR	moyi	Causative Derivation 2	Regularly	
+Mandinka	78	HEAR	moyi	Deobjective Alternation	Never	
+Mandinka	78	HEAR	moyi	Intransitive/Middle Alternation	Never	
+Mandinka	78	HEAR	moyi	Noncausative Alternation	Never	
+Mandinka	78	HEAR	moyi	Object/Oblique Permutation	Never	
+Mandinka	78	HEAR	moyi	Oblique/Object Alternation	Never	
+Mandinka	78	HEAR	moyi	Postposition Incorporation	Never	
+Mandinka	78	HEAR	moyi	Subject/Oblique Alternation	Never	
+Mandinka	79	COOK	tábi	Active/Passive Alternation	Regularly	
+Mandinka	79	COOK	tábi	Antipassive Middle	Never	
+Mandinka	79	COOK	tábi	Causative Alternation	Never	
+Mandinka	79	COOK	tábi	Causative Derivation 1	Never	
+Mandinka	79	COOK	tábi	Causative Derivation 2	Regularly	
+Mandinka	79	COOK	tábi	Deobjective Alternation	Never	
+Mandinka	79	COOK	tábi	Intransitive/Middle Alternation	Never	
+Mandinka	79	COOK	tábi	Noncausative Alternation	Never	
+Mandinka	79	COOK	tábi	Object/Oblique Permutation	Never	
+Mandinka	79	COOK	tábi	Oblique/Object Alternation	Never	
+Mandinka	79	COOK	tábi	Postposition Incorporation	Never	
+Mandinka	79	COOK	tábi	Subject/Oblique Alternation	Never	
+Mandinka	80	BOIL	fáji	Active/Passive Alternation	Never	
+Mandinka	80	BOIL	fáji	Antipassive Middle	Never	
+Mandinka	80	BOIL	fáji	Causative Alternation	Never	
+Mandinka	80	BOIL	fáji	Causative Derivation 1	Regularly	
+Mandinka	80	BOIL	fáji	Causative Derivation 2	Never	
+Mandinka	80	BOIL	fáji	Deobjective Alternation	Never	
+Mandinka	80	BOIL	fáji	Intransitive/Middle Alternation	Never	
+Mandinka	80	BOIL	fáji	Noncausative Alternation	Never	
+Mandinka	80	BOIL	fáji	Object/Oblique Permutation	Never	
+Mandinka	80	BOIL	fáji	Oblique/Object Alternation	Never	
+Mandinka	80	BOIL	fáji	Postposition Incorporation	Never	
+Mandinka	80	BOIL	fáji	Subject/Oblique Alternation	Never	
+Mandinka	81	APPEAR	bó (2)	Active/Passive Alternation	No data	
+Mandinka	81	APPEAR	bó (2)	Antipassive Middle	No data	
+Mandinka	81	APPEAR	bó (2)	Causative Alternation	Regularly	
+Mandinka	81	APPEAR	bó (2)	Causative Derivation 1	No data	
+Mandinka	81	APPEAR	bó (2)	Causative Derivation 2	No data	
+Mandinka	81	APPEAR	bó (2)	Deobjective Alternation		
+Mandinka	81	APPEAR	bó (2)	Intransitive/Middle Alternation	No data	
+Mandinka	81	APPEAR	bó (2)	Noncausative Alternation	No data	
+Mandinka	81	APPEAR	bó (2)	Object/Oblique Permutation	No data	
+Mandinka	81	APPEAR	bó (2)	Oblique/Object Alternation	No data	
+Mandinka	81	APPEAR	bó (2)	Postposition Incorporation	No data	
+Mandinka	81	APPEAR	bó (2)	Subject/Oblique Alternation	No data	
+Mandinka	81	APPEAR	fúnti	Active/Passive Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Antipassive Middle	Never	
+Mandinka	81	APPEAR	fúnti	Causative Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Causative Derivation 1	Regularly	
+Mandinka	81	APPEAR	fúnti	Causative Derivation 2	Never	
+Mandinka	81	APPEAR	fúnti	Deobjective Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Intransitive/Middle Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Noncausative Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Object/Oblique Permutation	Never	
+Mandinka	81	APPEAR	fúnti	Oblique/Object Alternation	Never	
+Mandinka	81	APPEAR	fúnti	Postposition Incorporation	Never	
+Mandinka	81	APPEAR	fúnti	Subject/Oblique Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Active/Passive Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Antipassive Middle	Never	
+Mandinka	82	BE ILL	jaŋkári	Causative Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Causative Derivation 1	Regularly	
+Mandinka	82	BE ILL	jaŋkári	Causative Derivation 2	Never	
+Mandinka	82	BE ILL	jaŋkári	Deobjective Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Intransitive/Middle Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Noncausative Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Object/Oblique Permutation	Never	
+Mandinka	82	BE ILL	jaŋkári	Oblique/Object Alternation	Never	
+Mandinka	82	BE ILL	jaŋkári	Postposition Incorporation	Never	
+Mandinka	82	BE ILL	jaŋkári	Subject/Oblique Alternation	Never	
+Mandinka	83	CRY	kumboo	Active/Passive Alternation	Never	
+Mandinka	83	CRY	kumboo	Antipassive Middle	Never	
+Mandinka	83	CRY	kumboo	Causative Alternation	Never	
+Mandinka	83	CRY	kumboo	Causative Derivation 1	Regularly	
+Mandinka	83	CRY	kumboo	Causative Derivation 2	Never	
+Mandinka	83	CRY	kumboo	Deobjective Alternation	Never	
+Mandinka	83	CRY	kumboo	Intransitive/Middle Alternation	Never	
+Mandinka	83	CRY	kumboo	Noncausative Alternation	Never	
+Mandinka	83	CRY	kumboo	Object/Oblique Permutation	Never	
+Mandinka	83	CRY	kumboo	Oblique/Object Alternation	Regularly	
+Mandinka	83	CRY	kumboo	Postposition Incorporation	Never	
+Mandinka	83	CRY	kumboo	Subject/Oblique Alternation	Never	
+Mandinka	84	FALL	boyi	Active/Passive Alternation	Never	
+Mandinka	84	FALL	boyi	Antipassive Middle	Never	
+Mandinka	84	FALL	boyi	Causative Alternation	Regularly	
+Mandinka	84	FALL	boyi	Causative Derivation 1	Regularly	
+Mandinka	84	FALL	boyi	Causative Derivation 2	Never	
+Mandinka	84	FALL	boyi	Deobjective Alternation	Never	
+Mandinka	84	FALL	boyi	Intransitive/Middle Alternation	Never	
+Mandinka	84	FALL	boyi	Noncausative Alternation	No data	
+Mandinka	84	FALL	boyi	Object/Oblique Permutation	Never	
+Mandinka	84	FALL	boyi	Oblique/Object Alternation	Never	
+Mandinka	84	FALL	boyi	Postposition Incorporation	Regularly	
+Mandinka	84	FALL	boyi	Subject/Oblique Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Active/Passive Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Antipassive Middle	Never	
+Mandinka	84	FALL	búsa (2)	Causative Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Causative Derivation 1	Never	
+Mandinka	84	FALL	búsa (2)	Causative Derivation 2	Never	
+Mandinka	84	FALL	búsa (2)	Deobjective Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Intransitive/Middle Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Noncausative Alternation	Never	
+Mandinka	84	FALL	búsa (2)	Object/Oblique Permutation	Never	
+Mandinka	84	FALL	búsa (2)	Oblique/Object Alternation	Regularly	
+Mandinka	84	FALL	búsa (2)	Postposition Incorporation	Never	
+Mandinka	84	FALL	búsa (2)	Subject/Oblique Alternation	Never	
+Mandinka	84	FALL	joloŋ	Active/Passive Alternation	Never	
+Mandinka	84	FALL	joloŋ	Antipassive Middle	Never	
+Mandinka	84	FALL	joloŋ	Causative Alternation	Regularly	
+Mandinka	84	FALL	joloŋ	Causative Derivation 1	Never	
+Mandinka	84	FALL	joloŋ	Causative Derivation 2	Never	
+Mandinka	84	FALL	joloŋ	Deobjective Alternation	Never	
+Mandinka	84	FALL	joloŋ	Intransitive/Middle Alternation	Never	
+Mandinka	84	FALL	joloŋ	Noncausative Alternation	No data	
+Mandinka	84	FALL	joloŋ	Object/Oblique Permutation	Never	
+Mandinka	84	FALL	joloŋ	Oblique/Object Alternation	Never	
+Mandinka	84	FALL	joloŋ	Postposition Incorporation	Never	
+Mandinka	84	FALL	joloŋ	Subject/Oblique Alternation	Never	
+Mandinka	85	MAKE	dádaa	Active/Passive Alternation	Regularly	
+Mandinka	85	MAKE	dádaa	Antipassive Middle	Never	
+Mandinka	85	MAKE	dádaa	Causative Alternation	Never	
+Mandinka	85	MAKE	dádaa	Causative Derivation 1	Never	
+Mandinka	85	MAKE	dádaa	Causative Derivation 2	Regularly	
+Mandinka	85	MAKE	dádaa	Deobjective Alternation	Never	
+Mandinka	85	MAKE	dádaa	Intransitive/Middle Alternation	Never	
+Mandinka	85	MAKE	dádaa	Noncausative Alternation	Never	
+Mandinka	85	MAKE	dádaa	Object/Oblique Permutation	Never	
+Mandinka	85	MAKE	dádaa	Oblique/Object Alternation	Never	
+Mandinka	85	MAKE	dádaa	Postposition Incorporation	Never	
+Mandinka	85	MAKE	dádaa	Subject/Oblique Alternation	Never	
+Mandinka	85	MAKE	ké (2)	Active/Passive Alternation	Marginally	
+Mandinka	85	MAKE	ké (2)	Antipassive Middle	Never	
+Mandinka	85	MAKE	ké (2)	Causative Alternation	No data	
+Mandinka	85	MAKE	ké (2)	Causative Derivation 1	Regularly	
+Mandinka	85	MAKE	ké (2)	Causative Derivation 2	Never	
+Mandinka	85	MAKE	ké (2)	Deobjective Alternation	Never	
+Mandinka	85	MAKE	ké (2)	Intransitive/Middle Alternation	Never	
+Mandinka	85	MAKE	ké (2)	Noncausative Alternation	Regularly	
+Mandinka	85	MAKE	ké (2)	Object/Oblique Permutation	Never	
+Mandinka	85	MAKE	ké (2)	Oblique/Object Alternation	Never	
+Mandinka	85	MAKE	ké (2)	Postposition Incorporation	Never	
+Mandinka	85	MAKE	ké (2)	Subject/Oblique Alternation	Never	
+Mandinka	86	GET	soto	Active/Passive Alternation	Marginally	
+Mandinka	86	GET	soto	Antipassive Middle	Never	
+Mandinka	86	GET	soto	Causative Alternation	Never	
+Mandinka	86	GET	soto	Causative Derivation 1	Regularly	
+Mandinka	86	GET	soto	Causative Derivation 2	Never	
+Mandinka	86	GET	soto	Deobjective Alternation	Never	
+Mandinka	86	GET	soto	Intransitive/Middle Alternation	Never	
+Mandinka	86	GET	soto	Noncausative Alternation	Regularly	
+Mandinka	86	GET	soto	Object/Oblique Permutation	Never	
+Mandinka	86	GET	soto	Oblique/Object Alternation	Never	
+Mandinka	86	GET	soto	Postposition Incorporation	Never	
+Mandinka	86	GET	soto	Subject/Oblique Alternation	Never	
+Mandinka	87	WANT	lafi	Active/Passive Alternation	Never	
+Mandinka	87	WANT	lafi	Antipassive Middle	Never	
+Mandinka	87	WANT	lafi	Causative Alternation	Never	
+Mandinka	87	WANT	lafi	Causative Derivation 1	Regularly	
+Mandinka	87	WANT	lafi	Causative Derivation 2	Never	
+Mandinka	87	WANT	lafi	Deobjective Alternation	Never	
+Mandinka	87	WANT	lafi	Intransitive/Middle Alternation	Never	
+Mandinka	87	WANT	lafi	Noncausative Alternation	Never	
+Mandinka	87	WANT	lafi	Object/Oblique Permutation	Never	
+Mandinka	87	WANT	lafi	Oblique/Object Alternation	Never	
+Mandinka	87	WANT	lafi	Postposition Incorporation	Never	
+Mandinka	87	WANT	lafi	Subject/Oblique Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Active/Passive Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Antipassive Middle	Never	
+Mandinka	89	REFUSE	bálaŋ	Causative Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Causative Derivation 1	Regularly	
+Mandinka	89	REFUSE	bálaŋ	Causative Derivation 2	Never	
+Mandinka	89	REFUSE	bálaŋ	Deobjective Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Intransitive/Middle Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Noncausative Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Object/Oblique Permutation	Never	
+Mandinka	89	REFUSE	bálaŋ	Oblique/Object Alternation	Never	
+Mandinka	89	REFUSE	bálaŋ	Postposition Incorporation	Never	
+Mandinka	89	REFUSE	bálaŋ	Subject/Oblique Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Active/Passive Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Antipassive Middle	Never	
+Mandinka	91	BE COLD	súmáyaa	Causative Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Causative Derivation 1	Regularly	
+Mandinka	91	BE COLD	súmáyaa	Causative Derivation 2	Never	
+Mandinka	91	BE COLD	súmáyaa	Deobjective Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Intransitive/Middle Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Noncausative Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Object/Oblique Permutation	Never	
+Mandinka	91	BE COLD	súmáyaa	Oblique/Object Alternation	Never	
+Mandinka	91	BE COLD	súmáyaa	Postposition Incorporation	Never	
+Mandinka	91	BE COLD	súmáyaa	Subject/Oblique Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Active/Passive Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Antipassive Middle	Never	
+Mandinka	92	TWINKLE	ñílísa	Causative Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Causative Derivation 1	Regularly	
+Mandinka	92	TWINKLE	ñílísa	Causative Derivation 2	Never	
+Mandinka	92	TWINKLE	ñílísa	Deobjective Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Intransitive/Middle Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Noncausative Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Object/Oblique Permutation	Never	
+Mandinka	92	TWINKLE	ñílísa	Oblique/Object Alternation	Never	
+Mandinka	92	TWINKLE	ñílísa	Postposition Incorporation	Never	
+Mandinka	92	TWINKLE	ñílísa	Subject/Oblique Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Active/Passive Alternation	Marginally	
+Mandinka	93	HUNT (FOR)	deema	Antipassive Middle	Never	
+Mandinka	93	HUNT (FOR)	deema	Causative Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Causative Derivation 1	Never	
+Mandinka	93	HUNT (FOR)	deema	Causative Derivation 2	Marginally	
+Mandinka	93	HUNT (FOR)	deema	Deobjective Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Intransitive/Middle Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Noncausative Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Object/Oblique Permutation	Never	
+Mandinka	93	HUNT (FOR)	deema	Oblique/Object Alternation	Never	
+Mandinka	93	HUNT (FOR)	deema	Postposition Incorporation	Never	
+Mandinka	93	HUNT (FOR)	deema	Subject/Oblique Alternation	Never	
+Mandinka	94	CHASE	báyi	Active/Passive Alternation	Regularly	
+Mandinka	94	CHASE	báyi	Antipassive Middle	Never	
+Mandinka	94	CHASE	báyi	Causative Alternation	Never	
+Mandinka	94	CHASE	báyi	Causative Derivation 1	Never	
+Mandinka	94	CHASE	báyi	Causative Derivation 2	Regularly	
+Mandinka	94	CHASE	báyi	Deobjective Alternation	Never	
+Mandinka	94	CHASE	báyi	Intransitive/Middle Alternation	Never	
+Mandinka	94	CHASE	báyi	Noncausative Alternation	Never	
+Mandinka	94	CHASE	báyi	Object/Oblique Permutation	Never	
+Mandinka	94	CHASE	báyi	Oblique/Object Alternation	Never	
+Mandinka	94	CHASE	báyi	Postposition Incorporation	Never	
+Mandinka	94	CHASE	báyi	Subject/Oblique Alternation	Never	
+Mandinka	96	MARRY	fútuu	Active/Passive Alternation	Regularly	
+Mandinka	96	MARRY	fútuu	Antipassive Middle	Never	
+Mandinka	96	MARRY	fútuu	Causative Alternation	Never	
+Mandinka	96	MARRY	fútuu	Causative Derivation 1	Regularly	
+Mandinka	96	MARRY	fútuu	Causative Derivation 2	Never	
+Mandinka	96	MARRY	fútuu	Deobjective Alternation	Never	
+Mandinka	96	MARRY	fútuu	Intransitive/Middle Alternation	Never	
+Mandinka	96	MARRY	fútuu	Noncausative Alternation	Never	
+Mandinka	96	MARRY	fútuu	Object/Oblique Permutation	Never	
+Mandinka	96	MARRY	fútuu	Oblique/Object Alternation	Never	
+Mandinka	96	MARRY	fútuu	Postposition Incorporation	Never	
+Mandinka	96	MARRY	fútuu	Subject/Oblique Alternation	Never	
+Mandinka	97	READ	karaŋ	Active/Passive Alternation	Regularly	
+Mandinka	97	READ	karaŋ	Antipassive Middle	Never	
+Mandinka	97	READ	karaŋ	Causative Alternation	Never	
+Mandinka	97	READ	karaŋ	Causative Derivation 1	Never	
+Mandinka	97	READ	karaŋ	Causative Derivation 2	Regularly	
+Mandinka	97	READ	karaŋ	Deobjective Alternation	Never	
+Mandinka	97	READ	karaŋ	Intransitive/Middle Alternation	Never	
+Mandinka	97	READ	karaŋ	Noncausative Alternation	Never	
+Mandinka	97	READ	karaŋ	Object/Oblique Permutation	Never	
+Mandinka	97	READ	karaŋ	Oblique/Object Alternation	Never	
+Mandinka	97	READ	karaŋ	Postposition Incorporation	Never	
+Mandinka	97	READ	karaŋ	Subject/Oblique Alternation	Never	
+Mandinka	99	OFFER	nii	Active/Passive Alternation	Regularly	
+Mandinka	99	OFFER	nii	Antipassive Middle	Never	
+Mandinka	99	OFFER	nii	Causative Alternation	Never	
+Mandinka	99	OFFER	nii	Causative Derivation 1	Never	
+Mandinka	99	OFFER	nii	Causative Derivation 2	Marginally	
+Mandinka	99	OFFER	nii	Deobjective Alternation	Never	
+Mandinka	99	OFFER	nii	Intransitive/Middle Alternation	Never	
+Mandinka	99	OFFER	nii	Noncausative Alternation	Never	
+Mandinka	99	OFFER	nii	Object/Oblique Permutation	Never	
+Mandinka	99	OFFER	nii	Oblique/Object Alternation	Never	
+Mandinka	99	OFFER	nii	Postposition Incorporation	Never	
+Mandinka	99	OFFER	nii	Subject/Oblique Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Active/Passive Alternation	Regularly	
+Mandinka	100	ASK (about)	ñiniŋkaa	Antipassive Middle	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Causative Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Causative Derivation 1	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Causative Derivation 2	Regularly	
+Mandinka	100	ASK (about)	ñiniŋkaa	Deobjective Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Intransitive/Middle Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Noncausative Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Object/Oblique Permutation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Oblique/Object Alternation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Postposition Incorporation	Never	
+Mandinka	100	ASK (about)	ñiniŋkaa	Subject/Oblique Alternation	Never	
+Mandinka	101	CRAM	sóoli	Active/Passive Alternation	Regularly	
+Mandinka	101	CRAM	sóoli	Antipassive Middle	Never	
+Mandinka	101	CRAM	sóoli	Causative Alternation	Never	
+Mandinka	101	CRAM	sóoli	Causative Derivation 1	Never	
+Mandinka	101	CRAM	sóoli	Causative Derivation 2	Regularly	
+Mandinka	101	CRAM	sóoli	Deobjective Alternation	Never	
+Mandinka	101	CRAM	sóoli	Intransitive/Middle Alternation	Never	
+Mandinka	101	CRAM	sóoli	Noncausative Alternation	Never	
+Mandinka	101	CRAM	sóoli	Object/Oblique Permutation	Regularly	
+Mandinka	101	CRAM	sóoli	Oblique/Object Alternation	Never	
+Mandinka	101	CRAM	sóoli	Postposition Incorporation	Never	
+Mandinka	101	CRAM	sóoli	Subject/Oblique Alternation	Never	
+Mandinka	102	DO	ké (3)	Active/Passive Alternation	Regularly	
+Mandinka	102	DO	ké (3)	Antipassive Middle	Never	
+Mandinka	102	DO	ké (3)	Causative Alternation	No data	
+Mandinka	102	DO	ké (3)	Causative Derivation 1	Never	
+Mandinka	102	DO	ké (3)	Causative Derivation 2	Regularly	
+Mandinka	102	DO	ké (3)	Deobjective Alternation	Never	
+Mandinka	102	DO	ké (3)	Intransitive/Middle Alternation	Never	
+Mandinka	102	DO	ké (3)	Noncausative Alternation	Regularly	
+Mandinka	102	DO	ké (3)	Object/Oblique Permutation	Never	
+Mandinka	102	DO	ké (3)	Oblique/Object Alternation	Never	
+Mandinka	102	DO	ké (3)	Postposition Incorporation	Never	
+Mandinka	102	DO	ké (3)	Subject/Oblique Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Active/Passive Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Antipassive Middle	Never	
+Mandinka	103	CROSS	teyi (3)	Causative Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Causative Derivation 1	Regularly	
+Mandinka	103	CROSS	teyi (3)	Causative Derivation 2	Never	
+Mandinka	103	CROSS	teyi (3)	Deobjective Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Intransitive/Middle Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Noncausative Alternation	Never	
+Mandinka	103	CROSS	teyi (3)	Object/Oblique Permutation	Never	
+Mandinka	103	CROSS	teyi (3)	Oblique/Object Alternation	Regularly	
+Mandinka	103	CROSS	teyi (3)	Postposition Incorporation	Never	
+Mandinka	103	CROSS	teyi (3)	Subject/Oblique Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Active/Passive Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Antipassive Middle	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Causative Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Causative Derivation 1	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Causative Derivation 2	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Deobjective Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Intransitive/Middle Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Noncausative Alternation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Object/Oblique Permutation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Oblique/Object Alternation	Regularly	
+Mandinka	104	GIVE BIRTH	wúluu	Postposition Incorporation	Never	
+Mandinka	104	GIVE BIRTH	wúluu	Subject/Oblique Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Active/Passive Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Antipassive Middle	Never	
+Mandinka	105	ENTER	duŋ (2)	Causative Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Causative Derivation 1	Regularly	
+Mandinka	105	ENTER	duŋ (2)	Causative Derivation 2	Never	
+Mandinka	105	ENTER	duŋ (2)	Deobjective Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Intransitive/Middle Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Noncausative Alternation	No data	
+Mandinka	105	ENTER	duŋ (2)	Object/Oblique Permutation	Never	
+Mandinka	105	ENTER	duŋ (2)	Oblique/Object Alternation	Never	
+Mandinka	105	ENTER	duŋ (2)	Postposition Incorporation	Never	
+Mandinka	105	ENTER	duŋ (2)	Subject/Oblique Alternation	Never	
+Mandinka	106	REST	í fóño	Active/Passive Alternation	Never	
+Mandinka	106	REST	í fóño	Antipassive Middle	Never	
+Mandinka	106	REST	í fóño	Causative Alternation	Never	
+Mandinka	106	REST	í fóño	Causative Derivation 1	Never	
+Mandinka	106	REST	í fóño	Causative Derivation 2	Never	
+Mandinka	106	REST	í fóño	Deobjective Alternation	Never	
+Mandinka	106	REST	í fóño	Intransitive/Middle Alternation	Never	
+Mandinka	106	REST	í fóño	Noncausative Alternation	Never	
+Mandinka	106	REST	í fóño	Object/Oblique Permutation	Never	
+Mandinka	106	REST	í fóño	Oblique/Object Alternation	Never	
+Mandinka	106	REST	í fóño	Postposition Incorporation	Never	
+Mandinka	106	REST	í fóño	Subject/Oblique Alternation	Never	
+Mandinka	108	DRINK	miŋ	Active/Passive Alternation	Regularly	
+Mandinka	108	DRINK	miŋ	Antipassive Middle	Regularly	
+Mandinka	108	DRINK	miŋ	Causative Alternation	Never	
+Mandinka	108	DRINK	miŋ	Causative Derivation 1	Regularly	
+Mandinka	108	DRINK	miŋ	Causative Derivation 2	Never	
+Mandinka	108	DRINK	miŋ	Deobjective Alternation	Never	
+Mandinka	108	DRINK	miŋ	Intransitive/Middle Alternation	Never	
+Mandinka	108	DRINK	miŋ	Noncausative Alternation	Never	
+Mandinka	108	DRINK	miŋ	Object/Oblique Permutation	Never	
+Mandinka	108	DRINK	miŋ	Oblique/Object Alternation	Never	
+Mandinka	108	DRINK	miŋ	Postposition Incorporation	Never	
+Mandinka	108	DRINK	miŋ	Subject/Oblique Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Active/Passive Alternation	Regularly	
+Mandinka	111	CALL	kúmándi (1)	Antipassive Middle	Never	
+Mandinka	111	CALL	kúmándi (1)	Causative Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Causative Derivation 1	Never	
+Mandinka	111	CALL	kúmándi (1)	Causative Derivation 2	Regularly	
+Mandinka	111	CALL	kúmándi (1)	Deobjective Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Intransitive/Middle Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Noncausative Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Object/Oblique Permutation	Never	
+Mandinka	111	CALL	kúmándi (1)	Oblique/Object Alternation	Never	
+Mandinka	111	CALL	kúmándi (1)	Postposition Incorporation	Never	
+Mandinka	111	CALL	kúmándi (1)	Subject/Oblique Alternation	Never	
+Mandinka	111	REMAIN	tú	Active/Passive Alternation	Never	
+Mandinka	111	REMAIN	tú	Antipassive Middle	Never	
+Mandinka	111	REMAIN	tú	Causative Alternation	Regularly	
+Mandinka	111	REMAIN	tú	Causative Derivation 1	Never	
+Mandinka	111	REMAIN	tú	Causative Derivation 2	Marginally	
+Mandinka	111	REMAIN	tú	Deobjective Alternation	Never	
+Mandinka	111	REMAIN	tú	Intransitive/Middle Alternation	Never	
+Mandinka	111	REMAIN	tú	Noncausative Alternation	No data	
+Mandinka	111	REMAIN	tú	Object/Oblique Permutation	Never	
+Mandinka	111	REMAIN	tú	Oblique/Object Alternation	Never	
+Mandinka	111	REMAIN	tú	Postposition Incorporation	Never	
+Mandinka	111	REMAIN	tú	Subject/Oblique Alternation	Regularly	
+Mandinka	112	COME (2)	naa (2)	Active/Passive Alternation	No data	
+Mandinka	112	COME (2)	naa (2)	Antipassive Middle	No data	
+Mandinka	112	COME (2)	naa (2)	Causative Alternation	Never	
+Mandinka	112	COME (2)	naa (2)	Causative Derivation 1	No data	
+Mandinka	112	COME (2)	naa (2)	Causative Derivation 2	No data	
+Mandinka	112	COME (2)	naa (2)	Deobjective Alternation		
+Mandinka	112	COME (2)	naa (2)	Intransitive/Middle Alternation	No data	
+Mandinka	112	COME (2)	naa (2)	Noncausative Alternation	No data	
+Mandinka	112	COME (2)	naa (2)	Object/Oblique Permutation	No data	
+Mandinka	112	COME (2)	naa (2)	Oblique/Object Alternation	No data	
+Mandinka	112	COME (2)	naa (2)	Postposition Incorporation	No data	
+Mandinka	112	COME (2)	naa (2)	Subject/Oblique Alternation	No data	

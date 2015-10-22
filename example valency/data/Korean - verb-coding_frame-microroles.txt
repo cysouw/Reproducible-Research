@@ -1,0 +1,358 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Korean	1	EAT	meogda	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Korean	1	EAT	meogda	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Korean	1	EAT	meogda	Derived	2-nom 1-dat passV'	1	eater	NP-dat	
+Korean	1	EAT	meogda	Derived	2-nom 1-dat passV'	2	eaten food	NP-nom	
+Korean	1	EAT	meogda	Derived	2-nom passperV'	2	eaten food	NP-nom	
+Korean	1	EAT	meogda	Derived	4-nom 1-dat 2-acc causV'	1	eater	NP-dat	
+Korean	1	EAT	meogda	Derived	4-nom 1-dat 2-acc causV'	2	eaten food	NP-acc	
+Korean	1	EAT	meogda	Derived	4-nom 1-dat 2-acc causV'	4	eat causer/feeder	NP-nom	
+Korean	2	HUG	anda	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Korean	2	HUG	anda	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Korean	2	HUG	anda	Derived	1-nom 2-com V'	1	hugger	NP-nom	
+Korean	2	HUG	anda	Derived	1-nom 2-com V'	2	huggee	NP-com	
+Korean	2	HUG	anda	Derived	2-nom 1-dat passV'	1	hugger	NP-dat	
+Korean	2	HUG	anda	Derived	2-nom 1-dat passV'	2	huggee	NP-nom	
+Korean	2	HUG	anda	Derived	4-nom 1-dat 2-acc causV'	1	hugger	NP-dat	
+Korean	2	HUG	anda	Derived	4-nom 1-dat 2-acc causV'	2	huggee	NP-acc	
+Korean	2	HUG	anda	Derived	4-nom 1-dat 2-acc causV'	4	hug causer	NP-nom	
+Korean	3	LOOK AT	baraboda	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Korean	3	LOOK AT	baraboda	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Korean	4	SEE	boda	Basic	1-nom 2-acc V	1	seeer	NP-nom	A
+Korean	4	SEE	boda	Basic	1-nom 2-acc V	2	seen entity	NP-acc	P
+Korean	4	SEE	boda	Derived	2-nom 1-dat passV'	1	seeer	NP-dat	
+Korean	4	SEE	boda	Derived	2-nom 1-dat passV'	2	seen entity	NP-nom	
+Korean	4	SEE	boda	Derived	2-nom passperV'	2	seen entity	NP-nom	
+Korean	4	SEE	boda	Derived	4-nom 1-dat 2-acc causV'	1	seeer	NP-dat	
+Korean	4	SEE	boda	Derived	4-nom 1-dat 2-acc causV'	2	seen entity	NP-acc	
+Korean	4	SEE	boda	Derived	4-nom 1-dat 2-acc causV'	4	see causer	NP-nom	
+Korean	5	SMELL	naemsaereul matta	Basic	1-nom 2-acc V	1	smeller	NP-nom	A
+Korean	5	SMELL	naemsaereul matta	Basic	1-nom 2-acc V	2	smelled entity	NP-acc	P
+Korean	6	FEAR	museobda	Basic	1-nom 2-nom V	1	fearer	NP-nom	S
+Korean	6	FEAR	museobda	Basic	1-nom 2-nom V	2	fear stimulus	NP-nom	X
+Korean	7	FRIGHTEN	nollaeda	Basic	1-nom V	1	frightenee	NP-nom	S
+Korean	7	FRIGHTEN	nollaeda	Derived	4-nom 1-acc causV'	1	frightenee	NP-acc	
+Korean	7	FRIGHTEN	nollaeda	Derived	4-nom 1-acc causV'	4	scare causer	NP-nom	
+Korean	8	LIKE	johda	Basic	1-nom 2-nom V	1	liker	NP-nom	S
+Korean	8	LIKE	johda	Basic	1-nom 2-nom V	2	liked entity	NP-nom	X
+Korean	9	KNOW	alda	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Korean	9	KNOW	alda	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Korean	9	KNOW	alda	Derived	4-nom 1-dat 2-acc causV'	1	knower	NP-dat	
+Korean	9	KNOW	alda	Derived	4-nom 1-dat 2-acc causV'	2	known thing/person	NP-acc	
+Korean	9	KNOW	alda	Derived	4-nom 1-dat 2-acc causV'	4	know causer	NP-nom	
+Korean	10	THINK	saenggaghada	Basic	1-nom 2-acc V	1	thinker	NP-nom	A
+Korean	10	THINK	saenggaghada	Basic	1-nom 2-acc V	2	thought content	NP-acc	P
+Korean	11	SEARCH FOR	chajda	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Korean	11	SEARCH FOR	chajda	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Korean	11	SEARCH FOR	chajda	Derived	2-nom passperV'	2	searched for thing	NP-nom	
+Korean	12	WASH	mogyoksikida	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Korean	12	WASH	mogyoksikida	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Korean	12	WASH	ppalda	Basic	1-nom 2-acc 3-instr V	1	washer	NP-nom	A
+Korean	12	WASH	ppalda	Basic	1-nom 2-acc 3-instr V	2	washed entity	NP-acc	P
+Korean	12	WASH	ppalda	Derived	2-nom 3-instr passperV'	2	washed entity	NP-nom	
+Korean	12	WASH	sesuhada	Basic	1-nom V	1	washer	NP-nom	S
+Korean	12	WASH	ssisda	Basic	1-nom 2-acc 3-instr V	1	washer	NP-nom	A
+Korean	12	WASH	ssisda	Basic	1-nom 2-acc 3-instr V	2	washed entity	NP-acc	P
+Korean	12	WASH	ssisda	Basic	1-nom 2-acc 3-instr V	3	washing instrument	NP-instr	I
+Korean	12	WASH	ssisda	Derived	2-nom 1-dat 3-instr passV'	1	washer	NP-dat	
+Korean	12	WASH	ssisda	Derived	2-nom 1-dat 3-instr passV'	2	washed entity	NP-nom	
+Korean	12	WASH	ssisda	Derived	2-nom 1-dat 3-instr passV'	3	washing instrument	NP-instr	
+Korean	12	WASH	ssisda	Derived	2-nom 3-instr passperV'	2	washed entity	NP-nom	
+Korean	12	WASH	ssisda	Derived	2-nom 3-instr passperV'	3	washing instrument	NP-instr	
+Korean	13	DRESS	os(eul) ibda	Basic	1-nom 2-acc V	1	dresser	NP-nom	A
+Korean	13	DRESS	os(eul) ibda	Derived	4-nom 1-dat 2-acc causV'	1	dresser	NP-dat	
+Korean	13	DRESS	os(eul) ibda	Derived	4-nom 1-dat 2-acc causV'	4	dress causer	NP-nom	
+Korean	14	SHAVE (a body part/person)	kkakkda	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Korean	14	SHAVE (a body part/person)	kkakkda	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Korean	14	SHAVE (a body part/person)	kkakkda	Derived	2-nom 1-dat passV'	1	shaver (of body part)	NP-dat	
+Korean	14	SHAVE (a body part/person)	kkakkda	Derived	2-nom 1-dat passV'	2	shaved body part	NP-nom	
+Korean	14	SHAVE (a body part/person)	kkakkda	Derived	2-nom passperV'	2	shaved body part	NP-nom	
+Korean	15	HELP	dowajuda	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Korean	15	HELP	dowajuda	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Korean	16	FOLLOW	ttaragada	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Korean	16	FOLLOW	ttaragada	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Korean	17	MEET	mannada	Basic	1-nom 2-acc V	1	meeter	NP-nom	A
+Korean	17	MEET	mannada	Basic	1-nom 2-acc V	2	met person	NP-acc	P
+Korean	17	MEET	mannada	Derived	1-nom 2-com V'	1	meeter	NP-nom	
+Korean	17	MEET	mannada	Derived	1-nom 2-com V'	2	met person	NP-com	
+Korean	18	TALK	iyagihada	Basic	1-nom 2-dat UTT3 V	1	talker	NP-nom	S
+Korean	18	TALK	iyagihada	Basic	1-nom 2-dat UTT3 V	2	talked to person	NP-dat	X
+Korean	18	TALK	iyagihada	Basic	1-nom 2-dat UTT3 V	3	talked about content	UTT	X
+Korean	18	TALK	iyagihada	Derived	1-nom 2-com UTT3 V'	1	talker	NP-nom	
+Korean	18	TALK	iyagihada	Derived	1-nom 2-com UTT3 V'	2	talked to person	NP-com	
+Korean	18	TALK	iyagihada	Derived	1-nom 2-com UTT3 V'	3	talked about content	UTT	
+Korean	19	ASK FOR	yoguhada	Basic	1-nom 2-acc 3-abl V	1	asker	NP-nom	A
+Korean	19	ASK FOR	yoguhada	Basic	1-nom 2-acc 3-abl V	2	requested thing	NP-acc	P
+Korean	19	ASK FOR	yoguhada	Basic	1-nom 2-acc 3-abl V	3	askee	NP-abl	X
+Korean	20	SHOUT AT	sorijireuda	Basic	1-nom 2-dat V	1	shouter	NP-nom	S
+Korean	20	SHOUT AT	sorijireuda	Basic	1-nom 2-dat V	2	shoutee	NP-dat	X
+Korean	22	SAY	malhada	Basic	1-nom 2-dat 3-quot V	1	sayer	NP-nom	S
+Korean	22	SAY	malhada	Basic	1-nom 2-dat 3-quot V	2	saying addressee	NP-dat	X
+Korean	22	SAY	malhada	Basic	1-nom 2-dat 3-quot V	3	said content	NP-quot	X
+Korean	23	NAME	bureuda	Basic	1-nom 2-acc 3-quot V	1	namer	NP-nom	A
+Korean	23	NAME	bureuda	Basic	1-nom 2-acc 3-quot V	2	namee	NP-acc	P
+Korean	23	NAME	bureuda	Basic	1-nom 2-acc 3-quot V	3	name	NP-quot	X
+Korean	23	NAME	bureuda	Derived	2-nom 1-dat 3-quot passV'	1	namer	NP-dat	
+Korean	23	NAME	bureuda	Derived	2-nom 1-dat 3-quot passV'	2	namee	NP-nom	
+Korean	23	NAME	bureuda	Derived	2-nom 1-dat 3-quot passV'	3	name	NP-quot	
+Korean	24	BUILD	jisda	Basic	1-nom 2-acc 3-instr V	1	builder	NP-nom	A
+Korean	24	BUILD	jisda	Basic	1-nom 2-acc 3-instr V	2	built thing	NP-acc	P
+Korean	24	BUILD	jisda	Basic	1-nom 2-acc 3-instr V	3	building material	NP-instr	I
+Korean	24	BUILD	jisda	Derived	2-nom 3-instr passperV'	2	built thing	NP-nom	
+Korean	24	BUILD	jisda	Derived	2-nom 3-instr passperV'	3	building material	NP-instr	
+Korean	25	BREAK	kkaeda	Basic	1-nom 2-acc 3-instr V	1	breaker	NP-nom	A
+Korean	25	BREAK	kkaeda	Basic	1-nom 2-acc 3-instr V	2	broken thing	NP-acc	P
+Korean	25	BREAK	kkaeda	Basic	1-nom 2-acc 3-instr V	3	breaking instrument	NP-instr	I
+Korean	25	BREAK	kkaetteurida	Basic	1-nom 2-acc 3-instr V	1	breaker	NP-nom	A
+Korean	25	BREAK	kkaetteurida	Basic	1-nom 2-acc 3-instr V	2	broken thing	NP-acc	P
+Korean	25	BREAK	kkaetteurida	Basic	1-nom 2-acc 3-instr V	3	breaking instrument	NP-instr	I
+Korean	26	KILL	jugida	Basic	1-nom 2-acc 3-instr V	1	killer	NP-nom	A
+Korean	26	KILL	jugida	Basic	1-nom 2-acc 3-instr V	2	killee	NP-acc	P
+Korean	26	KILL	jugida	Basic	1-nom 2-acc 3-instr V	3	killing instrument	NP-instr	I
+Korean	27	BEAT	ttaerida	Basic	1-nom 2-acc 3-instr V	1	beater	NP-nom	A
+Korean	27	BEAT	ttaerida	Basic	1-nom 2-acc 3-instr V	2	beatee	NP-acc	P
+Korean	27	BEAT	ttaerida	Basic	1-nom 2-acc 3-instr V	3	beating instrument	NP-instr	I
+Korean	28	HIT	chida	Basic	1-nom 2-acc V	1	hitter	NP-nom	A
+Korean	28	HIT	chida	Basic	1-nom 2-acc V	2	hittee	NP-acc	P
+Korean	28	HIT	ttaerida	Basic	1-nom 2-acc 3-instr V	1	hitter	NP-nom	A
+Korean	28	HIT	ttaerida	Basic	1-nom 2-acc 3-instr V	2	hittee	NP-acc	P
+Korean	28	HIT	ttaerida	Basic	1-nom 2-acc 3-instr V	3	hitting instrument	NP-instr	I
+Korean	29	TOUCH	manjida	Basic	1-nom 2-acc V	1	toucher	NP-nom	A
+Korean	29	TOUCH	manjida	Basic	1-nom 2-acc V	2	touchee	NP-acc	P
+Korean	30	CUT	jareuda	Basic	1-nom 2-acc 3-instr V	1	cutter	NP-nom	A
+Korean	30	CUT	jareuda	Basic	1-nom 2-acc 3-instr V	2	cut thing	NP-acc	P
+Korean	30	CUT	jareuda	Basic	1-nom 2-acc 3-instr V	3	cutting instrument	NP-instr	I
+Korean	30	CUT	jareuda	Derived	2-nom 1-dat 3-instr passV'	1	cutter	NP-dat	
+Korean	30	CUT	jareuda	Derived	2-nom 1-dat 3-instr passV'	2	cut thing	NP-nom	
+Korean	30	CUT	jareuda	Derived	2-nom 1-dat 3-instr passV'	3	cutting instrument	NP-instr	
+Korean	30	CUT	jareuda	Derived	2-nom 3-instr passperV'	2	cut thing	NP-nom	
+Korean	30	CUT	jareuda	Derived	2-nom 3-instr passperV'	3	cutting instrument	NP-instr	
+Korean	30	CUT	kkakkda	Basic	1-nom 2-acc V	1	cutter	NP-nom	A
+Korean	30	CUT	kkakkda	Basic	1-nom 2-acc V	2	cut thing	NP-acc	P
+Korean	30	CUT	kkakkda	Derived	2-nom 1-dat passV'	1	cutter	NP-dat	
+Korean	30	CUT	kkakkda	Derived	2-nom 1-dat passV'	2	cut thing	NP-nom	
+Korean	30	CUT	kkakkda	Derived	2-nom passperV'	2	cut thing	NP-nom	
+Korean	31	TAKE	gajyeogada	Basic	1-nom 2-acc 3-loc V	1	taker	NP-nom	A
+Korean	31	TAKE	gajyeogada	Basic	1-nom 2-acc 3-loc V	2	taken thing	NP-acc	P
+Korean	31	TAKE	gajyeogada	Basic	1-nom 2-acc 3-loc V	3	take to goal	NP-loc	L
+Korean	31	TAKE	jibda	Basic	1-nom 2-acc V	1	taker	NP-nom	A
+Korean	31	TAKE	jibda	Basic	1-nom 2-acc V	2	taken thing	NP-acc	P
+Korean	31	TAKE	jibda	Derived	2-nom 1-dat passV'	1	taker	NP-dat	
+Korean	31	TAKE	jibda	Derived	2-nom 1-dat passV'	2	taken thing	NP-nom	
+Korean	31	TAKE	jibda	Derived	2-nom passperV'	2	taken thing	NP-nom	
+Korean	32	TEAR	jjijda	Basic	1-nom 2-acc V	1	tearer	NP-nom	A
+Korean	32	TEAR	jjijda	Basic	1-nom 2-acc V	2	torn thing	NP-acc	P
+Korean	32	TEAR	jjijda	Derived	2-nom 1-dat passV'	1	tearer	NP-dat	
+Korean	32	TEAR	jjijda	Derived	2-nom 1-dat passV'	2	torn thing	NP-nom	
+Korean	32	TEAR	jjijda	Derived	2-nom passperV'	2	torn thing	NP-nom	
+Korean	33	PEEL	beosgida	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Korean	33	PEEL	beosgida	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Korean	33	PEEL	beosgida	Derived	2-nom 1-dat passV'	1	peeler	NP-dat	
+Korean	33	PEEL	beosgida	Derived	2-nom 1-dat passV'	2	peeled object	NP-nom	
+Korean	33	PEEL	beosgida	Derived	2-nom passperV'	2	peeled object	NP-nom	
+Korean	33	PEEL	kkada	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Korean	33	PEEL	kkada	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Korean	33	PEEL	kkada	Derived	2-nom 1-dat passV'	1	peeler	NP-dat	
+Korean	33	PEEL	kkada	Derived	2-nom 1-dat passV'	2	peeled object	NP-nom	
+Korean	33	PEEL	kkada	Derived	2-nom passperV'	2	peeled object	NP-nom	
+Korean	33	PEEL	kkakkda	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Korean	33	PEEL	kkakkda	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Korean	33	PEEL	kkakkda	Derived	2-nom 1-dat passV'	1	peeler	NP-dat	
+Korean	33	PEEL	kkakkda	Derived	2-nom 1-dat passV'	2	peeled object	NP-nom	
+Korean	33	PEEL	kkakkda	Derived	2-nom passperV'	2	peeled object	NP-nom	
+Korean	34	HIDE	sumda	Basic	1-nom 2-loc V	1	hider	NP-nom	S
+Korean	34	HIDE	sumda	Basic	1-nom 2-loc V	2	hiding place	NP-loc	L
+Korean	34	HIDE	sumgida	Basic	1-nom 2+ap-loc 3-acc V	1	hider	NP-nom	A
+Korean	34	HIDE	sumgida	Basic	1-nom 2+ap-loc 3-acc V	2	hiding affectee	NP-acc	P
+Korean	34	HIDE	sumgida	Basic	1-nom 2+ap-loc 3-acc V	3	hidden thing	NP+ap-loc	X
+Korean	35	SHOW	boida	Basic	1-nom 2+ap-loc 3-acc V	1	shower	NP-nom	A
+Korean	35	SHOW	boida	Basic	1-nom 2+ap-loc 3-acc V	2	showing addressee	NP-acc	P
+Korean	35	SHOW	boida	Basic	1-nom 2+ap-loc 3-acc V	3	shown thing	NP+ap-loc	X
+Korean	35	SHOW	deullida (2)	Basic	1-nom 2-acc 3-dat V	1	shower	NP-nom	A
+Korean	35	SHOW	deullida (2)	Basic	1-nom 2-acc 3-dat V	2	shown thing	NP-acc	P
+Korean	35	SHOW	deullida (2)	Basic	1-nom 2-acc 3-dat V	3	showing addressee	NP-dat	X
+Korean	35	SHOW	deullida (2)	Derived	1-nom 2-acc 3-acc V'	1	shower	NP-nom	
+Korean	35	SHOW	deullida (2)	Derived	1-nom 2-acc 3-acc V'	2	shown thing	NP-acc	
+Korean	35	SHOW	deullida (2)	Derived	1-nom 2-acc 3-acc V'	3	showing addressee	NP-acc	
+Korean	36	GIVE	juda	Basic	1-nom 2-acc 3-dat V	1	giver	NP-nom	A
+Korean	36	GIVE	juda	Basic	1-nom 2-acc 3-dat V	2	gift	NP-acc	P
+Korean	36	GIVE	juda	Basic	1-nom 2-acc 3-dat V	3	giving recipient	NP-dat	X
+Korean	36	GIVE	juda	Derived	1-nom 2-acc 3-acc V'	1	giver	NP-nom	
+Korean	36	GIVE	juda	Derived	1-nom 2-acc 3-acc V'	2	gift	NP-acc	
+Korean	36	GIVE	juda	Derived	1-nom 2-acc 3-acc V'	3	giving recipient	NP-acc	
+Korean	36	GIVE	juda	Derived	2-nom 3-dat passperV'	2	gift	NP-nom	
+Korean	36	GIVE	juda	Derived	2-nom 3-dat passperV'	3	giving recipient	NP-dat	
+Korean	37	SEND	bonaeda	Basic	1-nom 2-acc LOC3 V	1	sender	NP-nom	A
+Korean	37	SEND	bonaeda	Basic	1-nom 2-acc LOC3 V	2	sent thing	NP-acc	P
+Korean	37	SEND	bonaeda	Basic	1-nom 2-acc LOC3 V	3	sending recipient	LOC	X
+Korean	38	CARRY	deulda	Basic	1-nom 2-acc V	1	carrier	NP-nom	A
+Korean	38	CARRY	deulda	Basic	1-nom 2-acc V	2	carried thing	NP-acc	P
+Korean	38	CARRY	deulda	Derived	2-nom passperV'	2	carried thing	NP-nom	
+Korean	39	THROW	deonjida	Basic	1-nom 2-acc LOC3 V	1	thrower	NP-nom	A
+Korean	39	THROW	deonjida	Basic	1-nom 2-acc LOC3 V	2	thrown thing	NP-acc	P
+Korean	39	THROW	deonjida	Basic	1-nom 2-acc LOC3 V	3	throwing goal	LOC	X
+Korean	40	TIE	mukkda	Basic	1-nom 2-acc 3-loc V	1	tier	NP-nom	A
+Korean	40	TIE	mukkda	Basic	1-nom 2-acc 3-loc V	2	tied thing	NP-acc	P
+Korean	40	TIE	mukkda	Basic	1-nom 2-acc 3-loc V	3	tying goal	NP-loc	L
+Korean	40	TIE	mukkda	Derived	2-nom 1-dat 3-loc passV'	1	tier	NP-dat	
+Korean	40	TIE	mukkda	Derived	2-nom 1-dat 3-loc passV'	2	tied thing	NP-nom	
+Korean	40	TIE	mukkda	Derived	2-nom 1-dat 3-loc passV'	3	tying goal	NP-loc	
+Korean	40	TIE	mukkda	Derived	2-nom 3-loc passperV'	2	tied thing	NP-nom	
+Korean	40	TIE	mukkda	Derived	2-nom 3-loc passperV'	3	tying goal	NP-loc	
+Korean	41	PUT	nohda	Basic	1-nom 2-acc 3-loc V	1	putter	NP-nom	A
+Korean	41	PUT	nohda	Basic	1-nom 2-acc 3-loc V	2	put thing	NP-acc	P
+Korean	41	PUT	nohda	Basic	1-nom 2-acc 3-loc V	3	putting goal	NP-loc	L
+Korean	41	PUT	nohda	Derived	2-nom 1-dat 3-loc passV'	1	putter	NP-dat	
+Korean	41	PUT	nohda	Derived	2-nom 1-dat 3-loc passV'	2	put thing	NP-nom	
+Korean	41	PUT	nohda	Derived	2-nom 1-dat 3-loc passV'	3	putting goal	NP-loc	
+Korean	41	PUT	nohda	Derived	2-nom 3-loc passperV'	2	put thing	NP-nom	
+Korean	41	PUT	nohda	Derived	2-nom 3-loc passperV'	3	putting goal	NP-loc	
+Korean	42	POUR	busda	Basic	1-nom 2-acc 3-loc V	1	pourer	NP-nom	A
+Korean	42	POUR	busda	Basic	1-nom 2-acc 3-loc V	2	poured substance	NP-acc	P
+Korean	42	POUR	busda	Basic	1-nom 2-acc 3-loc V	3	pouring goal	NP-loc	L
+Korean	42	POUR	busda	Derived	2-nom 3-loc passperV'	2	poured substance	NP-nom	
+Korean	42	POUR	busda	Derived	2-nom 3-loc passperV'	3	pouring goal	NP-loc	
+Korean	43	COVER	deopda	Basic	1-nom 2-acc 3-loc V	1	coverer	NP-nom	A
+Korean	43	COVER	deopda	Basic	1-nom 2-acc 3-loc V	2	cover	NP-acc	P
+Korean	43	COVER	deopda	Basic	1-nom 2-acc 3-loc V	3	covered thing	NP-loc	L
+Korean	43	COVER	deopda	Derived	1-nom 3-acc 2-instr V'	1	coverer	NP-nom	
+Korean	43	COVER	deopda	Derived	1-nom 3-acc 2-instr V'	2	cover	NP-instr	
+Korean	43	COVER	deopda	Derived	1-nom 3-acc 2-instr V'	3	covered thing	NP-acc	
+Korean	43	COVER	deopda	Derived	2-nom 1-dat 3-loc passV'	1	coverer	NP-dat	
+Korean	43	COVER	deopda	Derived	2-nom 1-dat 3-loc passV'	2	cover	NP-nom	
+Korean	43	COVER	deopda	Derived	2-nom 1-dat 3-loc passV'	3	covered thing	NP-loc	
+Korean	43	COVER	deopda	Derived	2-nom 3-loc passperV'	2	cover	NP-nom	
+Korean	43	COVER	deopda	Derived	2-nom 3-loc passperV'	3	covered thing	NP-loc	
+Korean	44	FILL	chada	Basic	1-nom 2-loc V	1	filler	NP-nom	S
+Korean	44	FILL	chada	Basic	1-nom 2-loc V	2	filled container	NP-loc	L
+Korean	44	FILL	chada	Derived	2-nom 1-instr V'	1	filler	NP-instr	
+Korean	44	FILL	chada	Derived	2-nom 1-instr V'	2	filled container	NP-nom	
+Korean	44	FILL	chada	Derived	4-nom 1-acc 2-loc causV'	1	filler	NP-acc	
+Korean	44	FILL	chada	Derived	4-nom 1-acc 2-loc causV'	2	filled container	NP-loc	
+Korean	44	FILL	chada	Derived	4-nom 1-acc 2-loc causV'	4	fill causer	NP-nom	
+Korean	44	FILL	chaeuda	Basic	1-nom 2-acc 3-loc V	1	filler	NP-nom	A
+Korean	44	FILL	chaeuda	Basic	1-nom 2-acc 3-loc V	2	filling material	NP-acc	P
+Korean	44	FILL	chaeuda	Basic	1-nom 2-acc 3-loc V	3	filled container	NP-loc	L
+Korean	45	LOAD	sidda	Basic	1-nom 2-acc 3-loc V	1	loader	NP-nom	A
+Korean	45	LOAD	sidda	Basic	1-nom 2-acc 3-loc V	2	loaded thing	NP-acc	P
+Korean	45	LOAD	sidda	Basic	1-nom 2-acc 3-loc V	3	loading place	NP-loc	L
+Korean	45	LOAD	sidda	Derived	2-nom 1-dat 3-loc passV'	1	loader	NP-dat	
+Korean	45	LOAD	sidda	Derived	2-nom 1-dat 3-loc passV'	2	loaded thing	NP-nom	
+Korean	45	LOAD	sidda	Derived	2-nom 1-dat 3-loc passV'	3	loading place	NP-loc	
+Korean	45	LOAD	sidda	Derived	2-nom 3-loc passperV'	2	loaded thing	NP-nom	
+Korean	45	LOAD	sidda	Derived	2-nom 3-loc passperV'	3	loading place	NP-loc	
+Korean	46	BLINK	nuneul kkambagida	Basic	1-nom V	1	blinker	NP-nom	S
+Korean	47	COUGH	gichimhada	Basic	1-nom V	1	cougher	NP-nom	S
+Korean	48	CLIMB	oreuda	Basic	1-nom 2-loc V	1	climber	NP-nom	S
+Korean	48	CLIMB	oreuda	Basic	1-nom 2-loc V	2	climbing goal	NP-loc	L
+Korean	48	CLIMB	oreuda	Derived	4-nom 1-acc 2-loc causV'	1	climber	NP-acc	
+Korean	48	CLIMB	oreuda	Derived	4-nom 1-acc 2-loc causV'	2	climbing goal	NP-loc	
+Korean	48	CLIMB	oreuda	Derived	4-nom 1-acc 2-loc causV'	4	climb causer	NP-nom	
+Korean	48	CLIMB	tada (2)	Basic	1-nom 2-acc V	1	climber	NP-nom	A
+Korean	48	CLIMB	tada (2)	Basic	1-nom 2-acc V	2	climbing goal	NP-acc	P
+Korean	49	RUN	dallida	Basic	1-nom V	1	runner	NP-nom	S
+Korean	49	RUN	ttwida	Basic	1-nom V	1	runner	NP-nom	S
+Korean	50	SIT	anja itta	Basic	1-nom 2-loc V	1	sitter	NP-nom	S
+Korean	50	SIT	anja itta	Basic	1-nom 2-loc V	2	sitting place	NP-loc	L
+Korean	51	SIT DOWN	anjda	Basic	1-nom 2-loc V	1	sitdowner	NP-nom	S
+Korean	51	SIT DOWN	anjda	Basic	1-nom 2-loc V	2	sitting-down place	NP-loc	L
+Korean	51	SIT DOWN	anjda	Derived	4-nom 1-acc 2-loc causV'	1	sitdowner	NP-acc	
+Korean	51	SIT DOWN	anjda	Derived	4-nom 1-acc 2-loc causV'	2	sitting-down place	NP-loc	
+Korean	51	SIT DOWN	anjda	Derived	4-nom 1-acc 2-loc causV'	4	sit down causer	NP-nom	
+Korean	52	JUMP	ttwida	Basic	1-nom V	1	jumper	NP-nom	S
+Korean	53	SING	noraebureuda	Basic	1-nom V	1	singer	NP-nom	S
+Korean	54	GO	gada	Basic	1-nom 2-loc V	1	goer	NP-nom	S
+Korean	54	GO	gada	Basic	1-nom 2-loc V	2	going goal	NP-loc	L
+Korean	55	LEAVE	tteonada	Basic	1-nom 2-abl V	1	leaver	NP-nom	S
+Korean	55	LEAVE	tteonada	Basic	1-nom 2-abl V	2	left place/person	NP-abl	X
+Korean	56	LIVE	salda	Basic	1-nom 2-loc V	1	liver	NP-nom	S
+Korean	56	LIVE	salda	Basic	1-nom 2-loc V	2	living place	NP-loc	L
+Korean	57	LAUGH	usda	Basic	1-nom V	1	laugher	NP-nom	S
+Korean	59	FEEL PAIN	apeuda	Basic	1-nom V	1	pain locus	NP-nom	S
+Korean	60	FEEL COLD	chubda	Basic	1-nom V	1	freezing person	NP-nom	S
+Korean	61	DIE	jugda	Basic	1-nom V	1	dieer	NP-nom	S
+Korean	61	DIE	jugda	Derived	4-nom 1-acc causV'	1	dieer	NP-acc	
+Korean	61	DIE	jugda	Derived	4-nom 1-acc causV'	4	killer/death causer	NP-nom	
+Korean	62	PLAY	nolda	Basic	1-nom V	1	player	NP-nom	S
+Korean	63	BE SAD	seulpeuda	Basic	1-nom V	1	sad person	NP-nom	S
+Korean	64	BE HUNGRY	baegopeuda	Basic	1-nom V	1	hungry person	NP-nom	S
+Korean	65	ROLL	gureuda	Basic	1-nom V	1	rolling entity	NP-nom	S
+Korean	65	ROLL	gureuda	Derived	4-nom 1-acc causV'	1	rolling entity	NP-acc	
+Korean	65	ROLL	gureuda	Derived	4-nom 1-acc causV'	4	roll causer	NP-nom	
+Korean	66	SINK	garaanjda	Basic	1-nom V	1	sunken entity	NP-nom	S
+Korean	66	SINK	garaanjda	Derived	4-nom 1-acc causV'	1	sunken entity	NP-acc	
+Korean	66	SINK	garaanjda	Derived	4-nom 1-acc causV'	4	sink-(caus)er	NP-nom	
+Korean	67	BURN	tada (1)	Basic	1-nom V	1	burnt thing	NP-nom	S
+Korean	67	BURN	tada (1)	Derived	4-nom 1-acc causV'	1	burnt thing	NP-acc	
+Korean	67	BURN	tada (1)	Derived	4-nom 1-acc causV'	4	burner	NP-nom	
+Korean	68	BE DRY	mareuda	Basic	1-nom V	1	dry thing	NP-nom	S
+Korean	68	BE DRY	mareuda	Derived	4-nom 1-acc causV'	1	dry thing	NP-acc	
+Korean	68	BE DRY	mareuda	Derived	4-nom 1-acc causV'	4	drier / dry causer	NP-nom	
+Korean	70	BE A HUNTER	sanyanggun ida	Basic	1-nom V	1	specialist/hunter	NP-nom	S
+Korean	71	GRIND	galda	Basic	1-nom 2-acc 3-instr V	1	grinder	NP-nom	A
+Korean	71	GRIND	galda	Basic	1-nom 2-acc 3-instr V	2	ground thing	NP-acc	P
+Korean	71	GRIND	galda	Basic	1-nom 2-acc 3-instr V	3	grinding instrument	NP-instr	I
+Korean	71	GRIND	galda	Derived	2-nom 3-instr passperV'	2	ground thing	NP-nom	
+Korean	71	GRIND	galda	Derived	2-nom 3-instr passperV'	3	grinding instrument	NP-instr	
+Korean	72	WIPE	dakkda	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Korean	72	WIPE	dakkda	Basic	1-nom 2-acc V	2	wiping surface	NP-acc	P
+Korean	72	WIPE	dakkda	Derived	2-nom 1-dat passV'	1	wiper	NP-dat	
+Korean	72	WIPE	dakkda	Derived	2-nom 1-dat passV'	2	wiping surface	NP-nom	
+Korean	72	WIPE	dakkda	Derived	2-nom passperV'	2	wiping surface	NP-nom	
+Korean	73	DIG	pada	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Korean	73	DIG	pada	Basic	1-nom 2-acc V	2	dug hole/ground	NP-acc	P
+Korean	73	DIG	pada	Derived	2-nom 1-dat passV'	1	digger	NP-dat	
+Korean	73	DIG	pada	Derived	2-nom 1-dat passV'	2	dug hole/ground	NP-nom	
+Korean	73	DIG	pada	Derived	2-nom passperV'	2	dug hole/ground	NP-nom	
+Korean	74	PUSH	milda	Basic	1-nom 2-acc 3-dir V	1	pusher	NP-nom	A
+Korean	74	PUSH	milda	Basic	1-nom 2-acc 3-dir V	2	pushee	NP-acc	P
+Korean	74	PUSH	milda	Basic	1-nom 2-acc 3-dir V	3	pushing goal	NP-dir	X
+Korean	74	PUSH	milda	Derived	2-nom 1-dat 3-dir passV'	1	pusher	NP-dat	
+Korean	74	PUSH	milda	Derived	2-nom 1-dat 3-dir passV'	2	pushee	NP-nom	
+Korean	74	PUSH	milda	Derived	2-nom 1-dat 3-dir passV'	3	pushing goal	NP-dir	
+Korean	74	PUSH	milda	Derived	2-nom 3-dir passperV'	2	pushee	NP-nom	
+Korean	74	PUSH	milda	Derived	2-nom 3-dir passperV'	3	pushing goal	NP-dir	
+Korean	75	BRING	gajyeogada	Basic	1-nom 2-acc 3-loc V	1	bringer	NP-nom	A
+Korean	75	BRING	gajyeogada	Basic	1-nom 2-acc 3-loc V	2	brought thing	NP-acc	P
+Korean	75	BRING	gajyeogada	Basic	1-nom 2-acc 3-loc V	3	bringing recipient	NP-loc	L
+Korean	75	BRING	gajyeooda	Basic	1-nom 2-acc LOC3 V	1	bringer	NP-nom	A
+Korean	75	BRING	gajyeooda	Basic	1-nom 2-acc LOC3 V	2	brought thing	NP-acc	P
+Korean	75	BRING	gajyeooda	Basic	1-nom 2-acc LOC3 V	3	bringing recipient	LOC	X
+Korean	76	STEAL	humchida	Basic	1-nom 2-acc 3-abl V	1	stealer	NP-nom	A
+Korean	76	STEAL	humchida	Basic	1-nom 2-acc 3-abl V	2	stolen thing	NP-acc	P
+Korean	76	STEAL	humchida	Basic	1-nom 2-acc 3-abl V	3	stealing source	NP-abl	X
+Korean	77	TEACH	gareuchida	Basic	1-nom 2-acc 3-dat V	1	teacher	NP-nom	A
+Korean	77	TEACH	gareuchida	Basic	1-nom 2-acc 3-dat V	2	taught content	NP-acc	P
+Korean	77	TEACH	gareuchida	Basic	1-nom 2-acc 3-dat V	3	teachee	NP-dat	X
+Korean	77	TEACH	gareuchida	Derived	1-nom 2-acc 3-acc V'	1	teacher	NP-nom	
+Korean	77	TEACH	gareuchida	Derived	1-nom 2-acc 3-acc V'	2	taught content	NP-acc	
+Korean	77	TEACH	gareuchida	Derived	1-nom 2-acc 3-acc V'	3	teachee	NP-acc	
+Korean	78	HEAR	deullida (1)	Basic	1-nom 2-nom V	1	hearer	NP-nom	S
+Korean	78	HEAR	deullida (1)	Basic	1-nom 2-nom V	2	heard sound	NP-nom	X
+Korean	80	BOIL	kkeulhda	Basic	1-nom V	1	boiled thing	NP-nom	S
+Korean	80	BOIL	kkeulhda	Derived	4-nom 1-acc causV'	1	boiled thing	NP-acc	
+Korean	80	BOIL	kkeulhda	Derived	4-nom 1-acc causV'	4	boiler	NP-nom	
+Korean	81	APPEAR	natanada	Basic	1-nom 2-loc V	1	appearer	NP-nom	S
+Korean	81	APPEAR	natanada	Basic	1-nom 2-loc V	2	appear location	NP-loc	L
+Korean	81	APPEAR	natanada	Derived	4-nom 1-acc 2-loc causV'	1	appearer	NP-acc	
+Korean	81	APPEAR	natanada	Derived	4-nom 1-acc 2-loc causV'	2	appear location	NP-loc	
+Korean	81	APPEAR	natanada	Derived	4-nom 1-acc 2-loc causV'	4	appear causer	NP-nom	
+Korean	83	CRY	ulda	Basic	1-nom V	1	crier	NP-nom	S
+Korean	83	CRY	ulda	Derived	4-nom 1-acc causV'	1	crier	NP-acc	
+Korean	83	CRY	ulda	Derived	4-nom 1-acc causV'	4	cry causer	NP-nom	
+Korean	84	FALL	tteoreojida	Basic	1-nom 2-abl V	1	fallee	NP-nom	S
+Korean	84	FALL	tteoreojida	Basic	1-nom 2-abl V	2	fall source	NP-abl	X
+Korean	86	GET	badda	Basic	1-nom 2-acc 3-abl V	1	receiver	NP-nom	A
+Korean	86	GET	badda	Basic	1-nom 2-acc 3-abl V	2	received thing	NP-acc	P
+Korean	86	GET	badda	Basic	1-nom 2-acc 3-abl V	3	receiving source	NP-abl	X
+Korean	87	WANT	weonhada	Basic	1-nom 2-acc V	1	wanter	NP-nom	A
+Korean	87	WANT	weonhada	Basic	1-nom 2-acc V	2	wanted thing	NP-acc	P
+Korean	146	BE BRIGHT	balgda	Basic	1-nom V	1	bright entity	NP-nom	S
+Korean	147	LISTEN	deudda	Basic	1-nom 2-acc V	1	listener	NP-nom	A
+Korean	147	LISTEN	deudda	Basic	1-nom 2-acc V	2	listened to sound	NP-acc	P
+Korean	147	LISTEN	deudda	Derived	2-nom 1-dat passV'	1	listener	NP-dat	
+Korean	147	LISTEN	deudda	Derived	2-nom 1-dat passV'	2	listened to sound	NP-nom	
+Korean	147	LISTEN	deudda	Derived	4-nom 1-dat 2-acc causV'	1	listener	NP-dat	
+Korean	147	LISTEN	deudda	Derived	4-nom 1-dat 2-acc causV'	2	listened to sound	NP-acc	
+Korean	147	LISTEN	deudda	Derived	4-nom 1-dat 2-acc causV'	4	listening causer	NP-nom	
+Korean	150	SHAVE (self)	myeondohada	Basic	1-nom V	1	shaver (of self)	NP-nom	S

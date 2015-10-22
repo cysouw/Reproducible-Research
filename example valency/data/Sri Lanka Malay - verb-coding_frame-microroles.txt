@@ -1,0 +1,189 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Sri Lanka Malay	1	EAT	maakang	Basic	1 2-acc V	1	eater	Ø	A
+Sri Lanka Malay	1	EAT	maakang	Basic	1 2-acc V	2	eaten food	NP-acc	P
+Sri Lanka Malay	2	HUG	pullok	Basic	1 2-acc V	1	hugger	Ø	A
+Sri Lanka Malay	2	HUG	pullok	Basic	1 2-acc V	2	huggee	NP-acc	P
+Sri Lanka Malay	3	LOOK AT	diyath	Basic	1-dat 2-acc V	1	looker	NP-dat	X
+Sri Lanka Malay	3	LOOK AT	diyath	Basic	1-dat 2-acc V	2	looked at entity	NP-acc	X
+Sri Lanka Malay	4	SEE	kuthumung	Basic	1 2-acc V	1	seeer	Ø	A
+Sri Lanka Malay	4	SEE	kuthumung	Basic	1 2-acc V	2	seen entity	NP-acc	P
+Sri Lanka Malay	5	SMELL	vaanging liiyath	Basic	1 V	1	smeller	Ø	S
+Sri Lanka Malay	6	FEAR	thaakuth	Basic	1 2-dat V	1	fearer	Ø	S
+Sri Lanka Malay	6	FEAR	thaakuth	Basic	1 2-dat V	2	fear stimulus	NP-dat	X
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	Basic	1 2-acc V	1	frightener	Ø	A
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	Basic	1 2-acc V	2	frightenee	NP-acc	P
+Sri Lanka Malay	8	LIKE	suuka	Basic	1 2-dat V	1	liked entity	Ø	S
+Sri Lanka Malay	8	LIKE	suuka	Basic	1 2-dat V	2	liker	NP-dat	X
+Sri Lanka Malay	9	KNOW	thaau	Basic	1-dat 2-acc V	1	knower	NP-dat	X
+Sri Lanka Malay	9	KNOW	thaau	Basic	1-dat 2-acc V	2	known thing/person	NP-acc	X
+Sri Lanka Malay	10	THINK	iingath	Basic	1 2-acc V	1	thinker	Ø	A
+Sri Lanka Malay	10	THINK	iingath	Basic	1 2-acc V	2	thought content	NP-acc	P
+Sri Lanka Malay	10	THINK	thaksir	Basic	1 2-acc V	1	thinker	Ø	A
+Sri Lanka Malay	10	THINK	thaksir	Basic	1 2-acc V	2	thought content	NP-acc	P
+Sri Lanka Malay	11	SEARCH FOR	caari	Basic	1 2-acc V	1	searcher	Ø	A
+Sri Lanka Malay	11	SEARCH FOR	caari	Basic	1 2-acc V	2	searched for thing	NP-acc	P
+Sri Lanka Malay	12	WASH	cuuci	Basic	1 2-acc V	1	washer	Ø	A
+Sri Lanka Malay	12	WASH	cuuci	Basic	1 2-acc V	2	washed entity	NP-acc	P
+Sri Lanka Malay	13	DRESS	pakeking	Basic	1 2-acc V	1	dresser	Ø	A
+Sri Lanka Malay	13	DRESS	pakeking	Basic	1 2-acc V	2	dressee	NP-acc	P
+Sri Lanka Malay	15	HELP	banthu	Basic	1 2-dat V	1	helper	Ø	S
+Sri Lanka Malay	15	HELP	banthu	Basic	1 2-dat V	2	helpee	NP-dat	X
+Sri Lanka Malay	16	FOLLOW	pii (2)	Basic	1 2-abl V	1	follower	Ø	S
+Sri Lanka Malay	16	FOLLOW	pii (2)	Basic	1 2-abl V	2	followee	NP-abl	I
+Sri Lanka Malay	17	MEET	caanda	Basic	1-dat 2-acc V	1	meeter	NP-dat	X
+Sri Lanka Malay	17	MEET	caanda	Basic	1-dat 2-acc V	2	met person	NP-acc	X
+Sri Lanka Malay	18	TALK	oomong	Basic	1 2-dat 3-abl V	1	talker	Ø	S
+Sri Lanka Malay	18	TALK	oomong	Basic	1 2-dat 3-abl V	2	talked to person	NP-dat	X
+Sri Lanka Malay	18	TALK	oomong	Basic	1 2-dat 3-abl V	3	talked about content	NP-abl	I
+Sri Lanka Malay	19	ASK FOR	mintha	Basic	1 2-loc 3-acc V	1	asker	Ø	A
+Sri Lanka Malay	19	ASK FOR	mintha	Basic	1 2-loc 3-acc V	2	askee	NP-loc	X
+Sri Lanka Malay	19	ASK FOR	mintha	Basic	1 2-loc 3-acc V	3	requested thing	NP-acc	P
+Sri Lanka Malay	20	SHOUT AT	kaaluth	Basic	1 2-dat V	1	shouter	Ø	S
+Sri Lanka Malay	20	SHOUT AT	kaaluth	Basic	1 2-dat V	2	shoutee	NP-dat	X
+Sri Lanka Malay	21	TELL	biilang	Basic	1 2-dat UTT3 V	1	teller	Ø	S
+Sri Lanka Malay	21	TELL	biilang	Basic	1 2-dat UTT3 V	2	tellee	NP-dat	X
+Sri Lanka Malay	21	TELL	biilang	Basic	1 2-dat UTT3 V	3	told content	UTT	X
+Sri Lanka Malay	22	SAY	biilang	Basic	1 2-dat UTT3 V	1	sayer	Ø	S
+Sri Lanka Malay	22	SAY	biilang	Basic	1 2-dat UTT3 V	2	saying addressee	NP-dat	X
+Sri Lanka Malay	22	SAY	biilang	Basic	1 2-dat UTT3 V	3	said content	UTT	X
+Sri Lanka Malay	23	NAME	naama thaaro	Basic	1 2-dat 3+katha V	1	namer	Ø	S
+Sri Lanka Malay	23	NAME	naama thaaro	Basic	1 2-dat 3+katha V	2	namee	NP-dat	X
+Sri Lanka Malay	23	NAME	naama thaaro	Basic	1 2-dat 3+katha V	3	name	NP+katha	X
+Sri Lanka Malay	24	BUILD	ikkath (1)	Basic	1 2-acc 3-abl V	1	builder	Ø	A
+Sri Lanka Malay	24	BUILD	ikkath (1)	Basic	1 2-acc 3-abl V	2	built thing	NP-acc	P
+Sri Lanka Malay	24	BUILD	ikkath (1)	Basic	1 2-acc 3-abl V	3	building material	NP-abl	I
+Sri Lanka Malay	25	BREAK	picaking	Basic	1 2-acc 3-abl V	1	breaker	Ø	A
+Sri Lanka Malay	25	BREAK	picaking	Basic	1 2-acc 3-abl V	2	broken thing	NP-acc	P
+Sri Lanka Malay	25	BREAK	picaking	Basic	1 2-acc 3-abl V	3	breaking instrument	NP-abl	I
+Sri Lanka Malay	26	KILL	buunung	Basic	1 2-acc 3-abl V	1	killer	Ø	A
+Sri Lanka Malay	26	KILL	buunung	Basic	1 2-acc 3-abl V	2	killee	NP-acc	P
+Sri Lanka Malay	26	KILL	buunung	Basic	1 2-acc 3-abl V	3	killing instrument	NP-abl	I
+Sri Lanka Malay	26	KILL	mathiking	Basic	1 2-acc 3-abl V	1	killer	Ø	A
+Sri Lanka Malay	26	KILL	mathiking	Basic	1 2-acc 3-abl V	2	killee	NP-acc	P
+Sri Lanka Malay	26	KILL	mathiking	Basic	1 2-acc 3-abl V	3	killing instrument	NP-abl	I
+Sri Lanka Malay	27	BEAT	puukul	Basic	1 2-acc 3-abl V	1	beater	Ø	A
+Sri Lanka Malay	27	BEAT	puukul	Basic	1 2-acc 3-abl V	2	beatee	NP-acc	P
+Sri Lanka Malay	27	BEAT	puukul	Basic	1 2-acc 3-abl V	3	beating instrument	NP-abl	I
+Sri Lanka Malay	28	HIT	puukul	Basic	1 2-acc 3-abl V	1	hitter	Ø	A
+Sri Lanka Malay	28	HIT	puukul	Basic	1 2-acc 3-abl V	2	hittee	NP-acc	P
+Sri Lanka Malay	28	HIT	puukul	Basic	1 2-acc 3-abl V	3	hitting instrument	NP-abl	I
+Sri Lanka Malay	29	TOUCH	thìkkam	Basic	1 2-dat 3-abl V	1	toucher	Ø	S
+Sri Lanka Malay	29	TOUCH	thìkkam	Basic	1 2-dat 3-abl V	2	touchee	NP-dat	X
+Sri Lanka Malay	29	TOUCH	thìkkam	Basic	1 2-dat 3-abl V	3	touching instrument	NP-abl	I
+Sri Lanka Malay	30	CUT	poothong	Basic	1 2-acc V	1	cutter	Ø	A
+Sri Lanka Malay	30	CUT	poothong	Basic	1 2-acc V	2	cut thing	NP-acc	P
+Sri Lanka Malay	31	TAKE	ambel	Basic	1 2-acc 3-abl V	1	taker	Ø	A
+Sri Lanka Malay	31	TAKE	ambel	Basic	1 2-acc 3-abl V	2	taken thing	NP-acc	P
+Sri Lanka Malay	31	TAKE	ambel	Basic	1 2-acc 3-abl V	3	taking source	NP-abl	I
+Sri Lanka Malay	32	TEAR	soovek(kang)	Basic	1 2-acc 3-abl V	1	tearer	Ø	A
+Sri Lanka Malay	32	TEAR	soovek(kang)	Basic	1 2-acc 3-abl V	2	torn thing	NP-acc	P
+Sri Lanka Malay	32	TEAR	soovek(kang)	Basic	1 2-acc 3-abl V	3	tearing source	NP-abl	I
+Sri Lanka Malay	33	PEEL	kuupas	Basic	1 2-acc V	1	peeler	Ø	A
+Sri Lanka Malay	33	PEEL	kuupas	Basic	1 2-acc V	2	peeled object	NP-acc	P
+Sri Lanka Malay	34	HIDE	sbuuniking	Basic	1 2-acc 3-abl V	1	hider	Ø	A
+Sri Lanka Malay	34	HIDE	sbuuniking	Basic	1 2-acc 3-abl V	2	hidden thing	NP-acc	P
+Sri Lanka Malay	34	HIDE	sbuuniking	Basic	1 2-acc 3-abl V	3	hiding affectee	NP-abl	I
+Sri Lanka Malay	35	SHOW	cunjiking	Basic	1 2-acc 3-dat V	1	shower	Ø	A
+Sri Lanka Malay	35	SHOW	cunjiking	Basic	1 2-acc 3-dat V	2	shown thing	NP-acc	P
+Sri Lanka Malay	35	SHOW	cunjiking	Basic	1 2-acc 3-dat V	3	showing addressee	NP-dat	X
+Sri Lanka Malay	36	GIVE	kaasi	Basic	1 2-acc 3-dat V	1	giver	Ø	A
+Sri Lanka Malay	36	GIVE	kaasi	Basic	1 2-acc 3-dat V	2	gift	NP-acc	P
+Sri Lanka Malay	36	GIVE	kaasi	Basic	1 2-acc 3-dat V	3	giving recipient	NP-dat	X
+Sri Lanka Malay	37	SEND	kiiring	Basic	1 2-acc 3-dat V	1	sender	Ø	A
+Sri Lanka Malay	37	SEND	kiiring	Basic	1 2-acc 3-dat V	2	sent thing	NP-acc	P
+Sri Lanka Malay	37	SEND	kiiring	Basic	1 2-acc 3-dat V	3	sending recipient	NP-dat	X
+Sri Lanka Malay	38	CARRY	angkath baapi	Basic	1 2-dat 3 V	1	carrier	Ø	S
+Sri Lanka Malay	38	CARRY	angkath baapi	Basic	1 2-dat 3 V	2	carrying goal	NP-dat	X
+Sri Lanka Malay	38	CARRY	angkath baapi	Basic	1 2-dat 3 V	3	carried thing	Ø	X
+Sri Lanka Malay	39	THROW	buwang	Basic	1 2-acc 3-dat V	1	thrower	Ø	A
+Sri Lanka Malay	39	THROW	buwang	Basic	1 2-acc 3-dat V	2	thrown thing	NP-acc	P
+Sri Lanka Malay	39	THROW	buwang	Basic	1 2-acc 3-dat V	3	throwing goal	NP-dat	X
+Sri Lanka Malay	40	TIE	ikkath (2)	Basic	1 2-acc 3-dat V	1	tier	Ø	A
+Sri Lanka Malay	40	TIE	ikkath (2)	Basic	1 2-acc 3-dat V	2	tied thing	NP-acc	P
+Sri Lanka Malay	40	TIE	ikkath (2)	Basic	1 2-acc 3-dat V	3	tying goal	NP-dat	X
+Sri Lanka Malay	41	PUT	thaaro	Basic	1 2-acc LOC3 V	1	putter	Ø	A
+Sri Lanka Malay	41	PUT	thaaro	Basic	1 2-acc LOC3 V	2	put thing	NP-acc	P
+Sri Lanka Malay	41	PUT	thaaro	Basic	1 2-acc LOC3 V	3	putting goal	LOC	L
+Sri Lanka Malay	42	POUR	thuuwang	Basic	1 2-acc LOC3 V	1	pourer	Ø	A
+Sri Lanka Malay	42	POUR	thuuwang	Basic	1 2-acc LOC3 V	2	poured substance	NP-acc	P
+Sri Lanka Malay	42	POUR	thuuwang	Basic	1 2-acc LOC3 V	3	pouring goal	LOC	L
+Sri Lanka Malay	43	COVER	thuuthup	Basic	1 2-acc 3-abl V	1	coverer	Ø	A
+Sri Lanka Malay	43	COVER	thuuthup	Basic	1 2-acc 3-abl V	2	covered thing	NP-acc	P
+Sri Lanka Malay	43	COVER	thuuthup	Basic	1 2-acc 3-abl V	3	cover	NP-abl	I
+Sri Lanka Malay	44	FILL	punuking	Basic	1 2-acc 3-abl V	1	filler	Ø	A
+Sri Lanka Malay	44	FILL	punuking	Basic	1 2-acc 3-abl V	2	filled container	NP-acc	P
+Sri Lanka Malay	44	FILL	punuking	Basic	1 2-acc 3-abl V	3	filling material	NP-abl	I
+Sri Lanka Malay	44	FILL	thuuwang	Basic	1 2-acc LOC3 V	1	filler	Ø	A
+Sri Lanka Malay	44	FILL	thuuwang	Basic	1 2-acc LOC3 V	2	filling material	NP-acc	P
+Sri Lanka Malay	44	FILL	thuuwang	Basic	1 2-acc LOC3 V	3	filled container	LOC	L
+Sri Lanka Malay	45	LOAD	thaaro	Basic	1 2-acc LOC3 V	1	loader	Ø	A
+Sri Lanka Malay	45	LOAD	thaaro	Basic	1 2-acc LOC3 V	2	loaded thing	NP-acc	P
+Sri Lanka Malay	45	LOAD	thaaro	Basic	1 2-acc LOC3 V	3	loading place	LOC	L
+Sri Lanka Malay	47	COUGH	baathok	Basic	1 V	1	cougher	Ø	S
+Sri Lanka Malay	48	CLIMB	naayek	Basic	1 2-dat V	1	climber	Ø	S
+Sri Lanka Malay	48	CLIMB	naayek	Basic	1 2-dat V	2	climbing goal	NP-dat	X
+Sri Lanka Malay	49	RUN	laari	Basic	1 V	1	runner	Ø	S
+Sri Lanka Malay	50	SIT	duuduk	Basic	1 LOC2 V	1	sitter	Ø	S
+Sri Lanka Malay	50	SIT	duuduk	Basic	1 LOC2 V	2	sitting place	LOC	L
+Sri Lanka Malay	51	SIT DOWN	duuduk	Basic	1 LOC2 V	1	sitdowner	Ø	S
+Sri Lanka Malay	51	SIT DOWN	duuduk	Basic	1 LOC2 V	2	sitting-down place	LOC	L
+Sri Lanka Malay	52	JUMP	lompath	Basic	1 V	1	jumper	Ø	S
+Sri Lanka Malay	53	SING	nyaanyi	Basic	1 V	1	singer	Ø	S
+Sri Lanka Malay	54	GO	pii (1)	Basic	1 2-dat V	1	goer	Ø	S
+Sri Lanka Malay	54	GO	pii (1)	Basic	1 2-dat V	2	going goal	NP-dat	X
+Sri Lanka Malay	55	LEAVE	luppas	Basic	1 2 V	1	leaver	Ø	S
+Sri Lanka Malay	55	LEAVE	luppas	Basic	1 2 V	2	left place/person	Ø	X
+Sri Lanka Malay	55	LEAVE	pii (2)	Basic	1 2-abl V	1	leaver	Ø	S
+Sri Lanka Malay	55	LEAVE	pii (2)	Basic	1 2-abl V	2	left place/person	NP-abl	I
+Sri Lanka Malay	56	LIVE	duuduk	Basic	1 LOC2 V	1	liver	Ø	S
+Sri Lanka Malay	56	LIVE	duuduk	Basic	1 LOC2 V	2	living place	LOC	L
+Sri Lanka Malay	58	SCREAM	bitharak	Basic	1 V	1	screamer	Ø	S
+Sri Lanka Malay	59	FEEL PAIN	saakith	Basic	1 V	1	pain locus	Ø	S
+Sri Lanka Malay	60	FEEL COLD	diinging	Basic	1-dat V	1	freezing person	NP-dat	X
+Sri Lanka Malay	61	DIE	maathi	Basic	1 V	1	dieer	Ø	S
+Sri Lanka Malay	61	DIE	mniinggal	Basic	1 V	1	dieer	Ø	S
+Sri Lanka Malay	62	PLAY	maayeng	Basic	1 V	1	player	Ø	S
+Sri Lanka Malay	63	BE SAD	suusa	Basic	1-dat V	1	sad person	NP-dat	X
+Sri Lanka Malay	64	BE HUNGRY	laapar	Basic	1-dat V	1	hungry person	NP-dat	X
+Sri Lanka Malay	66	SINK	thìnggalam	Basic	1-acc V	1	sunken entity	NP-acc	X
+Sri Lanka Malay	67	BURN	appi aràpeegang	Basic	1-dat V	1	burnt thing	NP-dat	X
+Sri Lanka Malay	68	BE DRY	kìrring	Basic	1 V	1	dry thing	Ø	S
+Sri Lanka Malay	70	BE A HUNTER	oorang neembak	Basic	1 V	1	specialist/hunter	Ø	S
+Sri Lanka Malay	71	GRIND	giiling	Basic	1 2-acc 3-abl V	1	grinder	Ø	A
+Sri Lanka Malay	71	GRIND	giiling	Basic	1 2-acc 3-abl V	2	ground thing	NP-acc	P
+Sri Lanka Malay	71	GRIND	giiling	Basic	1 2-acc 3-abl V	3	grinding instrument	NP-abl	I
+Sri Lanka Malay	72	WIPE	saapu	Basic	1 2-acc 3-abl V	1	wiper	Ø	A
+Sri Lanka Malay	72	WIPE	saapu	Basic	1 2-acc 3-abl V	2	wiped material	NP-acc	P
+Sri Lanka Malay	72	WIPE	saapu	Basic	1 2-acc 3-abl V	3	wiping surface	NP-abl	I
+Sri Lanka Malay	73	DIG	gaali	Basic	1 2-acc V	1	digger	Ø	A
+Sri Lanka Malay	73	DIG	gaali	Basic	1 2-acc V	2	dug up thing	NP-acc	P
+Sri Lanka Malay	74	PUSH	thoolak	Basic	1 2-acc 3-dat V	1	pusher	Ø	A
+Sri Lanka Malay	74	PUSH	thoolak	Basic	1 2-acc 3-dat V	2	pushee	NP-acc	P
+Sri Lanka Malay	74	PUSH	thoolak	Basic	1 2-acc 3-dat V	3	pushing goal	NP-dat	X
+Sri Lanka Malay	75	BRING	baa(va)	Basic	1 2-acc 3-dat V	1	bringer	Ø	A
+Sri Lanka Malay	75	BRING	baa(va)	Basic	1 2-acc 3-dat V	2	brought thing	NP-acc	P
+Sri Lanka Malay	75	BRING	baa(va)	Basic	1 2-acc 3-dat V	3	bringing recipient	NP-dat	X
+Sri Lanka Malay	76	STEAL	cuuri	Basic	1 2-acc 3-abl V	1	stealer	Ø	A
+Sri Lanka Malay	76	STEAL	cuuri	Basic	1 2-acc 3-abl V	2	stolen thing	NP-acc	P
+Sri Lanka Malay	76	STEAL	cuuri	Basic	1 2-acc 3-abl V	3	stealing source	NP-abl	I
+Sri Lanka Malay	77	TEACH	aajar	Basic	1 2-dat 3 V	1	teacher	Ø	S
+Sri Lanka Malay	77	TEACH	aajar	Basic	1 2-dat 3 V	2	teachee	NP-dat	X
+Sri Lanka Malay	77	TEACH	aajar	Basic	1 2-dat 3 V	3	taught content	Ø	X
+Sri Lanka Malay	78	HEAR	dìnngar	Basic	1-dat 2-acc V	1	hearer	NP-dat	X
+Sri Lanka Malay	78	HEAR	dìnngar	Basic	1-dat 2-acc V	2	heard sound	NP-acc	X
+Sri Lanka Malay	79	COOK	maasak	Basic	1 2-acc V	1	cooker	Ø	A
+Sri Lanka Malay	79	COOK	maasak	Basic	1 2-acc V	2	cooked food	NP-acc	P
+Sri Lanka Malay	80	BOIL	mdiidi	Basic	1 V	1	boiled thing	Ø	S
+Sri Lanka Malay	82	BE ILL	thàràsìggar	Basic	1-dat V	1	sick person	NP-dat	X
+Sri Lanka Malay	83	CRY	naangis	Basic	1 V	1	crier	Ø	S
+Sri Lanka Malay	84	FALL	jaatho	Basic	1 V	1	fallee	Ø	S
+Sri Lanka Malay	85	MAKE	kijja	Basic	1 2-acc 3-abl V	1	maker	Ø	A
+Sri Lanka Malay	85	MAKE	kijja	Basic	1 2-acc 3-abl V	2	made thing	NP-acc	P
+Sri Lanka Malay	85	MAKE	kijja	Basic	1 2-acc 3-abl V	3	making material	NP-abl	I
+Sri Lanka Malay	86	GET	daapath	Basic	1-dat 2-loc 3-acc V	1	receiver	NP-acc	X
+Sri Lanka Malay	86	GET	daapath	Basic	1-dat 2-loc 3-acc V	2	receiving source	NP-dat	X
+Sri Lanka Malay	86	GET	daapath	Basic	1-dat 2-loc 3-acc V	3	received thing	NP-loc	X
+Sri Lanka Malay	87	WANT	maau	Basic	1-dat 2-acc V	1	wanter	NP-dat	X
+Sri Lanka Malay	87	WANT	maau	Basic	1-dat 2-acc V	2	wanted thing	NP-acc	X
+Sri Lanka Malay	126	BOIL (tr)	rubbus	Basic	1 2-acc V	1	boiler (tr)	Ø	A
+Sri Lanka Malay	126	BOIL (tr)	rubbus	Basic	1 2-acc V	2	boiled thing (tr)	NP-acc	P

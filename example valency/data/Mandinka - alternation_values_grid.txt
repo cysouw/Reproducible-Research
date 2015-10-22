@@ -1,0 +1,103 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Active/Passive Alternation	Antipassive Middle	Causative Alternation	Causative Derivation 1	Causative Derivation 2	Deobjective Alternation	Intransitive/Middle Alternation	Noncausative Alternation	Object/Oblique Permutation	Oblique/Object Alternation	Postposition Incorporation	Subject/Oblique Alternation
+Mandinka	1	EAT	dómo	10, 11, 12, 13, 14	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	2	HUG	míniŋ	15, 16, 17, 18, 19	1 > V > 2+la	Never	Never	Regularly	Never	Marginally	Never	Marginally	No data	Never	Marginally	Never	Never
+Mandinka	3	LOOK AT	féle	23	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	4	SEE	jé	24, 25, 26	1 > 2 > V	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	5	SMELL	súmbu	27	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	6	FEAR	sílaŋ	28, 29	1 > V > 2+la	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	7	FRIGHTEN	sílándi	29	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	8	LIKE	lafi	30, 31, 32, 33	1 > V > 2+la	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	8	LIKE	kanu	34, 35	1 > 2 > V	Marginally	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	8	LIKE	díyaa	264	1 > V > 2+ye	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	9	KNOW	lóŋ	20, 21, 22	1 > 2 > V	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Mandinka	10	THINK	í míira	36, 37	1 > V > 2+la	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	11	SEARCH FOR	ñíni	38	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	12	WASH	kuu	39, 40, 41, 42, 43, 44	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	13	DRESS	duŋ (1)	70, 71, 72, 73, 74, 75	1 > 2 > V > 3+la	Marginally	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	14	SHAVE (a body part/person)	líi	76, 77	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	15	HELP	máakóyi	45	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	16	FOLLOW	báyíndi	46	1 > 2 > V	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	16	FOLLOW	bula (2)	53	1 > V > 2+nooma	Never	No data	Never	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Mandinka	17	MEET	beŋ	3, 4, 5, 6, 7	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	17	MEET	tara	8, 9	1 > 2 > V	Marginally	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Mandinka	18	TALK	fó	57, 58, 59, 60, 61, 62	1 > 2 > V > 3+ye	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	18	TALK	kúma	257, 258, 259, 260	1 > V (> 2+ye)	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	19	ASK FOR	dáani	63, 64	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Mandinka	20	SHOUT AT	sári	65, 67, 68, 69	1 > V (> LOC2)	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mandinka	21	TELL	fó	57, 58, 59, 60, 61, 62	1 > 2 > V > 3+ye	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	21	TELL	no verbal counterpart	177, 178	N/A	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	22	SAY															
+Mandinka	23	NAME	tóo láa	66	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	23	NAME	kúmándi (2)	273	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	24	BUILD	loo	78, 79, 80, 81, 82, 83	1 > 2 > V > 3+la	Regularly	Never	Never	Marginally	Regularly	Never	Regularly	Regularly	Never	Never	Never	Never
+Mandinka	25	BREAK	káti	84, 85	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	No data	Never	Never	Never	Never
+Mandinka	25	BREAK	teyi (1)	90, 91	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Mandinka	26	KILL	faa (1)	106, 107, 108	1 > 2 > V > 3+la	Marginally	Never	No data	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Mandinka	27	BEAT	búsa (1)	110, 111, 112	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	28	HIT	búsa (1)	110, 111, 112	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	29	TOUCH	maa	113	1 > 2 > V > 3+la	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	30	CUT	kuntu	114, 115	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	30	CUT	teyi (2)	116	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	31	TAKE	taa	117	1 > 2 > V > 3+bulu	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	32	TEAR	farasi	1, 2	1 > 2 > V > 3+bala	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	33	PEEL	wóto	131	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	33	PEEL	bóndi	47	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	34	HIDE	maabo	118, 119, 120, 121, 122, 123	1 > 2 > V > 3+ma	Regularly	Never	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Mandinka	35	SHOW	yitandi	124, 125, 126	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	36	GIVE	díi	127, 128	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Mandinka	36	GIVE	só	129	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	37	SEND	kíi	130	1 > 2 > V > 3+ye	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	38	CARRY	samba	132, 133, 134	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	38	CARRY	táa (2)	137	1 > V > 2+ti > LOC3	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Mandinka	39	THROW	fáyi	143	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	39	THROW	búŋ	144, 145	1 > 2 > V > 3+la	Regularly	Never	No data	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	40	TIE	siti	146, 147, 148	1 > 2 > V > 3+bala > 4+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	41	PUT	bula (1)	48, 49, 50, 51, 52, 54, 55, 56	1 > 2 > V > LOC3	Marginally	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Never
+Mandinka	41	PUT	láa (1)	98, 99, 100, 101, 102, 103	1 > 2 > V > LOC3	Regularly	Never	Never	Regularly	Regularly	Never	Never	No data	Never	Never	Never	Never
+Mandinka	41	PUT	ké (1)	104, 105	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	42	POUR	boŋ	149, 150	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	42	POUR	soo	151, 152	1 > 2 > V > 3+kóno	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	43	COVER	múura	153	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	44	FILL	fándi	154, 155, 156, 157, 158, 159	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	45	LOAD	láa (1)	98, 99, 100, 101, 102, 103	1 > 2 > V > LOC3	Regularly	Never	Never	Regularly	Regularly	Never	Never	No data	Never	Never	Never	Never
+Mandinka	46	BLINK	ñâa káti	86	1 > V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Mandinka	47	COUGH	tootoo	160, 161	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	48	CLIMB	sele	162, 163, 164	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mandinka	49	RUN	bori	165, 166, 167, 168, 169	1 > V	Never	Never	Marginally	Regularly	Never	Never	Regularly	No data	Never	Never	Never	Never
+Mandinka	50	SIT	sii	170, 171, 172	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	51	SIT DOWN	sii	170, 171, 172	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	52	JUMP	sawuŋ	173, 174, 175, 176	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	53	SING															
+Mandinka	54	GO	táa (1)	135, 136, 137	1 > V > LOC2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	55	LEAVE	bó (1)	92, 93, 94, 95	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	No data	Never	Never	Never	Never
+Mandinka	55	LEAVE	bula (3)	96, 97	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	56	LIVE	sii	170, 171, 172	1 > V > LOC2	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	56	LIVE	báluu	292, 293, 294	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	57	LAUGH	jéle	179, 180, 181, 182	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mandinka	58	SCREAM	sári	65, 67, 68, 69	1 > V (> LOC2)	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mandinka	59	FEEL PAIN	dímiŋ	183, 184, 185	1 > 2 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	60	FEEL COLD	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	61	DIE	saa	109	1 > V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	61	DIE	faa (2)	107	1 > V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Mandinka	62	PLAY	túluŋ	186, 187, 188, 189	1 > V > 2+la	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mandinka	63	BE SAD	sunu	190, 191, 192	1 > V	Never	Never	Regularly	Regularly	Never	Never	Never	No data	Never	Never	Never	Never
+Mandinka	64	BE HUNGRY	kóŋko	193, 194	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	65	ROLL	bori	165, 166, 167, 168, 169	1 > V	Never	Never	Marginally	Regularly	Never	Never	Regularly	No data	Never	Never	Never	Never
+Mandinka	66	SINK	túuneŋ	195	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	67	BURN	jani	196, 197	1 > V	Never	Never	Regularly	Never	Never	Never	Never	No data	Never	Never	Never	Never
+Mandinka	68	BE DRY	jaa	198, 199	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	69	RAIN	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	70	BE A HUNTER	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Mandinka	71	GRIND	síi	200	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	72	WIPE	kóŋkoŋ	201	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	72	WIPE	fíta	202	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	73	DIG	siŋ	203, 204	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	74	PUSH	ñori	205, 206, 207	1 > 2 > V	Marginally	Never	No data	Regularly	Never	Never	Never	No data	Never	Never	Never	Never
+Mandinka	75	BRING	samba	132, 133, 134	1 > 2 > V > LOC3	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	75	BRING	naa (1)	139, 140, 141, 142	1 > V > 2+ti > 3+ye	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Mandinka	76	STEAL	suuñaa	208, 209	1 > 2 > V > 3+bulu	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Mandinka	77	TEACH	karandi	212, 213, 214, 215	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Mandinka	77	TEACH	nikindi	210, 211	1 > 2 > V > 3+la	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	78	HEAR	moyi	216, 217, 218, 219, 220	1 > 2 > V	Regularly	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	79	COOK	tábi	221, 222, 223, 224	1 > 2 > V	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Mandinka	80	BOIL	fáji	225, 226	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never

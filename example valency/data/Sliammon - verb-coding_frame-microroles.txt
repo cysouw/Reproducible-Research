@@ -1,0 +1,154 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Sliammon	1	EAT	məkʷ-t	Basic	V.obj[1].sbj[2] 1	1	eaten food	V.obj	P
+Sliammon	1	EAT	məkʷ-t	Basic	V.obj[1].sbj[2] 1	2	eater	V.sbj	A
+Sliammon	1	EAT	ʔiɬtən	Basic	V.sbj[1] 1 obl-2	1	eater	V.sbj	S
+Sliammon	1	EAT	ʔiɬtən	Basic	V.sbj[1] 1 obl-2	2	eaten food	obl-NP	L
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Basic	V.obj[1].sbj[2] 1	1	huggee	V.obj	P
+Sliammon	2	HUG	x̣ʷuǰ-u-t	Basic	V.obj[1].sbj[2] 1	2	hugger	V.sbj	A
+Sliammon	3	LOOK AT	kʼʷən-t	Basic	V.obj[1].sbj[2] 1	1	looked at entity	V.obj	P
+Sliammon	3	LOOK AT	kʼʷən-t	Basic	V.obj[1].sbj[2] 1	2	looker	V.sbj	A
+Sliammon	4	SEE	kʼʷən-t	Basic	V.obj[1].sbj[2] 1	1	seen entity	V.obj	P
+Sliammon	4	SEE	kʼʷən-t	Basic	V.obj[1].sbj[2] 1	2	seeer	V.sbj	A
+Sliammon	5	SMELL	həqʷ-t	Basic	V.obj[1].sbj[2] 1	1	smelled entity	V.obj	P
+Sliammon	5	SMELL	həqʷ-t	Basic	V.obj[1].sbj[2] 1	2	smeller	V.sbj	A
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Basic	V.obj[1].sbj[2] 1	1	fear stimulus	V.obj	P
+Sliammon	6	FEAR	saysaǰʼ-mi-t	Basic	V.obj[1].sbj[2] 1	2	fearer	V.sbj	A
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Basic	V.obj[1].sbj[2] 1	1	frightenee	V.obj	P
+Sliammon	7	FRIGHTEN	x̣əyp-a-t	Basic	V.obj[1].sbj[2] 1	2	frightener	V.sbj	A
+Sliammon	8	LIKE	ʔəy-sxʷ	Basic	V.obj[1].sbj[2] 1	1	liker	V.obj	P
+Sliammon	8	LIKE	ʔəy-sxʷ	Basic	V.obj[1].sbj[2] 1	2	liked entity	V.sbj	A
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Basic	V.obj[1].sbj[2] 1	1	known thing/person	V.obj	P
+Sliammon	9	KNOW	təx̣ʷ-nixʷ	Basic	V.obj[1].sbj[2] 1	2	knower	V.sbj	A
+Sliammon	10	THINK	nu-np-igan-mi-t	Basic	V.obj[1].sbj[2] 1	1	thought content	V.obj	P
+Sliammon	10	THINK	nu-np-igan-mi-t	Basic	V.obj[1].sbj[2] 1	2	thinker	V.sbj	A
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Basic	V.obj[1].sbj[2] 1	1	searched for thing	V.obj	P
+Sliammon	11	SEARCH FOR	tʼᶿiy-i-t	Basic	V.obj[1].sbj[2] 1	2	searcher	V.sbj	A
+Sliammon	12	WASH	θap-a-t	Basic	V.obj[1].sbj[2] 1	1	washed entity	V.obj	P
+Sliammon	12	WASH	θap-a-t	Basic	V.obj[1].sbj[2] 1	2	washer	V.sbj	A
+Sliammon	13	DRESS	niʔ-i-t	Basic	V.obj[1].sbj[2] 1	1	dressee	V.obj	P
+Sliammon	13	DRESS	niʔ-i-t	Basic	V.obj[1].sbj[2] 1	2	dresser	V.sbj	A
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Basic	V.obj[1].sbj[2] 1	1	shaved body part	V.obj	P
+Sliammon	14	SHAVE (a body part/person)	sax̣ʷ-a-t	Basic	V.obj[1].sbj[2] 1	2	shaver (of body part)	V.sbj	A
+Sliammon	15	HELP	čʼag-a-t	Basic	V.obj[1].sbj[2] 1	1	helpee	V.obj	P
+Sliammon	15	HELP	čʼag-a-t	Basic	V.obj[1].sbj[2] 1	2	helper	V.sbj	A
+Sliammon	16	FOLLOW	tuyʔap-t	Basic	V.obj[1].sbj[2] 1	1	followee	V.obj	P
+Sliammon	16	FOLLOW	tuyʔap-t	Basic	V.obj[1].sbj[2] 1	2	follower	V.sbj	A
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Basic	V.obj[1].sbj[2] 1 niniǰi+3	1	talked to person	V.obj	P
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Basic	V.obj[1].sbj[2] 1 niniǰi+3	2	talker	V.sbj	A
+Sliammon	18	TALK	qʷi-qʷay-sxʷ	Basic	V.obj[1].sbj[2] 1 niniǰi+3	3	talked about content	niniǰi+NP	X
+Sliammon	19	ASK FOR	gay-a-t	Basic	V.obj[1].sbj[2] 1	1	askee	V.obj	P
+Sliammon	19	ASK FOR	gay-a-t	Basic	V.obj[1].sbj[2] 1	2	asker	V.sbj	A
+Sliammon	20	SHOUT AT	qʼiya-t	Basic	V.obj[1].sbj[2] 1	1	shoutee	V.obj	P
+Sliammon	20	SHOUT AT	qʼiya-t	Basic	V.obj[1].sbj[2] 1	2	shouter	V.sbj	A
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	tellee	V.obj	P
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	teller	V.sbj	A
+Sliammon	21	TELL	qʼʷaqʼʷθus-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	told content	obl-NP	L
+Sliammon	21	TELL	taw-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	tellee	V.obj	P
+Sliammon	21	TELL	taw-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	teller	V.sbj	A
+Sliammon	22	SAY	na-t	Basic	V.obj[1].sbj[2] 1	1	saying addressee	V.obj	P
+Sliammon	22	SAY	na-t	Basic	V.obj[1].sbj[2] 1	2	sayer	V.sbj	A
+Sliammon	23	NAME	nan-a-t	Basic	V.obj[1].sbj[2] 1	1	namee	V.obj	P
+Sliammon	23	NAME	nan-a-t	Basic	V.obj[1].sbj[2] 1	2	namer	V.sbj	A
+Sliammon	24	BUILD	həy-t	Basic	V.obj[1].sbj[2] 1	1	built thing	V.obj	P
+Sliammon	24	BUILD	həy-t	Basic	V.obj[1].sbj[2] 1	2	builder	V.sbj	A
+Sliammon	25	BREAK	yəpʼ-t	Basic	V.obj[1].sbj[2] 1	1	broken thing	V.obj	P
+Sliammon	25	BREAK	yəpʼ-t	Basic	V.obj[1].sbj[2] 1	2	breaker	V.sbj	A
+Sliammon	26	KILL	qəyʼ-t	Basic	V.obj[1].sbj[2] 1	1	killee	V.obj	P
+Sliammon	26	KILL	qəyʼ-t	Basic	V.obj[1].sbj[2] 1	2	killer	V.sbj	A
+Sliammon	27	BEAT	sapʼ-a-t	Basic	V.obj[1].sbj[2] 1	1	beatee	V.obj	P
+Sliammon	27	BEAT	sapʼ-a-t	Basic	V.obj[1].sbj[2] 1	2	beater	V.sbj	A
+Sliammon	28	HIT	səpʼ-t	Basic	V.obj[1].sbj[2] 1	1	hittee	V.obj	P
+Sliammon	28	HIT	səpʼ-t	Basic	V.obj[1].sbj[2] 1	2	hitter	V.sbj	A
+Sliammon	29	TOUCH	qəp-t	Basic	V.obj[1].sbj[2] 1	1	touchee	V.obj	P
+Sliammon	29	TOUCH	qəp-t	Basic	V.obj[1].sbj[2] 1	2	toucher	V.sbj	A
+Sliammon	30	CUT	čʼət-t	Basic	V.obj[1].sbj[2] 1	1	cut thing	V.obj	P
+Sliammon	30	CUT	čʼət-t	Basic	V.obj[1].sbj[2] 1	2	cutter	V.sbj	A
+Sliammon	31	TAKE	ma(ʔ)-t	Basic	V.obj[1].sbj[2] 1	1	taken thing	V.obj	P
+Sliammon	31	TAKE	ma(ʔ)-t	Basic	V.obj[1].sbj[2] 1	2	taker	V.sbj	A
+Sliammon	32	TEAR	pəx̣-t	Basic	V.obj[1].sbj[2] 1	1	torn thing	V.obj	P
+Sliammon	32	TEAR	pəx̣-t	Basic	V.obj[1].sbj[2] 1	2	tearer	V.sbj	A
+Sliammon	33	PEEL	ɬupʼ-u-t	Basic	V.obj[1].sbj[2] 1	1	peeled object	V.obj	P
+Sliammon	33	PEEL	ɬupʼ-u-t	Basic	V.obj[1].sbj[2] 1	2	peeler	V.sbj	A
+Sliammon	34	HIDE	kʷay-iš	Basic	V.obj[1].sbj[2] 1	1	hidden thing	V.obj	P
+Sliammon	34	HIDE	kʷay-iš	Basic	V.obj[1].sbj[2] 1	2	hider	V.sbj	A
+Sliammon	35	SHOW	kʼʷən-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	showing addressee	V.obj	P
+Sliammon	35	SHOW	kʼʷən-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	shower	V.sbj	A
+Sliammon	35	SHOW	kʼʷən-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	shown thing	obl-NP	L
+Sliammon	36	GIVE	x̣ənat-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	giving recipient	V.obj	P
+Sliammon	36	GIVE	x̣ənat-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	giver	V.sbj	A
+Sliammon	36	GIVE	x̣ənat-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	gift	obl-NP	L
+Sliammon	38	CARRY	kʷinat-t	Basic	V.obj[1].sbj[2] 1	1	carried thing	V.obj	P
+Sliammon	38	CARRY	kʷinat-t	Basic	V.obj[1].sbj[2] 1	2	carrier	V.sbj	A
+Sliammon	39	THROW	səytʼ-a-t	Basic	V.obj[1].sbj[2] 1	1	thrown thing	V.obj	P
+Sliammon	39	THROW	səytʼ-a-t	Basic	V.obj[1].sbj[2] 1	2	thrower	V.sbj	A
+Sliammon	40	TIE	qʼis-i-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	tied thing	V.obj	P
+Sliammon	40	TIE	qʼis-i-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	tier	V.sbj	A
+Sliammon	40	TIE	qʼis-i-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	tying goal	obl-NP	L
+Sliammon	41	PUT	kʷa(ʔ)-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	put thing	V.obj	P
+Sliammon	41	PUT	kʷa(ʔ)-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	putter	V.sbj	A
+Sliammon	41	PUT	kʷa(ʔ)-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	putting goal	obl-NP	L
+Sliammon	42	POUR	kʼʷəɬ-aš	Basic	V.obj[1].sbj[2] 1	1	poured substance	V.obj	P
+Sliammon	42	POUR	kʼʷəɬ-aš	Basic	V.obj[1].sbj[2] 1	2	pourer	V.sbj	A
+Sliammon	43	COVER	tʼayš-a-t	Basic	V.obj[1].sbj[2] 1	1	covered thing	V.obj	P
+Sliammon	43	COVER	tʼayš-a-t	Basic	V.obj[1].sbj[2] 1	2	coverer	V.sbj	A
+Sliammon	44	FILL	yaʔčʼ-aš	Basic	V.obj[1].sbj[2] 1	1	filled container	V.obj	P
+Sliammon	44	FILL	yaʔčʼ-aš	Basic	V.obj[1].sbj[2] 1	2	filler	V.sbj	A
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Basic	V.obj[1].sbj[2] 1	1	loaded thing	V.obj	P
+Sliammon	45	LOAD	ʔuwuɬ-sxʷ	Basic	V.obj[1].sbj[2] 1	2	loader	V.sbj	A
+Sliammon	46	BLINK	tʼᶿipʼnəxʷ	Basic	V.sbj[1] 1	1	blinker	V.sbj	S
+Sliammon	47	COUGH	tuqʼʷt	Basic	V.sbj[1] 1	1	cougher	V.sbj	S
+Sliammon	48	CLIMB	šaʔ	Basic	V.sbj[1] 1 obl-2	1	climber	V.sbj	S
+Sliammon	48	CLIMB	šaʔ	Basic	V.sbj[1] 1 obl-2	2	climbing goal	obl-NP	L
+Sliammon	49	RUN	ǰəƛʼ	Basic	V.sbj[1] 1	1	runner	V.sbj	S
+Sliammon	50	SIT	kʷanač	Basic	V.sbj[1] 1 obl-2	1	sitter	V.sbj	S
+Sliammon	50	SIT	kʷanač	Basic	V.sbj[1] 1 obl-2	2	sitting place	obl-NP	L
+Sliammon	51	SIT DOWN	kʷanač-əm	Basic	V.sbj[1] 1	1	sitdowner	V.sbj	S
+Sliammon	52	JUMP	kʼʷitʼᶿ-im	Basic	V.sbj[1] 1	1	jumper	V.sbj	S
+Sliammon	53	SING	qaqsamʼuθinʼ-əm	Basic	V.sbj[1] 1	1	singer	V.sbj	S
+Sliammon	53	SING	wuw-um	Basic	V.sbj[1] 1	1	singer	V.sbj	S
+Sliammon	54	GO	hu	Basic	V.sbj[1] 1	1	goer	V.sbj	S
+Sliammon	55	LEAVE	ɬaw-š	Basic	V.obj[1].sbj[2] 1	1	left place/person	V.obj	P
+Sliammon	55	LEAVE	ɬaw-š	Basic	V.obj[1].sbj[2] 1	2	leaver	V.sbj	A
+Sliammon	57	LAUGH	qəs-əm	Basic	V.sbj[1] 1	1	laugher	V.sbj	S
+Sliammon	58	SCREAM	tʼᶿikʼt	Basic	V.sbj[1] 1	1	screamer	V.sbj	S
+Sliammon	59	FEEL PAIN	ʔah	Basic	V.sbj[1] 1	1	pain-feeler	V.sbj	S
+Sliammon	59	FEEL PAIN	ʔah	Basic	V.sbj[1] 1	1	pain locus	V.sbj	S
+Sliammon	60	FEEL COLD	čʼaʔ-čʼəm	Basic	V.sbj[1] 1	1	freezing person	V.sbj	S
+Sliammon	61	DIE	qəyʼ	Basic	V.sbj[1] 1	1	dieer	V.sbj	S
+Sliammon	62	PLAY	qaqs-imʼ	Basic	V.sbj[1] 1	1	player	V.sbj	S
+Sliammon	63	BE SAD	ʔah qʷayigən-s	Basic	V.sbj[1] 1	1	sad person	V.sbj	S
+Sliammon	64	BE HUNGRY	qʼa-qʼa	Basic	V.sbj[1] 1	1	hungry person	V.sbj	S
+Sliammon	65	ROLL	pəlʼkʷ	Basic	V.sbj[1] 1	1	rolling entity	V.sbj	S
+Sliammon	66	SINK	θayʼ-əm	Basic	V.sbj[1] 1	1	sunken entity	V.sbj	S
+Sliammon	67	BURN	qʼətxʷ	Basic	V.sbj[1] 1	1	burnt thing	V.sbj	S
+Sliammon	68	BE DRY	šəmʼ	Basic	V.sbj[1] 1	1	dry thing	V.sbj	S
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Basic	V.obj[1].sbj[2] 1	1	wiped material	V.obj	P
+Sliammon	72	WIPE	tʼᶿəkʷ-t	Basic	V.obj[1].sbj[2] 1	2	wiper	V.sbj	A
+Sliammon	73	DIG	ʔuɬqʷu	Basic	V.sbj[1] 1	1	digger	V.sbj	S
+Sliammon	73	DIG	θiq-i-t	Basic	V.obj[1].sbj[2] 1	1	digger	V.obj	P
+Sliammon	73	DIG	θiq-i-t	Basic	V.obj[1].sbj[2] 1	2	dug up thing	V.sbj	A
+Sliammon	74	PUSH	ǰuθ-u-t	Basic	V.obj[1].sbj[2] 1	1	pushee	V.obj	P
+Sliammon	74	PUSH	ǰuθ-u-t	Basic	V.obj[1].sbj[2] 1	2	pusher	V.sbj	A
+Sliammon	75	BRING	tʼaʔqʼ-aš	Basic	V.obj[1].sbj[2] 1	1	brought thing	V.obj	P
+Sliammon	75	BRING	tʼaʔqʼ-aš	Basic	V.obj[1].sbj[2] 1	2	bringer	V.sbj	A
+Sliammon	76	STEAL	čəwʼu-ni-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	stealing source	V.obj	P
+Sliammon	76	STEAL	čəwʼu-ni-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	stealer	V.sbj	A
+Sliammon	76	STEAL	čəwʼu-ni-t	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	stolen thing	obl-NP	L
+Sliammon	77	TEACH	tiwš-am-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	1	teachee	V.obj	P
+Sliammon	77	TEACH	tiwš-am-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	2	teacher	V.sbj	A
+Sliammon	77	TEACH	tiwš-am-sxʷ	Basic	V.obj[1].sbj[2] 1 (obl-3)	3	taught content	obl-NP	L
+Sliammon	78	HEAR	čʼiy-i-t	Basic	V.obj[1].sbj[2] 1	1	heard sound	V.obj	P
+Sliammon	78	HEAR	čʼiy-i-t	Basic	V.obj[1].sbj[2] 1	2	hearer	V.sbj	A
+Sliammon	79	COOK	čʼəx̣-a-t	Basic	V.obj[1].sbj[2] 1	1	cooked food	V.obj	P
+Sliammon	79	COOK	čʼəx̣-a-t	Basic	V.obj[1].sbj[2] 1	2	cooker	V.sbj	A
+Sliammon	80	BOIL	paɬuqʼʷ-um	Basic	V.sbj[1] 1	1	boiled thing	V.sbj	S
+Sliammon	81	APPEAR	ših-imut	Basic	V.sbj[1] 1	1	appearer	V.sbj	S
+Sliammon	82	BE ILL	kʷə-kʷt-əm	Basic	V.sbj[1] 1	1	sick person	V.sbj	S
+Sliammon	83	CRY	ƛʼux̣ʷt	Basic	V.sbj[1] 1	1	crier	V.sbj	S
+Sliammon	84	FALL	ǰaqʼ	Basic	V.sbj[1] 1	1	fallee	V.sbj	S
+Sliammon	85	MAKE	həy-t	Basic	V.obj[1].sbj[2] 1	1	made thing	V.obj	P
+Sliammon	85	MAKE	həy-t	Basic	V.obj[1].sbj[2] 1	2	maker	V.sbj	A
+Sliammon	86	GET	ma(ʔ)-t	Basic	V.obj[1].sbj[2] 1	1	received thing	V.obj	P
+Sliammon	86	GET	ma(ʔ)-t	Basic	V.obj[1].sbj[2] 1	2	receiver	V.sbj	A
+Sliammon	87	WANT	x̣aƛʼ	Basic	V.obj[1].sbj[2] 1	1	wanted thing	V.obj	P
+Sliammon	87	WANT	x̣aƛʼ	Basic	V.obj[1].sbj[2] 1	2	wanter	V.sbj	A

@@ -1,0 +1,262 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Ojibwe	1	EAT	miijid	Basic	1 subjA[1].V.objI[2] 2	1	eater	subjA.V	A
+Ojibwe	1	EAT	miijid	Basic	1 subjA[1].V.objI[2] 2	2	eaten food	V.objI	P
+Ojibwe	1	EAT	mwaad	Basic	1 subjA[1].V.objI[2] 2	1	eater	subjA.V	A
+Ojibwe	1	EAT	mwaad	Basic	1 subjA[1].V.objI[2] 2	2	eaten food	V.objI	P
+Ojibwe	2	HUG	aabtoojiinaad	Basic	1 subjA[1].V.objI[2] 2	1	hugger	subjA.V	A
+Ojibwe	2	HUG	aabtoojiinaad	Basic	1 subjA[1].V.objI[2] 2	2	huggee	V.objI	P
+Ojibwe	3	LOOK AT	gnawaabmaad	Basic	1 subjA[1].V.objI[2] 2	1	looker	subjA.V	A
+Ojibwe	3	LOOK AT	gnawaabmaad	Basic	1 subjA[1].V.objI[2] 2	2	looked at entity	V.objI	P
+Ojibwe	3	LOOK AT	gnawaabndang	Basic	1 subjA[1].V.objI[2] 2	1	looker	subjA.V	A
+Ojibwe	3	LOOK AT	gnawaabndang	Basic	1 subjA[1].V.objI[2] 2	2	looked at entity	V.objI	P
+Ojibwe	4	SEE	waabmaad	Basic	1 subjA[1].V.objI[2] 2	1	seeer	subjA.V	A
+Ojibwe	4	SEE	waabmaad	Basic	1 subjA[1].V.objI[2] 2	2	seen entity	V.objI	P
+Ojibwe	4	SEE	waabndang	Basic	1 subjA[1].V.objI[2] 2	1	seeer	subjA.V	A
+Ojibwe	4	SEE	waabndang	Basic	1 subjA[1].V.objI[2] 2	2	seen entity	V.objI	P
+Ojibwe	5	SMELL	biijmaamaad	Basic	1 V.objI[2] 2	1	smeller	∅	I
+Ojibwe	5	SMELL	biijmaamaad	Basic	1 V.objI[2] 2	2	smelled entity	V.objI	X
+Ojibwe	5	SMELL	biijmaandang	Basic	1 subjA[1].V.objI[2] 2	1	smeller	subjA.V	A
+Ojibwe	5	SMELL	biijmaandang	Basic	1 subjA[1].V.objI[2] 2	2	smelled entity	V.objI	P
+Ojibwe	6	FEAR	gsaad	Basic	1 V.objI[2] 2	1	fearer	∅	I
+Ojibwe	6	FEAR	gsaad	Basic	1 V.objI[2] 2	2	fear stimulus	V.objI	X
+Ojibwe	6	FEAR	gtang	Basic	1 subjA[1].V.objI[2] 2	1	fearer	subjA.V	A
+Ojibwe	6	FEAR	gtang	Basic	1 subjA[1].V.objI[2] 2	2	fear stimulus	V.objI	P
+Ojibwe	7	FRIGHTEN	zeghaad	Basic	1 subjA[1].V.objI[2] 2	1	frightener	subjA.V	A
+Ojibwe	7	FRIGHTEN	zeghaad	Basic	1 subjA[1].V.objI[2] 2	2	frightenee	V.objI	P
+Ojibwe	8	LIKE	bgishgenmaad	Basic	1 subjA[1].V.objI[2] 2	1	liker	subjA.V	A
+Ojibwe	8	LIKE	bgishgenmaad	Basic	1 subjA[1].V.objI[2] 2	1	liked entity	subjA.V	A
+Ojibwe	8	LIKE	bshigendang	Basic	1 subjA[1].V.objI[2] 2	1	liker	subjA.V	A
+Ojibwe	8	LIKE	bshigendang	Basic	1 subjA[1].V.objI[2] 2	1	liked entity	subjA.V	A
+Ojibwe	8	LIKE	mdaagwendang	Basic	1 subjA[1].V.objI[2] 2	1	liker	subjA.V	A
+Ojibwe	8	LIKE	mdaagwendang	Basic	1 subjA[1].V.objI[2] 2	1	liked entity	subjA.V	A
+Ojibwe	9	KNOW	gkendang	Basic	1 subjA[1].V.objI[2] 2	1	knower	subjA.V	A
+Ojibwe	9	KNOW	gkendang	Basic	1 subjA[1].V.objI[2] 2	2	known thing/person	V.objI	P
+Ojibwe	9	KNOW	gkenmaad	Basic	1 subjA[1].V.objI[2] 2	1	knower	subjA.V	A
+Ojibwe	9	KNOW	gkenmaad	Basic	1 subjA[1].V.objI[2] 2	2	known thing/person	V.objI	P
+Ojibwe	10	THINK	mdaagwenmaad	Basic	1 subjA[1].V.objI[2] 2	1	thinker	subjA.V	A
+Ojibwe	10	THINK	mdaagwenmaad	Basic	1 subjA[1].V.objI[2] 2	2	thought content	V.objI	P
+Ojibwe	10	THINK	tanenmaad	Basic	1 subjA[1].V.objI[2] 2	1	thinker	subjA.V	A
+Ojibwe	10	THINK	tanenmaad	Basic	1 subjA[1].V.objI[2] 2	2	thought content	V.objI	P
+Ojibwe	11	SEARCH FOR	ndanehang	Basic	1 subjA[1].V.objI[2] 2	1	searcher	subjA.V	A
+Ojibwe	11	SEARCH FOR	ndanehang	Basic	1 subjA[1].V.objI[2] 2	2	searched for thing	V.objI	P
+Ojibwe	11	SEARCH FOR	ndanewaad	Basic	1 subjA[1].V.objI[2] 2	1	searcher	subjA.V	A
+Ojibwe	11	SEARCH FOR	ndanewaad	Basic	1 subjA[1].V.objI[2] 2	2	searched for thing	V.objI	P
+Ojibwe	12	WASH	gziibiignaad	Basic	1 subjA[1].V.objI[2] 2	1	washer	subjA.V	A
+Ojibwe	12	WASH	gziibiignaad	Basic	1 subjA[1].V.objI[2] 2	2	washed entity	V.objI	P
+Ojibwe	12	WASH	gziibiignang	Basic	1 subjA[1].V.objI[2] 2	1	washer	subjA.V	A
+Ojibwe	12	WASH	gziibiignang	Basic	1 subjA[1].V.objI[2] 2	2	washed entity	V.objI	P
+Ojibwe	13	DRESS	biiskon'yehaad	Basic	1 subjA[1].V.objI[2] 2	1	dresser	subjA.V	A
+Ojibwe	13	DRESS	biiskon'yehaad	Basic	1 subjA[1].V.objI[2] 2	2	dressee	V.objI	P
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Basic	1 subjA[1].V.objI[2] 2	1	shaver (of body part)	subjA.V	A
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Basic	1 subjA[1].V.objI[2] 2	2	shaved body part	V.objI	P
+Ojibwe	15	HELP	naadmawaad	Basic	1 subjA[1].V.objI[2] 2	1	helper	subjA.V	A
+Ojibwe	15	HELP	naadmawaad	Basic	1 subjA[1].V.objI[2] 2	2	helpee	V.objI	P
+Ojibwe	16	FOLLOW	noopnanaad	Basic	1 subjA[1].V.objI[2] 2	1	follower	subjA.V	A
+Ojibwe	16	FOLLOW	noopnanaad	Basic	1 subjA[1].V.objI[2] 2	2	followee	V.objI	P
+Ojibwe	17	MEET	nkweshkang	Basic	1 subjA[1].V.objI[2] 2	1	meeter	subjA.V	A
+Ojibwe	17	MEET	nkweshkang	Basic	1 subjA[1].V.objI[2] 2	2	met obstacle/thing	V.objI	P
+Ojibwe	17	MEET	nkweshkwaad	Basic	1 subjA[1].V.objI[2] 2	1	meeter	subjA.V	A
+Ojibwe	17	MEET	nkweshkwaad	Basic	1 subjA[1].V.objI[2] 2	2	met person	V.objI	P
+Ojibwe	18	TALK	gnoodang	Basic	1 subjA[1].V.objI[2] 2	1	talker	subjA.V	A
+Ojibwe	18	TALK	gnoodang	Basic	1 subjA[1].V.objI[2] 2	2	talked to person	V.objI	P
+Ojibwe	18	TALK	gnoonaad	Basic	1 subjA[1].V.objI[2] 2	1	talker	subjA.V	A
+Ojibwe	18	TALK	gnoonaad	Basic	1 subjA[1].V.objI[2] 2	2	talked to person	V.objI	P
+Ojibwe	19	ASK FOR	ndodang	Basic	1 subjA[1].V.objI[2] 2	1	asker	subjA.V	A
+Ojibwe	19	ASK FOR	ndodang	Basic	1 subjA[1].V.objI[2] 2	2	requested thing	V.objI	P
+Ojibwe	19	ASK FOR	ndodmaaged	Basic	1 subjS[1].V.objII[2] 2	1	asker	V.subjS	S
+Ojibwe	19	ASK FOR	ndodmaaged	Basic	1 subjS[1].V.objII[2] 2	2	requested thing	V.objII	X
+Ojibwe	19	ASK FOR	ndodmawaad	Basic	1 subjA[1].V.objI[2] 2	1	asker	subjA.V	A
+Ojibwe	19	ASK FOR	ndodmawaad	Basic	1 subjA[1].V.objI[2] 2	2	askee	V.objI	P
+Ojibwe	20	SHOUT AT	biibaagmaad	Basic	1 subjA[1].V.objI[2] 2	1	shouter	subjA.V	A
+Ojibwe	20	SHOUT AT	biibaagmaad	Basic	1 subjA[1].V.objI[2] 2	2	shoutee	V.objI	P
+Ojibwe	21	TELL	wiindmawaad	Basic	1 subjA[1].V.objI[2] 2 UTT3	1	teller	subjA.V	A
+Ojibwe	21	TELL	wiindmawaad	Basic	1 subjA[1].V.objI[2] 2 UTT3	2	tellee	V.objI	P
+Ojibwe	21	TELL	wiindmawaad	Basic	1 subjA[1].V.objI[2] 2 UTT3	3	told content	UTT	X
+Ojibwe	22	SAY	kidod	Basic	1 V.subjS[1] UTT2	1	sayer	V.subjS	S
+Ojibwe	22	SAY	kidod	Basic	1 V.subjS[1] UTT2	2	said content	UTT	X
+Ojibwe	22	SAY	naad	Basic	1 subjA[1].V.objI[2] 2 UTT3	1	sayer	subjA.V	A
+Ojibwe	22	SAY	naad	Basic	1 subjA[1].V.objI[2] 2 UTT3	2	saying addressee	V.objI	P
+Ojibwe	22	SAY	naad	Basic	1 subjA[1].V.objI[2] 2 UTT3	3	said content	UTT	X
+Ojibwe	23	NAME	waawiinaad	Basic	1 subjA[1].V.objI[2] 2	1	namer	subjA.V	A
+Ojibwe	23	NAME	waawiinaad	Basic	1 subjA[1].V.objI[2] 2	2	namee	V.objI	P
+Ojibwe	23	NAME	waawiindang	Basic	1 subjA[1].V.objI[2] 2	1	namer	subjA.V	A
+Ojibwe	23	NAME	waawiindang	Basic	1 subjA[1].V.objI[2] 2	2	namee	V.objI	P
+Ojibwe	23	NAME	zhinkaadang	Basic	1 subjA[1].V.objI[2] 2 (3)	1	namer	subjA.V	A
+Ojibwe	23	NAME	zhinkaadang	Basic	1 subjA[1].V.objI[2] 2 (3)	2	namee	V.objI	P
+Ojibwe	23	NAME	zhinkaadang	Basic	1 subjA[1].V.objI[2] 2 (3)	3	name	∅	I
+Ojibwe	23	NAME	zhinkaanaad	Basic	1 subjA[1].V.objI[2] 2 (3)	1	namer	subjA.V	A
+Ojibwe	23	NAME	zhinkaanaad	Basic	1 subjA[1].V.objI[2] 2 (3)	2	namee	V.objI	P
+Ojibwe	23	NAME	zhinkaanaad	Basic	1 subjA[1].V.objI[2] 2 (3)	3	name	∅	I
+Ojibwe	24	BUILD	zhihaad	Basic	1 subjA[1].V.objI[2] 2	1	builder	subjA.V	A
+Ojibwe	24	BUILD	zhihaad	Basic	1 subjA[1].V.objI[2] 2	2	built thing	V.objI	P
+Ojibwe	24	BUILD	zhitood	Basic	1 subjA[1].V.objI[2] 2	1	builder	subjA.V	A
+Ojibwe	24	BUILD	zhitood	Basic	1 subjA[1].V.objI[2] 2	2	built thing	V.objI	P
+Ojibwe	25	BREAK	bookbidood	Basic	1 subjA[1].V.objI[2] 2	1	breaker	subjA.V	A
+Ojibwe	25	BREAK	bookbidood	Basic	1 subjA[1].V.objI[2] 2	2	broken thing	V.objI	P
+Ojibwe	25	BREAK	bookbinaad	Basic	1 subjA[1].V.objI[2] 2	1	breaker	subjA.V	A
+Ojibwe	25	BREAK	bookbinaad	Basic	1 subjA[1].V.objI[2] 2	2	broken thing	V.objI	P
+Ojibwe	26	KILL	nsaad	Basic	1 subjA[1].V.objI[2] 2	1	killer	subjA.V	A
+Ojibwe	26	KILL	nsaad	Basic	1 subjA[1].V.objI[2] 2	2	killee	V.objI	P
+Ojibwe	26	KILL	ntood	Basic	1 subjA[1].V.objI[2] 2	1	killer	subjA.V	A
+Ojibwe	26	KILL	ntood	Basic	1 subjA[1].V.objI[2] 2	2	killee	V.objI	P
+Ojibwe	27	BEAT	bkitehang	Basic	1 subjA[1].V.objI[2] 2	1	beater	subjA.V	A
+Ojibwe	27	BEAT	bkitehang	Basic	1 subjA[1].V.objI[2] 2	2	beatee	V.objI	P
+Ojibwe	27	BEAT	bkitewaad	Basic	1 subjA[1].V.objI[2] 2	1	beater	subjA.V	A
+Ojibwe	27	BEAT	bkitewaad	Basic	1 subjA[1].V.objI[2] 2	2	beatee	V.objI	P
+Ojibwe	29	TOUCH	daangnaad	Basic	1 subjA[1].V.objI[2] 2	1	toucher	subjA.V	A
+Ojibwe	29	TOUCH	daangnaad	Basic	1 subjA[1].V.objI[2] 2	2	touchee	V.objI	P
+Ojibwe	29	TOUCH	daangnang	Basic	1 subjA[1].V.objI[2] 2	1	toucher	subjA.V	A
+Ojibwe	29	TOUCH	daangnang	Basic	1 subjA[1].V.objI[2] 2	2	touchee	V.objI	P
+Ojibwe	30	CUT	giishkkodang	Basic	1 subjA[1].V.objI[2] 2 (3)	1	cutter	subjA.V	A
+Ojibwe	30	CUT	giishkkodang	Basic	1 subjA[1].V.objI[2] 2 (3)	2	cut thing	V.objI	P
+Ojibwe	30	CUT	giishkkodang	Basic	1 subjA[1].V.objI[2] 2 (3)	3	cutting instrument	∅	I
+Ojibwe	30	CUT	giishkkonaad	Basic	1 subjA[1].V.objI[2] 2	1	cutter	subjA.V	A
+Ojibwe	30	CUT	giishkkonaad	Basic	1 subjA[1].V.objI[2] 2	2	cut thing	V.objI	P
+Ojibwe	31	TAKE	daapnaad	Basic	1 subjA[1].V.objI[2] 2	1	taker	subjA.V	A
+Ojibwe	31	TAKE	daapnaad	Basic	1 subjA[1].V.objI[2] 2	2	taken thing	V.objI	P
+Ojibwe	31	TAKE	daapnang	Basic	1 subjA[1].V.objI[2] 2	1	taker	subjA.V	A
+Ojibwe	31	TAKE	daapnang	Basic	1 subjA[1].V.objI[2] 2	2	taken thing	V.objI	P
+Ojibwe	32	TEAR	gaakbidood	Basic	1 subjA[1].V.objI[2] 2	1	tearer	subjA.V	A
+Ojibwe	32	TEAR	gaakbidood	Basic	1 subjA[1].V.objI[2] 2	2	torn thing	V.objI	P
+Ojibwe	32	TEAR	gaakbinaad	Basic	1 subjA[1].V.objI[2] 2	1	tearer	subjA.V	A
+Ojibwe	32	TEAR	gaakbinaad	Basic	1 subjA[1].V.objI[2] 2	2	torn thing	V.objI	P
+Ojibwe	33	PEEL	bnagjiibdood	Basic	1 subjA[1].V.objI[2] 2	1	peeler	subjA.V	A
+Ojibwe	33	PEEL	bnagjiibdood	Basic	1 subjA[1].V.objI[2] 2	2	peeled object	V.objI	P
+Ojibwe	33	PEEL	bnagjiibinaad	Basic	1 subjA[1].V.objI[2] 2	1	peeler	subjA.V	A
+Ojibwe	33	PEEL	bnagjiibinaad	Basic	1 subjA[1].V.objI[2] 2	2	peeled object	V.objI	P
+Ojibwe	33	PEEL	bnagjiikdang	Basic	1 subjA[1].V.objI[2] 2	1	peeler	subjA.V	A
+Ojibwe	33	PEEL	bnagjiikdang	Basic	1 subjA[1].V.objI[2] 2	2	peeled object	V.objI	P
+Ojibwe	33	PEEL	bnagjiiknaad	Basic	1 subjA[1].V.objI[2] 2	1	peeler	subjA.V	A
+Ojibwe	33	PEEL	bnagjiiknaad	Basic	1 subjA[1].V.objI[2] 2	2	peeled object	V.objI	P
+Ojibwe	34	HIDE	gkidood	Basic	1 subjA[1].V.objI[2] 2	1	hider	subjA.V	A
+Ojibwe	34	HIDE	gkidood	Basic	1 subjA[1].V.objI[2] 2	2	hidden thing	V.objI	P
+Ojibwe	34	HIDE	gkinaad	Basic	1 subjA[1].V.objI[2] 2	1	hider	subjA.V	A
+Ojibwe	34	HIDE	gkinaad	Basic	1 subjA[1].V.objI[2] 2	2	hidden thing	V.objI	P
+Ojibwe	35	SHOW	waabndahaad	Basic	1 subjA[1].V.objI[2] 2	1	shower	subjA.V	A
+Ojibwe	35	SHOW	waabndahaad	Basic	1 subjA[1].V.objI[2] 2	2	shown thing	V.objI	P
+Ojibwe	35	SHOW	zhinoohmawaad	Basic	1 subjA[1].V.objI[2] 2	1	shower	subjA.V	A
+Ojibwe	35	SHOW	zhinoohmawaad	Basic	1 subjA[1].V.objI[2] 2	2	shown thing	V.objI	P
+Ojibwe	36	GIVE	miinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	1	giver	subjA.V	A
+Ojibwe	36	GIVE	miinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	2	giving recipient	V.objI	P
+Ojibwe	36	GIVE	miinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	3	gift	∅	I
+Ojibwe	37	SEND	niindaahaad	Basic	1 subjA[1].V.objI[2] 2 (3)	1	sender	subjA.V	A
+Ojibwe	37	SEND	niindaahaad	Basic	1 subjA[1].V.objI[2] 2 (3)	2	sent thing	V.objI	P
+Ojibwe	37	SEND	niindaahaad	Basic	1 subjA[1].V.objI[2] 2 (3)	3	sending recipient	∅	I
+Ojibwe	38	CARRY	bmiwdood	Basic	1 subjA[1].V.objI[2] 2	1	carrier	subjA.V	A
+Ojibwe	38	CARRY	bmiwdood	Basic	1 subjA[1].V.objI[2] 2	2	carried thing	V.objI	P
+Ojibwe	38	CARRY	bmiwnaad	Basic	1 subjA[1].V.objI[2] 2	1	carrier	subjA.V	A
+Ojibwe	38	CARRY	bmiwnaad	Basic	1 subjA[1].V.objI[2] 2	2	carried thing	V.objI	P
+Ojibwe	39	THROW	pagdang	Basic	1 subjA[1].V.objI[2] 2	1	thrower	subjA.V	A
+Ojibwe	39	THROW	pagdang	Basic	1 subjA[1].V.objI[2] 2	2	thrown thing	V.objI	P
+Ojibwe	39	THROW	pagnaad	Basic	1 subjA[1].V.objI[2] 2	1	thrower	subjA.V	A
+Ojibwe	39	THROW	pagnaad	Basic	1 subjA[1].V.objI[2] 2	2	thrown thing	V.objI	P
+Ojibwe	40	TIE	dkobidood	Basic	1 subjA[1].V.objI[2] 2	1	tier	subjA.V	A
+Ojibwe	40	TIE	dkobidood	Basic	1 subjA[1].V.objI[2] 2	2	tied thing	V.objI	P
+Ojibwe	40	TIE	dkobinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	1	tier	subjA.V	A
+Ojibwe	40	TIE	dkobinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	2	tied thing	V.objI	P
+Ojibwe	40	TIE	dkobinaad	Basic	1 subjA[1].V.objI[2] 2 (3)	3	tying goal	∅	I
+Ojibwe	41	PUT	saad	Basic	1 subjA[1].V.objI[2] 2 3-loc	1	putter	subjA.V	A
+Ojibwe	41	PUT	saad	Basic	1 subjA[1].V.objI[2] 2 3-loc	2	put thing	V.objI	P
+Ojibwe	41	PUT	saad	Basic	1 subjA[1].V.objI[2] 2 3-loc	3	putting goal	NP-loc	X
+Ojibwe	41	PUT	tood	Basic	1 subjA[1].V.objI[2] 2 3-loc	1	putter	subjA.V	A
+Ojibwe	41	PUT	tood	Basic	1 subjA[1].V.objI[2] 2 3-loc	2	put thing	V.objI	P
+Ojibwe	41	PUT	tood	Basic	1 subjA[1].V.objI[2] 2 3-loc	3	putting goal	NP-loc	X
+Ojibwe	42	POUR	ziignaad	Basic	1 subjA[1].V.objI[2] 2 3-loc	1	pourer	subjA.V	A
+Ojibwe	42	POUR	ziignaad	Basic	1 subjA[1].V.objI[2] 2 3-loc	2	poured substance	V.objI	P
+Ojibwe	42	POUR	ziignaad	Basic	1 subjA[1].V.objI[2] 2 3-loc	3	pouring goal	NP-loc	X
+Ojibwe	42	POUR	ziignang	Basic	1 subjA[1].V.objI[2] 2 3-loc	1	pourer	subjA.V	A
+Ojibwe	42	POUR	ziignang	Basic	1 subjA[1].V.objI[2] 2 3-loc	2	poured substance	V.objI	P
+Ojibwe	42	POUR	ziignang	Basic	1 subjA[1].V.objI[2] 2 3-loc	3	pouring goal	NP-loc	X
+Ojibwe	43	COVER	gbahang	Basic	1 subjA[1].V.objI[2] 2	1	coverer	subjA.V	A
+Ojibwe	43	COVER	gbahang	Basic	1 subjA[1].V.objI[2] 2	2	covered thing	V.objI	P
+Ojibwe	43	COVER	gbawaad	Basic	1 subjA[1].V.objI[2] 2	1	coverer	subjA.V	A
+Ojibwe	43	COVER	gbawaad	Basic	1 subjA[1].V.objI[2] 2	2	covered thing	V.objI	P
+Ojibwe	44	FILL	mooshknadood	Basic	1 subjA[1].V.objI[2] 2	1	filler	subjA.V	A
+Ojibwe	44	FILL	mooshknadood	Basic	1 subjA[1].V.objI[2] 2	2	filled container	V.objI	P
+Ojibwe	44	FILL	mooshknanaad	Basic	1 subjA[1].V.objI[2] 2	1	filler	subjA.V	A
+Ojibwe	44	FILL	mooshknanaad	Basic	1 subjA[1].V.objI[2] 2	2	filled container	V.objI	P
+Ojibwe	44	FILL	mooshknebdood	Basic	1 subjA[1].V.objI[2] 2	1	filler	subjA.V	A
+Ojibwe	44	FILL	mooshknebdood	Basic	1 subjA[1].V.objI[2] 2	2	filled container	V.objI	P
+Ojibwe	44	FILL	mooshknebnaad	Basic	1 subjA[1].V.objI[2] 2	1	filler	subjA.V	A
+Ojibwe	44	FILL	mooshknebnaad	Basic	1 subjA[1].V.objI[2] 2	2	filled container	V.objI	P
+Ojibwe	45	LOAD	booz'haad	Basic	1 subjA[1].V.objI[2] 2 3-loc	1	loader	subjA.V	A
+Ojibwe	45	LOAD	booz'haad	Basic	1 subjA[1].V.objI[2] 2 3-loc	2	loaded thing	V.objI	P
+Ojibwe	45	LOAD	booz'haad	Basic	1 subjA[1].V.objI[2] 2 3-loc	3	loading place	NP-loc	X
+Ojibwe	46	BLINK	pasknaabid	Basic	1 V.subjS[1]	1	blinker	V.subjS	S
+Ojibwe	47	COUGH	zosdang	Basic	1 V.subjS[1]	1	cougher	V.subjS	S
+Ojibwe	48	CLIMB	bmaandwaadang	Basic	1 subjA[1].V.objI[2] 2	1	climber	subjA.V	A
+Ojibwe	48	CLIMB	bmaandwaadang	Basic	1 subjA[1].V.objI[2] 2	2	climbing goal	V.objI	P
+Ojibwe	48	CLIMB	bmaandwaanaad	Basic	1 V.objI[2] 2	1	climber	∅	I
+Ojibwe	48	CLIMB	bmaandwaanaad	Basic	1 V.objI[2] 2	2	climbing goal	V.objI	X
+Ojibwe	49	RUN	bmibtood	Basic	1 V.subjS[1]	1	runner	V.subjS	S
+Ojibwe	50	SIT	nmadbid	Basic	1 V.subjS[1]	1	sitter	V.subjS	S
+Ojibwe	51	SIT DOWN	wenbi	Basic	1 V.subjS[1]	1	sitdowner	V.subjS	S
+Ojibwe	52	JUMP	gwaashknid	Basic	1 V.subjS[1]	1	jumper	V.subjS	S
+Ojibwe	52	JUMP	mbigwaashknid	Basic	1 V.subjS[1]	1	jumper	V.subjS	S
+Ojibwe	53	SING	n'gamod	Basic	1 V.subjS[1]	1	singer	V.subjS	S
+Ojibwe	54	GO	zhaad	Basic	1 V.subjS[1] 2-loc	1	goer	V.subjS	S
+Ojibwe	54	GO	zhaad	Basic	1 V.subjS[1] 2-loc	2	going goal	NP-loc	X
+Ojibwe	55	LEAVE	n'gadang	Basic	1 subjA[1].V.objI[2] 2	1	leaver	subjA.V	A
+Ojibwe	55	LEAVE	n'gadang	Basic	1 subjA[1].V.objI[2] 2	2	left place/person	V.objI	P
+Ojibwe	55	LEAVE	n'ganaad	Basic	1 subjA[1].V.objI[2] 2	1	leaver	subjA.V	A
+Ojibwe	55	LEAVE	n'ganaad	Basic	1 subjA[1].V.objI[2] 2	2	left place/person	V.objI	P
+Ojibwe	56	LIVE	daad	Basic	1 V.subjS[1] 2-loc	1	liver	V.subjS	S
+Ojibwe	56	LIVE	daad	Basic	1 V.subjS[1] 2-loc	2	living place	NP-loc	X
+Ojibwe	56	LIVE	dnakiid	Basic	1 V.subjS[1] 2-loc	1	liver	V.subjS	S
+Ojibwe	56	LIVE	dnakiid	Basic	1 V.subjS[1] 2-loc	2	living place	NP-loc	X
+Ojibwe	57	LAUGH	baapid	Basic	1 V.subjS[1]	1	laugher	V.subjS	S
+Ojibwe	58	SCREAM	mbiigzid	Basic	1 V.subjS[1]	1	screamer	V.subjS	S
+Ojibwe	58	SCREAM	noondaagzi	Basic	1 V.subjS[1]	1	screamer	V.subjS	S
+Ojibwe	59	FEEL PAIN	aakzid	Basic	1 subjS[1].V.objII[2] 2	1	pain-feeler	V.subjS	S
+Ojibwe	59	FEEL PAIN	aakzid	Basic	1 subjS[1].V.objII[2] 2	2	pain locus	V.objII	X
+Ojibwe	59	FEEL PAIN	giigiijniked	Basic	1 <2>V.subjS[1]	1	pain-feeler	V.subjS	S
+Ojibwe	59	FEEL PAIN	giigiijniked	Basic	1 <2>V.subjS[1]	2	pain locus		X
+Ojibwe	60	FEEL COLD	biingejid	Basic	1 V.subjS[1]	1	freezing person	V.subjS	S
+Ojibwe	61	DIE	nbod	Basic	1 V.subjS[1]	1	dieer	V.subjS	S
+Ojibwe	62	PLAY	damnod	Basic	1 V.subjS[1]	1	player	V.subjS	S
+Ojibwe	63	BE SAD	maanaadendang	Basic	1 V.subjS[1]	1	sad person	V.subjS	S
+Ojibwe	64	BE HUNGRY	bkaded	Basic	1 V.subjS[1]	1	hungry person	V.subjS	S
+Ojibwe	65	ROLL	gtigsed	Basic	1 V.subjS[1]	1	rolling entity	V.subjS	S
+Ojibwe	65	ROLL	gtigseg	Basic	1 V.subjS[1]	1	rolling entity	V.subjS	S
+Ojibwe	66	SINK	gzaabiid	Basic	1 V.subjS[1]	1	sunken entity	V.subjS	S
+Ojibwe	66	SINK	gzaabiig	Basic	1 V.subjS[1]	1	sunken entity	V.subjS	S
+Ojibwe	67	BURN	jaagzo	Basic	1 V.subjS[1]	1	burnt thing	V.subjS	S
+Ojibwe	67	BURN	zkideg	Basic	1 V.subjS[1]	1	burnt thing	V.subjS	S
+Ojibwe	67	BURN	zkizad	Basic	1 V.subjS[1]	1	burnt thing	V.subjS	S
+Ojibwe	68	BE DRY	baasad	Basic	1 V.subjS[1]	1	dry thing	V.subjS	S
+Ojibwe	68	BE DRY	baateg	Basic	1 V.subjS[1]	1	dry thing	V.subjS	S
+Ojibwe	69	RAIN	gmiwang	Basic	V.subjS[1]	1	rain	V.subjS	S
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Basic	V.subjS[1]	1	specialist/hunter	V.subjS	S
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Basic	1 V.subjS[1]	1	specialist/hunter	V.subjS	S
+Ojibwe	70	BE A HUNTER	no direct counterpart	Basic	1 V.subjS[1]	1	specialist/hunter	V.subjS	S
+Ojibwe	73	DIG	moon'ang	Basic	1 subjA[1].V.objI[2] 2	1	digger	subjA.V	A
+Ojibwe	73	DIG	moon'ang	Basic	1 subjA[1].V.objI[2] 2	2	dug up thing	V.objI	P
+Ojibwe	73	DIG	moon'hwaad	Basic	1 subjA[1].V.objI[2] 2	1	digger	subjA.V	A
+Ojibwe	73	DIG	moon'hwaad	Basic	1 subjA[1].V.objI[2] 2	2	dug up thing	V.objI	P
+Ojibwe	74	PUSH	gaandnaad	Basic	1 subjA[1].V.objI[2] 2	1	pusher	subjA.V	A
+Ojibwe	74	PUSH	gaandnaad	Basic	1 subjA[1].V.objI[2] 2	2	pushee	V.objI	P
+Ojibwe	74	PUSH	gaandnang	Basic	1 subjA[1].V.objI[2] 2	1	pusher	subjA.V	A
+Ojibwe	74	PUSH	gaandnang	Basic	1 subjA[1].V.objI[2] 2	2	pushee	V.objI	P
+Ojibwe	75	BRING	biidood	Basic	1 subjA[1].V.objI[2] 2	1	bringer	subjA.V	A
+Ojibwe	75	BRING	biidood	Basic	1 subjA[1].V.objI[2] 2	2	brought thing	V.objI	P
+Ojibwe	75	BRING	biinaad	Basic	1 subjA[1].V.objI[2] 2	1	bringer	subjA.V	A
+Ojibwe	76	STEAL	gmoodmaad	Basic	1 subjA[1].V.objI[2] 2 (3)	1	stealer	subjA.V	A
+Ojibwe	76	STEAL	gmoodmaad	Basic	1 subjA[1].V.objI[2] 2 (3)	2	stealing source	V.objI	P
+Ojibwe	76	STEAL	gmoodmaad	Basic	1 subjA[1].V.objI[2] 2 (3)	3	stolen thing	∅	I
+Ojibwe	77	TEACH	gkinoo'mawaad	Basic	1 subjA[1].V.objI[2] 2	1	teacher	subjA.V	A
+Ojibwe	77	TEACH	gkinoo'mawaad	Basic	1 subjA[1].V.objI[2] 2	2	teachee	V.objI	P
+Ojibwe	78	HEAR	noondang	Basic	1 subjA[1].V.objI[2] 2	1	hearer	subjA.V	A
+Ojibwe	78	HEAR	noondang	Basic	1 subjA[1].V.objI[2] 2	2	heard sound	V.objI	P
+Ojibwe	78	HEAR	noondwaad	Basic	1 subjA[1].V.objI[2] 2	1	hearer	subjA.V	A
+Ojibwe	78	HEAR	noondwaad	Basic	1 subjA[1].V.objI[2] 2	2	heard sound	V.objI	P
+Ojibwe	79	COOK	mnozwaad	Basic	1 subjA[1].V.objI[2] 2	1	cooker	subjA.V	A
+Ojibwe	79	COOK	mnozwaad	Basic	1 subjA[1].V.objI[2] 2	2	cooked food	V.objI	P
+Ojibwe	79	COOK	mnzang	Basic	1 subjA[1].V.objI[2] 2	1	cooker	subjA.V	A
+Ojibwe	79	COOK	mnzang	Basic	1 subjA[1].V.objI[2] 2	2	cooked food	V.objI	P
+Ojibwe	80	BOIL	nde	Basic	1 V.subjS[1]	1	boiled thing	V.subjS	S
+Ojibwe	80	BOIL	nzo	Basic	1 V.subjS[1]	1	boiled thing	V.subjS	S
+Ojibwe	87	WANT	ndawendang	Basic	1 subjA[1].V.objI[2] 2	1	wanter	subjA.V	A
+Ojibwe	87	WANT	ndawendang	Basic	1 subjA[1].V.objI[2] 2	2	wanted thing	V.objI	P
+Ojibwe	87	WANT	ndawenmaad	Basic	1 subjA[1].V.objI[2] 2	1	wanter	subjA.V	A
+Ojibwe	87	WANT	ndawenmaad	Basic	1 subjA[1].V.objI[2] 2	2	wanted thing	V.objI	P
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Basic	1 V.subjS[1]	1	shaver (of self)	V.subjS	S

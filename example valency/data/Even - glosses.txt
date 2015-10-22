@@ -1,0 +1,33 @@
+﻿Language_name	Gloss	Meaning
+Even	1	first person
+Even	2	second person
+Even	3	third person
+Even	ABL	ablative
+Even	ACC	accusative
+Even	AD	adversative passive
+Even	ALIEN	alienable possession
+Even	ALL	allative
+Even	AOR	aorist
+Even	CAUS	causative
+Even	COM	comitative
+Even	CONNEG	connegative form
+Even	CONV	converb
+Even	DAT	dative
+Even	DIR	directional
+Even	INCH	inchoative
+Even	INSTR	instrumental
+Even	ITER	iterative
+Even	LOC	locative
+Even	MED	mediopassive
+Even	MOM	momentative aspect
+Even	PL	plural
+Even	POSS	possessive
+Even	PRES	present
+Even	PROL	prolative
+Even	PURP	purposive converbal
+Even	REC	reciprocal
+Even	REFL	reflexive
+Even	RES	resultative
+Even	SG	singular
+Even	SOC	sociative
+Even	TR	transitive

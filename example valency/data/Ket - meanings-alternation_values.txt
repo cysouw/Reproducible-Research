@@ -1,0 +1,529 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Ket	1	EAT	a⁰ (S-O-a-pl )	Anti-Causative Alternation	Never	
+Ket	1	EAT	a⁰ (S-O-a-pl )	Causative	Never	
+Ket	1	EAT	a⁰ (S-O-a-pl )	Comitative Alternation	Never	
+Ket	1	EAT	a⁰ (S-O-a-pl )	Incorporation	Regularly	
+Ket	1	EAT	a⁰ (S-O-a-pl )	Reflexive/Reciprocal Alternation	Never	
+Ket	1	EAT	a⁰ (S-O-a-pl )	Resultative	Never	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Anti-Causative Alternation	Never	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Causative	Never	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Comitative Alternation	Never	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Incorporation	Never	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	2	HUG	hataŋ⁷-k⁵-bed⁰ (S-hataŋ-O-k-bed-pl)	Resultative	Regularly	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Anti-Causative Alternation	Never	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Causative	Never	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Comitative Alternation	Never	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Incorporation	Never	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Reflexive/Reciprocal Alternation	Never	
+Ket	3	LOOK AT	ŋ⁵-qo⁰ (S-S-ŋ-qo-pl )	Resultative	Never	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Anti-Causative Alternation	Never	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Causative	Never	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Comitative Alternation	Never	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Incorporation	Never	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	4	SEE	t⁵-oŋ⁰ (S-O-t-oŋ-pl)	Resultative	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Anti-Causative Alternation	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Causative	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Comitative Alternation	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Incorporation	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	5	SMELL	it⁷-it⁰ (S-it-it-pl)	Resultative	Never	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Anti-Causative Alternation	Never	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Causative	Regularly	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Comitative Alternation	Never	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Incorporation	Never	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	6	FEAR	qoranej (7)-bed (0) (S-qoranej-bed-pl)	Resultative	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Anti-Causative Alternation	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Causative	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Comitative Alternation	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Incorporation	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Reflexive/Reciprocal Alternation	Never	
+Ket	6	FEAR	t⁵-ok⁰ (S-S-t-ok-pl )	Resultative	Never	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Anti-Causative Alternation	Regularly	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Causative	Never	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Comitative Alternation	Never	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Incorporation	Never	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Reflexive/Reciprocal Alternation	Regularly	
+Ket	7	FRIGHTEN	qoraŋ⁷-q⁵-t~a⁰ (S-qodaŋ-q-O-t-pl )	Resultative	Regularly	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Anti-Causative Alternation	Never	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Causative	Never	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Comitative Alternation	Never	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Incorporation	Never	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Reflexive/Reciprocal Alternation	Never	
+Ket	8	LIKE	aqt⁷-qan⁰ (SANIM.SG-aqta-qan)	Resultative	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Anti-Causative Alternation	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Causative	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Comitative Alternation	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Incorporation	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Reflexive/Reciprocal Alternation	Never	
+Ket	9	KNOW	(qoŋ) it⁷-am⁰	Resultative	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Anti-Causative Alternation	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Causative	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Comitative Alternation	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Incorporation	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	10	THINK	aniŋ⁷-bed⁰ (S-an-bed-pl)	Resultative	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Anti-Causative Alternation	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Causative	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Comitative Alternation	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Incorporation	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	11	SEARCH FOR	saŋ⁷-bed⁰ (S-saŋ-bed-pl)	Resultative	Never	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Anti-Causative Alternation	Never	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Causative	Regularly	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Comitative Alternation	Never	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Incorporation	Never	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	12	WASH	ul⁷-d⁴-kaŋ⁰ (S-ul-d-O-kŋ-pl)	Resultative	Never	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Anti-Causative Alternation	Never	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Causative	Never	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Comitative Alternation	Never	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Incorporation	Never	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	13	DRESS	sa⁰ (S-O-sa-pl)	Resultative	Regularly	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Anti-Causative Alternation	Never	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Causative	Never	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Comitative Alternation	Never	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Incorporation	Never	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	14	SHAVE (a body part/person)	k⁵-a⁰ (S-k-O-a-pl)	Resultative	Regularly	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Anti-Causative Alternation	Never	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Causative	Never	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Comitative Alternation	Never	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Incorporation	Never	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Reflexive/Reciprocal Alternation	Regularly	
+Ket	15	HELP	posovat⁷-k⁵-bed⁰ (S-pomagad-O-k-bed-pl )	Resultative	Regularly	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Anti-Causative Alternation	Never	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Causative	Never	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Comitative Alternation	Never	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Incorporation	Never	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	16	FOLLOW	eiŋ k⁵-qon⁰ (S-t-O-aq-pl)	Resultative	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Anti-Causative Alternation	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Causative	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Comitative Alternation	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Incorporation	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	17	MEET	suk⁷-qot⁰ (S-suk-O-k-qut-pl)	Resultative	Regularly	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Anti-Causative Alternation	Never	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Causative	Never	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Comitative Alternation	Never	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Incorporation	Never	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	18	TALK	asan⁷-qan⁰ (S-asqan-O-k-kan-pl)	Resultative	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Anti-Causative Alternation	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Causative	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Comitative Alternation	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Incorporation	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	19	ASK FOR	si⁷-aq⁰ (S-si-aq-pl)	Resultative	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Anti-Causative Alternation	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Causative	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Comitative Alternation	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Incorporation	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	20	SHOUT AT	es⁷-ej⁰S-es-h-ej-pl (S-es-h-ej-pl)	Resultative	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Anti-Causative Alternation	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Causative	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Comitative Alternation	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Incorporation	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	21	TELL	t⁵-ki⁰ (S-t-O-ke-pl)	Resultative	Never	
+Ket	22	SAY	ma~da⁰	Anti-Causative Alternation	Never	
+Ket	22	SAY	ma~da⁰	Causative	Never	
+Ket	22	SAY	ma~da⁰	Comitative Alternation	Never	
+Ket	22	SAY	ma~da⁰	Incorporation	Never	
+Ket	22	SAY	ma~da⁰	Reflexive/Reciprocal Alternation	Never	
+Ket	22	SAY	ma~da⁰	Resultative	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Anti-Causative Alternation	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Causative	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Comitative Alternation	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Incorporation	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	22	SAY	t⁵-ki⁰ (S-t-O-ke-pl)	Resultative	Never	
+Ket	23	NAME	no direct counterpart	Anti-Causative Alternation	Never	
+Ket	23	NAME	no direct counterpart	Causative	Never	
+Ket	23	NAME	no direct counterpart	Comitative Alternation	Never	
+Ket	23	NAME	no direct counterpart	Incorporation	Never	
+Ket	23	NAME	no direct counterpart	Reflexive/Reciprocal Alternation	Never	
+Ket	23	NAME	no direct counterpart	Resultative	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Anti-Causative Alternation	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Causative	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Comitative Alternation	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Incorporation	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	24	BUILD	bed⁰ (S-O-bed-pl)	Resultative	Regularly	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Anti-Causative Alternation	Never	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Causative	Never	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Comitative Alternation	Never	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Incorporation	Never	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	25	BREAK	il⁷-bed⁰ (S-il-O-k-bed-pl)	Resultative	Regularly	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Anti-Causative Alternation	Never	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Causative	Never	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Comitative Alternation	Never	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Incorporation	Marginally	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	26	KILL	ej⁰ (S-O-ej-pl)	Resultative	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Anti-Causative Alternation	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Causative	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Comitative Alternation	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Incorporation	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	27	BEAT	had⁷-do⁰ (S-had-O-do-pl)	Resultative	Never	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Anti-Causative Alternation	Never	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Causative	Never	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Comitative Alternation	Never	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Incorporation	Regularly	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	28	HIT	ted⁰ (S-O-ted-pl)	Resultative	Regularly	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Anti-Causative Alternation	Never	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Causative	Never	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Comitative Alternation	Never	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Incorporation	Never	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	29	TOUCH	n⁵-dəj⁰ (S-n-O-dəj-pl)	Resultative	Never	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Anti-Causative Alternation	Never	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Causative	Never	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Comitative Alternation	Never	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Incorporation	Never	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	30	CUT	k⁵-a⁰ (S-k-O-a-pl)	Resultative	Regularly	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Anti-Causative Alternation	Never	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Causative	Never	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Comitative Alternation	Never	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Incorporation	Never	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	31	TAKE	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Resultative	Regularly	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Anti-Causative Alternation	Regularly	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Causative	Never	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Comitative Alternation	Never	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Incorporation	Never	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	32	TEAR	qətej⁷-a⁰ (S-qətej-O-k-a-pl)	Resultative	Regularly	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Anti-Causative Alternation	Regularly	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Causative	Never	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Comitative Alternation	Never	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Incorporation	Never	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	33	PEEL	iŋ-don (S-iŋ-O-k-don-pl)	Resultative	Regularly	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Anti-Causative Alternation	Regularly	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Causative	Never	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Comitative Alternation	Never	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Incorporation	Never	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	34	HIDE	di⁷-t~a⁰ (S-a-k-O-t-pl)	Resultative	Regularly	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Anti-Causative Alternation	Regularly	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Causative	Never	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Comitative Alternation	Never	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Incorporation	Never	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	35	SHOW	ɯt⁷-k⁵-t~a⁰ (S-ɯt-k-O-t-pl)	Resultative	Regularly	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Anti-Causative Alternation	Never	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Causative	Never	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Comitative Alternation	Never	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Incorporation	Marginally	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	36	GIVE	b³-aq⁰ (S-b-O-aq-pl)	Resultative	Never	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Anti-Causative Alternation	Never	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Causative	Never	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Comitative Alternation	Never	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Incorporation	Never	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	37	SEND	eda⁷-q⁵-t~a⁰ (S-eda-q-O-t-pl)	Resultative	Regularly	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Anti-Causative Alternation	Never	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Causative	Never	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Comitative Alternation	Never	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Incorporation	Never	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	38	CARRY	taŋ⁷-k⁵-t~a⁰ (S-taŋ-k-O-t-pl)	Resultative	Regularly	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Anti-Causative Alternation	Never	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Causative	Never	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Comitative Alternation	Never	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Incorporation	Never	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	39	THROW	es⁷-k⁵-daq⁰ (S-es-k-O-daq-pl)	Resultative	Regularly	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Anti-Causative Alternation	Never	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Causative	Never	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Comitative Alternation	Never	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Incorporation	Never	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	40	TIE	aŋ⁷-k⁵-t~a⁰ (S-aŋ-O-k-t-pl)	Resultative	Regularly	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Anti-Causative Alternation	Never	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Causative	Never	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Comitative Alternation	Never	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Incorporation	Never	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	41	PUT	es⁷-daq⁰ (S-es-O-k-daq-pl)	Resultative	Regularly	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Anti-Causative Alternation	Regularly	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Causative	Never	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Comitative Alternation	Never	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Incorporation	Marginally	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	42	POUR	at⁷-daq⁰ (S-at-O-daq-pl)	Resultative	Regularly	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Anti-Causative Alternation	Regularly	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Causative	Never	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Comitative Alternation	Never	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Incorporation	Never	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	43	COVER	ət⁷-k⁵-t~a⁰ (S-ət-O-k-t-pl)	Resultative	Regularly	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Anti-Causative Alternation	Regularly	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Causative	Never	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Comitative Alternation	Never	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Incorporation	Never	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	44	FILL	ut⁷-sin⁰ (S-ut-O-sin-pl)	Resultative	Regularly	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Anti-Causative Alternation	Never	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Causative	Never	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Comitative Alternation	Never	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Incorporation	Never	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	45	LOAD	es⁷-daq⁰ (S-es-O-k-daq-pl)	Resultative	Regularly	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Anti-Causative Alternation	Never	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Causative	Never	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Comitative Alternation	Never	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Incorporation	Never	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	46	BLINK	imoltij⁷-t⁵-a⁰ (S-imoltij-S-t-a-pl)	Resultative	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Anti-Causative Alternation	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Causative	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Comitative Alternation	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Incorporation	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	47	COUGH	qaqtemed⁷-bed⁰ (S-qaqtemed-a-pl)	Resultative	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Anti-Causative Alternation	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Causative	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Comitative Alternation	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Incorporation	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	48	CLIMB	k⁵-qut⁰ (S-O-k-qut-pl)	Resultative	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Anti-Causative Alternation	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Causative	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Comitative Alternation	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Incorporation	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	49	RUN	toqted⁷-k⁵-tn⁰ (S-toqtad-bed-pl)	Resultative	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Anti-Causative Alternation	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Causative	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Comitative Alternation	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Incorporation	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	50	SIT	ses⁷-ta⁰ (S-ses-ta-pl)	Resultative	Never	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Anti-Causative Alternation	Never	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Causative	Regularly	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Comitative Alternation	Never	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Incorporation	Never	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Reflexive/Reciprocal Alternation	Never	
+Ket	51	SIT DOWN	k⁵-kən⁰ (S-k-S-hən)	Resultative	Regularly	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Anti-Causative Alternation	Never	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Causative	Regularly	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Comitative Alternation	Never	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Incorporation	Never	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	52	JUMP	eŋ⁷-bed⁰ (S-eŋ-bed-pl)	Resultative	Never	
+Ket	53	SING	il⁰ (S-O-il-pl)	Anti-Causative Alternation	Never	
+Ket	53	SING	il⁰ (S-O-il-pl)	Causative	Regularly	
+Ket	53	SING	il⁰ (S-O-il-pl)	Comitative Alternation	Never	
+Ket	53	SING	il⁰ (S-O-il-pl)	Incorporation	Never	
+Ket	53	SING	il⁰ (S-O-il-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	53	SING	il⁰ (S-O-il-pl)	Resultative	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Anti-Causative Alternation	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Causative	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Comitative Alternation	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Incorporation	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Reflexive/Reciprocal Alternation	Never	
+Ket	54	GO	k⁵-den⁰ (2) (__-S-k-den)	Resultative	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Anti-Causative Alternation	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Causative	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Comitative Alternation	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Incorporation	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Reflexive/Reciprocal Alternation	Never	
+Ket	55	LEAVE	k⁵-den⁰ (__-S-k-den)	Resultative	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Anti-Causative Alternation	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Causative	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Comitative Alternation	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Incorporation	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	56	LIVE	daq⁰ (S-aq-pl)	Resultative	Never	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Anti-Causative Alternation	Never	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Causative	Regularly	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Comitative Alternation	Never	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Incorporation	Never	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	57	LAUGH	daq⁷-ij⁰(S-daq-ij-pl)	Resultative	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Anti-Causative Alternation	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Causative	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Comitative Alternation	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Incorporation	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	58	SCREAM	es⁷-h⁵-ej⁰ (S-es-h-ij-pl)	Resultative	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Anti-Causative Alternation	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Causative	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Comitative Alternation	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Incorporation	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Reflexive/Reciprocal Alternation	Never	
+Ket	59	FEEL PAIN	ad⁷-tn⁰ (ad-S-k-den)	Resultative	Never	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Anti-Causative Alternation	Never	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Causative	Regularly	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Comitative Alternation	Never	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Incorporation	Never	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	60	FEEL COLD	təːl⁰ (SANIM.SG-təːl-pl)	Resultative	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Anti-Causative Alternation	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Causative	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Comitative Alternation	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Incorporation	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	61	DIE	qo⁰ (S-qo-pl)	Resultative	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Anti-Causative Alternation	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Causative	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Comitative Alternation	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Incorporation	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	62	PLAY	an⁷-de⁰ (S-aniŋ-ij-pl)	Resultative	Never	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Anti-Causative Alternation	Never	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Causative	Regularly	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Comitative Alternation	Never	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Incorporation	Never	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	63	BE SAD	aŋ⁷-bed⁰ (SANIM.-aŋ-bed-pl)	Resultative	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Anti-Causative Alternation	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Causative	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Comitative Alternation	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Incorporation	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Reflexive/Reciprocal Alternation	Never	
+Ket	64	BE HUNGRY	obɯlda qoʁot	Resultative	Never	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Anti-Causative Alternation	Never	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Causative	Regularly	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Comitative Alternation	Never	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Incorporation	Never	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	65	ROLL	k⁵-tiŋ⁰ (SANIM.-k-S-tiŋ)	Resultative	Never	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Anti-Causative Alternation	Never	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Causative	Regularly	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Comitative Alternation	Never	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Incorporation	Never	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Reflexive/Reciprocal Alternation	Never	
+Ket	66	SINK	ul⁷-qan⁰ (SANIM.-ul-qan)	Resultative	Never	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Anti-Causative Alternation	Never	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Causative	Regularly	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Comitative Alternation	Never	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Incorporation	Never	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Reflexive/Reciprocal Alternation	Never	
+Ket	67	BURN	inaq⁷-qan⁰ (SANIM.SG-inaq-qan)	Resultative	Never	
+Ket	68	BE DRY	obɯlda toqojiŋ	Anti-Causative Alternation	Marginally	
+Ket	68	BE DRY	obɯlda toqojiŋ	Causative	Regularly	
+Ket	68	BE DRY	obɯlda toqojiŋ	Comitative Alternation	Never	
+Ket	68	BE DRY	obɯlda toqojiŋ	Incorporation	Never	
+Ket	68	BE DRY	obɯlda toqojiŋ	Reflexive/Reciprocal Alternation	Marginally	
+Ket	68	BE DRY	obɯlda toqojiŋ	Resultative	Regularly	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Anti-Causative Alternation	Never	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Causative	Never	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Comitative Alternation	Never	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Incorporation	Never	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Reflexive/Reciprocal Alternation	Never	
+Ket	69	RAIN	ul⁷-ta⁰ (ul-ta)	Resultative	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Anti-Causative Alternation	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Causative	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Comitative Alternation	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Incorporation	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Reflexive/Reciprocal Alternation	Never	
+Ket	70	BE A HUNTER	no verbal counterpart	Resultative	Never	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Anti-Causative Alternation	Never	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Causative	Never	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Comitative Alternation	Never	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Incorporation	Never	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	71	GRIND	ted⁰ (2) (S-O-ted-pl)	Resultative	Regularly	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Anti-Causative Alternation	Never	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Causative	Never	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Comitative Alternation	Never	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Incorporation	Never	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	72	WIPE	(a⁴-)bed⁰ (S-O-bed-pl)	Resultative	Regularly	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Anti-Causative Alternation	Never	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Causative	Never	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Comitative Alternation	Never	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Incorporation	Never	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	73	DIG	kd⁵-b³-qut⁰ (S-O-k-d-b-qut-pl)	Resultative	Regularly	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Anti-Causative Alternation	Never	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Causative	Never	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Comitative Alternation	Never	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Incorporation	Never	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Reflexive/Reciprocal Alternation	Marginally	
+Ket	74	PUSH	teːl⁷-t~a⁰ (S-teːl-O-t-pl)	Resultative	Regularly	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Anti-Causative Alternation	Never	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Causative	Never	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Comitative Alternation	Never	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Incorporation	Never	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	75	BRING	ik⁷-k⁵-bes⁰ (S-ik-O-k-bes-pl)	Resultative	Regularly	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Anti-Causative Alternation	Never	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Causative	Regularly	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Comitative Alternation	Never	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Incorporation	Never	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Reflexive/Reciprocal Alternation	Marginally	
+Ket	76	STEAL	uddeiŋ⁷-k⁵-bed⁰ (S-uddeiŋ-O-k-bed-pl )	Resultative	Regularly	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Anti-Causative Alternation	Regularly	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Causative	Never	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Comitative Alternation	Never	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Incorporation	Never	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	77	TEACH	sidaq⁷-q⁵-t~a⁰ (S-sidaq-q-O-t-pl)	Resultative	Regularly	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Anti-Causative Alternation	Never	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Causative	Never	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Comitative Alternation	Never	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Incorporation	Never	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Reflexive/Reciprocal Alternation	Never	
+Ket	78	HEAR	k⁵-b³-da⁰ (__-S-k-b-da )	Resultative	Never	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Anti-Causative Alternation	Regularly	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Causative	Never	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Comitative Alternation	Never	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Incorporation	Never	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	79	COOK	ən⁷-q⁵-t~a⁰ (S-ən-q-O-t-pl)	Resultative	Regularly	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Anti-Causative Alternation	Never	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Causative	Regularly	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Comitative Alternation	Never	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Incorporation	Never	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Reflexive/Reciprocal Alternation	Never	
+Ket	80	BOIL	k⁷-qan⁰ (__-S-k-qan)	Resultative	Never	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Anti-Causative Alternation	Never	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Causative	Regularly	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Comitative Alternation	Never	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Incorporation	Never	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Reflexive/Reciprocal Alternation	Never	
+Ket	81	APPEAR	ət⁷-k⁵-tn⁰ ()	Resultative	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Anti-Causative Alternation	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Causative	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Comitative Alternation	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Incorporation	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Reflexive/Reciprocal Alternation	Never	
+Ket	84	FALL	t⁵-daq⁰ (S-t-S-daq)	Resultative	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Anti-Causative Alternation	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Causative	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Comitative Alternation	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Incorporation	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Reflexive/Reciprocal Alternation	Never	
+Ket	86	GET	kaj⁷ -qos~am⁰ (S-kas-O-am-pl)	Resultative	Regularly	
+Ket	97	COME (1)	ik (7)-bes (0)	Anti-Causative Alternation	Never	
+Ket	97	COME (1)	ik (7)-bes (0)	Causative	Regularly	
+Ket	97	COME (1)	ik (7)-bes (0)	Comitative Alternation	Regularly	
+Ket	97	COME (1)	ik (7)-bes (0)	Incorporation	Never	
+Ket	97	COME (1)	ik (7)-bes (0)	Reflexive/Reciprocal Alternation	Never	
+Ket	97	COME (1)	ik (7)-bes (0)	Resultative	Never	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Anti-Causative Alternation	Never	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Causative	Never	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Comitative Alternation	Never	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Incorporation	Never	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Reflexive/Reciprocal Alternation	Regularly	
+Ket	111	CALL	es⁷-h⁵-ej⁰ (2) (S-es-O-h-ej-pl)	Resultative	No data	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Anti-Causative Alternation	Never	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Causative	Never	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Comitative Alternation	Never	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Incorporation	Never	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Reflexive/Reciprocal Alternation	Never	
+Ket	113	WINK	laktejeŋ (7)-k (5)-a (0) S-laktejeŋ-O-k-a-pl	Resultative	Never	

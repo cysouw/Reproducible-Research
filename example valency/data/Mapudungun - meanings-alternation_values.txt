@@ -1,0 +1,753 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Mapudungun	1	EAT	in	Applicative 1	Marginally	
+Mapudungun	1	EAT	in	Applicative 2	Regularly	
+Mapudungun	1	EAT	in	Applicative 3	Never	
+Mapudungun	1	EAT	in	Applicative 4	Never	
+Mapudungun	1	EAT	in	Causative1	No data	
+Mapudungun	1	EAT	in	Causative2	No data	
+Mapudungun	1	EAT	in	Labile	Regularly	
+Mapudungun	1	EAT	in	Reflexive	Never	
+Mapudungun	2	HUG	rofülün	Applicative 1	Never	
+Mapudungun	2	HUG	rofülün	Applicative 2	Never	
+Mapudungun	2	HUG	rofülün	Applicative 3	Never	
+Mapudungun	2	HUG	rofülün	Applicative 4	Never	
+Mapudungun	2	HUG	rofülün	Causative1	Never	
+Mapudungun	2	HUG	rofülün	Causative2	Never	
+Mapudungun	2	HUG	rofülün	Labile	Never	
+Mapudungun	2	HUG	rofülün	Reflexive	Marginally	
+Mapudungun	3	LOOK AT	adkintun	Applicative 1	Regularly	
+Mapudungun	3	LOOK AT	adkintun	Applicative 2	Regularly	
+Mapudungun	3	LOOK AT	adkintun	Applicative 3	Never	
+Mapudungun	3	LOOK AT	adkintun	Applicative 4	Never	
+Mapudungun	3	LOOK AT	adkintun	Causative1	Never	
+Mapudungun	3	LOOK AT	adkintun	Causative2	Never	
+Mapudungun	3	LOOK AT	adkintun	Labile	Regularly	
+Mapudungun	3	LOOK AT	adkintun	Reflexive	Never	
+Mapudungun	3	LOOK AT	lelin	Applicative 1	Regularly	
+Mapudungun	3	LOOK AT	lelin	Applicative 2	Regularly	
+Mapudungun	3	LOOK AT	lelin	Applicative 3	Never	
+Mapudungun	3	LOOK AT	lelin	Applicative 4	Never	
+Mapudungun	3	LOOK AT	lelin	Causative1	Never	
+Mapudungun	3	LOOK AT	lelin	Causative2	Never	
+Mapudungun	3	LOOK AT	lelin	Labile	Regularly	
+Mapudungun	3	LOOK AT	lelin	Reflexive	Regularly	
+Mapudungun	4	SEE	pen	Applicative 1	Regularly	
+Mapudungun	4	SEE	pen	Applicative 2	Regularly	
+Mapudungun	4	SEE	pen	Applicative 3	Never	
+Mapudungun	4	SEE	pen	Applicative 4	Never	
+Mapudungun	4	SEE	pen	Causative1	Never	
+Mapudungun	4	SEE	pen	Causative2	Never	
+Mapudungun	4	SEE	pen	Labile	Never	
+Mapudungun	4	SEE	pen	Reflexive	Regularly	
+Mapudungun	5	SMELL	ṉümütun	Applicative 1	Regularly	
+Mapudungun	5	SMELL	ṉümütun	Applicative 2	Regularly	
+Mapudungun	5	SMELL	ṉümütun	Applicative 3	Never	
+Mapudungun	5	SMELL	ṉümütun	Applicative 4	Never	
+Mapudungun	5	SMELL	ṉümütun	Causative1	Never	
+Mapudungun	5	SMELL	ṉümütun	Causative2	Never	
+Mapudungun	5	SMELL	ṉümütun	Labile	Never	
+Mapudungun	5	SMELL	ṉümütun	Reflexive	Marginally	
+Mapudungun	6	FEAR	llükan	Applicative 1	Regularly	
+Mapudungun	6	FEAR	llükan	Applicative 2	Never	
+Mapudungun	6	FEAR	llükan	Applicative 3	Never	
+Mapudungun	6	FEAR	llükan	Applicative 4	Never	
+Mapudungun	6	FEAR	llükan	Causative1	No data	
+Mapudungun	6	FEAR	llükan	Causative2	No data	
+Mapudungun	6	FEAR	llükan	Labile	Marginally	
+Mapudungun	6	FEAR	llükan	Reflexive	Marginally	
+Mapudungun	7	FRIGHTEN	trupefülün	Applicative 1	Regularly	
+Mapudungun	7	FRIGHTEN	trupefülün	Applicative 2	Regularly	
+Mapudungun	7	FRIGHTEN	trupefülün	Applicative 3	Never	
+Mapudungun	7	FRIGHTEN	trupefülün	Applicative 4	Never	
+Mapudungun	7	FRIGHTEN	trupefülün	Causative1	Never	
+Mapudungun	7	FRIGHTEN	trupefülün	Causative2	Never	
+Mapudungun	7	FRIGHTEN	trupefülün	Labile	Never	
+Mapudungun	7	FRIGHTEN	trupefülün	Reflexive	Marginally	
+Mapudungun	8	LIKE	ayün (2)	Applicative 1	Never	
+Mapudungun	8	LIKE	ayün (2)	Applicative 2	Never	
+Mapudungun	8	LIKE	ayün (2)	Applicative 3	Never	
+Mapudungun	8	LIKE	ayün (2)	Applicative 4	Never	
+Mapudungun	8	LIKE	ayün (2)	Causative1	Regularly	
+Mapudungun	8	LIKE	ayün (2)	Causative2	Never	
+Mapudungun	8	LIKE	ayün (2)	Labile	Never	
+Mapudungun	8	LIKE	ayün (2)	Reflexive	Regularly	
+Mapudungun	8	LIKE	kümentun	Applicative 1	Never	
+Mapudungun	8	LIKE	kümentun	Applicative 2	Never	
+Mapudungun	8	LIKE	kümentun	Applicative 3	Never	
+Mapudungun	8	LIKE	kümentun	Applicative 4	Never	
+Mapudungun	8	LIKE	kümentun	Causative1	Never	
+Mapudungun	8	LIKE	kümentun	Causative2	Never	
+Mapudungun	8	LIKE	kümentun	Labile	Never	
+Mapudungun	8	LIKE	kümentun	Reflexive	Marginally	
+Mapudungun	9	KNOW	kimün	Applicative 1	Never	
+Mapudungun	9	KNOW	kimün	Applicative 2	Regularly	
+Mapudungun	9	KNOW	kimün	Applicative 3	Never	
+Mapudungun	9	KNOW	kimün	Applicative 4	Never	
+Mapudungun	9	KNOW	kimün	Causative1	Regularly	
+Mapudungun	9	KNOW	kimün	Causative2	Never	
+Mapudungun	9	KNOW	kimün	Labile	Never	
+Mapudungun	9	KNOW	kimün	Reflexive	Marginally	
+Mapudungun	10	THINK	rakiduamün	Applicative 1	No data	
+Mapudungun	10	THINK	rakiduamün	Applicative 2	No data	
+Mapudungun	10	THINK	rakiduamün	Applicative 3	Never	
+Mapudungun	10	THINK	rakiduamün	Applicative 4	Regularly	
+Mapudungun	10	THINK	rakiduamün	Causative1	Never	
+Mapudungun	10	THINK	rakiduamün	Causative2	Never	
+Mapudungun	10	THINK	rakiduamün	Labile	Regularly	
+Mapudungun	10	THINK	rakiduamün	Reflexive	Marginally	
+Mapudungun	11	SEARCH FOR	kintun	Applicative 1	Regularly	
+Mapudungun	11	SEARCH FOR	kintun	Applicative 2	No data	
+Mapudungun	11	SEARCH FOR	kintun	Applicative 3	Never	
+Mapudungun	11	SEARCH FOR	kintun	Applicative 4	Never	
+Mapudungun	11	SEARCH FOR	kintun	Causative1	Never	
+Mapudungun	11	SEARCH FOR	kintun	Causative2	Never	
+Mapudungun	11	SEARCH FOR	kintun	Labile	Regularly	
+Mapudungun	11	SEARCH FOR	kintun	Reflexive	Marginally	
+Mapudungun	12	WASH	küchan	Applicative 1	Regularly	
+Mapudungun	12	WASH	küchan	Applicative 2	Marginally	
+Mapudungun	12	WASH	küchan	Applicative 3	Never	
+Mapudungun	12	WASH	küchan	Applicative 4	Never	
+Mapudungun	12	WASH	küchan	Causative1	Never	
+Mapudungun	12	WASH	küchan	Causative2	Never	
+Mapudungun	12	WASH	küchan	Labile	Never	
+Mapudungun	12	WASH	küchan	Reflexive	Never	
+Mapudungun	13	DRESS	takun	Applicative 1	Regularly	
+Mapudungun	13	DRESS	takun	Applicative 2	Regularly	
+Mapudungun	13	DRESS	takun	Applicative 3	Never	
+Mapudungun	13	DRESS	takun	Applicative 4	Never	
+Mapudungun	13	DRESS	takun	Causative1	Never	
+Mapudungun	13	DRESS	takun	Causative2	Never	
+Mapudungun	13	DRESS	takun	Labile	Never	
+Mapudungun	13	DRESS	takun	Reflexive	Never	
+Mapudungun	15	HELP	kellun	Applicative 1	Regularly	
+Mapudungun	15	HELP	kellun	Applicative 2	Never	
+Mapudungun	15	HELP	kellun	Applicative 3	Never	
+Mapudungun	15	HELP	kellun	Applicative 4	Never	
+Mapudungun	15	HELP	kellun	Causative1	Never	
+Mapudungun	15	HELP	kellun	Causative2	Never	
+Mapudungun	15	HELP	kellun	Labile	Regularly	
+Mapudungun	15	HELP	kellun	Reflexive	Marginally	
+Mapudungun	16	FOLLOW	inan	Applicative 1	Regularly	
+Mapudungun	16	FOLLOW	inan	Applicative 2	Regularly	
+Mapudungun	16	FOLLOW	inan	Applicative 3	Never	
+Mapudungun	16	FOLLOW	inan	Applicative 4	Never	
+Mapudungun	16	FOLLOW	inan	Causative1	Never	
+Mapudungun	16	FOLLOW	inan	Causative2	Never	
+Mapudungun	16	FOLLOW	inan	Labile	Never	
+Mapudungun	16	FOLLOW	inan	Reflexive	Never	
+Mapudungun	17	MEET	trafün	Applicative 1	Never	
+Mapudungun	17	MEET	trafün	Applicative 2	Regularly	
+Mapudungun	17	MEET	trafün	Applicative 3	Regularly	
+Mapudungun	17	MEET	trafün	Applicative 4	Regularly	
+Mapudungun	17	MEET	trafün	Causative1	Never	
+Mapudungun	17	MEET	trafün	Causative2	Never	
+Mapudungun	17	MEET	trafün	Labile	Never	
+Mapudungun	17	MEET	trafün	Reflexive	Never	
+Mapudungun	18	TALK	ngütramkan	Applicative 1	Regularly	
+Mapudungun	18	TALK	ngütramkan	Applicative 2	Marginally	
+Mapudungun	18	TALK	ngütramkan	Applicative 3	Never	
+Mapudungun	18	TALK	ngütramkan	Applicative 4	Regularly	
+Mapudungun	18	TALK	ngütramkan	Causative1	Never	
+Mapudungun	18	TALK	ngütramkan	Causative2	Never	
+Mapudungun	18	TALK	ngütramkan	Labile	Regularly	
+Mapudungun	18	TALK	ngütramkan	Reflexive	Never	
+Mapudungun	19	ASK FOR	ngillatun	Applicative 1	No data	
+Mapudungun	19	ASK FOR	ngillatun	Applicative 2	Regularly	
+Mapudungun	19	ASK FOR	ngillatun	Applicative 3	Never	
+Mapudungun	19	ASK FOR	ngillatun	Applicative 4	Never	
+Mapudungun	19	ASK FOR	ngillatun	Causative1	Never	
+Mapudungun	19	ASK FOR	ngillatun	Causative2	Never	
+Mapudungun	19	ASK FOR	ngillatun	Labile	No data	
+Mapudungun	19	ASK FOR	ngillatun	Reflexive	Never	
+Mapudungun	20	SHOUT AT	wirarün (1)	Applicative 1	Marginally	
+Mapudungun	20	SHOUT AT	wirarün (1)	Applicative 2	Marginally	
+Mapudungun	20	SHOUT AT	wirarün (1)	Applicative 3	Never	
+Mapudungun	20	SHOUT AT	wirarün (1)	Applicative 4	Never	
+Mapudungun	20	SHOUT AT	wirarün (1)	Causative1	Marginally	
+Mapudungun	20	SHOUT AT	wirarün (1)	Causative2	Never	
+Mapudungun	20	SHOUT AT	wirarün (1)	Labile	Regularly	
+Mapudungun	20	SHOUT AT	wirarün (1)	Reflexive	Never	
+Mapudungun	21	TELL	ngütramün	Applicative 1	Regularly	
+Mapudungun	21	TELL	ngütramün	Applicative 2	Never	
+Mapudungun	21	TELL	ngütramün	Applicative 3	Never	
+Mapudungun	21	TELL	ngütramün	Applicative 4	Regularly	
+Mapudungun	21	TELL	ngütramün	Causative1	Never	
+Mapudungun	21	TELL	ngütramün	Causative2	Never	
+Mapudungun	21	TELL	ngütramün	Labile	Never	
+Mapudungun	21	TELL	ngütramün	Reflexive	Never	
+Mapudungun	22	SAY	pin	Applicative 1	Regularly	
+Mapudungun	22	SAY	pin	Applicative 2	Regularly	
+Mapudungun	22	SAY	pin	Applicative 3	Never	
+Mapudungun	22	SAY	pin	Applicative 4	Never	
+Mapudungun	22	SAY	pin	Causative1	Never	
+Mapudungun	22	SAY	pin	Causative2	Never	
+Mapudungun	22	SAY	pin	Labile	Never	
+Mapudungun	22	SAY	pin	Reflexive	Never	
+Mapudungun	23	NAME	üytuntukun	Applicative 1	Regularly	
+Mapudungun	23	NAME	üytuntukun	Applicative 2	Never	
+Mapudungun	23	NAME	üytuntukun	Applicative 3	Never	
+Mapudungun	23	NAME	üytuntukun	Applicative 4	Never	
+Mapudungun	23	NAME	üytuntukun	Causative1	Never	
+Mapudungun	23	NAME	üytuntukun	Causative2	Never	
+Mapudungun	23	NAME	üytuntukun	Labile	Never	
+Mapudungun	23	NAME	üytuntukun	Reflexive	Marginally	
+Mapudungun	24	BUILD	dewman (1)	Applicative 1	Regularly	
+Mapudungun	24	BUILD	dewman (1)	Applicative 2	Marginally	
+Mapudungun	24	BUILD	dewman (1)	Applicative 3	Regularly	
+Mapudungun	24	BUILD	dewman (1)	Applicative 4	Regularly	
+Mapudungun	24	BUILD	dewman (1)	Causative1	No data	
+Mapudungun	24	BUILD	dewman (1)	Causative2	No data	
+Mapudungun	24	BUILD	dewman (1)	Labile	Never	
+Mapudungun	24	BUILD	dewman (1)	Reflexive	Never	
+Mapudungun	25	BREAK	trafon	Applicative 1	Marginally	
+Mapudungun	25	BREAK	trafon	Applicative 2	Regularly	
+Mapudungun	25	BREAK	trafon	Applicative 3	No data	
+Mapudungun	25	BREAK	trafon	Applicative 4	No data	
+Mapudungun	25	BREAK	trafon	Causative1	Never	
+Mapudungun	25	BREAK	trafon	Causative2	Never	
+Mapudungun	25	BREAK	trafon	Labile	Regularly	
+Mapudungun	25	BREAK	trafon	Reflexive	Never	
+Mapudungun	25	BREAK	watron	Applicative 1	Marginally	
+Mapudungun	25	BREAK	watron	Applicative 2	Regularly	
+Mapudungun	25	BREAK	watron	Applicative 3	No data	
+Mapudungun	25	BREAK	watron	Applicative 4	No data	
+Mapudungun	25	BREAK	watron	Causative1	Never	
+Mapudungun	25	BREAK	watron	Causative2	Never	
+Mapudungun	25	BREAK	watron	Labile	Regularly	
+Mapudungun	25	BREAK	watron	Reflexive	Never	
+Mapudungun	26	KILL	l̠angümün	Applicative 1	Never	
+Mapudungun	26	KILL	l̠angümün	Applicative 2	Regularly	
+Mapudungun	26	KILL	l̠angümün	Applicative 3	Never	
+Mapudungun	26	KILL	l̠angümün	Applicative 4	Never	
+Mapudungun	26	KILL	l̠angümün	Causative1	Never	
+Mapudungun	26	KILL	l̠angümün	Causative2	Never	
+Mapudungun	26	KILL	l̠angümün	Labile	Never	
+Mapudungun	26	KILL	l̠angümün	Reflexive	Regularly	
+Mapudungun	27	BEAT	trawawtrawawtun	Applicative 1	Regularly	
+Mapudungun	27	BEAT	trawawtrawawtun	Applicative 2	Regularly	
+Mapudungun	27	BEAT	trawawtrawawtun	Applicative 3	No data	
+Mapudungun	27	BEAT	trawawtrawawtun	Applicative 4	No data	
+Mapudungun	27	BEAT	trawawtrawawtun	Causative1	Never	
+Mapudungun	27	BEAT	trawawtrawawtun	Causative2	Never	
+Mapudungun	27	BEAT	trawawtrawawtun	Labile	Never	
+Mapudungun	27	BEAT	trawawtrawawtun	Reflexive	Marginally	
+Mapudungun	28	HIT	trawawün	Applicative 1	Marginally	
+Mapudungun	28	HIT	trawawün	Applicative 2	Regularly	
+Mapudungun	28	HIT	trawawün	Applicative 3	Regularly	
+Mapudungun	28	HIT	trawawün	Applicative 4	Never	
+Mapudungun	28	HIT	trawawün	Causative1	Never	
+Mapudungun	28	HIT	trawawün	Causative2	Never	
+Mapudungun	28	HIT	trawawün	Labile	Never	
+Mapudungun	28	HIT	trawawün	Reflexive	Marginally	
+Mapudungun	29	TOUCH	kachillman	Applicative 1	Regularly	
+Mapudungun	29	TOUCH	kachillman	Applicative 2	Regularly	
+Mapudungun	29	TOUCH	kachillman	Applicative 3	Never	
+Mapudungun	29	TOUCH	kachillman	Applicative 4	Never	
+Mapudungun	29	TOUCH	kachillman	Causative1	Never	
+Mapudungun	29	TOUCH	kachillman	Causative2	Never	
+Mapudungun	29	TOUCH	kachillman	Labile	Never	
+Mapudungun	29	TOUCH	kachillman	Reflexive	No data	
+Mapudungun	30	CUT	katrün	Applicative 1	Regularly	
+Mapudungun	30	CUT	katrün	Applicative 2	Regularly	
+Mapudungun	30	CUT	katrün	Applicative 3	Never	
+Mapudungun	30	CUT	katrün	Applicative 4	Never	
+Mapudungun	30	CUT	katrün	Causative1	Never	
+Mapudungun	30	CUT	katrün	Causative2	Never	
+Mapudungun	30	CUT	katrün	Labile	Never	
+Mapudungun	30	CUT	katrün	Reflexive	Regularly	
+Mapudungun	31	TAKE	nün	Applicative 1	Regularly	
+Mapudungun	31	TAKE	nün	Applicative 2	Regularly	
+Mapudungun	31	TAKE	nün	Applicative 3	Regularly	
+Mapudungun	31	TAKE	nün	Applicative 4	Never	
+Mapudungun	31	TAKE	nün	Causative1	Never	
+Mapudungun	31	TAKE	nün	Causative2	Never	
+Mapudungun	31	TAKE	nün	Labile	Never	
+Mapudungun	31	TAKE	nün	Reflexive	Regularly	
+Mapudungun	31	TAKE	tun	Applicative 1	Regularly	
+Mapudungun	31	TAKE	tun	Applicative 2	Regularly	
+Mapudungun	31	TAKE	tun	Applicative 3	Regularly	
+Mapudungun	31	TAKE	tun	Applicative 4	Never	
+Mapudungun	31	TAKE	tun	Causative1	Never	
+Mapudungun	31	TAKE	tun	Causative2	Never	
+Mapudungun	31	TAKE	tun	Labile	Never	
+Mapudungun	31	TAKE	tun	Reflexive	Regularly	
+Mapudungun	32	TEAR	kacharnentun	Applicative 1	No data	
+Mapudungun	32	TEAR	kacharnentun	Applicative 2	Regularly	
+Mapudungun	32	TEAR	kacharnentun	Applicative 3	Never	
+Mapudungun	32	TEAR	kacharnentun	Applicative 4	Never	
+Mapudungun	32	TEAR	kacharnentun	Causative1	Never	
+Mapudungun	32	TEAR	kacharnentun	Causative2	Never	
+Mapudungun	32	TEAR	kacharnentun	Labile	Never	
+Mapudungun	32	TEAR	kacharnentun	Reflexive	Never	
+Mapudungun	33	PEEL	chafün	Applicative 1	Regularly	
+Mapudungun	33	PEEL	chafün	Applicative 2	Regularly	
+Mapudungun	33	PEEL	chafün	Applicative 3	No data	
+Mapudungun	33	PEEL	chafün	Applicative 4	No data	
+Mapudungun	33	PEEL	chafün	Causative1	Never	
+Mapudungun	33	PEEL	chafün	Causative2	Never	
+Mapudungun	33	PEEL	chafün	Labile	Never	
+Mapudungun	33	PEEL	chafün	Reflexive	Never	
+Mapudungun	34	HIDE	llumümün	Applicative 1	Marginally	
+Mapudungun	34	HIDE	llumümün	Applicative 2	Regularly	
+Mapudungun	34	HIDE	llumümün	Applicative 3	Never	
+Mapudungun	34	HIDE	llumümün	Applicative 4	Never	
+Mapudungun	34	HIDE	llumümün	Causative1	Never	
+Mapudungun	34	HIDE	llumümün	Causative2	Never	
+Mapudungun	34	HIDE	llumümün	Labile	Never	
+Mapudungun	34	HIDE	llumümün	Reflexive	Never	
+Mapudungun	35	SHOW	pengelün	Applicative 1	No data	
+Mapudungun	35	SHOW	pengelün	Applicative 2	No data	
+Mapudungun	35	SHOW	pengelün	Applicative 3	Never	
+Mapudungun	35	SHOW	pengelün	Applicative 4	Never	
+Mapudungun	35	SHOW	pengelün	Causative1	Never	
+Mapudungun	35	SHOW	pengelün	Causative2	Never	
+Mapudungun	35	SHOW	pengelün	Labile	Never	
+Mapudungun	35	SHOW	pengelün	Reflexive	Never	
+Mapudungun	36	GIVE	elun	Applicative 1	Regularly	
+Mapudungun	36	GIVE	elun	Applicative 2	Marginally	
+Mapudungun	36	GIVE	elun	Applicative 3	Never	
+Mapudungun	36	GIVE	elun	Applicative 4	Never	
+Mapudungun	36	GIVE	elun	Causative1	Never	
+Mapudungun	36	GIVE	elun	Causative2	Never	
+Mapudungun	36	GIVE	elun	Labile	Never	
+Mapudungun	36	GIVE	elun	Reflexive	Regularly	
+Mapudungun	37	SEND	amulün	Applicative 1	Regularly	
+Mapudungun	37	SEND	amulün	Applicative 2	Marginally	
+Mapudungun	37	SEND	amulün	Applicative 3	Never	
+Mapudungun	37	SEND	amulün	Applicative 4	Never	
+Mapudungun	37	SEND	amulün	Causative1	No data	
+Mapudungun	37	SEND	amulün	Causative2	No data	
+Mapudungun	37	SEND	amulün	Labile	Never	
+Mapudungun	37	SEND	amulün	Reflexive	Marginally	
+Mapudungun	38	CARRY	yen	Applicative 1	Regularly	
+Mapudungun	38	CARRY	yen	Applicative 2	Regularly	
+Mapudungun	38	CARRY	yen	Applicative 3	No data	
+Mapudungun	38	CARRY	yen	Applicative 4	No data	
+Mapudungun	38	CARRY	yen	Causative1	Never	
+Mapudungun	38	CARRY	yen	Causative2	Never	
+Mapudungun	38	CARRY	yen	Labile	Never	
+Mapudungun	38	CARRY	yen	Reflexive	Never	
+Mapudungun	39	THROW	ütrüfün	Applicative 1	Regularly	
+Mapudungun	39	THROW	ütrüfün	Applicative 2	No data	
+Mapudungun	39	THROW	ütrüfün	Applicative 3	Regularly	
+Mapudungun	39	THROW	ütrüfün	Applicative 4	Never	
+Mapudungun	39	THROW	ütrüfün	Causative1	Never	
+Mapudungun	39	THROW	ütrüfün	Causative2	Never	
+Mapudungun	39	THROW	ütrüfün	Labile	Never	
+Mapudungun	39	THROW	ütrüfün	Reflexive	Regularly	
+Mapudungun	40	TIE	trapelün	Applicative 1	Regularly	
+Mapudungun	40	TIE	trapelün	Applicative 2	Regularly	
+Mapudungun	40	TIE	trapelün	Applicative 3	Never	
+Mapudungun	40	TIE	trapelün	Applicative 4	Never	
+Mapudungun	40	TIE	trapelün	Causative1	Never	
+Mapudungun	40	TIE	trapelün	Causative2	Never	
+Mapudungun	40	TIE	trapelün	Labile	Never	
+Mapudungun	40	TIE	trapelün	Reflexive	Marginally	
+Mapudungun	40	TIE	trarün	Applicative 1	Regularly	
+Mapudungun	40	TIE	trarün	Applicative 2	Regularly	
+Mapudungun	40	TIE	trarün	Applicative 3	Never	
+Mapudungun	40	TIE	trarün	Applicative 4	Never	
+Mapudungun	40	TIE	trarün	Causative1	Never	
+Mapudungun	40	TIE	trarün	Causative2	Never	
+Mapudungun	40	TIE	trarün	Labile	Never	
+Mapudungun	40	TIE	trarün	Reflexive	Marginally	
+Mapudungun	41	PUT	elün (2)	Applicative 1	No data	
+Mapudungun	41	PUT	elün (2)	Applicative 2	Regularly	
+Mapudungun	41	PUT	elün (2)	Applicative 3	Never	
+Mapudungun	41	PUT	elün (2)	Applicative 4	Never	
+Mapudungun	41	PUT	elün (2)	Causative1	Never	
+Mapudungun	41	PUT	elün (2)	Causative2	Never	
+Mapudungun	41	PUT	elün (2)	Labile	Never	
+Mapudungun	41	PUT	elün (2)	Reflexive	Regularly	
+Mapudungun	42	POUR	wütruntukun	Applicative 1	Marginally	
+Mapudungun	42	POUR	wütruntukun	Applicative 2	Marginally	
+Mapudungun	42	POUR	wütruntukun	Applicative 3	Never	
+Mapudungun	42	POUR	wütruntukun	Applicative 4	Never	
+Mapudungun	42	POUR	wütruntukun	Causative1	Never	
+Mapudungun	42	POUR	wütruntukun	Causative2	Never	
+Mapudungun	42	POUR	wütruntukun	Labile	Never	
+Mapudungun	42	POUR	wütruntukun	Reflexive	Never	
+Mapudungun	43	COVER	takun (2)	Applicative 1	Regularly	
+Mapudungun	43	COVER	takun (2)	Applicative 2	Regularly	
+Mapudungun	43	COVER	takun (2)	Applicative 3	No data	
+Mapudungun	43	COVER	takun (2)	Applicative 4	No data	
+Mapudungun	43	COVER	takun (2)	Causative1	Regularly	
+Mapudungun	43	COVER	takun (2)	Causative2	Never	
+Mapudungun	43	COVER	takun (2)	Labile	Never	
+Mapudungun	43	COVER	takun (2)	Reflexive	Regularly	
+Mapudungun	44	FILL	apolün	Applicative 1	Regularly	
+Mapudungun	44	FILL	apolün	Applicative 2	Regularly	
+Mapudungun	44	FILL	apolün	Applicative 3	Never	
+Mapudungun	44	FILL	apolün	Applicative 4	Never	
+Mapudungun	44	FILL	apolün	Causative1	Never	
+Mapudungun	44	FILL	apolün	Causative2	Never	
+Mapudungun	44	FILL	apolün	Labile	Never	
+Mapudungun	44	FILL	apolün	Reflexive	Never	
+Mapudungun	45	LOAD	chechümün	Applicative 1	Regularly	
+Mapudungun	45	LOAD	chechümün	Applicative 2	Regularly	
+Mapudungun	45	LOAD	chechümün	Applicative 3	Never	
+Mapudungun	45	LOAD	chechümün	Applicative 4	Never	
+Mapudungun	45	LOAD	chechümün	Causative1	Never	
+Mapudungun	45	LOAD	chechümün	Causative2	Never	
+Mapudungun	45	LOAD	chechümün	Labile	Never	
+Mapudungun	45	LOAD	chechümün	Reflexive	Never	
+Mapudungun	46	BLINK	llüpifün	Applicative 1	Never	
+Mapudungun	46	BLINK	llüpifün	Applicative 2	Never	
+Mapudungun	46	BLINK	llüpifün	Applicative 3	Never	
+Mapudungun	46	BLINK	llüpifün	Applicative 4	Never	
+Mapudungun	46	BLINK	llüpifün	Causative1	Regularly	
+Mapudungun	46	BLINK	llüpifün	Causative2	Never	
+Mapudungun	46	BLINK	llüpifün	Labile	Never	
+Mapudungun	46	BLINK	llüpifün	Reflexive	Never	
+Mapudungun	47	COUGH	chafon	Applicative 1	Never	
+Mapudungun	47	COUGH	chafon	Applicative 2	Never	
+Mapudungun	47	COUGH	chafon	Applicative 3	Never	
+Mapudungun	47	COUGH	chafon	Applicative 4	Never	
+Mapudungun	47	COUGH	chafon	Causative1	Regularly	
+Mapudungun	47	COUGH	chafon	Causative2	Never	
+Mapudungun	47	COUGH	chafon	Labile	Never	
+Mapudungun	47	COUGH	chafon	Reflexive	Never	
+Mapudungun	48	CLIMB	wechun	Applicative 1	Regularly	
+Mapudungun	48	CLIMB	wechun	Applicative 2	Never	
+Mapudungun	48	CLIMB	wechun	Applicative 3	Never	
+Mapudungun	48	CLIMB	wechun	Applicative 4	Never	
+Mapudungun	48	CLIMB	wechun	Causative1	No data	
+Mapudungun	48	CLIMB	wechun	Causative2	No data	
+Mapudungun	48	CLIMB	wechun	Labile	Never	
+Mapudungun	48	CLIMB	wechun	Reflexive	Never	
+Mapudungun	49	RUN	lefün	Applicative 1	Never	
+Mapudungun	49	RUN	lefün	Applicative 2	Marginally	
+Mapudungun	49	RUN	lefün	Applicative 3	Regularly	
+Mapudungun	49	RUN	lefün	Applicative 4	Never	
+Mapudungun	49	RUN	lefün	Causative1	Never	
+Mapudungun	49	RUN	lefün	Causative2	Regularly	
+Mapudungun	49	RUN	lefün	Labile	Never	
+Mapudungun	49	RUN	lefün	Reflexive	Never	
+Mapudungun	50	SIT	anün	Applicative 1	Never	
+Mapudungun	50	SIT	anün	Applicative 2	Regularly	
+Mapudungun	50	SIT	anün	Applicative 3	Never	
+Mapudungun	50	SIT	anün	Applicative 4	Never	
+Mapudungun	50	SIT	anün	Causative1	Regularly	
+Mapudungun	50	SIT	anün	Causative2	Never	
+Mapudungun	50	SIT	anün	Labile	Never	
+Mapudungun	50	SIT	anün	Reflexive	Never	
+Mapudungun	51	SIT DOWN	anün	Applicative 1	Never	
+Mapudungun	51	SIT DOWN	anün	Applicative 2	Regularly	
+Mapudungun	51	SIT DOWN	anün	Applicative 3	Never	
+Mapudungun	51	SIT DOWN	anün	Applicative 4	Never	
+Mapudungun	51	SIT DOWN	anün	Causative1	Regularly	
+Mapudungun	51	SIT DOWN	anün	Causative2	Never	
+Mapudungun	51	SIT DOWN	anün	Labile	Never	
+Mapudungun	51	SIT DOWN	anün	Reflexive	Never	
+Mapudungun	52	JUMP	rüngkün	Applicative 1	Never	
+Mapudungun	52	JUMP	rüngkün	Applicative 2	Never	
+Mapudungun	52	JUMP	rüngkün	Applicative 3	Never	
+Mapudungun	52	JUMP	rüngkün	Applicative 4	Never	
+Mapudungun	52	JUMP	rüngkün	Causative1	Regularly	
+Mapudungun	52	JUMP	rüngkün	Causative2	Never	
+Mapudungun	52	JUMP	rüngkün	Labile	Never	
+Mapudungun	52	JUMP	rüngkün	Reflexive	Never	
+Mapudungun	53	SING	ülkantun	Applicative 1	Regularly	
+Mapudungun	53	SING	ülkantun	Applicative 2	Regularly	
+Mapudungun	53	SING	ülkantun	Applicative 3	Never	
+Mapudungun	53	SING	ülkantun	Applicative 4	Never	
+Mapudungun	53	SING	ülkantun	Causative1	No data	
+Mapudungun	53	SING	ülkantun	Causative2	No data	
+Mapudungun	53	SING	ülkantun	Labile	Regularly	
+Mapudungun	53	SING	ülkantun	Reflexive	Never	
+Mapudungun	54	GO	amun	Applicative 1	Never	
+Mapudungun	54	GO	amun	Applicative 2	Never	
+Mapudungun	54	GO	amun	Applicative 3	Never	
+Mapudungun	54	GO	amun	Applicative 4	Never	
+Mapudungun	54	GO	amun	Causative1	Regularly	
+Mapudungun	54	GO	amun	Causative2	Never	
+Mapudungun	54	GO	amun	Labile	Never	
+Mapudungun	54	GO	amun	Reflexive	Never	
+Mapudungun	55	LEAVE	püntun	Applicative 1	No data	
+Mapudungun	55	LEAVE	püntun	Applicative 2	No data	
+Mapudungun	55	LEAVE	püntun	Applicative 3	Regularly	
+Mapudungun	55	LEAVE	püntun	Applicative 4	Never	
+Mapudungun	55	LEAVE	püntun	Causative1	Regularly	
+Mapudungun	55	LEAVE	püntun	Causative2	Never	
+Mapudungun	55	LEAVE	püntun	Labile	Never	
+Mapudungun	55	LEAVE	püntun	Reflexive	Never	
+Mapudungun	56	LIVE	mülen	Applicative 1	Never	
+Mapudungun	56	LIVE	mülen	Applicative 2	Never	
+Mapudungun	56	LIVE	mülen	Applicative 3	Never	
+Mapudungun	56	LIVE	mülen	Applicative 4	Never	
+Mapudungun	56	LIVE	mülen	Causative1	Never	
+Mapudungun	56	LIVE	mülen	Causative2	Never	
+Mapudungun	56	LIVE	mülen	Labile	Never	
+Mapudungun	56	LIVE	mülen	Reflexive	Never	
+Mapudungun	57	LAUGH	ayen	Applicative 1	Never	
+Mapudungun	57	LAUGH	ayen	Applicative 2	Never	
+Mapudungun	57	LAUGH	ayen	Applicative 3	Regularly	
+Mapudungun	57	LAUGH	ayen	Applicative 4	Never	
+Mapudungun	57	LAUGH	ayen	Causative1	Regularly	
+Mapudungun	57	LAUGH	ayen	Causative2	Never	
+Mapudungun	57	LAUGH	ayen	Labile	Never	
+Mapudungun	57	LAUGH	ayen	Reflexive	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Applicative 1	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Applicative 2	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Applicative 3	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Applicative 4	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Causative1	Regularly	
+Mapudungun	58	SCREAM	wirarün (2)	Causative2	Never	
+Mapudungun	58	SCREAM	wirarün (2)	Labile	Regularly	
+Mapudungun	58	SCREAM	wirarün (2)	Reflexive	Never	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Applicative 1	Never	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Applicative 2	Marginally	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Applicative 3	Never	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Applicative 4	Regularly	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Causative1	Regularly	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Causative2	Never	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Labile	Never	
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	Reflexive	Regularly	
+Mapudungun	60	FEEL COLD	wütren	Applicative 1	Never	
+Mapudungun	60	FEEL COLD	wütren	Applicative 2	Never	
+Mapudungun	60	FEEL COLD	wütren	Applicative 3	Never	
+Mapudungun	60	FEEL COLD	wütren	Applicative 4	Never	
+Mapudungun	60	FEEL COLD	wütren	Causative1	Regularly	
+Mapudungun	60	FEEL COLD	wütren	Causative2	Never	
+Mapudungun	60	FEEL COLD	wütren	Labile	Never	
+Mapudungun	60	FEEL COLD	wütren	Reflexive	Never	
+Mapudungun	61	DIE	l̠an	Applicative 1	Never	
+Mapudungun	61	DIE	l̠an	Applicative 2	Regularly	
+Mapudungun	61	DIE	l̠an	Applicative 3	Never	
+Mapudungun	61	DIE	l̠an	Applicative 4	Never	
+Mapudungun	61	DIE	l̠an	Causative1	Never	
+Mapudungun	61	DIE	l̠an	Causative2	Regularly	
+Mapudungun	61	DIE	l̠an	Labile	Never	
+Mapudungun	61	DIE	l̠an	Reflexive	Never	
+Mapudungun	62	PLAY	awkantun	Applicative 1	Never	
+Mapudungun	62	PLAY	awkantun	Applicative 2	Never	
+Mapudungun	62	PLAY	awkantun	Applicative 3	Never	
+Mapudungun	62	PLAY	awkantun	Applicative 4	Never	
+Mapudungun	62	PLAY	awkantun	Causative1	Regularly	
+Mapudungun	62	PLAY	awkantun	Causative2	Never	
+Mapudungun	62	PLAY	awkantun	Labile	Regularly	
+Mapudungun	62	PLAY	awkantun	Reflexive	Never	
+Mapudungun	63	BE SAD	lladkün	Applicative 1	Never	
+Mapudungun	63	BE SAD	lladkün	Applicative 2	Regularly	
+Mapudungun	63	BE SAD	lladkün	Applicative 3	Regularly	
+Mapudungun	63	BE SAD	lladkün	Applicative 4	Never	
+Mapudungun	63	BE SAD	lladkün	Causative1	Regularly	
+Mapudungun	63	BE SAD	lladkün	Causative2	Never	
+Mapudungun	63	BE SAD	lladkün	Labile	Never	
+Mapudungun	63	BE SAD	lladkün	Reflexive	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Applicative 1	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Applicative 2	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Applicative 3	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Applicative 4	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Causative1	Regularly	
+Mapudungun	64	BE HUNGRY	ngüñün	Causative2	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Labile	Never	
+Mapudungun	64	BE HUNGRY	ngüñün	Reflexive	Never	
+Mapudungun	65	ROLL	imülün	Applicative 1	Never	
+Mapudungun	65	ROLL	imülün	Applicative 2	Never	
+Mapudungun	65	ROLL	imülün	Applicative 3	Never	
+Mapudungun	65	ROLL	imülün	Applicative 4	Never	
+Mapudungun	65	ROLL	imülün	Causative1	No data	
+Mapudungun	65	ROLL	imülün	Causative2	No data	
+Mapudungun	65	ROLL	imülün	Labile	Never	
+Mapudungun	65	ROLL	imülün	Reflexive	Never	
+Mapudungun	66	SINK	lanün	Applicative 1	No data	
+Mapudungun	66	SINK	lanün	Applicative 2	No data	
+Mapudungun	66	SINK	lanün	Applicative 3	Never	
+Mapudungun	66	SINK	lanün	Applicative 4	Never	
+Mapudungun	66	SINK	lanün	Causative1	No data	
+Mapudungun	66	SINK	lanün	Causative2	No data	
+Mapudungun	66	SINK	lanün	Labile	Never	
+Mapudungun	66	SINK	lanün	Reflexive	Never	
+Mapudungun	67	BURN	lüfün	Applicative 1	Regularly	
+Mapudungun	67	BURN	lüfün	Applicative 2	Regularly	
+Mapudungun	67	BURN	lüfün	Applicative 3	No data	
+Mapudungun	67	BURN	lüfün	Applicative 4	No data	
+Mapudungun	67	BURN	lüfün	Causative1	Regularly	
+Mapudungun	67	BURN	lüfün	Causative2	Never	
+Mapudungun	67	BURN	lüfün	Labile	Never	
+Mapudungun	67	BURN	lüfün	Reflexive	Never	
+Mapudungun	68	BE DRY	angkün	Applicative 1	Never	
+Mapudungun	68	BE DRY	angkün	Applicative 2	Never	
+Mapudungun	68	BE DRY	angkün	Applicative 3	Never	
+Mapudungun	68	BE DRY	angkün	Applicative 4	Never	
+Mapudungun	68	BE DRY	angkün	Causative1	Never	
+Mapudungun	68	BE DRY	angkün	Causative2	Regularly	
+Mapudungun	68	BE DRY	angkün	Labile	Never	
+Mapudungun	68	BE DRY	angkün	Reflexive	Never	
+Mapudungun	68	BE DRY	ñifün	Applicative 1	Never	
+Mapudungun	68	BE DRY	ñifün	Applicative 2	Never	
+Mapudungun	68	BE DRY	ñifün	Applicative 3	Never	
+Mapudungun	68	BE DRY	ñifün	Applicative 4	Never	
+Mapudungun	68	BE DRY	ñifün	Causative1	Never	
+Mapudungun	68	BE DRY	ñifün	Causative2	Regularly	
+Mapudungun	68	BE DRY	ñifün	Labile	Never	
+Mapudungun	68	BE DRY	ñifün	Reflexive	Never	
+Mapudungun	69	RAIN	mawüṉün	Applicative 1	Never	
+Mapudungun	69	RAIN	mawüṉün	Applicative 2	Regularly	
+Mapudungun	69	RAIN	mawüṉün	Applicative 3	Never	
+Mapudungun	69	RAIN	mawüṉün	Applicative 4	Never	
+Mapudungun	69	RAIN	mawüṉün	Causative1	Never	
+Mapudungun	69	RAIN	mawüṉün	Causative2	Never	
+Mapudungun	69	RAIN	mawüṉün	Labile	Never	
+Mapudungun	69	RAIN	mawüṉün	Reflexive	Never	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Applicative 1	No data	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Applicative 2	No data	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Applicative 3	Never	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Applicative 4	Never	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Causative1	No data	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Causative2	No data	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Labile	Never	
+Mapudungun	70	BE A HUNTER	tralkatufengen	Reflexive	Never	
+Mapudungun	71	GRIND	müḻan	Applicative 1	Regularly	
+Mapudungun	71	GRIND	müḻan	Applicative 2	Regularly	
+Mapudungun	71	GRIND	müḻan	Applicative 3	Never	
+Mapudungun	71	GRIND	müḻan	Applicative 4	Never	
+Mapudungun	71	GRIND	müḻan	Causative1	No data	
+Mapudungun	71	GRIND	müḻan	Causative2	No data	
+Mapudungun	71	GRIND	müḻan	Labile	Never	
+Mapudungun	71	GRIND	müḻan	Reflexive	Never	
+Mapudungun	72	WIPE	liftun	Applicative 1	Regularly	
+Mapudungun	72	WIPE	liftun	Applicative 2	No data	
+Mapudungun	72	WIPE	liftun	Applicative 3	Never	
+Mapudungun	72	WIPE	liftun	Applicative 4	Never	
+Mapudungun	72	WIPE	liftun	Causative1	Never	
+Mapudungun	72	WIPE	liftun	Causative2	Never	
+Mapudungun	72	WIPE	liftun	Labile	Never	
+Mapudungun	72	WIPE	liftun	Reflexive	Never	
+Mapudungun	73	DIG	rüngan	Applicative 1	No data	
+Mapudungun	73	DIG	rüngan	Applicative 2	No data	
+Mapudungun	73	DIG	rüngan	Applicative 3	Never	
+Mapudungun	73	DIG	rüngan	Applicative 4	Never	
+Mapudungun	73	DIG	rüngan	Causative1	Regularly	
+Mapudungun	73	DIG	rüngan	Causative2	Never	
+Mapudungun	73	DIG	rüngan	Labile	Never	
+Mapudungun	73	DIG	rüngan	Reflexive	Never	
+Mapudungun	74	PUSH	pelün	Applicative 1	Marginally	
+Mapudungun	74	PUSH	pelün	Applicative 2	Regularly	
+Mapudungun	74	PUSH	pelün	Applicative 3	Never	
+Mapudungun	74	PUSH	pelün	Applicative 4	Never	
+Mapudungun	74	PUSH	pelün	Causative1	Never	
+Mapudungun	74	PUSH	pelün	Causative2	Never	
+Mapudungun	74	PUSH	pelün	Labile	Marginally	
+Mapudungun	74	PUSH	pelün	Reflexive	Never	
+Mapudungun	75	BRING	küpalelün	Applicative 1	Marginally	
+Mapudungun	75	BRING	küpalelün	Applicative 2	Marginally	
+Mapudungun	75	BRING	küpalelün	Applicative 3	No data	
+Mapudungun	75	BRING	küpalelün	Applicative 4	No data	
+Mapudungun	75	BRING	küpalelün	Causative1	Never	
+Mapudungun	75	BRING	küpalelün	Causative2	Never	
+Mapudungun	75	BRING	küpalelün	Labile	Never	
+Mapudungun	75	BRING	küpalelün	Reflexive	Never	
+Mapudungun	76	STEAL	weñen	Applicative 1	Regularly	
+Mapudungun	76	STEAL	weñen	Applicative 2	Regularly	
+Mapudungun	76	STEAL	weñen	Applicative 3	Never	
+Mapudungun	76	STEAL	weñen	Applicative 4	Never	
+Mapudungun	76	STEAL	weñen	Causative1	Never	
+Mapudungun	76	STEAL	weñen	Causative2	Never	
+Mapudungun	76	STEAL	weñen	Labile	Regularly	
+Mapudungun	76	STEAL	weñen	Reflexive	Never	
+Mapudungun	77	TEACH	kimelün	Applicative 1	Regularly	
+Mapudungun	77	TEACH	kimelün	Applicative 2	Regularly	
+Mapudungun	77	TEACH	kimelün	Applicative 3	Never	
+Mapudungun	77	TEACH	kimelün	Applicative 4	Never	
+Mapudungun	77	TEACH	kimelün	Causative1	Never	
+Mapudungun	77	TEACH	kimelün	Causative2	Never	
+Mapudungun	77	TEACH	kimelün	Labile	Marginally	
+Mapudungun	77	TEACH	kimelün	Reflexive	Never	
+Mapudungun	78	HEAR	allkün	Applicative 1	Marginally	
+Mapudungun	78	HEAR	allkün	Applicative 2	Marginally	
+Mapudungun	78	HEAR	allkün	Applicative 3	Never	
+Mapudungun	78	HEAR	allkün	Applicative 4	Never	
+Mapudungun	78	HEAR	allkün	Causative1	Never	
+Mapudungun	78	HEAR	allkün	Causative2	Never	
+Mapudungun	78	HEAR	allkün	Labile	Regularly	
+Mapudungun	78	HEAR	allkün	Reflexive	Marginally	
+Mapudungun	79	COOK	afümün	Applicative 1	Regularly	
+Mapudungun	79	COOK	afümün	Applicative 2	Regularly	
+Mapudungun	79	COOK	afümün	Applicative 3	No data	
+Mapudungun	79	COOK	afümün	Applicative 4	No data	
+Mapudungun	79	COOK	afümün	Causative1	Never	
+Mapudungun	79	COOK	afümün	Causative2	Never	
+Mapudungun	79	COOK	afümün	Labile	Never	
+Mapudungun	79	COOK	afümün	Reflexive	Never	
+Mapudungun	80	BOIL	afün	Applicative 1	Never	
+Mapudungun	80	BOIL	afün	Applicative 2	Never	
+Mapudungun	80	BOIL	afün	Applicative 3	Never	
+Mapudungun	80	BOIL	afün	Applicative 4	Never	
+Mapudungun	80	BOIL	afün	Causative1	Regularly	
+Mapudungun	80	BOIL	afün	Causative2	Regularly	
+Mapudungun	80	BOIL	afün	Labile	Never	
+Mapudungun	80	BOIL	afün	Reflexive	Never	
+Mapudungun	81	APPEAR	wefün	Applicative 1	Never	
+Mapudungun	81	APPEAR	wefün	Applicative 2	Marginally	
+Mapudungun	81	APPEAR	wefün	Applicative 3	Never	
+Mapudungun	81	APPEAR	wefün	Applicative 4	Never	
+Mapudungun	81	APPEAR	wefün	Causative1	Never	
+Mapudungun	81	APPEAR	wefün	Causative2	Regularly	
+Mapudungun	81	APPEAR	wefün	Labile	Never	
+Mapudungun	81	APPEAR	wefün	Reflexive	Never	
+Mapudungun	82	BE ILL	kutranün	Applicative 1	Never	
+Mapudungun	82	BE ILL	kutranün	Applicative 2	Never	
+Mapudungun	82	BE ILL	kutranün	Applicative 3	No data	
+Mapudungun	82	BE ILL	kutranün	Applicative 4	No data	
+Mapudungun	82	BE ILL	kutranün	Causative1	Regularly	
+Mapudungun	82	BE ILL	kutranün	Causative2	Never	
+Mapudungun	82	BE ILL	kutranün	Labile	Never	
+Mapudungun	82	BE ILL	kutranün	Reflexive	Never	
+Mapudungun	83	CRY	ngüman	Applicative 1	Marginally	
+Mapudungun	83	CRY	ngüman	Applicative 2	Never	
+Mapudungun	83	CRY	ngüman	Applicative 3	Marginally	
+Mapudungun	83	CRY	ngüman	Applicative 4	Regularly	
+Mapudungun	83	CRY	ngüman	Causative1	Regularly	
+Mapudungun	83	CRY	ngüman	Causative2	Never	
+Mapudungun	83	CRY	ngüman	Labile	Never	
+Mapudungun	83	CRY	ngüman	Reflexive	Never	
+Mapudungun	84	FALL	tranün	Applicative 1	Never	
+Mapudungun	84	FALL	tranün	Applicative 2	Regularly	
+Mapudungun	84	FALL	tranün	Applicative 3	Regularly	
+Mapudungun	84	FALL	tranün	Applicative 4	Never	
+Mapudungun	84	FALL	tranün	Causative1	Regularly	
+Mapudungun	84	FALL	tranün	Causative2	Never	
+Mapudungun	84	FALL	tranün	Labile	Never	
+Mapudungun	84	FALL	tranün	Reflexive	Never	
+Mapudungun	85	MAKE	dewman (2)	Applicative 1	Regularly	
+Mapudungun	85	MAKE	dewman (2)	Applicative 2	Marginally	
+Mapudungun	85	MAKE	dewman (2)	Applicative 3	Regularly	
+Mapudungun	85	MAKE	dewman (2)	Applicative 4	Regularly	
+Mapudungun	85	MAKE	dewman (2)	Causative1	No data	
+Mapudungun	85	MAKE	dewman (2)	Causative2	No data	
+Mapudungun	85	MAKE	dewman (2)	Labile	Never	
+Mapudungun	85	MAKE	dewman (2)	Reflexive	Never	
+Mapudungun	86	GET	llowün	Applicative 1	Regularly	
+Mapudungun	86	GET	llowün	Applicative 2	Regularly	
+Mapudungun	86	GET	llowün	Applicative 3	Never	
+Mapudungun	86	GET	llowün	Applicative 4	Never	
+Mapudungun	86	GET	llowün	Causative1	Never	
+Mapudungun	86	GET	llowün	Causative2	Never	
+Mapudungun	86	GET	llowün	Labile	Never	
+Mapudungun	86	GET	llowün	Reflexive	Never	
+Mapudungun	86	GET	tun (2)	Applicative 1	No data	
+Mapudungun	86	GET	tun (2)	Applicative 2	No data	
+Mapudungun	86	GET	tun (2)	Applicative 3	Never	
+Mapudungun	86	GET	tun (2)	Applicative 4	Never	
+Mapudungun	86	GET	tun (2)	Causative1	Never	
+Mapudungun	86	GET	tun (2)	Causative2	Never	
+Mapudungun	86	GET	tun (2)	Labile	Never	
+Mapudungun	86	GET	tun (2)	Reflexive	Never	
+Mapudungun	87	WANT	ayün (1)	Applicative 1	Never	
+Mapudungun	87	WANT	ayün (1)	Applicative 2	Never	
+Mapudungun	87	WANT	ayün (1)	Applicative 3	Never	
+Mapudungun	87	WANT	ayün (1)	Applicative 4	Never	
+Mapudungun	87	WANT	ayün (1)	Causative1	Regularly	
+Mapudungun	87	WANT	ayün (1)	Causative2	Never	
+Mapudungun	87	WANT	ayün (1)	Labile	Never	
+Mapudungun	87	WANT	ayün (1)	Reflexive	Regularly	
+Mapudungun	150	SHAVE (self)	payuntun	Applicative 1	Never	
+Mapudungun	150	SHAVE (self)	payuntun	Applicative 2	Never	
+Mapudungun	150	SHAVE (self)	payuntun	Applicative 3	Never	
+Mapudungun	150	SHAVE (self)	payuntun	Applicative 4	Never	
+Mapudungun	150	SHAVE (self)	payuntun	Causative1	No data	
+Mapudungun	150	SHAVE (self)	payuntun	Causative2	No data	
+Mapudungun	150	SHAVE (self)	payuntun	Labile	Never	
+Mapudungun	150	SHAVE (self)	payuntun	Reflexive	Regularly	

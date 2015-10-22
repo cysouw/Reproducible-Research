@@ -1,0 +1,50 @@
+﻿Language_name	Gloss	Meaning
+Ojibwe	0	inanimate person indexing on verb
+Ojibwe	1	first person
+Ojibwe	2	second person
+Ojibwe	3	third person
+Ojibwe	AI	Animate Intransitvie
+Ojibwe	AI	Animate Intransitive
+Ojibwe	AM	?
+Ojibwe	AN	animate
+Ojibwe	APPL	applicative
+Ojibwe	CL	classifier?
+Ojibwe	COMP	? complement
+Ojibwe	DES	desiderative?
+Ojibwe	EMPH	emphatic
+Ojibwe	II	Inanimate Intransitive
+Ojibwe	IMP	imperative
+Ojibwe	IN	inanimate
+Ojibwe	INTR	intransitive
+Ojibwe	INV	inverse
+Ojibwe	LOC	locative
+Ojibwe	MIDDLE	middle
+Ojibwe	N	n registration
+Ojibwe	NA	noun, animate gender"
+Ojibwe	NEG	negative
+Ojibwe	NI	noun, inanimate gender"
+Ojibwe	OBJ	object
+Ojibwe	OBV	obviative
+Ojibwe	P	plural?
+Ojibwe	PASS	passiv?
+Ojibwe	PAST	past tense
+Ojibwe	PL	plural
+Ojibwe	POSS	possession
+Ojibwe	PRET	?
+Ojibwe	PROHIB	prohibited
+Ojibwe	PROX	proximate
+Ojibwe	PT	participle
+Ojibwe	RECIP	reciprocal
+Ojibwe	REFL	reflexive
+Ojibwe	REL	relativizer?
+Ojibwe	S	singulare
+Ojibwe	STEM	second part of the stem?
+Ojibwe	SUBJ	subject
+Ojibwe	TH	theme?
+Ojibwe	TR	transitive?
+Ojibwe	TRANS	transitive?
+Ojibwe	VAIO	animate intransitive with secondary object
+Ojibwe	VTA	Transitive Animate?
+Ojibwe	VTI	Transitive Inanimate?
+Ojibwe	X	?
+Ojibwe	pref	prefix?

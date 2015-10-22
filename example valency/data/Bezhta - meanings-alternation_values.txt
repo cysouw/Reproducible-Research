@@ -1,0 +1,1336 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Bezhta	1	EAT	yüⁿqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Ambitransitive Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	1	EAT	yüⁿqal	Antipassive 2 Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Causative with -k'	Never	
+Bezhta	1	EAT	yüⁿqal	Causative with -l/-ll	Never	
+Bezhta	1	EAT	yüⁿqal	Causative with golal	Regularly	3-erg 1-abs 2-instr abs[1].V'caus4
+Bezhta	1	EAT	yüⁿqal	Causative with yowal	Never	
+Bezhta	1	EAT	yüⁿqal	Instrument Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Object Incorporation Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	1	EAT	yüⁿqal	Potential Transitivizing Alternation	Never	
+Bezhta	1	EAT	yüⁿqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	1	EAT	yüⁿqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Ambitransitive Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Antipassive 1 Alternation	Regularly	1-abs 2-lat abs[1].V'antip
+Bezhta	2	HUG	aⁿło yoc'al	Antipassive 2 Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Causative with -k'	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Causative with -l/-ll	Regularly	3-erg 1-instr 2-lat V'caus
+Bezhta	2	HUG	aⁿło yoc'al	Causative with golal	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Causative with yowal	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Instrument Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Object Incorporation Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Potential Alternation	Regularly	1-poss 2-lat V'pot
+Bezhta	2	HUG	aⁿło yoc'al	Potential Transitivizing Alternation	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	2	HUG	aⁿło yoc'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	3	LOOK AT	goc'oqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Ambitransitive Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Antipassive 1 Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Antipassive 2 Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Causative with -k'	Never	
+Bezhta	3	LOOK AT	goc'oqal	Causative with -l/-ll	Regularly	3-erg 1-abs 2-poss abs[1].V'caus
+Bezhta	3	LOOK AT	goc'oqal	Causative with golal	Never	
+Bezhta	3	LOOK AT	goc'oqal	Causative with yowal	Never	
+Bezhta	3	LOOK AT	goc'oqal	Instrument Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Object Incorporation Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Potential Alternation	Regularly	1-poss 2-poss abs[1].V'pot
+Bezhta	3	LOOK AT	goc'oqal	Potential Transitivizing Alternation	Never	
+Bezhta	3	LOOK AT	goc'oqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	3	LOOK AT	goc'oqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	4	SEE	yegaal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	4	SEE	yegaal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	4	SEE	yegaal	Ambitransitive Alternation	Never	
+Bezhta	4	SEE	yegaal	Antipassive 1 Alternation	Marginally	
+Bezhta	4	SEE	yegaal	Antipassive 2 Alternation	Never	
+Bezhta	4	SEE	yegaal	Causative with -k'	Never	
+Bezhta	4	SEE	yegaal	Causative with -l/-ll	Marginally	
+Bezhta	4	SEE	yegaal	Causative with golal	Never	
+Bezhta	4	SEE	yegaal	Causative with yowal	Never	
+Bezhta	4	SEE	yegaal	Instrument Alternation	Never	
+Bezhta	4	SEE	yegaal	Object Incorporation Alternation	Never	
+Bezhta	4	SEE	yegaal	Potential Alternation	Marginally	
+Bezhta	4	SEE	yegaal	Potential Transitivizing Alternation	Never	
+Bezhta	4	SEE	yegaal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	4	SEE	yegaal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	5	SMELL	mäh biq'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Ambitransitive Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Antipassive 1 Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Antipassive 2 Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Causative with -k'	Never	
+Bezhta	5	SMELL	mäh biq'al	Causative with -l/-ll	Regularly	2-erg 1-lat V'caus
+Bezhta	5	SMELL	mäh biq'al	Causative with golal	Never	
+Bezhta	5	SMELL	mäh biq'al	Causative with yowal	Never	
+Bezhta	5	SMELL	mäh biq'al	Instrument Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Object Incorporation Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Potential Alternation	Regularly	1-poss V'pot
+Bezhta	5	SMELL	mäh biq'al	Potential Transitivizing Alternation	Never	
+Bezhta	5	SMELL	mäh biq'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	5	SMELL	mäh biq'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	6	FEAR	hic'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	6	FEAR	hic'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	6	FEAR	hic'al	Ambitransitive Alternation	Never	
+Bezhta	6	FEAR	hic'al	Antipassive 1 Alternation	Never	
+Bezhta	6	FEAR	hic'al	Antipassive 2 Alternation	Never	
+Bezhta	6	FEAR	hic'al	Causative with -k'	Never	
+Bezhta	6	FEAR	hic'al	Causative with -l/-ll	Never	
+Bezhta	6	FEAR	hic'al	Causative with golal	Regularly	3-erg 1-abs abs[1].V'caus4
+Bezhta	6	FEAR	hic'al	Causative with yowal	Never	
+Bezhta	6	FEAR	hic'al	Instrument Alternation	Never	
+Bezhta	6	FEAR	hic'al	Object Incorporation Alternation	Never	
+Bezhta	6	FEAR	hic'al	Potential Alternation	Regularly	1-poss 2-poss abs[1].V'pot
+Bezhta	6	FEAR	hic'al	Potential Transitivizing Alternation	Never	
+Bezhta	6	FEAR	hic'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	6	FEAR	hic'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Ambitransitive Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Antipassive 1 Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Antipassive 2 Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Causative with -k'	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	7	FRIGHTEN	hič'egolal	Causative with golal	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Causative with yowal	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Instrument Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Object Incorporation Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Potential Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Potential Transitivizing Alternation	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	7	FRIGHTEN	hič'egolal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	8	LIKE	yat'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	8	LIKE	yat'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	8	LIKE	yat'al	Ambitransitive Alternation	Never	
+Bezhta	8	LIKE	yat'al	Antipassive 1 Alternation	Never	
+Bezhta	8	LIKE	yat'al	Antipassive 2 Alternation	Never	
+Bezhta	8	LIKE	yat'al	Causative with -k'	Never	
+Bezhta	8	LIKE	yat'al	Causative with -l/-ll	Regularly	3-erg 1-lat 2-abs abs[2].V'caus
+Bezhta	8	LIKE	yat'al	Causative with golal	Never	
+Bezhta	8	LIKE	yat'al	Causative with yowal	Never	
+Bezhta	8	LIKE	yat'al	Instrument Alternation	Never	
+Bezhta	8	LIKE	yat'al	Object Incorporation Alternation	Never	
+Bezhta	8	LIKE	yat'al	Potential Alternation	Never	
+Bezhta	8	LIKE	yat'al	Potential Transitivizing Alternation	Never	
+Bezhta	8	LIKE	yat'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	8	LIKE	yat'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	9	KNOW	yiq'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Ambitransitive Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	9	KNOW	yiq'al	Antipassive 2 Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Causative with -k'	Never	
+Bezhta	9	KNOW	yiq'al	Causative with -l/-ll	Regularly	3-erg 1-lat 2-abs abs[2].V'caus
+Bezhta	9	KNOW	yiq'al	Causative with golal	Never	
+Bezhta	9	KNOW	yiq'al	Causative with yowal	Never	
+Bezhta	9	KNOW	yiq'al	Instrument Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Object Incorporation Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Potential Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Potential Transitivizing Alternation	Never	
+Bezhta	9	KNOW	yiq'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	9	KNOW	yiq'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	10	THINK	urɣeziyaqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Ambitransitive Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Antipassive 1 Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Antipassive 2 Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Causative with -k'	Never	
+Bezhta	10	THINK	urɣeziyaqal	Causative with -l/-ll	Never	
+Bezhta	10	THINK	urɣeziyaqal	Causative with golal	Never	
+Bezhta	10	THINK	urɣeziyaqal	Causative with yowal	Regularly	3-erg 1-abs 2-supabl abs[1].V'caus3
+Bezhta	10	THINK	urɣeziyaqal	Instrument Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Object Incorporation Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Potential Alternation	Regularly	1-poss 2-supabl abs[1].V'pot
+Bezhta	10	THINK	urɣeziyaqal	Potential Transitivizing Alternation	Never	
+Bezhta	10	THINK	urɣeziyaqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	10	THINK	urɣeziyaqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Ambitransitive Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Antipassive 1 Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Antipassive 2 Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Causative with -k'	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	11	SEARCH FOR	xalbowal	Causative with golal	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Causative with yowal	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Instrument Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Object Incorporation Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	11	SEARCH FOR	xalbowal	Potential Transitivizing Alternation	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	11	SEARCH FOR	xalbowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	12	WASH	nizal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	12	WASH	nizal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	12	WASH	nizal	Ambitransitive Alternation	Never	
+Bezhta	12	WASH	nizal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	12	WASH	nizal	Antipassive 2 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	12	WASH	nizal	Causative with -k'	Never	
+Bezhta	12	WASH	nizal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	12	WASH	nizal	Causative with golal	Never	
+Bezhta	12	WASH	nizal	Causative with yowal	Never	
+Bezhta	12	WASH	nizal	Instrument Alternation	Never	
+Bezhta	12	WASH	nizal	Object Incorporation Alternation	Never	
+Bezhta	12	WASH	nizal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	12	WASH	nizal	Potential Transitivizing Alternation	Never	
+Bezhta	12	WASH	nizal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	12	WASH	nizal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	13	DRESS	łič'elal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Ambitransitive Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Antipassive 1 Alternation	Regularly	1-abs 3-sup 2-instr abs[1].V'antip
+Bezhta	13	DRESS	łič'elal	Antipassive 2 Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Causative with -k'	Never	
+Bezhta	13	DRESS	łič'elal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abs 3-sup abs[2].V'caus
+Bezhta	13	DRESS	łič'elal	Causative with golal	Never	
+Bezhta	13	DRESS	łič'elal	Causative with yowal	Never	
+Bezhta	13	DRESS	łič'elal	Instrument Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Object Incorporation Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Potential Alternation	Regularly	1-poss 2-abs 3-sup abs[2].V'pot
+Bezhta	13	DRESS	łič'elal	Potential Transitivizing Alternation	Never	
+Bezhta	13	DRESS	łič'elal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	13	DRESS	łič'elal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Ambitransitive Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Antipassive 2 Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Causative with -k'	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Causative with golal	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Causative with yowal	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Instrument Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Object Incorporation Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Potential Transitivizing Alternation	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	15	HELP	komak bowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	15	HELP	komak bowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	15	HELP	komak bowal	Ambitransitive Alternation	Never	
+Bezhta	15	HELP	komak bowal	Antipassive 1 Alternation	Never	
+Bezhta	15	HELP	komak bowal	Antipassive 2 Alternation	Never	
+Bezhta	15	HELP	komak bowal	Causative with -k'	Never	
+Bezhta	15	HELP	komak bowal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-lat V'caus
+Bezhta	15	HELP	komak bowal	Causative with golal	Never	
+Bezhta	15	HELP	komak bowal	Causative with yowal	Never	
+Bezhta	15	HELP	komak bowal	Instrument Alternation	Never	
+Bezhta	15	HELP	komak bowal	Object Incorporation Alternation	Never	
+Bezhta	15	HELP	komak bowal	Potential Alternation	Regularly	1-poss 2-lat V'pot
+Bezhta	15	HELP	komak bowal	Potential Transitivizing Alternation	Never	
+Bezhta	15	HELP	komak bowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	15	HELP	komak bowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Ambitransitive Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Antipassive 1 Alternation	Regularly	1-abs 2-com abs[1].V'antip
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Antipassive 2 Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Causative with -k'	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Causative with -l/-ll	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Causative with golal	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Causative with yowal	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Instrument Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Object Incorporation Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Potential Alternation	Regularly	1-poss 2-com abs[1].V'pot
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Potential Transitivizing Alternation	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	17	MEET	keziyaqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Ambitransitive Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Antipassive 1 Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Antipassive 2 Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Causative with -k'	Never	
+Bezhta	17	MEET	keziyaqal	Causative with -l/-ll	Never	
+Bezhta	17	MEET	keziyaqal	Causative with golal	Never	
+Bezhta	17	MEET	keziyaqal	Causative with yowal	Marginally	
+Bezhta	17	MEET	keziyaqal	Instrument Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Object Incorporation Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Potential Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Potential Transitivizing Alternation	Never	
+Bezhta	17	MEET	keziyaqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	17	MEET	keziyaqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	18	TALK	yiq'lašal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Ambitransitive Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Antipassive 1 Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Antipassive 2 Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Causative with -k'	Never	
+Bezhta	18	TALK	yiq'lašal	Causative with -l/-ll	Never	
+Bezhta	18	TALK	yiq'lašal	Causative with golal	Regularly	3-erg 1-abs abs[1].V'caus4
+Bezhta	18	TALK	yiq'lašal	Causative with yowal	Never	
+Bezhta	18	TALK	yiq'lašal	Instrument Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Object Incorporation Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Potential Alternation	Regularly	1-poss 2-poss abs[1].V'pot
+Bezhta	18	TALK	yiq'lašal	Potential Transitivizing Alternation	Never	
+Bezhta	18	TALK	yiq'lašal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	18	TALK	yiq'lašal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	19	ASK FOR	harziyowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Ambitransitive Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Antipassive 1 Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Antipassive 2 Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Causative with -k'	Never	
+Bezhta	19	ASK FOR	harziyowal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-poss 3-abs abs[3].V'caus
+Bezhta	19	ASK FOR	harziyowal	Causative with golal	Never	
+Bezhta	19	ASK FOR	harziyowal	Causative with yowal	Never	
+Bezhta	19	ASK FOR	harziyowal	Instrument Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Object Incorporation Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Potential Alternation	Regularly	1-poss 2-poss 3-abs abs[3].V'pot
+Bezhta	19	ASK FOR	harziyowal	Potential Transitivizing Alternation	Never	
+Bezhta	19	ASK FOR	harziyowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	19	ASK FOR	harziyowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Ambitransitive Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Antipassive 1 Alternation	Regularly	1-abs 2-sup abs[1].V'antip
+Bezhta	20	SHOUT AT	lalaƛal	Antipassive 2 Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Causative with -k'	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-sup V'caus
+Bezhta	20	SHOUT AT	lalaƛal	Causative with golal	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Causative with yowal	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Instrument Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Object Incorporation Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Potential Alternation	Regularly	1-poss 2-sup V'pot
+Bezhta	20	SHOUT AT	lalaƛal	Potential Transitivizing Alternation	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	20	SHOUT AT	lalaƛal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	21	TELL	xabar meyal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Ambitransitive Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Antipassive 1 Alternation	Regularly	1-abs 2-lat abs[1].V'antip
+Bezhta	21	TELL	xabar meyal	Antipassive 2 Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Causative with -k'	Never	
+Bezhta	21	TELL	xabar meyal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-lat V'caus
+Bezhta	21	TELL	xabar meyal	Causative with golal	Never	
+Bezhta	21	TELL	xabar meyal	Causative with yowal	Never	
+Bezhta	21	TELL	xabar meyal	Instrument Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Object Incorporation Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Potential Alternation	Regularly	1-poss 2-lat V'pot
+Bezhta	21	TELL	xabar meyal	Potential Transitivizing Alternation	Never	
+Bezhta	21	TELL	xabar meyal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	21	TELL	xabar meyal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	22	SAY	nisal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	22	SAY	nisal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	22	SAY	nisal	Ambitransitive Alternation	Never	
+Bezhta	22	SAY	nisal	Antipassive 1 Alternation	Never	
+Bezhta	22	SAY	nisal	Antipassive 2 Alternation	Never	
+Bezhta	22	SAY	nisal	Causative with -k'	Never	
+Bezhta	22	SAY	nisal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-poss UTT3-quot V'caus
+Bezhta	22	SAY	nisal	Causative with golal	Never	
+Bezhta	22	SAY	nisal	Causative with yowal	Never	
+Bezhta	22	SAY	nisal	Instrument Alternation	Never	
+Bezhta	22	SAY	nisal	Object Incorporation Alternation	Never	
+Bezhta	22	SAY	nisal	Potential Alternation	Regularly	1-poss 2-poss UTT3-quot V'pot
+Bezhta	22	SAY	nisal	Potential Transitivizing Alternation	Never	
+Bezhta	22	SAY	nisal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	22	SAY	nisal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	23	NAME	caaⁿ gulal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Ambitransitive Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Antipassive 1 Alternation	Regularly	1-abs 2-sup abs[1].V'antip
+Bezhta	23	NAME	caaⁿ gulal	Antipassive 2 Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Causative with -k'	Never	
+Bezhta	23	NAME	caaⁿ gulal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-sup V'caus
+Bezhta	23	NAME	caaⁿ gulal	Causative with golal	Never	
+Bezhta	23	NAME	caaⁿ gulal	Causative with yowal	Never	
+Bezhta	23	NAME	caaⁿ gulal	Instrument Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Object Incorporation Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Potential Alternation	Regularly	1-poss 2-sup V'pot
+Bezhta	23	NAME	caaⁿ gulal	Potential Transitivizing Alternation	Never	
+Bezhta	23	NAME	caaⁿ gulal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	23	NAME	caaⁿ gulal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	24	BUILD	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Antipassive 1 Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Causative with -k'	Never	
+Bezhta	24	BUILD	no verbal counterpart	Causative with -l/-ll	Never	
+Bezhta	24	BUILD	no verbal counterpart	Causative with golal	Never	
+Bezhta	24	BUILD	no verbal counterpart	Causative with yowal	Never	
+Bezhta	24	BUILD	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Potential Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	24	BUILD	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	24	BUILD	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	25	BREAK	yišelal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	25	BREAK	yišelal	Accidental/Potential Transitive Alternation	Regularly	1-poss 3-instr 2-abs abs[2].V'
+Bezhta	25	BREAK	yišelal	Ambitransitive Alternation	Never	
+Bezhta	25	BREAK	yišelal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	25	BREAK	yišelal	Antipassive 2 Alternation	Never	
+Bezhta	25	BREAK	yišelal	Causative with -k'	Never	
+Bezhta	25	BREAK	yišelal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abs 3-instr abs[2].V'caus
+Bezhta	25	BREAK	yišelal	Causative with golal	Never	
+Bezhta	25	BREAK	yišelal	Causative with yowal	Never	
+Bezhta	25	BREAK	yišelal	Instrument Alternation	Never	
+Bezhta	25	BREAK	yišelal	Object Incorporation Alternation	Never	
+Bezhta	25	BREAK	yišelal	Potential Alternation	Never	
+Bezhta	25	BREAK	yišelal	Potential Transitivizing Alternation	Never	
+Bezhta	25	BREAK	yišelal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	25	BREAK	yišelal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Ambitransitive Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	26	KILL	yiƛ'al (1)	Antipassive 2 Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Causative with -k'	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abs 3-instr abs[2].V'caus
+Bezhta	26	KILL	yiƛ'al (1)	Causative with golal	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Causative with yowal	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Instrument Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Object Incorporation Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Potential Alternation	Regularly	1-poss 2-abs 3-instr abs[2].V'pot
+Bezhta	26	KILL	yiƛ'al (1)	Potential Transitivizing Alternation	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	26	KILL	yiƛ'al (1)	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	27	BEAT	yäƛ'elal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Ambitransitive Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	27	BEAT	yäƛ'elal	Antipassive 2 Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Causative with -k'	Never	
+Bezhta	27	BEAT	yäƛ'elal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	27	BEAT	yäƛ'elal	Causative with golal	Never	
+Bezhta	27	BEAT	yäƛ'elal	Causative with yowal	Never	
+Bezhta	27	BEAT	yäƛ'elal	Instrument Alternation	Regularly	1-erg 2-abs 3-instr abs[2].V'
+Bezhta	27	BEAT	yäƛ'elal	Object Incorporation Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	27	BEAT	yäƛ'elal	Potential Transitivizing Alternation	Never	
+Bezhta	27	BEAT	yäƛ'elal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	27	BEAT	yäƛ'elal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	28	HIT	yäƛ'elal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Ambitransitive Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	28	HIT	yäƛ'elal	Antipassive 2 Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Causative with -k'	Never	
+Bezhta	28	HIT	yäƛ'elal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	28	HIT	yäƛ'elal	Causative with golal	Never	
+Bezhta	28	HIT	yäƛ'elal	Causative with yowal	Never	
+Bezhta	28	HIT	yäƛ'elal	Instrument Alternation	Regularly	1-erg 2-abs 3-instr abs[2].V'
+Bezhta	28	HIT	yäƛ'elal	Object Incorporation Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	28	HIT	yäƛ'elal	Potential Transitivizing Alternation	Never	
+Bezhta	28	HIT	yäƛ'elal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	28	HIT	yäƛ'elal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Ambitransitive Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	29	TOUCH	yeⁿxelal	Antipassive 2 Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Causative with -k'	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	29	TOUCH	yeⁿxelal	Causative with golal	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Causative with yowal	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Instrument Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Object Incorporation Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Potential Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Potential Transitivizing Alternation	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	29	TOUCH	yeⁿxelal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	30	CUT	yüč'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	30	CUT	yüč'al	Accidental/Potential Transitive Alternation	Regularly	1-poss 3-instr 2-abs abs[2].V'
+Bezhta	30	CUT	yüč'al	Ambitransitive Alternation	Never	
+Bezhta	30	CUT	yüč'al	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	30	CUT	yüč'al	Antipassive 2 Alternation	Never	
+Bezhta	30	CUT	yüč'al	Causative with -k'	Never	
+Bezhta	30	CUT	yüč'al	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abs 3-instr abs[2].V'caus
+Bezhta	30	CUT	yüč'al	Causative with golal	Never	
+Bezhta	30	CUT	yüč'al	Causative with yowal	Never	
+Bezhta	30	CUT	yüč'al	Instrument Alternation	Never	
+Bezhta	30	CUT	yüč'al	Object Incorporation Alternation	Never	
+Bezhta	30	CUT	yüč'al	Potential Alternation	Regularly	1-poss 2-abs 3-instr abs[2].V'pot
+Bezhta	30	CUT	yüč'al	Potential Transitivizing Alternation	Never	
+Bezhta	30	CUT	yüč'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	30	CUT	yüč'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	31	TAKE	yokčal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	31	TAKE	yokčal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	31	TAKE	yokčal	Ambitransitive Alternation	Never	
+Bezhta	31	TAKE	yokčal	Antipassive 1 Alternation	Regularly	1-abs 2-possabl 3-instr abs[1].V'antip
+Bezhta	31	TAKE	yokčal	Antipassive 2 Alternation	Never	
+Bezhta	31	TAKE	yokčal	Causative with -k'	Never	
+Bezhta	31	TAKE	yokčal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus
+Bezhta	31	TAKE	yokčal	Causative with golal	Never	
+Bezhta	31	TAKE	yokčal	Causative with yowal	Never	
+Bezhta	31	TAKE	yokčal	Instrument Alternation	Never	
+Bezhta	31	TAKE	yokčal	Object Incorporation Alternation	Never	
+Bezhta	31	TAKE	yokčal	Potential Alternation	Regularly	1-poss 2-possabl 3-abs abs[3]V'pot
+Bezhta	31	TAKE	yokčal	Potential Transitivizing Alternation	Never	
+Bezhta	31	TAKE	yokčal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	31	TAKE	yokčal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	32	TEAR	yäxelal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Ambitransitive Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Antipassive 1 Alternation	Regularly	1-abs 3-instr 2-abl abs[1].V'antip
+Bezhta	32	TEAR	yäxelal	Antipassive 2 Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Causative with -k'	Never	
+Bezhta	32	TEAR	yäxelal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abl 3-abs abs[3].V'caus
+Bezhta	32	TEAR	yäxelal	Causative with golal	Never	
+Bezhta	32	TEAR	yäxelal	Causative with yowal	Never	
+Bezhta	32	TEAR	yäxelal	Instrument Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Object Incorporation Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Potential Alternation	Regularly	1-poss 2-abl 3-abs abs[3].V'pot
+Bezhta	32	TEAR	yäxelal	Potential Transitivizing Alternation	Never	
+Bezhta	32	TEAR	yäxelal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	32	TEAR	yäxelal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	33	PEEL	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Antipassive 1 Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Causative with -k'	Never	
+Bezhta	33	PEEL	no verbal counterpart	Causative with -l/-ll	Never	
+Bezhta	33	PEEL	no verbal counterpart	Causative with golal	Never	
+Bezhta	33	PEEL	no verbal counterpart	Causative with yowal	Never	
+Bezhta	33	PEEL	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Potential Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	33	PEEL	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	33	PEEL	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Ambitransitive Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Antipassive 1 Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Antipassive 2 Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Causative with -k'	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abl 3-abs abs[3].V'caus
+Bezhta	34	HIDE	yuⁿcal (1)	Causative with golal	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Causative with yowal	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Instrument Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Object Incorporation Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Potential Alternation	Regularly	1-poss 2-abl 3-abs abs[3].V'pot
+Bezhta	34	HIDE	yuⁿcal (1)	Potential Transitivizing Alternation	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	34	HIDE	yuⁿcal (1)	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	35	SHOW	yegalal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	35	SHOW	yegalal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	35	SHOW	yegalal	Ambitransitive Alternation	Never	
+Bezhta	35	SHOW	yegalal	Antipassive 1 Alternation	Never	
+Bezhta	35	SHOW	yegalal	Antipassive 2 Alternation	Never	
+Bezhta	35	SHOW	yegalal	Causative with -k'	Never	
+Bezhta	35	SHOW	yegalal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	35	SHOW	yegalal	Causative with golal	Never	
+Bezhta	35	SHOW	yegalal	Causative with yowal	Never	
+Bezhta	35	SHOW	yegalal	Instrument Alternation	Never	
+Bezhta	35	SHOW	yegalal	Object Incorporation Alternation	Never	
+Bezhta	35	SHOW	yegalal	Potential Alternation	Never	
+Bezhta	35	SHOW	yegalal	Potential Transitivizing Alternation	Never	
+Bezhta	35	SHOW	yegalal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	35	SHOW	yegalal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	36	GIVE	niƛal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	36	GIVE	niƛal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	36	GIVE	niƛal	Ambitransitive Alternation	Never	
+Bezhta	36	GIVE	niƛal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	36	GIVE	niƛal	Antipassive 2 Alternation	Never	
+Bezhta	36	GIVE	niƛal	Causative with -k'	Never	
+Bezhta	36	GIVE	niƛal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	36	GIVE	niƛal	Causative with golal	Never	
+Bezhta	36	GIVE	niƛal	Causative with yowal	Never	
+Bezhta	36	GIVE	niƛal	Instrument Alternation	Never	
+Bezhta	36	GIVE	niƛal	Object Incorporation Alternation	Never	
+Bezhta	36	GIVE	niƛal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	36	GIVE	niƛal	Potential Transitivizing Alternation	Never	
+Bezhta	36	GIVE	niƛal	Recipient/Goal/Location Alternation 1	Regularly	1-erg 2-poss 3-abs abs[3].V'
+Bezhta	36	GIVE	niƛal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	37	SEND	yeⁿyal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Ambitransitive Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	37	SEND	yeⁿyal	Antipassive 2 Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Causative with -k'	Never	
+Bezhta	37	SEND	yeⁿyal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	37	SEND	yeⁿyal	Causative with golal	Never	
+Bezhta	37	SEND	yeⁿyal	Causative with yowal	Never	
+Bezhta	37	SEND	yeⁿyal	Instrument Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Object Incorporation Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	37	SEND	yeⁿyal	Potential Transitivizing Alternation	Never	
+Bezhta	37	SEND	yeⁿyal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	37	SEND	yeⁿyal	Recipient/Goal/Location Alternation 2	Regularly	1-erg 2-apud 3-abs abs[3].V'
+Bezhta	38	CARRY	yezal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	38	CARRY	yezal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	38	CARRY	yezal	Ambitransitive Alternation	Never	
+Bezhta	38	CARRY	yezal	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	38	CARRY	yezal	Antipassive 2 Alternation	Never	
+Bezhta	38	CARRY	yezal	Causative with -k'	Never	
+Bezhta	38	CARRY	yezal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	38	CARRY	yezal	Causative with golal	Never	
+Bezhta	38	CARRY	yezal	Causative with yowal	Never	
+Bezhta	38	CARRY	yezal	Instrument Alternation	Never	
+Bezhta	38	CARRY	yezal	Object Incorporation Alternation	Never	
+Bezhta	38	CARRY	yezal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	38	CARRY	yezal	Potential Transitivizing Alternation	Never	
+Bezhta	38	CARRY	yezal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	38	CARRY	yezal	Recipient/Goal/Location Alternation 2	Regularly	1-erg 2-apud 3-abs abs[3].V'
+Bezhta	39	THROW	yiƛ'al (2)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Ambitransitive Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	39	THROW	yiƛ'al (2)	Antipassive 2 Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Causative with -k'	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	39	THROW	yiƛ'al (2)	Causative with golal	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Causative with yowal	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Instrument Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Object Incorporation Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	39	THROW	yiƛ'al (2)	Potential Transitivizing Alternation	Never	
+Bezhta	39	THROW	yiƛ'al (2)	Recipient/Goal/Location Alternation 1	Regularly	1-erg 2-poss 3-abs abs[3].V'
+Bezhta	39	THROW	yiƛ'al (2)	Recipient/Goal/Location Alternation 2	Regularly	1-erg 2-apud 3-abs abs[3].V'
+Bezhta	40	TIE	yiⁿcal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Ambitransitive Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Antipassive 1 Alternation	Regularly	1-abs 3-instr 4-loc abs[1].V'antip
+Bezhta	40	TIE	yiⁿcal	Antipassive 2 Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Causative with -k'	Never	
+Bezhta	40	TIE	yiⁿcal	Causative with -l/-ll	Regularly	5-erg 1-instr 2-abs 3-instr LOC4 abs[2].V'caus
+Bezhta	40	TIE	yiⁿcal	Causative with golal	Never	
+Bezhta	40	TIE	yiⁿcal	Causative with yowal	Never	
+Bezhta	40	TIE	yiⁿcal	Instrument Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Object Incorporation Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Potential Alternation	Regularly	1-poss 2-abs 3-instr LOC4 abs[2].V'pot
+Bezhta	40	TIE	yiⁿcal	Potential Transitivizing Alternation	Never	
+Bezhta	40	TIE	yiⁿcal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	40	TIE	yiⁿcal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	41	PUT	gulal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	41	PUT	gulal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	41	PUT	gulal	Ambitransitive Alternation	Never	
+Bezhta	41	PUT	gulal	Antipassive 1 Alternation	Regularly	1-abs LOC2 3-instr abs[1].V'antip
+Bezhta	41	PUT	gulal	Antipassive 2 Alternation	Never	
+Bezhta	41	PUT	gulal	Causative with -k'	Never	
+Bezhta	41	PUT	gulal	Causative with -l/-ll	Regularly	4-erg 1-instr LOC2 3-abs abs[3].V'caus
+Bezhta	41	PUT	gulal	Causative with golal	Never	
+Bezhta	41	PUT	gulal	Causative with yowal	Never	
+Bezhta	41	PUT	gulal	Instrument Alternation	Never	
+Bezhta	41	PUT	gulal	Object Incorporation Alternation	Never	
+Bezhta	41	PUT	gulal	Potential Alternation	Regularly	1-poss LOC2 3-abs abs[3].V'pot
+Bezhta	41	PUT	gulal	Potential Transitivizing Alternation	Never	
+Bezhta	41	PUT	gulal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	41	PUT	gulal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	42	POUR	git'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	42	POUR	git'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	42	POUR	git'al	Ambitransitive Alternation	Never	
+Bezhta	42	POUR	git'al	Antipassive 1 Alternation	Regularly	1-abs LOC2 3-instr abs[1].V'antip
+Bezhta	42	POUR	git'al	Antipassive 2 Alternation	Never	
+Bezhta	42	POUR	git'al	Causative with -k'	Never	
+Bezhta	42	POUR	git'al	Causative with -l/-ll	Regularly	4-erg 1-instr LOC2 3-abs abs[3].V'caus
+Bezhta	42	POUR	git'al	Causative with golal	Never	
+Bezhta	42	POUR	git'al	Causative with yowal	Never	
+Bezhta	42	POUR	git'al	Instrument Alternation	Never	
+Bezhta	42	POUR	git'al	Object Incorporation Alternation	Never	
+Bezhta	42	POUR	git'al	Potential Alternation	Regularly	1-poss LOC2 3-abs abs[3].V'pot
+Bezhta	42	POUR	git'al	Potential Transitivizing Alternation	Never	
+Bezhta	42	POUR	git'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	42	POUR	git'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	43	COVER	yoq'olal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Ambitransitive Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Antipassive 1 Alternation	Regularly	1-abs 3-sup 2-instr abs[1].V'antip
+Bezhta	43	COVER	yoq'olal	Antipassive 2 Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Causative with -k'	Never	
+Bezhta	43	COVER	yoq'olal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-abs 3-sup abs[2].V'caus
+Bezhta	43	COVER	yoq'olal	Causative with golal	Never	
+Bezhta	43	COVER	yoq'olal	Causative with yowal	Never	
+Bezhta	43	COVER	yoq'olal	Instrument Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Object Incorporation Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Potential Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Potential Transitivizing Alternation	Never	
+Bezhta	43	COVER	yoq'olal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	43	COVER	yoq'olal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	44	FILL	yoc'lal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Ambitransitive Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	44	FILL	yoc'lal	Antipassive 2 Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Causative with -k'	Never	
+Bezhta	44	FILL	yoc'lal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	44	FILL	yoc'lal	Causative with golal	Never	
+Bezhta	44	FILL	yoc'lal	Causative with yowal	Never	
+Bezhta	44	FILL	yoc'lal	Instrument Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Object Incorporation Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Potential Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Potential Transitivizing Alternation	Never	
+Bezhta	44	FILL	yoc'lal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	44	FILL	yoc'lal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	45	LOAD	yoⁿsal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Ambitransitive Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Antipassive 1 Alternation	Regularly	1-abs LOC2 3-instr abs[1].V'antip
+Bezhta	45	LOAD	yoⁿsal	Antipassive 2 Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Causative with -k'	Never	
+Bezhta	45	LOAD	yoⁿsal	Causative with -l/-ll	Regularly	4-erg 1-instr LOC2 3-abs abs[3].V'caus
+Bezhta	45	LOAD	yoⁿsal	Causative with golal	Never	
+Bezhta	45	LOAD	yoⁿsal	Causative with yowal	Never	
+Bezhta	45	LOAD	yoⁿsal	Instrument Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Object Incorporation Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Potential Alternation	Regularly	1-poss LOC2 3-abs abs[3].V'pot
+Bezhta	45	LOAD	yoⁿsal	Potential Transitivizing Alternation	Never	
+Bezhta	45	LOAD	yoⁿsal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	45	LOAD	yoⁿsal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Accidental/Potential Intransitive Alternation	Regularly	1-poss V'
+Bezhta	46	BLINK	häydä pacpaƛal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Ambitransitive Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Antipassive 1 Alternation	Regularly	V'antip
+Bezhta	46	BLINK	häydä pacpaƛal	Antipassive 2 Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Causative with -k'	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Causative with -l/-ll	Regularly	1-erg V'caus
+Bezhta	46	BLINK	häydä pacpaƛal	Causative with golal	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Causative with yowal	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Instrument Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Object Incorporation Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Potential Alternation	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Potential Transitivizing Alternation	Regularly	1-poss V'pot
+Bezhta	46	BLINK	häydä pacpaƛal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	46	BLINK	häydä pacpaƛal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	47	COUGH	öhƛäl	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Accidental/Potential Transitive Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Ambitransitive Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	47	COUGH	öhƛäl	Antipassive 2 Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Causative with -k'	Never	
+Bezhta	47	COUGH	öhƛäl	Causative with -l/-ll	Never	
+Bezhta	47	COUGH	öhƛäl	Causative with golal	Marginally	
+Bezhta	47	COUGH	öhƛäl	Causative with yowal	Never	
+Bezhta	47	COUGH	öhƛäl	Instrument Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Object Incorporation Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Potential Alternation	Regularly	1-poss V'pot
+Bezhta	47	COUGH	öhƛäl	Potential Transitivizing Alternation	Never	
+Bezhta	47	COUGH	öhƛäl	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	47	COUGH	öhƛäl	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Antipassive 1 Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Causative with -k'	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Causative with -l/-ll	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Causative with golal	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Causative with yowal	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Potential Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	48	CLIMB	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	49	RUN	č'an yaɣal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Ambitransitive Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	49	RUN	č'an yaɣal	Antipassive 2 Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Causative with -k'	Never	
+Bezhta	49	RUN	č'an yaɣal	Causative with -l/-ll	Regularly	2-erg 1-instr V'caus
+Bezhta	49	RUN	č'an yaɣal	Causative with golal	Never	
+Bezhta	49	RUN	č'an yaɣal	Causative with yowal	Never	
+Bezhta	49	RUN	č'an yaɣal	Instrument Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Object Incorporation Alternation	Regularly	
+Bezhta	49	RUN	č'an yaɣal	Potential Alternation	Regularly	1-poss V'pot
+Bezhta	49	RUN	č'an yaɣal	Potential Transitivizing Alternation	Never	
+Bezhta	49	RUN	č'an yaɣal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	49	RUN	č'an yaɣal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	49	RUN	č'änaɣal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Ambitransitive Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Antipassive 1 Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Antipassive 2 Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Causative with -k'	Never	
+Bezhta	49	RUN	č'änaɣal	Causative with -l/-ll	Regularly	2-erg 1-instr V'caus
+Bezhta	49	RUN	č'änaɣal	Causative with golal	Never	
+Bezhta	49	RUN	č'änaɣal	Causative with yowal	Never	
+Bezhta	49	RUN	č'änaɣal	Instrument Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Object Incorporation Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Potential Alternation	Regularly	1-poss V'pot
+Bezhta	49	RUN	č'änaɣal	Potential Transitivizing Alternation	Never	
+Bezhta	49	RUN	č'änaɣal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	49	RUN	č'änaɣal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	50	SIT	q'ey yecal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Ambitransitive Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Antipassive 1 Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Antipassive 2 Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Causative with -k'	Never	
+Bezhta	50	SIT	q'ey yecal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	50	SIT	q'ey yecal	Causative with golal	Never	
+Bezhta	50	SIT	q'ey yecal	Causative with yowal	Never	
+Bezhta	50	SIT	q'ey yecal	Instrument Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Object Incorporation Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	50	SIT	q'ey yecal	Potential Transitivizing Alternation	Never	
+Bezhta	50	SIT	q'ey yecal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	50	SIT	q'ey yecal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Ambitransitive Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Antipassive 1 Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Antipassive 2 Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Causative with -k'	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	51	SIT DOWN	q'ey yecal	Causative with golal	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Causative with yowal	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Instrument Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Object Incorporation Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	51	SIT DOWN	q'ey yecal	Potential Transitivizing Alternation	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	51	SIT DOWN	q'ey yecal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	52	JUMP	yogic'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Ambitransitive Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	52	JUMP	yogic'al	Antipassive 2 Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Causative with -k'	Never	
+Bezhta	52	JUMP	yogic'al	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	52	JUMP	yogic'al	Causative with golal	Never	
+Bezhta	52	JUMP	yogic'al	Causative with yowal	Never	
+Bezhta	52	JUMP	yogic'al	Instrument Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Object Incorporation Alternation	Never	
+Bezhta	52	JUMP	yogic'al	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	52	JUMP	yogic'al	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	52	JUMP	yogic'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	52	JUMP	yogic'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	53	SING	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	53	SING	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Causative with -k'	Never	
+Bezhta	53	SING	no verbal counterpart	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	53	SING	no verbal counterpart	Causative with golal	Never	
+Bezhta	53	SING	no verbal counterpart	Causative with yowal	Never	
+Bezhta	53	SING	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	53	SING	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	53	SING	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	53	SING	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Ambitransitive Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Antipassive 1 Alternation	Regularly	1-abs LOC2 abs[1].V'antip
+Bezhta	54	GO	yeⁿƛ'al (1)	Antipassive 2 Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Causative with -k'	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Causative with -l/-ll	Regularly	3-erg 1-abs LOC2 abs[1].V'caus
+Bezhta	54	GO	yeⁿƛ'al (1)	Causative with golal	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Causative with yowal	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Instrument Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Object Incorporation Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Potential Alternation	Regularly	1-poss LOC2 abs[1].V'pot
+Bezhta	54	GO	yeⁿƛ'al (1)	Potential Transitivizing Alternation	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	54	GO	yeⁿƛ'al (1)	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Ambitransitive Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Antipassive 1 Alternation	Regularly	1-abs 2-abl abs[1].V'antip
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Antipassive 2 Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Causative with -k'	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Causative with -l/-ll	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Causative with golal	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Causative with yowal	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Instrument Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Object Incorporation Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Potential Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Potential Transitivizing Alternation	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	56	LIVE	ömrö bowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Ambitransitive Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Antipassive 1 Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Antipassive 2 Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Causative with -k'	Never	
+Bezhta	56	LIVE	ömrö bowal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-iness V'caus
+Bezhta	56	LIVE	ömrö bowal	Causative with golal	Never	
+Bezhta	56	LIVE	ömrö bowal	Causative with yowal	Never	
+Bezhta	56	LIVE	ömrö bowal	Instrument Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Object Incorporation Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Potential Alternation	Regularly	1-poss 2-iness V'pot
+Bezhta	56	LIVE	ömrö bowal	Potential Transitivizing Alternation	Never	
+Bezhta	56	LIVE	ömrö bowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	56	LIVE	ömrö bowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	57	LAUGH	łowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	57	LAUGH	łowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	57	LAUGH	łowal	Ambitransitive Alternation	Never	
+Bezhta	57	LAUGH	łowal	Antipassive 1 Alternation	Marginally	
+Bezhta	57	LAUGH	łowal	Antipassive 2 Alternation	Never	
+Bezhta	57	LAUGH	łowal	Causative with -k'	Never	
+Bezhta	57	LAUGH	łowal	Causative with -l/-ll	Never	
+Bezhta	57	LAUGH	łowal	Causative with golal	Regularly	2-erg 1-abs abs[1].V'caus4
+Bezhta	57	LAUGH	łowal	Causative with yowal	Never	
+Bezhta	57	LAUGH	łowal	Instrument Alternation	Never	
+Bezhta	57	LAUGH	łowal	Object Incorporation Alternation	Never	
+Bezhta	57	LAUGH	łowal	Potential Alternation	Never	
+Bezhta	57	LAUGH	łowal	Potential Transitivizing Alternation	Never	
+Bezhta	57	LAUGH	łowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	57	LAUGH	łowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	58	SCREAM	lalaƛal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Ambitransitive Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Antipassive 1 Alternation	Regularly	1-abs 2-sup abs[1].V'antip
+Bezhta	58	SCREAM	lalaƛal	Antipassive 2 Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Causative with -k'	Never	
+Bezhta	58	SCREAM	lalaƛal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-sup V'caus
+Bezhta	58	SCREAM	lalaƛal	Causative with golal	Never	
+Bezhta	58	SCREAM	lalaƛal	Causative with yowal	Never	
+Bezhta	58	SCREAM	lalaƛal	Instrument Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Object Incorporation Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Potential Alternation	Regularly	1-poss 2-sup V'pot
+Bezhta	58	SCREAM	lalaƛal	Potential Transitivizing Alternation	Never	
+Bezhta	58	SCREAM	lalaƛal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	58	SCREAM	lalaƛal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Ambitransitive Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Antipassive 1 Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Antipassive 2 Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Causative with -k'	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	59	FEEL PAIN	k'ok'al	Causative with golal	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Causative with yowal	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Instrument Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Object Incorporation Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Potential Alternation	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	59	FEEL PAIN	k'ok'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	59	FEEL PAIN	k'ok'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	60	FEEL COLD	yäč’ɬal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Ambitransitive Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Antipassive 1 Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Antipassive 2 Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Causative with -k'	Regularly	2-erg 1-abs abs[1].V'caus2
+Bezhta	60	FEEL COLD	yäč’ɬal	Causative with -l/-ll	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Causative with golal	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Causative with yowal	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Instrument Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Object Incorporation Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Potential Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Potential Transitivizing Alternation	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	60	FEEL COLD	yäč’ɬal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	61	DIE	yuɣal	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	61	DIE	yuɣal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	61	DIE	yuɣal	Ambitransitive Alternation	Never	
+Bezhta	61	DIE	yuɣal	Antipassive 1 Alternation	Never	
+Bezhta	61	DIE	yuɣal	Antipassive 2 Alternation	Never	
+Bezhta	61	DIE	yuɣal	Causative with -k'	Never	
+Bezhta	61	DIE	yuɣal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	61	DIE	yuɣal	Causative with golal	Never	
+Bezhta	61	DIE	yuɣal	Causative with yowal	Never	
+Bezhta	61	DIE	yuɣal	Instrument Alternation	Never	
+Bezhta	61	DIE	yuɣal	Object Incorporation Alternation	Never	
+Bezhta	61	DIE	yuɣal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	61	DIE	yuɣal	Potential Transitivizing Alternation	Never	
+Bezhta	61	DIE	yuɣal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	61	DIE	yuɣal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	62	PLAY	k'isal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	62	PLAY	k'isal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	62	PLAY	k'isal	Ambitransitive Alternation	Never	
+Bezhta	62	PLAY	k'isal	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	62	PLAY	k'isal	Antipassive 2 Alternation	Never	
+Bezhta	62	PLAY	k'isal	Causative with -k'	Never	
+Bezhta	62	PLAY	k'isal	Causative with -l/-ll	Never	
+Bezhta	62	PLAY	k'isal	Causative with golal	Regularly	2-erg 1-abs abs[1].V'caus4
+Bezhta	62	PLAY	k'isal	Causative with yowal	Never	
+Bezhta	62	PLAY	k'isal	Instrument Alternation	Never	
+Bezhta	62	PLAY	k'isal	Object Incorporation Alternation	Never	
+Bezhta	62	PLAY	k'isal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	62	PLAY	k'isal	Potential Transitivizing Alternation	Never	
+Bezhta	62	PLAY	k'isal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	62	PLAY	k'isal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Ambitransitive Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Antipassive 1 Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Antipassive 2 Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Causative with -k'	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Causative with golal	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Causative with yowal	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Instrument Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Object Incorporation Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Potential Transitivizing Alternation	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	64	BE HUNGRY	nukal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Ambitransitive Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Antipassive 1 Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Antipassive 2 Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Causative with -k'	Never	
+Bezhta	64	BE HUNGRY	nukal	Causative with -l/-ll	Never	
+Bezhta	64	BE HUNGRY	nukal	Causative with golal	Regularly	2-erg 1-abs abs[1].V'caus4
+Bezhta	64	BE HUNGRY	nukal	Causative with yowal	Never	
+Bezhta	64	BE HUNGRY	nukal	Instrument Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Object Incorporation Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Potential Alternation	Never	
+Bezhta	64	BE HUNGRY	nukal	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	64	BE HUNGRY	nukal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	64	BE HUNGRY	nukal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	65	ROLL	k'äyƛäl	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	65	ROLL	k'äyƛäl	Accidental/Potential Transitive Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Ambitransitive Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Antipassive 1 Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Antipassive 2 Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Causative with -k'	Never	
+Bezhta	65	ROLL	k'äyƛäl	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	65	ROLL	k'äyƛäl	Causative with golal	Never	
+Bezhta	65	ROLL	k'äyƛäl	Causative with yowal	Never	
+Bezhta	65	ROLL	k'äyƛäl	Instrument Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Object Incorporation Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Potential Alternation	Never	
+Bezhta	65	ROLL	k'äyƛäl	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	65	ROLL	k'äyƛäl	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	65	ROLL	k'äyƛäl	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Ambitransitive Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Antipassive 1 Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Antipassive 2 Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Causative with -k'	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Causative with -l/-ll	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Causative with golal	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Causative with yowal	Regularly	2-erg 1-abs abs[1].V'caus3
+Bezhta	66	SINK	ɣanq'iziyaqal	Instrument Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Object Incorporation Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Potential Alternation	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	66	SINK	ɣanq'iziyaqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	66	SINK	ɣanq'iziyaqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	67	BURN	yek'al	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	67	BURN	yek'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	67	BURN	yek'al	Ambitransitive Alternation	Never	
+Bezhta	67	BURN	yek'al	Antipassive 1 Alternation	Marginally	
+Bezhta	67	BURN	yek'al	Antipassive 2 Alternation	Never	
+Bezhta	67	BURN	yek'al	Causative with -k'	Never	
+Bezhta	67	BURN	yek'al	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	67	BURN	yek'al	Causative with golal	Never	
+Bezhta	67	BURN	yek'al	Causative with yowal	Never	
+Bezhta	67	BURN	yek'al	Instrument Alternation	Never	
+Bezhta	67	BURN	yek'al	Object Incorporation Alternation	Never	
+Bezhta	67	BURN	yek'al	Potential Alternation	Never	
+Bezhta	67	BURN	yek'al	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	67	BURN	yek'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	67	BURN	yek'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	68	BE DRY	qoqal	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	68	BE DRY	qoqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Ambitransitive Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	68	BE DRY	qoqal	Antipassive 2 Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Causative with -k'	Never	
+Bezhta	68	BE DRY	qoqal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	68	BE DRY	qoqal	Causative with golal	Never	
+Bezhta	68	BE DRY	qoqal	Causative with yowal	Never	
+Bezhta	68	BE DRY	qoqal	Instrument Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Object Incorporation Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Potential Alternation	Never	
+Bezhta	68	BE DRY	qoqal	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	68	BE DRY	qoqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	68	BE DRY	qoqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	69	RAIN	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Antipassive 1 Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Causative with -k'	Never	
+Bezhta	69	RAIN	no verbal counterpart	Causative with -l/-ll	Regularly	
+Bezhta	69	RAIN	no verbal counterpart	Causative with golal	Never	
+Bezhta	69	RAIN	no verbal counterpart	Causative with yowal	Never	
+Bezhta	69	RAIN	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Potential Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	69	RAIN	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	69	RAIN	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Accidental/Potential Transitive Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Ambitransitive Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Antipassive 1 Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Antipassive 2 Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Causative with -k'	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Causative with -l/-ll	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Causative with golal	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Causative with yowal	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Instrument Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Object Incorporation Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Potential Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Potential Transitivizing Alternation	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	70	BE A HUNTER	no verbal counterpart	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	71	GRIND	haʔal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	71	GRIND	haʔal	Accidental/Potential Transitive Alternation	Regularly	1-poss 2-abs abs[2].V'
+Bezhta	71	GRIND	haʔal	Ambitransitive Alternation	Never	
+Bezhta	71	GRIND	haʔal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	71	GRIND	haʔal	Antipassive 2 Alternation	Never	
+Bezhta	71	GRIND	haʔal	Causative with -k'	Never	
+Bezhta	71	GRIND	haʔal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	71	GRIND	haʔal	Causative with golal	Never	
+Bezhta	71	GRIND	haʔal	Causative with yowal	Never	
+Bezhta	71	GRIND	haʔal	Instrument Alternation	Never	
+Bezhta	71	GRIND	haʔal	Object Incorporation Alternation	Never	
+Bezhta	71	GRIND	haʔal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	71	GRIND	haʔal	Potential Transitivizing Alternation	Never	
+Bezhta	71	GRIND	haʔal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	71	GRIND	haʔal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	72	WIPE	yaⁿcolal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Ambitransitive Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Antipassive 1 Alternation	Regularly	1-abs LOC2 3-instr abs[1].V'antip
+Bezhta	72	WIPE	yaⁿcolal	Antipassive 2 Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Causative with -k'	Never	
+Bezhta	72	WIPE	yaⁿcolal	Causative with -l/-ll	Regularly	4-erg 1-instr LOC2 3-abs abs[3].V'caus
+Bezhta	72	WIPE	yaⁿcolal	Causative with golal	Never	
+Bezhta	72	WIPE	yaⁿcolal	Causative with yowal	Never	
+Bezhta	72	WIPE	yaⁿcolal	Instrument Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Object Incorporation Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Potential Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Potential Transitivizing Alternation	Never	
+Bezhta	72	WIPE	yaⁿcolal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	72	WIPE	yaⁿcolal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	73	DIG	yäxäl	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	73	DIG	yäxäl	Accidental/Potential Transitive Alternation	Never	
+Bezhta	73	DIG	yäxäl	Ambitransitive Alternation	Never	
+Bezhta	73	DIG	yäxäl	Antipassive 1 Alternation	Marginally	
+Bezhta	73	DIG	yäxäl	Antipassive 2 Alternation	Never	
+Bezhta	73	DIG	yäxäl	Causative with -k'	Never	
+Bezhta	73	DIG	yäxäl	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	73	DIG	yäxäl	Causative with golal	Never	
+Bezhta	73	DIG	yäxäl	Causative with yowal	Never	
+Bezhta	73	DIG	yäxäl	Instrument Alternation	Never	
+Bezhta	73	DIG	yäxäl	Object Incorporation Alternation	Never	
+Bezhta	73	DIG	yäxäl	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	73	DIG	yäxäl	Potential Transitivizing Alternation	Never	
+Bezhta	73	DIG	yäxäl	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	73	DIG	yäxäl	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	74	PUSH	zistuqlal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Ambitransitive Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	74	PUSH	zistuqlal	Antipassive 2 Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Causative with -k'	Never	
+Bezhta	74	PUSH	zistuqlal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	74	PUSH	zistuqlal	Causative with golal	Never	
+Bezhta	74	PUSH	zistuqlal	Causative with yowal	Never	
+Bezhta	74	PUSH	zistuqlal	Instrument Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Object Incorporation Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Potential Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Potential Transitivizing Alternation	Never	
+Bezhta	74	PUSH	zistuqlal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	74	PUSH	zistuqlal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	75	BRING	yaq'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	75	BRING	yaq'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	75	BRING	yaq'al	Ambitransitive Alternation	Never	
+Bezhta	75	BRING	yaq'al	Antipassive 1 Alternation	Regularly	1-abs 2-lat 3-instr abs[1].V'antip
+Bezhta	75	BRING	yaq'al	Antipassive 2 Alternation	Never	
+Bezhta	75	BRING	yaq'al	Causative with -k'	Never	
+Bezhta	75	BRING	yaq'al	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	75	BRING	yaq'al	Causative with golal	Never	
+Bezhta	75	BRING	yaq'al	Causative with yowal	Never	
+Bezhta	75	BRING	yaq'al	Instrument Alternation	Never	
+Bezhta	75	BRING	yaq'al	Object Incorporation Alternation	Never	
+Bezhta	75	BRING	yaq'al	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	75	BRING	yaq'al	Potential Transitivizing Alternation	Never	
+Bezhta	75	BRING	yaq'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	75	BRING	yaq'al	Recipient/Goal/Location Alternation 2	Regularly	1-erg 2-apud 3-abs abs[3].V'
+Bezhta	76	STEAL	yuⁿcal (2)	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Accidental/Potential Transitive Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Ambitransitive Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Antipassive 1 Alternation	Regularly	1-abs 2-possabl 3-instr abs[1].V'antip
+Bezhta	76	STEAL	yuⁿcal (2)	Antipassive 2 Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Causative with -k'	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Causative with -l/-ll	Regularly	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus
+Bezhta	76	STEAL	yuⁿcal (2)	Causative with golal	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Causative with yowal	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Instrument Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Object Incorporation Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Potential Alternation	Regularly	1-poss 2-possabl 3-abs abs[3]V'pot
+Bezhta	76	STEAL	yuⁿcal (2)	Potential Transitivizing Alternation	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	76	STEAL	yuⁿcal (2)	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	77	TEACH	małciyowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Ambitransitive Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Antipassive 1 Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Antipassive 2 Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Causative with -k'	Never	
+Bezhta	77	TEACH	małciyowal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-lat 3-abs abs[3].V'caus
+Bezhta	77	TEACH	małciyowal	Causative with golal	Never	
+Bezhta	77	TEACH	małciyowal	Causative with yowal	Never	
+Bezhta	77	TEACH	małciyowal	Instrument Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Object Incorporation Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Potential Alternation	Regularly	1-poss 2-lat 3-abs abs[3].V'pot
+Bezhta	77	TEACH	małciyowal	Potential Transitivizing Alternation	Never	
+Bezhta	77	TEACH	małciyowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	77	TEACH	małciyowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	78	HEAR	tuqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	78	HEAR	tuqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	78	HEAR	tuqal	Ambitransitive Alternation	Never	
+Bezhta	78	HEAR	tuqal	Antipassive 1 Alternation	Never	
+Bezhta	78	HEAR	tuqal	Antipassive 2 Alternation	Never	
+Bezhta	78	HEAR	tuqal	Causative with -k'	Never	
+Bezhta	78	HEAR	tuqal	Causative with -l/-ll	Regularly	3-erg 1-lat 2-abs abs[2].V'caus
+Bezhta	78	HEAR	tuqal	Causative with golal	Never	
+Bezhta	78	HEAR	tuqal	Causative with yowal	Never	
+Bezhta	78	HEAR	tuqal	Instrument Alternation	Never	
+Bezhta	78	HEAR	tuqal	Object Incorporation Alternation	Never	
+Bezhta	78	HEAR	tuqal	Potential Alternation	Never	
+Bezhta	78	HEAR	tuqal	Potential Transitivizing Alternation	Never	
+Bezhta	78	HEAR	tuqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	78	HEAR	tuqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	79	COOK	helal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	79	COOK	helal	Accidental/Potential Transitive Alternation	Regularly	1-poss 2-abs abs[2].V'
+Bezhta	79	COOK	helal	Ambitransitive Alternation	Regularly	2-abs abs[2].V'
+Bezhta	79	COOK	helal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	79	COOK	helal	Antipassive 2 Alternation	Never	
+Bezhta	79	COOK	helal	Causative with -k'	Never	
+Bezhta	79	COOK	helal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	79	COOK	helal	Causative with golal	Never	
+Bezhta	79	COOK	helal	Causative with yowal	Never	
+Bezhta	79	COOK	helal	Instrument Alternation	Never	
+Bezhta	79	COOK	helal	Object Incorporation Alternation	Never	
+Bezhta	79	COOK	helal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	79	COOK	helal	Potential Transitivizing Alternation	Never	
+Bezhta	79	COOK	helal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	79	COOK	helal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	80	BOIL	ɣayƛal	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	80	BOIL	ɣayƛal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Ambitransitive Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Antipassive 1 Alternation	Regularly	1-abs abs[1].V'antip
+Bezhta	80	BOIL	ɣayƛal	Antipassive 2 Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Causative with -k'	Never	
+Bezhta	80	BOIL	ɣayƛal	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	80	BOIL	ɣayƛal	Causative with golal	Never	
+Bezhta	80	BOIL	ɣayƛal	Causative with yowal	Never	
+Bezhta	80	BOIL	ɣayƛal	Instrument Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Object Incorporation Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Potential Alternation	Never	
+Bezhta	80	BOIL	ɣayƛal	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	80	BOIL	ɣayƛal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	80	BOIL	ɣayƛal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Accidental/Potential Intransitive Alternation	Regularly	2-poss 1-abs abs[1].V'
+Bezhta	81	APPEAR	yoⁿq'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Ambitransitive Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Antipassive 1 Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Antipassive 2 Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Causative with -k'	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	81	APPEAR	yoⁿq'al	Causative with golal	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Causative with yowal	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Instrument Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Object Incorporation Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Potential Alternation	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	81	APPEAR	yoⁿq'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	81	APPEAR	yoⁿq'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	82	BE ILL	k'ok'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Ambitransitive Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Antipassive 1 Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Antipassive 2 Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Causative with -k'	Never	
+Bezhta	82	BE ILL	k'ok'al	Causative with -l/-ll	Regularly	2-erg 1-abs abs[1].V'caus
+Bezhta	82	BE ILL	k'ok'al	Causative with golal	Never	
+Bezhta	82	BE ILL	k'ok'al	Causative with yowal	Never	
+Bezhta	82	BE ILL	k'ok'al	Instrument Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Object Incorporation Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Potential Alternation	Never	
+Bezhta	82	BE ILL	k'ok'al	Potential Transitivizing Alternation	Regularly	2-poss 1-abs abs[1].V'pot
+Bezhta	82	BE ILL	k'ok'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	82	BE ILL	k'ok'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	83	CRY	yiyaal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	83	CRY	yiyaal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	83	CRY	yiyaal	Ambitransitive Alternation	Never	
+Bezhta	83	CRY	yiyaal	Antipassive 1 Alternation	Never	
+Bezhta	83	CRY	yiyaal	Antipassive 2 Alternation	Never	
+Bezhta	83	CRY	yiyaal	Causative with -k'	Never	
+Bezhta	83	CRY	yiyaal	Causative with -l/-ll	Never	
+Bezhta	83	CRY	yiyaal	Causative with golal	Regularly	2-erg 1-abs abs[1].V'caus4
+Bezhta	83	CRY	yiyaal	Causative with yowal	Never	
+Bezhta	83	CRY	yiyaal	Instrument Alternation	Never	
+Bezhta	83	CRY	yiyaal	Object Incorporation Alternation	Never	
+Bezhta	83	CRY	yiyaal	Potential Alternation	Regularly	1-poss abs[1].V'pot
+Bezhta	83	CRY	yiyaal	Potential Transitivizing Alternation	Never	
+Bezhta	83	CRY	yiyaal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	83	CRY	yiyaal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	84	FALL	yekal	Accidental/Potential Intransitive Alternation	Regularly	3-poss 2-supabl 1-abs abs[1].V'
+Bezhta	84	FALL	yekal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	84	FALL	yekal	Ambitransitive Alternation	Never	
+Bezhta	84	FALL	yekal	Antipassive 1 Alternation	No data	
+Bezhta	84	FALL	yekal	Antipassive 2 Alternation	Never	
+Bezhta	84	FALL	yekal	Causative with -k'	Never	
+Bezhta	84	FALL	yekal	Causative with -l/-ll	Regularly	3-erg 1-abs 2-supabl abs[1].V'caus
+Bezhta	84	FALL	yekal	Causative with golal	Never	
+Bezhta	84	FALL	yekal	Causative with yowal	Never	
+Bezhta	84	FALL	yekal	Instrument Alternation	Never	
+Bezhta	84	FALL	yekal	Object Incorporation Alternation	Never	
+Bezhta	84	FALL	yekal	Potential Alternation	Never	
+Bezhta	84	FALL	yekal	Potential Transitivizing Alternation	Regularly	3-poss 1-abs abs[1].V'pot
+Bezhta	84	FALL	yekal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	84	FALL	yekal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	85	MAKE	yowal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	85	MAKE	yowal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	85	MAKE	yowal	Ambitransitive Alternation	Never	
+Bezhta	85	MAKE	yowal	Antipassive 1 Alternation	Regularly	1-abs 2-instr abs[1].V'antip
+Bezhta	85	MAKE	yowal	Antipassive 2 Alternation	Never	
+Bezhta	85	MAKE	yowal	Causative with -k'	Never	
+Bezhta	85	MAKE	yowal	Causative with -l/-ll	Regularly	3-erg 1-instr 2-abs abs[2].V'caus
+Bezhta	85	MAKE	yowal	Causative with golal	Never	
+Bezhta	85	MAKE	yowal	Causative with yowal	Never	
+Bezhta	85	MAKE	yowal	Instrument Alternation	Never	
+Bezhta	85	MAKE	yowal	Object Incorporation Alternation	Never	
+Bezhta	85	MAKE	yowal	Potential Alternation	Regularly	1-poss 2-abs abs[2].V'pot
+Bezhta	85	MAKE	yowal	Potential Transitivizing Alternation	Never	
+Bezhta	85	MAKE	yowal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	85	MAKE	yowal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	86	GET	yiqal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	86	GET	yiqal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	86	GET	yiqal	Ambitransitive Alternation	Never	
+Bezhta	86	GET	yiqal	Antipassive 1 Alternation	Never	
+Bezhta	86	GET	yiqal	Antipassive 2 Alternation	Never	
+Bezhta	86	GET	yiqal	Causative with -k'	Never	
+Bezhta	86	GET	yiqal	Causative with -l/-ll	Regularly	4-erg 1-instr 2-possabl 3-abs abs[3].V'caus
+Bezhta	86	GET	yiqal	Causative with golal	Never	
+Bezhta	86	GET	yiqal	Causative with yowal	Never	
+Bezhta	86	GET	yiqal	Instrument Alternation	Never	
+Bezhta	86	GET	yiqal	Object Incorporation Alternation	Never	
+Bezhta	86	GET	yiqal	Potential Alternation	Never	
+Bezhta	86	GET	yiqal	Potential Transitivizing Alternation	Never	
+Bezhta	86	GET	yiqal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	86	GET	yiqal	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	87	WANT	yat'al	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	87	WANT	yat'al	Accidental/Potential Transitive Alternation	Never	
+Bezhta	87	WANT	yat'al	Ambitransitive Alternation	Never	
+Bezhta	87	WANT	yat'al	Antipassive 1 Alternation	Never	
+Bezhta	87	WANT	yat'al	Antipassive 2 Alternation	Never	
+Bezhta	87	WANT	yat'al	Causative with -k'	Never	
+Bezhta	87	WANT	yat'al	Causative with -l/-ll	Regularly	3-erg 1-lat 2-abs abs[2].V'caus
+Bezhta	87	WANT	yat'al	Causative with golal	Never	
+Bezhta	87	WANT	yat'al	Causative with yowal	Never	
+Bezhta	87	WANT	yat'al	Instrument Alternation	Never	
+Bezhta	87	WANT	yat'al	Object Incorporation Alternation	Never	
+Bezhta	87	WANT	yat'al	Potential Alternation	Never	
+Bezhta	87	WANT	yat'al	Potential Transitivizing Alternation	Never	
+Bezhta	87	WANT	yat'al	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	87	WANT	yat'al	Recipient/Goal/Location Alternation 2	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Accidental/Potential Intransitive Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Accidental/Potential Transitive Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Ambitransitive Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Antipassive 1 Alternation	Regularly	1-abs LOC2 3-instr abs[1].V'antip
+Bezhta	90	CLEAN	yaⁿcolal	Antipassive 2 Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Causative with -k'	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Causative with -l/-ll	Regularly	4-erg 1-instr LOC2 3-abs abs[3].V'caus
+Bezhta	90	CLEAN	yaⁿcolal	Causative with golal	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Causative with yowal	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Instrument Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Object Incorporation Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Potential Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Potential Transitivizing Alternation	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Recipient/Goal/Location Alternation 1	Never	
+Bezhta	90	CLEAN	yaⁿcolal	Recipient/Goal/Location Alternation 2	Never	

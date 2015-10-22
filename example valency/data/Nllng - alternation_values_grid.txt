@@ -1,0 +1,90 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Addition of direct object	Addition of direct object via SVC	Addition of instrument/comitative	Addition of oblique	Addition of oblique + direct object via SVC	Addition of oblique via SVC	Clausal complement instead of direct object	Clausal complement instead of oblique argument	Coded causative	Coded causative + addition of oblique	Deagentive	Deletion of dative object	Deletion of direct object	Deletion of indirect object	Deletion of oblique	Demotion of direct object to oblique	Demotion of indirect object to oblique (via SVC)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Locative shift: theme as direct object (instead of goal)	Promotion of direct object to oblique	Promotion of oblique to indirect object	Theme as instrument instead of oblique	Uncoded causative
+Nǀǀng	1	EAT	ain	166, 167, 168, 178	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	2	HUG	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	3	LOOK AT	ǂaqe	169, 170	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	4	SEE	nǀai	171, 237	1 V 2	Never	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	5	SMELL	ǃqhao	172, 275	1 V 2	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	6	FEAR	ǃauka	5, 6, 7, 51, 257	1 V ng+2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	24, 50, 238	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	8	LIKE	tsʼaanʼa	25, 26, 239	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	9	KNOW	ǁxae(-a)	27, 28, 29, 263	1 V 2	Never	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	10	THINK	ǂʼain(ke)	30, 31, 32	1 V ng+2	Never	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	33	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	11	SEARCH FOR	ǂxaqake	205, 206, 207, 208, 209	1 V 2	Never	Never	Never	No data	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	12	WASH	ǁkxʼam	1, 2, 262	1 V 2	Never	Never	Never	Never	Never	No data	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	No data	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	13	DRESS	ǂaasinn	34, 36, 37, 264	1 V 2	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	13	DRESS	nǁaa (1)	35, 38, 265	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	15	HELP	hui	39, 40, 41, 266, 267	1 V 2	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Nǀǀng	16	FOLLOW	ǀhunn	42	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	17	MEET	hoo (2)	43, 44	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	No data	Never	Never	Never	Never	No data	Never	Never	Never	Never	Never
+Nǀǀng	18	TALK	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	45, 46	1 V 2 ng+3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	20	SHOUT AT	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	21	TELL	ǀkxʼae(a)	47, 48, 259	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	22	SAY	ku	240, 271, 272	1 V ng+2 UTT3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	23	NAME	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	24	BUILD	kxʼuu	158, 216, 217, 218, 219, 220	1 V 2	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	25	BREAK	ǁhaa	159, 162, 241, 258	1 V 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	26	KILL	ǀhaa	160, 161	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	27	BEAT	ǀkxʼaike	163, 175	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	27	BEAT	ǂamʼa	164, 165	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	28	HIT	ǀkxʼaike	163, 175	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	28	HIT	ǂamʼa	164, 165	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	29	TOUCH	ǀai (2)	250	1 V ng+2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	30	CUT	ǀaa	173, 174	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	31	TAKE	ǀai (1)	246, 247, 248, 249, 250, 251	1 V 2	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	32	TEAR	tyxaa	252, 253	1 V 2	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	33	PEEL	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	254, 255, 256	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	No data	Never	Never	No data	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	35	SHOW	kadyama	3	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	35	SHOW	qann(-ya)	59	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	36	GIVE	aa	20, 61, 62	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	36	GIVE	tsaa	21, 60	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	37	SEND	ǀae(-a)	22, 63, 64, 65, 66, 67, 68	1 V 2-dat 3	Never	No data	Marginally	Never	No data	No data	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Nǀǀng	38	CARRY	ǃxau	23, 49, 75, 76, 77	1 V 2	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	39	THROW	ǂaqbeke	69, 70, 71, 72, 73, 74	1 V 2 ng+3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Marginally	Never	Never	Regularly	Never	Never
+Nǀǀng	40	TIE	ǁʼngke	52, 53	1 V 2 ng+3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	41	PUT	ǁhoo	200, 201, 202, 203	1 V 2 ng+3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	42	POUR	ǂhaun	54, 55, 78, 79	1 V 2	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Marginally	Never	Never	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	43	COVER	ǂanu	80, 81, 82, 83, 84	1 V 2	Never	Never	Regularly	No data	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	43	COVER	ǂʼaoke	85, 86	1 V 2	Never	Never	Regularly	No data	Never	Never	Never	Never	Marginally	Never	No data	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	44	FILL	ǂunn	87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103	1 V 2	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Nǀǀng	45	LOAD	nǃao	194, 195, 196, 197, 198, 199	1 V 2 ng+3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Regularly	Never
+Nǀǀng	46	BLINK	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	47	COUGH	ǁʼhoqo	15	1 V	Marginally	Marginally	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	48	CLIMB	ǁain	104, 105, 106, 107, 108	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	49	RUN	ǃae	109, 110, 111, 112, 113, 114, 115	1 V	Marginally	Regularly	Never	Never	Regularly	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	50	SIT	soo	116, 117, 118, 119, 268	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	189, 190, 191, 192, 193	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	52	JUMP	ǂkhuun	56, 57, 58, 120, 121	1 V	Never	Regularly	Never	Never	Regularly	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	53	SING	ǂeeke	10, 11, 122	1 V	Regularly	Never	Never	Never	Never	Never	Never	Never	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	54	GO	ǁʼaa	123, 124, 125, 126, 127	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	55	LEAVE	xuu	128	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	56	LIVE	nǁaa (2)	129, 130, 131, 132, 133, 134, 135	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	56	LIVE	ǀʼhoa	136, 137, 138	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	57	LAUGH	kxʼainʼa	16, 17, 139	1 V	Regularly	Never	Never	Never	Never	Marginally	Never	Never	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	58	SCREAM	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	140, 141, 142, 149, 188	1 V	Marginally	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	60	FEEL COLD	ǀʼhuu	147, 148, 149	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	146	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	61	DIE	ǀʼaa	12, 143, 144, 145, 187	1 V	Never	Never	Never	Never	Never	No data	No data	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	62	PLAY	(ka) ǃqora	13, 14, 150	1 V	Regularly	Never	Never	Never	Never	Never	Never	Never	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	63	BE SAD	idiomatic expressions	151, 152	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	153	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	65	ROLL	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	66	SINK	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	67	BURN																										
+Nǀǀng	68	BE DRY	ǁoo(-a)	4, 181, 182, 183, 184, 185	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally
+Nǀǀng	69	RAIN	ǂhau	18, 19	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	70	BE A HUNTER	ng X	179, 180	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	71	GRIND	ǂxaike	245	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	72	WIPE	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	73	DIG	ǁʼau	177	1 V 2	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	74	PUSH	ǂʼhaqa	242, 243, 244, 269, 270	1 V 2	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Nǀǀng	75	BRING	tsaa	21, 60	1 V 2-dat 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	76	STEAL	gaake	236, 273, 274	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	77	TEACH																										
+Nǀǀng	78	HEAR	tyuu	229, 230, 231, 232, 233, 234, 235	1 V 2	Never	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	79	COOK	ǃxama	226, 227, 228	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Regularly	Never	Never	No data	Never	Never	Never	Never	Never	Never	Never
+Nǀǀng	80	BOIL	ǀuun	221, 222, 223, 224, 225	1 V	Never	No data	Never	Never	Never	Marginally	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly

@@ -1,0 +1,455 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+English	1	Constructed by native speaker linguist	I ate too much for lunch.		I ate too much for lunch	I ate too much for lunch	I ate too much for lunch.
+English	2	Constructed by native speaker linguist	He was still eating when I arrived.		he was still eating when I arrived	he was still eating when I arrived	He was still eating when I arrived.
+English	3	Constructed by native speaker linguist	He used to eat at the cafe.		he used to eat at the cafe	he used to eat at the cafe	He used to eat at the cafe.
+English	4	Naturalistic spoken	It's raining.		it is raining	it is raining	It's raining.
+English	5	Constructed by native speaker linguist	The fire burnt for hours.		the fire burnt for hours	the fire burnt for hours	The fire burnt for hours.
+English	6	Constructed by native speaker linguist	The fire burnt the house down.		the fire burnt the house down	the fire burnt the house down	The fire burnt the house down.
+English	7	Constructed by native speaker linguist	Her house is burning down around her.		her house is burning down around her	her house is burning down around her	Her house is burning down around her.
+English	8	Constructed by native speaker linguist	Kindling burns well but it doesn't last long.		kindling burns well but it does not last long	kindling burns well but it does not last long	Kindling burns well but it doesn't last long.
+English	9	Constructed by native speaker linguist	I burnt the papers in the backyard.		I burnt the papers in the backyard	I burnt the papers in the backyard	I burnt the papers in the backyard.
+English	10	Constructed by native speaker linguist	I burnt myself on the hand.		I burnt myself on the hand	I burnt myself on the hand	I burnt myself on the hand.
+English	11	Constructed by native speaker linguist	The fire burnt her house down.		the fire burnt her house down	the fire burnt her house down	The fire burnt her house down.
+English	12	Constructed by native speaker linguist	She hugged her little sister and kissed her on the head.		she hugged her little sister and kissed her on the head	she hugged her little sister and kissed her on the head	She hugged her little sister and kissed her on the head.
+English	13	Constructed by native speaker linguist	They hugged and kissed.		they hugged and kissed	they hugged and kissed	They hugged and kissed.
+English	14	Constructed by native speaker linguist	I haven't had a hug in months.		I have not had a hug in months	I have not had a hug in months	I haven't had a hug in months.
+English	15	Constructed by native speaker linguist	Cut the onion with a sharp knife.		cut the onion with a sharp knife	cut the onion with a sharp knife	Cut the onion with a sharp knife.
+English	16	Constructed by native speaker linguist	She cut herself on the finger.		she cut herself on the finger	she cut herself on the finger	She cut herself on the finger.
+English	17	Constructed by native speaker linguist	He cut his face while shaving.		he cut his face while shaving	he cut his face while shaving	He cut his face while shaving.
+English	18	Constructed by native speaker linguist	A shard of glass cut his hand.		a shard of glass cut his hand	a shard of glass cut his hand	A shard of glass cut his hand.
+English	19	Constructed by native speaker linguist	A good knife cuts well, offers a good grip, and isn't too heavy to hold.		a good knife cuts well offers a good grip and is not too heavy to hold	a good knife cuts well offers a good grip and is not too heavy to hold	A good knife cuts well, offers a good grip, and isn't too heavy to hold."
+English	20	Constructed by native speaker linguist	This material will cut nicely if handled properly.		this material will cut nicely if handled properly	this material will cut nicely if handled properly	This material will cut nicely if handled properly.
+English	21	Constructed by native speaker linguist	The fire burnt over 4000 hectares.		the fire burnt over 4000 hectares	the fire burnt over 4000 hectares	The fire burnt over 4000 hectares.
+English	22	Constructed by native speaker linguist	The children laughed and laughed.		the children laughed and laughed	the children laughed and laughed	The children laughed and laughed.
+English	23	Constructed by native speaker linguist	They laughed at me.		they laughed at me	they laughed at me	They laughed at me.
+English	24	Constructed by native speaker linguist	We had a good laugh about it later.		we had a good laugh about it later	we had a good laugh about it later	We had a good laugh about it later.
+English	25	Constructed by native speaker linguist	I talked to him about his problem for quite a while.		I talked to him about his problem for quite a while	I talked to him about his problem for quite a while	I talked to him about his problem for quite a while.
+English	26	Constructed by native speaker linguist	We had a good long talk about it.		we had a good long talk about it	we had a good long talk about it	We had a good long talk about it.
+English	27	Constructed by native speaker linguist	They talked me into doing it.		they talked me into doing it	they talked me into doing it	They talked me into doing it.
+English	28	Constructed by native speaker linguist	The boy climbed the tree.		the boy climbed the tree	the boy climbed the tree	The boy climbed the tree.
+English	29	Constructed by native speaker linguist	They climbed for hours.		they climbed for hours	they climbed for hours	They climbed for hours.
+English	30	Constructed by native speaker linguist	We climbed ten kilometres.		we climbed ten kilometres	we climbed ten kilometres	We climbed ten kilometres.
+English	31	Constructed by native speaker linguist	I climbed {up/down/over/in}.		I climbed {up/down/over/in}	I climbed {up/down/over/in}	I climbed up/down/over/in.
+English	32	Constructed by native speaker linguist	The men carried the gear to camp.		the men carried the gear to camp	the men carried the gear to camp	The men carried the gear to camp.
+English	33	Constructed by native speaker linguist	He carried it on his back.		he carried it on his back	he carried it on his back	He carried it on his back.
+English	34	Constructed by native speaker linguist	She carried lip balm with her at all times.		she carried lip balm with her at all times	she carried lip balm with her at all times	She carried lip balm with her at all times.
+English	35	Constructed by native speaker linguist	He was carrying a weapon.		he was carrying a weapon	he was carrying a weapon	He was carrying a weapon.
+English	36	Constructed by native speaker linguist	The flood waters carried her away.		the flood waters carried her away	the flood waters carried her away	The flood waters carried her away.
+English	37	Constructed by native speaker linguist	One B-52 carries 29,700 kilos of bombs.		one B-52 carries 29 700 kilos of bombs	one B-52 carries 29 700 kilos of bombs	One B-52 carries 29,700 kilos of bombs."
+English	38	Constructed by native speaker linguist	She put the cup on the table.		she put the cup on the table	she put the cup on the table	She put the cup on the table.
+English	39	Constructed by native speaker linguist	He put the phone down (way, back).		he put the phone down (way back)	he put the phone down (way back)	He put the phone down (way, back)."
+English	40	Constructed by native speaker linguist	The boy threw the ball through the window.		the boy threw the ball through the window	the boy threw the ball through the window	The boy threw the ball through the window.
+English	41	Constructed by native speaker linguist	The boy threw her the ball.		the boy threw her the ball	the boy threw her the ball	The boy threw her the ball.
+English	42	Constructed by native speaker linguist	They threw eggs at me.		they threw eggs at me	they threw eggs at me	They threw eggs at me.
+English	43	Constructed by native speaker linguist	She threw herself out of a window.		she threw herself out of a window	she threw herself out of a window	She threw herself out of a window.
+English	44	Constructed by native speaker linguist	The girl looked good (to me).		the girl looked good (to me)	the girl looked good (to me)	The girl looked good (to me).
+English	45	Constructed by native speaker linguist	I had a look at it.		I had a look at it	I had a look at it	I had a look at it.
+English	46	Constructed by native speaker linguist	I got a good look at him.		I got a good look at him	I got a good look at him	I got a good look at him.
+English	47	Constructed by native speaker linguist	He looks like my brother.		he looks like my brother	he looks like my brother	He looks like my brother.
+English	48	Constructed by native speaker linguist	Look! Over there!		look over there	look over there	Look! Over there!
+English	49	Constructed by native speaker linguist	He saw the bear by the river bank.		he saw the bear by the river bank	he saw the bear by the river bank	He saw the bear by the river bank.
+English	50	Constructed by native speaker linguist	I can't see.		I can not see	I can not see	I can't see.
+English	51	Constructed by native speaker linguist	I saw that they were gone.		I saw that they were gone	I saw that they were gone	I saw that they were gone.
+English	52	Constructed by native speaker linguist	I saw them go.		I saw them go	I saw them go	I saw them go.
+English	53	Constructed by native speaker linguist	I saw them going.		I saw them going	I saw them going	I saw them going.
+English	54	Constructed by native speaker linguist	I see what you mean.		I see what you mean	I see what you mean	I see what you mean.
+English	55	Constructed by native speaker linguist	I'm seeing him this afternoon.		I am seeing him this afternoon	I am seeing him this afternoon	I'm seeing him this afternoon.
+English	56	Constructed by native speaker linguist	I'm seeing a girl from work.		I am seeing a girl from work	I am seeing a girl from work	I'm seeing a girl from work.
+English	57	Constructed by native speaker linguist	The mother was shouting at the children.		the mother was shouting at the children	the mother was shouting at the children	The mother was shouting at the children.
+English	58	Constructed by native speaker linguist	Don't shout!		do not shout	do not shout	Don't shout!
+English	59	Constructed by native speaker linguist	"Get out, I never want to see you again", she shouted.		get out I never want to see you again she shouted	get out I never want to see you again she shouted	"Get out, I never want to see you again", she shouted."
+English	60	Constructed by native speaker linguist	He shouted that he was alright.		he shouted that he was alright	he shouted that he was alright	He shouted that he was alright.
+English	61	Constructed by native speaker linguist	They shouted the answer.		they shouted the answer	they shouted the answer	They shouted the answer.
+English	62	Constructed by native speaker linguist	They shouted their support.		they shouted their support	they shouted their support	They shouted their support.
+English	63	Constructed by native speaker linguist	She said something to me.		she said something to me	she said something to me	She said something to me.
+English	64	Constructed by native speaker linguist	They said "no" to me.		they said no to me	they said no to me	They said "no" to me."
+English	65	Constructed by native speaker linguist	He said, "Sorry, I have to leave early".		he said sorry I have to leave early	he said sorry I have to leave early	He said, "Sorry, I have to leave early"."
+English	66	Constructed by native speaker linguist	He said that he had to go.		he said that he had to go	he said that he had to go	He said that he had to go.
+English	67	Constructed by native speaker linguist	Don't say that word.		do not say that word	do not say that word	Don't say that word.
+English	68	Constructed by native speaker linguist	She said her prayers every night.		she said her prayers every night	she said her prayers every night	She said her prayers every night.
+English	69	Constructed by native speaker linguist	Her words said yes, but her face said no.		her words said yes but her face said no	her words said yes but her face said no	Her words said yes, but her face said no."
+English	70	Constructed by native speaker linguist	The bear smelled the boy.		the bear smelled the boy	the bear smelled the boy	The bear smelled the boy.
+English	71	Constructed by native speaker linguist	The food smelled good (to me).		the food smelled good (to me)	the food smelled good (to me)	The food smelled good (to me).
+English	72	Constructed by native speaker linguist	This stuff smells like dead fish.		this stuff smells like dead fish	this stuff smells like dead fish	This stuff smells like dead fish.
+English	73	Constructed by native speaker linguist	He died when he was sixteen.		he died when he was sixteen	he died when he was sixteen	He died when he was sixteen.
+English	74	Constructed by native speaker linguist	He almost died in the flood waters.		he almost died in the flood waters	he almost died in the flood waters	He almost died in the flood waters.
+English	75	Constructed by native speaker linguist	My computer died on me.		my computer died on me	my computer died on me	My computer died on me.
+English	76	Constructed by native speaker linguist	I don't know her well.		I do not know her well	I do not know her well	I don't know her well.
+English	77	Constructed by native speaker linguist	He knows a lot about gardening.		he knows a lot about gardening	he knows a lot about gardening	He knows a lot about gardening.
+English	78	Constructed by native speaker linguist	He knows calculus.		he knows calculus	he knows calculus	He knows calculus.
+English	79	Constructed by native speaker linguist	I knew that he was at home.		I knew that he was at home	I knew that he was at home	I knew that he was at home.
+English	80	Constructed by native speaker linguist	I didn't know how to do it.		I did not know how to do it	I did not know how to do it	I didn't know how to do it.
+English	81	Constructed by native speaker linguist	I was thinking about my mother yesterday.		I was thinking about my mother yesterday	I was thinking about my mother yesterday	I was thinking about my mother yesterday.
+English	82	Constructed by native speaker linguist	I think that the library is still open.		I think that the library is still open	I think that the library is still open	I think that the library is still open.
+English	83	Constructed by native speaker linguist	I thought, "Gee, that's strange".		I thought gee that is strange	I thought gee that is strange	I thought, "Gee, that's strange"."
+English	84	Constructed by native speaker linguist	I had a long think about it.		I had a long think about it	I had a long think about it	I had a long think about it.
+English	85	Constructed by native speaker linguist	She thought it over.		she thought it over	she thought it over	She thought it over.
+English	86	Constructed by native speaker linguist	I jumped for joy.		I jumped for joy	I jumped for joy	I jumped for joy.
+English	87	Constructed by native speaker linguist	The girl jumped over the puddle.		the girl jumped over the puddle	the girl jumped over the puddle	The girl jumped over the puddle.
+English	88	Constructed by native speaker linguist	The horse jumped the fence and got away.		the horse jumped the fence and got away	the horse jumped the fence and got away	The horse jumped the fence and got away.
+English	89	Constructed by native speaker linguist	We gave the books to the children.		we gave the books to the children	we gave the books to the children	We gave the books to the children.
+English	90	Constructed by native speaker linguist	We gave the children the books.		we gave the children the books	we gave the children the books	We gave the children the books.
+English	91	Constructed by native speaker linguist	We couldn't afford to give any more.		we could not afford to give any more	we could not afford to give any more	We couldn't afford to give any more.
+English	92	Constructed by native speaker linguist	We give regularly to Doctors Without Frontiers.		we give regularly to Doctors Without Frontiers	we give regularly to Doctors Without Frontiers	We give regularly to Doctors Without Frontiers.
+English	93	Constructed by native speaker linguist	The girl sent flowers to her grandmother in hospital.		the girl sent flowers to her grandmother in hospital	the girl sent flowers to her grandmother in hospital	The girl sent flowers to her grandmother in hospital.
+English	94	Constructed by native speaker linguist	She sent her grandmother flowers.		she sent her grandmother flowers	she sent her grandmother flowers	She sent her grandmother flowers.
+English	95	Constructed by native speaker linguist	The girl tore the page from the book.		the girl tore the page from the book	the girl tore the page from the book	The girl tore the page from the book.
+English	96	Constructed by native speaker linguist	She tore the poster down (off the wall).		she tore the poster down (off the wall)	she tore the poster down (off the wall)	She tore the poster down (off the wall).
+English	97	Constructed by native speaker linguist	She tore the page up into tiny pieces.		she tore the page up into tiny pieces	she tore the page up into tiny pieces	She tore the page up into tiny pieces.
+English	98	Constructed by native speaker linguist	The man killed the snake with a stick.		the man killed the snake with a stick	the man killed the snake with a stick	The man killed the snake with a stick.
+English	99	Constructed by native speaker linguist	Thou shalt not kill.		thou shalt not kill	thou shalt not kill	Thou shalt not kill.
+English	100	Constructed by native speaker linguist	He killed himself.		he killed himself	he killed himself	He killed himself.
+English	101	Constructed by native speaker linguist	Obesity can kill.		obesity can kill	obesity can kill	Obesity can kill.
+English	102	Constructed by native speaker linguist	The men searched for the women.		the men searched for the women	the men searched for the women	The men searched for the women.
+English	103	Constructed by native speaker linguist	They searched the house (for the women).		they searched the house (for the women)	they searched the house (for the women)	They searched the house (for the women).
+English	104	Constructed by native speaker linguist	They searched me (for drugs).		they searched me (for drugs)	they searched me (for drugs)	They searched me (for drugs).
+English	105	Constructed by native speaker linguist	They hugged each other tight.		they hugged each other tight	they hugged each other tight	They hugged each other tight.
+English	106	Constructed by native speaker linguist	She hugged him close to her.		she hugged him close to her	she hugged him close to her	She hugged him close to her.
+English	107	Constructed by native speaker linguist	The men met the boys at the river.		the men met the boys at the river	the men met the boys at the river	The men met the boys at the river.
+English	108	Constructed by native speaker linguist	They met (up) at the river.		they met (up) at the river	they met (up) at the river	They met (up) at the river.
+English	109	Constructed by native speaker linguist	The boys followed the girls to the river.		the boys followed the girls to the river	the boys followed the girls to the river	The boys followed the girls to the river.
+English	110	Constructed by native speaker linguist	The boys followed the path all the way to the river.		the boys followed the path all the way to the river	the boys followed the path all the way to the river	The boys followed the path all the way to the river.
+English	111	Constructed by native speaker linguist	I helped the boys to fix their bikes.		I helped the boys to fix their bikes	I helped the boys to fix their bikes	I helped the boys to fix their bikes.
+English	112	Constructed by native speaker linguist	I helped myself to a beer.		I helped myself to a beer	I helped myself to a beer	I helped myself to a beer.
+English	113	Constructed by native speaker linguist	The mother washed the baby.		the mother washed the baby	the mother washed the baby	The mother washed the baby.
+English	114	Constructed by native speaker linguist	I hadn't washed in a week.		I had not washed in a week	I had not washed in a week	I hadn't washed in a week.
+English	115	Constructed by native speaker linguist	I had my first wash in a week.		I had my first wash in a week	I had my first wash in a week	I had my first wash in a week.
+English	116	Constructed by native speaker linguist	I was washing up when the guests arrived.		I was washing up when the guests arrived	I was washing up when the guests arrived	I was washing up when the guests arrived.
+English	117	Constructed by native speaker linguist	The mother dressed her daughter.		the mother dressed her daughter	the mother dressed her daughter	The mother dressed her daughter.
+English	118	Constructed by native speaker linguist	She dressed slowly.		she dressed slowly	she dressed slowly	She dressed slowly.
+English	119	Constructed by native speaker linguist	I washed and dressed with special care.		I washed and dressed with special care	I washed and dressed with special care	I washed and dressed with special care.
+English	120	Constructed by native speaker linguist	He shaved his beard.		he shaved his beard	he shaved his beard	He shaved his beard.
+English	121	Constructed by native speaker linguist	He shaved with a cut thoat razor for the first time that day.		he shaved with a cut thoat razor for the first time that day	he shaved with a cut thoat razor for the first time that day	He shaved with a cut thoat razor for the first time that day.
+English	122	Constructed by native speaker linguist	He had a shave.		he had a shave	he had a shave	He had a shave.
+English	123	Constructed by native speaker linguist	The boy sang a song.		the boy sang a song	the boy sang a song	The boy sang a song.
+English	124	Constructed by native speaker linguist	She sings beautifully.		she sings beautifully	she sings beautifully	She sings beautifully.
+English	125	Constructed by native speaker linguist	The boy touched the snake with a stick.		the boy touched the snake with a stick	the boy touched the snake with a stick	The boy touched the snake with a stick.
+English	126	Constructed by native speaker linguist	She touched him on the shoulder.		she touched him on the shoulder	she touched him on the shoulder	She touched him on the shoulder.
+English	127	Constructed by native speaker linguist	The curtains were touching the floor.		the curtains were touching the floor	the curtains were touching the floor	The curtains were touching the floor.
+English	128	Constructed by native speaker linguist	The curtains and floor were touching.		the curtains and floor were touching	the curtains and floor were touching	The curtains and floor were touching.
+English	129	Constructed by native speaker linguist	The boy hit the snake with a stick.		the boy hit the snake with a stick	the boy hit the snake with a stick	The boy hit the snake with a stick.
+English	130	Constructed by native speaker linguist	He hit him in the face.		he hit him in the face	he hit him in the face	He hit him in the face.
+English	131	Constructed by native speaker linguist	I hit myself on the head.		I hit myself on the head	I hit myself on the head	I hit myself on the head.
+English	132	Constructed by native speaker linguist	I hit my head on the roof.		I hit my head on the roof	I hit my head on the roof	I hit my head on the roof.
+English	133	Constructed by native speaker linguist	He hit wildly at the snake.		he hit wildly at the snake	he hit wildly at the snake	He hit wildly at the snake.
+English	134	Constructed by native speaker linguist	He hit the stick against the fence.		he hit the stick against the fence	he hit the stick against the fence	He hit the stick against the fence.
+English	135	Constructed by native speaker linguist	This racquet doesn't hit properly. If you tighten the strings it will hit better.		this racquet does not hit properly if you tighten the strings it will hit better	this racquet does not hit properly if you tighten the strings it will hit better	This racquet doesn't hit properly. If you tighten the strings it will hit better.
+English	136	Constructed by native speaker linguist	He beat the poor dog with a stick.		he beat the poor dog with a stick	he beat the poor dog with a stick	He beat the poor dog with a stick.
+English	137	Constructed by native speaker linguist	He beat his fists against the wall.		he beat his fists against the wall	he beat his fists against the wall	He beat his fists against the wall.
+English	138	Constructed by native speaker linguist	He broke the glass with a hammer.		he broke the glass with a hammer	he broke the glass with a hammer	He broke the glass with a hammer.
+English	139	Constructed by native speaker linguist	I accidentally broke the knob off.		I accidentally broke the knob off	I accidentally broke the knob off	I accidentally broke the knob off.
+English	140	Constructed by native speaker linguist	He broke the twig off the branch.		he broke the twig off the branch	he broke the twig off the branch	He broke the twig off the branch.
+English	141	Constructed by native speaker linguist	He broke the chocolate into several pieces.		he broke the chocolate into several pieces	he broke the chocolate into several pieces	He broke the chocolate into several pieces.
+English	142	Constructed by native speaker linguist	The window broke.		the window broke	the window broke	The window broke.
+English	143	Constructed by native speaker linguist	The hammer broke the window.		the hammer broke the window	the hammer broke the window	The hammer broke the window.
+English	144	Constructed by native speaker linguist	Glass breaks easily.		glass breaks easily	glass breaks easily	Glass breaks easily.
+English	145	Constructed by native speaker linguist	He broke his arm playing football.		he broke his arm playing football	he broke his arm playing football	He broke his arm playing football.
+English	146	Constructed by native speaker linguist	They built the model out of plywood and plastic.		they built the model out of plywood and plastic	they built the model out of plywood and plastic	They built the model out of plywood and plastic.
+English	147	Constructed by native speaker linguist	The team built the old lady a new house.		the team built the old lady a new house	the team built the old lady a new house	The team built the old lady a new house.
+English	148	Constructed by native speaker linguist	She cut the meat into three pieces.		she cut the meat into three pieces	she cut the meat into three pieces	She cut the meat into three pieces.
+English	149	Constructed by native speaker linguist	I peeled the potatoes with that new Swiss vegetable peeler.		I peeled the potatoes with that new Swiss vegetable peeler	I peeled the potatoes with that new Swiss vegetable peeler	I peeled the potatoes with that new Swiss vegetable peeler.
+English	150	Constructed by native speaker linguist	He peeled the bark off the stick.		he peeled the bark off the stick	he peeled the bark off the stick	He peeled the bark off the stick.
+English	151	Constructed by native speaker linguist	Her skin was peeling.		her skin was peeling	her skin was peeling	Her skin was peeling.
+English	152	Constructed by native speaker linguist	The skin on my hands is peeling off.		the skin on my hands is peeling off	the skin on my hands is peeling off	The skin on my hands is peeling off.
+English	153	Constructed by native speaker linguist	My hands peeled.		my hands peeled	my hands peeled	My hands peeled.
+English	154	Constructed by native speaker linguist	He poured the water into the glass.		he poured the water into the glass	he poured the water into the glass	He poured the water into the glass.
+English	155	Constructed by native speaker linguist	He could pour a perfect beer.		he could pour a perfect beer	he could pour a perfect beer	He could pour a perfect beer.
+English	156	Constructed by native speaker linguist	He tied the horse to the tree with a rope.		he tied the horse to the tree with a rope	he tied the horse to the tree with a rope	He tied the horse to the tree with a rope.
+English	157	Constructed by native speaker linguist	He tied a reef knot.		he tied a reef knot	he tied a reef knot	He tied a reef knot.
+English	158	Constructed by native speaker linguist	They tied him down.		they tied him down	they tied him down	They tied him down.
+English	159	Constructed by native speaker linguist	He tied the rope around the tree.		he tied the rope around the tree	he tied the rope around the tree	He tied the rope around the tree.
+English	160	Constructed by native speaker linguist	He tied the rope onto the branch.		he tied the rope onto the branch	he tied the rope onto the branch	He tied the rope onto the branch.
+English	161	Constructed by native speaker linguist	I tied the ribbon into a bow.		I tied the ribbon into a bow	I tied the ribbon into a bow	I tied the ribbon into a bow.
+English	162	Constructed by native speaker linguist	She filled the glass with water.		she filled the glass with water	she filled the glass with water	She filled the glass with water.
+English	163	Constructed by native speaker linguist	The water filled the glass.		the water filled the glass	the water filled the glass	The water filled the glass.
+English	164	Constructed by native speaker linguist	The farmer loaded the hay onto the truck.		the farmer loaded the hay onto the truck	the farmer loaded the hay onto the truck	The farmer loaded the hay onto the truck.
+English	165	Constructed by native speaker linguist	He loaded the truck with hay.		he loaded the truck with hay	he loaded the truck with hay	He loaded the truck with hay.
+English	166	Constructed by native speaker linguist	They loaded her into the ambulance.		they loaded her into the ambulance	they loaded her into the ambulance	They loaded her into the ambulance.
+English	167	Constructed by native speaker linguist	The woman covered her son with a blanket.		the woman covered her son with a blanket	the woman covered her son with a blanket	The woman covered her son with a blanket.
+English	168	Constructed by native speaker linguist	Snow covered the ground.		snow covered the ground	snow covered the ground	Snow covered the ground.
+English	169	Constructed by native speaker linguist	Her face was covered with freckles.		her face was covered with freckles	her face was covered with freckles	Her face was covered with freckles.
+English	170	Constructed by native speaker linguist	I covered my eyes with my hands.		I covered my eyes with my hands	I covered my eyes with my hands	I covered my eyes with my hands.
+English	171	Constructed by native speaker linguist	She wiped the crumbs off the table.		she wiped the crumbs off the table	she wiped the crumbs off the table	She wiped the crumbs off the table.
+English	172	Constructed by native speaker linguist	She wiped the table.		she wiped the table	she wiped the table	She wiped the table.
+English	173	Constructed by native speaker linguist	He wiped his {eyes/face/hands}.		he wiped his {eyes/face/hands}	he wiped his {eyes/face/hands}	He wiped his eyes/face/hands.
+English	174	Constructed by native speaker linguist	He wiped the tears from his eyes.		he wiped the tears from his eyes	he wiped the tears from his eyes	He wiped the tears from his eyes.
+English	175	Constructed by native speaker linguist	She was digging in the garden.		she was digging in the garden	she was digging in the garden	She was digging in the garden.
+English	176	Constructed by native speaker linguist	She was digging for potatoes.		she was digging for potatoes	she was digging for potatoes	She was digging for potatoes.
+English	177	Constructed by native speaker linguist	He dug a hole.		he dug a hole	he dug a hole	He dug a hole.
+English	178	Constructed by native speaker linguist	She's digging a new garden bed.		she is digging a new garden bed	she is digging a new garden bed	She's digging a new garden bed.
+English	179	Constructed by native speaker linguist	They dug through the top layer of sediment.		they dug through the top layer of sediment	they dug through the top layer of sediment	They dug through the top layer of sediment.
+English	180	Constructed by native speaker linguist	They dug their way out (of the wreckage).		they dug their way out (of the wreckage)	they dug their way out (of the wreckage)	They dug their way out (of the wreckage).
+English	181	Constructed by native speaker linguist	She dug a lot of potatoes yesterday.		she dug a lot of potatoes yesterday	she dug a lot of potatoes yesterday	She dug a lot of potatoes yesterday.
+English	182	Constructed by native speaker linguist	He pushed her into the water.		he pushed her into the water	he pushed her into the water	He pushed her into the water.
+English	183	Constructed by native speaker linguist	They managed to push it down the driveway and onto the street.		they managed to push it down the driveway and onto the street	they managed to push it down the driveway and onto the street	They managed to push it down the driveway and onto the street.
+English	184	Constructed by native speaker linguist	I tried to push him over but he was too strong.		I tried to push him over but he was too strong	I tried to push him over but he was too strong	I tried to push him over but he was too strong.
+English	185	Constructed by native speaker linguist	I pushed against the door.		I pushed against the door	I pushed against the door	I pushed against the door.
+English	186	Constructed by native speaker linguist	I pushed through the crowd.		I pushed through the crowd	I pushed through the crowd	I pushed through the crowd.
+English	187	Constructed by native speaker linguist	I pushed my way through the crowd.		I pushed my way through the crowd	I pushed my way through the crowd	I pushed my way through the crowd.
+English	188	Constructed by native speaker linguist	The women ground the seeds with a mortar and pestle.		the women ground the seeds with a mortar and pestle	the women ground the seeds with a mortar and pestle	The women ground the seeds with a mortar and pestle.
+English	189	Constructed by native speaker linguist	He ground it into flour.		he ground it into flour	he ground it into flour	He ground it into flour.
+English	190	Constructed by native speaker linguist	She ground her hips against him.		she ground her hips against him	she ground her hips against him	She ground her hips against him.
+English	191	Constructed by native speaker linguist	He ground his knee into my back.		he ground his knee into my back	he ground his knee into my back	He ground his knee into my back.
+English	192	Constructed by native speaker linguist	The men cooked the meat.		the men cooked the meat	the men cooked the meat	The men cooked the meat.
+English	193	Constructed by native speaker linguist	She walked in while I was cooking.		she walked in while I was cooking	she walked in while I was cooking	She walked in while I was cooking.
+English	194	Constructed by native speaker linguist	She cooked him a meal.		she cooked him a meal	she cooked him a meal	She cooked him a meal.
+English	195	Constructed by native speaker linguist	The soup is still cooking.		the soup is still cooking	the soup is still cooking	The soup is still cooking.
+English	196	Constructed by native speaker linguist	The boy hid the frog from his mother.		the boy hid the frog from his mother	the boy hid the frog from his mother	The boy hid the frog from his mother.
+English	197	Constructed by native speaker linguist	He hid it under the bed.		he hid it under the bed	he hid it under the bed	He hid it under the bed.
+English	198	Constructed by native speaker linguist	The child hid from his mother.		the child hid from his mother	the child hid from his mother	The child hid from his mother.
+English	199	Constructed by native speaker linguist	She hid her face.		she hid her face	she hid her face	She hid her face.
+English	200	Constructed by native speaker linguist	He took the money from the drawer.		he took the money from the drawer	he took the money from the drawer	He took the money from the drawer.
+English	201	Constructed by native speaker linguist	I took the parcel over to him.		I took the parcel over to him	I took the parcel over to him	I took the parcel over to him.
+English	202	Constructed by native speaker linguist	He took her the money.		he took her the money	he took her the money	He took her the money.
+English	203	Constructed by native speaker linguist	He took it with him.		he took it with him	he took it with him	He took it with him.
+English	204	Constructed by native speaker linguist	The girls showed the pictures to their teacher.		the girls showed the pictures to their teacher	the girls showed the pictures to their teacher	The girls showed the pictures to their teacher.
+English	205	Constructed by native speaker linguist	The girls showed their teacher the pictures.		the girls showed their teacher the pictures	the girls showed their teacher the pictures	The girls showed their teacher the pictures.
+English	206	Constructed by native speaker linguist	She showed me where it was.		she showed me where it was	she showed me where it was	She showed me where it was.
+English	207	Constructed by native speaker linguist	Her bra strap was showing.		her bra strap was showing	her bra strap was showing	Her bra strap was showing.
+English	208	Constructed by native speaker linguist	His bum was showing.		his bum was showing	his bum was showing	His bum was showing.
+English	209	Constructed by native speaker linguist	My grandmother taught me this song.		my grandmother taught me this song	my grandmother taught me this song	My grandmother taught me this song.
+English	210	Constructed by native speaker linguist	Every day the old lady taught a new song to one of the girls.		every day the old lady taught a new song to one of the girls	every day the old lady taught a new song to one of the girls	Every day the old lady taught a new song to one of the girls.
+English	211	Constructed by native speaker linguist	She taught him how to swim.		she taught him how to swim	she taught him how to swim	She taught him how to swim.
+English	212	Constructed by native speaker linguist	She taught me about business.		she taught me about business	she taught me about business	She taught me about business.
+English	213	Constructed by native speaker linguist	He was teaching a class on semantics.		he was teaching a class on semantics	he was teaching a class on semantics	He was teaching a class on semantics.
+English	214	Constructed by native speaker linguist	He taught geography and science.		he taught geography and science	he taught geography and science	He taught geography and science.
+English	215	Constructed by native speaker linguist	The children were playing in the garden.		the children were playing in the garden	the children were playing in the garden	The children were playing in the garden.
+English	216	Constructed by native speaker linguist	The children were playing nicely together.		the children were playing nicely together	the children were playing nicely together	The children were playing nicely together.
+English	217	Constructed by native speaker linguist	They were playing tennis.		they were playing tennis	they were playing tennis	They were playing tennis.
+English	218	Constructed by native speaker linguist	She plays the guitar.		she plays the guitar	she plays the guitar	She plays the guitar.
+English	219	Constructed by native speaker linguist	She played a sonata.		she played a sonata	she played a sonata	She played a sonata.
+English	220	Constructed by native speaker linguist	She played me a sonata.		she played me a sonata	she played me a sonata	She played me a sonata.
+English	221	Constructed by native speaker linguist	They live in town.		they live in town	they live in town	They live in town.
+English	222	Constructed by native speaker linguist	They live near the river.		they live near the river	they live near the river	They live near the river.
+English	223	Constructed by native speaker linguist	At the time I was living in Armidale.		at the time I was living in Armidale	at the time I was living in Armidale	At the time I was living in Armidale.
+English	224	Constructed by native speaker linguist	I couldn't sleep, I was coughing all night.		I could not sleep I was coughing all night	I could not sleep I was coughing all night	I couldn't sleep, I was coughing all night."
+English	225	Constructed by native speaker linguist	I coughed up blood.		I coughed up blood	I coughed up blood	I coughed up blood.
+English	226	Constructed by native speaker linguist	She had a nasty cough.		she had a nasty cough	she had a nasty cough	She had a nasty cough.
+English	227	Constructed by native speaker linguist	Coughing, sneezing and wheezing all symptoms of several dog diseases.		coughing sneezing and wheezing all symptoms of several dog diseases	coughing sneezing and wheezing all symptoms of several dog diseases	Coughing, sneezing and wheezing all symptoms of several dog diseases."
+English	228	Constructed by native speaker linguist	Coming out into the sunshine, I blinked a few times before I could see properly.		coming out into the sunshine I blinked a few times before I could see properly	coming out into the sunshine I blinked a few times before I could see properly	Coming out into the sunshine, I blinked a few times before I could see properly."
+English	229	Constructed by native speaker linguist	His eyes blinked involuntarily.		his eyes blinked involuntarily	his eyes blinked involuntarily	His eyes blinked involuntarily.
+English	230	Constructed by native speaker linguist	Americans generally fear the Muslim Brotherhood.		Americans generally fear the Muslim Brotherhood	Americans generally fear the Muslim Brotherhood	Americans generally fear the Muslim Brotherhood.
+English	231	Constructed by native speaker linguist	He feared for her safety.		he feared for her safety	he feared for her safety	He feared for her safety.
+English	232	Constructed by native speaker linguist	He feared for his life.		he feared for his life	he feared for his life	He feared for his life.
+English	233	Constructed by native speaker linguist	I'm afraid of spiders.		I am afraid of spiders	I am afraid of spiders	I'm afraid of spiders.
+English	234	Constructed by native speaker linguist	It turned out he was afraid of heights.		it turned out he was afraid of heights	it turned out he was afraid of heights	It turned out he was afraid of heights.
+English	235	Constructed by native speaker linguist	Oh my God, don't do that, you frightened me!		oh my God do not do that you frightened me	oh my God do not do that you frightened me	Oh my God, don't do that, you frightened me!"
+English	236	Constructed by native speaker linguist	He was frightened of snakes.		he was frightened of snakes	he was frightened of snakes	He was frightened of snakes.
+English	237	Constructed by native speaker linguist	His temper frightens me.		his temper frightens me	his temper frightens me	His temper frightens me.
+English	238	Constructed by native speaker linguist	He scares me sometimes.		he scares me sometimes	he scares me sometimes	He scares me sometimes.
+English	239	Constructed by native speaker linguist	I'm scared of him.		I am scared of him	I am scared of him	I'm scared of him.
+English	240	Constructed by native speaker linguist	Pete really likes his PS3.		Pete really likes his PS3	Pete really likes his PS3	Pete really likes his PS3.
+English	241	Constructed by native speaker linguist	Roger likes playing tennis.		Roger likes playing tennis	Roger likes playing tennis	Roger likes playing tennis.
+English	242	Constructed by native speaker linguist	I liked her for her sense of humour.		I liked her for her sense of humour	I liked her for her sense of humour	I liked her for her sense of humour.
+English	243	Constructed by native speaker linguist	I like that you can get a refund if you're not satisfied.		I like that you can get a refund if you are not satisfied	I like that you can get a refund if you are not satisfied	I like that you can get a refund if you're not satisfied.
+English	244	Constructed by native speaker linguist	They called the baby Anna.		they called the baby Anna	they called the baby Anna	They called the baby Anna.
+English	245	Constructed by native speaker linguist	They called him a fool.		they called him a fool	they called him a fool	They called him a fool.
+English	246	Constructed by native speaker linguist	The children used to call me Uncle.		the children used to call me Uncle	the children used to call me Uncle	The children used to call me Uncle.
+English	247	Constructed by native speaker linguist	This place is called Armidale.		this place is called Armidale	this place is called Armidale	This place is called Armidale.
+English	248	Constructed by native speaker linguist	In German it's called 'das Auto', in English it's a 'car'.		in German it is called das Auto in English it is a car	in German it is called das Auto in English it is a car	In German it's called 'das Auto', in English it's a 'car'."
+English	249	Constructed by native speaker linguist	Some call it ganja, some call it weed, some call it marijuana.		some call it ganja some call it weed some call it marijuana	some call it ganja some call it weed some call it marijuana	Some call it ganja, some call it weed, some call it marijuana."
+English	250	Constructed by native speaker linguist	The children named their new puppies Bonnie, Mitzy, and Ben.		the children named their new puppies Bonnie Mitzy and Ben	the children named their new puppies Bonnie Mitzy and Ben	The children named their new puppies Bonnie, Mitzy, and Ben."
+English	251	Constructed by native speaker linguist	She told me a funny story.		she told me a funny story	she told me a funny story	She told me a funny story.
+English	252	Constructed by native speaker linguist	He could never tell a joke properly, the timing was always wrong.		he could never tell a joke properly the timing was always wrong	he could never tell a joke properly the timing was always wrong	He could never tell a joke properly, the timing was always wrong."
+English	253	Constructed by native speaker linguist	She told me to go.		she told me to go	she told me to go	She told me to go.
+English	254	Constructed by native speaker linguist	He told me about it.		he told me about it	he told me about it	He told me about it.
+English	255	Constructed by native speaker linguist	My little sister told on me.		my little sister told on me	my little sister told on me	My little sister told on me.
+English	256	Constructed by native speaker linguist	The boy asked his parents for money.		the boy asked his parents for money	the boy asked his parents for money	The boy asked his parents for money.
+English	257	Constructed by native speaker linguist	I asked for help with filling out the form.		I asked for help with filling out the form	I asked for help with filling out the form	I asked for help with filling out the form.
+English	258	Constructed by native speaker linguist	I asked him to help me fill out the form.		I asked him to help me fill out the form	I asked him to help me fill out the form	I asked him to help me fill out the form.
+English	259	Constructed by native speaker linguist	The ball rolled across the floor.		the ball rolled across the floor	the ball rolled across the floor	The ball rolled across the floor.
+English	260	Constructed by native speaker linguist	The child rolled the ball down the hill.		the child rolled the ball down the hill	the child rolled the ball down the hill	The child rolled the ball down the hill.
+English	261	Constructed by native speaker linguist	I rolled up the sleeping bag.		I rolled up the sleeping bag	I rolled up the sleeping bag	I rolled up the sleeping bag.
+English	262	Constructed by native speaker linguist	I rolled a smoke.		I rolled a smoke	I rolled a smoke	I rolled a smoke.
+English	263	Constructed by native speaker linguist	The boat sank.		the boat sank	the boat sank	The boat sank.
+English	264	Constructed by native speaker linguist	We sank their boat.		we sank their boat	we sank their boat	We sank their boat.
+English	265	Constructed by native speaker linguist	Their boat sunk on them.		their boat sunk on them	their boat sunk on them	Their boat sunk on them.
+English	266	Constructed by native speaker linguist	This man is a hunter.		this man is a hunter	this man is a hunter	This man is a hunter.
+English	267	Constructed by native speaker linguist	She screamed in fear.		she screamed in fear	she screamed in fear	She screamed in fear.
+English	268	Constructed by native speaker linguist	She screamed at me.		she screamed at me	she screamed at me	She screamed at me.
+English	269	Constructed by native speaker linguist	She screamed at him to get out of her room.		she screamed at him to get out of her room	she screamed at him to get out of her room	She screamed at him to get out of her room.
+English	270	Constructed by native speaker linguist	The kids were screaming for icecream.		the kids were screaming for icecream	the kids were screaming for icecream	The kids were screaming for icecream.
+English	271	Constructed by native speaker linguist	The children sat on the floor.		the children sat on the floor	the children sat on the floor	The children sat on the floor.
+English	272	Constructed by native speaker linguist	I sat the baby up.		I sat the baby up	I sat the baby up	I sat the baby up.
+English	273	Constructed by native speaker linguist	The boy left the village.		the boy left the village	the boy left the village	The boy left the village.
+English	274	Constructed by native speaker linguist	They left me there.		they left me there	they left me there	They left me there.
+English	275	Constructed by native speaker linguist	My wife left me for another man.		my wife left me for another man	my wife left me for another man	My wife left me for another man.
+English	276	Constructed by native speaker linguist	When did you leave?		when did you leave	when did you leave	When did you leave?
+English	277	Constructed by native speaker linguist	The horse is running.		the horse is running	the horse is running	The horse is running.
+English	278	Constructed by native speaker linguist	Phil used to run to and from work.		Phil used to run to and from work	Phil used to run to and from work	Phil used to run to and from work.
+English	279	Constructed by native speaker linguist	I ran ten kilometres yesterday.		I ran ten kilometres yesterday	I ran ten kilometres yesterday	I ran ten kilometres yesterday.
+English	280	Constructed by native speaker linguist	He ran a marathon.		he ran a marathon	he ran a marathon	He ran a marathon.
+English	281	Constructed by native speaker linguist	The children sat down on the bench and waited.		the children sat down on the bench and waited	the children sat down on the bench and waited	The children sat down on the bench and waited.
+English	282	Constructed by native speaker linguist	I want you to sit down with him and talk it through.		I want you to sit down with him and talk it through	I want you to sit down with him and talk it through	I want you to sit down with him and talk it through.
+English	283	Constructed by native speaker linguist	The women went to the market every day.		the women went to the market every day	the women went to the market every day	The women went to the market every day.
+English	284	Constructed by native speaker linguist	We went three kilometres.		we went three kilometres	we went three kilometres	We went three kilometres.
+English	285	Constructed by native speaker linguist	Go home!		go home	go home	Go home!
+English	286	Constructed by native speaker linguist	The road went through the forest.		the road went through the forest	the road went through the forest	The road went through the forest.
+English	287	Constructed by native speaker linguist	I'm cold.		I am cold	I am cold	I'm cold.
+English	288	Constructed by native speaker linguist	It was cold outside.		it was cold outside	it was cold outside	It was cold outside.
+English	289	Constructed by native speaker linguist	My main meal was cold.		my main meal was cold	my main meal was cold	My main meal was cold.
+English	290	Constructed by native speaker linguist	I feel cold.		I feel cold	I feel cold	I feel cold.
+English	291	Constructed by native speaker linguist	The little girl was sad because she'd lost her kitten.		the little girl was sad because she had lost her kitten	the little girl was sad because she had lost her kitten	The little girl was sad because she'd lost her kitten.
+English	292	Constructed by native speaker linguist	I felt sad for some reason.		I felt sad for some reason	I felt sad for some reason	I felt sad for some reason.
+English	293	Constructed by native speaker linguist	I was too sick to go to work all last week.		I was too sick to go to work all last week	I was too sick to go to work all last week	I was too sick to go to work all last week.
+English	294	Constructed by native speaker linguist	I felt sick after lunch and wondered if the food was OK.		I felt sick after lunch and wondered if the food was OK	I felt sick after lunch and wondered if the food was OK	I felt sick after lunch and wondered if the food was OK.
+English	295	Constructed by native speaker linguist	I feel sick when I think about it.		I feel sick when I think about it	I feel sick when I think about it	I feel sick when I think about it.
+English	296	Constructed by native speaker linguist	It made me feel sick.		it made me feel sick	it made me feel sick	It made me feel sick.
+English	297	Constructed by native speaker linguist	The clothes are dry.		the clothes are dry	the clothes are dry	The clothes are dry.
+English	298	Constructed by native speaker linguist	The ground dried out after a day or so.		the ground dried out after a day or so	the ground dried out after a day or so	The ground dried out after a day or so.
+English	299	Constructed by native speaker linguist	I dried the clothes in the clothes-drier.		I dried the clothes in the clothes-drier	I dried the clothes in the clothes-drier	I dried the clothes in the clothes-drier.
+English	300	Constructed by native speaker linguist	The sun dried out the ground.		the sun dried out the ground	the sun dried out the ground	The sun dried out the ground.
+English	301	Constructed by native speaker linguist	The baby is hungry.		the baby is hungry	the baby is hungry	The baby is hungry.
+English	302	Constructed by native speaker linguist	I wasn't hungry but I ate anyway.		I was not hungry but I ate anyway	I was not hungry but I ate anyway	I wasn't hungry but I ate anyway.
+English	303	Constructed by native speaker linguist	I felt hungry all the time.		I felt hungry all the time	I felt hungry all the time	I felt hungry all the time.
+English	304	Constructed by native speaker linguist	She fell down and hurt herself.		she fell down and hurt herself	she fell down and hurt herself	She fell down and hurt herself.
+English	305	Constructed by native speaker linguist	He slipped and fell into the pool.		he slipped and fell into the pool	he slipped and fell into the pool	He slipped and fell into the pool.
+English	306	Constructed by native speaker linguist	Apprarently the child fell from the balcony.		apprarently the child fell from the balcony	apprarently the child fell from the balcony	Apprarently the child fell from the balcony.
+English	307	Constructed by native speaker linguist	My i-pod fell into the water.		my i-pod fell into the water	my i-pod fell into the water	My i-pod fell into the water.
+English	308	Constructed by native speaker linguist	It must have fallen out of my pocket.		it must have fallen out of my pocket	it must have fallen out of my pocket	It must have fallen out of my pocket.
+English	309	Constructed by native speaker linguist	My neck hurts when I turn my head.		my neck hurts when I turn my head	my neck hurts when I turn my head	My neck hurts when I turn my head.
+English	310	Constructed by native speaker linguist	It hurts!		it hurts	it hurts	It hurts!
+English	311	Constructed by native speaker linguist	She hurt her foot.		she hurt her foot	she hurt her foot	She hurt her foot.
+English	312	Constructed by native speaker linguist	She hurt herself.		she hurt herself	she hurt herself	She hurt herself.
+English	313	Constructed by native speaker linguist	I had a pain in my back.		I had a pain in my back	I had a pain in my back	I had a pain in my back.
+English	314	Constructed by native speaker linguist	She had a stabbing pain in her back.		she had a stabbing pain in her back	she had a stabbing pain in her back	She had a stabbing pain in her back.
+English	315	Constructed by native speaker linguist	I have a burning pain when I urinate.		I have a burning pain when I urinate	I have a burning pain when I urinate	I have a burning pain when I urinate.
+English	316	Constructed by native speaker linguist	I heard shouting outside.		I heard shouting outside	I heard shouting outside	I heard shouting outside.
+English	317	Constructed by native speaker linguist	I heard a loud bang in the car park.		I heard a loud bang in the car park	I heard a loud bang in the car park	I heard a loud bang in the car park.
+English	318	Constructed by native speaker linguist	I heard her snoring.		I heard her snoring	I heard her snoring	I heard her snoring.
+English	319	Constructed by native speaker linguist	I heard that you got a new job.		I heard that you got a new job	I heard that you got a new job	I heard that you got a new job.
+English	320	Constructed by native speaker linguist	I didn't hear about it till yesterday.		I did not hear about it till yesterday	I did not hear about it till yesterday	I didn't hear about it till yesterday.
+English	321	Constructed by native speaker linguist	Listen to me carefully.		listen to me carefully	listen to me carefully	Listen to me carefully.
+English	322	Constructed by native speaker linguist	They listened patiently to the opening speeches.		they listened patiently to the opening speeches	they listened patiently to the opening speeches	They listened patiently to the opening speeches.
+English	323	Constructed by native speaker linguist	Listen! Can you hear it?		listen Can you hear it	listen Can you hear it	Listen! Can you hear it?
+English	324	Constructed by native speaker linguist	Your problem is that you never listen.		your problem is that you never listen	your problem is that you never listen	Your problem is that you never listen.
+English	325	Constructed by native speaker linguist	Look at me.		look at me	look at me	Look at me.
+English	326	Constructed by native speaker linguist	I looked at her again but I still didn't recognise her.		I looked at her again but I still did not recognise her	I looked at her again but I still did not recognise her	I looked at her again but I still didn't recognise her.
+English	327	Constructed by native speaker linguist	He fell to his knees and wept.		he fell to his knees and wept	he fell to his knees and wept	He fell to his knees and wept.
+English	328	Constructed by native speaker linguist	I couldn't sleep because the baby was crying.		I could not sleep because the baby was crying	I could not sleep because the baby was crying	I couldn't sleep because the baby was crying.
+English	329	Constructed by native speaker linguist	She cried like a baby.		she cried like a baby	she cried like a baby	She cried like a baby.
+English	330	Constructed by native speaker linguist	The first day he left home I cried my eyes out.		the first day he left home I cried my eyes out	the first day he left home I cried my eyes out	The first day he left home I cried my eyes out.
+English	331	Constructed by native speaker linguist	He abused my wife and made her cry.		he abused my wife and made her cry	he abused my wife and made her cry	He abused my wife and made her cry.
+English	332	Constructed by native speaker linguist	Tony Blair said he cried for the victims of the Iraq war.		Tony Blair said he cried for the victims of the Iraq war	Tony Blair said he cried for the victims of the Iraq war	Tony Blair said he cried for the victims of the Iraq war.
+English	333	Constructed by native speaker linguist	"Get out now!", he cried.		get out now he cried	get out now he cried	"Get out now!", he cried."
+English	334	Constructed by native speaker linguist	There's no point crying about it.		there is no point crying about it	there is no point crying about it	There's no point crying about it.
+English	335	Other	Don't cry for me Argentina.		do not cry for me Argentina	do not cry for me Argentina	Don't cry for me Argentina.
+English	336	Constructed by native speaker linguist	All of a sudden her fairy Godmother appeared in front of her.		all of a sudden her fairy Godmother appeared in front of her	all of a sudden her fairy Godmother appeared in front of her	All of a sudden her fairy Godmother appeared in front of her.
+English	337	Constructed by native speaker linguist	This story first appeared in Le Monde.		this story first appeared in Le Monde	this story first appeared in Le Monde	This story first appeared in Le Monde.
+English	338	Constructed by native speaker linguist	Modern humans first appeared in Africa.		modern humans first appeared in Africa	modern humans first appeared in Africa	Modern humans first appeared in Africa.
+English	339	Constructed by native speaker linguist	The water's boiling.		the water is boiling	the water is boiling	The water's boiling.
+English	340	Constructed by native speaker linguist	She boiled the water.		she boiled the water	she boiled the water	She boiled the water.
+English	341	Constructed by native speaker linguist	She boiled the pot dry.		she boiled the pot dry	she boiled the pot dry	She boiled the pot dry.
+English	342	Constructed by native speaker linguist	I want to go home.		I want to go home	I want to go home	I want to go home.
+English	343	Constructed by native speaker linguist	I want you to wait here.		I want you to wait here	I want you to wait here	I want you to wait here.
+English	344	Constructed by native speaker linguist	She wants to know what you think about it.		she wants to know what you think about it	she wants to know what you think about it	She wants to know what you think about it.
+English	345	Constructed by native speaker linguist	I want an icecream.		I want an icecream	I want an icecream	I want an icecream.
+English	346	Constructed by native speaker linguist	I want a lift into town.		I want a lift into town	I want a lift into town	I want a lift into town.
+English	347	Constructed by native speaker linguist	I want you.		I want you	I want you	I want you.
+English	348	Constructed by native speaker linguist	He ran at me with his fists raised.		he ran at me with his fists raised	he ran at me with his fists raised	He ran at me with his fists raised.
+English	349	Constructed by native speaker linguist	She brought them to me.		she brought them to me	she brought them to me	She brought them to me.
+English	350	Constructed by native speaker linguist	The child brought the money to me.		the child brought the money to me	the child brought the money to me	The child brought the money to me.
+English	351	Constructed by native speaker linguist	The girl brought me flowers.		the girl brought me flowers	the girl brought me flowers	The girl brought me flowers.
+English	352	Constructed by native speaker linguist	In the morning they brought him fresh clothes and a hearty breakfast.		in the morning they brought him fresh clothes and a hearty breakfast	in the morning they brought him fresh clothes and a hearty breakfast	In the morning they brought him fresh clothes and a hearty breakfast.
+English	353	Constructed by native speaker linguist	He brought his brother with him.		he brought his brother with him	he brought his brother with him	He brought his brother with him.
+English	354	Constructed by native speaker linguist	He brought his racquet and sports shoes with him.		he brought his racquet and sports shoes with him	he brought his racquet and sports shoes with him	He brought his racquet and sports shoes with him.
+English	355	Constructed by native speaker linguist	A taxi can take four passengers at a time.		a taxi can take four passengers at a time	a taxi can take four passengers at a time	A taxi can take four passengers at a time.
+English	356	Constructed by native speaker linguist	He made a shelter out of branches and leaves.		he made a shelter out of branches and leaves	he made a shelter out of branches and leaves	He made a shelter out of branches and leaves.
+English	357	Constructed by native speaker linguist	She made biscuits out of rice flour.		she made biscuits out of rice flour	she made biscuits out of rice flour	She made biscuits out of rice flour.
+English	358	Constructed by native speaker linguist	She made the flour, eggs and milk into biscuits.		she made the flour eggs and milk into biscuits	she made the flour eggs and milk into biscuits	She made the flour, eggs and milk into biscuits."
+English	359	Constructed by native speaker linguist	You can easily make old jeans into shorts.		you can easily make old jeans into shorts	you can easily make old jeans into shorts	You can easily make old jeans into shorts.
+English	360	Constructed by native speaker linguist	How to make old bottles into lamps and vases.		how to make old bottles into lamps and vases	how to make old bottles into lamps and vases	How to make old bottles into lamps and vases.
+English	361	Constructed by native speaker linguist	In America they make ethanol from corn, in Brazil they make it from sugarcane.		in America they make ethanol from corn in Brazil they make it from sugarcane	in America they make ethanol from corn in Brazil they make it from sugarcane	In America they make ethanol from corn, in Brazil they make it from sugarcane."
+English	362	Constructed by native speaker linguist	Will you make me a cup of coffee sweetheart?		will you make me a cup of coffee sweetheart	will you make me a cup of coffee sweetheart	Will you make me a cup of coffee sweetheart?
+English	363	Constructed by native speaker linguist	My girlfriend made me a scarf.		my girlfriend made me a scarf	my girlfriend made me a scarf	My girlfriend made me a scarf.
+English	364	Constructed by native speaker linguist	It's best to get one that's made in Japan, the ones made in China are not as good.		it is best to get one that is made in Japan the ones made in China are not as good	it is best to get one that is made in Japan the ones made in China are not as good	It's best to get one that's made in Japan, the ones made in China are not as good."
+English	365	Constructed by native speaker linguist	Did you make it or buy it?		did you make it or buy it	did you make it or buy it	Did you make it or buy it?
+English	366	Constructed by native speaker linguist	The first thing to do is to make a fire.		the first thing to do is to make a fire	the first thing to do is to make a fire	The first thing to do is to make a fire.
+English	367	Constructed by native speaker linguist	Merino wool makes great socks and stuff.		Merino wool makes great socks and stuff	Merino wool makes great socks and stuff	Merino wool makes great socks and stuff.
+English	368	Constructed by native speaker linguist	What kind of wood makes the strongest walking stick?		what kind of wood makes the strongest walking stick	what kind of wood makes the strongest walking stick	What kind of wood makes the strongest walking stick?
+English	369	Constructed by native speaker linguist	I got a new bike for Christmas.		I got a new bike for Christmas	I got a new bike for Christmas	I got a new bike for Christmas.
+English	370	Constructed by native speaker linguist	I got an email from Christina today.		I got an email from Christina today	I got an email from Christina today	I got an email from Christina today.
+English	371	Constructed by native speaker linguist	He got a prize for the best undergraduate essay in his year.		he got a prize for the best undergraduate essay in his year	he got a prize for the best undergraduate essay in his year	He got a prize for the best undergraduate essay in his year.
+English	372	Constructed by native speaker linguist	We got a loan from the bank.		we got a loan from the bank	we got a loan from the bank	We got a loan from the bank.
+English	373	Constructed by native speaker linguist	The thief stole money from the old lady.		the thief stole money from the old lady	the thief stole money from the old lady	The thief stole money from the old lady.
+English	374	Constructed by native speaker linguist	He stole the old lady's money.		he stole the old lady's money	he stole the old lady's money	He stole the old lady's money.
+English	375	Constructed by native speaker linguist	The child stole cookies from the cookie jar.		the child stole cookies from the cookie jar	the child stole cookies from the cookie jar	The child stole cookies from the cookie jar.
+English	376	Constructed by native speaker linguist	He stole my bike.		he stole my bike	he stole my bike	He stole my bike.
+English	377	Constructed by native speaker linguist	I was still eating lunch when he arrived.		I was still eating lunch when he arrived	I was still eating lunch when he arrived	I was still eating lunch when he arrived.
+English	378	Constructed by native speaker linguist	This stuff really smells.		this stuff really smells	this stuff really smells	This stuff really smells.
+English	379	Constructed by native speaker linguist	She feared his temper.		she feared his temper	she feared his temper	She feared his temper.
+English	380	Constructed by native speaker linguist	She feared him for his temper.		she feared him for his temper	she feared him for his temper	She feared him for his temper.
+English	381	Constructed by native speaker linguist	He was afraid for his daughter's life.		he was afraid for his daughter's life	he was afraid for his daughter's life	He was afraid for his daughter's life.
+English	382	Constructed by native speaker linguist	I was afraid to mention to him.		I was afraid to mention to him	I was afraid to mention to him	I was afraid to mention to him.
+English	383	Constructed by native speaker linguist	I am afraid for my children.		I am afraid for my children	I am afraid for my children	I am afraid for my children.
+English	384	Constructed by native speaker linguist	I'm scared of his temper.		I am scared of his temper	I am scared of his temper	I'm scared of his temper.
+English	385	Constructed by native speaker linguist	Cotton/polyester fabric washes well and requires little or no ironing.		cotton/polyester fabric washes well and requires little or no ironing	cotton/polyester fabric washes well and requires little or no ironing	Cotton/polyester fabric washes well and requires little or no ironing.
+English	386	Constructed by native speaker linguist	Persil washes well and it's not too expensive.		Persil washes well and it is not too expensive	Persil washes well and it is not too expensive	Persil washes well and it's not too expensive.
+English	387	Constructed by native speaker linguist	Can you help me with my homework?		can you help me with my homework	can you help me with my homework	Can you help me with my homework?
+English	388	Constructed by native speaker linguist	Let me help you with those those bags.		let me help you with those those bags	let me help you with those those bags	Let me help you with those those bags.
+English	389	Constructed by native speaker linguist	Feeling sorry for yourself won't help.		feeling sorry for yourself will not help	feeling sorry for yourself will not help	Feeling sorry for yourself won't help.
+English	390	Constructed by native speaker linguist	Antibiotics won't help to prevent an ear infection.		antibiotics will not help to prevent an ear infection	antibiotics will not help to prevent an ear infection	Antibiotics won't help to prevent an ear infection.
+English	391	Constructed by native speaker linguist	It won't help to talk to him when he's drunk.		it will not help to talk to him when he is drunk	it will not help to talk to him when he is drunk	It won't help to talk to him when he's drunk.
+English	392	Constructed by native speaker linguist	The road follows the river for ten kilometers or so.		the road follows the river for ten kilometers or so	the road follows the river for ten kilometers or so	The road follows the river for ten kilometers or so.
+English	393	Constructed by native speaker linguist	She talked at me for hours.		she talked at me for hours	she talked at me for hours	She talked at me for hours.
+English	394	Constructed by native speaker linguist	We talked for hours.		we talked for hours	we talked for hours	We talked for hours.
+English	395	Constructed by native speaker linguist	We touched.		we touched	we touched	We touched.
+English	396	Constructed by native speaker linguist	Have you washed behind your ears?		have you washed behind your ears	have you washed behind your ears	Have you washed behind your ears?
+English	397	Constructed by native speaker linguist	I generally wash the delicate items by hand.		I generally wash the delicate items by hand	I generally wash the delicate items by hand	I generally wash the delicate items by hand.
+English	398	Constructed by native speaker linguist	The rain washed away all the leaves away.		the rain washed away all the leaves away	the rain washed away all the leaves away	The rain washed away all the leaves away.
+English	399	Constructed by native speaker linguist	Can you help?		can you help	can you help	Can you help?
+English	400	Constructed by native speaker linguist	He followed her with his eyes.		he followed her with his eyes	he followed her with his eyes	He followed her with his eyes.
+English	401	Constructed by native speaker linguist	His eyes followed her every move.		his eyes followed her every move	his eyes followed her every move	His eyes followed her every move.
+English	402	Constructed by native speaker linguist	He's always following me around.		he is always following me around	he is always following me around	He's always following me around.
+English	403	Constructed by native speaker linguist	Don't talk nonsense.		do not talk nonsense	do not talk nonsense	Don't talk nonsense.
+English	404	Constructed by native speaker linguist	They were talking linguistics.		they were talking linguistics	they were talking linguistics	They were talking linguistics.
+English	405	Constructed by native speaker linguist	They are talking Spanish.		they are talking Spanish	they are talking Spanish	They are talking Spanish.
+English	406	Constructed by native speaker linguist	They are talking in Spanish.		they are talking in Spanish	they are talking in Spanish	They are talking in Spanish.
+English	407	Constructed by native speaker linguist	It rained on my wedding day.		it rained on my wedding day	it rained on my wedding day	It rained on my wedding day.
+English	408	Constructed by native speaker linguist	It rained on my new car yesterday.		it rained on my new car yesterday	it rained on my new car yesterday	It rained on my new car yesterday.
+English	409	Constructed by native speaker linguist	They were talking in a whisper.		they were talking in a whisper	they were talking in a whisper	They were talking in a whisper.
+English	410	Constructed by native speaker linguist	I can't talk to her. She won't listen.		I can not talk to her she will not listen	I can not talk to her she will not listen	I can't talk to her. She won't listen.
+English	411	Constructed by native speaker linguist	I had a long talk with her about it.		I had a long talk with her about it	I had a long talk with her about it	I had a long talk with her about it.
+English	412	Constructed by native speaker linguist	They asked me to resign.		they asked me to resign	they asked me to resign	They asked me to resign.
+English	413	Constructed by native speaker linguist	He climbed the fence.		he climbed the fence	he climbed the fence	He climbed the fence.
+English	414	Constructed by native speaker linguist	The fire was burning brightly.		the fire was burning brightly	the fire was burning brightly	The fire was burning brightly.
+English	415	Constructed by native speaker linguist	He expected me to just give and give and get nothing in return.		he expected me to just give and give and get nothing in return	he expected me to just give and give and get nothing in return	He expected me to just give and give and get nothing in return.
+English	416	Constructed by native speaker linguist	She sent him away.		she sent him away	she sent him away	She sent him away.
+English	417	Constructed by native speaker linguist	John sent Bill to get newspapers from the store.		John sent Bill to get newspapers from the store	John sent Bill to get newspapers from the store	John sent Bill to get newspapers from the store.
+English	418	Constructed by native speaker linguist	He was dressed as a schoolboy.		he was dressed as a schoolboy	he was dressed as a schoolboy	He was dressed as a schoolboy.
+English	419	Constructed by native speaker linguist	It was her birthday party and she was dressed up as a fairy.		it was her birthday party and she was dressed up as a fairy	it was her birthday party and she was dressed up as a fairy	It was her birthday party and she was dressed up as a fairy.
+English	420	Constructed by native speaker linguist	At the time it was bad, but we laughed about it later.		at the time it was bad but we laughed about it later	at the time it was bad but we laughed about it later	At the time it was bad, but we laughed about it later."
+English	421	Constructed by native speaker linguist	They cut at his attacker's throat.		they cut at his attacker's throat	they cut at his attacker's throat	They cut at his attacker's throat.
+English	422	Constructed by native speaker linguist	Take me to your leader.		take me to your leader	take me to your leader	Take me to your leader.
+English	423	Constructed by native speaker linguist	He took her to the doctor.		he took her to the doctor	he took her to the doctor	He took her to the doctor.
+English	424	Constructed by native speaker linguist	They played me for a fool.		they played me for a fool	they played me for a fool	They played me for a fool.
+English	425	Constructed by native speaker linguist	The Angel Gabriel appeared to Mary.		the Angel Gabriel appeared to Mary	the Angel Gabriel appeared to Mary	The Angel Gabriel appeared to Mary.
+English	426	Constructed by native speaker linguist	It sank into the swamp.		it sank into the swamp	it sank into the swamp	It sank into the swamp.
+English	427	Constructed by native speaker linguist	The poor boy lost his grip and sank under the waves.		the poor boy lost his grip and sank under the waves	the poor boy lost his grip and sank under the waves	The poor boy lost his grip and sank under the waves.
+English	428	Constructed by native speaker linguist	The Titanic sank in the Atlantic Ocean.		the Titanic sank in the Atlantic Ocean	the Titanic sank in the Atlantic Ocean	The Titanic sank in the Atlantic Ocean.
+English	429	Constructed by native speaker linguist	Those who can't swim generally sink like a stone.		those who can not swim generally sink like a stone	those who can not swim generally sink like a stone	Those who can't swim generally sink like a stone.
+English	430	Constructed by native speaker linguist	She likes to go for long walks by the seaside.		she likes to go for long walks by the seaside	she likes to go for long walks by the seaside	She likes to go for long walks by the seaside.
+English	431	Constructed by native speaker linguist	I was thinking of buying a MacBook Pro.		I was thinking of buying a MacBook Pro	I was thinking of buying a MacBook Pro	I was thinking of buying a MacBook Pro.
+English	432	Constructed by native speaker linguist	I thought of going to the police.		I thought of going to the police	I thought of going to the police	I thought of going to the police.
+English	433	Constructed by native speaker linguist	When the job was mentioned, straight away I thought of you.		when the job was mentioned straight away I thought of you	when the job was mentioned straight away I thought of you	When the job was mentioned, straight away I thought of you."
+English	434	Constructed by native speaker linguist	I think very highly of him.		I think very highly of him	I think very highly of him	I think very highly of him.
+English	435	Constructed by native speaker linguist	I thought of him as a kindred spirit.		I thought of him as a kindred spirit	I thought of him as a kindred spirit	I thought of him as a kindred spirit.
+English	436	Constructed by native speaker linguist	I thought to myself, "What am I going to do now?".		I thought to myself what am I going to do now	I thought to myself what am I going to do now	I thought to myself, "What am I going to do now?"."
+English	437	Constructed by native speaker linguist	I think the library's open.		I think the library is open	I think the library is open	I think the library's open.
+English	438	Constructed by native speaker linguist	I tore her photo out of a magazine.		I tore her photo out of a magazine	I tore her photo out of a magazine	I tore her photo out of a magazine.
+English	439	Constructed by native speaker linguist	They'd left for the coast a few days earlier.		they had left for the coast a few days earlier	they had left for the coast a few days earlier	They'd left for the coast a few days earlier.
+English	440	Constructed by native speaker linguist	Their feet were touching under the table.		their feet were touching under the table	their feet were touching under the table	Their feet were touching under the table.
+English	441	Constructed by native speaker linguist	The flames were so high they were touching the roof.		the flames were so high they were touching the roof	the flames were so high they were touching the roof	The flames were so high they were touching the roof.
+English	442	Constructed by native speaker linguist	He was touching himself.		he was touching himself	he was touching himself	He was touching himself.
+English	443	Constructed by native speaker linguist	It's hard to say.		it is hard to say	it is hard to say	It's hard to say.
+English	444	Constructed by native speaker linguist	Why can't they both just say sorry and put it behind them?		why can not they both just say sorry and put it behind them	why can not they both just say sorry and put it behind them	Why can't they both just say sorry and put it behind them?
+English	445	Constructed by native speaker linguist	He couldn't think what to do next.		he could not think what to do next	he could not think what to do next	He couldn't think what to do next.
+English	446	Constructed by native speaker linguist	My parents taught me that it was wrong to lie, even to protect someone's feelings.		my parents taught me that it was wrong to lie even to protect someone's feelings	my parents taught me that it was wrong to lie even to protect someone's feelings	My parents taught me that it was wrong to lie, even to protect someone's feelings."
+English	447	Constructed by native speaker linguist	He only ever sings about girls.		he only ever sings about girls	he only ever sings about girls	He only ever sings about girls.
+English	448	Constructed by native speaker linguist	I hate singing hymns.		I hate singing hymns	I hate singing hymns	I hate singing hymns.
+English	449	Constructed by native speaker linguist	We give regularly to Amnesty International.		we give regularly to Amnesty International	we give regularly to Amnesty International	We give regularly to Amnesty International.
+English	450	Constructed by native speaker linguist	It was sharp all right. It shaved the hairs off my arm.		it was sharp all right it shaved the hairs off my arm	it was sharp all right it shaved the hairs off my arm	It was sharp all right. It shaved the hairs off my arm.
+English	451	Constructed by native speaker linguist	She shaved her head.		she shaved her head	she shaved her head	She shaved her head.
+English	452	Constructed by native speaker linguist	The new Gillette razor shaves well but it's super expensive.		the new Gillette razor shaves well but it is super expensive	the new Gillette razor shaves well but it is super expensive	The new Gillette razor shaves well but it's super expensive.
+English	453	Constructed by native speaker linguist	Water poured onto the floor.		water poured onto the floor	water poured onto the floor	Water poured onto the floor.
+English	454	Constructed by native speaker linguist	The veil covered her face completely.		the veil covered her face completely	the veil covered her face completely	The veil covered her face completely.

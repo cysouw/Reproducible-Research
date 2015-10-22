@@ -1,0 +1,828 @@
+poly <- SpatialPolygons(lapply(list_of_Lines, function(x) { + Polygons(list(Polygon(slot(slot(x, "Lines")[[1]], + "coords"))), ID = slot(x, "ID")) + }), proj4string = NA)
+poly <- SpatialPolygons(lapply(list_of_Lines, function(x) {#
+	Polygons(list(Polygon(slot(slot(x, "Lines")[[1]],#
+	 "coords"))), ID = slot(x, "ID"))#
+	 }), proj4string = NA)
+}), proj4string = CRS(as.character(NA)))
+poly <- SpatialPolygons(lapply(list_of_Lines, function(x) {#
+	Polygons(list(Polygon(slot(slot(x, "Lines")[[1]],#
+	 "coords"))), ID = slot(x, "ID"))#
+	 }), proj4string = CRS(as.character(NA)))
+plot(poly)
+summary(poly)
+slot(poly, "plotOrder")
+str(sphull)
+summary(list_of_lines)
+summary(list_of_Lines)
+summary(sphull)
+plot(sphull)
+list_of_Lines <- slot(sphull, "lines")
+summary(list_of_Lines)
+str(list_of_Lines)
+poly <- SpatialPolygons(lapply(list_of_Lines, function(x) {#
+	Polygons(list(Polygon(slot(slot(x, "Lines")[[1]],#
+	 "coords"))), ID = slot(x, "ID"))#
+	 }))
+str(poly)
+plot(poly)
+SpatialLines2PolySet(sphull)->tmp
+PolySet2SpatialPolygons(tmp)->poly
+plot(poly)
+PolySet2SpatialPolygons(tmp,F)->poly
+plot(poly)
+plot(tmp)
+ah2sp <- function(x, increment=360, rnd=10, proj4string=CRS(as.character(NA))){#
+  require(alphahull)#
+  require(maptools)#
+  if (class(x) != "ahull"){#
+    stop("x needs to be an ahull class object")#
+  }#
+  # Extract the edges from the ahull object as a dataframe#
+  xdf <- as.data.frame(x$arcs)#
+  # Remove all cases where the coordinates are all the same      #
+  xdf <- subset(xdf,xdf$r > 0)#
+  res <- NULL#
+  if (nrow(xdf) > 0){#
+    # Convert each arc to a line segment#
+    linesj <- list()#
+    prevx<-NULL#
+    prevy<-NULL#
+    j<-1#
+    for(i in 1:nrow(xdf)){#
+      rowi <- xdf[i,]#
+      v <- c(rowi$v.x, rowi$v.y)#
+      theta <- rowi$theta#
+      r <- rowi$r#
+      cc <- c(rowi$c1, rowi$c2)#
+      # Arcs need to be redefined as strings of points. Work out the number of points to allocate in this arc segment.#
+      ipoints <- 2 + round(increment * (rowi$theta / 2),0)#
+      # Calculate coordinates from arc() description for ipoints along the arc.#
+      angles <- anglesArc(v, theta)#
+      seqang <- seq(angles[1], angles[2], length = ipoints)#
+      x <- round(cc[1] + r * cos(seqang),rnd)#
+      y <- round(cc[2] + r * sin(seqang),rnd)#
+      # Check for line segments that should be joined up and combine their coordinates#
+      if (is.null(prevx)){#
+        prevx<-x#
+        prevy<-y#
+      } else if (x[1] == round(prevx[length(prevx)],rnd) && y[1] == round(prevy[length(prevy)],rnd)){#
+          if (i == nrow(xdf)){#
+          #We have got to the end of the dataset#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+            prevx[length(prevx)]<-prevx[1]#
+            prevy[length(prevy)]<-prevy[1]#
+            coordsj<-cbind(prevx,prevy)#
+            colnames(coordsj)<-NULL#
+            # Build as Line and then Lines class#
+            linej <- Line(coordsj)#
+            linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          } else {#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+          }#
+        } else {#
+      # We have got to the end of a set of lines, and there are several such sets, so convert the whole of this one to a line segment and reset.#
+          prevx[length(prevx)]<-prevx[1]#
+          prevy[length(prevy)]<-prevy[1]#
+          coordsj<-cbind(prevx,prevy)#
+          colnames(coordsj)<-NULL#
+      # Build as Line and then Lines class#
+          linej <- Line(coordsj)#
+          linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          j<-j+1#
+          prevx<-NULL#
+          prevy<-NULL#
+        }#
+    }#
+    # Promote to SpatialLines#
+    lspl <- SpatialLines(linesj)#
+    # Convert lines to polygons#
+    # Pull out Lines slot and check which lines have start and end points that are the same#
+    lns <- slot(lspl, "lines")#
+    polys <- sapply(lns, function(x) { #
+      crds <- slot(slot(x, "Lines")[[1]], "coords")#
+      identical(crds[1, ], crds[nrow(crds), ])#
+    }) #
+    # Select those that do and convert to SpatialPolygons#
+    polyssl <- lspl[polys]#
+    list_of_Lines <- slot(polyssl, "lines")#
+    sppolys <- SpatialPolygons(list(Polygons(lapply(list_of_Lines, function(x) { Polygon(slot(slot(x, "Lines")[[1]], "coords")) }), ID = "1")), proj4string=proj4string)#
+    # Create a set of ids in a dataframe, then promote to SpatialPolygonsDataFrame#
+    hid <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "ID"))#
+    areas <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "area"))#
+    df <- data.frame(hid,areas)#
+    names(df) <- c("HID","Area")#
+    rownames(df) <- df$HID#
+    res <- SpatialPolygonsDataFrame(sppolys, data=df)#
+    res <- res[which(res at data$Area > 0),]#
+  }  #
+  return(res)#
+}
+ah2sp <- function(x, increment=360, rnd=10, proj4string=CRS(as.character(NA))){#
+  require(alphahull)#
+  require(maptools)#
+  if (class(x) != "ahull"){#
+    stop("x needs to be an ahull class object")#
+  }#
+  # Extract the edges from the ahull object as a dataframe#
+  xdf <- as.data.frame(x$arcs)#
+  # Remove all cases where the coordinates are all the same      #
+  xdf <- subset(xdf,xdf$r > 0)#
+  res <- NULL#
+  if (nrow(xdf) > 0){#
+    # Convert each arc to a line segment#
+    linesj <- list()#
+    prevx<-NULL#
+    prevy<-NULL#
+    j<-1#
+    for(i in 1:nrow(xdf)){#
+      rowi <- xdf[i,]#
+      v <- c(rowi$v.x, rowi$v.y)#
+      theta <- rowi$theta#
+      r <- rowi$r#
+      cc <- c(rowi$c1, rowi$c2)#
+      # Arcs need to be redefined as strings of points. Work out the number of points to allocate in this arc segment.#
+      ipoints <- 2 + round(increment * (rowi$theta / 2),0)#
+      # Calculate coordinates from arc() description for ipoints along the arc.#
+      angles <- anglesArc(v, theta)#
+      seqang <- seq(angles[1], angles[2], length = ipoints)#
+      x <- round(cc[1] + r * cos(seqang),rnd)#
+      y <- round(cc[2] + r * sin(seqang),rnd)#
+      # Check for line segments that should be joined up and combine their coordinates#
+      if (is.null(prevx)){#
+        prevx<-x#
+        prevy<-y#
+      } else if (x[1] == round(prevx[length(prevx)],rnd) && y[1] == round(prevy[length(prevy)],rnd)){#
+          if (i == nrow(xdf)){#
+          #We have got to the end of the dataset#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+            prevx[length(prevx)]<-prevx[1]#
+            prevy[length(prevy)]<-prevy[1]#
+            coordsj<-cbind(prevx,prevy)#
+            colnames(coordsj)<-NULL#
+            # Build as Line and then Lines class#
+            linej <- Line(coordsj)#
+            linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          } else {#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+          }#
+        } else {#
+      # We have got to the end of a set of lines, and there are several such sets, so convert the whole of this one to a line segment and reset.#
+          prevx[length(prevx)]<-prevx[1]#
+          prevy[length(prevy)]<-prevy[1]#
+          coordsj<-cbind(prevx,prevy)#
+          colnames(coordsj)<-NULL#
+      # Build as Line and then Lines class#
+          linej <- Line(coordsj)#
+          linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          j<-j+1#
+          prevx<-NULL#
+          prevy<-NULL#
+        }#
+    }#
+    # Promote to SpatialLines#
+    lspl <- SpatialLines(linesj)#
+    # Convert lines to polygons#
+    # Pull out Lines slot and check which lines have start and end points that are the same#
+    lns <- slot(lspl, "lines")#
+    polys <- sapply(lns, function(x) { #
+      crds <- slot(slot(x, "Lines")[[1]], "coords")#
+      identical(crds[1, ], crds[nrow(crds), ])#
+    }) #
+    # Select those that do and convert to SpatialPolygons#
+    polyssl <- lspl[polys]#
+    list_of_Lines <- slot(polyssl, "lines")#
+    sppolys <- SpatialPolygons(list(Polygons(lapply(list_of_Lines, function(x) { Polygon(slot(slot(x, "Lines")[[1]], "coords")) }), ID = "1")), proj4string=proj4string)#
+    # Create a set of ids in a dataframe, then promote to SpatialPolygonsDataFrame#
+    hid <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "ID"))#
+    areas <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "area"))#
+    df <- data.frame(hid,areas)#
+    names(df) <- c("HID","Area")#
+    rownames(df) <- df$HID#
+    res <- SpatialPolygonsDataFrame(sppolys, data=df)#
+    res <- res[which(res$data$Area > 0),]#
+  }  #
+  return(res)#
+}
+tmp <- hull(loc[,2:3], .1, .4)
+hull <- ah2sp(tmp)
+hull <- function(points, shift, alpha) {#
+	p <- rbind(   points+shift#
+				, points-shift#
+				, t(t(points)+c(shift, -shift))#
+				, t(t(points)+c(-shift, shift))#
+				)#
+	return(ahull(p, alpha =  alpha))#
+}
+tmp <- hull(loc[,2:3], .1, .4)
+hull <- ah2sp(tmp)
+debug(ah2sp)
+hull <- ah2sp(tmp)
+Q
+undebug(ah2sp)
+hull <- ah2sp(tmp)
+x <- tmp
+xdf <- as.data.frame(x$arcs)
+xdf <- subset(xdf,xdf$r > 0)
+res <- NULL
+nrow(xdf)
+if (nrow(xdf) > 0){#
+    # Convert each arc to a line segment#
+    linesj <- list()#
+    prevx<-NULL#
+    prevy<-NULL#
+    j<-1#
+    for(i in 1:nrow(xdf)){#
+      rowi <- xdf[i,]#
+      v <- c(rowi$v.x, rowi$v.y)#
+      theta <- rowi$theta#
+      r <- rowi$r#
+      cc <- c(rowi$c1, rowi$c2)#
+      # Arcs need to be redefined as strings of points. Work out the number of points to allocate in this arc segment.#
+      ipoints <- 2 + round(increment * (rowi$theta / 2),0)#
+      # Calculate coordinates from arc() description for ipoints along the arc.#
+      angles <- anglesArc(v, theta)#
+      seqang <- seq(angles[1], angles[2], length = ipoints)#
+      x <- round(cc[1] + r * cos(seqang),rnd)#
+      y <- round(cc[2] + r * sin(seqang),rnd)#
+      # Check for line segments that should be joined up and combine their coordinates#
+      if (is.null(prevx)){#
+        prevx<-x#
+        prevy<-y#
+      } else if (x[1] == round(prevx[length(prevx)],rnd) && y[1] == round(prevy[length(prevy)],rnd)){#
+          if (i == nrow(xdf)){#
+          #We have got to the end of the dataset#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+            prevx[length(prevx)]<-prevx[1]#
+            prevy[length(prevy)]<-prevy[1]#
+            coordsj<-cbind(prevx,prevy)#
+            colnames(coordsj)<-NULL#
+            # Build as Line and then Lines class#
+            linej <- Line(coordsj)#
+            linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          } else {#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+          }#
+        } else {#
+      # We have got to the end of a set of lines, and there are several such sets, so convert the whole of this one to a line segment and reset.#
+          prevx[length(prevx)]<-prevx[1]#
+          prevy[length(prevy)]<-prevy[1]#
+          coordsj<-cbind(prevx,prevy)#
+          colnames(coordsj)<-NULL#
+      # Build as Line and then Lines class#
+          linej <- Line(coordsj)#
+          linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          j<-j+1#
+          prevx<-NULL#
+          prevy<-NULL#
+        }#
+    }
+# Promote to SpatialLines#
+    lspl <- SpatialLines(linesj)#
+    # Convert lines to polygons#
+    # Pull out Lines slot and check which lines have start and end points that are the same#
+    lns <- slot(lspl, "lines")#
+    polys <- sapply(lns, function(x) { #
+      crds <- slot(slot(x, "Lines")[[1]], "coords")#
+      identical(crds[1, ], crds[nrow(crds), ])#
+    })
+# Select those that do and convert to SpatialPolygons#
+    polyssl <- lspl[polys]#
+    list_of_Lines <- slot(polyssl, "lines")#
+    sppolys <- SpatialPolygons(list(Polygons(lapply(list_of_Lines, function(x) { Polygon(slot(slot(x, "Lines")[[1]], "coords")) }), ID = "1")), proj4string=proj4string)#
+    # Create a set of ids in a dataframe, then promote to SpatialPolygonsDataFrame#
+    hid <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "ID"))#
+    areas <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "area"))#
+    df <- data.frame(hid,areas)#
+    names(df) <- c("HID","Area")#
+    rownames(df) <- df$HID#
+    res <- SpatialPolygonsDataFrame(sppolys, data=df)#
+    res <- res[which(res$data$Area > 0),]#
+  }
+str(tmp)
+n <- 300#
+theta <- runif(n,0,2*pi)#
+r <- sqrt(runif(n,0.25^2,0.5^2))#
+x <- cbind(0.5+r*cos(theta),0.5+r*sin(theta))#
+a <- ahull(x, alpha = 0.1)#
+plot(a)
+b <- ah2sp(a)#
+plot(b, col="lightgrey", pbg="white")
+increment=360
+rnd=10
+proj4string=CRS(as.character(NA))
+x <- tmp
+xdf <- as.data.frame(x$arcs)
+xdf <- subset(xdf,xdf$r > 0)
+res <- NULL
+if (nrow(xdf) > 0){#
+    # Convert each arc to a line segment#
+    linesj <- list()#
+    prevx<-NULL#
+    prevy<-NULL#
+    j<-1#
+    for(i in 1:nrow(xdf)){#
+      rowi <- xdf[i,]#
+      v <- c(rowi$v.x, rowi$v.y)#
+      theta <- rowi$theta#
+      r <- rowi$r#
+      cc <- c(rowi$c1, rowi$c2)#
+      # Arcs need to be redefined as strings of points. Work out the number of points to allocate in this arc segment.#
+      ipoints <- 2 + round(increment * (rowi$theta / 2),0)#
+      # Calculate coordinates from arc() description for ipoints along the arc.#
+      angles <- anglesArc(v, theta)#
+      seqang <- seq(angles[1], angles[2], length = ipoints)#
+      x <- round(cc[1] + r * cos(seqang),rnd)#
+      y <- round(cc[2] + r * sin(seqang),rnd)#
+      # Check for line segments that should be joined up and combine their coordinates#
+      if (is.null(prevx)){#
+        prevx<-x#
+        prevy<-y#
+      } else if (x[1] == round(prevx[length(prevx)],rnd) && y[1] == round(prevy[length(prevy)],rnd)){#
+          if (i == nrow(xdf)){#
+          #We have got to the end of the dataset#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+            prevx[length(prevx)]<-prevx[1]#
+            prevy[length(prevy)]<-prevy[1]#
+            coordsj<-cbind(prevx,prevy)#
+            colnames(coordsj)<-NULL#
+            # Build as Line and then Lines class#
+            linej <- Line(coordsj)#
+            linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          } else {#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+          }#
+        } else {#
+      # We have got to the end of a set of lines, and there are several such sets, so convert the whole of this one to a line segment and reset.#
+          prevx[length(prevx)]<-prevx[1]#
+          prevy[length(prevy)]<-prevy[1]#
+          coordsj<-cbind(prevx,prevy)#
+          colnames(coordsj)<-NULL#
+      # Build as Line and then Lines class#
+          linej <- Line(coordsj)#
+          linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          j<-j+1#
+          prevx<-NULL#
+          prevy<-NULL#
+        }#
+    }#
+    # Promote to SpatialLines#
+    lspl <- SpatialLines(linesj)#
+    # Convert lines to polygons#
+    # Pull out Lines slot and check which lines have start and end points that are the same#
+    lns <- slot(lspl, "lines")#
+    polys <- sapply(lns, function(x) { #
+      crds <- slot(slot(x, "Lines")[[1]], "coords")#
+      identical(crds[1, ], crds[nrow(crds), ])#
+    }) #
+    # Select those that do and convert to SpatialPolygons#
+    polyssl <- lspl[polys]#
+    list_of_Lines <- slot(polyssl, "lines")#
+    sppolys <- SpatialPolygons(list(Polygons(lapply(list_of_Lines, function(x) { Polygon(slot(slot(x, "Lines")[[1]], "coords")) }), ID = "1")), proj4string=proj4string)#
+    # Create a set of ids in a dataframe, then promote to SpatialPolygonsDataFrame#
+    hid <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "ID"))#
+    areas <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "area"))#
+    df <- data.frame(hid,areas)#
+    names(df) <- c("HID","Area")#
+    rownames(df) <- df$HID#
+    res <- SpatialPolygonsDataFrame(sppolys, data=df)#
+    res <- res[which(res$data$Area > 0),]#
+  }
+i
+tmp$arcs[337,]
+prevX
+prevx
+str(lspl)
+str(polys)
+str(polysel)
+str(polyssl)
+str(res)
+plot(res)
+o <- as.owin(res)
+voronoi(loc[,2:3],o)->v
+plot(v)
+data <- read.delim("data/wenker.txt", fill = FALSE)
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+vmap(v, d=1-s2,internal=NA)
+str(res,m=1)
+str(res,m=2)
+ah2sp <- function(x, increment=360, rnd=10, proj4string=CRS(as.character(NA))){#
+  require(alphahull)#
+  require(maptools)#
+  if (class(x) != "ahull"){#
+    stop("x needs to be an ahull class object")#
+  }#
+  # Extract the edges from the ahull object as a dataframe#
+  xdf <- as.data.frame(x$arcs)#
+  # Remove all cases where the coordinates are all the same      #
+  xdf <- subset(xdf,xdf$r > 0)#
+  res <- NULL#
+  if (nrow(xdf) > 0){#
+    # Convert each arc to a line segment#
+    linesj <- list()#
+    prevx<-NULL#
+    prevy<-NULL#
+    j<-1#
+    for(i in 1:nrow(xdf)){#
+      rowi <- xdf[i,]#
+      v <- c(rowi$v.x, rowi$v.y)#
+      theta <- rowi$theta#
+      r <- rowi$r#
+      cc <- c(rowi$c1, rowi$c2)#
+      # Arcs need to be redefined as strings of points. Work out the number of points to allocate in this arc segment.#
+      ipoints <- 2 + round(increment * (rowi$theta / 2),0)#
+      # Calculate coordinates from arc() description for ipoints along the arc.#
+      angles <- anglesArc(v, theta)#
+      seqang <- seq(angles[1], angles[2], length = ipoints)#
+      x <- round(cc[1] + r * cos(seqang),rnd)#
+      y <- round(cc[2] + r * sin(seqang),rnd)#
+      # Check for line segments that should be joined up and combine their coordinates#
+      if (is.null(prevx)){#
+        prevx<-x#
+        prevy<-y#
+      } else if (x[1] == round(prevx[length(prevx)],rnd) && y[1] == round(prevy[length(prevy)],rnd)){#
+          if (i == nrow(xdf)){#
+          #We have got to the end of the dataset#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+            prevx[length(prevx)]<-prevx[1]#
+            prevy[length(prevy)]<-prevy[1]#
+            coordsj<-cbind(prevx,prevy)#
+            colnames(coordsj)<-NULL#
+            # Build as Line and then Lines class#
+            linej <- Line(coordsj)#
+            linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          } else {#
+            prevx<-append(prevx,x[2:ipoints])#
+            prevy<-append(prevy,y[2:ipoints])#
+          }#
+        } else {#
+      # We have got to the end of a set of lines, and there are several such sets, so convert the whole of this one to a line segment and reset.#
+          prevx[length(prevx)]<-prevx[1]#
+          prevy[length(prevy)]<-prevy[1]#
+          coordsj<-cbind(prevx,prevy)#
+          colnames(coordsj)<-NULL#
+      # Build as Line and then Lines class#
+          linej <- Line(coordsj)#
+          linesj[[j]] <- Lines(linej, ID = as.character(j))#
+          j<-j+1#
+          prevx<-NULL#
+          prevy<-NULL#
+        }#
+    }#
+    # Promote to SpatialLines#
+    lspl <- SpatialLines(linesj)#
+    # Convert lines to polygons#
+    # Pull out Lines slot and check which lines have start and end points that are the same#
+    lns <- slot(lspl, "lines")#
+    polys <- sapply(lns, function(x) { #
+      crds <- slot(slot(x, "Lines")[[1]], "coords")#
+      identical(crds[1, ], crds[nrow(crds), ])#
+    }) #
+    # Select those that do and convert to SpatialPolygons#
+    polyssl <- lspl[polys]#
+    list_of_Lines <- slot(polyssl, "lines")#
+    sppolys <- SpatialPolygons(list(Polygons(lapply(list_of_Lines, function(x) { Polygon(slot(slot(x, "Lines")[[1]], "coords")) }), ID = "1")), proj4string=proj4string)#
+    # Create a set of ids in a dataframe, then promote to SpatialPolygonsDataFrame#
+    hid <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "ID"))#
+    areas <- sapply(slot(sppolys, "polygons"), function(x) slot(x, "area"))#
+    df <- data.frame(hid,areas)#
+    names(df) <- c("HID","Area")#
+    rownames(df) <- df$HID#
+    res <- SpatialPolygonsDataFrame(sppolys, data=df)#
+    res <- res[which(res@data$Area > 0),]#
+  }  #
+  return(res)#
+}
+plot(a)#
+#
+#Convert#
+b <- ah2sp(a)#
+plot(b, col="lightgrey", pbg="white")
+library(qlcVisualize)
+source("code/adhocfunctions.R")
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)
+data <- read.delim("data/wenker.txt", fill = FALSE)
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+window <- hull(loch[,2:3], shift = 0.1, alpha = 0.4)
+window <- hull(loc[,2:3], shift = 0.1, alpha = 0.4)
+window <- hull(loc[,2:3], shift = 0.1, alpha = 0.3)
+plot(window)
+v <- voronoi(loc[,2:3], window)
+? anglesArc
+?Lines
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)#
+#
+# similarities#
+s1 <- qlcMatrix::sim.obs(data)#
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+window <- hull(loc[,2:3], shift = 0.1, alpha = 0.3)#
+v <- voronoi(loc[,2:3], window)#
+#
+# saved as images/similarity2voronoi.pdf#
+vmap(v, d = 1-s2, internal = NA)
+# load libraries #
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)#
+#
+# similarities#
+s1 <- qlcMatrix::sim.obs(data)#
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+window <- hull(loc[,2:3], shift = 0.1, alpha = 0.3)#
+v <- voronoi(loc[,2:3], window)#
+#
+# saved as images/similarity2voronoi.pdf#
+vmap(v, d = 1-s2, internal = NA)
+library(sp)
+?CRS
+# load libraries #
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)#
+#
+# similarities#
+s1 <- qlcMatrix::sim.obs(data)#
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+window <- hull(loc[,2:3], shift = 0.1, alpha = 0.3)#
+v <- voronoi(loc[,2:3], window)#
+#
+# saved as images/similarity2voronoi.pdf#
+vmap(v, d = 1-s2, internal = NA)
+vmap(v, d = 1-s2, internal = NA, border = NA)
+countries <- c("Germany", "Poland", "Netherlands", "Belgium", "Switzerland", "Austria", "Denmark", "Lithuania")
+library(maps)
+maps::map("worldHiRes", regions = countries, add = T, lwd = .5)
+library(mapdata)
+maps::map("worldHiRes", regions = countries, add = T, lwd = .5)
+?map
+maps::map("worldHires", regions = countries, add = T, lwd = .5)
+map("worldHires","Lithuania")
+str("worldHires")
+str(worldHires)
+map("world",namesonly=T)
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)#
+#
+# similarities#
+s1 <- qlcMatrix::sim.obs(data)#
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.3)#
+v <- voronoi(loc[,2:3], window)#
+#
+# Heeringa colors#
+# saved as images/voronoi.pdf#
+cols <- heeringa(1-s2)#
+vmap(v, col = cols, internal = NA, border =  NA)
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)
+plot(loc[,2:3],cex=.5)
+library(qlcVisualize)
+window <- hullToOwin(loc[,2:3], shift = 0.05, alpha = 0.3)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.04, alpha = 0.3)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.25)
+plot(window)
+points(loc[,2:3],cex=.1)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.2)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.15)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.1)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.25)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.2, alpha = 0.25)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.15, alpha = 0.25)
+plot(window)
+window <- hullToOwin(loc[,2:3], shift = 0.1, alpha = 0.25)
+plot(window)
+points(loc[,2:3],cex=.1)
+plot(loc[,2:3],cex=.1)
+locator()
+sep <- cbind(c(11.34162), c(46.09955))
+sep
+sep <- cbind(x = c(11.34162), y = c(46.09955))#
+#
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.1)#
+v <- voronoi(rbind(loc[,2:3], sep), window)#
+#
+# Heeringa colors#
+# saved as images/voronoi.pdf#
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )#
+vmap(v, col = cols, internal = NA, border =  NA)
+str(loc)
+sep <- cbind(Longitude = c(11.34162), Latitude = c(46.09955))#
+#
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.1)
+locator()->tmp
+tmp
+sep <- cbind( Longitude = c(11.34162, 18.78059)#
+			, Latitude  = c(46.09955, 49.33322)#
+			)#
+#
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)#
+v <- voronoi(rbind(loc[,2:3], sep), window)
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+data <- read.delim("data/wenker.txt", fill = FALSE)
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )
+vmap(v, col = cols, internal = NA, border =  NA)
+plot(loc[,2:3],cex=.1)
+locator()->tmp
+tmp
+sep <- cbind( Longitude = c(11.34162, 11.19866, 18.78059, 29.87453)#
+			, Latitude  = c(46.09955, 46.07597, 49.33322, 46.15076)#
+			)
+points(sep, col="red")
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)#
+v <- voronoi(rbind(loc[,2:3], sep), window)#
+#
+# Heeringa colors#
+# saved as images/voronoi.pdf#
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )#
+vmap(v, col = cols, internal = NA, border =  NA)
+table(data[,1])
+colnames(data)
+tmp <- table(data[,1])
+length(tmp)
+names(tmp)
+tmp <- table(data[,1])#
+expletivum <- rainbow(length(tmp))#
+names(expletivum) <- names(tmp)#
+cols <- c( expletivum[as.character(data[,1])], rep("white", nrow(sep)) )#
+vmap(v, col = cols, internal = NA, border =  NA)
+tmp <- table(data[,1])#
+expletivum <- c("lightgrey", rainbow(length(tmp)-1))#
+names(expletivum) <- names(tmp)#
+cols <- c( expletivum[as.character(data[,1])], rep("white", nrow(sep)) )#
+vmap(v, col = cols, internal = NA, border =  NA)
+legend("right", fill = expletivum, labels = names(expletivum))
+?legend
+legend("right", fill = expletivum, legend = names(expletivum))
+?main
+?title
+source("code/adhocfunctions.R")
+single(1)
+source("code/adhocfunctions.R")
+single(1)
+single(15)
+tmp <- tiles(v)
+library(spatstat)
+?tiles
+tmp <- tiles(v)
+str(tmp[[1]])
+as.polygon
+library(maptools)
+?as.owin
+?polygon
+polygon(tmp[[1]]$bdry[[1]])
+polygon(tmp[[1]]$bdry[[1]]$x, tmp[[1]]$bdry[[1]]$x)
+polygon(tmp[[1]]$bdry[[1]]$x, tmp[[1]]$bdry[[1]]$y)
+coor <- xy.coords(tmp[[1]]$bdry[[1]])
+plot(coor)
+polygon(coor)
+tiles <- tiles(v)
+poly <- function(tile) {#
+	coor <- cbind( x = tile$bdry[[1]]$x, y = tile$bdry[[1]]$y )#
+	return( rbind(coor, c(NA, NA)))#
+}#
+#
+coor <- sapply(tiles, poly)
+dim(coor)
+??do
+coor <- do.call(rbind,coor)
+dim(coor)
+str(cols)
+?head
+head(matrix(1:12,3,4), -1)
+coor <- head(coor, -1)
+polygon(coor, col = cols)
+plot(coor,type="n")
+polygon(coor, col = cols)
+plot(coor,type="n")
+polygon(coor, col = cols, border = NA)
+library(qlcVisualize)
+source("code/adhocfunctions.R")
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)
+data <- read.delim("data/wenker.txt", fill = FALSE)
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+sep <- cbind( Longitude = c(11.34162, 11.19866, 18.78059, 29.87453)#
+			, Latitude  = c(46.09955, 46.07597, 49.33322, 46.15076)#
+			)#
+#
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)#
+v <- voronoi(rbind(loc[,2:3], sep), window)#
+#
+# Heeringa colors#
+# saved as images/voronoi.pdf#
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )
+vmap(v, col = cols, internal = NA, border =  NA)
+vmap(v, col = cols, border = NA, outer =  NA)
+vmap(v, col = cols, border = NA, outer.border =  NA)
+# load libraries #
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)#
+#
+# similarities#
+s1 <- qlcMatrix::sim.obs(data)#
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+sep <- cbind( Longitude = c(11.34162, 11.19866, 18.78059, 29.87453)#
+			, Latitude  = c(46.09955, 46.07597, 49.33322, 46.15076)#
+			)#
+#
+# these three steps take some time#
+system.time({#
+	window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)#
+	v <- voronoi(rbind(loc[,2:3], sep), window)#
+	cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )#
+})
+vmap(v, col = cols, border = NA, outer.border =  NA)
+single(1)
+source("code/adhocfunctions.R")
+single(1)
+single(2)
+single(3)
+single(4)
+single(5)
+single(6)
+single(7)
+identify()
+?locator
+single(8)
+single(9)
+single(10)
+single(11)
+vmap(v, col = cols, border = NA, outer.border =  NA)
+dim(data)
+single(18)
+countries <- c("Germany", "Poland", "Netherlands", "Belgium", "Switzerland", "Austria", "Denmark")#
+maps::map("worldHires", regions = countries, add = T, lwd = .5)
+library(mapdata)#
+countries <- c("Germany", "Poland", "Netherlands", "Belgium", "Switzerland", "Austria", "Denmark")#
+maps::map("worldHires", regions = countries, add = T, lwd = .5)
+vmap(v, col = cols, border = NA, outer.border =  NA)
+maps::map("worldHires", regions = countries, add = T, lwd = .5)
+vmap(v, col = cols, border = NA, outer.border =  NA)
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)
+sep <- cbind( Longitude = c(11.34162, 11.19866, 18.78059, 29.87453)#
+			, Latitude  = c(46.09955, 46.07597, 49.33322, 46.15076)#
+			)#
+#
+# these three steps take some time#
+system.time({#
+	window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)#
+	v <- voronoi(rbind(loc[,2:3], sep), window)#
+	cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )#
+})
+s2 <- qlcMatrix::sim.obs(data, method = "w")
+cols <- c( heeringa(1-s2), rep("white", nrow(sep)) )
+colnames(data)
+single(15)
+single(18)
+# load libraries #
+library(qlcVisualize)#
+source("code/adhocfunctions.R")#
+#
+# load data#
+loc <- read.delim("data/locations.txt", dec = ",", fill =  FALSE)#
+data <- read.delim("data/wenker.txt", fill = FALSE)
+sep <- cbind( Longitude = c(11.34162, 11.19866, 18.78059, 29.87453)#
+			, Latitude  = c(46.09955, 46.07597, 49.33322, 46.15076)#
+			)
+window <- hullToOwin(rbind(loc[,2:3], sep), shift = 0.1, alpha = 0.3)
+str(loc[2:3])
+?quartz
+dev.new()

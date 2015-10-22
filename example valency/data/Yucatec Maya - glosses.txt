@@ -1,0 +1,58 @@
+﻿Language_name	Gloss	Meaning
+Yucatec Maya	0	meaningless/epenthetic element
+Yucatec Maya	1	first person
+Yucatec Maya	3	third person
+Yucatec Maya	ABS	absolutive index
+Yucatec Maya	ABSOL	absolutive
+Yucatec Maya	ABSTR	abstract
+Yucatec Maya	AG.M	masculine agent
+Yucatec Maya	AN	animate
+Yucatec Maya	CAUS	causative
+Yucatec Maya	CL	classifier
+Yucatec Maya	CMPL	completive status
+Yucatec Maya	COLL	collective
+Yucatec Maya	CONJ	conjunction
+Yucatec Maya	D1	proximal deictic
+Yucatec Maya	D2	distal deictic
+Yucatec Maya	D3	anaphoric deictic
+Yucatec Maya	DEAG	deagentive
+Yucatec Maya	DEF	definite
+Yucatec Maya	DEM	demonstrative
+Yucatec Maya	EXIST	?
+Yucatec Maya	EXTRAFOC	extrafocal?
+Yucatec Maya	F	feminine
+Yucatec Maya	FACT	factitive
+Yucatec Maya	FIENT	fientive
+Yucatec Maya	GER	gerund
+Yucatec Maya	IMM.PAST	immediate past
+Yucatec Maya	IMPF	imperfective
+Yucatec Maya	INAN	inanimate
+Yucatec Maya	INCMPL	incompletive
+Yucatec Maya	INTROV	introversive
+Yucatec Maya	LOC	locative
+Yucatec Maya	M	masculine
+Yucatec Maya	NEG	negative
+Yucatec Maya	NONFUT	non-future
+Yucatec Maya	OBL	oblique
+Yucatec Maya	PART	??
+Yucatec Maya	PASS	passive
+Yucatec Maya	PERF	??
+Yucatec Maya	PL	plural
+Yucatec Maya	POS	position
+Yucatec Maya	POSS	possessive
+Yucatec Maya	PRFV	perfective
+Yucatec Maya	PROG	progressive
+Yucatec Maya	PRSV	presentative
+Yucatec Maya	QUOT	quotative
+Yucatec Maya	RED	reduplication
+Yucatec Maya	REL	relational
+Yucatec Maya	RSLTV	resultative
+Yucatec Maya	SBJ	subject pronominal clitic
+Yucatec Maya	SG	singular
+Yucatec Maya	SPONT	spontaneous
+Yucatec Maya	SR	subordinator
+Yucatec Maya	SUBJ	subjunctive
+Yucatec Maya	TERM	terminative
+Yucatec Maya	TOP	topic
+Yucatec Maya	TRR	transitivizer
+Yucatec Maya	USAT	usative

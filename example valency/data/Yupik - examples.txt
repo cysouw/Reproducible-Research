@@ -1,0 +1,119 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Central Alaskan Yupik	1	Naturalistic spoken	Aatama neqa neraa.		aata-ma neqa ner-aa	father-REL.SG fish.ABS.SG eat-IND.3SG.3SG	My father ate the fish.
+Central Alaskan Yupik	2		Uini qep'agaa.		ui-ni qe-p'ag-aa	husband-ABS.3SG.3RSG hug-INTNS-IND.3SG.3SG	She gave her husband an enthusiastic hug.
+Central Alaskan Yupik	3		Angutem tangvagaa tan’gurraq.		angute-m tang-vag-aa tan’gurraq	man-REL.SG look.at-AUG-IND.3SG.3SG boy.ABS.SG	The man looked at (watched) the boy.
+Central Alaskan Yupik	4		Angutem tangrraa tan’gurraq.		angute-m tangrr-aa tan’gurraq	man-REL.SG see-IND.3SG.3SG boy.ABS.SG	The man saw the boy.
+Central Alaskan Yupik	5		Arnam naraa neqa.		arna-m nar-aa neqa	woman-REL.SG smell-IND.3SG.3SG fish.ABS.SG	The woman smells the fish.
+Central Alaskan Yupik	6		Tan’gurraam alikaa angun.		tan’gurra-a-m alik-aa angun	boy-EV-REL.SG fear-IND.3SG.3SG. man.ABS.SG	The boy feared / is afraid of the man.
+Central Alaskan Yupik	7		Angutem alingevkar-aa tan’gurraq.		angute-m alinge-vkar-aa tan’gurraq	man-REL.SG afraid-CAUS-IND.3SG.3SG boy.ABS.SG	The man frightened the boy / is making the boy afraid.
+Central Alaskan Yupik	8		Tan’gurraam assikaa angun.		tan’gurra-a-m assik-aa angun	boy-EV-REL.SG like-IND.3SG.3SG man.ABS.SG	The boy liked the man.
+Central Alaskan Yupik	9		Angutem nallunritaa tan’gurraq.		angute-m nallu-nrit-aa tan’gurraq	man-REL.SG ignorant-NEG-IND.3SG.3SG boy.ABS.SG	The man knew the boy.
+Central Alaskan Yupik	10		Arnam umyuaqaa uillni.		arna-m umyuaq-aa ui-ll-ni	woman-REL.SG think.about-IND.3SG.3SG husband-former-ABS.3RSG.SG	The woman thinks about her former husband.
+Central Alaskan Yupik	11		Angutem neqa neraa.		angute-m neqa ner-aa	man-REL.SG fish.ABS.SG eat-IND.3SG.3SG	The man ate the fish.
+Central Alaskan Yupik	12		Angutem yuaraa tan’gurraq.		angute-m yuar-aa tan’gurraq	man-REL.SG search-IND.3SG.3SG boy.ABS.SG	The man is looking for/misses the boy.
+Central Alaskan Yupik	13		Nasaurluum eruraa mikelnguq.		nasaurlu-u-m erur-aa mikelnguq	girl-EV-REL.SG wash-IND.3SG.3SG child.ABS.SG	The girl washed the child.
+Central Alaskan Yupik	14		Angun ungairtuq.		angun ungair-tuq	man.ABS.SG shave-IND.3SG	The man shaved (himself).
+Central Alaskan Yupik	15		Nasaurluum ac’etaa mikelnguq atkuanek.		nasaurlu-u-m ac’-et-aa mikelnguq atku-anek	girl-EV-REL.SG put.on-CAUS-IND.3SG.3SG child.ABS.SG parka-ABM.3SG.SG	The girl put on the child (with parka).
+Central Alaskan Yupik	16		Ikayuranka tan'gurraat.		ikayur-anka tan'gura-a-t	help-IND.1SG.3PL boy-EV-ABS.PL	I helped the boys.
+Central Alaskan Yupik	17		Angutem maligtaa nasaurluq.		angute-m maligt-aa nasaurluq	man-REL.SG follow-IND.3SG.3SG girl.ABS.SG	The man followed (is following /going with) the girl.
+Central Alaskan Yupik	18		Angutem pairtaa nasaurluq.		angute-m pairt-aa nasaurluq	man-REL.SG meet-IND.3SG.3SG girl.ABS.SG	The man met (went to meet) the girl.
+Central Alaskan Yupik	19		Angutem qanrutaa tan’gurraq neviarcamek.		angute-m qanr-ut-aa tan’gurraq neviarca-mek	man-REL.SG speak-APPL-IND.3SG.3SG boy.ABS.SG girl-ABM.SG	The man talked to the boy about the girl.
+Central Alaskan Yupik	20		Tan’gurraam kaigavikaa angun akinek.		tan’gurra-a-m kaiga-vik-aa angun aki-nek	boy-EV-REL.SG ask.for-place-IND.3SG.3SG man.ABS.SG money-ABM.SG	The boy asked the man for money.
+Central Alaskan Yupik	21		Angutem qayagpagaa nasaurluq.		angute-m qayag-pag-aa nasaurluq	man-REL.SG shout-ITS-IND.3SG.3SG. girl.ABS.SG	The man shouted/yelled to the girl.
+Central Alaskan Yupik	22		Angutem qanemcitaa nasaurluq qaillun ayuqucillminek.		angute-m qanemci-t-aa nasaurluq qaillun ayuq-uci-ll-minek	man-REL.SG tell-APPL-IND.3SG.3SG girl.ABS.SG how resemble-NMLZ-PST-ABM.3RSG.SG	The man is telling the girl about how he was.
+Central Alaskan Yupik	23		Angutem qanrutenritaa camek.		angute-m qanr-ute-nrit-aa ca-mek	man-REL.SG speak-APPL-NEG-IND.3SG.3SG some-ABM.SG	The man said nothing to the girl.
+Central Alaskan Yupik	24		Aciraa tanqik ernermek.		ac-ir-aa tanqik erner-mek	name-supply-IND.3SG.3SG light.ABM.SG day-ABM.SG	He named the light as 'day'.
+Central Alaskan Yupik	25		Angutet eneliat murak.		angute-t ene-li-at murak	man-REL.PL house-make-IND.3PL.3SG wood.ABM.SG	The men made a house out of the wood; the men made the wood into a house.
+Central Alaskan Yupik	26		Tan’gurraam navgaa egaleq teggalqukun.		tan’gurra-a-m navg-aa egaleq teggalqu-kun	boy-EV-REL.SG break-IND.3SG.3SG window.ABS.PL stone-PERL.SG	The boy broke the window with the stone.
+Central Alaskan Yupik	27		Tan’gurraam ciissirpak tuqutaa muragkun.		tan’gurra-a-m ciissirpak tuqut-aa murag-kun	boy-EV-REL.SG insect_big.ABS.SG kill-IND.3SG.3SG stone-PERL.SG	The boy killed the snake with the stick.
+Central Alaskan Yupik	28		Tan’gurraam ciissirpak kaugaa muragkun.		tan’gurra-a-m ciissirpak kaug-aa murag-kun	boy-EV-REL.SG insect_big.ABS.SG beat-IND.3SG.3SG wood-PERL.SG	The boy beat the snake with the stick.
+Central Alaskan Yupik	29		Tan’gurraam ciissirpak kaugturaa muragkun.		tan’gurra-a-m ciissir-pak kaug-tur-aa murag-kun	boy-EV-REL.SG insect-big.ABS.SG hit-CONT-IND.3SG.3SG wood-PERL.SG	The boy is hitting it (continuously) with the wood.
+Central Alaskan Yupik	30		Tan’gurraam ciissirpak agturaa murag-kun.		tan’gurra-a-m ciissir-pak agtur-aa murag-kun	boy-EV-REL.SG insect-big.ABS.SG touch-IND.3SG.3SG wood-PERL.SG	The boy touched the snake with the stick.
+Central Alaskan Yupik	31		Tan’gurraam ingqia kelipaq uluakun.		tan’gurra-a-m ingqi-a kelipaq ulua-kun	boy-EV-REL.SG cut-IND.3SG.3SG bread.ABS.SG knife-PERL.SG	The boy cut the bread with the knife.
+Central Alaskan Yupik	32		Nasaurluum teglegai kalikat elitnauristemek.		nasaurlu-u-m tegleg-ai kalika-t elitnauriste-mek	girl-EV-REL.SG steal-IND.3SG.3PL paper-ABS.PL teacher-ABM.SG	The girl stole the book from the teacher. nasaurlu-u-m tegleg-ai kalika-t elitnauriste-mek tegleg-ut-anga casss’amek kass’amek stole for me.
+Central Alaskan Yupik	33		Nasaurluum allgaa ili-it kalika-nek.		nasaurlu-u-m allg-aa ili-it kalika-nek	girl-EV-REL.SG tear-IND.3SG.3SG part-ABS.3PL.SG paper-ABM.PL	The girl tore a page from the book.
+Central Alaskan Yupik	34		Nepcitaaq kiitaa.		nepcitaaq kii-t-aa talli-minek	sticky.ABS.SG peel-IND3SG-3SG arm-ABM.3RSG.SG	He took off the bandage (lit. any sticky thing) from his arm.
+Central Alaskan Yupik	35		Nasaurluum iirai kalikani elitnauristemek.		nasaurlu-u-m iir-ai kalika-ni elitnauriste-mek	girl-EV-REL.SG hide-IND.3SG.3PL paper-ABS.3RSG.PL teacher-ABM.SG	The girl hid the book from the teacher.
+Central Alaskan Yupik	36		Nasaurluum nasvagai kalikani elitnauristemun.		nasaurlu-u-m nasvag-ai kalika-ni elitnauriste-mun	girl-EV-REL.SG show-IND.3SG.3PL paper-ABS.3RSG.pl teacher-ALL.SG	The girl showed her book to the teacher.
+Central Alaskan Yupik	37		Nasaurluum tunai neqet kass'at.		nasaurlu-u-m tun-ai neqe-t kass'a-mun	girl-EV-REL.SG give-IND.3SG.3PL fish-ABS.PL white.man-ALL.SG	The girl sold (gave) the fish to the white man.
+Central Alaskan Yupik	38		Nasaurluum tuyuraa elitnauristeni kalikanek.		nasaurlu-u-m tuyur-aa elitnauriste-ni kalika-nek	girl-EV-REL.SG send-IND.3SG.3SG teacher-ABS.3RSG.PL paper-ABL.PL	The girl sent a book/books to her teacher.
+Central Alaskan Yupik	39		Nasaurluum ang’aqai kalikani elitnauristemun.		nasaurlu-u-m ang’aq-ai kalika-ni elitnauriste-mun	girl-EV-REL.SG carry-IND.3SG.3PL paper-ABS.3RSG.PL teacher-ALL.SG	The girl carried the book to the teacher.
+Central Alaskan Yupik	40		Tan’gurraam milqeraa egaleq teggalqumek.		tan’gurra-a-m milqer-aa egaleq teggalqu-mek	boy-EV-REL.SG throw-IND.3SG.3SG window.ABS.SG stone-ABM.SG	The boy threw the stone into the window.
+Central Alaskan Yupik	41		Angutem qimugta petugaa naparyamun.		angute-m qimugta petug-aa naparya-mun	man-REL.SG dog.ABS.SG tie-IND.3SG.3SG tree-ALL.SG	The man tied the dog to the post.
+Central Alaskan Yupik	42		Angutem ellii kalikat estuulumun.		angute-m elli-i kalika-t estuulu-mun	man-REL.SG put-IND.3SG.3PL paper-ABS.PL table-ALL.SG	The man put the book/paper on the table.
+Central Alaskan Yupik	43		Angutem kuvevikaa caskaq emermek.		angute-m kuve-vik-aa caskaq emer-mek	man-REL.SG pour-have.place-IND.3SG.3SG glass.ABS.SG water-ABM.SG	The man poured the water into the glass.
+Central Alaskan Yupik	44		Angutem patuamek.		angute-m patu-a-mek	man-REL.SG cover-ABS.3SG.SG ABM.SG	The man covered the with a blanket.
+Central Alaskan Yupik	45		Angutem imiraa ca[a]skaq emermek.		angute-m imir-aa caaskaq emer-mek	man-REL.SG fill-IND.3SG.3SG cup.ABS.SG water-ABM.SG	The man filled the cup with water. .
+Central Alaskan Yupik	46		Angutem ikamrani uciliraa neqnek.		angute-m ikamra-ni uci-lir-aa neq-nek	man-REL.SG sled-ABS.3RSG.SG. load-supply.with-IND.3SG.3SG fish-ABM.3PL	The man loaded fish on his own sled.
+Central Alaskan Yupik	47		Qelemtak.		qelemt-ak	blink-IND.3SG.3DU	He blinked (his eyes).
+Central Alaskan Yupik	48		Nukalpiaq qusertuq.		nukalpiaq quser-tuq	hunter.ABS.SG cough-IND.3SG	The (great) hunter coughed.
+Central Alaskan Yupik	49		Mayurtuq pengumun.		mayur-tuq pengu-mun	climb-IND.3SG hill-ALL.SG	The man climbed (up) the hill. mayur-aa penguq / mayur-tuq pengu-mun mayur-t-aa is putting it up higher mayu-ut-aa is taking it up with him.
+Central Alaskan Yupik	50		Mikelnguq aqvaqurtuq natermi.		mikelnguq aqvaqur-tuq nater-mi	child.ABS.SG run-IND.3SG floor-LOC.SG	The child ran on the floor.
+Central Alaskan Yupik	51		Angutem aqumvikaa nateq.		angute-m aqum-vik-aa nateq	man-REL.SG sit.on-IND.3SG-3G floor.ABS.SG	The man sat on the floor.
+Central Alaskan Yupik	52		Angun aqumuq aqumllermun.		angun aqum-uq aqum-ller-mun	man.ABS.SG sit-IND.3SG sit-NMLZ-ALL.SG	The man sat down in the chair.
+Central Alaskan Yupik	53		Mikelnguq qeckartuq natermi.		mikelnguq qeckar-tuq nater-mi	child.ABS.SG jump-IND.3SG floor-LOC.SG	The child jumped on the floor.
+Central Alaskan Yupik	54		Tan’gurraq aturtuq.		tan’gurraq atur-tuq	boy.ABS.SG sing-IND.3SG	The boy is singing (a song).
+Central Alaskan Yupik	55		Aataka ayallruuq kuigpagmun.		aata-ka aya-llru-uq kuigpag-mun	father-ABS.1SG.SG go-PST-IND.3SG river_big-ALL.SG	My father went to the Yukon.
+Central Alaskan Yupik	56		Irniaqa ayallruuq wangnek.		irnia-qa aya-llru-uq wang-nek	child-ABS.1SG leave-PST-IND.3SG 1sg-ABM	My child left from me.
+Central Alaskan Yupik	57		Imna kass'aq uitalartuq nunamni.		im-na kass'aq uitalar-tuq nuna-mni	that-EX.ABS.SG white.man.ABS.SG live-IND.3SG land-LOC.1SG.SG	That white man lives in my village.
+Central Alaskan Yupik	58		Arnaq ngel'artuq.		arnaq ngel'ar-tuq	woman.ABS.3SG laugh-IND.3SG	The woman is laughing.
+Central Alaskan Yupik	59		Angun aarpagtuq.		angun aarpag-tuq	man.ABS.SG yell-IND.3SG	The man screamed.
+Central Alaskan Yupik	60		Akngirtua tallimkun.		akngir-tua talli-mkun	hurt-IND.3SG arm-PERL.1SG.SG	I got hurt on my arm.
+Central Alaskan Yupik	61		Qerrutua.		qerrut-ua	cold-IND.3SG	I am cold.
+Central Alaskan Yupik	62		Angun tuquuq.		angun tuqu-uq	man.ABS.SG die-IND.SG	The man died.
+Central Alaskan Yupik	63		Mikelnguut aquigut.		mikelngu-u-t aqui-gut	child-EV-ABS.PL play-IND.3PL	The children are playing.
+Central Alaskan Yupik	64		Aataka ner'uq neqmek.		aata-ka ner'-uq neq-mek	father-ABS.1SG eat-IND.3SG fish-ABM.SG	My father is eating fish.
+Central Alaskan Yupik	65		Neqa ner'uq (ak'a).		neqa ner'-uq ak'a	fish.ABS.SG eat-IND.3SG already	The fish has been eaten (already).
+Central Alaskan Yupik	66		Nerutaanga neqnek.		ner-ut-aanga neq-nek	eat-APPL-IND.3SG.1SG fish-ABM.PL	He ate fish with me.
+Central Alaskan Yupik	67		Neqem nerianga neqcamnek.		neqe-m ner-i-anga neqca-mnek	fish-REL.SG eat-ADVS-IND.3SG.1SG bait-ABM.1SG.SG	The fish ate my bait on me.
+Central Alaskan Yupik	68		Neriunga neqcamnek.		ner-i-unga neqca-mnek	eat-ADVS-IND.1SG bait-ABM.1SG.SG	I had my bait eaten.
+Central Alaskan Yupik	69		Nernarqaanga neqmek.		ner-narq-aanga neq-mek	eat-NEC.IMPS-IND.3SG.1SG fish-ABM.SG	I have to eat fish. (lit. it necessitates me to eat fish).
+Central Alaskan Yupik	70		Nerevkaraanga qimugtemek/qimugtemun.		nere-vkar-aanga qimugte-mek/qimugte-mun	eat-CAUS-IND.3SG.1SG dog-ABM.SG/dog-ALL.SG	He made me eat a dog. / He made the dog eat me.
+Central Alaskan Yupik	71		Nerutevkaraanga neqmek irniaminun.		ner-ute-vkar-aanga neq-mek irnia-minun	eat-APPL-CAUS-IND.3SG.1SG fish-ABM.SG child-ALL.3RSG.SG	He made his child to eat fish with me.
+Central Alaskan Yupik	72		Nerevkartuq.		nere-vkar-tuq	eat-CAUS-IND.3SG	He is letting himself be eaten.
+Central Alaskan Yupik	73		Nerevkariuq.		nere-vkar-i-uq	eat-CAUS-ANTIP-IND.3SG	He is serving food (giving a potlatch), lit. he is letting someone eat something."
+Central Alaskan Yupik	74		Nerevkaritaa qetunrani.		nere-vkar-i-t-aa qetunra-ni	eat-CAUS-ANTIP-APPL-IND.3SG.3SG. son-ABS.3RSG.SG	He had a feast (lit. he let someone eat something) for his son.
+Central Alaskan Yupik	75		Nerevkaryukaanga arnamun nayirmek.		nere-vkar-yuk-aanga arna-mun nayir-mek	eat-CAUS-SPEC-IND.3SG.1SG woman-ALL.SG seal-ABM.SG	He thinks that the woman let me eat some seal.
+Central Alaskan Yupik	76		Neriunga imarmiutamek.		ner-i-unga imar-miu-ta-mek	eat-ADVS-IND.1SG content(sea)-dweller-belonging-ABM.SG	I had my mink eaten (by someone) / someone (e.g. a fox) ate the mink I had caught.
+Central Alaskan Yupik	77		Angun tangvagcetuq.		angun tang-vag-cet-uq	man.ABS.SG look.at-AUG-CAUS-IND.SG	The man is letting himself be seen (going out, visiting, etc.)."
+Central Alaskan Yupik	78		Tangertuq ellminek.		tanger-tuq ellmi-nek	see-IND.3SG 3RSG-ABM	She sees herself (e.g. in the mirror).
+Central Alaskan Yupik	79		Taqukaq tangvaumauq yugmek.		taqukaq tangva-uma-uq yug-mek	bear.ABS.SG watch-CNT-IND.3SG person-ABM.SG	The bear keeps watching a man.
+Central Alaskan Yupik	80		Taqukaq tangvaumauq yugmek.		taqukaq tang-va-uma-uq yug-mek	bear.ABS.SG see-AUG-CONT-IND.3SG person-ABM.SG	The bear keeps looking at a man.
+Central Alaskan Yupik	81		Qiavkallrua mikelnguq.		qia-vka-llru-a mikelnguq	cry-CAUS-PST-IND.3SG child.ABS.SG	He let her cry.
+Central Alaskan Yupik	82		Atuucianek assikiunga.		atu-uci-anek assik-i-unga	sing-NMLZ-ABM.3SG.SG like-ANTIP-IND.1SG	I like her way of singing.
+Central Alaskan Yupik	83		Angun yuartuq tan'gurrarmek.		angun yuar-tuq tan'gurrar-mek	man.ABS.SG search-IND.3SG boy-ABM.SG	The man is looking for (misses) a boy.
+Central Alaskan Yupik	84		Yuarutkaqa.		yurar-utk-aqa	sing-about-IND.1SG.3SG	I am singing about him. / He is the object of my singing.
+Central Alaskan Yupik	85		Atuutkaat angun.		atu-utk-aat angun	sing-RPL-IND.3PL.3SG man.ABS.SG	They are singing about him.
+Central Alaskan Yupik	86		Atuutaanga.		atu-ut-aatnga	sing-APPL-IND.3PL	They are singing to/for me.
+Central Alaskan Yupik	87		Aturaat.		atur-aat	sing-IND.3PL.3SG	They are singing it.
+Central Alaskan Yupik	88		Elitnauraqa qaneryaramek angun.		elitnaur-aqa qaner-yara-mek angun	teach-IND.1SG.3SG speak-NMLZ-ABM.SG man.ABS.SG	I am teaching the language to the man.
+Central Alaskan Yupik	89		Elitnaurutkaqa qaneryaraq angutmun.		elitnaur-utk-aqa qaner-yaraq angut-mun	teach-REPL-IND.1SG.3SG speak-NMLZ.ABS.SG man-ALL.SG	I am teaching the language to the man.
+Central Alaskan Yupik	90		Kuvevikaa arnaq mer-mek.		kuve-vik-aa arnaq mer-mek	spill-RPL-IND.3SG.3SG woman.ABS.SG water-ABM.SG	He spilled water on the woman.
+Central Alaskan Yupik	91		Kuvutekaa emeq arnamun.		kuv-utek-aa emeq arna-mun	spill-RPL-IND.3sg.3sg water.ABS.sg woman-ALL.SG	He spilled the water on a/the woman.
+Central Alaskan Yupik	92		Tuquigaqa uika.		tuqu-i-gaqa ui-ka	die-ADVS-IND.1SG.3SG husband-ABS.1SG.SG	My husband died on me. (i.e. I lost my husband).
+Central Alaskan Yupik	93		Tuquigua uimnek’.		tuqu-i-gua ui-mnek	die-ADVS-IND.3SG husband-ABM.1SG.SG	I had my husband die. (i.e. I experienced my husband dying).
+Central Alaskan Yupik	94		Angutem qanrutkaa tuntuq wangnun.		angute-m qanr-utk-aa tuntuq wang-nun	man-REL.SG speak-means-IND.3SG.3SG moose.ABS.SG 1SG-ALL	The man spoke about the moose to me.
+Central Alaskan Yupik	95		Nasvitaanga tangerrsullemnek.		nasvit-aanga tangerr-su-lle-mnek	show-IND.3SG.1SG see-wish-RELZ-ABM.1SG.SG	He showed me what I wanted to see.
+Central Alaskan Yupik	96		Tan’gurraam milqautaa teggalquq egaler-mun.		tan’gurra-a-m milqa-ut-aa teggalquq egaler-mun	boy-EV-ABS.SG throw-APPL-IND.3SG.3SG stone.ABS.SG window-ALL.SG	The boy threw the stone to the window.
+Central Alaskan Yupik	97		Mayuraa penguq.		mayur-aa penguq	climb-IND.3SG.3SG hill.ABS.SG	He climbed (up) the hill.
+Central Alaskan Yupik	98		Tan’gurraam kaigatkaa akiq angutmun.		tan’gurra-a-m kaiga-tk-aa akiq angut-mun	boy-EV-REL.SG ask.for-means-IND.3SG.3SG money.ABS.SG man-ALL.SG	The boy asked the man for money.
+Central Alaskan Yupik	99		Ilutequa.		iluteq-ua	sad-IND.3SG	I am filled with pity.
+Central Alaskan Yupik	100		Allanret kaigtut.		allanr-e-t kaig-tut	stranger-EV-ABS.PL hungry-IND.PL	The strangers are hungry.
+Central Alaskan Yupik	101		Akagenqegtaa.		akag-e-nqeg-t-aa	roll-EV-well-CAUS-IND.3SG.3SG	He made it round.
+Central Alaskan Yupik	102		Kicaq kit’-uq’.		kicaq kit’-uq	anchor.ABS.SG sink-IND.3SG	The anchor sank.
+Central Alaskan Yupik	103		Ekuagiuq kalikanek'.		ekua-gi-uq kalika-nek	burn-ANTIP-IND.3SG paper-ABM.PL	He is burning papers.
+Central Alaskan Yupik	104		Kemga kinengqauq'.		kemg-a kine-ngqa-uq	meat-ABS.3SG.SG dry-STT-IND.3SG	Its meat is dry.
+Central Alaskan Yupik	105		(C)ellallirtuq qakemna'.		cellallir-tuq qakem-na	rain-IND.3SG outside-EX.ABS.SG	It is raining outside.
+Central Alaskan Yupik	106		Irniaqa elitnauristenguuq'.		irnia-qa elitnauri-ste-ngu-uq	child-ABS.1SG.SG teach-one.who-be-IND.3SG	My child is a teacher.
+Central Alaskan Yupik	107		Irniaqa elitnauristekaa.		irnia-qa elinauri-ste-k-aa	child-ABS.1SG.SG teach-one.who-have.as-IND.3SG.3SG	My child is her teacher (lit. she has my child as a teacher).
+Central Alaskan Yupik	108		Qantallni perriraa'.		qanta-llni perrir-aa	plate-ABS.3RSG.SG wipe-IND.3SG.3SG	He is wiping his plate.
+Central Alaskan Yupik	109		Ela-ut-aa neqa'.		ela-ut-aa (n)eneq	dig-APPL-IND.3SG.3SG bone.ABS.SG	He buried the bone.
+Central Alaskan Yupik	110		Cingaa murak kenermun'.		cing-aa murak kener-mun	push-IND.3SG.3SG wood.ABS.SG. fire-ALL.SG	He pushed the wood into the fire.
+Central Alaskan Yupik	111		Carrluarnek taitaanga.		ca-rrlu-ar-nek tai-t-aanga	something-bad-kind.of-ABM.PL come-A-IND.3SG.1SG	She brought me food (not something special).
+Central Alaskan Yupik	112		Teglegaa nuussiq arnamek’.		tegleg-aa nuussiq arna-mek	steal-IND.3SG.3SG knife.ABS.SG woman-ABM.SG	He stole the knife from the woman.
+Central Alaskan Yupik	113		Niitaqa qiaguralria’.		niit-aqa qia-gura-lria	hear-IND.1SG.3SG cry-CNT-RLVZ.ABS.SG	I hear (now, one time) the one crying continually."
+Central Alaskan Yupik	114		Kenirtuq neqmek'.		kenir-tuq neq-mek	cook-IND.3SG fish-ABM.PL	She is cooking fish.
+Central Alaskan Yupik	115		Emeq qallamauq'.		emeq qalla-ma-uq	water.ABS.SG boil-PRF-IND.3SG	The water has already boiled.
+Central Alaskan Yupik	116		Arnam miilia naunraq.		arna-m miili-i naunra-t	woman-REL.SG grind-IND.3SG.3SG berry-ABS.PL	The woman is grinding the salmon berries (for making Eskimo ice cream).
+Central Alaskan Yupik	117		Pissurtekaqa angun.		pissur-te-k-aqa angun	hunt-one.who-have.as-IND.1SG.3SG man.ABS.SG	The man is my hunter.
+Central Alaskan Yupik	118		Qerrutaanga.		qerrut-aanga	cold-IND.3SG.1SG	I am cold.

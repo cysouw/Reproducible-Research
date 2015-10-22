@@ -1,0 +1,42 @@
+﻿Language_name	Gloss	Meaning
+Zenzontepec Chatino	1	first person
+Zenzontepec Chatino	2	second person
+Zenzontepec Chatino	3	third person
+Zenzontepec Chatino	ADJ	adjectival
+Zenzontepec Chatino	ART	article
+Zenzontepec Chatino	AUX	auxiliary?
+Zenzontepec Chatino	BASE	base
+Zenzontepec Chatino	CAUS	causative
+Zenzontepec Chatino	CLF	classifier
+Zenzontepec Chatino	COND	conditional
+Zenzontepec Chatino	CONJ	conjunction
+Zenzontepec Chatino	CPL	completive
+Zenzontepec Chatino	DEM	demonstrative
+Zenzontepec Chatino	EMPH	emphasis
+Zenzontepec Chatino	EXCL	exclusive
+Zenzontepec Chatino	F	feminine
+Zenzontepec Chatino	HAB	habitual
+Zenzontepec Chatino	HUM	human
+Zenzontepec Chatino	IMP	imperative? imperfective?
+Zenzontepec Chatino	INCL	inclusive
+Zenzontepec Chatino	INTR	intransitive
+Zenzontepec Chatino	IRR	irrealis
+Zenzontepec Chatino	ITER	iterative
+Zenzontepec Chatino	ITRN	intransitive
+Zenzontepec Chatino	LOC	locative
+Zenzontepec Chatino	M	masculine
+Zenzontepec Chatino	NBASE	nonbase
+Zenzontepec Chatino	NEG	negation
+Zenzontepec Chatino	NOM	nominalizer
+Zenzontepec Chatino	NSPEC	non-specific
+Zenzontepec Chatino	PART	??
+Zenzontepec Chatino	PL	plural
+Zenzontepec Chatino	POSS	possessive
+Zenzontepec Chatino	POT	potential
+Zenzontepec Chatino	PRG	progressive
+Zenzontepec Chatino	PRON	??
+Zenzontepec Chatino	RN	relational noun
+Zenzontepec Chatino	RSP	??
+Zenzontepec Chatino	SG	singular
+Zenzontepec Chatino	STAT	stative
+Zenzontepec Chatino	TRN	transitive

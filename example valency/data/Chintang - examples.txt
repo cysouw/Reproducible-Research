@@ -1,0 +1,178 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Chintang	1	Elicited from speaker	Chaŋa kitapko panna regose.		cha-ŋa kitap-ko panna reg-o-s-e	child-ERG book-GEN page tear-[3sA.]3[s]P-PRF-IND.PST	The child has torn the page from the book.
+Chintang	2	Naturalistic spoken	Ugoji regadaŋse.		u-goji reg-a-d-a-ŋs-e	3sPOSS-pocket tear-PST-COMPL.ITR-PST-PRF-[3sS.]IND.PST	Her pocket has been torn.
+Chintang	3	Elicited from speaker	Maŋa pempak cose.		ma-ŋa pempak c-o-s-e	female-ERG bread eat-[3sA.]3[s]P-PRF-IND.PST	The woman has eaten the bread.
+Chintang	4	Naturalistic spoken	Rameseyaŋ cie elo, parsada?		ramese=yaŋ ci-e elo parsada	Rames=also eat-[3sS.]IND.PST or sacrificed.meat	Did Rames also eat sacrificed meat or not?
+Chintang	5	Naturalistic spoken	Lakhman heptuŋsuhẽ.		lakhman hept-u-ŋs-u-h-ẽ	Lakhman hug-3P-PRF-3[s]P-1sA-IND.PST	I had hugged Lakhman.
+Chintang	6	Elicited from speaker	Maʔmiŋa cha coptose.		maʔmi-ŋa cha copt-o-s-e	person-ERG child look.at-[3sA.]3[s]P-PRF-IND.PST	The man has looked at the child.
+Chintang	7	Elicited from speaker	Maʔmiŋa cha khaose.		maʔmi-ŋa cha kha-o-s-e	person-ERG child see-[3sA.]3[s]P-PRF-IND.PST	The man has seen the child.
+Chintang	8	Naturalistic spoken	Kocuwaŋa namsoŋse kocuwa ujutho.		kocuwa-ŋa nams-o-ŋs-e kocuwa u-jutho	dog-ERG smell-[3sA.]3[s]P-PRF-IND.PST dog 3sPOSS-dirt	The dog has smelled at a(nother) dog's dirt.
+Chintang	9	Naturalistic spoken	Mailakko pen carko namno konei!		maila-ko pen carko nam-no konei	second.son-GEN pants strongly smell-[3sS.]IND.NPST ATTN	Hey, Maila's pants smell really bad!"
+Chintang	10	Elicited from speaker	Cha maʔmibeʔã ukipma kadase.		cha maʔmi-beʔ-ã u-kipma kad-a-s-e	child person-LOC-ERG 3sPOSS-fear come.up-PST-PRF-[3sS.]IND.PST	The child has become afraid of the man.
+Chintang	11	Elicited from speaker	Maŋa sencak kittoko.		ma-ŋa sencak kitt-o-ko	female-ERG mouse fear-[3sA.]3[s]P-IND.NPST	The woman is afraid of the mouse.
+Chintang	12	Elicited from speaker	Maŋa sencak ukipma kattoko.		ma-ŋa sencak u-kipma katt-o-ko	female-ERG mouse 3sPOSS-fear bring.up-[3sA.]3[s]P-IND.NPST	The woman is afraid of the mouse.
+Chintang	13	Elicited from speaker	Maʔmiŋa cha kipmettose.		maʔmi-ŋa cha kip-mett-o-s-e	person-ERG child fear-CAUS-[3sA.]3[s]P-PRF-IND.PST	The man has frightened the child.
+Chintang	14	Elicited from speaker	Chaŋa maʔmi khaŋma lesose.		cha-ŋa maʔmi khaŋ-ma les-o-s-e	child-ERG person see-INF like-[3sA.]3[s]P-PRF-IND.PST	The child likes the man.
+Chintang	15	Elicited from speaker	Maʔmiŋa cha mɨksikhaose.		maʔmi-ŋa cha mɨksi-kha-o-s-e	person-ERG child know-STEM-[3sA.]3[s]P-PRF-IND.PST	The man has come to know the child.
+Chintang	16	Naturalistic spoken	Huĩ Khemeŋata nisokota na.		huĩ kheme-ŋa=ta nis-o-ko=ta na	MED Kheme-ERG=FOC know-[3sA.]3[s]P-IND.NPST=FOC TOP	Kheme knows that.
+Chintang	17	Elicited from speaker	Debiŋa huŋgo seu mittoko.		debi-ŋa huŋ-go seu mitt-o-ko	Debi-ERG MED-NMLZ apple think.of-[3sA.]3[s]P-IND.NPST	Debi thinks of that apple.
+Chintang	18	Elicited from speaker	Maʔmiŋa cha kondose.		maʔmi-ŋa cha kond-o-s-e	person-ERG child search.for-[3sA.]3[s]P-PRF-IND.PST	The man has searched for the child.
+Chintang	19	Elicited from speaker	Maŋa cha wahumettose.		ma-ŋa cha wahu-mett-o-s-e	woman-ERG child take.bathe-CAUS-[3sA.]3[s]P-PRF-IND.PST	The woman has washed the child.
+Chintang	20	Naturalistic spoken	Abo wachidota naŋ hapcuriŋa.		abo wa-chid-o=ta naŋ hapcur-i-ŋa	now wash-STEM-[3sA.]3[s]P=FOC but crybaby-F-ERG	Now the crybaby is going to wash it.
+Chintang	21	Naturalistic spoken	Ippa utecce wadhaptoca!		i-ppa u-tec-ce wa-dhapt-o-c-a	2sPOSS-father 3sPOSS-clothes-ns wash-STEM-[2sA.]3P-3nsP-IMP	Wash your father's clothes!
+Chintang	22	Naturalistic spoken	Saŋa walektukuce?		sa-ŋa wa-lekt-u-ku-ce	who-ERG wash-STEM-3O-IND.NPST-[3sA.]3nsP	Who washed them?
+Chintang	23	Elicited from speaker	Maŋa cha teiʔ waiʔmettose.		ma-ŋa cha teiʔ waiʔ-mett-o-s-e	woman-ERG child clothes wear-CAUS-[3sA.]3[s]P-PRF-IND.PST	The woman has dressed the child.
+Chintang	24	Constructed by native speaker linguist	Bahalaŋa jammai kham khosatte.		bahala-ŋa jammai kham khos-a-tt-e	flood-ERG all soil sweep.away-PST-COMPL.TR-[3sA.3sP.]IND.PST	The flood swept away all the soil.
+Chintang	25	Elicited from speaker	Paŋa ma phadose.		pa-ŋa ma phad-o-s-e	man-ERG woman help-[3sA.]3[s]P-PRF-IND.PST	The man has helped the woman.
+Chintang	26	Elicited from speaker	Paŋa ma rɨktose.		pa-ŋa ma rɨkt-o-s-e	man-ERG woman follow-[3sA.]3[s]P-PRF-IND.PST	The man has followed the woman.
+Chintang	27	Elicited from speaker	Paŋa ma togose.		pa-ŋa ma tog-o-s-e	man-ERG woman get-[3sA.]3[s]P-PRF-IND.PST	The man has come across the woman.
+Chintang	28	Naturalistic spoken	Baiʔ anaŋa tubikiya e.		ba-iʔ anaŋa tub-i-ki-ya e	PROX-LOC 1pe meet-1pS-IND.NPST-e or	Here we meet, don't we."
+Chintang	29	Naturalistic spoken	Thitta mechacha lambube tubuhẽ.		thitta mechacha lambu-be tub-u-h-ẽ	one girl road-LOC meet-3[s]P-1sA-IND.PST	I met a girl on the road.
+Chintang	30	Naturalistic spoken	Aiya, hana payaŋ themma ahandokokha naŋ?		aiya hana pa=yaŋ themma a-hand-o-ko-kha naŋ	oh 2s husband=also why 2[s]A-talk.about-3[s]P-IND.NPST-BGR but	My, why do you talk about (your) husband, too?"
+Chintang	31	Naturalistic spoken	Hunce to uhancekenɨŋ.		hun-ce to u-han-ce-ke-nɨŋ	MED-ns DEM.UP 3nsS-talk-d-IND.NPST-NEG	They don't talk up there.
+Chintang	32	Elicited from speaker	Paŋa mabeko rɨŋ ukam ludose.		pa-ŋa ma-be-ko rɨŋ u-kam lud-o-s-e	man-ERG woman-LOC-GEN story 3sPOSS-friend tell-[3sA.]3[s]P-PRF-IND.PST	The man told his friend (the story) about the woman.
+Chintang	33	Elicited from speaker	Chaŋa maʔmi upheʔwa naktose.		cha-ŋa maʔmi u-pheʔwa nakt-o-s-e	child-ERG person 3sPOSS-money ask.for-[3sA.]3[s]P-PRF-IND.PST	The child has asked the man for money.
+Chintang	34	Elicited from speaker	Paŋa ma rattose.		pa-ŋa ma ratt-o-s-e	man-ERG woman shout.at-[3sA.]3[s]P-PRF-IND.PST	The man has shouted at the woman.
+Chintang	35	Naturalistic spoken	Bakhrace uraʔno.		bakhra-ce u-raʔ-no	goat-ns 3nsS-shout-IND.NPST	The goats are bleating.
+Chintang	36	Elicited from speaker	Paŋa ma katha ludose.		pa-ŋa ma katha lud-o-s-e	man-ERG woman story tell-[3sA.]3[s]P-PRF-IND.PST	The man has told the woman a story.
+Chintang	37	Naturalistic spoken	Hou, Syam ubojuŋa "nacuwa" mo ludokokhalo naŋ.		hou syam u-boju-ŋa nacuwa mo lud-o-ko-kha=lo naŋ	AFF Syam 3sPOSS-grandmother-ERG dancer CIT say.to-[3sA.]3[s]P-IND.NPST-BGR=SURP but	Yes, Syam's grandmother says "dancer" to him/calls him a dancer."
+Chintang	38	Elicited from speaker	Maŋa pa comcole mo pattose.		ma-ŋa pa comcole mo patt-o-s-e	woman-ERG man idiot CIT call-[3sA.]3[s]P-PRF-IND.PST	The woman has called the man an idiot.
+Chintang	39	Naturalistic spoken	Thitta teĩbe huĩ teĩbeko unɨŋ Dãphe teĩ mo uludoyakte.		thitta teĩ-be huĩ teĩ-be-ko u-nɨŋ dãphe teĩ mo u-lud-o-yakt-e	one village-LOC MED village-LOC-GEN 3sPOSS-name Dãphe village CIT 3nsA-call-3[s]P-IPFV-IND.PST	In one village they called that village's name Dãphe (= 'there was a village they called Dãphe').
+Chintang	40	Elicited from speaker	Maʔmiŋa khim numdose.		maʔmi-ŋa khim numd-o-s-e	person-ERG house make-[3sA.]3[s]P-PRF-IND.PST	The man has built a house.
+Chintang	41	Elicited from speaker	Chaŋa jaskeli luŋtakŋa kedose.		cha-ŋa jaskeli luŋtak-ŋa ked-o-s-e	child-ERG window stone-ERG break-[3sA.]3[s]P-PRF-IND.PST	The child has broken the window with a stone.
+Chintang	42	Naturalistic spoken	Unari kedaŋse?		u-nari ked-a-ŋs-e	3sPOSS-nose break-PST-PRF-[3sS.]IND.PST	Is her nose broken?
+Chintang	43	Naturalistic spoken	Athom waceŋa ɨcɨk uodandoŋse.		athom wa-ce-ŋa ɨ-cɨk u-od-a-nd-o-ŋs-e	before hen-ns-ERG 3sPOSS-side 3nsA-break-3[s]P-CHANGE-3[s]P-PRF-IND.PST	Just before the hens broke its side.
+Chintang	44	Naturalistic spoken	Ilaŋ odadaŋse?		i-laŋ od-a-d-a-ŋs-e	2sPOSS-leg break-PST-COMPL.ITR-PST-PRF-[3sS.]IND.PST	Is your leg broken?
+Chintang	45	Naturalistic spoken	Aseĩba cakkuŋa ba oduŋkhalo baiʔ.		aseĩba cakku-ŋa ba od-u-ŋ-kha=lo ba-iʔ	last.time knife-ERG PROX break-3[s]P-1sA-BGR=SURP PROX-LOC	Last time I broke this here with a knife.
+Chintang	46	Elicited from speaker	Chaŋa puchak lauriŋa sedose.		cha-ŋa puchak lauri-ŋa sed-o-s-e	child-ERG snake stick-ERG kill-[3sA.]3[s]P-PRF-IND.PST	The child has killed the snake with a stick.
+Chintang	47	Elicited from speaker	Chaŋa puchak lauriŋa thattose.		cha-ŋa puchak lauri-ŋa thatt-o-s-e	child-ERG snake stick-ERG beat-[3sA.]3[s]P-PRF-IND.PST	The child has beaten the snake with a stick.
+Chintang	48	Elicited from speaker	Chaŋa puchak lauriŋa tenose.		cha-ŋa puchak lauri-ŋa ten-o-s-e	child-ERG snake stick-ERG hit-[3sA.]3[s]P-PRF-IND.PST	The child has hit the snake with a stick.
+Chintang	49	Elicited from speaker	Chaŋa puchak lauriŋa nobose.		cha-ŋa puchak lauri-ŋa nob-o-s-e	child-ERG snake stick-ERG touch-[3sA.]3[s]P-PRF-IND.PST	The child touched the snake with a stick.
+Chintang	50	Elicited from speaker	Chaŋa pempak dabiŋa kɨptose.		cha-ŋa pempak dabi-ŋa kɨpt-o-s-e	child-ERG bread knife-ERG cut-[3sA.]3[s]P-PRF-IND.PST	The child has cut the bread with a knife.
+Chintang	51	Naturalistic spoken	Thuliŋa mo newarnibeʔŋa ekbora khattuwakte.		thuli-ŋa mo newarni-beʔ-ŋa ek bora khatt-u-wakt-e	Thuli-ERG DEM.DOWN Newar.woman-LOC-ERG one sack take-3[s]P-IPFV-[3sA.]IND.PST	Thuli used to take one sack from the Newar woman down there.
+Chintang	52	Elicited from speaker	Chaŋa kacĩpako kitap khuttose.		cha-ŋa kacĩpa-ko kitap khutt-o-s-e	child-ERG teacher-GEN book take-[3sA.]3[s]P-PRF-IND.PST	The child took away/stole the teacher's book.
+Chintang	53	Naturalistic spoken	Anneŋa ogone.		anne-ŋa og-o-ne	elder.sister-ERG peel-[3sA.]3[s]P-OPT	Let the older girl peel it.
+Chintang	54	Elicited from speaker	Chaŋa kacĩpako kitap tegose.		cha-ŋa kacĩpa-ko kitap teg-o-s-e	child-ERG teacher-GEN book hide-[3sA.]3[s]P-PRF-IND.PST	The child hid the teacher's book.
+Chintang	55	Elicited from speaker	Chaŋa kitappeʔã panna regose.		cha-ŋa kitap-pe-ʔã panna reg-o-s-e	child-ERG book-LOC-ERG page tear-[3sA.]3[s]P-PRF-IND.PST	The child has torn a page from the book.
+Chintang	56	Elicited from speaker	Chaŋa kacĩpa kitap khaŋmettose.		cha-ŋa kacĩpa kitap khaŋ-mett-o-s-e	child-ERG teacher book see-CAUS-[3sA.]3[s]P-PRF-IND.PST	The child showed the book to the teacher.
+Chintang	57	Naturalistic spoken	Ukhɨcɨŋ khaŋmaimeʔno.		u-khɨcɨŋ khaŋ-mai-meʔ-no	3sPOSS-ass see-[3sA.]1nsiP-CAUS-IND.NPST	He shows us his ass.
+Chintang	58	Elicited from speaker	Apakkuŋa chace mithai pidokoce.		a-pakku-ŋa cha-ce mithai pid-o-ko-ce	1sPOSS-mother's.younger.brother-ERG child-ns sweets give-[3sA.]3P-IND.NPST-3nsP	My uncle gives sweets to the children.
+Chintang	59	Elicited from speaker	Rame uppaŋa unisace pheʔwa haktuce.		rame u-ppa-ŋa u-nisa-ce pheʔwa hakt-u-c-e	Rame 3sPOSS-father-ERG 3sPOSS-younger.sibling-ns money send-[3sA.]3P-3nsP-IND.PST	Rame's father sent money to his younger siblings.
+Chintang	60	Elicited from speaker	Akka Jormanbeʔyã thitta citthi haŋsuhẽ.		akka jorman-beʔ-yã thitta citthi haŋs-u-h-ẽ	1s Germany-LOC-ERG one letter send-3[s]P-1sA-IND.PST	I sent a letter from Germany.
+Chintang	61	Elicited from speaker	Chaŋa kacĩpa kitap khuttose.		cha-ŋa kacĩpa kitap khutt-o-s-e	child-ERG teacher book bring-[3sA.]3[s]P-PRF-IND.PST	The child carried/brought a book to the teacher.
+Chintang	62	Naturalistic spoken	Basaŋa dinbharita khurukuce.		ba-sa-ŋa dinbhari=ta khur-u-ku-ce	PROX-OBL-ERG whole.day=FOC carry-[3sA.]3P-IND.NPST-3nsP	This one carries (things) the whole day.
+Chintang	63	Elicited from speaker	Chaŋa jaskelibe luŋtak osose.		cha-ŋa jaskeli-be luŋtak os-o-s-e	child-ERG window-LOC stone throw-[3sA.]3[s]P-PRF-IND.PST	The child has thrown a stone into the window.
+Chintang	64	Elicited from speaker	Appaŋa upheʔwaŋa akka uorasehẽ.		a-ppa-ŋa u-pheʔwa-ŋa akka u-or-a-s-e-h-ẽ	1sPOSS-father-ERG 3sPOSS-money-ERG 1s 3sA-throw-PST-PRF-PST-1sP-IND.PST	My father has thrown his money at me.
+Chintang	65	Elicited from speaker	Maʔmiŋa ghoda sɨŋtaŋbe chudose.		maʔmi-ŋa ghoda sɨŋtaŋ-be chud-o-s-e	person-ERG horse tree-LOC tie-[3sA.]3[s]P-PRF-IND.PST	The man has tied the horse to a tree.
+Chintang	66	Naturalistic spoken	Tinera saŋloŋa chudanducuhẽ.		tin-era saŋlo-ŋa chud-a-nd-u-cu-h-ẽ	three-CLF chain-ERG tie-3O-CHANGE-3P-3nsP-1sA-IND.PST	I tied three with a chain.
+Chintang	67	Elicited from speaker	Maʔmiŋa kitap tebulbe yuŋsose.		maʔmi-ŋa kitap tebul-be yuŋs-o-s-e	person-ERG book table-LOC put-[3sA.]3[s]P-PRF-IND.PST	The man put the book on the table.
+Chintang	68	Elicited from speaker	Maʔmiŋa cuwaŋa tenki bhare numdose.		maʔmi-ŋa cuwa-ŋa tenki bhar-e numd-o-s-e	person-ERG water-ERG tank fill-V.NTVZ do-[3sA.]3[s]P-PRF-IND.PST	The man has filled the tank with water/has poured water into the tank.
+Chintang	69	Elicited from speaker	Maʔmiŋa sirekŋa cha bhuktose.		maʔmi-ŋa sirek-ŋa cha bhukt-o-s-e	person-ERG blanket-ERG child cover-[3sA.]3[s]P-PRF-IND.PST	The man has covered the child with a blanket.
+Chintang	70	Naturalistic spoken	Istamitraŋa sɨŋ ubhuktaŋnɨhẽ.		istamitra-ŋa sɨŋ u-bhukt-a-ŋ-nɨ-h-ẽ	friends-ERG wood 3nsS/A-cover-PST-1sP-3p[A]-1sP-IND.PST	Friends covered me with wood.
+Chintang	71	Naturalistic spoken	Huŋgo ibari na sontoloŋŋa abo tiptoŋse.		huŋ-go i-bari na sontoloŋ-ŋa abo tipt-o-ŋs-e	MED-NMLZ 2sPOSS-field TOP orange-ERG now fill-[3sA.]3[s]P-PRF-IND.PST	Oranges have filled that field of yours.
+Chintang	72	Constructed by native speaker linguist	Teŋkibe cuwa tiptaŋse.		teŋki-be cuwa tipt-a-ŋs-e	tank-LOC water come.to.the.top-PST-PRF-[3sS.]IND.PST	The water has come to the top/has filled the tank.
+Chintang	73	Elicited from speaker	Maʔmiŋa gadibe ghãsa yuŋsose.		maʔmi-ŋa gadi-be ghãsa yuŋs-o-s-e	person-ERG car-LOC grass put-[3sA.]3[s]P-PRF-IND.PST	The man has loaded hay onto the truck.
+Chintang	74	Naturalistic spoken	Sunogosaŋa na kanimɨksɨlɨkta siptandoko.		su-no-go-sa-ŋa na kani-mɨksɨlɨk=ta sipt-a-nd-o-ko	be.sour-IND.NPST-NMLZ-OBL-ERG TOP 1piPOSS-eye=FOC shut-3P-CHANGE-[3sA.]3[s]P-IND.NPST	The sour stuff makes our eyes blink.
+Chintang	75	Elicited from speaker	Maʔmi chuŋsase.		maʔmi chuŋs-a-s-e	person cough-PST-PRF-[3sS.]IND.PST	The man has coughed.
+Chintang	76	Elicited from speaker	Maʔmiŋa bhɨrɨ soptose.		maʔmi-ŋa bhɨrɨ sopt-o-s-e	person-ERG hill climb-[3sA.]3[s]P-PRF-IND.PST	The man has climbed (up) the hill.
+Chintang	77	Elicited from speaker	Cha khambe pindase.		cha kham-be pind-a-s-e	child floor-LOC run-PST-PRF-[3sS.]IND.PST	The child has run over the floor.
+Chintang	78	Elicited from speaker	Maʔmi khambe yuwase.		maʔmi kham-be yuw-a-s-e	person floor-LOC sit-PST-PRF-[3sS.]IND.PST	The man has sat down on the floor.
+Chintang	79	Elicited from speaker	Maʔmi khambe yuwakte.		maʔmi kham-be yuw-a-kt-e	person floor-LOC sit-PST-IPFV-[3sS.]IND.PST	The man was sitting on the floor.
+Chintang	80	Elicited from speaker	Cha khambe tandase.		cha kham-be tand-a-s-e	child floor-LOC jump-PST-PRF-[3sS.]IND.PST	The child has jumped (down) to the floor.
+Chintang	81	Elicited from speaker	Paŋa cham lusose.		pa-ŋa cham lus-o-s-e	man-ERG song sing-[3sA.]3[s]P-PRF-IND.PST	The man has sung a song.
+Chintang	82	Naturalistic spoken	Ukhalakhalakha cham lusiyaktiehẽ.		u-khalakhala-kha cham lus-i-yakt-i-e-hẽ	3sPOSS-types-CAT song sing-1pS-IPFV-1pS-e-IND.PST	We used to sing songs of various types.
+Chintang	83	Naturalistic spoken	Saŋboŋ teĩ theke khadaŋse?		saŋboŋ teĩ theke khad-a-ŋs-e	Sambugaũ village why go-PST-PRF-[3sS.]IND.PST	Why has he gone to Sambugaũ?
+Chintang	84	Naturalistic spoken	Akka teĩbe khadaŋkha.		akka teĩ-be khad-a-ŋ-kha	1s village-LOC go-PST-1sS-BGR	I had gone to the village.
+Chintang	85	Elicited from speaker	Cha teĩbeʔã khadase.		cha teĩ-beʔ-ã khad-a-s-e	child village-LOC-ERG go-PST-PRF-[3sS.]IND.PST	The child went from/left the village.
+Chintang	86	Elicited from speaker	Cha teĩbe yuwakte.		cha teĩ-be yuw-a-kt-e	child village-LOC live-PST-IPFV-[3sS.]IND.PST	The child lived in the village.
+Chintang	87	Naturalistic spoken	Unarek rettumyaŋ lonnahaiʔ hola.		u-narek rett-u-m=yaŋ lon-na-haiʔ hola	3sPOSS-ear laugh.at-3[s]P-1nsA=also come.out-LNK-[3sS.]COMPL.ITR maybe	Maybe he comes out if we laugh about his ears.
+Chintang	88	Naturalistic spoken	Bago carko reʔno, patarnilo!		ba-go carko reʔ-no patarni=lo	PROX-NMLZ aloud laugh-[3sS.]IND.NPST slut=SURP	This one laughs out loud, like some slut!"
+Chintang	89	Naturalistic spoken	Chace urattaktace.		cha-ce u-ratt-a-kt-a-c-e	child-ns 3nsS-scream-PST-IPFV-PST-d-IND.PST	The (two) children were screaming.
+Chintang	90	Naturalistic spoken	Aphok tuknota.		a-phok tuk-no-ta	1sPOSS-belly ache-[3sS.]IND.NPST-IPFV	My belly is aching.
+Chintang	91	Elicited from speaker	Cha cuŋwa siase.		cha cuŋwa si-a-s-e	child cold feel-PST-PRF-[3sS.]IND.PST	The child feels cold/has started feeling cold.
+Chintang	92	Elicited from speaker	Maʔmi siadase.		maʔmi si-a-d-a-s-e	person die-PST-COMPL.ITR-PST-PRF-[3sS.]IND.PST	The man has died.
+Chintang	93	Elicited from speaker	Menuwaŋa sencak khoŋsoko.		menuwa-ŋa sencak khoŋs-o-ko	cat-ERG mouse play.with-[3sA.]3[s]P-IND.NPST	The cat plays with the mouse.
+Chintang	94	Elicited from speaker	Menuwa sencak khoŋno.		menuwa sencak khoŋ-no	cat mouse play.with-[3sS.]IND.NPST	The cat plays with mice.
+Chintang	95	Naturalistic spoken	Moba dajuce ukhoŋno.		mo-ba daju-ce u-khoŋ-no	DEM.DOWN-LOC elder.brother-ns 3nsS-play-IND.NPST	Down there the older guys are playing.
+Chintang	96	Naturalistic spoken	Imicinɨŋ tuknɨknɨŋ?		i-micinɨŋ tuk-nɨk-nɨŋ	2sPOSS-mind ache-[3sS.]IND.NPST-NEG	Don't you feel sad?
+Chintang	97	Naturalistic spoken	Utti para isom tuknɨŋne.		utti para i-som tuk-nɨŋ-ne	that.much COND 2sPOSS-mind ache-[3sS.]NEG-OPT	In that case don't be worried.
+Chintang	98	Elicited from speaker	Cha sɨŋsawa siase.		cha sɨŋsawa si-a-s-e	child hunger feel-PST-PRF-[3sS.]IND.PST	The child is hungry/has started to feel hungry.
+Chintang	99	Naturalistic spoken	Bagote mojja kɨnoʔ.		ba-go-te mojja kɨ-noʔ	PROX-NMLZ-SPEC.TOP nicely roll-[3sS.]IND.NPST	This one rolls nicely. / This one rolls (things) nicely.
+Chintang	100	Naturalistic spoken	Huĩsaŋa kɨrone.		huĩ-sa-ŋa kɨr-o-ne	MED-OBL-ERG roll-[3sA.]3[s]P-OPT	Let him roll it.
+Chintang	101	Elicited from speaker	Kosibe maʔmi lumse.		kosi-be maʔmi lums-e	river-LOC person sink-[3sS.]IND.PST	Somebody drowned in the river.
+Chintang	102	Elicited from speaker	Rameŋa utecce kosibe lumsuce.		rame-ŋa u-tec-ce kosi-be lums-u-c-e	Rame-ERG 3sPOSS-clothes-ns river-ns sink-[3sA.]3P-3nsP-IND.PST	Rame sank his clothes in the river.
+Chintang	103	Naturalistic spoken	Ama, boda huttase!		ama boda hutt-a-s-e	mother bean burn-PST-PRF-[3sS.]IND.PST	Mother, the beans got burned!"
+Chintang	104	Constructed by native speaker linguist	Namŋa kham huttoŋse.		nam-ŋa kham hutt-o-ŋs-e	sun-ERG soil burn-[3sA.]3[s]P-PRF-IND.PST	The sun has burnt the soil.
+Chintang	105	Elicited from speaker	Bheʔwace huniahala siptade.		bheʔwa-ce huni-ahala sipt-a-d-e	duck-ns 3pPOSS-pond dry-PST-COMPL.ITR-[3sS.]IND.PST	The ducks' pond has dried out.
+Chintang	106	Naturalistic spoken	To siptattoŋse thitta.		to sipt-a-tt-o-ŋs-e thitta	DEM.UP dry-3P-COMPL.TR-[3sA.]3[s]P-PRF-IND.PST one	Up there it has dried up one.
+Chintang	107	Elicited from speaker	Weiʔ tiase.		weiʔ ti-a-s-e	rain come-PST-PRF-[3sS.]IND.PST	It has rained.
+Chintang	108	Naturalistic spoken	Jhantaã them cemdoko?		jhanta-ã them cemd-o-ko	grinding.stone-ERG what grind-[3sA.]3[s]P-IND.NPST	What is he grinding with the grinding stone?
+Chintang	109	Elicited from speaker	Akka sambok cemdehẽ.		akka sambok cemd-e-h-ẽ	1s millet grind-PST-1sS-IND.PST	I ground millet.
+Chintang	110	Elicited from speaker	Chaŋa teiʔbeko dhuli tɨgose.		cha-ŋa teiʔ-be-ko dhuli tɨg-o-s-e	child-ERG clothes-LOC-GEN dirt wipe-[3sA.]3[s]P-PRF-IND.PST	The child has wiped the dirt off the clothes.
+Chintang	111	Naturalistic spoken	Hunce tusukhocenena huĩsaŋa.		hun-ce tus-u-kh-o-ce-ne-na huĩ-sa-ŋa	MED-ns dig-3P-CON-[3sA.]3P-3nsP-OPT-INSIST MED-OBL-ERG	Let him try to dig them out.
+Chintang	112	Naturalistic spoken	Bago maʔmiyã pholoŋse elo hokke?		ba-go maʔmi-yã phol-o-ŋs-e elo hokke	PROX-NMLZ person-ERG dig-[3sA.]3[s]P-PRF-IND.PST or where	Is it a person who has dug out this one or what?
+Chintang	113	Elicited from speaker	Akhim theŋsibe saŋa dhuwaŋ tusose?		a-khim theŋsi-be sa-ŋa dhuwaŋ tus-o-s-e	1sPOSS-house behind-LOC who-ERG hole dig-[3sA.]3[s]P-PRF-IND.PST	Who has dug the hole behind my house?
+Chintang	114	Naturalistic spoken	Saiʔko uchauŋa utoĩyaʔãlo ni?		sa-iʔ-ko u-chau-ŋa u-toĩ-ya-ʔã=lo ni	who-LOC-GEN 3sPOSS-child-ERG 3sA-push-1sP-IND.NPST=SURP EMPH	Whose child is pushing me?
+Chintang	115	Naturalistic spoken	Toʔni tolokho ni!		to-ʔni tol-o-kh-o ni	DEM.UP-DIR push-3P-CON-[2sA.]3[s]P EMPH	Push it up there!
+Chintang	116	Elicited from speaker	Appaŋa urɨŋ anisace cindose.		a-ppa-ŋa u-rɨŋ a-nisa-ce cind-o-s-e	1sPOSS-father-ERG 3sPOSS-language 1sPOSS-younger.sibling-ns teach-[3sA.]3[s]P-PRF-IND.PST	My father taught my younger brothers his language.
+Chintang	117	Naturalistic spoken	Carko cektaʔna, khemsokonɨŋ anneŋa.		carko cekt-aʔ-na khems-o-ko-nɨŋ a-nne-ŋa	loudly speak-IMP-INSIST hear-[3sA.]3[s]P-IND.NPST-NEG 1sPOSS-elder.sister-ERG	Speak up, my sister doesn't hear it."
+Chintang	118	Naturalistic spoken	Huĩ kantibe boŋga thuktuŋsuhẽ marcinɨŋ.		huĩ kanti-be boŋga thukt-u-ŋs-u-h-ẽ marci-nɨŋ	MED pot-LOC banana.leaf cook-3P-PRF-3[s]P-1sA-IND.PST chilli-COM	I've cooked a banana leaf with chilli in that pot.
+Chintang	119	Naturalistic written	Cuwa lokto pache choku cimtaŋa lapma kina tima konnoʔ.		cuwa lokt-o pache choku cimta-ŋa lap-ma kina ti-ma kon-no	water boil-[3sA.]3[s]P after nettle pincers-ERG seize-INF SEQ put.in-INF must-[3sS.]IND.NPST	After the water comes to a boil, one has to take the nettles with pincers and put them in."
+Chintang	120	Elicited from speaker	Them aphaŋsoŋse?		them a-phaŋs-o-ŋs-e	what 2[s]A-boil-3[s]P-PRF-IND.PST	What have you boiled?
+Chintang	121	Elicited from speaker	Cha lambube thadaŋse.		cha lambu-be thad-a-ŋs-e	child road-LOC appear-PST-PRF-[3sS.]IND.PST	The child appeared on the road.
+Chintang	122	Naturalistic spoken	Unna hinɨknɨŋ.		u-nna hi-nɨk-nɨŋ	3sPOSS-elder.sister be.able-[3sS.]IND.NPST-NEG	His sister is ill.
+Chintang	123	Naturalistic spoken	Hana ahapno?		hana a-hap-no	2s 2[s]S-cry-IND.NPST	Do you cry?
+Chintang	124	Elicited from speaker	Maʔmi thamsase.		maʔmi thams-a-s-e	person fall-PST-PRF-[3sS.]IND.PST	The man has fallen down.
+Chintang	125	Naturalistic spoken	Halo bane numdokokha Centiŋa.		halo ban-e numd-o-ko-kha centi-ŋa	plough make-V.NTVZ do-[3sA.]3[s]P-IND.NPST-BGR Centi-ERG	Centi is making a plough.
+Chintang	126	Elicited from speaker	Chaŋa kitap kacĩpabeʔã togose.		cha-ŋa kitap kacĩpa-beʔ-ã tog-o-s-e	child-ERG book teacher-LOC-ERG get-[3sA.]3[s]P-PRF-IND.PST	The child has got a book from the teacher.
+Chintang	127	Elicited from speaker	Huĩ suncuwace alamma kattoŋsuce.		huĩ suncuwa-ce a-lamma katt-o-ŋs-u-c-e	MED citrus.fruit-ns 1sPOSS-appetite bring.up-3P-PRF-[3sA.]3P-3nsP-IND.PST	I want/have an appetite for those citrus fruits.
+Chintang	128	Elicited from speaker	Chaŋa usaikil bhirbeʔyã thamse.		cha-ŋa u-saikil bhir-beʔ-yã thams-e	child-ERG 3sPOSS-bike cliff-LOC-ERG drop-[3sA.3sP.]IND.PST	The child dropped his bike from the cliff.
+Chintang	129	Constructed by native speaker linguist	Maŋa uchau heptoŋse.		ma-ŋa u-chau hept-o-ŋs-e	mother-ERG 3sPOSS-child hug-[3sA.]3[s]P-PRF-IND.PST	The mother has hugged her child.
+Chintang	130	Constructed by native speaker linguist	Rameceŋa puchakce hunikipma kattukuce.		rame-ce-ŋa puchak-ce huni-kipma katt-u-ku-ce	Rame-ns-ERG snake-ns 3pPOSS-fear bring.up-[3sA.]3P-IND.NPST-3nsP	Rame and the others are afraid of snakes.
+Chintang	131	Constructed by native speaker linguist	Ba kocuwaŋa cha kipmettoko.		ba kocuwa-ŋa cha kip-mett-o-ko	PROX dog-ERG child fear-CAUS-[3sA.]3[s]P-IND.NPST	This dog frightens the child.
+Chintang	132	Constructed by native speaker linguist	Iphuwaŋa Rame phakceŋa kipmettoko.		i-phuwa-ŋa rame phak-ce-ŋa kip-mett-o-ko	2sPOSS-elder.brother-ERG Rame pig-ns-ERG fear-CAUS-[3sA.]3[s]P-IND.NPST	Your brother makes Rame afraid of the pigs.
+Chintang	133	Constructed by linguist	Anisaŋa ancitecce wadhaptokoceta.		a-nisa-ŋa anci-tec-ce wa-dhapt-o-ko-ce-ta	1sPOSS-younger.sibling-ERG 1diPOSS-clothes-ns wash-STEM-[3sA.]3P-IND.NPST-3nsP-IPFV	My younger sister is washing our clothes.
+Chintang	134	Constructed by native speaker linguist	Rameŋa udadi khosandoŋse pho.		rame-ŋa u-dadi khos-a-nd-o-ŋs-e pho	Rame-ERG 3sPOSS-beard shave-3P-CHANGE-[3sA.]3[s]P-PRF-IND.PST REP	I heard Rame has shaved his beard.
+Chintang	135	Constructed by native speaker linguist	Huĩsaŋa hana ukatha nalude?		huĩ-sa-ŋa hana u-katha na-lud-e	MED-OBL-ERG 2s 3sPOSS-story 3[s]:2-tell-IND.PST	Did he tell you his story?
+Chintang	136	Constructed by native speaker linguist	Kanchaŋa ugol moʔni kɨroŋse.		kancha-ŋa u-gol mo-ʔni kɨr-o-ŋs-e	youngest.son-ERG 3sPOSS-ball DEM.DOWN-DIR roll-[3sA.]3[s]P-PRF-IND.PST	Kancha has rolled his ball down there.
+Chintang	137	Constructed by native speaker linguist	Yosaŋa anci mairecceke.		yo-sa-ŋa anci mai-rec-ce-ke	DEM.ACROSS-OBL-ERG 1di 1nsiP-laugh.at-d-IND.NPST	That guy is laughing at us.
+Chintang	138	Constructed by native speaker linguist	Namŋa ahala siptattoŋse.		nam-ŋa ahala sipt-a-tt-o-ŋs-e	sun-ERG pond dry.out-3P-COMPL.TR-[3sA.]3[s]P-PRF-IND.PST	The sun has dried out the pond.
+Chintang	139	Constructed by native speaker linguist	Maceŋa sambok ucemdoko.		ma-ce-ŋa sambok u-cemd-o-ko	woman-ns-ERG millet 3[ns]A-grind-3P-IND.NPST	The women grind the millet.
+Chintang	140	Constructed by native speaker linguist	Mace sambok ucemno.		ma-ce sambok u-cem-no	woman-ns millet 3[ns]S-grind-IND.NPST	The women grind millet.
+Chintang	141	Constructed by native speaker linguist	Budhaŋa unatini usora khemsokonɨŋ.		budha-ŋa u-natini u-sora khems-o-ko-nɨŋ	old.man-ERG 3sPOSS-granddaughter 3sPOSS-voice hear-[3sA.]3[s]P-IND.NPST-NEG	The old man doesn't hear his granddaughter's voice.
+Chintang	142	Constructed by native speaker linguist	Huŋgo maʔmi kaʔappakha.		huŋ-go maʔmi kaʔappa-kha	MED-NMLZ person hunter-CAT	That guy is a hunter.
+Chintang	143	Elicited from speaker	Anikocuwa huk gari chaceŋa hunikiʔma kattoko.		ani-kocuwa huk gari cha-ce-ŋa huni-kipma katt-o-ko	1piPOSS-dog bark when child-ns-ERG 3nsPOSS-fear bring.up-[3sA.]3[s]P-IND.NPST	When our dog barks the children get frightened.
+Chintang	144	Naturalistic spoken	Dailobe khattum.		dailo-be khatt-u-m	veranda-LOC bring-3[s]P-1nsA	Let's bring it to the veranda.
+Chintang	145	Naturalistic spoken	Ba upadumbe haŋsandothaptuhẽ ta na, hokeʔni masade?		ba u-padum-be haŋs-a-nd-o-thapt-u-h-ẽ ta na hoke-ʔni mas-a-d-e	PROX 3sPOSS-father's.elder.brother-LOC send-3P-CHANGE-3P-over-3[s]P-1sA-IND.PST FOC TOP where-DIR get.lost-PST-COMPL.ITR-IND.PST	I did send this one to his uncle - where did it get lost?
+Chintang	146	Naturalistic spoken	Dhankuta khattummakha.		dhankuta khatt-u-m-ma-kha	Dhankuta bring-3[s]P-1nsA-e-BGR	We had brought him to Dhankuta.
+Chintang	147	Elicited from speaker	Bago Malesia haŋma konno.		ba-go malesia haŋ-ma kon-no	PROX-NMLZ Malaysia send-INF must-[3sS.]IND.NPST	This one must be sent to Malaysia.
+Chintang	148	Elicited from speaker	Kancha, mo inisa osa!		kancha mo i-nisa os-a	youngest.son DEM.DOWN 2sPOSS-younger.sibling throw-IMP	Kancha, throw (something) on your younger brother down there!"
+Chintang	149	Naturalistic spoken	Muda yuwaʔna.		muda yuw-aʔ-na	stool sit-IMP-INSIST	Sit down on a stool.
+Chintang	150	Naturalistic spoken	Hapnoʔ, bhuknaŋnace!		hap-no bhuk-na-ŋ-na-c-e	cry-IND.NPST cover-REFL-PRF-REFL-REFL-IND.PST	He's crying, he's covered himself!"
+Chintang	151	Naturalistic spoken	Hokkoiʔ-hokkoiʔya abo kanikko ucinnaancĩ.		hokko-iʔ-hokko-iʔ-ya abo kani-kko u-cin-na-a-ncĩ	which-LOC-which-LOC-ERG now 1pi-GEN 3nsS-teach-REFL-IND.NPST-nsREFL	Now they (come from) various places (and) learn our language.
+Chintang	152	Naturalistic spoken	Anaŋa khaŋnaancĩya.		anaŋa khaŋ-na-a-ncī-ya	1pe watch-REFL-IND.NPST-nsREFL-e	We look after ourselves.
+Chintang	153	Elicited from speaker	Theke kɨnacelo ni bago?		theke kɨ-na-c-e=lo ni ba-go	why roll-REFL-REFL-IND.PST=SURP EMPH PROX-NMLZ	Why did this one fall down?
+Chintang	154	Naturalistic spoken	Huŋgo onadinace pho inarabe.		huŋ-go o-na-di-na-c-e pho inara-be	MED-NMLZ throw-REFL-in-REFL-REFL-IND.PST REP well-LOC	They say it jumped into the well.
+Chintang	155	Naturalistic spoken	Teĩkateĩ lusinɨŋkha!		teĩ-ka-teĩ lus-i-nɨŋ-kha	beat-RECP-beat AUX-1p[S]-NEG-BGR	Let's not beat each other!
+Chintang	156	Naturalistic spoken	Khaŋkakhaŋ lusi gari chitti likhi ta lusaŋsehẽʔ.		khaŋ-ka-khaŋ lus-i gari chitt-i likhi=ta lus-a-ŋs-e-h-ẽʔ	watch-RECP-watch AUX-1p[S] when find-1p[S] like=FOC feel-PST-PRF-PST-1sS-IND.PST	I felt like we could find something just watching each other.
+Chintang	157	Naturalistic written	Tubiŋsi ghari nikani lusi, rettine, cektine.		tub-i-ŋs-i ghari ni-ka-ni lus-i rett-i-ne cekt-i-ne	meet-1p-PRF-1p[S] when know-RECP-know AUX-1p[S] laugh-1p[S]-OPT speak-1p[S]-OPT	When we have met let's get to know each other, let's laugh and talk."
+Chintang	158	Naturalistic spoken	Huŋgo khalko sahayog pikapi lusikiya teĩbe.		huŋ-go khal-ko sahayog pi-ka-pi lus-i-ki-ya teĩ-be	MED-NMLZ kind-GEN help give-RECP-give AUX-1p[S]-IND.NPST-e village-LOC	We give that kind of help to each other in the village.
+Chintang	159	Naturalistic written	Huŋgo sambali yuŋmayaŋ bhãda.		huŋ-go sambali yuŋ-mayaŋ bhãda	MED-NMLZ soybean put-PASS.PTCP pot	The pot where the soybeans have been put.
+Chintang	160	Naturalistic spoken	Phidaŋ bhukmayaŋkha.		phidaŋ bhuk-mayaŋ-kha	ginger cover-PASS.PTCP-CAT	That is covered ginger.
+Chintang	161	Naturalistic spoken	Okmayaŋlo raicha naŋ.		ok-mayaŋ=lo raicha naŋ	peel-PASS.PTCP=SURP MIR but	But it looks like it's been peeled.
+Chintang	162	Naturalistic spoken	Rameko waadhaptopido pho.		rame-ko wa-a-dhapt-o-pid-o pho	Rame-GEN wash-2[s]A-STEM-3P-BEN-3[s]P REP	I heard you're washing Rame's (clothes).
+Chintang	163	Naturalistic spoken	Ba regandobido ni!		ba reg-a-nd-o-bid-o ni	PROX tear-3P-CHANGE-3P-BEN-[3sA.]3[s]P EMPH	He's going to tear this one (apart)!
+Chintang	164	Naturalistic spoken	Akka oknabina.		akka ok-na-bi-na	1s peel-1s:2[s]-BEN-1s:2[s]	Let me peel it for you.
+Chintang	165	Naturalistic spoken	Phakce cam piducaʔ ni, them-them kondupiduca ni!		phak-ce cam pid-u-c-a ni them-them kond-u-pid-u-c-a ni	pig-ns fodder give-3P-3nsP-[2sA.]IMP EMPH what-what search-3P-BEN-3P-3nsP-[2sA.]IMP EMPH	Give fodder to the pigs, search something for them!"
+Chintang	166	Naturalistic spoken	Jogoyaŋ nakhutticaihattibiri.		jo-go=yaŋ na-khutt-i-ca-i-hatt-i-bir-i	whatever-NMLZ=also 3[s]:2-steal-2p-eat-2p-COMPL.TR-2p-BEN-2p	He will steal and eat everything from you.
+Chintang	167	Naturalistic spoken	Utaŋ ukɨptandupidoŋse bayaŋ.		u-taŋ u-kɨpt-a-nd-u-pid-o-ŋs-e ba=yaŋ	3sPOSS-hair 3nsA-cut-3P-CHANGE-3P-BEN-3[s]P-PRF-IND.PST PROX=also	They cut this one's hair, too."
+Chintang	168	Naturalistic spoken	Yuŋmettukuce holau jammai।.		yuŋ-mett-u-ku-ce holau jammai	sit-CAUS-3P-IND.NPST-[3sA.]3nsP maybe all	Maybe she makes them all sit down.
+Chintang	169	Naturalistic spoken	Yoʔni thaiʔmettokho!		yo-ʔni thaiʔ-mett-o-kh-o	DEM.ACROSS-DIR appear-CAUS-3P-CON-[2sA.]3[s]P	Make it appear over there!
+Chintang	170	Naturalistic spoken	Kassikana taĩmettana!		kassikana taĩ-mett-a-na	with.force jump-CAUS-IMP-INSIST	Let it bounce with all your force!
+Chintang	171	Naturalistic spoken	Saĩli lo okmettoŋse naŋ.		saĩli=lo ok-mett-o-ŋs-e naŋ	third.youngest.daughter=SURP peel-CAUS-3P-PRF-IND.PST but	But he's made Saili peel it.
+Chintang	172	Naturalistic written	Cuwa tima kina lokmeiʔma konno.		cuwa ti-ma kina lok-meiʔ-ma kon-no	water put.in-INF SEQ boil-CAUS-INF must-[3sS.]IND.NPST	One has to fill in water and boil it.
+Chintang	173	Naturalistic spoken	Akhaita hapmettoko mo na Rameŋa.		akhai=ta hap-mett-o-ko mo na rame-ŋa	a.lot=FOC cry-CAUS-[3sA.]3P-IND.NPST CIT TOP Rame-ERG	Rame makes her cry a lot.
+Chintang	174	Naturalistic spoken	Kocuwa khumettokho naŋ!		kocuwa khu-mett-o-kh-o naŋ	dog carry-CAUS-3P-CON-[2sA.]3[s]P but	Try to make the dog carry it!
+Chintang	175	Naturalistic spoken	Theke khaŋamettuce?		theke khaŋ-a-mett-u-c-e	why watch-PST-CAUS-3P-3nsP-[3sA.]IND.PST	Why did you show it to them?
+Chintang	176		Bharkhari camayɨŋ likhiʔ ta namno.		bharkhari ca-mayaŋ likhi ta nams-no	recently eat-PASS.PTCP EQU FOC smell-IND.NPST[.3sS]	It smells as if it had been eaten just now.
+Chintang	177		Chamukŋa khaŋmayaŋ thaũ.		cha-muk-ŋa khaŋ-mayaŋ thaũ	child-eye-ERG see-PASS.PTCP place	A place seen with a child's eyes.

@@ -1,0 +1,2209 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Nǀǀng	1	EAT	ain	Addition of direct object	Never	
+Nǀǀng	1	EAT	ain	Addition of direct object via SVC	Never	
+Nǀǀng	1	EAT	ain	Addition of instrument/comitative	Never	
+Nǀǀng	1	EAT	ain	Addition of oblique	Never	
+Nǀǀng	1	EAT	ain	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	1	EAT	ain	Addition of oblique via SVC	Never	
+Nǀǀng	1	EAT	ain	Clausal complement instead of direct object	Never	
+Nǀǀng	1	EAT	ain	Clausal complement instead of oblique argument	Never	
+Nǀǀng	1	EAT	ain	Coded causative	Regularly	
+Nǀǀng	1	EAT	ain	Coded causative + addition of oblique	Never	
+Nǀǀng	1	EAT	ain	Deagentive	Never	
+Nǀǀng	1	EAT	ain	Deletion of dative object	Never	
+Nǀǀng	1	EAT	ain	Deletion of direct object	Regularly	
+Nǀǀng	1	EAT	ain	Deletion of indirect object	Never	
+Nǀǀng	1	EAT	ain	Deletion of oblique	Never	
+Nǀǀng	1	EAT	ain	Demotion of direct object to oblique	Never	
+Nǀǀng	1	EAT	ain	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	1	EAT	ain	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	1	EAT	ain	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	1	EAT	ain	Promotion of direct object to oblique	Never	
+Nǀǀng	1	EAT	ain	Promotion of oblique to indirect object	Never	
+Nǀǀng	1	EAT	ain	Theme as instrument instead of oblique	Never	
+Nǀǀng	1	EAT	ain	Uncoded causative	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Coded causative	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Deagentive	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	2	HUG	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of direct object	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of direct object via SVC	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of instrument/comitative	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Addition of oblique via SVC	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Clausal complement instead of direct object	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Clausal complement instead of oblique argument	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Coded causative	Marginally	
+Nǀǀng	3	LOOK AT	ǂaqe	Coded causative + addition of oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Deagentive	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Deletion of dative object	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Deletion of direct object	Regularly	
+Nǀǀng	3	LOOK AT	ǂaqe	Deletion of indirect object	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Deletion of oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Demotion of direct object to oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Promotion of direct object to oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Promotion of oblique to indirect object	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Theme as instrument instead of oblique	Never	
+Nǀǀng	3	LOOK AT	ǂaqe	Uncoded causative	Never	
+Nǀǀng	4	SEE	nǀai	Addition of direct object	Never	
+Nǀǀng	4	SEE	nǀai	Addition of direct object via SVC	Never	
+Nǀǀng	4	SEE	nǀai	Addition of instrument/comitative	Never	
+Nǀǀng	4	SEE	nǀai	Addition of oblique	Never	
+Nǀǀng	4	SEE	nǀai	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	4	SEE	nǀai	Addition of oblique via SVC	Never	
+Nǀǀng	4	SEE	nǀai	Clausal complement instead of direct object	Regularly	
+Nǀǀng	4	SEE	nǀai	Clausal complement instead of oblique argument	Never	
+Nǀǀng	4	SEE	nǀai	Coded causative	Marginally	
+Nǀǀng	4	SEE	nǀai	Coded causative + addition of oblique	Never	
+Nǀǀng	4	SEE	nǀai	Deagentive	Never	
+Nǀǀng	4	SEE	nǀai	Deletion of dative object	Never	
+Nǀǀng	4	SEE	nǀai	Deletion of direct object	Never	
+Nǀǀng	4	SEE	nǀai	Deletion of indirect object	Never	
+Nǀǀng	4	SEE	nǀai	Deletion of oblique	Never	
+Nǀǀng	4	SEE	nǀai	Demotion of direct object to oblique	Never	
+Nǀǀng	4	SEE	nǀai	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	4	SEE	nǀai	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	4	SEE	nǀai	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	4	SEE	nǀai	Promotion of direct object to oblique	Never	
+Nǀǀng	4	SEE	nǀai	Promotion of oblique to indirect object	Never	
+Nǀǀng	4	SEE	nǀai	Theme as instrument instead of oblique	Never	
+Nǀǀng	4	SEE	nǀai	Uncoded causative	Never	
+Nǀǀng	5	SMELL	ǃqhao	Addition of direct object	Never	
+Nǀǀng	5	SMELL	ǃqhao	Addition of direct object via SVC	Never	
+Nǀǀng	5	SMELL	ǃqhao	Addition of instrument/comitative	Never	
+Nǀǀng	5	SMELL	ǃqhao	Addition of oblique	Regularly	
+Nǀǀng	5	SMELL	ǃqhao	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	5	SMELL	ǃqhao	Addition of oblique via SVC	Never	
+Nǀǀng	5	SMELL	ǃqhao	Clausal complement instead of direct object	Regularly	
+Nǀǀng	5	SMELL	ǃqhao	Clausal complement instead of oblique argument	Never	
+Nǀǀng	5	SMELL	ǃqhao	Coded causative	Marginally	
+Nǀǀng	5	SMELL	ǃqhao	Coded causative + addition of oblique	Never	
+Nǀǀng	5	SMELL	ǃqhao	Deagentive	Never	
+Nǀǀng	5	SMELL	ǃqhao	Deletion of dative object	Never	
+Nǀǀng	5	SMELL	ǃqhao	Deletion of direct object	Regularly	
+Nǀǀng	5	SMELL	ǃqhao	Deletion of indirect object	Never	
+Nǀǀng	5	SMELL	ǃqhao	Deletion of oblique	Marginally	
+Nǀǀng	5	SMELL	ǃqhao	Demotion of direct object to oblique	Never	
+Nǀǀng	5	SMELL	ǃqhao	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	5	SMELL	ǃqhao	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	5	SMELL	ǃqhao	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	5	SMELL	ǃqhao	Promotion of direct object to oblique	Never	
+Nǀǀng	5	SMELL	ǃqhao	Promotion of oblique to indirect object	Never	
+Nǀǀng	5	SMELL	ǃqhao	Theme as instrument instead of oblique	Never	
+Nǀǀng	5	SMELL	ǃqhao	Uncoded causative	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of direct object	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of direct object via SVC	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of instrument/comitative	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of oblique	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	6	FEAR	ǃauka	Addition of oblique via SVC	Never	
+Nǀǀng	6	FEAR	ǃauka	Clausal complement instead of direct object	Never	
+Nǀǀng	6	FEAR	ǃauka	Clausal complement instead of oblique argument	Never	
+Nǀǀng	6	FEAR	ǃauka	Coded causative	Marginally	
+Nǀǀng	6	FEAR	ǃauka	Coded causative + addition of oblique	Never	
+Nǀǀng	6	FEAR	ǃauka	Deagentive	Never	
+Nǀǀng	6	FEAR	ǃauka	Deletion of dative object	Never	
+Nǀǀng	6	FEAR	ǃauka	Deletion of direct object	Never	
+Nǀǀng	6	FEAR	ǃauka	Deletion of indirect object	Never	
+Nǀǀng	6	FEAR	ǃauka	Deletion of oblique	Regularly	
+Nǀǀng	6	FEAR	ǃauka	Demotion of direct object to oblique	Never	
+Nǀǀng	6	FEAR	ǃauka	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	6	FEAR	ǃauka	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	6	FEAR	ǃauka	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	6	FEAR	ǃauka	Promotion of direct object to oblique	Regularly	
+Nǀǀng	6	FEAR	ǃauka	Promotion of oblique to indirect object	Never	
+Nǀǀng	6	FEAR	ǃauka	Theme as instrument instead of oblique	Never	
+Nǀǀng	6	FEAR	ǃauka	Uncoded causative	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of direct object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of direct object via SVC	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of instrument/comitative	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Addition of oblique via SVC	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Clausal complement instead of direct object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Clausal complement instead of oblique argument	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Coded causative	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Coded causative + addition of oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Deagentive	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Deletion of dative object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Deletion of direct object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Deletion of indirect object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Deletion of oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Demotion of direct object to oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Promotion of direct object to oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Promotion of oblique to indirect object	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Theme as instrument instead of oblique	Never	
+Nǀǀng	7	FRIGHTEN	kxʼuu qain	Uncoded causative	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of direct object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of direct object via SVC	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of instrument/comitative	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of oblique	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Addition of oblique via SVC	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Coded causative	Marginally	
+Nǀǀng	8	LIKE	tsʼaanʼa	Coded causative + addition of oblique	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Deagentive	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Deletion of dative object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Deletion of direct object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Deletion of indirect object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Deletion of oblique	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Demotion of direct object to oblique	Regularly	
+Nǀǀng	8	LIKE	tsʼaanʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	8	LIKE	tsʼaanʼa	Uncoded causative	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of direct object	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of direct object via SVC	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of instrument/comitative	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Addition of oblique via SVC	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Clausal complement instead of direct object	Regularly	
+Nǀǀng	9	KNOW	ǁxae(-a)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Coded causative	Marginally	
+Nǀǀng	9	KNOW	ǁxae(-a)	Coded causative + addition of oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Deagentive	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Deletion of dative object	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Deletion of direct object	Marginally	
+Nǀǀng	9	KNOW	ǁxae(-a)	Deletion of indirect object	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Deletion of oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Demotion of direct object to oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Promotion of direct object to oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Promotion of oblique to indirect object	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Theme as instrument instead of oblique	Never	
+Nǀǀng	9	KNOW	ǁxae(-a)	Uncoded causative	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of direct object	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of direct object via SVC	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of instrument/comitative	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Addition of oblique via SVC	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Clausal complement instead of direct object	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Clausal complement instead of oblique argument	Regularly	
+Nǀǀng	10	THINK	ǂʼain(ke)	Coded causative	Marginally	
+Nǀǀng	10	THINK	ǂʼain(ke)	Coded causative + addition of oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Deagentive	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Deletion of dative object	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Deletion of direct object	Marginally	
+Nǀǀng	10	THINK	ǂʼain(ke)	Deletion of indirect object	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Deletion of oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Demotion of direct object to oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Promotion of direct object to oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Promotion of oblique to indirect object	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Theme as instrument instead of oblique	Never	
+Nǀǀng	10	THINK	ǂʼain(ke)	Uncoded causative	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of direct object	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of direct object via SVC	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of instrument/comitative	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Addition of oblique via SVC	Marginally	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Coded causative	Marginally	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Coded causative + addition of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Deagentive	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Deletion of dative object	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Deletion of direct object	Marginally	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Deletion of indirect object	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Deletion of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Demotion of direct object to oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǁaanʼa	Uncoded causative	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of direct object	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of direct object via SVC	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of instrument/comitative	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of oblique	No data	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Addition of oblique via SVC	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Clausal complement instead of direct object	Regularly	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Clausal complement instead of oblique argument	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Coded causative	Marginally	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Coded causative + addition of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Deagentive	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Deletion of dative object	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Deletion of direct object	Marginally	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Deletion of indirect object	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Deletion of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Demotion of direct object to oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Promotion of direct object to oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Promotion of oblique to indirect object	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Theme as instrument instead of oblique	Never	
+Nǀǀng	11	SEARCH FOR	ǂxaqake	Uncoded causative	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of direct object	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of direct object via SVC	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of instrument/comitative	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of oblique	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Addition of oblique via SVC	No data	
+Nǀǀng	12	WASH	ǁkxʼam	Clausal complement instead of direct object	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Clausal complement instead of oblique argument	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Coded causative	Marginally	
+Nǀǀng	12	WASH	ǁkxʼam	Coded causative + addition of oblique	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Deagentive	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Deletion of dative object	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Deletion of direct object	Regularly	
+Nǀǀng	12	WASH	ǁkxʼam	Deletion of indirect object	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Deletion of oblique	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Demotion of direct object to oblique	No data	
+Nǀǀng	12	WASH	ǁkxʼam	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Promotion of direct object to oblique	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Promotion of oblique to indirect object	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Theme as instrument instead of oblique	Never	
+Nǀǀng	12	WASH	ǁkxʼam	Uncoded causative	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of direct object	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of direct object via SVC	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of instrument/comitative	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Addition of oblique via SVC	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Clausal complement instead of direct object	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Coded causative	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Coded causative + addition of oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Deagentive	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Deletion of dative object	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Deletion of direct object	Regularly	
+Nǀǀng	13	DRESS	nǁaa (1)	Deletion of indirect object	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Deletion of oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Demotion of direct object to oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Promotion of direct object to oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Promotion of oblique to indirect object	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Theme as instrument instead of oblique	Never	
+Nǀǀng	13	DRESS	nǁaa (1)	Uncoded causative	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of direct object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of direct object via SVC	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of instrument/comitative	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of oblique	Marginally	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Addition of oblique via SVC	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Clausal complement instead of direct object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Clausal complement instead of oblique argument	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Coded causative	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Coded causative + addition of oblique	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Deagentive	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Deletion of dative object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Deletion of direct object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Deletion of indirect object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Deletion of oblique	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Demotion of direct object to oblique	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Promotion of direct object to oblique	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Promotion of oblique to indirect object	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Theme as instrument instead of oblique	Never	
+Nǀǀng	13	DRESS	ǂaasinn	Uncoded causative	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Coded causative	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Deagentive	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	14	SHAVE (a body part/person)	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	15	HELP	hui	Addition of direct object	Never	
+Nǀǀng	15	HELP	hui	Addition of direct object via SVC	Never	
+Nǀǀng	15	HELP	hui	Addition of instrument/comitative	Regularly	
+Nǀǀng	15	HELP	hui	Addition of oblique	Regularly	
+Nǀǀng	15	HELP	hui	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	15	HELP	hui	Addition of oblique via SVC	Never	
+Nǀǀng	15	HELP	hui	Clausal complement instead of direct object	Never	
+Nǀǀng	15	HELP	hui	Clausal complement instead of oblique argument	Never	
+Nǀǀng	15	HELP	hui	Coded causative	Never	
+Nǀǀng	15	HELP	hui	Coded causative + addition of oblique	Never	
+Nǀǀng	15	HELP	hui	Deagentive	Never	
+Nǀǀng	15	HELP	hui	Deletion of dative object	Never	
+Nǀǀng	15	HELP	hui	Deletion of direct object	Never	
+Nǀǀng	15	HELP	hui	Deletion of indirect object	Never	
+Nǀǀng	15	HELP	hui	Deletion of oblique	Never	
+Nǀǀng	15	HELP	hui	Demotion of direct object to oblique	Never	
+Nǀǀng	15	HELP	hui	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	15	HELP	hui	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Marginally	
+Nǀǀng	15	HELP	hui	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	15	HELP	hui	Promotion of direct object to oblique	Never	
+Nǀǀng	15	HELP	hui	Promotion of oblique to indirect object	Never	
+Nǀǀng	15	HELP	hui	Theme as instrument instead of oblique	Never	
+Nǀǀng	15	HELP	hui	Uncoded causative	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of direct object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of direct object via SVC	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of instrument/comitative	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Addition of oblique via SVC	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Clausal complement instead of direct object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Clausal complement instead of oblique argument	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Coded causative	Marginally	
+Nǀǀng	16	FOLLOW	ǀhunn	Coded causative + addition of oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Deagentive	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Deletion of dative object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Deletion of direct object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Deletion of indirect object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Deletion of oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Demotion of direct object to oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Promotion of direct object to oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Promotion of oblique to indirect object	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Theme as instrument instead of oblique	Never	
+Nǀǀng	16	FOLLOW	ǀhunn	Uncoded causative	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of direct object	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of direct object via SVC	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of instrument/comitative	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	17	MEET	hoo (2)	Addition of oblique via SVC	Never	
+Nǀǀng	17	MEET	hoo (2)	Clausal complement instead of direct object	Never	
+Nǀǀng	17	MEET	hoo (2)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	17	MEET	hoo (2)	Coded causative	Marginally	
+Nǀǀng	17	MEET	hoo (2)	Coded causative + addition of oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Deagentive	Never	
+Nǀǀng	17	MEET	hoo (2)	Deletion of dative object	Never	
+Nǀǀng	17	MEET	hoo (2)	Deletion of direct object	No data	
+Nǀǀng	17	MEET	hoo (2)	Deletion of indirect object	Never	
+Nǀǀng	17	MEET	hoo (2)	Deletion of oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Demotion of direct object to oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	17	MEET	hoo (2)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	No data	
+Nǀǀng	17	MEET	hoo (2)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	17	MEET	hoo (2)	Promotion of direct object to oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Promotion of oblique to indirect object	Never	
+Nǀǀng	17	MEET	hoo (2)	Theme as instrument instead of oblique	Never	
+Nǀǀng	17	MEET	hoo (2)	Uncoded causative	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Coded causative	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Deagentive	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	18	TALK	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of direct object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of direct object via SVC	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of instrument/comitative	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of oblique	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Addition of oblique via SVC	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Coded causative	Marginally	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Coded causative + addition of oblique	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Deagentive	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Deletion of dative object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Deletion of direct object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Deletion of indirect object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Deletion of oblique	Regularly	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Demotion of direct object to oblique	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	19	ASK FOR	ǃʼhoeʼa	Uncoded causative	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Coded causative	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Deagentive	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	20	SHOUT AT	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of direct object	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of direct object via SVC	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of instrument/comitative	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Addition of oblique via SVC	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Clausal complement instead of direct object	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Coded causative	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Coded causative + addition of oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Deagentive	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Deletion of dative object	Regularly	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Deletion of direct object	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Deletion of indirect object	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Deletion of oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Demotion of direct object to oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Promotion of direct object to oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Promotion of oblique to indirect object	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Theme as instrument instead of oblique	Never	
+Nǀǀng	21	TELL	ǀkxʼae(a)	Uncoded causative	Never	
+Nǀǀng	22	SAY	ku	Addition of direct object	Never	
+Nǀǀng	22	SAY	ku	Addition of direct object via SVC	Never	
+Nǀǀng	22	SAY	ku	Addition of instrument/comitative	Never	
+Nǀǀng	22	SAY	ku	Addition of oblique	Never	
+Nǀǀng	22	SAY	ku	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	22	SAY	ku	Addition of oblique via SVC	Never	
+Nǀǀng	22	SAY	ku	Clausal complement instead of direct object	Never	
+Nǀǀng	22	SAY	ku	Clausal complement instead of oblique argument	Never	
+Nǀǀng	22	SAY	ku	Coded causative	Never	
+Nǀǀng	22	SAY	ku	Coded causative + addition of oblique	Never	
+Nǀǀng	22	SAY	ku	Deagentive	Never	
+Nǀǀng	22	SAY	ku	Deletion of dative object	Never	
+Nǀǀng	22	SAY	ku	Deletion of direct object	Never	
+Nǀǀng	22	SAY	ku	Deletion of indirect object	Never	
+Nǀǀng	22	SAY	ku	Deletion of oblique	Regularly	
+Nǀǀng	22	SAY	ku	Demotion of direct object to oblique	Never	
+Nǀǀng	22	SAY	ku	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	22	SAY	ku	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	22	SAY	ku	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	22	SAY	ku	Promotion of direct object to oblique	Never	
+Nǀǀng	22	SAY	ku	Promotion of oblique to indirect object	Never	
+Nǀǀng	22	SAY	ku	Theme as instrument instead of oblique	Never	
+Nǀǀng	22	SAY	ku	Uncoded causative	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Coded causative	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Deagentive	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	23	NAME	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	24	BUILD	kxʼuu	Addition of direct object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Addition of direct object via SVC	Never	
+Nǀǀng	24	BUILD	kxʼuu	Addition of instrument/comitative	Regularly	
+Nǀǀng	24	BUILD	kxʼuu	Addition of oblique	Regularly	
+Nǀǀng	24	BUILD	kxʼuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	24	BUILD	kxʼuu	Addition of oblique via SVC	Never	
+Nǀǀng	24	BUILD	kxʼuu	Clausal complement instead of direct object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	24	BUILD	kxʼuu	Coded causative	Never	
+Nǀǀng	24	BUILD	kxʼuu	Coded causative + addition of oblique	Never	
+Nǀǀng	24	BUILD	kxʼuu	Deagentive	Never	
+Nǀǀng	24	BUILD	kxʼuu	Deletion of dative object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Deletion of direct object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Deletion of indirect object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Deletion of oblique	Never	
+Nǀǀng	24	BUILD	kxʼuu	Demotion of direct object to oblique	Never	
+Nǀǀng	24	BUILD	kxʼuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	24	BUILD	kxʼuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	24	BUILD	kxʼuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	24	BUILD	kxʼuu	Promotion of direct object to oblique	Never	
+Nǀǀng	24	BUILD	kxʼuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	24	BUILD	kxʼuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	24	BUILD	kxʼuu	Uncoded causative	Never	
+Nǀǀng	25	BREAK	ǁhaa	Addition of direct object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Addition of direct object via SVC	Never	
+Nǀǀng	25	BREAK	ǁhaa	Addition of instrument/comitative	Regularly	
+Nǀǀng	25	BREAK	ǁhaa	Addition of oblique	Never	
+Nǀǀng	25	BREAK	ǁhaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	25	BREAK	ǁhaa	Addition of oblique via SVC	Regularly	
+Nǀǀng	25	BREAK	ǁhaa	Clausal complement instead of direct object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	25	BREAK	ǁhaa	Coded causative	Marginally	
+Nǀǀng	25	BREAK	ǁhaa	Coded causative + addition of oblique	Never	
+Nǀǀng	25	BREAK	ǁhaa	Deagentive	Regularly	
+Nǀǀng	25	BREAK	ǁhaa	Deletion of dative object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Deletion of direct object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Deletion of indirect object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Deletion of oblique	Never	
+Nǀǀng	25	BREAK	ǁhaa	Demotion of direct object to oblique	Regularly	
+Nǀǀng	25	BREAK	ǁhaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	25	BREAK	ǁhaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	25	BREAK	ǁhaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	25	BREAK	ǁhaa	Promotion of direct object to oblique	Never	
+Nǀǀng	25	BREAK	ǁhaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	25	BREAK	ǁhaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	25	BREAK	ǁhaa	Uncoded causative	Never	
+Nǀǀng	26	KILL	ǀhaa	Addition of direct object	Never	
+Nǀǀng	26	KILL	ǀhaa	Addition of direct object via SVC	Never	
+Nǀǀng	26	KILL	ǀhaa	Addition of instrument/comitative	Regularly	
+Nǀǀng	26	KILL	ǀhaa	Addition of oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	26	KILL	ǀhaa	Addition of oblique via SVC	Never	
+Nǀǀng	26	KILL	ǀhaa	Clausal complement instead of direct object	Never	
+Nǀǀng	26	KILL	ǀhaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	26	KILL	ǀhaa	Coded causative	Marginally	
+Nǀǀng	26	KILL	ǀhaa	Coded causative + addition of oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Deagentive	Never	
+Nǀǀng	26	KILL	ǀhaa	Deletion of dative object	Never	
+Nǀǀng	26	KILL	ǀhaa	Deletion of direct object	Never	
+Nǀǀng	26	KILL	ǀhaa	Deletion of indirect object	Never	
+Nǀǀng	26	KILL	ǀhaa	Deletion of oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Demotion of direct object to oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	26	KILL	ǀhaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	26	KILL	ǀhaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	26	KILL	ǀhaa	Promotion of direct object to oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	26	KILL	ǀhaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	26	KILL	ǀhaa	Uncoded causative	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of direct object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of direct object via SVC	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of instrument/comitative	Regularly	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Addition of oblique via SVC	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Clausal complement instead of direct object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Clausal complement instead of oblique argument	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Coded causative	Marginally	
+Nǀǀng	27	BEAT	ǀkxʼaike	Coded causative + addition of oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Deagentive	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Deletion of dative object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Deletion of direct object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Deletion of indirect object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Deletion of oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Demotion of direct object to oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Promotion of direct object to oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Promotion of oblique to indirect object	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Theme as instrument instead of oblique	Never	
+Nǀǀng	27	BEAT	ǀkxʼaike	Uncoded causative	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of direct object	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of direct object via SVC	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of instrument/comitative	Regularly	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Addition of oblique via SVC	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Coded causative	Marginally	
+Nǀǀng	27	BEAT	ǂamʼa	Coded causative + addition of oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Deagentive	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Deletion of dative object	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Deletion of direct object	Marginally	
+Nǀǀng	27	BEAT	ǂamʼa	Deletion of indirect object	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Deletion of oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Demotion of direct object to oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	27	BEAT	ǂamʼa	Uncoded causative	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of direct object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of direct object via SVC	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of instrument/comitative	Regularly	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Addition of oblique via SVC	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Clausal complement instead of direct object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Clausal complement instead of oblique argument	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Coded causative	Marginally	
+Nǀǀng	28	HIT	ǀkxʼaike	Coded causative + addition of oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Deagentive	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Deletion of dative object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Deletion of direct object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Deletion of indirect object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Deletion of oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Demotion of direct object to oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Promotion of direct object to oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Promotion of oblique to indirect object	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Theme as instrument instead of oblique	Never	
+Nǀǀng	28	HIT	ǀkxʼaike	Uncoded causative	Never	
+Nǀǀng	28	HIT	ǂamʼa	Addition of direct object	Never	
+Nǀǀng	28	HIT	ǂamʼa	Addition of direct object via SVC	Never	
+Nǀǀng	28	HIT	ǂamʼa	Addition of instrument/comitative	Regularly	
+Nǀǀng	28	HIT	ǂamʼa	Addition of oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	28	HIT	ǂamʼa	Addition of oblique via SVC	Never	
+Nǀǀng	28	HIT	ǂamʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	28	HIT	ǂamʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	28	HIT	ǂamʼa	Coded causative	Marginally	
+Nǀǀng	28	HIT	ǂamʼa	Coded causative + addition of oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Deagentive	Never	
+Nǀǀng	28	HIT	ǂamʼa	Deletion of dative object	Never	
+Nǀǀng	28	HIT	ǂamʼa	Deletion of direct object	Marginally	
+Nǀǀng	28	HIT	ǂamʼa	Deletion of indirect object	Never	
+Nǀǀng	28	HIT	ǂamʼa	Deletion of oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Demotion of direct object to oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	28	HIT	ǂamʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	28	HIT	ǂamʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	28	HIT	ǂamʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	28	HIT	ǂamʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	28	HIT	ǂamʼa	Uncoded causative	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of direct object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of direct object via SVC	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of instrument/comitative	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Addition of oblique via SVC	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Clausal complement instead of direct object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Coded causative	Marginally	
+Nǀǀng	29	TOUCH	ǀai (2)	Coded causative + addition of oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Deagentive	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Deletion of dative object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Deletion of direct object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Deletion of indirect object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Deletion of oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Demotion of direct object to oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Promotion of direct object to oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Promotion of oblique to indirect object	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Theme as instrument instead of oblique	Never	
+Nǀǀng	29	TOUCH	ǀai (2)	Uncoded causative	Never	
+Nǀǀng	30	CUT	ǀaa	Addition of direct object	Never	
+Nǀǀng	30	CUT	ǀaa	Addition of direct object via SVC	Never	
+Nǀǀng	30	CUT	ǀaa	Addition of instrument/comitative	Regularly	
+Nǀǀng	30	CUT	ǀaa	Addition of oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	30	CUT	ǀaa	Addition of oblique via SVC	Never	
+Nǀǀng	30	CUT	ǀaa	Clausal complement instead of direct object	Never	
+Nǀǀng	30	CUT	ǀaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	30	CUT	ǀaa	Coded causative	Marginally	
+Nǀǀng	30	CUT	ǀaa	Coded causative + addition of oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Deagentive	Never	
+Nǀǀng	30	CUT	ǀaa	Deletion of dative object	Never	
+Nǀǀng	30	CUT	ǀaa	Deletion of direct object	Never	
+Nǀǀng	30	CUT	ǀaa	Deletion of indirect object	Never	
+Nǀǀng	30	CUT	ǀaa	Deletion of oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Demotion of direct object to oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	30	CUT	ǀaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	30	CUT	ǀaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	30	CUT	ǀaa	Promotion of direct object to oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	30	CUT	ǀaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	30	CUT	ǀaa	Uncoded causative	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of direct object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of direct object via SVC	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of instrument/comitative	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of oblique	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Addition of oblique via SVC	Regularly	
+Nǀǀng	31	TAKE	ǀai (1)	Clausal complement instead of direct object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Coded causative	Marginally	
+Nǀǀng	31	TAKE	ǀai (1)	Coded causative + addition of oblique	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Deagentive	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Deletion of dative object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Deletion of direct object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Deletion of indirect object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Deletion of oblique	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Demotion of direct object to oblique	Regularly	
+Nǀǀng	31	TAKE	ǀai (1)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Promotion of direct object to oblique	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Promotion of oblique to indirect object	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Theme as instrument instead of oblique	Never	
+Nǀǀng	31	TAKE	ǀai (1)	Uncoded causative	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of direct object	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of direct object via SVC	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of instrument/comitative	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	32	TEAR	tyxaa	Addition of oblique via SVC	Regularly	
+Nǀǀng	32	TEAR	tyxaa	Clausal complement instead of direct object	Never	
+Nǀǀng	32	TEAR	tyxaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	32	TEAR	tyxaa	Coded causative	Marginally	
+Nǀǀng	32	TEAR	tyxaa	Coded causative + addition of oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Deagentive	No data	
+Nǀǀng	32	TEAR	tyxaa	Deletion of dative object	Never	
+Nǀǀng	32	TEAR	tyxaa	Deletion of direct object	Never	
+Nǀǀng	32	TEAR	tyxaa	Deletion of indirect object	Never	
+Nǀǀng	32	TEAR	tyxaa	Deletion of oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Demotion of direct object to oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	32	TEAR	tyxaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	32	TEAR	tyxaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	32	TEAR	tyxaa	Promotion of direct object to oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	32	TEAR	tyxaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	32	TEAR	tyxaa	Uncoded causative	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Coded causative	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Deagentive	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	33	PEEL	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of direct object	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of direct object via SVC	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of instrument/comitative	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of oblique	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Addition of oblique via SVC	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Clausal complement instead of direct object	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Clausal complement instead of oblique argument	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Coded causative	Marginally	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Coded causative + addition of oblique	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Deagentive	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Deletion of dative object	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Deletion of direct object	No data	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Deletion of indirect object	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Deletion of oblique	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Demotion of direct object to oblique	No data	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Promotion of direct object to oblique	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Promotion of oblique to indirect object	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Theme as instrument instead of oblique	Never	
+Nǀǀng	34	HIDE	ǀʼhoo ǁhoo	Uncoded causative	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of direct object	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of direct object via SVC	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of instrument/comitative	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	35	SHOW	kadyama	Addition of oblique via SVC	Never	
+Nǀǀng	35	SHOW	kadyama	Clausal complement instead of direct object	Never	
+Nǀǀng	35	SHOW	kadyama	Clausal complement instead of oblique argument	Never	
+Nǀǀng	35	SHOW	kadyama	Coded causative	Never	
+Nǀǀng	35	SHOW	kadyama	Coded causative + addition of oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Deagentive	Never	
+Nǀǀng	35	SHOW	kadyama	Deletion of dative object	Never	
+Nǀǀng	35	SHOW	kadyama	Deletion of direct object	Never	
+Nǀǀng	35	SHOW	kadyama	Deletion of indirect object	Never	
+Nǀǀng	35	SHOW	kadyama	Deletion of oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Demotion of direct object to oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	35	SHOW	kadyama	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	35	SHOW	kadyama	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	35	SHOW	kadyama	Promotion of direct object to oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Promotion of oblique to indirect object	Never	
+Nǀǀng	35	SHOW	kadyama	Theme as instrument instead of oblique	Never	
+Nǀǀng	35	SHOW	kadyama	Uncoded causative	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of direct object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of direct object via SVC	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of instrument/comitative	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Addition of oblique via SVC	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Clausal complement instead of direct object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Coded causative	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Coded causative + addition of oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Deagentive	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Deletion of dative object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Deletion of direct object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Deletion of indirect object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Deletion of oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Demotion of direct object to oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Promotion of direct object to oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Promotion of oblique to indirect object	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Theme as instrument instead of oblique	Never	
+Nǀǀng	35	SHOW	qann(-ya)	Uncoded causative	Never	
+Nǀǀng	36	GIVE	aa	Addition of direct object	Never	
+Nǀǀng	36	GIVE	aa	Addition of direct object via SVC	Never	
+Nǀǀng	36	GIVE	aa	Addition of instrument/comitative	Never	
+Nǀǀng	36	GIVE	aa	Addition of oblique	Never	
+Nǀǀng	36	GIVE	aa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	36	GIVE	aa	Addition of oblique via SVC	Never	
+Nǀǀng	36	GIVE	aa	Clausal complement instead of direct object	Never	
+Nǀǀng	36	GIVE	aa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	36	GIVE	aa	Coded causative	Never	
+Nǀǀng	36	GIVE	aa	Coded causative + addition of oblique	Never	
+Nǀǀng	36	GIVE	aa	Deagentive	Never	
+Nǀǀng	36	GIVE	aa	Deletion of dative object	Never	
+Nǀǀng	36	GIVE	aa	Deletion of direct object	Never	
+Nǀǀng	36	GIVE	aa	Deletion of indirect object	Marginally	
+Nǀǀng	36	GIVE	aa	Deletion of oblique	Never	
+Nǀǀng	36	GIVE	aa	Demotion of direct object to oblique	Regularly	
+Nǀǀng	36	GIVE	aa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	36	GIVE	aa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	36	GIVE	aa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	36	GIVE	aa	Promotion of direct object to oblique	Never	
+Nǀǀng	36	GIVE	aa	Promotion of oblique to indirect object	Never	
+Nǀǀng	36	GIVE	aa	Theme as instrument instead of oblique	Never	
+Nǀǀng	36	GIVE	aa	Uncoded causative	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of direct object	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of direct object via SVC	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of instrument/comitative	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	36	GIVE	tsaa	Addition of oblique via SVC	Never	
+Nǀǀng	36	GIVE	tsaa	Clausal complement instead of direct object	Never	
+Nǀǀng	36	GIVE	tsaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	36	GIVE	tsaa	Coded causative	Never	
+Nǀǀng	36	GIVE	tsaa	Coded causative + addition of oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Deagentive	Never	
+Nǀǀng	36	GIVE	tsaa	Deletion of dative object	Never	
+Nǀǀng	36	GIVE	tsaa	Deletion of direct object	Never	
+Nǀǀng	36	GIVE	tsaa	Deletion of indirect object	Marginally	
+Nǀǀng	36	GIVE	tsaa	Deletion of oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Demotion of direct object to oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	36	GIVE	tsaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	36	GIVE	tsaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	36	GIVE	tsaa	Promotion of direct object to oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	36	GIVE	tsaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	36	GIVE	tsaa	Uncoded causative	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of direct object	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of direct object via SVC	No data	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of instrument/comitative	Marginally	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of oblique + direct object via SVC	No data	
+Nǀǀng	37	SEND	ǀae(-a)	Addition of oblique via SVC	No data	
+Nǀǀng	37	SEND	ǀae(-a)	Clausal complement instead of direct object	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Coded causative	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Coded causative + addition of oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Deagentive	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Deletion of dative object	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Deletion of direct object	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Deletion of indirect object	Regularly	
+Nǀǀng	37	SEND	ǀae(-a)	Deletion of oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Demotion of direct object to oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Demotion of indirect object to oblique (via SVC)	Regularly	
+Nǀǀng	37	SEND	ǀae(-a)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Promotion of direct object to oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Promotion of oblique to indirect object	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Theme as instrument instead of oblique	Never	
+Nǀǀng	37	SEND	ǀae(-a)	Uncoded causative	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of direct object	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of direct object via SVC	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of instrument/comitative	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	38	CARRY	ǃxau	Addition of oblique via SVC	Regularly	
+Nǀǀng	38	CARRY	ǃxau	Clausal complement instead of direct object	Never	
+Nǀǀng	38	CARRY	ǃxau	Clausal complement instead of oblique argument	Never	
+Nǀǀng	38	CARRY	ǃxau	Coded causative	Marginally	
+Nǀǀng	38	CARRY	ǃxau	Coded causative + addition of oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Deagentive	Never	
+Nǀǀng	38	CARRY	ǃxau	Deletion of dative object	Never	
+Nǀǀng	38	CARRY	ǃxau	Deletion of direct object	Never	
+Nǀǀng	38	CARRY	ǃxau	Deletion of indirect object	Never	
+Nǀǀng	38	CARRY	ǃxau	Deletion of oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Demotion of direct object to oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	38	CARRY	ǃxau	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	38	CARRY	ǃxau	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	38	CARRY	ǃxau	Promotion of direct object to oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Promotion of oblique to indirect object	Never	
+Nǀǀng	38	CARRY	ǃxau	Theme as instrument instead of oblique	Never	
+Nǀǀng	38	CARRY	ǃxau	Uncoded causative	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of direct object	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of direct object via SVC	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of instrument/comitative	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of oblique	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Addition of oblique via SVC	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Clausal complement instead of direct object	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Clausal complement instead of oblique argument	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Coded causative	Marginally	
+Nǀǀng	39	THROW	ǂaqbeke	Coded causative + addition of oblique	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Deagentive	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Deletion of dative object	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Deletion of direct object	Marginally	
+Nǀǀng	39	THROW	ǂaqbeke	Deletion of indirect object	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Deletion of oblique	Regularly	
+Nǀǀng	39	THROW	ǂaqbeke	Demotion of direct object to oblique	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Marginally	
+Nǀǀng	39	THROW	ǂaqbeke	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Promotion of direct object to oblique	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Promotion of oblique to indirect object	Regularly	
+Nǀǀng	39	THROW	ǂaqbeke	Theme as instrument instead of oblique	Never	
+Nǀǀng	39	THROW	ǂaqbeke	Uncoded causative	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of direct object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of direct object via SVC	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of instrument/comitative	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of oblique	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	40	TIE	ǁʼngke	Addition of oblique via SVC	Never	
+Nǀǀng	40	TIE	ǁʼngke	Clausal complement instead of direct object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Clausal complement instead of oblique argument	Never	
+Nǀǀng	40	TIE	ǁʼngke	Coded causative	Marginally	
+Nǀǀng	40	TIE	ǁʼngke	Coded causative + addition of oblique	Never	
+Nǀǀng	40	TIE	ǁʼngke	Deagentive	Never	
+Nǀǀng	40	TIE	ǁʼngke	Deletion of dative object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Deletion of direct object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Deletion of indirect object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Deletion of oblique	Regularly	
+Nǀǀng	40	TIE	ǁʼngke	Demotion of direct object to oblique	Never	
+Nǀǀng	40	TIE	ǁʼngke	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	40	TIE	ǁʼngke	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	40	TIE	ǁʼngke	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	40	TIE	ǁʼngke	Promotion of direct object to oblique	Never	
+Nǀǀng	40	TIE	ǁʼngke	Promotion of oblique to indirect object	Never	
+Nǀǀng	40	TIE	ǁʼngke	Theme as instrument instead of oblique	Never	
+Nǀǀng	40	TIE	ǁʼngke	Uncoded causative	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of direct object	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of direct object via SVC	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of instrument/comitative	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of oblique	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	41	PUT	ǁhoo	Addition of oblique via SVC	Never	
+Nǀǀng	41	PUT	ǁhoo	Clausal complement instead of direct object	Never	
+Nǀǀng	41	PUT	ǁhoo	Clausal complement instead of oblique argument	Never	
+Nǀǀng	41	PUT	ǁhoo	Coded causative	Marginally	
+Nǀǀng	41	PUT	ǁhoo	Coded causative + addition of oblique	Never	
+Nǀǀng	41	PUT	ǁhoo	Deagentive	Never	
+Nǀǀng	41	PUT	ǁhoo	Deletion of dative object	Never	
+Nǀǀng	41	PUT	ǁhoo	Deletion of direct object	Never	
+Nǀǀng	41	PUT	ǁhoo	Deletion of indirect object	Never	
+Nǀǀng	41	PUT	ǁhoo	Deletion of oblique	Regularly	
+Nǀǀng	41	PUT	ǁhoo	Demotion of direct object to oblique	Never	
+Nǀǀng	41	PUT	ǁhoo	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	41	PUT	ǁhoo	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	41	PUT	ǁhoo	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	41	PUT	ǁhoo	Promotion of direct object to oblique	Never	
+Nǀǀng	41	PUT	ǁhoo	Promotion of oblique to indirect object	Never	
+Nǀǀng	41	PUT	ǁhoo	Theme as instrument instead of oblique	Never	
+Nǀǀng	41	PUT	ǁhoo	Uncoded causative	Never	
+Nǀǀng	42	POUR	ǂhaun	Addition of direct object	Never	
+Nǀǀng	42	POUR	ǂhaun	Addition of direct object via SVC	Never	
+Nǀǀng	42	POUR	ǂhaun	Addition of instrument/comitative	Never	
+Nǀǀng	42	POUR	ǂhaun	Addition of oblique	Marginally	
+Nǀǀng	42	POUR	ǂhaun	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	42	POUR	ǂhaun	Addition of oblique via SVC	Regularly	
+Nǀǀng	42	POUR	ǂhaun	Clausal complement instead of direct object	Never	
+Nǀǀng	42	POUR	ǂhaun	Clausal complement instead of oblique argument	Never	
+Nǀǀng	42	POUR	ǂhaun	Coded causative	Marginally	
+Nǀǀng	42	POUR	ǂhaun	Coded causative + addition of oblique	Never	
+Nǀǀng	42	POUR	ǂhaun	Deagentive	Never	
+Nǀǀng	42	POUR	ǂhaun	Deletion of dative object	Never	
+Nǀǀng	42	POUR	ǂhaun	Deletion of direct object	No data	
+Nǀǀng	42	POUR	ǂhaun	Deletion of indirect object	Never	
+Nǀǀng	42	POUR	ǂhaun	Deletion of oblique	Never	
+Nǀǀng	42	POUR	ǂhaun	Demotion of direct object to oblique	Never	
+Nǀǀng	42	POUR	ǂhaun	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	42	POUR	ǂhaun	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	42	POUR	ǂhaun	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	42	POUR	ǂhaun	Promotion of direct object to oblique	Never	
+Nǀǀng	42	POUR	ǂhaun	Promotion of oblique to indirect object	Never	
+Nǀǀng	42	POUR	ǂhaun	Theme as instrument instead of oblique	Never	
+Nǀǀng	42	POUR	ǂhaun	Uncoded causative	Never	
+Nǀǀng	43	COVER	ǂanu	Addition of direct object	Never	
+Nǀǀng	43	COVER	ǂanu	Addition of direct object via SVC	Never	
+Nǀǀng	43	COVER	ǂanu	Addition of instrument/comitative	Regularly	
+Nǀǀng	43	COVER	ǂanu	Addition of oblique	No data	
+Nǀǀng	43	COVER	ǂanu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	43	COVER	ǂanu	Addition of oblique via SVC	Never	
+Nǀǀng	43	COVER	ǂanu	Clausal complement instead of direct object	Never	
+Nǀǀng	43	COVER	ǂanu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	43	COVER	ǂanu	Coded causative	Marginally	
+Nǀǀng	43	COVER	ǂanu	Coded causative + addition of oblique	Never	
+Nǀǀng	43	COVER	ǂanu	Deagentive	Regularly	
+Nǀǀng	43	COVER	ǂanu	Deletion of dative object	Never	
+Nǀǀng	43	COVER	ǂanu	Deletion of direct object	Never	
+Nǀǀng	43	COVER	ǂanu	Deletion of indirect object	Never	
+Nǀǀng	43	COVER	ǂanu	Deletion of oblique	Never	
+Nǀǀng	43	COVER	ǂanu	Demotion of direct object to oblique	Never	
+Nǀǀng	43	COVER	ǂanu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	43	COVER	ǂanu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	43	COVER	ǂanu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	43	COVER	ǂanu	Promotion of direct object to oblique	Never	
+Nǀǀng	43	COVER	ǂanu	Promotion of oblique to indirect object	Never	
+Nǀǀng	43	COVER	ǂanu	Theme as instrument instead of oblique	Never	
+Nǀǀng	43	COVER	ǂanu	Uncoded causative	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of direct object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of direct object via SVC	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of instrument/comitative	Regularly	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of oblique	No data	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Addition of oblique via SVC	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Clausal complement instead of direct object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Clausal complement instead of oblique argument	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Coded causative	Marginally	
+Nǀǀng	43	COVER	ǂʼaoke	Coded causative + addition of oblique	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Deagentive	No data	
+Nǀǀng	43	COVER	ǂʼaoke	Deletion of dative object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Deletion of direct object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Deletion of indirect object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Deletion of oblique	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Demotion of direct object to oblique	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Promotion of direct object to oblique	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Promotion of oblique to indirect object	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Theme as instrument instead of oblique	Never	
+Nǀǀng	43	COVER	ǂʼaoke	Uncoded causative	Never	
+Nǀǀng	44	FILL	ǂunn	Addition of direct object	Never	
+Nǀǀng	44	FILL	ǂunn	Addition of direct object via SVC	Never	
+Nǀǀng	44	FILL	ǂunn	Addition of instrument/comitative	Regularly	
+Nǀǀng	44	FILL	ǂunn	Addition of oblique	Regularly	
+Nǀǀng	44	FILL	ǂunn	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	44	FILL	ǂunn	Addition of oblique via SVC	Never	
+Nǀǀng	44	FILL	ǂunn	Clausal complement instead of direct object	Never	
+Nǀǀng	44	FILL	ǂunn	Clausal complement instead of oblique argument	Never	
+Nǀǀng	44	FILL	ǂunn	Coded causative	Marginally	
+Nǀǀng	44	FILL	ǂunn	Coded causative + addition of oblique	Never	
+Nǀǀng	44	FILL	ǂunn	Deagentive	Regularly	
+Nǀǀng	44	FILL	ǂunn	Deletion of dative object	Never	
+Nǀǀng	44	FILL	ǂunn	Deletion of direct object	Never	
+Nǀǀng	44	FILL	ǂunn	Deletion of indirect object	Never	
+Nǀǀng	44	FILL	ǂunn	Deletion of oblique	Never	
+Nǀǀng	44	FILL	ǂunn	Demotion of direct object to oblique	Never	
+Nǀǀng	44	FILL	ǂunn	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	44	FILL	ǂunn	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	44	FILL	ǂunn	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	44	FILL	ǂunn	Promotion of direct object to oblique	Never	
+Nǀǀng	44	FILL	ǂunn	Promotion of oblique to indirect object	Never	
+Nǀǀng	44	FILL	ǂunn	Theme as instrument instead of oblique	Regularly	
+Nǀǀng	44	FILL	ǂunn	Uncoded causative	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of direct object	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of direct object via SVC	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of instrument/comitative	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of oblique	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	45	LOAD	nǃao	Addition of oblique via SVC	Never	
+Nǀǀng	45	LOAD	nǃao	Clausal complement instead of direct object	Never	
+Nǀǀng	45	LOAD	nǃao	Clausal complement instead of oblique argument	Never	
+Nǀǀng	45	LOAD	nǃao	Coded causative	Marginally	
+Nǀǀng	45	LOAD	nǃao	Coded causative + addition of oblique	Never	
+Nǀǀng	45	LOAD	nǃao	Deagentive	Never	
+Nǀǀng	45	LOAD	nǃao	Deletion of dative object	Never	
+Nǀǀng	45	LOAD	nǃao	Deletion of direct object	Never	
+Nǀǀng	45	LOAD	nǃao	Deletion of indirect object	Never	
+Nǀǀng	45	LOAD	nǃao	Deletion of oblique	Regularly	
+Nǀǀng	45	LOAD	nǃao	Demotion of direct object to oblique	Never	
+Nǀǀng	45	LOAD	nǃao	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	45	LOAD	nǃao	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	45	LOAD	nǃao	Locative shift: theme as direct object (instead of goal)	Regularly	
+Nǀǀng	45	LOAD	nǃao	Promotion of direct object to oblique	Never	
+Nǀǀng	45	LOAD	nǃao	Promotion of oblique to indirect object	Never	
+Nǀǀng	45	LOAD	nǃao	Theme as instrument instead of oblique	Regularly	
+Nǀǀng	45	LOAD	nǃao	Uncoded causative	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Coded causative	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Deagentive	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	46	BLINK	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of direct object	Marginally	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of direct object via SVC	Marginally	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of instrument/comitative	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of oblique + direct object via SVC	Marginally	
+Nǀǀng	47	COUGH	ǁʼhoqo	Addition of oblique via SVC	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Clausal complement instead of direct object	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Clausal complement instead of oblique argument	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Coded causative	Marginally	
+Nǀǀng	47	COUGH	ǁʼhoqo	Coded causative + addition of oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Deagentive	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Deletion of dative object	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Deletion of direct object	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Deletion of indirect object	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Deletion of oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Demotion of direct object to oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Promotion of direct object to oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Promotion of oblique to indirect object	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Theme as instrument instead of oblique	Never	
+Nǀǀng	47	COUGH	ǁʼhoqo	Uncoded causative	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of direct object	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of direct object via SVC	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of instrument/comitative	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of oblique	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	48	CLIMB	ǁain	Addition of oblique via SVC	Never	
+Nǀǀng	48	CLIMB	ǁain	Clausal complement instead of direct object	Never	
+Nǀǀng	48	CLIMB	ǁain	Clausal complement instead of oblique argument	Never	
+Nǀǀng	48	CLIMB	ǁain	Coded causative	Marginally	
+Nǀǀng	48	CLIMB	ǁain	Coded causative + addition of oblique	Never	
+Nǀǀng	48	CLIMB	ǁain	Deagentive	Never	
+Nǀǀng	48	CLIMB	ǁain	Deletion of dative object	Never	
+Nǀǀng	48	CLIMB	ǁain	Deletion of direct object	Regularly	
+Nǀǀng	48	CLIMB	ǁain	Deletion of indirect object	Never	
+Nǀǀng	48	CLIMB	ǁain	Deletion of oblique	Never	
+Nǀǀng	48	CLIMB	ǁain	Demotion of direct object to oblique	Marginally	
+Nǀǀng	48	CLIMB	ǁain	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	48	CLIMB	ǁain	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	48	CLIMB	ǁain	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	48	CLIMB	ǁain	Promotion of direct object to oblique	Never	
+Nǀǀng	48	CLIMB	ǁain	Promotion of oblique to indirect object	Never	
+Nǀǀng	48	CLIMB	ǁain	Theme as instrument instead of oblique	Never	
+Nǀǀng	48	CLIMB	ǁain	Uncoded causative	Never	
+Nǀǀng	49	RUN	ǃae	Addition of direct object	Marginally	
+Nǀǀng	49	RUN	ǃae	Addition of direct object via SVC	Regularly	
+Nǀǀng	49	RUN	ǃae	Addition of instrument/comitative	Never	
+Nǀǀng	49	RUN	ǃae	Addition of oblique	Never	
+Nǀǀng	49	RUN	ǃae	Addition of oblique + direct object via SVC	Regularly	
+Nǀǀng	49	RUN	ǃae	Addition of oblique via SVC	Regularly	
+Nǀǀng	49	RUN	ǃae	Clausal complement instead of direct object	Never	
+Nǀǀng	49	RUN	ǃae	Clausal complement instead of oblique argument	Never	
+Nǀǀng	49	RUN	ǃae	Coded causative	Marginally	
+Nǀǀng	49	RUN	ǃae	Coded causative + addition of oblique	Never	
+Nǀǀng	49	RUN	ǃae	Deagentive	Never	
+Nǀǀng	49	RUN	ǃae	Deletion of dative object	Never	
+Nǀǀng	49	RUN	ǃae	Deletion of direct object	Never	
+Nǀǀng	49	RUN	ǃae	Deletion of indirect object	Never	
+Nǀǀng	49	RUN	ǃae	Deletion of oblique	Never	
+Nǀǀng	49	RUN	ǃae	Demotion of direct object to oblique	Never	
+Nǀǀng	49	RUN	ǃae	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	49	RUN	ǃae	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	49	RUN	ǃae	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	49	RUN	ǃae	Promotion of direct object to oblique	Never	
+Nǀǀng	49	RUN	ǃae	Promotion of oblique to indirect object	Never	
+Nǀǀng	49	RUN	ǃae	Theme as instrument instead of oblique	Never	
+Nǀǀng	49	RUN	ǃae	Uncoded causative	Never	
+Nǀǀng	50	SIT	soo	Addition of direct object	Never	
+Nǀǀng	50	SIT	soo	Addition of direct object via SVC	Never	
+Nǀǀng	50	SIT	soo	Addition of instrument/comitative	Never	
+Nǀǀng	50	SIT	soo	Addition of oblique	Never	
+Nǀǀng	50	SIT	soo	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	50	SIT	soo	Addition of oblique via SVC	Never	
+Nǀǀng	50	SIT	soo	Clausal complement instead of direct object	Never	
+Nǀǀng	50	SIT	soo	Clausal complement instead of oblique argument	Never	
+Nǀǀng	50	SIT	soo	Coded causative	Marginally	
+Nǀǀng	50	SIT	soo	Coded causative + addition of oblique	Never	
+Nǀǀng	50	SIT	soo	Deagentive	Never	
+Nǀǀng	50	SIT	soo	Deletion of dative object	Never	
+Nǀǀng	50	SIT	soo	Deletion of direct object	Regularly	
+Nǀǀng	50	SIT	soo	Deletion of indirect object	Never	
+Nǀǀng	50	SIT	soo	Deletion of oblique	Never	
+Nǀǀng	50	SIT	soo	Demotion of direct object to oblique	Marginally	
+Nǀǀng	50	SIT	soo	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	50	SIT	soo	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	50	SIT	soo	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	50	SIT	soo	Promotion of direct object to oblique	Never	
+Nǀǀng	50	SIT	soo	Promotion of oblique to indirect object	Never	
+Nǀǀng	50	SIT	soo	Theme as instrument instead of oblique	Never	
+Nǀǀng	50	SIT	soo	Uncoded causative	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of direct object	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of direct object via SVC	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of instrument/comitative	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of oblique	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Addition of oblique via SVC	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Clausal complement instead of direct object	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Coded causative	Marginally	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Coded causative + addition of oblique	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Deagentive	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Deletion of dative object	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Deletion of direct object	Regularly	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Deletion of indirect object	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Deletion of oblique	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Demotion of direct object to oblique	Marginally	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Promotion of direct object to oblique	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Promotion of oblique to indirect object	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Theme as instrument instead of oblique	Never	
+Nǀǀng	51	SIT DOWN	suin (SG), ǃʼhaun (PL)	Uncoded causative	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of direct object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of direct object via SVC	Regularly	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of instrument/comitative	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of oblique + direct object via SVC	Regularly	
+Nǀǀng	52	JUMP	ǂkhuun	Addition of oblique via SVC	Regularly	
+Nǀǀng	52	JUMP	ǂkhuun	Clausal complement instead of direct object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Clausal complement instead of oblique argument	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Coded causative	Marginally	
+Nǀǀng	52	JUMP	ǂkhuun	Coded causative + addition of oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Deagentive	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Deletion of dative object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Deletion of direct object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Deletion of indirect object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Deletion of oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Demotion of direct object to oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Promotion of direct object to oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Promotion of oblique to indirect object	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Theme as instrument instead of oblique	Never	
+Nǀǀng	52	JUMP	ǂkhuun	Uncoded causative	Never	
+Nǀǀng	53	SING	ǂeeke	Addition of direct object	Regularly	
+Nǀǀng	53	SING	ǂeeke	Addition of direct object via SVC	Never	
+Nǀǀng	53	SING	ǂeeke	Addition of instrument/comitative	Never	
+Nǀǀng	53	SING	ǂeeke	Addition of oblique	Never	
+Nǀǀng	53	SING	ǂeeke	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	53	SING	ǂeeke	Addition of oblique via SVC	Never	
+Nǀǀng	53	SING	ǂeeke	Clausal complement instead of direct object	Never	
+Nǀǀng	53	SING	ǂeeke	Clausal complement instead of oblique argument	Never	
+Nǀǀng	53	SING	ǂeeke	Coded causative	Marginally	
+Nǀǀng	53	SING	ǂeeke	Coded causative + addition of oblique	Marginally	
+Nǀǀng	53	SING	ǂeeke	Deagentive	Never	
+Nǀǀng	53	SING	ǂeeke	Deletion of dative object	Never	
+Nǀǀng	53	SING	ǂeeke	Deletion of direct object	Never	
+Nǀǀng	53	SING	ǂeeke	Deletion of indirect object	Never	
+Nǀǀng	53	SING	ǂeeke	Deletion of oblique	Never	
+Nǀǀng	53	SING	ǂeeke	Demotion of direct object to oblique	Never	
+Nǀǀng	53	SING	ǂeeke	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	53	SING	ǂeeke	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	53	SING	ǂeeke	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	53	SING	ǂeeke	Promotion of direct object to oblique	Never	
+Nǀǀng	53	SING	ǂeeke	Promotion of oblique to indirect object	Never	
+Nǀǀng	53	SING	ǂeeke	Theme as instrument instead of oblique	Never	
+Nǀǀng	53	SING	ǂeeke	Uncoded causative	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of direct object	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of direct object via SVC	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of instrument/comitative	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	54	GO	ǁʼaa	Addition of oblique via SVC	Never	
+Nǀǀng	54	GO	ǁʼaa	Clausal complement instead of direct object	Never	
+Nǀǀng	54	GO	ǁʼaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	54	GO	ǁʼaa	Coded causative	Marginally	
+Nǀǀng	54	GO	ǁʼaa	Coded causative + addition of oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Deagentive	Never	
+Nǀǀng	54	GO	ǁʼaa	Deletion of dative object	Never	
+Nǀǀng	54	GO	ǁʼaa	Deletion of direct object	Regularly	
+Nǀǀng	54	GO	ǁʼaa	Deletion of indirect object	Never	
+Nǀǀng	54	GO	ǁʼaa	Deletion of oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Demotion of direct object to oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	54	GO	ǁʼaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	54	GO	ǁʼaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	54	GO	ǁʼaa	Promotion of direct object to oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	54	GO	ǁʼaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	54	GO	ǁʼaa	Uncoded causative	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of direct object	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of direct object via SVC	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of instrument/comitative	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	55	LEAVE	xuu	Addition of oblique via SVC	Never	
+Nǀǀng	55	LEAVE	xuu	Clausal complement instead of direct object	Never	
+Nǀǀng	55	LEAVE	xuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	55	LEAVE	xuu	Coded causative	Marginally	
+Nǀǀng	55	LEAVE	xuu	Coded causative + addition of oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Deagentive	Never	
+Nǀǀng	55	LEAVE	xuu	Deletion of dative object	Never	
+Nǀǀng	55	LEAVE	xuu	Deletion of direct object	Marginally	
+Nǀǀng	55	LEAVE	xuu	Deletion of indirect object	Never	
+Nǀǀng	55	LEAVE	xuu	Deletion of oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Demotion of direct object to oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	55	LEAVE	xuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	55	LEAVE	xuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	55	LEAVE	xuu	Promotion of direct object to oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	55	LEAVE	xuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	55	LEAVE	xuu	Uncoded causative	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of direct object	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of direct object via SVC	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of instrument/comitative	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of oblique	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Addition of oblique via SVC	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Clausal complement instead of direct object	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Coded causative	Marginally	
+Nǀǀng	56	LIVE	nǁaa (2)	Coded causative + addition of oblique	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Deagentive	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Deletion of dative object	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Deletion of direct object	Regularly	
+Nǀǀng	56	LIVE	nǁaa (2)	Deletion of indirect object	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Deletion of oblique	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Demotion of direct object to oblique	Marginally	
+Nǀǀng	56	LIVE	nǁaa (2)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Promotion of direct object to oblique	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Promotion of oblique to indirect object	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Theme as instrument instead of oblique	Never	
+Nǀǀng	56	LIVE	nǁaa (2)	Uncoded causative	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of direct object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of direct object via SVC	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of instrument/comitative	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of oblique	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Addition of oblique via SVC	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Clausal complement instead of direct object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Coded causative	Marginally	
+Nǀǀng	56	LIVE	ǀʼhoa	Coded causative + addition of oblique	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Deagentive	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Deletion of dative object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Deletion of direct object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Deletion of indirect object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Deletion of oblique	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Demotion of direct object to oblique	Marginally	
+Nǀǀng	56	LIVE	ǀʼhoa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Promotion of direct object to oblique	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Promotion of oblique to indirect object	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Theme as instrument instead of oblique	Never	
+Nǀǀng	56	LIVE	ǀʼhoa	Uncoded causative	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of direct object	Regularly	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of direct object via SVC	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of instrument/comitative	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of oblique	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Addition of oblique via SVC	Marginally	
+Nǀǀng	57	LAUGH	kxʼainʼa	Clausal complement instead of direct object	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Coded causative	Marginally	
+Nǀǀng	57	LAUGH	kxʼainʼa	Coded causative + addition of oblique	Marginally	
+Nǀǀng	57	LAUGH	kxʼainʼa	Deagentive	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Deletion of dative object	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Deletion of direct object	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Deletion of indirect object	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Deletion of oblique	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Demotion of direct object to oblique	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Promotion of direct object to oblique	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Promotion of oblique to indirect object	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Theme as instrument instead of oblique	Never	
+Nǀǀng	57	LAUGH	kxʼainʼa	Uncoded causative	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Coded causative	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Deagentive	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	58	SCREAM	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of direct object	Marginally	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of direct object via SVC	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of instrument/comitative	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Addition of oblique via SVC	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Clausal complement instead of direct object	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Clausal complement instead of oblique argument	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Coded causative	Regularly	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Coded causative + addition of oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Deagentive	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Deletion of dative object	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Deletion of direct object	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Deletion of indirect object	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Deletion of oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Demotion of direct object to oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Promotion of direct object to oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Promotion of oblique to indirect object	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Theme as instrument instead of oblique	Never	
+Nǀǀng	59	FEEL PAIN	ʘʼuiʼi	Uncoded causative	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of direct object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of direct object via SVC	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of instrument/comitative	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Addition of oblique via SVC	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Clausal complement instead of direct object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Coded causative	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Coded causative + addition of oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Deagentive	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Deletion of dative object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Deletion of direct object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Deletion of indirect object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Deletion of oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Demotion of direct object to oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Promotion of direct object to oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	60	FEEL COLD	khinn ǀʼhuu	Uncoded causative	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of direct object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of direct object via SVC	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of instrument/comitative	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Addition of oblique via SVC	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Clausal complement instead of direct object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Coded causative	Regularly	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Coded causative + addition of oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Deagentive	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Deletion of dative object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Deletion of direct object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Deletion of indirect object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Deletion of oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Demotion of direct object to oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Promotion of direct object to oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	60	FEEL COLD	ǀʼhuu	Uncoded causative	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of direct object	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of direct object via SVC	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of instrument/comitative	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	61	DIE	ǀʼaa	Addition of oblique via SVC	No data	
+Nǀǀng	61	DIE	ǀʼaa	Clausal complement instead of direct object	No data	
+Nǀǀng	61	DIE	ǀʼaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	61	DIE	ǀʼaa	Coded causative	Marginally	
+Nǀǀng	61	DIE	ǀʼaa	Coded causative + addition of oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Deagentive	Never	
+Nǀǀng	61	DIE	ǀʼaa	Deletion of dative object	Never	
+Nǀǀng	61	DIE	ǀʼaa	Deletion of direct object	Never	
+Nǀǀng	61	DIE	ǀʼaa	Deletion of indirect object	Never	
+Nǀǀng	61	DIE	ǀʼaa	Deletion of oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Demotion of direct object to oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	61	DIE	ǀʼaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	61	DIE	ǀʼaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	61	DIE	ǀʼaa	Promotion of direct object to oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	61	DIE	ǀʼaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	61	DIE	ǀʼaa	Uncoded causative	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of direct object	Regularly	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of direct object via SVC	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of instrument/comitative	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of oblique	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Addition of oblique via SVC	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Clausal complement instead of direct object	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Clausal complement instead of oblique argument	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Coded causative	Marginally	
+Nǀǀng	62	PLAY	(ka) ǃqora	Coded causative + addition of oblique	Marginally	
+Nǀǀng	62	PLAY	(ka) ǃqora	Deagentive	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Deletion of dative object	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Deletion of direct object	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Deletion of indirect object	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Deletion of oblique	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Demotion of direct object to oblique	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Promotion of direct object to oblique	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Promotion of oblique to indirect object	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Theme as instrument instead of oblique	Never	
+Nǀǀng	62	PLAY	(ka) ǃqora	Uncoded causative	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of direct object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of direct object via SVC	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of instrument/comitative	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Addition of oblique via SVC	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Clausal complement instead of direct object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Clausal complement instead of oblique argument	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Coded causative	Regularly	
+Nǀǀng	63	BE SAD	idiomatic expressions	Coded causative + addition of oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Deagentive	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Deletion of dative object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Deletion of direct object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Deletion of indirect object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Deletion of oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Demotion of direct object to oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Promotion of direct object to oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Promotion of oblique to indirect object	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Theme as instrument instead of oblique	Never	
+Nǀǀng	63	BE SAD	idiomatic expressions	Uncoded causative	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of direct object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of direct object via SVC	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of instrument/comitative	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Addition of oblique via SVC	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Clausal complement instead of direct object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Clausal complement instead of oblique argument	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Coded causative	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Coded causative + addition of oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Deagentive	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Deletion of dative object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Deletion of direct object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Deletion of indirect object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Deletion of oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Demotion of direct object to oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Promotion of direct object to oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Promotion of oblique to indirect object	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Theme as instrument instead of oblique	Never	
+Nǀǀng	64	BE HUNGRY	khinn ǁqann	Uncoded causative	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Coded causative	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Deagentive	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	65	ROLL	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Coded causative	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Deagentive	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	66	SINK	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of direct object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of direct object via SVC	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of instrument/comitative	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Addition of oblique via SVC	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Clausal complement instead of direct object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Coded causative	Regularly	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Coded causative + addition of oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Deagentive	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Deletion of dative object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Deletion of direct object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Deletion of indirect object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Deletion of oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Demotion of direct object to oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Promotion of direct object to oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Promotion of oblique to indirect object	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Theme as instrument instead of oblique	Never	
+Nǀǀng	68	BE DRY	ǁoo(-a)	Uncoded causative	Marginally	
+Nǀǀng	69	RAIN	ǂhau	Addition of direct object	Never	
+Nǀǀng	69	RAIN	ǂhau	Addition of direct object via SVC	Never	
+Nǀǀng	69	RAIN	ǂhau	Addition of instrument/comitative	Never	
+Nǀǀng	69	RAIN	ǂhau	Addition of oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	69	RAIN	ǂhau	Addition of oblique via SVC	Never	
+Nǀǀng	69	RAIN	ǂhau	Clausal complement instead of direct object	Never	
+Nǀǀng	69	RAIN	ǂhau	Clausal complement instead of oblique argument	Never	
+Nǀǀng	69	RAIN	ǂhau	Coded causative	Marginally	
+Nǀǀng	69	RAIN	ǂhau	Coded causative + addition of oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Deagentive	Never	
+Nǀǀng	69	RAIN	ǂhau	Deletion of dative object	Never	
+Nǀǀng	69	RAIN	ǂhau	Deletion of direct object	Never	
+Nǀǀng	69	RAIN	ǂhau	Deletion of indirect object	Never	
+Nǀǀng	69	RAIN	ǂhau	Deletion of oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Demotion of direct object to oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	69	RAIN	ǂhau	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	69	RAIN	ǂhau	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	69	RAIN	ǂhau	Promotion of direct object to oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Promotion of oblique to indirect object	Never	
+Nǀǀng	69	RAIN	ǂhau	Theme as instrument instead of oblique	Never	
+Nǀǀng	69	RAIN	ǂhau	Uncoded causative	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of direct object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of direct object via SVC	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of instrument/comitative	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Addition of oblique via SVC	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Clausal complement instead of direct object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Clausal complement instead of oblique argument	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Coded causative	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Coded causative + addition of oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Deagentive	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Deletion of dative object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Deletion of direct object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Deletion of indirect object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Deletion of oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Demotion of direct object to oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Promotion of direct object to oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Promotion of oblique to indirect object	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Theme as instrument instead of oblique	Never	
+Nǀǀng	70	BE A HUNTER	ng X	Uncoded causative	Never	
+Nǀǀng	71	GRIND	ǂxaike	Addition of direct object	Never	
+Nǀǀng	71	GRIND	ǂxaike	Addition of direct object via SVC	Never	
+Nǀǀng	71	GRIND	ǂxaike	Addition of instrument/comitative	Regularly	
+Nǀǀng	71	GRIND	ǂxaike	Addition of oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	71	GRIND	ǂxaike	Addition of oblique via SVC	Never	
+Nǀǀng	71	GRIND	ǂxaike	Clausal complement instead of direct object	Never	
+Nǀǀng	71	GRIND	ǂxaike	Clausal complement instead of oblique argument	Never	
+Nǀǀng	71	GRIND	ǂxaike	Coded causative	Marginally	
+Nǀǀng	71	GRIND	ǂxaike	Coded causative + addition of oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Deagentive	Never	
+Nǀǀng	71	GRIND	ǂxaike	Deletion of dative object	Never	
+Nǀǀng	71	GRIND	ǂxaike	Deletion of direct object	Regularly	
+Nǀǀng	71	GRIND	ǂxaike	Deletion of indirect object	Never	
+Nǀǀng	71	GRIND	ǂxaike	Deletion of oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Demotion of direct object to oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	71	GRIND	ǂxaike	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	71	GRIND	ǂxaike	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	71	GRIND	ǂxaike	Promotion of direct object to oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Promotion of oblique to indirect object	Never	
+Nǀǀng	71	GRIND	ǂxaike	Theme as instrument instead of oblique	Never	
+Nǀǀng	71	GRIND	ǂxaike	Uncoded causative	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Coded causative	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Deagentive	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	72	WIPE	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of direct object	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of direct object via SVC	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of instrument/comitative	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	73	DIG	ǁʼau	Addition of oblique via SVC	Regularly	
+Nǀǀng	73	DIG	ǁʼau	Clausal complement instead of direct object	Never	
+Nǀǀng	73	DIG	ǁʼau	Clausal complement instead of oblique argument	Never	
+Nǀǀng	73	DIG	ǁʼau	Coded causative	Marginally	
+Nǀǀng	73	DIG	ǁʼau	Coded causative + addition of oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Deagentive	Never	
+Nǀǀng	73	DIG	ǁʼau	Deletion of dative object	Never	
+Nǀǀng	73	DIG	ǁʼau	Deletion of direct object	Regularly	
+Nǀǀng	73	DIG	ǁʼau	Deletion of indirect object	Never	
+Nǀǀng	73	DIG	ǁʼau	Deletion of oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Demotion of direct object to oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	73	DIG	ǁʼau	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	73	DIG	ǁʼau	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	73	DIG	ǁʼau	Promotion of direct object to oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Promotion of oblique to indirect object	Never	
+Nǀǀng	73	DIG	ǁʼau	Theme as instrument instead of oblique	Never	
+Nǀǀng	73	DIG	ǁʼau	Uncoded causative	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of direct object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of direct object via SVC	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of instrument/comitative	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Addition of oblique via SVC	Regularly	
+Nǀǀng	74	PUSH	ǂʼhaqa	Clausal complement instead of direct object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Coded causative	Marginally	
+Nǀǀng	74	PUSH	ǂʼhaqa	Coded causative + addition of oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Deagentive	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Deletion of dative object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Deletion of direct object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Deletion of indirect object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Deletion of oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Demotion of direct object to oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Marginally	
+Nǀǀng	74	PUSH	ǂʼhaqa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Promotion of direct object to oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Promotion of oblique to indirect object	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Theme as instrument instead of oblique	Never	
+Nǀǀng	74	PUSH	ǂʼhaqa	Uncoded causative	Never	
+Nǀǀng	75	BRING	tsaa	Addition of direct object	Never	
+Nǀǀng	75	BRING	tsaa	Addition of direct object via SVC	Never	
+Nǀǀng	75	BRING	tsaa	Addition of instrument/comitative	Never	
+Nǀǀng	75	BRING	tsaa	Addition of oblique	Never	
+Nǀǀng	75	BRING	tsaa	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	75	BRING	tsaa	Addition of oblique via SVC	Never	
+Nǀǀng	75	BRING	tsaa	Clausal complement instead of direct object	Never	
+Nǀǀng	75	BRING	tsaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	75	BRING	tsaa	Coded causative	Never	
+Nǀǀng	75	BRING	tsaa	Coded causative + addition of oblique	Never	
+Nǀǀng	75	BRING	tsaa	Deagentive	Never	
+Nǀǀng	75	BRING	tsaa	Deletion of dative object	Never	
+Nǀǀng	75	BRING	tsaa	Deletion of direct object	Never	
+Nǀǀng	75	BRING	tsaa	Deletion of indirect object	Marginally	
+Nǀǀng	75	BRING	tsaa	Deletion of oblique	Never	
+Nǀǀng	75	BRING	tsaa	Demotion of direct object to oblique	Never	
+Nǀǀng	75	BRING	tsaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	75	BRING	tsaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	75	BRING	tsaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	75	BRING	tsaa	Promotion of direct object to oblique	Never	
+Nǀǀng	75	BRING	tsaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	75	BRING	tsaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	75	BRING	tsaa	Uncoded causative	Never	
+Nǀǀng	76	STEAL	gaake	Addition of direct object	Never	
+Nǀǀng	76	STEAL	gaake	Addition of direct object via SVC	Never	
+Nǀǀng	76	STEAL	gaake	Addition of instrument/comitative	Never	
+Nǀǀng	76	STEAL	gaake	Addition of oblique	Never	
+Nǀǀng	76	STEAL	gaake	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	76	STEAL	gaake	Addition of oblique via SVC	Never	
+Nǀǀng	76	STEAL	gaake	Clausal complement instead of direct object	Never	
+Nǀǀng	76	STEAL	gaake	Clausal complement instead of oblique argument	Never	
+Nǀǀng	76	STEAL	gaake	Coded causative	Marginally	
+Nǀǀng	76	STEAL	gaake	Coded causative + addition of oblique	Never	
+Nǀǀng	76	STEAL	gaake	Deagentive	Never	
+Nǀǀng	76	STEAL	gaake	Deletion of dative object	Never	
+Nǀǀng	76	STEAL	gaake	Deletion of direct object	Regularly	
+Nǀǀng	76	STEAL	gaake	Deletion of indirect object	Never	
+Nǀǀng	76	STEAL	gaake	Deletion of oblique	Never	
+Nǀǀng	76	STEAL	gaake	Demotion of direct object to oblique	Never	
+Nǀǀng	76	STEAL	gaake	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	76	STEAL	gaake	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	76	STEAL	gaake	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	76	STEAL	gaake	Promotion of direct object to oblique	Never	
+Nǀǀng	76	STEAL	gaake	Promotion of oblique to indirect object	Never	
+Nǀǀng	76	STEAL	gaake	Theme as instrument instead of oblique	Never	
+Nǀǀng	76	STEAL	gaake	Uncoded causative	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of direct object	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of direct object via SVC	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of instrument/comitative	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of oblique	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	78	HEAR	tyuu	Addition of oblique via SVC	Never	
+Nǀǀng	78	HEAR	tyuu	Clausal complement instead of direct object	Regularly	
+Nǀǀng	78	HEAR	tyuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	78	HEAR	tyuu	Coded causative	Marginally	
+Nǀǀng	78	HEAR	tyuu	Coded causative + addition of oblique	Never	
+Nǀǀng	78	HEAR	tyuu	Deagentive	Never	
+Nǀǀng	78	HEAR	tyuu	Deletion of dative object	Never	
+Nǀǀng	78	HEAR	tyuu	Deletion of direct object	Marginally	
+Nǀǀng	78	HEAR	tyuu	Deletion of indirect object	Never	
+Nǀǀng	78	HEAR	tyuu	Deletion of oblique	Never	
+Nǀǀng	78	HEAR	tyuu	Demotion of direct object to oblique	Regularly	
+Nǀǀng	78	HEAR	tyuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	78	HEAR	tyuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	78	HEAR	tyuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	78	HEAR	tyuu	Promotion of direct object to oblique	Never	
+Nǀǀng	78	HEAR	tyuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	78	HEAR	tyuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	78	HEAR	tyuu	Uncoded causative	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of direct object	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of direct object via SVC	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of instrument/comitative	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of oblique	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	79	COOK	ǃxama	Addition of oblique via SVC	Never	
+Nǀǀng	79	COOK	ǃxama	Clausal complement instead of direct object	Never	
+Nǀǀng	79	COOK	ǃxama	Clausal complement instead of oblique argument	Never	
+Nǀǀng	79	COOK	ǃxama	Coded causative	Marginally	
+Nǀǀng	79	COOK	ǃxama	Coded causative + addition of oblique	Never	
+Nǀǀng	79	COOK	ǃxama	Deagentive	Regularly	
+Nǀǀng	79	COOK	ǃxama	Deletion of dative object	Never	
+Nǀǀng	79	COOK	ǃxama	Deletion of direct object	Regularly	
+Nǀǀng	79	COOK	ǃxama	Deletion of indirect object	Never	
+Nǀǀng	79	COOK	ǃxama	Deletion of oblique	Never	
+Nǀǀng	79	COOK	ǃxama	Demotion of direct object to oblique	No data	
+Nǀǀng	79	COOK	ǃxama	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	79	COOK	ǃxama	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	79	COOK	ǃxama	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	79	COOK	ǃxama	Promotion of direct object to oblique	Never	
+Nǀǀng	79	COOK	ǃxama	Promotion of oblique to indirect object	Never	
+Nǀǀng	79	COOK	ǃxama	Theme as instrument instead of oblique	Never	
+Nǀǀng	79	COOK	ǃxama	Uncoded causative	Never	
+Nǀǀng	80	BOIL	ǀuun	Addition of direct object	Never	
+Nǀǀng	80	BOIL	ǀuun	Addition of direct object via SVC	No data	
+Nǀǀng	80	BOIL	ǀuun	Addition of instrument/comitative	Never	
+Nǀǀng	80	BOIL	ǀuun	Addition of oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	80	BOIL	ǀuun	Addition of oblique via SVC	Marginally	
+Nǀǀng	80	BOIL	ǀuun	Clausal complement instead of direct object	Never	
+Nǀǀng	80	BOIL	ǀuun	Clausal complement instead of oblique argument	Never	
+Nǀǀng	80	BOIL	ǀuun	Coded causative	Marginally	
+Nǀǀng	80	BOIL	ǀuun	Coded causative + addition of oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Deagentive	Never	
+Nǀǀng	80	BOIL	ǀuun	Deletion of dative object	Never	
+Nǀǀng	80	BOIL	ǀuun	Deletion of direct object	Never	
+Nǀǀng	80	BOIL	ǀuun	Deletion of indirect object	Never	
+Nǀǀng	80	BOIL	ǀuun	Deletion of oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Demotion of direct object to oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	80	BOIL	ǀuun	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	80	BOIL	ǀuun	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	80	BOIL	ǀuun	Promotion of direct object to oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Promotion of oblique to indirect object	Never	
+Nǀǀng	80	BOIL	ǀuun	Theme as instrument instead of oblique	Never	
+Nǀǀng	80	BOIL	ǀuun	Uncoded causative	Regularly	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of direct object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of direct object via SVC	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of instrument/comitative	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Addition of oblique via SVC	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Clausal complement instead of direct object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Clausal complement instead of oblique argument	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Coded causative	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Coded causative + addition of oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Deagentive	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Deletion of dative object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Deletion of direct object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Deletion of indirect object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Deletion of oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Demotion of direct object to oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Promotion of direct object to oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Promotion of oblique to indirect object	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Theme as instrument instead of oblique	Never	
+Nǀǀng	81	APPEAR	no verbal counterpart	Uncoded causative	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of direct object	Marginally	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of direct object via SVC	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of instrument/comitative	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Addition of oblique via SVC	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Clausal complement instead of direct object	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Clausal complement instead of oblique argument	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Coded causative	Regularly	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Coded causative + addition of oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Deagentive	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Deletion of dative object	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Deletion of direct object	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Deletion of indirect object	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Deletion of oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Demotion of direct object to oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Promotion of direct object to oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Promotion of oblique to indirect object	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Theme as instrument instead of oblique	Never	
+Nǀǀng	82	BE ILL	ʘʼuiʼi	Uncoded causative	Never	
+Nǀǀng	83	CRY	kxʼaa	Addition of direct object	Never	
+Nǀǀng	83	CRY	kxʼaa	Addition of direct object via SVC	No data	
+Nǀǀng	83	CRY	kxʼaa	Addition of instrument/comitative	Never	
+Nǀǀng	83	CRY	kxʼaa	Addition of oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Addition of oblique + direct object via SVC	No data	
+Nǀǀng	83	CRY	kxʼaa	Addition of oblique via SVC	No data	
+Nǀǀng	83	CRY	kxʼaa	Clausal complement instead of direct object	Never	
+Nǀǀng	83	CRY	kxʼaa	Clausal complement instead of oblique argument	Never	
+Nǀǀng	83	CRY	kxʼaa	Coded causative	Marginally	
+Nǀǀng	83	CRY	kxʼaa	Coded causative + addition of oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Deagentive	Never	
+Nǀǀng	83	CRY	kxʼaa	Deletion of dative object	Never	
+Nǀǀng	83	CRY	kxʼaa	Deletion of direct object	Never	
+Nǀǀng	83	CRY	kxʼaa	Deletion of indirect object	Never	
+Nǀǀng	83	CRY	kxʼaa	Deletion of oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Demotion of direct object to oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	83	CRY	kxʼaa	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	83	CRY	kxʼaa	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	83	CRY	kxʼaa	Promotion of direct object to oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Promotion of oblique to indirect object	Never	
+Nǀǀng	83	CRY	kxʼaa	Theme as instrument instead of oblique	Never	
+Nǀǀng	83	CRY	kxʼaa	Uncoded causative	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of direct object	Regularly	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of direct object via SVC	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of instrument/comitative	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of oblique	Regularly	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Addition of oblique via SVC	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Clausal complement instead of direct object	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Clausal complement instead of oblique argument	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Coded causative	Marginally	
+Nǀǀng	84	FALL	ǂqau kiin	Coded causative + addition of oblique	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Deagentive	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Deletion of dative object	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Deletion of direct object	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Deletion of indirect object	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Deletion of oblique	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Demotion of direct object to oblique	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Promotion of direct object to oblique	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Promotion of oblique to indirect object	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Theme as instrument instead of oblique	Never	
+Nǀǀng	84	FALL	ǂqau kiin	Uncoded causative	Never	
+Nǀǀng	85	MAKE	kxʼuu	Addition of direct object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Addition of direct object via SVC	Never	
+Nǀǀng	85	MAKE	kxʼuu	Addition of instrument/comitative	Regularly	
+Nǀǀng	85	MAKE	kxʼuu	Addition of oblique	Regularly	
+Nǀǀng	85	MAKE	kxʼuu	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	85	MAKE	kxʼuu	Addition of oblique via SVC	Never	
+Nǀǀng	85	MAKE	kxʼuu	Clausal complement instead of direct object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Clausal complement instead of oblique argument	Never	
+Nǀǀng	85	MAKE	kxʼuu	Coded causative	Never	
+Nǀǀng	85	MAKE	kxʼuu	Coded causative + addition of oblique	Never	
+Nǀǀng	85	MAKE	kxʼuu	Deagentive	Never	
+Nǀǀng	85	MAKE	kxʼuu	Deletion of dative object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Deletion of direct object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Deletion of indirect object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Deletion of oblique	Never	
+Nǀǀng	85	MAKE	kxʼuu	Demotion of direct object to oblique	Never	
+Nǀǀng	85	MAKE	kxʼuu	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	85	MAKE	kxʼuu	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	85	MAKE	kxʼuu	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	85	MAKE	kxʼuu	Promotion of direct object to oblique	Never	
+Nǀǀng	85	MAKE	kxʼuu	Promotion of oblique to indirect object	Never	
+Nǀǀng	85	MAKE	kxʼuu	Theme as instrument instead of oblique	Never	
+Nǀǀng	85	MAKE	kxʼuu	Uncoded causative	Never	
+Nǀǀng	86	GET	hoo (1)	Addition of direct object	Never	
+Nǀǀng	86	GET	hoo (1)	Addition of direct object via SVC	Never	
+Nǀǀng	86	GET	hoo (1)	Addition of instrument/comitative	Never	
+Nǀǀng	86	GET	hoo (1)	Addition of oblique	Regularly	
+Nǀǀng	86	GET	hoo (1)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	86	GET	hoo (1)	Addition of oblique via SVC	Never	
+Nǀǀng	86	GET	hoo (1)	Clausal complement instead of direct object	Never	
+Nǀǀng	86	GET	hoo (1)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	86	GET	hoo (1)	Coded causative	Marginally	
+Nǀǀng	86	GET	hoo (1)	Coded causative + addition of oblique	Never	
+Nǀǀng	86	GET	hoo (1)	Deagentive	Never	
+Nǀǀng	86	GET	hoo (1)	Deletion of dative object	Never	
+Nǀǀng	86	GET	hoo (1)	Deletion of direct object	Never	
+Nǀǀng	86	GET	hoo (1)	Deletion of indirect object	Never	
+Nǀǀng	86	GET	hoo (1)	Deletion of oblique	Never	
+Nǀǀng	86	GET	hoo (1)	Demotion of direct object to oblique	Regularly	
+Nǀǀng	86	GET	hoo (1)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	86	GET	hoo (1)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	86	GET	hoo (1)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	86	GET	hoo (1)	Promotion of direct object to oblique	Never	
+Nǀǀng	86	GET	hoo (1)	Promotion of oblique to indirect object	Never	
+Nǀǀng	86	GET	hoo (1)	Theme as instrument instead of oblique	Never	
+Nǀǀng	86	GET	hoo (1)	Uncoded causative	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of direct object	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of direct object via SVC	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of instrument/comitative	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Addition of oblique via SVC	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Clausal complement instead of direct object	Regularly	
+Nǀǀng	87	WANT	ǂao(-a)	Clausal complement instead of oblique argument	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Coded causative	Marginally	
+Nǀǀng	87	WANT	ǂao(-a)	Coded causative + addition of oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Deagentive	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Deletion of dative object	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Deletion of direct object	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Deletion of indirect object	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Deletion of oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Demotion of direct object to oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Promotion of direct object to oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Promotion of oblique to indirect object	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Theme as instrument instead of oblique	Never	
+Nǀǀng	87	WANT	ǂao(-a)	Uncoded causative	Never	
+Nǀǀng	87	WANT	ǂxaqake	Addition of direct object	Never	
+Nǀǀng	87	WANT	ǂxaqake	Addition of direct object via SVC	Never	
+Nǀǀng	87	WANT	ǂxaqake	Addition of instrument/comitative	Never	
+Nǀǀng	87	WANT	ǂxaqake	Addition of oblique	No data	
+Nǀǀng	87	WANT	ǂxaqake	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	87	WANT	ǂxaqake	Addition of oblique via SVC	Never	
+Nǀǀng	87	WANT	ǂxaqake	Clausal complement instead of direct object	Regularly	
+Nǀǀng	87	WANT	ǂxaqake	Clausal complement instead of oblique argument	Never	
+Nǀǀng	87	WANT	ǂxaqake	Coded causative	Marginally	
+Nǀǀng	87	WANT	ǂxaqake	Coded causative + addition of oblique	Never	
+Nǀǀng	87	WANT	ǂxaqake	Deagentive	Never	
+Nǀǀng	87	WANT	ǂxaqake	Deletion of dative object	Never	
+Nǀǀng	87	WANT	ǂxaqake	Deletion of direct object	Marginally	
+Nǀǀng	87	WANT	ǂxaqake	Deletion of indirect object	Never	
+Nǀǀng	87	WANT	ǂxaqake	Deletion of oblique	Never	
+Nǀǀng	87	WANT	ǂxaqake	Demotion of direct object to oblique	Never	
+Nǀǀng	87	WANT	ǂxaqake	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	87	WANT	ǂxaqake	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	87	WANT	ǂxaqake	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	87	WANT	ǂxaqake	Promotion of direct object to oblique	Never	
+Nǀǀng	87	WANT	ǂxaqake	Promotion of oblique to indirect object	Never	
+Nǀǀng	87	WANT	ǂxaqake	Theme as instrument instead of oblique	Never	
+Nǀǀng	87	WANT	ǂxaqake	Uncoded causative	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of direct object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of direct object via SVC	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of instrument/comitative	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of oblique	Regularly	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of oblique + direct object via SVC	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Addition of oblique via SVC	Regularly	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Clausal complement instead of direct object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Clausal complement instead of oblique argument	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Coded causative	Marginally	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Coded causative + addition of oblique	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Deagentive	Regularly	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Deletion of dative object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Deletion of direct object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Deletion of indirect object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Deletion of oblique	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Demotion of direct object to oblique	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Demotion of indirect object to oblique (via SVC)	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Locative shift: goal as direct object (instead of theme) with the theme coded as instrumental/comitative	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Locative shift: theme as direct object (instead of goal)	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Promotion of direct object to oblique	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Promotion of oblique to indirect object	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Theme as instrument instead of oblique	Never	
+Nǀǀng	116	BURN (tr)	ǂʼhubi	Uncoded causative	Never	

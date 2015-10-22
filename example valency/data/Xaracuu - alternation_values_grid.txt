@@ -1,0 +1,102 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Ambitransitive Alternation 1	Ambitransitive Alternation 2	Applicative alternation	Causative alternation	Conative alternation	Impersonal alternation	Middle alternation	Nominalization alternation	Object Omission alternation	Oblique/Direct alternation	Reflexive/Reciprocal omission alternation
+Xârâcùù	1	EAT	da	56, 175, 176, 241, 242, 271, 299, 300	1 > V 2	Never	Never	Never	Regularly	Marginally	No data	Regularly	Regularly	Regularly	No data	No data
+Xârâcùù	1	EAT	kê (2)	57, 58, 243	1 > V 2	Never	Never	Never	Regularly	Marginally	No data	Never	Regularly	Regularly	Marginally	Never
+Xârâcùù	1	EAT	xwè	156, 292	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Marginally	Marginally	Never	No data
+Xârâcùù	2	HUG	satee	92	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Marginally	No data	No data	No data
+Xârâcùù	3	LOOK AT	téé fè	76	1 > V 2	Never	Never	Never	Regularly	Never	No data	No data	Regularly	No data	No data	No data
+Xârâcùù	4	SEE	téé	50, 77, 219, 220, 221, 222	1 > V 2	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Marginally	No data	No data
+Xârâcùù	4	SEE	xâpârî	137, 138, 143, 316	1 > V 2	Never	Never	Never	Marginally	No data	No data	Marginally	Regularly	No data	No data	No data
+Xârâcùù	5	SMELL	bu	67, 168, 245, 246	1 > V 2	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	No data	No data
+Xârâcùù	6	FEAR	bata	52, 53, 103, 158, 166	1 > V taa+2	No data	Never	Regularly	Regularly	Never	No data	Never	Regularly	Never	No data	No data
+Xârâcùù	7	FRIGHTEN	fabata	51, 166	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Marginally	No data	No data	Marginally
+Xârâcùù	8	LIKE	xwèrii	54, 227	1 > V 2	Never	Never	Never	No data	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	9	KNOW	néxä	49, 145, 154, 193, 194, 277	1 > V 2	Never	Never	Never	Never	Never	No data	Never	Regularly	Marginally	Never	No data
+Xârâcùù	9	KNOW	tâmwâ	131, 132, 133, 134, 135, 307	1 > V 2	No data	Never	Never	No data	No data	No data	No data	Regularly	Marginally	Never	No data
+Xârâcùù	10	THINK	nârâ	78, 79, 130, 157, 275, 276	1 > V 2	No data	Never	Never	Never	No data	No data	No data	Regularly	No data	No data	No data
+Xârâcùù	11	SEARCH FOR	piicè	80, 81, 82, 147, 281, 314	1 > V 2	Never	Never	Never	Regularly	No data	Marginally	Never	Regularly	No data	No data	No data
+Xârâcùù	12	WASH	ngûrû	69, 70, 198, 199, 247	1 > V 2	No data	Never	Never	Marginally	No data	No data	Never	Regularly	No data	No data	Marginally
+Xârâcùù	13	DRESS	famwâmwâ	68, 341	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Marginally	No data	Never	No data
+Xârâcùù	14	SHAVE (a body part/person)														
+Xârâcùù	15	HELP	ciiwi	83, 84, 171, 256	1 > V 2	Never	Never	Never	Marginally	No data	No data	No data	Regularly	Marginally	No data	No data
+Xârâcùù	16	FOLLOW	fèèté	85, 177, 257	1 > V 2	Never	Never	Never	Marginally	Never	No data	No data	Regularly	No data	No data	No data
+Xârâcùù	17	MEET	pùùtè	86, 87, 88, 136, 233	1 > V	Never	Never	Never	Marginally	Never	No data	Regularly	Regularly	Never	No data	No data
+Xârâcùù	18	TALK	tèpe	89, 90, 141, 150, 249, 250, 319	1 > V wâ+2 (xù+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Regularly	No data	No data
+Xârâcùù	19	ASK FOR	nââ	47, 189, 190, 191	1 > V 2 taa+3	Never	Never	Never	Never	No data	No data	No data	Regularly	Never	No data	No data
+Xârâcùù	19	ASK FOR	nêgé	48, 192, 278	1 > V 2 xù+3	Never	Never	Never	Regularly	No data	Never	Never	Regularly	Marginally	Never	No data
+Xârâcùù	20	SHOUT AT	xangââ	41, 42, 43, 44	1 > V ngê+2 xù+3	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	21	TELL	faxwata	45, 270, 344	1 > V ngê+2 xù+3	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	Regularly	No data
+Xârâcùù	21	TELL	sömârâ	46, 216, 217	1 > V ngê+2 xù+3	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	22	SAY	ché	40, 142, 174, 232, 302, 315	1 > V 2 xù+3	Never	Never	Never	Regularly	No data	No data	No data	Regularly	Marginally	No data	No data
+Xârâcùù	23	NAME	xacè	91, 140, 195	1 > V 2 (ngê+3)	No data	Never	Never	Regularly	No data	No data	Never	Marginally	No data	Regularly	No data
+Xârâcùù	24	BUILD	xwi	36, 37, 38, 39, 234, 252	1 > V 2 (ngê+3)	Regularly	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	Never
+Xârâcùù	25	BREAK	jikörö	35	1 > V 2 (ngê+3)	Never	Never	Never	Marginally	No data	No data	Never	Marginally	No data	No data	Never
+Xârâcùù	26	KILL	söömè	34, 211	1 > V 2 (ngê+3)	Never	Never	Never	No data	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	26	KILL	sa	212, 213, 285, 313	1 > V 2	Never	Never	Never	Regularly	No data	No data	No data	Regularly	No data	Never	No data
+Xârâcùù	26	KILL	pwèkè	214	1 > V 2 (ngê+3)	Never	Never	Never	No data	No data	No data	Never	No data	No data	No data	No data
+Xârâcùù	26	KILL	pwââmè	255, 331, 332	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	27	BEAT	fîgai	33	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	28	HIT	fîda	32, 163	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	28	HIT	chëi	235, 236, 261	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	Marginally	Marginally
+Xârâcùù	29	TOUCH	sakai	31	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	29	TOUCH	xâânîî	215	1 > V 2	Never	Never	Never	No data	No data	No data	Never	No data	No data	No data	No data
+Xârâcùù	30	CUT	söpuru	30, 253	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	31	TAKE	pè	73, 204, 272	1 > V 2 taa+3	Never	Never	Never	Regularly	No data	No data	Marginally	Regularly	No data	No data	No data
+Xârâcùù	32	TEAR	chètia	1, 169, 170, 317	1 > V > 2 (kèwâ+3)	Never	Never	Never	Regularly	No data	Never	Never	Regularly	Never	No data	Marginally
+Xârâcùù	33	PEEL	tapöru	93	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Marginally	No data	No data	Never
+Xârâcùù	33	PEEL	cee	229	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Regularly	No data	Never
+Xârâcùù	34	HIDE	sûûârâ	26, 27	1 > V 2 taa+3	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	35	SHOW	xacië	24, 139, 291, 294, 308	1 > V 2 xù+3	Never	Never	Never	Regularly	No data	Marginally	Never	Regularly	No data	No data	No data
+Xârâcùù	36	GIVE	xù	21, 22, 23, 273, 312	1 > V 2 xù+3	Never	Never	Never	Never	No data	No data	Marginally	Regularly	No data	Marginally	No data
+Xârâcùù	37	SEND	nû	19, 20, 197, 279, 310	1 > V 2 xù+3	Never	Never	Never	Regularly	No data	Marginally	Never	Regularly	No data	No data	No data
+Xârâcùù	38	CARRY	pè mê	16, 17, 185	1 > V 2 (LOC3)	Never	Never	Never	No data	No data	No data	No data	No data	No data	No data	No data
+Xârâcùù	38	CARRY	akö	206, 267, 268	1 > V 2 (LOC3)	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Regularly	Never	No data
+Xârâcùù	39	THROW	gwéré	14, 15, 178, 179, 321, 322	1 > V 2 (LOC3)	Never	Never	Never	Regularly	No data	Never	Never	Regularly	No data	No data	No data
+Xârâcùù	39	THROW	tê	148, 149, 325, 326, 345	1 > V 2 (LOC3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	40	TIE	curu	7, 269	1 > V 2 (LOC3)	Never	Never	Never	Regularly	No data	Never	Never	Regularly	Regularly	No data	Never
+Xârâcùù	40	TIE	fëi	230, 231, 295	1 > V 2 (LOC3) (ngê+4)	Never	Never	Never	Marginally	No data	No data	Never	Marginally	No data	No data	No data
+Xârâcùù	41	PUT	suè	12, 13, 304, 320	1 > V 2 (LOC3)	Never	Never	Never	Regularly	No data	Never	Never	Regularly	No data	No data	Never
+Xârâcùù	42	POUR	xwêê	8, 9, 10, 11, 160, 348	1 > V 2 (LOC3)	Regularly	Never	Never	Regularly	No data	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	43	COVER	kasache	3, 347	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	43	COVER	sache	180, 181, 260	1 > V 2 (ngê+3)	No data	Never	Never	Marginally	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	44	FILL	faxûda	4, 5, 342, 343	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	Never	Never	Regularly	No data	No data	Never
+Xârâcùù	45	LOAD	nîî	6, 309	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	Never	No data	Regularly	No data	No data	Never
+Xârâcùù	46	BLINK	nimè	75, 196, 254	1 > V	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Never	No data	Never
+Xârâcùù	47	COUGH	chèxô	59, 240	1 > V	Never	Never	Never	Regularly	Never	No data	Never	Marginally	Never	No data	Never
+Xârâcùù	48	CLIMB	péré	94, 95, 162, 258, 259	1 > V 2	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Regularly	Never	Never
+Xârâcùù	49	RUN	pûxûrû	96, 209, 210, 282, 283	1 > V	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	50	SIT	cuè	60, 61, 151, 172, 173, 244, 262, 303	1 > V (LOC2)	Never	Never	Never	Regularly	Never	No data	Regularly	Regularly	Never	Never	Never
+Xârâcùù	51	SIT DOWN	cuè chéé	98	1 > V tö+2	Never	Never	Never	Regularly	Never	Never	No data	Regularly	Never	Never	Never
+Xârâcùù	52	JUMP	cîchéé	97	1 > V (LOC2)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	53	SING	xô	99, 100, 155, 293, 318	1 > V	Never	Never	Never	Regularly	No data	No data	No data	Regularly	Never	No data	Never
+Xârâcùù	54	GO	fè	101, 102	1 > V (LOC2)	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	55	LEAVE	fè	101, 102	1 > V (LOC2)	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	55	LEAVE	fètaa	103, 104, 263, 264	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	Never	No data
+Xârâcùù	56	LIVE	muru	105, 146, 152, 153, 187, 265, 266, 284	1 > V (LOC2)	Regularly	Never	Regularly	Regularly	Marginally	No data	Never	Regularly	Never	No data	Never
+Xârâcùù	57	LAUGH	mwârâ	106, 107, 188, 306	1 > V	No data	Never	Regularly	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	58	SCREAM	ngââ	108, 289	1 > V	No data	Never	Never	Marginally	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	59	FEEL PAIN	paii	109, 110, 200, 201, 202, 203, 280, 286, 311	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	60	FEEL COLD	xùpè	63, 64, 333, 334, 335, 336, 337	1 > V	Never	Never	Never	Regularly	No data	Regularly	Never	Regularly	Never	Never	Never
+Xârâcùù	61	DIE	paiimè	74, 338, 339, 340	1 > V	Never	Never	Never	Marginally	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	62	PLAY	mwârâ	106, 107, 188, 306	1 > V	No data	Never	Regularly	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	63	BE SAD	nârâyaa	111, 112	1 > V	Never	Never	Never	Never	Never	Never	No data	Regularly	Never	Never	No data
+Xârâcùù	64	BE HUNGRY	mêrê	62, 186, 248	1 > V	No data	Never	Never	Regularly	Never	Never	No data	Regularly	Never	Never	Never
+Xârâcùù	65	ROLL	cipwîrî	122	1 > V	Never	Never	Never	Regularly	No data	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	66	SINK	mutu	113, 274	1 > V	No data	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Xârâcùù	67	BURN	kê (1)	114, 115, 182	1 > V	Never	Regularly	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	68	BE DRY	mëtë	116, 117, 118	1 > V	Never	Never	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Never
+Xârâcùù	69	RAIN	xwa	2, 159, 237	1 > V	Never	Never	Never	Regularly	Never	No data	Never	No data	Never	Never	Never
+Xârâcùù	69	RAIN	kwiè	238, 239	V	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never
+Xârâcùù	70	BE A HUNTER	acaa	55, 251	1 > V	Never	Never	Never	Marginally	Never	Never	Never	No data	Never	Never	Never
+Xârâcùù	71	GRIND	bikörö	119	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Marginally	No data	Never	Never
+Xârâcùù	72	WIPE	jee	28, 29, 327, 328	1 > V 2 (kè+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Never	No data	No data
+Xârâcùù	73	DIG	kîî	120, 183	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	Never
+Xârâcùù	73	DIG	sëi	121, 288	1 > V 2 (ngê+3)	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Marginally	No data	No data
+Xârâcùù	73	DIG	ja	161, 184, 329, 330, 346	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	Never
+Xârâcùù	74	PUSH	sùù	218, 323, 324	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	No data	No data	No data
+Xârâcùù	75	BRING	pè mê	16, 17, 185	1 > V 2 (LOC3)	Never	Never	Never	No data	No data	No data	No data	No data	No data	No data	No data
+Xârâcùù	75	BRING	mê kèrè	18	1 > V 2 xù+3	Never	Never	Never	Marginally	No data	No data	Never	Regularly	Never	No data	No data
+Xârâcùù	76	STEAL	pêdè	25, 207, 208	1 > V 2 taa+3	Never	Never	Never	Marginally	No data	No data	No data	Regularly	No data	Marginally	No data
+Xârâcùù	77	TEACH	faînû	65, 66, 301	1 > V ngê+2 xù+3	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	Regularly	No data
+Xârâcùù	78	HEAR	xwata	123, 124, 125, 225, 226, 270, 287, 305	1 > V 2	Never	Never	Never	Regularly	No data	No data	Never	Regularly	Regularly	No data	No data
+Xârâcùù	79	COOK	chutââ	228, 298	1 > V 2	Never	Never	Never	Marginally	No data	No data	Never	Regularly	No data	No data	Never
+Xârâcùù	80	BOIL	bö	126, 167	1 > V	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never

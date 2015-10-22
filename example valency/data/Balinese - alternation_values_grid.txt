@@ -1,0 +1,81 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Causative with instrument causee	Causative with Theme causee	Locative alternation (argument adding)	Locative alternation (argument rearanging)	Locative alternation (oblique to object)	Passive -a alternation	Passive ka- alternation	Resultative ma- alternation
+Balinese	1	EAT	ngajeng	1, 105, 150, 198	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	2	HUG	ngelut	2, 70, 106, 151, 199	1 V 2	No data	Regularly	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	3	LOOK AT	nlektekang	3, 107, 152	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	4	SEE	nepukin	4, 108, 153	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	5	SMELL	ngadekin	5, 109, 154	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	6	FEAR	nakutin	6, 7, 110, 111, 155, 156	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	7	FRIGHTEN	nakutin	6, 7, 110, 111, 155, 156	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	8	LIKE	nemenin	8, 112, 157	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	9	KNOW	nawang	9, 113, 158	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	10	THINK	ngenehang	10, 114, 159	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	11	SEARCH FOR	ngalihin	11	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	12	WASH	ngayehang	12, 116, 161, 200	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	13	DRESS	majunin	13, 117, 162, 201	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	14	SHAVE (a body part/person)	nguris	14, 118, 163, 202	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	15	HELP	nulungin	15, 119, 164	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	16	FOLLOW	ngikutin	16, 120, 165	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	17	MEET	matemu	17	1 V teken+2	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	18	TALK	ngomongin	18, 121, 166	1 V 2 unduk+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	19	ASK FOR	nagihin	19, 122, 167	1 V 2 3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	20	SHOUT AT	ngerakin	20, 123, 168	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	21	TELL	ngorahin	21, 124, 169	1 V 2 3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	22	SAY	ngorahang	22, 125, 170	1 V UTT2 teken+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	23	NAME	ngelunin	23, 126, 171	1 V 2 3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	24	BUILD	mangunang	24, 127, 172	1 V 2 aji+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	25	BREAK	melahang	25, 128, 173	1 V 2 aji+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	26	KILL	ngematiang	26, 83, 129, 174, 219	1 V 2 aji+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	27	BEAT	nglempagin	27, 130, 175, 203	1 V 2 aji+3	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Balinese	28	HIT	nglempag	28, 71, 176, 203	1 V 2 aji+3	Regularly	No data	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	29	TOUCH	nundik	29, 72, 131, 177, 204	1 V 2 aji+3	Regularly	No data	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	30	CUT	ngodot	30, 73, 132, 178, 205	1 V 2 aji+3	Regularly	No data	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	31	TAKE	nyemak	31, 88, 133, 179, 206	1 V 2 uli+3	Never	Never	No data	No data	Regularly	Regularly	Regularly	Regularly
+Balinese	32	TEAR	nguek	32, 134, 180, 207	1 V 2 uli+3	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	33	PEEL	melutin	33, 135, 181, 208	1 V 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	34	HIDE	ngengkebang	34, 89, 136, 182, 209	1 V 2 uli+3	Never	Never	No data	No data	Regularly	Regularly	Regularly	Regularly
+Balinese	35	SHOW	ngedengang	35, 90, 137, 183, 210	1 V 2 ke+3	Never	Never	No data	No data	Regularly	Regularly	Regularly	Regularly
+Balinese	36	GIVE	maang	36, 91, 138, 184	1 V 2 ke+3	Never	Never	No data	No data	Regularly	Regularly	Regularly	Never
+Balinese	37	SEND	ngirimang	37, 92, 139, 185, 211	1 V 2 ke+3	Never	Never	No data	No data	Regularly	Regularly	Regularly	Regularly
+Balinese	38	CARRY	ngaba	38, 140, 186, 212	1 V 2 ke+3	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	39	THROW	ngentungang	39, 93, 141, 187, 213	1 V 2 ke+3	Never	Never	No data	Regularly	No data	Regularly	Regularly	Regularly
+Balinese	40	TIE	negul	40, 74, 94, 142, 188, 214	1 V 2 aji+3 ke+4	Regularly	No data	No data	No data	Regularly	Regularly	Regularly	Regularly
+Balinese	41	PUT	ngejang	41, 95, 143, 189, 215	1 V 2 di+3	Never	Never	No data	No data	No data	Regularly	Regularly	Regularly
+Balinese	42	POUR	nuruhang	42, 96, 144, 190, 216	1 V 2 ke+3	Never	Never	No data	Regularly	No data	Regularly	Regularly	Regularly
+Balinese	43	COVER	ngerurub	43, 97, 145, 191, 217	1 V 2 aji+3	No data	No data	No data	No data	No data	Regularly	Regularly	Regularly
+Balinese	44	FILL	ngisinin	44, 75, 146, 192, 218	1 V 2 aji+3	Regularly	No data	Never	Never	Never	Regularly	Regularly	Regularly
+Balinese	45	LOAD	menekang	45, 98, 147, 194	1 V 2 ke+3	Never	Never	No data	Regularly	No data	Regularly	Regularly	Never
+Balinese	46	BLINK	ngedipang mata	46, 193	1 V	Never	Never	Never	Never	Never	Never	Regularly	Never
+Balinese	47	COUGH	makokohan	47	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	48	CLIMB	menekin	48, 76, 98, 148, 195	1 V 2	No data	Regularly	Never	Never	Never	Regularly	Regularly	Never
+Balinese	49	RUN	malaib	49, 99	1 V	Never	Never	Regularly	No data	No data	Never	Never	Never
+Balinese	50	SIT	negak	50, 77, 78, 100, 101	1 V di+2	No data	Regularly	No data	No data	Regularly	Never	Never	Never
+Balinese	51	SIT DOWN	negak	50, 77, 78, 100, 101	1 V di+2	No data	Regularly	No data	No data	Regularly	Never	Never	Never
+Balinese	52	JUMP	makejog	51, 79	1 V	No data	Marginally	No data	No data	No data	Never	Never	Never
+Balinese	53	SING	magending	52	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	54	GO	luas	53	1 V ke+2	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	55	LEAVE	ngalahin	54, 80, 115, 149, 160, 196	1 V 2	No data	No data	Never	Never	No data	Regularly	Regularly	Never
+Balinese	56	LIVE	nongos	55, 81, 102	1 V di+2	No data	Regularly	No data	No data	Regularly	Never	Never	Never
+Balinese	57	LAUGH	kedek	56, 103	1 V	Never	Never	Regularly	No data	No data	Never	Never	Never
+Balinese	58	SCREAM	makraik	57	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	59	FEEL PAIN	nyakitang	58, 197	1 V 2	Never	Never	Never	Never	Never	Never	Regularly	Never
+Balinese	60	FEEL COLD	dingin	59, 82	1 V	No data	Regularly	Never	Never	Never	Never	Never	Never
+Balinese	61	DIE	mati	60, 83, 219	1 V	No data	Regularly	Never	Never	Never	Never	Never	Never
+Balinese	62	PLAY	macanada	61	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	63	BE SAD	sebet	62	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	64	BE HUNGRY	seduk	63	1 V	No data	Never	Never	Never	Never	Never	Never	Never
+Balinese	65	ROLL	ngelilik	64, 84, 104	1 V	No data	Regularly	Never	No data	No data	Never	Never	Never
+Balinese	66	SINK	nyilem	65, 85	1 V	No data	Regularly	Never	Never	Never	Never	Never	Never
+Balinese	67	BURN	puun	66, 86	1 V	Never	Regularly	Never	Never	Never	Never	Never	Never
+Balinese	68	BE DRY	tuh	67, 87	1 V	Never	Regularly	Never	Never	Never	Never	Never	Never
+Balinese	69	RAIN	ujan	68	V	No data	Never	Never	Never	Never	Never	Never	Never
+Balinese	70	BE A HUNTER	tukangboros	69	1 V	Never	Never	Never	Never	Never	Never	Never	Never
+Balinese	71	GRIND											
+Balinese	72	WIPE											
+Balinese	73	DIG											
+Balinese	74	PUSH											
+Balinese	75	BRING											
+Balinese	76	STEAL											
+Balinese	77	TEACH											
+Balinese	78	HEAR											
+Balinese	79	COOK											
+Balinese	80	BOIL											

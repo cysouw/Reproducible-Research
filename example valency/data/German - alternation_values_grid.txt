@@ -1,0 +1,95 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Ambitransitive Alternation (A>S)	Anticausative Alternation	be- Alternation (I)	be- Alternation (II)	Benefactive Alternation	Cognate Object Insertion	er- Alternation	Impersonal Passive	Instrument Subject Alternation	Object Omission Alternation	Passive with sein	Passive with werden	Prepositional Alternation	ver- Alternation
+German	1	EAT	essen	1, 3	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly		Regularly	Never	Never
+German	2	HUG	umarmen	4, 38	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	3	LOOK AT	anschauen	94	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	4	SEE	sehen	5	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally		Regularly	Never	Never
+German	5	SMELL	riechen	6, 8	1-nom V.subj[1] 2-acc	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never
+German	6	FEAR	Angst haben	85	1-nom V.subj[1] vor+2-dat	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly		Never	Never	Never
+German	6	FEAR	fürchten	154	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	7	FRIGHTEN	erschrecken	10, 12	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	8	LIKE	mögen	96	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	8	LIKE	gefallen	95	1-dat V.subj[2] 2-nom	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	9	KNOW	kennen	71	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never
+German	10	THINK	nachdenken	93, 155	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Never
+German	10	THINK	denken	92, 103	1-nom V.subj[1] an+2-acc	Never	Never	Never	Marginally	Never	Marginally	Never	Regularly	Never	Regularly		Never	Never	Never
+German	11	SEARCH FOR	suchen	72, 73, 74	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	12	WASH	waschen	9, 11, 13, 97, 98	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Regularly		Regularly	Never	Never
+German	13	DRESS	anziehen	100, 101, 102, 168	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+German	14	SHAVE (a body part/person)	rasieren	115, 116, 156	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never		Marginally	Never	Never
+German	15	HELP	helfen	86	1-nom V.subj[1] 2-dat	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never		Never	Never	Never
+German	16	FOLLOW	folgen	79, 80	1-nom V.subj[1] 2-dat	Never	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Never		Never	Never	Never
+German	17	MEET	treffen	120	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Never	Never	Never
+German	18	TALK	sprechen	117	1-nom V.subj[1] mit+2-dat	Never	Never	Never	Regularly	Marginally	Never	Never	Regularly	Never	Marginally		Never	Never	Never
+German	18	TALK	reden	87	1-nom V.subj[1] mit+2-dat	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Regularly		Never	Never	Never
+German	19	ASK FOR	bitten	77, 78, 169	1-nom V.subj[1] (2-acc) um+3-acc	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Never	Never		Regularly	Never	Never
+German	20	SHOUT AT	anschreien	121	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	21	TELL	erzählen	123, 157	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly		Regularly	Never	Never
+German	22	SAY	sagen	39, 144, 145, 158	1-nom V.subj[1] 2-acc (zu+3-dat)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	23	NAME	nennen	37	1-nom V.subj[1] 2-acc 3-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	24	BUILD	bauen	58, 59, 60, 61	1-nom V.subj[1] 2-acc	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	25	BREAK	zerbrechen	14, 16	1-nom V.subj[1] 2-acc	Regularly	Never	Never	Never	Never	Never	Never	Never	Regularly	Never		Regularly	Never	Never
+German	26	KILL	umbringen	40	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never		Regularly	Never	Never
+German	26	KILL	töten	122	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Marginally		Regularly	Never	Never
+German	27	BEAT	schlagen	139	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	28	HIT	schlagen	139	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	29	TOUCH	berühren	41	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never		Regularly	Never	Never
+German	29	TOUCH	anfassen	134, 159	1-nom V.subj[1] 2-acc	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	30	CUT	schneiden	129	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	31	TAKE	nehmen	135	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	32	TEAR	reißen	136	1-nom V.subj[1] 2-acc aus+3-dat	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never		Marginally	Never	Never
+German	33	PEEL	schälen	42	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	34	HIDE	verstecken	43	1-nom V.subj[1] 2-acc vor+3-dat	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	35	SHOW	zeigen	55, 75, 76	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	36	GIVE	geben	90, 91	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally		Marginally	Never	Never
+German	37	SEND	schicken	17, 18, 148	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Regularly	Regularly
+German	38	CARRY	tragen	126	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	39	THROW	werfen	128	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	40	TIE	anbinden	7, 118	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	41	PUT	stellen	88	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	41	PUT	legen	89, 143	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally	Regularly	Never	Never
+German	41	PUT	setzen	130, 160	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Marginally	Regularly	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+German	42	POUR	gießen	124, 150	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Regularly	Marginally	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	43	COVER	zudecken	2, 131	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never		Regularly	Never	Never
+German	44	FILL	füllen	56, 57, 81, 82, 84, 151	1-nom V.subj[1] 2-acc mit+3-dat	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Regularly	Never		Regularly	Never	Never
+German	45	LOAD	laden	67, 68, 69, 70	1-nom V.subj[1] 2-acc auf+3-acc	Never	Never	Never	Regularly	Regularly	Never	Never	Never	Never	Never		Marginally	Never	Regularly
+German	46	BLINK	blinzeln	132, 152	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+German	47	COUGH	husten	15, 125	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Never
+German	48	CLIMB	klettern	127	1-nom V.subj[1] LOC2	Never	Never	Never	Marginally	Never	Never	Marginally	Marginally	Never	Never		Marginally	Never	Never
+German	49	RUN	rennen	133, 149, 161	1-nom V.subj[1]	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Marginally	Never	Never
+German	50	SIT	sitzen	112	1-nom V.subj[1] LOC2	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly		Marginally	Never	Never
+German	51	SIT DOWN	sich hinsetzen	119	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+German	52	JUMP	springen	45	1-nom V.subj[1] LOC2	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly		Marginally	Never	Never
+German	52	JUMP	hüpfen	114	1-nom V.subj[1] LOC2	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never		Marginally	Never	Never
+German	53	SING	singen	30, 163	1-nom V.subj[1]	Never	Never	Marginally	Never	Never	Regularly	Never	Regularly	Never	Never	Marginally	Marginally	Never	Never
+German	54	GO	gehen	109, 110, 111	1-nom V.subj[1] LOC2	Never	Never	Never	Marginally	Never	Marginally	Never	Marginally	Never	Marginally		Never	Never	Never
+German	55	LEAVE	verlassen	26	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	56	LIVE	leben	50	1-nom V.subj[1] LOC2	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Regularly		Marginally	Never	Never
+German	56	LIVE	wohnen	49	1-nom V.subj[1] LOC2	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Never		Marginally	Never	Never
+German	57	LAUGH	lachen	47, 104, 108	1-nom V.subj[1]	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Never
+German	58	SCREAM	schreien	48, 153	1-nom V.subj[1]	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Never
+German	59	FEEL PAIN	weh tun	53	1-dat V.subj[2] 2-nom	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	60	FEEL COLD	kalt sein	27	1-dat V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	61	DIE	sterben	28	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+German	62	PLAY	spielen	46	1-nom V.subj[1]	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Never
+German	63	BE SAD	traurig sein	62	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	63	BE SAD	trauern	63, 106	1-nom V.subj[1]	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never		Marginally	Never	Never
+German	64	BE HUNGRY	Hunger haben	52	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+German	65	ROLL	rollen	51	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	66	SINK	sinken	54	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Never	Never	Never
+German	67	BURN	brennen	32	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never
+German	68	BE DRY	trocken sein	31	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+German	69	RAIN	regnen	64, 65	V	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+German	70	BE A HUNTER	Jäger sein	36	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Never	Never	Never
+German	71	GRIND	mahlen	137, 167	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Regularly		Regularly	Never	Never
+German	72	WIPE	wischen	107	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly		Regularly	Never	Never
+German	73	DIG	graben	66, 164	1-nom V.subj[1] nach+2-dat	Never	Never	Never	Never	Marginally	Never	Marginally	Regularly	Never	Regularly		Never	Never	Never
+German	74	PUSH	stoßen	105	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	74	PUSH	schieben	138, 140	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	74	PUSH	schubsen	113	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never		Regularly	Never	Never
+German	75	BRING	bringen	25, 141	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Regularly	Never
+German	76	STEAL	stehlen	29, 146, 147	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Marginally		Regularly	Regularly	Never
+German	77	TEACH	beibringen	23	1-nom V.subj[1] 2-dat 3-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	77	TEACH	lehren	170	1-nom V.subj[1] 2-acc	Never	Never	Regularly	Never	Regularly	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never
+German	78	HEAR	hören	44	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never		Regularly	Never	Never
+German	79	COOK	kochen (1)	24, 83, 99, 142	1-nom V.subj[1] 2-acc	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Regularly		Regularly	Never	Never
+German	80	BOIL	kochen (2)	83	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never

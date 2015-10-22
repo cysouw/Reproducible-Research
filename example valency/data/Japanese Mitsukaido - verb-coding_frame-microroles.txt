@@ -1,0 +1,685 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Mitsukaido Japanese	1	EAT	ku:	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Mitsukaido Japanese	1	EAT	ku:	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Mitsukaido Japanese	1	EAT	ku:	Derived	1-exp 2-acc V'pot	1	eater	NP-exp	
+Mitsukaido Japanese	1	EAT	ku:	Derived	1-exp 2-acc V'pot	2	eaten food	NP-acc	
+Mitsukaido Japanese	1	EAT	ku:	Derived	2-nom (1-loc/dat) V'pass	1	eater	NP-loc/dat	
+Mitsukaido Japanese	1	EAT	ku:	Derived	2-nom (1-loc/dat) V'pass	2	eaten food	NP-nom	
+Mitsukaido Japanese	1	EAT	ku:	Derived	4-nom 1-dat 2-acc V'rase	1	eater	NP-dat	
+Mitsukaido Japanese	1	EAT	ku:	Derived	4-nom 1-dat 2-acc V'rase	2	eaten food	NP-acc	
+Mitsukaido Japanese	1	EAT	ku:	Derived	4-nom 1-dat 2-acc V'rase	4	eat causer/feeder	NP-nom	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	1-exp 2-acc V'pot	1	hugger	NP-exp	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	1-exp 2-acc V'pot	2	huggee	NP-acc	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	2-nom (1-loc/dat) V'pass	1	hugger	NP-loc/dat	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	2-nom (1-loc/dat) V'pass	2	huggee	NP-nom	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	4-nom 1-dat 2-acc V'rase	1	hugger	NP-dat	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	4-nom 1-dat 2-acc V'rase	2	huggee	NP-acc	
+Mitsukaido Japanese	2	HUG	dag-u/dakko su-ru	Derived	4-nom 1-dat 2-acc V'rase	4	hug causer	NP-nom	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	1-exp 2-acc V'pot	1	looker	NP-exp	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	1-exp 2-acc V'pot	2	looked at entity	NP-acc	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	2-nom (1-loc/dat) V'pass	1	looker	NP-loc/dat	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	2-nom (1-loc/dat) V'pass	2	looked at entity	NP-nom	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'rase	1	looker	NP-dat	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'rase	2	looked at entity	NP-acc	
+Mitsukaido Japanese	3	LOOK AT	mi-ru	Derived	4-nom 1-dat 2-acc V'rase	4	look causer	NP-nom	
+Mitsukaido Japanese	4	SEE	me:-ru	Basic	1-exp 2-acc V	1	seeer	NP-exp	X
+Mitsukaido Japanese	4	SEE	me:-ru	Basic	1-exp 2-acc V	2	seen entity	NP-acc	X
+Mitsukaido Japanese	4	SEE	me:-ru	Derived	1-nom 2-acc V'as/e	1	seeer	NP-nom	
+Mitsukaido Japanese	4	SEE	me:-ru	Derived	1-nom 2-acc V'as/e	2	seen entity	NP-acc	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Basic	1-nom V	1	smeller	NP-nom	S
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Derived	1-exp V'pot	1	smeller	NP-exp	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Derived	4-nom 1-acc V'rase	1	smeller	NP-acc	
+Mitsukaido Japanese	5	SMELL	kang-u nioe	Derived	4-nom 1-acc V'rase	4	smell causer	NP-nom	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Basic	1-nom 2-acc V	1	fearer	NP-nom	A
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Basic	1-nom 2-acc V	2	fear stimulus	NP-acc	P
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Derived	2-nom (1-loc/dat) V'pass	1	fearer	NP-loc/dat	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Derived	2-nom (1-loc/dat) V'pass	2	fear stimulus	NP-nom	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Derived	4-nom 1-dat 2-acc V'rase	1	fearer	NP-dat	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Derived	4-nom 1-dat 2-acc V'rase	2	fear stimulus	NP-acc	
+Mitsukaido Japanese	6	FEAR	okkanangar-u	Derived	4-nom 1-dat 2-acc V'rase	4	fear causer	NP-nom	
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Mitsukaido Japanese	7	FRIGHTEN	({ot/but})tamangeragas-u	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Mitsukaido Japanese	8	LIKE	ki-ni er-u	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Mitsukaido Japanese	8	LIKE	ski-da	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Mitsukaido Japanese	8	LIKE	ski-da	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Mitsukaido Japanese	9	KNOW	sir-u	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Mitsukaido Japanese	9	KNOW	sir-u	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Mitsukaido Japanese	9	KNOW	sir-u	Derived	2-nom (1-loc/dat) V'pass	1	knower	NP-loc/dat	
+Mitsukaido Japanese	9	KNOW	sir-u	Derived	2-nom (1-loc/dat) V'pass	2	known thing/person	NP-nom	
+Mitsukaido Japanese	9	KNOW	sir-u	Derived	4-nom 1-dat 2-acc V'rase	1	knower	NP-dat	
+Mitsukaido Japanese	9	KNOW	sir-u	Derived	4-nom 1-dat 2-acc V'rase	2	known thing/person	NP-acc	
+Mitsukaido Japanese	9	KNOW	sir-u	Derived	4-nom 1-dat 2-acc V'rase	4	know causer	NP-nom	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	Basic	1-nom V	1	thinker	NP-nom	S
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	Derived	4-nom 1-acc V'rase	1	thinker	NP-acc	
+Mitsukaido Japanese	10	THINK	kangnge:-ru godo	Derived	4-nom 1-acc V'rase	4	think causer	NP-nom	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Derived	1-exp 2-acc V'pot	1	searcher	NP-exp	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Derived	1-exp 2-acc V'pot	2	searched for thing	NP-acc	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Derived	4-nom 1-dat 2-acc V'rase	1	searcher	NP-dat	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Derived	4-nom 1-dat 2-acc V'rase	2	searched for thing	NP-acc	
+Mitsukaido Japanese	11	SEARCH FOR	mekke-ru	Derived	4-nom 1-dat 2-acc V'rase	4	search causer	NP-nom	
+Mitsukaido Japanese	12	WASH	ara:	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Mitsukaido Japanese	12	WASH	ara:	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Mitsukaido Japanese	12	WASH	ara:	Derived	1-exp 2-acc V'pot	1	washer	NP-exp	
+Mitsukaido Japanese	12	WASH	ara:	Derived	1-exp 2-acc V'pot	2	washed entity	NP-acc	
+Mitsukaido Japanese	12	WASH	ara:	Derived	2-nom (1-loc/dat) V'pass	1	washer	NP-loc/dat	
+Mitsukaido Japanese	12	WASH	ara:	Derived	2-nom (1-loc/dat) V'pass	2	washed entity	NP-nom	
+Mitsukaido Japanese	12	WASH	ara:	Derived	4-nom 1-dat 2-acc V'rase	1	washer	NP-dat	
+Mitsukaido Japanese	12	WASH	ara:	Derived	4-nom 1-dat 2-acc V'rase	2	washed entity	NP-acc	
+Mitsukaido Japanese	12	WASH	ara:	Derived	4-nom 1-dat 2-acc V'rase	4	wash causer	NP-nom	
+Mitsukaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	1	dresser	NP-nom	A
+Mitsukaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	2	dressee	NP-dat	L
+Mitsukaido Japanese	13	DRESS	kise-ru	Basic	1-nom 2-dat 3-acc V	3	clothes	NP-acc	P
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	dresser	NP-exp	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	dressee	NP-dat	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	clothes	NP-acc	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	dresser	NP-dat	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	dressee	NP-dat	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	clothes	NP-acc	
+Mitsukaido Japanese	13	DRESS	kise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	dress causer	NP-nom	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Derived	1-exp 2-acc V'pot	1	shaver (of body part)	NP-exp	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Derived	1-exp 2-acc V'pot	2	shaved body part	NP-acc	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Derived	4-nom 1-dat 2-acc V'rase	1	shaver (of body part)	NP-dat	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Derived	4-nom 1-dat 2-acc V'rase	2	shaved body part	NP-acc	
+Mitsukaido Japanese	14	SHAVE (a body part/person)	sur-u	Derived	4-nom 1-dat 2-acc V'rase	4	shave causer	NP-nom	
+Mitsukaido Japanese	15	HELP	ske-ru	Basic	1-nom 2-dat V	1	helper	NP-nom	S
+Mitsukaido Japanese	15	HELP	ske-ru	Basic	1-nom 2-dat V	2	helpee	NP-dat	L
+Mitsukaido Japanese	15	HELP	ske-ru	Derived	1-exp 2-dat V'pot	1	helper	NP-exp	
+Mitsukaido Japanese	15	HELP	ske-ru	Derived	1-exp 2-dat V'pot	2	helpee	NP-dat	
+Mitsukaido Japanese	15	HELP	ske-ru	Derived	4-nom 1-acc 2-dat V'rase	1	helper	NP-acc	
+Mitsukaido Japanese	15	HELP	ske-ru	Derived	4-nom 1-acc 2-dat V'rase	2	helpee	NP-dat	
+Mitsukaido Japanese	15	HELP	ske-ru	Derived	4-nom 1-acc 2-dat V'rase	4	help causer	NP-nom	
+Mitsukaido Japanese	15	HELP	taske-ru	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Mitsukaido Japanese	15	HELP	taske-ru	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	1-exp 2-acc V'pot	1	helper	NP-exp	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	1-exp 2-acc V'pot	2	helpee	NP-acc	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	2-nom (1-loc/dat) V'pass	1	helper	NP-loc/dat	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	2-nom (1-loc/dat) V'pass	2	helpee	NP-nom	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	4-nom 1-dat 2-acc V'rase	1	helper	NP-dat	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	4-nom 1-dat 2-acc V'rase	2	helpee	NP-acc	
+Mitsukaido Japanese	15	HELP	taske-ru	Derived	4-nom 1-dat 2-acc V'rase	4	help causer	NP-nom	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	1-exp 2-acc V'pot	1	follower	NP-exp	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	1-exp 2-acc V'pot	2	followee	NP-acc	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	2-nom (1-loc/dat) V'pass	1	follower	NP-loc/dat	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	2-nom (1-loc/dat) V'pass	2	followee	NP-nom	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	4-nom 1-dat 2-acc V'rase	1	follower	NP-dat	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	4-nom 1-dat 2-acc V'rase	2	followee	NP-acc	
+Mitsukaido Japanese	16	FOLLOW	okkage-ru	Derived	4-nom 1-dat 2-acc V'rase	4	follow causer	NP-nom	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Basic	1-nom 2-dat V	1	follower	NP-nom	S
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Basic	1-nom 2-dat V	2	followee	NP-dat	L
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Derived	4-nom 1-acc 2-dat V'rase	1	follower	NP-acc	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Derived	4-nom 1-acc 2-dat V'rase	2	followee	NP-dat	
+Mitsukaido Japanese	16	FOLLOW	tuede (e)ng-u	Derived	4-nom 1-acc 2-dat V'rase	4	follow causer	NP-nom	
+Mitsukaido Japanese	17	MEET	egia:	Basic	1-nom 2-loc/com V	1	meeter	NP-nom	S
+Mitsukaido Japanese	17	MEET	egia:	Basic	1-nom 2-loc/com V	2	met person	NP-loc/com	X
+Mitsukaido Japanese	17	MEET	egia:	Derived	1-exp 2-loc/com V'pot	1	meeter	NP-exp	
+Mitsukaido Japanese	17	MEET	egia:	Derived	1-exp 2-loc/com V'pot	2	met person	NP-loc/com	
+Mitsukaido Japanese	17	MEET	egia:	Derived	4-nom 1-acc 2-loc/com V'rase	1	meeter	NP-acc	
+Mitsukaido Japanese	17	MEET	egia:	Derived	4-nom 1-acc 2-loc/com V'rase	2	met person	NP-loc/com	
+Mitsukaido Japanese	17	MEET	egia:	Derived	4-nom 1-acc 2-loc/com V'rase	4	meet causer	NP-nom	
+Mitsukaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	1	talker	NP-nom	A
+Mitsukaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	2	talked to person	NP-dat	L
+Mitsukaido Japanese	18	TALK	hanas-u	Basic	1-nom 2-dat 3-acc V	3	talked about content	NP-acc	P
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	1-exp (2-dat) 3-acc V'pot	1	talker	NP-exp	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	1-exp (2-dat) 3-acc V'pot	2	talked to person	NP-dat	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	1-exp (2-dat) 3-acc V'pot	3	talked about content	NP-acc	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	3-nom 2-dat (1-loc) V'pass	1	talker	NP-loc	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	3-nom 2-dat (1-loc) V'pass	2	talked to person	NP-dat	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	3-nom 2-dat (1-loc) V'pass	3	talked about content	NP-nom	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	talker	NP-dat	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	talked to person	NP-dat	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	talked about content	NP-acc	
+Mitsukaido Japanese	18	TALK	hanas-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	talk causer	NP-nom	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Basic	1-nom 2-dat 3-acc V	1	asker	NP-nom	A
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Basic	1-nom 2-dat 3-acc V	2	askee	NP-dat	L
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Basic	1-nom 2-dat 3-acc V	3	requested thing	NP-acc	P
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	asker	NP-exp	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	askee	NP-dat	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	requested thing	NP-acc	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	3-nom 2-dat (1-loc) V'pass	1	asker	NP-loc	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	3-nom 2-dat (1-loc) V'pass	2	askee	NP-dat	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	3-nom 2-dat (1-loc) V'pass	3	requested thing	NP-nom	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	asker	NP-dat	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	askee	NP-dat	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	requested thing	NP-acc	
+Mitsukaido Japanese	19	ASK FOR	se:sogu su-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	ask for causer	NP-nom	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Basic	1-nom 2-dat V	1	shouter	NP-nom	S
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Basic	1-nom 2-dat V	2	shoutee	NP-dat	L
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-acc 2-dat V'rase	1	shouter	NP-acc	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-acc 2-dat V'rase	2	shoutee	NP-dat	
+Mitsukaido Japanese	20	SHOUT AT	donar-u	Derived	4-nom 1-acc 2-dat V'rase	4	shout causer	NP-nom	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Basic	1-nom 2-dat V	1	shouter	NP-nom	S
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Basic	1-nom 2-dat V	2	shoutee	NP-dat	L
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Derived	1-exp 2-dat V'pot	1	shouter	NP-exp	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Derived	1-exp 2-dat V'pot	2	shoutee	NP-dat	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Derived	4-nom 1-acc 2-dat V'rase	1	shouter	NP-acc	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Derived	4-nom 1-acc 2-dat V'rase	2	shoutee	NP-dat	
+Mitsukaido Japanese	20	SHOUT AT	zinar-u	Derived	4-nom 1-acc 2-dat V'rase	4	shout causer	NP-nom	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Basic	1-nom 2-dat 3-acc V	1	teller	NP-nom	A
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Basic	1-nom 2-dat 3-acc V	2	tellee	NP-dat	L
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Basic	1-nom 2-dat 3-acc V	3	told content	NP-acc	P
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Derived	1-exp (2-dat) 3-acc V'pot	1	teller	NP-exp	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Derived	1-exp (2-dat) 3-acc V'pot	2	tellee	NP-dat	
+Mitsukaido Japanese	21	TELL	hanas-u (2)	Derived	1-exp (2-dat) 3-acc V'pot	3	told content	NP-acc	
+Mitsukaido Japanese	22	SAY	sjaber-u	Basic	1-nom 2-dat UTT3 V	1	sayer	NP-nom	S
+Mitsukaido Japanese	22	SAY	sjaber-u	Basic	1-nom 2-dat UTT3 V	2	saying addressee	NP-dat	L
+Mitsukaido Japanese	22	SAY	sjaber-u	Basic	1-nom 2-dat UTT3 V	3	said content	UTT	X
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	1-exp 2-dat UTT3 V'pot	1	sayer	NP-exp	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	1-exp 2-dat UTT3 V'pot	2	saying addressee	NP-dat	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	1-exp 2-dat UTT3 V'pot	3	said content	UTT	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	2-nom UTT3 V'pass	2	saying addressee	NP-nom	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	2-nom UTT3 V'pass	3	said content	UTT	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	4-nom 1-dat 2-dat UTT3 V'rase	1	sayer	NP-dat	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	4-nom 1-dat 2-dat UTT3 V'rase	2	saying addressee	NP-dat	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	4-nom 1-dat 2-dat UTT3 V'rase	3	said content	UTT	
+Mitsukaido Japanese	22	SAY	sjaber-u	Derived	4-nom 1-dat 2-dat UTT3 V'rase	4	say causer	NP-nom	
+Mitsukaido Japanese	23	NAME	jobar-u	Basic	1-nom 2-acc 3-cit V	1	namer	NP-nom	A
+Mitsukaido Japanese	23	NAME	jobar-u	Basic	1-nom 2-acc 3-cit V	2	namee	NP-acc	P
+Mitsukaido Japanese	23	NAME	jobar-u	Basic	1-nom 2-acc 3-cit V	3	name	NP-cit	X
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	1-exp 2-acc 3-cit V'pot	1	namer	NP-exp	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	1-exp 2-acc 3-cit V'pot	2	namee	NP-acc	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	1-exp 2-acc 3-cit V'pot	3	name	NP-cit	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	2-nom 3-cit (1-loc) V'pass	1	namer	NP-loc	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	2-nom 3-cit (1-loc) V'pass	2	namee	NP-nom	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	2-nom 3-cit (1-loc) V'pass	3	name	NP-cit	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	4-nom 1-dat 2-acc (3-cit) V'rase	1	namer	NP-dat	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	4-nom 1-dat 2-acc (3-cit) V'rase	2	namee	NP-acc	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	4-nom 1-dat 2-acc (3-cit) V'rase	3	name	NP-cit	
+Mitsukaido Japanese	23	NAME	jobar-u	Derived	4-nom 1-dat 2-acc (3-cit) V'rase	4	name causer	NP-nom	
+Mitsukaido Japanese	24	BUILD	tade-ru	Basic	1-nom 2-acc V	1	builder	NP-nom	A
+Mitsukaido Japanese	24	BUILD	tade-ru	Basic	1-nom 2-acc V	2	built thing	NP-acc	P
+Mitsukaido Japanese	24	BUILD	tade-ru	Derived	1-exp 2-acc V'pot	1	builder	NP-exp	
+Mitsukaido Japanese	24	BUILD	tade-ru	Derived	1-exp 2-acc V'pot	2	built thing	NP-acc	
+Mitsukaido Japanese	24	BUILD	tade-ru	Derived	4-nom 1-dat 2-acc V'rase	1	builder	NP-dat	
+Mitsukaido Japanese	24	BUILD	tade-ru	Derived	4-nom 1-dat 2-acc V'rase	2	built thing	NP-acc	
+Mitsukaido Japanese	24	BUILD	tade-ru	Derived	4-nom 1-dat 2-acc V'rase	4	build causer	NP-nom	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Basic	1-nom 2-acc V	1	breaker	NP-nom	A
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Basic	1-nom 2-acc V	2	broken thing	NP-acc	P
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	1-exp 2-acc V'pot	1	breaker	NP-exp	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	1-exp 2-acc V'pot	2	broken thing	NP-acc	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	2-nom (1-loc/dat) V'pass	1	breaker	NP-loc/dat	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	2-nom (1-loc/dat) V'pass	2	broken thing	NP-nom	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	4-nom 1-dat 2-acc V'rase	1	breaker	NP-dat	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	4-nom 1-dat 2-acc V'rase	2	broken thing	NP-acc	
+Mitsukaido Japanese	25	BREAK	bukkowas-u	Derived	4-nom 1-dat 2-acc V'rase	4	break causer	NP-nom	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Basic	1-nom 2-acc V	1	breaker	NP-nom	A
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Basic	1-nom 2-acc V	2	broken thing	NP-acc	P
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	1-exp 2-acc V'pot	1	breaker	NP-exp	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	1-exp 2-acc V'pot	2	broken thing	NP-acc	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	2-nom (1-loc/dat) V'pass	1	breaker	NP-loc/dat	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	2-nom (1-loc/dat) V'pass	2	broken thing	NP-nom	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	4-nom 1-dat 2-acc V'rase	1	breaker	NP-dat	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	4-nom 1-dat 2-acc V'rase	2	broken thing	NP-acc	
+Mitsukaido Japanese	25	BREAK	sjttsag-u	Derived	4-nom 1-dat 2-acc V'rase	4	break causer	NP-nom	
+Mitsukaido Japanese	26	KILL	koros-u	Basic	1-nom 2-acc V	1	killer	NP-nom	A
+Mitsukaido Japanese	26	KILL	koros-u	Basic	1-nom 2-acc V	2	killee	NP-acc	P
+Mitsukaido Japanese	26	KILL	koros-u	Derived	1-exp 2-acc V'pot	1	killer	NP-exp	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	1-exp 2-acc V'pot	2	killee	NP-acc	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	2-nom (1-loc/dat) V'pass	1	killer	NP-loc/dat	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	2-nom (1-loc/dat) V'pass	2	killee	NP-nom	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc V'rase	1	killer	NP-dat	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc V'rase	2	killee	NP-acc	
+Mitsukaido Japanese	26	KILL	koros-u	Derived	4-nom 1-dat 2-acc V'rase	4	kill causer	NP-nom	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	1	beater	NP-nom	A
+Mitsukaido Japanese	27	BEAT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	2	beatee	NP-acc	P
+Mitsukaido Japanese	27	BEAT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	3	beating instrument	NP-instr	I
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	1	beater	NP-exp	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	2	beatee	NP-acc	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	3	beating instrument	NP-instr	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	1	beater	NP-loc	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	2	beatee	NP-nom	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	3	beating instrument	NP-instr	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	1	beater	NP-dat	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	2	beatee	NP-acc	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	3	beating instrument	NP-instr	
+Mitsukaido Japanese	27	BEAT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	4	beat causer	NP-nom	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Basic	1-nom 2-acc V	1	hitter	NP-nom	A
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Basic	1-nom 2-acc V	2	hittee	NP-acc	P
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	1-exp 2-acc V'pot	1	hitter	NP-exp	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	1-exp 2-acc V'pot	2	hittee	NP-acc	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	2-nom (1-loc/dat) V'pass	1	hitter	NP-loc/dat	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	2-nom (1-loc/dat) V'pass	2	hittee	NP-nom	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	4-nom 1-dat 2-acc V'rase	1	hitter	NP-dat	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	4-nom 1-dat 2-acc V'rase	2	hittee	NP-acc	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (1)	Derived	4-nom 1-dat 2-acc V'rase	4	hit causer	NP-nom	
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	Basic	1-nom 2-acc V	1	hitter	NP-nom	A
+Mitsukaido Japanese	28	HIT	bukkurase-ru (2)	Basic	1-nom 2-acc V	2	hittee	NP-acc	P
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	Basic	1-nom 2-acc 3-acc V	1	hitter	NP-nom	A
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	Basic	1-nom 2-acc 3-acc V	2	hittee	NP-acc	P
+Mitsukaido Japanese	28	HIT	bukkurase-ru (3)	Basic	1-nom 2-acc 3-acc V	3	hit location	NP-acc	P
+Mitsukaido Japanese	28	HIT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	1	hitter	NP-nom	A
+Mitsukaido Japanese	28	HIT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	2	hittee	NP-acc	P
+Mitsukaido Japanese	28	HIT	buttadag-u	Basic	1-nom 2-acc (3-instr) V	3	hitting instrument	NP-instr	I
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	1	hitter	NP-exp	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	2	hittee	NP-acc	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	1-exp 2-acc (3-instr) V'pot	3	hitting instrument	NP-instr	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	1	hitter	NP-loc	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	2	hittee	NP-nom	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	2-nom (3-instr) (1-loc) V'pass	3	hitting instrument	NP-instr	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	1	hitter	NP-dat	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	2	hittee	NP-acc	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	3	hitting instrument	NP-instr	
+Mitsukaido Japanese	28	HIT	buttadag-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	4	hit causer	NP-nom	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Basic	1-nom 2-acc V	1	toucher	NP-nom	A
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Basic	1-nom 2-acc V	2	touchee	NP-acc	P
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	1-exp 2-acc V'pot	1	toucher	NP-exp	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	1-exp 2-acc V'pot	2	touchee	NP-acc	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	2-nom (1-loc/dat) V'pass	1	toucher	NP-loc/dat	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	2-nom (1-loc/dat) V'pass	2	touchee	NP-nom	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	4-nom 1-dat 2-acc V'rase	1	toucher	NP-dat	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	4-nom 1-dat 2-acc V'rase	2	touchee	NP-acc	
+Mitsukaido Japanese	29	TOUCH	sa:r-u	Derived	4-nom 1-dat 2-acc V'rase	4	touch causer	NP-nom	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Basic	1-nom 2-dat (3-instr) V	1	toucher	NP-nom	S
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Basic	1-nom 2-dat (3-instr) V	2	touchee	NP-dat	L
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Basic	1-nom 2-dat (3-instr) V	3	touching instrument	NP-instr	I
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	1-exp 2-dat (3-instr) V'pot	1	toucher	NP-exp	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	1-exp 2-dat (3-instr) V'pot	2	touchee	NP-dat	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	1-exp 2-dat (3-instr) V'pot	3	touching instrument	NP-instr	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	2-nom (3-instr) (1-loc) V'pass	1	toucher	NP-loc	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	2-nom (3-instr) (1-loc) V'pass	2	touchee	NP-nom	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	2-nom (3-instr) (1-loc) V'pass	3	touching instrument	NP-instr	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	4-nom 1-acc 2-dat (3-instr) V'rase	1	toucher	NP-acc	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	4-nom 1-acc 2-dat (3-instr) V'rase	2	touchee	NP-dat	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	4-nom 1-acc 2-dat (3-instr) V'rase	3	touching instrument	NP-instr	
+Mitsukaido Japanese	29	TOUCH	sa:r-u (2)	Derived	4-nom 1-acc 2-dat (3-instr) V'rase	4	touch causer	NP-nom	
+Mitsukaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	1	cutter	NP-nom	A
+Mitsukaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	2	cut thing	NP-acc	P
+Mitsukaido Japanese	30	CUT	kir-u	Basic	1-nom 2-acc (3-instr) V	3	cutting instrument	NP-instr	I
+Mitsukaido Japanese	30	CUT	kir-u	Derived	1-exp 2-acc (3-instr) V'pot	1	cutter	NP-exp	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	1-exp 2-acc (3-instr) V'pot	2	cut thing	NP-acc	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	1-exp 2-acc (3-instr) V'pot	3	cutting instrument	NP-instr	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	2-nom (3-instr) (1-loc) V'pass	1	cutter	NP-loc	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	2-nom (3-instr) (1-loc) V'pass	2	cut thing	NP-nom	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	2-nom (3-instr) (1-loc) V'pass	3	cutting instrument	NP-instr	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	1	cutter	NP-dat	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	2	cut thing	NP-acc	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	3	cutting instrument	NP-instr	
+Mitsukaido Japanese	30	CUT	kir-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	4	cutting causer	NP-nom	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Basic	1-nom 2-abl 3-acc V	1	taker	NP-nom	A
+Mitsukaido Japanese	31	TAKE	hindagur-u	Basic	1-nom 2-abl 3-acc V	2	taking source	NP-abl	X
+Mitsukaido Japanese	31	TAKE	hindagur-u	Basic	1-nom 2-abl 3-acc V	3	taken thing	NP-acc	P
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	1-exp (2-abl) 3-acc V'pot	1	taker	NP-exp	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	1-exp (2-abl) 3-acc V'pot	2	taking source	NP-abl	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	1-exp (2-abl) 3-acc V'pot	3	taken thing	NP-acc	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	3-nom 2-abl (1-loc) V'pass	1	taker	NP-loc	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	3-nom 2-abl (1-loc) V'pass	2	taking source	NP-abl	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	3-nom 2-abl (1-loc) V'pass	3	taken thing	NP-nom	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	1	taker	NP-dat	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	2	taking source	NP-abl	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	3	taken thing	NP-acc	
+Mitsukaido Japanese	31	TAKE	hindagur-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	4	take causer	NP-nom	
+Mitsukaido Japanese	31	TAKE	mongir-u	Basic	1-nom 2-abl 3-acc V	1	taker	NP-nom	A
+Mitsukaido Japanese	31	TAKE	mongir-u	Basic	1-nom 2-abl 3-acc V	2	taking source	NP-abl	X
+Mitsukaido Japanese	31	TAKE	mongir-u	Basic	1-nom 2-abl 3-acc V	3	taken thing	NP-acc	P
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	1-exp (2-abl) 3-acc V'pot	1	taker	NP-exp	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	1-exp (2-abl) 3-acc V'pot	2	taking source	NP-abl	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	1-exp (2-abl) 3-acc V'pot	3	taken thing	NP-acc	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	1	taker	NP-dat	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	2	taking source	NP-abl	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	3	taken thing	NP-acc	
+Mitsukaido Japanese	31	TAKE	mongir-u	Derived	4-nom 1-dat 3-acc 2-abl V'rase	4	take causer	NP-nom	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Basic	1-nom 2-gen 3-acc V	1	tearer	NP-nom	A
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Basic	1-nom 2-gen 3-acc V	2	tearing source	NP-gen	X
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Basic	1-nom 2-gen 3-acc V	3	torn thing	NP-acc	P
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	1-exp 2-gen 3-acc V'pot	1	tearer	NP-exp	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	1-exp 2-gen 3-acc V'pot	2	tearing source	NP-gen	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	1-exp 2-gen 3-acc V'pot	3	torn thing	NP-acc	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	4-nom 1-dat 2-gen 3-acc V'rase	1	tearer	NP-dat	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	4-nom 1-dat 2-gen 3-acc V'rase	2	tearing source	NP-gen	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	4-nom 1-dat 2-gen 3-acc V'rase	3	torn thing	NP-acc	
+Mitsukaido Japanese	32	TEAR	hittsabag-u	Derived	4-nom 1-dat 2-gen 3-acc V'rase	4	tear causer	NP-nom	
+Mitsukaido Japanese	33	PEEL	mug-u	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Mitsukaido Japanese	33	PEEL	mug-u	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Mitsukaido Japanese	33	PEEL	mug-u	Derived	1-exp 2-acc V'pot	1	peeler	NP-exp	
+Mitsukaido Japanese	33	PEEL	mug-u	Derived	1-exp 2-acc V'pot	2	peeled object	NP-acc	
+Mitsukaido Japanese	33	PEEL	mug-u	Derived	4-nom 1-dat 2-acc V'rase	1	peeler	NP-dat	
+Mitsukaido Japanese	33	PEEL	mug-u	Derived	4-nom 1-dat 2-acc V'rase	2	peeled object	NP-acc	
+Mitsukaido Japanese	33	PEEL	mug-u	Derived	4-nom 1-dat 2-acc V'rase	4	peel causer	NP-nom	
+Mitsukaido Japanese	34	HIDE	kagus-u	Basic	1-nom 2-acc V	1	hider	NP-nom	A
+Mitsukaido Japanese	34	HIDE	kagus-u	Basic	1-nom 2-acc V	2	hidden thing	NP-acc	P
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	1-exp 2-acc V'pot	1	hider	NP-exp	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	1-exp 2-acc V'pot	2	hidden thing	NP-acc	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	2-nom (1-loc/dat) V'pass	1	hider	NP-loc/dat	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	2-nom (1-loc/dat) V'pass	2	hidden thing	NP-nom	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	4-nom 1-dat 2-acc V'rase	1	hider	NP-dat	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	4-nom 1-dat 2-acc V'rase	2	hidden thing	NP-acc	
+Mitsukaido Japanese	34	HIDE	kagus-u	Derived	4-nom 1-dat 2-acc V'rase	4	hide causer	NP-nom	
+Mitsukaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	1	shower	NP-nom	A
+Mitsukaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	2	showing addressee	NP-dat	L
+Mitsukaido Japanese	35	SHOW	mise-ru	Basic	1-nom 2-dat 3-acc V	3	shown thing	NP-acc	P
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	shower	NP-exp	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	showing addressee	NP-dat	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	shown thing	NP-acc	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat (1-loc) V'pass	1	shower	NP-loc	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat (1-loc) V'pass	2	showing addressee	NP-dat	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	3-nom 2-dat (1-loc) V'pass	3	shown thing	NP-nom	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	shower	NP-dat	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	showing addressee	NP-dat	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	shown thing	NP-acc	
+Mitsukaido Japanese	35	SHOW	mise-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	show causer	NP-nom	
+Mitsukaido Japanese	36	GIVE	jar-u	Basic	1-nom 2-dat 3-acc V	1	giver	NP-nom	A
+Mitsukaido Japanese	36	GIVE	jar-u	Basic	1-nom 2-dat 3-acc V	2	giving recipient	NP-dat	L
+Mitsukaido Japanese	36	GIVE	jar-u	Basic	1-nom 2-dat 3-acc V	3	gift	NP-acc	P
+Mitsukaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	1	giver	NP-nom	A
+Mitsukaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	2	giving recipient	NP-dat	L
+Mitsukaido Japanese	36	GIVE	kure-ru	Basic	1-nom 2-dat 3-acc V	3	gift	NP-acc	P
+Mitsukaido Japanese	37	SEND	ogur-u	Basic	1-nom 2-dat 3-acc V	1	sender	NP-nom	A
+Mitsukaido Japanese	37	SEND	ogur-u	Basic	1-nom 2-dat 3-acc V	2	sending recipient	NP-dat	L
+Mitsukaido Japanese	37	SEND	ogur-u	Basic	1-nom 2-dat 3-acc V	3	sent thing	NP-acc	P
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	1-exp (2-dat) 3-acc V'pot	1	sender	NP-exp	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	1-exp (2-dat) 3-acc V'pot	2	sending recipient	NP-dat	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	1-exp (2-dat) 3-acc V'pot	3	sent thing	NP-acc	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	3-nom 2-dat (1-loc) V'pass	1	sender	NP-loc	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	3-nom 2-dat (1-loc) V'pass	2	sending recipient	NP-dat	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	3-nom 2-dat (1-loc) V'pass	3	sent thing	NP-nom	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	sender	NP-dat	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	sending recipient	NP-dat	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	sent thing	NP-acc	
+Mitsukaido Japanese	37	SEND	ogur-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	send causer	NP-nom	
+Mitsukaido Japanese	38	CARRY	motteng-u	Basic	1-nom 2-dat 3-acc V	1	carrier	NP-nom	A
+Mitsukaido Japanese	38	CARRY	motteng-u	Basic	1-nom 2-dat 3-acc V	2	carrying goal	NP-dat	L
+Mitsukaido Japanese	38	CARRY	motteng-u	Basic	1-nom 2-dat 3-acc V	3	carried thing	NP-acc	P
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	1	carrier	NP-exp	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	2	carrying goal	NP-dat	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	3	carried thing	NP-acc	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	1	carrier	NP-loc	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	2	carrying goal	NP-dat	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	3	carried thing	NP-nom	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	carrier	NP-dat	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	carrying goal	NP-dat	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	carried thing	NP-acc	
+Mitsukaido Japanese	38	CARRY	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	carry causer	NP-nom	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Basic	1-nom 2-dat 3-acc V	1	thrower	NP-nom	A
+Mitsukaido Japanese	39	THROW	bunnange-ru	Basic	1-nom 2-dat 3-acc V	2	throwing goal	NP-dat	L
+Mitsukaido Japanese	39	THROW	bunnange-ru	Basic	1-nom 2-dat 3-acc V	3	thrown thing	NP-acc	P
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	thrower	NP-exp	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	throwing goal	NP-dat	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	thrown thing	NP-acc	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	thrower	NP-dat	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	throwing goal	NP-dat	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	thrown thing	NP-acc	
+Mitsukaido Japanese	39	THROW	bunnange-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	throw causer	NP-nom	
+Mitsukaido Japanese	39	THROW	butske-ru	Basic	1-nom 2-dat 3-acc V	1	thrower	NP-nom	A
+Mitsukaido Japanese	39	THROW	butske-ru	Basic	1-nom 2-dat 3-acc V	2	throwing goal	NP-dat	L
+Mitsukaido Japanese	39	THROW	butske-ru	Basic	1-nom 2-dat 3-acc V	3	thrown thing	NP-acc	P
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	thrower	NP-exp	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	throwing goal	NP-dat	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	thrown thing	NP-acc	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	3-nom 2-dat (1-loc) V'pass	1	thrower	NP-loc	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	3-nom 2-dat (1-loc) V'pass	2	throwing goal	NP-dat	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	3-nom 2-dat (1-loc) V'pass	3	thrown thing	NP-nom	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	thrower	NP-dat	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	throwing goal	NP-dat	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	thrown thing	NP-acc	
+Mitsukaido Japanese	39	THROW	butske-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	throw causer	NP-nom	
+Mitsukaido Japanese	40	TIE	tunang-u	Basic	1-nom 2-dat 3-acc V	1	tier	NP-nom	A
+Mitsukaido Japanese	40	TIE	tunang-u	Basic	1-nom 2-dat 3-acc V	2	tying goal	NP-dat	L
+Mitsukaido Japanese	40	TIE	tunang-u	Basic	1-nom 2-dat 3-acc V	3	tied thing	NP-acc	P
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	1-exp (2-dat) 3-acc V'pot	1	tier	NP-exp	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	1-exp (2-dat) 3-acc V'pot	2	tying goal	NP-dat	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	1-exp (2-dat) 3-acc V'pot	3	tied thing	NP-acc	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	3-nom 2-dat (1-loc) V'pass	1	tier	NP-loc	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	3-nom 2-dat (1-loc) V'pass	2	tying goal	NP-dat	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	3-nom 2-dat (1-loc) V'pass	3	tied thing	NP-nom	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	tier	NP-dat	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	tying goal	NP-dat	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	tied thing	NP-acc	
+Mitsukaido Japanese	40	TIE	tunang-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	tie causer	NP-nom	
+Mitsukaido Japanese	41	PUT	og-u	Basic	1-nom 2-dat 3-acc V	1	putter	NP-nom	A
+Mitsukaido Japanese	41	PUT	og-u	Basic	1-nom 2-dat 3-acc V	2	putting goal	NP-dat	L
+Mitsukaido Japanese	41	PUT	og-u	Basic	1-nom 2-dat 3-acc V	3	put thing	NP-acc	P
+Mitsukaido Japanese	41	PUT	og-u	Derived	1-exp (2-dat) 3-acc V'pot	1	putter	NP-exp	
+Mitsukaido Japanese	41	PUT	og-u	Derived	1-exp (2-dat) 3-acc V'pot	2	putting goal	NP-dat	
+Mitsukaido Japanese	41	PUT	og-u	Derived	1-exp (2-dat) 3-acc V'pot	3	put thing	NP-acc	
+Mitsukaido Japanese	41	PUT	og-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	putter	NP-dat	
+Mitsukaido Japanese	41	PUT	og-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	putting goal	NP-dat	
+Mitsukaido Japanese	41	PUT	og-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	put thing	NP-acc	
+Mitsukaido Japanese	41	PUT	og-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	put causer	NP-nom	
+Mitsukaido Japanese	42	POUR	tsung-u	Basic	1-nom 2-dat 3-acc V	1	pourer	NP-nom	A
+Mitsukaido Japanese	42	POUR	tsung-u	Basic	1-nom 2-dat 3-acc V	2	pouring goal	NP-dat	L
+Mitsukaido Japanese	42	POUR	tsung-u	Basic	1-nom 2-dat 3-acc V	3	poured substance	NP-acc	P
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	1-exp (2-dat) 3-acc V'pot	1	pourer	NP-exp	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	1-exp (2-dat) 3-acc V'pot	2	pouring goal	NP-dat	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	1-exp (2-dat) 3-acc V'pot	3	poured substance	NP-acc	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	pourer	NP-dat	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	pouring goal	NP-dat	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	poured substance	NP-acc	
+Mitsukaido Japanese	42	POUR	tsung-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	pour causer	NP-nom	
+Mitsukaido Japanese	43	COVER	kage-ru	Basic	1-nom 2-dat 3-acc V	1	coverer	NP-nom	A
+Mitsukaido Japanese	43	COVER	kage-ru	Basic	1-nom 2-dat 3-acc V	2	covered thing	NP-dat	L
+Mitsukaido Japanese	43	COVER	kage-ru	Basic	1-nom 2-dat 3-acc V	3	cover	NP-acc	P
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	coverer	NP-exp	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	covered thing	NP-dat	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	cover	NP-acc	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	3-nom 2-dat (1-loc) V'pass	1	coverer	NP-loc	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	3-nom 2-dat (1-loc) V'pass	2	covered thing	NP-dat	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	3-nom 2-dat (1-loc) V'pass	3	cover	NP-nom	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	coverer	NP-dat	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	covered thing	NP-dat	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	cover	NP-acc	
+Mitsukaido Japanese	43	COVER	kage-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	cover causer	NP-nom	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Basic	1-nom 2-acc (3-instr) V	1	filler	NP-nom	A
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Basic	1-nom 2-acc (3-instr) V	2	filled container	NP-acc	P
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Basic	1-nom 2-acc (3-instr) V	3	filling material	NP-instr	I
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	1-exp 2-acc (3-instr) V'pot	1	filler	NP-exp	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	1-exp 2-acc (3-instr) V'pot	2	filled container	NP-acc	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	1-exp 2-acc (3-instr) V'pot	3	filling material	NP-instr	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	1	filler	NP-dat	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	2	filled container	NP-acc	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	3	filling material	NP-instr	
+Mitsukaido Japanese	44	FILL	ktsieppe-ni su-ru	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	4	fill causer	NP-nom	
+Mitsukaido Japanese	45	LOAD	tsum-u	Basic	1-nom 2-dat 3-acc V	1	loader	NP-nom	A
+Mitsukaido Japanese	45	LOAD	tsum-u	Basic	1-nom 2-dat 3-acc V	2	loading place	NP-dat	L
+Mitsukaido Japanese	45	LOAD	tsum-u	Basic	1-nom 2-dat 3-acc V	3	loaded thing	NP-acc	P
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	1-exp (2-dat) 3-acc V'pot	1	loader	NP-exp	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	1-exp (2-dat) 3-acc V'pot	2	loading place	NP-dat	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	1-exp (2-dat) 3-acc V'pot	3	loaded thing	NP-acc	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	loader	NP-dat	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	loading place	NP-dat	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	loaded thing	NP-acc	
+Mitsukaido Japanese	45	LOAD	tsum-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	load causer	NP-nom	
+Mitsukaido Japanese	46	BLINK	mabadagi su-ru	Basic	1-nom V	1	blinker	NP-nom	S
+Mitsukaido Japanese	47	COUGH	segi su-ru	Basic	1-nom V	1	cougher	NP-nom	S
+Mitsukaido Japanese	48	CLIMB	nobor-u	Basic	1-nom 2-dat/acc V	1	climber	NP-nom	S
+Mitsukaido Japanese	48	CLIMB	nobor-u	Basic	1-nom 2-dat/acc V	2	climbing goal	NP-dat/acc	X
+Mitsukaido Japanese	48	CLIMB	nobor-u	Derived	1-exp 2-dat V'pot	1	climber	NP-exp	
+Mitsukaido Japanese	48	CLIMB	nobor-u	Derived	1-exp 2-dat V'pot	2	climbing goal	NP-dat	
+Mitsukaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat/acc V'rase	1	climber	NP-acc	
+Mitsukaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat/acc V'rase	2	climbing goal	NP-dat/acc	
+Mitsukaido Japanese	48	CLIMB	nobor-u	Derived	4-nom 1-acc 2-dat/acc V'rase	4	climb causer	NP-nom	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Basic	1-nom 2-acc V	1	runner	NP-nom	A
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Basic	1-nom 2-acc V	2	running place	NP-acc	P
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Derived	1-exp 2-acc V'pot	1	runner	NP-exp	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Derived	1-exp 2-acc V'pot	2	running place	NP-acc	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Derived	4-nom 1-dat 2-acc V'rase	1	runner	NP-dat	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Derived	4-nom 1-dat 2-acc V'rase	2	running place	NP-acc	
+Mitsukaido Japanese	49	RUN	kage-ru (2)	Derived	4-nom 1-dat 2-acc V'rase	4	run causer	NP-nom	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Basic	1-nom 2-dat V	1	sitter	NP-nom	S
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Basic	1-nom 2-dat V	2	sitting place	NP-dat	L
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Derived	1-exp 2-dat V'pot	1	sitter	NP-exp	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Derived	1-exp 2-dat V'pot	2	sitting place	NP-dat	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Derived	4-nom 1-acc 2-dat V'rase	1	sitter	NP-acc	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Derived	4-nom 1-acc 2-dat V'rase	2	sitting place	NP-dat	
+Mitsukaido Japanese	50	SIT	sa:r-u (3)	Derived	4-nom 1-acc 2-dat V'rase	4	sit causer	NP-nom	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Basic	1-nom 2-dat V	1	sitdowner	NP-nom	S
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Basic	1-nom 2-dat V	2	sitting-down place	NP-dat	L
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Derived	1-exp 2-dat V'pot	1	sitdowner	NP-exp	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Derived	1-exp 2-dat V'pot	2	sitting-down place	NP-dat	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Derived	4-nom 1-acc 2-dat V'rase	1	sitdowner	NP-acc	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Derived	4-nom 1-acc 2-dat V'rase	2	sitting-down place	NP-dat	
+Mitsukaido Japanese	51	SIT DOWN	(kosi)kage-ru	Derived	4-nom 1-acc 2-dat V'rase	4	sit down causer	NP-nom	
+Mitsukaido Japanese	52	JUMP	tob-u	Basic	1-nom V	1	jumper	NP-nom	S
+Mitsukaido Japanese	52	JUMP	tob-u	Derived	1-exp V'pot	1	jumper	NP-exp	
+Mitsukaido Japanese	52	JUMP	tob-u	Derived	4-nom 1-acc V'rase	1	jumper	NP-acc	
+Mitsukaido Japanese	52	JUMP	tob-u	Derived	4-nom 1-acc V'rase	4	jump causer	NP-nom	
+Mitsukaido Japanese	53	SING	uda:	Basic	1-nom V	1	singer	NP-nom	S
+Mitsukaido Japanese	53	SING	uda:	Derived	1-exp V'pot	1	singer	NP-exp	
+Mitsukaido Japanese	53	SING	uda:	Derived	1-nom 2-acc V'	1	singer	NP-nom	
+Mitsukaido Japanese	53	SING	uda:	Derived	1-nom 2-acc V'	2	song	NP-acc	
+Mitsukaido Japanese	53	SING	uda:	Derived	4-nom 1-acc V'rase	1	singer	NP-acc	
+Mitsukaido Japanese	53	SING	uda:	Derived	4-nom 1-acc V'rase	4	sing causer	NP-nom	
+Mitsukaido Japanese	54	GO	eng-u	Basic	1-nom 2-dat V	1	goer	NP-nom	S
+Mitsukaido Japanese	54	GO	eng-u	Basic	1-nom 2-dat V	2	going goal	NP-dat	L
+Mitsukaido Japanese	54	GO	eng-u	Derived	1-exp 2-dat V'pot	1	goer	NP-exp	
+Mitsukaido Japanese	54	GO	eng-u	Derived	1-exp 2-dat V'pot	2	going goal	NP-dat	
+Mitsukaido Japanese	54	GO	eng-u	Derived	4-nom 1-acc 2-dat V'rase	1	goer	NP-acc	
+Mitsukaido Japanese	54	GO	eng-u	Derived	4-nom 1-acc 2-dat V'rase	2	going goal	NP-dat	
+Mitsukaido Japanese	54	GO	eng-u	Derived	4-nom 1-acc 2-dat V'rase	4	go causer	NP-nom	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Basic	1-nom (2-abl) V	1	leaver	NP-nom	S
+Mitsukaido Japanese	55	LEAVE	doge-ru	Basic	1-nom (2-abl) V	2	left place/person	NP-abl	X
+Mitsukaido Japanese	55	LEAVE	doge-ru	Derived	4-nom 1-acc (2-abl) V'	1	leaver	NP-acc	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Derived	4-nom 1-acc (2-abl) V'	2	left place/person	NP-abl	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Derived	4-nom 1-acc (2-abl) V'	4	leave causer	NP-nom	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Derived	4-nom 1-acc V'rase	1	leaver	NP-acc	
+Mitsukaido Japanese	55	LEAVE	doge-ru	Derived	4-nom 1-acc V'rase	4	leave causer	NP-nom	
+Mitsukaido Japanese	56	LIVE	sum-u	Basic	1-nom 2-dat V	1	liver	NP-nom	S
+Mitsukaido Japanese	56	LIVE	sum-u	Basic	1-nom 2-dat V	2	living place	NP-dat	L
+Mitsukaido Japanese	56	LIVE	sum-u	Derived	1-exp 2-dat V'pot	1	liver	NP-exp	
+Mitsukaido Japanese	56	LIVE	sum-u	Derived	1-exp 2-dat V'pot	2	living place	NP-dat	
+Mitsukaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'rase	1	liver	NP-acc	
+Mitsukaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'rase	2	living place	NP-dat	
+Mitsukaido Japanese	56	LIVE	sum-u	Derived	4-nom 1-acc 2-dat V'rase	4	live causer	NP-nom	
+Mitsukaido Japanese	57	LAUGH	wara:	Basic	1-nom V	1	laugher	NP-nom	S
+Mitsukaido Japanese	57	LAUGH	wara:	Derived	1-exp V'pot	1	laugher	NP-exp	
+Mitsukaido Japanese	57	LAUGH	wara:	Derived	1-nom 2-acc V'	1	laugher	NP-nom	
+Mitsukaido Japanese	57	LAUGH	wara:	Derived	1-nom 2-acc V'	2	laughed-about thing	NP-acc	
+Mitsukaido Japanese	57	LAUGH	wara:	Derived	4-nom 1-acc V'rase	1	laugher	NP-acc	
+Mitsukaido Japanese	57	LAUGH	wara:	Derived	4-nom 1-acc V'rase	4	laugh causer	NP-nom	
+Mitsukaido Japanese	58	SCREAM	wameg-u	Basic	1-nom V	1	screamer	NP-nom	S
+Mitsukaido Japanese	58	SCREAM	wameg-u	Derived	4-nom 1-acc V'rase	1	screamer	NP-acc	
+Mitsukaido Japanese	58	SCREAM	wameg-u	Derived	4-nom 1-acc V'rase	4	scream causer	NP-nom	
+Mitsukaido Japanese	59	FEEL PAIN	ede	Basic	1-nom 2-nom V	1	pain-feeler	NP-nom	S
+Mitsukaido Japanese	59	FEEL PAIN	ede	Basic	1-nom 2-nom V	2	pain locus	NP-nom	X
+Mitsukaido Japanese	60	FEEL COLD	samue/samugar-u	Basic	1-nom V	1	freezing person	NP-nom	S
+Mitsukaido Japanese	61	DIE	sin-u	Basic	1-nom V	1	dieer	NP-nom	S
+Mitsukaido Japanese	61	DIE	sin-u	Derived	1-exp V'pot	1	dieer	NP-exp	
+Mitsukaido Japanese	62	PLAY	asub-u	Basic	1-nom V	1	player	NP-nom	S
+Mitsukaido Japanese	62	PLAY	asub-u	Derived	1-exp V'pot	1	player	NP-exp	
+Mitsukaido Japanese	62	PLAY	asub-u	Derived	4-nom 1-acc V'rase	1	player	NP-acc	
+Mitsukaido Japanese	62	PLAY	asub-u	Derived	4-nom 1-acc V'rase	4	play causer	NP-nom	
+Mitsukaido Japanese	63	BE SAD	kanasi:/kanasim-u	Basic	1-nom V	1	sad person	NP-nom	S
+Mitsukaido Japanese	64	BE HUNGRY	hara her-u	Basic	1-nom V	1	hungry person	NP-nom	S
+Mitsukaido Japanese	65	ROLL	korongar-u	Basic	1-nom V	1	rolling entity	NP-nom	S
+Mitsukaido Japanese	65	ROLL	korongar-u	Derived	2-nom 1-acc V'as/e	1	rolling entity	NP-acc	
+Mitsukaido Japanese	65	ROLL	korongar-u	Derived	2-nom 1-acc V'as/e	2	roller	NP-nom	
+Mitsukaido Japanese	66	SINK	sizum-u	Basic	1-nom V	1	sunken entity	NP-nom	S
+Mitsukaido Japanese	66	SINK	sizum-u	Derived	2-nom 1-acc V'as/e	1	sunken entity	NP-acc	
+Mitsukaido Japanese	66	SINK	sizum-u	Derived	2-nom 1-acc V'as/e	2	sink-(caus)er	NP-nom	
+Mitsukaido Japanese	67	BURN	jage-ru	Basic	1-nom V	1	burnt thing	NP-nom	S
+Mitsukaido Japanese	67	BURN	jage-ru	Derived	2-nom 1-acc V'as/e	1	burnt thing	NP-acc	
+Mitsukaido Japanese	67	BURN	jage-ru	Derived	2-nom 1-acc V'as/e	2	burner	NP-nom	
+Mitsukaido Japanese	68	BE DRY	kawag-u	Basic	1-nom V	1	dry thing	NP-nom	S
+Mitsukaido Japanese	68	BE DRY	kawag-u	Derived	2-nom 1-acc V'as/e	1	dry thing	NP-acc	
+Mitsukaido Japanese	68	BE DRY	kawag-u	Derived	2-nom 1-acc V'as/e	2	drier / dry causer	NP-nom	
+Mitsukaido Japanese	69	RAIN	ame hur-u	Basic	1-nom V	1	rain	NP-nom	S
+Mitsukaido Japanese	69	RAIN	ame hur-u	Derived	4-nom 1-acc V'rase	1	rain	NP-acc	
+Mitsukaido Japanese	69	RAIN	ame hur-u	Derived	4-nom 1-acc V'rase	4	rain causer	NP-nom	
+Mitsukaido Japanese	71	GRIND	hig-u	Basic	1-nom 2-acc (3-instr) V	1	grinder	NP-nom	A
+Mitsukaido Japanese	71	GRIND	hig-u	Basic	1-nom 2-acc (3-instr) V	2	ground thing	NP-acc	P
+Mitsukaido Japanese	71	GRIND	hig-u	Basic	1-nom 2-acc (3-instr) V	3	grinding instrument	NP-instr	I
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	1-exp 2-acc (3-instr) V'pot	1	grinder	NP-exp	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	1-exp 2-acc (3-instr) V'pot	2	ground thing	NP-acc	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	1-exp 2-acc (3-instr) V'pot	3	grinding instrument	NP-instr	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	1	grinder	NP-dat	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	2	ground thing	NP-acc	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	3	grinding instrument	NP-instr	
+Mitsukaido Japanese	71	GRIND	hig-u	Derived	4-nom 1-dat 2-acc (3-instr) V'rase	4	grind causer	NP-nom	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Basic	1-nom 2-acc V	1	grinder	NP-nom	A
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Basic	1-nom 2-acc V	2	ground thing	NP-acc	P
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Derived	1-exp 2-acc V'pot	1	grinder	NP-exp	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Derived	1-exp 2-acc V'pot	2	ground thing	NP-acc	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Derived	4-nom 1-dat 2-acc V'rase	1	grinder	NP-dat	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Derived	4-nom 1-dat 2-acc V'rase	2	ground thing	NP-acc	
+Mitsukaido Japanese	71	GRIND	sur-u (2)	Derived	4-nom 1-dat 2-acc V'rase	4	grind causer	NP-nom	
+Mitsukaido Japanese	72	WIPE	hug-u	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Mitsukaido Japanese	72	WIPE	hug-u	Basic	1-nom 2-acc V	2	wiping surface	NP-acc	P
+Mitsukaido Japanese	72	WIPE	hug-u	Derived	1-exp 2-acc V'pot	1	wiper	NP-exp	
+Mitsukaido Japanese	72	WIPE	hug-u	Derived	1-exp 2-acc V'pot	2	wiping surface	NP-acc	
+Mitsukaido Japanese	72	WIPE	hug-u	Derived	4-nom 1-dat 2-acc V'rase	1	wiper	NP-dat	
+Mitsukaido Japanese	72	WIPE	hug-u	Derived	4-nom 1-dat 2-acc V'rase	2	wiping surface	NP-acc	
+Mitsukaido Japanese	72	WIPE	hug-u	Derived	4-nom 1-dat 2-acc V'rase	4	wipe causer	NP-nom	
+Mitsukaido Japanese	72	WIPE	nugu:	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Mitsukaido Japanese	72	WIPE	nugu:	Basic	1-nom 2-acc V	2	wiped material	NP-acc	P
+Mitsukaido Japanese	72	WIPE	nugu:	Derived	1-exp 2-acc V'pot	1	wiper	NP-exp	
+Mitsukaido Japanese	72	WIPE	nugu:	Derived	1-exp 2-acc V'pot	2	wiped material	NP-acc	
+Mitsukaido Japanese	72	WIPE	nugu:	Derived	4-nom 1-dat 2-acc V'rase	1	wiper	NP-dat	
+Mitsukaido Japanese	72	WIPE	nugu:	Derived	4-nom 1-dat 2-acc V'rase	2	wiped material	NP-acc	
+Mitsukaido Japanese	72	WIPE	nugu:	Derived	4-nom 1-dat 2-acc V'rase	4	wipe causer	NP-nom	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Basic	1-nom 2-dat 3-acc V	1	digger	NP-nom	A
+Mitsukaido Japanese	73	DIG	hor-u (1)	Basic	1-nom 2-dat 3-acc V	2	digging place	NP-dat	L
+Mitsukaido Japanese	73	DIG	hor-u (1)	Basic	1-nom 2-dat 3-acc V	3	dug hole/ground	NP-acc	P
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	1-exp (2-dat) 3-acc V'pot	1	digger	NP-exp	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	1-exp (2-dat) 3-acc V'pot	2	digging place	NP-dat	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	1-exp (2-dat) 3-acc V'pot	3	dug hole/ground	NP-acc	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	digger	NP-dat	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	digging place	NP-dat	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	dug hole/ground	NP-acc	
+Mitsukaido Japanese	73	DIG	hor-u (1)	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	dig causer	NP-nom	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Mitsukaido Japanese	73	DIG	hor-u (2)	Basic	1-nom 2-acc V	2	dug up thing	NP-acc	P
+Mitsukaido Japanese	73	DIG	hor-u (2)	Derived	1-exp 2-acc V'pot	1	digger	NP-exp	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Derived	1-exp 2-acc V'pot	2	dug up thing	NP-acc	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'rase	1	digger	NP-dat	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'rase	2	dug up thing	NP-acc	
+Mitsukaido Japanese	73	DIG	hor-u (2)	Derived	4-nom 1-dat 2-acc V'rase	4	dig causer	NP-nom	
+Mitsukaido Japanese	74	PUSH	os-u	Basic	1-nom 2-acc V	1	pusher	NP-nom	A
+Mitsukaido Japanese	74	PUSH	os-u	Basic	1-nom 2-acc V	2	pushee	NP-acc	P
+Mitsukaido Japanese	74	PUSH	os-u	Derived	1-exp 2-acc V'pot	1	pusher	NP-exp	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	1-exp 2-acc V'pot	2	pushee	NP-acc	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	2-nom (1-loc/dat) V'pass	1	pusher	NP-loc/dat	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	2-nom (1-loc/dat) V'pass	2	pushee	NP-nom	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'rase	1	pusher	NP-dat	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'rase	2	pushee	NP-acc	
+Mitsukaido Japanese	74	PUSH	os-u	Derived	4-nom 1-dat 2-acc V'rase	4	push causer	NP-nom	
+Mitsukaido Japanese	75	BRING	motteng-u	Basic	1-nom 2-dat 3-acc V	1	bringer	NP-nom	A
+Mitsukaido Japanese	75	BRING	motteng-u	Basic	1-nom 2-dat 3-acc V	2	bringing recipient	NP-dat	L
+Mitsukaido Japanese	75	BRING	motteng-u	Basic	1-nom 2-dat 3-acc V	3	brought thing	NP-acc	P
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	1	bringer	NP-exp	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	2	bringing recipient	NP-dat	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	1-exp (2-dat) 3-acc V'pot	3	brought thing	NP-acc	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	1	bringer	NP-loc	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	2	bringing recipient	NP-dat	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	3-nom 2-dat (1-loc) V'pass	3	brought thing	NP-nom	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	bringer	NP-dat	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	bringing recipient	NP-dat	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	brought thing	NP-acc	
+Mitsukaido Japanese	75	BRING	motteng-u	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	bring causer	NP-nom	
+Mitsukaido Japanese	76	STEAL	nusum-u	Basic	1-nom 2-acc V	1	stealer	NP-nom	A
+Mitsukaido Japanese	76	STEAL	nusum-u	Basic	1-nom 2-acc V	2	stolen thing	NP-acc	P
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	1-exp 2-acc V'pot	1	stealer	NP-exp	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	1-exp 2-acc V'pot	2	stolen thing	NP-acc	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	2-nom (1-loc/dat) V'pass	1	stealer	NP-loc/dat	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	2-nom (1-loc/dat) V'pass	2	stolen thing	NP-nom	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'rase	1	stealer	NP-dat	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'rase	2	stolen thing	NP-acc	
+Mitsukaido Japanese	76	STEAL	nusum-u	Derived	4-nom 1-dat 2-acc V'rase	4	steal causer	NP-nom	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Basic	1-nom 2-dat 3-acc V	1	teacher	NP-nom	A
+Mitsukaido Japanese	77	TEACH	ose:-ru	Basic	1-nom 2-dat 3-acc V	2	teachee	NP-dat	L
+Mitsukaido Japanese	77	TEACH	ose:-ru	Basic	1-nom 2-dat 3-acc V	3	taught content	NP-acc	P
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	1-exp (2-dat) 3-acc V'pot	1	teacher	NP-exp	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	1-exp (2-dat) 3-acc V'pot	2	teachee	NP-dat	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	1-exp (2-dat) 3-acc V'pot	3	taught content	NP-acc	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	3-nom 2-dat (1-loc) V'pass	1	teacher	NP-loc	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	3-nom 2-dat (1-loc) V'pass	2	teachee	NP-dat	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	3-nom 2-dat (1-loc) V'pass	3	taught content	NP-nom	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	1	teacher	NP-dat	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	2	teachee	NP-dat	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	3	taught content	NP-acc	
+Mitsukaido Japanese	77	TEACH	ose:-ru	Derived	4-nom 1-dat 2-dat 3-acc V'rase	4	teach causer	NP-nom	
+Mitsukaido Japanese	78	HEAR	kig-u	Basic	1-nom 2-acc V	1	hearer	NP-nom	A
+Mitsukaido Japanese	78	HEAR	kig-u	Basic	1-nom 2-acc V	2	heard sound	NP-acc	P
+Mitsukaido Japanese	78	HEAR	kige-ru	Basic	1-exp 2-nom V	1	hearer	NP-exp	X
+Mitsukaido Japanese	78	HEAR	kige-ru	Basic	1-exp 2-nom V	2	heard sound	NP-nom	S
+Mitsukaido Japanese	80	BOIL	wag-u	Basic	1-nom V	1	boiled thing	NP-nom	S
+Mitsukaido Japanese	80	BOIL	wag-u	Derived	2-nom 1-acc V'as/e	1	boiled thing	NP-acc	
+Mitsukaido Japanese	80	BOIL	wag-u	Derived	2-nom 1-acc V'as/e	2	boiler	NP-nom	

@@ -1,0 +1,2326 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Hoocąk	1	EAT	ruuc	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	1	EAT	ruuc	Coercive/default causative (hii)	Marginally	
+Hoocąk	1	EAT	ruuc	Detransitive / slot filler (wa-)	Regularly	1 act[1].V'
+Hoocąk	1	EAT	ruuc	Facilitative alternation	Never	
+Hoocąk	1	EAT	ruuc	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	1	EAT	ruuc	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	1	EAT	ruuc	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	1	EAT	ruuc	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	1	EAT	ruuc	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	1	EAT	ruuc	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	1	EAT	ruuc	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	1	EAT	ruuc	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	1	EAT	ruuc	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	1	EAT	ruuc	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	1	EAT	ruuc	Possessive reflexive (+kara)	Regularly	
+Hoocąk	1	EAT	ruuc	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	1	EAT	ruuc	Reciprocal (+kiki)	Marginally	
+Hoocąk	1	EAT	ruuc	Reflexive (+kii)	Never	
+Hoocąk	1	EAT	ruuc	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	1	EAT	ruuc	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	1	EAT	ruuc	Resultative & causative	Never	
+Hoocąk	1	EAT	ruuc	Resultative alternation	Never	
+Hoocąk	1	EAT	ruuc	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	1	EAT	ruuc	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	1	EAT	ruuc	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	2	HUG	nąąt'ųp	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	2	HUG	nąąt'ųp	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	2	HUG	nąąt'ųp	Detransitive / slot filler (wa-)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Facilitative alternation	Never	
+Hoocąk	2	HUG	nąąt'ųp	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	2	HUG	nąąt'ųp	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Instrumental applicative (+hi)	Marginally	
+Hoocąk	2	HUG	nąąt'ųp	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	2	HUG	nąąt'ųp	Possessive reflexive (+kara)	Regularly	
+Hoocąk	2	HUG	nąąt'ųp	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	2	HUG	nąąt'ųp	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	2	HUG	nąąt'ųp	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	2	HUG	nąąt'ųp	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	2	HUG	nąąt'ųp	Resultative & causative	Never	
+Hoocąk	2	HUG	nąąt'ųp	Resultative alternation	Never	
+Hoocąk	2	HUG	nąąt'ųp	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	2	HUG	nąąt'ųp	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	3	LOOK AT	horoǧoc	Coercive/default causative (hii)	Marginally	
+Hoocąk	3	LOOK AT	horoǧoc	Detransitive / slot filler (wa-)	Marginally	
+Hoocąk	3	LOOK AT	horoǧoc	Facilitative alternation	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	3	LOOK AT	horoǧoc	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	3	LOOK AT	horoǧoc	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	3	LOOK AT	horoǧoc	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	3	LOOK AT	horoǧoc	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	3	LOOK AT	horoǧoc	Possessive reflexive (+kara)	Regularly	
+Hoocąk	3	LOOK AT	horoǧoc	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	3	LOOK AT	horoǧoc	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	3	LOOK AT	horoǧoc	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	3	LOOK AT	horoǧoc	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	3	LOOK AT	horoǧoc	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	3	LOOK AT	horoǧoc	Resultative & causative	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Resultative alternation	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	3	LOOK AT	horoǧoc	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	4	SEE	haja	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	4	SEE	haja	Coercive/default causative (hii)	Marginally	
+Hoocąk	4	SEE	haja	Detransitive / slot filler (wa-)	Never	
+Hoocąk	4	SEE	haja	Facilitative alternation	Never	
+Hoocąk	4	SEE	haja	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	4	SEE	haja	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	4	SEE	haja	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	4	SEE	haja	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	4	SEE	haja	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	4	SEE	haja	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	4	SEE	haja	Instrumental applicative (+hi)	Never	
+Hoocąk	4	SEE	haja	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	4	SEE	haja	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	4	SEE	haja	Permissive causative (gigi)	Marginally	
+Hoocąk	4	SEE	haja	Possessive reflexive (+kara)	Regularly	
+Hoocąk	4	SEE	haja	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	4	SEE	haja	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	4	SEE	haja	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	4	SEE	haja	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	4	SEE	haja	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	4	SEE	haja	Resultative & causative	Never	
+Hoocąk	4	SEE	haja	Resultative alternation	Never	
+Hoocąk	4	SEE	haja	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	4	SEE	haja	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	4	SEE	haja	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	5	SMELL	horupąną	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	5	SMELL	horupąną	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	5	SMELL	horupąną	Detransitive / slot filler (wa-)	Never	
+Hoocąk	5	SMELL	horupąną	Facilitative alternation	Never	
+Hoocąk	5	SMELL	horupąną	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	5	SMELL	horupąną	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	5	SMELL	horupąną	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	5	SMELL	horupąną	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	5	SMELL	horupąną	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	5	SMELL	horupąną	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	5	SMELL	horupąną	Instrumental applicative (+hi)	Never	
+Hoocąk	5	SMELL	horupąną	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	5	SMELL	horupąną	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	5	SMELL	horupąną	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	5	SMELL	horupąną	Possessive reflexive (+kara)	Regularly	
+Hoocąk	5	SMELL	horupąną	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	5	SMELL	horupąną	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	5	SMELL	horupąną	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	5	SMELL	horupąną	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	5	SMELL	horupąną	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	5	SMELL	horupąną	Resultative & causative	Never	
+Hoocąk	5	SMELL	horupąną	Resultative alternation	Never	
+Hoocąk	5	SMELL	horupąną	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	5	SMELL	horupąną	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	5	SMELL	horupąną	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	6	FEAR	nąąkewe	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	6	FEAR	nąąkewe	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	6	FEAR	nąąkewe	Detransitive / slot filler (wa-)	Never	
+Hoocąk	6	FEAR	nąąkewe	Facilitative alternation	Never	
+Hoocąk	6	FEAR	nąąkewe	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	6	FEAR	nąąkewe	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	6	FEAR	nąąkewe	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	6	FEAR	nąąkewe	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	6	FEAR	nąąkewe	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	6	FEAR	nąąkewe	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	6	FEAR	nąąkewe	Instrumental applicative (+hi)	Marginally	
+Hoocąk	6	FEAR	nąąkewe	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	6	FEAR	nąąkewe	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	6	FEAR	nąąkewe	Permissive causative (gigi)	Marginally	
+Hoocąk	6	FEAR	nąąkewe	Possessive reflexive (+kara)	Regularly	
+Hoocąk	6	FEAR	nąąkewe	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	6	FEAR	nąąkewe	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	6	FEAR	nąąkewe	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	6	FEAR	nąąkewe	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	6	FEAR	nąąkewe	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	6	FEAR	nąąkewe	Resultative & causative	Never	
+Hoocąk	6	FEAR	nąąkewe	Resultative alternation	Never	
+Hoocąk	6	FEAR	nąąkewe	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	6	FEAR	nąąkewe	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	6	FEAR	nąąkewe	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Facilitative alternation	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Possessive reflexive (+kara)	Regularly	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Reflexive (+kii)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Reflexive causative (kįį)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Resultative & causative	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Resultative alternation	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	8	LIKE	gipį	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	8	LIKE	gipį	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	8	LIKE	gipį	Detransitive / slot filler (wa-)	Never	
+Hoocąk	8	LIKE	gipį	Facilitative alternation	Never	
+Hoocąk	8	LIKE	gipį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	8	LIKE	gipį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	8	LIKE	gipį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	8	LIKE	gipį	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	8	LIKE	gipį	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	8	LIKE	gipį	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	8	LIKE	gipį	Instrumental applicative (+hi)	Never	
+Hoocąk	8	LIKE	gipį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	8	LIKE	gipį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	8	LIKE	gipį	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	8	LIKE	gipį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	8	LIKE	gipį	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	8	LIKE	gipį	Reciprocal (+kiki)	Marginally	
+Hoocąk	8	LIKE	gipį	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	8	LIKE	gipį	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	8	LIKE	gipį	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	8	LIKE	gipį	Resultative & causative	Never	
+Hoocąk	8	LIKE	gipį	Resultative alternation	Never	
+Hoocąk	8	LIKE	gipį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	8	LIKE	gipį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	8	LIKE	gipį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	9	KNOW	hiperes	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	9	KNOW	hiperes	Coercive/default causative (hii)	Marginally	
+Hoocąk	9	KNOW	hiperes	Detransitive / slot filler (wa-)	Never	
+Hoocąk	9	KNOW	hiperes	Facilitative alternation	Never	
+Hoocąk	9	KNOW	hiperes	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	9	KNOW	hiperes	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	9	KNOW	hiperes	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	9	KNOW	hiperes	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	9	KNOW	hiperes	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	9	KNOW	hiperes	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	9	KNOW	hiperes	Instrumental applicative (+hi)	Never	
+Hoocąk	9	KNOW	hiperes	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	9	KNOW	hiperes	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	9	KNOW	hiperes	Permissive causative (gigi)	Marginally	
+Hoocąk	9	KNOW	hiperes	Possessive reflexive (+kara)	Regularly	
+Hoocąk	9	KNOW	hiperes	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	9	KNOW	hiperes	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	9	KNOW	hiperes	Reflexive (+kii)	Never	
+Hoocąk	9	KNOW	hiperes	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	9	KNOW	hiperes	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	9	KNOW	hiperes	Resultative & causative	Never	
+Hoocąk	9	KNOW	hiperes	Resultative alternation	Never	
+Hoocąk	9	KNOW	hiperes	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	9	KNOW	hiperes	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	9	KNOW	hiperes	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	10	THINK	wewį	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	10	THINK	wewį	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	10	THINK	wewį	Detransitive / slot filler (wa-)	Marginally	
+Hoocąk	10	THINK	wewį	Facilitative alternation	Never	
+Hoocąk	10	THINK	wewį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	10	THINK	wewį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	10	THINK	wewį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	10	THINK	wewį	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	10	THINK	wewį	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	10	THINK	wewį	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	10	THINK	wewį	Instrumental applicative (+hi)	Marginally	
+Hoocąk	10	THINK	wewį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	10	THINK	wewį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	10	THINK	wewį	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	10	THINK	wewį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	10	THINK	wewį	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	10	THINK	wewį	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	10	THINK	wewį	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	10	THINK	wewį	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	10	THINK	wewį	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	10	THINK	wewį	Resultative & causative	Never	
+Hoocąk	10	THINK	wewį	Resultative alternation	Never	
+Hoocąk	10	THINK	wewį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	10	THINK	wewį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	10	THINK	wewį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	11	SEARCH FOR	honį	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	11	SEARCH FOR	honį	Coercive/default causative (hii)	Never	
+Hoocąk	11	SEARCH FOR	honį	Detransitive / slot filler (wa-)	Never	
+Hoocąk	11	SEARCH FOR	honį	Facilitative alternation	Never	
+Hoocąk	11	SEARCH FOR	honį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	11	SEARCH FOR	honį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	11	SEARCH FOR	honį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	11	SEARCH FOR	honį	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	11	SEARCH FOR	honį	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	11	SEARCH FOR	honį	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	11	SEARCH FOR	honį	Instrumental applicative (+hi)	Marginally	
+Hoocąk	11	SEARCH FOR	honį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	11	SEARCH FOR	honį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	11	SEARCH FOR	honį	Permissive causative (gigi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	11	SEARCH FOR	honį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	11	SEARCH FOR	honį	Possessive reflexive causative (karagi)	Never	
+Hoocąk	11	SEARCH FOR	honį	Reciprocal (+kiki)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	11	SEARCH FOR	honį	Reflexive (+kii)	Marginally	
+Hoocąk	11	SEARCH FOR	honį	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	11	SEARCH FOR	honį	Reflexive causative (kįį)	Marginally	
+Hoocąk	11	SEARCH FOR	honį	Resultative & causative	Never	
+Hoocąk	11	SEARCH FOR	honį	Resultative alternation	Never	
+Hoocąk	11	SEARCH FOR	honį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	11	SEARCH FOR	honį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	11	SEARCH FOR	honį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	12	WASH	ruža	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	12	WASH	ruža	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	12	WASH	ruža	Detransitive / slot filler (wa-)	Never	
+Hoocąk	12	WASH	ruža	Facilitative alternation	Never	
+Hoocąk	12	WASH	ruža	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	12	WASH	ruža	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	12	WASH	ruža	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	12	WASH	ruža	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	12	WASH	ruža	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	12	WASH	ruža	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	12	WASH	ruža	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	12	WASH	ruža	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	12	WASH	ruža	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	12	WASH	ruža	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	12	WASH	ruža	Possessive reflexive (+kara)	Regularly	
+Hoocąk	12	WASH	ruža	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	12	WASH	ruža	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	12	WASH	ruža	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	12	WASH	ruža	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	12	WASH	ruža	Reflexive causative (kįį)	Marginally	
+Hoocąk	12	WASH	ruža	Resultative & causative	Never	
+Hoocąk	12	WASH	ruža	Resultative alternation	Never	
+Hoocąk	12	WASH	ruža	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	12	WASH	ruža	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	12	WASH	ruža	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	13	DRESS	no direct counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Facilitative alternation	Never	
+Hoocąk	13	DRESS	no direct counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Permissive causative (gigi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Reflexive (+kii)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Resultative & causative	Never	
+Hoocąk	13	DRESS	no direct counterpart	Resultative alternation	Never	
+Hoocąk	13	DRESS	no direct counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	13	DRESS	no direct counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	15	HELP	gijire	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	15	HELP	gijire	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	15	HELP	gijire	Detransitive / slot filler (wa-)	Never	
+Hoocąk	15	HELP	gijire	Facilitative alternation	Never	
+Hoocąk	15	HELP	gijire	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	15	HELP	gijire	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	15	HELP	gijire	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	15	HELP	gijire	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	15	HELP	gijire	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	15	HELP	gijire	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	15	HELP	gijire	Instrumental applicative (+hi)	Never	
+Hoocąk	15	HELP	gijire	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	15	HELP	gijire	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	15	HELP	gijire	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	15	HELP	gijire	Possessive reflexive (+kara)	Regularly	
+Hoocąk	15	HELP	gijire	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	15	HELP	gijire	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	15	HELP	gijire	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	15	HELP	gijire	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	15	HELP	gijire	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	15	HELP	gijire	Resultative & causative	Never	
+Hoocąk	15	HELP	gijire	Resultative alternation	Never	
+Hoocąk	15	HELP	gijire	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	15	HELP	gijire	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	15	HELP	gijire	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	16	FOLLOW	ruxe	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	16	FOLLOW	ruxe	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	16	FOLLOW	ruxe	Detransitive / slot filler (wa-)	Never	
+Hoocąk	16	FOLLOW	ruxe	Facilitative alternation	Never	
+Hoocąk	16	FOLLOW	ruxe	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	16	FOLLOW	ruxe	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	16	FOLLOW	ruxe	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	16	FOLLOW	ruxe	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	16	FOLLOW	ruxe	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	16	FOLLOW	ruxe	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	16	FOLLOW	ruxe	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	16	FOLLOW	ruxe	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	16	FOLLOW	ruxe	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	16	FOLLOW	ruxe	Permissive causative (gigi)	Marginally	
+Hoocąk	16	FOLLOW	ruxe	Possessive reflexive (+kara)	Regularly	
+Hoocąk	16	FOLLOW	ruxe	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	16	FOLLOW	ruxe	Reciprocal (+kiki)	Marginally	
+Hoocąk	16	FOLLOW	ruxe	Reflexive (+kii)	Never	
+Hoocąk	16	FOLLOW	ruxe	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	16	FOLLOW	ruxe	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	16	FOLLOW	ruxe	Resultative & causative	Never	
+Hoocąk	16	FOLLOW	ruxe	Resultative alternation	Never	
+Hoocąk	16	FOLLOW	ruxe	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	16	FOLLOW	ruxe	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	16	FOLLOW	ruxe	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	17	MEET	hikipa	Benefactive/possession of U (+gi)	Never	
+Hoocąk	17	MEET	hikipa	Coercive/default causative (hii)	Marginally	
+Hoocąk	17	MEET	hikipa	Detransitive / slot filler (wa-)	Never	
+Hoocąk	17	MEET	hikipa	Facilitative alternation	Never	
+Hoocąk	17	MEET	hikipa	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	17	MEET	hikipa	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	17	MEET	hikipa	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	17	MEET	hikipa	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	17	MEET	hikipa	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	17	MEET	hikipa	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	17	MEET	hikipa	Instrumental applicative (+hi)	Never	
+Hoocąk	17	MEET	hikipa	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	17	MEET	hikipa	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	17	MEET	hikipa	Permissive causative (gigi)	Marginally	
+Hoocąk	17	MEET	hikipa	Possessive reflexive (+kara)	Regularly	
+Hoocąk	17	MEET	hikipa	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	17	MEET	hikipa	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	17	MEET	hikipa	Reflexive (+kii)	Never	
+Hoocąk	17	MEET	hikipa	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	17	MEET	hikipa	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	17	MEET	hikipa	Resultative & causative	Never	
+Hoocąk	17	MEET	hikipa	Resultative alternation	Never	
+Hoocąk	17	MEET	hikipa	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	17	MEET	hikipa	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	17	MEET	hikipa	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	18	TALK	hokit'e	Benefactive/possession of U (+gi)	Never	
+Hoocąk	18	TALK	hokit'e	Coercive/default causative (hii)	Marginally	
+Hoocąk	18	TALK	hokit'e	Detransitive / slot filler (wa-)	Never	
+Hoocąk	18	TALK	hokit'e	Facilitative alternation	Never	
+Hoocąk	18	TALK	hokit'e	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	18	TALK	hokit'e	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	18	TALK	hokit'e	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	18	TALK	hokit'e	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	18	TALK	hokit'e	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	18	TALK	hokit'e	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	18	TALK	hokit'e	Instrumental applicative (+hi)	Marginally	
+Hoocąk	18	TALK	hokit'e	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	18	TALK	hokit'e	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	18	TALK	hokit'e	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	18	TALK	hokit'e	Possessive reflexive (+kara)	Regularly	
+Hoocąk	18	TALK	hokit'e	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	18	TALK	hokit'e	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	18	TALK	hokit'e	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	18	TALK	hokit'e	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	18	TALK	hokit'e	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	18	TALK	hokit'e	Resultative & causative	Never	
+Hoocąk	18	TALK	hokit'e	Resultative alternation	Never	
+Hoocąk	18	TALK	hokit'e	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	18	TALK	hokit'e	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	18	TALK	hokit'e	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	19	ASK FOR	taa	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	19	ASK FOR	taa	Coercive/default causative (hii)	Marginally	
+Hoocąk	19	ASK FOR	taa	Detransitive / slot filler (wa-)	Never	
+Hoocąk	19	ASK FOR	taa	Facilitative alternation	Never	
+Hoocąk	19	ASK FOR	taa	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	19	ASK FOR	taa	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	19	ASK FOR	taa	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	19	ASK FOR	taa	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	19	ASK FOR	taa	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	19	ASK FOR	taa	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	19	ASK FOR	taa	Instrumental applicative (+hi)	Never	
+Hoocąk	19	ASK FOR	taa	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	19	ASK FOR	taa	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	19	ASK FOR	taa	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	19	ASK FOR	taa	Possessive reflexive (+kara)	Regularly	
+Hoocąk	19	ASK FOR	taa	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	19	ASK FOR	taa	Reciprocal (+kiki)	Marginally	
+Hoocąk	19	ASK FOR	taa	Reflexive (+kii)	Marginally	
+Hoocąk	19	ASK FOR	taa	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	19	ASK FOR	taa	Reflexive causative (kįį)	Marginally	
+Hoocąk	19	ASK FOR	taa	Resultative & causative	Never	
+Hoocąk	19	ASK FOR	taa	Resultative alternation	Never	
+Hoocąk	19	ASK FOR	taa	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	19	ASK FOR	taa	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	19	ASK FOR	taa	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Benefactive/possession of U (+gi)	Regularly	1 3 und[3].act[1].V'ben
+Hoocąk	20	SHOUT AT	wąą (rehii)	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	20	SHOUT AT	wąą (rehii)	Detransitive / slot filler (wa-)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Facilitative alternation	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Instrumental applicative (+hi)	Marginally	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	20	SHOUT AT	wąą (rehii)	Possessive reflexive (+kara)	Regularly	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Reciprocal (+kiki)	Marginally	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Reflexive (+kii)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	20	SHOUT AT	wąą (rehii)	Resultative & causative	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Resultative alternation	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	21	TELL	horak	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	21	TELL	horak	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	21	TELL	horak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	21	TELL	horak	Facilitative alternation	Never	
+Hoocąk	21	TELL	horak	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	21	TELL	horak	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	21	TELL	horak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	21	TELL	horak	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	21	TELL	horak	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	21	TELL	horak	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	21	TELL	horak	Instrumental applicative (+hi)	Marginally	
+Hoocąk	21	TELL	horak	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	21	TELL	horak	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	21	TELL	horak	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	21	TELL	horak	Possessive reflexive (+kara)	Regularly	
+Hoocąk	21	TELL	horak	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	21	TELL	horak	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	21	TELL	horak	Reflexive (+kii)	Never	
+Hoocąk	21	TELL	horak	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	21	TELL	horak	Reflexive causative (kįį)	Marginally	
+Hoocąk	21	TELL	horak	Resultative & causative	Never	
+Hoocąk	21	TELL	horak	Resultative alternation	Never	
+Hoocąk	21	TELL	horak	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	21	TELL	horak	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	21	TELL	horak	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	22	SAY	ee	Benefactive/possession of U (+gi)	Regularly	1 3 UTT2 und[3].act[1].V'ben
+Hoocąk	22	SAY	ee	Coercive/default causative (hii)	Marginally	
+Hoocąk	22	SAY	ee	Detransitive / slot filler (wa-)	Never	
+Hoocąk	22	SAY	ee	Facilitative alternation	Never	
+Hoocąk	22	SAY	ee	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	22	SAY	ee	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	22	SAY	ee	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	22	SAY	ee	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	22	SAY	ee	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	22	SAY	ee	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	22	SAY	ee	Instrumental applicative (+hi)	Never	
+Hoocąk	22	SAY	ee	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	22	SAY	ee	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	22	SAY	ee	Permissive causative (gigi)	Regularly	4 1 UTT2 und[1].act[4].V'caus
+Hoocąk	22	SAY	ee	Possessive reflexive (+kara)	Regularly	
+Hoocąk	22	SAY	ee	Possessive reflexive causative (karagi)	Regularly	4 1 UTT2 und[1].act[4].V'caus
+Hoocąk	22	SAY	ee	Reciprocal (+kiki)	Never	
+Hoocąk	22	SAY	ee	Reflexive (+kii)	Never	
+Hoocąk	22	SAY	ee	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	22	SAY	ee	Reflexive causative (kįį)	Never	
+Hoocąk	22	SAY	ee	Resultative & causative	Never	
+Hoocąk	22	SAY	ee	Resultative alternation	Never	
+Hoocąk	22	SAY	ee	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	22	SAY	ee	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	22	SAY	ee	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	23	NAME	hige	Benefactive/possession of U (+gi)	Regularly	1 2 (3) 4 und[4].und[2].act[1].V'ben
+Hoocąk	23	NAME	hige	Coercive/default causative (hii)	Marginally	
+Hoocąk	23	NAME	hige	Detransitive / slot filler (wa-)	Never	
+Hoocąk	23	NAME	hige	Facilitative alternation	Never	
+Hoocąk	23	NAME	hige	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	23	NAME	hige	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	23	NAME	hige	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	23	NAME	hige	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	23	NAME	hige	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	23	NAME	hige	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	23	NAME	hige	Instrumental applicative (+hi)	Never	
+Hoocąk	23	NAME	hige	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	23	NAME	hige	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	23	NAME	hige	Permissive causative (gigi)	Marginally	
+Hoocąk	23	NAME	hige	Possessive reflexive (+kara)	Regularly	
+Hoocąk	23	NAME	hige	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	23	NAME	hige	Reciprocal (+kiki)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	23	NAME	hige	Reflexive (+kii)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	23	NAME	hige	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	23	NAME	hige	Reflexive causative (kįį)	Marginally	
+Hoocąk	23	NAME	hige	Resultative & causative	Never	
+Hoocąk	23	NAME	hige	Resultative alternation	Never	
+Hoocąk	23	NAME	hige	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	23	NAME	hige	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	23	NAME	hige	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Facilitative alternation	Never	
+Hoocąk	24	BUILD	no direct counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Permissive causative (gigi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Reflexive (+kii)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Resultative & causative	Never	
+Hoocąk	24	BUILD	no direct counterpart	Resultative alternation	Never	
+Hoocąk	24	BUILD	no direct counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	24	BUILD	no direct counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	24	BUILD	ųų	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	24	BUILD	ųų	Coercive/default causative (hii)	Marginally	
+Hoocąk	24	BUILD	ųų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	24	BUILD	ųų	Facilitative alternation	Never	
+Hoocąk	24	BUILD	ųų	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	24	BUILD	ųų	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	24	BUILD	ųų	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	24	BUILD	ųų	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	24	BUILD	ųų	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	24	BUILD	ųų	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	24	BUILD	ųų	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	24	BUILD	ųų	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	24	BUILD	ųų	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	24	BUILD	ųų	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	24	BUILD	ųų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	24	BUILD	ųų	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	24	BUILD	ųų	Reciprocal (+kiki)	Marginally	
+Hoocąk	24	BUILD	ųų	Reflexive (+kii)	Marginally	
+Hoocąk	24	BUILD	ųų	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	24	BUILD	ųų	Reflexive causative (kįį)	Marginally	
+Hoocąk	24	BUILD	ųų	Resultative & causative	Never	
+Hoocąk	24	BUILD	ųų	Resultative alternation	Never	
+Hoocąk	24	BUILD	ųų	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	24	BUILD	ųų	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	24	BUILD	ųų	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	25	BREAK	gišiš	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	25	BREAK	gišiš	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	25	BREAK	gišiš	Detransitive / slot filler (wa-)	Never	
+Hoocąk	25	BREAK	gišiš	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	25	BREAK	gišiš	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	25	BREAK	gišiš	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	25	BREAK	gišiš	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	25	BREAK	gišiš	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	25	BREAK	gišiš	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	25	BREAK	gišiš	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	25	BREAK	gišiš	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	25	BREAK	gišiš	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	25	BREAK	gišiš	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	25	BREAK	gišiš	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	25	BREAK	gišiš	Possessive reflexive (+kara)	Regularly	
+Hoocąk	25	BREAK	gišiš	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	25	BREAK	gišiš	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	25	BREAK	gišiš	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	25	BREAK	gišiš	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	25	BREAK	gišiš	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	25	BREAK	gišiš	Resultative & causative	Regularly	
+Hoocąk	25	BREAK	gišiš	Resultative alternation	Regularly	2 und[2].V're
+Hoocąk	25	BREAK	gišiš	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	25	BREAK	gišiš	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	25	BREAK	gišiš	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	26	KILL	t'ee hii	Benefactive/possession of U (+gi)	Never	
+Hoocąk	26	KILL	t'ee hii	Coercive/default causative (hii)	Marginally	
+Hoocąk	26	KILL	t'ee hii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	26	KILL	t'ee hii	Facilitative alternation	Never	
+Hoocąk	26	KILL	t'ee hii	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	26	KILL	t'ee hii	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	26	KILL	t'ee hii	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	26	KILL	t'ee hii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	26	KILL	t'ee hii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	26	KILL	t'ee hii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	26	KILL	t'ee hii	Instrumental applicative (+hi)	Never	
+Hoocąk	26	KILL	t'ee hii	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	26	KILL	t'ee hii	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	26	KILL	t'ee hii	Permissive causative (gigi)	Marginally	
+Hoocąk	26	KILL	t'ee hii	Possessive reflexive (+kara)	Never	
+Hoocąk	26	KILL	t'ee hii	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	26	KILL	t'ee hii	Reciprocal (+kiki)	Never	
+Hoocąk	26	KILL	t'ee hii	Reflexive (+kii)	Never	
+Hoocąk	26	KILL	t'ee hii	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	26	KILL	t'ee hii	Reflexive causative (kįį)	Marginally	
+Hoocąk	26	KILL	t'ee hii	Resultative & causative	Never	
+Hoocąk	26	KILL	t'ee hii	Resultative alternation	Never	
+Hoocąk	26	KILL	t'ee hii	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	26	KILL	t'ee hii	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	26	KILL	t'ee hii	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	27	BEAT	hirojį	Benefactive/possession of U (+gi)	Regularly	1 2 (3) 4 und[4].und[2].act[1].V'ben
+Hoocąk	27	BEAT	hirojį	Coercive/default causative (hii)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hirojį	Detransitive / slot filler (wa-)	Never	
+Hoocąk	27	BEAT	hirojį	Facilitative alternation	Never	
+Hoocąk	27	BEAT	hirojį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	27	BEAT	hirojį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	27	BEAT	hirojį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	27	BEAT	hirojį	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	27	BEAT	hirojį	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	27	BEAT	hirojį	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	27	BEAT	hirojį	Instrumental applicative (+hi)	Never	
+Hoocąk	27	BEAT	hirojį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	27	BEAT	hirojį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	27	BEAT	hirojį	Permissive causative (gigi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hirojį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	27	BEAT	hirojį	Possessive reflexive causative (karagi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hirojį	Reciprocal (+kiki)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	27	BEAT	hirojį	Reflexive (+kii)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	27	BEAT	hirojį	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	27	BEAT	hirojį	Reflexive causative (kįį)	Marginally	
+Hoocąk	27	BEAT	hirojį	Resultative & causative	Never	
+Hoocąk	27	BEAT	hirojį	Resultative alternation	Never	
+Hoocąk	27	BEAT	hirojį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	27	BEAT	hirojį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	27	BEAT	hirojį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	27	BEAT	hojį	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	27	BEAT	hojį	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hojį	Detransitive / slot filler (wa-)	Never	
+Hoocąk	27	BEAT	hojį	Facilitative alternation	Never	
+Hoocąk	27	BEAT	hojį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	27	BEAT	hojį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	27	BEAT	hojį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	27	BEAT	hojį	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	27	BEAT	hojį	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	27	BEAT	hojį	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	27	BEAT	hojį	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	27	BEAT	hojį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	27	BEAT	hojį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	27	BEAT	hojį	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hojį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	27	BEAT	hojį	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	27	BEAT	hojį	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	27	BEAT	hojį	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	27	BEAT	hojį	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	27	BEAT	hojį	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	27	BEAT	hojį	Resultative & causative	Never	
+Hoocąk	27	BEAT	hojį	Resultative alternation	Never	
+Hoocąk	27	BEAT	hojį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	27	BEAT	hojį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	27	BEAT	hojį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	28	HIT	hapa	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	28	HIT	hapa	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	28	HIT	hapa	Detransitive / slot filler (wa-)	Never	
+Hoocąk	28	HIT	hapa	Facilitative alternation	Never	
+Hoocąk	28	HIT	hapa	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	28	HIT	hapa	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	28	HIT	hapa	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	28	HIT	hapa	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	28	HIT	hapa	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	28	HIT	hapa	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	28	HIT	hapa	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	28	HIT	hapa	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	28	HIT	hapa	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	28	HIT	hapa	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	28	HIT	hapa	Possessive reflexive (+kara)	Regularly	
+Hoocąk	28	HIT	hapa	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	28	HIT	hapa	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	28	HIT	hapa	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	28	HIT	hapa	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	28	HIT	hapa	Reflexive causative (kįį)	Marginally	
+Hoocąk	28	HIT	hapa	Resultative & causative	Never	
+Hoocąk	28	HIT	hapa	Resultative alternation	Never	
+Hoocąk	28	HIT	hapa	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	28	HIT	hapa	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	28	HIT	hapa	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	29	TOUCH	hiki'o	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	29	TOUCH	hiki'o	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	29	TOUCH	hiki'o	Detransitive / slot filler (wa-)	Never	
+Hoocąk	29	TOUCH	hiki'o	Facilitative alternation	Never	
+Hoocąk	29	TOUCH	hiki'o	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	29	TOUCH	hiki'o	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	29	TOUCH	hiki'o	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	29	TOUCH	hiki'o	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	29	TOUCH	hiki'o	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	29	TOUCH	hiki'o	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	29	TOUCH	hiki'o	Instrumental applicative (+hi)	Never	
+Hoocąk	29	TOUCH	hiki'o	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	29	TOUCH	hiki'o	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	29	TOUCH	hiki'o	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	29	TOUCH	hiki'o	Possessive reflexive (+kara)	Regularly	
+Hoocąk	29	TOUCH	hiki'o	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	29	TOUCH	hiki'o	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	29	TOUCH	hiki'o	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	29	TOUCH	hiki'o	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	29	TOUCH	hiki'o	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	29	TOUCH	hiki'o	Resultative & causative	Never	
+Hoocąk	29	TOUCH	hiki'o	Resultative alternation	Never	
+Hoocąk	29	TOUCH	hiki'o	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	29	TOUCH	hiki'o	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	29	TOUCH	hiki'o	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	30	CUT	mąącgis	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	30	CUT	mąącgis	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	30	CUT	mąącgis	Detransitive / slot filler (wa-)	Never	
+Hoocąk	30	CUT	mąącgis	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	30	CUT	mąącgis	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	30	CUT	mąącgis	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	30	CUT	mąącgis	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	30	CUT	mąącgis	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	30	CUT	mąącgis	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	30	CUT	mąącgis	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	30	CUT	mąącgis	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	30	CUT	mąącgis	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	30	CUT	mąącgis	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	30	CUT	mąącgis	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	30	CUT	mąącgis	Possessive reflexive (+kara)	Regularly	
+Hoocąk	30	CUT	mąącgis	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	30	CUT	mąącgis	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	30	CUT	mąącgis	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	30	CUT	mąącgis	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	30	CUT	mąącgis	Reflexive causative (kįį)	Never	
+Hoocąk	30	CUT	mąącgis	Resultative & causative	Marginally	
+Hoocąk	30	CUT	mąącgis	Resultative alternation	Regularly	2 und[2].V're
+Hoocąk	30	CUT	mąącgis	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	30	CUT	mąącgis	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	30	CUT	mąącgis	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	31	TAKE	ruus	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	31	TAKE	ruus	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	31	TAKE	ruus	Detransitive / slot filler (wa-)	Never	
+Hoocąk	31	TAKE	ruus	Facilitative alternation	Never	
+Hoocąk	31	TAKE	ruus	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	31	TAKE	ruus	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	31	TAKE	ruus	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	31	TAKE	ruus	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	31	TAKE	ruus	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	31	TAKE	ruus	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	31	TAKE	ruus	Instrumental applicative (+hi)	Marginally	
+Hoocąk	31	TAKE	ruus	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	31	TAKE	ruus	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	31	TAKE	ruus	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	31	TAKE	ruus	Possessive reflexive (+kara)	Regularly	
+Hoocąk	31	TAKE	ruus	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	31	TAKE	ruus	Reciprocal (+kiki)	Marginally	
+Hoocąk	31	TAKE	ruus	Reflexive (+kii)	Marginally	
+Hoocąk	31	TAKE	ruus	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	31	TAKE	ruus	Reflexive causative (kįį)	Marginally	
+Hoocąk	31	TAKE	ruus	Resultative & causative	Never	
+Hoocąk	31	TAKE	ruus	Resultative alternation	Never	
+Hoocąk	31	TAKE	ruus	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	31	TAKE	ruus	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	31	TAKE	ruus	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	32	TEAR	rugas	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	32	TEAR	rugas	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	32	TEAR	rugas	Detransitive / slot filler (wa-)	Never	
+Hoocąk	32	TEAR	rugas	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	32	TEAR	rugas	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	32	TEAR	rugas	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	32	TEAR	rugas	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	32	TEAR	rugas	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	32	TEAR	rugas	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	32	TEAR	rugas	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	32	TEAR	rugas	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	32	TEAR	rugas	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	32	TEAR	rugas	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	32	TEAR	rugas	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	32	TEAR	rugas	Possessive reflexive (+kara)	Regularly	
+Hoocąk	32	TEAR	rugas	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	32	TEAR	rugas	Reciprocal (+kiki)	Marginally	
+Hoocąk	32	TEAR	rugas	Reflexive (+kii)	Marginally	
+Hoocąk	32	TEAR	rugas	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	32	TEAR	rugas	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	32	TEAR	rugas	Resultative & causative	Regularly	
+Hoocąk	32	TEAR	rugas	Resultative alternation	Regularly	2 und[2].V're
+Hoocąk	32	TEAR	rugas	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	32	TEAR	rugas	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	32	TEAR	rugas	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	33	PEEL	ruxoro	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	33	PEEL	ruxoro	Detransitive / slot filler (wa-)	Never	
+Hoocąk	33	PEEL	ruxoro	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	33	PEEL	ruxoro	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	33	PEEL	ruxoro	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	33	PEEL	ruxoro	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	33	PEEL	ruxoro	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	33	PEEL	ruxoro	Instrumental applicative (+hi)	Never	
+Hoocąk	33	PEEL	ruxoro	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	33	PEEL	ruxoro	Possessive reflexive (+kara)	Regularly	
+Hoocąk	33	PEEL	ruxoro	Possessive reflexive causative (karagi)	Never	
+Hoocąk	33	PEEL	ruxoro	Reciprocal (+kiki)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Reflexive (+kii)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Reflexive causative (kįį)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Resultative & causative	Regularly	
+Hoocąk	33	PEEL	ruxoro	Resultative alternation	Regularly	2 und[2].V're
+Hoocąk	33	PEEL	ruxoro	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	33	PEEL	ruxoro	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	34	HIDE	nųųxąwą	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	34	HIDE	nųųxąwą	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	34	HIDE	nųųxąwą	Detransitive / slot filler (wa-)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Facilitative alternation	Never	
+Hoocąk	34	HIDE	nųųxąwą	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Instrumental applicative (+hi)	Marginally	
+Hoocąk	34	HIDE	nųųxąwą	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	34	HIDE	nųųxąwą	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	34	HIDE	nųųxąwą	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	34	HIDE	nųųxąwą	Possessive reflexive (+kara)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	34	HIDE	nųųxąwą	Reciprocal (+kiki)	Marginally	
+Hoocąk	34	HIDE	nųųxąwą	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	34	HIDE	nųųxąwą	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	34	HIDE	nųųxąwą	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	34	HIDE	nųųxąwą	Resultative & causative	Never	
+Hoocąk	34	HIDE	nųųxąwą	Resultative alternation	Never	
+Hoocąk	34	HIDE	nųųxąwą	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	34	HIDE	nųųxąwą	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	34	HIDE	nųųxąwą	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	35	SHOW	waha	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	35	SHOW	waha	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	35	SHOW	waha	Detransitive / slot filler (wa-)	Never	
+Hoocąk	35	SHOW	waha	Facilitative alternation	Never	
+Hoocąk	35	SHOW	waha	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	35	SHOW	waha	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	35	SHOW	waha	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	35	SHOW	waha	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	35	SHOW	waha	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	35	SHOW	waha	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	35	SHOW	waha	Instrumental applicative (+hi)	Marginally	
+Hoocąk	35	SHOW	waha	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	35	SHOW	waha	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	35	SHOW	waha	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	35	SHOW	waha	Possessive reflexive (+kara)	Regularly	
+Hoocąk	35	SHOW	waha	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	35	SHOW	waha	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	35	SHOW	waha	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	35	SHOW	waha	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	35	SHOW	waha	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	35	SHOW	waha	Resultative & causative	Never	
+Hoocąk	35	SHOW	waha	Resultative alternation	Never	
+Hoocąk	35	SHOW	waha	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	35	SHOW	waha	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	35	SHOW	waha	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	36	GIVE	hok'ų	Benefactive/possession of U (+gi)	Never	
+Hoocąk	36	GIVE	hok'ų	Coercive/default causative (hii)	Regularly	4 1 2 3 und[3].und[2].und[1].act[4].V'caus
+Hoocąk	36	GIVE	hok'ų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	36	GIVE	hok'ų	Facilitative alternation	Never	
+Hoocąk	36	GIVE	hok'ų	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	36	GIVE	hok'ų	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	36	GIVE	hok'ų	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	36	GIVE	hok'ų	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	36	GIVE	hok'ų	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	36	GIVE	hok'ų	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	36	GIVE	hok'ų	Instrumental applicative (+hi)	Never	
+Hoocąk	36	GIVE	hok'ų	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	36	GIVE	hok'ų	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	36	GIVE	hok'ų	Permissive causative (gigi)	Regularly	4 1 2 3 und[3].und[2].und[1].act[4].V'caus
+Hoocąk	36	GIVE	hok'ų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	36	GIVE	hok'ų	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	36	GIVE	hok'ų	Reciprocal (+kiki)	Regularly	1/2 3 und[3].act[1/2].V'rfl/rcp
+Hoocąk	36	GIVE	hok'ų	Reflexive (+kii)	Regularly	1/2 3 und[3].act[1/2].V'rfl/rcp
+Hoocąk	36	GIVE	hok'ų	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	36	GIVE	hok'ų	Reflexive causative (kįį)	Regularly	4/1 2 3 und[3].und[2].act[4/1].V'caus
+Hoocąk	36	GIVE	hok'ų	Resultative & causative	Never	
+Hoocąk	36	GIVE	hok'ų	Resultative alternation	Never	
+Hoocąk	36	GIVE	hok'ų	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	36	GIVE	hok'ų	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	36	GIVE	hok'ų	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	37	SEND	no direct counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	37	SEND	no direct counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	37	SEND	no direct counterpart	Facilitative alternation	Never	
+Hoocąk	37	SEND	no direct counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	37	SEND	no direct counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	37	SEND	no direct counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	37	SEND	no direct counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	37	SEND	no direct counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	37	SEND	no direct counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	37	SEND	no direct counterpart	Permissive causative (gigi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	37	SEND	no direct counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	37	SEND	no direct counterpart	Reflexive (+kii)	Never	
+Hoocąk	37	SEND	no direct counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	37	SEND	no direct counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	37	SEND	no direct counterpart	Resultative & causative	Never	
+Hoocąk	37	SEND	no direct counterpart	Resultative alternation	Never	
+Hoocąk	37	SEND	no direct counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	37	SEND	no direct counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	37	SEND	no direct counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	38	CARRY	ru'ą	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	38	CARRY	ru'ą	Coercive/default causative (hii)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	38	CARRY	ru'ą	Detransitive / slot filler (wa-)	Never	
+Hoocąk	38	CARRY	ru'ą	Facilitative alternation	Never	
+Hoocąk	38	CARRY	ru'ą	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	38	CARRY	ru'ą	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	38	CARRY	ru'ą	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Instrumental applicative (+hi)	Regularly	1 2 5 (LOC3) und[5].und[2].act[1].V'inst
+Hoocąk	38	CARRY	ru'ą	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	38	CARRY	ru'ą	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	38	CARRY	ru'ą	Permissive causative (gigi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	38	CARRY	ru'ą	Possessive reflexive (+kara)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Possessive reflexive causative (karagi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	38	CARRY	ru'ą	Reciprocal (+kiki)	Marginally	
+Hoocąk	38	CARRY	ru'ą	Reflexive (+kii)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	38	CARRY	ru'ą	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	38	CARRY	ru'ą	Reflexive causative (kįį)	Regularly	6/1 2 (LOC3) und[2].act[6/1].V'caus
+Hoocąk	38	CARRY	ru'ą	Resultative & causative	Never	
+Hoocąk	38	CARRY	ru'ą	Resultative alternation	Never	
+Hoocąk	38	CARRY	ru'ą	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	38	CARRY	ru'ą	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	39	THROW	hirojį	Benefactive/possession of U (+gi)	Regularly	1 2 (3) 4 und[4].und[2].act[1].V'ben
+Hoocąk	39	THROW	hirojį	Coercive/default causative (hii)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	hirojį	Detransitive / slot filler (wa-)	Never	
+Hoocąk	39	THROW	hirojį	Facilitative alternation	Never	
+Hoocąk	39	THROW	hirojį	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	39	THROW	hirojį	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	39	THROW	hirojį	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	39	THROW	hirojį	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	39	THROW	hirojį	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	39	THROW	hirojį	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	39	THROW	hirojį	Instrumental applicative (+hi)	Never	
+Hoocąk	39	THROW	hirojį	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	39	THROW	hirojį	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	39	THROW	hirojį	Permissive causative (gigi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	hirojį	Possessive reflexive (+kara)	Regularly	
+Hoocąk	39	THROW	hirojį	Possessive reflexive causative (karagi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	hirojį	Reciprocal (+kiki)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	39	THROW	hirojį	Reflexive (+kii)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	39	THROW	hirojį	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	39	THROW	hirojį	Reflexive causative (kįį)	Marginally	
+Hoocąk	39	THROW	hirojį	Resultative & causative	Never	
+Hoocąk	39	THROW	hirojį	Resultative alternation	Never	
+Hoocąk	39	THROW	hirojį	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	39	THROW	hirojį	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	39	THROW	hirojį	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	39	THROW	ųųreehi	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	39	THROW	ųųreehi	Coercive/default causative (hii)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	ųųreehi	Detransitive / slot filler (wa-)	Never	
+Hoocąk	39	THROW	ųųreehi	Facilitative alternation	Never	
+Hoocąk	39	THROW	ųųreehi	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	39	THROW	ųųreehi	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	39	THROW	ųųreehi	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	39	THROW	ųųreehi	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	39	THROW	ųųreehi	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	39	THROW	ųųreehi	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	39	THROW	ųųreehi	Instrumental applicative (+hi)	Marginally	
+Hoocąk	39	THROW	ųųreehi	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	39	THROW	ųųreehi	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	39	THROW	ųųreehi	Permissive causative (gigi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	ųųreehi	Possessive reflexive (+kara)	Regularly	
+Hoocąk	39	THROW	ųųreehi	Possessive reflexive causative (karagi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	39	THROW	ųųreehi	Reciprocal (+kiki)	Never	
+Hoocąk	39	THROW	ųųreehi	Reflexive (+kii)	Never	
+Hoocąk	39	THROW	ųųreehi	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	39	THROW	ųųreehi	Reflexive causative (kįį)	Regularly	6/1 2 (LOC3) und[2].act[6/1].V'caus
+Hoocąk	39	THROW	ųųreehi	Resultative & causative	Never	
+Hoocąk	39	THROW	ųųreehi	Resultative alternation	Never	
+Hoocąk	39	THROW	ųųreehi	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	39	THROW	ųųreehi	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	39	THROW	ųųreehi	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	40	TIE	rusgic	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	40	TIE	rusgic	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	40	TIE	rusgic	Detransitive / slot filler (wa-)	Never	
+Hoocąk	40	TIE	rusgic	Facilitative alternation	Never	
+Hoocąk	40	TIE	rusgic	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	40	TIE	rusgic	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	40	TIE	rusgic	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	40	TIE	rusgic	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	40	TIE	rusgic	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	40	TIE	rusgic	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	40	TIE	rusgic	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	40	TIE	rusgic	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	40	TIE	rusgic	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	40	TIE	rusgic	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	40	TIE	rusgic	Possessive reflexive (+kara)	Regularly	
+Hoocąk	40	TIE	rusgic	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	40	TIE	rusgic	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	40	TIE	rusgic	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	40	TIE	rusgic	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	40	TIE	rusgic	Reflexive causative (kįį)	Never	
+Hoocąk	40	TIE	rusgic	Resultative & causative	Never	
+Hoocąk	40	TIE	rusgic	Resultative alternation	Never	
+Hoocąk	40	TIE	rusgic	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	40	TIE	rusgic	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	40	TIE	rusgic	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	41	PUT	hožu	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	41	PUT	hožu	Coercive/default causative (hii)	Regularly	
+Hoocąk	41	PUT	hožu	Detransitive / slot filler (wa-)	Never	
+Hoocąk	41	PUT	hožu	Facilitative alternation	Never	
+Hoocąk	41	PUT	hožu	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	41	PUT	hožu	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	41	PUT	hožu	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	41	PUT	hožu	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	41	PUT	hožu	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	41	PUT	hožu	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	41	PUT	hožu	Instrumental applicative (+hi)	Never	
+Hoocąk	41	PUT	hožu	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	41	PUT	hožu	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	41	PUT	hožu	Permissive causative (gigi)	Regularly	
+Hoocąk	41	PUT	hožu	Possessive reflexive (+kara)	Regularly	
+Hoocąk	41	PUT	hožu	Possessive reflexive causative (karagi)	Regularly	
+Hoocąk	41	PUT	hožu	Reciprocal (+kiki)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	41	PUT	hožu	Reflexive (+kii)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	41	PUT	hožu	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	41	PUT	hožu	Reflexive causative (kįį)	Regularly	
+Hoocąk	41	PUT	hožu	Resultative & causative	Never	
+Hoocąk	41	PUT	hožu	Resultative alternation	Never	
+Hoocąk	41	PUT	hožu	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	41	PUT	hožu	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	41	PUT	hožu	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	42	POUR	waxų	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	42	POUR	waxų	Coercive/default causative (hii)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	42	POUR	waxų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	42	POUR	waxų	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	42	POUR	waxų	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	42	POUR	waxų	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	42	POUR	waxų	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	42	POUR	waxų	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	42	POUR	waxų	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	42	POUR	waxų	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	42	POUR	waxų	Instrumental applicative (+hi)	Marginally	
+Hoocąk	42	POUR	waxų	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	42	POUR	waxų	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	42	POUR	waxų	Permissive causative (gigi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	42	POUR	waxų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	42	POUR	waxų	Possessive reflexive causative (karagi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	42	POUR	waxų	Reciprocal (+kiki)	Marginally	
+Hoocąk	42	POUR	waxų	Reflexive (+kii)	Never	
+Hoocąk	42	POUR	waxų	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	42	POUR	waxų	Reflexive causative (kįį)	Regularly	6/1 2 (LOC3) und[2].act[6/1].V'caus
+Hoocąk	42	POUR	waxų	Resultative & causative	Regularly	
+Hoocąk	42	POUR	waxų	Resultative alternation	Regularly	2 (LOC3) und[2].V're
+Hoocąk	42	POUR	waxų	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	42	POUR	waxų	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	42	POUR	waxų	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	43	COVER	haruką	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	43	COVER	haruką	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	43	COVER	haruką	Detransitive / slot filler (wa-)	Never	
+Hoocąk	43	COVER	haruką	Facilitative alternation	Never	
+Hoocąk	43	COVER	haruką	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	43	COVER	haruką	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	43	COVER	haruką	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	43	COVER	haruką	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	43	COVER	haruką	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	43	COVER	haruką	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	43	COVER	haruką	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	43	COVER	haruką	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	43	COVER	haruką	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	43	COVER	haruką	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	43	COVER	haruką	Possessive reflexive (+kara)	Regularly	
+Hoocąk	43	COVER	haruką	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	43	COVER	haruką	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	43	COVER	haruką	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	43	COVER	haruką	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	43	COVER	haruką	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	43	COVER	haruką	Resultative & causative	Never	
+Hoocąk	43	COVER	haruką	Resultative alternation	Never	
+Hoocąk	43	COVER	haruką	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	43	COVER	haruką	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	43	COVER	haruką	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	44	FILL	hoixjį hii	Benefactive/possession of U (+gi)	Never	
+Hoocąk	44	FILL	hoixjį hii	Coercive/default causative (hii)	Marginally	
+Hoocąk	44	FILL	hoixjį hii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	44	FILL	hoixjį hii	Facilitative alternation	Never	
+Hoocąk	44	FILL	hoixjį hii	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	44	FILL	hoixjį hii	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	44	FILL	hoixjį hii	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	44	FILL	hoixjį hii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	44	FILL	hoixjį hii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	44	FILL	hoixjį hii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	44	FILL	hoixjį hii	Instrumental applicative (+hi)	Never	
+Hoocąk	44	FILL	hoixjį hii	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	44	FILL	hoixjį hii	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	44	FILL	hoixjį hii	Permissive causative (gigi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	44	FILL	hoixjį hii	Possessive reflexive (+kara)	Never	
+Hoocąk	44	FILL	hoixjį hii	Possessive reflexive causative (karagi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	44	FILL	hoixjį hii	Reciprocal (+kiki)	Never	
+Hoocąk	44	FILL	hoixjį hii	Reflexive (+kii)	Never	
+Hoocąk	44	FILL	hoixjį hii	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	44	FILL	hoixjį hii	Reflexive causative (kįį)	Regularly	6/1 2 (3) und[2].act[6/1].V'caus
+Hoocąk	44	FILL	hoixjį hii	Resultative & causative	Never	
+Hoocąk	44	FILL	hoixjį hii	Resultative alternation	Never	
+Hoocąk	44	FILL	hoixjį hii	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	44	FILL	hoixjį hii	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	44	FILL	hoixjį hii	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	45	LOAD	hožu	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	45	LOAD	hožu	Coercive/default causative (hii)	Regularly	
+Hoocąk	45	LOAD	hožu	Detransitive / slot filler (wa-)	Never	
+Hoocąk	45	LOAD	hožu	Facilitative alternation	Never	
+Hoocąk	45	LOAD	hožu	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	45	LOAD	hožu	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	45	LOAD	hožu	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	45	LOAD	hožu	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	45	LOAD	hožu	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	45	LOAD	hožu	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	45	LOAD	hožu	Instrumental applicative (+hi)	Never	
+Hoocąk	45	LOAD	hožu	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	45	LOAD	hožu	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	45	LOAD	hožu	Permissive causative (gigi)	Regularly	
+Hoocąk	45	LOAD	hožu	Possessive reflexive (+kara)	Regularly	
+Hoocąk	45	LOAD	hožu	Possessive reflexive causative (karagi)	Regularly	
+Hoocąk	45	LOAD	hožu	Reciprocal (+kiki)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	45	LOAD	hožu	Reflexive (+kii)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	45	LOAD	hožu	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	45	LOAD	hožu	Reflexive causative (kįį)	Regularly	
+Hoocąk	45	LOAD	hožu	Resultative & causative	Never	
+Hoocąk	45	LOAD	hožu	Resultative alternation	Never	
+Hoocąk	45	LOAD	hožu	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	45	LOAD	hožu	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	45	LOAD	hožu	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Benefactive/possession of U (+gi)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Detransitive / slot filler (wa-)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Facilitative alternation	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Instrumental applicative (+hi)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Permissive causative (gigi)	Marginally	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Possessive reflexive (+kara)	Regularly	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Reciprocal (+kiki)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Reflexive (+kii)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Resultative & causative	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Resultative alternation	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	47	COUGH	hooxiwi	Benefactive/possession of U (+gi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	47	COUGH	hooxiwi	Detransitive / slot filler (wa-)	Never	
+Hoocąk	47	COUGH	hooxiwi	Facilitative alternation	Never	
+Hoocąk	47	COUGH	hooxiwi	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	47	COUGH	hooxiwi	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	47	COUGH	hooxiwi	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	47	COUGH	hooxiwi	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	47	COUGH	hooxiwi	Instrumental applicative (+hi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	47	COUGH	hooxiwi	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	47	COUGH	hooxiwi	Permissive causative (gigi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Possessive reflexive (+kara)	Never	
+Hoocąk	47	COUGH	hooxiwi	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	47	COUGH	hooxiwi	Reciprocal (+kiki)	Never	
+Hoocąk	47	COUGH	hooxiwi	Reflexive (+kii)	Never	
+Hoocąk	47	COUGH	hooxiwi	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	47	COUGH	hooxiwi	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	47	COUGH	hooxiwi	Resultative & causative	Never	
+Hoocąk	47	COUGH	hooxiwi	Resultative alternation	Never	
+Hoocąk	47	COUGH	hooxiwi	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	47	COUGH	hooxiwi	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	47	COUGH	hooxiwi	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	48	CLIMB	hoti	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	48	CLIMB	hoti	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	48	CLIMB	hoti	Detransitive / slot filler (wa-)	Never	
+Hoocąk	48	CLIMB	hoti	Facilitative alternation	Never	
+Hoocąk	48	CLIMB	hoti	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	48	CLIMB	hoti	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	48	CLIMB	hoti	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	48	CLIMB	hoti	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	48	CLIMB	hoti	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	48	CLIMB	hoti	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	48	CLIMB	hoti	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	48	CLIMB	hoti	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	48	CLIMB	hoti	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	48	CLIMB	hoti	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	48	CLIMB	hoti	Possessive reflexive (+kara)	Regularly	
+Hoocąk	48	CLIMB	hoti	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	48	CLIMB	hoti	Reciprocal (+kiki)	Never	
+Hoocąk	48	CLIMB	hoti	Reflexive (+kii)	Never	
+Hoocąk	48	CLIMB	hoti	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	48	CLIMB	hoti	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	48	CLIMB	hoti	Resultative & causative	Never	
+Hoocąk	48	CLIMB	hoti	Resultative alternation	Never	
+Hoocąk	48	CLIMB	hoti	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	48	CLIMB	hoti	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	48	CLIMB	hoti	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	49	RUN	nųųwąk	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	49	RUN	nųųwąk	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	49	RUN	nųųwąk	Detransitive / slot filler (wa-)	Never	
+Hoocąk	49	RUN	nųųwąk	Facilitative alternation	Never	
+Hoocąk	49	RUN	nųųwąk	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	49	RUN	nųųwąk	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	49	RUN	nųųwąk	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	49	RUN	nųųwąk	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	49	RUN	nųųwąk	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	49	RUN	nųųwąk	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	49	RUN	nųųwąk	Instrumental applicative (+hi)	Never	
+Hoocąk	49	RUN	nųųwąk	Locative applicative I (inessive) (+ho)	Regularly	1 LOC5 und[5].act[1].V'loc
+Hoocąk	49	RUN	nųųwąk	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	49	RUN	nųųwąk	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	49	RUN	nųųwąk	Possessive reflexive (+kara)	Never	
+Hoocąk	49	RUN	nųųwąk	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	49	RUN	nųųwąk	Reciprocal (+kiki)	Never	
+Hoocąk	49	RUN	nųųwąk	Reflexive (+kii)	Never	
+Hoocąk	49	RUN	nųųwąk	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	49	RUN	nųųwąk	Reflexive causative (kįį)	Marginally	
+Hoocąk	49	RUN	nųųwąk	Resultative & causative	Never	
+Hoocąk	49	RUN	nųųwąk	Resultative alternation	Never	
+Hoocąk	49	RUN	nųųwąk	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	49	RUN	nųųwąk	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	49	RUN	nųųwąk	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	50	SIT	mįįnak	Benefactive/possession of U (+gi)	Never	
+Hoocąk	50	SIT	mįįnak	Coercive/default causative (hii)	Never	
+Hoocąk	50	SIT	mįįnak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	50	SIT	mįįnak	Facilitative alternation	Never	
+Hoocąk	50	SIT	mįįnak	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	50	SIT	mįįnak	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	50	SIT	mįįnak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	50	SIT	mįįnak	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	50	SIT	mįįnak	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	50	SIT	mįįnak	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	50	SIT	mįįnak	Instrumental applicative (+hi)	Never	
+Hoocąk	50	SIT	mįįnak	Locative applicative I (inessive) (+ho)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	50	SIT	mįįnak	Locative applicative II (superessive) (+ha)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	50	SIT	mįįnak	Permissive causative (gigi)	Regularly	3 1 LOC2 und[1].act[3].V'caus
+Hoocąk	50	SIT	mįįnak	Possessive reflexive (+kara)	Never	
+Hoocąk	50	SIT	mįįnak	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	50	SIT	mįįnak	Reciprocal (+kiki)	Never	
+Hoocąk	50	SIT	mįįnak	Reflexive (+kii)	Never	
+Hoocąk	50	SIT	mįįnak	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	50	SIT	mįįnak	Reflexive causative (kįį)	Regularly	3/1 LOC2 act[3/1].V'caus
+Hoocąk	50	SIT	mįįnak	Resultative & causative	Never	
+Hoocąk	50	SIT	mįįnak	Resultative alternation	Never	
+Hoocąk	50	SIT	mįįnak	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	50	SIT	mįįnak	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	50	SIT	mįįnak	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	51	SIT DOWN	mįįnak	Benefactive/possession of U (+gi)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Coercive/default causative (hii)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Facilitative alternation	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	51	SIT DOWN	mįįnak	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	51	SIT DOWN	mįįnak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Instrumental applicative (+hi)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Locative applicative I (inessive) (+ho)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	51	SIT DOWN	mįįnak	Locative applicative II (superessive) (+ha)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	51	SIT DOWN	mįįnak	Permissive causative (gigi)	Regularly	3 1 LOC2 und[1].act[3].V'caus
+Hoocąk	51	SIT DOWN	mįįnak	Possessive reflexive (+kara)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	51	SIT DOWN	mįįnak	Reciprocal (+kiki)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Reflexive (+kii)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Reflexive causative (kįį)	Regularly	3/1 LOC2 act[3/1].V'caus
+Hoocąk	51	SIT DOWN	mįįnak	Resultative & causative	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Resultative alternation	Never	
+Hoocąk	51	SIT DOWN	mįįnak	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	51	SIT DOWN	mįįnak	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	51	SIT DOWN	mįįnak	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Benefactive/possession of U (+gi)	Regularly	1 3 und[3].act[1].V'ben
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Detransitive / slot filler (wa-)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Facilitative alternation	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Instrumental applicative (+hi)	Regularly	1 4 und[4].act[1].V'inst
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Locative applicative I (inessive) (+ho)	Regularly	1 LOC5 und[5].act[1].V'loc
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Locative applicative II (superessive) (+ha)	Regularly	1 LOC5 und[5].act[1].V'loc
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Possessive reflexive (+kara)	Regularly	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Reciprocal (+kiki)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Reflexive (+kii)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Resultative & causative	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Resultative alternation	Never	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	53	SING	nąąwą	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	53	SING	nąąwą	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	53	SING	nąąwą	Detransitive / slot filler (wa-)	Never	
+Hoocąk	53	SING	nąąwą	Facilitative alternation	Never	
+Hoocąk	53	SING	nąąwą	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	53	SING	nąąwą	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	53	SING	nąąwą	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	53	SING	nąąwą	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	53	SING	nąąwą	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	53	SING	nąąwą	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	53	SING	nąąwą	Instrumental applicative (+hi)	Marginally	
+Hoocąk	53	SING	nąąwą	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	53	SING	nąąwą	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	53	SING	nąąwą	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	53	SING	nąąwą	Possessive reflexive (+kara)	Regularly	
+Hoocąk	53	SING	nąąwą	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	53	SING	nąąwą	Reciprocal (+kiki)	Marginally	
+Hoocąk	53	SING	nąąwą	Reflexive (+kii)	Marginally	
+Hoocąk	53	SING	nąąwą	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	53	SING	nąąwą	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	53	SING	nąąwą	Resultative & causative	Never	
+Hoocąk	53	SING	nąąwą	Resultative alternation	Never	
+Hoocąk	53	SING	nąąwą	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	53	SING	nąąwą	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	53	SING	nąąwą	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	54	GO	no direct counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	54	GO	no direct counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	54	GO	no direct counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	54	GO	no direct counterpart	Facilitative alternation	Never	
+Hoocąk	54	GO	no direct counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	54	GO	no direct counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	54	GO	no direct counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	54	GO	no direct counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	54	GO	no direct counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	54	GO	no direct counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	54	GO	no direct counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	54	GO	no direct counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	54	GO	no direct counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	54	GO	no direct counterpart	Permissive causative (gigi)	Never	
+Hoocąk	54	GO	no direct counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	54	GO	no direct counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	54	GO	no direct counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	54	GO	no direct counterpart	Reflexive (+kii)	Never	
+Hoocąk	54	GO	no direct counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	54	GO	no direct counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	54	GO	no direct counterpart	Resultative & causative	Never	
+Hoocąk	54	GO	no direct counterpart	Resultative alternation	Never	
+Hoocąk	54	GO	no direct counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	54	GO	no direct counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	54	GO	no direct counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Facilitative alternation	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Permissive causative (gigi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Reflexive (+kii)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Resultative & causative	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Resultative alternation	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	55	LEAVE	no direct counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	56	LIVE	cii	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	56	LIVE	cii	Coercive/default causative (hii)	Marginally	
+Hoocąk	56	LIVE	cii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	56	LIVE	cii	Facilitative alternation	Never	
+Hoocąk	56	LIVE	cii	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	56	LIVE	cii	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	56	LIVE	cii	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	56	LIVE	cii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	56	LIVE	cii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	56	LIVE	cii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	56	LIVE	cii	Instrumental applicative (+hi)	Marginally	
+Hoocąk	56	LIVE	cii	Locative applicative I (inessive) (+ho)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	56	LIVE	cii	Locative applicative II (superessive) (+ha)	Regularly	1 LOC2 und[2].act[1].V'loc
+Hoocąk	56	LIVE	cii	Permissive causative (gigi)	Regularly	3 1 LOC2 und[1].act[3].V'caus
+Hoocąk	56	LIVE	cii	Possessive reflexive (+kara)	Never	
+Hoocąk	56	LIVE	cii	Possessive reflexive causative (karagi)	Regularly	3 1 LOC2 und[1].act[3].V'caus
+Hoocąk	56	LIVE	cii	Reciprocal (+kiki)	Never	
+Hoocąk	56	LIVE	cii	Reflexive (+kii)	Never	
+Hoocąk	56	LIVE	cii	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	56	LIVE	cii	Reflexive causative (kįį)	Marginally	
+Hoocąk	56	LIVE	cii	Resultative & causative	Never	
+Hoocąk	56	LIVE	cii	Resultative alternation	Never	
+Hoocąk	56	LIVE	cii	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	56	LIVE	cii	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	56	LIVE	cii	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	57	LAUGH	hikša	Benefactive/possession of U (+gi)	Never	
+Hoocąk	57	LAUGH	hikša	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	57	LAUGH	hikša	Detransitive / slot filler (wa-)	Never	
+Hoocąk	57	LAUGH	hikša	Facilitative alternation	Never	
+Hoocąk	57	LAUGH	hikša	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	57	LAUGH	hikša	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	57	LAUGH	hikša	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	57	LAUGH	hikša	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	57	LAUGH	hikša	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	57	LAUGH	hikša	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	57	LAUGH	hikša	Instrumental applicative (+hi)	Never	
+Hoocąk	57	LAUGH	hikša	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	57	LAUGH	hikša	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	57	LAUGH	hikša	Permissive causative (gigi)	Marginally	
+Hoocąk	57	LAUGH	hikša	Possessive reflexive (+kara)	Never	
+Hoocąk	57	LAUGH	hikša	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	57	LAUGH	hikša	Reciprocal (+kiki)	Marginally	
+Hoocąk	57	LAUGH	hikša	Reflexive (+kii)	Regularly	1/3 act[1/3].V'rfl/rcp
+Hoocąk	57	LAUGH	hikša	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	57	LAUGH	hikša	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	57	LAUGH	hikša	Resultative & causative	Never	
+Hoocąk	57	LAUGH	hikša	Resultative alternation	Never	
+Hoocąk	57	LAUGH	hikša	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	57	LAUGH	hikša	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	57	LAUGH	hikša	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	58	SCREAM	iijanįk	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	58	SCREAM	iijanįk	Detransitive / slot filler (wa-)	Never	
+Hoocąk	58	SCREAM	iijanįk	Facilitative alternation	Never	
+Hoocąk	58	SCREAM	iijanįk	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	58	SCREAM	iijanįk	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	58	SCREAM	iijanįk	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	58	SCREAM	iijanįk	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	58	SCREAM	iijanįk	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	58	SCREAM	iijanįk	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	58	SCREAM	iijanįk	Instrumental applicative (+hi)	Never	
+Hoocąk	58	SCREAM	iijanįk	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	58	SCREAM	iijanįk	Permissive causative (gigi)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Possessive reflexive (+kara)	Never	
+Hoocąk	58	SCREAM	iijanįk	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Reciprocal (+kiki)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Reflexive (+kii)	Never	
+Hoocąk	58	SCREAM	iijanįk	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	58	SCREAM	iijanįk	Reflexive causative (kįį)	Marginally	
+Hoocąk	58	SCREAM	iijanįk	Resultative & causative	Never	
+Hoocąk	58	SCREAM	iijanįk	Resultative alternation	Never	
+Hoocąk	58	SCREAM	iijanįk	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	58	SCREAM	iijanįk	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	58	SCREAM	iijanįk	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	59	FEEL PAIN	teek	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	59	FEEL PAIN	teek	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	59	FEEL PAIN	teek	Detransitive / slot filler (wa-)	Never	
+Hoocąk	59	FEEL PAIN	teek	Facilitative alternation	Never	
+Hoocąk	59	FEEL PAIN	teek	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	59	FEEL PAIN	teek	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	59	FEEL PAIN	teek	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	59	FEEL PAIN	teek	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	59	FEEL PAIN	teek	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	59	FEEL PAIN	teek	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	59	FEEL PAIN	teek	Instrumental applicative (+hi)	Never	
+Hoocąk	59	FEEL PAIN	teek	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	59	FEEL PAIN	teek	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	59	FEEL PAIN	teek	Permissive causative (gigi)	Marginally	
+Hoocąk	59	FEEL PAIN	teek	Possessive reflexive (+kara)	Never	
+Hoocąk	59	FEEL PAIN	teek	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	59	FEEL PAIN	teek	Reciprocal (+kiki)	Never	
+Hoocąk	59	FEEL PAIN	teek	Reflexive (+kii)	Never	
+Hoocąk	59	FEEL PAIN	teek	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	59	FEEL PAIN	teek	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	59	FEEL PAIN	teek	Resultative & causative	Never	
+Hoocąk	59	FEEL PAIN	teek	Resultative alternation	Never	
+Hoocąk	59	FEEL PAIN	teek	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	59	FEEL PAIN	teek	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	59	FEEL PAIN	teek	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	60	FEEL COLD	taasak	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	60	FEEL COLD	taasak	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	60	FEEL COLD	taasak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	60	FEEL COLD	taasak	Facilitative alternation	Never	
+Hoocąk	60	FEEL COLD	taasak	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	60	FEEL COLD	taasak	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	60	FEEL COLD	taasak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	60	FEEL COLD	taasak	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	60	FEEL COLD	taasak	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	60	FEEL COLD	taasak	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	60	FEEL COLD	taasak	Instrumental applicative (+hi)	Never	
+Hoocąk	60	FEEL COLD	taasak	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	60	FEEL COLD	taasak	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	60	FEEL COLD	taasak	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	60	FEEL COLD	taasak	Possessive reflexive (+kara)	Never	
+Hoocąk	60	FEEL COLD	taasak	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	60	FEEL COLD	taasak	Reciprocal (+kiki)	Never	
+Hoocąk	60	FEEL COLD	taasak	Reflexive (+kii)	Never	
+Hoocąk	60	FEEL COLD	taasak	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	60	FEEL COLD	taasak	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	60	FEEL COLD	taasak	Resultative & causative	Never	
+Hoocąk	60	FEEL COLD	taasak	Resultative alternation	Never	
+Hoocąk	60	FEEL COLD	taasak	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	60	FEEL COLD	taasak	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	60	FEEL COLD	taasak	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	61	DIE	t'ee	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	61	DIE	t'ee	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	61	DIE	t'ee	Detransitive / slot filler (wa-)	Never	
+Hoocąk	61	DIE	t'ee	Facilitative alternation	Never	
+Hoocąk	61	DIE	t'ee	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	61	DIE	t'ee	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	61	DIE	t'ee	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	61	DIE	t'ee	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	61	DIE	t'ee	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	61	DIE	t'ee	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	61	DIE	t'ee	Instrumental applicative (+hi)	Regularly	1 4 und[4].und[1].V'inst
+Hoocąk	61	DIE	t'ee	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	61	DIE	t'ee	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	61	DIE	t'ee	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	61	DIE	t'ee	Possessive reflexive (+kara)	Never	
+Hoocąk	61	DIE	t'ee	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	61	DIE	t'ee	Reciprocal (+kiki)	Never	
+Hoocąk	61	DIE	t'ee	Reflexive (+kii)	Never	
+Hoocąk	61	DIE	t'ee	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	61	DIE	t'ee	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	61	DIE	t'ee	Resultative & causative	Never	
+Hoocąk	61	DIE	t'ee	Resultative alternation	Never	
+Hoocąk	61	DIE	t'ee	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	61	DIE	t'ee	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	61	DIE	t'ee	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	62	PLAY	šgaac	Benefactive/possession of U (+gi)	Never	
+Hoocąk	62	PLAY	šgaac	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	62	PLAY	šgaac	Detransitive / slot filler (wa-)	Never	
+Hoocąk	62	PLAY	šgaac	Facilitative alternation	Never	
+Hoocąk	62	PLAY	šgaac	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	62	PLAY	šgaac	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	62	PLAY	šgaac	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	62	PLAY	šgaac	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	62	PLAY	šgaac	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	62	PLAY	šgaac	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	62	PLAY	šgaac	Instrumental applicative (+hi)	Regularly	1 4 und[4].act[1].V'inst
+Hoocąk	62	PLAY	šgaac	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	62	PLAY	šgaac	Locative applicative II (superessive) (+ha)	Regularly	1 LOC5 und[5].act[1].V'loc
+Hoocąk	62	PLAY	šgaac	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	62	PLAY	šgaac	Possessive reflexive (+kara)	Marginally	
+Hoocąk	62	PLAY	šgaac	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	62	PLAY	šgaac	Reciprocal (+kiki)	Regularly	1/3 act[1/3].V'rfl/rcp
+Hoocąk	62	PLAY	šgaac	Reflexive (+kii)	Never	
+Hoocąk	62	PLAY	šgaac	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	62	PLAY	šgaac	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	62	PLAY	šgaac	Resultative & causative	Never	
+Hoocąk	62	PLAY	šgaac	Resultative alternation	Never	
+Hoocąk	62	PLAY	šgaac	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	62	PLAY	šgaac	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	62	PLAY	šgaac	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	63	BE SAD	horuš'ak	Benefactive/possession of U (+gi)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	63	BE SAD	horuš'ak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Facilitative alternation	Never	
+Hoocąk	63	BE SAD	horuš'ak	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Instrumental applicative (+hi)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Permissive causative (gigi)	Marginally	
+Hoocąk	63	BE SAD	horuš'ak	Possessive reflexive (+kara)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	63	BE SAD	horuš'ak	Reciprocal (+kiki)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Reflexive (+kii)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	63	BE SAD	horuš'ak	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	63	BE SAD	horuš'ak	Resultative & causative	Never	
+Hoocąk	63	BE SAD	horuš'ak	Resultative alternation	Never	
+Hoocąk	63	BE SAD	horuš'ak	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	63	BE SAD	horuš'ak	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	64	BE HUNGRY	tookewehi	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	64	BE HUNGRY	tookewehi	Detransitive / slot filler (wa-)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Facilitative alternation	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Instrumental applicative (+hi)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Permissive causative (gigi)	Marginally	
+Hoocąk	64	BE HUNGRY	tookewehi	Possessive reflexive (+kara)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	64	BE HUNGRY	tookewehi	Reciprocal (+kiki)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Reflexive (+kii)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	64	BE HUNGRY	tookewehi	Resultative & causative	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Resultative alternation	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	64	BE HUNGRY	tookewehi	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	65	ROLL	howaną(ną)	Detransitive / slot filler (wa-)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Facilitative alternation	Never	
+Hoocąk	65	ROLL	howaną(ną)	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Instrumental applicative (+hi)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Locative applicative II (superessive) (+ha)	Regularly	1 LOC5 und[5].act[1].V'loc
+Hoocąk	65	ROLL	howaną(ną)	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	65	ROLL	howaną(ną)	Possessive reflexive (+kara)	Regularly	
+Hoocąk	65	ROLL	howaną(ną)	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	65	ROLL	howaną(ną)	Reciprocal (+kiki)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Reflexive (+kii)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	65	ROLL	howaną(ną)	Resultative & causative	Never	
+Hoocąk	65	ROLL	howaną(ną)	Resultative alternation	Never	
+Hoocąk	65	ROLL	howaną(ną)	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	65	ROLL	howaną(ną)	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	65	ROLL	howaną(ną)	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	66	SINK	hasaware	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	66	SINK	hasaware	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	66	SINK	hasaware	Detransitive / slot filler (wa-)	Never	
+Hoocąk	66	SINK	hasaware	Facilitative alternation	Never	
+Hoocąk	66	SINK	hasaware	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	66	SINK	hasaware	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	66	SINK	hasaware	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	66	SINK	hasaware	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	66	SINK	hasaware	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	66	SINK	hasaware	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	66	SINK	hasaware	Instrumental applicative (+hi)	Never	
+Hoocąk	66	SINK	hasaware	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	66	SINK	hasaware	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	66	SINK	hasaware	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	66	SINK	hasaware	Possessive reflexive (+kara)	Never	
+Hoocąk	66	SINK	hasaware	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	66	SINK	hasaware	Reciprocal (+kiki)	Never	
+Hoocąk	66	SINK	hasaware	Reflexive (+kii)	Never	
+Hoocąk	66	SINK	hasaware	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	66	SINK	hasaware	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	66	SINK	hasaware	Resultative & causative	Never	
+Hoocąk	66	SINK	hasaware	Resultative alternation	Never	
+Hoocąk	66	SINK	hasaware	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	66	SINK	hasaware	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	66	SINK	hasaware	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	67	BURN	taa'e	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	67	BURN	taa'e	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	67	BURN	taa'e	Detransitive / slot filler (wa-)	Never	
+Hoocąk	67	BURN	taa'e	Facilitative alternation	Never	
+Hoocąk	67	BURN	taa'e	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	67	BURN	taa'e	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	67	BURN	taa'e	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	67	BURN	taa'e	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	67	BURN	taa'e	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	67	BURN	taa'e	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	67	BURN	taa'e	Instrumental applicative (+hi)	Marginally	
+Hoocąk	67	BURN	taa'e	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	67	BURN	taa'e	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	67	BURN	taa'e	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	67	BURN	taa'e	Possessive reflexive (+kara)	Never	
+Hoocąk	67	BURN	taa'e	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	67	BURN	taa'e	Reciprocal (+kiki)	Never	
+Hoocąk	67	BURN	taa'e	Reflexive (+kii)	Never	
+Hoocąk	67	BURN	taa'e	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	67	BURN	taa'e	Reflexive causative (kįį)	Marginally	
+Hoocąk	67	BURN	taa'e	Resultative & causative	Never	
+Hoocąk	67	BURN	taa'e	Resultative alternation	Never	
+Hoocąk	67	BURN	taa'e	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	67	BURN	taa'e	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	67	BURN	taa'e	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	68	BE DRY	wuus	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	68	BE DRY	wuus	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	68	BE DRY	wuus	Detransitive / slot filler (wa-)	Never	
+Hoocąk	68	BE DRY	wuus	Facilitative alternation	Never	
+Hoocąk	68	BE DRY	wuus	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	68	BE DRY	wuus	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	68	BE DRY	wuus	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	68	BE DRY	wuus	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	68	BE DRY	wuus	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	68	BE DRY	wuus	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	68	BE DRY	wuus	Instrumental applicative (+hi)	Marginally	
+Hoocąk	68	BE DRY	wuus	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	68	BE DRY	wuus	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	68	BE DRY	wuus	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	68	BE DRY	wuus	Possessive reflexive (+kara)	Never	
+Hoocąk	68	BE DRY	wuus	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	68	BE DRY	wuus	Reciprocal (+kiki)	Never	
+Hoocąk	68	BE DRY	wuus	Reflexive (+kii)	Never	
+Hoocąk	68	BE DRY	wuus	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	68	BE DRY	wuus	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	68	BE DRY	wuus	Resultative & causative	Marginally	
+Hoocąk	68	BE DRY	wuus	Resultative alternation	Marginally	
+Hoocąk	68	BE DRY	wuus	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	68	BE DRY	wuus	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	68	BE DRY	wuus	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	69	RAIN	nįįžu	Benefactive/possession of U (+gi)	Never	
+Hoocąk	69	RAIN	nįįžu	Coercive/default causative (hii)	Regularly	1 act[1].V'caus
+Hoocąk	69	RAIN	nįįžu	Detransitive / slot filler (wa-)	Never	
+Hoocąk	69	RAIN	nįįžu	Facilitative alternation	Never	
+Hoocąk	69	RAIN	nįįžu	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	69	RAIN	nįįžu	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	69	RAIN	nįįžu	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	69	RAIN	nįįžu	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	69	RAIN	nįįžu	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	69	RAIN	nįįžu	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	69	RAIN	nįįžu	Instrumental applicative (+hi)	Never	
+Hoocąk	69	RAIN	nįįžu	Locative applicative I (inessive) (+ho)	Regularly	2 und[2].V'loc
+Hoocąk	69	RAIN	nįįžu	Locative applicative II (superessive) (+ha)	Regularly	2 und[2].V'loc
+Hoocąk	69	RAIN	nįįžu	Permissive causative (gigi)	Marginally	
+Hoocąk	69	RAIN	nįįžu	Possessive reflexive (+kara)	Never	
+Hoocąk	69	RAIN	nįįžu	Possessive reflexive causative (karagi)	Never	
+Hoocąk	69	RAIN	nįįžu	Reciprocal (+kiki)	Never	
+Hoocąk	69	RAIN	nįįžu	Reflexive (+kii)	Never	
+Hoocąk	69	RAIN	nįįžu	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	69	RAIN	nįįžu	Reflexive causative (kįį)	Never	
+Hoocąk	69	RAIN	nįįžu	Resultative & causative	Never	
+Hoocąk	69	RAIN	nįįžu	Resultative alternation	Never	
+Hoocąk	69	RAIN	nįįžu	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	69	RAIN	nįįžu	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	69	RAIN	nįįžu	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Benefactive/possession of U (+gi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Coercive/default causative (hii)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Detransitive / slot filler (wa-)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Facilitative alternation	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Instrumental applicative (+hi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Permissive causative (gigi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Possessive reflexive (+kara)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Possessive reflexive causative (karagi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Reciprocal (+kiki)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Reflexive (+kii)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Reflexive causative (kįį)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Resultative & causative	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Resultative alternation	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	70	BE A HUNTER	no verbal counterpart	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	71	GRIND	gicop	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	71	GRIND	gicop	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	gicop	Detransitive / slot filler (wa-)	Never	
+Hoocąk	71	GRIND	gicop	Facilitative alternation	Marginally	
+Hoocąk	71	GRIND	gicop	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	71	GRIND	gicop	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	71	GRIND	gicop	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	71	GRIND	gicop	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	71	GRIND	gicop	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	71	GRIND	gicop	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	71	GRIND	gicop	Instrumental applicative (+hi)	Never	
+Hoocąk	71	GRIND	gicop	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	71	GRIND	gicop	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	71	GRIND	gicop	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	gicop	Possessive reflexive (+kara)	Regularly	
+Hoocąk	71	GRIND	gicop	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	gicop	Reciprocal (+kiki)	Marginally	
+Hoocąk	71	GRIND	gicop	Reflexive (+kii)	Marginally	
+Hoocąk	71	GRIND	gicop	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	71	GRIND	gicop	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	71	GRIND	gicop	Resultative & causative	Never	
+Hoocąk	71	GRIND	gicop	Resultative alternation	Never	
+Hoocąk	71	GRIND	gicop	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	71	GRIND	gicop	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	71	GRIND	gicop	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	71	GRIND	mąąxjuk	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	71	GRIND	mąąxjuk	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	mąąxjuk	Detransitive / slot filler (wa-)	Never	
+Hoocąk	71	GRIND	mąąxjuk	Facilitative alternation	Regularly	2 und[2].V'RDP
+Hoocąk	71	GRIND	mąąxjuk	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	71	GRIND	mąąxjuk	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	71	GRIND	mąąxjuk	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	mąąxjuk	Possessive reflexive (+kara)	Regularly	
+Hoocąk	71	GRIND	mąąxjuk	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	71	GRIND	mąąxjuk	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	71	GRIND	mąąxjuk	Reflexive (+kii)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Reflexive causative (kįį)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Resultative & causative	Regularly	
+Hoocąk	71	GRIND	mąąxjuk	Resultative alternation	Regularly	2 und[2].V're
+Hoocąk	71	GRIND	mąąxjuk	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	71	GRIND	mąąxjuk	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	72	WIPE	waža	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	72	WIPE	waža	Coercive/default causative (hii)	Marginally	
+Hoocąk	72	WIPE	waža	Detransitive / slot filler (wa-)	Never	
+Hoocąk	72	WIPE	waža	Facilitative alternation	Never	
+Hoocąk	72	WIPE	waža	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	72	WIPE	waža	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	72	WIPE	waža	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	72	WIPE	waža	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	72	WIPE	waža	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	72	WIPE	waža	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	72	WIPE	waža	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	72	WIPE	waža	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	72	WIPE	waža	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	72	WIPE	waža	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	72	WIPE	waža	Possessive reflexive (+kara)	Regularly	
+Hoocąk	72	WIPE	waža	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	72	WIPE	waža	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	72	WIPE	waža	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	72	WIPE	waža	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	72	WIPE	waža	Reflexive causative (kįį)	Marginally	
+Hoocąk	72	WIPE	waža	Resultative & causative	Never	
+Hoocąk	72	WIPE	waža	Resultative alternation	Never	
+Hoocąk	72	WIPE	waža	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	72	WIPE	waža	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	72	WIPE	waža	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	73	DIG	k'ee	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	73	DIG	k'ee	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	73	DIG	k'ee	Detransitive / slot filler (wa-)	Never	
+Hoocąk	73	DIG	k'ee	Facilitative alternation	Never	
+Hoocąk	73	DIG	k'ee	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	73	DIG	k'ee	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	73	DIG	k'ee	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	73	DIG	k'ee	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	73	DIG	k'ee	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	73	DIG	k'ee	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	73	DIG	k'ee	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	73	DIG	k'ee	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	73	DIG	k'ee	Locative applicative II (superessive) (+ha)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	73	DIG	k'ee	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	73	DIG	k'ee	Possessive reflexive (+kara)	Regularly	
+Hoocąk	73	DIG	k'ee	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	73	DIG	k'ee	Reciprocal (+kiki)	Marginally	
+Hoocąk	73	DIG	k'ee	Reflexive (+kii)	Marginally	
+Hoocąk	73	DIG	k'ee	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	73	DIG	k'ee	Reflexive causative (kįį)	Marginally	
+Hoocąk	73	DIG	k'ee	Resultative & causative	Never	
+Hoocąk	73	DIG	k'ee	Resultative alternation	Never	
+Hoocąk	73	DIG	k'ee	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	73	DIG	k'ee	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	73	DIG	k'ee	Superessive & reflexive/reciprocal (+ ha + kii)	Marginally	
+Hoocąk	74	PUSH	hawają	Benefactive/possession of U (+gi)	Regularly	1 2 4 (LOC3) und[4].und[2].act[1].V'ben
+Hoocąk	74	PUSH	hawają	Coercive/default causative (hii)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	74	PUSH	hawają	Detransitive / slot filler (wa-)	Never	
+Hoocąk	74	PUSH	hawają	Facilitative alternation	Never	
+Hoocąk	74	PUSH	hawają	Inessive & benefactive (+ ho + gi)	Regularly	
+Hoocąk	74	PUSH	hawają	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	74	PUSH	hawają	Inessive & reflexive (+ ho + kii)	Regularly	
+Hoocąk	74	PUSH	hawają	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	74	PUSH	hawają	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	74	PUSH	hawają	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	74	PUSH	hawają	Instrumental applicative (+hi)	Regularly	1 2 5 (LOC3) und[5].und[2].act[1].V'inst
+Hoocąk	74	PUSH	hawają	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	74	PUSH	hawają	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	74	PUSH	hawają	Permissive causative (gigi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	74	PUSH	hawają	Possessive reflexive (+kara)	Regularly	
+Hoocąk	74	PUSH	hawają	Possessive reflexive causative (karagi)	Regularly	6 1 2 (LOC3) und[2].und[1].act[6].V'caus
+Hoocąk	74	PUSH	hawają	Reciprocal (+kiki)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	74	PUSH	hawają	Reflexive (+kii)	Regularly	1/2 (LOC3) act[1/2].V'rfl/rcp
+Hoocąk	74	PUSH	hawają	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	74	PUSH	hawają	Reflexive causative (kįį)	Regularly	6/1 2 (LOC3) und[2].act[6/1].V'caus
+Hoocąk	74	PUSH	hawają	Resultative & causative	Never	
+Hoocąk	74	PUSH	hawają	Resultative alternation	Never	
+Hoocąk	74	PUSH	hawają	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	74	PUSH	hawają	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	74	PUSH	hawają	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	75	BRING	hanį jii	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	75	BRING	hanį jii	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	75	BRING	hanį jii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	75	BRING	hanį jii	Facilitative alternation	Never	
+Hoocąk	75	BRING	hanį jii	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	75	BRING	hanį jii	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	75	BRING	hanį jii	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	75	BRING	hanį jii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	75	BRING	hanį jii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	75	BRING	hanį jii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	75	BRING	hanį jii	Instrumental applicative (+hi)	Never	
+Hoocąk	75	BRING	hanį jii	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	75	BRING	hanį jii	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	75	BRING	hanį jii	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	75	BRING	hanį jii	Possessive reflexive (+kara)	Regularly	
+Hoocąk	75	BRING	hanį jii	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	75	BRING	hanį jii	Reciprocal (+kiki)	Marginally	
+Hoocąk	75	BRING	hanį jii	Reflexive (+kii)	Marginally	
+Hoocąk	75	BRING	hanį jii	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	75	BRING	hanį jii	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	75	BRING	hanį jii	Resultative & causative	Never	
+Hoocąk	75	BRING	hanį jii	Resultative alternation	Never	
+Hoocąk	75	BRING	hanį jii	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	75	BRING	hanį jii	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	75	BRING	hanį jii	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	76	STEAL	mąąnų	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	76	STEAL	mąąnų	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	76	STEAL	mąąnų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	76	STEAL	mąąnų	Facilitative alternation	Never	
+Hoocąk	76	STEAL	mąąnų	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	76	STEAL	mąąnų	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	76	STEAL	mąąnų	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	76	STEAL	mąąnų	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	76	STEAL	mąąnų	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	76	STEAL	mąąnų	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	76	STEAL	mąąnų	Instrumental applicative (+hi)	Never	
+Hoocąk	76	STEAL	mąąnų	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	76	STEAL	mąąnų	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	76	STEAL	mąąnų	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	76	STEAL	mąąnų	Possessive reflexive (+kara)	Marginally	
+Hoocąk	76	STEAL	mąąnų	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	76	STEAL	mąąnų	Reciprocal (+kiki)	Marginally	
+Hoocąk	76	STEAL	mąąnų	Reflexive (+kii)	Marginally	
+Hoocąk	76	STEAL	mąąnų	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	76	STEAL	mąąnų	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	76	STEAL	mąąnų	Resultative & causative	Never	
+Hoocąk	76	STEAL	mąąnų	Resultative alternation	Never	
+Hoocąk	76	STEAL	mąąnų	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	76	STEAL	mąąnų	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	76	STEAL	mąąnų	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	77	TEACH	gigųs	Benefactive/possession of U (+gi)	Never	
+Hoocąk	77	TEACH	gigųs	Coercive/default causative (hii)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	77	TEACH	gigųs	Detransitive / slot filler (wa-)	Never	
+Hoocąk	77	TEACH	gigųs	Facilitative alternation	Never	
+Hoocąk	77	TEACH	gigųs	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	77	TEACH	gigųs	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	77	TEACH	gigųs	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	77	TEACH	gigųs	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	77	TEACH	gigųs	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	77	TEACH	gigųs	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	77	TEACH	gigųs	Instrumental applicative (+hi)	Marginally	
+Hoocąk	77	TEACH	gigųs	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	77	TEACH	gigųs	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	77	TEACH	gigųs	Permissive causative (gigi)	Regularly	6 1 2 (3) und[2].und[1].act[6].V'caus
+Hoocąk	77	TEACH	gigųs	Possessive reflexive (+kara)	Regularly	
+Hoocąk	77	TEACH	gigųs	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	77	TEACH	gigųs	Reciprocal (+kiki)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	77	TEACH	gigųs	Reflexive (+kii)	Regularly	1/2 (3) act[1/2].V'rfl/rcp
+Hoocąk	77	TEACH	gigųs	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	77	TEACH	gigųs	Reflexive causative (kįį)	Never	
+Hoocąk	77	TEACH	gigųs	Resultative & causative	Never	
+Hoocąk	77	TEACH	gigųs	Resultative alternation	Never	
+Hoocąk	77	TEACH	gigųs	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	77	TEACH	gigųs	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	77	TEACH	gigųs	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	78	HEAR	nąąxgų	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	78	HEAR	nąąxgų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	78	HEAR	nąąxgų	Facilitative alternation	Never	
+Hoocąk	78	HEAR	nąąxgų	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Inessive & reflexive (+ ho + kii)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Instrumental & reflexive (+ hi + kii)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	78	HEAR	nąąxgų	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	78	HEAR	nąąxgų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Reciprocal (+kiki)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	78	HEAR	nąąxgų	Reflexive (+kii)	Regularly	1/2 act[1/2].V'rfl/rcp
+Hoocąk	78	HEAR	nąąxgų	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	78	HEAR	nąąxgų	Reflexive causative (kįį)	Marginally	
+Hoocąk	78	HEAR	nąąxgų	Resultative & causative	Never	
+Hoocąk	78	HEAR	nąąxgų	Resultative alternation	Never	
+Hoocąk	78	HEAR	nąąxgų	Superessive & benefactive (+ ha + gi)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Superessive & possessive reflexive (+ ha + kara)	Regularly	
+Hoocąk	78	HEAR	nąąxgų	Superessive & reflexive/reciprocal (+ ha + kii)	Regularly	
+Hoocąk	79	COOK	tuuc hii	Benefactive/possession of U (+gi)	Never	
+Hoocąk	79	COOK	tuuc hii	Coercive/default causative (hii)	Marginally	
+Hoocąk	79	COOK	tuuc hii	Detransitive / slot filler (wa-)	Never	
+Hoocąk	79	COOK	tuuc hii	Facilitative alternation	Never	
+Hoocąk	79	COOK	tuuc hii	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	79	COOK	tuuc hii	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	79	COOK	tuuc hii	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	79	COOK	tuuc hii	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	79	COOK	tuuc hii	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	79	COOK	tuuc hii	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	79	COOK	tuuc hii	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	79	COOK	tuuc hii	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	79	COOK	tuuc hii	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	79	COOK	tuuc hii	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	79	COOK	tuuc hii	Possessive reflexive (+kara)	Never	
+Hoocąk	79	COOK	tuuc hii	Possessive reflexive causative (karagi)	Marginally	
+Hoocąk	79	COOK	tuuc hii	Reciprocal (+kiki)	Never	
+Hoocąk	79	COOK	tuuc hii	Reflexive (+kii)	Never	
+Hoocąk	79	COOK	tuuc hii	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	79	COOK	tuuc hii	Reflexive causative (kįį)	Marginally	
+Hoocąk	79	COOK	tuuc hii	Resultative & causative	Never	
+Hoocąk	79	COOK	tuuc hii	Resultative alternation	Never	
+Hoocąk	79	COOK	tuuc hii	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	79	COOK	tuuc hii	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	79	COOK	tuuc hii	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	80	BOIL	xere	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	80	BOIL	xere	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	80	BOIL	xere	Detransitive / slot filler (wa-)	Never	
+Hoocąk	80	BOIL	xere	Facilitative alternation	Never	
+Hoocąk	80	BOIL	xere	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	80	BOIL	xere	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	80	BOIL	xere	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	80	BOIL	xere	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	80	BOIL	xere	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	80	BOIL	xere	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	80	BOIL	xere	Instrumental applicative (+hi)	Marginally	
+Hoocąk	80	BOIL	xere	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	80	BOIL	xere	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	80	BOIL	xere	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	80	BOIL	xere	Possessive reflexive (+kara)	Never	
+Hoocąk	80	BOIL	xere	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	80	BOIL	xere	Reciprocal (+kiki)	Never	
+Hoocąk	80	BOIL	xere	Reflexive (+kii)	Never	
+Hoocąk	80	BOIL	xere	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	80	BOIL	xere	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	80	BOIL	xere	Resultative & causative	Never	
+Hoocąk	80	BOIL	xere	Resultative alternation	Never	
+Hoocąk	80	BOIL	xere	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	80	BOIL	xere	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	80	BOIL	xere	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	81	APPEAR	haǧep	Benefactive/possession of U (+gi)	Regularly	1 3 und[3].act[1].V'ben
+Hoocąk	81	APPEAR	haǧep	Coercive/default causative (hii)	Marginally	
+Hoocąk	81	APPEAR	haǧep	Detransitive / slot filler (wa-)	Never	
+Hoocąk	81	APPEAR	haǧep	Facilitative alternation	Never	
+Hoocąk	81	APPEAR	haǧep	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	81	APPEAR	haǧep	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	81	APPEAR	haǧep	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	81	APPEAR	haǧep	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	81	APPEAR	haǧep	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	81	APPEAR	haǧep	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	81	APPEAR	haǧep	Instrumental applicative (+hi)	Never	
+Hoocąk	81	APPEAR	haǧep	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	81	APPEAR	haǧep	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	81	APPEAR	haǧep	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	81	APPEAR	haǧep	Possessive reflexive (+kara)	Never	
+Hoocąk	81	APPEAR	haǧep	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	81	APPEAR	haǧep	Reciprocal (+kiki)	Never	
+Hoocąk	81	APPEAR	haǧep	Reflexive (+kii)	Never	
+Hoocąk	81	APPEAR	haǧep	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	81	APPEAR	haǧep	Reflexive causative (kįį)	Marginally	
+Hoocąk	81	APPEAR	haǧep	Resultative & causative	Never	
+Hoocąk	81	APPEAR	haǧep	Resultative alternation	Never	
+Hoocąk	81	APPEAR	haǧep	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	81	APPEAR	haǧep	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	81	APPEAR	haǧep	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	82	BE ILL	howaža	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	82	BE ILL	howaža	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	82	BE ILL	howaža	Detransitive / slot filler (wa-)	Never	
+Hoocąk	82	BE ILL	howaža	Facilitative alternation	Never	
+Hoocąk	82	BE ILL	howaža	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	82	BE ILL	howaža	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	82	BE ILL	howaža	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	82	BE ILL	howaža	Instrumental & benefactive (+ hi + gi)	Marginally	
+Hoocąk	82	BE ILL	howaža	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	82	BE ILL	howaža	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	82	BE ILL	howaža	Instrumental applicative (+hi)	Regularly	1 4 und[4].act[1].V'inst
+Hoocąk	82	BE ILL	howaža	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	82	BE ILL	howaža	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	82	BE ILL	howaža	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	82	BE ILL	howaža	Possessive reflexive (+kara)	Never	
+Hoocąk	82	BE ILL	howaža	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	82	BE ILL	howaža	Reciprocal (+kiki)	Never	
+Hoocąk	82	BE ILL	howaža	Reflexive (+kii)	Never	
+Hoocąk	82	BE ILL	howaža	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	82	BE ILL	howaža	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	82	BE ILL	howaža	Resultative & causative	Never	
+Hoocąk	82	BE ILL	howaža	Resultative alternation	Never	
+Hoocąk	82	BE ILL	howaža	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	82	BE ILL	howaža	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	82	BE ILL	howaža	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	83	CRY	ǧaak	Benefactive/possession of U (+gi)	Regularly	1 3 und[3].act[1].V'ben
+Hoocąk	83	CRY	ǧaak	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	83	CRY	ǧaak	Detransitive / slot filler (wa-)	Never	
+Hoocąk	83	CRY	ǧaak	Facilitative alternation	Never	
+Hoocąk	83	CRY	ǧaak	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	83	CRY	ǧaak	Inessive & possessive reflexive (+ ho + kara)	Marginally	
+Hoocąk	83	CRY	ǧaak	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	83	CRY	ǧaak	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	83	CRY	ǧaak	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	83	CRY	ǧaak	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	83	CRY	ǧaak	Instrumental applicative (+hi)	Never	
+Hoocąk	83	CRY	ǧaak	Locative applicative I (inessive) (+ho)	Marginally	
+Hoocąk	83	CRY	ǧaak	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	83	CRY	ǧaak	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	83	CRY	ǧaak	Possessive reflexive (+kara)	Never	
+Hoocąk	83	CRY	ǧaak	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	83	CRY	ǧaak	Reciprocal (+kiki)	Never	
+Hoocąk	83	CRY	ǧaak	Reflexive (+kii)	Never	
+Hoocąk	83	CRY	ǧaak	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	83	CRY	ǧaak	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	83	CRY	ǧaak	Resultative & causative	Never	
+Hoocąk	83	CRY	ǧaak	Resultative alternation	Never	
+Hoocąk	83	CRY	ǧaak	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	83	CRY	ǧaak	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	83	CRY	ǧaak	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	84	FALL	bookewe	Benefactive/possession of U (+gi)	Never	
+Hoocąk	84	FALL	bookewe	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	84	FALL	bookewe	Detransitive / slot filler (wa-)	Never	
+Hoocąk	84	FALL	bookewe	Facilitative alternation	Never	
+Hoocąk	84	FALL	bookewe	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	84	FALL	bookewe	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	84	FALL	bookewe	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	84	FALL	bookewe	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	84	FALL	bookewe	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	84	FALL	bookewe	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	84	FALL	bookewe	Instrumental applicative (+hi)	Regularly	1 4 und[4].act[1].V'inst
+Hoocąk	84	FALL	bookewe	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	84	FALL	bookewe	Locative applicative II (superessive) (+ha)	Marginally	
+Hoocąk	84	FALL	bookewe	Permissive causative (gigi)	Marginally	
+Hoocąk	84	FALL	bookewe	Possessive reflexive (+kara)	Never	
+Hoocąk	84	FALL	bookewe	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	84	FALL	bookewe	Reciprocal (+kiki)	Never	
+Hoocąk	84	FALL	bookewe	Reflexive (+kii)	Never	
+Hoocąk	84	FALL	bookewe	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	84	FALL	bookewe	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	84	FALL	bookewe	Resultative & causative	Never	
+Hoocąk	84	FALL	bookewe	Resultative alternation	Never	
+Hoocąk	84	FALL	bookewe	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	84	FALL	bookewe	Superessive & possessive reflexive (+ ha + kara)	Marginally	
+Hoocąk	84	FALL	bookewe	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	84	FALL	šiipre	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	84	FALL	šiipre	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	84	FALL	šiipre	Detransitive / slot filler (wa-)	Never	
+Hoocąk	84	FALL	šiipre	Facilitative alternation	Marginally	
+Hoocąk	84	FALL	šiipre	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	84	FALL	šiipre	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	84	FALL	šiipre	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	84	FALL	šiipre	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	84	FALL	šiipre	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	84	FALL	šiipre	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	84	FALL	šiipre	Instrumental applicative (+hi)	Marginally	
+Hoocąk	84	FALL	šiipre	Locative applicative I (inessive) (+ho)	Regularly	1 LOC3 und[3].und[1].V'loc
+Hoocąk	84	FALL	šiipre	Locative applicative II (superessive) (+ha)	Regularly	1 LOC3 und[3].und[1].V'loc
+Hoocąk	84	FALL	šiipre	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	84	FALL	šiipre	Possessive reflexive (+kara)	Never	
+Hoocąk	84	FALL	šiipre	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	84	FALL	šiipre	Reciprocal (+kiki)	Never	
+Hoocąk	84	FALL	šiipre	Reflexive (+kii)	Never	
+Hoocąk	84	FALL	šiipre	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	84	FALL	šiipre	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	84	FALL	šiipre	Resultative & causative	Never	
+Hoocąk	84	FALL	šiipre	Resultative alternation	Never	
+Hoocąk	84	FALL	šiipre	Superessive & benefactive (+ ha + gi)	Marginally	
+Hoocąk	84	FALL	šiipre	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	84	FALL	šiipre	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	85	MAKE	ųų	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	85	MAKE	ųų	Coercive/default causative (hii)	Marginally	
+Hoocąk	85	MAKE	ųų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	85	MAKE	ųų	Facilitative alternation	Never	
+Hoocąk	85	MAKE	ųų	Inessive & benefactive (+ ho + gi)	Marginally	
+Hoocąk	85	MAKE	ųų	Inessive & possessive reflexive (+ ho + kara)	Regularly	
+Hoocąk	85	MAKE	ųų	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	85	MAKE	ųų	Instrumental & benefactive (+ hi + gi)	Regularly	
+Hoocąk	85	MAKE	ųų	Instrumental & possessive reflexive (+ hi + kara)	Regularly	
+Hoocąk	85	MAKE	ųų	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	85	MAKE	ųų	Instrumental applicative (+hi)	Regularly	1 2 5 und[5].und[2].act[1].V'inst
+Hoocąk	85	MAKE	ųų	Locative applicative I (inessive) (+ho)	Regularly	1 2 (LOC)3 und[3].und[2].act[1].V'loc
+Hoocąk	85	MAKE	ųų	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	85	MAKE	ųų	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	85	MAKE	ųų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	85	MAKE	ųų	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	85	MAKE	ųų	Reciprocal (+kiki)	Marginally	
+Hoocąk	85	MAKE	ųų	Reflexive (+kii)	Marginally	
+Hoocąk	85	MAKE	ųų	Reflexive & possessive reflexive (+ kii + kara)	Regularly	
+Hoocąk	85	MAKE	ųų	Reflexive causative (kįį)	Marginally	
+Hoocąk	85	MAKE	ųų	Resultative & causative	Never	
+Hoocąk	85	MAKE	ųų	Resultative alternation	Never	
+Hoocąk	85	MAKE	ųų	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	85	MAKE	ųų	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	85	MAKE	ųų	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	86	GET	harucap	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	86	GET	harucap	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	86	GET	harucap	Detransitive / slot filler (wa-)	Never	
+Hoocąk	86	GET	harucap	Facilitative alternation	Never	
+Hoocąk	86	GET	harucap	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	86	GET	harucap	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	86	GET	harucap	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	86	GET	harucap	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	86	GET	harucap	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	86	GET	harucap	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	86	GET	harucap	Instrumental applicative (+hi)	Never	
+Hoocąk	86	GET	harucap	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	86	GET	harucap	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	86	GET	harucap	Permissive causative (gigi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	86	GET	harucap	Possessive reflexive (+kara)	Regularly	
+Hoocąk	86	GET	harucap	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	86	GET	harucap	Reciprocal (+kiki)	Marginally	
+Hoocąk	86	GET	harucap	Reflexive (+kii)	Marginally	
+Hoocąk	86	GET	harucap	Reflexive & possessive reflexive (+ kii + kara)	Marginally	
+Hoocąk	86	GET	harucap	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	86	GET	harucap	Resultative & causative	Never	
+Hoocąk	86	GET	harucap	Resultative alternation	Never	
+Hoocąk	86	GET	harucap	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	86	GET	harucap	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	86	GET	harucap	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	87	WANT	roogų	Benefactive/possession of U (+gi)	Regularly	1 2 4 und[4].und[2].act[1].V'ben
+Hoocąk	87	WANT	roogų	Coercive/default causative (hii)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	87	WANT	roogų	Detransitive / slot filler (wa-)	Never	
+Hoocąk	87	WANT	roogų	Facilitative alternation	Never	
+Hoocąk	87	WANT	roogų	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	87	WANT	roogų	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	87	WANT	roogų	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	87	WANT	roogų	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	87	WANT	roogų	Instrumental & possessive reflexive (+ hi + kara)	Marginally	
+Hoocąk	87	WANT	roogų	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	87	WANT	roogų	Instrumental applicative (+hi)	Never	
+Hoocąk	87	WANT	roogų	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	87	WANT	roogų	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	87	WANT	roogų	Permissive causative (gigi)	Marginally	
+Hoocąk	87	WANT	roogų	Possessive reflexive (+kara)	Regularly	
+Hoocąk	87	WANT	roogų	Possessive reflexive causative (karagi)	Regularly	6 1 2 und[2].und[1].act[6].V'caus
+Hoocąk	87	WANT	roogų	Reciprocal (+kiki)	Marginally	
+Hoocąk	87	WANT	roogų	Reflexive (+kii)	Marginally	
+Hoocąk	87	WANT	roogų	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	87	WANT	roogų	Reflexive causative (kįį)	Regularly	6/1 2 und[2].act[6/1].V'caus
+Hoocąk	87	WANT	roogų	Resultative & causative	Never	
+Hoocąk	87	WANT	roogų	Resultative alternation	Never	
+Hoocąk	87	WANT	roogų	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	87	WANT	roogų	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	87	WANT	roogų	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Benefactive/possession of U (+gi)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	148	GET DRESSED	hikikoroho	Detransitive / slot filler (wa-)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Facilitative alternation	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Instrumental & reflexive (+ hi + kii)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Instrumental applicative (+hi)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	148	GET DRESSED	hikikoroho	Possessive reflexive (+kara)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	148	GET DRESSED	hikikoroho	Reciprocal (+kiki)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Reflexive (+kii)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Reflexive causative (kįį)	Regularly	2/1 act[2/1].V'caus
+Hoocąk	148	GET DRESSED	hikikoroho	Resultative & causative	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Resultative alternation	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	148	GET DRESSED	hikikoroho	Superessive & reflexive/reciprocal (+ ha + kii)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Benefactive/possession of U (+gi)	Marginally	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Coercive/default causative (hii)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Detransitive / slot filler (wa-)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Facilitative alternation	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Inessive & benefactive (+ ho + gi)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Inessive & possessive reflexive (+ ho + kara)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Inessive & reflexive (+ ho + kii)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Instrumental & benefactive (+ hi + gi)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Instrumental & possessive reflexive (+ hi + kara)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Instrumental & reflexive (+ hi + kii)	Marginally	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Instrumental applicative (+hi)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Locative applicative I (inessive) (+ho)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Locative applicative II (superessive) (+ha)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Permissive causative (gigi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Possessive reflexive (+kara)	Regularly	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Possessive reflexive causative (karagi)	Regularly	2 1 und[1].act[2].V'caus
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Reciprocal (+kiki)	Marginally	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Reflexive (+kii)	Regularly	1/3 act[1/3].V'rfl/rcp
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Reflexive & possessive reflexive (+ kii + kara)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Reflexive causative (kįį)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Resultative & causative	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Resultative alternation	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Superessive & benefactive (+ ha + gi)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Superessive & possessive reflexive (+ ha + kara)	Never	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Superessive & reflexive/reciprocal (+ ha + kii)	Never	

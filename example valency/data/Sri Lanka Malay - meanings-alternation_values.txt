@@ -1,0 +1,270 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Sri Lanka Malay	1	EAT	maakang	General NP addition	Marginally	
+Sri Lanka Malay	1	EAT	maakang	General NP drop	Regularly	
+Sri Lanka Malay	1	EAT	maakang	Reciprocal alternation	No data	
+Sri Lanka Malay	2	HUG	pullok	General NP addition	Marginally	
+Sri Lanka Malay	2	HUG	pullok	General NP drop	Regularly	
+Sri Lanka Malay	2	HUG	pullok	Reciprocal alternation	No data	
+Sri Lanka Malay	3	LOOK AT	diyath	General NP addition	Marginally	
+Sri Lanka Malay	3	LOOK AT	diyath	General NP drop	Regularly	
+Sri Lanka Malay	3	LOOK AT	diyath	Reciprocal alternation	No data	
+Sri Lanka Malay	4	SEE	kuthumung	General NP addition	Marginally	
+Sri Lanka Malay	4	SEE	kuthumung	General NP drop	Regularly	
+Sri Lanka Malay	4	SEE	kuthumung	Reciprocal alternation	No data	
+Sri Lanka Malay	5	SMELL	vaanging liiyath	General NP addition	Marginally	
+Sri Lanka Malay	5	SMELL	vaanging liiyath	General NP drop	Regularly	
+Sri Lanka Malay	5	SMELL	vaanging liiyath	Reciprocal alternation	No data	
+Sri Lanka Malay	6	FEAR	thaakuth	General NP addition	Marginally	
+Sri Lanka Malay	6	FEAR	thaakuth	General NP drop	Regularly	
+Sri Lanka Malay	6	FEAR	thaakuth	Reciprocal alternation	No data	
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	General NP addition	Marginally	
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	General NP drop	Regularly	
+Sri Lanka Malay	7	FRIGHTEN	thakuthking	Reciprocal alternation	No data	
+Sri Lanka Malay	8	LIKE	suuka	General NP addition	Marginally	
+Sri Lanka Malay	8	LIKE	suuka	General NP drop	Regularly	
+Sri Lanka Malay	8	LIKE	suuka	Reciprocal alternation	No data	
+Sri Lanka Malay	9	KNOW	thaau	General NP addition	Marginally	
+Sri Lanka Malay	9	KNOW	thaau	General NP drop	Regularly	
+Sri Lanka Malay	9	KNOW	thaau	Reciprocal alternation	No data	
+Sri Lanka Malay	10	THINK	iingath	General NP addition	Marginally	
+Sri Lanka Malay	10	THINK	iingath	General NP drop	Never	
+Sri Lanka Malay	10	THINK	iingath	Reciprocal alternation	No data	
+Sri Lanka Malay	10	THINK	thaksir	General NP addition	Marginally	
+Sri Lanka Malay	10	THINK	thaksir	General NP drop	Never	
+Sri Lanka Malay	10	THINK	thaksir	Reciprocal alternation	No data	
+Sri Lanka Malay	11	SEARCH FOR	caari	General NP addition	Marginally	
+Sri Lanka Malay	11	SEARCH FOR	caari	General NP drop	Never	
+Sri Lanka Malay	11	SEARCH FOR	caari	Reciprocal alternation	No data	
+Sri Lanka Malay	12	WASH	cuuci	General NP addition	Marginally	
+Sri Lanka Malay	12	WASH	cuuci	General NP drop	Regularly	
+Sri Lanka Malay	12	WASH	cuuci	Reciprocal alternation	No data	
+Sri Lanka Malay	13	DRESS	pakeking	General NP addition	Marginally	
+Sri Lanka Malay	13	DRESS	pakeking	General NP drop	Regularly	
+Sri Lanka Malay	13	DRESS	pakeking	Reciprocal alternation	No data	
+Sri Lanka Malay	15	HELP	banthu	General NP addition	Marginally	
+Sri Lanka Malay	15	HELP	banthu	General NP drop	Regularly	
+Sri Lanka Malay	15	HELP	banthu	Reciprocal alternation	No data	
+Sri Lanka Malay	16	FOLLOW	pii (2)	General NP addition	Marginally	
+Sri Lanka Malay	16	FOLLOW	pii (2)	General NP drop	Regularly	
+Sri Lanka Malay	16	FOLLOW	pii (2)	Reciprocal alternation	No data	
+Sri Lanka Malay	17	MEET	caanda	General NP addition	Marginally	
+Sri Lanka Malay	17	MEET	caanda	General NP drop	Regularly	
+Sri Lanka Malay	17	MEET	caanda	Reciprocal alternation	Regularly	
+Sri Lanka Malay	18	TALK	oomong	General NP addition	Marginally	
+Sri Lanka Malay	18	TALK	oomong	General NP drop	Regularly	
+Sri Lanka Malay	18	TALK	oomong	Reciprocal alternation	No data	
+Sri Lanka Malay	19	ASK FOR	mintha	General NP addition	Marginally	
+Sri Lanka Malay	19	ASK FOR	mintha	General NP drop	Regularly	
+Sri Lanka Malay	19	ASK FOR	mintha	Reciprocal alternation	No data	
+Sri Lanka Malay	20	SHOUT AT	kaaluth	General NP addition	Marginally	
+Sri Lanka Malay	20	SHOUT AT	kaaluth	General NP drop	Regularly	
+Sri Lanka Malay	20	SHOUT AT	kaaluth	Reciprocal alternation	No data	
+Sri Lanka Malay	21	TELL	biilang	General NP addition	Marginally	
+Sri Lanka Malay	21	TELL	biilang	General NP drop	Regularly	
+Sri Lanka Malay	21	TELL	biilang	Reciprocal alternation	No data	
+Sri Lanka Malay	22	SAY	biilang	General NP addition	Marginally	
+Sri Lanka Malay	22	SAY	biilang	General NP drop	Regularly	
+Sri Lanka Malay	22	SAY	biilang	Reciprocal alternation	No data	
+Sri Lanka Malay	23	NAME	naama thaaro	General NP addition	Regularly	
+Sri Lanka Malay	23	NAME	naama thaaro	General NP drop	Regularly	
+Sri Lanka Malay	23	NAME	naama thaaro	Reciprocal alternation	No data	
+Sri Lanka Malay	24	BUILD	ikkath (1)	General NP addition	Marginally	
+Sri Lanka Malay	24	BUILD	ikkath (1)	General NP addition	Regularly	
+Sri Lanka Malay	24	BUILD	ikkath (1)	General NP drop	Regularly	
+Sri Lanka Malay	24	BUILD	ikkath (1)	Reciprocal alternation	No data	
+Sri Lanka Malay	25	BREAK	picaking	General NP addition	Marginally	
+Sri Lanka Malay	25	BREAK	picaking	General NP drop	Regularly	
+Sri Lanka Malay	25	BREAK	picaking	Reciprocal alternation	No data	
+Sri Lanka Malay	26	KILL	buunung	General NP addition	Marginally	
+Sri Lanka Malay	26	KILL	buunung	General NP drop	Regularly	
+Sri Lanka Malay	26	KILL	buunung	Reciprocal alternation	No data	
+Sri Lanka Malay	26	KILL	mathiking	General NP addition	Marginally	
+Sri Lanka Malay	26	KILL	mathiking	General NP drop	Regularly	
+Sri Lanka Malay	26	KILL	mathiking	Reciprocal alternation	No data	
+Sri Lanka Malay	27	BEAT	puukul	General NP addition	Marginally	
+Sri Lanka Malay	27	BEAT	puukul	General NP drop	Regularly	
+Sri Lanka Malay	27	BEAT	puukul	Reciprocal alternation	No data	
+Sri Lanka Malay	28	HIT	puukul	General NP addition	Marginally	
+Sri Lanka Malay	28	HIT	puukul	General NP drop	Regularly	
+Sri Lanka Malay	28	HIT	puukul	Reciprocal alternation	No data	
+Sri Lanka Malay	29	TOUCH	thìkkam	General NP addition	Marginally	
+Sri Lanka Malay	29	TOUCH	thìkkam	General NP drop	Regularly	
+Sri Lanka Malay	29	TOUCH	thìkkam	Reciprocal alternation	No data	
+Sri Lanka Malay	30	CUT	poothong	General NP addition	Marginally	
+Sri Lanka Malay	30	CUT	poothong	General NP drop	Regularly	
+Sri Lanka Malay	30	CUT	poothong	Reciprocal alternation	No data	
+Sri Lanka Malay	31	TAKE	ambel	General NP addition	Marginally	
+Sri Lanka Malay	31	TAKE	ambel	General NP drop	Never	
+Sri Lanka Malay	31	TAKE	ambel	Reciprocal alternation	No data	
+Sri Lanka Malay	32	TEAR	soovek(kang)	General NP addition	Marginally	
+Sri Lanka Malay	32	TEAR	soovek(kang)	General NP drop	Regularly	
+Sri Lanka Malay	32	TEAR	soovek(kang)	Reciprocal alternation	No data	
+Sri Lanka Malay	33	PEEL	kuupas	General NP addition	Marginally	
+Sri Lanka Malay	33	PEEL	kuupas	General NP drop	Regularly	
+Sri Lanka Malay	33	PEEL	kuupas	Reciprocal alternation	No data	
+Sri Lanka Malay	34	HIDE	sbuuniking	General NP addition	Marginally	
+Sri Lanka Malay	34	HIDE	sbuuniking	General NP drop	Regularly	
+Sri Lanka Malay	34	HIDE	sbuuniking	Reciprocal alternation	No data	
+Sri Lanka Malay	35	SHOW	cunjiking	General NP addition	Marginally	
+Sri Lanka Malay	35	SHOW	cunjiking	General NP drop	Regularly	
+Sri Lanka Malay	35	SHOW	cunjiking	Reciprocal alternation	No data	
+Sri Lanka Malay	36	GIVE	kaasi	General NP addition	Marginally	
+Sri Lanka Malay	36	GIVE	kaasi	General NP drop	Regularly	
+Sri Lanka Malay	36	GIVE	kaasi	Reciprocal alternation	No data	
+Sri Lanka Malay	37	SEND	kiiring	General NP addition	Marginally	
+Sri Lanka Malay	37	SEND	kiiring	General NP addition	Regularly	
+Sri Lanka Malay	37	SEND	kiiring	General NP drop	Regularly	
+Sri Lanka Malay	37	SEND	kiiring	Reciprocal alternation	No data	
+Sri Lanka Malay	38	CARRY	angkath baapi	General NP addition	Marginally	
+Sri Lanka Malay	38	CARRY	angkath baapi	General NP drop	Regularly	
+Sri Lanka Malay	38	CARRY	angkath baapi	Reciprocal alternation	No data	
+Sri Lanka Malay	39	THROW	buwang	General NP addition	Regularly	
+Sri Lanka Malay	39	THROW	buwang	General NP drop	Regularly	
+Sri Lanka Malay	39	THROW	buwang	Reciprocal alternation	No data	
+Sri Lanka Malay	40	TIE	ikkath (2)	General NP addition	Marginally	
+Sri Lanka Malay	40	TIE	ikkath (2)	General NP drop	Regularly	
+Sri Lanka Malay	40	TIE	ikkath (2)	Reciprocal alternation	No data	
+Sri Lanka Malay	41	PUT	thaaro	General NP addition	Marginally	
+Sri Lanka Malay	41	PUT	thaaro	General NP drop	Regularly	
+Sri Lanka Malay	41	PUT	thaaro	Reciprocal alternation	No data	
+Sri Lanka Malay	42	POUR	thuuwang	General NP addition	Marginally	
+Sri Lanka Malay	42	POUR	thuuwang	General NP drop	Regularly	
+Sri Lanka Malay	42	POUR	thuuwang	Reciprocal alternation	No data	
+Sri Lanka Malay	43	COVER	thuuthup	General NP addition	Marginally	
+Sri Lanka Malay	43	COVER	thuuthup	General NP drop	Regularly	
+Sri Lanka Malay	43	COVER	thuuthup	Reciprocal alternation	No data	
+Sri Lanka Malay	44	FILL	punuking	General NP addition	Marginally	
+Sri Lanka Malay	44	FILL	punuking	General NP drop	Regularly	
+Sri Lanka Malay	44	FILL	punuking	Reciprocal alternation	No data	
+Sri Lanka Malay	44	FILL	thuuwang	General NP addition	Marginally	
+Sri Lanka Malay	44	FILL	thuuwang	General NP drop	Regularly	
+Sri Lanka Malay	44	FILL	thuuwang	Reciprocal alternation	No data	
+Sri Lanka Malay	45	LOAD	thaaro	General NP addition	Marginally	
+Sri Lanka Malay	45	LOAD	thaaro	General NP drop	Regularly	
+Sri Lanka Malay	45	LOAD	thaaro	Reciprocal alternation	No data	
+Sri Lanka Malay	47	COUGH	baathok	General NP addition	Marginally	
+Sri Lanka Malay	47	COUGH	baathok	General NP drop	Regularly	
+Sri Lanka Malay	47	COUGH	baathok	Reciprocal alternation	No data	
+Sri Lanka Malay	48	CLIMB	naayek	General NP addition	Marginally	
+Sri Lanka Malay	48	CLIMB	naayek	General NP drop	Regularly	
+Sri Lanka Malay	48	CLIMB	naayek	Reciprocal alternation	No data	
+Sri Lanka Malay	49	RUN	laari	General NP addition	Marginally	
+Sri Lanka Malay	49	RUN	laari	General NP drop	Regularly	
+Sri Lanka Malay	49	RUN	laari	Reciprocal alternation	No data	
+Sri Lanka Malay	50	SIT	duuduk	General NP addition	Marginally	
+Sri Lanka Malay	50	SIT	duuduk	General NP drop	Regularly	
+Sri Lanka Malay	50	SIT	duuduk	Reciprocal alternation	No data	
+Sri Lanka Malay	51	SIT DOWN	duuduk	General NP addition	Marginally	
+Sri Lanka Malay	51	SIT DOWN	duuduk	General NP drop	Regularly	
+Sri Lanka Malay	51	SIT DOWN	duuduk	Reciprocal alternation	No data	
+Sri Lanka Malay	52	JUMP	lompath	General NP addition	Marginally	
+Sri Lanka Malay	52	JUMP	lompath	General NP drop	Regularly	
+Sri Lanka Malay	52	JUMP	lompath	Reciprocal alternation	No data	
+Sri Lanka Malay	53	SING	nyaanyi	General NP addition	Marginally	
+Sri Lanka Malay	53	SING	nyaanyi	General NP drop	Regularly	
+Sri Lanka Malay	53	SING	nyaanyi	Reciprocal alternation	No data	
+Sri Lanka Malay	54	GO	pii (1)	General NP addition	Marginally	
+Sri Lanka Malay	54	GO	pii (1)	General NP drop	Regularly	
+Sri Lanka Malay	54	GO	pii (1)	Reciprocal alternation	No data	
+Sri Lanka Malay	55	LEAVE	luppas	General NP addition	Marginally	
+Sri Lanka Malay	55	LEAVE	luppas	General NP drop	Regularly	
+Sri Lanka Malay	55	LEAVE	luppas	Reciprocal alternation	No data	
+Sri Lanka Malay	55	LEAVE	pii (2)	General NP addition	Marginally	
+Sri Lanka Malay	55	LEAVE	pii (2)	General NP drop	Regularly	
+Sri Lanka Malay	55	LEAVE	pii (2)	Reciprocal alternation	No data	
+Sri Lanka Malay	56	LIVE	duuduk	General NP addition	Marginally	
+Sri Lanka Malay	56	LIVE	duuduk	General NP drop	Regularly	
+Sri Lanka Malay	56	LIVE	duuduk	Reciprocal alternation	No data	
+Sri Lanka Malay	58	SCREAM	bitharak	General NP addition	Marginally	
+Sri Lanka Malay	58	SCREAM	bitharak	General NP drop	Regularly	
+Sri Lanka Malay	58	SCREAM	bitharak	Reciprocal alternation	No data	
+Sri Lanka Malay	59	FEEL PAIN	saakith	General NP addition	Marginally	
+Sri Lanka Malay	59	FEEL PAIN	saakith	General NP drop	Regularly	
+Sri Lanka Malay	59	FEEL PAIN	saakith	Reciprocal alternation	No data	
+Sri Lanka Malay	60	FEEL COLD	diinging	General NP addition	Regularly	
+Sri Lanka Malay	60	FEEL COLD	diinging	General NP drop	Regularly	
+Sri Lanka Malay	60	FEEL COLD	diinging	Reciprocal alternation	No data	
+Sri Lanka Malay	61	DIE	maathi	General NP addition	Marginally	
+Sri Lanka Malay	61	DIE	maathi	General NP drop	Regularly	
+Sri Lanka Malay	61	DIE	maathi	Reciprocal alternation	No data	
+Sri Lanka Malay	61	DIE	mniinggal	General NP addition	Marginally	
+Sri Lanka Malay	61	DIE	mniinggal	General NP drop	Regularly	
+Sri Lanka Malay	61	DIE	mniinggal	Reciprocal alternation	No data	
+Sri Lanka Malay	62	PLAY	maayeng	General NP addition	Marginally	
+Sri Lanka Malay	62	PLAY	maayeng	General NP drop	Regularly	
+Sri Lanka Malay	62	PLAY	maayeng	Reciprocal alternation	No data	
+Sri Lanka Malay	63	BE SAD	suusa	General NP addition	Marginally	
+Sri Lanka Malay	63	BE SAD	suusa	General NP drop	Regularly	
+Sri Lanka Malay	63	BE SAD	suusa	Reciprocal alternation	No data	
+Sri Lanka Malay	64	BE HUNGRY	laapar	General NP addition	Marginally	
+Sri Lanka Malay	64	BE HUNGRY	laapar	General NP drop	Never	
+Sri Lanka Malay	64	BE HUNGRY	laapar	Reciprocal alternation	No data	
+Sri Lanka Malay	66	SINK	thìnggalam	General NP addition	Marginally	
+Sri Lanka Malay	66	SINK	thìnggalam	General NP drop	Regularly	
+Sri Lanka Malay	66	SINK	thìnggalam	Reciprocal alternation	No data	
+Sri Lanka Malay	67	BURN	appi aràpeegang	General NP addition	Marginally	
+Sri Lanka Malay	67	BURN	appi aràpeegang	General NP drop	Regularly	
+Sri Lanka Malay	67	BURN	appi aràpeegang	Reciprocal alternation	No data	
+Sri Lanka Malay	68	BE DRY	kìrring	General NP addition	Marginally	
+Sri Lanka Malay	68	BE DRY	kìrring	General NP drop	Never	
+Sri Lanka Malay	68	BE DRY	kìrring	Reciprocal alternation	No data	
+Sri Lanka Malay	69	RAIN	uujang	General NP addition	Never	
+Sri Lanka Malay	69	RAIN	uujang	General NP drop	Never	
+Sri Lanka Malay	69	RAIN	uujang	Reciprocal alternation	No data	
+Sri Lanka Malay	70	BE A HUNTER	oorang neembak	General NP addition	Never	
+Sri Lanka Malay	70	BE A HUNTER	oorang neembak	General NP drop	Marginally	
+Sri Lanka Malay	70	BE A HUNTER	oorang neembak	Reciprocal alternation	No data	
+Sri Lanka Malay	71	GRIND	giiling	General NP addition	Marginally	
+Sri Lanka Malay	71	GRIND	giiling	General NP drop	Regularly	
+Sri Lanka Malay	71	GRIND	giiling	Reciprocal alternation	No data	
+Sri Lanka Malay	72	WIPE	saapu	General NP addition	Regularly	
+Sri Lanka Malay	72	WIPE	saapu	General NP drop	Marginally	
+Sri Lanka Malay	72	WIPE	saapu	Reciprocal alternation	No data	
+Sri Lanka Malay	73	DIG	gaali	General NP addition	Marginally	
+Sri Lanka Malay	73	DIG	gaali	General NP drop	Regularly	
+Sri Lanka Malay	73	DIG	gaali	Reciprocal alternation	No data	
+Sri Lanka Malay	74	PUSH	thoolak	General NP addition	Marginally	
+Sri Lanka Malay	74	PUSH	thoolak	General NP drop	Regularly	
+Sri Lanka Malay	74	PUSH	thoolak	Reciprocal alternation	No data	
+Sri Lanka Malay	75	BRING	baa(va)	General NP addition	Marginally	
+Sri Lanka Malay	75	BRING	baa(va)	General NP drop	Regularly	
+Sri Lanka Malay	75	BRING	baa(va)	Reciprocal alternation	No data	
+Sri Lanka Malay	76	STEAL	cuuri	General NP addition	Marginally	
+Sri Lanka Malay	76	STEAL	cuuri	General NP drop	Regularly	
+Sri Lanka Malay	76	STEAL	cuuri	Reciprocal alternation	No data	
+Sri Lanka Malay	77	TEACH	aajar	General NP addition	Marginally	
+Sri Lanka Malay	77	TEACH	aajar	General NP drop	Regularly	
+Sri Lanka Malay	77	TEACH	aajar	Reciprocal alternation	No data	
+Sri Lanka Malay	78	HEAR	dìnngar	General NP addition	Marginally	
+Sri Lanka Malay	78	HEAR	dìnngar	General NP drop	Regularly	
+Sri Lanka Malay	78	HEAR	dìnngar	Reciprocal alternation	No data	
+Sri Lanka Malay	79	COOK	maasak	General NP addition	Marginally	
+Sri Lanka Malay	79	COOK	maasak	General NP drop	Regularly	
+Sri Lanka Malay	79	COOK	maasak	Reciprocal alternation	No data	
+Sri Lanka Malay	80	BOIL	mdiidi	General NP addition	Marginally	
+Sri Lanka Malay	80	BOIL	mdiidi	General NP drop	Regularly	
+Sri Lanka Malay	80	BOIL	mdiidi	Reciprocal alternation	No data	
+Sri Lanka Malay	82	BE ILL	thàràsìggar	General NP addition	Marginally	
+Sri Lanka Malay	82	BE ILL	thàràsìggar	General NP drop	Never	
+Sri Lanka Malay	82	BE ILL	thàràsìggar	Reciprocal alternation	No data	
+Sri Lanka Malay	83	CRY	naangis	General NP addition	Marginally	
+Sri Lanka Malay	83	CRY	naangis	General NP drop	Never	
+Sri Lanka Malay	83	CRY	naangis	Reciprocal alternation	No data	
+Sri Lanka Malay	84	FALL	jaatho	General NP addition	Marginally	
+Sri Lanka Malay	84	FALL	jaatho	General NP drop	Regularly	
+Sri Lanka Malay	84	FALL	jaatho	Reciprocal alternation	No data	
+Sri Lanka Malay	85	MAKE	kijja	General NP addition	Regularly	
+Sri Lanka Malay	85	MAKE	kijja	General NP drop	Marginally	
+Sri Lanka Malay	85	MAKE	kijja	Reciprocal alternation	No data	
+Sri Lanka Malay	86	GET	daapath	General NP addition	Marginally	
+Sri Lanka Malay	86	GET	daapath	General NP drop	Regularly	
+Sri Lanka Malay	86	GET	daapath	Reciprocal alternation	No data	
+Sri Lanka Malay	87	WANT	maau	General NP addition	Marginally	
+Sri Lanka Malay	87	WANT	maau	General NP drop	Regularly	
+Sri Lanka Malay	87	WANT	maau	Reciprocal alternation	No data	
+Sri Lanka Malay	126	BOIL (tr)	rubbus	General NP addition	Marginally	
+Sri Lanka Malay	126	BOIL (tr)	rubbus	General NP drop	Regularly	
+Sri Lanka Malay	126	BOIL (tr)	rubbus	Reciprocal alternation	No data	
+Sri Lanka Malay	141	LAUGH ABOUT	thàthaava	General NP addition	Marginally	
+Sri Lanka Malay	141	LAUGH ABOUT	thàthaava	General NP drop	Never	
+Sri Lanka Malay	141	LAUGH ABOUT	thàthaava	Reciprocal alternation	No data	

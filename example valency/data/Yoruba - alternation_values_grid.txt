@@ -1,0 +1,96 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Fi alternation	Fi/ní alternation	Inchoative-causative	Ní/fi alternation	Oblique-dropping	Possessive alternation	Preposition-dropping	Recipient-dropping alternation	Symmetrical alternation	Theme-dropping alternation
+Yorùbá	1	EAT	je̩	1, 2, 173, 174	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	2	HUG	dìrò̩mó̩	3	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	3	LOOK AT	wò	4	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	4	SEE	rí	5	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	5	SMELL	rùn	6, 7, 8, 183	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	6	FEAR	bè̩rù	9, 10	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Yorùbá	7	FRIGHTEN	dé̩rùbà	11	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	8	LIKE	fé̩ràn	12	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	9	KNOW	mò̩	13, 14	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	10	THINK	rònú	15, 16, 17	1 V nípa+2	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yorùbá	11	SEARCH FOR	wá	18	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	12	WASH	fò̩	19	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	12	WASH	wè̩	20, 21	1 V 2	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	13	DRESS	múra	22, 23, 184	1 V fún+2	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Yorùbá	14	SHAVE (a body part/person)	fá	25, 26	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	15	HELP	ràn...ló̩wó̩	24	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	16	FOLLOW	tè̩lé	27	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	17	MEET	pàdé	28, 185	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	17	MEET	bá	29, 197	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	18	TALK	bá...sò̩rò̩	30	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	19	ASK FOR	to̩ro̩	31, 32	1 V 2 ní+3	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yorùbá	20	SHOUT AT	kígbe	33, 34	1 V mó̩+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	20	SHOUT AT	jágbe	198	1 V mó̩+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	21	TELL	so̩ (1)	35, 36	1 V 2 fún+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally
+Yorùbá	22	SAY													
+Yorùbá	23	NAME	so̩ (2)	37, 38	1 V 2 ní+3	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+Yorùbá	23	NAME	pè	186, 187	1 V 2 ní+3	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+Yorùbá	24	BUILD	kó̩	39, 40	1 fi+2 V 3	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	25	BREAK	fó̩	42, 44, 45	1 V 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	25	BREAK	kán	41, 43, 46	1 V 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	25	BREAK	dá	188, 189, 190	1 V 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	26	KILL	pa	47, 48, 179, 180	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	27	BEAT	lù	49, 50, 51, 52	1 V 2	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	27	BEAT	nà	191, 192, 193, 194	1 V 2	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	28	HIT	gbá	53, 55, 56, 175	1 V 2	Never	Marginally	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	28	HIT	ko̩lù	54	1 fi+2 V 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	29	TOUCH	kàn	57, 58	1 fi+2 V 3	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	29	TOUCH	bà	59, 60, 199, 200	1 fi+2 V 3	Never	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	30	CUT	gé	61, 62, 63, 64, 176	1 V 2	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	31	TAKE	gbà	65, 66	1 V 2 ní+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	32	TEAR	ya	67, 68, 69	1 V 2	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	33	PEEL	bó	70, 71, 72	1 V 2	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	34	HIDE	pa...mó̩	73, 74	1 V 2	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	35	SHOW	hàn	75, 76	1 fi+2 V 3	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	36	GIVE	fún	77, 78	1 V 2 ní+3	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Yorùbá	37	SEND	ráns̩é̩	79, 80	1 fi+2 V sí+3	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never
+Yorùbá	38	CARRY	gbé	81	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	39	THROW	jù	82, 83, 84	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	40	TIE	dè	85, 87, 88	1 fi+2 V 3	Never	Regularly	Marginally	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	40	TIE	so (3)	86, 201	1 fi+2 V 3	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	41	PUT	fi	89, 90, 195, 196	1 V 2 LOC3	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	42	POUR	dà	91, 93, 94, 95	1 V 2 LOC3	Never	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	42	POUR	ro̩	92, 202, 203	1 V 2 LOC3	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	43	COVER	bò	96, 98, 204	1 fi+2 V 3	Never	Regularly	Marginally	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	43	COVER	dé	97, 99, 100	1 fi+2 V 3	Never	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	44	FILL	po̩n...kún	101	1 V 2 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	44	FILL	ro̩...kún	102	1 V 2 3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	45	LOAD	kó	103, 104, 105, 106	1 V 2 LOC3	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Yorùbá	46	BLINK													
+Yorùbá	47	COUGH	wúkó̩	108, 109	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Yorùbá	48	CLIMB	gùn	110, 111	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	49	RUN	sáré	112, 113	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	50	SIT	jókòó	114, 115, 116	1 V LOC2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	51	SIT DOWN													
+Yorùbá	52	JUMP	fòsókè	117	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	52	JUMP	bé̩sílè̩	118	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	53	SING	ko̩rin	119, 181, 182	1 V	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	54	GO	lo̩	120, 178	1 V sí+2	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never
+Yorùbá	55	LEAVE	fi...sílè̩	121	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	56	LIVE	gbé (2)	122	1 V ní+2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	57	LAUGH	ré̩rìín	123	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	58	SCREAM	ho̩n	124	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	59	FEEL PAIN													
+Yorùbá	60	FEEL COLD	móòtútù	125, 126	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Yorùbá	61	DIE	kú	127	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	62	PLAY	s̩eré	128	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	63	BE SAD	banújé̩	129, 130	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Yorùbá	64	BE HUNGRY	pebi	131, 132	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never
+Yorùbá	65	ROLL	yí	133, 134	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	66	SINK	rì (2)	135	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	67	BURN	jó	136, 137	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	68	BE DRY	gbe̩ (3)	138	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	69	RAIN	rò̩jò	139, 140	V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	70	BE A HUNTER													
+Yorùbá	71	GRIND	lò̩ (2)	141, 142	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	72	WIPE	nù	143	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	73	DIG	gbé̩	144	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	74	PUSH	tì	145, 146	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	75	BRING	mú...wá	147, 148	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	76	STEAL	jí	149, 150	1 V 2	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Yorùbá	77	TEACH	kó̩ (2)	151, 152	1 V 2 ní+3	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly
+Yorùbá	78	HEAR	gbó̩	153	1 V 2	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	79	COOK	sè	154, 156, 157	1 V 2	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	79	COOK	dáná	155	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yorùbá	80	BOIL	hó	158	1 V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never

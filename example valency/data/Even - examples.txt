@@ -1,0 +1,105 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Even	1	Elicited from speaker	Kuma (tala) hie-n.		kuma tala hie-n	seal there appear-AOR.3SG	There appeared a seal.
+Even	2	Elicited from speaker	Bej hurkenteki [meŋem böden] gasčin.		bej hurken-teki meŋe-m bö-de-n gasči-n	man boy-ALL money-ACC give-PURP-3SG ask-AOR.3SG	The boy asked the man for money.
+Even	3	Elicited from speaker	Kuŋa iŋemren.		kuŋa iŋem-re-n	child freeze-AOR-3SG	The child froze.
+Even	4	Elicited from speaker	Kuŋa d’emsen.		kuŋa d’em-se-n	child want_eat-AOR-3SG	The child is hungry.
+Even	5	Elicited from speaker	Bej hurkenteki itten.		bej hurken-teki it-te-n	man boy-ALL see-AOR-3SG	The man looked at the boy.
+Even	6	Elicited from speaker	Hurken knigav hupkučimŋedu bön.		hurken kniga-v hupkučimŋe-du bö-n	boy book-ACC teacher-DAT give-AOR.3SG	The boy gave the book to the teacher.
+Even	7	Elicited from speaker	Hurken ŋalu moč čelgelren.		hurken ŋal-u mo-č čelgel-re-n	boy arm-ACC.1SG.POSS stick-INSTR break-AOR-3SG	The boy broke my arm with the stick.
+Even	8	Elicited from speaker	Hurken nimektu knigav emun.		hurken nimek-tu kniga-v em-u-n	boy neighbor-DAT book-ACC come-TR-AOR.3SG	The boy brought the book to the neighbor.
+Even	9	Elicited from speaker	Bej d’uv d’uŋnan.		bej d'u-v d’uŋna-n	man house-ACC house_build-AOR.3SG	The man built the house.
+Even	10	Elicited from speaker	Bej hurkem nuŋuč gerbetten.		bej hurke-m nuŋu-č gerbet-te-n	man boy-ACC fool-INSTR call-AOR-3SG	The man called the boy a fool.
+Even	11	Elicited from speaker	Bej urekčem ojčin.		bej urekče-m ojči-n	man mountain-ACC climb-AOR.3SG	The man climbed (up) the mountain.
+Even	12	Elicited from speaker	Hurken bilekle emren.		hurken bilek-le em-re-n	boy village-LOC come-AOR-3SG	The boy came (to the village).
+Even	13	Elicited from speaker	Bej hiemkenni.		bej hiemken-ni	man cough-AOR.3SG	The man coughed.
+Even	14	Elicited from speaker	Bej kuŋav ulrač dassan.		bej kuŋa-v ulra-č das-sa-n	man child-ACC blanket-INSTR cover-AOR-3SG	The man covered the child with the blanket.
+Even	15	Elicited from speaker	Hurken kilebu hirkan’ minen.		hurken kileb-u hirka-n’ mine-n	boy bread-ACC knife-INSTR cut-AOR.3SG	The boy cut the bread with the knife.
+Even	16	Elicited from speaker	Etiken köken.		etiken köke-n	old_man die-AOR.3SG	The old man died.
+Even	17	Elicited from speaker	Asi kuŋav tetun.		asi kuŋa-v tetu-n	woman child-ACC dress-AOR.3SG	The woman dressed the child.
+Even	18	Elicited from speaker	Asi tetiv tetten.		asi teti-v tet-te-n	woman clothes-ACC dress-AOR-3SG	The woman dressed/put on clothes.
+Even	19	Elicited from speaker	Bej kileb-u d’epten.		bej kileb-u d’ep-te-n	man bread-ACC eat-AOR-3SG	The man ate the bread.
+Even	20	Elicited from speaker	Hurken huličam moč ietten.		hurken huliča-m mo-č iet-te-n	boy fox-ACC stick-INSTR hit-AOR-3SG	The boy hit the fox with the stick.
+Even	21	Elicited from speaker	Bej buju-m bujussen.		bej buju-m bujus-se-n	man deer-ACC hunt-AOR-3SG	The man hunted for deer.
+Even	22	Elicited from speaker	Min dilu ensen.		min dil-u en-se-n	my head-1SG.POSS ache-AOR-3SG	My head hurts. / I have a headache.
+Even	23	Elicited from speaker	Kuŋa harandula melunni.		kuŋa haran-dula melun-ni	child bed-LOC jump-AOR.3SG	The child jumped on the bed.
+Even	24	Elicited from speaker	Hurken mavdiliv moč man.		hurken mavdili-v mo-č ma-n	boy snake-ACC stick-INSTR kill-AOR.3SG	The boy killed the snake with the stick.
+Even	25	Elicited from speaker	Bej hurkem han.		bej hurke-m ha-n	man boy-ACC know-AOR.3SG	The man knew the boy.
+Even	26	Elicited from speaker	Hurken (bilek-tuk) hör-re-n.		hurken bilek-tuk hör-re-n	boy village-ABL go-AOR-3SG	The boy went (from the village).
+Even	27	Elicited from speaker	Asatkan hurkem ajavran.		asatkan hurke-m ajav-ra-n	girl boy-ACC like-AOR-3SG	The girl liked/loved the boy.
+Even	28	Elicited from speaker	Hurken bilekle bisni.		hurken bilek-le bi-s-ni	boy village-LOC be-AOR-3SG	The boy lived in the village.
+Even	29	Elicited from speaker	Bej kuŋav turkila inun.		bej kuŋa-v turki-la in-u-n	man child-ACC sledge-LOC load-TR-AOR.3SG	The man loaded the child on the sledge.
+Even	30	Elicited from speaker	Asi kuŋav geletten.		asi kuŋa-v gelet-te-n	woman child-ACC look_for-AOR-3SG	The woman looked for the child.
+Even	31	Elicited from speaker	Bej asatkam atikanŋal bun.		bej asatka-m atikanŋalbu-n	man girl-ACC marry-AOR.3SG	The man married the girl.
+Even	32	Elicited from speaker	Bej asatkam bakaldan.		bej asatka-m baka-lda-n	man girl-ACC find-SOC-AOR.3SG	The man met the girl.
+Even	33	Elicited from speaker	Asatkan möv miskele öŋken.		asatkan mö-v miske-le öŋke-n	girl water-ACC bowl-LOC pour-AOR.3SG	The girl poured the water into the bowl.
+Even	34	Elicited from speaker	Asi kuŋav telgudu nedni.		asi kuŋa-v telgu-le ne-d-ni	woman child-ACC cradle-LOC put-AOR-3SG	The woman put the child into the cradle.
+Even	35	Elicited from speaker	Udan udnan.		udan udn-a-n	rain rain-AOR-3SG	It rains.
+Even	36	Elicited from speaker	Bej hurkem d’oŋčin.		bej hurke-m d’oŋči-n	man boy-ACC remember-AOR.3SG	The man remembered the boy.
+Even	37	Elicited from speaker	Kuŋa avlanduli tutten.		kuŋa avlan-dula tut-te-n	child plain-LOC run-AOR-3SG	The child ran on the plain.
+Even	38	Elicited from speaker	Bej hurkenteki ad’itu gönni.		bej hurken-teki ad’it-u gön-ni	man boy-ALL truth-ACC say-AOR.3SG	The man said the truth to the boy.
+Even	39	Elicited from speaker	Bej hurkem itten.		bej hurke-m it-te-n	man boy-ACC see-AOR-3SG	The man saw the boy.
+Even	40	Elicited from speaker	Hupkučimŋe kuŋav skolala hörun.		hupkučimŋe kuŋa-v skola-la hör-u-n	teacher child-ACC school-LOC go-TR-AOR.3SG	The teacher sent the boy to school.
+Even	41	Elicited from speaker	Bej hurkenteki irkanni.		bej hurken-teki irkan-ni	man boy-ALL shout-AOR.3SG	The man shouted to/at the boy.
+Even	42	Elicited from speaker	Hurken knigav hupkučimŋedu ičukenni.		hurken kniga-v hupkučimŋe-du ič-uken-ni	boy book-ACC teacher-DAT see-CAUS-AOR.3SG	The boy showed the book to the teacher.
+Even	43	Elicited from speaker	Hurken (ikev) iken.		hurken ike-v ike-n	boy song-ACC sing-AOR.3SG	The boy sang (a song).
+Even	44	Elicited from speaker	Bej törle tegetten.		bej tör-le tege-t-te-n	man ground-LOC sit-RES-AOR-3SG	The man sat on the ground.
+Even	45	Elicited from speaker	Bej törle tegren.		bej tör-le teg-re-n	man ground-LOC sit-AOR-3SG	The man sat down (on the ground).
+Even	46	Elicited from speaker	Hurken knigav hupkučimŋeduk d’örmin.		hurken kniga-v hupkučimŋe-duk d’örmi-n	boy book-ACC teacher-ABL steal-AOR.3SG	The boy stole the book from the teacher.
+Even	47	Elicited from speaker	Bej hurkenteki noŋandulin tören.		bej hurken-teki noŋan-duli-n töre-n	man boy-ALL 3SG-PROL-3SG tell-AOR.3SG	The man talked to the boy about him.
+Even	48	Elicited from speaker	Hurken knigaduk stranicav atalran.		hurken kniga-duk stranica-v atal-ra-n	boy book-ABL page-ACC tear/remove-AOR-3SG	The boy tore the page from the book.
+Even	49	Elicited from speaker	Bej hurkenteki ukčeneku gönni.		bej hurken-teki ukčenek-u gön-ni	man boy-ALL story-ACC say-AOR.3SG	The man told a story to the boy.
+Even	50	Elicited from speaker	Bej d’eplev togla ulen.		bej d’eple-v tog-la ule-n	man food-ACC fire-LOC throw-AOR.3SG	The man threw the food into the fire.
+Even	51	Elicited from speaker	Bej oro-m hiakitala ön’en.		bej oro-m hiakita-la ön’e-n	man reindeer-ACC tree-LOC tie-AOR.3SG	The man tied the reindeer to the tree.
+Even	52	Elicited from speaker	Hurken mavdiliv moč huŋrinni.		hurken mavdili-v mo-č huŋrin-ni	boy snake-ACC stick-INSTR touch-AOR.3SG	The boy touched the snake with the stick.
+Even	53	Elicited from speaker	Asi kuŋav avran.		asi kuŋa-v av-ra-n	woman child-ACC wash-AOR-3SG	The woman washed the child.
+Even	54	Elicited from speaker	Hurken tetiduk n’aŋsav tessen.		hurken teti-duk n’aŋsa-v tes-se-n	boy cloth-ABL dirt-ACC wipe-AOR-3SG	The boy wiped the dirt from the cloth.
+Even	55	Elicited from speaker	Etiken nugdedu mawran.		etiken nugde-du ma-w-ra-n	old_man bear-DAT kill-AD-AOR-3SG	The old man was killed by the bear.
+Even	56	Elicited from speaker	Etiken uda-la-w-ra-n.		etiken uda-la-w-ra-n	old_man rain-INCH-AD-AOR-3SG	The old man is caught by the rain.
+Even	57	Elicited from speaker	Mö (časkala) öŋkepten.		mö časka-la öŋke-p-te-n	water cup-LOC pour-MED-AOR-3SG	The water was poured (into the cup).
+Even	58	Elicited from speaker	Bej maptan.		bej ma-p-ta-n	man kill-MED-AOR-3SG	The man was / got killed.
+Even	59	Elicited from speaker	Oron (hiakitala) ön’etten.		oron hiakita-la ön’e-t-te-n	reindeer tree-LOC tie-RES-AOR-3SG	The reindeer is tied to the tree.
+Even	60	Elicited from speaker	Ulre esni minepte.		ulre e-s-ni mine-p-te	meat not_do-AOR-3SG cut-MED-CONNEG	The meat doesn’t cut (easily).
+Even	61	Elicited from speaker	Kuŋal avmatta.		kuŋa-l av-mat-ta	child-PL wash-REC-AOR.3PL	The children washed each other.
+Even	62	Elicited from speaker	Kuŋal ŋelmette.		kuŋa-l ŋel-met-te	child-PL fear-REC-AOR.3PL	The children are afraid of each other.
+Even	63	Elicited from speaker	Kuŋa ŋinač ŋelren.		kuŋa ŋina-č ŋel-re-n	child dog-INSTR fear-AOR-3SG	The child is afraid of the dog.
+Even	64	Elicited from speaker	Kuŋa avran.		kuŋa av-ra-n	child wash-AOR-3SG	The child washed (himself).
+Even	65	Elicited from speaker	Bej gian'un bakaldar.		bej gia-n'un baka-lda-r	man friend-COM find-SOC-AOR.3PL	The man met with a friend.
+Even	66	Elicited from speaker	Gial gömette.		gia-l gö-met-te	friend-PL say-REC-AOR.3PL	The friends talked.
+Even	67	Elicited from speaker	Asi n'uritu hussan.		asi n'urit-u hus-sa-n	woman hair-ACC cut-AOR-3SG	The woman cut her hair.
+Even	68	Elicited from speaker	Asi kuŋav belren.		asi kuŋa-v bel-re-n	woman child-ACC help-AOR-3SG	The woman helped the child.
+Even	69	Elicited from speaker	Ŋin minu boddan.		ŋin min-u bod-da-n	dog 1SG-ACC follow-AOR-3SG	The dog followed me.
+Even	70	Elicited from speaker	Asi kuŋatki irkan.		asi kuŋa-tki irka-n	woman child-ALL shout-AOR.3SG	The woman shouted at the child.
+Even	71	Elicited from speaker	Bej d'uv (moduk) on.		bej d'u-v mo-duk o-n	man house-ACC wood-ABL build-AOR.3SG	The man built the house from wood.
+Even	72	Elicited from speaker	Etiken hurkem moč pavullan.		etiken hurke-m mo-č pavul-la-n	old_man boy-ACC stick-INSTR beat-AOR-3SG	The old man beats the boy with the stick.
+Even	73	Elicited from speaker	Nimek minduk oroom gadni.		nimek min-duk oro-m ga-d-ni	neighbor 1SG-ABL reindeer-ACC take-AOR-3SG	The neighbor took a reindeer from me.
+Even	74	Elicited from speaker	Hurken kortoskev n'aŋun.		hurken kortoske-v n'aŋu-n	boy potato-ACC peel-AOR.3SG	The boy peeled the potatoes.
+Even	75	Elicited from speaker	Etiken meŋem (giaduk) dikenni.		etiken meŋe-m gia-duk diken-ni	old_man money-ACC friend-ABL hide-AOR.3SG	The old man hid the money (from his friend).
+Even	76	Elicited from speaker	Asi kuŋav d'ula ŋalsan.		asi kuŋa-v d'u-la ŋal-sa-n	woman child-ACC house-LOC carry-AOR-3SG	The woman carried the child home.
+Even	77	Elicited from speaker	Kuŋa (iasal-i) nimrun-ni.		kuŋa iasa-l-i nimrun-ni	child eye-PL-REFL.POSS.SG blink-AOR.3SG	The child blinked.
+Even	78	Elicited from speaker	Kuŋa tör-le teg-et-te-n.		kuŋa tör-le tege-t-te-n	child ground-LOC sit-RES-AOR-3SG	The child sat on the ground.
+Even	79	Elicited from speaker	Kuŋa (d'ula) hörren.		kuŋa d'u-la hör-re-n	child house-LOC go-AOR-3SG	The child went home.
+Even	80	Elicited from speaker	Asatkan ininren.		asatkan inin-re-n	girl laugh-AOR-3SG	The girl laughed.
+Even	81	Elicited from speaker	Asatkan kunisnan.		asatkan kuni-sn-a-n	girl scream-MOM-AOR-3SG	The girl screamed.
+Even	82	Elicited from speaker	Kuŋa evin.		kuŋa evi-n	child play-AOR.3SG	The child plays.
+Even	83	Elicited from speaker	Kuŋa nabuttan.		kuŋa nabut-ta-n	child get_upset-AOR-3SG	The child is sad.
+Even	84	Elicited from speaker	D'ol hiruŋcin.		d'ol hirun-ni	stone roll-AOR.3SG	The stone rolled.
+Even	85	Elicited from speaker	Moomi hirren.		moomi hir-re-n	boat sink-AOR-3SG	The boat sank.
+Even	86	Elicited from speaker	Higi durren.		higi dur-re-n	forest burn-AOR-3SG	The forest is burning.
+Even	87	Elicited from speaker	Tör ileŋ bisni.		tör ileŋ bi-s-ni	ground dry be-AOR-3SG	The ground is dry.
+Even	88	Elicited from speaker	Am-mu bujusemŋe (bisni).		am-mu bujusemŋe bi-s-ni	father-1SG.POSS hunter be-AOR-3SG	My father is a hunter.
+Even	89	Elicited from speaker	Kuŋa tik-re-n.		kuŋa tik-re-n	child fall-AOR-3SG	The child fell.
+Even	90	Elicited from speaker	Asi kuŋav kemnin.		asi kuŋa-v kemni-n	woman child-ACC hug-AOR.3SG	The woman hugged her child.
+Even	91	Elicited from speaker	Nakat beju ŋosuttan.		nakat bej-u ŋosut-ta-n	bear man-ACC smell-AOR-3SG	The bear smelled the man.
+Even	92	Elicited from speaker	Hi minu malgacinri?		hi min-u malga-ci-nri	2SG 1SG-ACC think-RES-AOR.2SG	You think about me?
+Even	93	Elicited from speaker	Nakat kuŋav ŋelukenni.		nakat kuŋa-v ŋel-uken-ni	bear child-ACC be_afraid-CAUS-AOR.3SG	The bear frightened the child.
+Even	94	Elicited from speaker	Asi časkav öken' milteremkenni.		asi časka-v öke-n' miltere-mken-ni	woman cup-ACC milk-INSTR fill(CAUS)-AOR-3SG	The woman filled the cup with milk.
+Even	95	Elicited from speaker	Oron ön'etten.		oron ön'e-t-te-n	reindeer tie-RES-AOR-3SG	The reindeer is tied.
+Even	96	Elicited from speaker	Asi ike-n.		asi ike-n	woman sing-AOR.3SG	The woman sings.
+Even	97		Kuŋal (eviniker) ŋalmatta.		kuŋa-l evini-ke-r ŋal-mat-ta	child-PL play-CONV-PL carry-REC-AOR.3PL	The children carried each other (while playing).
+Even	98		Bej hiemkeŋčin.		bej hiemkeŋ-či-n	man cough-RES-AOR.3SG	The man coughs.
+Even	99		Etiken giaj kökewren.		etiken gia-j köke-w-re-n	old_man friend-REFL.POSS die-AD-AOR-3SG	The old man's friend died on him. \The friend died; the old man is negatively afected.
+Even	100		Asi kuŋaŋi tikewren.		asi kuŋa-ŋ-i tik-ew-re-n	woman child-ALIEN-REFL.POSS.SG fall-AD-AOR-3SG	The woman let the child fall \dropped the child.
+Even	101		Kuŋal eviniker turkila inumatkarar.		kuŋa-l evi-nike-r turki-la in-u-mat-kara-r	child-PL play-CONV-PL sledge-LOC load-TR-REC-ITER-AOR.3PL	The children put each other on the sledge while playing.
+Even	102		Kuŋa iasali nimruŋčin.		kuŋa iasa-l-i nimruŋ-či-n	child eye-PL-REFL.POSS.SG blink-RES-AOR.3SG	The child keeps his eyes shut.
+Even	103		Hurker ietmette.		hurke-r iet-met-te	boy-PL hit-REC-AOR.3PL	The boys hit each other (in a fight).
+Even	104		Hurker knigalbu bömette.		hurke-r kniga-l-bu bö-met-te	boy-PL book-PL-ACC give-REC-AOR.3PL	The boys gave books to each otherr.

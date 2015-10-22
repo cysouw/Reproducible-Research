@@ -1,0 +1,1651 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Emai	1	EAT	e	Addressee li + hon insertion	Never	
+Emai	1	EAT	e	Addressee vbiee insertion	Never	
+Emai	1	EAT	e	Allative insertion	Never	
+Emai	1	EAT	e	Ambitransitive	Never	
+Emai	1	EAT	e	Applicative li insertion	Never	
+Emai	1	EAT	e	Causative insertion	Never	
+Emai	1	EAT	e	Distributive locative insertion (specific)	Never	
+Emai	1	EAT	e	Distributive locative insertion (unspecific)	Never	
+Emai	1	EAT	e	Elative insertion	Never	
+Emai	1	EAT	e	External possessor alternation	Marginally	
+Emai	1	EAT	e	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	1	EAT	e	Locative change of state	Never	
+Emai	1	EAT	e	Locative omission	Never	
+Emai	1	EAT	e	Object omission	Never	
+Emai	1	EAT	e	Projected adherence insertion	Never	
+Emai	2	HUG	tutu nwu	Addressee li + hon insertion	Never	
+Emai	2	HUG	tutu nwu	Addressee vbiee insertion	Never	
+Emai	2	HUG	tutu nwu	Allative insertion	Never	
+Emai	2	HUG	tutu nwu	Ambitransitive	Never	
+Emai	2	HUG	tutu nwu	Applicative li insertion	Never	
+Emai	2	HUG	tutu nwu	Causative insertion	Never	
+Emai	2	HUG	tutu nwu	Distributive locative insertion (specific)	Never	
+Emai	2	HUG	tutu nwu	Distributive locative insertion (unspecific)	Never	
+Emai	2	HUG	tutu nwu	Elative insertion	Never	
+Emai	2	HUG	tutu nwu	External possessor alternation	Never	
+Emai	2	HUG	tutu nwu	Instrument insertion	Never	
+Emai	2	HUG	tutu nwu	Locative change of state	Never	
+Emai	2	HUG	tutu nwu	Locative omission	Never	
+Emai	2	HUG	tutu nwu	Object omission	Never	
+Emai	2	HUG	tutu nwu	Projected adherence insertion	Never	
+Emai	3	LOOK AT	ghoo	Addressee li + hon insertion	Never	
+Emai	3	LOOK AT	ghoo	Addressee vbiee insertion	Never	
+Emai	3	LOOK AT	ghoo	Allative insertion	Never	
+Emai	3	LOOK AT	ghoo	Ambitransitive	Never	
+Emai	3	LOOK AT	ghoo	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	3	LOOK AT	ghoo	Causative insertion	Never	
+Emai	3	LOOK AT	ghoo	Distributive locative insertion (specific)	Never	
+Emai	3	LOOK AT	ghoo	Distributive locative insertion (unspecific)	Never	
+Emai	3	LOOK AT	ghoo	Elative insertion	Never	
+Emai	3	LOOK AT	ghoo	External possessor alternation	Never	
+Emai	3	LOOK AT	ghoo	Instrument insertion	Never	
+Emai	3	LOOK AT	ghoo	Locative change of state	Never	
+Emai	3	LOOK AT	ghoo	Locative omission	Never	
+Emai	3	LOOK AT	ghoo	Object omission	Never	
+Emai	3	LOOK AT	ghoo	Projected adherence insertion	Never	
+Emai	4	SEE	miẹ	Addressee li + hon insertion	Never	
+Emai	4	SEE	miẹ	Addressee vbiee insertion	Never	
+Emai	4	SEE	miẹ	Allative insertion	Never	
+Emai	4	SEE	miẹ	Ambitransitive	Never	
+Emai	4	SEE	miẹ	Applicative li insertion	Never	
+Emai	4	SEE	miẹ	Causative insertion	Never	
+Emai	4	SEE	miẹ	Distributive locative insertion (specific)	Never	
+Emai	4	SEE	miẹ	Distributive locative insertion (unspecific)	Never	
+Emai	4	SEE	miẹ	Elative insertion	Never	
+Emai	4	SEE	miẹ	External possessor alternation	Never	
+Emai	4	SEE	miẹ	Instrument insertion	Never	
+Emai	4	SEE	miẹ	Locative change of state	Never	
+Emai	4	SEE	miẹ	Locative omission	Never	
+Emai	4	SEE	miẹ	Object omission	Never	
+Emai	4	SEE	miẹ	Projected adherence insertion	Never	
+Emai	5	SMELL	yaa	Addressee li + hon insertion	Never	
+Emai	5	SMELL	yaa	Addressee vbiee insertion	Never	
+Emai	5	SMELL	yaa	Allative insertion	Never	
+Emai	5	SMELL	yaa	Ambitransitive	Regularly	2>V'
+Emai	5	SMELL	yaa	Applicative li insertion	Never	
+Emai	5	SMELL	yaa	Causative insertion	Never	
+Emai	5	SMELL	yaa	Distributive locative insertion (specific)	Never	
+Emai	5	SMELL	yaa	Distributive locative insertion (unspecific)	Never	
+Emai	5	SMELL	yaa	Elative insertion	Never	
+Emai	5	SMELL	yaa	External possessor alternation	Never	
+Emai	5	SMELL	yaa	Instrument insertion	Never	
+Emai	5	SMELL	yaa	Locative change of state	Never	
+Emai	5	SMELL	yaa	Locative omission	Never	
+Emai	5	SMELL	yaa	Object omission	Never	
+Emai	5	SMELL	yaa	Projected adherence insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Addressee li + hon insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Addressee vbiee insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Allative insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Ambitransitive	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Applicative li insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Causative insertion	Regularly	
+Emai	6	FEAR	ófẹ̀n nwu	Distributive locative insertion (specific)	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Distributive locative insertion (unspecific)	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Elative insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	External possessor alternation	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Instrument insertion	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Locative change of state	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Locative omission	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Object omission	Never	
+Emai	6	FEAR	ófẹ̀n nwu	Projected adherence insertion	Never	
+Emai	7	FRIGHTEN	niaa	Addressee li + hon insertion	Never	
+Emai	7	FRIGHTEN	niaa	Addressee vbiee insertion	Never	
+Emai	7	FRIGHTEN	niaa	Allative insertion	Never	
+Emai	7	FRIGHTEN	niaa	Ambitransitive	Regularly	2>V'
+Emai	7	FRIGHTEN	niaa	Applicative li insertion	Never	
+Emai	7	FRIGHTEN	niaa	Causative insertion	Never	
+Emai	7	FRIGHTEN	niaa	Distributive locative insertion (specific)	Never	
+Emai	7	FRIGHTEN	niaa	Distributive locative insertion (unspecific)	Never	
+Emai	7	FRIGHTEN	niaa	Elative insertion	Never	
+Emai	7	FRIGHTEN	niaa	External possessor alternation	Never	
+Emai	7	FRIGHTEN	niaa	Instrument insertion	Never	
+Emai	7	FRIGHTEN	niaa	Locative change of state	Never	
+Emai	7	FRIGHTEN	niaa	Locative omission	Never	
+Emai	7	FRIGHTEN	niaa	Object omission	Never	
+Emai	7	FRIGHTEN	niaa	Projected adherence insertion	Never	
+Emai	8	LIKE	ẹghẹn	Addressee li + hon insertion	Never	
+Emai	8	LIKE	ẹghẹn	Addressee vbiee insertion	Never	
+Emai	8	LIKE	ẹghẹn	Allative insertion	Never	
+Emai	8	LIKE	ẹghẹn	Ambitransitive	Never	
+Emai	8	LIKE	ẹghẹn	Applicative li insertion	Never	
+Emai	8	LIKE	ẹghẹn	Causative insertion	Never	
+Emai	8	LIKE	ẹghẹn	Distributive locative insertion (specific)	Never	
+Emai	8	LIKE	ẹghẹn	Distributive locative insertion (unspecific)	Never	
+Emai	8	LIKE	ẹghẹn	Elative insertion	Never	
+Emai	8	LIKE	ẹghẹn	External possessor alternation	Never	
+Emai	8	LIKE	ẹghẹn	Instrument insertion	Never	
+Emai	8	LIKE	ẹghẹn	Locative change of state	Never	
+Emai	8	LIKE	ẹghẹn	Locative omission	Never	
+Emai	8	LIKE	ẹghẹn	Object omission	Regularly	1>V'
+Emai	8	LIKE	ẹghẹn	Projected adherence insertion	Never	
+Emai	9	KNOW	ẹẹn	Addressee li + hon insertion	Never	
+Emai	9	KNOW	ẹẹn	Addressee vbiee insertion	Never	
+Emai	9	KNOW	ẹẹn	Allative insertion	Never	
+Emai	9	KNOW	ẹẹn	Ambitransitive	Never	
+Emai	9	KNOW	ẹẹn	Applicative li insertion	Never	
+Emai	9	KNOW	ẹẹn	Causative insertion	Never	
+Emai	9	KNOW	ẹẹn	Distributive locative insertion (specific)	Never	
+Emai	9	KNOW	ẹẹn	Distributive locative insertion (unspecific)	Never	
+Emai	9	KNOW	ẹẹn	Elative insertion	Never	
+Emai	9	KNOW	ẹẹn	External possessor alternation	Never	
+Emai	9	KNOW	ẹẹn	Instrument insertion	Never	
+Emai	9	KNOW	ẹẹn	Locative change of state	Never	
+Emai	9	KNOW	ẹẹn	Locative omission	Never	
+Emai	9	KNOW	ẹẹn	Object omission	Regularly	1>V'
+Emai	9	KNOW	ẹẹn	Projected adherence insertion	Never	
+Emai	9	KNOW	guẹ	Addressee li + hon insertion	Never	
+Emai	9	KNOW	guẹ	Addressee vbiee insertion	Never	
+Emai	9	KNOW	guẹ	Allative insertion	Never	
+Emai	9	KNOW	guẹ	Ambitransitive	Never	
+Emai	9	KNOW	guẹ	Applicative li insertion	Never	
+Emai	9	KNOW	guẹ	Causative insertion	Never	
+Emai	9	KNOW	guẹ	Distributive locative insertion (specific)	Never	
+Emai	9	KNOW	guẹ	Distributive locative insertion (unspecific)	Never	
+Emai	9	KNOW	guẹ	Elative insertion	Never	
+Emai	9	KNOW	guẹ	External possessor alternation	Never	
+Emai	9	KNOW	guẹ	Instrument insertion	Never	
+Emai	9	KNOW	guẹ	Locative change of state	Never	
+Emai	9	KNOW	guẹ	Locative omission	Never	
+Emai	9	KNOW	guẹ	Object omission	Never	
+Emai	9	KNOW	guẹ	Projected adherence insertion	Never	
+Emai	10	THINK	oo	Addressee li + hon insertion	Never	
+Emai	10	THINK	oo	Addressee vbiee insertion	Never	
+Emai	10	THINK	oo	Allative insertion	Never	
+Emai	10	THINK	oo	Ambitransitive	Never	
+Emai	10	THINK	oo	Applicative li insertion	Never	
+Emai	10	THINK	oo	Causative insertion	Never	
+Emai	10	THINK	oo	Distributive locative insertion (specific)	Never	
+Emai	10	THINK	oo	Distributive locative insertion (unspecific)	Never	
+Emai	10	THINK	oo	Elative insertion	Never	
+Emai	10	THINK	oo	External possessor alternation	Never	
+Emai	10	THINK	oo	Instrument insertion	Never	
+Emai	10	THINK	oo	Locative change of state	Never	
+Emai	10	THINK	oo	Locative omission	Never	
+Emai	10	THINK	oo	Object omission	Never	
+Emai	10	THINK	oo	Projected adherence insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	Addressee li + hon insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	Addressee vbiee insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	Allative insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	Ambitransitive	Never	
+Emai	11	SEARCH FOR	hoo (1)	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	11	SEARCH FOR	hoo (1)	Causative insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	Distributive locative insertion (specific)	Never	
+Emai	11	SEARCH FOR	hoo (1)	Distributive locative insertion (unspecific)	Never	
+Emai	11	SEARCH FOR	hoo (1)	Elative insertion	Never	
+Emai	11	SEARCH FOR	hoo (1)	External possessor alternation	Never	
+Emai	11	SEARCH FOR	hoo (1)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	11	SEARCH FOR	hoo (1)	Locative change of state	Never	
+Emai	11	SEARCH FOR	hoo (1)	Locative omission	Never	
+Emai	11	SEARCH FOR	hoo (1)	Object omission	Never	
+Emai	11	SEARCH FOR	hoo (1)	Projected adherence insertion	Never	
+Emai	12	WASH	khọọ	Addressee li + hon insertion	Never	
+Emai	12	WASH	khọọ	Addressee vbiee insertion	Never	
+Emai	12	WASH	khọọ	Allative insertion	Never	
+Emai	12	WASH	khọọ	Ambitransitive	Never	
+Emai	12	WASH	khọọ	Applicative li insertion	Marginally	
+Emai	12	WASH	khọọ	Causative insertion	Never	
+Emai	12	WASH	khọọ	Distributive locative insertion (specific)	Never	
+Emai	12	WASH	khọọ	Distributive locative insertion (unspecific)	Never	
+Emai	12	WASH	khọọ	Elative insertion	Never	
+Emai	12	WASH	khọọ	External possessor alternation	Never	
+Emai	12	WASH	khọọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	12	WASH	khọọ	Locative change of state	Never	
+Emai	12	WASH	khọọ	Locative omission	Never	
+Emai	12	WASH	khọọ	Object omission	Marginally	
+Emai	12	WASH	khọọ	Projected adherence insertion	Never	
+Emai	12	WASH	kpe (2)	Addressee li + hon insertion	Never	
+Emai	12	WASH	kpe (2)	Addressee vbiee insertion	Never	
+Emai	12	WASH	kpe (2)	Allative insertion	Never	
+Emai	12	WASH	kpe (2)	Ambitransitive	Never	
+Emai	12	WASH	kpe (2)	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	12	WASH	kpe (2)	Causative insertion	Never	
+Emai	12	WASH	kpe (2)	Distributive locative insertion (specific)	Regularly	
+Emai	12	WASH	kpe (2)	Distributive locative insertion (unspecific)	Regularly	
+Emai	12	WASH	kpe (2)	Elative insertion	Never	
+Emai	12	WASH	kpe (2)	External possessor alternation	Never	
+Emai	12	WASH	kpe (2)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	12	WASH	kpe (2)	Locative change of state	Never	
+Emai	12	WASH	kpe (2)	Locative omission	Never	
+Emai	12	WASH	kpe (2)	Object omission	Never	
+Emai	12	WASH	kpe (2)	Projected adherence insertion	Never	
+Emai	13	DRESS	ku ọ	Addressee li + hon insertion	Never	
+Emai	13	DRESS	ku ọ	Addressee vbiee insertion	Never	
+Emai	13	DRESS	ku ọ	Allative insertion	Never	
+Emai	13	DRESS	ku ọ	Ambitransitive	Never	
+Emai	13	DRESS	ku ọ	Applicative li insertion	Never	
+Emai	13	DRESS	ku ọ	Causative insertion	Never	
+Emai	13	DRESS	ku ọ	Distributive locative insertion (specific)	Never	
+Emai	13	DRESS	ku ọ	Distributive locative insertion (unspecific)	Never	
+Emai	13	DRESS	ku ọ	Elative insertion	Never	
+Emai	13	DRESS	ku ọ	External possessor alternation	Regularly	
+Emai	13	DRESS	ku ọ	Instrument insertion	Never	
+Emai	13	DRESS	ku ọ	Locative change of state	Never	
+Emai	13	DRESS	ku ọ	Locative omission	Never	
+Emai	13	DRESS	ku ọ	Object omission	Never	
+Emai	13	DRESS	ku ọ	Projected adherence insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Addressee li + hon insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Addressee vbiee insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Allative insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Ambitransitive	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Causative insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Distributive locative insertion (specific)	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Distributive locative insertion (unspecific)	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Elative insertion	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	External possessor alternation	Regularly	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Locative change of state	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Locative omission	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Object omission	Never	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Projected adherence insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Addressee li + hon insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Addressee vbiee insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Allative insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Ambitransitive	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Applicative li insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Causative insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Distributive locative insertion (specific)	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Distributive locative insertion (unspecific)	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Elative insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	External possessor alternation	Regularly	
+Emai	15	HELP	kpayẹ óbọ̀	Instrument insertion	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Locative change of state	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Locative omission	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Object omission	Never	
+Emai	15	HELP	kpayẹ óbọ̀	Projected adherence insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Addressee li + hon insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Addressee vbiee insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Allative insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Ambitransitive	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Applicative li insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Causative insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Distributive locative insertion (specific)	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Distributive locative insertion (unspecific)	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Elative insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	External possessor alternation	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Instrument insertion	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Locative change of state	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Locative omission	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Object omission	Never	
+Emai	16	FOLLOW	rẹkhaẹn	Projected adherence insertion	Never	
+Emai	17	MEET	ga ze	Addressee li + hon insertion	Never	
+Emai	17	MEET	ga ze	Addressee vbiee insertion	Never	
+Emai	17	MEET	ga ze	Allative insertion	Never	
+Emai	17	MEET	ga ze	Ambitransitive	Never	
+Emai	17	MEET	ga ze	Applicative li insertion	Never	
+Emai	17	MEET	ga ze	Causative insertion	Never	
+Emai	17	MEET	ga ze	Distributive locative insertion (specific)	Never	
+Emai	17	MEET	ga ze	Distributive locative insertion (unspecific)	Never	
+Emai	17	MEET	ga ze	Elative insertion	Never	
+Emai	17	MEET	ga ze	External possessor alternation	Never	
+Emai	17	MEET	ga ze	Instrument insertion	Never	
+Emai	17	MEET	ga ze	Locative change of state	Never	
+Emai	17	MEET	ga ze	Locative omission	Never	
+Emai	17	MEET	ga ze	Object omission	Never	
+Emai	17	MEET	ga ze	Projected adherence insertion	Never	
+Emai	18	TALK	ta étà	Addressee li + hon insertion	Regularly	1>V'>li+3+hon
+Emai	18	TALK	ta étà	Addressee vbiee insertion	Never	
+Emai	18	TALK	ta étà	Allative insertion	Never	
+Emai	18	TALK	ta étà	Ambitransitive	Never	
+Emai	18	TALK	ta étà	Applicative li insertion	Never	
+Emai	18	TALK	ta étà	Causative insertion	Never	
+Emai	18	TALK	ta étà	Distributive locative insertion (specific)	Never	
+Emai	18	TALK	ta étà	Distributive locative insertion (unspecific)	Never	
+Emai	18	TALK	ta étà	Elative insertion	Never	
+Emai	18	TALK	ta étà	External possessor alternation	Never	
+Emai	18	TALK	ta étà	Instrument insertion	Never	
+Emai	18	TALK	ta étà	Locative change of state	Never	
+Emai	18	TALK	ta étà	Locative omission	Never	
+Emai	18	TALK	ta étà	Object omission	Never	
+Emai	18	TALK	ta étà	Projected adherence insertion	Never	
+Emai	18	TALK	vbayẹ	Addressee li + hon insertion	Never	
+Emai	18	TALK	vbayẹ	Addressee vbiee insertion	Never	
+Emai	18	TALK	vbayẹ	Allative insertion	Never	
+Emai	18	TALK	vbayẹ	Ambitransitive	Never	
+Emai	18	TALK	vbayẹ	Applicative li insertion	Never	
+Emai	18	TALK	vbayẹ	Causative insertion	Never	
+Emai	18	TALK	vbayẹ	Distributive locative insertion (specific)	Never	
+Emai	18	TALK	vbayẹ	Distributive locative insertion (unspecific)	Never	
+Emai	18	TALK	vbayẹ	Elative insertion	Never	
+Emai	18	TALK	vbayẹ	External possessor alternation	Never	
+Emai	18	TALK	vbayẹ	Instrument insertion	Never	
+Emai	18	TALK	vbayẹ	Locative change of state	Never	
+Emai	18	TALK	vbayẹ	Locative omission	Never	
+Emai	18	TALK	vbayẹ	Object omission	Never	
+Emai	18	TALK	vbayẹ	Projected adherence insertion	Never	
+Emai	20	SHOUT AT	khuee	Addressee li + hon insertion	Never	
+Emai	20	SHOUT AT	khuee	Addressee vbiee insertion	Never	
+Emai	20	SHOUT AT	khuee	Allative insertion	Never	
+Emai	20	SHOUT AT	khuee	Ambitransitive	Never	
+Emai	20	SHOUT AT	khuee	Applicative li insertion	Never	
+Emai	20	SHOUT AT	khuee	Causative insertion	Never	
+Emai	20	SHOUT AT	khuee	Distributive locative insertion (specific)	Never	
+Emai	20	SHOUT AT	khuee	Distributive locative insertion (unspecific)	Never	
+Emai	20	SHOUT AT	khuee	Elative insertion	Never	
+Emai	20	SHOUT AT	khuee	External possessor alternation	Never	
+Emai	20	SHOUT AT	khuee	Instrument insertion	Never	
+Emai	20	SHOUT AT	khuee	Locative change of state	Never	
+Emai	20	SHOUT AT	khuee	Locative omission	Never	
+Emai	20	SHOUT AT	khuee	Object omission	Regularly	1>V'
+Emai	20	SHOUT AT	khuee	Projected adherence insertion	Never	
+Emai	21	TELL	ẹ	Addressee li + hon insertion	Never	
+Emai	21	TELL	ẹ	Addressee vbiee insertion	Never	
+Emai	21	TELL	ẹ	Allative insertion	Never	
+Emai	21	TELL	ẹ	Ambitransitive	Never	
+Emai	21	TELL	ẹ	Applicative li insertion	Never	
+Emai	21	TELL	ẹ	Causative insertion	Never	
+Emai	21	TELL	ẹ	Distributive locative insertion (specific)	Never	
+Emai	21	TELL	ẹ	Distributive locative insertion (unspecific)	Never	
+Emai	21	TELL	ẹ	Elative insertion	Never	
+Emai	21	TELL	ẹ	External possessor alternation	Never	
+Emai	21	TELL	ẹ	Instrument insertion	Never	
+Emai	21	TELL	ẹ	Locative change of state	Never	
+Emai	21	TELL	ẹ	Locative omission	Never	
+Emai	21	TELL	ẹ	Object omission	Never	
+Emai	21	TELL	ẹ	Projected adherence insertion	Never	
+Emai	21	TELL	gue	Addressee li + hon insertion	Regularly	1>V'>2>li+3+hon
+Emai	21	TELL	gue	Addressee vbiee insertion	Regularly	1>V'>2>vbiee+3
+Emai	21	TELL	gue	Allative insertion	Never	
+Emai	21	TELL	gue	Ambitransitive	Never	
+Emai	21	TELL	gue	Applicative li insertion	Never	
+Emai	21	TELL	gue	Causative insertion	Never	
+Emai	21	TELL	gue	Distributive locative insertion (specific)	Never	
+Emai	21	TELL	gue	Distributive locative insertion (unspecific)	Never	
+Emai	21	TELL	gue	Elative insertion	Never	
+Emai	21	TELL	gue	External possessor alternation	Never	
+Emai	21	TELL	gue	Instrument insertion	Never	
+Emai	21	TELL	gue	Locative change of state	Never	
+Emai	21	TELL	gue	Locative omission	Never	
+Emai	21	TELL	gue	Object omission	Marginally	
+Emai	21	TELL	gue	Projected adherence insertion	Never	
+Emai	21	TELL	kpe (1)	Addressee li + hon insertion	Regularly	1>V'>2>li+3+hon
+Emai	21	TELL	kpe (1)	Addressee vbiee insertion	Regularly	1>V'>2>vbiee+3
+Emai	21	TELL	kpe (1)	Allative insertion	Never	
+Emai	21	TELL	kpe (1)	Ambitransitive	Never	
+Emai	21	TELL	kpe (1)	Applicative li insertion	Never	
+Emai	21	TELL	kpe (1)	Causative insertion	Never	
+Emai	21	TELL	kpe (1)	Distributive locative insertion (specific)	Never	
+Emai	21	TELL	kpe (1)	Distributive locative insertion (unspecific)	Never	
+Emai	21	TELL	kpe (1)	Elative insertion	Never	
+Emai	21	TELL	kpe (1)	External possessor alternation	Never	
+Emai	21	TELL	kpe (1)	Instrument insertion	Never	
+Emai	21	TELL	kpe (1)	Locative change of state	Never	
+Emai	21	TELL	kpe (1)	Locative omission	Never	
+Emai	21	TELL	kpe (1)	Object omission	Never	
+Emai	21	TELL	kpe (1)	Projected adherence insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Addressee li + hon insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Addressee vbiee insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Allative insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Ambitransitive	Never	
+Emai	22	SAY	ẹ ọ́í	Applicative li insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Causative insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Distributive locative insertion (specific)	Never	
+Emai	22	SAY	ẹ ọ́í	Distributive locative insertion (unspecific)	Never	
+Emai	22	SAY	ẹ ọ́í	Elative insertion	Never	
+Emai	22	SAY	ẹ ọ́í	External possessor alternation	Never	
+Emai	22	SAY	ẹ ọ́í	Instrument insertion	Never	
+Emai	22	SAY	ẹ ọ́í	Locative change of state	Never	
+Emai	22	SAY	ẹ ọ́í	Locative omission	Never	
+Emai	22	SAY	ẹ ọ́í	Object omission	Never	
+Emai	22	SAY	ẹ ọ́í	Projected adherence insertion	Never	
+Emai	23	NAME	no direct counterpart	Addressee li + hon insertion	Never	
+Emai	23	NAME	no direct counterpart	Addressee vbiee insertion	Never	
+Emai	23	NAME	no direct counterpart	Allative insertion	Never	
+Emai	23	NAME	no direct counterpart	Ambitransitive	Never	
+Emai	23	NAME	no direct counterpart	Applicative li insertion	Never	
+Emai	23	NAME	no direct counterpart	Causative insertion	Never	
+Emai	23	NAME	no direct counterpart	Distributive locative insertion (specific)	Never	
+Emai	23	NAME	no direct counterpart	Distributive locative insertion (unspecific)	Never	
+Emai	23	NAME	no direct counterpart	Elative insertion	Never	
+Emai	23	NAME	no direct counterpart	External possessor alternation	Never	
+Emai	23	NAME	no direct counterpart	Instrument insertion	Never	
+Emai	23	NAME	no direct counterpart	Locative change of state	Never	
+Emai	23	NAME	no direct counterpart	Locative omission	Never	
+Emai	23	NAME	no direct counterpart	Object omission	Never	
+Emai	23	NAME	no direct counterpart	Projected adherence insertion	Never	
+Emai	24	BUILD	hu	Addressee li + hon insertion	Never	
+Emai	24	BUILD	hu	Addressee vbiee insertion	Never	
+Emai	24	BUILD	hu	Allative insertion	Never	
+Emai	24	BUILD	hu	Ambitransitive	Never	
+Emai	24	BUILD	hu	Applicative li insertion	Never	
+Emai	24	BUILD	hu	Causative insertion	Never	
+Emai	24	BUILD	hu	Distributive locative insertion (specific)	Never	
+Emai	24	BUILD	hu	Distributive locative insertion (unspecific)	Never	
+Emai	24	BUILD	hu	Elative insertion	Never	
+Emai	24	BUILD	hu	External possessor alternation	Never	
+Emai	24	BUILD	hu	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	24	BUILD	hu	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	24	BUILD	hu	Locative omission	Never	
+Emai	24	BUILD	hu	Object omission	Never	
+Emai	24	BUILD	hu	Projected adherence insertion	Never	
+Emai	24	BUILD	zẹ(2)	Addressee li + hon insertion	Never	
+Emai	24	BUILD	zẹ(2)	Addressee vbiee insertion	Never	
+Emai	24	BUILD	zẹ(2)	Allative insertion	Never	
+Emai	24	BUILD	zẹ(2)	Ambitransitive	Never	
+Emai	24	BUILD	zẹ(2)	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	24	BUILD	zẹ(2)	Causative insertion	Never	
+Emai	24	BUILD	zẹ(2)	Distributive locative insertion (specific)	Regularly	
+Emai	24	BUILD	zẹ(2)	Distributive locative insertion (unspecific)	Never	
+Emai	24	BUILD	zẹ(2)	Elative insertion	Never	
+Emai	24	BUILD	zẹ(2)	External possessor alternation	Never	
+Emai	24	BUILD	zẹ(2)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	24	BUILD	zẹ(2)	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	24	BUILD	zẹ(2)	Locative omission	Never	
+Emai	24	BUILD	zẹ(2)	Object omission	Never	
+Emai	24	BUILD	zẹ(2)	Projected adherence insertion	Never	
+Emai	25	BREAK	gbe a	Addressee li + hon insertion	Never	
+Emai	25	BREAK	gbe a	Addressee vbiee insertion	Never	
+Emai	25	BREAK	gbe a	Allative insertion	Never	
+Emai	25	BREAK	gbe a	Ambitransitive	Regularly	2>V'
+Emai	25	BREAK	gbe a	Applicative li insertion	Never	
+Emai	25	BREAK	gbe a	Causative insertion	Never	
+Emai	25	BREAK	gbe a	Distributive locative insertion (specific)	Never	
+Emai	25	BREAK	gbe a	Distributive locative insertion (unspecific)	Never	
+Emai	25	BREAK	gbe a	Elative insertion	Never	
+Emai	25	BREAK	gbe a	External possessor alternation	Marginally	
+Emai	25	BREAK	gbe a	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	25	BREAK	gbe a	Locative change of state	Never	
+Emai	25	BREAK	gbe a	Locative omission	Never	
+Emai	25	BREAK	gbe a	Object omission	Never	
+Emai	25	BREAK	gbe a	Projected adherence insertion	Never	
+Emai	25	BREAK	gboo ku a	Addressee li + hon insertion	Never	
+Emai	25	BREAK	gboo ku a	Addressee vbiee insertion	Never	
+Emai	25	BREAK	gboo ku a	Allative insertion	Never	
+Emai	25	BREAK	gboo ku a	Ambitransitive	Regularly	2>V'
+Emai	25	BREAK	gboo ku a	Applicative li insertion	Never	
+Emai	25	BREAK	gboo ku a	Causative insertion	Never	
+Emai	25	BREAK	gboo ku a	Distributive locative insertion (specific)	Marginally	
+Emai	25	BREAK	gboo ku a	Distributive locative insertion (unspecific)	Regularly	
+Emai	25	BREAK	gboo ku a	Elative insertion	Never	
+Emai	25	BREAK	gboo ku a	External possessor alternation	Marginally	
+Emai	25	BREAK	gboo ku a	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	25	BREAK	gboo ku a	Locative change of state	Never	
+Emai	25	BREAK	gboo ku a	Locative omission	Never	
+Emai	25	BREAK	gboo ku a	Object omission	Never	
+Emai	25	BREAK	gboo ku a	Projected adherence insertion	Never	
+Emai	25	BREAK	guọghọ	Addressee li + hon insertion	Never	
+Emai	25	BREAK	guọghọ	Addressee vbiee insertion	Never	
+Emai	25	BREAK	guọghọ	Allative insertion	Never	
+Emai	25	BREAK	guọghọ	Ambitransitive	Regularly	2>V'
+Emai	25	BREAK	guọghọ	Applicative li insertion	Never	
+Emai	25	BREAK	guọghọ	Causative insertion	Never	
+Emai	25	BREAK	guọghọ	Distributive locative insertion (specific)	Regularly	
+Emai	25	BREAK	guọghọ	Distributive locative insertion (unspecific)	Regularly	
+Emai	25	BREAK	guọghọ	Elative insertion	Never	
+Emai	25	BREAK	guọghọ	External possessor alternation	Regularly	
+Emai	25	BREAK	guọghọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	25	BREAK	guọghọ	Locative change of state	Never	
+Emai	25	BREAK	guọghọ	Locative omission	Never	
+Emai	25	BREAK	guọghọ	Object omission	Never	
+Emai	25	BREAK	guọghọ	Projected adherence insertion	Never	
+Emai	26	KILL	gbe (1)	Addressee li + hon insertion	Never	
+Emai	26	KILL	gbe (1)	Addressee vbiee insertion	Never	
+Emai	26	KILL	gbe (1)	Allative insertion	Never	
+Emai	26	KILL	gbe (1)	Ambitransitive	Never	
+Emai	26	KILL	gbe (1)	Applicative li insertion	Never	
+Emai	26	KILL	gbe (1)	Causative insertion	Never	
+Emai	26	KILL	gbe (1)	Distributive locative insertion (specific)	Never	
+Emai	26	KILL	gbe (1)	Distributive locative insertion (unspecific)	Never	
+Emai	26	KILL	gbe (1)	Elative insertion	Never	
+Emai	26	KILL	gbe (1)	External possessor alternation	Regularly	
+Emai	26	KILL	gbe (1)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	26	KILL	gbe (1)	Locative change of state	Never	
+Emai	26	KILL	gbe (1)	Locative omission	Never	
+Emai	26	KILL	gbe (1)	Object omission	Never	
+Emai	26	KILL	gbe (1)	Projected adherence insertion	Never	
+Emai	26	KILL	gboo	Addressee li + hon insertion	Never	
+Emai	26	KILL	gboo	Addressee vbiee insertion	Never	
+Emai	26	KILL	gboo	Allative insertion	Never	
+Emai	26	KILL	gboo	Ambitransitive	Never	
+Emai	26	KILL	gboo	Applicative li insertion	Never	
+Emai	26	KILL	gboo	Causative insertion	Never	
+Emai	26	KILL	gboo	Distributive locative insertion (specific)	Regularly	
+Emai	26	KILL	gboo	Distributive locative insertion (unspecific)	Regularly	
+Emai	26	KILL	gboo	Elative insertion	Never	
+Emai	26	KILL	gboo	External possessor alternation	Regularly	
+Emai	26	KILL	gboo	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	26	KILL	gboo	Locative change of state	Never	
+Emai	26	KILL	gboo	Locative omission	Never	
+Emai	26	KILL	gboo	Object omission	Never	
+Emai	26	KILL	gboo	Projected adherence insertion	Never	
+Emai	27	BEAT	gbe (2)	Addressee li + hon insertion	Never	
+Emai	27	BEAT	gbe (2)	Addressee vbiee insertion	Never	
+Emai	27	BEAT	gbe (2)	Allative insertion	Never	
+Emai	27	BEAT	gbe (2)	Ambitransitive	Never	
+Emai	27	BEAT	gbe (2)	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	27	BEAT	gbe (2)	Causative insertion	Never	
+Emai	27	BEAT	gbe (2)	Distributive locative insertion (specific)	Never	
+Emai	27	BEAT	gbe (2)	Distributive locative insertion (unspecific)	Never	
+Emai	27	BEAT	gbe (2)	Elative insertion	Never	
+Emai	27	BEAT	gbe (2)	External possessor alternation	Never	
+Emai	27	BEAT	gbe (2)	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	27	BEAT	gbe (2)	Locative change of state	Never	
+Emai	27	BEAT	gbe (2)	Locative omission	Never	
+Emai	27	BEAT	gbe (2)	Object omission	Never	
+Emai	27	BEAT	gbe (2)	Projected adherence insertion	Never	
+Emai	28	HIT	fi (1)	Addressee li + hon insertion	Never	
+Emai	28	HIT	fi (1)	Addressee vbiee insertion	Never	
+Emai	28	HIT	fi (1)	Allative insertion	Never	
+Emai	28	HIT	fi (1)	Ambitransitive	Marginally	
+Emai	28	HIT	fi (1)	Applicative li insertion	Never	
+Emai	28	HIT	fi (1)	Causative insertion	Never	
+Emai	28	HIT	fi (1)	Distributive locative insertion (specific)	Never	
+Emai	28	HIT	fi (1)	Distributive locative insertion (unspecific)	Never	
+Emai	28	HIT	fi (1)	Elative insertion	Never	
+Emai	28	HIT	fi (1)	External possessor alternation	Never	
+Emai	28	HIT	fi (1)	Instrument insertion	Never	
+Emai	28	HIT	fi (1)	Locative change of state	Never	
+Emai	28	HIT	fi (1)	Locative omission	Regularly	1>V'>2>3
+Emai	28	HIT	fi (1)	Object omission	Never	
+Emai	28	HIT	fi (1)	Projected adherence insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Addressee li + hon insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Addressee vbiee insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Allative insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Ambitransitive	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Applicative li insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Causative insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Distributive locative insertion (specific)	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Distributive locative insertion (unspecific)	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Elative insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	External possessor alternation	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Instrument insertion	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Locative change of state	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Locative omission	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Object omission	Never	
+Emai	29	TOUCH	rẹ óbọ̀ so	Projected adherence insertion	Never	
+Emai	30	CUT	bẹnnọ	Addressee li + hon insertion	Never	
+Emai	30	CUT	bẹnnọ	Addressee vbiee insertion	Never	
+Emai	30	CUT	bẹnnọ	Allative insertion	Never	
+Emai	30	CUT	bẹnnọ	Ambitransitive	Never	
+Emai	30	CUT	bẹnnọ	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	30	CUT	bẹnnọ	Causative insertion	Never	
+Emai	30	CUT	bẹnnọ	Distributive locative insertion (specific)	Regularly	
+Emai	30	CUT	bẹnnọ	Distributive locative insertion (unspecific)	Regularly	
+Emai	30	CUT	bẹnnọ	Elative insertion	Never	
+Emai	30	CUT	bẹnnọ	External possessor alternation	Never	
+Emai	30	CUT	bẹnnọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	30	CUT	bẹnnọ	Locative change of state	Never	
+Emai	30	CUT	bẹnnọ	Locative omission	Never	
+Emai	30	CUT	bẹnnọ	Object omission	Never	
+Emai	30	CUT	bẹnnọ	Projected adherence insertion	Never	
+Emai	30	CUT	hian	Addressee li + hon insertion	Never	
+Emai	30	CUT	hian	Addressee vbiee insertion	Never	
+Emai	30	CUT	hian	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	30	CUT	hian	Ambitransitive	Regularly	2>V'
+Emai	30	CUT	hian	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	30	CUT	hian	Causative insertion	Never	
+Emai	30	CUT	hian	Distributive locative insertion (specific)	Regularly	
+Emai	30	CUT	hian	Distributive locative insertion (unspecific)	Never	
+Emai	30	CUT	hian	Elative insertion	Never	
+Emai	30	CUT	hian	External possessor alternation	Regularly	
+Emai	30	CUT	hian	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	30	CUT	hian	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	30	CUT	hian	Locative omission	Never	
+Emai	30	CUT	hian	Object omission	Never	
+Emai	30	CUT	hian	Projected adherence insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Addressee li + hon insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Addressee vbiee insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Allative insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Ambitransitive	Never	
+Emai	31	TAKE	miẹẹ (1)	Applicative li insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Causative insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Distributive locative insertion (specific)	Never	
+Emai	31	TAKE	miẹẹ (1)	Distributive locative insertion (unspecific)	Never	
+Emai	31	TAKE	miẹẹ (1)	Elative insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	External possessor alternation	Regularly	
+Emai	31	TAKE	miẹẹ (1)	Instrument insertion	Never	
+Emai	31	TAKE	miẹẹ (1)	Locative change of state	Never	
+Emai	31	TAKE	miẹẹ (1)	Locative omission	Regularly	1>V'>2>3
+Emai	31	TAKE	miẹẹ (1)	Object omission	Never	
+Emai	31	TAKE	miẹẹ (1)	Projected adherence insertion	Never	
+Emai	32	TEAR	nya a	Addressee li + hon insertion	Never	
+Emai	32	TEAR	nya a	Addressee vbiee insertion	Never	
+Emai	32	TEAR	nya a	Allative insertion	Never	
+Emai	32	TEAR	nya a	Ambitransitive	Regularly	2>V'
+Emai	32	TEAR	nya a	Applicative li insertion	Never	
+Emai	32	TEAR	nya a	Causative insertion	Never	
+Emai	32	TEAR	nya a	Distributive locative insertion (specific)	Never	
+Emai	32	TEAR	nya a	Distributive locative insertion (unspecific)	Never	
+Emai	32	TEAR	nya a	Elative insertion	Regularly	1>V'>2>vbi+6+re
+Emai	32	TEAR	nya a	External possessor alternation	Never	
+Emai	32	TEAR	nya a	Instrument insertion	Never	
+Emai	32	TEAR	nya a	Locative change of state	Never	
+Emai	32	TEAR	nya a	Locative omission	Never	
+Emai	32	TEAR	nya a	Object omission	Never	
+Emai	32	TEAR	nya a	Projected adherence insertion	Never	
+Emai	33	PEEL	bolo	Addressee li + hon insertion	Never	
+Emai	33	PEEL	bolo	Addressee vbiee insertion	Never	
+Emai	33	PEEL	bolo	Allative insertion	Never	
+Emai	33	PEEL	bolo	Ambitransitive	Never	
+Emai	33	PEEL	bolo	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	33	PEEL	bolo	Causative insertion	Never	
+Emai	33	PEEL	bolo	Distributive locative insertion (specific)	Regularly	
+Emai	33	PEEL	bolo	Distributive locative insertion (unspecific)	Never	
+Emai	33	PEEL	bolo	Elative insertion	Never	
+Emai	33	PEEL	bolo	External possessor alternation	Never	
+Emai	33	PEEL	bolo	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	33	PEEL	bolo	Locative change of state	Never	
+Emai	33	PEEL	bolo	Locative omission	Never	
+Emai	33	PEEL	bolo	Object omission	Never	
+Emai	33	PEEL	bolo	Projected adherence insertion	Never	
+Emai	33	PEEL	fọlọ	Addressee li + hon insertion	Never	
+Emai	33	PEEL	fọlọ	Addressee vbiee insertion	Never	
+Emai	33	PEEL	fọlọ	Allative insertion	Never	
+Emai	33	PEEL	fọlọ	Ambitransitive	Never	
+Emai	33	PEEL	fọlọ	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	33	PEEL	fọlọ	Causative insertion	Never	
+Emai	33	PEEL	fọlọ	Distributive locative insertion (specific)	Never	
+Emai	33	PEEL	fọlọ	Distributive locative insertion (unspecific)	Never	
+Emai	33	PEEL	fọlọ	Elative insertion	Never	
+Emai	33	PEEL	fọlọ	External possessor alternation	Never	
+Emai	33	PEEL	fọlọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	33	PEEL	fọlọ	Locative change of state	Never	
+Emai	33	PEEL	fọlọ	Locative omission	Never	
+Emai	33	PEEL	fọlọ	Object omission	Never	
+Emai	33	PEEL	fọlọ	Projected adherence insertion	Never	
+Emai	34	HIDE	V hee	Addressee li + hon insertion	Never	
+Emai	34	HIDE	V hee	Addressee vbiee insertion	Never	
+Emai	34	HIDE	V hee	Allative insertion	Never	
+Emai	34	HIDE	V hee	Ambitransitive	Regularly	2>V'
+Emai	34	HIDE	V hee	Applicative li insertion	Marginally	
+Emai	34	HIDE	V hee	Causative insertion	Never	
+Emai	34	HIDE	V hee	Distributive locative insertion (specific)	Never	
+Emai	34	HIDE	V hee	Distributive locative insertion (unspecific)	Never	
+Emai	34	HIDE	V hee	Elative insertion	Never	
+Emai	34	HIDE	V hee	External possessor alternation	Never	
+Emai	34	HIDE	V hee	Instrument insertion	Never	
+Emai	34	HIDE	V hee	Locative change of state	Never	
+Emai	34	HIDE	V hee	Locative omission	Never	
+Emai	34	HIDE	V hee	Object omission	Never	
+Emai	34	HIDE	V hee	Projected adherence insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Addressee li + hon insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Addressee vbiee insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Allative insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Ambitransitive	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Applicative li insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Causative insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Distributive locative insertion (specific)	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Distributive locative insertion (unspecific)	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Elative insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	External possessor alternation	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Instrument insertion	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Locative change of state	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Locative omission	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Object omission	Never	
+Emai	35	SHOW	rẹ vbiẹẹ	Projected adherence insertion	Never	
+Emai	36	GIVE	V li	Addressee li + hon insertion	Never	
+Emai	36	GIVE	V li	Addressee vbiee insertion	Never	
+Emai	36	GIVE	V li	Allative insertion	Never	
+Emai	36	GIVE	V li	Ambitransitive	Never	
+Emai	36	GIVE	V li	Applicative li insertion	Never	
+Emai	36	GIVE	V li	Causative insertion	Never	
+Emai	36	GIVE	V li	Distributive locative insertion (specific)	Never	
+Emai	36	GIVE	V li	Distributive locative insertion (unspecific)	Never	
+Emai	36	GIVE	V li	Elative insertion	Never	
+Emai	36	GIVE	V li	External possessor alternation	Never	
+Emai	36	GIVE	V li	Instrument insertion	Never	
+Emai	36	GIVE	V li	Locative change of state	Never	
+Emai	36	GIVE	V li	Locative omission	Never	
+Emai	36	GIVE	V li	Object omission	Never	
+Emai	36	GIVE	V li	Projected adherence insertion	Never	
+Emai	37	SEND	ye	Addressee li + hon insertion	Never	
+Emai	37	SEND	ye	Addressee vbiee insertion	Never	
+Emai	37	SEND	ye	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	37	SEND	ye	Ambitransitive	Never	
+Emai	37	SEND	ye	Applicative li insertion	Never	
+Emai	37	SEND	ye	Causative insertion	Never	
+Emai	37	SEND	ye	Distributive locative insertion (specific)	Never	
+Emai	37	SEND	ye	Distributive locative insertion (unspecific)	Never	
+Emai	37	SEND	ye	Elative insertion	Never	
+Emai	37	SEND	ye	External possessor alternation	Never	
+Emai	37	SEND	ye	Instrument insertion	Never	
+Emai	37	SEND	ye	Locative change of state	Never	
+Emai	37	SEND	ye	Locative omission	Never	
+Emai	37	SEND	ye	Object omission	Never	
+Emai	37	SEND	ye	Projected adherence insertion	Never	
+Emai	37	SEND	ye úhùnmì	Addressee li + hon insertion	Never	
+Emai	37	SEND	ye úhùnmì	Addressee vbiee insertion	Never	
+Emai	37	SEND	ye úhùnmì	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	37	SEND	ye úhùnmì	Ambitransitive	Never	
+Emai	37	SEND	ye úhùnmì	Applicative li insertion	Never	
+Emai	37	SEND	ye úhùnmì	Causative insertion	Never	
+Emai	37	SEND	ye úhùnmì	Distributive locative insertion (specific)	Never	
+Emai	37	SEND	ye úhùnmì	Distributive locative insertion (unspecific)	Never	
+Emai	37	SEND	ye úhùnmì	Elative insertion	Never	
+Emai	37	SEND	ye úhùnmì	External possessor alternation	Never	
+Emai	37	SEND	ye úhùnmì	Instrument insertion	Never	
+Emai	37	SEND	ye úhùnmì	Locative change of state	Never	
+Emai	37	SEND	ye úhùnmì	Locative omission	Never	
+Emai	37	SEND	ye úhùnmì	Object omission	Never	
+Emai	37	SEND	ye úhùnmì	Projected adherence insertion	Never	
+Emai	38	CARRY	nwu	Addressee li + hon insertion	Never	
+Emai	38	CARRY	nwu	Addressee vbiee insertion	Never	
+Emai	38	CARRY	nwu	Allative insertion	Never	
+Emai	38	CARRY	nwu	Ambitransitive	Never	
+Emai	38	CARRY	nwu	Applicative li insertion	Never	
+Emai	38	CARRY	nwu	Causative insertion	Never	
+Emai	38	CARRY	nwu	Distributive locative insertion (specific)	Never	
+Emai	38	CARRY	nwu	Distributive locative insertion (unspecific)	Never	
+Emai	38	CARRY	nwu	Elative insertion	Never	
+Emai	38	CARRY	nwu	External possessor alternation	Regularly	
+Emai	38	CARRY	nwu	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	38	CARRY	nwu	Locative change of state	Never	
+Emai	38	CARRY	nwu	Locative omission	Never	
+Emai	38	CARRY	nwu	Object omission	Never	
+Emai	38	CARRY	nwu	Projected adherence insertion	Never	
+Emai	39	THROW	fi (2)	Addressee li + hon insertion	Never	
+Emai	39	THROW	fi (2)	Addressee vbiee insertion	Never	
+Emai	39	THROW	fi (2)	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	39	THROW	fi (2)	Ambitransitive	Never	
+Emai	39	THROW	fi (2)	Applicative li insertion	Never	
+Emai	39	THROW	fi (2)	Causative insertion	Never	
+Emai	39	THROW	fi (2)	Distributive locative insertion (specific)	Regularly	
+Emai	39	THROW	fi (2)	Distributive locative insertion (unspecific)	Regularly	
+Emai	39	THROW	fi (2)	Elative insertion	Never	
+Emai	39	THROW	fi (2)	External possessor alternation	Marginally	
+Emai	39	THROW	fi (2)	Instrument insertion	Never	
+Emai	39	THROW	fi (2)	Locative change of state	Never	
+Emai	39	THROW	fi (2)	Locative omission	Never	
+Emai	39	THROW	fi (2)	Object omission	Never	
+Emai	39	THROW	fi (2)	Projected adherence insertion	Regularly	1>V'>2>fi/ku+e+5
+Emai	40	TIE	din	Addressee li + hon insertion	Never	
+Emai	40	TIE	din	Addressee vbiee insertion	Never	
+Emai	40	TIE	din	Allative insertion	Never	
+Emai	40	TIE	din	Ambitransitive	Never	
+Emai	40	TIE	din	Applicative li insertion	Never	
+Emai	40	TIE	din	Causative insertion	Never	
+Emai	40	TIE	din	Distributive locative insertion (specific)	Never	
+Emai	40	TIE	din	Distributive locative insertion (unspecific)	Never	
+Emai	40	TIE	din	Elative insertion	Never	
+Emai	40	TIE	din	External possessor alternation	Never	
+Emai	40	TIE	din	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	40	TIE	din	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	40	TIE	din	Locative omission	Never	
+Emai	40	TIE	din	Object omission	Never	
+Emai	40	TIE	din	Projected adherence insertion	Never	
+Emai	40	TIE	gba	Addressee li + hon insertion	Never	
+Emai	40	TIE	gba	Addressee vbiee insertion	Never	
+Emai	40	TIE	gba	Allative insertion	Never	
+Emai	40	TIE	gba	Ambitransitive	Never	
+Emai	40	TIE	gba	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	40	TIE	gba	Causative insertion	Never	
+Emai	40	TIE	gba	Distributive locative insertion (specific)	Never	
+Emai	40	TIE	gba	Distributive locative insertion (unspecific)	Never	
+Emai	40	TIE	gba	Elative insertion	Never	
+Emai	40	TIE	gba	External possessor alternation	Never	
+Emai	40	TIE	gba	Instrument insertion	Never	
+Emai	40	TIE	gba	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	40	TIE	gba	Locative omission	Never	
+Emai	40	TIE	gba	Object omission	Never	
+Emai	40	TIE	gba	Projected adherence insertion	Never	
+Emai	40	TIE	gba íì	Addressee li + hon insertion	Never	
+Emai	40	TIE	gba íì	Addressee vbiee insertion	Never	
+Emai	40	TIE	gba íì	Allative insertion	Never	
+Emai	40	TIE	gba íì	Ambitransitive	Never	
+Emai	40	TIE	gba íì	Applicative li insertion	Never	
+Emai	40	TIE	gba íì	Causative insertion	Never	
+Emai	40	TIE	gba íì	Distributive locative insertion (specific)	Never	
+Emai	40	TIE	gba íì	Distributive locative insertion (unspecific)	Never	
+Emai	40	TIE	gba íì	Elative insertion	Never	
+Emai	40	TIE	gba íì	External possessor alternation	Never	
+Emai	40	TIE	gba íì	Instrument insertion	Never	
+Emai	40	TIE	gba íì	Locative change of state	Never	
+Emai	40	TIE	gba íì	Locative omission	Never	
+Emai	40	TIE	gba íì	Object omission	Never	
+Emai	40	TIE	gba íì	Projected adherence insertion	Never	
+Emai	41	PUT	V ọ	Addressee li + hon insertion	Never	
+Emai	41	PUT	V ọ	Addressee vbiee insertion	Never	
+Emai	41	PUT	V ọ	Allative insertion	Never	
+Emai	41	PUT	V ọ	Ambitransitive	Never	
+Emai	41	PUT	V ọ	Applicative li insertion	Never	
+Emai	41	PUT	V ọ	Causative insertion	Never	
+Emai	41	PUT	V ọ	Distributive locative insertion (specific)	Never	
+Emai	41	PUT	V ọ	Distributive locative insertion (unspecific)	Never	
+Emai	41	PUT	V ọ	Elative insertion	Never	
+Emai	41	PUT	V ọ	External possessor alternation	Regularly	
+Emai	41	PUT	V ọ	Instrument insertion	Never	
+Emai	41	PUT	V ọ	Locative change of state	Never	
+Emai	41	PUT	V ọ	Locative omission	Never	
+Emai	41	PUT	V ọ	Object omission	Never	
+Emai	41	PUT	V ọ	Projected adherence insertion	Never	
+Emai	42	POUR	ọọn ọ́	Addressee li + hon insertion	Never	
+Emai	42	POUR	ọọn ọ́	Addressee vbiee insertion	Never	
+Emai	42	POUR	ọọn ọ́	Allative insertion	Never	
+Emai	42	POUR	ọọn ọ́	Ambitransitive	Never	
+Emai	42	POUR	ọọn ọ́	Applicative li insertion	Never	
+Emai	42	POUR	ọọn ọ́	Causative insertion	Never	
+Emai	42	POUR	ọọn ọ́	Distributive locative insertion (specific)	Never	
+Emai	42	POUR	ọọn ọ́	Distributive locative insertion (unspecific)	Never	
+Emai	42	POUR	ọọn ọ́	Elative insertion	Never	
+Emai	42	POUR	ọọn ọ́	External possessor alternation	Regularly	
+Emai	42	POUR	ọọn ọ́	Instrument insertion	Regularly	1>re+4>V'>2>vbi+3
+Emai	42	POUR	ọọn ọ́	Locative change of state	Never	
+Emai	42	POUR	ọọn ọ́	Locative omission	Never	
+Emai	42	POUR	ọọn ọ́	Object omission	Never	
+Emai	42	POUR	ọọn ọ́	Projected adherence insertion	Never	
+Emai	43	COVER	voo	Addressee li + hon insertion	Never	
+Emai	43	COVER	voo	Addressee vbiee insertion	Never	
+Emai	43	COVER	voo	Allative insertion	Never	
+Emai	43	COVER	voo	Ambitransitive	Never	
+Emai	43	COVER	voo	Applicative li insertion	Never	
+Emai	43	COVER	voo	Causative insertion	Never	
+Emai	43	COVER	voo	Distributive locative insertion (specific)	Never	
+Emai	43	COVER	voo	Distributive locative insertion (unspecific)	Never	
+Emai	43	COVER	voo	Elative insertion	Never	
+Emai	43	COVER	voo	External possessor alternation	Never	
+Emai	43	COVER	voo	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	43	COVER	voo	Locative change of state	Never	
+Emai	43	COVER	voo	Locative omission	Never	
+Emai	43	COVER	voo	Object omission	Never	
+Emai	43	COVER	voo	Projected adherence insertion	Never	
+Emai	44	FILL	khaan	Addressee li + hon insertion	Never	
+Emai	44	FILL	khaan	Addressee vbiee insertion	Never	
+Emai	44	FILL	khaan	Allative insertion	Never	
+Emai	44	FILL	khaan	Ambitransitive	Never	
+Emai	44	FILL	khaan	Applicative li insertion	Never	
+Emai	44	FILL	khaan	Causative insertion	Never	
+Emai	44	FILL	khaan	Distributive locative insertion (specific)	Never	
+Emai	44	FILL	khaan	Distributive locative insertion (unspecific)	Never	
+Emai	44	FILL	khaan	Elative insertion	Never	
+Emai	44	FILL	khaan	External possessor alternation	Never	
+Emai	44	FILL	khaan	Instrument insertion	Never	
+Emai	44	FILL	khaan	Locative change of state	Never	
+Emai	44	FILL	khaan	Locative omission	Never	
+Emai	44	FILL	khaan	Object omission	Never	
+Emai	44	FILL	khaan	Projected adherence insertion	Never	
+Emai	44	FILL	vọọn	Addressee li + hon insertion	Never	
+Emai	44	FILL	vọọn	Addressee vbiee insertion	Never	
+Emai	44	FILL	vọọn	Allative insertion	Never	
+Emai	44	FILL	vọọn	Ambitransitive	Regularly	2>V'
+Emai	44	FILL	vọọn	Applicative li insertion	Never	
+Emai	44	FILL	vọọn	Causative insertion	Never	
+Emai	44	FILL	vọọn	Distributive locative insertion (specific)	Never	
+Emai	44	FILL	vọọn	Distributive locative insertion (unspecific)	Never	
+Emai	44	FILL	vọọn	Elative insertion	Never	
+Emai	44	FILL	vọọn	External possessor alternation	Never	
+Emai	44	FILL	vọọn	Instrument insertion	Never	
+Emai	44	FILL	vọọn	Locative change of state	Never	
+Emai	44	FILL	vọọn	Locative omission	Never	
+Emai	44	FILL	vọọn	Object omission	Never	
+Emai	44	FILL	vọọn	Projected adherence insertion	Never	
+Emai	45	LOAD	hee	Addressee li + hon insertion	Never	
+Emai	45	LOAD	hee	Addressee vbiee insertion	Never	
+Emai	45	LOAD	hee	Allative insertion	Never	
+Emai	45	LOAD	hee	Ambitransitive	Never	
+Emai	45	LOAD	hee	Applicative li insertion	Never	
+Emai	45	LOAD	hee	Causative insertion	Never	
+Emai	45	LOAD	hee	Distributive locative insertion (specific)	Never	
+Emai	45	LOAD	hee	Distributive locative insertion (unspecific)	Never	
+Emai	45	LOAD	hee	Elative insertion	Never	
+Emai	45	LOAD	hee	External possessor alternation	Never	
+Emai	45	LOAD	hee	Instrument insertion	Never	
+Emai	45	LOAD	hee	Locative change of state	Never	
+Emai	45	LOAD	hee	Locative omission	Never	
+Emai	45	LOAD	hee	Object omission	Never	
+Emai	45	LOAD	hee	Projected adherence insertion	Never	
+Emai	45	LOAD	maa	Addressee li + hon insertion	Never	
+Emai	45	LOAD	maa	Addressee vbiee insertion	Never	
+Emai	45	LOAD	maa	Allative insertion	Never	
+Emai	45	LOAD	maa	Ambitransitive	Never	
+Emai	45	LOAD	maa	Applicative li insertion	Never	
+Emai	45	LOAD	maa	Causative insertion	Never	
+Emai	45	LOAD	maa	Distributive locative insertion (specific)	Never	
+Emai	45	LOAD	maa	Distributive locative insertion (unspecific)	Never	
+Emai	45	LOAD	maa	Elative insertion	Never	
+Emai	45	LOAD	maa	External possessor alternation	Marginally	
+Emai	45	LOAD	maa	Instrument insertion	Never	
+Emai	45	LOAD	maa	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	45	LOAD	maa	Locative omission	Never	
+Emai	45	LOAD	maa	Object omission	Never	
+Emai	45	LOAD	maa	Projected adherence insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Addressee li + hon insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Addressee vbiee insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Allative insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Ambitransitive	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Applicative li insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Causative insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Distributive locative insertion (specific)	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Distributive locative insertion (unspecific)	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Elative insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	External possessor alternation	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Instrument insertion	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Locative change of state	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Locative omission	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Object omission	Never	
+Emai	46	BLINK	gbe ẹ̀ò	Projected adherence insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Addressee li + hon insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Addressee vbiee insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Allative insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Ambitransitive	Never	
+Emai	47	COUGH	kẹnhẹn	Applicative li insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Causative insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Distributive locative insertion (specific)	Regularly	
+Emai	47	COUGH	kẹnhẹn	Distributive locative insertion (unspecific)	Regularly	
+Emai	47	COUGH	kẹnhẹn	Elative insertion	Never	
+Emai	47	COUGH	kẹnhẹn	External possessor alternation	Never	
+Emai	47	COUGH	kẹnhẹn	Instrument insertion	Never	
+Emai	47	COUGH	kẹnhẹn	Locative change of state	Never	
+Emai	47	COUGH	kẹnhẹn	Locative omission	Never	
+Emai	47	COUGH	kẹnhẹn	Object omission	Never	
+Emai	47	COUGH	kẹnhẹn	Projected adherence insertion	Never	
+Emai	48	CLIMB	hẹẹn	Addressee li + hon insertion	Never	
+Emai	48	CLIMB	hẹẹn	Addressee vbiee insertion	Never	
+Emai	48	CLIMB	hẹẹn	Allative insertion	Never	
+Emai	48	CLIMB	hẹẹn	Ambitransitive	Never	
+Emai	48	CLIMB	hẹẹn	Applicative li insertion	Never	
+Emai	48	CLIMB	hẹẹn	Causative insertion	Never	
+Emai	48	CLIMB	hẹẹn	Distributive locative insertion (specific)	Never	
+Emai	48	CLIMB	hẹẹn	Distributive locative insertion (unspecific)	Never	
+Emai	48	CLIMB	hẹẹn	Elative insertion	Never	
+Emai	48	CLIMB	hẹẹn	External possessor alternation	Never	
+Emai	48	CLIMB	hẹẹn	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	48	CLIMB	hẹẹn	Locative change of state	Never	
+Emai	48	CLIMB	hẹẹn	Locative omission	Never	
+Emai	48	CLIMB	hẹẹn	Object omission	Never	
+Emai	48	CLIMB	hẹẹn	Projected adherence insertion	Never	
+Emai	49	RUN	la	Addressee li + hon insertion	Never	
+Emai	49	RUN	la	Addressee vbiee insertion	Never	
+Emai	49	RUN	la	Allative insertion	Never	
+Emai	49	RUN	la	Ambitransitive	Never	
+Emai	49	RUN	la	Applicative li insertion	Regularly	1>V'>lí+2
+Emai	49	RUN	la	Causative insertion	Never	
+Emai	49	RUN	la	Distributive locative insertion (specific)	Never	
+Emai	49	RUN	la	Distributive locative insertion (unspecific)	Regularly	
+Emai	49	RUN	la	Elative insertion	Never	
+Emai	49	RUN	la	External possessor alternation	Never	
+Emai	49	RUN	la	Instrument insertion	Never	
+Emai	49	RUN	la	Locative change of state	Never	
+Emai	49	RUN	la	Locative omission	Never	
+Emai	49	RUN	la	Object omission	Never	
+Emai	49	RUN	la	Projected adherence insertion	Never	
+Emai	50	SIT	dia (1)	Addressee li + hon insertion	Never	
+Emai	50	SIT	dia (1)	Addressee vbiee insertion	Never	
+Emai	50	SIT	dia (1)	Allative insertion	Never	
+Emai	50	SIT	dia (1)	Ambitransitive	Never	
+Emai	50	SIT	dia (1)	Applicative li insertion	Never	
+Emai	50	SIT	dia (1)	Causative insertion	Never	
+Emai	50	SIT	dia (1)	Distributive locative insertion (specific)	Never	
+Emai	50	SIT	dia (1)	Distributive locative insertion (unspecific)	Never	
+Emai	50	SIT	dia (1)	Elative insertion	Never	
+Emai	50	SIT	dia (1)	External possessor alternation	Never	
+Emai	50	SIT	dia (1)	Instrument insertion	Marginally	
+Emai	50	SIT	dia (1)	Locative change of state	Never	
+Emai	50	SIT	dia (1)	Locative omission	Never	
+Emai	50	SIT	dia (1)	Object omission	Never	
+Emai	50	SIT	dia (1)	Projected adherence insertion	Never	
+Emai	52	JUMP	san	Addressee li + hon insertion	Never	
+Emai	52	JUMP	san	Addressee vbiee insertion	Never	
+Emai	52	JUMP	san	Allative insertion	Never	
+Emai	52	JUMP	san	Ambitransitive	Never	
+Emai	52	JUMP	san	Applicative li insertion	Never	
+Emai	52	JUMP	san	Causative insertion	Never	
+Emai	52	JUMP	san	Distributive locative insertion (specific)	Regularly	
+Emai	52	JUMP	san	Distributive locative insertion (unspecific)	Regularly	
+Emai	52	JUMP	san	Elative insertion	Never	
+Emai	52	JUMP	san	External possessor alternation	Never	
+Emai	52	JUMP	san	Instrument insertion	Never	
+Emai	52	JUMP	san	Locative change of state	Never	
+Emai	52	JUMP	san	Locative omission	Never	
+Emai	52	JUMP	san	Object omission	Never	
+Emai	52	JUMP	san	Projected adherence insertion	Never	
+Emai	52	JUMP	vbọọ	Addressee li + hon insertion	Never	
+Emai	52	JUMP	vbọọ	Addressee vbiee insertion	Never	
+Emai	52	JUMP	vbọọ	Allative insertion	Never	
+Emai	52	JUMP	vbọọ	Ambitransitive	Never	
+Emai	52	JUMP	vbọọ	Applicative li insertion	Never	
+Emai	52	JUMP	vbọọ	Causative insertion	Never	
+Emai	52	JUMP	vbọọ	Distributive locative insertion (specific)	Regularly	
+Emai	52	JUMP	vbọọ	Distributive locative insertion (unspecific)	Regularly	
+Emai	52	JUMP	vbọọ	Elative insertion	Never	
+Emai	52	JUMP	vbọọ	External possessor alternation	Never	
+Emai	52	JUMP	vbọọ	Instrument insertion	Never	
+Emai	52	JUMP	vbọọ	Locative change of state	Never	
+Emai	52	JUMP	vbọọ	Locative omission	Never	
+Emai	52	JUMP	vbọọ	Object omission	Never	
+Emai	52	JUMP	vbọọ	Projected adherence insertion	Never	
+Emai	53	SING	so	Addressee li + hon insertion	Never	
+Emai	53	SING	so	Addressee vbiee insertion	Regularly	1>V'>2>vbiee+3
+Emai	53	SING	so	Allative insertion	Never	
+Emai	53	SING	so	Ambitransitive	Never	
+Emai	53	SING	so	Applicative li insertion	Never	
+Emai	53	SING	so	Causative insertion	Never	
+Emai	53	SING	so	Distributive locative insertion (specific)	Never	
+Emai	53	SING	so	Distributive locative insertion (unspecific)	Never	
+Emai	53	SING	so	Elative insertion	Never	
+Emai	53	SING	so	External possessor alternation	Never	
+Emai	53	SING	so	Instrument insertion	Never	
+Emai	53	SING	so	Locative change of state	Never	
+Emai	53	SING	so	Locative omission	Never	
+Emai	53	SING	so	Object omission	Never	
+Emai	53	SING	so	Projected adherence insertion	Never	
+Emai	54	GO	lodẹ	Addressee li + hon insertion	Never	
+Emai	54	GO	lodẹ	Addressee vbiee insertion	Never	
+Emai	54	GO	lodẹ	Allative insertion	Never	
+Emai	54	GO	lodẹ	Ambitransitive	Never	
+Emai	54	GO	lodẹ	Applicative li insertion	Never	
+Emai	54	GO	lodẹ	Causative insertion	Never	
+Emai	54	GO	lodẹ	Distributive locative insertion (specific)	Never	
+Emai	54	GO	lodẹ	Distributive locative insertion (unspecific)	Never	
+Emai	54	GO	lodẹ	Elative insertion	Never	
+Emai	54	GO	lodẹ	External possessor alternation	Never	
+Emai	54	GO	lodẹ	Instrument insertion	Never	
+Emai	54	GO	lodẹ	Locative change of state	Never	
+Emai	54	GO	lodẹ	Locative omission	Never	
+Emai	54	GO	lodẹ	Object omission	Never	
+Emai	54	GO	lodẹ	Projected adherence insertion	Never	
+Emai	55	LEAVE	shọọ re	Addressee li + hon insertion	Never	
+Emai	55	LEAVE	shọọ re	Addressee vbiee insertion	Never	
+Emai	55	LEAVE	shọọ re	Allative insertion	Never	
+Emai	55	LEAVE	shọọ re	Ambitransitive	Never	
+Emai	55	LEAVE	shọọ re	Applicative li insertion	Never	
+Emai	55	LEAVE	shọọ re	Causative insertion	Never	
+Emai	55	LEAVE	shọọ re	Distributive locative insertion (specific)	Never	
+Emai	55	LEAVE	shọọ re	Distributive locative insertion (unspecific)	Never	
+Emai	55	LEAVE	shọọ re	Elative insertion	Never	
+Emai	55	LEAVE	shọọ re	External possessor alternation	Never	
+Emai	55	LEAVE	shọọ re	Instrument insertion	Never	
+Emai	55	LEAVE	shọọ re	Locative change of state	Never	
+Emai	55	LEAVE	shọọ re	Locative omission	Regularly	1>V'
+Emai	55	LEAVE	shọọ re	Object omission	Never	
+Emai	55	LEAVE	shọọ re	Projected adherence insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Addressee li + hon insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Addressee vbiee insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Allative insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Ambitransitive	Never	
+Emai	55	LEAVE	zá raalẹ	Applicative li insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Causative insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Distributive locative insertion (specific)	Never	
+Emai	55	LEAVE	zá raalẹ	Distributive locative insertion (unspecific)	Never	
+Emai	55	LEAVE	zá raalẹ	Elative insertion	Never	
+Emai	55	LEAVE	zá raalẹ	External possessor alternation	Never	
+Emai	55	LEAVE	zá raalẹ	Instrument insertion	Never	
+Emai	55	LEAVE	zá raalẹ	Locative change of state	Never	
+Emai	55	LEAVE	zá raalẹ	Locative omission	Regularly	1>V'
+Emai	55	LEAVE	zá raalẹ	Object omission	Never	
+Emai	55	LEAVE	zá raalẹ	Projected adherence insertion	Never	
+Emai	56	LIVE	dia (2)	Addressee li + hon insertion	Never	
+Emai	56	LIVE	dia (2)	Addressee vbiee insertion	Never	
+Emai	56	LIVE	dia (2)	Allative insertion	Never	
+Emai	56	LIVE	dia (2)	Ambitransitive	Never	
+Emai	56	LIVE	dia (2)	Applicative li insertion	Never	
+Emai	56	LIVE	dia (2)	Causative insertion	Never	
+Emai	56	LIVE	dia (2)	Distributive locative insertion (specific)	Never	
+Emai	56	LIVE	dia (2)	Distributive locative insertion (unspecific)	Never	
+Emai	56	LIVE	dia (2)	Elative insertion	Never	
+Emai	56	LIVE	dia (2)	External possessor alternation	Never	
+Emai	56	LIVE	dia (2)	Instrument insertion	Never	
+Emai	56	LIVE	dia (2)	Locative change of state	Never	
+Emai	56	LIVE	dia (2)	Locative omission	Never	
+Emai	56	LIVE	dia (2)	Object omission	Never	
+Emai	56	LIVE	dia (2)	Projected adherence insertion	Never	
+Emai	57	LAUGH	jẹ	Addressee li + hon insertion	Never	
+Emai	57	LAUGH	jẹ	Addressee vbiee insertion	Never	
+Emai	57	LAUGH	jẹ	Allative insertion	Never	
+Emai	57	LAUGH	jẹ	Ambitransitive	Never	
+Emai	57	LAUGH	jẹ	Applicative li insertion	Never	
+Emai	57	LAUGH	jẹ	Causative insertion	Never	
+Emai	57	LAUGH	jẹ	Distributive locative insertion (specific)	Never	
+Emai	57	LAUGH	jẹ	Distributive locative insertion (unspecific)	Never	
+Emai	57	LAUGH	jẹ	Elative insertion	Never	
+Emai	57	LAUGH	jẹ	External possessor alternation	Never	
+Emai	57	LAUGH	jẹ	Instrument insertion	Never	
+Emai	57	LAUGH	jẹ	Locative change of state	Never	
+Emai	57	LAUGH	jẹ	Locative omission	Never	
+Emai	57	LAUGH	jẹ	Object omission	Regularly	1>V'
+Emai	57	LAUGH	jẹ	Projected adherence insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Addressee li + hon insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Addressee vbiee insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Allative insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Ambitransitive	Never	
+Emai	59	FEEL PAIN	to (1)	Applicative li insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Causative insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Distributive locative insertion (specific)	Never	
+Emai	59	FEEL PAIN	to (1)	Distributive locative insertion (unspecific)	Never	
+Emai	59	FEEL PAIN	to (1)	Elative insertion	Never	
+Emai	59	FEEL PAIN	to (1)	External possessor alternation	Never	
+Emai	59	FEEL PAIN	to (1)	Instrument insertion	Never	
+Emai	59	FEEL PAIN	to (1)	Locative change of state	Never	
+Emai	59	FEEL PAIN	to (1)	Locative omission	Never	
+Emai	59	FEEL PAIN	to (1)	Object omission	Never	
+Emai	59	FEEL PAIN	to (1)	Projected adherence insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Addressee li + hon insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Addressee vbiee insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Allative insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Ambitransitive	Never	
+Emai	60	FEEL COLD	úììn gbe	Applicative li insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Causative insertion	Regularly	
+Emai	60	FEEL COLD	úììn gbe	Distributive locative insertion (specific)	Never	
+Emai	60	FEEL COLD	úììn gbe	Distributive locative insertion (unspecific)	Never	
+Emai	60	FEEL COLD	úììn gbe	Elative insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	External possessor alternation	Never	
+Emai	60	FEEL COLD	úììn gbe	Instrument insertion	Never	
+Emai	60	FEEL COLD	úììn gbe	Locative change of state	Never	
+Emai	60	FEEL COLD	úììn gbe	Locative omission	Never	
+Emai	60	FEEL COLD	úììn gbe	Object omission	Never	
+Emai	60	FEEL COLD	úììn gbe	Projected adherence insertion	Never	
+Emai	61	DIE	u	Addressee li + hon insertion	Never	
+Emai	61	DIE	u	Addressee vbiee insertion	Never	
+Emai	61	DIE	u	Allative insertion	Never	
+Emai	61	DIE	u	Ambitransitive	Never	
+Emai	61	DIE	u	Applicative li insertion	Never	
+Emai	61	DIE	u	Causative insertion	Never	
+Emai	61	DIE	u	Distributive locative insertion (specific)	Regularly	
+Emai	61	DIE	u	Distributive locative insertion (unspecific)	Regularly	
+Emai	61	DIE	u	Elative insertion	Never	
+Emai	61	DIE	u	External possessor alternation	Never	
+Emai	61	DIE	u	Instrument insertion	Never	
+Emai	61	DIE	u	Locative change of state	Regularly	1>V'>o+vbi+5
+Emai	61	DIE	u	Locative omission	Never	
+Emai	61	DIE	u	Object omission	Never	
+Emai	61	DIE	u	Projected adherence insertion	Never	
+Emai	62	PLAY	doo	Addressee li + hon insertion	Never	
+Emai	62	PLAY	doo	Addressee vbiee insertion	Never	
+Emai	62	PLAY	doo	Allative insertion	Never	
+Emai	62	PLAY	doo	Ambitransitive	Never	
+Emai	62	PLAY	doo	Applicative li insertion	Never	
+Emai	62	PLAY	doo	Causative insertion	Never	
+Emai	62	PLAY	doo	Distributive locative insertion (specific)	Never	
+Emai	62	PLAY	doo	Distributive locative insertion (unspecific)	Never	
+Emai	62	PLAY	doo	Elative insertion	Never	
+Emai	62	PLAY	doo	External possessor alternation	Never	
+Emai	62	PLAY	doo	Instrument insertion	Regularly	1>re+4>V'
+Emai	62	PLAY	doo	Locative change of state	Never	
+Emai	62	PLAY	doo	Locative omission	Never	
+Emai	62	PLAY	doo	Object omission	Never	
+Emai	62	PLAY	doo	Projected adherence insertion	Never	
+Emai	62	PLAY	sie	Addressee li + hon insertion	Never	
+Emai	62	PLAY	sie	Addressee vbiee insertion	Never	
+Emai	62	PLAY	sie	Allative insertion	Never	
+Emai	62	PLAY	sie	Ambitransitive	Never	
+Emai	62	PLAY	sie	Applicative li insertion	Never	
+Emai	62	PLAY	sie	Causative insertion	Never	
+Emai	62	PLAY	sie	Distributive locative insertion (specific)	Never	
+Emai	62	PLAY	sie	Distributive locative insertion (unspecific)	Never	
+Emai	62	PLAY	sie	Elative insertion	Never	
+Emai	62	PLAY	sie	External possessor alternation	Never	
+Emai	62	PLAY	sie	Instrument insertion	Never	
+Emai	62	PLAY	sie	Locative change of state	Never	
+Emai	62	PLAY	sie	Locative omission	Never	
+Emai	62	PLAY	sie	Object omission	Never	
+Emai	62	PLAY	sie	Projected adherence insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Addressee li + hon insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Addressee vbiee insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Allative insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Ambitransitive	Never	
+Emai	63	BE SAD	no direct counterpart	Applicative li insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Causative insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Distributive locative insertion (specific)	Never	
+Emai	63	BE SAD	no direct counterpart	Distributive locative insertion (unspecific)	Never	
+Emai	63	BE SAD	no direct counterpart	Elative insertion	Never	
+Emai	63	BE SAD	no direct counterpart	External possessor alternation	Never	
+Emai	63	BE SAD	no direct counterpart	Instrument insertion	Never	
+Emai	63	BE SAD	no direct counterpart	Locative change of state	Never	
+Emai	63	BE SAD	no direct counterpart	Locative omission	Never	
+Emai	63	BE SAD	no direct counterpart	Object omission	Never	
+Emai	63	BE SAD	no direct counterpart	Projected adherence insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Addressee li + hon insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Addressee vbiee insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Allative insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Ambitransitive	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Applicative li insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Causative insertion	Regularly	
+Emai	64	BE HUNGRY	òhànmì gbe	Distributive locative insertion (specific)	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Distributive locative insertion (unspecific)	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Elative insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	External possessor alternation	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Instrument insertion	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Locative change of state	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Locative omission	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Object omission	Never	
+Emai	64	BE HUNGRY	òhànmì gbe	Projected adherence insertion	Never	
+Emai	66	SINK	de o	Addressee li + hon insertion	Never	
+Emai	66	SINK	de o	Addressee vbiee insertion	Never	
+Emai	66	SINK	de o	Allative insertion	Never	
+Emai	66	SINK	de o	Ambitransitive	Never	
+Emai	66	SINK	de o	Applicative li insertion	Never	
+Emai	66	SINK	de o	Causative insertion	Never	
+Emai	66	SINK	de o	Distributive locative insertion (specific)	Never	
+Emai	66	SINK	de o	Distributive locative insertion (unspecific)	Never	
+Emai	66	SINK	de o	Elative insertion	Never	
+Emai	66	SINK	de o	External possessor alternation	Never	
+Emai	66	SINK	de o	Instrument insertion	Never	
+Emai	66	SINK	de o	Locative change of state	Never	
+Emai	66	SINK	de o	Locative omission	Never	
+Emai	66	SINK	de o	Object omission	Never	
+Emai	66	SINK	de o	Projected adherence insertion	Never	
+Emai	68	BE DRY	ka	Addressee li + hon insertion	Never	
+Emai	68	BE DRY	ka	Addressee vbiee insertion	Never	
+Emai	68	BE DRY	ka	Allative insertion	Never	
+Emai	68	BE DRY	ka	Ambitransitive	Never	
+Emai	68	BE DRY	ka	Applicative li insertion	Never	
+Emai	68	BE DRY	ka	Causative insertion	Regularly	
+Emai	68	BE DRY	ka	Distributive locative insertion (specific)	Never	
+Emai	68	BE DRY	ka	Distributive locative insertion (unspecific)	Never	
+Emai	68	BE DRY	ka	Elative insertion	Never	
+Emai	68	BE DRY	ka	External possessor alternation	Never	
+Emai	68	BE DRY	ka	Instrument insertion	Never	
+Emai	68	BE DRY	ka	Locative change of state	Never	
+Emai	68	BE DRY	ka	Locative omission	Never	
+Emai	68	BE DRY	ka	Object omission	Never	
+Emai	68	BE DRY	ka	Projected adherence insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Addressee li + hon insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Addressee vbiee insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Allative insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Ambitransitive	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Applicative li insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Causative insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Distributive locative insertion (specific)	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Distributive locative insertion (unspecific)	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Elative insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	External possessor alternation	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Instrument insertion	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Locative change of state	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Locative omission	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Object omission	Never	
+Emai	69	RAIN	àmẹ̀ rọọn	Projected adherence insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Addressee li + hon insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Addressee vbiee insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Allative insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Ambitransitive	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Applicative li insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Causative insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Distributive locative insertion (specific)	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Distributive locative insertion (unspecific)	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Elative insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	External possessor alternation	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Instrument insertion	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Locative change of state	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Locative omission	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Object omission	Never	
+Emai	70	BE A HUNTER	no verbal counterpart	Projected adherence insertion	Never	
+Emai	71	GRIND	lọ	Addressee li + hon insertion	Never	
+Emai	71	GRIND	lọ	Addressee vbiee insertion	Never	
+Emai	71	GRIND	lọ	Allative insertion	Never	
+Emai	71	GRIND	lọ	Ambitransitive	Never	
+Emai	71	GRIND	lọ	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	71	GRIND	lọ	Causative insertion	Never	
+Emai	71	GRIND	lọ	Distributive locative insertion (specific)	Regularly	
+Emai	71	GRIND	lọ	Distributive locative insertion (unspecific)	Never	
+Emai	71	GRIND	lọ	Elative insertion	Never	
+Emai	71	GRIND	lọ	External possessor alternation	Never	
+Emai	71	GRIND	lọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	71	GRIND	lọ	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	71	GRIND	lọ	Locative omission	Never	
+Emai	71	GRIND	lọ	Object omission	Never	
+Emai	71	GRIND	lọ	Projected adherence insertion	Never	
+Emai	72	WIPE	kalọ	Addressee li + hon insertion	Never	
+Emai	72	WIPE	kalọ	Addressee vbiee insertion	Never	
+Emai	72	WIPE	kalọ	Allative insertion	Never	
+Emai	72	WIPE	kalọ	Ambitransitive	Never	
+Emai	72	WIPE	kalọ	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	72	WIPE	kalọ	Causative insertion	Never	
+Emai	72	WIPE	kalọ	Distributive locative insertion (specific)	Never	
+Emai	72	WIPE	kalọ	Distributive locative insertion (unspecific)	Never	
+Emai	72	WIPE	kalọ	Elative insertion	Regularly	1>V'>2>vbi+6+re
+Emai	72	WIPE	kalọ	External possessor alternation	Never	
+Emai	72	WIPE	kalọ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	72	WIPE	kalọ	Locative change of state	Regularly	1>V'>2>o+vbi+5
+Emai	72	WIPE	kalọ	Locative omission	Never	
+Emai	72	WIPE	kalọ	Object omission	Never	
+Emai	72	WIPE	kalọ	Projected adherence insertion	Never	
+Emai	73	DIG	tọn	Addressee li + hon insertion	Never	
+Emai	73	DIG	tọn	Addressee vbiee insertion	Never	
+Emai	73	DIG	tọn	Allative insertion	Marginally	
+Emai	73	DIG	tọn	Ambitransitive	Never	
+Emai	73	DIG	tọn	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	73	DIG	tọn	Causative insertion	Never	
+Emai	73	DIG	tọn	Distributive locative insertion (specific)	Never	
+Emai	73	DIG	tọn	Distributive locative insertion (unspecific)	Never	
+Emai	73	DIG	tọn	Elative insertion	Never	
+Emai	73	DIG	tọn	External possessor alternation	Never	
+Emai	73	DIG	tọn	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	73	DIG	tọn	Locative change of state	Never	
+Emai	73	DIG	tọn	Locative omission	Never	
+Emai	73	DIG	tọn	Object omission	Never	
+Emai	73	DIG	tọn	Projected adherence insertion	Never	
+Emai	73	DIG	vun	Addressee li + hon insertion	Never	
+Emai	73	DIG	vun	Addressee vbiee insertion	Never	
+Emai	73	DIG	vun	Allative insertion	Marginally	
+Emai	73	DIG	vun	Ambitransitive	Never	
+Emai	73	DIG	vun	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	73	DIG	vun	Causative insertion	Never	
+Emai	73	DIG	vun	Distributive locative insertion (specific)	Never	
+Emai	73	DIG	vun	Distributive locative insertion (unspecific)	Never	
+Emai	73	DIG	vun	Elative insertion	Never	
+Emai	73	DIG	vun	External possessor alternation	Marginally	
+Emai	73	DIG	vun	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	73	DIG	vun	Locative change of state	Never	
+Emai	73	DIG	vun	Locative omission	Never	
+Emai	73	DIG	vun	Object omission	Never	
+Emai	73	DIG	vun	Projected adherence insertion	Never	
+Emai	74	PUSH	sua	Addressee li + hon insertion	Never	
+Emai	74	PUSH	sua	Addressee vbiee insertion	Never	
+Emai	74	PUSH	sua	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	74	PUSH	sua	Ambitransitive	Never	
+Emai	74	PUSH	sua	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	74	PUSH	sua	Causative insertion	Never	
+Emai	74	PUSH	sua	Distributive locative insertion (specific)	Regularly	
+Emai	74	PUSH	sua	Distributive locative insertion (unspecific)	Regularly	
+Emai	74	PUSH	sua	Elative insertion	Never	
+Emai	74	PUSH	sua	External possessor alternation	Never	
+Emai	74	PUSH	sua	Instrument insertion	Never	
+Emai	74	PUSH	sua	Locative change of state	Never	
+Emai	74	PUSH	sua	Locative omission	Never	
+Emai	74	PUSH	sua	Object omission	Never	
+Emai	74	PUSH	sua	Projected adherence insertion	Never	
+Emai	75	BRING	V re	Addressee li + hon insertion	Never	
+Emai	75	BRING	V re	Addressee vbiee insertion	Never	
+Emai	75	BRING	V re	Allative insertion	Never	
+Emai	75	BRING	V re	Ambitransitive	Never	
+Emai	75	BRING	V re	Applicative li insertion	Never	
+Emai	75	BRING	V re	Causative insertion	Never	
+Emai	75	BRING	V re	Distributive locative insertion (specific)	Never	
+Emai	75	BRING	V re	Distributive locative insertion (unspecific)	Never	
+Emai	75	BRING	V re	Elative insertion	Never	
+Emai	75	BRING	V re	External possessor alternation	Never	
+Emai	75	BRING	V re	Instrument insertion	Never	
+Emai	75	BRING	V re	Locative change of state	Never	
+Emai	75	BRING	V re	Locative omission	Never	
+Emai	75	BRING	V re	Object omission	Never	
+Emai	75	BRING	V re	Projected adherence insertion	Never	
+Emai	76	STEAL	do V	Addressee li + hon insertion	Never	
+Emai	76	STEAL	do V	Addressee vbiee insertion	Never	
+Emai	76	STEAL	do V	Allative insertion	Never	
+Emai	76	STEAL	do V	Ambitransitive	Never	
+Emai	76	STEAL	do V	Applicative li insertion	Never	
+Emai	76	STEAL	do V	Causative insertion	Never	
+Emai	76	STEAL	do V	Distributive locative insertion (specific)	Never	
+Emai	76	STEAL	do V	Distributive locative insertion (unspecific)	Never	
+Emai	76	STEAL	do V	Elative insertion	Never	
+Emai	76	STEAL	do V	External possessor alternation	Regularly	
+Emai	76	STEAL	do V	Instrument insertion	Never	
+Emai	76	STEAL	do V	Locative change of state	Never	
+Emai	76	STEAL	do V	Locative omission	Never	
+Emai	76	STEAL	do V	Object omission	Never	
+Emai	76	STEAL	do V	Projected adherence insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Addressee li + hon insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Addressee vbiee insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Allative insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Ambitransitive	Never	
+Emai	77	TEACH	vbiẹẹ	Applicative li insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Causative insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Distributive locative insertion (specific)	Never	
+Emai	77	TEACH	vbiẹẹ	Distributive locative insertion (unspecific)	Never	
+Emai	77	TEACH	vbiẹẹ	Elative insertion	Never	
+Emai	77	TEACH	vbiẹẹ	External possessor alternation	Never	
+Emai	77	TEACH	vbiẹẹ	Instrument insertion	Never	
+Emai	77	TEACH	vbiẹẹ	Locative change of state	Never	
+Emai	77	TEACH	vbiẹẹ	Locative omission	Never	
+Emai	77	TEACH	vbiẹẹ	Object omission	Never	
+Emai	77	TEACH	vbiẹẹ	Projected adherence insertion	Never	
+Emai	78	HEAR	họn	Addressee li + hon insertion	Never	
+Emai	78	HEAR	họn	Addressee vbiee insertion	Never	
+Emai	78	HEAR	họn	Allative insertion	Never	
+Emai	78	HEAR	họn	Ambitransitive	Never	
+Emai	78	HEAR	họn	Applicative li insertion	Never	
+Emai	78	HEAR	họn	Causative insertion	Never	
+Emai	78	HEAR	họn	Distributive locative insertion (specific)	Never	
+Emai	78	HEAR	họn	Distributive locative insertion (unspecific)	Never	
+Emai	78	HEAR	họn	Elative insertion	Never	
+Emai	78	HEAR	họn	External possessor alternation	Never	
+Emai	78	HEAR	họn	Instrument insertion	Never	
+Emai	78	HEAR	họn	Locative change of state	Never	
+Emai	78	HEAR	họn	Locative omission	Never	
+Emai	78	HEAR	họn	Object omission	Never	
+Emai	78	HEAR	họn	Projected adherence insertion	Never	
+Emai	79	COOK	nyẹ	Addressee li + hon insertion	Never	
+Emai	79	COOK	nyẹ	Addressee vbiee insertion	Never	
+Emai	79	COOK	nyẹ	Allative insertion	Marginally	
+Emai	79	COOK	nyẹ	Ambitransitive	Never	
+Emai	79	COOK	nyẹ	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	79	COOK	nyẹ	Causative insertion	Never	
+Emai	79	COOK	nyẹ	Distributive locative insertion (specific)	Never	
+Emai	79	COOK	nyẹ	Distributive locative insertion (unspecific)	Never	
+Emai	79	COOK	nyẹ	Elative insertion	Never	
+Emai	79	COOK	nyẹ	External possessor alternation	Never	
+Emai	79	COOK	nyẹ	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	79	COOK	nyẹ	Locative change of state	Never	
+Emai	79	COOK	nyẹ	Locative omission	Never	
+Emai	79	COOK	nyẹ	Object omission	Never	
+Emai	79	COOK	nyẹ	Projected adherence insertion	Never	
+Emai	79	COOK	vbie	Addressee li + hon insertion	Never	
+Emai	79	COOK	vbie	Addressee vbiee insertion	Never	
+Emai	79	COOK	vbie	Allative insertion	Never	
+Emai	79	COOK	vbie	Ambitransitive	Regularly	2>V'
+Emai	79	COOK	vbie	Applicative li insertion	Never	
+Emai	79	COOK	vbie	Causative insertion	Never	
+Emai	79	COOK	vbie	Distributive locative insertion (specific)	Never	
+Emai	79	COOK	vbie	Distributive locative insertion (unspecific)	Never	
+Emai	79	COOK	vbie	Elative insertion	Never	
+Emai	79	COOK	vbie	External possessor alternation	Never	
+Emai	79	COOK	vbie	Instrument insertion	Never	
+Emai	79	COOK	vbie	Locative change of state	Never	
+Emai	79	COOK	vbie	Locative omission	Never	
+Emai	79	COOK	vbie	Object omission	Never	
+Emai	79	COOK	vbie	Projected adherence insertion	Never	
+Emai	80	BOIL	tin	Addressee li + hon insertion	Never	
+Emai	80	BOIL	tin	Addressee vbiee insertion	Never	
+Emai	80	BOIL	tin	Allative insertion	Never	
+Emai	80	BOIL	tin	Ambitransitive	Never	
+Emai	80	BOIL	tin	Applicative li insertion	Never	
+Emai	80	BOIL	tin	Causative insertion	Never	
+Emai	80	BOIL	tin	Distributive locative insertion (specific)	Regularly	
+Emai	80	BOIL	tin	Distributive locative insertion (unspecific)	Regularly	
+Emai	80	BOIL	tin	Elative insertion	Never	
+Emai	80	BOIL	tin	External possessor alternation	Never	
+Emai	80	BOIL	tin	Instrument insertion	Never	
+Emai	80	BOIL	tin	Locative change of state	Never	
+Emai	80	BOIL	tin	Locative omission	Never	
+Emai	80	BOIL	tin	Object omission	Never	
+Emai	80	BOIL	tin	Projected adherence insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Addressee li + hon insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Addressee vbiee insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Allative insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Ambitransitive	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Applicative li insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Causative insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Distributive locative insertion (specific)	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Distributive locative insertion (unspecific)	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Elative insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	External possessor alternation	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Instrument insertion	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Locative change of state	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Locative omission	Never	
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Object omission	Regularly	1>V'
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Projected adherence insertion	Never	
+Emai	82	BE ILL	to (2)	Addressee li + hon insertion	Never	
+Emai	82	BE ILL	to (2)	Addressee vbiee insertion	Never	
+Emai	82	BE ILL	to (2)	Allative insertion	Never	
+Emai	82	BE ILL	to (2)	Ambitransitive	Never	
+Emai	82	BE ILL	to (2)	Applicative li insertion	Never	
+Emai	82	BE ILL	to (2)	Causative insertion	Never	
+Emai	82	BE ILL	to (2)	Distributive locative insertion (specific)	Never	
+Emai	82	BE ILL	to (2)	Distributive locative insertion (unspecific)	Never	
+Emai	82	BE ILL	to (2)	Elative insertion	Never	
+Emai	82	BE ILL	to (2)	External possessor alternation	Never	
+Emai	82	BE ILL	to (2)	Instrument insertion	Never	
+Emai	82	BE ILL	to (2)	Locative change of state	Never	
+Emai	82	BE ILL	to (2)	Locative omission	Never	
+Emai	82	BE ILL	to (2)	Object omission	Never	
+Emai	82	BE ILL	to (2)	Projected adherence insertion	Never	
+Emai	83	CRY	viẹ	Addressee li + hon insertion	Never	
+Emai	83	CRY	viẹ	Addressee vbiee insertion	Never	
+Emai	83	CRY	viẹ	Allative insertion	Never	
+Emai	83	CRY	viẹ	Ambitransitive	Never	
+Emai	83	CRY	viẹ	Applicative li insertion	Never	
+Emai	83	CRY	viẹ	Causative insertion	Never	
+Emai	83	CRY	viẹ	Distributive locative insertion (specific)	Never	
+Emai	83	CRY	viẹ	Distributive locative insertion (unspecific)	Never	
+Emai	83	CRY	viẹ	Elative insertion	Never	
+Emai	83	CRY	viẹ	External possessor alternation	Never	
+Emai	83	CRY	viẹ	Instrument insertion	Never	
+Emai	83	CRY	viẹ	Locative change of state	Never	
+Emai	83	CRY	viẹ	Locative omission	Never	
+Emai	83	CRY	viẹ	Object omission	Regularly	1>V'
+Emai	83	CRY	viẹ	Projected adherence insertion	Never	
+Emai	84	FALL	de	Addressee li + hon insertion	Never	
+Emai	84	FALL	de	Addressee vbiee insertion	Never	
+Emai	84	FALL	de	Allative insertion	Never	
+Emai	84	FALL	de	Ambitransitive	Never	
+Emai	84	FALL	de	Applicative li insertion	Never	
+Emai	84	FALL	de	Causative insertion	Never	
+Emai	84	FALL	de	Distributive locative insertion (specific)	Regularly	
+Emai	84	FALL	de	Distributive locative insertion (unspecific)	Regularly	
+Emai	84	FALL	de	Elative insertion	Never	
+Emai	84	FALL	de	External possessor alternation	Never	
+Emai	84	FALL	de	Instrument insertion	Never	
+Emai	84	FALL	de	Locative change of state	Never	
+Emai	84	FALL	de	Locative omission	Never	
+Emai	84	FALL	de	Object omission	Never	
+Emai	84	FALL	de	Projected adherence insertion	Never	
+Emai	85	MAKE	ẹhẹn	Addressee li + hon insertion	Never	
+Emai	85	MAKE	ẹhẹn	Addressee vbiee insertion	Never	
+Emai	85	MAKE	ẹhẹn	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	85	MAKE	ẹhẹn	Ambitransitive	Never	
+Emai	85	MAKE	ẹhẹn	Applicative li insertion	Regularly	1>V'>2>lí+3
+Emai	85	MAKE	ẹhẹn	Causative insertion	Never	
+Emai	85	MAKE	ẹhẹn	Distributive locative insertion (specific)	Never	
+Emai	85	MAKE	ẹhẹn	Distributive locative insertion (unspecific)	Never	
+Emai	85	MAKE	ẹhẹn	Elative insertion	Never	
+Emai	85	MAKE	ẹhẹn	External possessor alternation	Never	
+Emai	85	MAKE	ẹhẹn	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	85	MAKE	ẹhẹn	Locative change of state	Never	
+Emai	85	MAKE	ẹhẹn	Locative omission	Never	
+Emai	85	MAKE	ẹhẹn	Object omission	Never	
+Emai	85	MAKE	ẹhẹn	Projected adherence insertion	Never	
+Emai	86	GET	miẹẹ (2)	Addressee li + hon insertion	Never	
+Emai	86	GET	miẹẹ (2)	Addressee vbiee insertion	Never	
+Emai	86	GET	miẹẹ (2)	Allative insertion	Never	
+Emai	86	GET	miẹẹ (2)	Ambitransitive	Never	
+Emai	86	GET	miẹẹ (2)	Applicative li insertion	Never	
+Emai	86	GET	miẹẹ (2)	Causative insertion	Never	
+Emai	86	GET	miẹẹ (2)	Distributive locative insertion (specific)	Never	
+Emai	86	GET	miẹẹ (2)	Distributive locative insertion (unspecific)	Never	
+Emai	86	GET	miẹẹ (2)	Elative insertion	Never	
+Emai	86	GET	miẹẹ (2)	External possessor alternation	Regularly	
+Emai	86	GET	miẹẹ (2)	Instrument insertion	Never	
+Emai	86	GET	miẹẹ (2)	Locative change of state	Never	
+Emai	86	GET	miẹẹ (2)	Locative omission	Never	
+Emai	86	GET	miẹẹ (2)	Object omission	Never	
+Emai	86	GET	miẹẹ (2)	Projected adherence insertion	Never	
+Emai	87	WANT	hoo (2)	Addressee li + hon insertion	Never	
+Emai	87	WANT	hoo (2)	Addressee vbiee insertion	Never	
+Emai	87	WANT	hoo (2)	Allative insertion	Never	
+Emai	87	WANT	hoo (2)	Ambitransitive	Never	
+Emai	87	WANT	hoo (2)	Applicative li insertion	Never	
+Emai	87	WANT	hoo (2)	Causative insertion	Never	
+Emai	87	WANT	hoo (2)	Distributive locative insertion (specific)	Never	
+Emai	87	WANT	hoo (2)	Distributive locative insertion (unspecific)	Never	
+Emai	87	WANT	hoo (2)	Elative insertion	Never	
+Emai	87	WANT	hoo (2)	External possessor alternation	Never	
+Emai	87	WANT	hoo (2)	Instrument insertion	Never	
+Emai	87	WANT	hoo (2)	Locative change of state	Never	
+Emai	87	WANT	hoo (2)	Locative omission	Never	
+Emai	87	WANT	hoo (2)	Object omission	Never	
+Emai	87	WANT	hoo (2)	Projected adherence insertion	Never	
+Emai	90	SPEAK	ta étà	Addressee li + hon insertion	Regularly	1>V'>li+3+hon
+Emai	90	SPEAK	ta étà	Addressee vbiee insertion	Never	
+Emai	90	SPEAK	ta étà	Allative insertion	Never	
+Emai	90	SPEAK	ta étà	Ambitransitive	Never	
+Emai	90	SPEAK	ta étà	Applicative li insertion	Never	
+Emai	90	SPEAK	ta étà	Causative insertion	Never	
+Emai	90	SPEAK	ta étà	Distributive locative insertion (specific)	Never	
+Emai	90	SPEAK	ta étà	Distributive locative insertion (unspecific)	Never	
+Emai	90	SPEAK	ta étà	Elative insertion	Never	
+Emai	90	SPEAK	ta étà	External possessor alternation	Never	
+Emai	90	SPEAK	ta étà	Instrument insertion	Never	
+Emai	90	SPEAK	ta étà	Locative change of state	Never	
+Emai	90	SPEAK	ta étà	Locative omission	Never	
+Emai	90	SPEAK	ta étà	Object omission	Never	
+Emai	90	SPEAK	ta étà	Projected adherence insertion	Never	
+Emai	91	BE COLD	fọ	Addressee li + hon insertion	Never	
+Emai	91	BE COLD	fọ	Addressee vbiee insertion	Never	
+Emai	91	BE COLD	fọ	Allative insertion	Never	
+Emai	91	BE COLD	fọ	Ambitransitive	Never	
+Emai	91	BE COLD	fọ	Applicative li insertion	Never	
+Emai	91	BE COLD	fọ	Causative insertion	Never	
+Emai	91	BE COLD	fọ	Distributive locative insertion (specific)	Never	
+Emai	91	BE COLD	fọ	Distributive locative insertion (unspecific)	Never	
+Emai	91	BE COLD	fọ	Elative insertion	Never	
+Emai	91	BE COLD	fọ	External possessor alternation	Never	
+Emai	91	BE COLD	fọ	Instrument insertion	Never	
+Emai	91	BE COLD	fọ	Locative change of state	Never	
+Emai	91	BE COLD	fọ	Locative omission	Never	
+Emai	91	BE COLD	fọ	Object omission	Never	
+Emai	91	BE COLD	fọ	Projected adherence insertion	Never	
+Emai	109	ASK (a question)	ẹ	Addressee li + hon insertion	Never	
+Emai	109	ASK (a question)	ẹ	Addressee vbiee insertion	Never	
+Emai	109	ASK (a question)	ẹ	Allative insertion	Never	
+Emai	109	ASK (a question)	ẹ	Ambitransitive	Never	
+Emai	109	ASK (a question)	ẹ	Applicative li insertion	Never	
+Emai	109	ASK (a question)	ẹ	Causative insertion	Never	
+Emai	109	ASK (a question)	ẹ	Distributive locative insertion (specific)	Never	
+Emai	109	ASK (a question)	ẹ	Distributive locative insertion (unspecific)	Never	
+Emai	109	ASK (a question)	ẹ	Elative insertion	Never	
+Emai	109	ASK (a question)	ẹ	External possessor alternation	Never	
+Emai	109	ASK (a question)	ẹ	Instrument insertion	Never	
+Emai	109	ASK (a question)	ẹ	Locative change of state	Never	
+Emai	109	ASK (a question)	ẹ	Locative omission	Never	
+Emai	109	ASK (a question)	ẹ	Object omission	Never	
+Emai	109	ASK (a question)	ẹ	Projected adherence insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Addressee li + hon insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Addressee vbiee insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Allative insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Ambitransitive	Never	
+Emai	109	ASK (a question)	miaa étà	Applicative li insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Causative insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Distributive locative insertion (specific)	Never	
+Emai	109	ASK (a question)	miaa étà	Distributive locative insertion (unspecific)	Never	
+Emai	109	ASK (a question)	miaa étà	Elative insertion	Never	
+Emai	109	ASK (a question)	miaa étà	External possessor alternation	Regularly	
+Emai	109	ASK (a question)	miaa étà	Instrument insertion	Never	
+Emai	109	ASK (a question)	miaa étà	Locative change of state	Never	
+Emai	109	ASK (a question)	miaa étà	Locative omission	Regularly	1>V'
+Emai	109	ASK (a question)	miaa étà	Object omission	Never	
+Emai	109	ASK (a question)	miaa étà	Projected adherence insertion	Never	
+Emai	116	BURN (tr)	too	Addressee li + hon insertion	Never	
+Emai	116	BURN (tr)	too	Addressee vbiee insertion	Never	
+Emai	116	BURN (tr)	too	Allative insertion	Never	
+Emai	116	BURN (tr)	too	Ambitransitive	Regularly	2>V'
+Emai	116	BURN (tr)	too	Applicative li insertion	Never	
+Emai	116	BURN (tr)	too	Causative insertion	Never	
+Emai	116	BURN (tr)	too	Distributive locative insertion (specific)	Never	
+Emai	116	BURN (tr)	too	Distributive locative insertion (unspecific)	Regularly	
+Emai	116	BURN (tr)	too	Elative insertion	Never	
+Emai	116	BURN (tr)	too	External possessor alternation	Marginally	
+Emai	116	BURN (tr)	too	Instrument insertion	Regularly	1>re+4>V'>2
+Emai	116	BURN (tr)	too	Locative change of state	Never	
+Emai	116	BURN (tr)	too	Locative omission	Never	
+Emai	116	BURN (tr)	too	Object omission	Never	
+Emai	116	BURN (tr)	too	Projected adherence insertion	Never	
+Emai	125	SINK (tr)	ha o	Addressee li + hon insertion	Never	
+Emai	125	SINK (tr)	ha o	Addressee vbiee insertion	Never	
+Emai	125	SINK (tr)	ha o	Allative insertion	Never	
+Emai	125	SINK (tr)	ha o	Ambitransitive	Never	
+Emai	125	SINK (tr)	ha o	Applicative li insertion	Never	
+Emai	125	SINK (tr)	ha o	Causative insertion	Never	
+Emai	125	SINK (tr)	ha o	Distributive locative insertion (specific)	Never	
+Emai	125	SINK (tr)	ha o	Distributive locative insertion (unspecific)	Never	
+Emai	125	SINK (tr)	ha o	Elative insertion	Never	
+Emai	125	SINK (tr)	ha o	External possessor alternation	Never	
+Emai	125	SINK (tr)	ha o	Instrument insertion	Never	
+Emai	125	SINK (tr)	ha o	Locative change of state	Never	
+Emai	125	SINK (tr)	ha o	Locative omission	Never	
+Emai	125	SINK (tr)	ha o	Object omission	Regularly	1>V'
+Emai	125	SINK (tr)	ha o	Projected adherence insertion	Never	
+Emai	128	ROLL (tr)	gbulu	Addressee li + hon insertion	Never	
+Emai	128	ROLL (tr)	gbulu	Addressee vbiee insertion	Never	
+Emai	128	ROLL (tr)	gbulu	Allative insertion	Regularly	1>V'>2>ye+5
+Emai	128	ROLL (tr)	gbulu	Ambitransitive	Regularly	2>V'
+Emai	128	ROLL (tr)	gbulu	Applicative li insertion	Never	
+Emai	128	ROLL (tr)	gbulu	Causative insertion	Never	
+Emai	128	ROLL (tr)	gbulu	Distributive locative insertion (specific)	Never	
+Emai	128	ROLL (tr)	gbulu	Distributive locative insertion (unspecific)	Never	
+Emai	128	ROLL (tr)	gbulu	Elative insertion	Regularly	1>V'>2>vbi+6+re
+Emai	128	ROLL (tr)	gbulu	External possessor alternation	Never	
+Emai	128	ROLL (tr)	gbulu	Instrument insertion	Marginally	
+Emai	128	ROLL (tr)	gbulu	Locative change of state	Never	
+Emai	128	ROLL (tr)	gbulu	Locative omission	Never	
+Emai	128	ROLL (tr)	gbulu	Object omission	Never	
+Emai	128	ROLL (tr)	gbulu	Projected adherence insertion	Never	

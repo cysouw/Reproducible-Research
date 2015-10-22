@@ -1,0 +1,28 @@
+﻿Language_name	Gloss	Meaning
+Russian	1	first person
+Russian	2	seconde person
+Russian	3	third person
+Russian	ACC	accusative
+Russian	COMPL	completive
+Russian	COP	copular
+Russian	DAT	dative
+Russian	F	feminine
+Russian	FUT	future
+Russian	GEN	genitive
+Russian	IMP	imperative
+Russian	INS	instrumental
+Russian	IPFV	imperfective
+Russian	LOC	locative
+Russian	M	masculine
+Russian	N	neuter
+Russian	NEG	negation
+Russian	PART	participle
+Russian	PASS	passive
+Russian	PF	perfect
+Russian	PFV	perfective
+Russian	PL	plural
+Russian	PREF	prefix
+Russian	PREP	preposition
+Russian	PST	past
+Russian	REFL	reflexive
+Russian	SG	singular

@@ -1,0 +1,220 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Balinese	1		Anake muani cenik ento ngajeng buahe ento.		anak=e muani cenik ento ngajeng buah=e ento	person=DEF male small that eat fruit=DEF that	The boy ate the fruit.
+Balinese	2		Memenne ngelut panakne cenik muani ento.		memen=ne ngelut panak=ne cenik muani ento	mother=DEF hug child=3POSS small male that	The mother hugged her little boy.
+Balinese	3		Anake cenik muani ento nlektekang anake luh ento.		anak=e cenik muani ento nlektekang anak=e luh ento	person=DEF small male that look_at person=DEF female that	The boy looked at the girl.
+Balinese	4		Anake muani ento nepukin beruange ento.		anak=e muani ento nepukin beruang=e ento	person=DEF male that see bear=DEF that	The man saw the bear.
+Balinese	5		Beruange ento ngadekin anake cenik muani ento.		beruang=e ento ngadekin anak=e cenik muani ento	bear=DEF that smell person=DEF small male that	The bear smelled the boy.
+Balinese	6		Anakemuani ento nakutin beruange ento.		anak=e muani ento nakutin beruang=e ento	person=DEF male that fear bear=DEF that	The man feared the bear.
+Balinese	7		Beruange ento nakutin anake muani ento.		beruang=e ento nakutin anak=e muani ento	bear=DEF that frighten person=DEF male that	The bear frightened the man.
+Balinese	8		Anake muani cenik ento nemenin bonekane anyar.		anak=e muani cenik ento nemenin boneka=ne anyar	person=DEF male small that like toy=3POSS new	The boy liked his new toy.
+Balinese	9		Anake luh ento nawang anake cenik muani ento.		anak=e luh ento nawang anak=e cenik muani ento	person=DEF female that know person=DEF small male that	The girl knew the boy.
+Balinese	10		Anake luh ento ngenehang dadongne ibi.		anak=e luh ento ngenehang dadong=ne ibi	person=DEF female that think.about grandmother=3POSS yesterday	The girl thought about her grandmother yesterday.
+Balinese	11		Anakemuani ento ngalihin anake luh ento.		anak=e muani ento ngalihin anak=e luh ento	person=DEF male that search.for person=DEF female that	The man searched for the woman.
+Balinese	12		Memenne ngayehang rarene.		memen=ne ngayehang rare=ne	mother=DEF wash baby=3POSS	The mother washed her baby.
+Balinese	13		Memenne majunin panakne luh.		memen=ne majunin panak=ne luh	mother=DEF dress child=3POSS female	The mother dressed her daughter.
+Balinese	14		Anake muani ento nguris jenggotne.		anak=e muani ento nguris jenggot=ne	person=DEF male that shave beard=3POSS	The man shaved his beard.
+Balinese	15		Ketut nulungin anake muani cenikcenik ento.		Ketut nulungin anak=e muani cenik-cenik ento	Ketut help person=DEF male small-small that	Ketut helped the boys.
+Balinese	16		Anake muani cenikcenik ento ngikutin anak luh ento.		anak=e muani cenik-cenik ento ngikutin anak=e luh ento	person=DEF male small-small that follow person=DEF female that	The boys followed the girl.
+Balinese	17		Anake muani ento matemu teken anake cenik muani ento.		anak=e muani ento matemu teken anak=e cenik muani ento	person=DEF male that meet with person=DEF small male that	The man met the boy.
+Balinese	18		Anake luh ento ngomongin anak muani cenik ento unduk cicingne.		anak=e luh ento ngomongin anak muani cenik ento unduk cicing=ne	person=DEF female that talk.to person male small that about dog=3POSS	The girl talked to the boy about her dog.
+Balinese	19		Anake muani cenik ento nagihin reramanne pipis.		anak=e muani cenik ento nagihin reraman=ne pipis	person=DEF male small that ask_for parents=3POSS money	The boy asked his parents for money.
+Balinese	20		Anake luh ento ngerakin anake cenik cenik ento.		anak=e luh ento ngerakin anak=e cenik cenik ento	person=DEF female that shout_at person=DEF small small that	The woman shouted at the children.
+Balinese	21		Anake luh ento ngorahin anake cenik muani ento satua lucu.		anak=e luh ento ngorahin anak=e cenik muani ento satua lucu	person=DEF female that tell person=DEF small male that story funny	The girl told the boy a funny story.
+Balinese	22		Ia makejang ngorahang 'sing' teken tiang.		ia makejang ngorahang 'sing' teken tiang	he/she all say "no" with I	They said "no" to me."
+Balinese	23		Reramanne ngelunin rarene Anna.		reraman=ne ngelunin rare=ne Anna	parents=DEF call baby=DEF Anna	The parents called the baby Anna.
+Balinese	24		Anake muani muani ento mangunang umah aji kayu.		anak=e muani muani ento mangunang umah aji kayu	person=DEF male male that build house with wood	The men built a house out of wood.
+Balinese	25		Anak muani cenik ento melahang jendelene aji batu.		anak=e muani cenik ento melahang jendele=ne aji batu	person=DEF male small that break window=DEF with stone	The boy broke the window with a stone.
+Balinese	26		Anake muani ento ngematiang musuhne aji keris.		anak=e muani ento ngematiang musuh=ne aji keris	person=DEF male that kill enemy=3POSS with kris	The man killed his enemy with a 'kris'.
+Balinese	27		Anake muani cenik ento nglempagin lelipine ento aji tungked.		anak=e muani cenik ento nglempagin lelipi=ne ento aji tungked	person=DEF male small that beat snake=DEF that with stick	The boy beat the snake with a stick.
+Balinese	28		Anake muani cenik ento nglempag lelipine ento aji tungked.		anak=e muani cenik ento nglempag lelipi=ne ento aji tungked	person=DEF male small that hit snake=DEF that with stick	The boy hit the snake with a stick.
+Balinese	29		Anake muani cenik ento nundik lelipine ento aji tungked.		anak=e muani cenik ento nundik lelipi=ne ento aji tungked	person=DEF male small that touch snake=DEF that with stick	The boy touched the snake with a stick.
+Balinese	30		Anakeluh ento ngodot rotine ento aji tiuk mangan.		anak=e luh ento ngodot roti=ne ento aji tiuk mangan	person=DEF female that cut bread=DEF that with knife sharp	The woman cut the bread with a sharp knife.
+Balinese	31		Anake muani ento nyemak pipise ento uli timpalne.		anak=e muani ento nyemak pipis=e ento uli timpal=ne	person=DEF male that take money=DEF that from friend=3POSS	The man took the money from his friend.
+Balinese	32		Anake luh ento nguek halaman uli bukune ento.		anak=e luh ento nguek halaman uli buku=ne ento	person=DEF female that tear page from book=DEF that	The girl tore a page from the book.
+Balinese	33		Anake muani cenik ento melutin pohe ento.		anak=e muani cenik ento melutin poh=e ento	person=DEF male small that peel mango=DEF that	The boy peeled the mango.
+Balinese	34		Anake muani cenik ento ngengkebang katake ento uli memenne.		anak=e muani cenik ento ngengkebang katak=e ento uli memen=ne	person=DEF male small that hide frog=DEF that from mother=3POSS	The boy hid the frog from his mother.
+Balinese	35		Anake luh luh ento ngedengang gamabaran ke gurune.		anak=e luh luh ento ngedengang gamabaran ke guru=ne	person=DEF female female that show picture to teacher=3POSS	The girls showed the picture to their teacher.
+Balinese	36		Tiang makejang maang buku ke anake cenik cenik ento.		tiang makejang maang buku ke anak=e cenik cenik ento	I all give book to person=DEF small small that	We gave the books to the children.
+Balinese	37		Anake luh ento ngirimang bunga ke dadongne.		anak=e luh ento ngirimang bunga ke dadong=ne	person=DEF female that send flower to grandmother=3POSS	The girld sent flowers to her grandmother.
+Balinese	38		Anake muani muani ento ngaba kotake ento ke peken.		anak=e muani muani ento ngaba kotak=e ento ke peken	person=DEF male male that bring box=DEF that to market	The men brought the box to the market.
+Balinese	39		Anake muani cenik ento ngentungang bola ke jendelane ento.		anak=e muani cenik ento ngentungang bola ke jendela=ne ento	person=DEF male small that throw ball to window=DEF that	The boy threw the ball to the window.
+Balinese	40		Anake muani ento negul jaran ento aji tali ke punyan kayue ento.		anak=e muani ento negul jaran ento aji tali ke punyan kayu=e ento	person=DEF male that tie horse that with rope to trunk tree=DEF that	The man tied the horse with rope to the tree trunk.
+Balinese	41		Tiang nejang cangkire ento di mejane ento.		tiang nejang cangkir=e ento di meja=ne ento	I put cup=DEF that on table=DEF that	I put the cup onto the table.
+Balinese	42		Anake muani ento nuruhang yeh ke lumure ento.		anak=e muani ento nuruhang yeh ke lumur=e ento	person=DEF male that pour water to glass=DEF that	The man poured water into the glass.
+Balinese	43		Anake luh ento ngerurub anake muani cenik ento aji saput.		anak=e luh ento ngerurub anak=e muani cenik ento aji saput	person=DEF female that cover person=DEF male small that with blanket	The woman covered the boy with a blanket.
+Balinese	44		Anake luh ento ngisinin lumuree ento aji yeh.		anak=e luh ento ngisinin lumure=e ento aji yeh	person=DEF female that fill glass=DEF that with water	The girl filled the glass with water.
+Balinese	45		Petanine ento menekang somi ke treke ento.		petani=ne ento menekang somi ke trek=e ento	farmer=DEF that load hay to truck=DEF that	The farmer loaded hay onto the truck.
+Balinese	46		Tiang ngedipang matan tiange.		tiang ngedipang mata=n tiang=e	I blink eye=LIG I=POSS	I blinked my eyes.
+Balinese	47		Anake tua ento makokohan.		anak=e tua ento makokohan	person=DEF old that cough	The old man coughed.
+Balinese	48		Anake muani muani ento menekin punyan kayune ento.		anak=e muani muani ento menekin punyan kayu=ne ento	person=DEF male male that climb.up trunk tree=DEF that	The old men climbed up the tree.
+Balinese	49		Jaranne ento malaib.		jaran=ne ento malaib	horse=DEF that run	The horse runs.
+Balinese	50		Anake cenik cenik ento negak di bataranne ento.		anak=e cenik cenik ento negak di bataran=ne ento	person=DEF small small that sit on floor=DEF that	The children sit on the floor.
+Balinese	51		Anake luh ento makejog.		anak=e luh ento makejog	person=DEF female that jump	The girl jumped.
+Balinese	52		Anake muani cenik ento magending.		anak=e muani cenik ento magending	person=DEF male small that sing	The boy sang.
+Balinese	53		Anake luh ento luas ke peken.		anak=e luh ento luas ke peken	person=DEF female that go to market	The woman went to the market.
+Balinese	54		Anake muani cenik ento ngalahin desane ento.		anak=e muani cenik ento ngalahin desa=ne ento	person=DEF male small that leave village=DEF that	The boy left the village.
+Balinese	55		Anake tua tua ento nongos di kota.		anak=e tua tua ento nongos di kota	person=DEF old old that live in city	The old people live in the city.
+Balinese	56		Anake luh cenik ento kedek.		anak=e luh cenik ento kedek	person=DEF female small that laugh	The little girl laughed.
+Balinese	57		Anake muani ento makraik.		anak=e muani ento makraik	person=DEF male that scream	The man screamed.
+Balinese	58		Tiang nyakitang liman tiange.		tiang nyakitang lima=n tiang=e	I hurt hand=LIG I=POSS	I am feeling pain in my arms.
+Balinese	59		Tiang dingin.		tiang dingin	I cold	I'm cold.
+Balinese	60		Lelipine ento mati.		lelipi=ne ento mati	snake=DEF that die	The snake died.
+Balinese	61		Anake cenik ento macanda.		anak=e cenik ento macanda	person=DEF small that play	The boy is playing.
+Balinese	62		Anake luh ento sebet.		anak=e luh ento sebet	person=DEF female that sad	The little girl is sad.
+Balinese	63		Rarene ento seduk.		rare=ne ento seduk	baby=DEF that hungry	The baby is hungry.
+Balinese	64		Bolane ento ngelilik.		bola=ne ento ngelilik	ball=DEF that roll	The ball is rolling.
+Balinese	65		Jukunge ento nyilem.		jukung=e ento nyilem	boat=DEF that sink	The boat sank.
+Balinese	66		Umahe ento puun.		umah=e ento puun	house=DEF that burn	The house is burning.
+Balinese	67		Tanahe ento tuh.		tanah=e ento tuh	ground=DEF that dry	The ground was dry.
+Balinese	68		Ujan.		ujan	rain	It rained.
+Balinese	69		Anake muani ene tukangboros.		anak=e muani ene tukangboros	person=DEF male this hunter	The man is a hunter.
+Balinese	70		Memene ngelutang panakne ke bapane.		meme=ne ngelut=ang panak=ne ke bapa=ne	mother=DEF hug=CAUS child=3POSS to father=DEF	The mother made the child hug the father.
+Balinese	71		Anake muani cenik ento nglempagang tungked ke lelipine ento.		anak=e muani cenik ento nglempag=ang tungked ke lelipi=ne ento	person=DEF male small that hit=CAUS stick to snake=DEF that	The boy hit the snake with a stick (lit. The boy hit the stick to /against the snake.).
+Balinese	72		Anake muani cenik ento nundikang tungked ke lelipine ento.		anak=e muani cenik ento nundik=ang tungked ke lelipi=ne ento	person=DEF male small that touch=CAUS stick to snake=DEF that	The boy touched the snake with a stick.
+Balinese	73		Anake luh ento ngodotang tiuk mangan ke rotine ento.		anak=e luh ento ngodot=ang tiuk mangan ke roti=ne ento	person=DEF female that cut=CAUS knife sharp to bread=DEF that	The woman cut the bread with a sharp knife.
+Balinese	74		Anake muani ento negulang jaran ento ke punyan kayue ento aji tali.		anak=e muani ento negul=ang jaran ento ke punyan kayu=e ento aji tali	person=DEF male that tie=CAUS horse that to trunk tree=DEF that with rope	The man tied the horse with a rope to the tree trunk.
+Balinese	75		Anake luh ento ngisinang yeh ke lumuree ento.		anak=e luh ento ngisin=ang yeh ke lumure=e ento	person=DEF female that fill=CAUS water to glass=DEF that	The girl filled the glass with water.
+Balinese	76		Anake muani ento menekang anake cenik ento ke punyan kayune ento.		anak=e muani ento menek=ang anak=e cenik ento ke punyan kayu=ne ento	person=DEF male that climb=CAUS person=DEF small that to trunk tree=DEF that	The man made the child climb up the tree.
+Balinese	77		Ketut negakang anake cenik cenik ento di bataranne ento.		Ketut negak=ang anak=e cenik cenik ento di bataran=ne ento	Ketut sit=CAUS person=DEF small small that on floor=DEF that	Ketut made the children sit on the floor.
+Balinese	78		Ketut negakang anake cenik cenik ento di bangkune ento.		Ketut negak=ang anak=e cenik cenik ento di bangku=ne ento	Ketut sit=CAUS person=DEF small small that on bench=DEF that	Ketut made the children sit on the bench.
+Balinese	79		Ketut ngecogang anake luh ento.		Ketut ngecog=ang anak=e luh ento	Ketut jump=CAUS person=DEF female that	Ketut made the girl jump.
+Balinese	80		Anake muani cenik ento ngalahang desane ento.		anak=e muani cenik ento ngalah=ang desa=ne ento	person=DEF male small that beat=CAUS village=DEF that	The boy beat the village.
+Balinese	81		Ketut nongosang anake tua tua ento di kota.		Ketut nongos-ang anak=e tua tua ento di kota	Ketut live-CAUS person=DEF old old that in city	Ketut made the old people live in the city.
+Balinese	82		Ketut ninginang nasi.		Ketut ningin=ang nasi	Ketut cold=CAUS rice	Ketut made the rice cold.
+Balinese	83		Ketut ngematiang lelipine ento.		Ketut ngemati-ang lelipi=ne ento	Ketut die-CAUS snake=DEF that	Ketut killed the snake.
+Balinese	84		Ketut ngelilikang bolane ento.		Ketut ngelilik=ang bola=ne ento	Ketut roll=CAUS ball=DEF that	Ketut rolled the ball.
+Balinese	85		Ketut nyilemang jukunge ento.		Ketut nyilem=ang jukung=e ento	Ketut sink=CAUS boat=DEF that	Ketut made the boat sink.
+Balinese	86		Ketut muunang umahe ento.		Ketut muun=ang umah=e ento	Ketut burn=CAUS house=DEF that	Ketut burned that house.
+Balinese	87		Ketut ngetuhang penganggone.		Ketut ngetuh=ang penganggo=ne	Ketut dry=CAUS cloth=DEF	Ketut dried the clothes.
+Balinese	88		Anake muani ento nyemakin timpalne pipise ento.		anak=e muani ento nyemak=in timpal=ne pipis=e ento	person=DEF male that take=LOC friend=3POSS money=DEF that	The man took the money from his friend.
+Balinese	89		Anake muani cenik ento ngengkebin memenne katake ento.		anak=e muani cenik ento ngengkeb=in memen=ne katak=e ento	person=DEF male small that hide=LOC mother=3POSS frog=DEF that	The boy hid the frog from his mother.
+Balinese	90		Anake luh luh ento ngedengin gurune gambaran.		anak=e luh luh ento ngedeng=in guru=ne gambaran	person=DEF female female that show=LOC teacher=3POSS picture	The girls showed their teacher a picture.
+Balinese	91		Ketut maang anake cenik cenik ento bukune ento.		Ketut maang anak=e cenik cenik ento buku=ne ento	Ketut give person=DEF small small that book=DEF that	Ketut gave the children the books.
+Balinese	92		Anake luh ento ngirimin dadongne bunga.		anak=e luh ento ngirim=in dadong=ne bunga	person=DEF female that send=LOC grandmother=3POSS flower	The girl sent her grandmother flowers.
+Balinese	93		Anake muani cenik ento ngentungin jendelane ento (aji) bola.		anak=e muani cenik ento ngentung=in jendela=ne ento aji bola	person=DEF male small that throw=LOC window=DEF that with ball	The boy threw the ball into the window.
+Balinese	94		Anake muani ento negulin punyan kayue ento jaran.		anak=e muani ento negul=in punyan kayu=e ento jaran	person=DEF male that tie=LOC trunk tree=DEF that horse	The man tied the horse to the tree trunk.
+Balinese	95		Ketut nejang cangkire ento di mejane ento.		Ketut nejang cangkir=e ento di meja=ne ento	Ketut put cup=DEF that on table=DEF that	Ketut put the cup onto the table.
+Balinese	96		Anake muani ento nuruhin lumure ento (aji) yeh.		anak=e muani ento nuruh=in lumur=e ento aji yeh	person=DEF male that pour=LOC glass=DEF that with water	The man poured the water into the glass.
+Balinese	97		Anake luh ento ngerurubin anake muani cenik ento (aji) saput.		anak=e luh ento ngerurub=in anak=e muani cenik ento aji saput	person=DEF female that cover=LOC person=DEF male small that with blanket	The woman covered the boy with a blanket.
+Balinese	98		Petanine ento menekin treke ento (aji) somi.		petani=ne ento menek=in trek=e ento aji somi	farmer=DEF that load=LOC truck=DEF that with hay	The farmer loaded the truck with hay.
+Balinese	99		Ketut malaibin jaranne ento.		Ketut malaib=in jaran=ne ento	Ketut run=LOC horse=DEF that	Ketut runs from the horse.
+Balinese	100		Anake cenik cenik ento negakin bataranne ento.		anak=e cenik cenik ento negak=in bataran=ne ento	person=DEF small small that sit=LOC floor=DEF that	The children sat on the floor.
+Balinese	101		Anake cenik cenik ento negakin bangkune ento.		anak=e cenik cenik ento negak=in bangku=ne ento	person=DEF small small that sit=LOC bench=DEF that	The children sat on the bench.
+Balinese	102		Anake tua tua ento nongosin umah pemerintah.		anak=e tua tua ento nongos=in umah pemerintah	person=DEF old old that live=LOC house government	The old people live in government houses.
+Balinese	103		Anake luh cenik ento ngedekin tiang.		anak=e luh cenik ento ngedek=in tiang	person=DEF female small that laugh=LOC I	The girl laughed at me.
+Balinese	104		Anake ento ngelilikin tiang bola.		anak=e ento ngelilik=in tiang bola	person=DEF that roll=LOC I ball	The man rolled the ball to me.
+Balinese	105		Buahe ento ajenga teken anake muani cenik ento.		buah=e ento ajeng=a teken anak=e muani cenik ento	fruit=DEF that eat=PASS by person=DEF male small that	The fruit was eaten by the boy.
+Balinese	106		Panakne muani cenik ento geluta teken memene.		panak=ne muani cenik ento gelut=a teken meme=ne	child=3POSS male small that hug=PASS by mother=DEF	Her child was hugged by the mother.
+Balinese	107		Anake luh ento tlektekanga tekan anake muani ento.		anak=e luh ento tlektekang=a tekan anak=e muani ento	person=DEF female that look_at=PASS by person=DEF male that	The woman was looked at by the man.
+Balinese	108		Beruange ento tepukina teken anake muani ento.		beruang=e ento tepukin=a teken anak=e muani ento	bear=DEF that see=PASS by person=DEF male that	The bear was seen by the man.
+Balinese	109		Anake cenik muani ento adekina teken beruange ento.		anak=e cenik muani ento adekin=a teken beruang=e ento	person=DEF small male that smell=PASS by bear=DEF that	The boy was smelled by the bear.
+Balinese	110		Beruange ento takutina teken anake muani ento.		beruang=e ento takutin=a teken anak=e muani ento	bear=DEF that fear=PASS by person=DEF male that	The bear was feared by the man.
+Balinese	111		Anake muani ento takutina teken beruange ento.		anak=e muani ento takutin=a teken beruang=e ento	person=DEF male that fear=PASS by bear=DEF that	The man was feared by the bear.
+Balinese	112		Bonekane anyar demenina teken anake muani cenik ento.		boneka=ne anyar demenin=a teken anak=e muani cenik ento	toy=DEF new like=PASS by person=DEF male small that	The new toy was liked by the boy.
+Balinese	113		Anake muani cenik ento tawanga teken anake luh ento.		anak=e muani cenik ento tawang=a teken anak=e luh ento	person=DEF male small that know=PASS by person=DEF female that	The boy was known by the woman.
+Balinese	114		Dadongne kenehanga tekan anake luh ento.		dadong=ne kenehang=a tekan anak=e luh ento	grandmother=3POSS think=PASS by person=DEF female that	Her grandmother was thought about by the girl.
+Balinese	115		Anake luh ento kalahina tekan anake muani ento.		anak=e luh ento kalahin=a tekan anak=e muani ento	person=DEF female that leave=PASS by person=DEF male that	The woman was left by the man.
+Balinese	116		Rarene kayehanga teken memene.		rare=ne kayehang=a teken meme=ne	baby=DEF wash=PASS by mother=DEF	The baby was washed my the mother.
+Balinese	117		Panakne luh bajunina teken memene.		panak=ne luh bajunin=a teken meme=ne	child=3POSS female dress=PASS by mother=DEF	Her daugther was dressed by the mother.
+Balinese	118		Jenggotne gurisa teken anake muani ento.		jenggot=ne guris=a teken anak=e muani ento	beard=3POSS shave=PASS by person=DEF male that	His beard was shaved by that man.
+Balinese	119		Anake muani cenikcenik ento tulungina teken Ketut.		anak=e muani cenik-cenik ento tulungin=a teken Ketut	person=DEF male small-small that help=PASS by Ketut	The boy was helped by Ketut.
+Balinese	120		Anake luh ento ikutina teken anakne muani cenik ento.		anak=e luh ento ikutin=a teken anak=ne muani cenik ento	person=DEF female that follow=PASS by person=DEF male small that	The girl was followed by the boys.
+Balinese	121		Anak muani cenik ento omongina unduk cicingne teken anake luh ento.		anak muani cenik ento omongin=a unduk cicing=ne teken anak=e luh ento	person male small that talk=PASS about dog=3POSS by person=DEF female that	The boy was told about her dog by the girl.
+Balinese	122		Reramanne tagihina pipis teken anake muani cenik ento.		reraman=ne tagihin=a pipis teken anak=e muani cenik ento	parents=3POSS ask=PASS money by person=DEF male small that	The parents were asked some money by the boy.
+Balinese	123		Anake cenik cenik ento gerakina teken anak luh ento.		anak=e cenik cenik ento gerakin=a teken anak=luh ento	person=DEF small small that shout=PASS by person=female that	The children was shouted at by the woman.
+Balinese	124		Anake cenik ento orahina satua lucu teken anake luh ento.		anak=e cenik ento orahin=a satua lucu teken anak=e luh ento	person=DEF small that tell=PASS story funny by person=DEF female that	The boy was told a funny story by the girl.
+Balinese	125		'Sing' orahanga teken tiang teken ia makejang.		sing orahang=a teken tiang teken ia makejang	no say=PASS to me by he/she all	"No" was said to me by them."
+Balinese	126		Rarene gelunina Anna teken reramanne.		rare=ne gelunin=a Anna teken reraman=ne	baby=DEF call=PASS Anna by parents=DEF	The baby was called Anna by the parents.
+Balinese	127		Umah aji kayu bangunanga teken anake muani muani ento.		umah aji kayu bangunang=a teken anak=e muani muani ento	house with wood build=PASS by person=DEF male male that	A house of wood was built by the men.
+Balinese	128		Jendelene belahanga aji batu teken anake muani cenik ento.		jendele=ne belahang=a aji batu teken anak=e muani cenik ento	window=DEF break=PASS with stone by person=DEF male small that	The window was broken by the boy with a stone.
+Balinese	129		Musuhne matianga aji keris teken anake muani ento.		musuh=ne matiang=a aji keris teken anak=e muani ento	enemy=DEF kill=PASS with kris by person=DEF male that	The enemy was killed with 'kris' by the man.
+Balinese	130		Lelipine ento lempagina aji tungked teken anake muani cenik ento.		lelipi=ne ento lempagin=a aji tungked teken anak=e muani cenik ento	snake=DEF that beat=PASS with stick by person=DEF male small that	The snake was beaten by the boy with a stick.
+Balinese	131		Lelipie ento tundika teken anake muani cenik ento aji tungked.		lelipi=e ento tundik=a teken anak=e muani cenik ento aji tungked	snake=DEF that touch=PASS by person=DEF male small that with stick	The snake was touched by the boy with a stick.
+Balinese	132		Rotine ento godota teken anake luh ento aji tiuk mangan.		roti=ne ento godot=a teken anak=e luh ento aji tiuk mangan	bread=DEF that cut=PASS by person=DEF female that with knife sharp	The bread was cut by the womam with a sharp knife.
+Balinese	133		Pipise ento jemakaa teken anake muani ento uli timpalne.		pipis=e ento jemaka=a teken anak=e muani ento uli timpal=ne	money=DEF that take=PASS by person=DEF male that from friend=3POSS	The money was taken by the man from his friend.
+Balinese	134		Halaman uli bukune ento ueka teken anake luh ento.		halaman uli buku=ne ento uek=a teken anak=e luh ento	page from book=DEF that tear=PASS by person=DEF female that	The page of the book was torn by the woman.
+Balinese	135		Pohe ento pelutina teken anake muani cenik ento.		poh=e ento pelutin=a teken anak=e muani cenik ento	mango=DEF that peel=PASS by person=DEF male small that	The mango was peeled by the boy.
+Balinese	136		Katake ento engkebanga teken anake muani cenik ento uli memenne.		katak=e ento engkebang=a teken anak=e muani cenik ento uli memen=ne	frog=DEF that hid=PASS by person=DEF male small that from mother=3POSS	The frog was hidden by the boy from his mother.
+Balinese	137		Gambaranne ento edenganga teken anakeluh luh ento ke gurune.		gambaran=ne ento edengang=a teken anak=e luh luh ento ke guru=ne	picture=DEF that show=PASS by person=DEF female female that to teacher=3POSS	The picture was shown by the girl to her teacher.
+Balinese	138		Bukune ento baanga teken ia ke anake cenik cenik ento.		buku=ne ento baang=a teken ia ke anak=e cenik cenik ento	book=DEF that give=PASS by he/she to person=DEF small small that	The book was given to the children by her.
+Balinese	139		Bungane ento kirimanga teken anake luh ento ke dadongne.		bunga=ne ento kirimang=a teken anak=e luh ento ke dadong=ne	flower=DEF that send=PASS by person=DEF female that to grandmother=3POSS	The flowers were sent to her grandmother by the girl.
+Balinese	140		Kotake ento abana teken anake muani muani ento ke peken.		kotak=e ento aba=na teken anak=e muani muani ento ke peken	box=DEF that bring=PASS by person=DEF male male that to market	The boxes were brought to the market by the men.
+Balinese	141		Bolane ento entunganga teken anake muani cenik ento ke jendelane ento.		bola=ne ento entungang=a teken anak=e muani cenik ento ke jendela=ne ento	ball=DEF that throw=PASS by person=DEF male small that to window=DEF that	The ball was thrown to the window by the boy.
+Balinese	142		Jarane ento tegula teken anake muani ento aji tali ke punyan kayue ento.		jaran=e ento tegul=a teken anak=e muani ento aji tali ke punyan kayu=e ento	horse=DEF that tie=PASS by person=DEF male that with rope to trunk tree=DEF that	The horse was tied with a rope to the tree trunk by the man.
+Balinese	143		Cangkire ento ejangaa teken Ketut di mejane ento.		cangkir=e ento ejanga=a teken Ketut di meja=ne ento	cup=DEF that put=PASS by Ketut on table=DEF that	The cup was put on the table by Ketut.
+Balinese	144		Yehe ento turuhanga teken anake muani ento ke lumure ento.		yeh=e ento turuhang=a teken anak=e muani ento ke lumur=e ento	water=DEF that pour=PASS by person=DEF male that to glass=DEF that	The water was poured into the glass by that man.
+Balinese	145		Anake muani cenik ento ruruba teken anake luh ento aji saput.		anak=e muani cenik ento rurub=a teken anak=e luh ento aji saput	person=DEF male small that cover=PASS by person=DEF female that with blanket	The boy was covered with blanket by the woman.
+Balinese	146		Lumure ento isinina yeh tekan anake luh ento.		lumur=e ento isinin=a yeh tekan anak=e luh ento	glass=DEF that fill=PASS water by person=DEF female that	The glass was filled with water by the woman.
+Balinese	147		Somine ento penekanga teken petanine ento ke treke ento.		somi=ne ento penekang=a teken petani=ne ento ke trek=e ento	hay=DEF that load=PASS by farmer=DEF that into truck=DEF that	The hay was loaded into the truck by the farmer.
+Balinese	148		Punyan kayune ento penekina teken anake muani muani ento.		punyan kayu=ne ento penekin=a teken anak=e muani muani ento	trunk tree=DEF that climb=PASS by person=DEF male male that	The tree was climbed by the men.
+Balinese	149		Desane ento kalahina teken anake muani cenik ento.		desa=ne ento kalahin=a teken anak=e muani cenik ento	village=DEF that leave=PASS by person=DEF male small that	The village was left by the boy.
+Balinese	150		Buahe ento kaajeng teken anake muani cenik ento.		buah=e ento ka=ajeng teken anak=e muani cenik ento	fruit=DEF that PASS=eat by person=DEF male small that	The fruit was eaten by the boy.
+Balinese	151		Panakne muani cenik ento kagelut teken memene.		panak=ne muani cenik ento ka=gelut teken meme=ne	child=3POSS male small that PASS=hug by mother=DEF	Her boy was hugged by the mother.
+Balinese	152		Anake luh ento katlektekang teken anak-e muani ento.		anak=e luh ento ka=tlektekang teken anak=e muani ento	person=DEF female that PASS=look_at by person=DEF male that	The woman was looked at by the man.
+Balinese	153		Beruange ento katepukin teken anake muani ento.		beruang=e ento ka=tepukin teken anak=e muani ento	bear=DEF that PASS=see by person=DEF male that	The bear was seen by the man.
+Balinese	154		Anake cenik muani ento kaadekin teken beruange ento.		anak=e cenik muani ento ka=adekin teken beruang=e ento	person=DEF small male that PASS=smell by bear=DEF that	The boy was smelled by the bear.
+Balinese	155		Beruange ento katakutin teken anake muani ento.		beruang=e ento ka=takutin teken anak=e muani ento	bear=DEF that PASS=fear by person=DEF male that	The bear was feared by the man.
+Balinese	156		Anake muani ento katakutin teken beruange ento.		anak=e muani ento ka=takutin teken beruang=e ento	person=DEF male that PASS=fear by bear=DEF that	The man was feared by the bear.
+Balinese	157		Bonekane anyar kademenin teken anake muani cenik ento.		boneka=ne anyar ka=demenin teken anak=e muani cenik ento	toy=DEF new PASS=like by person=DEF male small that	The boy liked the new toy.
+Balinese	158		Anake muani cenik ento katawang teken anake luh ento.		anak=e muani cenik ento ka=tawang teken anak=e luh ento	person=DEF male small that PASS=know by person=DEF female that	The boy was known by the woman.
+Balinese	159		Dadongne kakenehang tekan anake luh ento.		dadong=ne ka=kenehang tekan anak=e luh ento	grandmother=3POSS PASS=think by person=DEF female that	Her grandmother was thought about by the girl.
+Balinese	160		Anake luh ento kakalahin tekan anake muani ento.		anak=e luh ento ka=kalahin tekan anak=e muani ento	person=DEF female that PASS=leave by person=DEF male that	The woman was left by the man.
+Balinese	161		Rarene kakayehang teken memene.		rare=ne ka=kayehang teken meme=ne	baby=DEF PASS=wash by mother=DEF	The baby was washed by the mother.
+Balinese	162		Panakne luh kabajunin teken memene.		panak=ne luh ka=bajunin teken meme=ne	child=3POSS female PASS=dress by mother=DEF	Her daugther was dressed by the mother.
+Balinese	163		Jenggotne kaguris teken anake muani ento.		jenggot=ne ka=guris teken anak=e muani ento	beard=3POSS PASS=shave by person=DEF male that	His beard was shaved by that man.
+Balinese	164		Anake muani cenik-cenik ento katulungin teken Ketut.		anak=e muani cenik-cenik ento ka=tulungin teken Ketut	person=DEF male small-small that PASS=help by Ketut	The boy was helped by Ketut.
+Balinese	165		Anake luh ento kaikutin teken anakne muani cenik ento.		anak=e luh ento ka=ikutin teken anak=ne muani cenik ento	person=DEF female that PASS=follow by person=DEF male small that	The girl was followed by the boys.
+Balinese	166		Anak muani cenik ento kaomongin unduk cicingne teken anake luh ento.		anak muani cenik ento ka=omongin unduk cicing=ne teken anak=e luh ento	person male small that PASS=talk about dog=3POSS by person=DEF female that	The boy was told about her dog by the girl.
+Balinese	167		Reramanne katagihin pipis teken anake muani cenik ento.		reraman=ne ka=tagihin pipis teken anak=e muani cenik ento	parents=3POSS PASS=ask money by person=DEF male small that	The parents were asked some money by the boy.
+Balinese	168		Anake cenik cenik ento kagerakin teken anak luh ento.		anak=e cenik cenik ento ka=gerakin teken anak luh ento	person=DEF small small that PASS=shout by person female that	The children was shouted at by the woman.
+Balinese	169		Anake cenik ento kaorahin satua lucu teken anake luh ento.		anak=e cenik ento ka=orahin satua lucu teken anak=e luh ento	person=DEF small that PASS=tell story funny by person=DEF female that	The boy was told a funny story by the girl.
+Balinese	170		'Sing' kaorahang teken tiang teken ia makejang.		sing ka=orahang teken tiang teken ia makejang	no PASS=say to me by he/she all	"No" was said to me by them."
+Balinese	171		Rarene kagelunin Anna teken reramane.		rare=ne ka=gelunin Anna teken rerama=ne	baby=DEF PASS=call Anna by parents=DEF	The bay was called Anna by the parents.
+Balinese	172		Umah aji kayu kabangunang teken anake muani muani ento.		umah aji kayu ka=bangunang teken anak=e muani muani ento	house with wood PASS=build by person=DEF male male that	A house of wood was bulit by the men.
+Balinese	173		Jendelene kabelahang aji batu teken anake muani cenik ento.		jendele=ne ka=belahang aji batu teken anak=e muani cenik ento	window=DEF PASS=break with stone by person=DEF male small that	The window was broken by the boy with a stone.
+Balinese	174		Musuhne kamatiang aji keris teken anake muani ento.		musuh=ne ka=matiang aji keris teken anak=e muani ento	enemy=DEF PASS=kill with kris by person=DEF male that	The enemy was killed with 'kris' by the man.
+Balinese	175		Lelipine ento kalempagin aji tungked teken anake muani cenik ento.		lelipi=ne ento ka=lempagin aji tungked teken anak=e muani cenik ento	snake=DEF that PASS=beat with stick by person=DEF male small that	The snake was beaten by the boy with a stick.
+Balinese	176		Lelipine ento kalempag aji tungked teken anake muani cenik ento.		lelipi=ne ento ka=lempag aji tungked teken anak=e muani cenik ento	snake=DEF that PASS=beat with stick by person=DEF male small that	The snake was hit by the boy with a stick.
+Balinese	177		Lelipie ento katundik teken anake muani cenik ento aji tungked.		lelipi=e ento ka=tundik teken anak=e muani cenik ento aji tungked	snake=DEF that PASS=touch by person=DEF male small that with stick	That snake was touched by that boy with a stick.
+Balinese	178		Rotine ento kagodot teken anake luh ento aji tiuk mangan.		roti=ne ento ka=godot teken anak=e luh ento aji tiuk mangan	bread=DEF that PASS=cut by person=DEF female that with knife sharp	The bread was cut by the womam with a sharp knife.
+Balinese	179		Pipise ento kajemak teken anake muani ento uli timpalne.		pipis=e ento ka=jemak teken anak=e muani ento uli timpal=ne	money=DEF that PASS=take by person=DEF male that from friend=3POSS	The money was taken by the man from his friend.
+Balinese	180		Halaman uli bukune ento kauek teken anake luh ento.		halaman uli buku=ne ento ka=uek teken anak=e luh ento	page from book=DEF that PASS=tear by person=DEF female that	The page of the book was torn by the woman.
+Balinese	181		Pohe ento kapelutin teken anake muani cenik ento.		poh=e ento ka=pelutin teken anak=e muani cenik ento	mango=DEF that PASS=peel by person=DEF male small that	The mango was peeled by the boy.
+Balinese	182		Katake ento kaengkebang teken anake muani cenik ento uli memenne.		katak=e ento ka=engkebang teken anak=e muani cenik ento uli memen=ne	frog=DEF that PASS=hid by person=DEF male small that from mother=3POSS	The frog was hidden by the boy from his mother.
+Balinese	183		Gambaranne ento kaedengang teken anake luh ento ke gurune.		gambaran=ne ento ka=edengang teken anak=e luh ento ke guru=ne	picture=DEF that PASS=show by person=DEF female that to teacher=3POSS	The picture was shown by the girl to her teacher.
+Balinese	184		Bukune ento kabaang teken ia ke anake cenik cenik ento.		buku=ne ento ka=baang teken ia ke anak=e cenik cenik ento	book=DEF that PASS=give by he/she to person=DEF small small that	The book was given to the children by her.
+Balinese	185		Bungane ento kakirimang teken anake luh ento ke dadongne.		bunga=ne ento ka=kirimang teken anak=e luh ento ke dadong=ne	flower=DEF that PASS=send by person=DEF female that to grandmother=3POSS	The flowers were sent to her grandmother by the girl.
+Balinese	186		Kotake ento kaaba teken anake muani muani ento ke peken.		kotak=e ento ka=aba teken anak=e muani muani ento ke peken	box=DEF that PASS=bring by person=DEF male male that to market	The boxes were brought to the market by the men.
+Balinese	187		Bolane ento kaentungang teken anake muani cenik ento ke jendelane ento.		bola=ne ento ka=entungang teken anak=e muani cenik ento ke jendela=ne ento	ball=DEF that PASS=throw by person=DEF male small that to window=DEF that	The ball was thrown to the window by the boy.
+Balinese	188		Jarane ento kategul teken anake muani ento aji tali ke punyan kayue ento.		jaran=e ento ka=tegul teken anak=e muani ento aji tali ke punyan kayu=e ento	horse=DEF that PASS=tie by person=DEF male that with rope to trunk tree=DEF that	The horse was tied with a rope to the tree trunk by the man.
+Balinese	189		Cangkire ento kaejang teken Ketut di mejane ento.		cangkir=e ento ka=ejang teken Ketut di meja=ne ento	cup=DEF that PASS=put by Ketut on table=DEF that	The cup was put on the table by Ketut.
+Balinese	190		Yehe ento katuruhang teken anake muani ento ke lumure ento.		yeh=e ento ka=turuhang teken anak=e muani ento ke lumur=e ento	water=DEF that PASS=pour by person=DEF male that to glass=DEF that	The water was poured into the glass by that man.
+Balinese	191		Anake muani cenik ento karurub teken anake luh ento aji saput.		anak=e muani cenik ento ka=rurub teken anak=e luh ento aji saput	person=DEF male small that PASS=cover by person=DEF female that with blanket	The boy was covered with a blanket by the woman.
+Balinese	192		Lumure ento kaisinin yeh tekan anake luh ento.		lumur=e ento ka=isinin yeh tekan anak=e luh ento	glass=DEF that PASS=fill water by person=DEF female that	The glass was filled with water by the woman.
+Balinese	193		Matan tiange kakedipang tiang.		mata=n tiang=e ka=kedipang tiang	eye=LIG I=POSS PASS=close I	My eyes were closed by me.
+Balinese	194		Somine ento kapenekang teken petanine ento ke treke ento.		somi=ne ento ka=penekang teken petani=ne ento ke trek=e ento	hay=DEF that PASS=load by farmer=DEF that into truck=DEF that	The hay was loaded into the truck by the farmer.
+Balinese	195		Punyan kayune ento kapenekin teken anake muani muani ento.		punyan kayu=ne ento ka=penekin teken anak=e muani muani ento	trunk tree=DEF that PASS=climb by person=DEF male male that	The tree was climbed by the men.
+Balinese	196		Desane ento kakalahin teken anake muani cenik ento.		desa=ne ento ka=kalahin teken anak=e muani cenik ento	village=DEF that PASS=leave by person=DEF male small that	The village was left by the boy.
+Balinese	197		Limaan tiange kasakitang tiang.		lima=an tiang=e ka=sakitang tiang	hand=LIG I=POSS PASS=hurt I	My hand was hurt by me.
+Balinese	198		Buahe ento suba maajeng.		buah=e ento suba ma=ajeng	fruit=DEF that already RES=eat	The fruit had been eaten.
+Balinese	199		Panakne muani cenik ento suba magelut.		panak=ne muani cenik ento suba ma=gelut	child=3POSS male small that already RES=hug	The child has been hugged.
+Balinese	200		Rarene makayeh.		rare=ne ma=kayeh	baby=DEF RES=wash	The baby has been washed.
+Balinese	201		Panakne luh mabaju.		panak=ne luh ma=baju	child=3POSS female RES=dress	Her daughter was dressed. / Her daughter wore clothes.
+Balinese	202		Jenggotne maguris.		jenggot=ne ma=guris	beard=3POSS RES=shave	His beard was shaved.
+Balinese	203		Lelipine ento malempag.		lelipi=ne ento ma=lempag	snake=DEF that RES=beat	The snake was beaten.
+Balinese	204		Lelipie ento matundik.		lelipi=e ento ma=tundik	snake=DEF that RES=touch	The snake was touched.
+Balinese	205		Rotine ento magodot.		roti=ne ento ma=godot	bread=DEF that RES=cut	The bread was cut.
+Balinese	206		Pipise ento majemak.		pipis=e ento ma=jemak	money=DEF that RES=take	The money was taken.
+Balinese	207		Halaman uli bukune ento mauek.		halaman uli buku=ne ento ma=uek	page from book=DEF that RES=tear	The page of the book was torn (by the woman).
+Balinese	208		Pohe ento mapelut.		poh=e ento ma=pelut	mango=DEF that RES=peel	The mango was peeled.
+Balinese	209		Katake ento maengkebang.		katak=e ento ma=engkebang	frog=DEF that RES=hid	The frog was hidden.
+Balinese	210		Gambaranne ento maedengang.		gambaran=ne ento ma=edengang	picture=DEF that RES=show	The picture was shown.
+Balinese	211		Bungane ento makirim.		bunga=ne ento ma=kirim	flower=DEF that RES=send	The flowers were sent.
+Balinese	212		Kotake ento maaba.		kotak=e ento ma=aba	box=DEF that RES=bring	The boxes were brought.
+Balinese	213		Bolane ento maentungang.		bola=ne ento ma=entungang	ball=DEF that RES=throw	The ball was thrown.
+Balinese	214		Jarane ento mategul.		jaran=e ento ma=tegul	horse=DEF that RES=tie	The horse was tied.
+Balinese	215		Cangkire ento maejang.		cangkir=e ento ma=ejang	cup=DEF that RES=put	The cup was put.
+Balinese	216		Yehe ento maturuh.		yeh=e ento ma=turuh	water=DEF that RES=pour	The water was poured.
+Balinese	217		Anake muani cenik ento marurub.		anak=e muani cenik ento ma=rurub	person=DEF male small that RES=cover	The boy was covered.
+Balinese	218		Lumure ento maisi.		lumur=e ento ma=isi	glass=DEF that RES=fill	The glass was filled.
+Balinese	219		Tiang ngematiang lelipine ento.		tiang ngemati-ang lelipi-ne ento	I die-CAUS snake-DEF that	I killed the snake.

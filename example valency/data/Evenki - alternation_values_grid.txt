@@ -1,0 +1,81 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Adversative Passive	Decausative	Personal passive	Reciprocal	Resultative
+Evenki	1	EAT	d’ep-	41	1-nom 2-acc V	Never	Never	Regularly	Never	Never
+Evenki	2	HUG	kumle-	60	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	3	LOOK AT	ičet-	33	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	4	SEE	iče-	32	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	5	SMELL	Ŋosukta-	61	1-nom 2-acc V	Never	Never	Never	Regularly	Never
+Evenki	6	FEAR	Ŋeelet-	35, 99, 100	1-nom 2-abl V	Never	Never	Never	Regularly	Regularly
+Evenki	7	FRIGHTEN	ŋeele-vken-	34	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	8	LIKE	ajav-	36, 93	1-nom 2-acc V	Never	Never	Regularly	Never	Never
+Evenki	9	KNOW	saa-	31	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	10	THINK	d'alda-	62, 108	1-nom 2-prol V	Never	Never	Regularly	Regularly	Never
+Evenki	11	SEARCH FOR	gelekte-	37	1-nom 2-acc V	Never	Never	Never	Never	Never
+Evenki	12	WASH	av-	43	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	13	DRESS	tet-yv--	42	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	14	SHAVE (a body part/person)	husča-	63	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	15	HELP	bele-	40, 107	1-nom 2-dat V	Never	Never	Never	Regularly	Never
+Evenki	16	FOLLOW	bodo-	39	1-nom 2-acc V	Never	Never	Never	Never	Never
+Evenki	17	MEET	asila- (1)	38	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	18	TALK	ulgučen- (2)	30	1-nom 2-prol 3-com V	Never	Never	Never	Regularly	Never
+Evenki	19	ASK FOR	ejet-	29, 90, 109	1-nom 2-acc 3-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	20	SHOUT AT	tepke- (1)	27, 106	1-nom 2-all V	Never	Never	Regularly	Regularly	Never
+Evenki	21	TELL	ulgučen- (1)	28	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Never
+Evenki	22	SAY	guun-	26, 104	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Regularly
+Evenki	23	NAME	gerbit-	25, 105	1-nom 2-acc 3-instr V	Never	Never	Regularly	Regularly	Never
+Evenki	24	BUILD	oo-	24, 103	1-nom 2-acc 3-abl V	Never	Never	Regularly	Regularly	Never
+Evenki	25	BREAK	sukča-	23, 96	1-nom 2-acc 3-instr V	Never	Regularly	Regularly	Never	Never
+Evenki	26	KILL	vaa-	22, 95, 97, 98	1-nom 2-acc 3-instr V	Marginally	Regularly	Regularly	Regularly	Never
+Evenki	27	BEAT	iktu-	21	1-nom 2-acc 3-instr V	Never	Never	Regularly	Regularly	Never
+Evenki	28	HIT	ikte-	20	1-nom 2-acc 3-instr V	Marginally	Never	Regularly	Never	Regularly
+Evenki	29	TOUCH	Ileče-	19	1-nom 2-acc 3-instr V	Never	Never	Never	Regularly	Never
+Evenki	30	CUT	mine-	18	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never
+Evenki	31	TAKE	d'ava-	64	1-nom 2-acc 3-abl V	Never	Never	Regularly	Regularly	Regularly
+Evenki	32	TEAR	etyt-	16	1-nom 2-acc 3-abl V	Never	Never	Regularly	Never	Regularly
+Evenki	33	PEEL	ile-	65	1-nom 2-acc 3-abl V	Never	Never	Regularly	Never	Never
+Evenki	34	HIDE	d’aja-	15, 101	1-nom 2-acc 3-abl V	Never	Never	Regularly	Never	Regularly
+Evenki	35	SHOW	iče-vken-	12	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Never
+Evenki	36	GIVE	buu-	11	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Never
+Evenki	37	SEND	ung-	10	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Never
+Evenki	38	CARRY	Ŋene-v-	9	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Never
+Evenki	39	THROW	nodaa-	7	1-nom 2-acc 3-loc V	Never	Never	Regularly	Regularly	Never
+Evenki	40	TIE	ui-	4	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Regularly
+Evenki	41	PUT	nee-	6	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Regularly
+Evenki	42	POUR	uŋku-	5	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Regularly
+Evenki	43	COVER	das-	1, 92	1-nom 2-acc 3-instr V	Never	Never	Regularly	Regularly	Regularly
+Evenki	44	FILL	d’alupki-	2	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never
+Evenki	45	LOAD	tev-	3	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Regularly
+Evenki	46	BLINK	sarim-	66	1-nom V	Never	Never	Never	Never	Never
+Evenki	47	COUGH	simkit-	44	1-nom V	Never	Never	Never	Never	Never
+Evenki	48	CLIMB	tukty-	45	1-nom 2-loc V	Never	Never	Never	Never	Regularly
+Evenki	49	RUN	tuksa-	48	1-nom 2-prol V	Never	Never	Never	Never	Never
+Evenki	50	SIT	tege-t-	47	1-nom 2-dat V	Never	Never	Never	Never	Never
+Evenki	51	SIT DOWN	tege-	46	1-nom 2-dat V	Never	Never	Never	Never	Never
+Evenki	52	JUMP	mikčan-	49	1-nom 2-loc V	Never	Never	Never	Never	Never
+Evenki	53	SING	ike-	50	1-nom 2-acc V	Never	Never	Regularly	Never	Never
+Evenki	54	GO	ŋene-	67	1-nom 2-loc V	Never	Never	Never	Never	Never
+Evenki	55	LEAVE	suru-	59, 89	1-nom 2-abl V	Marginally	Never	No data	Never	Never
+Evenki	56	LIVE	bi-	51	1-nom 2-dat V	Never	Never	Never	Never	Never
+Evenki	57	LAUGH	in’ekte-	68	1-nom V	Never	Never	Never	Never	Never
+Evenki	58	SCREAM	tepke- (2)	69	1-nom V	Never	Never	Never	Regularly	Never
+Evenki	59	FEEL PAIN	enuu-	53	1-nom V	Never	Never	Never	Never	Never
+Evenki	60	FEEL COLD	doŋoto-	56	1-nom V	Marginally	Never	Regularly	Never	Never
+Evenki	61	DIE	bu-	54	1-nom V	Never	Never	Never	Never	Never
+Evenki	62	PLAY	evi-	70	1-nom V	Never	Never	Never	Never	Never
+Evenki	63	BE SAD	merge-	71	1-nom V	Never	Never	Never	Never	Never
+Evenki	64	BE HUNGRY	d’em-mu-	57	1-nom V	Never	Never	Never	Never	Never
+Evenki	65	ROLL	sirun-	72, 102	1-nom V	Never	Never	Never	Never	Regularly
+Evenki	66	SINK	eje-	73	1-nom V	Never	Never	Never	Never	Never
+Evenki	67	BURN	d’egde-	74, 94	1-nom V	Marginally	Never	Never	Never	Never
+Evenki	68	BE DRY	olgokin bi-	75	1-nom V	Never	Never	Never	Never	Never
+Evenki	69	RAIN	udun-	58, 88	1-nom V	Marginally	Never	No data	Never	Never
+Evenki	70	BE A HUNTER	bejumimni bi-	76	1-nom V	Never	Never	Never	Never	Never
+Evenki	71	GRIND	huku-	77	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never
+Evenki	72	WIPE	tesi-	17	1-nom 2-acc 3-abl V	Never	Never	Regularly	Never	Never
+Evenki	73	DIG	ulee-	78	1-nom 2-acc V	Never	Never	Regularly	Never	Never
+Evenki	74	PUSH	ana-	79	1-nom 2-acc 3-loc V	Never	Never	Regularly	Regularly	Never
+Evenki	75	BRING	eme-v-	8	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Never
+Evenki	76	STEAL	d’oromo-	14, 91	1-nom 2-acc 3-abl V	Marginally	Never	Regularly	Never	Never
+Evenki	77	TEACH	alagu-	80	1-nom 2-acc 3-dat V	Never	Never	Regularly	Regularly	Never
+Evenki	78	HEAR	dooldy-	81	1-nom 2-acc V	Never	Never	Regularly	Regularly	Never
+Evenki	79	COOK	irii-	82	1-nom 2-acc V	Never	Never	Regularly	Never	Never
+Evenki	80	BOIL	huju-	83	1-nom V	Never	Never	Never	Never	Never

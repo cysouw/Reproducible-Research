@@ -1,0 +1,304 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Mandarin Chinese	1	Constructed by linguist	Wǒ chī le fàn.	我吃了饭。	wo chi-le fan	1SG eat-PERF meal	I ate my meal. / I had my meal.
+Mandarin Chinese	2	Constructed by native speaker linguist	Dírén èle tā sāntiān.	敌人饿了他三天。	diren e-le ta san-tian	enemy hungry-PERF 3SG three-day	The enemy starved him for three days.
+Mandarin Chinese	3	Constructed by linguist	Érzi yōngbào māma.	儿子拥抱妈妈。	erzi yongbao mama	son hug Mom	The son hugs his Mom.
+Mandarin Chinese	4	Constructed by linguist	Wǒmen zàohǎo le chēzi.	我们造好了车子。	women zao-hao-le chezi	1PL make-finished-PERF car	We have made the car.
+Mandarin Chinese	5	Constructed by linguist	Lǎo Wáng shàngzhōu sǐ le.	老王上周死了。	Lao Wang shang-zhou si-le	Lao Wang last-week die-PERF	Old Wang died last week.
+Mandarin Chinese	6	Constructed by native speaker linguist	Wǒmen bǎ chē zào chūlái le.	我们把车造出来了。	women ba che zao-chulai-le	1PL BA car make-come.out-PERF	We have made the car.
+Mandarin Chinese	7	Constructed by linguist	Wǒ zài kàn nàfú huà.	我在看那幅画。	wo zai kan na-fu hua	1SG PRES look.at that-CL picture	I am looking at that picture.
+Mandarin Chinese	8	Constructed by linguist	Wǒ dǎduàn le gùnzi.	我打断了棍子。	wo daduan-le gunzi	1SG break-PERF stick	I broke the stick.
+Mandarin Chinese	9	Constructed by linguist	Wǒ zìjǐ xǐ yīfú.	我自己洗衣服。	wo ziji xi yifu	1SG self wash clothes	I wash my clothes myself.
+Mandarin Chinese	10	Constructed by linguist	Wǒ bǎ gùnzi dǎduàn le.	我把棍子打断了。	wo ba gunzi daduan-le	1SG BA stick break-PERF	I broke the stick.
+Mandarin Chinese	11	Constructed by linguist	Tāde chuán zuótiān chén le.	他的船昨天沉了。	ta-de chuan zuotian chen-le	3SG-POSS boat yesterday sink-PERF	His boat sank yesterday.
+Mandarin Chinese	12	Constructed by linguist	Wǒmen jiànhǎo le fángzi.	我们建好了房子。	women jian-hao-le fangzi	1PL build-finished-PERF house	We have built a house.
+Mandarin Chinese	13	Constructed by linguist	Háizi sī le yīběn shū.	孩子撕了一本书。	haizi si-le yi-ben shu	kid tear-PERF one-CL book	The kid tore a book.
+Mandarin Chinese	14	Constructed by linguist	Wǒmen bǎ fángzi jiànhǎo le.	我们把房子建好了。	women ba fangzi jian-hao-le	1PL BA house build-finished-PERF	We have built the house.
+Mandarin Chinese	15	Constructed by linguist	Mèimei pà lǎoshǔ.	妹妹怕老鼠。	meimei pa laoshu	younger.sister fear rat	My younger sister fears rats.
+Mandarin Chinese	16	Constructed by linguist	Wǒ kànjiànle yītóu níu.	我看见了一头牛。	wo kanjian-le yi-tou niu	1SG see-PERF one-CL cow	I saw a cow.
+Mandarin Chinese	17	Constructed by linguist	Māma gàosù wǒ yījiàn shì.	妈妈告诉我一件事。	mama gaosu wo yi-jian shi	Mom tell 1SG one-CL matter	Mom told me something.
+Mandarin Chinese	18	Constructed by linguist	Yéye jiāo le wǒ liǎngmén shǒuyì.	爷爷教了我两门手艺。	yeye jiao-le wo liang-men shouyi	grandpa teach-PERF 1SG two-CL skill	Grandpa taught me two skills.
+Mandarin Chinese	19	Constructed by linguist	Bùyīhuìer,lǎohǔ chūxiàn le.	不一会儿，老虎出现了。	buyihuier laohu chuxian le	after.a.while tiger appear PERF	After a while, the tiger appeared."
+Mandarin Chinese	20	Constructed by linguist	Jiějie wéndàole huāxiāng.	姐姐闻到了花香。	jiejie wen-dao-le hua-xiang	elder.sister smell-COM-PERF flower-fragrance	My elder sister smelled fragrance of flower.
+Mandarin Chinese	21	Constructed by linguist	Wǒ zài xiǎng yīgè wèntí.	我在想一个问题。	wo zai xiang yi-ge wenti	1SG PRES think one-CL problem	I am thinking about a problem.
+Mandarin Chinese	22	Constructed by linguist	Xiǎomíng wèn tā māma yào yīxiē qián.	晓明问他妈妈要一些钱。	Xiaoming wen ta mama yao yixie qian	Xiaoming PREP 3SG Mom ask.for some money	Xiaoming asked his Mom for some money.
+Mandarin Chinese	23	Constructed by linguist	Xiǎo Wáng jīntiān shēngbìng le.	小王今天生病了。	Xiao Wang jintian shengbing-le	Xiao Wang today be.ill-PERF	Little Wang is ill today.
+Mandarin Chinese	24	Constructed by linguist	Dì gān le.	地干了。	di gan-le	ground dry-PERF	The ground (has) dried.
+Mandarin Chinese	25	Constructed by linguist	Lǎo wáng hěn bēishāng.	老王很悲伤。	Lao Wang hen beishang	Lao Wang very sad	Old Wang is very sad.
+Mandarin Chinese	26	Constructed by linguist	wǒ è le.	我饿了。	wo e-le	1SG hungry-PERF	I am hungry.
+Mandarin Chinese	27	Constructed by linguist	Dìdi zài pāidǎ wǒde fángmén.	弟弟在拍打我的房门。	didi zai paida wode fang-men	younger.brother PRES beat my room-door	My younger brother is beating the door of my room.
+Mandarin Chinese	28	Constructed by linguist	Xiǎo Lì cháo wǒ zhǎyǎnjing.	小李朝我眨眼睛。	Xiao Li chao wo zhayanjing	Xiao Li PREP 1SG blink.eye	Little Li blinked at me.
+Mandarin Chinese	29	Constructed by linguist	Shuǐ kāi le.	水开了。	shui kai-le	water boil-PRES	The water is boiling.
+Mandarin Chinese	30	Constructed by linguist	Tāmen néng zào qìchē.	他们能造汽车。	tamen neng zao qiche	3PL can make car	They can make cars.
+Mandarin Chinese	31	Constructed by linguist	Nǐmen kěyǐ chùmō píngmù.	你们可以触摸屏幕。	nimen keyi chumo pingmu	2PL can touch screen	You can touch the screen.
+Mandarin Chinese	32	Constructed by linguist	Bàba dǎduàn le gùnzǐ.	爸爸打断了棍子。	baba daduan-le gunzi	Dad break-PERF stick	Dad broke the stick.
+Mandarin Chinese	33	Constructed by linguist	Yéye zài késòu.	爷爷在咳嗽。	yeye zai kesou	grandpa PRES cough	Grandpa is coughing.
+Mandarin Chinese	34	Constructed by linguist	Fángzi hái zài ránshāo.	房子还在燃烧。	fangzi hai zai ranshao	house still PRES burn	The house is still burning.
+Mandarin Chinese	35	Constructed by linguist	Tóngxuémen zhèng zài páshān.	同学们正在爬山。	tongxue-men zheng zai pa shan	classmate-PL right.now PRES climb mountain	The classmates are climbing the mountain.
+Mandarin Chinese	36	Constructed by linguist	Yéye gěi Xiǎomíng dàilái le yīzhī xiǎo báitù.	爷爷给小明带来了一只小白兔。	yeye gei Xiaoming dailai le yi-zhi xiao bai-tu	grandpa to Xiaoming bring PERF one-CL little white-rabbit	Grandpa brought a little white rabbit to Little Ming.
+Mandarin Chinese	37	Constructed by linguist	Mèimei zài kū.	妹妹在哭。	meimei zai ku	younger.sister PRES cry	My younger sister is crying.
+Mandarin Chinese	38	Constructed by linguist	Wǒ gǎndào téng.	我感到疼。	wo gandao teng	1SG feel pain	I feel painful.
+Mandarin Chinese	39	Constructed by linguist	Tā chángcháng xià wǒ.	他常常吓我。	ta changchang xia wo	3SG often frighten 1SG	He often frightens me.
+Mandarin Chinese	40	Constructed by linguist	Wǒ gěi le tā yīxiē qián.	我给了她一些钱。	wo gei-le ta yixie qian	1SG give-PERF 3SG some money	I gave her some money.
+Mandarin Chinese	41	Constructed by linguist	Tā yòng gùnzi dǎ wǒ.	他用棍子打我。	ta yong gunzi da wo	3SG use stick hit 1SG	He hit me with a stick.
+Mandarin Chinese	42	Constructed by linguist	Wǔ Sōng shā le yīzhī lǎohǔ.	武松杀了一只老虎。	Wu Song sha-le yi-zhi laohu	Wu Song kill-PERF one-CL tiger	Wu Song killed a tiger.
+Mandarin Chinese	43	Constructed by linguist	Wǒ zhīdào nǐde míngzì.	我知道你的名字。	wo zhidao nide mingzi	1SG know your name	I know your name.
+Mandarin Chinese	44	Constructed by linguist	Háizi zài xiào.	孩子在笑。	haizi zai xiao	kid PRES laugh	The kid is laughing.
+Mandarin Chinese	45	Constructed by linguist	Gōngrénmen zài jiànzào qiáoliáng.	工人们在建造桥梁。	gongren-men zai jianzao qiaoliang	worker-PL PRES build bridge	The workers are building a bridge.
+Mandarin Chinese	46	Constructed by linguist	Jǐngchá kěyǐ xiédài qiāngzhī.	警察可以携带枪支。	jingcha keyi xiedai qiangzhi	policeman may carry gun	Policemen may carry guns.
+Mandarin Chinese	47	Constructed by linguist	Nǐ píngshí zìjǐ zhǔ fàn ma?	你平时自己煮饭吗？	ni pingshi ziji zhu fan ma	2SG in.normal.times self cook meal Q	Do you ordinarily cook meals yourself?
+Mandarin Chinese	48	Constructed by linguist	Nǎinai zài wā tǔdòu.	奶奶在挖土豆。	nainai zai wa tudou	grandma PRES dig potato	Grandma is digging for potatoes.
+Mandarin Chinese	49	Constructed by linguist	Yèzǐ luò le.	叶子落了。	yezi luo-le	leaf fall-PERF	The leaves fell.
+Mandarin Chinese	50	Constructed by linguist	Wǒ gǎndào lěng.	我感到冷。	wo gandao leng	1SG feel cold	I feel cold.
+Mandarin Chinese	51	Constructed by linguist	Xiǎo nánhái gēnzhe tā fùqin.	小男孩跟着他父亲。	xiao nan-hai genzhe ta fuqin	little male-child follow 3SG father	The little boy followed his father.
+Mandarin Chinese	52	Constructed by linguist	Jiùjiu yòng shíniǎn mò huángdòu.	舅舅用石碾磨黄豆。	jiujiu yong shinian mo huangdou	uncle use stone.mill grind soybean	Uncle ground the soybeans with a stone mill.
+Mandarin Chinese	53	Constructed by linguist	Nǐ yīnggāi bāngzhù tā.	你应该帮助他。	ni yinggai bangzhu ta	2SG should help 3SG	You should help him.
+Mandarin Chinese	54	Constructed by linguist	Tā zài cāochǎngshàng tiào.	他在操场上跳。	ta zai caochang-shang tiao	3SG PREP playground-top jump	He jumps on the playground. / He is jumping on the playground.
+Mandarin Chinese	55	Constructed by linguist	Nǐ zài cáng shénme?	你在藏什么？	ni zai cang shenme	2SG PRES hide what	What are you hiding?
+Mandarin Chinese	56	Constructed by linguist	Wǒ xiàgè yuè líkāi Běijīng (qù Shēnzhèn).	我下个月离开北京（去深圳）。	wo xia-ge yue likai Beijing (qu Shenzhen)	1SG next-CL month leave Beijing (go.to Shenzhen)	I will leave Beijing (for Shenzhen) next month.
+Mandarin Chinese	57	Constructed by linguist	Wǒ xǐhuān Shànghǎi.	我喜欢上海。	wo xihuan Shanghai	1SG like Shanghai	I like Shanghai.
+Mandarin Chinese	58	Constructed by linguist	Yéye jūzhù zài Shànghǎi.	爷爷居住在上海。	yeye juzhu zai Shanghai	grandpa live PREP Shanghai	Grandpa lives in Shanghai.
+Mandarin Chinese	59	Constructed by linguist	Gōngrén men wǎng kǎchē shàng zhuāng gàncǎo.	工人们往卡车上装干草。	gongren-men wang kache-shang zhuang gancao	worker-PL PREP truck-LOC load hay	The workers loaded hay onto the truck.
+Mandarin Chinese	60	Constructed by linguist	Zuótiān wǒ zài jīchǎng pèngjiàn le Xiǎo Lì.	昨天我在机场碰见了小丽。	zuotian wo zai jichang pengjian le Xiao Li	yesterday 1SG PREP airport meet PERF Xiao Li	I met Xiao Li yesterday at the airport.
+Mandarin Chinese	61	Constructed by linguist	Qǐng gěi wǒ xiāo liǎnggè píngguǒ.	请给我削两个苹果。	qing gei wo xiao liang-ge pingguo	please for 1SG peel two-CL apple	Please peel two apples for me.
+Mandarin Chinese	62	Constructed by linguist	Dìdi zài cāochǎng shàng wán (pí qiú).	弟弟在操场上玩（皮球）。	didi zai caochang-shang wan (piqiu)	younger.brother PREP playground-LOC play (ball)	My younger brother is playing (ball) on the playground.
+Mandarin Chinese	63	Constructed by linguist	Wǒmen bǎ mǎ shuān zài shuānzhuāng shàng.	我们把马拴在拴桩上。	women ba ma shuan zai shuanzhuang-shang	1PL BA horse tie PREP hitching.post-LOC	We tied the horses to the hitching posts.
+Mandarin Chinese	64	Constructed by linguist	Tā bǎ nà běn shū fàng zài shūjià shàng le.	他把那本书放在书架上了。	ta ba na-ben shu fang zai shujia-shang le	3SG BEI that-CL book put PREP bookshelf-LOC PERF	He put that book on the bookshelf.
+Mandarin Chinese	65	Constructed by linguist	Nǎinai zuò zài shāfā shàng.	奶奶坐在沙发上。	nainai zuo zai shafa-shang	grandma sit PREP sofa-LOC	Grandma sat on the sofa.
+Mandarin Chinese	66	Constructed by linguist	Tā (zài wǒ shēnbiān) zuòxià.	他（在我身边）坐下。	ta (zai wo shenbian) zuoxia	3SG (PREP 1SG side) sit.down	He sat down (at my side).
+Mandarin Chinese	67	Constructed by linguist	Qiú zài dìshàng gǔn.	球在地上滚。	qiu zai di-shang gun	ball PREP ground-LOC roll	The ball is rolling on the ground.
+Mandarin Chinese	68	Constructed by linguist	Tā tōu le Lǎo Lǐ de sāntóu niú.	他偷了老李的三头牛。	ta tou-le Lao Li de san-tou niu	3SG steal-PERF Lao Li POSS three-CL cow	He stole three cows from Lao Li. / He stole Lao Li's three cows.
+Mandarin Chinese	69	Constructed by linguist	Xià yǔ le.	下雨了。	xiayu le	rain PRES	It is raining.
+Mandarin Chinese	70	Constructed by linguist	Lǎo Liú (cóng lǎobǎn nǎér) dédào le yīdài mǐ .	老刘（从老板哪儿）得到了一袋米。	Lao Liu (cong laoban naer) dedao-le yi-dai mi	old Liu (from boss there) get-PERF one-CL rice	Old Liu got a bag of rice (from his boss).
+Mandarin Chinese	71	Constructed by linguist	Gēge duì māma shuō ：“wǒ yě xiǎng qù”.	哥哥对妈妈说：“我也想去”。	gege dui mama shuo wo ye xiang qu	elder.brother to Mom say 1SG also want go	My elder brother said to Mom, "I want to go, too"."
+Mandarin Chinese	72	Constructed by linguist	Liú lǎoshī gēn Lǐ lǎoshī zài tánhuà.	刘老师跟李老师在谈话。	Liu laoshi gen Li laoshi zai tanhua	Liu Mr and Li Mr PRES talk	Mr Liu and Mr Li are talking.
+Mandarin Chinese	73	Constructed by linguist	Xiǎo mǎ zài pǎo.	小马在跑。	Xiao Ma zai pao	Xiao Ma PRES run	Xiao Ma is running.
+Mandarin Chinese	74	Constructed by linguist	Tā cāqù le zhuōzǐshàng de zì.	她擦去了桌子上的字。	ta caqu-le zhuozi shang de zi	3SG wipe-PERF table LOC POSS words	She wiped the words off the table.
+Mandarin Chinese	75	Constructed by linguist	Tóngxuémen dàshēng gēchàng.	同学们大声歌唱。	tongxue-men dasheng gechang	classmate-PL loudly sing	The classmates sang loudly.
+Mandarin Chinese	76	Constructed by linguist	Huàjiā (xiàng wǒmen) zhǎnshì tā de zuòpǐn.	画家（向我们）展示他的作品。	huajia (xiang women) zhanshi ta-de zuopin	painter (to 1PL) show 3SG-POSS painting	The painter is showing his paintings (to us).
+Mandarin Chinese	77	Constructed by linguist	Wǒ zuótiān gěi tā fā le yīfēng diànzǐyóujiàn.	我昨天给他发了一封电子邮件。	wo zuotian gei ta fa-le yi-feng dianziyoujian	1SG yesterday to 3SG send-PERF one-CL email	I sent an email to him yesterday.
+Mandarin Chinese	78	Constructed by linguist	Xiǎo gūniang yòu zài jiānjiào.	小姑娘又在尖叫。	xiao-guniang you zai jianjiao	little-girl again PRES scream	The little girl is screaming again.
+Mandarin Chinese	79	Constructed by linguist	Jūnjiàn bèi mìngmíng wéi Wǔhànhào.	军舰被命名为武汉号。	junjian bei mingming wei Wuhanhao	warship BEI name be Wuhanhao	The warship is named Wuhanhao.
+Mandarin Chinese	80	Constructed by linguist	Bàba zài guā húzi.	爸爸在刮胡子。	baba zai gua huzi	Dad PRES shave beard	Dad is shaving his beard.
+Mandarin Chinese	81	Constructed by linguist	Wǒ yòng shuǐ zhuāngmǎn le shuǐtǒng.	我用水装满了水桶。	wo yong shui zhuangman-le shuitong	1SG use water fill-PERF pail	I filled the pail with water.
+Mandarin Chinese	82	Constructed by native speaker linguist	*Fángzi bèi tāmen shāo le.	房子被他们烧了。	*fangzi bei tamen shao-le	house BEI they burn-PERF	The house was burnt by them.
+Mandarin Chinese	83	Constructed by linguist	Wǒ bǎ fàn zhǔ hǎo le.	我把饭煮好了。	wo ba fan zhu-hao-le	1SG BA rice cook-ready-CRS	I have cooked the rice.
+Mandarin Chinese	84	Constructed by linguist	Wǒ qiē le ròu.	我切了肉。	wo qie-le rou	1SG cut-PERF meat	I cut the meat.
+Mandarin Chinese	85	Constructed by linguist	Wǒ bǎ ròu qiē le.	我把肉切了。	wo ba rou qie-le	1SG BA meat cut-PERF	I have cut the meat.
+Mandarin Chinese	86	Constructed by linguist	Tāmen bǎ nàzuò lǎofén wā le.	他们把那座老坟挖了。	tamen ba na-zuo laofen wa-le	3PL BA that-CL old.tomb dig-PERF	They have dug up that old tomb.
+Mandarin Chinese	87	Constructed by linguist	Wǒ kànjiàn-le nèige lǎohǔ.	我看见了那个老虎。	wo kanjian-le neige laohu	1SG see-PERF that tiger	I saw that tiger.
+Mandarin Chinese	88	Constructed by linguist	Tā shì (yī)gè lièrén.	他是(一)个猎人。	ta shi (yi-)ge lieren	3SG be (one-)CL hunter	He is a hunter.
+Mandarin Chinese	89	Constructed by linguist	Yīngér de jiǎo bèi wǒ pāidǎ le jǐxià.	婴儿的脚被我拍打了几下。	yinger-de jiao bei wo paida-le jixia	baby-POSS foot BEI 1SG beat-PERF several.times	The baby's foot was beaten several times by me.
+Mandarin Chinese	90	Constructed by linguist	Píngmù bèi rén chùmō guò.	屏幕被人触摸过。	pingmu bei ren chumo-guo	screen BEI somebody touch-PERF	The screen has been touched (by somebody).
+Mandarin Chinese	91	Constructed by linguist	Qiáo yǐjīng bèi jiànhǎo le.	桥已经被建好了。	qiao yijing bei jian-hao-le	bridge already BEI build-ready-PERF	The bridge has been built already.
+Mandarin Chinese	92	Constructed by linguist	Wǒ yòng dāo qiē ròu.	我用刀切肉。	wo yong dao qie rou	1SG use knife cut meat	I cut meat with a knife.
+Mandarin Chinese	93	Constructed by linguist	Ròu yǐjīng bèi Lǎo Lǐ qiē le.	肉已经被老李切了。	rou yijing bei Lao Li qie-le	meat already BEI Old Li cut-PERF	The meat has been cut by Old Li.
+Mandarin Chinese	94	Constructed by linguist	Wǒ qù le Běijīng.	我去了北京。	wo qu-le Beijing	1SG go-PERF Beijing	I went (to Beijing).
+Mandarin Chinese	95	Constructed by linguist	Nà jǐgè zì yǐjīng bèi tā cādiào le.	那几个字已经被他擦掉了。	na ji-ge zi yijing bei ta cadiao-le	that several-CL character already BEI 3SG wipe.off-PERF	Those characters have already been wiped off by him.
+Mandarin Chinese	96	Constructed by linguist	Tā zǒngshì bèi yīdàqún rén gēnzhe.	他总是被一大群人跟着。	ta zongshi bei yi-da-qun ren gen-zhe	3SG always PASS one-large-crowd people follow-APPL	He is always followed by a large crowd of people.
+Mandarin Chinese	97	Constructed by linguist	Wǒ tīngjiàn le qiāngshēng.	我听见了枪声。	wo tingjian-le qiangsheng	1SG hear-PERF gunshot	I heard the gunshot.
+Mandarin Chinese	98	Constructed by linguist	Yuánzǐdàn bèi tāmen zào chūlái le.	原子弹被他们造出来了。	yuanzidan bei tamen zao-chulai-le	atomic.bomb BEI 3PL make-out-PERF	An A-bomb has been made by them.
+Mandarin Chinese	99	Constructed by linguist	Tā zài gài zhuōzi	他在盖桌子。	ta zai gai zhuozi	3SG PRES cover table	He is covering the table.
+Mandarin Chinese	100	Constructed by linguist	Nǐ qù bǎ zhuōzi gàiqǐlái.	你去把桌子盖起来。	ni qu ba zhuozi gai-qilai	2SG go BA table cover-APPL	Please cover the table.
+Mandarin Chinese	101	Constructed by linguist	Zhuōzi yǐjīng bèi tā gài qǐlái le.	桌子已经被他盖起来了。	zhuozi yijing bei ta gai-qilai le	table already BEI 3SG cover-APPL PERF	The table has been covered by him.
+Mandarin Chinese	102	Constructed by linguist	Lǎo shī zài tuī yīgè xiāngzǐ.	老师在推一个箱子。	laoshi zai tui yi-ge xiangzi	teacher PRES push one-CL box	The teacher is pushing a box.
+Mandarin Chinese	103	Constructed by linguist	Píngguǒ yǐjīng bèi tā xiāo le (pí).	苹果已经被他削了（皮）。	pingguo yijing bei ta xiao-le (pi)	apple already BEI 3SG peel-PERF (skin)	The apple has been peeled by him.
+Mandarin Chinese	104	Constructed by linguist	Māma wǎng shuǐtǒng lǐ dǎoshuǐ.	妈妈往水桶里倒水。	mama wang shuitong-li dao shui	Mom into pail-inside pour water	Mom poured water into the pail.
+Mandarin Chinese	105	Constructed by linguist	Huángdòu zǎo yǐjīng bèi jiùjiu mòhǎo le.	黄豆早已经被舅舅磨好了。	huangdou zao yijing bei jiujiu mo-hao-le	soybean early already BEI uncle grind-ready-PERF	The soybean has already been ground by my uncle.
+Mandarin Chinese	106	Constructed by linguist	Xiányífàn yǐjīng bèi sōuxún le duōcì.	嫌疑犯已经被搜寻了多次。	xianyifan yijing bei souxun-le duo-ci	suspect already BEI search.for-PERF many-time	The suspect has been searched for for many times.
+Mandarin Chinese	107	Constructed by linguist	Tā bǎ piào sī le.	他把票撕了。	ta ba piao si-le	3SG BA ticket tear-PERF	He tore the ticket.
+Mandarin Chinese	108	Constructed by native speaker linguist	Tā zhèngzài chuān yīfu.	他正在穿衣服。	tā zhèngzài chuān yīfu	3SG now.PRES put.on clothes	He is putting on his clothes. / He is dressing himself.
+Mandarin Chinese	109	Constructed by native speaker linguist	Xìnghǎo nǐ méiyǒu bèi biéren kànjiàn.	幸好你没有被别人看见。	xinghao ni meiyou bei bie-ren kanjian	luckily 2SG not BEI other-people see	Luckily, you were not seen by other people."
+Mandarin Chinese	110	Constructed by native speaker linguist	Xiǎogǒu pǎojìnlái bǎ zhěnggè fángjiān wénle yībiàn.	小狗跑进来把整个房间闻了一遍。	xiaogou pao-jinlai ba zhengge fangjian wen-le yi-bian	little.dog run-in BA whole room smell-PERF one-CL	The little dog ran in and smelled the whole room once.
+Mandarin Chinese	111	Constructed by native speaker linguist	Wǒ gāng jìn fángjiān jìu bèi xiǎogǒu shàngshàngxiàxià wénle yībiàn.	我刚进房间就被小狗上上下下闻了一遍。	wo gang jin fangjian jiu bei xiaogou shangshangxiaxia wen-le yi-bian	1SG just enter room right BEI little.dog thoroughly smell-PERF one-CL	Right after I entered the room the little dog thoroughly smelled me once.
+Mandarin Chinese	112	Constructed by native speaker linguist	Zhèzhǒng xiāngshuǐ wénqǐlái ràng wǒ tóuyūn.	这种香水闻起来让我头晕。	zhe-zhong xiangshui wen-qilai rang wo touyun	this-type perfume smell-APPL make 1SG dizzy	This type of perfume smells in such a way that it makes me feel dizzy.
+Mandarin Chinese	113	Constructed by native speaker linguist	Nǐ bǎ zhège wèntí xiǎng fùzá le.	你把这个问题想复杂了。	ni ba zhe-ge wenti xiang-fuza-le	2SG BA this-CL problem think-complicated-PERF	You have taken the problem in a complicated way. / You thought about the problem in such a way that it is made too complicated.
+Mandarin Chinese	114	Constructed by native speaker linguist	Zhège wèntí bèi nǐ xiǎng fùzá le.	这个问题被你想复杂了。	zhe-ge wenti bei ni xiang-fuza-le	this-CL problem BEI 2SG think-complicated-PERF	The problem has been thought about in a complcated way. / You have thought about the problem in such a way that it is made two complicated.
+Mandarin Chinese	115	Constructed by native speaker linguist	Zhèzhǒng shùxué wèntí xiǎngzhe ràng rén tóu téng.	这种数学问题想着让人头疼。	zhe-zhong shuxue wenti xiang-zhe rang ren tou teng	this-CL maths problem think-APPL make one head ache	It is a headache for one to think about this kind of maths problem. / This kind of maths problem is so hard to think about that it causes headache to people.
+Mandarin Chinese	116	Constructed by native speaker linguist	Wǒ qù bǎ tā yào huílái.	我去把它要回来。	wo qu ba ta yao huilai	1SG go BA 3SG ask.for come.back	I will ask for it and get it back.
+Mandarin Chinese	117	Constructed by native speaker linguist	Fángzi yǐjīng bèi tā māma yào huíláile.	房子已经被她妈妈要回来了。	fangzi yijing bei ta mama yao huilai le	house already PASS 3SG Mom ask.for come.back PERF	The house has been asked for and taken back by his Mom.
+Mandarin Chinese	118	Constructed by native speaker linguist	Yéye yàole gōngsī liǎngjiān fáng.	爷爷要了公司两间房。	yeye yao-le gongsi liang-jian fang	grandpa ask.for-PERF company two-CL room	Grandpa has asked for two rooms from the company.
+Mandarin Chinese	119	Constructed by native speaker linguist	Xiàng zhèzhǒng dōngxī yàoqǐlái kě bùróngyì.	像这种东西要起来可不容易。	xiang zhe-zhong dongxi yao-qilai ke burongyi	like this-kind thing ask.for-APPL very uneasy	It is very hard to ask for this kind of things.
+Mandarin Chinese	120	Constructed by native speaker linguist	Yīzhī lǎohǔ chūxiàn zài cūnzi lǐ.	一只老虎出现在村子里。	yi-zhi laohu chuxian zai cunzi-li	one-CL tiger appear in village-inside	A tiger appeared in the village.
+Mandarin Chinese	121	Constructed by native speaker linguist	Tā èle sāntiān.	他饿了三天。	ta e-le san-tian	3SG hungry-PERF three-day	He remained hungry for three days. / He didn't eat anything for three days.
+Mandarin Chinese	122	Constructed by native speaker linguist	*Díren bǎ tā èle.	*敌人把他饿了。	diren ba ta e-le	enemy BA 3SG hungry-PERF	Lit. The enemy made him hungry. / The enemy starved him.
+Mandarin Chinese	123	Constructed by native speaker linguist	*Tā bèi díren èle.	*他被敌人饿了。	ta bei diren e-le	3SG PASS enemy hungry-PERF	He was starved by the enemy.
+Mandarin Chinese	124	Constructed by native speaker linguist	Bìngren bǎ zìjǐ de bèibù pāidǎ huài le.	病人把自己的背部拍打坏了。	bingren ba ziji de beibu paida huai-le	patient BA self DE back beat broken-PERF	The patient beat his back in such a way that something has gone wrong with his back. / The patient hurt his own back by beating it in the wrong way.
+Mandarin Chinese	125	Constructed by native speaker linguist	Bìngren de bèibù bèi tā zìjǐ pāidǎ huài le.	病人的背部被他自己拍打坏了。	bingren de beibu bei ta ziji paida huai-le	patient DE back BEI him self beat wrong-PERF	The patient's back was hurt because of his own wrong beating of it.
+Mandarin Chinese	126	Constructed by native speaker linguist	Shēntǐ de zhègè bùfen pāidǎ qǐlái zuì máfan.	身体的这个部分拍打起来最麻烦。	shenti de zhe-ge bufen paida-qilai zui mafan	body DE this-CL part beat-APPL most troublesome	It is least easy to beat this part of your body. / It is most uneasy to beat this part of human body.
+Mandarin Chinese	127	Constructed by native speaker linguist	Zhèzhǒng nítǔ wāqǐlái hěn fèilìqì.	这种泥土挖起来很费力气。	zhe-zhong nitu wa-qilai hen fei-liqi	this-CL soil dig-APPL very consume-energy	It is very energy-consuming to dig through this kind of soil.
+Mandarin Chinese	128	Constructed by native speaker linguist	Tājiā dê zǔfén bèi rén wā le.	他家的祖坟被人挖了。	ta-jia de zu-fen bei ren wa-le	his-family DE ancestor-tomb BEI others dig-PERF	His ancestral grave has been dug by someone.
+Mandarin Chinese	129	Constructed by native speaker linguist	Ròu yǐjīng bèi wǒ qiē hǎo le.	肉已经被我切好了。	rou yijing bei wo qie hao le	meat already PASS 1SG cut ready PERF	I have cut the meat (and made it ready for cooking).
+Mandarin Chinese	130	Constructed by native speaker linguist	Zhèbǎ dāo qiēqǐlái hěn shěnglì.	这把刀切起来很省力。	zhe-ba dao qie-qilai hen shengli	this-CL knife cut-APPL very energy.saving	It is energy-saving to cut with this knife.
+Mandarin Chinese	131	Constructed by native speaker linguist	Wǒmen bǎ shuǐtǒng zhuāngmǎn le shuǐ.	我们把水桶装满了水。	women ba shuitong zhuangman-le shui	1PL BA pail fill-PERF water	We filled the pail with water.
+Mandarin Chinese	132	Constructed by native speaker linguist	Shuǐtǒng bèi wǒmen zhuāngmǎn le shuǐ.	水桶被我们装满了水。	shuitong bei women zhuangman-le shui	pail BEI 1PL load/stuff-PERF water	The pail was filled with water by us.
+Mandarin Chinese	133	Constructed by native speaker linguist	Shuǐtǒng zhuāngmǎnle shuǐ.	水桶装满了水。	shuitong zhuangman-le shui	pail fill-PERF water	The pail is filled with water. / The pail is full with water.
+Mandarin Chinese	134	Constructed by native speaker linguist	Shuǐ zhuāngmǎnle shuǐtǒng.	水装满了水桶。	shui zhuangman-le shuitong	water fill-PERF pail	The water fills up the pail. / The pail is full of water.
+Mandarin Chinese	135	Constructed by native speaker linguist	Nǐ bǎ nàgè xiǎohái xiàhuài le.	你把那个小孩吓坏了。	ni ba na-ge xiaohai xiahuai-le	2SG BA that-CL kid frighten.broken-PERF	You have frightened that kid so much. / That kid was frightened so much by you.
+Mandarin Chinese	136	Constructed by native speaker linguist	Nàgè xiǎohái bèi nǐ xiàhuài le.	那个小孩被你吓坏了。	na-ge xiaohai bei ni xiahuai-le	that-CL kid BEI 2SG frighten.broken-PERF	That kid was frightened so much by you.
+Mandarin Chinese	137	Constructed by native speaker linguist	Xiǎo nǚháir xiàhu qǐlái róngyì de hěn.	小女孩儿吓唬起来容易得很。	xiao nüháir xiahu-qilai rongyi de hen	little girl frighten-APPL easy APPL very	It is very easy to frighten a little girl.
+Mandarin Chinese	138	Constructed by native speaker linguist	Wǒ bǎ qiānbǐ gěile māma.	我把铅笔给了妈妈。	wo ba qianbi gei-le mama	1SG BA pencil give-PERF Mom	I gave the pencil to Mom.
+Mandarin Chinese	139	Constructed by native speaker linguist	Qiānbǐ bèi wǒ gěile māma.	铅笔被我给了妈妈。	qianbi bei wo gei-le mama	pencil BEI 1SG give-PERF Mom	The pencil was given to Mom by me.
+Mandarin Chinese	140	Constructed by native speaker linguist	Jìujiu bǎ huángdòu mò(hǎo)le.	舅舅把黄豆磨（好）了。	jiujiu ba huangdou mo-hao-le	uncle BA soybean grind-ready-PERF	My uncle has ground the soybean.
+Mandarin Chinese	141	Constructed by native speaker linguist	Huángdòu bèi Jìujiu mò(hǎo)le.	黄豆被舅舅磨（好）了。	huangdou bei jiujiu mo-hao-le	soybean PASS uncle grind-ready-PERF	The soybean has been ground (ready) by my uncle.
+Mandarin Chinese	142	Constructed by native speaker linguist	Zhèzhǒng màizi mòqǐlái róngyì.	这种麦子磨起来容易。	zhe-zhong maizi mo-qilai rongyi	this-CL wheat grind-APPL easy	This kind of wheat is easy to grind.
+Mandarin Chinese	143	Constructed by native speaker linguist	Nǐde huà bèi lǎoshī tīngjiànle.	你的话被老师听见了。	nide hua bei laoshi tingjian-le	your words BEI teacher hear-PERF	Your words were beard by the teacher. / What you said was heard by the teacher.
+Mandarin Chinese	144	Constructed by native speaker linguist	Wǒ rènwéi bāngzhù biéren hé bèi biéren bāngzhù dōu shì yīzhǒng xìngfú.	我认为帮助别人和被别人帮助都是一种幸福。	wo renwei bangzhu bieren he bei bieren bangzhu dou shi yi-zhong xingfu	1SG think help others and BEI others help all BE one-CL happiness	I think both helping others and being helped by others are a kind of happiness.
+Mandarin Chinese	145	Constructed by native speaker linguist	Zhènshàng hái bāngzhùle wǒmen hěnduō dàmǐ.	镇上还帮助了我们很多大米。	zhenshang hai bangzhu-le women henduo dami	town.government additionally help-PERF 1PL much rice	The local township government also helped us by giving us much rice.
+Mandarin Chinese	146	Constructed by native speaker linguist	Nǐ bǎ qián cáng hǎo.	你把钱藏好。	ni ba qian cang-hao	2SG BA money hide-well	Hide the money in a safe place.
+Mandarin Chinese	147	Constructed by native speaker linguist	Qíu bèi māma cángqǐlái le.	球被妈妈藏起来了。	qiu bei mama cang-qilai-le	ball BEI Mom hide-APPL-PERF	The ball has been hidden up by Mom.
+Mandarin Chinese	148	Constructed by native speaker linguist	Qíu cáng guìzi lǐ.	球藏柜子里。	qiu cang guizi-li	ball hide cupboard-inside	The ball is hidden in the cupboard.
+Mandarin Chinese	149	Constructed by native speaker linguist	Guìzilǐ cáng qíu.	柜子里球藏。	guizi-li cang qiu	cupboard-inside hide ball	The ball is hidden in the cupboard. / The cupboard is for hiding balls.
+Mandarin Chinese	150	Constructed by native speaker linguist	Gēge bǎ dìdi dǎ le.	哥哥把弟弟打了。	gege ba didi da-le	elder.brother BA younger.brother hit-PERF	The elder brother hit the younger brother.
+Mandarin Chinese	151	Constructed by native speaker linguist	Gēge bèi dìdi dǎ le.	哥哥被弟弟打了。	gege bei didi da-le	elder.brother BEI younger.brother hit-PERF	The elder brother was hit by the younger brother.
+Mandarin Chinese	152	Constructed by native speaker linguist	Zhèyàng de gùnzi dǎqǐlái bú shùnshǒu.	这样的棍子打起来不顺手。	zheyang de gunzi da-qilai bu shunshou	this.kind DE stick hit-APPL not comfortable	It is not comfortable when hitting with this kind of stick. / It is not comfortable when one hits with this kind of stick.
+Mandarin Chinese	153	Constructed by native speaker linguist	Wǔ Sōng bǎ lǎohǔ shā le.	武松把老虎杀了。	Wu Song ba laohu sha-le	Wu Song BA tiger kill-PERF	Wu Song killed the tiger.
+Mandarin Chinese	154	Constructed by native speaker linguist	Lǎohǔ bèi Wǔ Sōng shāle.	老虎被武松杀了。	Laohu bei Wu Song sha-le	tiger BEI Wu Song kill-PERF	The tiger was killed by Wu Song.
+Mandarin Chinese	155	Constructed by native speaker linguist	Nàjiàn shìqing zuìhòu bèi lǎoshī zhīdào le.	那件事情最后被老师知道了。	na-jian shiqing zuihou bei laoshi zhidao-le	that-CL matter finally BEI teacher know-PERF	The teacher finally knew it.
+Mandarin Chinese	156	Constructed by native speaker linguist	Bèi rén xǐhuān shì yījiàn xìngfú de shìqing.	被人喜欢是一件幸福的事情。	bei ren xihuan shi yi-jian xingfu de shiqing	BEI others like be one-CL happy DE matter	For one to be liked by others is something happy. / It is something happy for one to be liked by others.
+Mandarin Chinese	157	Constructed by native speaker linguist	Sēnlínlǐ zhù yīgè lǎo nǎinai.	森林里住一个老奶奶。	senlin-li zhu yi-ge lao nainai	forest-inside live one-CL old granny	In the forest lives an old granny.
+Mandarin Chinese	158	Constructed by native speaker linguist	Yīgè lǎo nǎinai zhù sēnlínlǐ.	一个老奶奶住森林里。	yi-ge lao nainai zhu senlin-li	one-CL old granny live forest-inside	An old granny lives in the forest.
+Mandarin Chinese	159	Constructed by native speaker linguist	Bǎ gāncǎo zhuāng shàng chē.	把干草装上车。	ba gancao zhuang shang che	BA hay load onto truck	Load the hay onto the truck.
+Mandarin Chinese	160	Constructed by native speaker linguist	Chēzi bèi zhuāngshàng le gāncǎo.	车子被装满了干草。	chezi bei zhuang-shang-le gancao	truck BEI load-onto-PERF hay	The truck was loaded with hay.
+Mandarin Chinese	161	Constructed by native speaker linguist	Gāncǎo bèi zhuāngshàng le chēzi.	干草被装上了车子。	gancao bei zhuang-shang-le chezi	hay BEI load-onto-PERF truck	The hay was loaded onto the truck.
+Mandarin Chinese	162	Constructed by native speaker linguist	Chēshàng zhuāng gāncǎo.	车上装干草。	che-shang zhuang gancao	truck-top load hay	The truck is loaded with hay. / The truck is for loading hay.
+Mandarin Chinese	163	Constructed by native speaker linguist	Gāncǎo zhuāng chēshàng.	干草装车上。	gancao zhuang che-shang	hay load truck-top	The hay is to be loaded onto the truck. / The hay is loaded on the truck.
+Mandarin Chinese	164	Constructed by native speaker linguist	Zhèzhǒng huòwu zhuāngqǐlái hěn máfan.	这种货物装起来很麻烦。	zhe-zhong huowu zhuang-qilai hen mafan	this-kind goods load-APPL very troublesome	It is very uneasy to load this kind of goods.
+Mandarin Chinese	165	Constructed by native speaker linguist	Zuótiān wǒliǎ guàng gōngyuán de shíhou bèi tā jìumā pèngjiàn le.	昨天我俩逛公园的时候被她舅妈碰见了。	zuotian wolia guang-gongyuan de shihou bei ta jiuma pengjian-le	yesterday we.two walking-park DE time BEI 3SG aunt meet-PERF	Her aunt met us when we two were having a walk in the park yesterday.
+Mandarin Chinese	166	Constructed by native speaker linguist	Huángguā pí yǐjīng bèi tā xiāo le.	黄瓜皮已经被她削了。	huanggua-pi yijing bei ta xiao-le	cucumber-skin already BEI 3SG peel-PERF	The cucumber has been peeled by him.
+Mandarin Chinese	167	Constructed by native speaker linguist	Zhèbǎ páozi xiāo qǐlái hěn shùnshǒu.	这把刨子削起来很顺手。	zhe-ba paozi xiao-qilai hen shunshou	this-CL peeler peel-APPL very smooth	This peelers peels easily.
+Mandarin Chinese	168	Constructed by native speaker linguist	Zhèzhǒng huángguā xiāo qǐlái hěn bùróngyì.	这种黄瓜削起来很不容易。	zhe-zhong huanggua xiao-qilai hen bu rongyi	this-kind cucumber peel-APPL very not easy	It is very hard to peel this kind of cucumber.
+Mandarin Chinese	169	Constructed by native speaker linguist	Tàidíxióng bèi dìdi wán huài le.	泰迪熊被弟弟玩坏了。	taidixiong bei didi wan huai-le	teddy.bear BEI younger.brother play broken-PERF	The teddy bear was made broken by my younger brother who played with it.
+Mandarin Chinese	170	Constructed by native speaker linguist	Zhèzhǒng wánjù wán qǐlái hěn fèijìn.	这种的玩具玩起来很费劲。	zhe-zhong wanju wan-qilai hen feijin	this-kind toy play-APPL very effort.demanding	It is a big trouble playing with this kind of toy.
+Mandarin Chinese	171	Constructed by native speaker linguist	Wǒ bǎ shuǐ dào jìn wǎn lǐ.	我把水倒进碗里。	wo ba shui dao-jin wan-li	1SG BA water pour-into bowl-inside	I poured water into the bowl.
+Mandarin Chinese	172	Constructed by native speaker linguist	Shuǐ bèi wǒ dào jìn wǎn lǐ le.	水被我倒进碗里了。	shui bei wo dao-jin wan-li-le	water BEI 1SG pour-into bowl-inside-PERF	The water has been poured into the bowl by me.
+Mandarin Chinese	173	Constructed by native speaker linguist	Yòng zhèzhǒng guànzi dào shuǐ, dào qǐlái hěn máfan.	用这种罐子倒水，倒起来很麻烦。	yong zhe-zhong guanzi dao shui dao-qilai hen mafan	use this-kind jar pour water pour-APPL very troublesome	It is a big trouble pouring water from this kind of jar. / It is a big trouble pouring water into this kind of jar.
+Mandarin Chinese	174	Constructed by native speaker linguist	Zhuōzi bèi bàba tuīdàole yībiān.	桌子被爸爸推到了一边。	zhuozi bei baba tui-dao-le yibian	table BEI Dad push-to-PERF other.side	The table was pushed aside by Dad.
+Mandarin Chinese	175	Constructed by native speaker linguist	Dà xiāngzi tuīzhe hěn chén.	大箱子推着很沉。	da xiangzi tui-zhe hen chen	big case push-APPL very heavy	The big case is heavy to push.
+Mandarin Chinese	176	Constructed by native speaker linguist	Shū bèi fàng zài zhuō shàng.	书被放在桌上。	shu bei fang-zai zhuo-shang	book BEI put-on desk-top	The book was put on the desk.
+Mandarin Chinese	177	Constructed by native speaker linguist	Zhuōshàng fàng(zhe) shū.	桌上放（着）书。	zhuo-shang fang(-zhe) shu	desk-top put(-DUR) book	The book is put on the desk.
+Mandarin Chinese	178	Constructed by native speaker linguist	Zhèzhǒng huāpíng hǎokàn, dànshì fàngqǐlái hěn máfan.	这种花瓶好看，但是放起来很麻烦。	zhe-zhong huaping haokan danshi fang-qilai hen mafan	this-kind vase nice.looking but put-APPL very troublesome	This kind of vase is nicelooking, but it is very difficul to put it (in a safe and steady place)."
+Mandarin Chinese	179	Constructed by native speaker linguist	Xiàngliàn zuìhòu háishì bèi fángdōng dédào le.	项链最后还是被房东得到了。	xianglian zuihou haishi bei fangdong dedao-le	necklace finally still BEI landlord get-PERF	The necklace finally was landed by the landlord. / The landlord got the necklace finally.
+Mandarin Chinese	180	Constructed by native speaker linguist	Dìdi zài gǔn qíu.	弟弟在滚球。	didi zai gun qiu	younger.brother PRES roll ball	My younger brother is rolling the ball.
+Mandarin Chinese	181	Constructed by native speaker linguist	Qíu zài gǔn.	球在滚。	qiu zai gun	ball PRES roll	The ball is rolling.
+Mandarin Chinese	182	Constructed by native speaker linguist	Zhègè dà yóutǒng gǔn qǐlái hěn fèilì.	这个大油桶滚起来很费力。	zhe-ge da youtong gun-qilai hen feili	this-CL big oil.tank roll-APPL very effort.demanding	This big oil tank is very hard to roll.
+Mandarin Chinese	183	Constructed by native speaker linguist	Hànyǔ de ràokǒulìng shuō qǐlái zuì máfan.	汉语的绕口令说起来最麻烦。	hanyu de raokouling shuo-qilai zui mafan	chinese DE tongue.twister say-APPL most troublesome	Chinese tongue twisters are most difficult to say.
+Mandarin Chinese	184	Constructed by native speaker linguist	Yīgè háizi, zài mángmángrénhǎi dāngzhōng sōuxún qǐlái shì hěn kùnnán de.	一个孩子，在茫茫人海当中搜寻起来是很困难的。	yi-ge haizi, zai mangmangrenhai dangzhong souxun-qilai shi hen kunnan de	one-CL kid, in huge.crowd within search-APPL be very difficult DE	It is very difficult to search for such a kid from within such a huge crowd.
+Mandarin Chinese	185	Constructed by native speaker linguist	Jǐngchá zài dàlù shàng sōuxún xiányífàn.	警察在大路上搜寻嫌疑犯。	jingcha zai da lu shang souxun xianyifan	police PRES big road top search.for suspect	The police are searching for the suspect on the big road.
+Mandarin Chinese	186	Constructed by native speaker linguist	Wǒ yǐjīng bǎ xìn fā le.	我已经把信发了。	wo yijing ba xin fa-le	1SG already BA letter send-PERF	I have already sent the letter.
+Mandarin Chinese	187	Constructed by native speaker linguist	Wǒ zuótiān fā le tā yīfēng xìn.	我昨天发了她一封信。	wo zuotian fa-le ta yi-feng xin	1SG yesterday send-PERF 3SG one-CL letter	I sent her a letter yesterday.
+Mandarin Chinese	188	Constructed by native speaker linguist	Xìn zuótiān bèi wǒ fā gěi tā le.	信昨天被我发给他了。	xin zuotian bei wo fa-gei ta le	letter yesterday BEI 1SG send-to him PERF	The letter was sent to him by me yesterday.
+Mandarin Chinese	189	Constructed by native speaker linguist	Wǒ zuótiān fā le yīfēng xìn gěi tā.	我昨天发了一封信给他。	wo zuotian fa-le yi-feng xin gei ta	1SG yesterday send-PERF one-CL letter to him	I sent a letter to him yesterday.
+Mandarin Chinese	190	Constructed by native speaker linguist	Húzi yǐjīng bèi wǒ guā le.	胡子已经被我刮了。	huzi yijing bei wo gua-le	beard already BEI 1SG shave-PERF	The beard has been shaved by me.
+Mandarin Chinese	191	Constructed by native speaker linguist	Zhèbǎ tìxūdāo guā qǐlái shùnshǒu.	这把剃须刀刮起来顺手。	zhe-ba tixudao gua-qilai shunshou	this-CL shaver shave-APPL smooth	This shaver shaves smoothly.
+Mandarin Chinese	192	Constructed by native speaker linguist	Tāde húzi guā qǐlái hěn máfan.	他的胡子刮起来很麻烦。	tade huzi gua-qilai hen mafan	his beard shave-APPL very troublesome	It is very difficult to shave his beard. / His beard is very difficult to shave.
+Mandarin Chinese	193	Constructed by native speaker linguist	Tā cháo wǒ dà shēng jiàohǎn.	他朝我大声叫喊。	ta chao wo da sheng jiaohan	3SG to 1SG loud voice shout	He shouted at me in loud voice.
+Mandarin Chinese	194	Constructed by native speaker linguist	Tāmen bǎ jūnjiàn mìngmíng wéi Wǔhànhào.	他们把军舰命名为武汉号。	tamen ba junjian mingming wei Wuhanhao	3PL BA warship name be Wuhanhao	They named the warship Wuhanhao.
+Mandarin Chinese	195	Constructed by native speaker linguist	Tāmen hái bǎ huìhuà zuòpǐn zhǎnshì le yīfān.	他们还把绘画作品展示了一番。	tamen hai ba huihua zuopin zhanshi-le yi-fan	3PL additionally BA painting works show-PERF one-CL	Additionally, they put up a show of the paintings."
+Mandarin Chinese	196	Constructed by native speaker linguist	Huìhuà zuòpǐn hái bèi tāmen zhǎnshì le yīfān.	绘画作品还被他们展示了一番。	huihua zuopin hai bei tamen zhanshi-le yi-fan	paintings works additionally BEI 3PL show-PERF one-CL	The paintings were shown by them.
+Mandarin Chinese	197	Constructed by native speaker linguist	Yǐzi yǐjīng bèi nǐ zuò le.	椅子已经被你坐了。	yizi yijing bei ni zuo-le	chair already BEI 2SG sit-PERF	You have already sat in the chair.
+Mandarin Chinese	198	Constructed by native speaker linguist	Zhè yǐzi zuò zhe shūfú.	这椅子坐着舒服。	zhe yizi zuo-zhe shufu	this chair sit-APPL comfortable	Sitting in this chair is comfortable.
+Mandarin Chinese	199	Constructed by native speaker linguist	Yītiáo dèngzi zuò shígè rén.	一条凳子坐十个人。	yi-tiao dengzi zuo shi-ge ren	one-CL stool sit ten-CL person	One stool is enough for ten persons to sit on.
+Mandarin Chinese	200	Constructed by native speaker linguist	Shígè rén zuò yītiáo dèngzi.	十个人坐一条凳子。	shi-ge ren zuo yi-tiao dengzi	ten-CL person sit one-CL stool	Ten persons are to sit on the same stool.
+Mandarin Chinese	201	Constructed by native speaker linguist	Xiǎotōu bǎ wénjiàn tōu (zǒu) le.	小偷把文件偷（走）了。	xiaotou ba wenjian tou-zou-le	thief BA document steal-away-PERF	A thief has stolen the document.
+Mandarin Chinese	202	Constructed by native speaker linguist	Wénjiàn bèi xiǎotōu tōu(zǒu) le.	文件被小偷偷(走)了。	wenjian bei xiaotou tou(zou)-le	document BEI thief steal.(away)-PERF	The document was stolen by a thief.
+Mandarin Chinese	203	Constructed by native speaker linguist	Xiǎotōu tōule tājiā liǎngtóu níu, yīpǐ mǎ.	小偷偷了他家两头牛,一匹马。	xiaotou tou-le ta-jia liang-tou niu yi-pi ma	thief steal-PERF 3SG-family two-CL cow one-CL horse	A thief stole two cows and one horse from his family.
+Mandarin Chinese	204	Constructed by native speaker linguist	Xiǎohù rénjiā tōu qǐlái róngyìxiē.	小户人家偷起来容易些。	xiaohu renjia tou-qilai rongyixie	average household steal-APPL easier	It is easier to steal from average households.
+Mandarin Chinese	205	Constructed by native speaker linguist	Māma bǎ qián názǒu le.	妈妈把钱拿走了。	mama ba qian nazou-le	Mom BA money take.away-PERF	Mom took away the money.
+Mandarin Chinese	206	Constructed by native speaker linguist	Qián bèi māma názǒu le.	钱被妈妈拿走了。	qian bei mama nazou-le	money BEI Mom take.away-PERF	The money was taken away by Mom.
+Mandarin Chinese	207	Constructed by native speaker linguist	Wǒ názǒu le māma yīwànkuài qián.	我拿走了妈妈一万块钱。	wo nazou-le mama yiwan-kuai qian	1SG take.away-PERF Mom ten.thousand-yuan money	I took away ten thousand yuan from Mom.
+Mandarin Chinese	208	Constructed by native speaker linguist	Māma bǎ lājī rēng le.	妈妈把垃圾扔了。	mama ba laji reng-le	Mom BA trash throw-PERF	Mom threw away the trash.
+Mandarin Chinese	209	Constructed by native speaker linguist	Lājī bèi māma rēng le.	垃圾被妈妈扔了。	Laji bei mama reng-le	trash BEI Mom throw-PERF	The trash was thrown away by Mom.
+Mandarin Chinese	210	Constructed by native speaker linguist	Zhèzhǒng qiānqíu tài zhòng, rēng qǐlái hěn máfán.	这种铅球太重，扔起来很麻烦。	zhe-zhong qian qiu hen zhong reng-qilai hen mafan	this-CL lead ball very heavy throw-APPL very troublesome	This kind of lead ball is too heavy, so it is very troublesome to throw it. / This kind of lead ball is so heavy that it is very difficult to throw it."
+Mandarin Chinese	211	Constructed by native speaker linguist	Wǒ bǎ gǒu shuān qǐlái le.	我把狗拴起来了。	wo ba gou shuan-qilai le	1SG BA dog tie-APPL CRS	I have tied (up) the dog.
+Mandarin Chinese	212	Constructed by native speaker linguist	Gǒu bèi wǒ shuān qǐlái le.	狗被我拴起来了。	gou bei wo shuang-qilai-le	dog BEI 1SG tie-APPL-PERF	The dog bas been tied up by me.
+Mandarin Chinese	213	Constructed by native speaker linguist	Shùshàng shuān gǒu.	树上拴狗。	shushang shuan gou	tree.LOC tie dog	The tree is for one to tie up a dog.
+Mandarin Chinese	214	Constructed by native speaker linguist	Gǒu shuān shùshàng.	狗拴树上。	gou shuan shushang	dog tie tree.LOC	The dog is to be tied up to the tree.
+Mandarin Chinese	215	Constructed by native speaker linguist	Gǒu hěn xiōng,shuān qǐlái hěn kùnnán.	狗很凶，拴起来很困难。	gou hen xiong shuan-qilai hen kunnan	dog very fierce tie-APPL very difficult	It is very difficult to tie up the dog because it is very fierce.
+Mandarin Chinese	216	Constructed by native speaker linguist	Zhèzhǒng mābù cā qǐlái gānjìng.	这种抹布擦起来干净。	zhe-zhong mabu ca-qilai ganjing	this-kind cloth.brush wipe-APPL clean	This kind of cloth-brush wipes clean.
+Mandarin Chinese	217	Constructed by native speaker linguist	Zhuōzi bèi wǒ cā le.	桌子被我擦了。	zhuozi bei wo ca-le	table BEI 1SG wipe-PERF	The table was wiped up by me.
+Mandarin Chinese	218	Constructed by native speaker linguist	Zhèzhòng shuǐguǒ chī qǐlái hěn róngyì.	这种水果吃起来很容易。	zhe-zhong shuiguo chi-qilai hen rongyi	this-kind fruit eat-APPL very easy	This kind of fruit is easy to eat. / This kind of fruit eats very fast.
+Mandarin Chinese	219	Constructed by native speaker linguist	Shígè rén chī yīguō fàn.	十个人吃一锅饭。	shi-ge ren chi yi-guo fan	ten-CL person eat one-CL rice	Ten persons are to eat the rice from one pot.
+Mandarin Chinese	220	Constructed by native speaker linguist	Tā bèi éguó xióng rèliè yōngbào.	他被俄国熊热烈拥抱。	ta bei eguo xiong relie yongbao	3SG BEI Russian bear warmly hug	He was given a warm hug by the Russian bear. / He was hugged warmly by the Russian bear.
+Mandarin Chinese	221	Constructed by native speaker linguist	*Qí mótuōchē sǐ qǐlái kuài dé hěn.	*骑摩托车死起来快得很。	*qi motuoche si-qilai kuai de hen	ride motor.cycle die-APPL quick APPL very	Riding motor cycle will kill the cyclist quickly.
+Mandarin Chinese	222	Constructed by native speaker linguist	Bèi tā kàn le yīyǎn, wǒ juéde hěn shūfú.	被她看了一眼，我觉得很舒服。	bei ta kan-le yi-yan wo juede hen shufu	BEI she look.at-PERF one-look 1SG feel very comfortable	I feel very comfortable because she gave me a look.
+Mandarin Chinese	223	Constructed by native speaker linguist	Wǒ bǎ yīfu xǐ le.	我把衣服洗了。	wo ba yifu xi-le	1SG BA clothes wash-PERF	I wahsed the clothes.
+Mandarin Chinese	224	Constructed by native speaker linguist	Yīfu bèi wǒ xǐ le.	衣服被我洗了。	yifu bei wo xi-le	clothes BEI 1SG wash-PERF	The clothes was washed by me.
+Mandarin Chinese	225	Constructed by native speaker linguist	Zhèzhǒng yīfu liàozi xǐ qǐlái róngyì.	这种衣服料子洗起来容易。	zhe-zhong yifu liaozi xi-qilai rongyi	this-CL clothes material wash-APPL easy	This kind of cloth material washes easily. / It is easy to wash this kind of cloth material.
+Mandarin Chinese	226	Constructed by native speaker linguist	Yīpén shuǐ xǐ shígè rén.	一盆水洗十个人。	yi-pen shui xi shi-ge ren	one-CL water wash ten-CL person	A basin of water is for ten persons to wash themselves.
+Mandarin Chinese	227	Constructed by native speaker linguist	Shígè rén xǐ yīpén shuǐ.	十个人洗一盆水。	shi-ge ren xi yi-pen shui	ten-CL person wash one-CL water	Ten persons share one basin of water for washing themselves.
+Mandarin Chinese	228	Constructed by native speaker linguist	Chuán chén le.	船沉了。	chuan chen-le	boat sink-PERF	The boat sank.
+Mandarin Chinese	229	Constructed by native speaker linguist	Hǎidào bǎ chuán chén le.	海盗把船沉了。	haidao ba chuan chen-le	pirate BA boat sink-PERF	The pirates sank the boat.
+Mandarin Chinese	230	Constructed by native speaker linguist	Chuán bèi hǎidào chén le.	船被海盗沉了。	chuan bei haidao chen-le	boat BEI pirate sink-PERF	The boat was sunk by the pirates.
+Mandarin Chinese	231	Constructed by native speaker linguist	Hǎidào chén le wǒmen shítiáo chuán.	海盗沉了我们十条船。	haidao chen-le women shi-tiao chuan	pirate sink-PERF 1PL ten-CL boat	The pirates sank ten of our boats.
+Mandarin Chinese	232	Constructed by native speaker linguist	Zhè chuán tài dà, chén qǐlái bù róngyì.	这船太大，沉起来不容易。	zhe chuan tai da chen-qilai bu rongyi	this boat too big sink-APPL not easy	It is difficult to sink the boat because it is too big. / This boat is too big and is difficult to sink.
+Mandarin Chinese	233	Constructed by native speaker linguist	Zhèzhǒng zhǐ sī qǐlái róngyì.	这种纸撕起来容易。	zhe-zhong zhi si-qilai rongyi	this-kind paper tear-APPL easy	This kind of paper is easy to tear.
+Mandarin Chinese	234	Constructed by native speaker linguist	Piào bèi tā sī le.	票被他撕了。	piao bei ta si-le	ticket BEI he tear-PERF	The ticket was torn by him.
+Mandarin Chinese	235	Constructed by native speaker linguist	Wǒ bǎ zhèjiàn shì gàosù le tā.	我把这件事告诉了他。	wo ba zhe-jian shi gaosu-le ta	1SG BA this-CL matter tell-PERF 3SG	I told him about this matter.
+Mandarin Chinese	236	Constructed by native speaker linguist	Zhèjiàn shì bèi lǎoshī gàosù le bàba.	这件事被老师告诉了爸爸。	zhe-jian shi bei laoshi gaosu-le baba	this-CL matter BEI teacher tell-PERF Dad	This matter was told to Dad by my teacher. / My teacher told Dad about this matter.
+Mandarin Chinese	237	Constructed by native speaker linguist	Zhè háizi jiāo qǐlái qīngsōng.	这孩子教起来轻松。	zhe haizi jiao-qilai qingsong	this kid teach-APPL easy	The kid is easy to teach.
+Mandarin Chinese	238	Constructed by native speaker linguist	Háizi bèi nǐ jiāohuài le.	孩子被你教坏了。	haizi bei ni jiao-huai-le	kid BEI 2SG teach-bad-PERF	You have taught the kid in such a way that he has turned bad. / You have led the kid astray by improper teaching.
+Mandarin Chinese	239	Constructed by native speaker linguist	Tā zhǎle yǎnjing.	他眨了眼睛。	ta zha-le yanjing	3SG blink-PERF eye	He blinked his eyes.
+Mandarin Chinese	240	Constructed by native speaker linguist	Tā de yǎnjing zhǎle yīxià.	他的眼睛眨了一下。	tade yanjing zha-le yixia	his eye blink-PERF once	His eyes blinked once.
+Mandarin Chinese	241	Constructed by native speaker linguist	Wǒ bǎ píngmù mō le yīxià.	我把屏幕摸了一下。	wo ba pingmu mo-le yixia	1SG BA screen touch-PERF once	I touched the screen once.
+Mandarin Chinese	242	Constructed by native speaker linguist	Píngmù bèi wǒ mō le yīxià.	屏幕被我摸了一下。	pingmu bei wo mo-le yixia	screen BEI 1SG touch-PERF once	The screen was touched once by me.
+Mandarin Chinese	243	Constructed by native speaker linguist	Zhèzhǒng cáiliào mō qǐlái hěn shūfú.	这种材料摸起来很舒服。	zhe-zhong cailiao mo-qilai hen shufu	this-CL material touch-APPL very comfortable	It is very comfortable to touch this kind of material. / This kind of material feels very good.
+Mandarin Chinese	244	Constructed by native speaker linguist	Gùnzi dǎduàn le.	棍子打断了。	gunzi daduan-le	stick break-PERF	The stick broke.
+Mandarin Chinese	245	Constructed by native speaker linguist	Gùnzi bèi wǒ dǎduàn le.	棍子被我打断了。	gunzi bei wo daduan-le	stick BEI 1SG break-PERF	The stick was boken by me.
+Mandarin Chinese	246	Constructed by native speaker linguist	Wǒ bǎ zhàoxiàngjī dàilái le.	我把照相机带来了。	wo ba zhaoxiangji dailai-le	1SG BA camera bring-PERF	I have brought the camera.
+Mandarin Chinese	247	Constructed by native speaker linguist	Zhàoxiàngjī bèi wǒ dàilái le.	照相机被我带来了。	zhaoxiangji bei wo dailai-le	camera BEI 1SG bring-PERF	The camera has been brought by me.
+Mandarin Chinese	248	Constructed by native speaker linguist	Fángzi jiànhǎo le.	房子建好了。	fangzi jian-hao-le	house build-finished-PERF	The house has been built.
+Mandarin Chinese	249	Constructed by native speaker linguist	Fángzi bèi wǒmen jiànhǎo le.	房子被我建好了。	fangzi bei women jian-hao-le	house BEI 1PL build-finished-PERF	The house has been built by us.
+Mandarin Chinese	250	Constructed by native speaker linguist	Zhèyàng de fángzi jiàn qǐlái bù róngyì.	这样的房子建起来不容易。	zhe-yang de fangzi jian-qilai bu rongyi	this-type DE house build-APPL not easy	It's not easy to build this kind of house.
+Mandarin Chinese	251	Constructed by native speaker linguist	Nèi háizi xiàzhao le.	那孩子吓着了。	nei haizi xiazhao-le	that kid frighten-CRS	That kid is frightened.
+Mandarin Chinese	252	Constructed by native speaker linguist	Dàgèzi háizi cáng qǐlái bùróngyì.	大个子孩子藏起来不容易。	da-gezi haizi cang-qilai bu rongyi	big-size kid hide-APPL not easy	It's not easy to hide big-sized kids.
+Mandarin Chinese	253	Constructed by native speaker linguist	Dírén shāsǐ le.	敌人杀死了。	diren shasi-le	enemy kill-PERF	The enemy is killed.
+Mandarin Chinese	254	Constructed by linguist	Wǒ zhuāngmǎn le shuǐgāng.	我装满了水缸。	wo zhuangman-le shuigang	1SG fill-PERF water.jar	I filled the water jar.
+Mandarin Chinese	255	Constructed by native speaker linguist	Píngguǒ pí xiāo le.	苹果皮削了。	pingguo pi xiao-le	apple skin peel-PERF	The apple has been peeled.
+Mandarin Chinese	256	Constructed by linguist	Nǐ xiàzhao nèi háizi le.	你吓着那孩子了。	ni xiazhao nei haizi le	2SG frighten that kid CRS	You frightened that kid.
+Mandarin Chinese	257	Constructed by native speaker linguist	Chēzi zàohǎo le.	车子造好了。	chezi zao-hao-le	car make-finished-CRS	The car is made.
+Mandarin Chinese	258	Constructed by linguist	Wǒmen shāsǐ le dírén.	我们杀死了敌人。	women shasi-le diren	1PL kill-PERF enemy	We killed the enemy.
+Mandarin Chinese	259	Constructed by native speaker linguist	Chē bèi wǒmen zào chūlái le.	车被我们造出来了。	che bei women zao-chulai-le	car BEI 1PL make-come.out-PERF	The car has been made by us.
+Mandarin Chinese	260	Constructed by linguist	Zhèzhǒng chēzǐ zhuāngqǐlái hěn máfan.	这种车子装起来很麻烦。	zhe-zhong chezi zhuang-qilai hen mafan	this-kind truck load-APPL very troublesome	It is not easy to load this kind of truck.
+Mandarin Chinese	261	Constructed by native speaker linguist	Qìchē zào qǐlái róngyì.	汽车造起来容易。	qiche zao-qilai rongyi	car make-APPL easy	It's easy to make cars.
+Mandarin Chinese	262	Constructed by linguist	Wǒ xiāo le píngguǒ pí.	我削了苹果皮。	wo xiao-le pingguo pi	1SG peel-PERF apple skin	I peeled the apple.
+Mandarin Chinese	263	Constructed by linguist	Tā yǐjīng bǎ nánguā pí xiāo le.	他已经把南瓜皮削了。	ta yijing ba nangua pi xiao-le	3SG already BA pumpkin skin peel-PERF	He has peeled the pumpkin.
+Mandarin Chinese	264	Constructed by linguist	Dìdi bǎ tàidíxióng wán huài le.	弟弟把泰迪熊玩坏了。	didi ba taidixiong wan huai-le	younger.brother BA teddy.bear play broken-PERF	My younger brother played with the teddy bear and made it broken.
+Mandarin Chinese	265	Constructed by linguist	Bàba bǎ zhuōzi tuīkāi.	爸爸把桌子推开。	baba ba zhuozi tui-kai	Dad BA table push-away	Dad pushed the table away.
+Mandarin Chinese	266	Constructed by linguist	Bǎ shū fàng zài zhuō shàng.	把书放在桌上。	ba shu fang-zai zhuo-shang	BA book put-on desk-top	Put the book on the desk.
+Mandarin Chinese	267	Constructed by native speaker linguist	Tā bǎ xiǎogǒu dàilái le.	他把小狗带来了。	ta ba xiao-gou dai-lai-le	3SG BA little-dog carry-come-PERF	He has carried the little dog here.
+Mandarin Chinese	268	Constructed by linguist	Jǐngchá zài sōuxún xiányífàn.	警察在搜寻嫌疑犯。	jingcha zai souxun xianyifan	police PRES search.for suspect	The police are searching for the suspect.
+Mandarin Chinese	269	Constructed by native speaker linguist	Xiǎogǒu bèi tā dàizǒu le.	小狗被她带走了。	xiaogou bei ta dai-zou-le	puppy BEI she carry-away-PERF	The puppy was carried away by her.
+Mandarin Chinese	270	Constructed by linguist	Wǒ yǐjīng bǎ húzi guā le.	我已经把胡子刮了。	wo yijing ba huzi gua-le	1SG already BA beard shave-PERF	I have shaved my beard already.
+Mandarin Chinese	271	Constructed by native speaker linguist	Zhèzhǒng shǒuqiāng xiédài qǐlái fāngbiàn.	这种手枪携带起来方便。	zhe-zhong shouqiang xiedai-qilai fangbian	this-kind handgun carry-APPL convenient	This kind of handgun is convenient for carrying. / It is convenient to carry this kind of handgun.
+Mandarin Chinese	272	Constructed by native speaker linguist	Zhè shān pá qǐlái róngyì.	这山爬起来容易。	zhe shan pa-qilai rongyi	this mountain climb-APPL easy	This mountain is easy to climb. / It's easy to climb up the mountain.
+Mandarin Chinese	273	Constructed by native speaker linguist	Fàn bèi wǒ zhǔ hú le.	饭被我煮糊了。	fan bei wo zhu-hu-le	rice BEI 1SG cook-burnt-CRS	The rice was burnt by me. / I cooked but burnt the rice.
+Mandarin Chinese	274	Constructed by native speaker linguist	Tā cóng wǒzhèlǐ názǒu le qián.	她从我这里拿走了钱。	ta cong wo-zheli nazou-le qian	3SG from 1SG-here take-PERF money	She took away the money from me.
+Mandarin Chinese	275	Constructed by linguist	Wǒ bǎ zhuōzi cā le.	我把桌子擦了。	wo ba zhuozi ca-le	1SG BA table wipe-PERF	I wiped the table.
+Mandarin Chinese	276	Constructed by native speaker linguist	Jìnkǒu níuròu zhǔ qǐlái gèng róngyì.	进口牛肉煮起来更容易。	jinkou niurou zhu-qilai geng rongyi	imported beef cook-APPL more easy	It is easier to cook imported beef. / Imported beef is easier to cook.
+Mandarin Chinese	277	Constructed by linguist	Wǒ bǎ nàgè píngguǒ chī le.	我把那个苹果吃了。	wo ba na-ge pingguo chi-le	1SG BA that-CL apple eat-PERF	I ate that apple.
+Mandarin Chinese	278	Constructed by native speaker linguist	Jǐngchá yòng báibù gài shītǐ.	警察用白布盖尸体。	jingcha yong baibu gai shiti	policeman use white.cloth cover dead.body	The policeman covered the dead body with white cloth.
+Mandarin Chinese	279	Constructed by linguist	Yīguō fàn chī shígè rén.	一锅饭吃十个人。	yi-guo fan chi shi-ge ren	one-CL rice eat ten-CL person	A pot of rice is to serve ten prsons. / A pot of rice is for ten people to eat.
+Mandarin Chinese	280	Constructed by native speaker linguist	Shītǐ bèi jǐngchá yòng báibù gài qǐlái le.	尸体被警察用白布盖起来了。	shiti bei jingcha yong baibu gai-qilai-le	dead.body BEI policeman use white.cloth cover-APPL-CRS	The dead body was covered with white cloth by the policeman.
+Mandarin Chinese	281	Constructed by linguist	Nàgè píngguǒ bèi wǒ chī le.	那个苹果被我吃了。	na-ge pingguo bei wo chi-le	that-CL apple BEI 1SG eat-PERF	That apple was eaten by me. / I ate that apple.
+Mandarin Chinese	282	Constructed by native speaker linguist	Dàchē gài qǐlái máfánxiē.	大车盖起来麻烦些。	da-che gai-qilai mafanxie	big-car cover-APPL more.troublesome	It's more difficult to cover up big cars.
+Mandarin Chinese	283	Constructed by linguist	Wǒ chī le tā sāngè píngguǒ.	我吃了她三个苹果。	wo chi-le ta san-ge pingguo	1SG eat-PERF she three-CL apple	I ate three of her apples.
+Mandarin Chinese	284	Constructed by native speaker linguist	Ròu qiē le.	肉切了。	rou qie-le	meat cut-CRS	The meat is cut.
+Mandarin Chinese	285	Constructed by linguist	Wǒ bǎ tā kàn le yīxià.	我把她看了一下。	wo ba ta kan-le yi-xia	1SG BA her look.at-PERF one-CL	I gave her a look.
+Mandarin Chinese	286	Constructed by native speaker linguist	Shuǐgāng zhuāngmǎn le.	水缸装满了。	shuigang zhuangman-le	water.jar fill-CRS	The water jar is filled. / The water jar is full.
+Mandarin Chinese	287	Constructed by linguist	Hǎidào chén le chuán.	海盗沉了船。	haidao chen-le chuan	pirate sink-PERF boat	The pirates sank the boat.
+Mandarin Chinese	288	Constructed by native speaker linguist	*Wǒ bǎ yītóu níu kànjiàn le.	我把一头牛看见了。	*wo ba yi-tou niu kanjian-le	1SG BA one-CL cow see-PERF	I saw a cow.
+Mandarin Chinese	289	Constructed by linguist	Nǐ bǎ háizi jiāo huài le.	你把孩子教坏了。	ni ba haizi jiao huai le	2SG BA kid teach bad PERF	You have taught the kid in such a way that he has turned bad. / Your teaching has made the kid bad.
+Mandarin Chinese	290	Constructed by native speaker linguist	Cūnzi lǐ chūxiàn le yīzhī lǎohǔ.	村子里出现了一只老虎。	cunzi-li chuxian-le yi-zhi laohu	village-inside appear-PERF one-CL tiger	In the village appeared a tiger. / There appeared a tiger in the village.
+Mandarin Chinese	291	Constructed by native speaker linguist	Shū fàng(zài) zhuōshàng.	书放在桌上。	shu fang (zai) zhuo-shang	book put (PREP) desk-top	The book is placed on the desk.
+Mandarin Chinese	292	Constructed by native speaker linguist	Cūnzǐli sǐle yīgè lǎorén.	村子里死了一个老人。	cunzi-li si-le yi-ge lao-ren	village-inside die-PERF one-CL old-person	An old man died in the village.
+Mandarin Chinese	293	Constructed by native speaker linguist	Yīgè lǎorén sǐzàile cūnzǐli.	一个老人死在了村子里。	yi-ge laoren si-zai-le cunzi-li	one-CL old.person die-PREP-PERF village-inside	An old man died in the village.
+Mandarin Chinese	294	Constructed by linguist	Nàgè túfū qiē le tā liǎngkuài zhūròu.	那个屠夫切了他两块猪肉。	na-ge tufu qie-le ta liang-kuai zhurou	that-CL butcher cut-PERF 3SG two-CL pork	That butcher cut two pieces of pork for him. / That butcher cut two pieces of pork and gave them to him.
+Mandarin Chinese	295	Constructed by linguist	Tā wā(zǒu)le wǒ jǐ kǎchē tǔdòu.	他挖了我几卡车土豆。	ta wa(zou)-le wo ji kache tudou	3SG dig(away)-PERF 1SG several truck potato	He dug several trucks of potatoes of mine and took them away.
+Mandarin Chinese	296	Constructed by linguist	Māma rēngle wǒ yīgè qíu.	妈妈扔了我一个球。	mama reng-le wo yi-ge qiu	Mom throw-PERF 1SG one-CL ball	Mom threw a ball to me. / Mom threw me a ball.
+Mandarin Chinese	297	Constructed by native speaker linguist	*Qián gěi le tā.	钱给了他。	*qian gei-le ta	money give-PERF him	The money was given to him.
+Mandarin Chinese	298	Constructed by native speaker linguist	Tā yǐjīng bǎ nánguā xiāo le pí.	他已经把南瓜削了皮。	ta yijing ba nangua xiao-le pi	3SG already BA pumpkin peel-PERF skin	He has peeled the pumpkin. / He has peeled the skin off the pumpkin.
+Mandarin Chinese	299	Constructed by native speaker linguist	*Jǐngchá bǎ xiányífàn sōuxún le.	*警察把嫌疑犯搜寻了。	*jingcha ba xianyifan souxun-le	police BA suspect search.for-PERF	*The police have searched for the suspect.
+Mandarin Chinese	300	Constructed by native speaker linguist	Duì chūxuézhě láishuō，diànzǐyóujiàn fā qǐlái jiùshì máfan.	对初学者来说，电子邮件发起来就是麻烦。	dui chuxuezhe laishuo, dianziyoujian fa-qilai jiushi mafan	to beginners speaking.of, email send-APPL just troublesome	To beginners, it is just troublesome to send an email. / It is just difficult for beginners to learn to send emails."
+Mandarin Chinese	301	Constructed by native speaker linguist	Zhè bǎ tìxūdāo bèi wǒ guā huài le.	这把剃须刀被我刮坏了。	zhe-ba tixudao bei wo gua-huai-le	this-CL shaver BEI 1SG shave-broken-PERF	I have broken this shaver.
+Mandarin Chinese	302	Constructed by native speaker linguist	Zhèkǒu guō yóu tài hòu, cā qǐlái bú róngyì.	这口锅油太厚，擦起来不容易。	zhe-kou guo you tai hou, ca-qilai bu rongyi	this-CL pot oil too thick, wipe-APPL not easy	The pot is too oily that it is not easy to wipe it clean.
+Mandarin Chinese	303	Constructed by native speaker linguist	*Liǎngmén shǒuyì jiāo le.	两门手艺教了。	*liang-men shouyi jiao-le	two-CL skills teach-PERF	Two skills have been taught.

@@ -1,0 +1,97 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Benefactive	Causative	Locative/absolutive alternation	Passive participle	Reciprocal	Reciprocal ambitransitivity	Reflexive	S/A detransitivisation	S/P ambitransitivity	Theme alternation
+Chintang	1	EAT	ca	3, 4, 176	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	2	HUG	hept	5, 129	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	3	LOOK AT	copt	6	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Regularly	Regularly	Regularly	Regularly	Never	Never
+Chintang	4	SEE	khaŋ	7, 152, 156, 175, 177	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	5	SMELL	nams	8, 9	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Regularly	Never
+Chintang	6	FEAR	kipma kat	10	1-abs poss[1].V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	6	FEAR	kitt	11	1-erg 2-abs V.agt[1].obj[2]	Never	Regularly	Never	Never	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	6	FEAR	kipma katt	12, 130, 143	1-erg 2-abs poss[1].V.agt[1].obj[2]	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Never	Never
+Chintang	7	FRIGHTEN	kip-mett	13, 131, 132	1-erg 2-abs V.agt[1].obj[2]	Never	Never	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	8	LIKE	khaŋma les	14	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	9	KNOW	mɨksi-khaŋ	15	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	9	KNOW	nis	16, 157	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	10	THINK	mitt	17	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Regularly	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	11	SEARCH FOR	kond	18, 165	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	12	WASH	wahu-mett	19	1-erg 2-abs V.agt[1].obj[2]	Never	Never	Never	Marginally	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	12	WASH	wa-chid-	20	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Marginally	Never	Never	Regularly	Never	Never
+Chintang	12	WASH	wa-dhapt	21, 133, 162	1-erg 2-abs V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	12	WASH	wa-lekt	22	1-erg 2-abs V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	13	DRESS	waiʔ-mett	23	1-erg 2-abs 3-abs V.agt[1].obj[3]	Never	Never	Never	Never	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	14	SHAVE (a body part/person)	khos	24, 134	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	15	HELP	phad	25	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Regularly	Never	Never	Regularly	Never	Never
+Chintang	16	FOLLOW	rɨkt	26	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Regularly	Never	Never	Regularly	Never	Never
+Chintang	17	MEET	tok	27, 126	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	17	MEET	tup	28, 29	1-abs V.subj[1]	Marginally	Marginally	Never	Marginally	Marginally	Regularly	Never	Marginally	Never	Never
+Chintang	18	TALK	hand	30, 31	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	19	ASK FOR	nakt	33	1-erg 2-abs 3-abs V.agt[1].obj[3]	Regularly	Marginally	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	20	SHOUT AT	ratt	34, 35, 89	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	21	TELL	lud	32, 36, 37, 39, 135	1-erg 2-abs 3-abs V.agt[1].obj[3]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	22	SAY	lud	32, 36, 37, 39, 135	1-erg 2-abs 3-abs V.agt[1].obj[3]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	23	NAME	patt	38	1-erg 2-abs 3-abs V.agt[1].obj[3]	Regularly	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	23	NAME	lud	32, 36, 37, 39, 135	1-erg 2-abs 3-abs V.agt[1].obj[3]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	24	BUILD	numd	40	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	25	BREAK	ket	41, 42	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Regularly	Never
+Chintang	25	BREAK	ot	43, 44, 45	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Regularly	Never
+Chintang	26	KILL	set	46	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Regularly	Never	Marginally	Regularly	Never	Never
+Chintang	27	BEAT	thatt	47	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	27	BEAT	ten	48, 155	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	28	HIT	ten	48, 155	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	29	TOUCH	nop	49	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	30	CUT	kɨpt	50, 167	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	31	TAKE	khatt	51, 144, 146	1-erg 2-abs 3-loc V.agt[1].obj[2]	Regularly	Regularly	Regularly	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	32	TEAR	rek	1, 2, 55, 163	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Regularly	Never
+Chintang	33	PEEL	ok	53, 161, 164, 171	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Never	Never	Never	Regularly	Never	Never
+Chintang	34	HIDE	tek	54	1-erg 2-abs V.agt[1].obj[2]	Regularly	Regularly	Never	Marginally	Marginally	Never	Regularly	Regularly	Never	Never
+Chintang	35	SHOW	khaŋ-mett	56, 57	1-erg 2-abs 3-abs V.agt[1].obj[3]	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	36	GIVE	pid	58, 158	1-erg 2-abs 3-abs V.agt[1].obj[3]	Marginally	Marginally	Never	Marginally	Regularly	Never	Regularly	Regularly	Never	Never
+Chintang	37	SEND	hakt	59	1-erg 2-abs 3-abs V.agt[1].obj[3]	Never	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	37	SEND	haŋs	60, 145, 147	1-erg 2-abs 3-loc V.agt[1].obj[2]	Marginally	Marginally	Regularly	Marginally	Marginally	Never	Never	Regularly	Never	Never
+Chintang	38	CARRY	khutt	52, 61, 166	1-erg 2-abs 3-abs V.agt[1].obj[3]	Regularly	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	38	CARRY	khur	62, 174	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Regularly	Never
+Chintang	39	THROW	os	63, 148, 154	1-erg 2-abs 3-loc V.agt[1].obj[2]	Regularly	Marginally	Regularly	Regularly	Marginally	Never	Regularly	Regularly	Never	Never
+Chintang	39	THROW	or	64	1-erg 2-abs 3-erg V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Marginally	Never	Regularly	Regularly	Never	Never
+Chintang	40	TIE	chud	65, 66	1-erg 2-abs 3-erg 4-loc V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	41	PUT	yuŋs	67, 73, 159	1-erg 2-abs 3-loc V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	42	POUR	bhare numd	68	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Marginally
+Chintang	43	COVER	bhukt	69, 70, 150, 160	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Regularly	Never	Regularly	Regularly	Never	Regularly	Regularly	Never	Regularly
+Chintang	44	FILL	bhare numd	68	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Marginally
+Chintang	44	FILL	tipt	71, 72	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Chintang	45	LOAD	yuŋs	67, 73, 159	1-erg 2-abs 3-loc V.agt[1].obj[2]	Regularly	Regularly	Never	Regularly	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	46	BLINK	sipt (1)	74	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Marginally	Regularly	Regularly	Never
+Chintang	47	COUGH	chuŋs	75	1-abs V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	48	CLIMB	sopt	76	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	49	RUN	pind	77	1-abs V.subj[1]	Marginally	Regularly	Marginally	Never	Never	Never	Never	Never	Never	Never
+Chintang	50	SIT	yuŋ	78, 79, 86, 149, 168	1-abs 2-loc V.subj[1]	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Chintang	51	SIT DOWN	yuŋ	78, 79, 86, 149, 168	1-abs 2-loc V.subj[1]	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Chintang	52	JUMP	tand	80, 170	1-abs 2-loc V.subj[1]	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	53	SING	cham lus	81, 82	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	54	GO	khat	83, 84	1-abs 2-loc V.subj[1]	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Chintang	55	LEAVE	khat (2)	85	1-abs V.subj[1]	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Chintang	56	LIVE	yuŋ	78, 79, 86, 149, 168	1-abs 2-loc V.subj[1]	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Chintang	57	LAUGH													
+Chintang	58	SCREAM	ratt (2)	35, 89	1-abs V.subj[1]	Marginally	Regularly	Never	Marginally	Marginally	Never	Marginally	Never	Never	Never
+Chintang	59	FEEL PAIN	tuk	90	1-abs V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	60	FEEL COLD	cuŋwa si	91	1-abs V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	61	DIE	si	92	1-abs V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	62	PLAY	khoŋs	93, 94, 95	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	63	BE SAD	micinɨŋ tuk	96	1-abs V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	63	BE SAD	som tuk	97	1-abs V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	64	BE HUNGRY	sɨŋsawa si	98	1-abs V.subj[1]	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+Chintang	65	ROLL													
+Chintang	66	SINK													
+Chintang	67	BURN													
+Chintang	68	BE DRY													
+Chintang	69	RAIN	weiʔ ta	107	V	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	70	BE A HUNTER	kaʔappa	142	1-abs V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Chintang	71	GRIND	cemd	108, 109, 139, 140	1-erg 2-abs 3-erg V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Marginally	Never
+Chintang	72	WIPE	tɨk	110	1-erg 2-abs V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Marginally	Never	Never	Regularly	Never	Never
+Chintang	73	DIG	phol	112	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	73	DIG	tus	111, 113	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	74	PUSH	tol	114, 115	1-erg 2-abs V.agt[1].obj[2]	Marginally	Marginally	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	75	BRING	khutt	52, 61, 166	1-erg 2-abs 3-abs V.agt[1].obj[3]	Regularly	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	76	STEAL	khutt	52, 61, 166	1-erg 2-abs 3-abs V.agt[1].obj[3]	Regularly	Regularly	Never	Marginally	Marginally	Never	Marginally	Regularly	Never	Never
+Chintang	77	TEACH	cind	116, 151	1-erg 2-abs 3-abs V.agt[1].obj[3]	Never	Marginally	Never	Marginally	Marginally	Never	Regularly	Regularly	Never	Never
+Chintang	78	HEAR	khems	117, 141	1-erg 2-abs V.agt[1].obj[2]	Marginally	Regularly	Never	Marginally	Never	Never	Regularly	Regularly	Never	Never
+Chintang	79	COOK	thukt	118	1-erg 2-abs V.agt[1].obj[2]	Regularly	Marginally	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Chintang	80	BOIL	lokt	119, 172	1-abs V.obj[1]	Marginally	Regularly	Never	Marginally	Never	Never	Never	Never	Never	Never

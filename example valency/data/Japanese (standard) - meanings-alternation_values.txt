@@ -1,0 +1,561 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Japanese (standard)	1	EAT	taberu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	1	EAT	taberu	Argument-Increasing Alternation	Never	
+Japanese (standard)	1	EAT	taberu	Argument-Oblique Alternation	Never	
+Japanese (standard)	1	EAT	taberu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	1	EAT	taberu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	1	EAT	taberu	Locative Alternation	Never	
+Japanese (standard)	1	EAT	taberu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	2	HUG	dakisimeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	2	HUG	dakisimeru	Argument-Increasing Alternation	Never	
+Japanese (standard)	2	HUG	dakisimeru	Argument-Oblique Alternation	Never	
+Japanese (standard)	2	HUG	dakisimeru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	2	HUG	dakisimeru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	2	HUG	dakisimeru	Locative Alternation	Never	
+Japanese (standard)	2	HUG	dakisimeru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	3	LOOK AT	miru	Argument-Decreasing Alternation	Regularly	2-nom V'decr
+Japanese (standard)	3	LOOK AT	miru	Argument-Increasing Alternation	Never	
+Japanese (standard)	3	LOOK AT	miru	Argument-Oblique Alternation	Never	
+Japanese (standard)	3	LOOK AT	miru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	3	LOOK AT	miru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	3	LOOK AT	miru	Locative Alternation	Never	
+Japanese (standard)	3	LOOK AT	miru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	4	SEE	mieru	Argument-Decreasing Alternation	Regularly	2-nom V'decr
+Japanese (standard)	4	SEE	mieru	Argument-Increasing Alternation	Never	
+Japanese (standard)	4	SEE	mieru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	4	SEE	mieru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	4	SEE	mieru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	4	SEE	mieru	Locative Alternation	Never	
+Japanese (standard)	4	SEE	mieru	Potential Formation	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Argument-Increasing Alternation	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Argument-Oblique Alternation	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Locative Alternation	Never	
+Japanese (standard)	5	SMELL	nioi-o kagu	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	6	FEAR	kowagaru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	6	FEAR	kowagaru	Argument-Increasing Alternation	Never	
+Japanese (standard)	6	FEAR	kowagaru	Argument-Oblique Alternation	Never	
+Japanese (standard)	6	FEAR	kowagaru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	6	FEAR	kowagaru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	6	FEAR	kowagaru	Locative Alternation	Never	
+Japanese (standard)	6	FEAR	kowagaru	Potential Formation	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Argument-Increasing Alternation	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Argument-Oblique Alternation	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Locative Alternation	Never	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	8	LIKE	ki-ni-iru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	8	LIKE	ki-ni-iru	Argument-Increasing Alternation	Never	
+Japanese (standard)	8	LIKE	ki-ni-iru	Argument-Oblique Alternation	Never	
+Japanese (standard)	8	LIKE	ki-ni-iru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	8	LIKE	ki-ni-iru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	8	LIKE	ki-ni-iru	Locative Alternation	Never	
+Japanese (standard)	8	LIKE	ki-ni-iru	Potential Formation	Never	
+Japanese (standard)	9	KNOW	siru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	9	KNOW	siru	Argument-Increasing Alternation	Never	
+Japanese (standard)	9	KNOW	siru	Argument-Oblique Alternation	Never	
+Japanese (standard)	9	KNOW	siru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	9	KNOW	siru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	9	KNOW	siru	Locative Alternation	Never	
+Japanese (standard)	9	KNOW	siru	Potential Formation	Never	
+Japanese (standard)	10	THINK	kangaeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	10	THINK	kangaeru	Argument-Increasing Alternation	Never	
+Japanese (standard)	10	THINK	kangaeru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	10	THINK	kangaeru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	10	THINK	kangaeru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	10	THINK	kangaeru	Locative Alternation	Never	
+Japanese (standard)	10	THINK	kangaeru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	11	SEARCH FOR	sagasu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	11	SEARCH FOR	sagasu	Argument-Increasing Alternation	Never	
+Japanese (standard)	11	SEARCH FOR	sagasu	Argument-Oblique Alternation	Never	
+Japanese (standard)	11	SEARCH FOR	sagasu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	11	SEARCH FOR	sagasu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	11	SEARCH FOR	sagasu	Locative Alternation	Never	
+Japanese (standard)	11	SEARCH FOR	sagasu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	12	WASH	arau	Argument-Decreasing Alternation	Never	
+Japanese (standard)	12	WASH	arau	Argument-Increasing Alternation	Never	
+Japanese (standard)	12	WASH	arau	Argument-Oblique Alternation	Never	
+Japanese (standard)	12	WASH	arau	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	12	WASH	arau	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	12	WASH	arau	Locative Alternation	Never	
+Japanese (standard)	12	WASH	arau	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	13	DRESS	kiseru	Argument-Decreasing Alternation	Regularly	2-nom 3-acc V'decr
+Japanese (standard)	13	DRESS	kiseru	Argument-Increasing Alternation	Never	
+Japanese (standard)	13	DRESS	kiseru	Argument-Oblique Alternation	Never	
+Japanese (standard)	13	DRESS	kiseru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	13	DRESS	kiseru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	13	DRESS	kiseru	Locative Alternation	Never	
+Japanese (standard)	13	DRESS	kiseru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Argument-Increasing Alternation	Never	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Argument-Oblique Alternation	Never	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Locative Alternation	Never	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	15	HELP	tetudau	Argument-Decreasing Alternation	Never	
+Japanese (standard)	15	HELP	tetudau	Argument-Increasing Alternation	Never	
+Japanese (standard)	15	HELP	tetudau	Argument-Oblique Alternation	Never	
+Japanese (standard)	15	HELP	tetudau	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	15	HELP	tetudau	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	15	HELP	tetudau	Locative Alternation	Never	
+Japanese (standard)	15	HELP	tetudau	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Argument-Increasing Alternation	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Argument-Oblique Alternation	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Locative Alternation	Never	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	17	MEET	au	Argument-Decreasing Alternation	Never	
+Japanese (standard)	17	MEET	au	Argument-Increasing Alternation	Never	
+Japanese (standard)	17	MEET	au	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	17	MEET	au	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	17	MEET	au	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	17	MEET	au	Locative Alternation	Never	
+Japanese (standard)	17	MEET	au	Potential Formation	Regularly	1-nom 2-dat V'pot
+Japanese (standard)	18	TALK	hanasu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	18	TALK	hanasu	Argument-Increasing Alternation	Never	
+Japanese (standard)	18	TALK	hanasu	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	18	TALK	hanasu	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	18	TALK	hanasu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	18	TALK	hanasu	Locative Alternation	Never	
+Japanese (standard)	18	TALK	hanasu	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	19	ASK FOR	motomeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	19	ASK FOR	motomeru	Argument-Increasing Alternation	Never	
+Japanese (standard)	19	ASK FOR	motomeru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	19	ASK FOR	motomeru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	19	ASK FOR	motomeru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	19	ASK FOR	motomeru	Locative Alternation	Never	
+Japanese (standard)	19	ASK FOR	motomeru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	20	SHOUT AT	sakebu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	20	SHOUT AT	sakebu	Argument-Increasing Alternation	Never	
+Japanese (standard)	20	SHOUT AT	sakebu	Argument-Oblique Alternation	Never	
+Japanese (standard)	20	SHOUT AT	sakebu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	20	SHOUT AT	sakebu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	20	SHOUT AT	sakebu	Locative Alternation	Never	
+Japanese (standard)	20	SHOUT AT	sakebu	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	21	TELL	tugeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	21	TELL	tugeru	Argument-Increasing Alternation	Never	
+Japanese (standard)	21	TELL	tugeru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	21	TELL	tugeru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	21	TELL	tugeru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	21	TELL	tugeru	Locative Alternation	Never	
+Japanese (standard)	21	TELL	tugeru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	22	SAY	yuu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	22	SAY	yuu	Argument-Increasing Alternation	Never	
+Japanese (standard)	22	SAY	yuu	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	22	SAY	yuu	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom UTT3 passV'
+Japanese (standard)	22	SAY	yuu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	22	SAY	yuu	Locative Alternation	Never	
+Japanese (standard)	22	SAY	yuu	Potential Formation	Regularly	1-nom 2-dat UTT3 V'pot
+Japanese (standard)	23	NAME	yobu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	23	NAME	yobu	Argument-Increasing Alternation	Never	
+Japanese (standard)	23	NAME	yobu	Argument-Oblique Alternation	Never	
+Japanese (standard)	23	NAME	yobu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	23	NAME	yobu	Direct Passivization Promoting O-marked argument	Regularly	2-nom 3-quot passV'
+Japanese (standard)	23	NAME	yobu	Locative Alternation	Never	
+Japanese (standard)	23	NAME	yobu	Potential Formation	Regularly	1-nom 2-acc 3-quot V'pot
+Japanese (standard)	24	BUILD	tateru	Argument-Decreasing Alternation	Regularly	3-nom V'decr
+Japanese (standard)	24	BUILD	tateru	Argument-Increasing Alternation	Never	
+Japanese (standard)	24	BUILD	tateru	Argument-Oblique Alternation	Never	
+Japanese (standard)	24	BUILD	tateru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	24	BUILD	tateru	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	24	BUILD	tateru	Locative Alternation	Never	
+Japanese (standard)	24	BUILD	tateru	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	25	BREAK	kowasu	Argument-Decreasing Alternation	Regularly	3-nom V'decr
+Japanese (standard)	25	BREAK	kowasu	Argument-Increasing Alternation	Never	
+Japanese (standard)	25	BREAK	kowasu	Argument-Oblique Alternation	Never	
+Japanese (standard)	25	BREAK	kowasu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	25	BREAK	kowasu	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	25	BREAK	kowasu	Locative Alternation	Never	
+Japanese (standard)	25	BREAK	kowasu	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	26	KILL	korosu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	26	KILL	korosu	Argument-Increasing Alternation	Never	
+Japanese (standard)	26	KILL	korosu	Argument-Oblique Alternation	Never	
+Japanese (standard)	26	KILL	korosu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	26	KILL	korosu	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	26	KILL	korosu	Locative Alternation	Never	
+Japanese (standard)	26	KILL	korosu	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	27	BEAT	tataku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	27	BEAT	tataku	Argument-Increasing Alternation	Never	
+Japanese (standard)	27	BEAT	tataku	Argument-Oblique Alternation	Never	
+Japanese (standard)	27	BEAT	tataku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	27	BEAT	tataku	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	27	BEAT	tataku	Locative Alternation	Never	
+Japanese (standard)	27	BEAT	tataku	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	28	HIT	tataku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	28	HIT	tataku	Argument-Increasing Alternation	Never	
+Japanese (standard)	28	HIT	tataku	Argument-Oblique Alternation	Never	
+Japanese (standard)	28	HIT	tataku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	28	HIT	tataku	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	28	HIT	tataku	Locative Alternation	Never	
+Japanese (standard)	28	HIT	tataku	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	29	TOUCH	sawaru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	29	TOUCH	sawaru	Argument-Increasing Alternation	Never	
+Japanese (standard)	29	TOUCH	sawaru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	29	TOUCH	sawaru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	29	TOUCH	sawaru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	29	TOUCH	sawaru	Locative Alternation	Never	
+Japanese (standard)	29	TOUCH	sawaru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	30	CUT	kiru	Argument-Decreasing Alternation	Regularly	3-nom V'decr
+Japanese (standard)	30	CUT	kiru	Argument-Increasing Alternation	Never	
+Japanese (standard)	30	CUT	kiru	Argument-Oblique Alternation	Never	
+Japanese (standard)	30	CUT	kiru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	30	CUT	kiru	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	30	CUT	kiru	Locative Alternation	Never	
+Japanese (standard)	30	CUT	kiru	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	31	TAKE	toru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	31	TAKE	toru	Argument-Increasing Alternation	Never	
+Japanese (standard)	31	TAKE	toru	Argument-Oblique Alternation	Never	
+Japanese (standard)	31	TAKE	toru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	31	TAKE	toru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-abl passV'
+Japanese (standard)	31	TAKE	toru	Locative Alternation	Never	
+Japanese (standard)	31	TAKE	toru	Potential Formation	Regularly	1-nom 2-abl 3-acc V'pot
+Japanese (standard)	32	TEAR	yaburu	Argument-Decreasing Alternation	Regularly	2-nom V'decr
+Japanese (standard)	32	TEAR	yaburu	Argument-Increasing Alternation	Never	
+Japanese (standard)	32	TEAR	yaburu	Argument-Oblique Alternation	Never	
+Japanese (standard)	32	TEAR	yaburu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	32	TEAR	yaburu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	32	TEAR	yaburu	Locative Alternation	Never	
+Japanese (standard)	32	TEAR	yaburu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	33	PEEL	muku	Argument-Decreasing Alternation	Regularly	2-nom V'decr
+Japanese (standard)	33	PEEL	muku	Argument-Increasing Alternation	Never	
+Japanese (standard)	33	PEEL	muku	Argument-Oblique Alternation	Never	
+Japanese (standard)	33	PEEL	muku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	33	PEEL	muku	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	33	PEEL	muku	Locative Alternation	Never	
+Japanese (standard)	33	PEEL	muku	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	34	HIDE	kakusu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	34	HIDE	kakusu	Argument-Increasing Alternation	Never	
+Japanese (standard)	34	HIDE	kakusu	Argument-Oblique Alternation	Never	
+Japanese (standard)	34	HIDE	kakusu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	34	HIDE	kakusu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	34	HIDE	kakusu	Locative Alternation	Never	
+Japanese (standard)	34	HIDE	kakusu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	35	SHOW	miseru	Argument-Decreasing Alternation	Regularly	2-nom 3-acc V'decr
+Japanese (standard)	35	SHOW	miseru	Argument-Increasing Alternation	Never	
+Japanese (standard)	35	SHOW	miseru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	35	SHOW	miseru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	35	SHOW	miseru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	35	SHOW	miseru	Locative Alternation	Never	
+Japanese (standard)	35	SHOW	miseru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	36	GIVE	ataeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	36	GIVE	ataeru	Argument-Increasing Alternation	Never	
+Japanese (standard)	36	GIVE	ataeru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	36	GIVE	ataeru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	36	GIVE	ataeru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	36	GIVE	ataeru	Locative Alternation	Never	
+Japanese (standard)	36	GIVE	ataeru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	37	SEND	okuru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	37	SEND	okuru	Argument-Increasing Alternation	Never	
+Japanese (standard)	37	SEND	okuru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	37	SEND	okuru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	37	SEND	okuru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	37	SEND	okuru	Locative Alternation	Never	
+Japanese (standard)	37	SEND	okuru	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	38	CARRY	hakobu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	38	CARRY	hakobu	Argument-Increasing Alternation	Never	
+Japanese (standard)	38	CARRY	hakobu	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	38	CARRY	hakobu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	38	CARRY	hakobu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	38	CARRY	hakobu	Locative Alternation	Never	
+Japanese (standard)	38	CARRY	hakobu	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	39	THROW	nageru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	39	THROW	nageru	Argument-Increasing Alternation	Never	
+Japanese (standard)	39	THROW	nageru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	39	THROW	nageru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	39	THROW	nageru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	39	THROW	nageru	Locative Alternation	Never	
+Japanese (standard)	39	THROW	nageru	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	40	TIE	tunagu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	40	TIE	tunagu	Argument-Increasing Alternation	Never	
+Japanese (standard)	40	TIE	tunagu	Argument-Oblique Alternation	Never	
+Japanese (standard)	40	TIE	tunagu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	40	TIE	tunagu	Direct Passivization Promoting O-marked argument	Regularly	4-nom (2-instr) 3-loc passV'
+Japanese (standard)	40	TIE	tunagu	Locative Alternation	Never	
+Japanese (standard)	40	TIE	tunagu	Potential Formation	Regularly	1-nom (2-instr) 3-loc 4-acc V'pot
+Japanese (standard)	41	PUT	oku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	41	PUT	oku	Argument-Increasing Alternation	Never	
+Japanese (standard)	41	PUT	oku	Argument-Oblique Alternation	Never	
+Japanese (standard)	41	PUT	oku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	41	PUT	oku	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	41	PUT	oku	Locative Alternation	Never	
+Japanese (standard)	41	PUT	oku	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	42	POUR	sosogu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	42	POUR	sosogu	Argument-Increasing Alternation	Never	
+Japanese (standard)	42	POUR	sosogu	Argument-Oblique Alternation	Never	
+Japanese (standard)	42	POUR	sosogu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	42	POUR	sosogu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	42	POUR	sosogu	Locative Alternation	Never	
+Japanese (standard)	42	POUR	sosogu	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	43	COVER	kurumu	Argument-Decreasing Alternation	Regularly	3-nom V'decr
+Japanese (standard)	43	COVER	kurumu	Argument-Increasing Alternation	Never	
+Japanese (standard)	43	COVER	kurumu	Argument-Oblique Alternation	Never	
+Japanese (standard)	43	COVER	kurumu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	43	COVER	kurumu	Direct Passivization Promoting O-marked argument	Regularly	3-nom (2-instr) passV'
+Japanese (standard)	43	COVER	kurumu	Locative Alternation	Never	
+Japanese (standard)	43	COVER	kurumu	Potential Formation	Regularly	1-nom (2-instr) 3-acc V'pot
+Japanese (standard)	44	FILL	mitasu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	44	FILL	mitasu	Argument-Increasing Alternation	Never	
+Japanese (standard)	44	FILL	mitasu	Argument-Oblique Alternation	Never	
+Japanese (standard)	44	FILL	mitasu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	44	FILL	mitasu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	44	FILL	mitasu	Locative Alternation	Regularly	1-nom 3-instr 2-acc V'
+Japanese (standard)	44	FILL	mitasu	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	45	LOAD	tumu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	45	LOAD	tumu	Argument-Increasing Alternation	Never	
+Japanese (standard)	45	LOAD	tumu	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	45	LOAD	tumu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	45	LOAD	tumu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	45	LOAD	tumu	Locative Alternation	Never	
+Japanese (standard)	45	LOAD	tumu	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	46	BLINK	mabataki-o suru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Argument-Increasing Alternation	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Argument-Oblique Alternation	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Locative Alternation	Never	
+Japanese (standard)	46	BLINK	mabataki-o suru	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	47	COUGH	seki-o suru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Argument-Increasing Alternation	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Argument-Oblique Alternation	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Locative Alternation	Never	
+Japanese (standard)	47	COUGH	seki-o suru	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	48	CLIMB	noboru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	48	CLIMB	noboru	Argument-Increasing Alternation	Never	
+Japanese (standard)	48	CLIMB	noboru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	48	CLIMB	noboru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	48	CLIMB	noboru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	48	CLIMB	noboru	Locative Alternation	Never	
+Japanese (standard)	48	CLIMB	noboru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	49	RUN	hasiru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	49	RUN	hasiru	Argument-Increasing Alternation	Never	
+Japanese (standard)	49	RUN	hasiru	Argument-Oblique Alternation	Never	
+Japanese (standard)	49	RUN	hasiru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	49	RUN	hasiru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	49	RUN	hasiru	Locative Alternation	Never	
+Japanese (standard)	49	RUN	hasiru	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	50	SIT	suwaru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	50	SIT	suwaru	Argument-Increasing Alternation	Never	
+Japanese (standard)	50	SIT	suwaru	Argument-Oblique Alternation	Never	
+Japanese (standard)	50	SIT	suwaru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	50	SIT	suwaru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	50	SIT	suwaru	Locative Alternation	Never	
+Japanese (standard)	50	SIT	suwaru	Potential Formation	Regularly	1-nom 2-loc V'pot
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Argument-Increasing Alternation	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Argument-Oblique Alternation	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Locative Alternation	Never	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Potential Formation	Regularly	1-nom 2-loc V'pot
+Japanese (standard)	52	JUMP	tobiagaru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Argument-Increasing Alternation	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Argument-Oblique Alternation	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Locative Alternation	Never	
+Japanese (standard)	52	JUMP	tobiagaru	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	53	SING	utau	Argument-Decreasing Alternation	Never	
+Japanese (standard)	53	SING	utau	Argument-Increasing Alternation	Never	
+Japanese (standard)	53	SING	utau	Argument-Oblique Alternation	Never	
+Japanese (standard)	53	SING	utau	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	53	SING	utau	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	53	SING	utau	Locative Alternation	Never	
+Japanese (standard)	53	SING	utau	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	54	GO	iku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	54	GO	iku	Argument-Increasing Alternation	Never	
+Japanese (standard)	54	GO	iku	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	54	GO	iku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	54	GO	iku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	54	GO	iku	Locative Alternation	Never	
+Japanese (standard)	54	GO	iku	Potential Formation	Regularly	1-nom 2-loc V'pot
+Japanese (standard)	55	LEAVE	saru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	55	LEAVE	saru	Argument-Increasing Alternation	Never	
+Japanese (standard)	55	LEAVE	saru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	55	LEAVE	saru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	55	LEAVE	saru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	55	LEAVE	saru	Locative Alternation	Never	
+Japanese (standard)	55	LEAVE	saru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	56	LIVE	sumu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	56	LIVE	sumu	Argument-Increasing Alternation	Never	
+Japanese (standard)	56	LIVE	sumu	Argument-Oblique Alternation	Never	
+Japanese (standard)	56	LIVE	sumu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	56	LIVE	sumu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	56	LIVE	sumu	Locative Alternation	Never	
+Japanese (standard)	56	LIVE	sumu	Potential Formation	Regularly	1-nom 2-loc V'pot
+Japanese (standard)	57	LAUGH	warau	Argument-Decreasing Alternation	Never	
+Japanese (standard)	57	LAUGH	warau	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	57	LAUGH	warau	Argument-Oblique Alternation	Never	
+Japanese (standard)	57	LAUGH	warau	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	57	LAUGH	warau	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	57	LAUGH	warau	Locative Alternation	Never	
+Japanese (standard)	57	LAUGH	warau	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Argument-Increasing Alternation	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Argument-Oblique Alternation	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Locative Alternation	Never	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	59	FEEL PAIN	itai	Argument-Decreasing Alternation	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Argument-Increasing Alternation	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Argument-Oblique Alternation	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Locative Alternation	Never	
+Japanese (standard)	59	FEEL PAIN	itai	Potential Formation	Never	
+Japanese (standard)	60	FEEL COLD	samui	Argument-Decreasing Alternation	Never	
+Japanese (standard)	60	FEEL COLD	samui	Argument-Increasing Alternation	Never	
+Japanese (standard)	60	FEEL COLD	samui	Argument-Oblique Alternation	Never	
+Japanese (standard)	60	FEEL COLD	samui	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	60	FEEL COLD	samui	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	60	FEEL COLD	samui	Locative Alternation	Never	
+Japanese (standard)	60	FEEL COLD	samui	Potential Formation	Never	
+Japanese (standard)	61	DIE	sinu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	61	DIE	sinu	Argument-Increasing Alternation	Never	
+Japanese (standard)	61	DIE	sinu	Argument-Oblique Alternation	Never	
+Japanese (standard)	61	DIE	sinu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	61	DIE	sinu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	61	DIE	sinu	Locative Alternation	Never	
+Japanese (standard)	61	DIE	sinu	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	62	PLAY	asobu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	62	PLAY	asobu	Argument-Increasing Alternation	Never	
+Japanese (standard)	62	PLAY	asobu	Argument-Oblique Alternation	Never	
+Japanese (standard)	62	PLAY	asobu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	62	PLAY	asobu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	62	PLAY	asobu	Locative Alternation	Never	
+Japanese (standard)	62	PLAY	asobu	Potential Formation	Regularly	1-nom V'pot
+Japanese (standard)	63	BE SAD	kanasii	Argument-Decreasing Alternation	Never	
+Japanese (standard)	63	BE SAD	kanasii	Argument-Increasing Alternation	Never	
+Japanese (standard)	63	BE SAD	kanasii	Argument-Oblique Alternation	Never	
+Japanese (standard)	63	BE SAD	kanasii	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	63	BE SAD	kanasii	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	63	BE SAD	kanasii	Locative Alternation	Never	
+Japanese (standard)	63	BE SAD	kanasii	Potential Formation	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Argument-Oblique Alternation	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Locative Alternation	Never	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Potential Formation	Never	
+Japanese (standard)	65	ROLL	korogaru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	65	ROLL	korogaru	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	65	ROLL	korogaru	Argument-Oblique Alternation	Never	
+Japanese (standard)	65	ROLL	korogaru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	65	ROLL	korogaru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	65	ROLL	korogaru	Locative Alternation	Never	
+Japanese (standard)	65	ROLL	korogaru	Potential Formation	Never	
+Japanese (standard)	66	SINK	sizumu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	66	SINK	sizumu	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	66	SINK	sizumu	Argument-Oblique Alternation	Never	
+Japanese (standard)	66	SINK	sizumu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	66	SINK	sizumu	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	66	SINK	sizumu	Locative Alternation	Never	
+Japanese (standard)	66	SINK	sizumu	Potential Formation	Never	
+Japanese (standard)	67	BURN	moeru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	67	BURN	moeru	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	67	BURN	moeru	Argument-Oblique Alternation	Never	
+Japanese (standard)	67	BURN	moeru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	67	BURN	moeru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	67	BURN	moeru	Locative Alternation	Never	
+Japanese (standard)	67	BURN	moeru	Potential Formation	Never	
+Japanese (standard)	68	BE DRY	kawaku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	68	BE DRY	kawaku	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	68	BE DRY	kawaku	Argument-Oblique Alternation	Never	
+Japanese (standard)	68	BE DRY	kawaku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	68	BE DRY	kawaku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	68	BE DRY	kawaku	Locative Alternation	Never	
+Japanese (standard)	68	BE DRY	kawaku	Potential Formation	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Argument-Increasing Alternation	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Argument-Oblique Alternation	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Locative Alternation	Never	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Potential Formation	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Argument-Decreasing Alternation	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Argument-Increasing Alternation	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Argument-Oblique Alternation	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Locative Alternation	Never	
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	Potential Formation	Never	
+Japanese (standard)	71	GRIND	hiku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	71	GRIND	hiku	Argument-Increasing Alternation	Never	
+Japanese (standard)	71	GRIND	hiku	Argument-Oblique Alternation	Never	
+Japanese (standard)	71	GRIND	hiku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	71	GRIND	hiku	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	71	GRIND	hiku	Locative Alternation	Never	
+Japanese (standard)	71	GRIND	hiku	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	72	WIPE	hukitoru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	72	WIPE	hukitoru	Argument-Increasing Alternation	Never	
+Japanese (standard)	72	WIPE	hukitoru	Argument-Oblique Alternation	Never	
+Japanese (standard)	72	WIPE	hukitoru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	72	WIPE	hukitoru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	72	WIPE	hukitoru	Locative Alternation	Never	
+Japanese (standard)	72	WIPE	hukitoru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	73	DIG	horu	Argument-Decreasing Alternation	Regularly	2-nom V'decr
+Japanese (standard)	73	DIG	horu	Argument-Increasing Alternation	Never	
+Japanese (standard)	73	DIG	horu	Argument-Oblique Alternation	Never	
+Japanese (standard)	73	DIG	horu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	73	DIG	horu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	73	DIG	horu	Locative Alternation	Never	
+Japanese (standard)	73	DIG	horu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	74	PUSH	osu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	74	PUSH	osu	Argument-Increasing Alternation	Never	
+Japanese (standard)	74	PUSH	osu	Argument-Oblique Alternation	Never	
+Japanese (standard)	74	PUSH	osu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	74	PUSH	osu	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	74	PUSH	osu	Locative Alternation	Never	
+Japanese (standard)	74	PUSH	osu	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	75	BRING	mot-te kuru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	75	BRING	mot-te kuru	Argument-Increasing Alternation	Never	
+Japanese (standard)	75	BRING	mot-te kuru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	75	BRING	mot-te kuru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	75	BRING	mot-te kuru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-loc passV'
+Japanese (standard)	75	BRING	mot-te kuru	Locative Alternation	Never	
+Japanese (standard)	75	BRING	mot-te kuru	Potential Formation	Regularly	1-nom 2-loc 3-acc V'pot
+Japanese (standard)	76	STEAL	nusumu	Argument-Decreasing Alternation	Never	
+Japanese (standard)	76	STEAL	nusumu	Argument-Increasing Alternation	Never	
+Japanese (standard)	76	STEAL	nusumu	Argument-Oblique Alternation	Never	
+Japanese (standard)	76	STEAL	nusumu	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	76	STEAL	nusumu	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-abl passV'
+Japanese (standard)	76	STEAL	nusumu	Locative Alternation	Never	
+Japanese (standard)	76	STEAL	nusumu	Potential Formation	Regularly	1-nom 2-abl 3-acc V'pot
+Japanese (standard)	77	TEACH	osieru	Argument-Decreasing Alternation	Regularly	2-nom 3-acc V'decr
+Japanese (standard)	77	TEACH	osieru	Argument-Increasing Alternation	Never	
+Japanese (standard)	77	TEACH	osieru	Argument-Oblique Alternation	Regularly	
+Japanese (standard)	77	TEACH	osieru	Direct Passivization Promoting Ni-marked Argument	Regularly	2-nom 3-acc passV'
+Japanese (standard)	77	TEACH	osieru	Direct Passivization Promoting O-marked argument	Regularly	3-nom 2-dat passV'
+Japanese (standard)	77	TEACH	osieru	Locative Alternation	Never	
+Japanese (standard)	77	TEACH	osieru	Potential Formation	Regularly	1-nom 2-dat 3-acc V'pot
+Japanese (standard)	78	HEAR	kiku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	78	HEAR	kiku	Argument-Increasing Alternation	Never	
+Japanese (standard)	78	HEAR	kiku	Argument-Oblique Alternation	Never	
+Japanese (standard)	78	HEAR	kiku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	78	HEAR	kiku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	78	HEAR	kiku	Locative Alternation	Never	
+Japanese (standard)	78	HEAR	kiku	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	79	COOK	ryoori-suru	Argument-Decreasing Alternation	Never	
+Japanese (standard)	79	COOK	ryoori-suru	Argument-Increasing Alternation	Never	
+Japanese (standard)	79	COOK	ryoori-suru	Argument-Oblique Alternation	Never	
+Japanese (standard)	79	COOK	ryoori-suru	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	79	COOK	ryoori-suru	Direct Passivization Promoting O-marked argument	Regularly	2-nom passV'
+Japanese (standard)	79	COOK	ryoori-suru	Locative Alternation	Never	
+Japanese (standard)	79	COOK	ryoori-suru	Potential Formation	Regularly	1-nom 2-acc V'pot
+Japanese (standard)	80	BOIL	waku	Argument-Decreasing Alternation	Never	
+Japanese (standard)	80	BOIL	waku	Argument-Increasing Alternation	Regularly	4-nom 1-acc V'incr
+Japanese (standard)	80	BOIL	waku	Argument-Oblique Alternation	Never	
+Japanese (standard)	80	BOIL	waku	Direct Passivization Promoting Ni-marked Argument	Never	
+Japanese (standard)	80	BOIL	waku	Direct Passivization Promoting O-marked argument	Never	
+Japanese (standard)	80	BOIL	waku	Locative Alternation	Never	
+Japanese (standard)	80	BOIL	waku	Potential Formation	Never	

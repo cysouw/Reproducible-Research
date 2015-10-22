@@ -1,0 +1,777 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Hokkaido Japanese	1	EAT	tabe-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	1	EAT	tabe-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	1	EAT	tabe-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	1	EAT	tabe-ru	IO passive	Never	
+Hokkaido Japanese	1	EAT	tabe-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	1	EAT	tabe-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	1	EAT	tabe-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	1	EAT	tabe-ru	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	2	HUG	dakituk-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	2	HUG	dakituk-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	2	HUG	dakituk-u	DO passive	Regularly	
+Hokkaido Japanese	2	HUG	dakituk-u	IO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	2	HUG	dakituk-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	2	HUG	dakituk-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	2	HUG	dakituk-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	2	HUG	dakituk-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	3	LOOK AT	mi-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	3	LOOK AT	mi-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	3	LOOK AT	mi-ru	IO passive	Never	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	3	LOOK AT	mi-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	3	LOOK AT	mi-ru	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	4	SEE	mi-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	4	SEE	mi-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	4	SEE	mi-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	4	SEE	mi-ru	IO passive	Never	
+Hokkaido Japanese	4	SEE	mi-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	4	SEE	mi-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	4	SEE	mi-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	4	SEE	mi-ru	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	5	SMELL	kag-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	5	SMELL	kag-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	5	SMELL	kag-u	DO passive	Marginally	
+Hokkaido Japanese	5	SMELL	kag-u	IO passive	Never	
+Hokkaido Japanese	5	SMELL	kag-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	5	SMELL	kag-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	5	SMELL	kag-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	5	SMELL	kag-u	potential (property)	Never	
+Hokkaido Japanese	6	FEAR	kowagar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	6	FEAR	kowagar-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	6	FEAR	kowagar-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	6	FEAR	kowagar-u	IO passive	Never	
+Hokkaido Japanese	6	FEAR	kowagar-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	6	FEAR	kowagar-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	6	FEAR	kowagar-u	Potential (ability)	Never	
+Hokkaido Japanese	6	FEAR	kowagar-u	potential (property)	Never	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	IO passive	Never	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	7	FRIGHTEN	kowagarase-ru	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	IO passive	Never	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	Potential (ability)	Never	
+Hokkaido Japanese	8	LIKE	ki=ni ir-u	potential (property)	Never	
+Hokkaido Japanese	8	LIKE	suki=da	Anticausative with /rasar/	Never	
+Hokkaido Japanese	8	LIKE	suki=da	Causative	Never	
+Hokkaido Japanese	8	LIKE	suki=da	DO passive	Regularly	2-nom 1-dat V'pass
+Hokkaido Japanese	8	LIKE	suki=da	IO passive	Never	
+Hokkaido Japanese	8	LIKE	suki=da	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	8	LIKE	suki=da	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	8	LIKE	suki=da	Potential (ability)	Never	
+Hokkaido Japanese	8	LIKE	suki=da	potential (property)	Never	
+Hokkaido Japanese	9	KNOW	sir-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	9	KNOW	sir-u	Causative	Never	
+Hokkaido Japanese	9	KNOW	sir-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	9	KNOW	sir-u	IO passive	Never	
+Hokkaido Japanese	9	KNOW	sir-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	9	KNOW	sir-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	9	KNOW	sir-u	Potential (ability)	Never	
+Hokkaido Japanese	9	KNOW	sir-u	potential (property)	Never	
+Hokkaido Japanese	10	THINK	kangae-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	10	THINK	kangae-ru	Causative	Regularly	4-nom 1-dat 2+nituite V'caus
+Hokkaido Japanese	10	THINK	kangae-ru	DO passive	Regularly	2-nom 1-dat V'pass
+Hokkaido Japanese	10	THINK	kangae-ru	IO passive	Never	
+Hokkaido Japanese	10	THINK	kangae-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	10	THINK	kangae-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	10	THINK	kangae-ru	Potential (ability)	Regularly	1-nom 2+nituite V'pot
+Hokkaido Japanese	10	THINK	kangae-ru	potential (property)	Never	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	IO passive	Never	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	11	SEARCH FOR	sagas-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	12	WASH	ara(w)-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	12	WASH	ara(w)-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	12	WASH	ara(w)-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	12	WASH	ara(w)-u	IO passive	Never	
+Hokkaido Japanese	12	WASH	ara(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	12	WASH	ara(w)-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	12	WASH	ara(w)-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	12	WASH	ara(w)-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	13	DRESS	kise-ru	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	13	DRESS	kise-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	13	DRESS	kise-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	13	DRESS	kise-ru	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	13	DRESS	kise-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	13	DRESS	kise-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	13	DRESS	kise-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	13	DRESS	kise-ru	potential (property)	Never	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	IO passive	Never	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	14	SHAVE (a body part/person)	sor-u	potential (property)	Never	
+Hokkaido Japanese	15	HELP	tasuke-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	15	HELP	tasuke-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	15	HELP	tasuke-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	15	HELP	tasuke-ru	IO passive	Never	
+Hokkaido Japanese	15	HELP	tasuke-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	15	HELP	tasuke-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	15	HELP	tasuke-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	15	HELP	tasuke-ru	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	15	HELP	tetuda(w)-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	15	HELP	tetuda(w)-u	IO passive	Never	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	15	HELP	tetuda(w)-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	15	HELP	tetuda(w)-u	potential (property)	Never	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	16	FOLLOW	oikake-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	16	FOLLOW	oikake-ru	IO passive	Never	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	16	FOLLOW	oikake-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	16	FOLLOW	oikake-ru	potential (property)	Never	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	DO passive	Regularly	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	IO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	16	FOLLOW	tui-te ik-u	potential (property)	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	Causative	Regularly	4-nom 1-acc 2-com/dat V'caus
+Hokkaido Japanese	17	MEET	a(w)-u	DO passive	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	IO passive	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	17	MEET	a(w)-u	Potential (ability)	Regularly	1-nom 2-com/dat V'pot
+Hokkaido Japanese	17	MEET	a(w)-u	potential (property)	Never	
+Hokkaido Japanese	18	TALK	hanas-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	18	TALK	hanas-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	18	TALK	hanas-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	18	TALK	hanas-u	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	18	TALK	hanas-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	18	TALK	hanas-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	18	TALK	hanas-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	18	TALK	hanas-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	19	ASK FOR	motome-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	19	ASK FOR	motome-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	19	ASK FOR	motome-ru	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	19	ASK FOR	motome-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	19	ASK FOR	motome-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	19	ASK FOR	motome-ru	potential (property)	Never	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Anticausative with /rasar/	No data	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	20	SHOUT AT	donar-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	20	SHOUT AT	donar-u	IO passive	Never	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Lexical argument decreasing alternation	No data	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Lexical argument increasing alternation	No data	
+Hokkaido Japanese	20	SHOUT AT	donar-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	20	SHOUT AT	donar-u	potential (property)	Never	
+Hokkaido Japanese	21	TELL	hanas-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	21	TELL	hanas-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	21	TELL	hanas-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	21	TELL	hanas-u	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	21	TELL	hanas-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	21	TELL	hanas-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	21	TELL	hanas-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	21	TELL	hanas-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	22	SAY	i(w)-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	22	SAY	i(w)-u	Causative	Regularly	4-nom 1-dat 2-dat UTT3 V'caus
+Hokkaido Japanese	22	SAY	i(w)-u	DO passive	Regularly	UTT3 1-dat/niyotte 2-dat V'pass
+Hokkaido Japanese	22	SAY	i(w)-u	IO passive	Regularly	2-nom UTT3 1-dat/niyotte V'pass
+Hokkaido Japanese	22	SAY	i(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	22	SAY	i(w)-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	22	SAY	i(w)-u	Potential (ability)	Regularly	1-nom 2-dat UTT3 V'pot
+Hokkaido Japanese	22	SAY	i(w)-u	potential (property)	Never	
+Hokkaido Japanese	23	NAME	yob-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	23	NAME	yob-u	Causative	Regularly	4-nom 1-dat 2-acc 3-com V'cause
+Hokkaido Japanese	23	NAME	yob-u	DO passive	Regularly	2-nom 1-dat/niyotte 3-com V'pass
+Hokkaido Japanese	23	NAME	yob-u	IO passive	Never	
+Hokkaido Japanese	23	NAME	yob-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	23	NAME	yob-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	23	NAME	yob-u	Potential (ability)	Regularly	1-nom 2-acc 3-com V'pot
+Hokkaido Japanese	23	NAME	yob-u	potential (property)	Regularly	2-nom 3-com V'pot
+Hokkaido Japanese	24	BUILD	tate-ru	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	24	BUILD	tate-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	24	BUILD	tate-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	24	BUILD	tate-ru	IO passive	Never	
+Hokkaido Japanese	24	BUILD	tate-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	24	BUILD	tate-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	24	BUILD	tate-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	24	BUILD	tate-ru	potential (property)	Never	
+Hokkaido Japanese	25	BREAK	war-u	Anticausative with /rasar/	Regularly	2-nom 3-instr V'anticaus
+Hokkaido Japanese	25	BREAK	war-u	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	25	BREAK	war-u	DO passive	Regularly	2-nom 1-dat/niyotte 3-instr V'pass
+Hokkaido Japanese	25	BREAK	war-u	IO passive	Never	
+Hokkaido Japanese	25	BREAK	war-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	25	BREAK	war-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	25	BREAK	war-u	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	25	BREAK	war-u	potential (property)	Regularly	2-nom 3-instr V'pot
+Hokkaido Japanese	26	KILL	koros-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	26	KILL	koros-u	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	26	KILL	koros-u	DO passive	Regularly	2-nom 1-dat/niyotte 3-instr V'pass
+Hokkaido Japanese	26	KILL	koros-u	IO passive	Never	
+Hokkaido Japanese	26	KILL	koros-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	26	KILL	koros-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	26	KILL	koros-u	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	26	KILL	koros-u	potential (property)	Never	
+Hokkaido Japanese	27	BEAT	tatak-u	Anticausative with /rasar/	Regularly	2-nom 3-instr V'anticaus
+Hokkaido Japanese	27	BEAT	tatak-u	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	27	BEAT	tatak-u	DO passive	Regularly	2-nom 1-dat/niyotte 3-instr V'pass
+Hokkaido Japanese	27	BEAT	tatak-u	IO passive	Never	
+Hokkaido Japanese	27	BEAT	tatak-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	27	BEAT	tatak-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	27	BEAT	tatak-u	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	27	BEAT	tatak-u	potential (property)	Regularly	2-nom 3-instr V'pot
+Hokkaido Japanese	28	HIT	tatak-u	Anticausative with /rasar/	Regularly	2-nom 3-instr V'anticaus
+Hokkaido Japanese	28	HIT	tatak-u	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	28	HIT	tatak-u	DO passive	Regularly	2-nom 1-dat/niyotte 3-instr V'pass
+Hokkaido Japanese	28	HIT	tatak-u	IO passive	Never	
+Hokkaido Japanese	28	HIT	tatak-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	28	HIT	tatak-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	28	HIT	tatak-u	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	28	HIT	tatak-u	potential (property)	Regularly	2-nom 3-instr V'pot
+Hokkaido Japanese	29	TOUCH	sawar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	29	TOUCH	sawar-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	29	TOUCH	sawar-u	DO passive	Regularly	
+Hokkaido Japanese	29	TOUCH	sawar-u	IO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	29	TOUCH	sawar-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	29	TOUCH	sawar-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	29	TOUCH	sawar-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	29	TOUCH	sawar-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	30	CUT	kir-u	Anticausative with /rasar/	Regularly	2-nom 3-instr V'anticaus
+Hokkaido Japanese	30	CUT	kir-u	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	30	CUT	kir-u	DO passive	Never	
+Hokkaido Japanese	30	CUT	kir-u	IO passive	Never	
+Hokkaido Japanese	30	CUT	kir-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	30	CUT	kir-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	30	CUT	kir-u	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	30	CUT	kir-u	potential (property)	Regularly	2-nom 3-instr V'pot
+Hokkaido Japanese	31	TAKE	mog-u	Anticausative with /rasar/	Regularly	3-nom 2-abl V'anticaus
+Hokkaido Japanese	31	TAKE	mog-u	Causative	Regularly	4-nom 1-dat 2-abl 3-acc V'caus
+Hokkaido Japanese	31	TAKE	mog-u	DO passive	Regularly	3-nom 2-abl 1-dat/niyotte V'pass
+Hokkaido Japanese	31	TAKE	mog-u	IO passive	Never	
+Hokkaido Japanese	31	TAKE	mog-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	31	TAKE	mog-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	31	TAKE	mog-u	Potential (ability)	Regularly	1-nom 2-abl 3-acc V'pot
+Hokkaido Japanese	31	TAKE	mog-u	potential (property)	Regularly	3-nom V'pot
+Hokkaido Japanese	31	TAKE	tor-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	31	TAKE	tor-u	Causative	Regularly	4-nom 1-dat 2-abl 3-acc V'caus
+Hokkaido Japanese	31	TAKE	tor-u	DO passive	Regularly	3-nom 2-abl 1-dat/niyotte V'pass
+Hokkaido Japanese	31	TAKE	tor-u	IO passive	Regularly	2-nom 1-abl 3-acc V'pass
+Hokkaido Japanese	31	TAKE	tor-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	31	TAKE	tor-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	31	TAKE	tor-u	Potential (ability)	Regularly	1-nom 2-abl 3-acc V'pot
+Hokkaido Japanese	31	TAKE	tor-u	potential (property)	Never	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Anticausative with /rasar/	Regularly	3-nom 2-abl V'anticaus
+Hokkaido Japanese	32	TEAR	hikitigir-u	Causative	Regularly	4-nom 1-dat 2-abl 3-acc V'caus
+Hokkaido Japanese	32	TEAR	hikitigir-u	DO passive	Regularly	3-nom 2-abl 1-dat/niyotte V'pass
+Hokkaido Japanese	32	TEAR	hikitigir-u	IO passive	Never	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	32	TEAR	hikitigir-u	Potential (ability)	Regularly	1-nom 2-abl 3-acc V'pot
+Hokkaido Japanese	32	TEAR	hikitigir-u	potential (property)	Regularly	3-nom V'pot
+Hokkaido Japanese	33	PEEL	muk-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	33	PEEL	muk-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	33	PEEL	muk-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	33	PEEL	muk-u	IO passive	Never	
+Hokkaido Japanese	33	PEEL	muk-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	33	PEEL	muk-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	33	PEEL	muk-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	33	PEEL	muk-u	potential (property)	Never	
+Hokkaido Japanese	34	HIDE	kakus-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	34	HIDE	kakus-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	34	HIDE	kakus-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	34	HIDE	kakus-u	IO passive	Never	
+Hokkaido Japanese	34	HIDE	kakus-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	34	HIDE	kakus-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	34	HIDE	kakus-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	34	HIDE	kakus-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	35	SHOW	mise-ru	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	35	SHOW	mise-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	35	SHOW	mise-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	35	SHOW	mise-ru	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	35	SHOW	mise-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	35	SHOW	mise-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	35	SHOW	mise-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	35	SHOW	mise-ru	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	36	GIVE	kure-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	Causative	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	DO passive	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	IO passive	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	Potential (ability)	Never	
+Hokkaido Japanese	36	GIVE	kure-ru	potential (property)	Never	
+Hokkaido Japanese	36	GIVE	yar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	36	GIVE	yar-u	Causative	Never	
+Hokkaido Japanese	36	GIVE	yar-u	DO passive	Never	
+Hokkaido Japanese	36	GIVE	yar-u	IO passive	Never	
+Hokkaido Japanese	36	GIVE	yar-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	36	GIVE	yar-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	36	GIVE	yar-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	36	GIVE	yar-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	37	SEND	okur-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	37	SEND	okur-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	37	SEND	okur-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	37	SEND	okur-u	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	37	SEND	okur-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	37	SEND	okur-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	37	SEND	okur-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	37	SEND	okur-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	38	CARRY	hakob-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	38	CARRY	hakob-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	38	CARRY	hakob-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	38	CARRY	hakob-u	IO passive	Never	
+Hokkaido Japanese	38	CARRY	hakob-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	38	CARRY	hakob-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	38	CARRY	hakob-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	38	CARRY	hakob-u	potential (property)	Never	
+Hokkaido Japanese	39	THROW	nage-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	39	THROW	nage-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	39	THROW	nage-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	39	THROW	nage-ru	IO passive	Never	
+Hokkaido Japanese	39	THROW	nage-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	39	THROW	nage-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	39	THROW	nage-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	39	THROW	nage-ru	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	40	TIE	tunag-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	40	TIE	tunag-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	40	TIE	tunag-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	40	TIE	tunag-u	IO passive	Never	
+Hokkaido Japanese	40	TIE	tunag-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	40	TIE	tunag-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	40	TIE	tunag-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	40	TIE	tunag-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	41	PUT	ok-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	41	PUT	ok-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	41	PUT	ok-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	41	PUT	ok-u	IO passive	Never	
+Hokkaido Japanese	41	PUT	ok-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	41	PUT	ok-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	41	PUT	ok-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	41	PUT	ok-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	42	POUR	tug-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	42	POUR	tug-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	42	POUR	tug-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	42	POUR	tug-u	IO passive	Never	
+Hokkaido Japanese	42	POUR	tug-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	42	POUR	tug-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	42	POUR	tug-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	42	POUR	tug-u	potential (property)	Never	
+Hokkaido Japanese	43	COVER	kake-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	43	COVER	kake-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	43	COVER	kake-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	43	COVER	kake-ru	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	43	COVER	kake-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	43	COVER	kake-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	43	COVER	kake-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	43	COVER	kake-ru	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	44	FILL	mitas-u (1)	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	44	FILL	mitas-u (1)	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	44	FILL	mitas-u (1)	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	44	FILL	mitas-u (1)	IO passive	Never	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	44	FILL	mitas-u (1)	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	44	FILL	mitas-u (1)	potential (property)	Never	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Anticausative with /rasar/	Regularly	2-nom 3-instr V'anticaus
+Hokkaido Japanese	44	FILL	mitas-u (2)	Causative	Regularly	4-nom 1-dat 2-acc 3-instr V'caus
+Hokkaido Japanese	44	FILL	mitas-u (2)	DO passive	Regularly	2-nom 1-dat/niyotte 3-instr V'pass
+Hokkaido Japanese	44	FILL	mitas-u (2)	IO passive	Never	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	44	FILL	mitas-u (2)	Potential (ability)	Regularly	1-nom 2-acc (3-instr) V'pot
+Hokkaido Japanese	44	FILL	mitas-u (2)	potential (property)	Never	
+Hokkaido Japanese	45	LOAD	tum-u	Anticausative with /rasar/	Regularly	3-nom 2-dat V'anticaus
+Hokkaido Japanese	45	LOAD	tum-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	45	LOAD	tum-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	45	LOAD	tum-u	IO passive	Never	
+Hokkaido Japanese	45	LOAD	tum-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	45	LOAD	tum-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	45	LOAD	tum-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	45	LOAD	tum-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Causative	Marginally	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	DO passive	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	IO passive	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	Potential (ability)	Never	
+Hokkaido Japanese	46	BLINK	mabataki=o su-ru	potential (property)	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Causative	Marginally	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	DO passive	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	IO passive	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	Potential (ability)	Never	
+Hokkaido Japanese	47	COUGH	seki=o su-ru	potential (property)	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	48	CLIMB	nobor-u	DO passive	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	IO passive	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	48	CLIMB	nobor-u	potential (property)	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Anticausative with /rasar/	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	DO passive	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	IO passive	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	48	CLIMB	nobor-u (2)	potential (property)	Never	
+Hokkaido Japanese	49	RUN	hasir-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	49	RUN	hasir-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	49	RUN	hasir-u	DO passive	Never	
+Hokkaido Japanese	49	RUN	hasir-u	IO passive	Never	
+Hokkaido Japanese	49	RUN	hasir-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	49	RUN	hasir-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	49	RUN	hasir-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	49	RUN	hasir-u	potential (property)	Never	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Anticausative with /rasar/	No data	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	DO passive	Never	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	IO passive	Never	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	51	SIT DOWN	kosikake-ru	potential (property)	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	51	SIT DOWN	suwar-u	DO passive	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	IO passive	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	51	SIT DOWN	suwar-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	51	SIT DOWN	suwar-u	potential (property)	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	52	JUMP	hane-ru	DO passive	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	IO passive	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	52	JUMP	hane-ru	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	52	JUMP	hane-ru	potential (property)	Never	
+Hokkaido Japanese	53	SING	uta(w)-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	53	SING	uta(w)-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	53	SING	uta(w)-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	53	SING	uta(w)-u	IO passive	Never	
+Hokkaido Japanese	53	SING	uta(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	53	SING	uta(w)-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	53	SING	uta(w)-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	53	SING	uta(w)-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	54	GO	ik-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	54	GO	ik-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	54	GO	ik-u	DO passive	Never	
+Hokkaido Japanese	54	GO	ik-u	IO passive	Never	
+Hokkaido Japanese	54	GO	ik-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	54	GO	ik-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	54	GO	ik-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	54	GO	ik-u	potential (property)	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	55	LEAVE	de-te ik-u	DO passive	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	IO passive	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	55	LEAVE	de-te ik-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	55	LEAVE	de-te ik-u	potential (property)	Never	
+Hokkaido Japanese	56	LIVE	sum-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	56	LIVE	sum-u	Causative	Regularly	4-nom 1-acc 2-dat V'caus
+Hokkaido Japanese	56	LIVE	sum-u	DO passive	Never	
+Hokkaido Japanese	56	LIVE	sum-u	IO passive	Never	
+Hokkaido Japanese	56	LIVE	sum-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	56	LIVE	sum-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	56	LIVE	sum-u	Potential (ability)	Regularly	1-nom 2-dat V'pot
+Hokkaido Japanese	56	LIVE	sum-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	57	LAUGH	wara(w)-u	DO passive	Regularly	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	IO passive	Never	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	57	LAUGH	wara(w)-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	57	LAUGH	wara(w)-u	potential (property)	Regularly	1-nom V'pot
+Hokkaido Japanese	58	SCREAM	sakeb-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	58	SCREAM	sakeb-u	DO passive	Never	
+Hokkaido Japanese	58	SCREAM	sakeb-u	IO passive	Never	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	58	SCREAM	sakeb-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	58	SCREAM	sakeb-u	potential (property)	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Causative	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	DO passive	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	IO passive	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	Potential (ability)	Never	
+Hokkaido Japanese	59	FEEL PAIN	ita-i/itam-u	potential (property)	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	60	FEEL COLD	samugar-u	DO passive	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	IO passive	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	Potential (ability)	Never	
+Hokkaido Japanese	60	FEEL COLD	samugar-u	potential (property)	Never	
+Hokkaido Japanese	61	DIE	sin-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	61	DIE	sin-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	61	DIE	sin-u	DO passive	Never	
+Hokkaido Japanese	61	DIE	sin-u	IO passive	Never	
+Hokkaido Japanese	61	DIE	sin-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	61	DIE	sin-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	61	DIE	sin-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	61	DIE	sin-u	potential (property)	Never	
+Hokkaido Japanese	62	PLAY	asob-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	62	PLAY	asob-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	62	PLAY	asob-u	DO passive	Never	
+Hokkaido Japanese	62	PLAY	asob-u	IO passive	Never	
+Hokkaido Japanese	62	PLAY	asob-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	62	PLAY	asob-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	62	PLAY	asob-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	62	PLAY	asob-u	potential (property)	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Anticausative with /rasar/	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Causative	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	DO passive	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	IO passive	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	Potential (ability)	Never	
+Hokkaido Japanese	63	BE SAD	kanasi-i	potential (property)	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Causative	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	DO passive	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	IO passive	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	Potential (ability)	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=ga her-u	potential (property)	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Causative	No data	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	DO passive	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	IO passive	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	Potential (ability)	Never	
+Hokkaido Japanese	64	BE HUNGRY	onaka=o sukase-ru	potential (property)	Never	
+Hokkaido Japanese	65	ROLL	korogar-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	65	ROLL	korogar-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	65	ROLL	korogar-u	DO passive	Regularly	
+Hokkaido Japanese	65	ROLL	korogar-u	IO passive	Never	
+Hokkaido Japanese	65	ROLL	korogar-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	65	ROLL	korogar-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	65	ROLL	korogar-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	65	ROLL	korogar-u	potential (property)	Regularly	1-nom V'pot
+Hokkaido Japanese	66	SINK	sizum-u	Anticausative with /rasar/	Regularly	1-nom V'anticaus
+Hokkaido Japanese	66	SINK	sizum-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	66	SINK	sizum-u	DO passive	Never	
+Hokkaido Japanese	66	SINK	sizum-u	IO passive	Never	
+Hokkaido Japanese	66	SINK	sizum-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	66	SINK	sizum-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	66	SINK	sizum-u	Potential (ability)	Never	
+Hokkaido Japanese	66	SINK	sizum-u	potential (property)	Never	
+Hokkaido Japanese	67	BURN	moe-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	67	BURN	moe-ru	Causative	Never	
+Hokkaido Japanese	67	BURN	moe-ru	DO passive	Never	
+Hokkaido Japanese	67	BURN	moe-ru	IO passive	Never	
+Hokkaido Japanese	67	BURN	moe-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	67	BURN	moe-ru	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	67	BURN	moe-ru	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	67	BURN	moe-ru	potential (property)	Never	
+Hokkaido Japanese	67	BURN	yake-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	67	BURN	yake-ru	Causative	Never	
+Hokkaido Japanese	67	BURN	yake-ru	DO passive	Never	
+Hokkaido Japanese	67	BURN	yake-ru	IO passive	Never	
+Hokkaido Japanese	67	BURN	yake-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	67	BURN	yake-ru	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	67	BURN	yake-ru	Potential (ability)	Never	
+Hokkaido Japanese	67	BURN	yake-ru	potential (property)	Never	
+Hokkaido Japanese	68	BE DRY	kawak-u	Anticausative with /rasar/	Regularly	1-nom V'anticaus
+Hokkaido Japanese	68	BE DRY	kawak-u	Causative	Marginally	
+Hokkaido Japanese	68	BE DRY	kawak-u	DO passive	Regularly	
+Hokkaido Japanese	68	BE DRY	kawak-u	IO passive	Never	
+Hokkaido Japanese	68	BE DRY	kawak-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	68	BE DRY	kawak-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	68	BE DRY	kawak-u	Potential (ability)	Regularly	1-nom V'pot
+Hokkaido Japanese	68	BE DRY	kawak-u	potential (property)	Regularly	1-nom V'pot
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Causative	Regularly	4-nom 1-acc V'caus
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	DO passive	Never	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	IO passive	Never	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	Potential (ability)	No data	
+Hokkaido Japanese	69	RAIN	ame=ga hur-u	potential (property)	No data	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Anticausative with /rasar/	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Causative	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	DO passive	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	IO passive	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	Potential (ability)	Never	
+Hokkaido Japanese	70	BE A HUNTER	karyu:do=da	potential (property)	Never	
+Hokkaido Japanese	71	GRIND	sur-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	71	GRIND	sur-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	71	GRIND	sur-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	71	GRIND	sur-u	IO passive	Never	
+Hokkaido Japanese	71	GRIND	sur-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	71	GRIND	sur-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	71	GRIND	sur-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	71	GRIND	sur-u	potential (property)	Never	
+Hokkaido Japanese	72	WIPE	huk-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	72	WIPE	huk-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	72	WIPE	huk-u	DO passive	Marginally	
+Hokkaido Japanese	72	WIPE	huk-u	IO passive	Never	
+Hokkaido Japanese	72	WIPE	huk-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	72	WIPE	huk-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	72	WIPE	huk-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	72	WIPE	huk-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	72	WIPE	huk-u (2)	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	72	WIPE	huk-u (2)	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	72	WIPE	huk-u (2)	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	72	WIPE	huk-u (2)	IO passive	Never	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	72	WIPE	huk-u (2)	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	72	WIPE	huk-u (2)	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	73	DIG	hor-u (1)	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	73	DIG	hor-u (1)	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	73	DIG	hor-u (1)	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	73	DIG	hor-u (1)	IO passive	Never	
+Hokkaido Japanese	73	DIG	hor-u (1)	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	73	DIG	hor-u (1)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	73	DIG	hor-u (1)	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	73	DIG	hor-u (1)	potential (property)	Never	
+Hokkaido Japanese	73	DIG	hor-u (2)	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	73	DIG	hor-u (2)	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	73	DIG	hor-u (2)	DO passive	Never	
+Hokkaido Japanese	73	DIG	hor-u (2)	IO passive	Never	
+Hokkaido Japanese	73	DIG	hor-u (2)	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	73	DIG	hor-u (2)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	73	DIG	hor-u (2)	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	73	DIG	hor-u (2)	potential (property)	Never	
+Hokkaido Japanese	74	PUSH	os-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	74	PUSH	os-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	74	PUSH	os-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	74	PUSH	os-u	IO passive	Never	
+Hokkaido Japanese	74	PUSH	os-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	74	PUSH	os-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	74	PUSH	os-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	74	PUSH	os-u	potential (property)	Never	
+Hokkaido Japanese	74	PUSH	os-u (2)	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	74	PUSH	os-u (2)	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	74	PUSH	os-u (2)	DO passive	Marginally	
+Hokkaido Japanese	74	PUSH	os-u (2)	IO passive	Regularly	
+Hokkaido Japanese	74	PUSH	os-u (2)	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	74	PUSH	os-u (2)	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	74	PUSH	os-u (2)	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	74	PUSH	os-u (2)	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	75	BRING	motteik-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	75	BRING	motteik-u	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	75	BRING	motteik-u	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	75	BRING	motteik-u	IO passive	Never	
+Hokkaido Japanese	75	BRING	motteik-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	75	BRING	motteik-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	75	BRING	motteik-u	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	75	BRING	motteik-u	potential (property)	Regularly	3-nom 2-dat V'pot
+Hokkaido Japanese	76	STEAL	nusum-u	Anticausative with /rasar/	Marginally	
+Hokkaido Japanese	76	STEAL	nusum-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	76	STEAL	nusum-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	76	STEAL	nusum-u	IO passive	Never	
+Hokkaido Japanese	76	STEAL	nusum-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	76	STEAL	nusum-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	76	STEAL	nusum-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	76	STEAL	nusum-u	potential (property)	Never	
+Hokkaido Japanese	77	TEACH	osie-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	77	TEACH	osie-ru	Causative	Regularly	4-nom 1-dat 2-dat 3-acc V'caus
+Hokkaido Japanese	77	TEACH	osie-ru	DO passive	Regularly	3-nom 1-niyotte 2-dat V'pass
+Hokkaido Japanese	77	TEACH	osie-ru	IO passive	Regularly	2-nom 3-acc 1-dat/niyotte V'pass
+Hokkaido Japanese	77	TEACH	osie-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	77	TEACH	osie-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	77	TEACH	osie-ru	Potential (ability)	Regularly	1-nom 2-dat 3-acc V'pot
+Hokkaido Japanese	77	TEACH	osie-ru	potential (property)	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Causative	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	DO passive	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	IO passive	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	78	HEAR	kikoe-ru	Potential (ability)	Never	
+Hokkaido Japanese	78	HEAR	kikoe-ru	potential (property)	Never	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Anticausative with /rasar/	Never	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	IO passive	Never	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	79	COOK	ryo:ri su-ru	potential (property)	Never	
+Hokkaido Japanese	80	BOIL	wak-u	Anticausative with /rasar/	Regularly	1-nom V'anticaus
+Hokkaido Japanese	80	BOIL	wak-u	Causative	Never	
+Hokkaido Japanese	80	BOIL	wak-u	DO passive	Never	
+Hokkaido Japanese	80	BOIL	wak-u	IO passive	Never	
+Hokkaido Japanese	80	BOIL	wak-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	80	BOIL	wak-u	Lexical argument increasing alternation	Regularly	
+Hokkaido Japanese	80	BOIL	wak-u	Potential (ability)	Never	
+Hokkaido Japanese	80	BOIL	wak-u	potential (property)	Never	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	116	BURN (tr)	yak-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	116	BURN (tr)	yak-u	DO passive	Marginally	
+Hokkaido Japanese	116	BURN (tr)	yak-u	IO passive	Never	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	116	BURN (tr)	yak-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	116	BURN (tr)	yak-u	potential (property)	Regularly	2-nom V'pot
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	IO passive	Never	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	125	SINK (tr)	sizume-ru	potential (property)	Never	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	DO passive	Never	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	IO passive	Never	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	126	BOIL (tr)	wakas-u	potential (property)	Never	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Anticausative with /rasar/	Regularly	2-nom V'anticaus
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Causative	Regularly	4-nom 1-dat 2-acc V'cause
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	IO passive	Never	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Lexical argument decreasing alternation	Regularly	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	Potential (ability)	Regularly	1-nom 2-acc V'pot
+Hokkaido Japanese	128	ROLL (tr)	korogas-u	potential (property)	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Anticausative with /rasar/	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Causative	Marginally	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	DO passive	Regularly	2-nom 1-dat/niyotte V'pass
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	IO passive	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Lexical argument decreasing alternation	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Lexical argument increasing alternation	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	Potential (ability)	Never	
+Hokkaido Japanese	142	BE SAD ABOUT	kanasim-u	potential (property)	Never	

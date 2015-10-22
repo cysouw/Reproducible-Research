@@ -1,0 +1,561 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Balinese	1	EAT	ngajeng	Causative with instrument causee	Never	
+Balinese	1	EAT	ngajeng	Causative with Theme causee	Never	
+Balinese	1	EAT	ngajeng	Locative alternation (argument adding)	Never	
+Balinese	1	EAT	ngajeng	Locative alternation (argument rearanging)	Never	
+Balinese	1	EAT	ngajeng	Locative alternation (oblique to object)	Never	
+Balinese	1	EAT	ngajeng	Passive -a alternation	Regularly	
+Balinese	1	EAT	ngajeng	Passive ka- alternation	Regularly	
+Balinese	1	EAT	ngajeng	Resultative ma- alternation	Regularly	
+Balinese	2	HUG	ngelut	Causative with instrument causee	No data	
+Balinese	2	HUG	ngelut	Causative with Theme causee	Regularly	
+Balinese	2	HUG	ngelut	Locative alternation (argument adding)	Never	
+Balinese	2	HUG	ngelut	Locative alternation (argument rearanging)	Never	
+Balinese	2	HUG	ngelut	Locative alternation (oblique to object)	Never	
+Balinese	2	HUG	ngelut	Passive -a alternation	Regularly	
+Balinese	2	HUG	ngelut	Passive ka- alternation	Regularly	
+Balinese	2	HUG	ngelut	Resultative ma- alternation	Regularly	
+Balinese	3	LOOK AT	nlektekang	Causative with instrument causee	Never	
+Balinese	3	LOOK AT	nlektekang	Causative with Theme causee	Never	
+Balinese	3	LOOK AT	nlektekang	Locative alternation (argument adding)	Never	
+Balinese	3	LOOK AT	nlektekang	Locative alternation (argument rearanging)	Never	
+Balinese	3	LOOK AT	nlektekang	Locative alternation (oblique to object)	Never	
+Balinese	3	LOOK AT	nlektekang	Passive -a alternation	Regularly	
+Balinese	3	LOOK AT	nlektekang	Passive ka- alternation	Regularly	
+Balinese	3	LOOK AT	nlektekang	Resultative ma- alternation	Never	
+Balinese	4	SEE	nepukin	Causative with instrument causee	Never	
+Balinese	4	SEE	nepukin	Causative with Theme causee	Never	
+Balinese	4	SEE	nepukin	Locative alternation (argument adding)	Never	
+Balinese	4	SEE	nepukin	Locative alternation (argument rearanging)	Never	
+Balinese	4	SEE	nepukin	Locative alternation (oblique to object)	Never	
+Balinese	4	SEE	nepukin	Passive -a alternation	Regularly	
+Balinese	4	SEE	nepukin	Passive ka- alternation	Regularly	
+Balinese	4	SEE	nepukin	Resultative ma- alternation	Never	
+Balinese	5	SMELL	ngadekin	Causative with instrument causee	Never	
+Balinese	5	SMELL	ngadekin	Causative with Theme causee	Never	
+Balinese	5	SMELL	ngadekin	Locative alternation (argument adding)	Never	
+Balinese	5	SMELL	ngadekin	Locative alternation (argument rearanging)	Never	
+Balinese	5	SMELL	ngadekin	Locative alternation (oblique to object)	Never	
+Balinese	5	SMELL	ngadekin	Passive -a alternation	Regularly	
+Balinese	5	SMELL	ngadekin	Passive ka- alternation	Regularly	
+Balinese	5	SMELL	ngadekin	Resultative ma- alternation	Never	
+Balinese	6	FEAR	nakutin	Causative with instrument causee	Never	
+Balinese	6	FEAR	nakutin	Causative with Theme causee	Never	
+Balinese	6	FEAR	nakutin	Locative alternation (argument adding)	Never	
+Balinese	6	FEAR	nakutin	Locative alternation (argument rearanging)	Never	
+Balinese	6	FEAR	nakutin	Locative alternation (oblique to object)	Never	
+Balinese	6	FEAR	nakutin	Passive -a alternation	Regularly	
+Balinese	6	FEAR	nakutin	Passive ka- alternation	Regularly	
+Balinese	6	FEAR	nakutin	Resultative ma- alternation	Never	
+Balinese	7	FRIGHTEN	nakutin	Causative with instrument causee	Never	
+Balinese	7	FRIGHTEN	nakutin	Causative with Theme causee	Never	
+Balinese	7	FRIGHTEN	nakutin	Locative alternation (argument adding)	Never	
+Balinese	7	FRIGHTEN	nakutin	Locative alternation (argument rearanging)	Never	
+Balinese	7	FRIGHTEN	nakutin	Locative alternation (oblique to object)	Never	
+Balinese	7	FRIGHTEN	nakutin	Passive -a alternation	Regularly	
+Balinese	7	FRIGHTEN	nakutin	Passive ka- alternation	Regularly	
+Balinese	7	FRIGHTEN	nakutin	Resultative ma- alternation	Never	
+Balinese	8	LIKE	nemenin	Causative with instrument causee	Never	
+Balinese	8	LIKE	nemenin	Causative with Theme causee	Never	
+Balinese	8	LIKE	nemenin	Locative alternation (argument adding)	Never	
+Balinese	8	LIKE	nemenin	Locative alternation (argument rearanging)	Never	
+Balinese	8	LIKE	nemenin	Locative alternation (oblique to object)	Never	
+Balinese	8	LIKE	nemenin	Passive -a alternation	Regularly	
+Balinese	8	LIKE	nemenin	Passive ka- alternation	Regularly	
+Balinese	8	LIKE	nemenin	Resultative ma- alternation	Never	
+Balinese	9	KNOW	nawang	Causative with instrument causee	Never	
+Balinese	9	KNOW	nawang	Causative with Theme causee	Never	
+Balinese	9	KNOW	nawang	Locative alternation (argument adding)	Never	
+Balinese	9	KNOW	nawang	Locative alternation (argument rearanging)	Never	
+Balinese	9	KNOW	nawang	Locative alternation (oblique to object)	Never	
+Balinese	9	KNOW	nawang	Passive -a alternation	Regularly	
+Balinese	9	KNOW	nawang	Passive ka- alternation	Regularly	
+Balinese	9	KNOW	nawang	Resultative ma- alternation	Never	
+Balinese	10	THINK	ngenehang	Causative with instrument causee	Never	
+Balinese	10	THINK	ngenehang	Causative with Theme causee	Never	
+Balinese	10	THINK	ngenehang	Locative alternation (argument adding)	Never	
+Balinese	10	THINK	ngenehang	Locative alternation (argument rearanging)	Never	
+Balinese	10	THINK	ngenehang	Locative alternation (oblique to object)	Never	
+Balinese	10	THINK	ngenehang	Passive -a alternation	Regularly	
+Balinese	10	THINK	ngenehang	Passive ka- alternation	Regularly	
+Balinese	10	THINK	ngenehang	Resultative ma- alternation	Never	
+Balinese	11	SEARCH FOR	ngalihin	Causative with instrument causee	Never	
+Balinese	11	SEARCH FOR	ngalihin	Causative with Theme causee	Never	
+Balinese	11	SEARCH FOR	ngalihin	Locative alternation (argument adding)	Never	
+Balinese	11	SEARCH FOR	ngalihin	Locative alternation (argument rearanging)	Never	
+Balinese	11	SEARCH FOR	ngalihin	Locative alternation (oblique to object)	Never	
+Balinese	11	SEARCH FOR	ngalihin	Passive -a alternation	Regularly	
+Balinese	11	SEARCH FOR	ngalihin	Passive ka- alternation	Regularly	
+Balinese	11	SEARCH FOR	ngalihin	Resultative ma- alternation	Never	
+Balinese	12	WASH	ngayehang	Causative with instrument causee	Never	
+Balinese	12	WASH	ngayehang	Causative with Theme causee	Never	
+Balinese	12	WASH	ngayehang	Locative alternation (argument adding)	Never	
+Balinese	12	WASH	ngayehang	Locative alternation (argument rearanging)	Never	
+Balinese	12	WASH	ngayehang	Locative alternation (oblique to object)	Never	
+Balinese	12	WASH	ngayehang	Passive -a alternation	Regularly	
+Balinese	12	WASH	ngayehang	Passive ka- alternation	Regularly	
+Balinese	12	WASH	ngayehang	Resultative ma- alternation	Regularly	
+Balinese	13	DRESS	majunin	Causative with instrument causee	Never	
+Balinese	13	DRESS	majunin	Causative with Theme causee	Never	
+Balinese	13	DRESS	majunin	Locative alternation (argument adding)	Never	
+Balinese	13	DRESS	majunin	Locative alternation (argument rearanging)	Never	
+Balinese	13	DRESS	majunin	Locative alternation (oblique to object)	Never	
+Balinese	13	DRESS	majunin	Passive -a alternation	Regularly	
+Balinese	13	DRESS	majunin	Passive ka- alternation	Regularly	
+Balinese	13	DRESS	majunin	Resultative ma- alternation	Regularly	
+Balinese	14	SHAVE (a body part/person)	nguris	Causative with instrument causee	Never	
+Balinese	14	SHAVE (a body part/person)	nguris	Causative with Theme causee	Never	
+Balinese	14	SHAVE (a body part/person)	nguris	Locative alternation (argument adding)	Never	
+Balinese	14	SHAVE (a body part/person)	nguris	Locative alternation (argument rearanging)	Never	
+Balinese	14	SHAVE (a body part/person)	nguris	Locative alternation (oblique to object)	Never	
+Balinese	14	SHAVE (a body part/person)	nguris	Passive -a alternation	Regularly	
+Balinese	14	SHAVE (a body part/person)	nguris	Passive ka- alternation	Regularly	
+Balinese	14	SHAVE (a body part/person)	nguris	Resultative ma- alternation	Regularly	
+Balinese	15	HELP	nulungin	Causative with instrument causee	Never	
+Balinese	15	HELP	nulungin	Causative with Theme causee	Never	
+Balinese	15	HELP	nulungin	Locative alternation (argument adding)	Never	
+Balinese	15	HELP	nulungin	Locative alternation (argument rearanging)	Never	
+Balinese	15	HELP	nulungin	Locative alternation (oblique to object)	Never	
+Balinese	15	HELP	nulungin	Passive -a alternation	Regularly	
+Balinese	15	HELP	nulungin	Passive ka- alternation	Regularly	
+Balinese	15	HELP	nulungin	Resultative ma- alternation	Never	
+Balinese	16	FOLLOW	ngikutin	Causative with instrument causee	Never	
+Balinese	16	FOLLOW	ngikutin	Causative with Theme causee	Never	
+Balinese	16	FOLLOW	ngikutin	Locative alternation (argument adding)	Never	
+Balinese	16	FOLLOW	ngikutin	Locative alternation (argument rearanging)	Never	
+Balinese	16	FOLLOW	ngikutin	Locative alternation (oblique to object)	Never	
+Balinese	16	FOLLOW	ngikutin	Passive -a alternation	Regularly	
+Balinese	16	FOLLOW	ngikutin	Passive ka- alternation	Regularly	
+Balinese	16	FOLLOW	ngikutin	Resultative ma- alternation	Never	
+Balinese	17	MEET	matemu	Causative with instrument causee	Never	
+Balinese	17	MEET	matemu	Causative with Theme causee	Never	
+Balinese	17	MEET	matemu	Locative alternation (argument adding)	Never	
+Balinese	17	MEET	matemu	Locative alternation (argument rearanging)	Never	
+Balinese	17	MEET	matemu	Locative alternation (oblique to object)	Never	
+Balinese	17	MEET	matemu	Passive -a alternation	Never	
+Balinese	17	MEET	matemu	Passive ka- alternation	Never	
+Balinese	17	MEET	matemu	Resultative ma- alternation	Never	
+Balinese	18	TALK	ngomongin	Causative with instrument causee	Never	
+Balinese	18	TALK	ngomongin	Causative with Theme causee	Never	
+Balinese	18	TALK	ngomongin	Locative alternation (argument adding)	Never	
+Balinese	18	TALK	ngomongin	Locative alternation (argument rearanging)	Never	
+Balinese	18	TALK	ngomongin	Locative alternation (oblique to object)	Never	
+Balinese	18	TALK	ngomongin	Passive -a alternation	Regularly	
+Balinese	18	TALK	ngomongin	Passive ka- alternation	Regularly	
+Balinese	18	TALK	ngomongin	Resultative ma- alternation	Never	
+Balinese	19	ASK FOR	nagihin	Causative with instrument causee	Never	
+Balinese	19	ASK FOR	nagihin	Causative with Theme causee	Never	
+Balinese	19	ASK FOR	nagihin	Locative alternation (argument adding)	Never	
+Balinese	19	ASK FOR	nagihin	Locative alternation (argument rearanging)	Never	
+Balinese	19	ASK FOR	nagihin	Locative alternation (oblique to object)	Never	
+Balinese	19	ASK FOR	nagihin	Passive -a alternation	Regularly	
+Balinese	19	ASK FOR	nagihin	Passive ka- alternation	Regularly	
+Balinese	19	ASK FOR	nagihin	Resultative ma- alternation	Never	
+Balinese	20	SHOUT AT	ngerakin	Causative with instrument causee	Never	
+Balinese	20	SHOUT AT	ngerakin	Causative with Theme causee	Never	
+Balinese	20	SHOUT AT	ngerakin	Locative alternation (argument adding)	Never	
+Balinese	20	SHOUT AT	ngerakin	Locative alternation (argument rearanging)	Never	
+Balinese	20	SHOUT AT	ngerakin	Locative alternation (oblique to object)	Never	
+Balinese	20	SHOUT AT	ngerakin	Passive -a alternation	Regularly	
+Balinese	20	SHOUT AT	ngerakin	Passive ka- alternation	Regularly	
+Balinese	20	SHOUT AT	ngerakin	Resultative ma- alternation	Never	
+Balinese	21	TELL	ngorahin	Causative with instrument causee	Never	
+Balinese	21	TELL	ngorahin	Causative with Theme causee	Never	
+Balinese	21	TELL	ngorahin	Locative alternation (argument adding)	Never	
+Balinese	21	TELL	ngorahin	Locative alternation (argument rearanging)	Never	
+Balinese	21	TELL	ngorahin	Locative alternation (oblique to object)	Never	
+Balinese	21	TELL	ngorahin	Passive -a alternation	Regularly	
+Balinese	21	TELL	ngorahin	Passive ka- alternation	Regularly	
+Balinese	21	TELL	ngorahin	Resultative ma- alternation	Never	
+Balinese	22	SAY	ngorahang	Causative with instrument causee	Never	
+Balinese	22	SAY	ngorahang	Causative with Theme causee	Never	
+Balinese	22	SAY	ngorahang	Locative alternation (argument adding)	Never	
+Balinese	22	SAY	ngorahang	Locative alternation (argument rearanging)	Never	
+Balinese	22	SAY	ngorahang	Locative alternation (oblique to object)	Never	
+Balinese	22	SAY	ngorahang	Passive -a alternation	Regularly	
+Balinese	22	SAY	ngorahang	Passive ka- alternation	Regularly	
+Balinese	22	SAY	ngorahang	Resultative ma- alternation	Never	
+Balinese	23	NAME	ngelunin	Causative with instrument causee	Never	
+Balinese	23	NAME	ngelunin	Causative with Theme causee	Never	
+Balinese	23	NAME	ngelunin	Locative alternation (argument adding)	Never	
+Balinese	23	NAME	ngelunin	Locative alternation (argument rearanging)	Never	
+Balinese	23	NAME	ngelunin	Locative alternation (oblique to object)	Never	
+Balinese	23	NAME	ngelunin	Passive -a alternation	Regularly	
+Balinese	23	NAME	ngelunin	Passive ka- alternation	Regularly	
+Balinese	23	NAME	ngelunin	Resultative ma- alternation	Never	
+Balinese	24	BUILD	mangunang	Causative with instrument causee	Never	
+Balinese	24	BUILD	mangunang	Causative with Theme causee	Never	
+Balinese	24	BUILD	mangunang	Locative alternation (argument adding)	Never	
+Balinese	24	BUILD	mangunang	Locative alternation (argument rearanging)	Never	
+Balinese	24	BUILD	mangunang	Locative alternation (oblique to object)	Never	
+Balinese	24	BUILD	mangunang	Passive -a alternation	Regularly	
+Balinese	24	BUILD	mangunang	Passive ka- alternation	Regularly	
+Balinese	24	BUILD	mangunang	Resultative ma- alternation	Never	
+Balinese	25	BREAK	melahang	Causative with instrument causee	Never	
+Balinese	25	BREAK	melahang	Causative with Theme causee	Never	
+Balinese	25	BREAK	melahang	Locative alternation (argument adding)	Never	
+Balinese	25	BREAK	melahang	Locative alternation (argument rearanging)	Never	
+Balinese	25	BREAK	melahang	Locative alternation (oblique to object)	Never	
+Balinese	25	BREAK	melahang	Passive -a alternation	Regularly	
+Balinese	25	BREAK	melahang	Passive ka- alternation	Regularly	
+Balinese	25	BREAK	melahang	Resultative ma- alternation	Never	
+Balinese	26	KILL	ngematiang	Causative with instrument causee	Never	
+Balinese	26	KILL	ngematiang	Causative with Theme causee	Never	
+Balinese	26	KILL	ngematiang	Locative alternation (argument adding)	Never	
+Balinese	26	KILL	ngematiang	Locative alternation (argument rearanging)	Never	
+Balinese	26	KILL	ngematiang	Locative alternation (oblique to object)	Never	
+Balinese	26	KILL	ngematiang	Passive -a alternation	Regularly	
+Balinese	26	KILL	ngematiang	Passive ka- alternation	Regularly	
+Balinese	26	KILL	ngematiang	Resultative ma- alternation	Never	
+Balinese	27	BEAT	nglempagin	Causative with instrument causee	Never	
+Balinese	27	BEAT	nglempagin	Causative with Theme causee	Never	
+Balinese	27	BEAT	nglempagin	Locative alternation (argument adding)	Never	
+Balinese	27	BEAT	nglempagin	Locative alternation (argument rearanging)	Never	
+Balinese	27	BEAT	nglempagin	Locative alternation (oblique to object)	Never	
+Balinese	27	BEAT	nglempagin	Passive -a alternation	Regularly	
+Balinese	27	BEAT	nglempagin	Passive ka- alternation	Regularly	
+Balinese	27	BEAT	nglempagin	Resultative ma- alternation	Never	
+Balinese	28	HIT	nglempag	Causative with instrument causee	Regularly	
+Balinese	28	HIT	nglempag	Causative with Theme causee	No data	
+Balinese	28	HIT	nglempag	Locative alternation (argument adding)	Never	
+Balinese	28	HIT	nglempag	Locative alternation (argument rearanging)	Never	
+Balinese	28	HIT	nglempag	Locative alternation (oblique to object)	Never	
+Balinese	28	HIT	nglempag	Passive -a alternation	Regularly	
+Balinese	28	HIT	nglempag	Passive ka- alternation	Regularly	
+Balinese	28	HIT	nglempag	Resultative ma- alternation	Regularly	
+Balinese	29	TOUCH	nundik	Causative with instrument causee	Regularly	
+Balinese	29	TOUCH	nundik	Causative with Theme causee	No data	
+Balinese	29	TOUCH	nundik	Locative alternation (argument adding)	Never	
+Balinese	29	TOUCH	nundik	Locative alternation (argument rearanging)	Never	
+Balinese	29	TOUCH	nundik	Locative alternation (oblique to object)	Never	
+Balinese	29	TOUCH	nundik	Passive -a alternation	Regularly	
+Balinese	29	TOUCH	nundik	Passive ka- alternation	Regularly	
+Balinese	29	TOUCH	nundik	Resultative ma- alternation	Regularly	
+Balinese	30	CUT	ngodot	Causative with instrument causee	Regularly	
+Balinese	30	CUT	ngodot	Causative with Theme causee	No data	
+Balinese	30	CUT	ngodot	Locative alternation (argument adding)	Never	
+Balinese	30	CUT	ngodot	Locative alternation (argument rearanging)	Never	
+Balinese	30	CUT	ngodot	Locative alternation (oblique to object)	Never	
+Balinese	30	CUT	ngodot	Passive -a alternation	Regularly	
+Balinese	30	CUT	ngodot	Passive ka- alternation	Regularly	
+Balinese	30	CUT	ngodot	Resultative ma- alternation	Regularly	
+Balinese	31	TAKE	nyemak	Causative with instrument causee	Never	
+Balinese	31	TAKE	nyemak	Causative with Theme causee	Never	
+Balinese	31	TAKE	nyemak	Locative alternation (argument adding)	No data	
+Balinese	31	TAKE	nyemak	Locative alternation (argument rearanging)	No data	
+Balinese	31	TAKE	nyemak	Locative alternation (oblique to object)	Regularly	
+Balinese	31	TAKE	nyemak	Passive -a alternation	Regularly	
+Balinese	31	TAKE	nyemak	Passive ka- alternation	Regularly	
+Balinese	31	TAKE	nyemak	Resultative ma- alternation	Regularly	
+Balinese	32	TEAR	nguek	Causative with instrument causee	Never	
+Balinese	32	TEAR	nguek	Causative with Theme causee	Never	
+Balinese	32	TEAR	nguek	Locative alternation (argument adding)	Never	
+Balinese	32	TEAR	nguek	Locative alternation (argument rearanging)	Never	
+Balinese	32	TEAR	nguek	Locative alternation (oblique to object)	Never	
+Balinese	32	TEAR	nguek	Passive -a alternation	Regularly	
+Balinese	32	TEAR	nguek	Passive ka- alternation	Regularly	
+Balinese	32	TEAR	nguek	Resultative ma- alternation	Regularly	
+Balinese	33	PEEL	melutin	Causative with instrument causee	Never	
+Balinese	33	PEEL	melutin	Causative with Theme causee	Never	
+Balinese	33	PEEL	melutin	Locative alternation (argument adding)	Never	
+Balinese	33	PEEL	melutin	Locative alternation (argument rearanging)	Never	
+Balinese	33	PEEL	melutin	Locative alternation (oblique to object)	Never	
+Balinese	33	PEEL	melutin	Passive -a alternation	Regularly	
+Balinese	33	PEEL	melutin	Passive ka- alternation	Regularly	
+Balinese	33	PEEL	melutin	Resultative ma- alternation	Regularly	
+Balinese	34	HIDE	ngengkebang	Causative with instrument causee	Never	
+Balinese	34	HIDE	ngengkebang	Causative with Theme causee	Never	
+Balinese	34	HIDE	ngengkebang	Locative alternation (argument adding)	No data	
+Balinese	34	HIDE	ngengkebang	Locative alternation (argument rearanging)	No data	
+Balinese	34	HIDE	ngengkebang	Locative alternation (oblique to object)	Regularly	
+Balinese	34	HIDE	ngengkebang	Passive -a alternation	Regularly	
+Balinese	34	HIDE	ngengkebang	Passive ka- alternation	Regularly	
+Balinese	34	HIDE	ngengkebang	Resultative ma- alternation	Regularly	
+Balinese	35	SHOW	ngedengang	Causative with instrument causee	Never	
+Balinese	35	SHOW	ngedengang	Causative with Theme causee	Never	
+Balinese	35	SHOW	ngedengang	Locative alternation (argument adding)	No data	
+Balinese	35	SHOW	ngedengang	Locative alternation (argument rearanging)	No data	
+Balinese	35	SHOW	ngedengang	Locative alternation (oblique to object)	Regularly	
+Balinese	35	SHOW	ngedengang	Passive -a alternation	Regularly	
+Balinese	35	SHOW	ngedengang	Passive ka- alternation	Regularly	
+Balinese	35	SHOW	ngedengang	Resultative ma- alternation	Regularly	
+Balinese	36	GIVE	maang	Causative with instrument causee	Never	
+Balinese	36	GIVE	maang	Causative with Theme causee	Never	
+Balinese	36	GIVE	maang	Locative alternation (argument adding)	No data	
+Balinese	36	GIVE	maang	Locative alternation (argument rearanging)	No data	
+Balinese	36	GIVE	maang	Locative alternation (oblique to object)	Regularly	
+Balinese	36	GIVE	maang	Passive -a alternation	Regularly	
+Balinese	36	GIVE	maang	Passive ka- alternation	Regularly	
+Balinese	36	GIVE	maang	Resultative ma- alternation	Never	
+Balinese	37	SEND	ngirimang	Causative with instrument causee	Never	
+Balinese	37	SEND	ngirimang	Causative with Theme causee	Never	
+Balinese	37	SEND	ngirimang	Locative alternation (argument adding)	No data	
+Balinese	37	SEND	ngirimang	Locative alternation (argument rearanging)	No data	
+Balinese	37	SEND	ngirimang	Locative alternation (oblique to object)	Regularly	
+Balinese	37	SEND	ngirimang	Passive -a alternation	Regularly	
+Balinese	37	SEND	ngirimang	Passive ka- alternation	Regularly	
+Balinese	37	SEND	ngirimang	Resultative ma- alternation	Regularly	
+Balinese	38	CARRY	ngaba	Causative with instrument causee	Never	
+Balinese	38	CARRY	ngaba	Causative with Theme causee	Never	
+Balinese	38	CARRY	ngaba	Locative alternation (argument adding)	Never	
+Balinese	38	CARRY	ngaba	Locative alternation (argument rearanging)	Never	
+Balinese	38	CARRY	ngaba	Locative alternation (oblique to object)	Never	
+Balinese	38	CARRY	ngaba	Passive -a alternation	Regularly	
+Balinese	38	CARRY	ngaba	Passive ka- alternation	Regularly	
+Balinese	38	CARRY	ngaba	Resultative ma- alternation	Regularly	
+Balinese	39	THROW	ngentungang	Causative with instrument causee	Never	
+Balinese	39	THROW	ngentungang	Causative with Theme causee	Never	
+Balinese	39	THROW	ngentungang	Locative alternation (argument adding)	No data	
+Balinese	39	THROW	ngentungang	Locative alternation (argument rearanging)	Regularly	
+Balinese	39	THROW	ngentungang	Locative alternation (oblique to object)	No data	
+Balinese	39	THROW	ngentungang	Passive -a alternation	Regularly	
+Balinese	39	THROW	ngentungang	Passive ka- alternation	Regularly	
+Balinese	39	THROW	ngentungang	Resultative ma- alternation	Regularly	
+Balinese	40	TIE	negul	Causative with instrument causee	Regularly	
+Balinese	40	TIE	negul	Causative with Theme causee	No data	
+Balinese	40	TIE	negul	Locative alternation (argument adding)	No data	
+Balinese	40	TIE	negul	Locative alternation (argument rearanging)	No data	
+Balinese	40	TIE	negul	Locative alternation (oblique to object)	Regularly	
+Balinese	40	TIE	negul	Passive -a alternation	Regularly	
+Balinese	40	TIE	negul	Passive ka- alternation	Regularly	
+Balinese	40	TIE	negul	Resultative ma- alternation	Regularly	
+Balinese	41	PUT	ngejang	Causative with instrument causee	Never	
+Balinese	41	PUT	ngejang	Causative with Theme causee	Never	
+Balinese	41	PUT	ngejang	Locative alternation (argument adding)	No data	
+Balinese	41	PUT	ngejang	Locative alternation (argument rearanging)	No data	
+Balinese	41	PUT	ngejang	Locative alternation (oblique to object)	No data	
+Balinese	41	PUT	ngejang	Passive -a alternation	Regularly	
+Balinese	41	PUT	ngejang	Passive ka- alternation	Regularly	
+Balinese	41	PUT	ngejang	Resultative ma- alternation	Regularly	
+Balinese	42	POUR	nuruhang	Causative with instrument causee	Never	
+Balinese	42	POUR	nuruhang	Causative with Theme causee	Never	
+Balinese	42	POUR	nuruhang	Locative alternation (argument adding)	No data	
+Balinese	42	POUR	nuruhang	Locative alternation (argument rearanging)	Regularly	
+Balinese	42	POUR	nuruhang	Locative alternation (oblique to object)	No data	
+Balinese	42	POUR	nuruhang	Passive -a alternation	Regularly	
+Balinese	42	POUR	nuruhang	Passive ka- alternation	Regularly	
+Balinese	42	POUR	nuruhang	Resultative ma- alternation	Regularly	
+Balinese	43	COVER	ngerurub	Causative with instrument causee	No data	
+Balinese	43	COVER	ngerurub	Causative with Theme causee	No data	
+Balinese	43	COVER	ngerurub	Locative alternation (argument adding)	No data	
+Balinese	43	COVER	ngerurub	Locative alternation (argument rearanging)	No data	
+Balinese	43	COVER	ngerurub	Locative alternation (oblique to object)	No data	
+Balinese	43	COVER	ngerurub	Passive -a alternation	Regularly	
+Balinese	43	COVER	ngerurub	Passive ka- alternation	Regularly	
+Balinese	43	COVER	ngerurub	Resultative ma- alternation	Regularly	
+Balinese	44	FILL	ngisinin	Causative with instrument causee	Regularly	
+Balinese	44	FILL	ngisinin	Causative with Theme causee	No data	
+Balinese	44	FILL	ngisinin	Locative alternation (argument adding)	Never	
+Balinese	44	FILL	ngisinin	Locative alternation (argument rearanging)	Never	
+Balinese	44	FILL	ngisinin	Locative alternation (oblique to object)	Never	
+Balinese	44	FILL	ngisinin	Passive -a alternation	Regularly	
+Balinese	44	FILL	ngisinin	Passive ka- alternation	Regularly	
+Balinese	44	FILL	ngisinin	Resultative ma- alternation	Regularly	
+Balinese	45	LOAD	menekang	Causative with instrument causee	Never	
+Balinese	45	LOAD	menekang	Causative with Theme causee	Never	
+Balinese	45	LOAD	menekang	Locative alternation (argument adding)	No data	
+Balinese	45	LOAD	menekang	Locative alternation (argument rearanging)	Regularly	
+Balinese	45	LOAD	menekang	Locative alternation (oblique to object)	No data	
+Balinese	45	LOAD	menekang	Passive -a alternation	Regularly	
+Balinese	45	LOAD	menekang	Passive ka- alternation	Regularly	
+Balinese	45	LOAD	menekang	Resultative ma- alternation	Never	
+Balinese	46	BLINK	ngedipang mata	Causative with instrument causee	Never	
+Balinese	46	BLINK	ngedipang mata	Causative with Theme causee	Never	
+Balinese	46	BLINK	ngedipang mata	Locative alternation (argument adding)	Never	
+Balinese	46	BLINK	ngedipang mata	Locative alternation (argument rearanging)	Never	
+Balinese	46	BLINK	ngedipang mata	Locative alternation (oblique to object)	Never	
+Balinese	46	BLINK	ngedipang mata	Passive -a alternation	Never	
+Balinese	46	BLINK	ngedipang mata	Passive ka- alternation	Regularly	
+Balinese	46	BLINK	ngedipang mata	Resultative ma- alternation	Never	
+Balinese	47	COUGH	makokohan	Causative with instrument causee	Never	
+Balinese	47	COUGH	makokohan	Causative with Theme causee	Never	
+Balinese	47	COUGH	makokohan	Locative alternation (argument adding)	Never	
+Balinese	47	COUGH	makokohan	Locative alternation (argument rearanging)	Never	
+Balinese	47	COUGH	makokohan	Locative alternation (oblique to object)	Never	
+Balinese	47	COUGH	makokohan	Passive -a alternation	Never	
+Balinese	47	COUGH	makokohan	Passive ka- alternation	Never	
+Balinese	47	COUGH	makokohan	Resultative ma- alternation	Never	
+Balinese	48	CLIMB	menekin	Causative with instrument causee	No data	
+Balinese	48	CLIMB	menekin	Causative with Theme causee	Regularly	
+Balinese	48	CLIMB	menekin	Locative alternation (argument adding)	Never	
+Balinese	48	CLIMB	menekin	Locative alternation (argument rearanging)	Never	
+Balinese	48	CLIMB	menekin	Locative alternation (oblique to object)	Never	
+Balinese	48	CLIMB	menekin	Passive -a alternation	Regularly	
+Balinese	48	CLIMB	menekin	Passive ka- alternation	Regularly	
+Balinese	48	CLIMB	menekin	Resultative ma- alternation	Never	
+Balinese	49	RUN	malaib	Causative with instrument causee	Never	
+Balinese	49	RUN	malaib	Causative with Theme causee	Never	
+Balinese	49	RUN	malaib	Locative alternation (argument adding)	Regularly	
+Balinese	49	RUN	malaib	Locative alternation (argument rearanging)	No data	
+Balinese	49	RUN	malaib	Locative alternation (oblique to object)	No data	
+Balinese	49	RUN	malaib	Passive -a alternation	Never	
+Balinese	49	RUN	malaib	Passive ka- alternation	Never	
+Balinese	49	RUN	malaib	Resultative ma- alternation	Never	
+Balinese	50	SIT	negak	Causative with instrument causee	No data	
+Balinese	50	SIT	negak	Causative with Theme causee	Regularly	
+Balinese	50	SIT	negak	Locative alternation (argument adding)	No data	
+Balinese	50	SIT	negak	Locative alternation (argument rearanging)	No data	
+Balinese	50	SIT	negak	Locative alternation (oblique to object)	Regularly	
+Balinese	50	SIT	negak	Passive -a alternation	Never	
+Balinese	50	SIT	negak	Passive ka- alternation	Never	
+Balinese	50	SIT	negak	Resultative ma- alternation	Never	
+Balinese	51	SIT DOWN	negak	Causative with instrument causee	No data	
+Balinese	51	SIT DOWN	negak	Causative with Theme causee	Regularly	
+Balinese	51	SIT DOWN	negak	Locative alternation (argument adding)	No data	
+Balinese	51	SIT DOWN	negak	Locative alternation (argument rearanging)	No data	
+Balinese	51	SIT DOWN	negak	Locative alternation (oblique to object)	Regularly	
+Balinese	51	SIT DOWN	negak	Passive -a alternation	Never	
+Balinese	51	SIT DOWN	negak	Passive ka- alternation	Never	
+Balinese	51	SIT DOWN	negak	Resultative ma- alternation	Never	
+Balinese	52	JUMP	makejog	Causative with instrument causee	No data	
+Balinese	52	JUMP	makejog	Causative with Theme causee	Marginally	
+Balinese	52	JUMP	makejog	Locative alternation (argument adding)	No data	
+Balinese	52	JUMP	makejog	Locative alternation (argument rearanging)	No data	
+Balinese	52	JUMP	makejog	Locative alternation (oblique to object)	No data	
+Balinese	52	JUMP	makejog	Passive -a alternation	Never	
+Balinese	52	JUMP	makejog	Passive ka- alternation	Never	
+Balinese	52	JUMP	makejog	Resultative ma- alternation	Never	
+Balinese	53	SING	magending	Causative with instrument causee	Never	
+Balinese	53	SING	magending	Causative with Theme causee	Never	
+Balinese	53	SING	magending	Locative alternation (argument adding)	Never	
+Balinese	53	SING	magending	Locative alternation (argument rearanging)	Never	
+Balinese	53	SING	magending	Locative alternation (oblique to object)	Never	
+Balinese	53	SING	magending	Passive -a alternation	Never	
+Balinese	53	SING	magending	Passive ka- alternation	Never	
+Balinese	53	SING	magending	Resultative ma- alternation	Never	
+Balinese	54	GO	luas	Causative with instrument causee	Never	
+Balinese	54	GO	luas	Causative with Theme causee	Never	
+Balinese	54	GO	luas	Locative alternation (argument adding)	Never	
+Balinese	54	GO	luas	Locative alternation (argument rearanging)	Never	
+Balinese	54	GO	luas	Locative alternation (oblique to object)	Never	
+Balinese	54	GO	luas	Passive -a alternation	Never	
+Balinese	54	GO	luas	Passive ka- alternation	Never	
+Balinese	54	GO	luas	Resultative ma- alternation	Never	
+Balinese	55	LEAVE	ngalahin	Causative with instrument causee	No data	
+Balinese	55	LEAVE	ngalahin	Causative with Theme causee	No data	
+Balinese	55	LEAVE	ngalahin	Locative alternation (argument adding)	Never	
+Balinese	55	LEAVE	ngalahin	Locative alternation (argument rearanging)	Never	
+Balinese	55	LEAVE	ngalahin	Locative alternation (oblique to object)	No data	
+Balinese	55	LEAVE	ngalahin	Passive -a alternation	Regularly	
+Balinese	55	LEAVE	ngalahin	Passive ka- alternation	Regularly	
+Balinese	55	LEAVE	ngalahin	Resultative ma- alternation	Never	
+Balinese	56	LIVE	nongos	Causative with instrument causee	No data	
+Balinese	56	LIVE	nongos	Causative with Theme causee	Regularly	
+Balinese	56	LIVE	nongos	Locative alternation (argument adding)	No data	
+Balinese	56	LIVE	nongos	Locative alternation (argument rearanging)	No data	
+Balinese	56	LIVE	nongos	Locative alternation (oblique to object)	Regularly	
+Balinese	56	LIVE	nongos	Passive -a alternation	Never	
+Balinese	56	LIVE	nongos	Passive ka- alternation	Never	
+Balinese	56	LIVE	nongos	Resultative ma- alternation	Never	
+Balinese	57	LAUGH	kedek	Causative with instrument causee	Never	
+Balinese	57	LAUGH	kedek	Causative with Theme causee	Never	
+Balinese	57	LAUGH	kedek	Locative alternation (argument adding)	Regularly	
+Balinese	57	LAUGH	kedek	Locative alternation (argument rearanging)	No data	
+Balinese	57	LAUGH	kedek	Locative alternation (oblique to object)	No data	
+Balinese	57	LAUGH	kedek	Passive -a alternation	Never	
+Balinese	57	LAUGH	kedek	Passive ka- alternation	Never	
+Balinese	57	LAUGH	kedek	Resultative ma- alternation	Never	
+Balinese	58	SCREAM	makraik	Causative with instrument causee	Never	
+Balinese	58	SCREAM	makraik	Causative with Theme causee	Never	
+Balinese	58	SCREAM	makraik	Locative alternation (argument adding)	Never	
+Balinese	58	SCREAM	makraik	Locative alternation (argument rearanging)	Never	
+Balinese	58	SCREAM	makraik	Locative alternation (oblique to object)	Never	
+Balinese	58	SCREAM	makraik	Passive -a alternation	Never	
+Balinese	58	SCREAM	makraik	Passive ka- alternation	Never	
+Balinese	58	SCREAM	makraik	Resultative ma- alternation	Never	
+Balinese	59	FEEL PAIN	nyakitang	Causative with instrument causee	Never	
+Balinese	59	FEEL PAIN	nyakitang	Causative with Theme causee	Never	
+Balinese	59	FEEL PAIN	nyakitang	Locative alternation (argument adding)	Never	
+Balinese	59	FEEL PAIN	nyakitang	Locative alternation (argument rearanging)	Never	
+Balinese	59	FEEL PAIN	nyakitang	Locative alternation (oblique to object)	Never	
+Balinese	59	FEEL PAIN	nyakitang	Passive -a alternation	Never	
+Balinese	59	FEEL PAIN	nyakitang	Passive ka- alternation	Regularly	
+Balinese	59	FEEL PAIN	nyakitang	Resultative ma- alternation	Never	
+Balinese	60	FEEL COLD	dingin	Causative with instrument causee	No data	
+Balinese	60	FEEL COLD	dingin	Causative with Theme causee	Regularly	
+Balinese	60	FEEL COLD	dingin	Locative alternation (argument adding)	Never	
+Balinese	60	FEEL COLD	dingin	Locative alternation (argument rearanging)	Never	
+Balinese	60	FEEL COLD	dingin	Locative alternation (oblique to object)	Never	
+Balinese	60	FEEL COLD	dingin	Passive -a alternation	Never	
+Balinese	60	FEEL COLD	dingin	Passive ka- alternation	Never	
+Balinese	60	FEEL COLD	dingin	Resultative ma- alternation	Never	
+Balinese	61	DIE	mati	Causative with instrument causee	No data	
+Balinese	61	DIE	mati	Causative with Theme causee	Regularly	
+Balinese	61	DIE	mati	Locative alternation (argument adding)	Never	
+Balinese	61	DIE	mati	Locative alternation (argument rearanging)	Never	
+Balinese	61	DIE	mati	Locative alternation (oblique to object)	Never	
+Balinese	61	DIE	mati	Passive -a alternation	Never	
+Balinese	61	DIE	mati	Passive ka- alternation	Never	
+Balinese	61	DIE	mati	Resultative ma- alternation	Never	
+Balinese	62	PLAY	macanada	Causative with instrument causee	Never	
+Balinese	62	PLAY	macanada	Causative with Theme causee	Never	
+Balinese	62	PLAY	macanada	Locative alternation (argument adding)	Never	
+Balinese	62	PLAY	macanada	Locative alternation (argument rearanging)	Never	
+Balinese	62	PLAY	macanada	Locative alternation (oblique to object)	Never	
+Balinese	62	PLAY	macanada	Passive -a alternation	Never	
+Balinese	62	PLAY	macanada	Passive ka- alternation	Never	
+Balinese	62	PLAY	macanada	Resultative ma- alternation	Never	
+Balinese	63	BE SAD	sebet	Causative with instrument causee	Never	
+Balinese	63	BE SAD	sebet	Causative with Theme causee	Never	
+Balinese	63	BE SAD	sebet	Locative alternation (argument adding)	Never	
+Balinese	63	BE SAD	sebet	Locative alternation (argument rearanging)	Never	
+Balinese	63	BE SAD	sebet	Locative alternation (oblique to object)	Never	
+Balinese	63	BE SAD	sebet	Passive -a alternation	Never	
+Balinese	63	BE SAD	sebet	Passive ka- alternation	Never	
+Balinese	63	BE SAD	sebet	Resultative ma- alternation	Never	
+Balinese	64	BE HUNGRY	seduk	Causative with instrument causee	No data	
+Balinese	64	BE HUNGRY	seduk	Causative with Theme causee	Never	
+Balinese	64	BE HUNGRY	seduk	Locative alternation (argument adding)	Never	
+Balinese	64	BE HUNGRY	seduk	Locative alternation (argument rearanging)	Never	
+Balinese	64	BE HUNGRY	seduk	Locative alternation (oblique to object)	Never	
+Balinese	64	BE HUNGRY	seduk	Passive -a alternation	Never	
+Balinese	64	BE HUNGRY	seduk	Passive ka- alternation	Never	
+Balinese	64	BE HUNGRY	seduk	Resultative ma- alternation	Never	
+Balinese	65	ROLL	ngelilik	Causative with instrument causee	No data	
+Balinese	65	ROLL	ngelilik	Causative with Theme causee	Regularly	
+Balinese	65	ROLL	ngelilik	Locative alternation (argument adding)	Never	
+Balinese	65	ROLL	ngelilik	Locative alternation (argument rearanging)	No data	
+Balinese	65	ROLL	ngelilik	Locative alternation (oblique to object)	No data	
+Balinese	65	ROLL	ngelilik	Passive -a alternation	Never	
+Balinese	65	ROLL	ngelilik	Passive ka- alternation	Never	
+Balinese	65	ROLL	ngelilik	Resultative ma- alternation	Never	
+Balinese	66	SINK	nyilem	Causative with instrument causee	No data	
+Balinese	66	SINK	nyilem	Causative with Theme causee	Regularly	
+Balinese	66	SINK	nyilem	Locative alternation (argument adding)	Never	
+Balinese	66	SINK	nyilem	Locative alternation (argument rearanging)	Never	
+Balinese	66	SINK	nyilem	Locative alternation (oblique to object)	Never	
+Balinese	66	SINK	nyilem	Passive -a alternation	Never	
+Balinese	66	SINK	nyilem	Passive ka- alternation	Never	
+Balinese	66	SINK	nyilem	Resultative ma- alternation	Never	
+Balinese	67	BURN	puun	Causative with instrument causee	Never	
+Balinese	67	BURN	puun	Causative with Theme causee	Regularly	
+Balinese	67	BURN	puun	Locative alternation (argument adding)	Never	
+Balinese	67	BURN	puun	Locative alternation (argument rearanging)	Never	
+Balinese	67	BURN	puun	Locative alternation (oblique to object)	Never	
+Balinese	67	BURN	puun	Passive -a alternation	Never	
+Balinese	67	BURN	puun	Passive ka- alternation	Never	
+Balinese	67	BURN	puun	Resultative ma- alternation	Never	
+Balinese	68	BE DRY	tuh	Causative with instrument causee	Never	
+Balinese	68	BE DRY	tuh	Causative with Theme causee	Regularly	
+Balinese	68	BE DRY	tuh	Locative alternation (argument adding)	Never	
+Balinese	68	BE DRY	tuh	Locative alternation (argument rearanging)	Never	
+Balinese	68	BE DRY	tuh	Locative alternation (oblique to object)	Never	
+Balinese	68	BE DRY	tuh	Passive -a alternation	Never	
+Balinese	68	BE DRY	tuh	Passive ka- alternation	Never	
+Balinese	68	BE DRY	tuh	Resultative ma- alternation	Never	
+Balinese	69	RAIN	ujan	Causative with instrument causee	No data	
+Balinese	69	RAIN	ujan	Causative with Theme causee	Never	
+Balinese	69	RAIN	ujan	Locative alternation (argument adding)	Never	
+Balinese	69	RAIN	ujan	Locative alternation (argument rearanging)	Never	
+Balinese	69	RAIN	ujan	Locative alternation (oblique to object)	Never	
+Balinese	69	RAIN	ujan	Passive -a alternation	Never	
+Balinese	69	RAIN	ujan	Passive ka- alternation	Never	
+Balinese	69	RAIN	ujan	Resultative ma- alternation	Never	
+Balinese	70	BE A HUNTER	tukangboros	Causative with instrument causee	Never	
+Balinese	70	BE A HUNTER	tukangboros	Causative with Theme causee	Never	
+Balinese	70	BE A HUNTER	tukangboros	Locative alternation (argument adding)	Never	
+Balinese	70	BE A HUNTER	tukangboros	Locative alternation (argument rearanging)	Never	
+Balinese	70	BE A HUNTER	tukangboros	Locative alternation (oblique to object)	Never	
+Balinese	70	BE A HUNTER	tukangboros	Passive -a alternation	Never	
+Balinese	70	BE A HUNTER	tukangboros	Passive ka- alternation	Never	
+Balinese	70	BE A HUNTER	tukangboros	Resultative ma- alternation	Never	

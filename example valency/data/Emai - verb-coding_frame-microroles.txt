@@ -1,0 +1,457 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Emai	1	EAT	e	Basic	1 > V > 2	1	eater	Ø	A
+Emai	1	EAT	e	Basic	1 > V > 2	2	eaten food	Ø	P
+Emai	1	EAT	e	Derived	1>re+4>V'>2	1	eater	Ø	
+Emai	1	EAT	e	Derived	1>re+4>V'>2	2	eaten food	Ø	
+Emai	1	EAT	e	Derived	1>re+4>V'>2	4	eating instrument	re+NP	
+Emai	2	HUG	tutu nwu	Basic	1 > V > 2	1	hugger	Ø	A
+Emai	2	HUG	tutu nwu	Basic	1 > V > 2	2	huggee	Ø	P
+Emai	3	LOOK AT	ghoo	Basic	1 > V > 2	1	looker	Ø	A
+Emai	3	LOOK AT	ghoo	Basic	1 > V > 2	2	looked at entity	Ø	P
+Emai	3	LOOK AT	ghoo	Derived	1>V'>2>lí+3	1	looker	Ø	
+Emai	3	LOOK AT	ghoo	Derived	1>V'>2>lí+3	2	looked at entity	Ø	
+Emai	3	LOOK AT	ghoo	Derived	1>V'>2>lí+3	3	look beneficiary	lí+NP	
+Emai	4	SEE	miẹ	Basic	1 > V > 2	1	seeer	Ø	A
+Emai	4	SEE	miẹ	Basic	1 > V > 2	2	seen entity	Ø	P
+Emai	5	SMELL	yaa	Basic	1 > V > 2	1	smeller	Ø	A
+Emai	5	SMELL	yaa	Basic	1 > V > 2	2	smelled entity	Ø	P
+Emai	5	SMELL	yaa	Derived	2>V'	2	smelled entity	Ø	
+Emai	6	FEAR	ófẹ̀n nwu	Basic	V>1	1	fear stimulus	Ø	I
+Emai	7	FRIGHTEN	niaa	Basic	1 > V > 2	1	frightener	Ø	A
+Emai	7	FRIGHTEN	niaa	Basic	1 > V > 2	2	frightenee	Ø	P
+Emai	7	FRIGHTEN	niaa	Derived	2>V'	2	frightenee	Ø	
+Emai	8	LIKE	ẹghẹn	Basic	1 > V > 2	1	liked entity	Ø	A
+Emai	8	LIKE	ẹghẹn	Basic	1 > V > 2	2	liker	Ø	P
+Emai	8	LIKE	ẹghẹn	Derived	1>V'	1	liked entity	Ø	
+Emai	9	KNOW	ẹẹn	Basic	1 > V > 2	1	knower	Ø	A
+Emai	9	KNOW	ẹẹn	Basic	1 > V > 2	2	known thing/person	Ø	P
+Emai	9	KNOW	ẹẹn	Derived	1>V'	1	knower	Ø	
+Emai	9	KNOW	guẹ	Basic	1 > V > 2	1	knower	Ø	A
+Emai	9	KNOW	guẹ	Basic	1 > V > 2	2	known thing/person	Ø	P
+Emai	10	THINK	oo	Basic	1 > V > 2	1	thinker	Ø	A
+Emai	10	THINK	oo	Basic	1 > V > 2	2	thought content	Ø	P
+Emai	11	SEARCH FOR	hoo (1)	Basic	1 > V > 2	1	searcher	Ø	A
+Emai	11	SEARCH FOR	hoo (1)	Basic	1 > V > 2	2	searched for thing	Ø	P
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>re+4>V'>2	1	searcher	Ø	
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>re+4>V'>2	2	searched for thing	Ø	
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>re+4>V'>2	4	search instrument	re+NP	
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>V'>2>lí+3	1	searcher	Ø	
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>V'>2>lí+3	2	searched for thing	Ø	
+Emai	11	SEARCH FOR	hoo (1)	Derived	1>V'>2>lí+3	3	search beneficiary	lí+NP	
+Emai	12	WASH	khọọ	Basic	1 > V > 2	1	washer	Ø	A
+Emai	12	WASH	khọọ	Basic	1 > V > 2	2	washed entity	Ø	P
+Emai	12	WASH	khọọ	Derived	1>re+4>V'>2	1	washer	Ø	
+Emai	12	WASH	khọọ	Derived	1>re+4>V'>2	2	washed entity	Ø	
+Emai	12	WASH	khọọ	Derived	1>re+4>V'>2	4	washing instrument	re+NP	
+Emai	12	WASH	kpe (2)	Basic	1 > V > 2	1	washer	Ø	A
+Emai	12	WASH	kpe (2)	Basic	1 > V > 2	2	washed entity	Ø	P
+Emai	12	WASH	kpe (2)	Derived	1>re+4>V'>2	1	washer	Ø	
+Emai	12	WASH	kpe (2)	Derived	1>re+4>V'>2	2	washed entity	Ø	
+Emai	12	WASH	kpe (2)	Derived	1>re+4>V'>2	4	washing instrument	re+NP	
+Emai	12	WASH	kpe (2)	Derived	1>V'>2>lí+3	1	washer	Ø	
+Emai	12	WASH	kpe (2)	Derived	1>V'>2>lí+3	2	washed entity	Ø	
+Emai	12	WASH	kpe (2)	Derived	1>V'>2>lí+3	3	wash beneficiary	lí+NP	
+Emai	13	DRESS	ku ọ	Basic	1>V>2>vbi+3	1	dresser	Ø	A
+Emai	13	DRESS	ku ọ	Basic	1>V>2>vbi+3	2	clothes	Ø	P
+Emai	13	DRESS	ku ọ	Basic	1>V>2>vbi+3	3	dressee	vbi+NP	L
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Basic	1 > V > 2	1	shaver (of body part)	Ø	A
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Basic	1 > V > 2	2	shaved body part	Ø	P
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>re+4>V'>2	1	shaver (of body part)	Ø	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>re+4>V'>2	2	shaved body part	Ø	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>re+4>V'>2	4	shaving instrument	re+NP	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>V'>2>lí+3	1	shaver (of body part)	Ø	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>V'>2>lí+3	2	shaved body part	Ø	
+Emai	14	SHAVE (a body part/person)	zẹ (1)	Derived	1>V'>2>lí+3	3	shave beneficiary	lí+NP	
+Emai	15	HELP	kpayẹ óbọ̀	Basic	1 > V > 2	1	helper	Ø	A
+Emai	15	HELP	kpayẹ óbọ̀	Basic	1 > V > 2	2	helpee	Ø	P
+Emai	16	FOLLOW	rẹkhaẹn	Basic	1 > V > 2	1	follower	Ø	A
+Emai	16	FOLLOW	rẹkhaẹn	Basic	1 > V > 2	2	followee	Ø	P
+Emai	17	MEET	ga ze	Basic	1 > V > 2	1	meeter	Ø	A
+Emai	17	MEET	ga ze	Basic	1 > V > 2	2	met person	Ø	P
+Emai	18	TALK	ta étà	Basic	1>V	1	talker	Ø	I
+Emai	18	TALK	ta étà	Derived	1>V'>li+3+hon	1	talker	Ø	
+Emai	18	TALK	ta étà	Derived	1>V'>li+3+hon	3	talked to person	li+NP+hon	
+Emai	18	TALK	vbayẹ	Basic	1>V	1	talker	Ø	I
+Emai	20	SHOUT AT	khuee	Basic	1 > V > 2	1	shouter	Ø	A
+Emai	20	SHOUT AT	khuee	Basic	1 > V > 2	2	shoutee	Ø	P
+Emai	20	SHOUT AT	khuee	Derived	1>V'	1	shouter	Ø	
+Emai	21	TELL	ẹ	Basic	1>V>2 UTT3	1	teller	Ø	A
+Emai	21	TELL	ẹ	Basic	1>V>2 UTT3	2	tellee	Ø	P
+Emai	21	TELL	ẹ	Basic	1>V>2 UTT3	3	told content	UTT	X
+Emai	21	TELL	gue	Basic	1 > V > 2	1	teller	Ø	A
+Emai	21	TELL	gue	Basic	1 > V > 2	2	told content	Ø	P
+Emai	21	TELL	gue	Derived	1>V'>2>li+3+hon	1	teller	Ø	
+Emai	21	TELL	gue	Derived	1>V'>2>li+3+hon	2	told content	Ø	
+Emai	21	TELL	gue	Derived	1>V'>2>li+3+hon	3	tellee	li+NP+hon	
+Emai	21	TELL	gue	Derived	1>V'>2>vbiee+3	1	teller	Ø	
+Emai	21	TELL	gue	Derived	1>V'>2>vbiee+3	2	told content	Ø	
+Emai	21	TELL	gue	Derived	1>V'>2>vbiee+3	3	tellee	vbiee+NP	
+Emai	21	TELL	kpe (1)	Basic	1 > V > 2	1	teller	Ø	A
+Emai	21	TELL	kpe (1)	Basic	1 > V > 2	2	told content	Ø	P
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>li+3+hon	1	teller	Ø	
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>li+3+hon	2	told content	Ø	
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>li+3+hon	3	tellee	li+NP+hon	
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>vbiee+3	1	teller	Ø	
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>vbiee+3	2	told content	Ø	
+Emai	21	TELL	kpe (1)	Derived	1>V'>2>vbiee+3	3	tellee	vbiee+NP	
+Emai	22	SAY	ẹ ọ́í	Basic	1>V>UTT2	1	sayer	Ø	I
+Emai	22	SAY	ẹ ọ́í	Basic	1>V>UTT2	2	said content	UTT	X
+Emai	24	BUILD	hu	Basic	1 > V > 2	1	builder	Ø	A
+Emai	24	BUILD	hu	Basic	1 > V > 2	2	built thing	Ø	P
+Emai	24	BUILD	hu	Derived	1>re+4>V'>2	1	builder	Ø	
+Emai	24	BUILD	hu	Derived	1>re+4>V'>2	2	built thing	Ø	
+Emai	24	BUILD	hu	Derived	1>re+4>V'>2	4	building material	re+NP	
+Emai	24	BUILD	hu	Derived	1>V'>2>o+vbi+5	1	builder	Ø	
+Emai	24	BUILD	hu	Derived	1>V'>2>o+vbi+5	2	built thing	Ø	
+Emai	24	BUILD	hu	Derived	1>V'>2>o+vbi+5	5	building location	o+vbi+NP	
+Emai	24	BUILD	zẹ(2)	Basic	1 > V > 2	1	builder	Ø	A
+Emai	24	BUILD	zẹ(2)	Basic	1 > V > 2	2	built thing	Ø	P
+Emai	24	BUILD	zẹ(2)	Derived	1>re+4>V'>2	1	builder	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>re+4>V'>2	2	built thing	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>re+4>V'>2	4	building material	re+NP	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>lí+3	1	builder	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>lí+3	2	built thing	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>lí+3	3	build beneficiary	lí+NP	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>o+vbi+5	1	builder	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>o+vbi+5	2	built thing	Ø	
+Emai	24	BUILD	zẹ(2)	Derived	1>V'>2>o+vbi+5	5	building location	o+vbi+NP	
+Emai	25	BREAK	gbe a	Basic	1 > V > 2	1	breaker	Ø	A
+Emai	25	BREAK	gbe a	Basic	1 > V > 2	2	broken thing	Ø	P
+Emai	25	BREAK	gbe a	Derived	1>re+4>V'>2	1	breaker	Ø	
+Emai	25	BREAK	gbe a	Derived	1>re+4>V'>2	2	broken thing	Ø	
+Emai	25	BREAK	gbe a	Derived	1>re+4>V'>2	4	breaking instrument	re+NP	
+Emai	25	BREAK	gbe a	Derived	2>V'	2	broken thing	Ø	
+Emai	25	BREAK	gboo ku a	Basic	1 > V > 2	1	breaker	Ø	A
+Emai	25	BREAK	gboo ku a	Basic	1 > V > 2	2	broken thing	Ø	P
+Emai	25	BREAK	gboo ku a	Derived	1>re+4>V'>2	1	breaker	Ø	
+Emai	25	BREAK	gboo ku a	Derived	1>re+4>V'>2	2	broken thing	Ø	
+Emai	25	BREAK	gboo ku a	Derived	1>re+4>V'>2	4	breaking instrument	re+NP	
+Emai	25	BREAK	gboo ku a	Derived	2>V'	2	broken thing	Ø	
+Emai	25	BREAK	guọghọ	Basic	1 > V > 2	1	breaker	Ø	A
+Emai	25	BREAK	guọghọ	Basic	1 > V > 2	2	broken thing	Ø	P
+Emai	25	BREAK	guọghọ	Derived	1>re+4>V'>2	1	breaker	Ø	
+Emai	25	BREAK	guọghọ	Derived	1>re+4>V'>2	2	broken thing	Ø	
+Emai	25	BREAK	guọghọ	Derived	1>re+4>V'>2	4	breaking instrument	re+NP	
+Emai	25	BREAK	guọghọ	Derived	2>V'	2	broken thing	Ø	
+Emai	26	KILL	gbe (1)	Basic	1 > V > 2	1	killer	Ø	A
+Emai	26	KILL	gbe (1)	Basic	1 > V > 2	2	killee	Ø	P
+Emai	26	KILL	gbe (1)	Derived	1>re+4>V'>2	1	killer	Ø	
+Emai	26	KILL	gbe (1)	Derived	1>re+4>V'>2	2	killee	Ø	
+Emai	26	KILL	gbe (1)	Derived	1>re+4>V'>2	4	killing instrument	re+NP	
+Emai	26	KILL	gboo	Basic	1 > V > 2	1	killer	Ø	A
+Emai	26	KILL	gboo	Basic	1 > V > 2	2	killee	Ø	P
+Emai	26	KILL	gboo	Derived	1>re+4>V'>2	1	killer	Ø	
+Emai	26	KILL	gboo	Derived	1>re+4>V'>2	2	killee	Ø	
+Emai	26	KILL	gboo	Derived	1>re+4>V'>2	4	killing instrument	re+NP	
+Emai	27	BEAT	gbe (2)	Basic	1 > V > 2	1	beater	Ø	A
+Emai	27	BEAT	gbe (2)	Basic	1 > V > 2	2	beatee	Ø	P
+Emai	27	BEAT	gbe (2)	Derived	1>re+4>V'>2	1	beater	Ø	
+Emai	27	BEAT	gbe (2)	Derived	1>re+4>V'>2	2	beatee	Ø	
+Emai	27	BEAT	gbe (2)	Derived	1>re+4>V'>2	4	beating instrument	re+NP	
+Emai	27	BEAT	gbe (2)	Derived	1>V'>2>lí+3	1	beater	Ø	
+Emai	27	BEAT	gbe (2)	Derived	1>V'>2>lí+3	2	beatee	Ø	
+Emai	27	BEAT	gbe (2)	Derived	1>V'>2>lí+3	3	beat beneficiary	lí+NP	
+Emai	28	HIT	fi (1)	Basic	1>V>2>3>vbi+4	1	hitter	Ø	A
+Emai	28	HIT	fi (1)	Basic	1>V>2>3>vbi+4	2	hittee	Ø	P
+Emai	28	HIT	fi (1)	Basic	1>V>2>3>vbi+4	3	hitting instrument	Ø	I
+Emai	28	HIT	fi (1)	Basic	1>V>2>3>vbi+4	4	hit location	vbi+NP	L
+Emai	28	HIT	fi (1)	Derived	1>V'>2>3	1	hitter	Ø	
+Emai	28	HIT	fi (1)	Derived	1>V'>2>3	2	hittee	Ø	
+Emai	28	HIT	fi (1)	Derived	1>V'>2>3	3	hitting instrument	Ø	
+Emai	29	TOUCH	rẹ óbọ̀ so	Basic	1 > V > 2	1	toucher	Ø	A
+Emai	29	TOUCH	rẹ óbọ̀ so	Basic	1 > V > 2	2	touchee	Ø	P
+Emai	30	CUT	bẹnnọ	Basic	1 > V > 2	1	cutter	Ø	A
+Emai	30	CUT	bẹnnọ	Basic	1 > V > 2	2	cut thing	Ø	P
+Emai	30	CUT	bẹnnọ	Derived	1>re+4>V'>2	1	cutter	Ø	
+Emai	30	CUT	bẹnnọ	Derived	1>re+4>V'>2	2	cut thing	Ø	
+Emai	30	CUT	bẹnnọ	Derived	1>re+4>V'>2	4	cutting instrument	re+NP	
+Emai	30	CUT	bẹnnọ	Derived	1>V'>2>lí+3	1	cutter	Ø	
+Emai	30	CUT	bẹnnọ	Derived	1>V'>2>lí+3	2	cut thing	Ø	
+Emai	30	CUT	bẹnnọ	Derived	1>V'>2>lí+3	3	cut beneficiary	lí+NP	
+Emai	30	CUT	hian	Basic	1 > V > 2	1	cutter	Ø	A
+Emai	30	CUT	hian	Basic	1 > V > 2	2	cut thing	Ø	P
+Emai	30	CUT	hian	Derived	1>re+4>V'>2	1	cutter	Ø	
+Emai	30	CUT	hian	Derived	1>re+4>V'>2	2	cut thing	Ø	
+Emai	30	CUT	hian	Derived	1>re+4>V'>2	4	cutting instrument	re+NP	
+Emai	30	CUT	hian	Derived	1>V'>2>lí+3	1	cutter	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>lí+3	2	cut thing	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>lí+3	3	cut beneficiary	lí+NP	
+Emai	30	CUT	hian	Derived	1>V'>2>o+vbi+5	1	cutter	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>o+vbi+5	2	cut thing	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>o+vbi+5	5	cutting goal/place	o+vbi+NP	
+Emai	30	CUT	hian	Derived	1>V'>2>ye+5	1	cutter	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>ye+5	2	cut thing	Ø	
+Emai	30	CUT	hian	Derived	1>V'>2>ye+5	5	cutting goal/place	ye+NP	
+Emai	30	CUT	hian	Derived	2>V'	2	cut thing	Ø	
+Emai	31	TAKE	miẹẹ (1)	Basic	1>V>2>3>vbi+4	1	taker	Ø	A
+Emai	31	TAKE	miẹẹ (1)	Basic	1>V>2>3>vbi+4	2	taking source	Ø	P
+Emai	31	TAKE	miẹẹ (1)	Basic	1>V>2>3>vbi+4	3	taken thing	Ø	I
+Emai	31	TAKE	miẹẹ (1)	Basic	1>V>2>3>vbi+4	4	taken from place	vbi+NP	L
+Emai	31	TAKE	miẹẹ (1)	Derived	1>V'>2>3	1	taker	Ø	
+Emai	31	TAKE	miẹẹ (1)	Derived	1>V'>2>3	2	taking source	Ø	
+Emai	31	TAKE	miẹẹ (1)	Derived	1>V'>2>3	3	taken thing	Ø	
+Emai	32	TEAR	nya a	Basic	1 > V > 2	1	tearer	Ø	A
+Emai	32	TEAR	nya a	Basic	1 > V > 2	2	torn thing	Ø	P
+Emai	32	TEAR	nya a	Derived	1>V'>2>vbi+6+re	1	tearer	Ø	
+Emai	32	TEAR	nya a	Derived	1>V'>2>vbi+6+re	2	torn thing	Ø	
+Emai	32	TEAR	nya a	Derived	1>V'>2>vbi+6+re	6	tearing source	vbi+NP+re	
+Emai	32	TEAR	nya a	Derived	2>V'	2	torn thing	Ø	
+Emai	33	PEEL	bolo	Basic	1 > V > 2	1	peeler	Ø	A
+Emai	33	PEEL	bolo	Basic	1 > V > 2	2	peeled object	Ø	P
+Emai	33	PEEL	bolo	Derived	1>re+4>V'>2	1	peeler	Ø	
+Emai	33	PEEL	bolo	Derived	1>re+4>V'>2	2	peeled object	Ø	
+Emai	33	PEEL	bolo	Derived	1>re+4>V'>2	4	peel instrument	re+NP	
+Emai	33	PEEL	bolo	Derived	1>V'>2>lí+3	1	peeler	Ø	
+Emai	33	PEEL	bolo	Derived	1>V'>2>lí+3	2	peeled object	Ø	
+Emai	33	PEEL	bolo	Derived	1>V'>2>lí+3	3	peel beneficiary	lí+NP	
+Emai	33	PEEL	fọlọ	Basic	1 > V > 2	1	peeler	Ø	A
+Emai	33	PEEL	fọlọ	Basic	1 > V > 2	2	peeled object	Ø	P
+Emai	33	PEEL	fọlọ	Derived	1>re+4>V'>2	1	peeler	Ø	
+Emai	33	PEEL	fọlọ	Derived	1>re+4>V'>2	2	peeled object	Ø	
+Emai	33	PEEL	fọlọ	Derived	1>re+4>V'>2	4	peel instrument	re+NP	
+Emai	33	PEEL	fọlọ	Derived	1>V'>2>lí+3	1	peeler	Ø	
+Emai	33	PEEL	fọlọ	Derived	1>V'>2>lí+3	2	peeled object	Ø	
+Emai	33	PEEL	fọlọ	Derived	1>V'>2>lí+3	3	peel beneficiary	lí+NP	
+Emai	34	HIDE	V hee	Basic	1 > V > 2	1	hider	Ø	A
+Emai	34	HIDE	V hee	Basic	1 > V > 2	2	hidden thing	Ø	P
+Emai	34	HIDE	V hee	Derived	2>V'	2	hidden thing	Ø	
+Emai	35	SHOW	rẹ vbiẹẹ	Basic	1>V>2>3	1	shower	Ø	A
+Emai	35	SHOW	rẹ vbiẹẹ	Basic	1>V>2>3	2	shown thing	Ø	P
+Emai	35	SHOW	rẹ vbiẹẹ	Basic	1>V>2>3	3	showing addressee	Ø	I
+Emai	36	GIVE	V li	Basic	1>V>2>lí+3	1	giver	Ø	A
+Emai	36	GIVE	V li	Basic	1>V>2>lí+3	2	gift	Ø	P
+Emai	36	GIVE	V li	Basic	1>V>2>lí+3	3	giving recipient	lí+NP	X
+Emai	37	SEND	ye	Basic	1 > V > 2	1	sender	Ø	A
+Emai	37	SEND	ye	Basic	1 > V > 2	2	sent thing	Ø	P
+Emai	37	SEND	ye	Derived	1>V'>2>ye+5	1	sender	Ø	
+Emai	37	SEND	ye	Derived	1>V'>2>ye+5	2	sent thing	Ø	
+Emai	37	SEND	ye	Derived	1>V'>2>ye+5	5	sending recipient	ye+NP	
+Emai	37	SEND	ye úhùnmì	Basic	1 > V > 2	1	sender	Ø	A
+Emai	37	SEND	ye úhùnmì	Basic	1 > V > 2	2	sent thing	Ø	P
+Emai	37	SEND	ye úhùnmì	Derived	1>V'>2>ye+5	1	sender	Ø	
+Emai	37	SEND	ye úhùnmì	Derived	1>V'>2>ye+5	2	sent thing	Ø	
+Emai	37	SEND	ye úhùnmì	Derived	1>V'>2>ye+5	5	sending recipient	ye+NP	
+Emai	38	CARRY	nwu	Basic	1 > V > 2	1	carrier	Ø	A
+Emai	38	CARRY	nwu	Basic	1 > V > 2	2	carried thing	Ø	P
+Emai	38	CARRY	nwu	Derived	1>re+4>V'>2	1	carrier	Ø	
+Emai	38	CARRY	nwu	Derived	1>re+4>V'>2	2	carried thing	Ø	
+Emai	38	CARRY	nwu	Derived	1>re+4>V'>2	4	carry instrument	re+NP	
+Emai	39	THROW	fi (2)	Basic	1 > V > 2	1	thrower	Ø	A
+Emai	39	THROW	fi (2)	Basic	1 > V > 2	2	thrown thing	Ø	P
+Emai	39	THROW	fi (2)	Derived	1>V'>2>fi/ku+e+5	1	thrower	Ø	
+Emai	39	THROW	fi (2)	Derived	1>V'>2>fi/ku+e+5	2	thrown thing	Ø	
+Emai	39	THROW	fi (2)	Derived	1>V'>2>fi/ku+e+5	5	throwing goal	fi/ku+e+NP	
+Emai	39	THROW	fi (2)	Derived	1>V'>2>ye+5	1	thrower	Ø	
+Emai	39	THROW	fi (2)	Derived	1>V'>2>ye+5	2	thrown thing	Ø	
+Emai	39	THROW	fi (2)	Derived	1>V'>2>ye+5	5	throwing goal	ye+NP	
+Emai	40	TIE	din	Basic	1 > V > 2	1	tier	Ø	A
+Emai	40	TIE	din	Basic	1 > V > 2	2	tied thing	Ø	P
+Emai	40	TIE	din	Derived	1>re+4>V'>2	1	tier	Ø	
+Emai	40	TIE	din	Derived	1>re+4>V'>2	2	tied thing	Ø	
+Emai	40	TIE	din	Derived	1>re+4>V'>2	4	tying instrument	re+NP	
+Emai	40	TIE	din	Derived	1>V'>2>o+vbi+5	1	tier	Ø	
+Emai	40	TIE	din	Derived	1>V'>2>o+vbi+5	2	tied thing	Ø	
+Emai	40	TIE	din	Derived	1>V'>2>o+vbi+5	5	tying goal	o+vbi+NP	
+Emai	40	TIE	gba	Basic	1 > V > 2	1	tier	Ø	A
+Emai	40	TIE	gba	Basic	1 > V > 2	2	tied thing	Ø	P
+Emai	40	TIE	gba	Derived	1>V'>2>lí+3	1	tier	Ø	
+Emai	40	TIE	gba	Derived	1>V'>2>lí+3	2	tied thing	Ø	
+Emai	40	TIE	gba	Derived	1>V'>2>lí+3	3	tie beneficiary	lí+NP	
+Emai	40	TIE	gba	Derived	1>V'>2>o+vbi+5	1	tier	Ø	
+Emai	40	TIE	gba	Derived	1>V'>2>o+vbi+5	2	tied thing	Ø	
+Emai	40	TIE	gba	Derived	1>V'>2>o+vbi+5	5	tying goal	o+vbi+NP	
+Emai	40	TIE	gba íì	Basic	1 > V > 2	1	tier	Ø	A
+Emai	40	TIE	gba íì	Basic	1 > V > 2	2	tied thing	Ø	P
+Emai	41	PUT	V ọ	Basic	1>V>2>vbi+3	1	putter	Ø	A
+Emai	41	PUT	V ọ	Basic	1>V>2>vbi+3	2	put thing	Ø	P
+Emai	41	PUT	V ọ	Basic	1>V>2>vbi+3	3	putting goal	vbi+NP	L
+Emai	42	POUR	ọọn ọ́	Basic	1>V>2>vbi+3	1	pourer	Ø	A
+Emai	42	POUR	ọọn ọ́	Basic	1>V>2>vbi+3	2	poured substance	Ø	P
+Emai	42	POUR	ọọn ọ́	Basic	1>V>2>vbi+3	3	pouring goal	vbi+NP	L
+Emai	42	POUR	ọọn ọ́	Derived	1>re+4>V'>2>vbi+3	1	pourer	Ø	
+Emai	42	POUR	ọọn ọ́	Derived	1>re+4>V'>2>vbi+3	2	poured substance	Ø	
+Emai	42	POUR	ọọn ọ́	Derived	1>re+4>V'>2>vbi+3	3	pouring goal	vbi+NP	
+Emai	43	COVER	voo	Basic	1 > V > 2	1	coverer	Ø	A
+Emai	43	COVER	voo	Basic	1 > V > 2	2	covered thing	Ø	P
+Emai	43	COVER	voo	Derived	1>re+4>V'>2	1	coverer	Ø	
+Emai	43	COVER	voo	Derived	1>re+4>V'>2	2	covered thing	Ø	
+Emai	43	COVER	voo	Derived	1>re+4>V'>2	4	cover instrument	re+NP	
+Emai	44	FILL	khaan	Basic	1 > V > 2	1	filler	Ø	A
+Emai	44	FILL	khaan	Basic	1 > V > 2	2	filled container	Ø	P
+Emai	44	FILL	vọọn	Basic	1 > V > 2	1	filling material	Ø	A
+Emai	44	FILL	vọọn	Basic	1 > V > 2	2	filled container	Ø	P
+Emai	44	FILL	vọọn	Derived	2>V'	2	filled container	Ø	
+Emai	45	LOAD	hee	Basic	1 > V > 2	1	loader	Ø	A
+Emai	45	LOAD	hee	Basic	1 > V > 2	2	loaded thing	Ø	P
+Emai	45	LOAD	maa	Basic	1 > V > 2	1	loader	Ø	A
+Emai	45	LOAD	maa	Basic	1 > V > 2	2	loaded thing	Ø	P
+Emai	45	LOAD	maa	Derived	1>V'>2>o+vbi+5	1	loader	Ø	
+Emai	45	LOAD	maa	Derived	1>V'>2>o+vbi+5	2	loaded thing	Ø	
+Emai	45	LOAD	maa	Derived	1>V'>2>o+vbi+5	5	loading place	o+vbi+NP	
+Emai	46	BLINK	gbe ẹ̀ò	Basic	1>V	1	blinker	Ø	I
+Emai	47	COUGH	kẹnhẹn	Basic	1>V	1	cougher	Ø	I
+Emai	48	CLIMB	hẹẹn	Basic	1 > V > 2	1	climber	Ø	A
+Emai	48	CLIMB	hẹẹn	Basic	1 > V > 2	2	climbing goal	Ø	P
+Emai	48	CLIMB	hẹẹn	Derived	1>re+4>V'>2	1	climber	Ø	
+Emai	48	CLIMB	hẹẹn	Derived	1>re+4>V'>2	2	climbing goal	Ø	
+Emai	48	CLIMB	hẹẹn	Derived	1>re+4>V'>2	4	climb instrument	re+NP	
+Emai	49	RUN	la	Basic	1>V	1	runner	Ø	I
+Emai	49	RUN	la	Derived	1>V'>lí+2	1	runner	Ø	
+Emai	49	RUN	la	Derived	1>V'>lí+2	2	run from source	lí+NP	
+Emai	50	SIT	dia (1)	Basic	1>V>vbi+2	1	sitter	Ø	I
+Emai	50	SIT	dia (1)	Basic	1>V>vbi+2	2	sitting place	vbi+NP	L
+Emai	52	JUMP	san	Basic	1>V	1	jumper	Ø	I
+Emai	52	JUMP	vbọọ	Basic	1>V	1	jumper	Ø	I
+Emai	53	SING	so	Basic	1 > V > 2	1	singer	Ø	A
+Emai	53	SING	so	Basic	1 > V > 2	2	song	Ø	P
+Emai	53	SING	so	Derived	1>V'>2>vbiee+3	1	singer	Ø	
+Emai	53	SING	so	Derived	1>V'>2>vbiee+3	2	song	Ø	
+Emai	53	SING	so	Derived	1>V'>2>vbiee+3	3	sung-to person	vbiee+NP	
+Emai	54	GO	lodẹ	Basic	1>V>vbi+2	1	goer	Ø	I
+Emai	54	GO	lodẹ	Basic	1>V>vbi+2	2	going goal	vbi+NP	L
+Emai	55	LEAVE	shọọ re	Basic	1>V>vbi+2	1	leaver	Ø	I
+Emai	55	LEAVE	shọọ re	Basic	1>V>vbi+2	2	left place/person	vbi+NP	L
+Emai	55	LEAVE	shọọ re	Derived	1>V'	1	leaver	Ø	
+Emai	55	LEAVE	zá raalẹ	Basic	1>V>vbi+2	1	leaver	Ø	I
+Emai	55	LEAVE	zá raalẹ	Basic	1>V>vbi+2	2	left place/person	vbi+NP	L
+Emai	55	LEAVE	zá raalẹ	Derived	1>V'	1	leaver	Ø	
+Emai	56	LIVE	dia (2)	Basic	1>V>vbi+2	1	liver	Ø	I
+Emai	56	LIVE	dia (2)	Basic	1>V>vbi+2	2	living place	vbi+NP	L
+Emai	57	LAUGH	jẹ	Basic	1 > V > 2	1	laugher	Ø	A
+Emai	57	LAUGH	jẹ	Basic	1 > V > 2	2	laughed-about thing	Ø	P
+Emai	57	LAUGH	jẹ	Derived	1>V'	1	laugher	Ø	
+Emai	59	FEEL PAIN	to (1)	Basic	1 > V > 2	1	pain locus	Ø	A
+Emai	59	FEEL PAIN	to (1)	Basic	1 > V > 2	2	pain-feeler	Ø	P
+Emai	60	FEEL COLD	úììn gbe	Basic	V>1	1	freezing person	Ø	I
+Emai	61	DIE	u	Basic	1>V	1	dieer	Ø	I
+Emai	61	DIE	u	Derived	1>V'>o+vbi+5	1	dieer	Ø	
+Emai	61	DIE	u	Derived	1>V'>o+vbi+5	5	dying location	o+vbi+NP	
+Emai	62	PLAY	doo	Basic	1>V	1	player	Ø	I
+Emai	62	PLAY	doo	Derived	1>re+4>V'	1	player	Ø	
+Emai	62	PLAY	doo	Derived	1>re+4>V'	4	toy	re+NP	
+Emai	62	PLAY	sie	Basic	1>V	1	player	Ø	I
+Emai	64	BE HUNGRY	òhànmì gbe	Basic	V>1	1	hungry person	Ø	I
+Emai	66	SINK	de o	Basic	1>V	1	sunken entity	Ø	I
+Emai	68	BE DRY	ka	Basic	1>V	1	dry thing	Ø	I
+Emai	71	GRIND	lọ	Basic	1 > V > 2	1	grinder	Ø	A
+Emai	71	GRIND	lọ	Basic	1 > V > 2	2	ground thing	Ø	P
+Emai	71	GRIND	lọ	Derived	1>re+4>V'>2	1	grinder	Ø	
+Emai	71	GRIND	lọ	Derived	1>re+4>V'>2	2	ground thing	Ø	
+Emai	71	GRIND	lọ	Derived	1>re+4>V'>2	4	grinding instrument	re+NP	
+Emai	71	GRIND	lọ	Derived	1>V'>2>lí+3	1	grinder	Ø	
+Emai	71	GRIND	lọ	Derived	1>V'>2>lí+3	2	ground thing	Ø	
+Emai	71	GRIND	lọ	Derived	1>V'>2>lí+3	3	grind beneficiary	lí+NP	
+Emai	71	GRIND	lọ	Derived	1>V'>2>o+vbi+5	1	grinder	Ø	
+Emai	71	GRIND	lọ	Derived	1>V'>2>o+vbi+5	2	ground thing	Ø	
+Emai	71	GRIND	lọ	Derived	1>V'>2>o+vbi+5	5	grinding location	o+vbi+NP	
+Emai	72	WIPE	kalọ	Basic	1 > V > 2	1	wiper	Ø	A
+Emai	72	WIPE	kalọ	Basic	1 > V > 2	2	wiping surface	Ø	P
+Emai	72	WIPE	kalọ	Derived	1>re+4>V'>2	1	wiper	Ø	
+Emai	72	WIPE	kalọ	Derived	1>re+4>V'>2	2	wiping surface	Ø	
+Emai	72	WIPE	kalọ	Derived	1>re+4>V'>2	4	wipe instrument	re+NP	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>lí+3	1	wiper	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>lí+3	2	wiping surface	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>lí+3	3	wipe beneficiary	lí+NP	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>o+vbi+5	1	wiper	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>o+vbi+5	2	wiping surface	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>o+vbi+5	5	wipe goal	o+vbi+NP	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>vbi+6+re	1	wiper	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>vbi+6+re	2	wiping surface	Ø	
+Emai	72	WIPE	kalọ	Derived	1>V'>2>vbi+6+re	6	wiped material	vbi+NP+re	
+Emai	73	DIG	tọn	Basic	1 > V > 2	1	digger	Ø	A
+Emai	73	DIG	tọn	Basic	1 > V > 2	2	dug up thing	Ø	P
+Emai	73	DIG	tọn	Derived	1>re+4>V'>2	1	digger	Ø	
+Emai	73	DIG	tọn	Derived	1>re+4>V'>2	2	dug up thing	Ø	
+Emai	73	DIG	tọn	Derived	1>re+4>V'>2	4	digging instrument	re+NP	
+Emai	73	DIG	tọn	Derived	1>V'>2>lí+3	1	digger	Ø	
+Emai	73	DIG	tọn	Derived	1>V'>2>lí+3	2	dug up thing	Ø	
+Emai	73	DIG	tọn	Derived	1>V'>2>lí+3	3	dig beneficiary	lí+NP	
+Emai	73	DIG	vun	Basic	1 > V > 2	1	digger	Ø	A
+Emai	73	DIG	vun	Basic	1 > V > 2	2	dug up thing	Ø	P
+Emai	73	DIG	vun	Derived	1>re+4>V'>2	1	digger	Ø	
+Emai	73	DIG	vun	Derived	1>re+4>V'>2	2	dug up thing	Ø	
+Emai	73	DIG	vun	Derived	1>re+4>V'>2	4	digging instrument	re+NP	
+Emai	73	DIG	vun	Derived	1>V'>2>lí+3	1	digger	Ø	
+Emai	73	DIG	vun	Derived	1>V'>2>lí+3	2	dug up thing	Ø	
+Emai	73	DIG	vun	Derived	1>V'>2>lí+3	3	dig beneficiary	lí+NP	
+Emai	74	PUSH	sua	Basic	1 > V > 2	1	pusher	Ø	A
+Emai	74	PUSH	sua	Basic	1 > V > 2	2	pushee	Ø	P
+Emai	74	PUSH	sua	Derived	1>V'>2>lí+3	1	pusher	Ø	
+Emai	74	PUSH	sua	Derived	1>V'>2>lí+3	2	pushee	Ø	
+Emai	74	PUSH	sua	Derived	1>V'>2>lí+3	3	push beneficiary	lí+NP	
+Emai	74	PUSH	sua	Derived	1>V'>2>ye+5	1	pusher	Ø	
+Emai	74	PUSH	sua	Derived	1>V'>2>ye+5	2	pushee	Ø	
+Emai	74	PUSH	sua	Derived	1>V'>2>ye+5	5	pushing goal	ye+NP	
+Emai	75	BRING	V re	Basic	1 > V > 2	1	bringer	Ø	A
+Emai	75	BRING	V re	Basic	1 > V > 2	2	brought thing	Ø	P
+Emai	76	STEAL	do V	Basic	1 > V > 2	1	stealer	Ø	A
+Emai	76	STEAL	do V	Basic	1 > V > 2	2	stolen thing	Ø	P
+Emai	77	TEACH	vbiẹẹ	Basic	1>V>2>3	1	teacher	Ø	A
+Emai	77	TEACH	vbiẹẹ	Basic	1>V>2>3	2	teachee	Ø	P
+Emai	77	TEACH	vbiẹẹ	Basic	1>V>2>3	3	taught content	Ø	I
+Emai	78	HEAR	họn	Basic	1 > V > 2	1	hearer	Ø	A
+Emai	78	HEAR	họn	Basic	1 > V > 2	2	heard sound	Ø	P
+Emai	79	COOK	nyẹ	Basic	1 > V > 2	1	cooker	Ø	A
+Emai	79	COOK	nyẹ	Basic	1 > V > 2	2	cooked food	Ø	P
+Emai	79	COOK	nyẹ	Derived	1>re+4>V'>2	1	cooker	Ø	
+Emai	79	COOK	nyẹ	Derived	1>re+4>V'>2	2	cooked food	Ø	
+Emai	79	COOK	nyẹ	Derived	1>re+4>V'>2	4	cooking instrument	re+NP	
+Emai	79	COOK	nyẹ	Derived	1>V'>2>lí+3	1	cooker	Ø	
+Emai	79	COOK	nyẹ	Derived	1>V'>2>lí+3	2	cooked food	Ø	
+Emai	79	COOK	nyẹ	Derived	1>V'>2>lí+3	3	cook beneficiary	lí+NP	
+Emai	79	COOK	vbie	Basic	1 > V > 2	1	cook causer	Ø	A
+Emai	79	COOK	vbie	Basic	1 > V > 2	2	cooked food	Ø	P
+Emai	79	COOK	vbie	Derived	2>V'	2	cooked food	Ø	
+Emai	80	BOIL	tin	Basic	1>V	1	boiled thing	Ø	I
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Basic	1 > V > 2	1	appearer	Ø	A
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Basic	1 > V > 2	2	appear beneficiary	Ø	P
+Emai	81	APPEAR	rẹ égbè vbiẹẹ	Derived	1>V'	1	appearer	Ø	
+Emai	82	BE ILL	to (2)	Basic	V>1	1	sick person	Ø	I
+Emai	83	CRY	viẹ	Basic	1 > V > 2	1	crier	Ø	A
+Emai	83	CRY	viẹ	Basic	1 > V > 2	2	cried after/for person	Ø	P
+Emai	83	CRY	viẹ	Derived	1>V'	1	crier	Ø	
+Emai	84	FALL	de	Basic	1>V	1	fallee	Ø	I
+Emai	85	MAKE	ẹhẹn	Basic	1 > V > 2	1	maker	Ø	A
+Emai	85	MAKE	ẹhẹn	Basic	1 > V > 2	2	made thing	Ø	P
+Emai	85	MAKE	ẹhẹn	Derived	1>re+4>V'>2	1	maker	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>re+4>V'>2	2	made thing	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>re+4>V'>2	4	making material	re+NP	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>lí+3	1	maker	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>lí+3	2	made thing	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>lí+3	3	make beneficiary	lí+NP	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>ye+5	1	maker	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>ye+5	2	made thing	Ø	
+Emai	85	MAKE	ẹhẹn	Derived	1>V'>2>ye+5	5	make location	ye+NP	
+Emai	86	GET	miẹẹ (2)	Basic	1>V>2>3	1	receiver	Ø	A
+Emai	86	GET	miẹẹ (2)	Basic	1>V>2>3	2	receiving source	Ø	P
+Emai	86	GET	miẹẹ (2)	Basic	1>V>2>3	3	received thing	Ø	I
+Emai	87	WANT	hoo (2)	Basic	1>V>li+CC2	1	wanter	Ø	I
+Emai	87	WANT	hoo (2)	Basic	1>V>li+CC2	2	wanted thing	li+CC	X
+Emai	90	SPEAK	ta étà	Basic	1>V	1	speaker	Ø	I
+Emai	90	SPEAK	ta étà	Derived	1>V'>li+3+hon	1	speaker	Ø	
+Emai	90	SPEAK	ta étà	Derived	1>V'>li+3+hon	3	spoken to person	li+NP+hon	
+Emai	91	BE COLD	fọ	Basic	1>V	1	cold thing	Ø	I
+Emai	109	ASK (a question)	ẹ	Basic	1>V>2 UTT3	1	Q asker	Ø	A
+Emai	109	ASK (a question)	ẹ	Basic	1>V>2 UTT3	2	Q asked person	Ø	P
+Emai	109	ASK (a question)	ẹ	Basic	1>V>2 UTT3	3	Q	UTT	X
+Emai	109	ASK (a question)	miaa étà	Basic	1>V>vbi+2	1	Q asker	Ø	I
+Emai	109	ASK (a question)	miaa étà	Basic	1>V>vbi+2	2	Q asked person	vbi+NP	L
+Emai	109	ASK (a question)	miaa étà	Derived	1>V'	1	Q asker	Ø	
+Emai	116	BURN (tr)	too	Basic	1 > V > 2	1	burner (tr)	Ø	A
+Emai	116	BURN (tr)	too	Basic	1 > V > 2	2	burnt thing (tr)	Ø	P
+Emai	116	BURN (tr)	too	Derived	1>re+4>V'>2	1	burner (tr)	Ø	
+Emai	116	BURN (tr)	too	Derived	1>re+4>V'>2	2	burnt thing (tr)	Ø	
+Emai	116	BURN (tr)	too	Derived	1>re+4>V'>2	4	burn instrument (tr)	re+NP	
+Emai	116	BURN (tr)	too	Derived	2>V'	2	burnt thing (tr)	Ø	
+Emai	125	SINK (tr)	ha o	Basic	1 > V > 2	1	sink-(caus)er (tr)	Ø	A
+Emai	125	SINK (tr)	ha o	Basic	1 > V > 2	2	sunken entity (tr)	Ø	P
+Emai	125	SINK (tr)	ha o	Derived	1>V'	1	sink-(caus)er (tr)	Ø	
+Emai	128	ROLL (tr)	gbulu	Basic	1 > V > 2	1	roller (tr)	Ø	A
+Emai	128	ROLL (tr)	gbulu	Basic	1 > V > 2	2	rolling thing (tr)	Ø	P
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>vbi+6+re	1	roller (tr)	Ø	
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>vbi+6+re	2	rolling thing (tr)	Ø	
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>vbi+6+re	6	rolling location (tr)	vbi+NP+re	
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>ye+5	1	roller (tr)	Ø	
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>ye+5	2	rolling thing (tr)	Ø	
+Emai	128	ROLL (tr)	gbulu	Derived	1>V'>2>ye+5	5	rolling goal (tr)	ye+NP	
+Emai	128	ROLL (tr)	gbulu	Derived	2>V'	2	rolling thing (tr)	Ø	

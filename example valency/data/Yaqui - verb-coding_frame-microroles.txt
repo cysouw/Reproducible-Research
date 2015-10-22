@@ -1,0 +1,167 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Yaqui	1	EAT	bwa’e	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Yaqui	1	EAT	bwa’e	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Yaqui	2	HUG	ibakta	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Yaqui	2	HUG	ibakta	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Yaqui	3	LOOK AT	bitchu	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Yaqui	3	LOOK AT	bitchu	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Yaqui	4	SEE	bitcha	Basic	1-nom 2-acc V	1	seeer	NP-nom	A
+Yaqui	4	SEE	bitcha	Basic	1-nom 2-acc V	2	seen entity	NP-acc	P
+Yaqui	5	SMELL	jukta	Basic	1-nom 2-acc V	1	smeller	NP-nom	A
+Yaqui	5	SMELL	jukta	Basic	1-nom 2-acc V	2	smelled entity	NP-acc	P
+Yaqui	6	FEAR	majae	Basic	1-nom 2-acc V	1	fearer	NP-nom	A
+Yaqui	6	FEAR	majae	Basic	1-nom 2-acc V	2	fear stimulus	NP-acc	P
+Yaqui	7	FRIGHTEN	gomta	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Yaqui	7	FRIGHTEN	gomta	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Yaqui	8	LIKE	tu’ure	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Yaqui	8	LIKE	tu’ure	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Yaqui	9	KNOW	ta’a	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Yaqui	9	KNOW	ta’a	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Yaqui	10	THINK	ea	Basic	1-nom 2-acc V	1	thinker	NP-nom	A
+Yaqui	10	THINK	ea	Basic	1-nom 2-acc V	2	thought content	NP-acc	P
+Yaqui	11	SEARCH FOR	jariwa	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Yaqui	11	SEARCH FOR	jariwa	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Yaqui	12	WASH	baksia	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Yaqui	12	WASH	baksia	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Yaqui	13	DRESS	a’ana	Basic	1-nom 2-acc V	1	dresser	NP-nom	A
+Yaqui	13	DRESS	a’ana	Basic	1-nom 2-acc V	2	dressee	NP-acc	P
+Yaqui	15	HELP	ania	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Yaqui	15	HELP	ania	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Yaqui	16	FOLLOW	jajase	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Yaqui	16	FOLLOW	jajase	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Yaqui	17	MEET	tea (2)	Basic	1-nom 2-acc V	1	meeter	NP-nom	A
+Yaqui	17	MEET	tea (2)	Basic	1-nom 2-acc V	2	met person	NP-acc	P
+Yaqui	18	TALK	etejo (2)	Basic	1-nom V	1	talker	NP-nom	S
+Yaqui	19	ASK FOR	a’awa	Basic	1-nom 2-acc V	1	asker	NP-nom	A
+Yaqui	19	ASK FOR	a’awa	Basic	1-nom 2-acc V	2	requested thing	NP-acc	P
+Yaqui	20	SHOUT AT	chaae (1)	Basic	1-nom 2-acc-dir V	1	shouter	NP-nom	S
+Yaqui	20	SHOUT AT	chaae (1)	Basic	1-nom 2-acc-dir V	2	shoutee	NP-acc-dir	X
+Yaqui	21	TELL	etejo (1)	Basic	1-nom 2-dir 3-acc V	1	teller	NP-nom	A
+Yaqui	21	TELL	etejo (1)	Basic	1-nom 2-dir 3-acc V	2	tellee	NP-dir	X
+Yaqui	21	TELL	etejo (1)	Basic	1-nom 2-dir 3-acc V	3	told content	NP-acc	P
+Yaqui	21	TELL	teuwa	Basic	1-nom 2-acc 3-dir V	1	teller	NP-nom	A
+Yaqui	21	TELL	teuwa	Basic	1-nom 2-acc 3-dir V	2	told content	NP-acc	P
+Yaqui	21	TELL	teuwa	Basic	1-nom 2-acc 3-dir V	3	tellee	NP-dir	X
+Yaqui	22	SAY	tejwa	Basic	1-nom UTT2 (3-acc) V	1	sayer	NP-nom	A
+Yaqui	22	SAY	tejwa	Basic	1-nom UTT2 (3-acc) V	2	said content	UTT	X
+Yaqui	22	SAY	tejwa	Basic	1-nom UTT2 (3-acc) V	3	saying addressee	NP-acc	P
+Yaqui	24	BUILD	yaa	Basic	1-nom 2-acc V	1	builder	NP-nom	A
+Yaqui	24	BUILD	yaa	Basic	1-nom 2-acc V	2	built thing	NP-acc	P
+Yaqui	25	BREAK	jamta	Basic	1-nom 2-acc (3-instr) V	1	breaker	NP-nom	A
+Yaqui	25	BREAK	jamta	Basic	1-nom 2-acc (3-instr) V	2	broken thing	NP-acc	P
+Yaqui	25	BREAK	jamta	Basic	1-nom 2-acc (3-instr) V	3	breaking instrument	NP-instr	I
+Yaqui	26	KILL	me’a	Basic	1-nom 2-acc (3-instr) V	1	killer	NP-nom	A
+Yaqui	26	KILL	me’a	Basic	1-nom 2-acc (3-instr) V	2	killee	NP-acc	P
+Yaqui	26	KILL	me’a	Basic	1-nom 2-acc (3-instr) V	3	killing instrument	NP-instr	I
+Yaqui	27	BEAT	tasta	Basic	1-nom 2-acc V	1	beater	NP-nom	A
+Yaqui	27	BEAT	tasta	Basic	1-nom 2-acc V	2	beatee	NP-acc	P
+Yaqui	28	HIT	beeba	Basic	1-nom 2-acc (3-instr) V	1	hitter	NP-nom	A
+Yaqui	28	HIT	beeba	Basic	1-nom 2-acc (3-instr) V	2	hittee	NP-acc	P
+Yaqui	28	HIT	beeba	Basic	1-nom 2-acc (3-instr) V	3	hitting instrument	NP-instr	I
+Yaqui	28	HIT	tasta	Basic	1-nom 2-acc V	1	hitter	NP-nom	A
+Yaqui	28	HIT	tasta	Basic	1-nom 2-acc V	2	hittee	NP-acc	P
+Yaqui	29	TOUCH	bwibwise	Basic	1-nom 2-acc V	1	toucher	NP-nom	A
+Yaqui	29	TOUCH	bwibwise	Basic	1-nom 2-acc V	2	touchee	NP-acc	P
+Yaqui	30	CUT	chukta	Basic	1-nom 2-acc V	1	cutter	NP-nom	A
+Yaqui	30	CUT	chukta	Basic	1-nom 2-acc V	2	cut thing	NP-acc	P
+Yaqui	31	TAKE	nu’e	Basic	1-nom 2-acc V	1	taker	NP-nom	A
+Yaqui	31	TAKE	nu’e	Basic	1-nom 2-acc V	2	taken thing	NP-acc	P
+Yaqui	32	TEAR	siuta	Basic	1-nom 2-acc V	1	tearer	NP-nom	A
+Yaqui	32	TEAR	siuta	Basic	1-nom 2-acc V	2	torn thing	NP-acc	P
+Yaqui	33	PEEL	besuma	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Yaqui	33	PEEL	besuma	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Yaqui	34	HIDE	esso	Basic	1-nom 2-acc V	1	hider	NP-nom	A
+Yaqui	34	HIDE	esso	Basic	1-nom 2-acc V	2	hidden thing	NP-acc	P
+Yaqui	35	SHOW	bittua (2)	Basic	1-nom 2-acc 3-acc V	1	shower	NP-nom	A
+Yaqui	35	SHOW	bittua (2)	Basic	1-nom 2-acc 3-acc V	2	shown thing	NP-acc	P
+Yaqui	35	SHOW	bittua (2)	Basic	1-nom 2-acc 3-acc V	3	showing addressee	NP-acc	P
+Yaqui	36	GIVE	maka	Basic	1-nom 2-acc 3-acc V	1	giver	NP-nom	A
+Yaqui	36	GIVE	maka	Basic	1-nom 2-acc 3-acc V	2	giving recipient	NP-acc	P
+Yaqui	36	GIVE	maka	Basic	1-nom 2-acc 3-acc V	3	gift	NP-acc	P
+Yaqui	37	SEND	bittua (1)	Basic	1-nom 2-dir 3-acc V	1	sender	NP-nom	A
+Yaqui	37	SEND	bittua (1)	Basic	1-nom 2-dir 3-acc V	2	sending recipient	NP-dir	X
+Yaqui	37	SEND	bittua (1)	Basic	1-nom 2-dir 3-acc V	3	sent thing	NP-acc	P
+Yaqui	38	CARRY	toja	Basic	1-nom 2-acc 3-dir V	1	carrier	NP-nom	A
+Yaqui	38	CARRY	toja	Basic	1-nom 2-acc 3-dir V	2	carried thing	NP-acc	P
+Yaqui	38	CARRY	toja	Basic	1-nom 2-acc 3-dir V	3	carrying goal	NP-dir	X
+Yaqui	39	THROW	watta	Basic	1-nom 2-acc V	1	thrower	NP-nom	A
+Yaqui	39	THROW	watta	Basic	1-nom 2-acc V	2	thrown thing	NP-acc	P
+Yaqui	40	TIE	suma	Basic	1-nom 2-dir 3-acc V	1	tier	NP-nom	A
+Yaqui	40	TIE	suma	Basic	1-nom 2-dir 3-acc V	2	tying goal	NP-dir	X
+Yaqui	40	TIE	suma	Basic	1-nom 2-dir 3-acc V	3	tied thing	NP-acc	P
+Yaqui	41	PUT	joa	Basic	1-nom 2-acc LOC3 V	1	putter	NP-nom	A
+Yaqui	41	PUT	joa	Basic	1-nom 2-acc LOC3 V	2	put thing	NP-acc	P
+Yaqui	41	PUT	joa	Basic	1-nom 2-acc LOC3 V	3	putting goal	NP-loc	L
+Yaqui	41	PUT	mana	Basic	1-nom 2-acc LOC3 V	1	putter	NP-nom	A
+Yaqui	41	PUT	mana	Basic	1-nom 2-acc LOC3 V	2	put thing	NP-acc	P
+Yaqui	41	PUT	mana	Basic	1-nom 2-acc LOC3 V	3	putting goal	NP-loc	L
+Yaqui	42	POUR	to’a	Basic	1-nom 2-acc 3-loc V	1	pourer	NP-nom	A
+Yaqui	42	POUR	to’a	Basic	1-nom 2-acc 3-loc V	2	poured substance	NP-acc	P
+Yaqui	42	POUR	to’a	Basic	1-nom 2-acc 3-loc V	3	pouring goal	NP-loc	L
+Yaqui	43	COVER	patta	Basic	1-nom 2-acc (3-instr) V	1	coverer	NP-nom	A
+Yaqui	43	COVER	patta	Basic	1-nom 2-acc (3-instr) V	2	covered thing	NP-acc	P
+Yaqui	43	COVER	patta	Basic	1-nom 2-acc (3-instr) V	3	cover	NP-instr	I
+Yaqui	44	FILL	tapunia	Basic	1-nom 2-acc (3-instr) V	1	filler	NP-nom	A
+Yaqui	44	FILL	tapunia	Basic	1-nom 2-acc (3-instr) V	2	filled container	NP-acc	P
+Yaqui	44	FILL	tapunia	Basic	1-nom 2-acc (3-instr) V	3	filling material	NP-instr	I
+Yaqui	45	LOAD	pu'akta	Basic	1-nom 2-acc 3-loc V	1	loader	NP-nom	A
+Yaqui	45	LOAD	pu'akta	Basic	1-nom 2-acc 3-loc V	2	loaded thing	NP-acc	P
+Yaqui	45	LOAD	pu'akta	Basic	1-nom 2-acc 3-loc V	3	loading place	NP-loc	L
+Yaqui	46	BLINK	kupikte	Basic	1-nom V	1	blinker	NP-nom	S
+Yaqui	47	COUGH	tase	Basic	1-nom V	1	cougher	NP-nom	S
+Yaqui	48	CLIMB	ja’amu	Basic	1-nom (2-loc) V	1	climber	NP-nom	S
+Yaqui	48	CLIMB	ja’amu	Basic	1-nom (2-loc) V	2	climbing goal	NP-loc	L
+Yaqui	49	RUN	buite	Basic	1-nom V	1	runner	NP-nom	S
+Yaqui	50	SIT	yejte	Basic	1-nom 2-loc V	1	sitter	NP-nom	S
+Yaqui	50	SIT	yejte	Basic	1-nom 2-loc V	2	sitting place	NP-loc	L
+Yaqui	51	SIT DOWN	yejte	Basic	1-nom 2-loc V	1	sitdowner	NP-nom	S
+Yaqui	51	SIT DOWN	yejte	Basic	1-nom 2-loc V	2	sitting-down place	NP-loc	L
+Yaqui	52	JUMP	chepte	Basic	1-nom V	1	jumper	NP-nom	S
+Yaqui	53	SING	bwiika	Basic	1-nom 2-acc V	1	singer	NP-nom	A
+Yaqui	53	SING	bwiika	Basic	1-nom 2-acc V	2	song	NP-acc	P
+Yaqui	54	GO	siika	Basic	1-nom (2-dir) V	1	goer	NP-nom	S
+Yaqui	54	GO	siika	Basic	1-nom (2-dir) V	2	going goal	NP-dir	X
+Yaqui	55	LEAVE	watakte	Basic	1-nom (2-dir) V	1	leaver	NP-nom	S
+Yaqui	55	LEAVE	watakte	Basic	1-nom (2-dir) V	2	leaving goal	NP-dir	X
+Yaqui	56	LIVE	jo’a	Basic	1-nom 2-loc V	1	liver	NP-nom	S
+Yaqui	56	LIVE	jo’a	Basic	1-nom 2-loc V	2	living place	NP-loc	L
+Yaqui	57	LAUGH	aache	Basic	1-nom V	1	laugher	NP-nom	S
+Yaqui	58	SCREAM	chaae (2)	Basic	1-nom V	1	screamer	NP-nom	S
+Yaqui	59	FEEL PAIN	wante	Basic	1-nom 2-loc V	1	pain-feeler	NP-nom	S
+Yaqui	59	FEEL PAIN	wante	Basic	1-nom 2-loc V	2	pain locus	NP-loc	L
+Yaqui	60	FEEL COLD	chubakte	Basic	1-nom V	1	freezing person	NP-nom	S
+Yaqui	61	DIE	muuke	Basic	1-nom V	1	dieer	NP-nom	S
+Yaqui	62	PLAY	yeewe	Basic	1-nom V	1	player	NP-nom	S
+Yaqui	63	BE SAD	rojikte	Basic	1-nom V	1	sad person	NP-nom	S
+Yaqui	64	BE HUNGRY	tebaure	Basic	1-nom V	1	hungry person	NP-nom	S
+Yaqui	65	ROLL	ro’akte	Basic	1-nom V	1	rolling entity	NP-nom	S
+Yaqui	66	SINK	go’okte	Basic	1-nom V	1	sunken entity	NP-nom	S
+Yaqui	67	BURN	beete	Basic	1-nom V	1	burnt thing	NP-nom	S
+Yaqui	68	BE DRY	waake	Basic	1-nom V	1	dry thing	NP-nom	S
+Yaqui	69	RAIN	yuke	Basic	(1-dir) V	1	rain goal	NP-dir	X
+Yaqui	70	BE A HUNTER	amureo	Basic	1-nom V	1	specialist/hunter	NP-nom	S
+Yaqui	71	GRIND	tuuse	Basic	1-nom 2-acc V	1	grinder	NP-nom	A
+Yaqui	71	GRIND	tuuse	Basic	1-nom 2-acc V	2	ground thing	NP-acc	P
+Yaqui	72	WIPE	tu’ute	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Yaqui	72	WIPE	tu’ute	Basic	1-nom 2-acc V	2	wiping surface	NP-acc	P
+Yaqui	73	DIG	bweje	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Yaqui	73	DIG	bweje	Basic	1-nom 2-acc V	2	dug hole/ground	NP-acc	P
+Yaqui	74	PUSH	yu’a	Basic	1-nom 2-acc 3-dir V	1	pusher	NP-nom	A
+Yaqui	74	PUSH	yu’a	Basic	1-nom 2-acc 3-dir V	2	pushee	NP-acc	P
+Yaqui	74	PUSH	yu’a	Basic	1-nom 2-acc 3-dir V	3	pushing goal	NP-dir	X
+Yaqui	75	BRING	nu'upa	Basic	1-nom 2-dir 3-acc V	1	bringer	NP-nom	A
+Yaqui	75	BRING	nu'upa	Basic	1-nom 2-dir 3-acc V	2	bringing recipient	NP-dir	X
+Yaqui	75	BRING	nu'upa	Basic	1-nom 2-dir 3-acc V	3	brought thing	NP-acc	P
+Yaqui	76	STEAL	etbwa	Basic	1-nom 2-acc V	1	stealer	NP-nom	A
+Yaqui	76	STEAL	etbwa	Basic	1-nom 2-acc V	2	stolen thing	NP-acc	P
+Yaqui	77	TEACH	majta	Basic	1-nom 2-acc 3 V	1	teacher	NP-nom	A
+Yaqui	77	TEACH	majta	Basic	1-nom 2-acc 3 V	2	taught content	NP-acc	P
+Yaqui	77	TEACH	majta	Basic	1-nom 2-acc 3 V	3	teachee	Ø	X
+Yaqui	78	HEAR	jikkaja	Basic	1-nom 2-acc V	1	hearer	NP-nom	A
+Yaqui	78	HEAR	jikkaja	Basic	1-nom 2-acc V	2	heard sound	NP-acc	P
+Yaqui	79	COOK	bwasa	Basic	1-nom 2-acc V	1	cooker	NP-nom	A
+Yaqui	79	COOK	bwasa	Basic	1-nom 2-acc V	2	cooked food	NP-acc	P
+Yaqui	80	BOIL	pojte	Basic	1-nom V	1	boiled thing	NP-nom	S
+Yaqui	140	BE NAMED	tea (1)	Basic	1-nom 2 V	1	name carrier	NP-nom	S
+Yaqui	140	BE NAMED	tea (1)	Basic	1-nom 2 V	2	name (intr.)	Ø	X
+Yaqui	150	SHAVE (self)	bekta	Basic	1-nom V	1	shaver (of self)	NP-nom	S

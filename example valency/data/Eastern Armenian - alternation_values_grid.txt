@@ -1,0 +1,98 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Causative	Causative-Mediopassive	Contentive	Internal Object	Mediopassive	Object Omission	Proprietive	Reciprocal
+Eastern Armenian	1	EAT	utel	1, 130, 195, 197	1-nom 2-nomdat V.subj[1]	Marginally	Never	Never	Never	Marginally	Marginally	Never	Never
+Eastern Armenian	2	HUG	gɾkel	82	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	3	LOOK AT	najel	43, 116, 141, 168	1-nom 2-dat V.subj[1]	Never	Never	Never	Never	Marginally	Never	Never	Regularly
+Eastern Armenian	4	SEE	tesnel	42, 163, 165, 166	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	5	SMELL	hototel	83	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Eastern Armenian	5	SMELL	hot arnel	84, 167	1-nom 2-gen V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	6	FEAR	vaχenal	44, 45, 155	1-nom 2-abl V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	44	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	8	LIKE	havanel	46	1-nom 2-nomdat V.subj[1]	Marginally	Never	Never	Never	Marginally	Never	Never	Never
+Eastern Armenian	8	LIKE	dur gal	47	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	8	LIKE	siɾel	115, 123, 124	1-nom 2-nomdat V.subj[1]	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	9	KNOW	čanačʰel	41, 121	1-nom 2-nomdat V.subj[1]	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	10	THINK	mtacel	85	1-nom 2+masin V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	48	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	12	WASH	loʁacʰnel	53	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	12	WASH	lval	54, 192	1-nom 2-nomdat V.subj[1]	Marginally	Regularly	Never	Never	Never	Never	Never	Never
+Eastern Armenian	13	DRESS	hagcʰnel	52	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	14	SHAVE (a body part/person)											
+Eastern Armenian	15	HELP	ognel	51, 158	1-nom 2-dat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	16	FOLLOW	hetevel	50, 197	1-nom 2-dat V.subj[1]	Marginally	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	17	MEET	handipel	49, 135, 157, 199	1-nom 2-dat V.subj[1]	Marginally	Never	Never	Never	Marginally	Never	Never	Regularly
+Eastern Armenian	18	TALK	χosel	40, 200, 201	1-nom 2+het 3+masin V.subj[1]	Regularly	Never	Never	Never	Regularly	Never	Never	Regularly
+Eastern Armenian	19	ASK FOR	χndɾel	39, 166	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Eastern Armenian	20	SHOUT AT	kančʰel	35, 129	1-nom 2-dat V.subj[1]	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	20	SHOUT AT	gorgoral	152	1-nom 2-gen+vra V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	36, 185	1-nom 2-dat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	21	TELL	patmel	37	1-nom 2-nomdat 3-dat V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	22	SAY	asel	34, 134, 159, 184, 186	1-nom UTT2 (3-dat) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	23	NAME	anvanel	33	1-nom 2-nomdat 3-nom V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	24	BUILD	karucʰel	32, 118, 126	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	24	BUILD	šinel	112	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	25	BREAK	ǯaɾdel	31, 162, 182	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	26	KILL	spanel	30, 132, 186	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	26	KILL	mahacʰnel	131, 194	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	26	KILL	moɾtʰel	125	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	27	BEAT	cecel	29, 102, 163	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	28	HIT	haɾvacel	28	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	29	TOUCH	kpčʰel	27	1-nom 2-dat 3-instr V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	29	TOUCH	dipčʰel	156	1-nom 2-dat 3-instr V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	30	CUT	ktɾel	26, 87, 144, 145	1-nom 2-nomdat (3-instr) V.subj[1]	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	31	TAKE	veɾcʰnel	88, 176	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	31	TAKE	arnel	167	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	32	TEAR	patrel	21, 23, 81	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Eastern Armenian	32	TEAR	pokel	22, 38, 138, 139, 177	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Eastern Armenian	33	PEEL	kʰeɾel	91, 94	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	33	PEEL	makʰɾel	24, 25, 90, 93, 178, 179	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Marginally	Never
+Eastern Armenian	33	PEEL	klpel	89, 92	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	20, 121	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	35	SHOW	cʰujcʰ tal	17	1-nom 2-nomdat 3-dat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	36	GIVE	tal	16, 134, 140, 174	1-nom 2-nomdat 3-dat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	37	SEND	uʁaɾkel	14, 15, 173	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	38	CARRY	tanel	12, 13	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	39	THROW	netel	9, 172, 182	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	40	TIE	kapel	5, 117, 183	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	41	PUT	dnel	8, 10	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	41	PUT	daɾsel	171	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	42	POUR	lcʰnel	3, 6, 7, 180, 181, 196	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Marginally	Never	Never	Never	Never	Never
+Eastern Armenian	43	COVER	cackel	2	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	44	FILL	lcʰnel	3, 6, 7, 180, 181, 196	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Marginally	Never	Never	Never	Never	Never
+Eastern Armenian	45	LOAD	baɾʒel	4, 171	1-nom 2-nomdat LOC3 V.subj[1]	Never	Marginally	No data	Never	Regularly	Never	Never	Never
+Eastern Armenian	46	BLINK	tʰaɾtʰel	95, 189, 198	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Marginally	Marginally	Never	Never	Never
+Eastern Armenian	47	COUGH	hagal	55	1-nom V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	48	CLIMB	baɾʒɾanal	56, 141, 146	1-nom (LOC2) V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	49	RUN	vazel	60, 61, 147, 170, 172	1-nom V.subj[1]	Regularly	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	50	SIT	nstel	57, 58, 59, 143, 178	1-nom (LOC2) V.subj[1]	Regularly	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	51	SIT DOWN	nstel	57, 58, 59, 143, 178	1-nom (LOC2) V.subj[1]	Regularly	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	52	JUMP	cʰatkel	62	1-nom V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	53	SING	jeɾgel	65, 160	1-nom 2-nomdat V.subj[1]	Marginally	Never	Never	Marginally	Regularly	Regularly	Never	Never
+Eastern Armenian	54	GO	gnal	63, 116, 136, 148, 158, 172, 191	1-nom (LOC2) V.subj[1]	Marginally	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	55	LEAVE	meknel	96	1-nom 2-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	56	LIVE	apɾel	64, 133	1-nom (LOC2) V.subj[1]	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	57	LAUGH	cicaʁel	97, 150, 151, 153	1-nom (2+vra) V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	58	SCREAM	goral	98, 111	1-nom V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	59	FEEL PAIN	cʰavel	67, 154	1-nom V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	60	FEEL COLD	mɾsel	80	1-nom V.subj[1]	Regularly	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	60	FEEL COLD	sarel	72, 122	1-nom V.subj[1]	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Eastern Armenian	61	DIE	mahanal	68, 131	1-nom V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	61	DIE	mernel	69, 131	1-nom V.subj[1]	Regularly	Marginally	Never	Never	Never	Never	Never	Never
+Eastern Armenian	62	PLAY	χaʁal	99	1-nom (2-instr) V.subj[1]	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Eastern Armenian	63	BE SAD	tχuɾ e	76	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	64	BE HUNGRY	sovel	73	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	65	ROLL	gloɾvel	77, 169, 170	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	66	SINK	χoɾtakvel	79, 127, 128, 129	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	67	BURN	ajɾvel	100, 119, 164	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	68	BE DRY	čʰoɾ e	78	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	69	RAIN	anʒɾevel	74, 75, 146	V	Never	Never	Never	Never	Marginally	Never	Never	Never
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	101	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	71	GRIND	cecel	29, 102, 163	1-nom 2-nomdat (3-instr) V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	72	WIPE	makʰɾel	24, 25, 90, 93, 178, 179	1-nom 2-nomdat 3-abl V.subj[1]	Never	Never	Never	Never	Regularly	Never	Marginally	Never
+Eastern Armenian	73	DIG	pʰoɾel	103, 161, 162, 187, 188	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	74	PUSH	hɾel	104	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	75	BRING	beɾel	11, 142	1-nom 2-nomdat LOC3 V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	76	STEAL	goʁanal	19, 137	1-nom 2-nomdat 3-abl V.subj[1]	Marginally	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	77	TEACH	sovoɾecʰnel	105, 120	1-nom 2-nomdat 3-dat V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Eastern Armenian	78	HEAR	lsel	106, 107	1-nom 2-nomdat V.subj[1]	Marginally	Marginally	Never	Never	Regularly	Never	Never	Never
+Eastern Armenian	79	COOK	jepʰel	108	1-nom 2-nomdat V.subj[1]	Never	Never	Never	Never	Regularly	Marginally	Never	Never
+Eastern Armenian	80	BOIL	jeral	109	1-nom V.subj[1]	Regularly	Marginally	Never	Never	Never	Never	Never	Never

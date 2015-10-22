@@ -1,0 +1,98 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Benefactive Alternation	Causative (morphological)	Causative (periphrastic)	hada-alternation	ji-Passive (periphrastic)	Locative alternation	Passive (morphological)	Possessor ascension	Recipient double accusative alternation	Reciprocal Alternation
+Korean	1	EAT	meogda	49, 120, 256, 257	1-nom 2-acc V	Never	Regularly	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	2	HUG	anda	57, 122, 123, 124, 211, 214, 215, 216, 217, 218, 219, 220	1-nom 2-acc V	Never	Regularly	Regularly	Never	Never	Never	Regularly	Regularly	Never	Regularly
+Korean	3	LOOK AT	baraboda	74	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	4	SEE	boda	75, 76, 197	1-nom 2-acc V	Never	Regularly	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	5	SMELL	naemsaereul matta	72, 73	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	6	FEAR	museobda	66, 67, 68, 69, 185, 186, 309	1-nom 2-nom V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Korean	7	FRIGHTEN	nollaeda	70, 71, 171	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	8	LIKE	johda	64, 65, 125, 206	1-nom 2-nom V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never
+Korean	9	KNOW	alda	62, 63, 298, 299	1-nom 2-acc V	Never	Regularly	Regularly	Never	Marginally	Never	Never	Never	Never	Never
+Korean	10	THINK	saenggaghada	59, 60, 61	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	11	SEARCH FOR	chajda	58, 275, 276, 306	1-nom 2-acc V	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	12	WASH	mogyoksikida	46, 189	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	12	WASH	ssisda	44, 45, 258	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	12	WASH	sesuhada	47	1-nom V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	12	WASH	ppalda	48	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	13	DRESS	os(eul) ibda	41, 42, 43, 118, 119, 210	1-nom 2-acc V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	14	SHAVE (a body part/person)	kkakkda	39, 188, 288, 289, 290	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	15	HELP	dowajuda	50	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	16	FOLLOW	ttaragada	51, 190	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	17	MEET	mannada	52, 53, 54, 55, 56, 121, 213	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly
+Korean	18	TALK	iyagihada	77, 78, 82, 255	1-nom 2-dat UTT3 V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly
+Korean	19	ASK FOR	yoguhada	79	1-nom 2-acc 3-abl V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	20	SHOUT AT	sorijireuda	23, 126, 223, 274	1-nom 2-dat V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	21	TELL	malhada	80, 83, 84, 85	1-nom 2-dat 3-quot V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	21	TELL	deullida (2)	108, 206, 207	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never
+Korean	21	TELL	iyagihada	77, 78, 82, 255	1-nom 2-dat UTT3 V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly
+Korean	22	SAY	malhada	80, 83, 84, 85	1-nom 2-dat 3-quot V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	23	NAME	bureuda	81, 151, 152, 212	1-nom 2-acc 3-quot V	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Korean	24	BUILD	jisda	128, 224, 300, 301	1-nom 2-acc 3-instr V	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	25	BREAK	kkaeda	86, 87, 191, 229	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Marginally	Never	Never	Regularly	Never	Never
+Korean	25	BREAK	kkaetteurida	88, 89	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Marginally	Never	Never	Regularly	Never	Never
+Korean	26	KILL	jugida	150, 313	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	27	BEAT	ttaerida	90, 253, 254	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Marginally	Never
+Korean	28	HIT	chida	91, 192, 193, 194	1-nom 2-acc V	Marginally	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	28	HIT	ttaerida	90, 253, 254	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Marginally	Never
+Korean	29	TOUCH	manjida	92, 196	1-nom 2-acc V	Never	Never	Regularly	Never	Marginally	Never	Never	Regularly	Never	Never
+Korean	30	CUT	jareuda	93, 94, 149, 195, 252, 315	1-nom 2-acc 3-instr V	Regularly	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	30	CUT	kkakkda	39, 188, 288, 289, 290	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	31	TAKE	jibda	95, 279	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	31	TAKE	gajyeogada	153	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	32	TEAR	jjijda	96, 97, 245, 246, 247	1-nom 2-acc V	Never	Marginally	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	33	PEEL	kkada	146, 169, 284, 285, 286, 287, 305	1-nom 2-acc V	Regularly	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	33	PEEL	beosgida	147, 148, 222	1-nom 2-acc V	Regularly	Never	Regularly	Never	Regularly	Never	Regularly	Marginally	Never	Never
+Korean	33	PEEL	kkakkda	39, 188, 288, 289, 290	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	34	HIDE	sumgida	166, 167, 168, 243, 244	1-nom 2+ap-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	34	HIDE	sumda	317	1-nom 2-loc V	Never	Regularly	Regularly	Never	Marginally	Never	Never	Regularly	Never	Never
+Korean	35	SHOW	boida	98, 197, 198, 199	1-nom 2+ap-loc 3-acc V	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	35	SHOW	deullida (2)	108, 206, 207	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never
+Korean	36	GIVE	juda	99, 241, 242, 307, 314	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Regularly	Never
+Korean	37	SEND	bonaeda	100, 170, 240	1-nom 2-acc LOC3 V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	38	CARRY	deulda	162, 163, 164, 165	1-nom 2-acc V	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	39	THROW	deonjida	138, 139, 225, 226	1-nom 2-acc LOC3 V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	40	TIE	mukkda	6, 7, 234, 235	1-nom 2-acc 3-loc V	Regularly	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	41	PUT	nohda	136, 137, 157, 158	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	42	POUR	busda	102, 236, 237	1-nom 2-acc 3-loc V	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	43	COVER	deopda	1, 2, 101, 159, 160, 161, 230	1-nom 2-acc 3-loc V	Regularly	Never	Regularly	Never	Regularly	Regularly	Regularly	Regularly	Never	Never
+Korean	44	FILL	chada	3, 4, 175, 227, 231, 232	1-nom 2-loc V	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Korean	44	FILL	chaeuda	3, 4, 232	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Korean	45	LOAD	sidda	5, 233	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	46	BLINK	nuneul kkambagida	38, 174	1-nom V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	47	COUGH	gichimhada	37, 187	1-nom V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	48	CLIMB	oreuda	113, 208, 209, 219, 302	1-nom 2-loc V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	48	CLIMB	tada (2)	259, 260, 261	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	49	RUN	dallida	36, 262, 263, 264	1-nom V	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never
+Korean	49	RUN	ttwida	33, 112, 172	1-nom V	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never
+Korean	50	SIT	anja itta	34, 297	1-nom 2-loc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	51	SIT DOWN	anjda	35, 144, 145, 304	1-nom 2-loc V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	52	JUMP	ttwida	33, 112, 172	1-nom V	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never
+Korean	53	SING	noraebureuda	32, 265, 266	1-nom V	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	54	GO	gada	29, 30, 31, 142, 143, 178, 310	1-nom 2-loc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	55	LEAVE	tteonada	28, 140, 141	1-nom 2-abl V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	56	LIVE	salda	26, 27, 267, 268, 269, 311	1-nom 2-loc V	Never	Marginally	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	57	LAUGH	usda	24, 278	1-nom V	Never	Marginally	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	58	SCREAM	sorijireuda	23, 126, 223, 274	1-nom 2-dat V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	59	FEEL PAIN	apeuda	21, 22, 127, 277, 308	1-nom V	Never	Never	Regularly	Regularly	Never	Never	Never	Regularly	Never	Never
+Korean	60	FEEL COLD	chubda	20, 271, 272	1-nom V	Never	Never	Regularly	Marginally	Never	Never	Never	Regularly	Never	Never
+Korean	61	DIE	jugda	19, 150, 316	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	62	PLAY	nolda	25, 295, 296	1-nom V	Never	Marginally	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	63	BE SAD	seulpeuda	16, 17, 18	1-nom V	Never	Never	Regularly	Regularly	Never	Never	Never	Regularly	Never	Never
+Korean	64	BE HUNGRY	baegopeuda	15, 184	1-nom V	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	65	ROLL	gureuda	12, 13	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	66	SINK	garaanjda	11, 182, 183	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	67	BURN	tada (1)	10, 180, 181, 228	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Korean	68	BE DRY	mareuda	9, 179	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	69	RAIN	biga oda	8, 303	V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	70	BE A HUNTER	sanyanggun ida	14	1-nom V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Korean	71	GRIND	galda	106	1-nom 2-acc 3-instr V	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Korean	72	WIPE	dakkda	133, 134, 248, 249, 250, 251	1-nom 2-acc V	Never	Marginally	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	73	DIG	pada	103, 280, 281, 282, 283	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Never	Never	Never
+Korean	74	PUSH	milda	135, 221, 291, 292	1-nom 2-acc 3-dir V	Never	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Korean	75	BRING	gajyeooda	238, 239	1-nom 2-acc LOC3 V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	75	BRING	gajyeogada	153	1-nom 2-acc 3-loc V	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Korean	76	STEAL	humchida	104, 105, 200, 201, 202, 203, 204	1-nom 2-acc 3-abl V	Marginally	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never
+Korean	77	TEACH	gareuchida	109, 110, 293	1-nom 2-acc 3-dat V	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never
+Korean	78	HEAR	deullida (1)	107, 294	1-nom 2-nom V	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Korean	79	COOK													
+Korean	80	BOIL	kkeulhda	111, 130, 131, 132, 312	1-nom V	Never	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never

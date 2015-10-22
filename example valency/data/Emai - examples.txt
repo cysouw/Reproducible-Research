@@ -1,0 +1,277 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Emai	1		Òjè é émà.		òjè é émà	Oje eat yam	Oje ate pounded yam.
+Emai	2		Òjè tútú nwú òhí.		òjè tútú nwú òhí	Oje cling catch Ohi	Oje hugged Ohi. / Oje embraced Ohi.
+Emai	3		Òjè ọ̀ ọ́ ghòò àlèkè.		òjè ọ̀ ọ́ ghòò àlèkè	Oje SC C look.at Aleke	Oje is watching/looking at Aleke.
+Emai	4		Òjè míẹ́ àlèkè.		òjè míẹ́ àlèkè	Oje see Aleke	Oje saw Aleke.
+Emai	5		Òjè ọ̀ ọ́ yàà ọ̀lí éànmì.		òjè ọ̀ ọ́ yàà ọ̀lí éànmì	Oje SC C smell the meat	Oje is smelling the meat.
+Emai	6		Ọ́lì àtàlàkpà rẹ́ ófẹ̀n nwú òjè.		ọ́lì àtàlàkpà rẹ́ ófẹ̀n nwú òjè	the lion take fear catch Oje	Oje feared the lion.
+Emai	7		Ófẹ̀n ọ̀ ọ́ nwù òjè.		ófẹ̀n ọ̀ ọ́ nwù òjè	fear SC C catch Oje	Oje is becoming afraid.
+Emai	8		Òhí níáá òjè.		òhí níáá òjè	Ohi frighten Oje	Ohi frightened Oje.
+Emai	9		Òjè níááì.		òjè níáá-ì	Oje frighten-F	Oje got startled/frightened.
+Emai	10		Ọ́lí éànmì ọ̀ ọ́ yàá.		ọ́lí éànmì ọ̀ ọ́ yàá	the meat SC C smell	The meat smells.
+Emai	11		Ọ́lí úkpùn ẹ́ghẹ́n ọ́lí ọ́mọ̀.		ọ́lí úkpùn ẹ́ghẹ́n ọ́lí ọ́mọ̀	the cloth please the child	The cloth pleased the child. / The child liked the cloth.
+Emai	12		Ọ̣́lí úkpùn ẹ́ghẹ́nì.		ọ́lí úkpùn ẹ́ghẹ́n-ì	the cloth be.pleasant-F	The cloth is liked. / The cloth is pleasant.
+Emai	13		Òjè ẹ́ẹ́n áfúzé'.		òjè ẹ́ẹ́n áfúzé'	Oje know Afuze	Oje knew Afuze.
+Emai	14		Òjè ẹ́ẹ́nì.		òjè ẹ́ẹ́n-ì	Oje know-F	Oje knew.
+Emai	15		Òjè gúẹ́ émáì.		òjè gúẹ́ émáì	Oje know Emai	Oje knew Emai.
+Emai	16		Ójé óó ọ́lì ìnyẹ̀mì.		ójé óó ọ́lì ìnyẹ̀mì	Oje ponder the matter	Oje pondered the matter. / Oje thought about the matter.
+Emai	17		Òjè ọ̀ ọ́ hòò ọ̀lí émà.		òjè ọ̀ ọ́ hòò ọ̀lí émà	Oje SC C search.for the yam	Oje is searching for the yam.
+Emai	18		Àlèkè khọ́ọ́ ọ́lí ọ́mọ̀.		àlèkè khọ́ọ́ ọ́lí ọ́mọ̀	Aleke bathe the child	Aleke bathed the child.
+Emai	19		Àlèkè ọ̀ ọ́ khọ̀ọ́.		àlèkè ọ̀ ọ́ khọ̀ọ́	Aleke SC C bathe	Aleke is bathing.
+Emai	20		Àlèkè kú ẹ̀ùn ọ́ mẹ́ vbí égbè.		àlèkè kú ẹ̀ùn ọ́ mẹ́ vbí égbè	Aleke spread shirt CL me LOC body	Aleke put a shirt on my body. / Aleke dressed me with a shirt.
+Emai	21		Òjè zẹ́ étò.		òjè zẹ́ étò	Oje shave hair	Oje shaved his hair.
+Emai	22		Òjè kpáyẹ́ àlèkè óbọ̀.		òjè kpáyẹ́ àlèkè óbọ̀	Oje replace Aleke hand	Oje helped Aleke. / Oje gave Aleke a helping hand.
+Emai	23		Òjè ọ̀ ọ́ rẹ̀khàẹ̀n òhí.		òjè ọ̀ ọ́ rẹ̀khàẹ̀n òhí	Oje SC C follow Ohi	Oje is following Ohi.
+Emai	24		Òjè gá ọ́lì òkpòsò zé.		òjè gá ọ́lì òkpòsò zé	Oje meet the woman move.together	Oje has met the woman.
+Emai	25		Yàn á vbàyẹ́.		yàn á vbàyẹ́	they C talk	They are talking. / They are chatting.
+Emai	26		Òjè tá lí áléké họ̀n.		òjè tá lí áléké họ̀n	Oje speak APP Aleke hear	Oje spoke to Aleke.
+Emai	27		Òjè tá étà.		òjè tá étà	Oje speak words	Oje spoke. / Oje spoke his words frankly.
+Emai	28		Òjè tá étà lí áléké họ̀n.		òjè tá étà lí áléké họ̀n	Oje speak words APP Aleke hear	Oje spoke frankly to Aleke. / Oje told the hard truth to Aleke.
+Emai	29		Òjè míáá étà.		òjè míáá étà	Oje ask question	Oje asked a question.
+Emai	30		Òjè míáá áléké étà.		òjè míáá áléké étà	Oje ask Aleke question	Oje asked Aleke a question./ Oje asked a question of Aleke.
+Emai	31		Ójé míáá étá vbí óbọ́ ísì àlèkè.		ójé míáá étá vbí óbọ́ ísì àlèkè	Oje ask question LOC hand ASS Aleke	Oje asked a question of Aleke.
+Emai	32		Òjè ọ̀ ọ́ khùèè àlèkè.		òjè ọ̀ ọ́ khùèè àlèkè	Oje SC C shout.at Aleke	Oje is shouting at Aleke. / Oje is screaming at Aleke.
+Emai	33		Òjè ọ̀ ọ́ khùèé.		òjè ọ̀ ọ́ khùèé	Oje SC C shout	Oje is shouting. / Oje is screaming.
+Emai	34		Àlèkè ọ̀ ọ́ kpè ìtàn.		àlèkè ọ̀ ọ́ kpè ìtàn	Aleke SC C narrate saying	Aleke is narrating a saying.
+Emai	35		Àlèkè kpé ìtàn lí ójé họ̀n.		àlèkè kpé ìtàn lí ójé họ̀n	Aleke narrate saying APP Oje hear	Aleke narrated a saying to Oje.
+Emai	36		Àlèkè kpé ìtàn vbíẹ́ẹ́ òjè.		àlèkè kpé ìtàn vbíẹ́ẹ́ òjè	Aleke narrate saying show Oje	Aleke narrated a saying to Oje.
+Emai	37		Àlèkè ọ̀ ọ́ gùè ìnyẹ̀mì.		àlèkè ọ̀ ọ́ gùè ìnyẹ̀mì	Aleke SC C disclose information	Aleke is disclosing information. / Aleke is relating information.
+Emai	38		Àlèkè gúé ìnyẹ̀mì lí ójé họ̀n.		àlèkè gúé ìnyẹ̀mì lí ójé họ̀n	Aleke disclose information APP Oje hear	Aleke disclosed the matter to Oje. / Aleke informed Oje about the matter.
+Emai	39		Áléké gúé ìnyẹ̀mì vbíẹ́ẹ́ òjè.		áléké gúé ìnyẹ̀mì vbíẹ́ẹ́ òjè	Aleke disclose information show Oje	Aleke disclose information to Oje.
+Emai	40		Àlèkè gúé lí ójé họ̀n.		àlèkè gúé lí ójé họ̀n	Aleke disclose APP Oje hear	Aleke informed Oje.
+Emai	41		Ójé rẹ́' ẹ́ ọ́í “ọ́lì òkpòsò gbé ọ́lí ófè.”		ójé rẹ́' ẹ́ ọ́í ọ́lì òkpòsò gbé ọ́lí ófè	Oje CONC say it the woman kill the rat	Oje said, “The woman killed the rat.”"
+Emai	42		Ójé rẹ́' ẹ́ ọ́í “ébé' ọ́lí ókpósó í' gbé ọ́lí ófè?”		ójé rẹ́' ẹ́ ọ́í ébé' ọ́lí ókpósó í' gbé ọ́lí ófè	Oje CONC ask it how the woman MAN kill the rat	Oje asked, “How did the woman kill the rat?”"
+Emai	43		Ójé rẹ́' ẹ́ áléké “ọ́lì òkpòsò gbé ọ́lí ófè.”		ójé rẹ́' ẹ́ áléké ọ́lì òkpòsò gbé ọ́lí ófè	Oje CONC tell Aleke the woman kill the rat	Oje told Aleke, “The woman killed the rat.”"
+Emai	44		Ójé rẹ́' ẹ́ áléké “ébé' ọ́lí ókpósó í' gbé ọ́lí ófè?”		ójé rẹ́' ẹ́ áléké “ébé' ọ́lí ókpósó í' gbé ọ́lí ófè”	Oje CONC ask Aleke how the woman MAN kill the rat	Oje asked Aleke, “How did the woman kill the rat?”"
+Emai	45		È nwú énì ní áìn.		è nwú énì ní áìn	they take.hold.SG name APP her	They gave a name to her. / They named her.
+Emai	46		Òjè zẹ́ óà.		òjè zẹ́ óà	Oje build home	Oje built a home.
+Emai	47		Òjè rẹ́ èkẹ̀n zẹ́ óà.		òjè rẹ́ èkẹ̀n zẹ́ óà	Oje take mud.brick build home	Oje used mud brick to build a home. / Oje built a home with mud brick.
+Emai	48		Òjè zẹ́ óà ọ́ vbì èkó.		òjè zẹ́ óà ọ́ vbì èkó	Oje build home CL LOC Lagos	Oje built a home in Lagos.
+Emai	49		Òjè ọ̀ ọ́ hù ọ́lì àsẹ̀.		òjè ọ̀ ọ́ hù ọ́lì àsẹ̀	Oje SC C build the hut	Oje is building the hut.
+Emai	50		Òjè rẹ́ ébé ọ̀gẹ̀dẹ̀ hú àsẹ̀.		òjè rẹ́ ébé ọ̀gẹ̀dẹ̀ hú àsẹ̀	Oje take leaf banana build hut	Oje used banana leaves to build a hut.
+Emai	51		Òjè hú àsẹ̀ ọ́ vbí ímè.		òjè hú àsẹ̀ ọ́ vbí ímè	Oje build hut CL LOC farm	Oje built a hut on the farm.
+Emai	52		Ójé gúọ́ghọ́' ọ́lí úkpóràn.		ójé gúọ́ghọ́' ọ́lí úkpóràn	Oje break the stick	Oje broke the stick.
+Emai	53		Ọ́lí úkpóràn gúọ́ghọ́ì.		ọ́lí úkpóràn gúọ́ghọ́-ì	the stick break-F	The stick broke.
+Emai	54		Òjè rẹ́ údò gúọ́ghọ́ ọ́lí úkpóràn.		òjè rẹ́ údò gúọ́ghọ́ ọ́lí úkpóràn	Oje take stone break the stick	Oje used a stone to break the stick. / Oje broke the stick with a stone.
+Emai	55		Òjè gbé ọ́lí ákhè á.		òjè gbé ọ́lí ákhè á	Oje break the pot CS	Oje broke the pot.
+Emai	56		Ọ́lí ákhè gbé á'.		ọ́lí ákhè gbé á'	the pot break CS	The pot broke.
+Emai	57		Òjè rẹ́ údò gbé ọ́lí ákhè á.		òjè rẹ́ údò gbé ọ́lí ákhè á	Oje take stone break the pot CS	Oje used a stone to break the pot. / Oje broke the pot with a stone.
+Emai	58		Òjè gbóó élí ékhè kú à.		òjè gbóó élí ékhè kú à	Oje break the pots spread CS	Oje broke the pots into pieces. / Oje broke the pots into smithereens.
+Emai	59		Élí ékhè gbóó kù á.		élí ékhè gbóó kù á	the pots break spread CS	The pots broke into smithereens. / The pots broke into pieces.
+Emai	60		Òjè rẹ́ údò gbóó élí ékhè kú à.		òjè rẹ́ údò gbóó élí ékhè kú à	Oje take stone break the pots spread CS	Oje used a stone to break the pots into smithereens. / Oje broke the pots into pieces with a stone.
+Emai	61		Ójé gbé ẹ́mìẹ́mì.		ójé gbé ẹ́mìẹ́mì	Oje kill lizard	Oje killed a lizard.
+Emai	62		Ójé rẹ́ ààbà gbé ẹ́mìẹ́mì.		ójé rẹ́ ààbà gbé ẹ́mìẹ́mì	Oje take slingshot kill lizard	Oje used a slingshot to kill a lizard.
+Emai	63		Òjè gbóó élí ívbèkhàn.		òjè gbóó élí ívbèkhàn	Oje kill the youths	Oje killed the youths.
+Emai	64		Òjè rẹ́ údò gbóó élí ívbèkhàn.		òjè rẹ́ údò gbóó élí ívbèkhàn	Oje take stone kill the youths	Oje used a stone to kill the youths. / Oje killed the youths with a stone.
+Emai	65		Òjè ọ̀ ọ́ gbè ọ̀lí ọ́vbèkhàn.		òjè ọ̀ ọ́ gbè ọ̀lí ọ́vbèkhàn	Oje SC C beat the youth	Oje is beating the youth.
+Emai	66		Òjè rẹ́ úkpóràn gbé ọ́lí ọ́vbèkhàn.		òjè rẹ́ úkpóràn gbé ọ́lí ọ́vbèkhàn	Oje take stick beat the youth	Oje used a stick to beat the youth. / Oje beat the youth with a stick.
+Emai	67		Òhí fí ójé úkpóràn.		òhí fí ójé úkpóràn	Ohi hit Oje stick	Ohi hit Oje with a stick. / Ohi hit a stick on Oje.
+Emai	68		Òhí fí ójé úkpórán vbì ùòkhò.		òhí fí ójé úkpórán vbì ùòkhò	Ohi hit Oje stick LOC back	Ohi hit Oje on his back with a stick. / Ohi hit a stick on Oje's back.
+Emai	69		Úkpóràn fí ójé vbì ùòkhò.		úkpóràn fí ójé vbì ùòkhò	stick hit Oje LOC back	A stick hit Oje on his back. / A stick hit Oje’s back.
+Emai	70		Òjè ọ̀ ọ́ rẹ̀ òbọ́ sò ọ́pìà.		òjè ọ̀ ọ́ rẹ̀ òbọ́ sò ọ́pìà	Oje SC C take hand touch cutlass	Oje is touching the cutlass with his hand. / Oje is touching the cutlass.
+Emai	71		Òjè híán ọ́lí úì.		òjè híán ọ́lí úì	Oje cut the rope	Oje cut the rope. / Oje severed the rope.
+Emai	72		Òjè rẹ́ úvbíághàè híán ọ́lí úì.		òjè rẹ́ úvbíághàè híán ọ́lí úì	Oje take knife cut the rope	Oje used a knife to cut the rope. / Oje cut the rope with a knife.
+Emai	73		Òjè ọ̀ ọ́ bẹ̀nnọ̀ éràn.		òjè ọ̀ ọ́ bẹ̀n-nọ̀ éràn	Oje SC C cut-DS wood	Oje is cutting wood. / Oje is chopping wood.
+Emai	74		Òjè ọ̀ ọ́ rẹ̀ ùghámá bẹ̀nnọ̀ éràn.		òjè ọ̀ ọ́ rẹ̀ ùghámá bẹ̀n-nọ̀ éràn	Oje SC C take ax cut-DS wood	Oje is using an axe to cut wood. / Oje is cutting wood with an axe.
+Emai	75		Òjè míẹ́ẹ́ òhí ọ́pìà.		òjè míẹ́ẹ́ òhí ọ́pìà	Oje seize Ohi cutlass	Oje seized a cutlass from Ohi.
+Emai	76		Òjè nyá úsúọ́kà á.		òjè nyá úsúọ́kà á	Oje tear maize.ear CS	Oje tore off an ear of maize. / Oje ripped an ear of maize off.
+Emai	77		Ọ́lí úsúọ́kà nyá á'.		ọ́lí úsúọ́kà nyá á'	the maize.ear tear CS	The ear of maize got torn off. / The ear of maize got ripped off.
+Emai	78		Òjè bóló ọ́lì ọ̀gẹ̀dẹ̀.		òjè bóló ọ́lì ọ̀gẹ̀dẹ̀	Oje peel the plantain	Oje peeled the plantain.
+Emai	79		Òjè rẹ́ éhìẹ́n bóló ọ́lì ọ̀gẹ̀dẹ̀.		òjè rẹ́ éhìẹ́n bóló ọ́lì ọ̀gẹ̀dẹ̀	Oje take fingernail peel the plantain	Oje used his fingernail to peel the plantain. / Oje peeled the plantain with his fingernail.
+Emai	80		Òjè fọ́lọ́ ọ́lí émà.		òjè fọ́lọ́ ọ́lí émà	Oje peel the yam	Oje peeled the yam.
+Emai	81		Òjè rẹ́ ọ́pìà fọ́lọ́ émà.		òjè rẹ́ ọ́pìà fọ́lọ́ émà	Oje take cutlass peel yam	Oje used a cutlass to peel yam. / Oje peeled yam with a cutlass.
+Emai	82		Òjè nwú ọ́lì ọ̀gọ́ héé.		òjè nwú ọ́lì ọ̀gọ́ héé	Oje take.hold.SG the bottle hide	Oje hid the bottle.
+Emai	83		Òjè nwú ọ́lì ọ̀gọ́ héé lí òhí.		òjè nwú ọ́lì ọ̀gọ́ héé lí òhí	Oje take.hold.SG the bottle hide APP Ohi	Oje hid the bottle from Ohi.
+Emai	84		Òjè ọ̀ ọ́ làhèè.		òjè ọ̀ ọ́ làhèè	Oje SC C hide	Oje is hiding.
+Emai	85		Ójé lọ́ làhéé lí ọ̀nwìmè.		ójé lọ́ làhéé lí ọ̀nwìmè	Oje PRED hide APP farmer	Oje will hide from the farmer.
+Emai	86		Ójé rẹ́ úháóbì vbíẹ́ẹ́ àlèkè.		ójé rẹ́ úháóbì vbíẹ́ẹ́ àlèkè	Oje take poison.arrow show Aleke	Oje showed Aleke the poison arrow.
+Emai	87		Òjè nwú ọ́lí émà lí òhí.		òjè nwú ọ́lí émà lí òhí	Oje take.hold.SG the yam APP Ohi	Oje has given the yam to Ohi.
+Emai	88		Élí ívbèkhàn húá élí émà lí égbè.		élí ívbèkhàn húá élí émà lí égbè	the youths take.hold.PL the yam APP REC	The youths gave the yams to one another.
+Emai	89		Òjè yè úhùnmì yé áfúzé'.		òjè yè úhùnmì yé áfúzé'	Oje send message ALL Afuze	Oje sent a message to Afuze.
+Emai	90		Òjè yé òhí.		òjè yé òhí	Oje send Ohi	Oje sent Ohi.
+Emai	91		Òjè yé òhí yé áfúzé'.		òjè yé òhí yé áfúzé'	Oje send Ohi ALL Afuze	Oje sent Ohi to Afuze.
+Emai	92		Òjè yé òhí úhùnmì.		òjè yé òhí úhùnmì	Oje send Ohi message	Oje sent Ohi with a message. / Oje sent Ohi on an errand.
+Emai	93		Òjè yé òhí úhùnmì yé áfúzé'.		òjè yé òhí úhùnmì yé áfúzé'	Oje send Ohi message ALL Afuze	Oje sent Ohi on an errand to Afuze. / Oje sent Ohi with a message to Afuze.
+Emai	94		Àlèkè nwú ọ́lí émà.		àlèkè nwú ọ́lí émà	Aleke carry.SG the yam	Aleke carried the yam.
+Emai	95		Àlèkè húá élí émà.		àlèkè húá élí émà	Aleke carry.PL the yam	Aleke carried the yams.
+Emai	96		Àlèkè fí úkpóràn.		àlèkè fí úkpóràn	Aleke throw stick	Aleke threw a stick.
+Emai	97		Àlèkè fí úkpóràn yé òjè.		àlèkè fí úkpóràn yé òjè	Aleke throw stick ALL Oje	Aleke threw a stick to Oje.
+Emai	98		Òjè rẹ́ ọ́lí úì dín ọ́lí ẹ́wè.		òjè rẹ́ ọ́lí úì dín ọ́lí ẹ́wè	Oje take the rope tie the goat	Oje used the rope to tie the goat. / Oje tied the goat with a rope. / Oje tethered the goat with a rope.
+Emai	99		Òjè dín úkpúì.		òjè dín úkpúì	Oje tie piece.rope	Oje tied a piece of rope. / Oje tied a rope.
+Emai	100		Òjè rẹ́ ẹ̀wàìn dín ọ́lí úì.		òjè rẹ́ ẹ̀wàìn dín ọ́lí úì	Oje take wisdom tie the rope	Oje used his intelligence to tie the rope. / Oje tied the rope with intelligence.
+Emai	101		Òjè dín úkpúì ọ́ mẹ́ vbí óbọ̀.		òjè dín úkpúì ọ́ mẹ́ vbí óbọ̀	Oje tie piece.rope CL me LOC arm	Oje tied a piece of rope onto my arm. / Oje tied a rope onto my arm.
+Emai	102		Òjè gbá àlèkè.		òjè gbá àlèkè	Oje tie Aleke	Oje has tied Aleke. / Oje has bound Aleke.
+Emai	103		È gbá ójé íì.		è gbá ójé íì	they tie Oje ropes	They tied Oje with ropes. / They bound Oje with ropes.
+Emai	104		Òjè nwú ọ̀gẹ̀dẹ̀ ọ́ vbì ìtébù.		òjè nwú ọ̀gẹ̀dẹ̀ ọ́ vbì ìtébù	Oje take.hold.SG plantain CL LOC table	Oje put plantain onto the table.
+Emai	105		Òjè ọ́ọ́n àmẹ̀ ọ́ vbì ọ̀gọ́.		òjè ọ́ọ́n àmẹ̀ ọ́ vbì ọ̀gọ́	Oje pour water CL LOC bottle	Oje poured water into the bottle.
+Emai	106		Òjè rẹ́ àtìró ọ́ọ́n àmẹ̀ ọ́ vbì ọ̀gọ́.		òjè rẹ́ àtìró ọ́ọ́n àmẹ̀ ọ́ vbì ọ̀gọ́	Oje take funnel pour water CL LOC bottle	Oje used a funnel to pour water into a bottle. / Oje poured water into a bottle with a funnel.
+Emai	107		Òjè vóó ọ́lí ékpà.		òjè vóó ọ́lí ékpà	Oje cover the vomit	Oje covered the vomit.
+Emai	108		Òjè rẹ́ ìsọ́bìlì vóó ọ́lí ékpà.		òjè rẹ́ ìsọ́bìlì vóó ọ́lí ékpà	Oje take shovel cover the vomit	Oje used a shovel to cover the vomit. / Oje covered the vomit with a shovel.
+Emai	109		Éànmì vọ́ọ́n úwáwá ísì òjè.		éànmì vọ́ọ́n úwáwá ísì òjè	meat fill pot ASS Oje	Meat filled the pot of Oje. / Meat filled Oje's pot.
+Emai	110		Úwáwá mẹ̀ vọ́ọ́nì.		úwáwá mẹ̀ vọ́ọ́n-ì	pot my fill-F	My pot is full.
+Emai	111		Òjè kháán ọ́lì òísí'.		òjè kháán ọ́lì òísí'	Oje fill the gun	Oje filled the gun (with gunpowder). / Oje loaded the gun (with gunpowder).
+Emai	112		Òjè máá élí ékẹ́ín ọ́ọ́khọ̀.		òjè máá élí ékẹ́ín ọ́ọ́khọ̀	Oje load the eggs chicken	Oje loaded the chicken eggs. / Oje arranged the chicken eggs (on a load).
+Emai	113		Òjè máá élí ékẹ́ín ọ́ọ́khọ̀ ọ́ vbí íhùà.		òjè máá élí ékẹ́ín ọ́ọ́khọ̀ ọ́ vbí íhùà	Oje load the eggs chicken CL LOC burden	Oje loaded the chicken eggs onto his burden. / Oje arranged the chicken eggs onto his load.
+Emai	114		Òjè máá íhùà.		òjè máá íhùà	Oje load burden	Oje loaded his burden. / Oje arranged his load.
+Emai	115		Òjè héé òhí.		òjè héé òhí	Oje load Ohi	Oje loaded up Ohi.
+Emai	116		Òjè gbé ẹ̀ò.		òjè gbé ẹ̀ò	Oje reposition eye	Oje blinked.
+Emai	117		Òjè hẹ́ẹ́n óràn.		òjè hẹ́ẹ́n óràn	Oje climb tree	Oje climbed a tree. / Oje ascended a tree.
+Emai	118		Òjè hẹ́ẹ́n ùdékẹ̀n.		òjè hẹ́ẹ́n ùdékẹ̀n	Oje climb wall	Oje climbed a wall.
+Emai	119		Òjè ọ̀ ọ́ lá.		òjè ọ̀ ọ́ lá	Oje SC C run	Oje is running.
+Emai	120		Òjè díá vbì àgá.		òjè díá vbì àgá	Oje sit LOC chair	Oje sat in a chair.
+Emai	121		Òjè rẹ́ àgá díá.		òjè rẹ́ àgá díá	Oje take chair sit	Oje sat down in a chair.
+Emai	122		Ọ̣́lì ẹ̀kpẹ̀n vbọ́ọ́ì.		ọ́lì ẹ̀kpẹ̀n vbọ́ọ́-ì	the leopard jump-F	The leopard jumped.
+Emai	123		Ọ́lí ẹ́kèé sánì.		ọ́lí ẹ́kèé sán-ì	the frog jump-F	The frog jumped. / The frog leapt.
+Emai	124		Òjè ọ̀ ọ́ sò íòò.		òjè ọ̀ ọ́ sò íòò	Oje SC C sing song	Oje is singing a song.
+Emai	125		Òjè lódẹ̀ vbì ìwè.		òjè lódẹ̀ vbì ìwè	Oje go LOC house	Oje is going to the house.
+Emai	126		Òjè ráálẹ̀.		òjè ráálẹ̀	Oje move.away	Oje has moved away. / Oje has left.
+Emai	127		Òjè zá vbì ìwè ráálẹ̀.		òjè zá vbì ìwè ráálẹ̀	Oje be.at LOC house move.away	Oje has left the house. / Oje has moved away from the house.
+Emai	128		Òjè shọ́ọ́ vbí ẹ́kọ́à ré.		òjè shọ́ọ́ vbí ẹ́kọ́à ré	Oje exit LOC room arrive	Oje left the room. / Oje exited the room.
+Emai	129		Ójé díá vbí áfúzé'.		ójé díá vbí áfúzé'	Oje live LOC Afuze	Oje lived in Afuze.
+Emai	130		Ójé jẹ́ì.		ójé jẹ́-ì	Oje laugh-F	Oje laughed.
+Emai	131		Òjè ọ̀ ọ́ jẹ̀ àlèkè.		òjè ọ̀ ọ́ jẹ̀ àlèkè	Oje SC C laugh Aleke	Oje is laughing at Aleke.
+Emai	132		Òjè ọ̀ ọ́ khùèè ọ́lì òkpòsò.		òjè ọ̀ ọ́ khùèè ọ́lì òkpòsò	Oje SC C shout.at the woman	Oje is screaming at the woman. / Oje is insulting the woman.
+Emai	133		Ékùn ọ̀ ọ́ tò òjè.		ékùn ọ̀ ọ́ tò òjè	waist SC C pain Oje	Oje's waist is paining him. / Oje has a pain at his waist.
+Emai	134		Ọ́lì èmàì ọ̀ ọ́ rẹ̀ ùíín gbè àlèkè.		ọ́lì èmàì ọ̀ ọ́ rẹ̀ ùíín gbè àlèkè	the wound SC C take fever catch Aleke	The wound is making Aleke feverish.
+Emai	135		Úììn ọ̀ ọ́ gbè àlèkè.		úììn ọ̀ ọ́ gbè àlèkè	fever SC C catch Aleke	Aleke has the chills. / Aleke is feverish.
+Emai	136		Àlèkè úì.		àlèkè ú-ì	Aleke die-F	Aleke died.
+Emai	137		Ọ̣́lí ọ́mọ̀ ọ̀ ọ́ sìé.		ọ́lí ọ́mọ̀ ọ̀ ọ́ sìé	the child SC C play	The child is playing.
+Emai	138		Ọ́lí ọ́mọ̀ ọ̀ ọ́ dòó.		ọ́lí ọ́mọ̀ ọ̀ ọ́ dòó	the child SC C fantasize	The child is fantasizing. / The child is at play in his fantasy.
+Emai	139		Òjè í ì ghọ̀nghọ́n.		òjè í ì ghọ̀nghọ́n	Oje SC NEG be.happy	Oje is sad. / Oje is not happy.
+Emai	140		Òhànmì ọ̀ ọ́ gbé òjè.		òhànmì ọ̀ ọ́ gbé òjè	hunger SC C catch Oje	Oje is hungry.
+Emai	141		Òjè ọ̀ ọ́ gbùlù ọ̀lí íkẹ̀kẹ́.		òjè ọ̀ ọ́ gbùlù ọ̀lí íkẹ̀kẹ́	Oje SC C roll the bicycle	Oje is rolling the bicycle.
+Emai	142		Ọ́lì ùgbòfì ọ̀ ọ́ gbùlú.		ọ́lì ùgbòfì ọ̀ ọ́ gbùlú	the orange SC C roll	The orange is rolling.
+Emai	143		Òtọ̀ì há ó.		òtọ̀ì há ó	ground squeeze enter	The ground sunk.
+Emai	144		Òtọ̀ì há òjè ó.		òtọ̀ì há òjè ó	ground squeeze Oje enter	Oje sunk into the ground. / The ground swallowed up Oje.
+Emai	145		Ùkìn dé ó.		ùkìn dé ó	moon fall enter	The moon has sunk. / The moon had gone down.
+Emai	146		Élí ébè ọ̀ ọ́ tóó.		élí ébè ọ̀ ọ́ tóó	the leaf SC C burn	The leaves are burning.
+Emai	147		Òjè ọ̀ ọ́ tòò ébè.		òjè ọ̀ ọ́ tòò ébè	Oje SC C burn leaf	Oje is burning leaves.
+Emai	148		Ọ́lí úkpùn káì.		ọ́lí úkpùn ká-ì	the cloth dry-F	The cloth is dry.
+Emai	149		Àmẹ̀ ọ̀ ọ́ rọ̀ọ́n.		àmẹ̀ ọ̀ ọ́ rọ̀ọ́n	water SC C rain	It is raining. / Rain is falling.
+Emai	150		Òjè í ì vbì óhùà.		òjè í ì vbì óhùà	Oje SC NEG be hunter	Oje is not a hunter.
+Emai	151		Óhùà ọ́ọ̀.		óhùà ọ́ọ̀	hunter COP	He’s a hunter.
+Emai	152		Òjè ọ̀ ọ́ lọ̀ ìsíẹ́ìn.		òjè ọ̀ ọ́ lọ̀ ìsíẹ́ìn	Oje SC C grind pepper	Oje is grinding pepper.
+Emai	153		Òjè ọ̀ ọ́ rẹ̀ ùdó lọ̀ ìsíẹ́ìn.		òjè ọ̀ ọ́ rẹ̀ ùdó lọ̀ ìsíẹ́ìn	Oje SC C take stone grind pepper	Oje is using a stone to grind pepper. / Oje is grinding pepper with a stone.
+Emai	154		Òjè kálọ́ évbíí shọ́ọ́ vbì ìtébù ré.		òjè kálọ́ évbíí shọ́ọ́ vbì ìtébù ré	Oje wipe oil exit LOC table arrive	Oje wiped oil way off the table. / Oje rubbed oil way off the table.
+Emai	155		Òjè kálọ́ évbíí vbì ìtébù ré.		òjè kálọ́ évbíí vbì ìtébù ré	Oje wipe oil LOC table arrive	Oje wiped oil from the table. / Oje rubbed oil from the table.
+Emai	156		Òjè ọ̀ ọ́ kàlọ̀ ìtébù.		òjè ọ̀ ọ́ kàlọ̀ ìtébù	Oje SC C wipe table	Oje is wiping the table.
+Emai	157		Òjè ọ̀ ọ́ rẹ̀ èsọ́nkpún kàlọ̀ ìtébù.		òjè ọ̀ ọ́ rẹ̀ èsọ́nkpún kàlọ̀ ìtébù	Oje SC C take rag wipe table	Oje is using a rag to wipe the table. / Oje wiped the table with a rag.
+Emai	158		Òjè tọ́n émà.		òjè tọ́n émà	Oje dig.for yam	Oje dug for yam. / Oje harvested yam.
+Emai	159		Òjè rẹ́ ọ́píá mẹ̀ tọ́n émà.		òjè rẹ́ ọ́píá mẹ̀ tọ́n émà	Oje take cutlass my dig.for yam	Oje used my cutlass to dig for yam. / Oje dug for yam with my cutlass.
+Emai	160		Òjè vún ìbọ̀bọ̀dí.		òjè vún ìbọ̀bọ̀dí	Oje dig.for cassava	Oje dug up cassava. / Oje uprooted cassava.
+Emai	161		Òjè rẹ́ ọ́pìà vún ìbọ̀bọ̀dí.		òjè rẹ́ ọ́pìà vún ìbọ̀bọ̀dí	Oje take cutlass dig.for cassava	Oje used a cutlass to uproot cassava. / Oje uprooted cassava with a cutlass.
+Emai	162		Òjè ọ̀ ọ́ sùà ẹ̀kpètè.		òjè ọ̀ ọ́ sùà ẹ̀kpètè	Oje SC C push stool	Oje is pushing a stool.
+Emai	163		Òjè nwú émà ré.		òjè nwú émà ré	Oje take.hold.SG yam arrive	Oje brought yam.
+Emai	164		Òjè dó ọ́lí úkpùn nwú.		òjè dó ọ́lí úkpùn nwú	Oje engage.in.stealth the cloth take.hold.SG	Oje stole the cloth.
+Emai	165		Òjè dó élí éwè húá.		òjè dó élí éwè húá	Oje engage.in.stealth the goats take.hold.PL	Oje stole the goats.
+Emai	166		Òjè rẹ́ ìsọ́ọ̀mù vbíẹ́ẹ́ òhí.		òjè rẹ́ ìsọ́ọ̀mù vbíẹ́ẹ́ òhí	Oje take arithmetic teach Ohi	Oje taught arithmetic to Ohi. / Oje showed arithmetic to Ohi.
+Emai	167		Òjè vbíẹ́ẹ́ òhí ìsọ́ọ̀mù.		òjè vbíẹ́ẹ́ òhí ìsọ́ọ̀mù	Oje teach Ohi arithmetic	Oje taught Ohi arithmetic.
+Emai	168		Ójé ọ́ ọ̀ họ̀n éhọ̀n.		ójé ọ́ ọ̀ họ̀n éhọ̀n	Oje SC H perceive.with ear	Oje hears. / Oje perceives with his ear.
+Emai	169		ójé ọ́ ọ̀ họ̀n íhùè.		ójé ọ́ ọ̀ họ̀n íhùè	Oje SC H perceive.with nose	Oje perceives with his nose. / Oje smells (something).
+Emai	170		òjè ọ̀ ọ́ họ̀n ìkhúéé àlèkè.		òjè ọ̀ ọ́ họ̀n ìkhúéé àlèkè	Oje SC H perceive sound Aleke	Oje is hearing Aleke.
+Emai	171		Ọ̣́lì èràìn í khà vbìè émàè.		ọ́lì èràìn í khà vbìè émàè	the fire SC PROSNEG cook food	The fire will not cook food.
+Emai	172		Ọ́lí émàè vbíéì.		ọ́lí émàè vbíé-ì	the food cook-F	The food got cooked.
+Emai	173		Àlèkè nyẹ́ òmì.		àlèkè nyẹ́ òmì	Aleke cook soup	Aleke cooked soup. / Aleke prepared soup.
+Emai	174		Àlèkè rẹ́ ùwàwà nyẹ́ òmì.		àlèkè rẹ́ ùwàwà nyẹ́ òmì	Aleke take pot cook soup	Aleke used a pot to cook soup. / Aleke cooked soup with a pot.
+Emai	175		Ọ́lì òmì tínì.		ọ́lì òmì tín-ì	the soup boil-F	The soup boiled.
+Emai	176		Àlèkè rẹ́ égbè vbíẹ́ẹ́.		àlèkè rẹ́ égbè vbíẹ́ẹ́	Aleke take body become.apparent	Aleke appeared. / Aleke made her body apparent.
+Emai	177		Àlèkè rẹ́ égbè vbíẹ́ẹ́ ívbíá ọ́ì.		àlèkè rẹ́ égbè vbíẹ́ẹ́ ívbíá ọ́ì	Aleke take body become.apparent children her	Aleke appeared to her children. / Aleke made herself apparent to her children.
+Emai	178		Ọ̣́ ọ̀ tò òjè.		ọ́ ọ̀ tò òjè	SC H pain Oje	Oje is ill. / Something is paining Oje.
+Emai	179		Ójé víẹ́ì.		ójé víẹ́-ì	Oje cry.for-F	Oje cried.
+Emai	180		Òjè ọ̀ ọ́ vìẹ̀ èrá ọ́ì.		òjè ọ̀ ọ́ vìẹ̀ èrá ọ́ì	Oje SC C cry.for father his	Oje is crying for his father. / Oje is mourning his father.
+Emai	181		Òjè déì.		òjè dé-ì	Oje fall-F	Oje fell.
+Emai	182		Òjè ẹ́hẹ́n àkpótì.		òjè ẹ́hẹ́n àkpótì	Oje build box	Oje made a box (of wood). / Oje built a box.
+Emai	183		Òjè míẹ́ẹ́ éghó'.		òjè míẹ́ẹ́ éghó'	Oje receive money	Oje received money. / Oje accepted money.
+Emai	184		Òjè míẹ́ẹ́ áléké éghó'.		òjè míẹ́ẹ́ áléké éghó'	Oje receive Aleke money	Oje received money from Aleke. / Oje accepted money from Aleke.
+Emai	185		Òjè ọ̀ ọ́ hòò lí áléké dà ẹ́nyọ̀.		òjè ọ̀ ọ́ hòò lí áléké dà ẹ́nyọ̀	Oje SC C want SUBJ Aleke drink wine	Oje wants Aleke to drink wine. / Oje intends that Aleke should drink wine.
+Emai	186		Ójé lọ́ hòò émà lí ọ́lì ọ̀nwìmè.		ójé lọ́ hòò émà lí ọ́lì ọ̀nwìmè	Oje PRED search.for yam APP the farmer	Oje will search for yam for the farmer.
+Emai	187		Òjè ọ̀ ọ́ rẹ̀ ùrúkpá mẹ́ hòò ákhè.		òjè ọ̀ ọ́ rẹ̀ ùrúkpá mẹ́ hòò ákhè	Oje SC C take lantern my search.for pot	Oje is using my lantern to search for a pot. / Oje is searching for a pot with my lantern.
+Emai	188		Àlèkè rẹ́ íhìọ̀n khọ́ọ́ ọ́lí ọ́mọ̀.		àlèkè rẹ́ íhìọ̀n khọ́ọ́ ọ́lí ọ́mọ̀	Aleke take sponge wash the child	Aleke used a sponge to bathe the child.
+Emai	189		Àlèkè khọ́ọ́ lí òjè.		àlèkè khọ́ọ́ lí òjè	Aleke bathe APP Oje	Aleke bathed Oje. / Aleke gave a bath to Oje.
+Emai	190		Òjè zẹ́ étò lí ínyọ́ ọ́ì.		òjè zẹ́ étò lí ínyọ́ ọ́ì	Oje shave hair APP mother his	Oje shaved his hair for his mother. / Oje shaved in honor of his mother.
+Emai	191		Òjè zẹ́ óà lí òhí.		òjè zẹ́ óà lí òhí	Oje build home APP Ohi	Oje built a house for Ohi.
+Emai	192		Òjè gúọ́ghọ́ úkpàsánmì kú ọ́ vbí úkpódẹ̀.		òjè gúọ́ghọ́ úkpàsánmì kú ọ́ vbí úkpódẹ̀	Oje break cane spread CL LOC road	Oje broke his cane all over the road.
+Emai	193		Òjè gbóó élí ékhè kú ọ́ vbí úkpódẹ̀.		òjè gbóó élí ékhè kú ọ́ vbí úkpódẹ̀	Oje break the pots spread CL LOC road	Oje broke the pots all over the road.
+Emai	194		Òjè gbóó élí ívbèkhàn kú ọ́ vbí úkpódẹ̀.		òjè gbóó élí ívbèkhàn kú ọ́ vbí úkpódẹ̀	Oje kill the youths spread CL LOC road	Oje killed the youths all over the road.
+Emai	195		Òjè ọ̀ ọ́ gbè ọ̀lí ọ́vbékhán lì ọ̀há ọ́ì.		òjè ọ̀ ọ́ gbè ọ̀lí ọ́vbékhán lì ọ̀há ọ́ì	Oje SC C beat the youth APP wife his	Oje is beating the youth for his wife.
+Emai	196		Ọ̣́lí úì híán á'.		ọ́lí úì híán á'	the rope cut CS	The rope got cut off.
+Emai	197		Òjè híán ọ́lí úì lí òhí.		òjè híán ọ́lí úì lí òhí	Oje cut the rope APP Ohi	Oje cut the rope for Ohi.
+Emai	198		Òjè híán ọ́lí úì ọ́ vbì èvá.		òjè híán ọ́lí úì ọ́ vbì èvá	Oje cut the rope CL LOC two	Oje cut the rope into two.
+Emai	199		Òjè híán émà yé òhí.		òjè híán émà yé òhí	Oje cut yam ALL Ohi	Oje took yam to Ohi.
+Emai	200		Élí ímọ̀hè híán ọ́lí úgbó' kú ọ́ vbì òtọ̀ì.		élí ímọ̀hè híán ọ́lí úgbó' kú ọ́ vbì òtọ̀ì	the men cut the forest spread CL LOC ground	The men cut the forest all the way to the ground.
+Emai	201		Òjè bẹ́nnọ́ éràn kú ọ́ vbí úkpódẹ̀.		òjè bẹ́n-nọ́ éràn kú ọ́ vbí úkpódẹ̀	Oje cut-DS wood spread CL LOC road	Oje cut wood all over the road. / Oje chopped wood all over the road.
+Emai	202		Òjè bẹ́nnọ́ ùkèlè lí élí ívbèkhàn.		òjè bẹ́n-nọ́ ùkèlè lí élí ívbèkhàn	Oje cut-DS morsel APP the youths	Oje cut morsels for the children. / Oje chopped morsels for the children.
+Emai	203		Òjè nyá úsúọ́ká vbí óràn ré.		òjè nyá úsúọ́ká vbí óràn ré	Oje tear maize.ear LOC stalk arrive	Oje tore an ear of maize from the stalk. / Oje ripped an ear of maize from the stalk.
+Emai	204		Òjè bóló ọ̀gẹ̀dẹ̀ lí òhí.		òjè bóló ọ̀gẹ̀dẹ̀ lí òhí	Oje peel plantain APP Ohi	Oje peeled plantain for Ohi.
+Emai	205		Òjè bóló ọ̀gẹ̀dẹ̀ fí ọ́ vbí úkpódẹ̀.		òjè bóló ọ̀gẹ̀dẹ̀ fí ọ́ vbí úkpódẹ̀	Oje peel plantain propel CL LOC road	Oje peeled plantain all over the road. / Oje tossed plantain peelings all over the road.
+Emai	206		Òjè fọ́lọ́ émà lí àlèkè.		òjè fọ́lọ́ émà lí àlèkè	Oje peel yam APP Aleke	Oje peeled yam for Aleke.
+Emai	207		Òjè rẹ́ ẹ̀kpà nwú émà.		òjè rẹ́ ẹ̀kpà nwú émà	Oje take bag carry.SG yam	Oje carried yam with a bag. / Oje used a bag to carry yam.
+Emai	208		Àlèkè fí èkhọ̀ì fí ẹ́ òhí.		àlèkè fí èkhọ̀ì fí ẹ́ òhí	Aleke throw worm propel PA Ohi	Aleke threw a worm onto Ohi.
+Emai	209		Àlèkè fí éànmì fí ọ́ vbì òkpàn.		àlèkè fí éànmì fí ọ́ vbì òkpàn	Aleke throw meat propel CL LOC gourd	Aleke threw meat into the gourd.
+Emai	210		Àlèkè gbá ọ̀gbẹ̀lẹ̀ lí òjè.		àlèkè gbá ọ̀gbẹ̀lẹ̀ lí òjè	Aleke tie baby.sash APP Oje	Aleke tied the baby sash for Oje.
+Emai	211		Àlèkè gbá ìsávbẹ̀ẹ́ ọ́ vbì àwẹ̀.		àlèkè gbá ìsávbẹ̀ẹ́ ọ́ vbì àwẹ̀	Aleke tie dika.nut.anklet CL LOC feet	Aleke tied dika nut anklets onto her feet.
+Emai	212		Òjè kẹ́nhẹ́ni.		òjè kẹ́nhẹ́n-i	Oje cough-F	Oje coughed.
+Emai	213		Òjè kẹ́nhẹ́n kú ọ́ vbí émàè.		òjè kẹ́nhẹ́n kú ọ́ vbí émàè	Oje cough spread CL LOC food	Oje coughed all over the food.
+Emai	214		Òjè rẹ́ úì hẹ́ẹ́n ọ́lí údìn.		òjè rẹ́ úì hẹ́ẹ́n ọ́lí údìn	Oje take rope climb the palm.tree	Oje climbed the palm tree with a rope. / Oje used a rope to climb the palm tree.
+Emai	215		Ójé ọ̀ ọ́ lá lí ọ̀nwìmè.		ójé ọ̀ ọ́ lá lí ọ̀nwìmè	Oje SC C run APP farmer	Oje is running from the farmer.
+Emai	216		Òjè lá fì á.		òjè lá fì á	Oje run propel CS	Oje ran off. / Oje ran away.
+Emai	217		Ọ̣́lì ẹ̀kpẹ̀n vbọ́ọ́ fì ọ́ vbì òtọ̀ì.		ọ́lì ẹ̀kpẹ̀n vbọ́ọ́ fì ọ́ vbì òtọ̀ì	the leopard jump propel CL LOC ground	The leopard jumped onto the ground.
+Emai	218		Ọ̣́lì ẹ̀kpẹ̀n vbọ́ọ́ fì á.		ọ́lì ẹ̀kpẹ̀n vbọ́ọ́ fì á	the leopard jump propel CS	The leopard jumped away.
+Emai	219		Ọ̣́lí ẹ́kèé sán fì ọ́ vbí úkpódẹ̀.		ọ́lí ẹ́kèé sán fì ọ́ vbí úkpódẹ̀	the frog jump propel CL LOC road	The frog jumped onto the road. / The frog leaped onto the road.
+Emai	220		Ọ̣́lí ẹ́kèé sán fì á.		ọ́lí ẹ́kèé sán fì á	the frog jump propel CS	The frog jumped away. / The frog leaped away.
+Emai	221		Òjè só íòò vbíẹ́ẹ́ àlèkè.		òjè só íòò vbíẹ́ẹ́ àlèkè	Oje sing song show Aleke	Oje sang a song to Aleke.
+Emai	222		Òjè shọ́ọ́ ré.		òjè shọ́ọ́ ré	Oje exit arrive	Oje left. / Oje exited.
+Emai	223		Áléké ú fì ọ́ vbí ídámí úkpódẹ̀.		áléké ú fì ọ́ vbí ídámí úkpódẹ̀	Aleke die propel CL LOC forward road	Aleke dropped dead up ahead on the road.
+Emai	224		Àlèkè ú fí à.		àlèkè ú fí à	Aleke die propel CS	Aleke died off. / Aleke dropped dead.
+Emai	225		Áléké ú ọ́ vbí ídámí úkpódẹ̀.		áléké ú ọ́ vbí ídámí úkpódẹ̀	Aleke die CL LOC forward road	Aleke died up ahead on the road.
+Emai	226		Ọ̣̣́́lí ọ́mọ̀ ọ̀ ọ́ rẹ̀ èkẹ́n dòó.		ọ́lí ọ́mọ̀ ọ̀ ọ́ rẹ̀ èkẹ́n dòó	the child SC C take sand fantasize	The child is fantasizing with sand. / The child is playing with sand.
+Emai	227		Ọ́lì ìkhùnmì ọ̀ ọ́ rẹ̀ òhánmí gbè òjè.		ọ́lì ìkhùnmì ọ̀ ọ́ rẹ̀ òhánmí gbè òjè	the medicine SC C take hunger catch Oje	The medicine is making Oje hungry.
+Emai	228		Òjè ọ̀ ọ́ rẹ̀ ègbé gbùlù èkẹ̀n.		òjè ọ̀ ọ́ rẹ̀ ègbé gbùlù èkẹ̀n	Oje SC C take body roll sand	Oje is rolling in the sand with his body. / Oje is rolling his body in the sand.
+Emai	229		Òjè rẹ́ èràìn tóó ọ́lí ébè á.		òjè rẹ́ èràìn tóó ọ́lí ébè á	Oje take fire burn the leaf CS	Oje used a fire to burn up the leaves. / Oje burned up the leaves with a fire.
+Emai	230		Òjè tóó ọ́lí ébè kú à.		òjè tóó ọ́lí ébè kú à	Oje burn the leaf spread CS	Oje burned the leaves away entirely. / Oje burned up all the leaves.
+Emai	231		Òjè nwú ọ́lí úkpùn ká.		òjè nwú ọ́lí úkpùn ká	Oje take.hold.SG the cloth dry	Oje put the cloth to dry. / Oje dried the cloth.
+Emai	232		Òjè lọ́ ísíẹ́ìn ọ́ vbì ìtásà.		òjè lọ́ ísíẹ́ìn ọ́ vbì ìtásà	Oje grind pepper CL LOC plate	Oje ground pepper onto the plate.
+Emai	233		Òjè lọ́ ísíẹ́ìn lí òhí.		òjè lọ́ ísíẹ́ìn lí òhí	Oje grind pepper APP Ohi	Oje ground pepper for Ohi.
+Emai	234		Òjè lọ́ ísíẹ́ìn kú ọ́ vbì ìtásà.		òjè lọ́ ísíẹ́ìn kú ọ́ vbì ìtásà	Oje grind pepper spread CL LOC plate	Oje ground pepper all over the plate.
+Emai	235		Àlèkè ọ̀ ọ́ kàlọ̀ ìtébú lì òhí.		àlèkè ọ̀ ọ́ kàlọ̀ ìtébú lì òhí	Aleke SC C wipe table APP Ohi	Aleke is wiping the table for Ohi. / Aleke is wiping the table for Ohi's benefit.
+Emai	236		Òjè kálọ́ évbìì ọ́ vbì ìtébù.		òjè kálọ́ évbìì ọ́ vbì ìtébù	Oje wipe oil CL LOC table	Oje wiped oil onto the table. / Oje rubbed oil onto the table.
+Emai	237		Òjè tọ́n émà lí òhí.		òjè tọ́n émà lí òhí	Oje dig.for yam APP Ohi	Oje dug yam for Ohi. / Oje harvested yam for Ohi.
+Emai	238		Òjè tọ́n émà yé òhí.		òjè tọ́n émà yé òhí	Oje dig.for yam ALL Ohi	Oje took yam to Ohi.
+Emai	239		Òjè vún ìbọ̀bọ̀dí yé òhí.		òjè vún ìbọ̀bọ̀dí yé òhí	Oje dig.for cassava ALL Ohi	Oje took cassava to Ohi.
+Emai	240		Òjè vún ìbọ̀bọ̀dí lí òhí.		òjè vún ìbọ̀bọ̀dí lí òhí	Oje dig.for cassava APP Ohi	Oje dug up cassava for Ohi.
+Emai	241		Òjè ọ̀ ọ́ sùà ẹ̀kpètè lí àlèkè.		òjè ọ̀ ọ́ sùà ẹ̀kpètè lí àlèkè	Oje SC C push stool APP Aleke	Oje is pushing a stool for Aleke.
+Emai	242		Òjè súá ọ́lí údò yé òhí.		òjè súá ọ́lí údò yé òhí	Oje push the stone ALL Ohi	Oje pushed the stone to Ohi.
+Emai	243		Òjè súá údò fí ọ́ vbí ẹ́dà.		òjè súá údò fí ọ́ vbí ẹ́dà	Oje push rock propel CL LOC river	Oje pushed a rock into the river.
+Emai	244		Òjè súá údò fí à.		òjè súá údò fí à	Oje push rock propel CS	Oje pushed a rock away.
+Emai	245		Òjè zẹ́ èkẹ̀n ré.		òjè zẹ́ èkẹ̀n ré	Oje scoop sand arrive	Oje brought sand.
+Emai	246		Àlèkè nyẹ́ òmì lí òjè.		àlèkè nyẹ́ òmì lí òjè	Aleke cook soup APP Oje	Aleke cooked soup for Oje. / Aleke gave soup to Oje.
+Emai	247		Àlèkè nyẹ́ òmì yé òjè.		àlèkè nyẹ́ òmì yé òjè	Aleke cook soup ALL Oje	Aleke took soup to Oje.
+Emai	248		Ọ́lì òmì ọ̀ ọ́ tín kù ọ̀ vbí èràìn.		ọ́lì òmì ọ̀ ọ́ tín kù ọ̀ vbí èràìn	the soup SC C boil spread CL LOC fire	The soup is boiling over into the fire.
+Emai	249		Ọ̣́lì òmì ọ̀ ọ́ tín kú à.		ọ́lì òmì ọ̀ ọ́ tín kú à	the soup SC C boil spread CS	The soup is boiling over.
+Emai	250		Údúkpù dé fì ọ́ vbì òtọ̀ì.		údúkpù dé fì ọ́ vbì òtọ̀ì	coconut fall propel CL LOC ground	A coconut fell onto the ground.
+Emai	251		Údúkpù dé fì á.		údúkpù dé fì á	coconut fall propel CS	A coconut fell off.
+Emai	252		Òjè rẹ́ ìbàbó ẹ́hẹ́n ígbàlàkà.		òjè rẹ́ ìbàbó ẹ́hẹ́n ígbàlàkà	Oje take bamboo make ladder	Oje made a ladder with bamboo. / Oje used bamboo to make a ladder.
+Emai	253		Òjè ẹ́hẹ́n àkpótì lì òhí.		òjè ẹ́hẹ́n àkpótì lì òhí	Oje build box APP Ohi	Oje built a box for Ohi.
+Emai	254		Òjè ẹ́hẹ́n ígbàlàkà yé òhí.		òjè ẹ́hẹ́n ígbàlàkà yé òhí	Oje make ladder ALL Ohi	Oje took a ladder to Ohi.
+Emai	255		Òjè míẹ́ẹ́ òhí ọ́píá vbí óbọ̀.		òjè míẹ́ẹ́ òhí ọ́píá vbí óbọ̀	Oje seize Ohi cutlass LOC hand	Oje seized a cutlass from Ohi's hand.
+Emai	256		Òjè ghóó ùòkhò lí òhí.		òjè ghóó ùòkhò lí òhí	Oje look.at back APP Ohi	Oje watched the back for Ohi. / Oje looked for Ohi at the back.
+Emai	257		Òjè rẹ́ àgbòí mẹ̀ zẹ́ étò.		òjè rẹ́ àgbòí mẹ̀ zẹ́ étò	Oje take jackknife my shave hair	Oje shaved his hair with my jackknife. / Oje used my jackknife to shave his hair.
+Emai	258		Òjè gúọ́ghọ́ úkpàsánmì kú à.		òjè gúọ́ghọ́ úkpàsánmì kú à	Oje break cane spread CS	Oje broke his cane into smithereens. / Oje broke his cane all over the place.
+Emai	259		Òjè gbóó élí ívbèkhàn kú à.		òjè gbóó élí ívbèkhàn kú à	Oje kill the youths spread CS	Oje killed off the youths.
+Emai	260		Òjè bẹ́nnọ́ éràn kú à.		òjè bẹ́n-nọ́ éràn kú à	Oje cut-DS wood spread CS	Oje chopped wood to a rubble. / Oje cut the wood away.
+Emai	261		Àlèkè fí ọ́lí ọ́pìà fí à.		àlèkè fí ọ́lí ọ́pìà fí à	Aleke throw the cutlass propel CS	Aleke threw the cutlass away.
+Emai	262		Òjè húá élì ọ̀gẹ̀dẹ̀ ọ́ vbì ìtébù.		òjè húá élì ọ̀gẹ̀dẹ̀ ọ́ vbì ìtébù	Oje take.hold.PL the plantain CL LOC table	Oje put the plantains onto the table.
+Emai	263		Òjè kẹ́nhẹ́n kù á.		òjè kẹ́nhẹ́n kù á	Oje cough spread CS	Oje coughed all over. / Oje coughed away.
+Emai	264		Ọ́lì ùgbòfì gbúlú ọ́ vbí ẹ́kọ́à.		ọ́lì ùgbòfì gbúlú ọ́ vbí ẹ́kọ́à	the orange roll CL LOC room	The orange rolled into the room.
+Emai	265		Òjè rẹ́ ósìí é émà.		òjè rẹ́ ósìí é émà	Oje take stew eat yam	Oje used stew to eat pounded yam. / Oje ate pounded yam with stew.
+Emai	266		Òjè zẹ́lọ́ ìwè kú ọ́ vbì èkó.		òjè zẹ́-lọ́ ìwè kú ọ́ vbì èkó	Oje build-DS house spread CL LOC Lagos	Oje built houses all over Lagos.
+Emai	267		Ámẹ́ ísì ìfííjí ọ́ ọ̀ fọ́.		ámẹ́ ísì ìfííjí ọ́ ọ̀ fọ́	water ASS refrigerator SC H be.cool	Refrigerator water is cool.
+Emai	268		Òjè gbúlú ọ́lí íkẹ̀kẹ́ yé òhí.		òjè gbúlú ọ́lí íkẹ̀kẹ́ yé òhí	Oje roll the bicycle ALL Ohi	Oje rolled the bicycle to Ohi.
+Emai	269		Òjè gbúlú ọ́lí íkẹ̀kẹ́ shọ́ọ́ vbí úkpódẹ̀ ré.		òjè gbúlú ọ́lí íkẹ̀kẹ́ shọ́ọ́ vbí úkpódẹ̀ ré	Oje roll the bicycle exit LOC road arrive	Oje rolled the bicycle way off the road.
+Emai	270		Ọ́lí ókọ̀ dé ó vbí ẹ́kẹ́ín ẹ́dà.		ọ́lí ókọ̀ dé ó vbí ẹ́kẹ́ín ẹ́dà	the canoe fall enter LOC inside river	The canoe sank into the river.
+Emai	271		Òjè nwú íhùà héé òhí.		òjè nwú íhùà héé òhí	Oje take.hold.SG burden load Ohi	Oje put a burden on Ohi's head. / Oje loaded Ohi with a burden.
+Emai	272		Òjè kpé ọ́lì òkpàn.		òjè kpé ọ́lì òkpàn	Oje wash the gourd	Oje washed the gourd.
+Emai	273		Òjè kpé ọ́lì ìtásà lí àlèkè.		òjè kpé ọ́lì ìtásà lí àlèkè	Oje wash the plate APP Aleke	Oje washed the plate for Aleke.
+Emai	274		Òjè rẹ́ ósá lí óbí'n kpé ìtásà.		òjè rẹ́ ósá lí óbí'n kpé ìtásà	Oje take soap R black wash plate	Oje used black soap to wash plates. / Oje washed plates with black soap.
+Emai	275		Òjè kpé ọ́lì òmì kú ọ́ vbì ìtébù.		òjè kpé ọ́lì òmì kú ọ́ vbì ìtébù	Oje wash the soup spread CL LOC table	Oje splattered the soup all over the table. / Oje washed the soup around all over the table.
+Emai	276		Òjè kpé ọ́lì òmì kú à.		òjè kpé ọ́lì òmì kú à	Oje wash the soup spread CS	Oje washed the soup away.

@@ -1,0 +1,1193 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Ojibwe	1	EAT	miijid	Antipassive -ige	Never	
+Ojibwe	1	EAT	miijid	Antipassive -iwe	Never	
+Ojibwe	1	EAT	miijid	Applicative	Never	
+Ojibwe	1	EAT	miijid	Body Part Incorporation	Never	
+Ojibwe	1	EAT	miijid	Causative Simple	Never	
+Ojibwe	1	EAT	miijid	Lexical passive	Never	
+Ojibwe	1	EAT	miijid	Reciprocal	Never	
+Ojibwe	1	EAT	miijid	Reflexive	Never	
+Ojibwe	1	EAT	mwaad	Antipassive -ige	Never	
+Ojibwe	1	EAT	mwaad	Antipassive -iwe	Never	
+Ojibwe	1	EAT	mwaad	Applicative	Never	
+Ojibwe	1	EAT	mwaad	Body Part Incorporation	Never	
+Ojibwe	1	EAT	mwaad	Causative Simple	Never	
+Ojibwe	1	EAT	mwaad	Lexical passive	Regularly	
+Ojibwe	1	EAT	mwaad	Reciprocal	Regularly	
+Ojibwe	1	EAT	mwaad	Reflexive	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Antipassive -ige	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Antipassive -iwe	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Applicative	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Body Part Incorporation	Never	
+Ojibwe	2	HUG	aabtoojiinaad	Causative Simple	Never	
+Ojibwe	2	HUG	aabtoojiinaad	Lexical passive	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Reciprocal	Regularly	
+Ojibwe	2	HUG	aabtoojiinaad	Reflexive	Regularly	
+Ojibwe	3	LOOK AT	gnawaabmaad	Antipassive -ige	Regularly	
+Ojibwe	3	LOOK AT	gnawaabmaad	Antipassive -iwe	Never	
+Ojibwe	3	LOOK AT	gnawaabmaad	Applicative	Never	
+Ojibwe	3	LOOK AT	gnawaabmaad	Body Part Incorporation	Never	
+Ojibwe	3	LOOK AT	gnawaabmaad	Causative Simple	Never	
+Ojibwe	3	LOOK AT	gnawaabmaad	Lexical passive	Regularly	
+Ojibwe	3	LOOK AT	gnawaabmaad	Reciprocal	Regularly	
+Ojibwe	3	LOOK AT	gnawaabmaad	Reflexive	Regularly	
+Ojibwe	3	LOOK AT	gnawaabndang	Antipassive -ige	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Antipassive -iwe	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Applicative	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Body Part Incorporation	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Causative Simple	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Lexical passive	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Reciprocal	Never	
+Ojibwe	3	LOOK AT	gnawaabndang	Reflexive	Never	
+Ojibwe	4	SEE	waabmaad	Antipassive -ige	Regularly	
+Ojibwe	4	SEE	waabmaad	Antipassive -iwe	Never	
+Ojibwe	4	SEE	waabmaad	Applicative	Regularly	
+Ojibwe	4	SEE	waabmaad	Body Part Incorporation	Never	
+Ojibwe	4	SEE	waabmaad	Causative Simple	Never	
+Ojibwe	4	SEE	waabmaad	Lexical passive	Regularly	
+Ojibwe	4	SEE	waabmaad	Reciprocal	Regularly	
+Ojibwe	4	SEE	waabmaad	Reflexive	Regularly	
+Ojibwe	4	SEE	waabndang	Antipassive -ige	Never	
+Ojibwe	4	SEE	waabndang	Antipassive -iwe	Never	
+Ojibwe	4	SEE	waabndang	Applicative	Never	
+Ojibwe	4	SEE	waabndang	Body Part Incorporation	Never	
+Ojibwe	4	SEE	waabndang	Causative Simple	Never	
+Ojibwe	4	SEE	waabndang	Lexical passive	Never	
+Ojibwe	4	SEE	waabndang	Reciprocal	Never	
+Ojibwe	4	SEE	waabndang	Reflexive	Never	
+Ojibwe	5	SMELL	biijmaamaad	Antipassive -ige	Regularly	
+Ojibwe	5	SMELL	biijmaamaad	Antipassive -iwe	Never	
+Ojibwe	5	SMELL	biijmaamaad	Applicative	Regularly	
+Ojibwe	5	SMELL	biijmaamaad	Body Part Incorporation	Never	
+Ojibwe	5	SMELL	biijmaamaad	Causative Simple	Never	
+Ojibwe	5	SMELL	biijmaamaad	Lexical passive	Regularly	
+Ojibwe	5	SMELL	biijmaamaad	Reciprocal	Marginally	
+Ojibwe	5	SMELL	biijmaamaad	Reflexive	Regularly	
+Ojibwe	5	SMELL	biijmaandang	Antipassive -ige	Never	
+Ojibwe	5	SMELL	biijmaandang	Antipassive -iwe	Never	
+Ojibwe	5	SMELL	biijmaandang	Applicative	Never	
+Ojibwe	5	SMELL	biijmaandang	Body Part Incorporation	Never	
+Ojibwe	5	SMELL	biijmaandang	Causative Simple	Never	
+Ojibwe	5	SMELL	biijmaandang	Lexical passive	Never	
+Ojibwe	5	SMELL	biijmaandang	Reciprocal	Never	
+Ojibwe	5	SMELL	biijmaandang	Reflexive	Never	
+Ojibwe	6	FEAR	gsaad	Antipassive -ige	Never	
+Ojibwe	6	FEAR	gsaad	Antipassive -iwe	Regularly	
+Ojibwe	6	FEAR	gsaad	Applicative	Regularly	
+Ojibwe	6	FEAR	gsaad	Body Part Incorporation	Never	
+Ojibwe	6	FEAR	gsaad	Causative Simple	Never	
+Ojibwe	6	FEAR	gsaad	Lexical passive	Regularly	
+Ojibwe	6	FEAR	gsaad	Reciprocal	Regularly	
+Ojibwe	6	FEAR	gsaad	Reflexive	Regularly	
+Ojibwe	6	FEAR	gtang	Antipassive -ige	Never	
+Ojibwe	6	FEAR	gtang	Antipassive -iwe	Never	
+Ojibwe	6	FEAR	gtang	Applicative	Never	
+Ojibwe	6	FEAR	gtang	Body Part Incorporation	Never	
+Ojibwe	6	FEAR	gtang	Causative Simple	Never	
+Ojibwe	6	FEAR	gtang	Lexical passive	Never	
+Ojibwe	6	FEAR	gtang	Reciprocal	Never	
+Ojibwe	6	FEAR	gtang	Reflexive	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Antipassive -ige	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Antipassive -iwe	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Applicative	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Body Part Incorporation	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Causative Simple	Never	
+Ojibwe	7	FRIGHTEN	zeghaad	Lexical passive	Regularly	
+Ojibwe	7	FRIGHTEN	zeghaad	Reciprocal	Regularly	
+Ojibwe	7	FRIGHTEN	zeghaad	Reflexive	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Antipassive -ige	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Antipassive -iwe	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Applicative	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Body Part Incorporation	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Causative Simple	Never	
+Ojibwe	8	LIKE	bgishgenmaad	Lexical passive	Regularly	
+Ojibwe	8	LIKE	bgishgenmaad	Reciprocal	Regularly	
+Ojibwe	8	LIKE	bgishgenmaad	Reflexive	Regularly	
+Ojibwe	8	LIKE	bshigendang	Antipassive -ige	Never	
+Ojibwe	8	LIKE	bshigendang	Antipassive -iwe	Never	
+Ojibwe	8	LIKE	bshigendang	Applicative	Never	
+Ojibwe	8	LIKE	bshigendang	Body Part Incorporation	Never	
+Ojibwe	8	LIKE	bshigendang	Causative Simple	Never	
+Ojibwe	8	LIKE	bshigendang	Lexical passive	Never	
+Ojibwe	8	LIKE	bshigendang	Reciprocal	Never	
+Ojibwe	8	LIKE	bshigendang	Reflexive	Never	
+Ojibwe	8	LIKE	mdaagwendang	Antipassive -ige	Never	
+Ojibwe	8	LIKE	mdaagwendang	Antipassive -iwe	Never	
+Ojibwe	8	LIKE	mdaagwendang	Applicative	Never	
+Ojibwe	8	LIKE	mdaagwendang	Body Part Incorporation	Never	
+Ojibwe	8	LIKE	mdaagwendang	Causative Simple	Never	
+Ojibwe	8	LIKE	mdaagwendang	Lexical passive	Never	
+Ojibwe	8	LIKE	mdaagwendang	Reciprocal	Never	
+Ojibwe	8	LIKE	mdaagwendang	Reflexive	Never	
+Ojibwe	9	KNOW	gkendang	Antipassive -ige	Never	
+Ojibwe	9	KNOW	gkendang	Antipassive -iwe	Never	
+Ojibwe	9	KNOW	gkendang	Applicative	Never	
+Ojibwe	9	KNOW	gkendang	Body Part Incorporation	Never	
+Ojibwe	9	KNOW	gkendang	Causative Simple	Never	
+Ojibwe	9	KNOW	gkendang	Lexical passive	Never	
+Ojibwe	9	KNOW	gkendang	Reciprocal	Never	
+Ojibwe	9	KNOW	gkendang	Reflexive	Never	
+Ojibwe	9	KNOW	gkenmaad	Antipassive -ige	Regularly	
+Ojibwe	9	KNOW	gkenmaad	Antipassive -iwe	Never	
+Ojibwe	9	KNOW	gkenmaad	Applicative	Never	
+Ojibwe	9	KNOW	gkenmaad	Body Part Incorporation	Never	
+Ojibwe	9	KNOW	gkenmaad	Causative Simple	Never	
+Ojibwe	9	KNOW	gkenmaad	Lexical passive	Regularly	
+Ojibwe	9	KNOW	gkenmaad	Reciprocal	Regularly	
+Ojibwe	9	KNOW	gkenmaad	Reflexive	Regularly	
+Ojibwe	10	THINK	mdaagwenmaad	Antipassive -ige	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Antipassive -iwe	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Applicative	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Body Part Incorporation	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Causative Simple	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Lexical passive	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Reciprocal	Never	
+Ojibwe	10	THINK	mdaagwenmaad	Reflexive	Never	
+Ojibwe	10	THINK	nendang	Antipassive -ige	Never	
+Ojibwe	10	THINK	nendang	Antipassive -iwe	Never	
+Ojibwe	10	THINK	nendang	Applicative	Never	
+Ojibwe	10	THINK	nendang	Body Part Incorporation	Never	
+Ojibwe	10	THINK	nendang	Causative Simple	Never	
+Ojibwe	10	THINK	nendang	Lexical passive	Never	
+Ojibwe	10	THINK	nendang	Reciprocal	Never	
+Ojibwe	10	THINK	nendang	Reflexive	Never	
+Ojibwe	10	THINK	nenmaad	Antipassive -ige	Marginally	
+Ojibwe	10	THINK	nenmaad	Antipassive -iwe	Never	
+Ojibwe	10	THINK	nenmaad	Applicative	Regularly	
+Ojibwe	10	THINK	nenmaad	Body Part Incorporation	Never	
+Ojibwe	10	THINK	nenmaad	Causative Simple	Never	
+Ojibwe	10	THINK	nenmaad	Lexical passive	Regularly	
+Ojibwe	10	THINK	nenmaad	Reciprocal	Regularly	
+Ojibwe	10	THINK	nenmaad	Reflexive	Regularly	
+Ojibwe	10	THINK	tanenmaad	Antipassive -ige	Never	
+Ojibwe	10	THINK	tanenmaad	Antipassive -iwe	Never	
+Ojibwe	10	THINK	tanenmaad	Applicative	Never	
+Ojibwe	10	THINK	tanenmaad	Body Part Incorporation	Never	
+Ojibwe	10	THINK	tanenmaad	Causative Simple	Never	
+Ojibwe	10	THINK	tanenmaad	Lexical passive	Never	
+Ojibwe	10	THINK	tanenmaad	Reciprocal	Never	
+Ojibwe	10	THINK	tanenmaad	Reflexive	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Antipassive -ige	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Antipassive -iwe	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Applicative	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Body Part Incorporation	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Causative Simple	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Lexical passive	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Reciprocal	Never	
+Ojibwe	11	SEARCH FOR	ndanehang	Reflexive	Never	
+Ojibwe	11	SEARCH FOR	ndanewaad	Antipassive -ige	Regularly	
+Ojibwe	11	SEARCH FOR	ndanewaad	Antipassive -iwe	Never	
+Ojibwe	11	SEARCH FOR	ndanewaad	Applicative	Regularly	
+Ojibwe	11	SEARCH FOR	ndanewaad	Body Part Incorporation	Never	
+Ojibwe	11	SEARCH FOR	ndanewaad	Causative Simple	Never	
+Ojibwe	11	SEARCH FOR	ndanewaad	Lexical passive	Regularly	
+Ojibwe	11	SEARCH FOR	ndanewaad	Reciprocal	Regularly	
+Ojibwe	11	SEARCH FOR	ndanewaad	Reflexive	Never	
+Ojibwe	12	WASH	gziibiignaad	Antipassive -ige	Regularly	
+Ojibwe	12	WASH	gziibiignaad	Antipassive -iwe	Never	
+Ojibwe	12	WASH	gziibiignaad	Applicative	Regularly	
+Ojibwe	12	WASH	gziibiignaad	Body Part Incorporation	Regularly	
+Ojibwe	12	WASH	gziibiignaad	Causative Simple	Never	
+Ojibwe	12	WASH	gziibiignaad	Lexical passive	Regularly	
+Ojibwe	12	WASH	gziibiignaad	Reciprocal	Marginally	
+Ojibwe	12	WASH	gziibiignaad	Reflexive	Regularly	
+Ojibwe	12	WASH	gziibiignang	Antipassive -ige	Never	
+Ojibwe	12	WASH	gziibiignang	Antipassive -iwe	Never	
+Ojibwe	12	WASH	gziibiignang	Applicative	Never	
+Ojibwe	12	WASH	gziibiignang	Body Part Incorporation	Never	
+Ojibwe	12	WASH	gziibiignang	Causative Simple	Never	
+Ojibwe	12	WASH	gziibiignang	Lexical passive	Never	
+Ojibwe	12	WASH	gziibiignang	Reciprocal	Never	
+Ojibwe	12	WASH	gziibiignang	Reflexive	Never	
+Ojibwe	13	DRESS	biiskon'yehaad	Antipassive -ige	Never	
+Ojibwe	13	DRESS	biiskon'yehaad	Antipassive -iwe	Regularly	
+Ojibwe	13	DRESS	biiskon'yehaad	Applicative	Never	
+Ojibwe	13	DRESS	biiskon'yehaad	Body Part Incorporation	Never	
+Ojibwe	13	DRESS	biiskon'yehaad	Causative Simple	Never	
+Ojibwe	13	DRESS	biiskon'yehaad	Lexical passive	Regularly	
+Ojibwe	13	DRESS	biiskon'yehaad	Reciprocal	Regularly	
+Ojibwe	13	DRESS	biiskon'yehaad	Reflexive	Regularly	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Antipassive -ige	Regularly	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Antipassive -iwe	Never	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Applicative	Never	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Body Part Incorporation	Never	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Causative Simple	Never	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Lexical passive	Regularly	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Reciprocal	Regularly	
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	Reflexive	Regularly	
+Ojibwe	15	HELP	naadmawaad	Antipassive -ige	Regularly	
+Ojibwe	15	HELP	naadmawaad	Antipassive -iwe	Never	
+Ojibwe	15	HELP	naadmawaad	Applicative	Regularly	
+Ojibwe	15	HELP	naadmawaad	Body Part Incorporation	Never	
+Ojibwe	15	HELP	naadmawaad	Causative Simple	Never	
+Ojibwe	15	HELP	naadmawaad	Lexical passive	Regularly	
+Ojibwe	15	HELP	naadmawaad	Reciprocal	Regularly	
+Ojibwe	15	HELP	naadmawaad	Reflexive	Regularly	
+Ojibwe	16	FOLLOW	noopnanaad	Antipassive -ige	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Antipassive -iwe	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Applicative	Regularly	
+Ojibwe	16	FOLLOW	noopnanaad	Body Part Incorporation	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Causative Simple	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Lexical passive	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Reciprocal	Never	
+Ojibwe	16	FOLLOW	noopnanaad	Reflexive	Regularly	
+Ojibwe	17	MEET	nkweshkang	Antipassive -ige	Never	
+Ojibwe	17	MEET	nkweshkang	Antipassive -iwe	Never	
+Ojibwe	17	MEET	nkweshkang	Applicative	Never	
+Ojibwe	17	MEET	nkweshkang	Body Part Incorporation	Never	
+Ojibwe	17	MEET	nkweshkang	Causative Simple	Never	
+Ojibwe	17	MEET	nkweshkang	Lexical passive	Never	
+Ojibwe	17	MEET	nkweshkang	Reciprocal	Never	
+Ojibwe	17	MEET	nkweshkang	Reflexive	Never	
+Ojibwe	17	MEET	nkweshkwaad	Antipassive -ige	Never	
+Ojibwe	17	MEET	nkweshkwaad	Antipassive -iwe	Never	
+Ojibwe	17	MEET	nkweshkwaad	Applicative	Never	
+Ojibwe	17	MEET	nkweshkwaad	Body Part Incorporation	Never	
+Ojibwe	17	MEET	nkweshkwaad	Causative Simple	Never	
+Ojibwe	17	MEET	nkweshkwaad	Lexical passive	Never	
+Ojibwe	17	MEET	nkweshkwaad	Reciprocal	Never	
+Ojibwe	17	MEET	nkweshkwaad	Reflexive	Never	
+Ojibwe	18	TALK	gnoodang	Antipassive -ige	Never	
+Ojibwe	18	TALK	gnoodang	Antipassive -iwe	Never	
+Ojibwe	18	TALK	gnoodang	Applicative	Never	
+Ojibwe	18	TALK	gnoodang	Body Part Incorporation	Never	
+Ojibwe	18	TALK	gnoodang	Causative Simple	Never	
+Ojibwe	18	TALK	gnoodang	Lexical passive	Never	
+Ojibwe	18	TALK	gnoodang	Reciprocal	Never	
+Ojibwe	18	TALK	gnoodang	Reflexive	Never	
+Ojibwe	18	TALK	gnoonaad	Antipassive -ige	Never	
+Ojibwe	18	TALK	gnoonaad	Antipassive -iwe	Never	
+Ojibwe	18	TALK	gnoonaad	Applicative	Never	
+Ojibwe	18	TALK	gnoonaad	Body Part Incorporation	Never	
+Ojibwe	18	TALK	gnoonaad	Causative Simple	Never	
+Ojibwe	18	TALK	gnoonaad	Lexical passive	Regularly	
+Ojibwe	18	TALK	gnoonaad	Reciprocal	Regularly	
+Ojibwe	18	TALK	gnoonaad	Reflexive	Regularly	
+Ojibwe	19	ASK FOR	ndodang	Antipassive -ige	Never	
+Ojibwe	19	ASK FOR	ndodang	Antipassive -iwe	Never	
+Ojibwe	19	ASK FOR	ndodang	Applicative	Never	
+Ojibwe	19	ASK FOR	ndodang	Body Part Incorporation	Never	
+Ojibwe	19	ASK FOR	ndodang	Causative Simple	Never	
+Ojibwe	19	ASK FOR	ndodang	Lexical passive	Never	
+Ojibwe	19	ASK FOR	ndodang	Reciprocal	Never	
+Ojibwe	19	ASK FOR	ndodang	Reflexive	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Antipassive -ige	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Antipassive -iwe	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Applicative	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Body Part Incorporation	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Causative Simple	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Lexical passive	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Reciprocal	Never	
+Ojibwe	19	ASK FOR	ndodmaaged	Reflexive	Never	
+Ojibwe	19	ASK FOR	ndodmawaad	Antipassive -ige	Regularly	
+Ojibwe	19	ASK FOR	ndodmawaad	Antipassive -iwe	Never	
+Ojibwe	19	ASK FOR	ndodmawaad	Applicative	Never	
+Ojibwe	19	ASK FOR	ndodmawaad	Body Part Incorporation	Never	
+Ojibwe	19	ASK FOR	ndodmawaad	Causative Simple	Never	
+Ojibwe	19	ASK FOR	ndodmawaad	Lexical passive	Regularly	
+Ojibwe	19	ASK FOR	ndodmawaad	Reciprocal	Regularly	
+Ojibwe	19	ASK FOR	ndodmawaad	Reflexive	Regularly	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Antipassive -ige	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Antipassive -iwe	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Applicative	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Body Part Incorporation	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Causative Simple	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Lexical passive	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Reciprocal	Never	
+Ojibwe	20	SHOUT AT	(?biibaagndang)	Reflexive	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Antipassive -ige	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Antipassive -iwe	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Applicative	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Body Part Incorporation	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Causative Simple	Never	
+Ojibwe	20	SHOUT AT	biibaagmaad	Lexical passive	Regularly	
+Ojibwe	20	SHOUT AT	biibaagmaad	Reciprocal	Regularly	
+Ojibwe	20	SHOUT AT	biibaagmaad	Reflexive	Never	
+Ojibwe	21	TELL	wiindmawaad	Antipassive -ige	Regularly	
+Ojibwe	21	TELL	wiindmawaad	Antipassive -iwe	Never	
+Ojibwe	21	TELL	wiindmawaad	Applicative	Never	
+Ojibwe	21	TELL	wiindmawaad	Body Part Incorporation	Never	
+Ojibwe	21	TELL	wiindmawaad	Causative Simple	Never	
+Ojibwe	21	TELL	wiindmawaad	Lexical passive	Never	
+Ojibwe	21	TELL	wiindmawaad	Reciprocal	Regularly	
+Ojibwe	21	TELL	wiindmawaad	Reflexive	Regularly	
+Ojibwe	22	SAY	kidod	Antipassive -ige	Never	
+Ojibwe	22	SAY	kidod	Antipassive -iwe	Never	
+Ojibwe	22	SAY	kidod	Applicative	Never	
+Ojibwe	22	SAY	kidod	Body Part Incorporation	Never	
+Ojibwe	22	SAY	kidod	Causative Simple	Never	
+Ojibwe	22	SAY	kidod	Lexical passive	Never	
+Ojibwe	22	SAY	kidod	Reciprocal	Never	
+Ojibwe	22	SAY	kidod	Reflexive	Never	
+Ojibwe	22	SAY	naad	Antipassive -ige	Never	
+Ojibwe	22	SAY	naad	Antipassive -iwe	Never	
+Ojibwe	22	SAY	naad	Applicative	Never	
+Ojibwe	22	SAY	naad	Body Part Incorporation	Never	
+Ojibwe	22	SAY	naad	Causative Simple	Never	
+Ojibwe	22	SAY	naad	Lexical passive	Regularly	
+Ojibwe	22	SAY	naad	Reciprocal	Never	
+Ojibwe	22	SAY	naad	Reflexive	Never	
+Ojibwe	23	NAME	waawiinaad	Antipassive -ige	Never	
+Ojibwe	23	NAME	waawiinaad	Antipassive -iwe	Regularly	
+Ojibwe	23	NAME	waawiinaad	Applicative	Regularly	
+Ojibwe	23	NAME	waawiinaad	Body Part Incorporation	Never	
+Ojibwe	23	NAME	waawiinaad	Causative Simple	Never	
+Ojibwe	23	NAME	waawiinaad	Lexical passive	Regularly	
+Ojibwe	23	NAME	waawiinaad	Reciprocal	Regularly	
+Ojibwe	23	NAME	waawiinaad	Reflexive	Regularly	
+Ojibwe	23	NAME	waawiindang	Antipassive -ige	Never	
+Ojibwe	23	NAME	waawiindang	Antipassive -iwe	Never	
+Ojibwe	23	NAME	waawiindang	Applicative	Never	
+Ojibwe	23	NAME	waawiindang	Body Part Incorporation	Never	
+Ojibwe	23	NAME	waawiindang	Causative Simple	Never	
+Ojibwe	23	NAME	waawiindang	Lexical passive	Never	
+Ojibwe	23	NAME	waawiindang	Reciprocal	Never	
+Ojibwe	23	NAME	waawiindang	Reflexive	Never	
+Ojibwe	23	NAME	zhinkaadang	Antipassive -ige	Never	
+Ojibwe	23	NAME	zhinkaadang	Antipassive -iwe	Never	
+Ojibwe	23	NAME	zhinkaadang	Applicative	Never	
+Ojibwe	23	NAME	zhinkaadang	Body Part Incorporation	Never	
+Ojibwe	23	NAME	zhinkaadang	Causative Simple	Never	
+Ojibwe	23	NAME	zhinkaadang	Lexical passive	Never	
+Ojibwe	23	NAME	zhinkaadang	Reciprocal	Never	
+Ojibwe	23	NAME	zhinkaadang	Reflexive	Never	
+Ojibwe	23	NAME	zhinkaanaad	Antipassive -ige	Regularly	
+Ojibwe	23	NAME	zhinkaanaad	Antipassive -iwe	Never	
+Ojibwe	23	NAME	zhinkaanaad	Applicative	Regularly	
+Ojibwe	23	NAME	zhinkaanaad	Body Part Incorporation	Never	
+Ojibwe	23	NAME	zhinkaanaad	Causative Simple	Never	
+Ojibwe	23	NAME	zhinkaanaad	Lexical passive	Regularly	
+Ojibwe	23	NAME	zhinkaanaad	Reciprocal	Regularly	
+Ojibwe	23	NAME	zhinkaanaad	Reflexive	Never	
+Ojibwe	24	BUILD	zhihaad	Antipassive -ige	Regularly	
+Ojibwe	24	BUILD	zhihaad	Antipassive -iwe	Never	
+Ojibwe	24	BUILD	zhihaad	Applicative	Regularly	
+Ojibwe	24	BUILD	zhihaad	Body Part Incorporation	Never	
+Ojibwe	24	BUILD	zhihaad	Causative Simple	Never	
+Ojibwe	24	BUILD	zhihaad	Lexical passive	Regularly	
+Ojibwe	24	BUILD	zhihaad	Reciprocal	Never	
+Ojibwe	24	BUILD	zhihaad	Reflexive	Never	
+Ojibwe	24	BUILD	zhitood	Antipassive -ige	Never	
+Ojibwe	24	BUILD	zhitood	Antipassive -iwe	Never	
+Ojibwe	24	BUILD	zhitood	Applicative	Never	
+Ojibwe	24	BUILD	zhitood	Body Part Incorporation	Never	
+Ojibwe	24	BUILD	zhitood	Causative Simple	Never	
+Ojibwe	24	BUILD	zhitood	Lexical passive	Never	
+Ojibwe	24	BUILD	zhitood	Reciprocal	Never	
+Ojibwe	24	BUILD	zhitood	Reflexive	Never	
+Ojibwe	25	BREAK	bookbidood	Antipassive -ige	Never	
+Ojibwe	25	BREAK	bookbidood	Antipassive -iwe	Never	
+Ojibwe	25	BREAK	bookbidood	Applicative	Never	
+Ojibwe	25	BREAK	bookbidood	Body Part Incorporation	Never	
+Ojibwe	25	BREAK	bookbidood	Causative Simple	Never	
+Ojibwe	25	BREAK	bookbidood	Lexical passive	Never	
+Ojibwe	25	BREAK	bookbidood	Reciprocal	Never	
+Ojibwe	25	BREAK	bookbidood	Reflexive	Never	
+Ojibwe	25	BREAK	bookbinaad	Antipassive -ige	Regularly	
+Ojibwe	25	BREAK	bookbinaad	Antipassive -iwe	Never	
+Ojibwe	25	BREAK	bookbinaad	Applicative	Regularly	
+Ojibwe	25	BREAK	bookbinaad	Body Part Incorporation	Never	
+Ojibwe	25	BREAK	bookbinaad	Causative Simple	Never	
+Ojibwe	25	BREAK	bookbinaad	Lexical passive	Regularly	
+Ojibwe	25	BREAK	bookbinaad	Reciprocal	Never	
+Ojibwe	25	BREAK	bookbinaad	Reflexive	Never	
+Ojibwe	26	KILL	nsaad	Antipassive -ige	Never	
+Ojibwe	26	KILL	nsaad	Antipassive -iwe	Regularly	
+Ojibwe	26	KILL	nsaad	Applicative	Regularly	
+Ojibwe	26	KILL	nsaad	Body Part Incorporation	Never	
+Ojibwe	26	KILL	nsaad	Causative Simple	Never	
+Ojibwe	26	KILL	nsaad	Lexical passive	Regularly	
+Ojibwe	26	KILL	nsaad	Reciprocal	No data	
+Ojibwe	26	KILL	nsaad	Reflexive	Regularly	
+Ojibwe	26	KILL	ntood	Antipassive -ige	Never	
+Ojibwe	26	KILL	ntood	Antipassive -iwe	Never	
+Ojibwe	26	KILL	ntood	Applicative	Never	
+Ojibwe	26	KILL	ntood	Body Part Incorporation	Never	
+Ojibwe	26	KILL	ntood	Causative Simple	Never	
+Ojibwe	26	KILL	ntood	Lexical passive	Never	
+Ojibwe	26	KILL	ntood	Reciprocal	Never	
+Ojibwe	26	KILL	ntood	Reflexive	Never	
+Ojibwe	27	BEAT	bkitehang	Antipassive -ige	Never	
+Ojibwe	27	BEAT	bkitehang	Antipassive -iwe	Never	
+Ojibwe	27	BEAT	bkitehang	Applicative	Never	
+Ojibwe	27	BEAT	bkitehang	Body Part Incorporation	Never	
+Ojibwe	27	BEAT	bkitehang	Causative Simple	Never	
+Ojibwe	27	BEAT	bkitehang	Lexical passive	Never	
+Ojibwe	27	BEAT	bkitehang	Reciprocal	Never	
+Ojibwe	27	BEAT	bkitehang	Reflexive	Never	
+Ojibwe	27	BEAT	bkitewaad	Antipassive -ige	Regularly	
+Ojibwe	27	BEAT	bkitewaad	Antipassive -iwe	Never	
+Ojibwe	27	BEAT	bkitewaad	Applicative	Never	
+Ojibwe	27	BEAT	bkitewaad	Body Part Incorporation	Never	
+Ojibwe	27	BEAT	bkitewaad	Causative Simple	Never	
+Ojibwe	27	BEAT	bkitewaad	Lexical passive	Regularly	
+Ojibwe	27	BEAT	bkitewaad	Reciprocal	Regularly	
+Ojibwe	27	BEAT	bkitewaad	Reflexive	Never	
+Ojibwe	28	HIT	bkitehang	Antipassive -ige	Never	
+Ojibwe	28	HIT	bkitehang	Antipassive -iwe	Never	
+Ojibwe	28	HIT	bkitehang	Applicative	Never	
+Ojibwe	28	HIT	bkitehang	Body Part Incorporation	Never	
+Ojibwe	28	HIT	bkitehang	Causative Simple	Never	
+Ojibwe	28	HIT	bkitehang	Lexical passive	Never	
+Ojibwe	28	HIT	bkitehang	Reciprocal	Never	
+Ojibwe	28	HIT	bkitehang	Reflexive	Never	
+Ojibwe	28	HIT	bkitewaad	Antipassive -ige	Regularly	
+Ojibwe	28	HIT	bkitewaad	Antipassive -iwe	Never	
+Ojibwe	28	HIT	bkitewaad	Applicative	Never	
+Ojibwe	28	HIT	bkitewaad	Body Part Incorporation	Never	
+Ojibwe	28	HIT	bkitewaad	Causative Simple	Never	
+Ojibwe	28	HIT	bkitewaad	Lexical passive	Regularly	
+Ojibwe	28	HIT	bkitewaad	Reciprocal	Regularly	
+Ojibwe	28	HIT	bkitewaad	Reflexive	Never	
+Ojibwe	29	TOUCH	daangnaad	Antipassive -ige	Regularly	
+Ojibwe	29	TOUCH	daangnaad	Antipassive -iwe	Never	
+Ojibwe	29	TOUCH	daangnaad	Applicative	Never	
+Ojibwe	29	TOUCH	daangnaad	Body Part Incorporation	Regularly	
+Ojibwe	29	TOUCH	daangnaad	Causative Simple	Never	
+Ojibwe	29	TOUCH	daangnaad	Lexical passive	Regularly	
+Ojibwe	29	TOUCH	daangnaad	Reciprocal	Regularly	
+Ojibwe	29	TOUCH	daangnaad	Reflexive	Regularly	
+Ojibwe	29	TOUCH	daangnang	Antipassive -ige	Never	
+Ojibwe	29	TOUCH	daangnang	Antipassive -iwe	Never	
+Ojibwe	29	TOUCH	daangnang	Applicative	Never	
+Ojibwe	29	TOUCH	daangnang	Body Part Incorporation	Never	
+Ojibwe	29	TOUCH	daangnang	Causative Simple	Never	
+Ojibwe	29	TOUCH	daangnang	Lexical passive	Never	
+Ojibwe	29	TOUCH	daangnang	Reciprocal	Never	
+Ojibwe	29	TOUCH	daangnang	Reflexive	Never	
+Ojibwe	30	CUT	giishkkodang	Antipassive -ige	Never	
+Ojibwe	30	CUT	giishkkodang	Antipassive -iwe	Never	
+Ojibwe	30	CUT	giishkkodang	Applicative	Never	
+Ojibwe	30	CUT	giishkkodang	Body Part Incorporation	Never	
+Ojibwe	30	CUT	giishkkodang	Causative Simple	Never	
+Ojibwe	30	CUT	giishkkodang	Lexical passive	Never	
+Ojibwe	30	CUT	giishkkodang	Reciprocal	Never	
+Ojibwe	30	CUT	giishkkodang	Reflexive	Never	
+Ojibwe	30	CUT	giishkkonaad	Antipassive -ige	Regularly	
+Ojibwe	30	CUT	giishkkonaad	Antipassive -iwe	Never	
+Ojibwe	30	CUT	giishkkonaad	Applicative	Regularly	
+Ojibwe	30	CUT	giishkkonaad	Body Part Incorporation	Regularly	
+Ojibwe	30	CUT	giishkkonaad	Causative Simple	Never	
+Ojibwe	30	CUT	giishkkonaad	Lexical passive	Regularly	
+Ojibwe	30	CUT	giishkkonaad	Reciprocal	Regularly	
+Ojibwe	30	CUT	giishkkonaad	Reflexive	Regularly	
+Ojibwe	31	TAKE	daapnaad	Antipassive -ige	Regularly	
+Ojibwe	31	TAKE	daapnaad	Antipassive -iwe	Never	
+Ojibwe	31	TAKE	daapnaad	Applicative	Regularly	
+Ojibwe	31	TAKE	daapnaad	Body Part Incorporation	Never	
+Ojibwe	31	TAKE	daapnaad	Causative Simple	Never	
+Ojibwe	31	TAKE	daapnaad	Lexical passive	Regularly	
+Ojibwe	31	TAKE	daapnaad	Reciprocal	Never	
+Ojibwe	31	TAKE	daapnaad	Reflexive	Never	
+Ojibwe	31	TAKE	daapnang	Antipassive -ige	Never	
+Ojibwe	31	TAKE	daapnang	Antipassive -iwe	Never	
+Ojibwe	31	TAKE	daapnang	Applicative	Never	
+Ojibwe	31	TAKE	daapnang	Body Part Incorporation	Never	
+Ojibwe	31	TAKE	daapnang	Causative Simple	Never	
+Ojibwe	31	TAKE	daapnang	Lexical passive	Never	
+Ojibwe	31	TAKE	daapnang	Reciprocal	Never	
+Ojibwe	31	TAKE	daapnang	Reflexive	Never	
+Ojibwe	32	TEAR	gaakbidood	Antipassive -ige	Never	
+Ojibwe	32	TEAR	gaakbidood	Antipassive -iwe	Never	
+Ojibwe	32	TEAR	gaakbidood	Applicative	Never	
+Ojibwe	32	TEAR	gaakbidood	Body Part Incorporation	Never	
+Ojibwe	32	TEAR	gaakbidood	Causative Simple	Never	
+Ojibwe	32	TEAR	gaakbidood	Lexical passive	Never	
+Ojibwe	32	TEAR	gaakbidood	Reciprocal	Never	
+Ojibwe	32	TEAR	gaakbidood	Reflexive	Never	
+Ojibwe	32	TEAR	gaakbinaad	Antipassive -ige	Regularly	
+Ojibwe	32	TEAR	gaakbinaad	Antipassive -iwe	Never	
+Ojibwe	32	TEAR	gaakbinaad	Applicative	Regularly	
+Ojibwe	32	TEAR	gaakbinaad	Body Part Incorporation	Never	
+Ojibwe	32	TEAR	gaakbinaad	Causative Simple	Never	
+Ojibwe	32	TEAR	gaakbinaad	Lexical passive	Regularly	
+Ojibwe	32	TEAR	gaakbinaad	Reciprocal	Never	
+Ojibwe	32	TEAR	gaakbinaad	Reflexive	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Antipassive -ige	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Antipassive -iwe	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Applicative	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Body Part Incorporation	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Causative Simple	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Lexical passive	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Reciprocal	Never	
+Ojibwe	33	PEEL	bnagjiibdood	Reflexive	Never	
+Ojibwe	33	PEEL	bnagjiibinaad	Antipassive -ige	Regularly	
+Ojibwe	33	PEEL	bnagjiibinaad	Antipassive -iwe	Never	
+Ojibwe	33	PEEL	bnagjiibinaad	Applicative	Regularly	
+Ojibwe	33	PEEL	bnagjiibinaad	Body Part Incorporation	Never	
+Ojibwe	33	PEEL	bnagjiibinaad	Causative Simple	Never	
+Ojibwe	33	PEEL	bnagjiibinaad	Lexical passive	Regularly	
+Ojibwe	33	PEEL	bnagjiibinaad	Reciprocal	Never	
+Ojibwe	33	PEEL	bnagjiibinaad	Reflexive	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Antipassive -ige	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Antipassive -iwe	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Applicative	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Body Part Incorporation	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Causative Simple	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Lexical passive	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Reciprocal	Never	
+Ojibwe	33	PEEL	bnagjiikdang	Reflexive	Never	
+Ojibwe	33	PEEL	bnagjiiknaad	Antipassive -ige	Regularly	
+Ojibwe	33	PEEL	bnagjiiknaad	Antipassive -iwe	Never	
+Ojibwe	33	PEEL	bnagjiiknaad	Applicative	Regularly	
+Ojibwe	33	PEEL	bnagjiiknaad	Body Part Incorporation	Never	
+Ojibwe	33	PEEL	bnagjiiknaad	Causative Simple	Never	
+Ojibwe	33	PEEL	bnagjiiknaad	Lexical passive	Regularly	
+Ojibwe	33	PEEL	bnagjiiknaad	Reciprocal	Never	
+Ojibwe	33	PEEL	bnagjiiknaad	Reflexive	Never	
+Ojibwe	34	HIDE	gkidood	Antipassive -ige	Never	
+Ojibwe	34	HIDE	gkidood	Antipassive -iwe	Never	
+Ojibwe	34	HIDE	gkidood	Applicative	Never	
+Ojibwe	34	HIDE	gkidood	Body Part Incorporation	Never	
+Ojibwe	34	HIDE	gkidood	Causative Simple	Never	
+Ojibwe	34	HIDE	gkidood	Lexical passive	Never	
+Ojibwe	34	HIDE	gkidood	Reciprocal	Never	
+Ojibwe	34	HIDE	gkidood	Reflexive	Never	
+Ojibwe	34	HIDE	gkinaad	Antipassive -ige	Never	
+Ojibwe	34	HIDE	gkinaad	Antipassive -iwe	Never	
+Ojibwe	34	HIDE	gkinaad	Applicative	Regularly	
+Ojibwe	34	HIDE	gkinaad	Body Part Incorporation	Never	
+Ojibwe	34	HIDE	gkinaad	Causative Simple	Never	
+Ojibwe	34	HIDE	gkinaad	Lexical passive	Regularly	
+Ojibwe	34	HIDE	gkinaad	Reciprocal	Regularly	
+Ojibwe	34	HIDE	gkinaad	Reflexive	Regularly	
+Ojibwe	35	SHOW	waabndahaad	Antipassive -ige	Never	
+Ojibwe	35	SHOW	waabndahaad	Antipassive -iwe	Never	
+Ojibwe	35	SHOW	waabndahaad	Applicative	Never	
+Ojibwe	35	SHOW	waabndahaad	Body Part Incorporation	Never	
+Ojibwe	35	SHOW	waabndahaad	Causative Simple	Never	
+Ojibwe	35	SHOW	waabndahaad	Lexical passive	Regularly	
+Ojibwe	35	SHOW	waabndahaad	Reciprocal	Regularly	
+Ojibwe	35	SHOW	waabndahaad	Reflexive	Regularly	
+Ojibwe	35	SHOW	zhinoohmawaad	Antipassive -ige	Never	
+Ojibwe	35	SHOW	zhinoohmawaad	Antipassive -iwe	Never	
+Ojibwe	35	SHOW	zhinoohmawaad	Applicative	Never	
+Ojibwe	35	SHOW	zhinoohmawaad	Body Part Incorporation	Never	
+Ojibwe	35	SHOW	zhinoohmawaad	Causative Simple	Never	
+Ojibwe	35	SHOW	zhinoohmawaad	Lexical passive	Regularly	
+Ojibwe	35	SHOW	zhinoohmawaad	Reciprocal	Regularly	
+Ojibwe	35	SHOW	zhinoohmawaad	Reflexive	Regularly	
+Ojibwe	36	GIVE	miinaad	Antipassive -ige	Never	
+Ojibwe	36	GIVE	miinaad	Antipassive -iwe	Regularly	
+Ojibwe	36	GIVE	miinaad	Applicative	Never	
+Ojibwe	36	GIVE	miinaad	Body Part Incorporation	Never	
+Ojibwe	36	GIVE	miinaad	Causative Simple	Never	
+Ojibwe	36	GIVE	miinaad	Lexical passive	Never	
+Ojibwe	36	GIVE	miinaad	Reciprocal	Regularly	
+Ojibwe	36	GIVE	miinaad	Reflexive	Regularly	
+Ojibwe	37	SEND	niindaahaad	Antipassive -ige	Never	
+Ojibwe	37	SEND	niindaahaad	Antipassive -iwe	Never	
+Ojibwe	37	SEND	niindaahaad	Applicative	Never	
+Ojibwe	37	SEND	niindaahaad	Body Part Incorporation	Never	
+Ojibwe	37	SEND	niindaahaad	Causative Simple	Never	
+Ojibwe	37	SEND	niindaahaad	Lexical passive	Regularly	
+Ojibwe	37	SEND	niindaahaad	Reciprocal	Regularly	
+Ojibwe	37	SEND	niindaahaad	Reflexive	Regularly	
+Ojibwe	38	CARRY	bmiwdood	Antipassive -ige	Never	
+Ojibwe	38	CARRY	bmiwdood	Antipassive -iwe	Never	
+Ojibwe	38	CARRY	bmiwdood	Applicative	Never	
+Ojibwe	38	CARRY	bmiwdood	Body Part Incorporation	Never	
+Ojibwe	38	CARRY	bmiwdood	Causative Simple	Never	
+Ojibwe	38	CARRY	bmiwdood	Lexical passive	Never	
+Ojibwe	38	CARRY	bmiwdood	Reciprocal	Never	
+Ojibwe	38	CARRY	bmiwdood	Reflexive	Never	
+Ojibwe	38	CARRY	bmiwnaad	Antipassive -ige	Never	
+Ojibwe	38	CARRY	bmiwnaad	Antipassive -iwe	Regularly	
+Ojibwe	38	CARRY	bmiwnaad	Applicative	Regularly	
+Ojibwe	38	CARRY	bmiwnaad	Body Part Incorporation	Never	
+Ojibwe	38	CARRY	bmiwnaad	Causative Simple	Never	
+Ojibwe	38	CARRY	bmiwnaad	Lexical passive	Regularly	
+Ojibwe	38	CARRY	bmiwnaad	Reciprocal	Never	
+Ojibwe	38	CARRY	bmiwnaad	Reflexive	Never	
+Ojibwe	39	THROW	pagdang	Antipassive -ige	Never	
+Ojibwe	39	THROW	pagdang	Antipassive -iwe	Never	
+Ojibwe	39	THROW	pagdang	Applicative	Never	
+Ojibwe	39	THROW	pagdang	Body Part Incorporation	Never	
+Ojibwe	39	THROW	pagdang	Causative Simple	Never	
+Ojibwe	39	THROW	pagdang	Lexical passive	Never	
+Ojibwe	39	THROW	pagdang	Reciprocal	Never	
+Ojibwe	39	THROW	pagdang	Reflexive	Never	
+Ojibwe	39	THROW	pagnaad	Antipassive -ige	Regularly	
+Ojibwe	39	THROW	pagnaad	Antipassive -iwe	Never	
+Ojibwe	39	THROW	pagnaad	Applicative	Regularly	
+Ojibwe	39	THROW	pagnaad	Body Part Incorporation	Never	
+Ojibwe	39	THROW	pagnaad	Causative Simple	Never	
+Ojibwe	39	THROW	pagnaad	Lexical passive	Regularly	
+Ojibwe	39	THROW	pagnaad	Reciprocal	Never	
+Ojibwe	39	THROW	pagnaad	Reflexive	Never	
+Ojibwe	40	TIE	dkobidood	Antipassive -ige	Never	
+Ojibwe	40	TIE	dkobidood	Antipassive -iwe	Never	
+Ojibwe	40	TIE	dkobidood	Applicative	Never	
+Ojibwe	40	TIE	dkobidood	Body Part Incorporation	Never	
+Ojibwe	40	TIE	dkobidood	Causative Simple	Never	
+Ojibwe	40	TIE	dkobidood	Lexical passive	Never	
+Ojibwe	40	TIE	dkobidood	Reciprocal	Never	
+Ojibwe	40	TIE	dkobidood	Reflexive	Never	
+Ojibwe	40	TIE	dkobinaad	Antipassive -ige	Regularly	
+Ojibwe	40	TIE	dkobinaad	Antipassive -iwe	Never	
+Ojibwe	40	TIE	dkobinaad	Applicative	Regularly	
+Ojibwe	40	TIE	dkobinaad	Body Part Incorporation	Never	
+Ojibwe	40	TIE	dkobinaad	Causative Simple	Never	
+Ojibwe	40	TIE	dkobinaad	Lexical passive	Regularly	
+Ojibwe	40	TIE	dkobinaad	Reciprocal	Regularly	
+Ojibwe	40	TIE	dkobinaad	Reflexive	Regularly	
+Ojibwe	41	PUT	saad	Antipassive -ige	Never	
+Ojibwe	41	PUT	saad	Antipassive -iwe	Never	
+Ojibwe	41	PUT	saad	Applicative	Regularly	
+Ojibwe	41	PUT	saad	Body Part Incorporation	Never	
+Ojibwe	41	PUT	saad	Causative Simple	Never	
+Ojibwe	41	PUT	saad	Lexical passive	Regularly	
+Ojibwe	41	PUT	saad	Reciprocal	Never	
+Ojibwe	41	PUT	saad	Reflexive	Never	
+Ojibwe	41	PUT	tood	Antipassive -ige	Never	
+Ojibwe	41	PUT	tood	Antipassive -iwe	Never	
+Ojibwe	41	PUT	tood	Applicative	Never	
+Ojibwe	41	PUT	tood	Body Part Incorporation	Never	
+Ojibwe	41	PUT	tood	Causative Simple	Never	
+Ojibwe	41	PUT	tood	Lexical passive	Never	
+Ojibwe	41	PUT	tood	Reciprocal	Never	
+Ojibwe	41	PUT	tood	Reflexive	Never	
+Ojibwe	42	POUR	ziignaad	Antipassive -ige	Regularly	
+Ojibwe	42	POUR	ziignaad	Antipassive -iwe	Never	
+Ojibwe	42	POUR	ziignaad	Applicative	Regularly	
+Ojibwe	42	POUR	ziignaad	Body Part Incorporation	Never	
+Ojibwe	42	POUR	ziignaad	Causative Simple	Never	
+Ojibwe	42	POUR	ziignaad	Lexical passive	Never	
+Ojibwe	42	POUR	ziignaad	Reciprocal	Never	
+Ojibwe	42	POUR	ziignaad	Reflexive	Never	
+Ojibwe	42	POUR	ziignang	Antipassive -ige	Never	
+Ojibwe	42	POUR	ziignang	Antipassive -iwe	Never	
+Ojibwe	42	POUR	ziignang	Applicative	Never	
+Ojibwe	42	POUR	ziignang	Body Part Incorporation	Never	
+Ojibwe	42	POUR	ziignang	Causative Simple	Never	
+Ojibwe	42	POUR	ziignang	Lexical passive	Never	
+Ojibwe	42	POUR	ziignang	Reciprocal	Never	
+Ojibwe	42	POUR	ziignang	Reflexive	Never	
+Ojibwe	43	COVER	gbahang	Antipassive -ige	Never	
+Ojibwe	43	COVER	gbahang	Antipassive -iwe	Never	
+Ojibwe	43	COVER	gbahang	Applicative	Never	
+Ojibwe	43	COVER	gbahang	Body Part Incorporation	Never	
+Ojibwe	43	COVER	gbahang	Causative Simple	Never	
+Ojibwe	43	COVER	gbahang	Lexical passive	Never	
+Ojibwe	43	COVER	gbahang	Reciprocal	Never	
+Ojibwe	43	COVER	gbahang	Reflexive	Never	
+Ojibwe	43	COVER	gbawaad	Antipassive -ige	Regularly	
+Ojibwe	43	COVER	gbawaad	Antipassive -iwe	Never	
+Ojibwe	43	COVER	gbawaad	Applicative	Never	
+Ojibwe	43	COVER	gbawaad	Body Part Incorporation	Never	
+Ojibwe	43	COVER	gbawaad	Causative Simple	Never	
+Ojibwe	43	COVER	gbawaad	Lexical passive	Regularly	
+Ojibwe	43	COVER	gbawaad	Reciprocal	Regularly	
+Ojibwe	43	COVER	gbawaad	Reflexive	Regularly	
+Ojibwe	44	FILL	mooshknadood	Antipassive -ige	Never	
+Ojibwe	44	FILL	mooshknadood	Antipassive -iwe	Never	
+Ojibwe	44	FILL	mooshknadood	Applicative	Never	
+Ojibwe	44	FILL	mooshknadood	Body Part Incorporation	Never	
+Ojibwe	44	FILL	mooshknadood	Causative Simple	Never	
+Ojibwe	44	FILL	mooshknadood	Lexical passive	Never	
+Ojibwe	44	FILL	mooshknadood	Reciprocal	Never	
+Ojibwe	44	FILL	mooshknadood	Reflexive	Never	
+Ojibwe	44	FILL	mooshknanaad	Antipassive -ige	Never	
+Ojibwe	44	FILL	mooshknanaad	Antipassive -iwe	Never	
+Ojibwe	44	FILL	mooshknanaad	Applicative	Regularly	
+Ojibwe	44	FILL	mooshknanaad	Body Part Incorporation	Never	
+Ojibwe	44	FILL	mooshknanaad	Causative Simple	Never	
+Ojibwe	44	FILL	mooshknanaad	Lexical passive	Never	
+Ojibwe	44	FILL	mooshknanaad	Reciprocal	Regularly	
+Ojibwe	44	FILL	mooshknanaad	Reflexive	Regularly	
+Ojibwe	44	FILL	mooshknebdood	Antipassive -ige	Never	
+Ojibwe	44	FILL	mooshknebdood	Antipassive -iwe	Never	
+Ojibwe	44	FILL	mooshknebdood	Applicative	Never	
+Ojibwe	44	FILL	mooshknebdood	Body Part Incorporation	Never	
+Ojibwe	44	FILL	mooshknebdood	Causative Simple	Never	
+Ojibwe	44	FILL	mooshknebdood	Lexical passive	Never	
+Ojibwe	44	FILL	mooshknebdood	Reciprocal	Never	
+Ojibwe	44	FILL	mooshknebdood	Reflexive	Never	
+Ojibwe	44	FILL	mooshknebnaad	Antipassive -ige	Never	
+Ojibwe	44	FILL	mooshknebnaad	Antipassive -iwe	Never	
+Ojibwe	44	FILL	mooshknebnaad	Applicative	Regularly	
+Ojibwe	44	FILL	mooshknebnaad	Body Part Incorporation	Never	
+Ojibwe	44	FILL	mooshknebnaad	Causative Simple	Never	
+Ojibwe	44	FILL	mooshknebnaad	Lexical passive	Regularly	
+Ojibwe	44	FILL	mooshknebnaad	Reciprocal	Regularly	
+Ojibwe	44	FILL	mooshknebnaad	Reflexive	Regularly	
+Ojibwe	45	LOAD	booz'haad	Antipassive -ige	Never	
+Ojibwe	45	LOAD	booz'haad	Antipassive -iwe	Never	
+Ojibwe	45	LOAD	booz'haad	Applicative	Regularly	
+Ojibwe	45	LOAD	booz'haad	Body Part Incorporation	Never	
+Ojibwe	45	LOAD	booz'haad	Causative Simple	Never	
+Ojibwe	45	LOAD	booz'haad	Lexical passive	Regularly	
+Ojibwe	45	LOAD	booz'haad	Reciprocal	Never	
+Ojibwe	45	LOAD	booz'haad	Reflexive	Never	
+Ojibwe	45	LOAD	boozdood	Antipassive -ige	Never	
+Ojibwe	45	LOAD	boozdood	Antipassive -iwe	Never	
+Ojibwe	45	LOAD	boozdood	Applicative	Never	
+Ojibwe	45	LOAD	boozdood	Body Part Incorporation	Never	
+Ojibwe	45	LOAD	boozdood	Causative Simple	Never	
+Ojibwe	45	LOAD	boozdood	Lexical passive	Never	
+Ojibwe	45	LOAD	boozdood	Reciprocal	Never	
+Ojibwe	45	LOAD	boozdood	Reflexive	Never	
+Ojibwe	46	BLINK	pasknaabid	Antipassive -ige	Never	
+Ojibwe	46	BLINK	pasknaabid	Antipassive -iwe	Never	
+Ojibwe	46	BLINK	pasknaabid	Applicative	Never	
+Ojibwe	46	BLINK	pasknaabid	Body Part Incorporation	Never	
+Ojibwe	46	BLINK	pasknaabid	Causative Simple	Never	
+Ojibwe	46	BLINK	pasknaabid	Lexical passive	Never	
+Ojibwe	46	BLINK	pasknaabid	Reciprocal	Never	
+Ojibwe	46	BLINK	pasknaabid	Reflexive	Never	
+Ojibwe	47	COUGH	zosdang	Antipassive -ige	Never	
+Ojibwe	47	COUGH	zosdang	Antipassive -iwe	Never	
+Ojibwe	47	COUGH	zosdang	Applicative	Never	
+Ojibwe	47	COUGH	zosdang	Body Part Incorporation	Never	
+Ojibwe	47	COUGH	zosdang	Causative Simple	Regularly	
+Ojibwe	47	COUGH	zosdang	Lexical passive	Never	
+Ojibwe	47	COUGH	zosdang	Reciprocal	Never	
+Ojibwe	47	COUGH	zosdang	Reflexive	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Antipassive -ige	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Antipassive -iwe	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Applicative	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Body Part Incorporation	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Causative Simple	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Lexical passive	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Reciprocal	Never	
+Ojibwe	48	CLIMB	bmaandwaadang	Reflexive	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Antipassive -ige	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Antipassive -iwe	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Applicative	Regularly	
+Ojibwe	48	CLIMB	bmaandwaanaad	Body Part Incorporation	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Causative Simple	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Lexical passive	Regularly	
+Ojibwe	48	CLIMB	bmaandwaanaad	Reciprocal	Never	
+Ojibwe	48	CLIMB	bmaandwaanaad	Reflexive	Never	
+Ojibwe	49	RUN	bmibtood	Antipassive -ige	Never	
+Ojibwe	49	RUN	bmibtood	Antipassive -iwe	Never	
+Ojibwe	49	RUN	bmibtood	Applicative	Never	
+Ojibwe	49	RUN	bmibtood	Body Part Incorporation	Never	
+Ojibwe	49	RUN	bmibtood	Causative Simple	Marginally	
+Ojibwe	49	RUN	bmibtood	Lexical passive	Never	
+Ojibwe	49	RUN	bmibtood	Reciprocal	Never	
+Ojibwe	49	RUN	bmibtood	Reflexive	Never	
+Ojibwe	50	SIT	nmadbid	Antipassive -ige	Never	
+Ojibwe	50	SIT	nmadbid	Antipassive -iwe	Never	
+Ojibwe	50	SIT	nmadbid	Applicative	Never	
+Ojibwe	50	SIT	nmadbid	Body Part Incorporation	Never	
+Ojibwe	50	SIT	nmadbid	Causative Simple	Regularly	
+Ojibwe	50	SIT	nmadbid	Lexical passive	Never	
+Ojibwe	50	SIT	nmadbid	Reciprocal	Never	
+Ojibwe	50	SIT	nmadbid	Reflexive	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Antipassive -ige	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Antipassive -iwe	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Applicative	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Body Part Incorporation	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Causative Simple	Regularly	
+Ojibwe	51	SIT DOWN	nmadbid	Lexical passive	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Reciprocal	Never	
+Ojibwe	51	SIT DOWN	nmadbid	Reflexive	Never	
+Ojibwe	51	SIT DOWN	wenbi	Antipassive -ige	Never	
+Ojibwe	51	SIT DOWN	wenbi	Antipassive -iwe	Never	
+Ojibwe	51	SIT DOWN	wenbi	Applicative	Never	
+Ojibwe	51	SIT DOWN	wenbi	Body Part Incorporation	Never	
+Ojibwe	51	SIT DOWN	wenbi	Causative Simple	Regularly	
+Ojibwe	51	SIT DOWN	wenbi	Lexical passive	Never	
+Ojibwe	51	SIT DOWN	wenbi	Reciprocal	Never	
+Ojibwe	51	SIT DOWN	wenbi	Reflexive	Never	
+Ojibwe	52	JUMP	gwaashknid	Antipassive -ige	Never	
+Ojibwe	52	JUMP	gwaashknid	Antipassive -iwe	Never	
+Ojibwe	52	JUMP	gwaashknid	Applicative	Never	
+Ojibwe	52	JUMP	gwaashknid	Body Part Incorporation	Never	
+Ojibwe	52	JUMP	gwaashknid	Causative Simple	Never	
+Ojibwe	52	JUMP	gwaashknid	Lexical passive	Never	
+Ojibwe	52	JUMP	gwaashknid	Reciprocal	Never	
+Ojibwe	52	JUMP	gwaashknid	Reflexive	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Antipassive -ige	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Antipassive -iwe	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Applicative	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Body Part Incorporation	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Causative Simple	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Lexical passive	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Reciprocal	Never	
+Ojibwe	52	JUMP	mbigwaashknid	Reflexive	Never	
+Ojibwe	53	SING	n'gamod	Antipassive -ige	Never	
+Ojibwe	53	SING	n'gamod	Antipassive -iwe	Never	
+Ojibwe	53	SING	n'gamod	Applicative	Never	
+Ojibwe	53	SING	n'gamod	Body Part Incorporation	Never	
+Ojibwe	53	SING	n'gamod	Causative Simple	Never	
+Ojibwe	53	SING	n'gamod	Lexical passive	Never	
+Ojibwe	53	SING	n'gamod	Reciprocal	Never	
+Ojibwe	53	SING	n'gamod	Reflexive	Never	
+Ojibwe	54	GO	zhaad	Antipassive -ige	Never	
+Ojibwe	54	GO	zhaad	Antipassive -iwe	Never	
+Ojibwe	54	GO	zhaad	Applicative	Never	
+Ojibwe	54	GO	zhaad	Body Part Incorporation	Never	
+Ojibwe	54	GO	zhaad	Causative Simple	Never	
+Ojibwe	54	GO	zhaad	Lexical passive	Never	
+Ojibwe	54	GO	zhaad	Reciprocal	Never	
+Ojibwe	54	GO	zhaad	Reflexive	Never	
+Ojibwe	55	LEAVE	n'gadang	Antipassive -ige	Never	
+Ojibwe	55	LEAVE	n'gadang	Antipassive -iwe	Never	
+Ojibwe	55	LEAVE	n'gadang	Applicative	Never	
+Ojibwe	55	LEAVE	n'gadang	Body Part Incorporation	Never	
+Ojibwe	55	LEAVE	n'gadang	Causative Simple	Never	
+Ojibwe	55	LEAVE	n'gadang	Lexical passive	Never	
+Ojibwe	55	LEAVE	n'gadang	Reciprocal	Never	
+Ojibwe	55	LEAVE	n'gadang	Reflexive	Never	
+Ojibwe	55	LEAVE	n'ganaad	Antipassive -ige	Regularly	
+Ojibwe	55	LEAVE	n'ganaad	Antipassive -iwe	Regularly	
+Ojibwe	55	LEAVE	n'ganaad	Applicative	Regularly	
+Ojibwe	55	LEAVE	n'ganaad	Body Part Incorporation	Never	
+Ojibwe	55	LEAVE	n'ganaad	Causative Simple	Never	
+Ojibwe	55	LEAVE	n'ganaad	Lexical passive	Never	
+Ojibwe	55	LEAVE	n'ganaad	Reciprocal	Never	
+Ojibwe	55	LEAVE	n'ganaad	Reflexive	Never	
+Ojibwe	56	LIVE	daad	Antipassive -ige	Never	
+Ojibwe	56	LIVE	daad	Antipassive -iwe	Never	
+Ojibwe	56	LIVE	daad	Applicative	Never	
+Ojibwe	56	LIVE	daad	Body Part Incorporation	Never	
+Ojibwe	56	LIVE	daad	Causative Simple	Never	
+Ojibwe	56	LIVE	daad	Lexical passive	Never	
+Ojibwe	56	LIVE	daad	Reciprocal	Never	
+Ojibwe	56	LIVE	daad	Reflexive	Never	
+Ojibwe	56	LIVE	dnakiid	Antipassive -ige	Never	
+Ojibwe	56	LIVE	dnakiid	Antipassive -iwe	Never	
+Ojibwe	56	LIVE	dnakiid	Applicative	Never	
+Ojibwe	56	LIVE	dnakiid	Body Part Incorporation	Never	
+Ojibwe	56	LIVE	dnakiid	Causative Simple	Never	
+Ojibwe	56	LIVE	dnakiid	Lexical passive	Never	
+Ojibwe	56	LIVE	dnakiid	Reciprocal	Never	
+Ojibwe	56	LIVE	dnakiid	Reflexive	Never	
+Ojibwe	57	LAUGH	baapid	Antipassive -ige	Never	
+Ojibwe	57	LAUGH	baapid	Antipassive -iwe	Never	
+Ojibwe	57	LAUGH	baapid	Applicative	Never	
+Ojibwe	57	LAUGH	baapid	Body Part Incorporation	Never	
+Ojibwe	57	LAUGH	baapid	Causative Simple	Never	
+Ojibwe	57	LAUGH	baapid	Lexical passive	Never	
+Ojibwe	57	LAUGH	baapid	Reciprocal	Never	
+Ojibwe	57	LAUGH	baapid	Reflexive	Never	
+Ojibwe	58	SCREAM	mbiigzid	Antipassive -ige	Never	
+Ojibwe	58	SCREAM	mbiigzid	Antipassive -iwe	Never	
+Ojibwe	58	SCREAM	mbiigzid	Applicative	Never	
+Ojibwe	58	SCREAM	mbiigzid	Body Part Incorporation	Never	
+Ojibwe	58	SCREAM	mbiigzid	Causative Simple	Never	
+Ojibwe	58	SCREAM	mbiigzid	Lexical passive	Never	
+Ojibwe	58	SCREAM	mbiigzid	Reciprocal	Never	
+Ojibwe	58	SCREAM	mbiigzid	Reflexive	Never	
+Ojibwe	58	SCREAM	noondaagzi	Antipassive -ige	Never	
+Ojibwe	58	SCREAM	noondaagzi	Antipassive -iwe	Never	
+Ojibwe	58	SCREAM	noondaagzi	Applicative	Never	
+Ojibwe	58	SCREAM	noondaagzi	Body Part Incorporation	Never	
+Ojibwe	58	SCREAM	noondaagzi	Causative Simple	Never	
+Ojibwe	58	SCREAM	noondaagzi	Lexical passive	Never	
+Ojibwe	58	SCREAM	noondaagzi	Reciprocal	Never	
+Ojibwe	58	SCREAM	noondaagzi	Reflexive	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Antipassive -ige	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Antipassive -iwe	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Applicative	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Body Part Incorporation	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Causative Simple	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Lexical passive	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Reciprocal	Never	
+Ojibwe	59	FEEL PAIN	aakzid	Reflexive	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Antipassive -ige	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Antipassive -iwe	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Applicative	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Body Part Incorporation	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Causative Simple	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Lexical passive	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Reciprocal	Never	
+Ojibwe	59	FEEL PAIN	giigiijniked	Reflexive	Never	
+Ojibwe	60	FEEL COLD	biingejid	Antipassive -ige	Never	
+Ojibwe	60	FEEL COLD	biingejid	Antipassive -iwe	Never	
+Ojibwe	60	FEEL COLD	biingejid	Applicative	Never	
+Ojibwe	60	FEEL COLD	biingejid	Body Part Incorporation	Never	
+Ojibwe	60	FEEL COLD	biingejid	Causative Simple	Never	
+Ojibwe	60	FEEL COLD	biingejid	Lexical passive	Never	
+Ojibwe	60	FEEL COLD	biingejid	Reciprocal	Never	
+Ojibwe	60	FEEL COLD	biingejid	Reflexive	Never	
+Ojibwe	61	DIE	nbod	Antipassive -ige	Never	
+Ojibwe	61	DIE	nbod	Antipassive -iwe	Never	
+Ojibwe	61	DIE	nbod	Applicative	Never	
+Ojibwe	61	DIE	nbod	Body Part Incorporation	Never	
+Ojibwe	61	DIE	nbod	Causative Simple	Never	
+Ojibwe	61	DIE	nbod	Lexical passive	Never	
+Ojibwe	61	DIE	nbod	Reciprocal	Never	
+Ojibwe	61	DIE	nbod	Reflexive	Never	
+Ojibwe	62	PLAY	damnod	Antipassive -ige	Never	
+Ojibwe	62	PLAY	damnod	Antipassive -iwe	Never	
+Ojibwe	62	PLAY	damnod	Applicative	Never	
+Ojibwe	62	PLAY	damnod	Body Part Incorporation	Never	
+Ojibwe	62	PLAY	damnod	Causative Simple	Never	
+Ojibwe	62	PLAY	damnod	Lexical passive	Never	
+Ojibwe	62	PLAY	damnod	Reciprocal	Never	
+Ojibwe	62	PLAY	damnod	Reflexive	Never	
+Ojibwe	63	BE SAD	maanaadendang	Antipassive -ige	Never	
+Ojibwe	63	BE SAD	maanaadendang	Antipassive -iwe	Never	
+Ojibwe	63	BE SAD	maanaadendang	Applicative	Never	
+Ojibwe	63	BE SAD	maanaadendang	Body Part Incorporation	Never	
+Ojibwe	63	BE SAD	maanaadendang	Causative Simple	Never	
+Ojibwe	63	BE SAD	maanaadendang	Lexical passive	Never	
+Ojibwe	63	BE SAD	maanaadendang	Reciprocal	Never	
+Ojibwe	63	BE SAD	maanaadendang	Reflexive	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Antipassive -ige	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Antipassive -iwe	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Applicative	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Body Part Incorporation	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Causative Simple	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Lexical passive	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Reciprocal	Never	
+Ojibwe	64	BE HUNGRY	bkaded	Reflexive	Never	
+Ojibwe	65	ROLL	gtigsed	Antipassive -ige	Never	
+Ojibwe	65	ROLL	gtigsed	Antipassive -iwe	Never	
+Ojibwe	65	ROLL	gtigsed	Applicative	Never	
+Ojibwe	65	ROLL	gtigsed	Body Part Incorporation	Never	
+Ojibwe	65	ROLL	gtigsed	Causative Simple	Never	
+Ojibwe	65	ROLL	gtigsed	Lexical passive	Never	
+Ojibwe	65	ROLL	gtigsed	Reciprocal	Never	
+Ojibwe	65	ROLL	gtigsed	Reflexive	Never	
+Ojibwe	65	ROLL	gtigseg	Antipassive -ige	Never	
+Ojibwe	65	ROLL	gtigseg	Antipassive -iwe	Never	
+Ojibwe	65	ROLL	gtigseg	Applicative	Never	
+Ojibwe	65	ROLL	gtigseg	Body Part Incorporation	Never	
+Ojibwe	65	ROLL	gtigseg	Causative Simple	Never	
+Ojibwe	65	ROLL	gtigseg	Lexical passive	Never	
+Ojibwe	65	ROLL	gtigseg	Reciprocal	Never	
+Ojibwe	65	ROLL	gtigseg	Reflexive	Never	
+Ojibwe	66	SINK	gzaabiid	Antipassive -ige	Never	
+Ojibwe	66	SINK	gzaabiid	Antipassive -iwe	Never	
+Ojibwe	66	SINK	gzaabiid	Applicative	Never	
+Ojibwe	66	SINK	gzaabiid	Body Part Incorporation	Never	
+Ojibwe	66	SINK	gzaabiid	Causative Simple	Marginally	
+Ojibwe	66	SINK	gzaabiid	Lexical passive	Never	
+Ojibwe	66	SINK	gzaabiid	Reciprocal	Never	
+Ojibwe	66	SINK	gzaabiid	Reflexive	Never	
+Ojibwe	66	SINK	gzaabiig	Antipassive -ige	Never	
+Ojibwe	66	SINK	gzaabiig	Antipassive -iwe	Never	
+Ojibwe	66	SINK	gzaabiig	Applicative	Never	
+Ojibwe	66	SINK	gzaabiig	Body Part Incorporation	Never	
+Ojibwe	66	SINK	gzaabiig	Causative Simple	Never	
+Ojibwe	66	SINK	gzaabiig	Lexical passive	Never	
+Ojibwe	66	SINK	gzaabiig	Reciprocal	Never	
+Ojibwe	66	SINK	gzaabiig	Reflexive	Never	
+Ojibwe	67	BURN	jaagzo	Antipassive -ige	Never	
+Ojibwe	67	BURN	jaagzo	Antipassive -iwe	Never	
+Ojibwe	67	BURN	jaagzo	Applicative	Never	
+Ojibwe	67	BURN	jaagzo	Body Part Incorporation	Never	
+Ojibwe	67	BURN	jaagzo	Causative Simple	Never	
+Ojibwe	67	BURN	jaagzo	Lexical passive	Never	
+Ojibwe	67	BURN	jaagzo	Reciprocal	Never	
+Ojibwe	67	BURN	jaagzo	Reflexive	Never	
+Ojibwe	67	BURN	zkideg	Antipassive -ige	Never	
+Ojibwe	67	BURN	zkideg	Antipassive -iwe	Never	
+Ojibwe	67	BURN	zkideg	Applicative	Never	
+Ojibwe	67	BURN	zkideg	Body Part Incorporation	Never	
+Ojibwe	67	BURN	zkideg	Causative Simple	Never	
+Ojibwe	67	BURN	zkideg	Lexical passive	Never	
+Ojibwe	67	BURN	zkideg	Reciprocal	Never	
+Ojibwe	67	BURN	zkideg	Reflexive	Never	
+Ojibwe	67	BURN	zkizad	Antipassive -ige	Never	
+Ojibwe	67	BURN	zkizad	Antipassive -iwe	Never	
+Ojibwe	67	BURN	zkizad	Applicative	Never	
+Ojibwe	67	BURN	zkizad	Body Part Incorporation	Never	
+Ojibwe	67	BURN	zkizad	Causative Simple	Never	
+Ojibwe	67	BURN	zkizad	Lexical passive	Never	
+Ojibwe	67	BURN	zkizad	Reciprocal	Never	
+Ojibwe	67	BURN	zkizad	Reflexive	Never	
+Ojibwe	68	BE DRY	baasad	Antipassive -ige	Never	
+Ojibwe	68	BE DRY	baasad	Antipassive -iwe	Never	
+Ojibwe	68	BE DRY	baasad	Applicative	Never	
+Ojibwe	68	BE DRY	baasad	Body Part Incorporation	Never	
+Ojibwe	68	BE DRY	baasad	Causative Simple	Regularly	
+Ojibwe	68	BE DRY	baasad	Lexical passive	Never	
+Ojibwe	68	BE DRY	baasad	Reciprocal	Never	
+Ojibwe	68	BE DRY	baasad	Reflexive	Never	
+Ojibwe	68	BE DRY	baateg	Antipassive -ige	Never	
+Ojibwe	68	BE DRY	baateg	Antipassive -iwe	Never	
+Ojibwe	68	BE DRY	baateg	Applicative	Never	
+Ojibwe	68	BE DRY	baateg	Body Part Incorporation	Never	
+Ojibwe	68	BE DRY	baateg	Causative Simple	Never	
+Ojibwe	68	BE DRY	baateg	Lexical passive	Never	
+Ojibwe	68	BE DRY	baateg	Reciprocal	Never	
+Ojibwe	68	BE DRY	baateg	Reflexive	Never	
+Ojibwe	69	RAIN	gmiwang	Antipassive -ige	Never	
+Ojibwe	69	RAIN	gmiwang	Antipassive -iwe	Never	
+Ojibwe	69	RAIN	gmiwang	Applicative	Never	
+Ojibwe	69	RAIN	gmiwang	Body Part Incorporation	Never	
+Ojibwe	69	RAIN	gmiwang	Causative Simple	Never	
+Ojibwe	69	RAIN	gmiwang	Lexical passive	Never	
+Ojibwe	69	RAIN	gmiwang	Reciprocal	Never	
+Ojibwe	69	RAIN	gmiwang	Reflexive	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Antipassive -ige	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Antipassive -iwe	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Applicative	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Body Part Incorporation	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Causative Simple	Marginally	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Lexical passive	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Reciprocal	Never	
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	Reflexive	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Antipassive -ige	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Antipassive -iwe	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Applicative	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Body Part Incorporation	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Causative Simple	Marginally	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Lexical passive	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Reciprocal	Never	
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	Reflexive	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Antipassive -ige	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Antipassive -iwe	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Applicative	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Body Part Incorporation	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Causative Simple	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Lexical passive	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Reciprocal	Never	
+Ojibwe	70	BE A HUNTER	no direct counterpart	Reflexive	Never	
+Ojibwe	71	GRIND	biisboodood	Antipassive -ige	Never	
+Ojibwe	71	GRIND	biisboodood	Antipassive -iwe	Never	
+Ojibwe	71	GRIND	biisboodood	Applicative	Never	
+Ojibwe	71	GRIND	biisboodood	Body Part Incorporation	Never	
+Ojibwe	71	GRIND	biisboodood	Causative Simple	Never	
+Ojibwe	71	GRIND	biisboodood	Lexical passive	Never	
+Ojibwe	71	GRIND	biisboodood	Reciprocal	Never	
+Ojibwe	71	GRIND	biisboodood	Reflexive	Never	
+Ojibwe	71	GRIND	biisboonaad	Antipassive -ige	Never	
+Ojibwe	71	GRIND	biisboonaad	Antipassive -iwe	Never	
+Ojibwe	71	GRIND	biisboonaad	Applicative	Never	
+Ojibwe	71	GRIND	biisboonaad	Body Part Incorporation	Never	
+Ojibwe	71	GRIND	biisboonaad	Causative Simple	Never	
+Ojibwe	71	GRIND	biisboonaad	Lexical passive	Regularly	
+Ojibwe	71	GRIND	biisboonaad	Reciprocal	Regularly	
+Ojibwe	71	GRIND	biisboonaad	Reflexive	Regularly	
+Ojibwe	73	DIG	moon'ang	Antipassive -ige	Never	
+Ojibwe	73	DIG	moon'ang	Antipassive -iwe	Never	
+Ojibwe	73	DIG	moon'ang	Applicative	Never	
+Ojibwe	73	DIG	moon'ang	Body Part Incorporation	Never	
+Ojibwe	73	DIG	moon'ang	Causative Simple	Never	
+Ojibwe	73	DIG	moon'ang	Lexical passive	Never	
+Ojibwe	73	DIG	moon'ang	Reciprocal	Never	
+Ojibwe	73	DIG	moon'ang	Reflexive	Never	
+Ojibwe	73	DIG	moon'hwaad	Antipassive -ige	Never	
+Ojibwe	73	DIG	moon'hwaad	Antipassive -iwe	Never	
+Ojibwe	73	DIG	moon'hwaad	Applicative	Regularly	
+Ojibwe	73	DIG	moon'hwaad	Body Part Incorporation	Never	
+Ojibwe	73	DIG	moon'hwaad	Causative Simple	Never	
+Ojibwe	73	DIG	moon'hwaad	Lexical passive	Regularly	
+Ojibwe	73	DIG	moon'hwaad	Reciprocal	Never	
+Ojibwe	73	DIG	moon'hwaad	Reflexive	Never	
+Ojibwe	74	PUSH	gaandnaad	Antipassive -ige	Regularly	
+Ojibwe	74	PUSH	gaandnaad	Antipassive -iwe	Never	
+Ojibwe	74	PUSH	gaandnaad	Applicative	Regularly	
+Ojibwe	74	PUSH	gaandnaad	Body Part Incorporation	Never	
+Ojibwe	74	PUSH	gaandnaad	Causative Simple	Never	
+Ojibwe	74	PUSH	gaandnaad	Lexical passive	Regularly	
+Ojibwe	74	PUSH	gaandnaad	Reciprocal	Never	
+Ojibwe	74	PUSH	gaandnaad	Reflexive	Never	
+Ojibwe	74	PUSH	gaandnang	Antipassive -ige	Never	
+Ojibwe	74	PUSH	gaandnang	Antipassive -iwe	Never	
+Ojibwe	74	PUSH	gaandnang	Applicative	Never	
+Ojibwe	74	PUSH	gaandnang	Body Part Incorporation	Never	
+Ojibwe	74	PUSH	gaandnang	Causative Simple	Never	
+Ojibwe	74	PUSH	gaandnang	Lexical passive	Never	
+Ojibwe	74	PUSH	gaandnang	Reciprocal	Never	
+Ojibwe	74	PUSH	gaandnang	Reflexive	Never	
+Ojibwe	75	BRING	biidood	Antipassive -ige	Never	
+Ojibwe	75	BRING	biidood	Antipassive -iwe	Never	
+Ojibwe	75	BRING	biidood	Applicative	Regularly	
+Ojibwe	75	BRING	biidood	Body Part Incorporation	Never	
+Ojibwe	75	BRING	biidood	Causative Simple	Never	
+Ojibwe	75	BRING	biidood	Lexical passive	Never	
+Ojibwe	75	BRING	biidood	Reciprocal	Never	
+Ojibwe	75	BRING	biidood	Reflexive	Never	
+Ojibwe	75	BRING	biinaad	Antipassive -ige	Never	
+Ojibwe	75	BRING	biinaad	Antipassive -iwe	Never	
+Ojibwe	75	BRING	biinaad	Applicative	Regularly	
+Ojibwe	75	BRING	biinaad	Body Part Incorporation	Never	
+Ojibwe	75	BRING	biinaad	Causative Simple	Never	
+Ojibwe	75	BRING	biinaad	Lexical passive	Regularly	
+Ojibwe	75	BRING	biinaad	Reciprocal	Regularly	
+Ojibwe	75	BRING	biinaad	Reflexive	Regularly	
+Ojibwe	76	STEAL	gmoodmaad	Antipassive -ige	Never	
+Ojibwe	76	STEAL	gmoodmaad	Antipassive -iwe	Never	
+Ojibwe	76	STEAL	gmoodmaad	Applicative	Never	
+Ojibwe	76	STEAL	gmoodmaad	Body Part Incorporation	Never	
+Ojibwe	76	STEAL	gmoodmaad	Causative Simple	Never	
+Ojibwe	76	STEAL	gmoodmaad	Lexical passive	Regularly	
+Ojibwe	76	STEAL	gmoodmaad	Reciprocal	Regularly	
+Ojibwe	76	STEAL	gmoodmaad	Reflexive	Never	
+Ojibwe	77	TEACH	gkinoo'mawaad	Antipassive -ige	Regularly	
+Ojibwe	77	TEACH	gkinoo'mawaad	Antipassive -iwe	Never	
+Ojibwe	77	TEACH	gkinoo'mawaad	Applicative	Never	
+Ojibwe	77	TEACH	gkinoo'mawaad	Body Part Incorporation	Never	
+Ojibwe	77	TEACH	gkinoo'mawaad	Causative Simple	Never	
+Ojibwe	77	TEACH	gkinoo'mawaad	Lexical passive	Regularly	
+Ojibwe	77	TEACH	gkinoo'mawaad	Reciprocal	Regularly	
+Ojibwe	77	TEACH	gkinoo'mawaad	Reflexive	Regularly	
+Ojibwe	78	HEAR	noondang	Antipassive -ige	Never	
+Ojibwe	78	HEAR	noondang	Antipassive -iwe	Never	
+Ojibwe	78	HEAR	noondang	Applicative	Never	
+Ojibwe	78	HEAR	noondang	Body Part Incorporation	Never	
+Ojibwe	78	HEAR	noondang	Causative Simple	Never	
+Ojibwe	78	HEAR	noondang	Lexical passive	Never	
+Ojibwe	78	HEAR	noondang	Reciprocal	Never	
+Ojibwe	78	HEAR	noondang	Reflexive	Never	
+Ojibwe	78	HEAR	noondwaad	Antipassive -ige	Never	
+Ojibwe	78	HEAR	noondwaad	Antipassive -iwe	Never	
+Ojibwe	78	HEAR	noondwaad	Applicative	Never	
+Ojibwe	78	HEAR	noondwaad	Body Part Incorporation	Never	
+Ojibwe	78	HEAR	noondwaad	Causative Simple	Never	
+Ojibwe	78	HEAR	noondwaad	Lexical passive	Never	
+Ojibwe	78	HEAR	noondwaad	Reciprocal	Regularly	
+Ojibwe	78	HEAR	noondwaad	Reflexive	Regularly	
+Ojibwe	79	COOK	mnozwaad	Antipassive -ige	Regularly	
+Ojibwe	79	COOK	mnozwaad	Antipassive -iwe	Never	
+Ojibwe	79	COOK	mnozwaad	Applicative	Regularly	
+Ojibwe	79	COOK	mnozwaad	Body Part Incorporation	Never	
+Ojibwe	79	COOK	mnozwaad	Causative Simple	Never	
+Ojibwe	79	COOK	mnozwaad	Lexical passive	Regularly	
+Ojibwe	79	COOK	mnozwaad	Reciprocal	Regularly	
+Ojibwe	79	COOK	mnozwaad	Reflexive	Regularly	
+Ojibwe	79	COOK	mnzang	Antipassive -ige	Never	
+Ojibwe	79	COOK	mnzang	Antipassive -iwe	Never	
+Ojibwe	79	COOK	mnzang	Applicative	Never	
+Ojibwe	79	COOK	mnzang	Body Part Incorporation	Never	
+Ojibwe	79	COOK	mnzang	Causative Simple	Never	
+Ojibwe	79	COOK	mnzang	Lexical passive	Never	
+Ojibwe	79	COOK	mnzang	Reciprocal	Never	
+Ojibwe	79	COOK	mnzang	Reflexive	Never	
+Ojibwe	80	BOIL	nde	Antipassive -ige	Never	
+Ojibwe	80	BOIL	nde	Antipassive -iwe	Never	
+Ojibwe	80	BOIL	nde	Applicative	Never	
+Ojibwe	80	BOIL	nde	Body Part Incorporation	Never	
+Ojibwe	80	BOIL	nde	Causative Simple	Never	
+Ojibwe	80	BOIL	nde	Lexical passive	Never	
+Ojibwe	80	BOIL	nde	Reciprocal	Never	
+Ojibwe	80	BOIL	nde	Reflexive	Never	
+Ojibwe	80	BOIL	nzo	Antipassive -ige	Never	
+Ojibwe	80	BOIL	nzo	Antipassive -iwe	Never	
+Ojibwe	80	BOIL	nzo	Applicative	Regularly	
+Ojibwe	80	BOIL	nzo	Body Part Incorporation	Never	
+Ojibwe	80	BOIL	nzo	Causative Simple	Regularly	
+Ojibwe	80	BOIL	nzo	Lexical passive	Never	
+Ojibwe	80	BOIL	nzo	Reciprocal	Never	
+Ojibwe	80	BOIL	nzo	Reflexive	Never	
+Ojibwe	87	WANT	ndawendang	Antipassive -ige	Never	
+Ojibwe	87	WANT	ndawendang	Antipassive -iwe	Never	
+Ojibwe	87	WANT	ndawendang	Applicative	Never	
+Ojibwe	87	WANT	ndawendang	Body Part Incorporation	Never	
+Ojibwe	87	WANT	ndawendang	Causative Simple	Never	
+Ojibwe	87	WANT	ndawendang	Lexical passive	Never	
+Ojibwe	87	WANT	ndawendang	Reciprocal	Never	
+Ojibwe	87	WANT	ndawendang	Reflexive	Never	
+Ojibwe	87	WANT	ndawenmaad	Antipassive -ige	Regularly	
+Ojibwe	87	WANT	ndawenmaad	Antipassive -iwe	Never	
+Ojibwe	87	WANT	ndawenmaad	Applicative	Marginally	
+Ojibwe	87	WANT	ndawenmaad	Body Part Incorporation	Never	
+Ojibwe	87	WANT	ndawenmaad	Causative Simple	Never	
+Ojibwe	87	WANT	ndawenmaad	Lexical passive	Regularly	
+Ojibwe	87	WANT	ndawenmaad	Reciprocal	Marginally	
+Ojibwe	87	WANT	ndawenmaad	Reflexive	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Antipassive -ige	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Antipassive -iwe	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Applicative	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Body Part Incorporation	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Causative Simple	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Lexical passive	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Reciprocal	Never	
+Ojibwe	150	SHAVE (self)	gaashkbaazod	Reflexive	Never	

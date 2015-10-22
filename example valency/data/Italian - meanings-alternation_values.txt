@@ -1,0 +1,1881 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Italian	1	EAT	mangiare	Anticausative (coded)	Never	
+Italian	1	EAT	mangiare	Anticausative (uncoded)	Never	
+Italian	1	EAT	mangiare	Applicative	Never	
+Italian	1	EAT	mangiare	Body part possessor alternation	Never	
+Italian	1	EAT	mangiare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	1	EAT	mangiare	Conative	Never	
+Italian	1	EAT	mangiare	Direct Reciprocal Reflexive	Never	
+Italian	1	EAT	mangiare	Direct Reflexive	Never	
+Italian	1	EAT	mangiare	Impersonal of Reflexives	Regularly	
+Italian	1	EAT	mangiare	Impersonal Passive	Marginally	
+Italian	1	EAT	mangiare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	1	EAT	mangiare	Indirect Reciprocal Reflexive	Never	
+Italian	1	EAT	mangiare	Indirect/Dative Reflexive	Regularly	
+Italian	1	EAT	mangiare	Locative Alternation	Never	
+Italian	1	EAT	mangiare	Middle Reflexive	Never	
+Italian	1	EAT	mangiare	Object Omission	Regularly	1 > V'.subj[1]
+Italian	1	EAT	mangiare	Oblique Subject	Never	
+Italian	1	EAT	mangiare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	1	EAT	mangiare	Possessor-Attribute Alternation	Never	
+Italian	1	EAT	mangiare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	2	HUG	abbracciare	Anticausative (coded)	Never	
+Italian	2	HUG	abbracciare	Anticausative (uncoded)	Never	
+Italian	2	HUG	abbracciare	Applicative	Never	
+Italian	2	HUG	abbracciare	Body part possessor alternation	Never	
+Italian	2	HUG	abbracciare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	2	HUG	abbracciare	Conative	Never	
+Italian	2	HUG	abbracciare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	2	HUG	abbracciare	Direct Reflexive	Never	
+Italian	2	HUG	abbracciare	Impersonal of Reflexives	Regularly	
+Italian	2	HUG	abbracciare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	2	HUG	abbracciare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	2	HUG	abbracciare	Indirect Reciprocal Reflexive	Never	
+Italian	2	HUG	abbracciare	Indirect/Dative Reflexive	Marginally	
+Italian	2	HUG	abbracciare	Locative Alternation	Never	
+Italian	2	HUG	abbracciare	Middle Reflexive	Marginally	
+Italian	2	HUG	abbracciare	Object Omission	Never	
+Italian	2	HUG	abbracciare	Oblique Subject	Never	
+Italian	2	HUG	abbracciare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	2	HUG	abbracciare	Possessor-Attribute Alternation	Never	
+Italian	2	HUG	abbracciare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	3	LOOK AT	guardare	Anticausative (coded)	Never	
+Italian	3	LOOK AT	guardare	Anticausative (uncoded)	Never	
+Italian	3	LOOK AT	guardare	Applicative	Never	
+Italian	3	LOOK AT	guardare	Body part possessor alternation	Never	
+Italian	3	LOOK AT	guardare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	3	LOOK AT	guardare	Conative	Never	
+Italian	3	LOOK AT	guardare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	3	LOOK AT	guardare	Direct Reflexive	Regularly	
+Italian	3	LOOK AT	guardare	Impersonal of Reflexives	Regularly	
+Italian	3	LOOK AT	guardare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	3	LOOK AT	guardare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	3	LOOK AT	guardare	Indirect Reciprocal Reflexive	Never	
+Italian	3	LOOK AT	guardare	Indirect/Dative Reflexive	Regularly	
+Italian	3	LOOK AT	guardare	Locative Alternation	Never	
+Italian	3	LOOK AT	guardare	Middle Reflexive	Never	
+Italian	3	LOOK AT	guardare	Object Omission	Marginally	
+Italian	3	LOOK AT	guardare	Oblique Subject	Never	
+Italian	3	LOOK AT	guardare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	3	LOOK AT	guardare	Possessor-Attribute Alternation	Never	
+Italian	3	LOOK AT	guardare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	4	SEE	vedere	Anticausative (coded)	Never	
+Italian	4	SEE	vedere	Anticausative (uncoded)	Never	
+Italian	4	SEE	vedere	Applicative	Never	
+Italian	4	SEE	vedere	Body part possessor alternation	Never	
+Italian	4	SEE	vedere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	4	SEE	vedere	Conative	Never	
+Italian	4	SEE	vedere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	4	SEE	vedere	Direct Reflexive	Regularly	
+Italian	4	SEE	vedere	Impersonal of Reflexives	Regularly	
+Italian	4	SEE	vedere	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	4	SEE	vedere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	4	SEE	vedere	Indirect Reciprocal Reflexive	Never	
+Italian	4	SEE	vedere	Indirect/Dative Reflexive	Regularly	
+Italian	4	SEE	vedere	Locative Alternation	Never	
+Italian	4	SEE	vedere	Middle Reflexive	Never	
+Italian	4	SEE	vedere	Object Omission	Regularly	1 > V'.subj[1]
+Italian	4	SEE	vedere	Oblique Subject	Never	
+Italian	4	SEE	vedere	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	4	SEE	vedere	Possessor-Attribute Alternation	Never	
+Italian	4	SEE	vedere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	5	SMELL	odorare	Anticausative (coded)	Never	
+Italian	5	SMELL	odorare	Anticausative (uncoded)	Never	
+Italian	5	SMELL	odorare	Applicative	Never	
+Italian	5	SMELL	odorare	Body part possessor alternation	Never	
+Italian	5	SMELL	odorare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	5	SMELL	odorare	Conative	Never	
+Italian	5	SMELL	odorare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	5	SMELL	odorare	Direct Reflexive	Never	
+Italian	5	SMELL	odorare	Impersonal of Reflexives	Regularly	
+Italian	5	SMELL	odorare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	5	SMELL	odorare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	5	SMELL	odorare	Indirect Reciprocal Reflexive	Never	
+Italian	5	SMELL	odorare	Indirect/Dative Reflexive	Regularly	
+Italian	5	SMELL	odorare	Locative Alternation	Never	
+Italian	5	SMELL	odorare	Middle Reflexive	Never	
+Italian	5	SMELL	odorare	Object Omission	Never	
+Italian	5	SMELL	odorare	Oblique Subject	Never	
+Italian	5	SMELL	odorare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	5	SMELL	odorare	Possessor-Attribute Alternation	Never	
+Italian	5	SMELL	odorare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	6	FEAR	temere	Anticausative (coded)	Never	
+Italian	6	FEAR	temere	Anticausative (uncoded)	Never	
+Italian	6	FEAR	temere	Applicative	Never	
+Italian	6	FEAR	temere	Body part possessor alternation	Never	
+Italian	6	FEAR	temere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	6	FEAR	temere	Conative	Never	
+Italian	6	FEAR	temere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	6	FEAR	temere	Direct Reflexive	Marginally	
+Italian	6	FEAR	temere	Impersonal of Reflexives	Regularly	
+Italian	6	FEAR	temere	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	6	FEAR	temere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	6	FEAR	temere	Indirect Reciprocal Reflexive	Never	
+Italian	6	FEAR	temere	Indirect/Dative Reflexive	Never	
+Italian	6	FEAR	temere	Locative Alternation	Never	
+Italian	6	FEAR	temere	Middle Reflexive	Never	
+Italian	6	FEAR	temere	Object Omission	Never	
+Italian	6	FEAR	temere	Oblique Subject	Never	
+Italian	6	FEAR	temere	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	6	FEAR	temere	Possessor-Attribute Alternation	Regularly	
+Italian	6	FEAR	temere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	7	FRIGHTEN	spaventare	Anticausative (coded)	Never	
+Italian	7	FRIGHTEN	spaventare	Anticausative (uncoded)	Never	
+Italian	7	FRIGHTEN	spaventare	Applicative	Never	
+Italian	7	FRIGHTEN	spaventare	Body part possessor alternation	Never	
+Italian	7	FRIGHTEN	spaventare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	7	FRIGHTEN	spaventare	Conative	Never	
+Italian	7	FRIGHTEN	spaventare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	7	FRIGHTEN	spaventare	Direct Reflexive	Never	
+Italian	7	FRIGHTEN	spaventare	Impersonal of Reflexives	Regularly	
+Italian	7	FRIGHTEN	spaventare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	7	FRIGHTEN	spaventare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	7	FRIGHTEN	spaventare	Indirect Reciprocal Reflexive	Never	
+Italian	7	FRIGHTEN	spaventare	Indirect/Dative Reflexive	Never	
+Italian	7	FRIGHTEN	spaventare	Locative Alternation	Never	
+Italian	7	FRIGHTEN	spaventare	Middle Reflexive	Regularly	
+Italian	7	FRIGHTEN	spaventare	Object Omission	Marginally	
+Italian	7	FRIGHTEN	spaventare	Oblique Subject	Regularly	
+Italian	7	FRIGHTEN	spaventare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	7	FRIGHTEN	spaventare	Possessor-Attribute Alternation	Never	
+Italian	7	FRIGHTEN	spaventare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	8	LIKE	piacere	Anticausative (coded)	Never	
+Italian	8	LIKE	piacere	Anticausative (uncoded)	Never	
+Italian	8	LIKE	piacere	Applicative	Never	
+Italian	8	LIKE	piacere	Body part possessor alternation	Never	
+Italian	8	LIKE	piacere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	8	LIKE	piacere	Conative	Never	
+Italian	8	LIKE	piacere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	8	LIKE	piacere	Direct Reflexive	Never	
+Italian	8	LIKE	piacere	Impersonal of Reflexives	Regularly	
+Italian	8	LIKE	piacere	Impersonal Passive	Never	
+Italian	8	LIKE	piacere	Impersonal Reflexive	Never	
+Italian	8	LIKE	piacere	Indirect Reciprocal Reflexive	Never	
+Italian	8	LIKE	piacere	Indirect/Dative Reflexive	Regularly	
+Italian	8	LIKE	piacere	Locative Alternation	Never	
+Italian	8	LIKE	piacere	Middle Reflexive	Never	
+Italian	8	LIKE	piacere	Object Omission	Never	
+Italian	8	LIKE	piacere	Oblique Subject	Regularly	
+Italian	8	LIKE	piacere	Passive	Never	
+Italian	8	LIKE	piacere	Possessor-Attribute Alternation	Never	
+Italian	8	LIKE	piacere	Reflexive Passive	Never	
+Italian	9	KNOW	conoscere	Anticausative (coded)	Never	
+Italian	9	KNOW	conoscere	Anticausative (uncoded)	Never	
+Italian	9	KNOW	conoscere	Applicative	Never	
+Italian	9	KNOW	conoscere	Body part possessor alternation	Never	
+Italian	9	KNOW	conoscere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	9	KNOW	conoscere	Conative	Never	
+Italian	9	KNOW	conoscere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	9	KNOW	conoscere	Direct Reflexive	Regularly	
+Italian	9	KNOW	conoscere	Impersonal of Reflexives	Regularly	
+Italian	9	KNOW	conoscere	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	9	KNOW	conoscere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	9	KNOW	conoscere	Indirect Reciprocal Reflexive	Never	
+Italian	9	KNOW	conoscere	Indirect/Dative Reflexive	Never	
+Italian	9	KNOW	conoscere	Locative Alternation	Never	
+Italian	9	KNOW	conoscere	Middle Reflexive	Never	
+Italian	9	KNOW	conoscere	Object Omission	Never	
+Italian	9	KNOW	conoscere	Oblique Subject	Never	
+Italian	9	KNOW	conoscere	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	9	KNOW	conoscere	Possessor-Attribute Alternation	Regularly	
+Italian	9	KNOW	conoscere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	10	THINK	pensare	Anticausative (coded)	Never	
+Italian	10	THINK	pensare	Anticausative (uncoded)	Never	
+Italian	10	THINK	pensare	Applicative	Never	
+Italian	10	THINK	pensare	Body part possessor alternation	Never	
+Italian	10	THINK	pensare	Causative	Regularly	3 > causV'.subj[3] (a+2) a+1
+Italian	10	THINK	pensare	Conative	Marginally	
+Italian	10	THINK	pensare	Direct Reciprocal Reflexive	Regularly	
+Italian	10	THINK	pensare	Direct Reflexive	Marginally	
+Italian	10	THINK	pensare	Impersonal of Reflexives	Regularly	
+Italian	10	THINK	pensare	Impersonal Passive	Marginally	
+Italian	10	THINK	pensare	Impersonal Reflexive	Regularly	siV' (> a+2)
+Italian	10	THINK	pensare	Indirect Reciprocal Reflexive	Never	
+Italian	10	THINK	pensare	Indirect/Dative Reflexive	Never	
+Italian	10	THINK	pensare	Locative Alternation	Never	
+Italian	10	THINK	pensare	Middle Reflexive	Never	
+Italian	10	THINK	pensare	Object Omission	Never	
+Italian	10	THINK	pensare	Oblique Subject	Never	
+Italian	10	THINK	pensare	Passive	Marginally	
+Italian	10	THINK	pensare	Possessor-Attribute Alternation	Never	
+Italian	10	THINK	pensare	Reflexive Passive	Never	
+Italian	11	SEARCH FOR	cercare	Anticausative (coded)	Never	
+Italian	11	SEARCH FOR	cercare	Anticausative (uncoded)	Never	
+Italian	11	SEARCH FOR	cercare	Applicative	Never	
+Italian	11	SEARCH FOR	cercare	Body part possessor alternation	Never	
+Italian	11	SEARCH FOR	cercare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	11	SEARCH FOR	cercare	Conative	Never	
+Italian	11	SEARCH FOR	cercare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	11	SEARCH FOR	cercare	Direct Reflexive	Never	
+Italian	11	SEARCH FOR	cercare	Impersonal of Reflexives	Regularly	
+Italian	11	SEARCH FOR	cercare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	11	SEARCH FOR	cercare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	11	SEARCH FOR	cercare	Indirect Reciprocal Reflexive	Never	
+Italian	11	SEARCH FOR	cercare	Indirect/Dative Reflexive	Regularly	
+Italian	11	SEARCH FOR	cercare	Locative Alternation	Never	
+Italian	11	SEARCH FOR	cercare	Middle Reflexive	Never	
+Italian	11	SEARCH FOR	cercare	Object Omission	Regularly	1 > V'.subj[1]
+Italian	11	SEARCH FOR	cercare	Oblique Subject	Never	
+Italian	11	SEARCH FOR	cercare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	11	SEARCH FOR	cercare	Possessor-Attribute Alternation	Never	
+Italian	11	SEARCH FOR	cercare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	12	WASH	lavare	Anticausative (coded)	Never	
+Italian	12	WASH	lavare	Anticausative (uncoded)	Never	
+Italian	12	WASH	lavare	Applicative	Never	
+Italian	12	WASH	lavare	Body part possessor alternation	Never	
+Italian	12	WASH	lavare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	12	WASH	lavare	Conative	Never	
+Italian	12	WASH	lavare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	12	WASH	lavare	Direct Reflexive	Regularly	
+Italian	12	WASH	lavare	Impersonal of Reflexives	Regularly	
+Italian	12	WASH	lavare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	12	WASH	lavare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	12	WASH	lavare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2
+Italian	12	WASH	lavare	Indirect/Dative Reflexive	Regularly	
+Italian	12	WASH	lavare	Locative Alternation	Never	
+Italian	12	WASH	lavare	Middle Reflexive	Never	
+Italian	12	WASH	lavare	Object Omission	Regularly	1 > V'.subj[1]
+Italian	12	WASH	lavare	Oblique Subject	Regularly	
+Italian	12	WASH	lavare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	12	WASH	lavare	Possessor-Attribute Alternation	Never	
+Italian	12	WASH	lavare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	13	DRESS	vestire	Anticausative (coded)	Never	
+Italian	13	DRESS	vestire	Anticausative (uncoded)	Never	
+Italian	13	DRESS	vestire	Applicative	Never	
+Italian	13	DRESS	vestire	Body part possessor alternation	Never	
+Italian	13	DRESS	vestire	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	13	DRESS	vestire	Conative	Never	
+Italian	13	DRESS	vestire	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	13	DRESS	vestire	Direct Reflexive	Regularly	
+Italian	13	DRESS	vestire	Impersonal of Reflexives	Regularly	
+Italian	13	DRESS	vestire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	13	DRESS	vestire	Impersonal Reflexive	Marginally	
+Italian	13	DRESS	vestire	Indirect Reciprocal Reflexive	Never	
+Italian	13	DRESS	vestire	Indirect/Dative Reflexive	Never	
+Italian	13	DRESS	vestire	Locative Alternation	Never	
+Italian	13	DRESS	vestire	Middle Reflexive	Never	
+Italian	13	DRESS	vestire	Object Omission	Regularly	1 > V'.subj[1]
+Italian	13	DRESS	vestire	Oblique Subject	Never	
+Italian	13	DRESS	vestire	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	13	DRESS	vestire	Possessor-Attribute Alternation	Never	
+Italian	13	DRESS	vestire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	14	SHAVE (a body part/person)	radere	Anticausative (coded)	Never	
+Italian	14	SHAVE (a body part/person)	radere	Anticausative (uncoded)	Never	
+Italian	14	SHAVE (a body part/person)	radere	Applicative	Never	
+Italian	14	SHAVE (a body part/person)	radere	Body part possessor alternation	Never	
+Italian	14	SHAVE (a body part/person)	radere	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	14	SHAVE (a body part/person)	radere	Conative	Never	
+Italian	14	SHAVE (a body part/person)	radere	Direct Reciprocal Reflexive	Never	
+Italian	14	SHAVE (a body part/person)	radere	Direct Reflexive	Regularly	
+Italian	14	SHAVE (a body part/person)	radere	Impersonal of Reflexives	Regularly	
+Italian	14	SHAVE (a body part/person)	radere	Impersonal Passive	Regularly	siPassV' (a+3) (da+1)
+Italian	14	SHAVE (a body part/person)	radere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	14	SHAVE (a body part/person)	radere	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	14	SHAVE (a body part/person)	radere	Indirect/Dative Reflexive	Regularly	
+Italian	14	SHAVE (a body part/person)	radere	Locative Alternation	Never	
+Italian	14	SHAVE (a body part/person)	radere	Middle Reflexive	Never	
+Italian	14	SHAVE (a body part/person)	radere	Object Omission	Regularly	1 > V'.subj[1] > (a+3)
+Italian	14	SHAVE (a body part/person)	radere	Oblique Subject	Regularly	
+Italian	14	SHAVE (a body part/person)	radere	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	14	SHAVE (a body part/person)	radere	Possessor-Attribute Alternation	Never	
+Italian	14	SHAVE (a body part/person)	radere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	15	HELP	aiutare	Anticausative (coded)	Never	
+Italian	15	HELP	aiutare	Anticausative (uncoded)	Never	
+Italian	15	HELP	aiutare	Applicative	Never	
+Italian	15	HELP	aiutare	Body part possessor alternation	Never	
+Italian	15	HELP	aiutare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	15	HELP	aiutare	Conative	Never	
+Italian	15	HELP	aiutare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	15	HELP	aiutare	Direct Reflexive	Regularly	
+Italian	15	HELP	aiutare	Impersonal of Reflexives	Regularly	
+Italian	15	HELP	aiutare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	15	HELP	aiutare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	15	HELP	aiutare	Indirect Reciprocal Reflexive	Never	
+Italian	15	HELP	aiutare	Indirect/Dative Reflexive	Never	
+Italian	15	HELP	aiutare	Locative Alternation	Never	
+Italian	15	HELP	aiutare	Middle Reflexive	Never	
+Italian	15	HELP	aiutare	Object Omission	Regularly	1 > V'.subj[1]
+Italian	15	HELP	aiutare	Oblique Subject	Never	
+Italian	15	HELP	aiutare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	15	HELP	aiutare	Possessor-Attribute Alternation	Never	
+Italian	15	HELP	aiutare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	16	FOLLOW	seguire	Anticausative (coded)	Never	
+Italian	16	FOLLOW	seguire	Anticausative (uncoded)	Never	
+Italian	16	FOLLOW	seguire	Applicative	Never	
+Italian	16	FOLLOW	seguire	Body part possessor alternation	Never	
+Italian	16	FOLLOW	seguire	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	16	FOLLOW	seguire	Conative	Never	
+Italian	16	FOLLOW	seguire	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	16	FOLLOW	seguire	Direct Reflexive	Never	
+Italian	16	FOLLOW	seguire	Impersonal of Reflexives	Never	
+Italian	16	FOLLOW	seguire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	16	FOLLOW	seguire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	16	FOLLOW	seguire	Indirect Reciprocal Reflexive	Never	
+Italian	16	FOLLOW	seguire	Indirect/Dative Reflexive	Never	
+Italian	16	FOLLOW	seguire	Locative Alternation	Never	
+Italian	16	FOLLOW	seguire	Middle Reflexive	Never	
+Italian	16	FOLLOW	seguire	Object Omission	Never	
+Italian	16	FOLLOW	seguire	Oblique Subject	Never	
+Italian	16	FOLLOW	seguire	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	16	FOLLOW	seguire	Possessor-Attribute Alternation	Never	
+Italian	16	FOLLOW	seguire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	17	MEET	incontrare	Anticausative (coded)	Never	
+Italian	17	MEET	incontrare	Anticausative (uncoded)	Never	
+Italian	17	MEET	incontrare	Applicative	Never	
+Italian	17	MEET	incontrare	Body part possessor alternation	Never	
+Italian	17	MEET	incontrare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	17	MEET	incontrare	Conative	Never	
+Italian	17	MEET	incontrare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	17	MEET	incontrare	Direct Reflexive	Never	
+Italian	17	MEET	incontrare	Impersonal of Reflexives	Regularly	
+Italian	17	MEET	incontrare	Impersonal Passive	Never	
+Italian	17	MEET	incontrare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	17	MEET	incontrare	Indirect Reciprocal Reflexive	Never	
+Italian	17	MEET	incontrare	Indirect/Dative Reflexive	Never	
+Italian	17	MEET	incontrare	Locative Alternation	Never	
+Italian	17	MEET	incontrare	Middle Reflexive	Regularly	
+Italian	17	MEET	incontrare	Object Omission	Never	
+Italian	17	MEET	incontrare	Oblique Subject	Never	
+Italian	17	MEET	incontrare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	17	MEET	incontrare	Possessor-Attribute Alternation	Never	
+Italian	17	MEET	incontrare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	18	TALK	parlare	Anticausative (coded)	Never	
+Italian	18	TALK	parlare	Anticausative (uncoded)	Never	
+Italian	18	TALK	parlare	Applicative	Never	
+Italian	18	TALK	parlare	Body part possessor alternation	Never	
+Italian	18	TALK	parlare	Causative	Regularly	4 > causV'.subj[4] > 1 (a+2) (di+3)
+Italian	18	TALK	parlare	Conative	Never	
+Italian	18	TALK	parlare	Direct Reciprocal Reflexive	Never	
+Italian	18	TALK	parlare	Direct Reflexive	Never	
+Italian	18	TALK	parlare	Impersonal of Reflexives	Regularly	
+Italian	18	TALK	parlare	Impersonal Passive	Never	
+Italian	18	TALK	parlare	Impersonal Reflexive	Regularly	siV' (a+2) (di+3)
+Italian	18	TALK	parlare	Indirect Reciprocal Reflexive	Never	
+Italian	18	TALK	parlare	Indirect/Dative Reflexive	Regularly	
+Italian	18	TALK	parlare	Locative Alternation	Never	
+Italian	18	TALK	parlare	Middle Reflexive	Never	
+Italian	18	TALK	parlare	Object Omission	Never	
+Italian	18	TALK	parlare	Oblique Subject	Never	
+Italian	18	TALK	parlare	Passive	Never	
+Italian	18	TALK	parlare	Possessor-Attribute Alternation	Never	
+Italian	18	TALK	parlare	Reflexive Passive	Never	
+Italian	19	ASK FOR	chiedere	Anticausative (coded)	Never	
+Italian	19	ASK FOR	chiedere	Anticausative (uncoded)	Never	
+Italian	19	ASK FOR	chiedere	Applicative	Never	
+Italian	19	ASK FOR	chiedere	Body part possessor alternation	Never	
+Italian	19	ASK FOR	chiedere	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	19	ASK FOR	chiedere	Conative	Never	
+Italian	19	ASK FOR	chiedere	Direct Reciprocal Reflexive	Never	
+Italian	19	ASK FOR	chiedere	Direct Reflexive	Never	
+Italian	19	ASK FOR	chiedere	Impersonal of Reflexives	Never	
+Italian	19	ASK FOR	chiedere	Impersonal Passive	Never	
+Italian	19	ASK FOR	chiedere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	19	ASK FOR	chiedere	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	19	ASK FOR	chiedere	Indirect/Dative Reflexive	Never	
+Italian	19	ASK FOR	chiedere	Locative Alternation	Never	
+Italian	19	ASK FOR	chiedere	Middle Reflexive	Never	
+Italian	19	ASK FOR	chiedere	Object Omission	Regularly	1 > V'.subj[1] > (a+3)
+Italian	19	ASK FOR	chiedere	Oblique Subject	Never	
+Italian	19	ASK FOR	chiedere	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	19	ASK FOR	chiedere	Possessor-Attribute Alternation	Never	
+Italian	19	ASK FOR	chiedere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	20	SHOUT AT	sgridare	Anticausative (coded)	Never	
+Italian	20	SHOUT AT	sgridare	Anticausative (uncoded)	Never	
+Italian	20	SHOUT AT	sgridare	Applicative	Never	
+Italian	20	SHOUT AT	sgridare	Body part possessor alternation	Never	
+Italian	20	SHOUT AT	sgridare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	20	SHOUT AT	sgridare	Conative	Never	
+Italian	20	SHOUT AT	sgridare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	20	SHOUT AT	sgridare	Direct Reflexive	Never	
+Italian	20	SHOUT AT	sgridare	Impersonal of Reflexives	Regularly	
+Italian	20	SHOUT AT	sgridare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	20	SHOUT AT	sgridare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	20	SHOUT AT	sgridare	Indirect Reciprocal Reflexive	Never	
+Italian	20	SHOUT AT	sgridare	Indirect/Dative Reflexive	Never	
+Italian	20	SHOUT AT	sgridare	Locative Alternation	Never	
+Italian	20	SHOUT AT	sgridare	Middle Reflexive	Never	
+Italian	20	SHOUT AT	sgridare	Object Omission	Never	
+Italian	20	SHOUT AT	sgridare	Oblique Subject	Never	
+Italian	20	SHOUT AT	sgridare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	20	SHOUT AT	sgridare	Possessor-Attribute Alternation	Never	
+Italian	20	SHOUT AT	sgridare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	21	TELL	raccontare	Anticausative (coded)	Never	
+Italian	21	TELL	raccontare	Anticausative (uncoded)	Never	
+Italian	21	TELL	raccontare	Applicative	Never	
+Italian	21	TELL	raccontare	Body part possessor alternation	Never	
+Italian	21	TELL	raccontare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	21	TELL	raccontare	Conative	Marginally	
+Italian	21	TELL	raccontare	Direct Reciprocal Reflexive	Never	
+Italian	21	TELL	raccontare	Direct Reflexive	Regularly	
+Italian	21	TELL	raccontare	Impersonal of Reflexives	Regularly	
+Italian	21	TELL	raccontare	Impersonal Passive	Never	
+Italian	21	TELL	raccontare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	21	TELL	raccontare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	21	TELL	raccontare	Indirect/Dative Reflexive	Never	
+Italian	21	TELL	raccontare	Locative Alternation	Never	
+Italian	21	TELL	raccontare	Middle Reflexive	Never	
+Italian	21	TELL	raccontare	Object Omission	Never	
+Italian	21	TELL	raccontare	Oblique Subject	Never	
+Italian	21	TELL	raccontare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	21	TELL	raccontare	Possessor-Attribute Alternation	Never	
+Italian	21	TELL	raccontare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	22	SAY	dire	Anticausative (coded)	Never	
+Italian	22	SAY	dire	Anticausative (uncoded)	Never	
+Italian	22	SAY	dire	Applicative	Never	
+Italian	22	SAY	dire	Body part possessor alternation	Never	
+Italian	22	SAY	dire	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	22	SAY	dire	Conative	Never	
+Italian	22	SAY	dire	Direct Reciprocal Reflexive	Never	
+Italian	22	SAY	dire	Direct Reflexive	Regularly	
+Italian	22	SAY	dire	Impersonal of Reflexives	Regularly	
+Italian	22	SAY	dire	Impersonal Passive	Never	
+Italian	22	SAY	dire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	22	SAY	dire	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	22	SAY	dire	Indirect/Dative Reflexive	Regularly	
+Italian	22	SAY	dire	Locative Alternation	Never	
+Italian	22	SAY	dire	Middle Reflexive	Never	
+Italian	22	SAY	dire	Object Omission	Regularly	1 > V'.subj[1] > (a+3)
+Italian	22	SAY	dire	Oblique Subject	Never	
+Italian	22	SAY	dire	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	22	SAY	dire	Possessor-Attribute Alternation	Never	
+Italian	22	SAY	dire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	23	NAME	chiamare	Anticausative (coded)	Never	
+Italian	23	NAME	chiamare	Anticausative (uncoded)	Never	
+Italian	23	NAME	chiamare	Applicative	Never	
+Italian	23	NAME	chiamare	Body part possessor alternation	Never	
+Italian	23	NAME	chiamare	Causative	Regularly	4 > causV'.subj[4] > 2 > 3 a+1
+Italian	23	NAME	chiamare	Conative	Never	
+Italian	23	NAME	chiamare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] > 3
+Italian	23	NAME	chiamare	Direct Reflexive	Regularly	
+Italian	23	NAME	chiamare	Impersonal of Reflexives	Regularly	
+Italian	23	NAME	chiamare	Impersonal Passive	Regularly	siPassV' 3 (da+1)
+Italian	23	NAME	chiamare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> 3)
+Italian	23	NAME	chiamare	Indirect Reciprocal Reflexive	Never	
+Italian	23	NAME	chiamare	Indirect/Dative Reflexive	Never	
+Italian	23	NAME	chiamare	Locative Alternation	Never	
+Italian	23	NAME	chiamare	Middle Reflexive	Never	
+Italian	23	NAME	chiamare	Object Omission	Never	
+Italian	23	NAME	chiamare	Oblique Subject	Never	
+Italian	23	NAME	chiamare	Passive	Regularly	2 > passV'.subj[2] > 3 (daParteDi+1)
+Italian	23	NAME	chiamare	Possessor-Attribute Alternation	Never	
+Italian	23	NAME	chiamare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> 3) (> daParteDi+1)
+Italian	24	BUILD	costruire	Anticausative (coded)	Never	
+Italian	24	BUILD	costruire	Anticausative (uncoded)	Never	
+Italian	24	BUILD	costruire	Applicative	Never	
+Italian	24	BUILD	costruire	Body part possessor alternation	Never	
+Italian	24	BUILD	costruire	Causative	Regularly	4 > causV'.subj[4] > 2 (di+3) a+1
+Italian	24	BUILD	costruire	Conative	Never	
+Italian	24	BUILD	costruire	Direct Reciprocal Reflexive	Never	
+Italian	24	BUILD	costruire	Direct Reflexive	Never	
+Italian	24	BUILD	costruire	Impersonal of Reflexives	Regularly	
+Italian	24	BUILD	costruire	Impersonal Passive	Marginally	
+Italian	24	BUILD	costruire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> di+3)
+Italian	24	BUILD	costruire	Indirect Reciprocal Reflexive	Never	
+Italian	24	BUILD	costruire	Indirect/Dative Reflexive	Regularly	
+Italian	24	BUILD	costruire	Locative Alternation	Never	
+Italian	24	BUILD	costruire	Middle Reflexive	Never	
+Italian	24	BUILD	costruire	Object Omission	Regularly	1 > V'.subj[1] > (di+3)
+Italian	24	BUILD	costruire	Oblique Subject	Marginally	
+Italian	24	BUILD	costruire	Passive	Regularly	2 > passV'.subj[2] (di+3) (daParteDi+1)
+Italian	24	BUILD	costruire	Possessor-Attribute Alternation	Never	
+Italian	24	BUILD	costruire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> di+3) (> daParteDi+1)
+Italian	25	BREAK	rompere	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> con+3)
+Italian	25	BREAK	rompere	Anticausative (uncoded)	Never	
+Italian	25	BREAK	rompere	Applicative	Never	
+Italian	25	BREAK	rompere	Body part possessor alternation	Never	
+Italian	25	BREAK	rompere	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	25	BREAK	rompere	Conative	Never	
+Italian	25	BREAK	rompere	Direct Reciprocal Reflexive	Never	
+Italian	25	BREAK	rompere	Direct Reflexive	Never	
+Italian	25	BREAK	rompere	Impersonal of Reflexives	Regularly	
+Italian	25	BREAK	rompere	Impersonal Passive	Marginally	
+Italian	25	BREAK	rompere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	25	BREAK	rompere	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>con+3)
+Italian	25	BREAK	rompere	Indirect/Dative Reflexive	Never	
+Italian	25	BREAK	rompere	Locative Alternation	Never	
+Italian	25	BREAK	rompere	Middle Reflexive	Regularly	
+Italian	25	BREAK	rompere	Object Omission	Never	
+Italian	25	BREAK	rompere	Oblique Subject	Regularly	
+Italian	25	BREAK	rompere	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	25	BREAK	rompere	Possessor-Attribute Alternation	Never	
+Italian	25	BREAK	rompere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	26	KILL	uccidere	Anticausative (coded)	Never	
+Italian	26	KILL	uccidere	Anticausative (uncoded)	Never	
+Italian	26	KILL	uccidere	Applicative	Never	
+Italian	26	KILL	uccidere	Body part possessor alternation	Never	
+Italian	26	KILL	uccidere	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	26	KILL	uccidere	Conative	Never	
+Italian	26	KILL	uccidere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	26	KILL	uccidere	Direct Reflexive	Regularly	
+Italian	26	KILL	uccidere	Impersonal of Reflexives	Regularly	
+Italian	26	KILL	uccidere	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	26	KILL	uccidere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	26	KILL	uccidere	Indirect Reciprocal Reflexive	Never	
+Italian	26	KILL	uccidere	Indirect/Dative Reflexive	Never	
+Italian	26	KILL	uccidere	Locative Alternation	Never	
+Italian	26	KILL	uccidere	Middle Reflexive	Never	
+Italian	26	KILL	uccidere	Object Omission	Regularly	1 > V'.subj[1] > (con+3)
+Italian	26	KILL	uccidere	Oblique Subject	Regularly	
+Italian	26	KILL	uccidere	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	26	KILL	uccidere	Possessor-Attribute Alternation	Never	
+Italian	26	KILL	uccidere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	27	BEAT	colpire	Anticausative (coded)	Never	
+Italian	27	BEAT	colpire	Anticausative (uncoded)	Never	
+Italian	27	BEAT	colpire	Applicative	Never	
+Italian	27	BEAT	colpire	Body part possessor alternation	Regularly	
+Italian	27	BEAT	colpire	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	27	BEAT	colpire	Conative	Never	
+Italian	27	BEAT	colpire	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	27	BEAT	colpire	Direct Reflexive	Regularly	
+Italian	27	BEAT	colpire	Impersonal of Reflexives	Regularly	
+Italian	27	BEAT	colpire	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	27	BEAT	colpire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	27	BEAT	colpire	Indirect Reciprocal Reflexive	Never	
+Italian	27	BEAT	colpire	Indirect/Dative Reflexive	Regularly	
+Italian	27	BEAT	colpire	Locative Alternation	Never	
+Italian	27	BEAT	colpire	Middle Reflexive	Regularly	
+Italian	27	BEAT	colpire	Object Omission	Regularly	1 > V'.subj[1] > (con+3)
+Italian	27	BEAT	colpire	Oblique Subject	Regularly	
+Italian	27	BEAT	colpire	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	27	BEAT	colpire	Possessor-Attribute Alternation	Never	
+Italian	27	BEAT	colpire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	28	HIT	urtare	Anticausative (coded)	Never	
+Italian	28	HIT	urtare	Anticausative (uncoded)	Never	
+Italian	28	HIT	urtare	Applicative	Never	
+Italian	28	HIT	urtare	Body part possessor alternation	Regularly	
+Italian	28	HIT	urtare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	28	HIT	urtare	Conative	Never	
+Italian	28	HIT	urtare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	28	HIT	urtare	Direct Reflexive	Never	
+Italian	28	HIT	urtare	Impersonal of Reflexives	Regularly	
+Italian	28	HIT	urtare	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	28	HIT	urtare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	28	HIT	urtare	Indirect Reciprocal Reflexive	Never	
+Italian	28	HIT	urtare	Indirect/Dative Reflexive	Never	
+Italian	28	HIT	urtare	Locative Alternation	Never	
+Italian	28	HIT	urtare	Middle Reflexive	Never	
+Italian	28	HIT	urtare	Object Omission	Never	
+Italian	28	HIT	urtare	Oblique Subject	Regularly	
+Italian	28	HIT	urtare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	28	HIT	urtare	Possessor-Attribute Alternation	Never	
+Italian	28	HIT	urtare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	29	TOUCH	toccare	Anticausative (coded)	Never	
+Italian	29	TOUCH	toccare	Anticausative (uncoded)	Never	
+Italian	29	TOUCH	toccare	Applicative	Never	
+Italian	29	TOUCH	toccare	Body part possessor alternation	Regularly	
+Italian	29	TOUCH	toccare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	29	TOUCH	toccare	Conative	Never	
+Italian	29	TOUCH	toccare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	29	TOUCH	toccare	Direct Reflexive	Regularly	
+Italian	29	TOUCH	toccare	Impersonal of Reflexives	Regularly	
+Italian	29	TOUCH	toccare	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	29	TOUCH	toccare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	29	TOUCH	toccare	Indirect Reciprocal Reflexive	Never	
+Italian	29	TOUCH	toccare	Indirect/Dative Reflexive	Regularly	
+Italian	29	TOUCH	toccare	Locative Alternation	Never	
+Italian	29	TOUCH	toccare	Middle Reflexive	Never	
+Italian	29	TOUCH	toccare	Object Omission	Marginally	
+Italian	29	TOUCH	toccare	Oblique Subject	Never	
+Italian	29	TOUCH	toccare	Passive	Never	
+Italian	29	TOUCH	toccare	Possessor-Attribute Alternation	Never	
+Italian	29	TOUCH	toccare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	30	CUT	tagliare	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> con+3)
+Italian	30	CUT	tagliare	Anticausative (uncoded)	Never	
+Italian	30	CUT	tagliare	Applicative	Never	
+Italian	30	CUT	tagliare	Body part possessor alternation	Never	
+Italian	30	CUT	tagliare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	30	CUT	tagliare	Conative	Never	
+Italian	30	CUT	tagliare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	30	CUT	tagliare	Direct Reflexive	No data	
+Italian	30	CUT	tagliare	Impersonal of Reflexives	Regularly	
+Italian	30	CUT	tagliare	Impersonal Passive	Marginally	
+Italian	30	CUT	tagliare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	30	CUT	tagliare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>con+3)
+Italian	30	CUT	tagliare	Indirect/Dative Reflexive	Regularly	
+Italian	30	CUT	tagliare	Locative Alternation	Never	
+Italian	30	CUT	tagliare	Middle Reflexive	Regularly	
+Italian	30	CUT	tagliare	Object Omission	Never	
+Italian	30	CUT	tagliare	Oblique Subject	Regularly	
+Italian	30	CUT	tagliare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	30	CUT	tagliare	Possessor-Attribute Alternation	Never	
+Italian	30	CUT	tagliare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	31	TAKE	prendere	Anticausative (coded)	Never	
+Italian	31	TAKE	prendere	Anticausative (uncoded)	Never	
+Italian	31	TAKE	prendere	Applicative	Never	
+Italian	31	TAKE	prendere	Body part possessor alternation	Never	
+Italian	31	TAKE	prendere	Causative	Regularly	4 > causV'.subj[4] > 2 (da+3) a+1
+Italian	31	TAKE	prendere	Conative	Never	
+Italian	31	TAKE	prendere	Direct Reciprocal Reflexive	Never	1/2 > siV'.subj[1/2] (> da+3)
+Italian	31	TAKE	prendere	Direct Reflexive	Never	
+Italian	31	TAKE	prendere	Impersonal of Reflexives	Regularly	
+Italian	31	TAKE	prendere	Impersonal Passive	Regularly	
+Italian	31	TAKE	prendere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> da+3)
+Italian	31	TAKE	prendere	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	31	TAKE	prendere	Indirect/Dative Reflexive	Regularly	
+Italian	31	TAKE	prendere	Locative Alternation	Never	
+Italian	31	TAKE	prendere	Middle Reflexive	Never	
+Italian	31	TAKE	prendere	Object Omission	Never	
+Italian	31	TAKE	prendere	Oblique Subject	Never	
+Italian	31	TAKE	prendere	Passive	Regularly	2 > passV'.subj[2] (da+3) (daParteDi+1)
+Italian	31	TAKE	prendere	Possessor-Attribute Alternation	Never	
+Italian	31	TAKE	prendere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> da+3) (> daParteDi+1)
+Italian	32	TEAR	strappare	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> da+3)
+Italian	32	TEAR	strappare	Anticausative (uncoded)	Never	
+Italian	32	TEAR	strappare	Applicative	Never	
+Italian	32	TEAR	strappare	Body part possessor alternation	Never	
+Italian	32	TEAR	strappare	Causative	Regularly	4 > causV'.subj[4] > 2 (da+3) a+1
+Italian	32	TEAR	strappare	Conative	Never	
+Italian	32	TEAR	strappare	Direct Reciprocal Reflexive	No data	
+Italian	32	TEAR	strappare	Direct Reflexive	Never	
+Italian	32	TEAR	strappare	Impersonal of Reflexives	Regularly	
+Italian	32	TEAR	strappare	Impersonal Passive	Marginally	
+Italian	32	TEAR	strappare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> da+3)
+Italian	32	TEAR	strappare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	32	TEAR	strappare	Indirect/Dative Reflexive	Regularly	
+Italian	32	TEAR	strappare	Locative Alternation	Never	
+Italian	32	TEAR	strappare	Middle Reflexive	Regularly	
+Italian	32	TEAR	strappare	Object Omission	Never	
+Italian	32	TEAR	strappare	Oblique Subject	Never	
+Italian	32	TEAR	strappare	Passive	Regularly	2 > passV'.subj[2] (da+3) (daParteDi+1)
+Italian	32	TEAR	strappare	Possessor-Attribute Alternation	Never	
+Italian	32	TEAR	strappare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> da+3) (> daParteDi+1)
+Italian	33	PEEL	sbucciare	Anticausative (coded)	Never	
+Italian	33	PEEL	sbucciare	Anticausative (uncoded)	Never	
+Italian	33	PEEL	sbucciare	Applicative	Never	
+Italian	33	PEEL	sbucciare	Body part possessor alternation	Never	
+Italian	33	PEEL	sbucciare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	33	PEEL	sbucciare	Conative	Never	
+Italian	33	PEEL	sbucciare	Direct Reciprocal Reflexive	No data	
+Italian	33	PEEL	sbucciare	Direct Reflexive	Never	
+Italian	33	PEEL	sbucciare	Impersonal of Reflexives	Regularly	
+Italian	33	PEEL	sbucciare	Impersonal Passive	Never	
+Italian	33	PEEL	sbucciare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	33	PEEL	sbucciare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2
+Italian	33	PEEL	sbucciare	Indirect/Dative Reflexive	Regularly	
+Italian	33	PEEL	sbucciare	Locative Alternation	Never	
+Italian	33	PEEL	sbucciare	Middle Reflexive	Regularly	
+Italian	33	PEEL	sbucciare	Object Omission	Never	
+Italian	33	PEEL	sbucciare	Oblique Subject	Regularly	
+Italian	33	PEEL	sbucciare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	33	PEEL	sbucciare	Possessor-Attribute Alternation	Never	
+Italian	33	PEEL	sbucciare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	34	HIDE	nascondere	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> a+3)
+Italian	34	HIDE	nascondere	Anticausative (uncoded)	Never	
+Italian	34	HIDE	nascondere	Applicative	Never	
+Italian	34	HIDE	nascondere	Body part possessor alternation	Never	
+Italian	34	HIDE	nascondere	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	34	HIDE	nascondere	Conative	Never	
+Italian	34	HIDE	nascondere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> a+3)
+Italian	34	HIDE	nascondere	Direct Reflexive	Regularly	
+Italian	34	HIDE	nascondere	Impersonal of Reflexives	Regularly	
+Italian	34	HIDE	nascondere	Impersonal Passive	Regularly	siPassV' (a+3) (da+1)
+Italian	34	HIDE	nascondere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	34	HIDE	nascondere	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	34	HIDE	nascondere	Indirect/Dative Reflexive	Regularly	
+Italian	34	HIDE	nascondere	Locative Alternation	Never	
+Italian	34	HIDE	nascondere	Middle Reflexive	Never	
+Italian	34	HIDE	nascondere	Object Omission	Never	
+Italian	34	HIDE	nascondere	Oblique Subject	Regularly	
+Italian	34	HIDE	nascondere	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	34	HIDE	nascondere	Possessor-Attribute Alternation	Never	
+Italian	34	HIDE	nascondere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	35	SHOW	mostrare	Anticausative (coded)	Never	
+Italian	35	SHOW	mostrare	Anticausative (uncoded)	Never	
+Italian	35	SHOW	mostrare	Applicative	Never	
+Italian	35	SHOW	mostrare	Body part possessor alternation	Never	
+Italian	35	SHOW	mostrare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	35	SHOW	mostrare	Conative	Never	
+Italian	35	SHOW	mostrare	Direct Reciprocal Reflexive	No data	
+Italian	35	SHOW	mostrare	Direct Reflexive	Regularly	
+Italian	35	SHOW	mostrare	Impersonal of Reflexives	Regularly	
+Italian	35	SHOW	mostrare	Impersonal Passive	Regularly	siPassV' (a+3) (da+1)
+Italian	35	SHOW	mostrare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	35	SHOW	mostrare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	35	SHOW	mostrare	Indirect/Dative Reflexive	Never	
+Italian	35	SHOW	mostrare	Locative Alternation	Never	
+Italian	35	SHOW	mostrare	Middle Reflexive	Regularly	
+Italian	35	SHOW	mostrare	Object Omission	Never	
+Italian	35	SHOW	mostrare	Oblique Subject	Never	
+Italian	35	SHOW	mostrare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	35	SHOW	mostrare	Possessor-Attribute Alternation	Never	
+Italian	35	SHOW	mostrare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	36	GIVE	dare	Anticausative (coded)	Never	
+Italian	36	GIVE	dare	Anticausative (uncoded)	Never	
+Italian	36	GIVE	dare	Applicative	Never	
+Italian	36	GIVE	dare	Body part possessor alternation	Never	
+Italian	36	GIVE	dare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	36	GIVE	dare	Conative	Never	
+Italian	36	GIVE	dare	Direct Reciprocal Reflexive	No data	
+Italian	36	GIVE	dare	Direct Reflexive	Regularly	
+Italian	36	GIVE	dare	Impersonal of Reflexives	Regularly	
+Italian	36	GIVE	dare	Impersonal Passive	Marginally	
+Italian	36	GIVE	dare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	36	GIVE	dare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	36	GIVE	dare	Indirect/Dative Reflexive	Regularly	
+Italian	36	GIVE	dare	Locative Alternation	Never	
+Italian	36	GIVE	dare	Middle Reflexive	Never	
+Italian	36	GIVE	dare	Object Omission	Never	
+Italian	36	GIVE	dare	Oblique Subject	Never	
+Italian	36	GIVE	dare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	36	GIVE	dare	Possessor-Attribute Alternation	Never	
+Italian	36	GIVE	dare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	37	SEND	inviare	Anticausative (coded)	Never	
+Italian	37	SEND	inviare	Anticausative (uncoded)	Never	
+Italian	37	SEND	inviare	Applicative	Never	
+Italian	37	SEND	inviare	Body part possessor alternation	Never	
+Italian	37	SEND	inviare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	37	SEND	inviare	Conative	Never	
+Italian	37	SEND	inviare	Direct Reciprocal Reflexive	No data	
+Italian	37	SEND	inviare	Direct Reflexive	Never	
+Italian	37	SEND	inviare	Impersonal of Reflexives	Regularly	
+Italian	37	SEND	inviare	Impersonal Passive	Regularly	siPassV' (a+3) (da+1)
+Italian	37	SEND	inviare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	37	SEND	inviare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	37	SEND	inviare	Indirect/Dative Reflexive	Never	
+Italian	37	SEND	inviare	Locative Alternation	Never	
+Italian	37	SEND	inviare	Middle Reflexive	Never	
+Italian	37	SEND	inviare	Object Omission	Never	
+Italian	37	SEND	inviare	Oblique Subject	Never	
+Italian	37	SEND	inviare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	37	SEND	inviare	Possessor-Attribute Alternation	Never	
+Italian	37	SEND	inviare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	38	CARRY	trasportare	Anticausative (coded)	Never	
+Italian	38	CARRY	trasportare	Anticausative (uncoded)	Never	
+Italian	38	CARRY	trasportare	Applicative	Never	
+Italian	38	CARRY	trasportare	Body part possessor alternation	Never	
+Italian	38	CARRY	trasportare	Causative	Regularly	4 > causV'.subj[4] > 2 (LOC3) a+1
+Italian	38	CARRY	trasportare	Conative	Never	
+Italian	38	CARRY	trasportare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> LOC3)
+Italian	38	CARRY	trasportare	Direct Reflexive	Regularly	
+Italian	38	CARRY	trasportare	Impersonal of Reflexives	Regularly	
+Italian	38	CARRY	trasportare	Impersonal Passive	Regularly	siPassV' (LOC3) (da+1)
+Italian	38	CARRY	trasportare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> LOC3)
+Italian	38	CARRY	trasportare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>LOC3)
+Italian	38	CARRY	trasportare	Indirect/Dative Reflexive	Regularly	
+Italian	38	CARRY	trasportare	Locative Alternation	Never	
+Italian	38	CARRY	trasportare	Middle Reflexive	Never	
+Italian	38	CARRY	trasportare	Object Omission	Never	
+Italian	38	CARRY	trasportare	Oblique Subject	Never	
+Italian	38	CARRY	trasportare	Passive	Regularly	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	38	CARRY	trasportare	Possessor-Attribute Alternation	Never	
+Italian	38	CARRY	trasportare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	39	THROW	lanciare	Anticausative (coded)	Never	
+Italian	39	THROW	lanciare	Anticausative (uncoded)	Never	
+Italian	39	THROW	lanciare	Applicative	Never	
+Italian	39	THROW	lanciare	Body part possessor alternation	Never	
+Italian	39	THROW	lanciare	Causative	Regularly	4 > causV'.subj[4] > 2 (LOC3) a+1
+Italian	39	THROW	lanciare	Conative	Never	
+Italian	39	THROW	lanciare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> LOC3)
+Italian	39	THROW	lanciare	Direct Reflexive	Regularly	
+Italian	39	THROW	lanciare	Impersonal of Reflexives	Regularly	
+Italian	39	THROW	lanciare	Impersonal Passive	Marginally	
+Italian	39	THROW	lanciare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> LOC3)
+Italian	39	THROW	lanciare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>LOC3)
+Italian	39	THROW	lanciare	Indirect/Dative Reflexive	Never	
+Italian	39	THROW	lanciare	Locative Alternation	Never	
+Italian	39	THROW	lanciare	Middle Reflexive	Never	
+Italian	39	THROW	lanciare	Object Omission	Never	
+Italian	39	THROW	lanciare	Oblique Subject	Never	
+Italian	39	THROW	lanciare	Passive	Regularly	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	39	THROW	lanciare	Possessor-Attribute Alternation	Never	
+Italian	39	THROW	lanciare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	40	TIE	legare	Anticausative (coded)	Never	
+Italian	40	TIE	legare	Anticausative (uncoded)	Never	
+Italian	40	TIE	legare	Applicative	Never	
+Italian	40	TIE	legare	Body part possessor alternation	Regularly	
+Italian	40	TIE	legare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1
+Italian	40	TIE	legare	Conative	Never	
+Italian	40	TIE	legare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> a+3) (> con+4)
+Italian	40	TIE	legare	Direct Reflexive	Regularly	
+Italian	40	TIE	legare	Impersonal of Reflexives	Regularly	
+Italian	40	TIE	legare	Impersonal Passive	Regularly	siPassV' (a+3) (con+4) (da+1)
+Italian	40	TIE	legare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3) (> con+4)
+Italian	40	TIE	legare	Indirect Reciprocal Reflexive	Regularly	
+Italian	40	TIE	legare	Indirect/Dative Reflexive	Regularly	
+Italian	40	TIE	legare	Locative Alternation	Never	
+Italian	40	TIE	legare	Middle Reflexive	Never	
+Italian	40	TIE	legare	Object Omission	Never	
+Italian	40	TIE	legare	Oblique Subject	Never	
+Italian	40	TIE	legare	Passive	Regularly	2 > passV'.subj[2] (a+3) (con+4) (daParteDi+1)
+Italian	40	TIE	legare	Possessor-Attribute Alternation	Never	
+Italian	40	TIE	legare	Reflexive Passive	Regularly	2 > siV'.subj[2] (a+3) (con+4) (> daParteDi+1)
+Italian	41	PUT	mettere	Anticausative (coded)	Never	
+Italian	41	PUT	mettere	Anticausative (uncoded)	Never	
+Italian	41	PUT	mettere	Applicative	Never	
+Italian	41	PUT	mettere	Body part possessor alternation	Never	
+Italian	41	PUT	mettere	Causative	Regularly	4 > causV'.subj[4] > 2 (LOC3) a+1
+Italian	41	PUT	mettere	Conative	Never	
+Italian	41	PUT	mettere	Direct Reciprocal Reflexive	No data	
+Italian	41	PUT	mettere	Direct Reflexive	Regularly	
+Italian	41	PUT	mettere	Impersonal of Reflexives	Regularly	
+Italian	41	PUT	mettere	Impersonal Passive	Regularly	siPassV' (LOC3) (da+1)
+Italian	41	PUT	mettere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> LOC3)
+Italian	41	PUT	mettere	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>LOC3)
+Italian	41	PUT	mettere	Indirect/Dative Reflexive	Regularly	
+Italian	41	PUT	mettere	Locative Alternation	Never	
+Italian	41	PUT	mettere	Middle Reflexive	Never	
+Italian	41	PUT	mettere	Object Omission	Never	
+Italian	41	PUT	mettere	Oblique Subject	Never	
+Italian	41	PUT	mettere	Passive	Regularly	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	41	PUT	mettere	Possessor-Attribute Alternation	Never	
+Italian	41	PUT	mettere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	42	POUR	versare	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> LOC3)
+Italian	42	POUR	versare	Anticausative (uncoded)	Never	
+Italian	42	POUR	versare	Applicative	Never	
+Italian	42	POUR	versare	Body part possessor alternation	Never	
+Italian	42	POUR	versare	Causative	Regularly	4 > causV'.subj[4] > 2 (LOC3) a+1
+Italian	42	POUR	versare	Conative	Never	
+Italian	42	POUR	versare	Direct Reciprocal Reflexive	Never	
+Italian	42	POUR	versare	Direct Reflexive	Never	
+Italian	42	POUR	versare	Impersonal of Reflexives	Regularly	
+Italian	42	POUR	versare	Impersonal Passive	Never	
+Italian	42	POUR	versare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> LOC3)
+Italian	42	POUR	versare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>LOC3)
+Italian	42	POUR	versare	Indirect/Dative Reflexive	Regularly	
+Italian	42	POUR	versare	Locative Alternation	Never	
+Italian	42	POUR	versare	Middle Reflexive	Never	
+Italian	42	POUR	versare	Object Omission	Never	
+Italian	42	POUR	versare	Oblique Subject	Never	
+Italian	42	POUR	versare	Passive	Regularly	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	42	POUR	versare	Possessor-Attribute Alternation	Never	
+Italian	42	POUR	versare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	43	COVER	coprire	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> con+3)
+Italian	43	COVER	coprire	Anticausative (uncoded)	Never	
+Italian	43	COVER	coprire	Applicative	Never	
+Italian	43	COVER	coprire	Body part possessor alternation	Never	
+Italian	43	COVER	coprire	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	43	COVER	coprire	Conative	Never	
+Italian	43	COVER	coprire	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> con+3)
+Italian	43	COVER	coprire	Direct Reflexive	Regularly	
+Italian	43	COVER	coprire	Impersonal of Reflexives	Regularly	
+Italian	43	COVER	coprire	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	43	COVER	coprire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	43	COVER	coprire	Indirect Reciprocal Reflexive	Never	
+Italian	43	COVER	coprire	Indirect/Dative Reflexive	Regularly	
+Italian	43	COVER	coprire	Locative Alternation	Never	
+Italian	43	COVER	coprire	Middle Reflexive	Never	
+Italian	43	COVER	coprire	Object Omission	Never	
+Italian	43	COVER	coprire	Oblique Subject	Regularly	
+Italian	43	COVER	coprire	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	43	COVER	coprire	Possessor-Attribute Alternation	Never	
+Italian	43	COVER	coprire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	44	FILL	riempire	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> con+3)
+Italian	44	FILL	riempire	Anticausative (uncoded)	Never	
+Italian	44	FILL	riempire	Applicative	Never	
+Italian	44	FILL	riempire	Body part possessor alternation	Never	
+Italian	44	FILL	riempire	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	44	FILL	riempire	Conative	Never	
+Italian	44	FILL	riempire	Direct Reciprocal Reflexive	Never	
+Italian	44	FILL	riempire	Direct Reflexive	Regularly	
+Italian	44	FILL	riempire	Impersonal of Reflexives	Regularly	
+Italian	44	FILL	riempire	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	44	FILL	riempire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	44	FILL	riempire	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>con+3)
+Italian	44	FILL	riempire	Indirect/Dative Reflexive	Regularly	
+Italian	44	FILL	riempire	Locative Alternation	Never	
+Italian	44	FILL	riempire	Middle Reflexive	Never	
+Italian	44	FILL	riempire	Object Omission	Marginally	
+Italian	44	FILL	riempire	Oblique Subject	Regularly	
+Italian	44	FILL	riempire	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	44	FILL	riempire	Possessor-Attribute Alternation	Never	
+Italian	44	FILL	riempire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	45	LOAD	caricare	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> su+3)
+Italian	45	LOAD	caricare	Anticausative (uncoded)	Never	
+Italian	45	LOAD	caricare	Applicative	Never	
+Italian	45	LOAD	caricare	Body part possessor alternation	Never	
+Italian	45	LOAD	caricare	Causative	Regularly	4 > causV'.subj[4] > 2 (su+3) a+1
+Italian	45	LOAD	caricare	Conative	Never	
+Italian	45	LOAD	caricare	Direct Reciprocal Reflexive	Never	
+Italian	45	LOAD	caricare	Direct Reflexive	Never	
+Italian	45	LOAD	caricare	Impersonal of Reflexives	Regularly	
+Italian	45	LOAD	caricare	Impersonal Passive	Regularly	siPassV' (su+3) (da+1)
+Italian	45	LOAD	caricare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> su+3)
+Italian	45	LOAD	caricare	Indirect Reciprocal Reflexive	Never	
+Italian	45	LOAD	caricare	Indirect/Dative Reflexive	Regularly	
+Italian	45	LOAD	caricare	Locative Alternation	Regularly	1 > V'.subj[1] > 3 > di+2
+Italian	45	LOAD	caricare	Middle Reflexive	Never	
+Italian	45	LOAD	caricare	Object Omission	Regularly	1 V'.subj[1] (su+3)
+Italian	45	LOAD	caricare	Oblique Subject	Never	
+Italian	45	LOAD	caricare	Passive	Regularly	2 > passV'.subj[2] (su+3) (daParteDi+1)
+Italian	45	LOAD	caricare	Possessor-Attribute Alternation	Never	
+Italian	45	LOAD	caricare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> su+3) (> daParteDi+1)
+Italian	46	BLINK	sbattere le palpebre	Anticausative (coded)	Never	
+Italian	46	BLINK	sbattere le palpebre	Anticausative (uncoded)	Never	
+Italian	46	BLINK	sbattere le palpebre	Applicative	Never	
+Italian	46	BLINK	sbattere le palpebre	Body part possessor alternation	Never	
+Italian	46	BLINK	sbattere le palpebre	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	46	BLINK	sbattere le palpebre	Conative	Never	
+Italian	46	BLINK	sbattere le palpebre	Direct Reciprocal Reflexive	Never	
+Italian	46	BLINK	sbattere le palpebre	Direct Reflexive	Never	
+Italian	46	BLINK	sbattere le palpebre	Impersonal of Reflexives	Never	
+Italian	46	BLINK	sbattere le palpebre	Impersonal Passive	Never	
+Italian	46	BLINK	sbattere le palpebre	Impersonal Reflexive	Regularly	siV'
+Italian	46	BLINK	sbattere le palpebre	Indirect Reciprocal Reflexive	Never	
+Italian	46	BLINK	sbattere le palpebre	Indirect/Dative Reflexive	Never	
+Italian	46	BLINK	sbattere le palpebre	Locative Alternation	Never	
+Italian	46	BLINK	sbattere le palpebre	Middle Reflexive	Never	
+Italian	46	BLINK	sbattere le palpebre	Object Omission	Never	
+Italian	46	BLINK	sbattere le palpebre	Oblique Subject	Never	
+Italian	46	BLINK	sbattere le palpebre	Passive	Marginally	
+Italian	46	BLINK	sbattere le palpebre	Possessor-Attribute Alternation	Never	
+Italian	46	BLINK	sbattere le palpebre	Reflexive Passive	Marginally	
+Italian	47	COUGH	tossire	Anticausative (coded)	Never	
+Italian	47	COUGH	tossire	Anticausative (uncoded)	Never	
+Italian	47	COUGH	tossire	Applicative	Never	
+Italian	47	COUGH	tossire	Body part possessor alternation	Never	
+Italian	47	COUGH	tossire	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	47	COUGH	tossire	Conative	Never	
+Italian	47	COUGH	tossire	Direct Reciprocal Reflexive	Never	
+Italian	47	COUGH	tossire	Direct Reflexive	Never	
+Italian	47	COUGH	tossire	Impersonal of Reflexives	Never	
+Italian	47	COUGH	tossire	Impersonal Passive	Never	
+Italian	47	COUGH	tossire	Impersonal Reflexive	Regularly	siV'
+Italian	47	COUGH	tossire	Indirect Reciprocal Reflexive	Never	
+Italian	47	COUGH	tossire	Indirect/Dative Reflexive	Never	
+Italian	47	COUGH	tossire	Locative Alternation	Never	
+Italian	47	COUGH	tossire	Middle Reflexive	Never	
+Italian	47	COUGH	tossire	Object Omission	Never	
+Italian	47	COUGH	tossire	Oblique Subject	Never	
+Italian	47	COUGH	tossire	Passive	Never	
+Italian	47	COUGH	tossire	Possessor-Attribute Alternation	Never	
+Italian	47	COUGH	tossire	Reflexive Passive	Never	
+Italian	48	CLIMB	scalare	Anticausative (coded)	Never	
+Italian	48	CLIMB	scalare	Anticausative (uncoded)	Never	
+Italian	48	CLIMB	scalare	Applicative	Never	
+Italian	48	CLIMB	scalare	Body part possessor alternation	Never	
+Italian	48	CLIMB	scalare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	48	CLIMB	scalare	Conative	Never	
+Italian	48	CLIMB	scalare	Direct Reciprocal Reflexive	Never	
+Italian	48	CLIMB	scalare	Direct Reflexive	Never	
+Italian	48	CLIMB	scalare	Impersonal of Reflexives	Never	
+Italian	48	CLIMB	scalare	Impersonal Passive	Never	
+Italian	48	CLIMB	scalare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	48	CLIMB	scalare	Indirect Reciprocal Reflexive	Never	
+Italian	48	CLIMB	scalare	Indirect/Dative Reflexive	Never	
+Italian	48	CLIMB	scalare	Locative Alternation	Never	
+Italian	48	CLIMB	scalare	Middle Reflexive	Never	
+Italian	48	CLIMB	scalare	Object Omission	Regularly	1 > V'.subj[1]
+Italian	48	CLIMB	scalare	Oblique Subject	Never	
+Italian	48	CLIMB	scalare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	48	CLIMB	scalare	Possessor-Attribute Alternation	Never	
+Italian	48	CLIMB	scalare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	49	RUN	correre	Anticausative (coded)	Never	
+Italian	49	RUN	correre	Anticausative (uncoded)	Never	
+Italian	49	RUN	correre	Applicative	Never	
+Italian	49	RUN	correre	Body part possessor alternation	Never	
+Italian	49	RUN	correre	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	49	RUN	correre	Conative	Never	
+Italian	49	RUN	correre	Direct Reciprocal Reflexive	Never	
+Italian	49	RUN	correre	Direct Reflexive	Never	
+Italian	49	RUN	correre	Impersonal of Reflexives	Never	
+Italian	49	RUN	correre	Impersonal Passive	Never	
+Italian	49	RUN	correre	Impersonal Reflexive	Regularly	siV'
+Italian	49	RUN	correre	Indirect Reciprocal Reflexive	Never	
+Italian	49	RUN	correre	Indirect/Dative Reflexive	Never	
+Italian	49	RUN	correre	Locative Alternation	Never	
+Italian	49	RUN	correre	Middle Reflexive	Never	
+Italian	49	RUN	correre	Object Omission	Never	
+Italian	49	RUN	correre	Oblique Subject	Never	
+Italian	49	RUN	correre	Passive	Never	
+Italian	49	RUN	correre	Possessor-Attribute Alternation	Never	
+Italian	49	RUN	correre	Reflexive Passive	Never	
+Italian	50	SIT	sedere	Anticausative (coded)	Never	
+Italian	50	SIT	sedere	Anticausative (uncoded)	Never	
+Italian	50	SIT	sedere	Applicative	Never	
+Italian	50	SIT	sedere	Body part possessor alternation	Never	
+Italian	50	SIT	sedere	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	50	SIT	sedere	Conative	Never	
+Italian	50	SIT	sedere	Direct Reciprocal Reflexive	Never	
+Italian	50	SIT	sedere	Direct Reflexive	Never	
+Italian	50	SIT	sedere	Impersonal of Reflexives	Never	
+Italian	50	SIT	sedere	Impersonal Passive	Never	
+Italian	50	SIT	sedere	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	50	SIT	sedere	Indirect Reciprocal Reflexive	Never	
+Italian	50	SIT	sedere	Indirect/Dative Reflexive	Never	
+Italian	50	SIT	sedere	Locative Alternation	Never	
+Italian	50	SIT	sedere	Middle Reflexive	Never	
+Italian	50	SIT	sedere	Object Omission	Never	
+Italian	50	SIT	sedere	Oblique Subject	Never	
+Italian	50	SIT	sedere	Passive	Never	
+Italian	50	SIT	sedere	Possessor-Attribute Alternation	Never	
+Italian	50	SIT	sedere	Reflexive Passive	Never	
+Italian	51	SIT DOWN	sedersi	Anticausative (coded)	Never	
+Italian	51	SIT DOWN	sedersi	Anticausative (uncoded)	Never	
+Italian	51	SIT DOWN	sedersi	Applicative	Never	
+Italian	51	SIT DOWN	sedersi	Body part possessor alternation	Never	
+Italian	51	SIT DOWN	sedersi	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	51	SIT DOWN	sedersi	Conative	Never	
+Italian	51	SIT DOWN	sedersi	Direct Reciprocal Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Direct Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Impersonal of Reflexives	Regularly	
+Italian	51	SIT DOWN	sedersi	Impersonal Passive	Never	
+Italian	51	SIT DOWN	sedersi	Impersonal Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Indirect Reciprocal Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Indirect/Dative Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Locative Alternation	Never	
+Italian	51	SIT DOWN	sedersi	Middle Reflexive	Never	
+Italian	51	SIT DOWN	sedersi	Object Omission	Never	
+Italian	51	SIT DOWN	sedersi	Oblique Subject	Never	
+Italian	51	SIT DOWN	sedersi	Passive	Never	
+Italian	51	SIT DOWN	sedersi	Possessor-Attribute Alternation	Never	
+Italian	51	SIT DOWN	sedersi	Reflexive Passive	Never	
+Italian	52	JUMP	saltare	Anticausative (coded)	Never	
+Italian	52	JUMP	saltare	Anticausative (uncoded)	Never	
+Italian	52	JUMP	saltare	Applicative	Never	
+Italian	52	JUMP	saltare	Body part possessor alternation	Never	
+Italian	52	JUMP	saltare	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	52	JUMP	saltare	Conative	Never	
+Italian	52	JUMP	saltare	Direct Reciprocal Reflexive	Never	
+Italian	52	JUMP	saltare	Direct Reflexive	Never	
+Italian	52	JUMP	saltare	Impersonal of Reflexives	Never	
+Italian	52	JUMP	saltare	Impersonal Passive	Never	
+Italian	52	JUMP	saltare	Impersonal Reflexive	Regularly	siV'
+Italian	52	JUMP	saltare	Indirect Reciprocal Reflexive	Never	
+Italian	52	JUMP	saltare	Indirect/Dative Reflexive	Never	
+Italian	52	JUMP	saltare	Locative Alternation	Never	
+Italian	52	JUMP	saltare	Middle Reflexive	Never	
+Italian	52	JUMP	saltare	Object Omission	Never	
+Italian	52	JUMP	saltare	Oblique Subject	Never	
+Italian	52	JUMP	saltare	Passive	Marginally	
+Italian	52	JUMP	saltare	Possessor-Attribute Alternation	Never	
+Italian	52	JUMP	saltare	Reflexive Passive	Never	
+Italian	53	SING	cantare	Anticausative (coded)	Never	
+Italian	53	SING	cantare	Anticausative (uncoded)	Never	
+Italian	53	SING	cantare	Applicative	Never	
+Italian	53	SING	cantare	Body part possessor alternation	Never	
+Italian	53	SING	cantare	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	53	SING	cantare	Conative	Never	
+Italian	53	SING	cantare	Direct Reciprocal Reflexive	Never	
+Italian	53	SING	cantare	Direct Reflexive	Never	
+Italian	53	SING	cantare	Impersonal of Reflexives	Regularly	
+Italian	53	SING	cantare	Impersonal Passive	Never	
+Italian	53	SING	cantare	Impersonal Reflexive	Regularly	siV'
+Italian	53	SING	cantare	Indirect Reciprocal Reflexive	Regularly	
+Italian	53	SING	cantare	Indirect/Dative Reflexive	Regularly	
+Italian	53	SING	cantare	Locative Alternation	Never	
+Italian	53	SING	cantare	Middle Reflexive	Never	
+Italian	53	SING	cantare	Object Omission	Never	
+Italian	53	SING	cantare	Oblique Subject	Never	
+Italian	53	SING	cantare	Passive	Marginally	
+Italian	53	SING	cantare	Possessor-Attribute Alternation	Never	
+Italian	53	SING	cantare	Reflexive Passive	Marginally	
+Italian	54	GO	andare	Anticausative (coded)	Never	
+Italian	54	GO	andare	Anticausative (uncoded)	Never	
+Italian	54	GO	andare	Applicative	Never	
+Italian	54	GO	andare	Body part possessor alternation	Never	
+Italian	54	GO	andare	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	54	GO	andare	Conative	Never	
+Italian	54	GO	andare	Direct Reciprocal Reflexive	Never	
+Italian	54	GO	andare	Direct Reflexive	Never	
+Italian	54	GO	andare	Impersonal of Reflexives	Never	
+Italian	54	GO	andare	Impersonal Passive	Never	
+Italian	54	GO	andare	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	54	GO	andare	Indirect Reciprocal Reflexive	Never	
+Italian	54	GO	andare	Indirect/Dative Reflexive	Never	
+Italian	54	GO	andare	Locative Alternation	Never	
+Italian	54	GO	andare	Middle Reflexive	Never	
+Italian	54	GO	andare	Object Omission	Never	
+Italian	54	GO	andare	Oblique Subject	Never	
+Italian	54	GO	andare	Passive	Never	
+Italian	54	GO	andare	Possessor-Attribute Alternation	Never	
+Italian	54	GO	andare	Reflexive Passive	Never	
+Italian	55	LEAVE	lasciare	Anticausative (coded)	Never	
+Italian	55	LEAVE	lasciare	Anticausative (uncoded)	Never	
+Italian	55	LEAVE	lasciare	Applicative	Never	
+Italian	55	LEAVE	lasciare	Body part possessor alternation	Never	
+Italian	55	LEAVE	lasciare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	55	LEAVE	lasciare	Conative	Never	
+Italian	55	LEAVE	lasciare	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	55	LEAVE	lasciare	Direct Reflexive	Never	
+Italian	55	LEAVE	lasciare	Impersonal of Reflexives	Regularly	
+Italian	55	LEAVE	lasciare	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	55	LEAVE	lasciare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	55	LEAVE	lasciare	Indirect Reciprocal Reflexive	Never	
+Italian	55	LEAVE	lasciare	Indirect/Dative Reflexive	Never	
+Italian	55	LEAVE	lasciare	Locative Alternation	Never	
+Italian	55	LEAVE	lasciare	Middle Reflexive	Never	
+Italian	55	LEAVE	lasciare	Object Omission	Never	
+Italian	55	LEAVE	lasciare	Oblique Subject	Never	
+Italian	55	LEAVE	lasciare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	55	LEAVE	lasciare	Possessor-Attribute Alternation	Never	
+Italian	55	LEAVE	lasciare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	55	LEAVE	partire	Anticausative (coded)	Never	
+Italian	55	LEAVE	partire	Anticausative (uncoded)	Never	
+Italian	55	LEAVE	partire	Applicative	Never	
+Italian	55	LEAVE	partire	Body part possessor alternation	Never	
+Italian	55	LEAVE	partire	Causative	Regularly	4 > causV'.subj[4] > 1 (da+2) (per+3)
+Italian	55	LEAVE	partire	Conative	Never	
+Italian	55	LEAVE	partire	Direct Reciprocal Reflexive	Never	
+Italian	55	LEAVE	partire	Direct Reflexive	Never	
+Italian	55	LEAVE	partire	Impersonal of Reflexives	Never	
+Italian	55	LEAVE	partire	Impersonal Passive	Never	
+Italian	55	LEAVE	partire	Impersonal Reflexive	Regularly	siV' (da+2) (per+3)
+Italian	55	LEAVE	partire	Indirect Reciprocal Reflexive	Never	
+Italian	55	LEAVE	partire	Indirect/Dative Reflexive	Never	
+Italian	55	LEAVE	partire	Locative Alternation	Never	
+Italian	55	LEAVE	partire	Middle Reflexive	Never	
+Italian	55	LEAVE	partire	Object Omission	Never	
+Italian	55	LEAVE	partire	Oblique Subject	Never	
+Italian	55	LEAVE	partire	Passive	Never	
+Italian	55	LEAVE	partire	Possessor-Attribute Alternation	Never	
+Italian	55	LEAVE	partire	Reflexive Passive	Never	
+Italian	56	LIVE	abitare	Anticausative (coded)	Never	
+Italian	56	LIVE	abitare	Anticausative (uncoded)	Never	
+Italian	56	LIVE	abitare	Applicative	Never	
+Italian	56	LIVE	abitare	Body part possessor alternation	Never	
+Italian	56	LIVE	abitare	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	56	LIVE	abitare	Conative	Never	
+Italian	56	LIVE	abitare	Direct Reciprocal Reflexive	Never	
+Italian	56	LIVE	abitare	Direct Reflexive	Never	
+Italian	56	LIVE	abitare	Impersonal of Reflexives	Never	
+Italian	56	LIVE	abitare	Impersonal Passive	Never	
+Italian	56	LIVE	abitare	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	56	LIVE	abitare	Indirect Reciprocal Reflexive	Never	
+Italian	56	LIVE	abitare	Indirect/Dative Reflexive	Never	
+Italian	56	LIVE	abitare	Locative Alternation	Never	
+Italian	56	LIVE	abitare	Middle Reflexive	Never	
+Italian	56	LIVE	abitare	Object Omission	Never	
+Italian	56	LIVE	abitare	Oblique Subject	Never	
+Italian	56	LIVE	abitare	Passive	Marginally	
+Italian	56	LIVE	abitare	Possessor-Attribute Alternation	Never	
+Italian	56	LIVE	abitare	Reflexive Passive	Never	
+Italian	57	LAUGH	ridere	Anticausative (coded)	Never	
+Italian	57	LAUGH	ridere	Anticausative (uncoded)	Never	
+Italian	57	LAUGH	ridere	Applicative	Never	
+Italian	57	LAUGH	ridere	Body part possessor alternation	Never	
+Italian	57	LAUGH	ridere	Causative	Regularly	3 > causV'.subj[3] > 1 (di+2)
+Italian	57	LAUGH	ridere	Conative	Never	
+Italian	57	LAUGH	ridere	Direct Reciprocal Reflexive	Never	
+Italian	57	LAUGH	ridere	Direct Reflexive	Never	
+Italian	57	LAUGH	ridere	Impersonal of Reflexives	Never	
+Italian	57	LAUGH	ridere	Impersonal Passive	Never	
+Italian	57	LAUGH	ridere	Impersonal Reflexive	Regularly	siV' (di+2)
+Italian	57	LAUGH	ridere	Indirect Reciprocal Reflexive	Never	
+Italian	57	LAUGH	ridere	Indirect/Dative Reflexive	Never	
+Italian	57	LAUGH	ridere	Locative Alternation	Never	
+Italian	57	LAUGH	ridere	Middle Reflexive	Never	
+Italian	57	LAUGH	ridere	Object Omission	Never	
+Italian	57	LAUGH	ridere	Oblique Subject	Never	
+Italian	57	LAUGH	ridere	Passive	Never	
+Italian	57	LAUGH	ridere	Possessor-Attribute Alternation	Never	
+Italian	57	LAUGH	ridere	Reflexive Passive	Never	
+Italian	58	SCREAM	urlare	Anticausative (coded)	Never	
+Italian	58	SCREAM	urlare	Anticausative (uncoded)	Never	
+Italian	58	SCREAM	urlare	Applicative	Regularly	1 > V'.subj[1] > 2
+Italian	58	SCREAM	urlare	Body part possessor alternation	Never	
+Italian	58	SCREAM	urlare	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	58	SCREAM	urlare	Conative	Never	
+Italian	58	SCREAM	urlare	Direct Reciprocal Reflexive	Never	
+Italian	58	SCREAM	urlare	Direct Reflexive	Never	
+Italian	58	SCREAM	urlare	Impersonal of Reflexives	Never	
+Italian	58	SCREAM	urlare	Impersonal Passive	Never	
+Italian	58	SCREAM	urlare	Impersonal Reflexive	Regularly	siV'
+Italian	58	SCREAM	urlare	Indirect Reciprocal Reflexive	Never	
+Italian	58	SCREAM	urlare	Indirect/Dative Reflexive	Never	
+Italian	58	SCREAM	urlare	Locative Alternation	Never	
+Italian	58	SCREAM	urlare	Middle Reflexive	Never	
+Italian	58	SCREAM	urlare	Object Omission	Never	
+Italian	58	SCREAM	urlare	Oblique Subject	Never	
+Italian	58	SCREAM	urlare	Passive	Never	
+Italian	58	SCREAM	urlare	Possessor-Attribute Alternation	Never	
+Italian	58	SCREAM	urlare	Reflexive Passive	Never	
+Italian	59	FEEL PAIN	avere dolore	Anticausative (coded)	Never	
+Italian	59	FEEL PAIN	avere dolore	Anticausative (uncoded)	Never	
+Italian	59	FEEL PAIN	avere dolore	Applicative	Never	
+Italian	59	FEEL PAIN	avere dolore	Body part possessor alternation	Never	
+Italian	59	FEEL PAIN	avere dolore	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	59	FEEL PAIN	avere dolore	Conative	Never	
+Italian	59	FEEL PAIN	avere dolore	Direct Reciprocal Reflexive	Never	
+Italian	59	FEEL PAIN	avere dolore	Direct Reflexive	Never	
+Italian	59	FEEL PAIN	avere dolore	Impersonal of Reflexives	Never	
+Italian	59	FEEL PAIN	avere dolore	Impersonal Passive	Never	
+Italian	59	FEEL PAIN	avere dolore	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	59	FEEL PAIN	avere dolore	Indirect Reciprocal Reflexive	Never	
+Italian	59	FEEL PAIN	avere dolore	Indirect/Dative Reflexive	Never	
+Italian	59	FEEL PAIN	avere dolore	Locative Alternation	Never	
+Italian	59	FEEL PAIN	avere dolore	Middle Reflexive	Never	
+Italian	59	FEEL PAIN	avere dolore	Object Omission	Never	
+Italian	59	FEEL PAIN	avere dolore	Oblique Subject	Never	
+Italian	59	FEEL PAIN	avere dolore	Passive	Never	
+Italian	59	FEEL PAIN	avere dolore	Possessor-Attribute Alternation	Never	
+Italian	59	FEEL PAIN	avere dolore	Reflexive Passive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Anticausative (coded)	Never	
+Italian	59	FEEL PAIN	sentire dolore	Anticausative (uncoded)	Never	
+Italian	59	FEEL PAIN	sentire dolore	Applicative	Never	
+Italian	59	FEEL PAIN	sentire dolore	Body part possessor alternation	Never	
+Italian	59	FEEL PAIN	sentire dolore	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	59	FEEL PAIN	sentire dolore	Conative	Never	
+Italian	59	FEEL PAIN	sentire dolore	Direct Reciprocal Reflexive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Direct Reflexive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Impersonal of Reflexives	Never	
+Italian	59	FEEL PAIN	sentire dolore	Impersonal Passive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	59	FEEL PAIN	sentire dolore	Indirect Reciprocal Reflexive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Indirect/Dative Reflexive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Locative Alternation	Never	
+Italian	59	FEEL PAIN	sentire dolore	Middle Reflexive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Object Omission	Never	
+Italian	59	FEEL PAIN	sentire dolore	Oblique Subject	Never	
+Italian	59	FEEL PAIN	sentire dolore	Passive	Never	
+Italian	59	FEEL PAIN	sentire dolore	Possessor-Attribute Alternation	Never	
+Italian	59	FEEL PAIN	sentire dolore	Reflexive Passive	Never	
+Italian	60	FEEL COLD	avere freddo	Anticausative (coded)	Never	
+Italian	60	FEEL COLD	avere freddo	Anticausative (uncoded)	Never	
+Italian	60	FEEL COLD	avere freddo	Applicative	Never	
+Italian	60	FEEL COLD	avere freddo	Body part possessor alternation	Never	
+Italian	60	FEEL COLD	avere freddo	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	60	FEEL COLD	avere freddo	Conative	Never	
+Italian	60	FEEL COLD	avere freddo	Direct Reciprocal Reflexive	Never	
+Italian	60	FEEL COLD	avere freddo	Direct Reflexive	Never	
+Italian	60	FEEL COLD	avere freddo	Impersonal of Reflexives	Never	
+Italian	60	FEEL COLD	avere freddo	Impersonal Passive	Never	
+Italian	60	FEEL COLD	avere freddo	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	60	FEEL COLD	avere freddo	Indirect Reciprocal Reflexive	Never	
+Italian	60	FEEL COLD	avere freddo	Indirect/Dative Reflexive	Never	
+Italian	60	FEEL COLD	avere freddo	Locative Alternation	Never	
+Italian	60	FEEL COLD	avere freddo	Middle Reflexive	Never	
+Italian	60	FEEL COLD	avere freddo	Object Omission	Never	
+Italian	60	FEEL COLD	avere freddo	Oblique Subject	Never	
+Italian	60	FEEL COLD	avere freddo	Passive	Never	
+Italian	60	FEEL COLD	avere freddo	Possessor-Attribute Alternation	Never	
+Italian	60	FEEL COLD	avere freddo	Reflexive Passive	Never	
+Italian	60	FEEL COLD	sentire freddo	Anticausative (coded)	Never	
+Italian	60	FEEL COLD	sentire freddo	Anticausative (uncoded)	Never	
+Italian	60	FEEL COLD	sentire freddo	Applicative	Never	
+Italian	60	FEEL COLD	sentire freddo	Body part possessor alternation	Never	
+Italian	60	FEEL COLD	sentire freddo	Causative	Regularly	3 > causV'.subj[3] > 1 (> LOC2)
+Italian	60	FEEL COLD	sentire freddo	Conative	Never	
+Italian	60	FEEL COLD	sentire freddo	Direct Reciprocal Reflexive	Never	
+Italian	60	FEEL COLD	sentire freddo	Direct Reflexive	Never	
+Italian	60	FEEL COLD	sentire freddo	Impersonal of Reflexives	Never	
+Italian	60	FEEL COLD	sentire freddo	Impersonal Passive	Never	
+Italian	60	FEEL COLD	sentire freddo	Impersonal Reflexive	Regularly	siV' (> LOC2)
+Italian	60	FEEL COLD	sentire freddo	Indirect Reciprocal Reflexive	Never	
+Italian	60	FEEL COLD	sentire freddo	Indirect/Dative Reflexive	Never	
+Italian	60	FEEL COLD	sentire freddo	Locative Alternation	Never	
+Italian	60	FEEL COLD	sentire freddo	Middle Reflexive	Never	
+Italian	60	FEEL COLD	sentire freddo	Object Omission	Never	
+Italian	60	FEEL COLD	sentire freddo	Oblique Subject	Never	
+Italian	60	FEEL COLD	sentire freddo	Passive	Never	
+Italian	60	FEEL COLD	sentire freddo	Possessor-Attribute Alternation	Never	
+Italian	60	FEEL COLD	sentire freddo	Reflexive Passive	Never	
+Italian	61	DIE	morire	Anticausative (coded)	Never	
+Italian	61	DIE	morire	Anticausative (uncoded)	Never	
+Italian	61	DIE	morire	Applicative	Never	
+Italian	61	DIE	morire	Body part possessor alternation	Never	
+Italian	61	DIE	morire	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	61	DIE	morire	Conative	Never	
+Italian	61	DIE	morire	Direct Reciprocal Reflexive	Never	
+Italian	61	DIE	morire	Direct Reflexive	Never	
+Italian	61	DIE	morire	Impersonal of Reflexives	Never	
+Italian	61	DIE	morire	Impersonal Passive	Never	
+Italian	61	DIE	morire	Impersonal Reflexive	Regularly	siV'
+Italian	61	DIE	morire	Indirect Reciprocal Reflexive	Never	
+Italian	61	DIE	morire	Indirect/Dative Reflexive	Never	
+Italian	61	DIE	morire	Locative Alternation	Never	
+Italian	61	DIE	morire	Middle Reflexive	Never	
+Italian	61	DIE	morire	Object Omission	Never	
+Italian	61	DIE	morire	Oblique Subject	Never	
+Italian	61	DIE	morire	Passive	Never	
+Italian	61	DIE	morire	Possessor-Attribute Alternation	Never	
+Italian	61	DIE	morire	Reflexive Passive	Never	
+Italian	62	PLAY	giocare	Anticausative (coded)	Never	
+Italian	62	PLAY	giocare	Anticausative (uncoded)	Never	
+Italian	62	PLAY	giocare	Applicative	Never	
+Italian	62	PLAY	giocare	Body part possessor alternation	Never	
+Italian	62	PLAY	giocare	Causative	Regularly	3 > causV'.subj[3] > 1 (> con+2)
+Italian	62	PLAY	giocare	Conative	Never	
+Italian	62	PLAY	giocare	Direct Reciprocal Reflexive	Never	
+Italian	62	PLAY	giocare	Direct Reflexive	Never	
+Italian	62	PLAY	giocare	Impersonal of Reflexives	Never	
+Italian	62	PLAY	giocare	Impersonal Passive	Never	
+Italian	62	PLAY	giocare	Impersonal Reflexive	Regularly	siV' (> con+2)
+Italian	62	PLAY	giocare	Indirect Reciprocal Reflexive	Never	
+Italian	62	PLAY	giocare	Indirect/Dative Reflexive	Never	
+Italian	62	PLAY	giocare	Locative Alternation	Never	
+Italian	62	PLAY	giocare	Middle Reflexive	Never	
+Italian	62	PLAY	giocare	Object Omission	Never	
+Italian	62	PLAY	giocare	Oblique Subject	Never	
+Italian	62	PLAY	giocare	Passive	Marginally	
+Italian	62	PLAY	giocare	Possessor-Attribute Alternation	Never	
+Italian	62	PLAY	giocare	Reflexive Passive	Marginally	
+Italian	63	BE SAD	essere triste	Anticausative (coded)	Never	
+Italian	63	BE SAD	essere triste	Anticausative (uncoded)	Never	
+Italian	63	BE SAD	essere triste	Applicative	Never	
+Italian	63	BE SAD	essere triste	Body part possessor alternation	Never	
+Italian	63	BE SAD	essere triste	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	63	BE SAD	essere triste	Conative	Never	
+Italian	63	BE SAD	essere triste	Direct Reciprocal Reflexive	Never	
+Italian	63	BE SAD	essere triste	Direct Reflexive	Never	
+Italian	63	BE SAD	essere triste	Impersonal of Reflexives	Never	
+Italian	63	BE SAD	essere triste	Impersonal Passive	Never	
+Italian	63	BE SAD	essere triste	Impersonal Reflexive	Regularly	siV'
+Italian	63	BE SAD	essere triste	Indirect Reciprocal Reflexive	Never	
+Italian	63	BE SAD	essere triste	Indirect/Dative Reflexive	Never	
+Italian	63	BE SAD	essere triste	Locative Alternation	Never	
+Italian	63	BE SAD	essere triste	Middle Reflexive	Never	
+Italian	63	BE SAD	essere triste	Object Omission	Never	
+Italian	63	BE SAD	essere triste	Oblique Subject	Never	
+Italian	63	BE SAD	essere triste	Passive	Never	
+Italian	63	BE SAD	essere triste	Possessor-Attribute Alternation	Never	
+Italian	63	BE SAD	essere triste	Reflexive Passive	Never	
+Italian	64	BE HUNGRY	avere fame	Anticausative (coded)	Never	
+Italian	64	BE HUNGRY	avere fame	Anticausative (uncoded)	Never	
+Italian	64	BE HUNGRY	avere fame	Applicative	Never	
+Italian	64	BE HUNGRY	avere fame	Body part possessor alternation	Never	
+Italian	64	BE HUNGRY	avere fame	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	64	BE HUNGRY	avere fame	Conative	Never	
+Italian	64	BE HUNGRY	avere fame	Direct Reciprocal Reflexive	Never	
+Italian	64	BE HUNGRY	avere fame	Direct Reflexive	Never	
+Italian	64	BE HUNGRY	avere fame	Impersonal of Reflexives	Never	
+Italian	64	BE HUNGRY	avere fame	Impersonal Passive	Never	
+Italian	64	BE HUNGRY	avere fame	Impersonal Reflexive	Regularly	siV'
+Italian	64	BE HUNGRY	avere fame	Indirect Reciprocal Reflexive	Never	
+Italian	64	BE HUNGRY	avere fame	Indirect/Dative Reflexive	Never	
+Italian	64	BE HUNGRY	avere fame	Locative Alternation	Never	
+Italian	64	BE HUNGRY	avere fame	Middle Reflexive	Never	
+Italian	64	BE HUNGRY	avere fame	Object Omission	Never	
+Italian	64	BE HUNGRY	avere fame	Oblique Subject	Never	
+Italian	64	BE HUNGRY	avere fame	Passive	Never	
+Italian	64	BE HUNGRY	avere fame	Possessor-Attribute Alternation	Never	
+Italian	64	BE HUNGRY	avere fame	Reflexive Passive	Never	
+Italian	64	BE HUNGRY	essere affamato	Anticausative (coded)	Never	
+Italian	64	BE HUNGRY	essere affamato	Anticausative (uncoded)	Never	
+Italian	64	BE HUNGRY	essere affamato	Applicative	Never	
+Italian	64	BE HUNGRY	essere affamato	Body part possessor alternation	Never	
+Italian	64	BE HUNGRY	essere affamato	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	64	BE HUNGRY	essere affamato	Conative	Never	
+Italian	64	BE HUNGRY	essere affamato	Direct Reciprocal Reflexive	Never	
+Italian	64	BE HUNGRY	essere affamato	Direct Reflexive	Never	
+Italian	64	BE HUNGRY	essere affamato	Impersonal of Reflexives	Never	
+Italian	64	BE HUNGRY	essere affamato	Impersonal Passive	Never	
+Italian	64	BE HUNGRY	essere affamato	Impersonal Reflexive	Regularly	siV'
+Italian	64	BE HUNGRY	essere affamato	Indirect Reciprocal Reflexive	Never	
+Italian	64	BE HUNGRY	essere affamato	Indirect/Dative Reflexive	Never	
+Italian	64	BE HUNGRY	essere affamato	Locative Alternation	Never	
+Italian	64	BE HUNGRY	essere affamato	Middle Reflexive	Never	
+Italian	64	BE HUNGRY	essere affamato	Object Omission	Never	
+Italian	64	BE HUNGRY	essere affamato	Oblique Subject	Never	
+Italian	64	BE HUNGRY	essere affamato	Passive	Never	
+Italian	64	BE HUNGRY	essere affamato	Possessor-Attribute Alternation	Never	
+Italian	64	BE HUNGRY	essere affamato	Reflexive Passive	Never	
+Italian	68	BE DRY	essere arido	Anticausative (coded)	Never	
+Italian	68	BE DRY	essere arido	Anticausative (uncoded)	Never	
+Italian	68	BE DRY	essere arido	Applicative	Never	
+Italian	68	BE DRY	essere arido	Body part possessor alternation	Never	
+Italian	68	BE DRY	essere arido	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	68	BE DRY	essere arido	Conative	Never	
+Italian	68	BE DRY	essere arido	Direct Reciprocal Reflexive	Never	
+Italian	68	BE DRY	essere arido	Direct Reflexive	Never	
+Italian	68	BE DRY	essere arido	Impersonal of Reflexives	Never	
+Italian	68	BE DRY	essere arido	Impersonal Passive	Never	
+Italian	68	BE DRY	essere arido	Impersonal Reflexive	Marginally	
+Italian	68	BE DRY	essere arido	Indirect Reciprocal Reflexive	Never	
+Italian	68	BE DRY	essere arido	Indirect/Dative Reflexive	Never	
+Italian	68	BE DRY	essere arido	Locative Alternation	Never	
+Italian	68	BE DRY	essere arido	Middle Reflexive	Never	
+Italian	68	BE DRY	essere arido	Object Omission	Never	
+Italian	68	BE DRY	essere arido	Oblique Subject	Never	
+Italian	68	BE DRY	essere arido	Passive	Never	
+Italian	68	BE DRY	essere arido	Possessor-Attribute Alternation	Never	
+Italian	68	BE DRY	essere arido	Reflexive Passive	Never	
+Italian	69	RAIN	piovere	Anticausative (coded)	Never	
+Italian	69	RAIN	piovere	Anticausative (uncoded)	Never	
+Italian	69	RAIN	piovere	Applicative	Never	
+Italian	69	RAIN	piovere	Body part possessor alternation	Never	
+Italian	69	RAIN	piovere	Causative	Regularly	1 > causV'.subj[1]
+Italian	69	RAIN	piovere	Conative	Never	
+Italian	69	RAIN	piovere	Direct Reciprocal Reflexive	Never	
+Italian	69	RAIN	piovere	Direct Reflexive	Never	
+Italian	69	RAIN	piovere	Impersonal of Reflexives	Never	
+Italian	69	RAIN	piovere	Impersonal Passive	Never	
+Italian	69	RAIN	piovere	Impersonal Reflexive	Never	
+Italian	69	RAIN	piovere	Indirect Reciprocal Reflexive	Never	
+Italian	69	RAIN	piovere	Indirect/Dative Reflexive	Never	
+Italian	69	RAIN	piovere	Locative Alternation	Never	
+Italian	69	RAIN	piovere	Middle Reflexive	Never	
+Italian	69	RAIN	piovere	Object Omission	Never	
+Italian	69	RAIN	piovere	Oblique Subject	Never	
+Italian	69	RAIN	piovere	Passive	Never	
+Italian	69	RAIN	piovere	Possessor-Attribute Alternation	Never	
+Italian	69	RAIN	piovere	Reflexive Passive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Anticausative (coded)	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Anticausative (uncoded)	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Applicative	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Body part possessor alternation	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Causative	Regularly	
+Italian	70	BE A HUNTER	no verbal counterpart	Conative	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Direct Reciprocal Reflexive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Direct Reflexive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Impersonal of Reflexives	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Impersonal Passive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Impersonal Reflexive	Regularly	
+Italian	70	BE A HUNTER	no verbal counterpart	Indirect Reciprocal Reflexive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Indirect/Dative Reflexive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Locative Alternation	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Middle Reflexive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Object Omission	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Oblique Subject	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Passive	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Possessor-Attribute Alternation	Never	
+Italian	70	BE A HUNTER	no verbal counterpart	Reflexive Passive	Never	
+Italian	71	GRIND	macinare	Anticausative (coded)	Never	
+Italian	71	GRIND	macinare	Anticausative (uncoded)	Never	
+Italian	71	GRIND	macinare	Applicative	Never	
+Italian	71	GRIND	macinare	Body part possessor alternation	Never	
+Italian	71	GRIND	macinare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	71	GRIND	macinare	Conative	Never	
+Italian	71	GRIND	macinare	Direct Reciprocal Reflexive	Never	
+Italian	71	GRIND	macinare	Direct Reflexive	Never	
+Italian	71	GRIND	macinare	Impersonal of Reflexives	Regularly	
+Italian	71	GRIND	macinare	Impersonal Passive	Marginally	
+Italian	71	GRIND	macinare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	71	GRIND	macinare	Indirect Reciprocal Reflexive	Never	
+Italian	71	GRIND	macinare	Indirect/Dative Reflexive	Regularly	
+Italian	71	GRIND	macinare	Locative Alternation	Never	
+Italian	71	GRIND	macinare	Middle Reflexive	Never	
+Italian	71	GRIND	macinare	Object Omission	Regularly	1 > V'.subj[1] > (con+3)
+Italian	71	GRIND	macinare	Oblique Subject	Regularly	
+Italian	71	GRIND	macinare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	71	GRIND	macinare	Possessor-Attribute Alternation	Never	
+Italian	71	GRIND	macinare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	72	WIPE	pulire	Anticausative (coded)	Never	
+Italian	72	WIPE	pulire	Anticausative (uncoded)	Never	
+Italian	72	WIPE	pulire	Applicative	Never	
+Italian	72	WIPE	pulire	Body part possessor alternation	Regularly	
+Italian	72	WIPE	pulire	Causative	Regularly	4 > causV'.subj[4] > 2 (da+3) a+1
+Italian	72	WIPE	pulire	Conative	Never	
+Italian	72	WIPE	pulire	Direct Reciprocal Reflexive	No data	
+Italian	72	WIPE	pulire	Direct Reflexive	Regularly	
+Italian	72	WIPE	pulire	Impersonal of Reflexives	Regularly	
+Italian	72	WIPE	pulire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	72	WIPE	pulire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> da+3)
+Italian	72	WIPE	pulire	Indirect Reciprocal Reflexive	Marginally	
+Italian	72	WIPE	pulire	Indirect/Dative Reflexive	Regularly	
+Italian	72	WIPE	pulire	Locative Alternation	Never	
+Italian	72	WIPE	pulire	Middle Reflexive	Never	
+Italian	72	WIPE	pulire	Object Omission	Regularly	1 > V'.subj[1] > (da+3)
+Italian	72	WIPE	pulire	Oblique Subject	Regularly	
+Italian	72	WIPE	pulire	Passive	Regularly	2 > passV'.subj[2] (da+3) (daParteDi+1)
+Italian	72	WIPE	pulire	Possessor-Attribute Alternation	Never	
+Italian	72	WIPE	pulire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> da+3) (> daParteDi+1)
+Italian	73	DIG	dissotterrare	Anticausative (coded)	Never	
+Italian	73	DIG	dissotterrare	Anticausative (uncoded)	Never	
+Italian	73	DIG	dissotterrare	Applicative	Never	
+Italian	73	DIG	dissotterrare	Body part possessor alternation	Never	
+Italian	73	DIG	dissotterrare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	73	DIG	dissotterrare	Conative	Never	
+Italian	73	DIG	dissotterrare	Direct Reciprocal Reflexive	Never	
+Italian	73	DIG	dissotterrare	Direct Reflexive	Never	
+Italian	73	DIG	dissotterrare	Impersonal of Reflexives	Regularly	
+Italian	73	DIG	dissotterrare	Impersonal Passive	Marginally	
+Italian	73	DIG	dissotterrare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	73	DIG	dissotterrare	Indirect Reciprocal Reflexive	Never	
+Italian	73	DIG	dissotterrare	Indirect/Dative Reflexive	Regularly	
+Italian	73	DIG	dissotterrare	Locative Alternation	Never	
+Italian	73	DIG	dissotterrare	Middle Reflexive	Never	
+Italian	73	DIG	dissotterrare	Object Omission	Never	
+Italian	73	DIG	dissotterrare	Oblique Subject	Regularly	
+Italian	73	DIG	dissotterrare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	73	DIG	dissotterrare	Possessor-Attribute Alternation	Never	
+Italian	73	DIG	dissotterrare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	74	PUSH	spingere	Anticausative (coded)	Never	
+Italian	74	PUSH	spingere	Anticausative (uncoded)	Never	
+Italian	74	PUSH	spingere	Applicative	Never	
+Italian	74	PUSH	spingere	Body part possessor alternation	Never	
+Italian	74	PUSH	spingere	Causative	Regularly	4 > causV'.subj[4] > 2 (LOC3) a+1
+Italian	74	PUSH	spingere	Conative	Never	
+Italian	74	PUSH	spingere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2] (> LOC3)
+Italian	74	PUSH	spingere	Direct Reflexive	Regularly	
+Italian	74	PUSH	spingere	Impersonal of Reflexives	Regularly	
+Italian	74	PUSH	spingere	Impersonal Passive	Regularly	siPassV' (LOC3) (da+1)
+Italian	74	PUSH	spingere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> LOC3)
+Italian	74	PUSH	spingere	Indirect Reciprocal Reflexive	No data	
+Italian	74	PUSH	spingere	Indirect/Dative Reflexive	Regularly	
+Italian	74	PUSH	spingere	Locative Alternation	Never	
+Italian	74	PUSH	spingere	Middle Reflexive	Never	
+Italian	74	PUSH	spingere	Object Omission	Regularly	1 > V'.subj[1] > (LOC3)
+Italian	74	PUSH	spingere	Oblique Subject	Never	
+Italian	74	PUSH	spingere	Passive	Regularly	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	74	PUSH	spingere	Possessor-Attribute Alternation	Never	
+Italian	74	PUSH	spingere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)
+Italian	75	BRING	portare	Anticausative (coded)	Never	
+Italian	75	BRING	portare	Anticausative (uncoded)	Never	
+Italian	75	BRING	portare	Applicative	Never	
+Italian	75	BRING	portare	Body part possessor alternation	Never	
+Italian	75	BRING	portare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	75	BRING	portare	Conative	Never	
+Italian	75	BRING	portare	Direct Reciprocal Reflexive	No data	
+Italian	75	BRING	portare	Direct Reflexive	Never	
+Italian	75	BRING	portare	Impersonal of Reflexives	Regularly	
+Italian	75	BRING	portare	Impersonal Passive	Regularly	siPassV' (a+3) (da+1)
+Italian	75	BRING	portare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	75	BRING	portare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	75	BRING	portare	Indirect/Dative Reflexive	Regularly	
+Italian	75	BRING	portare	Locative Alternation	Never	
+Italian	75	BRING	portare	Middle Reflexive	Never	
+Italian	75	BRING	portare	Object Omission	Never	
+Italian	75	BRING	portare	Oblique Subject	Regularly	
+Italian	75	BRING	portare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	75	BRING	portare	Possessor-Attribute Alternation	Never	
+Italian	75	BRING	portare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	76	STEAL	rubare	Anticausative (coded)	Never	
+Italian	76	STEAL	rubare	Anticausative (uncoded)	Never	
+Italian	76	STEAL	rubare	Applicative	Never	
+Italian	76	STEAL	rubare	Body part possessor alternation	Never	
+Italian	76	STEAL	rubare	Causative	Regularly	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)
+Italian	76	STEAL	rubare	Conative	Never	
+Italian	76	STEAL	rubare	Direct Reciprocal Reflexive	No data	
+Italian	76	STEAL	rubare	Direct Reflexive	Never	
+Italian	76	STEAL	rubare	Impersonal of Reflexives	Regularly	
+Italian	76	STEAL	rubare	Impersonal Passive	Marginally	
+Italian	76	STEAL	rubare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (>a+3) (>da+4)
+Italian	76	STEAL	rubare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2 (>da+4)
+Italian	76	STEAL	rubare	Indirect/Dative Reflexive	Regularly	
+Italian	76	STEAL	rubare	Locative Alternation	Never	
+Italian	76	STEAL	rubare	Middle Reflexive	Never	
+Italian	76	STEAL	rubare	Object Omission	Regularly	1 > V'.subj[1] (a+3) (da+4)
+Italian	76	STEAL	rubare	Oblique Subject	Never	
+Italian	76	STEAL	rubare	Passive	Regularly	2 > passV'.subj[2] (a+3) (da+4) (daParteDi+1)
+Italian	76	STEAL	rubare	Possessor-Attribute Alternation	Never	
+Italian	76	STEAL	rubare	Reflexive Passive	Regularly	2 > siV'.subj[2] (a+3) (da+4) (> daParteDi+1)
+Italian	77	TEACH	insegnare	Anticausative (coded)	Never	
+Italian	77	TEACH	insegnare	Anticausative (uncoded)	Never	
+Italian	77	TEACH	insegnare	Applicative	Never	
+Italian	77	TEACH	insegnare	Body part possessor alternation	Never	
+Italian	77	TEACH	insegnare	Causative	Regularly	5 > causV'.subj[5] > 2 (a+3) da+1
+Italian	77	TEACH	insegnare	Conative	Never	
+Italian	77	TEACH	insegnare	Direct Reciprocal Reflexive	Never	
+Italian	77	TEACH	insegnare	Direct Reflexive	Never	
+Italian	77	TEACH	insegnare	Impersonal of Reflexives	Regularly	
+Italian	77	TEACH	insegnare	Impersonal Passive	Never	
+Italian	77	TEACH	insegnare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> a+3)
+Italian	77	TEACH	insegnare	Indirect Reciprocal Reflexive	Regularly	1/3 > siV'.subj[1/3] > 2
+Italian	77	TEACH	insegnare	Indirect/Dative Reflexive	Never	
+Italian	77	TEACH	insegnare	Locative Alternation	Never	
+Italian	77	TEACH	insegnare	Middle Reflexive	Never	
+Italian	77	TEACH	insegnare	Object Omission	Regularly	1 > V'.subj[1] > (a+3)
+Italian	77	TEACH	insegnare	Oblique Subject	Never	
+Italian	77	TEACH	insegnare	Passive	Regularly	2 > passV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	77	TEACH	insegnare	Possessor-Attribute Alternation	Never	
+Italian	77	TEACH	insegnare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> a+3) (> daParteDi+1)
+Italian	78	HEAR	sentire	Anticausative (coded)	Never	
+Italian	78	HEAR	sentire	Anticausative (uncoded)	Never	
+Italian	78	HEAR	sentire	Applicative	Never	
+Italian	78	HEAR	sentire	Body part possessor alternation	Never	
+Italian	78	HEAR	sentire	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	78	HEAR	sentire	Conative	Never	
+Italian	78	HEAR	sentire	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	78	HEAR	sentire	Direct Reflexive	Never	
+Italian	78	HEAR	sentire	Impersonal of Reflexives	Regularly	
+Italian	78	HEAR	sentire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	78	HEAR	sentire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	78	HEAR	sentire	Indirect Reciprocal Reflexive	Never	
+Italian	78	HEAR	sentire	Indirect/Dative Reflexive	Regularly	
+Italian	78	HEAR	sentire	Locative Alternation	Never	
+Italian	78	HEAR	sentire	Middle Reflexive	Never	
+Italian	78	HEAR	sentire	Object Omission	Regularly	1 > V'.subj[1]
+Italian	78	HEAR	sentire	Oblique Subject	Never	
+Italian	78	HEAR	sentire	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	78	HEAR	sentire	Possessor-Attribute Alternation	Never	
+Italian	78	HEAR	sentire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	78	HEAR	udire	Anticausative (coded)	Never	
+Italian	78	HEAR	udire	Anticausative (uncoded)	Never	
+Italian	78	HEAR	udire	Applicative	Never	
+Italian	78	HEAR	udire	Body part possessor alternation	Never	
+Italian	78	HEAR	udire	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	78	HEAR	udire	Conative	Never	
+Italian	78	HEAR	udire	Direct Reciprocal Reflexive	Never	
+Italian	78	HEAR	udire	Direct Reflexive	Never	
+Italian	78	HEAR	udire	Impersonal of Reflexives	Never	
+Italian	78	HEAR	udire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	78	HEAR	udire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	78	HEAR	udire	Indirect Reciprocal Reflexive	Never	
+Italian	78	HEAR	udire	Indirect/Dative Reflexive	Never	
+Italian	78	HEAR	udire	Locative Alternation	Never	
+Italian	78	HEAR	udire	Middle Reflexive	Never	
+Italian	78	HEAR	udire	Object Omission	Never	
+Italian	78	HEAR	udire	Oblique Subject	Never	
+Italian	78	HEAR	udire	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	78	HEAR	udire	Possessor-Attribute Alternation	Never	
+Italian	78	HEAR	udire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	79	COOK	cuocere	Anticausative (coded)	Regularly	2 > siV'.subj[2]
+Italian	79	COOK	cuocere	Anticausative (uncoded)	Regularly	2 > V'.subj[2]
+Italian	79	COOK	cuocere	Applicative	Never	
+Italian	79	COOK	cuocere	Body part possessor alternation	Never	
+Italian	79	COOK	cuocere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	79	COOK	cuocere	Conative	Never	
+Italian	79	COOK	cuocere	Direct Reciprocal Reflexive	No data	
+Italian	79	COOK	cuocere	Direct Reflexive	Marginally	
+Italian	79	COOK	cuocere	Impersonal of Reflexives	Never	
+Italian	79	COOK	cuocere	Impersonal Passive	Marginally	
+Italian	79	COOK	cuocere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	79	COOK	cuocere	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2
+Italian	79	COOK	cuocere	Indirect/Dative Reflexive	Regularly	
+Italian	79	COOK	cuocere	Locative Alternation	Never	
+Italian	79	COOK	cuocere	Middle Reflexive	Never	
+Italian	79	COOK	cuocere	Object Omission	Never	
+Italian	79	COOK	cuocere	Oblique Subject	Regularly	
+Italian	79	COOK	cuocere	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	79	COOK	cuocere	Possessor-Attribute Alternation	Never	
+Italian	79	COOK	cuocere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	81	APPEAR	apparire	Anticausative (coded)	Never	
+Italian	81	APPEAR	apparire	Anticausative (uncoded)	Never	
+Italian	81	APPEAR	apparire	Applicative	Never	
+Italian	81	APPEAR	apparire	Body part possessor alternation	Never	
+Italian	81	APPEAR	apparire	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	81	APPEAR	apparire	Conative	Never	
+Italian	81	APPEAR	apparire	Direct Reciprocal Reflexive	Never	
+Italian	81	APPEAR	apparire	Direct Reflexive	Never	
+Italian	81	APPEAR	apparire	Impersonal of Reflexives	Never	
+Italian	81	APPEAR	apparire	Impersonal Passive	Never	
+Italian	81	APPEAR	apparire	Impersonal Reflexive	Regularly	siV'
+Italian	81	APPEAR	apparire	Indirect Reciprocal Reflexive	Never	
+Italian	81	APPEAR	apparire	Indirect/Dative Reflexive	Never	
+Italian	81	APPEAR	apparire	Locative Alternation	Never	
+Italian	81	APPEAR	apparire	Middle Reflexive	Never	
+Italian	81	APPEAR	apparire	Object Omission	Never	
+Italian	81	APPEAR	apparire	Oblique Subject	Never	
+Italian	81	APPEAR	apparire	Passive	Never	
+Italian	81	APPEAR	apparire	Possessor-Attribute Alternation	Never	
+Italian	81	APPEAR	apparire	Reflexive Passive	Never	
+Italian	82	BE ILL	essere malato	Anticausative (coded)	Never	
+Italian	82	BE ILL	essere malato	Anticausative (uncoded)	Never	
+Italian	82	BE ILL	essere malato	Applicative	Never	
+Italian	82	BE ILL	essere malato	Body part possessor alternation	Never	
+Italian	82	BE ILL	essere malato	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	82	BE ILL	essere malato	Conative	Never	
+Italian	82	BE ILL	essere malato	Direct Reciprocal Reflexive	Never	
+Italian	82	BE ILL	essere malato	Direct Reflexive	Never	
+Italian	82	BE ILL	essere malato	Impersonal of Reflexives	Never	
+Italian	82	BE ILL	essere malato	Impersonal Passive	Never	
+Italian	82	BE ILL	essere malato	Impersonal Reflexive	Regularly	siV'
+Italian	82	BE ILL	essere malato	Indirect Reciprocal Reflexive	Never	
+Italian	82	BE ILL	essere malato	Indirect/Dative Reflexive	Never	
+Italian	82	BE ILL	essere malato	Locative Alternation	Never	
+Italian	82	BE ILL	essere malato	Middle Reflexive	Never	
+Italian	82	BE ILL	essere malato	Object Omission	Never	
+Italian	82	BE ILL	essere malato	Oblique Subject	Never	
+Italian	82	BE ILL	essere malato	Passive	Never	
+Italian	82	BE ILL	essere malato	Possessor-Attribute Alternation	Never	
+Italian	82	BE ILL	essere malato	Reflexive Passive	Never	
+Italian	83	CRY	piangere	Anticausative (coded)	Never	
+Italian	83	CRY	piangere	Anticausative (uncoded)	Never	
+Italian	83	CRY	piangere	Applicative	Never	
+Italian	83	CRY	piangere	Body part possessor alternation	Never	
+Italian	83	CRY	piangere	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	83	CRY	piangere	Conative	Never	
+Italian	83	CRY	piangere	Direct Reciprocal Reflexive	Never	
+Italian	83	CRY	piangere	Direct Reflexive	Never	
+Italian	83	CRY	piangere	Impersonal of Reflexives	Never	
+Italian	83	CRY	piangere	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	83	CRY	piangere	Impersonal Reflexive	Regularly	siV'
+Italian	83	CRY	piangere	Indirect Reciprocal Reflexive	Never	
+Italian	83	CRY	piangere	Indirect/Dative Reflexive	Never	
+Italian	83	CRY	piangere	Locative Alternation	Never	
+Italian	83	CRY	piangere	Middle Reflexive	Never	
+Italian	83	CRY	piangere	Object Omission	Never	
+Italian	83	CRY	piangere	Oblique Subject	Never	
+Italian	83	CRY	piangere	Passive	Marginally	
+Italian	83	CRY	piangere	Possessor-Attribute Alternation	Never	
+Italian	83	CRY	piangere	Reflexive Passive	Marginally	
+Italian	84	FALL	cadere	Anticausative (coded)	Never	
+Italian	84	FALL	cadere	Anticausative (uncoded)	Never	
+Italian	84	FALL	cadere	Applicative	Never	
+Italian	84	FALL	cadere	Body part possessor alternation	Never	
+Italian	84	FALL	cadere	Causative	Regularly	3 > causV'.subj[3] > 1
+Italian	84	FALL	cadere	Conative	Never	
+Italian	84	FALL	cadere	Direct Reciprocal Reflexive	Never	
+Italian	84	FALL	cadere	Direct Reflexive	Never	
+Italian	84	FALL	cadere	Impersonal of Reflexives	Never	
+Italian	84	FALL	cadere	Impersonal Passive	Never	
+Italian	84	FALL	cadere	Impersonal Reflexive	Regularly	siV'
+Italian	84	FALL	cadere	Indirect Reciprocal Reflexive	Never	
+Italian	84	FALL	cadere	Indirect/Dative Reflexive	Never	
+Italian	84	FALL	cadere	Locative Alternation	Never	
+Italian	84	FALL	cadere	Middle Reflexive	Never	
+Italian	84	FALL	cadere	Object Omission	Never	
+Italian	84	FALL	cadere	Oblique Subject	Never	
+Italian	84	FALL	cadere	Passive	Never	
+Italian	84	FALL	cadere	Possessor-Attribute Alternation	Never	
+Italian	84	FALL	cadere	Reflexive Passive	Never	
+Italian	85	MAKE	fare	Anticausative (coded)	Never	
+Italian	85	MAKE	fare	Anticausative (uncoded)	Never	
+Italian	85	MAKE	fare	Applicative	Never	
+Italian	85	MAKE	fare	Body part possessor alternation	Never	
+Italian	85	MAKE	fare	Causative	Regularly	4 > causV'.subj[4] > 2 (di+3) a+1
+Italian	85	MAKE	fare	Conative	Never	
+Italian	85	MAKE	fare	Direct Reciprocal Reflexive	Never	
+Italian	85	MAKE	fare	Direct Reflexive	Never	
+Italian	85	MAKE	fare	Impersonal of Reflexives	Regularly	
+Italian	85	MAKE	fare	Impersonal Passive	Never	
+Italian	85	MAKE	fare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> di+3)
+Italian	85	MAKE	fare	Indirect Reciprocal Reflexive	Regularly	1/5 > siV'.subj[1/5] > 2 (>di+3)
+Italian	85	MAKE	fare	Indirect/Dative Reflexive	Regularly	
+Italian	85	MAKE	fare	Locative Alternation	Never	
+Italian	85	MAKE	fare	Middle Reflexive	Never	
+Italian	85	MAKE	fare	Object Omission	Never	
+Italian	85	MAKE	fare	Oblique Subject	Never	
+Italian	85	MAKE	fare	Passive	Regularly	2 > passV'.subj[2] (di+3) (daParteDi+1)
+Italian	85	MAKE	fare	Possessor-Attribute Alternation	Never	
+Italian	85	MAKE	fare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> di+3) (> daParteDi+1)
+Italian	86	GET	ricevere	Anticausative (coded)	Never	
+Italian	86	GET	ricevere	Anticausative (uncoded)	Never	
+Italian	86	GET	ricevere	Applicative	Never	
+Italian	86	GET	ricevere	Body part possessor alternation	Never	
+Italian	86	GET	ricevere	Causative	Regularly	4 > causV'.subj[4] > 2 (da+3) a+1
+Italian	86	GET	ricevere	Conative	Never	
+Italian	86	GET	ricevere	Direct Reciprocal Reflexive	Marginally	
+Italian	86	GET	ricevere	Direct Reflexive	Never	
+Italian	86	GET	ricevere	Impersonal of Reflexives	Marginally	
+Italian	86	GET	ricevere	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	86	GET	ricevere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> da+3)
+Italian	86	GET	ricevere	Indirect Reciprocal Reflexive	Marginally	
+Italian	86	GET	ricevere	Indirect/Dative Reflexive	Never	
+Italian	86	GET	ricevere	Locative Alternation	Never	
+Italian	86	GET	ricevere	Middle Reflexive	Never	
+Italian	86	GET	ricevere	Object Omission	Never	
+Italian	86	GET	ricevere	Oblique Subject	Never	
+Italian	86	GET	ricevere	Passive	Regularly	2 > passV'.subj[2] (da+3) (daParteDi+1)
+Italian	86	GET	ricevere	Possessor-Attribute Alternation	Never	
+Italian	86	GET	ricevere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> da+3) (> daParteDi+1)
+Italian	87	WANT	volere	Anticausative (coded)	Never	
+Italian	87	WANT	volere	Anticausative (uncoded)	Never	
+Italian	87	WANT	volere	Applicative	Never	
+Italian	87	WANT	volere	Body part possessor alternation	Never	
+Italian	87	WANT	volere	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	87	WANT	volere	Conative	Never	
+Italian	87	WANT	volere	Direct Reciprocal Reflexive	Regularly	1/2 > siV'.subj[1/2]
+Italian	87	WANT	volere	Direct Reflexive	Never	
+Italian	87	WANT	volere	Impersonal of Reflexives	Marginally	
+Italian	87	WANT	volere	Impersonal Passive	Marginally	
+Italian	87	WANT	volere	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	87	WANT	volere	Indirect Reciprocal Reflexive	Never	
+Italian	87	WANT	volere	Indirect/Dative Reflexive	Never	
+Italian	87	WANT	volere	Locative Alternation	Never	
+Italian	87	WANT	volere	Middle Reflexive	Never	
+Italian	87	WANT	volere	Object Omission	Regularly	1 > V'.subj[1]
+Italian	87	WANT	volere	Oblique Subject	Never	
+Italian	87	WANT	volere	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	87	WANT	volere	Possessor-Attribute Alternation	Never	
+Italian	87	WANT	volere	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	90	CLEAN	pulire	Anticausative (coded)	Never	
+Italian	90	CLEAN	pulire	Anticausative (uncoded)	Never	
+Italian	90	CLEAN	pulire	Applicative	Never	
+Italian	90	CLEAN	pulire	Body part possessor alternation	Regularly	
+Italian	90	CLEAN	pulire	Causative	Regularly	4 > causV'.subj[4] > 2 (da+3) a+1
+Italian	90	CLEAN	pulire	Conative	Never	
+Italian	90	CLEAN	pulire	Direct Reciprocal Reflexive	No data	
+Italian	90	CLEAN	pulire	Direct Reflexive	Regularly	
+Italian	90	CLEAN	pulire	Impersonal of Reflexives	Regularly	
+Italian	90	CLEAN	pulire	Impersonal Passive	Regularly	siPassV' (da+1)
+Italian	90	CLEAN	pulire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> da+3)
+Italian	90	CLEAN	pulire	Indirect Reciprocal Reflexive	Marginally	
+Italian	90	CLEAN	pulire	Indirect/Dative Reflexive	Regularly	
+Italian	90	CLEAN	pulire	Locative Alternation	Never	
+Italian	90	CLEAN	pulire	Middle Reflexive	Never	
+Italian	90	CLEAN	pulire	Object Omission	Regularly	1 > V'.subj[1] > (da+3)
+Italian	90	CLEAN	pulire	Oblique Subject	Regularly	
+Italian	90	CLEAN	pulire	Passive	Regularly	2 > passV'.subj[2] (da+3) (daParteDi+1)
+Italian	90	CLEAN	pulire	Possessor-Attribute Alternation	Never	
+Italian	90	CLEAN	pulire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> da+3) (> daParteDi+1)
+Italian	91	ASSASSINATE	assassinare	Anticausative (coded)	Never	
+Italian	91	ASSASSINATE	assassinare	Anticausative (uncoded)	Never	
+Italian	91	ASSASSINATE	assassinare	Applicative	Never	
+Italian	91	ASSASSINATE	assassinare	Body part possessor alternation	Never	
+Italian	91	ASSASSINATE	assassinare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	91	ASSASSINATE	assassinare	Conative	Never	
+Italian	91	ASSASSINATE	assassinare	Direct Reciprocal Reflexive	Marginally	
+Italian	91	ASSASSINATE	assassinare	Direct Reflexive	Never	
+Italian	91	ASSASSINATE	assassinare	Impersonal of Reflexives	Never	
+Italian	91	ASSASSINATE	assassinare	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	91	ASSASSINATE	assassinare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	91	ASSASSINATE	assassinare	Indirect Reciprocal Reflexive	Never	
+Italian	91	ASSASSINATE	assassinare	Indirect/Dative Reflexive	Never	
+Italian	91	ASSASSINATE	assassinare	Locative Alternation	Never	
+Italian	91	ASSASSINATE	assassinare	Middle Reflexive	Never	
+Italian	91	ASSASSINATE	assassinare	Object Omission	Never	
+Italian	91	ASSASSINATE	assassinare	Oblique Subject	Never	
+Italian	91	ASSASSINATE	assassinare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	91	ASSASSINATE	assassinare	Possessor-Attribute Alternation	Never	
+Italian	91	ASSASSINATE	assassinare	Reflexive Passive	Never	
+Italian	116	BURN (tr)	bruciare	Anticausative (coded)	Regularly	2 > siV'.subj[2] (> con+3)
+Italian	116	BURN (tr)	bruciare	Anticausative (uncoded)	Regularly	2 > V'.subj[2]
+Italian	116	BURN (tr)	bruciare	Applicative	Never	
+Italian	116	BURN (tr)	bruciare	Body part possessor alternation	Regularly	
+Italian	116	BURN (tr)	bruciare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	116	BURN (tr)	bruciare	Conative	Never	
+Italian	116	BURN (tr)	bruciare	Direct Reciprocal Reflexive	Never	
+Italian	116	BURN (tr)	bruciare	Direct Reflexive	Never	
+Italian	116	BURN (tr)	bruciare	Impersonal of Reflexives	Regularly	
+Italian	116	BURN (tr)	bruciare	Impersonal Passive	Regularly	siPassV' (con+3) (da+1)
+Italian	116	BURN (tr)	bruciare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	116	BURN (tr)	bruciare	Indirect Reciprocal Reflexive	Never	
+Italian	116	BURN (tr)	bruciare	Indirect/Dative Reflexive	Marginally	
+Italian	116	BURN (tr)	bruciare	Locative Alternation	Never	
+Italian	116	BURN (tr)	bruciare	Middle Reflexive	Regularly	
+Italian	116	BURN (tr)	bruciare	Object Omission	Never	
+Italian	116	BURN (tr)	bruciare	Oblique Subject	Regularly	
+Italian	116	BURN (tr)	bruciare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	116	BURN (tr)	bruciare	Possessor-Attribute Alternation	Never	
+Italian	116	BURN (tr)	bruciare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> con+3) (> daParteDi+1)
+Italian	125	SINK (tr)	affondare	Anticausative (coded)	Never	
+Italian	125	SINK (tr)	affondare	Anticausative (uncoded)	Regularly	2 > V'.subj[2]
+Italian	125	SINK (tr)	affondare	Applicative	Never	
+Italian	125	SINK (tr)	affondare	Body part possessor alternation	Never	
+Italian	125	SINK (tr)	affondare	Causative	Regularly	4 > causV'.subj[4] > 2 (con+3) a+1
+Italian	125	SINK (tr)	affondare	Conative	Never	
+Italian	125	SINK (tr)	affondare	Direct Reciprocal Reflexive	Never	
+Italian	125	SINK (tr)	affondare	Direct Reflexive	Never	
+Italian	125	SINK (tr)	affondare	Impersonal of Reflexives	Never	
+Italian	125	SINK (tr)	affondare	Impersonal Passive	Marginally	
+Italian	125	SINK (tr)	affondare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2 (> con+3)
+Italian	125	SINK (tr)	affondare	Indirect Reciprocal Reflexive	Never	
+Italian	125	SINK (tr)	affondare	Indirect/Dative Reflexive	Never	
+Italian	125	SINK (tr)	affondare	Locative Alternation	Never	
+Italian	125	SINK (tr)	affondare	Middle Reflexive	Never	
+Italian	125	SINK (tr)	affondare	Object Omission	Never	
+Italian	125	SINK (tr)	affondare	Oblique Subject	Regularly	
+Italian	125	SINK (tr)	affondare	Passive	Regularly	2 > passV'.subj[2] (con+3) (daParteDi+1)
+Italian	125	SINK (tr)	affondare	Possessor-Attribute Alternation	Never	
+Italian	125	SINK (tr)	affondare	Reflexive Passive	Marginally	
+Italian	126	BOIL (tr)	bollire	Anticausative (coded)	Never	
+Italian	126	BOIL (tr)	bollire	Anticausative (uncoded)	Regularly	2 > V'.subj[2]
+Italian	126	BOIL (tr)	bollire	Applicative	Never	
+Italian	126	BOIL (tr)	bollire	Body part possessor alternation	Never	
+Italian	126	BOIL (tr)	bollire	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	126	BOIL (tr)	bollire	Conative	Never	
+Italian	126	BOIL (tr)	bollire	Direct Reciprocal Reflexive	Never	
+Italian	126	BOIL (tr)	bollire	Direct Reflexive	Never	
+Italian	126	BOIL (tr)	bollire	Impersonal of Reflexives	Never	
+Italian	126	BOIL (tr)	bollire	Impersonal Passive	Never	
+Italian	126	BOIL (tr)	bollire	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	126	BOIL (tr)	bollire	Indirect Reciprocal Reflexive	Never	
+Italian	126	BOIL (tr)	bollire	Indirect/Dative Reflexive	Regularly	
+Italian	126	BOIL (tr)	bollire	Locative Alternation	Never	
+Italian	126	BOIL (tr)	bollire	Middle Reflexive	Never	
+Italian	126	BOIL (tr)	bollire	Object Omission	Never	
+Italian	126	BOIL (tr)	bollire	Oblique Subject	Never	
+Italian	126	BOIL (tr)	bollire	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	126	BOIL (tr)	bollire	Possessor-Attribute Alternation	Never	
+Italian	126	BOIL (tr)	bollire	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)
+Italian	128	ROLL (tr)	rotolare	Anticausative (coded)	Never	
+Italian	128	ROLL (tr)	rotolare	Anticausative (uncoded)	Regularly	2 > V'.subj[2]
+Italian	128	ROLL (tr)	rotolare	Applicative	Never	
+Italian	128	ROLL (tr)	rotolare	Body part possessor alternation	Never	
+Italian	128	ROLL (tr)	rotolare	Causative	Regularly	4 > causV'.subj[4] > 2 > a+1
+Italian	128	ROLL (tr)	rotolare	Conative	Never	
+Italian	128	ROLL (tr)	rotolare	Direct Reciprocal Reflexive	Never	
+Italian	128	ROLL (tr)	rotolare	Direct Reflexive	Regularly	
+Italian	128	ROLL (tr)	rotolare	Impersonal of Reflexives	Regularly	
+Italian	128	ROLL (tr)	rotolare	Impersonal Passive	Marginally	
+Italian	128	ROLL (tr)	rotolare	Impersonal Reflexive	Regularly	siV'.subj[2] > 2
+Italian	128	ROLL (tr)	rotolare	Indirect Reciprocal Reflexive	Never	
+Italian	128	ROLL (tr)	rotolare	Indirect/Dative Reflexive	Never	
+Italian	128	ROLL (tr)	rotolare	Locative Alternation	Never	
+Italian	128	ROLL (tr)	rotolare	Middle Reflexive	Never	
+Italian	128	ROLL (tr)	rotolare	Object Omission	Never	
+Italian	128	ROLL (tr)	rotolare	Oblique Subject	Never	
+Italian	128	ROLL (tr)	rotolare	Passive	Regularly	2 > passV'.subj[2] (> daParteDi+1)
+Italian	128	ROLL (tr)	rotolare	Possessor-Attribute Alternation	Never	
+Italian	128	ROLL (tr)	rotolare	Reflexive Passive	Regularly	2 > siV'.subj[2] (> daParteDi+1)

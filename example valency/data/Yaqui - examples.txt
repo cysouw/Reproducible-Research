@@ -1,0 +1,648 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Yaqui	1	Naturalistic written	Inepo soto'ita mesapo mana.		inepo soto'i-ta mesa-po mana	1sg.subj pot-acc table-loc put	I am putting the pot on the table.
+Yaqui	2	Elicited from speaker	Juan mansanata bwa'e.		Juan mansana-ta bwa'e	Juan apple-acc eat	Juan is eating an apple.
+Yaqui	3	Elicited from speaker	Juan Mariata ibaktak.		Juan Maria-ta ibakta-k	Juan Maria-acc hug-pfv	Juan hugged Maria.
+Yaqui	4	Elicited from speaker	Empo tomita etbwa.		empo tomi-ta etbwa	2sg.subj money-acc steal	You are stealing money.
+Yaqui	5	Elicited from speaker	Inepo tomita essok.		inepo tomi-ta esso-k	1sg.subj money-acc hide-pfv	I hid the money.
+Yaqui	6	Elicited from speaker	Kat soto'i-ta kuta-e beba!		kat soto'i-ta kuta-e beba	neg pot-acc stick-instr hit	Do not hit the pot with the stick!
+Yaqui	7	Elicited from speaker	Nim ji'are Alma tea.		nim ji'are Alma tea	1sg.pos girlfriend Alma be_called	My girlfriend's name is Alma.
+Yaqui	8	Elicited from speaker	Jabetau empo chaae?		jabe-ta-u empo chaae	someone-acc-dir 2sg.subj shout	Whom are you shouting at?
+Yaqui	9	Elicited from speaker	Ili uusi jamut ili uusita tejwa ...		ili uusi jamut ili uusi-ta tejwa	small child female small child-acc tell	The girl says to the boy...
+Yaqui	10	Elicited from speaker	Jabeta empo tejwa?		jabe-ta empo tejwa	someone-acc 2sg.subj tell	To whom are you talking?
+Yaqui	11	Naturalistic spoken	U ili uusi chu'uta majae.		u ili uusi chu'u-ta majae	det small child dog-acc fear	The child is afraid of the dog.
+Yaqui	12	Constructed by native speaker linguist	Ume ili uusim ju'upat ja'amu.		ume ili uusi-m ju'upa-t ja'amu	det.pl little child-pl tree-loc climb	The children are climbing at the tree.
+Yaqui	13	Elicited from speaker	U ili uusi tebaure.		u ili uusi tebaure	det little child be_hungry	The child is hungry.
+Yaqui	14	Constructed by native speaker linguist	U jamut ousi kupikte.		u jamut ousi kupikte	det woman much blink.intr	The woman blinks too much.
+Yaqui	15	Constructed by native speaker linguist	Loola ousi tompo wante.		Loola ousi tom-po wante	Lola int stomach-loc feel_pain	Lola is feeling much pain in her stomach.
+Yaqui	16	Constructed by native speaker linguist	Joan jiba aache.		Joan jiba aache	Juan always laugh	Juan always laughs.
+Yaqui	17	Constructed by native speaker linguist	Inepo juka kari bwe'uta tu'ure.		inepo ju-ka kari bwe'u-ta tu'ure	1sg.subj det-acc house big-acc like	I like the big house.
+Yaqui	18	Constructed by native speaker linguist	Inepo Dianata tu'ure.		inepo Diana-ta tu'ure	1sg.subj Diana-acc like	I like Diana.
+Yaqui	19	Constructed by native speaker linguist	U miisi ili uusita gomgomta.		u miisi ili uusi-ta gom~gomta	det cat small child-acc rdp:hab~frighten	The cat frightens the little boy.
+Yaqui	20	Constructed by native speaker linguist	U ili uusi gomtek.		u ili uusi gomte-k	det small child frighten.intr-pfv	The little boy is afraid.
+Yaqui	21	Elicited from speaker	Inepo chu'uta jariwa.		inepo chu'u-ta jariwa	1sg.subj dog-acc search_for	I am searching for my dog.
+Yaqui	22	Elicited from speaker	U jamut o'outa jajase.		u jamut o'ou-ta jajase	det woman male-acc follow	The woman follows the man.
+Yaqui	23	Constructed by native speaker linguist	In maala yo'owe neu bwiika.		in maala yo'owe ne-u bwiika	1sg.pos mother old 1sg-dir sing	My grandmother sings to me.
+Yaqui	24	Constructed by native speaker linguist	In sai Bikampo jo'ak.		in sai Bikam-po jo'ak	1sg.pos brother Vicam-loc live	My brother lives in Vicam.
+Yaqui	25	Elicited from speaker	Bikammeu yuke.		Bikam-me-u yuke	Vicam-nmlz-dir rain	It is raining in Vicam. / It is raining over there in Vicam.
+Yaqui	26	Elicited from speaker	Aapo bachita tuuse.		aapo bachi-ta tuuse	3sg.subj corn-acc grind	He is grinding corn.
+Yaqui	27	Constructed by native speaker linguist	U kaba'i yoemta yumtak.		u kaba'i yoem-ta yumta-k	det horse man-acc push-pfv	The horse collided with the man. / The horse ran into the man.
+Yaqui	28	Constructed by native speaker linguist	Joan kaita ea.		Joan kai-ta ea	Juan neg-acc think	Juan does not think. \ lit. Juan think nothing.
+Yaqui	29	Constructed by native speaker linguist	U bwa'ame pojte.		u bwa'a-me pojte	det eat-nmlz boil	The food is boiling.
+Yaqui	30	Constructed by native speaker linguist	U uusi kaa malawa jikkaja.		u uusi kaa malawa jikkaja	det child neg mother hear	The boy does not hear his mother.
+Yaqui	31	Constructed by native speaker linguist	In sai karota techoapo go'okta.		in sai karo-ta techoa-po go'okta	1sg.pos brother car-acc mud-loc sink.trns	My brother is sinking the car in the mud.
+Yaqui	32	Constructed by native speaker linguist	Ino ne bekta.		ino ne bekta	1sg.refl 1sg shave	I am shaving (myself).
+Yaqui	33	Constructed by native speaker linguist	Inepo na'asota besumak.		inepo na'aso-ta besuma-k	1sg.subj orange-acc peel-pfv	I peeled an orange.
+Yaqui	34	Constructed by native speaker linguist	Manweta kari beetek.		Manwe-ta kari beete-k	Manuel-poss house burn.intr-pfv	Manuel's house burned.
+Yaqui	35	Elicited from speaker	U jamut chu'uta suma.		u jamut chu'u-ta suma	det woman dog-acc tie	The woman ties the dog.
+Yaqui	36	Elicited from speaker	U jamut soto'ipo ba'am to'a.		u jamut soto'i-po ba'am to'a	det woman pot-loc water pour	The woman pours water in the pot.
+Yaqui	37	Constructed by native speaker linguist	Soto'ita ne ba'atapunia.		soto'i-ta ne ba'a-tapunia	pot-acc 1sg water-fill	I am filling the pot with water.
+Yaqui	38	Elicited from speaker	U jamut ili uusita pisammea patta.		u jamut ili uusi-ta pisam-mea patta	det woman small child-acc blanket-instr cover	The woman covers the child with a blanket.
+Yaqui	39	Constructed by native speaker linguist	Ba'am ne mesapo go'otak.		ba'am ne mesa-po go'ota-k	water 1sg table-loc throw.pl-pfv	I threw the water on the table.
+Yaqui	40	Elicited from speaker	U bake'o masota nu'upa .		u bake'o maso-ta nu'upa	det cowboy deer-acc bring	The cowboy brings a deer.
+Yaqui	41	Elicited from speaker	U yoeme jamutta kaba'ita miikak.		u yoeme jamut-ta kaba'i-ta miika-k	det man woman-acc horse-acc give-pfv	The man gave the woman a horse.
+Yaqui	42	Constructed by native speaker linguist	Wajpo weamaka ne ousi chubaktek.		wajpo weamaka ne ousi chubakte-k	while field 1sg int feel_cold-pfv	While I was on the field, I felt cold."
+Yaqui	43	Constructed by native speaker linguist	Joanta ne Potammeu bittua.		Joan-ta ne Potam-me-u bittua	Juan-acc 1sg Potam-nmlz-dir send	I am sending Juan to Potam.
+Yaqui	44	Elicited from speaker	Jamut jissobaita yoemta bittua.		jamut jissobai-ta yoem-ta bittua	woman grilled_meat-acc man-acc show	The woman shows the man the grilled meat.
+Yaqui	45	Elicited from speaker	U jamut karipo jita tu'ute.		u jamut kari-po jita tu'ute	det woman house-loc something wipe	The woman is cleaning her house.
+Yaqui	46	Elicited from speaker	U jamut bukita tu'ute.		u jamut buki-ta tu'ute	det woman child-acc wipe	The woman is cleaning the baby.
+Yaqui	47	Constructed by native speaker linguist	U yoeme o'omtilataka samita chona.		u yoeme o'omtilataka sami-ta chona	det man angrily wall-acc hit	The man beats the wall angrily.
+Yaqui	48	Constructed by native speaker linguist	Manwe wakasta chukta.		Manwe wakas-ta chukta	Manuel meat-acc cut.trns	Manuel cuts the meat.
+Yaqui	49	Constructed by native speaker linguist	Joan juyapo bakotta me'a.		Joan juya-po bakot-ta me'a	Juan scrub-loc snake-acc kill	Juan is killing the snake on the field.
+Yaqui	50	Elicited from speaker	Joan espekota jamtak.		Joan espeko-ta jamta-k	Juan mirror-acc break.trns-pfv	Juan broke the mirror.
+Yaqui	51	Elicited from speaker	U jamut bwiapo yejte.		u jamut bwia-po yejte	det woman scrub-loc sit	The woman is sitting on the field.
+Yaqui	52	Elicited from speaker	U yoeme jamuttau jachin jiia.		u yoeme jamut-ta-u jachin jiia	det man woman-acc-dir something say	The man is saying something to the woman.
+Yaqui	53	Elicited from speaker	In asoa au tebaure tiia.		in asoa au tebaure tiia	1sg.pos son refl be_hungry say.trns	My son says that he is hungry.
+Yaqui	54	Elicited from speaker	U yoeme jachin jiia.		u yoeme jachin jiia	det man something tell	The man is talking.
+Yaqui	55	Elicited from speaker	Inepo Mariata ta'a.		inepo Maria-ta ta'a	1sg.subj Maria-acc know	I know Maria.
+Yaqui	56	Elicited from speaker	In wawai ne pueplou bitbae.		in wawai ne pueplo-u bit-bae	1sg.pos relative 1sg town-dir see-des	I'm going to see my relative in town.
+Yaqui	57	Constructed by native speaker linguist	Marta sanaba beata baksia.		Marta sanaba_beea-ta baksia	Marta corn_leaf-acc wash	Marta is washing the corn leaf.
+Yaqui	58	Constructed by native speaker linguist	U ili yoeme bawepo baima.		u ili yoeme bawe-po baima	det small man river-loc wash.refl	The small man is washing himself (his hands) in the river.
+Yaqui	59	Elicited from speaker	U jamut pajkoau siika.		u jamut pajkoa-u siika	det woman party-dir go	The woman goes to the party.
+Yaqui	60	Constructed by native speaker linguist	U yoeme ji'ibweje.		u yoeme ji'i-bweje	det man something-dig	The man is digging.
+Yaqui	61	Constructed by native speaker linguist	Itepo karita yaa.		itepo kari-ta yaa	1pl house-acc make	We are making the house.
+Yaqui	62	Elicited from speaker	Juan Mariata bwibwise.		Juan Maria-ta bwi~bwise	Juan Maria-acc rdp:iter~touch	Juan is touching Maria.
+Yaqui	63	Elicited from speaker	U ili uusi chu'uta bebak.		u ili uusi chu'u-ta beeba-k	det little child dog-acc hit-pfv	The little child hit the dog.
+Yaqui	64	Naturalistic spoken	Ne baasota mesapo manak.		ne baaso-ta mesa-po mana-k	1sg glass-acc table-loc put-pfv	I put the glass on the table.
+Yaqui	65	Elicited from speaker	Maria liprom essok.		Maria lipro-m esso-k	Maria book-pl hide-pfv	Maria hid the book.
+Yaqui	66	Elicited from speaker	Nim maala chu'utau chaae.		nim maala chu'u-ta-u chaae	1sg.pos mother dog-acc-dir scream	My mother is screaming out for the dog. / My mother is calling the dog.
+Yaqui	67	Elicited from speaker	U ili uusi jamut eteorita neu etejok.		u ili uusi jamut eteori-ta ne-u etejo-k	det little child woman story-acc 1sg-dir tell-pfv	The little girl told me a story.
+Yaqui	68	Elicited from speaker	U ili uusi achaiwatau tomita a'awak.		u ili uusi achai-wa-ta-u tomi-ta a'awa-k	det little child father-poss-acc-dir money-acc ask_for-pfv	The little child asked money from his father.
+Yaqui	69	Elicited from speaker	Juan ja'amuk.		Juan ja'amu-k	Juan climb-pfv	Juan climbed.
+Yaqui	70	Elicited from speaker	Nee puusim kupiktak.		nee puusi-m kupikta-k	1sg eye-pl blink.trns-pfv	I blinked my eyes.
+Yaqui	71	Elicited from speaker	Ne mampo wante.		ne mam-po wante	1sg hand-loc feel_pain	I am feeling pain in my hand. / My hand is hurting.
+Yaqui	72	Elicited from speaker	Melquiades a'ache.		Melquiades a'~ache	Melquiades rdp:hab~laugh	Melquiades laughs. / Melquiades is laughing.
+Yaqui	73	Elicited from speaker	Maria Juan-ta tu'ure.		Maria Juan-ta tu'ure	Maria Juan-acc like	Maria likes Juan.
+Yaqui	74	Elicited from speaker	Ume yoemem ili uusita jariwa.		ume yoeme-m ili uusi-ta jariwa	det.pl man-pl little child-acc search_for	The men are looking for the child.
+Yaqui	75	Elicited from speaker	Wepul jiosata ne librompo siutak.		wepul jiosia-ta ne librom-po siuta-k	one page-acc 1sg book-loc tear.trns-pfv	I tore one page from the book.
+Yaqui	76	Constructed by native speaker linguist	U bake'o kaba'ita jajase.		u bake'o kaba'i-ta jajase	det cowboy horse-acc follow	The cowboy is following the horse.
+Yaqui	77	Constructed by native speaker linguist	Bempo munim bwa'e.		bempo muni-m bwa'e	3pl bean-pl eat	They are eating beans.
+Yaqui	78	Elicited from speaker	Maria bwiikam bwiika.		Maria bwiika-m bwiika	Maria song-pl sing	Maria is singing songs.
+Yaqui	79	Elicited from speaker	Juan Peesiopo jo'ak.		Juan Peesio-po jo'a-k	Juan Hermosillo-loc house-pfv	Juan lives in Hermosillo (lit. Juan is housed in Hermosillo.).
+Yaqui	80	Elicited from speaker	Yuke.		yuke	rain	It is raining.
+Yaqui	81	Elicited from speaker	Juan Mariata ba'au yu'ak.		Juan Maria-ta ba'a-u yu'a-k	Juan Maria-acc water-dir push-pfv	Juan pushed Maria into the water.
+Yaqui	82	Elicited from speaker	Juan pelootam roaro'akta.		Juan peloota-m roa~ro'akta	Juan ball-pl rdp:iter~roll.trns	Juan rolls the ball.
+Yaqui	83	Elicited from speaker	U yoeme jachin ea.		u yoeme jachin ea	det man how think	The man thinks.
+Yaqui	84	Elicited from speaker	Maria munim bwasa.		Maria muni-m bwasa	Maria bean-pl cook.trns	Maria is cooking beans.
+Yaqui	85	Elicited from speaker	Juan Mariata jikkaja.		Juan Maria-ta jikkaja	Juan Maria-acc hear	Juan is hearing Maria.
+Yaqui	86	Elicited from speaker	Juan karita beetak.		Juan kari-ta beeta-k	Juan house-acc burn.trns-pfv	Juan burned the house.
+Yaqui	87	Elicited from speaker	Juan kaba'ita jupau sumak.		Juan kaba'i-ta jupa-u suma-k	Juan horse-acc tree-dir tie-pfv	Juan tied the horse to the tree.
+Yaqui	88	Elicited from speaker	Ne picheta tapunia.		ne piche-ta tapunia	1sg jar-acc fill	I am filling the jar.
+Yaqui	89	Constructed by native speaker linguist	Tinata ne ba'amea tapunia.		tina-ta ne ba'a-mea tapunia	deposit-acc 1sg water-instr fill	I am filling the deposit with water.
+Yaqui	90	Constructed by native speaker linguist	Aapo soto'ita patta.		aapo soto'i-ta patta	3sg.subj pot-acc cover	He is covering the pot.
+Yaqui	91	Elicited from speaker	Neu sewam nu'upak.		ne-u sewa-m nu'upa-k	1sg-dir flower-pl bring-pfv	Somebody brought me flowers.
+Yaqui	92	Elicited from speaker	Juan librom mariata makak.		Juan libro-m Maria-ta maka-k	Juan book-pl Maria-acc give-pfv	Juan gave Maria a book.
+Yaqui	93	Elicited from speaker	Ne ousi chubakte.		ne ousi chubakte	1sg int feel_cold	I am freezing (lit. I am feeling very cold.).
+Yaqui	94	Elicited from speaker	Mariatau ne librom bittuak.		Maria-ta-u ne libro-m bittua-k	Maria-acc-dir 1sg book-pl send-pfv	I sent the book to Maria.
+Yaqui	95	Elicited from speaker	Maria dibuujom Juanta bittuak.		Maria dibuujo-m Juan-ta bit-tua-k	Maria draw-pl Juan-acc see-caus-pfv	Maria showed drawings to Juan.
+Yaqui	96	Constructed by native speaker linguist	Aapo karota tu'ute.		aapo karo-ta tu'ute	3sg.subj car-acc wipe	He is wiping the car.
+Yaqui	97	Elicited from speaker	Juan librom bibliotekau tojak.		Juan libro-m biblioteka-u toja-k	Juan book-pl library-dir carry-pfv	Juan took the books to the library.
+Yaqui	98	Elicited from speaker	Juan chu'uta me'ak.		Juan chu'u-ta me'a-k	Juan dog-acc kill-pfv	Juan killed the dog.
+Yaqui	99	Elicited from speaker	Juan tetae bentanata jamtak.		Juan teta-e bentana-ta jamta-k	Juan stone-instr window-acc break.trns-pfv	Juan broke the window with a stone.
+Yaqui	100	Naturalistic written	Maria weapo yejtek.		Maria wea-po yejte-k	Maria floor-loc sit-pfv	Maria sat down on the floor.
+Yaqui	101	Constructed by native speaker linguist	Jaisa jiia u yoeme?		jaisa jiia u yoeme	what say det man	What is the man saying ?
+Yaqui	102	Constructed by native speaker linguist	Aapo jamutta teuwaria.		aapo jamut-ta teuwa-ria	3sg.subj woman-acc tell-appl	He is saying the time/hour for the woman (in her place).
+Yaqui	103	Elicited from speaker	E'e ti neu jiiak.		e'e ti ne-u jiia-k	no thus 1sg-dir say-pfv	He said 'no' to me.
+Yaqui	104	Elicited from speaker	Ju yoeme uusita ta'an.		ju yoeme uusi-ta ta'a-n	det man child-acc know-ipfv	The man knows the child.
+Yaqui	105	Elicited from speaker	U yoeme uusita bichak.		u yoeme uusi-ta bicha-k	det man child-acc see-pfv	The man saw the child.
+Yaqui	106	Elicited from speaker	Ne Mariata aniak.		ne Maria-ta ania-k	1sg Maria-acc help-pfv	I helped Maria.
+Yaqui	107	Elicited from speaker	Juan karota baksiak.		Juan karo-ta baksia-k	Juan car-acc wash-pfv	Juan washed the car.
+Yaqui	108	Elicited from speaker	Juan merkadou siikak.		Juan merkado-u siika-k	Juan market-dir go-pfv	Juan went to the market.
+Yaqui	109	Elicited from speaker	U jamut bwiata bewje.		u jamut bwia-ta bweje	det woman ground-acc dig	The woman is digging the ground.
+Yaqui	110	Elicited from speaker	Juan mesata yaak.		Juan mesa-ta yaa-k	Juan table-acc make-pfv	Juan made a table.
+Yaqui	111	Elicited from speaker	Chu'u Mariata jukta.		chu'u Maria-ta jukta	dog Maria-acc smell	The dog is smelling/sniffing Maria.
+Yaqui	112	Elicited from speaker	Ume chu'um emo jukjuktak.		ume chu'u-m emo juk~jukta-k	det.pl dog-pl 3pl.refl rdp:iter~smell-pfv	The dogs are smelling themselves.
+Yaqui	113	Elicited from speaker	Juan uusita bitchu.		Juan uusi-ta bitchu	Juan child-acc look_at	Juan is looking at the child.
+Yaqui	114	Elicited from speaker	U yoeme chu'uta majae.		u yoeme chu'u-ta majae	det man dog-acc fear	The man fears the dog. / The man is afraid of the dog.
+Yaqui	115	Elicited from speaker	U yoeme majae.		u yoeme majae	det man fear	The man is fearing. / The man is afraid.
+Yaqui	116	Constructed by native speaker linguist	U jamut uusita a'ana.		u jamut uusi-ta a'ana	det woman child-acc dress	The woman is dressing the child.
+Yaqui	117	Constructed by native speaker linguist	Aapo emo a'ana.		aapo emo a'ana	3sg.subj refl dress	He is getting dressed.
+Yaqui	118	Elicited from speaker	Juan mariata teak.		Juan Maria-ta tea-k	Juan Maria-acc meet-pfv	Juan met Maria.
+Yaqui	119	Elicited from speaker	Juan Mariatau etejok.		Juan Maria-ta-u etejo-k	Juan Maria-acc-dir talk-pfv	Juan talked to Maria.
+Yaqui	120	Elicited from speaker	Juan karita yaak.		Juan kari-ta yaa-k	Juan house-acc make-pfv	Juan built a house.
+Yaqui	121	Elicited from speaker	Juan tomita nu'uka.		Juan tomi-ta nu'u-ka	Juan money-acc take-pfv	Juan took the money.
+Yaqui	122	Elicited from speaker	Juan mariata tominu'uka.		Juan Maria-ta tomi-nu'u-ka	Juan Maria-acc money-take-pfv	Juan takes the money from Maria. \ lit. Juan money-takes from Maria.
+Yaqui	123	Naturalistic written	In maala uusita pu'akta.		in maala uusi-ta pu'akta	1sg.pos mother child-acc load.trns	My mom is carrying the child.
+Yaqui	124	Constructed by native speaker linguist	Karopo maletam ne pu'akta.		karo-po maleta-m ne pu'akta	car-loc case-pl 1sg load.trns	I am loading cases onto the car.
+Yaqui	125	Elicited from speaker	Ne tatasek.		ne ta~tase-k	1sg rdp:iter~cough-pfv	I coughed.
+Yaqui	126	Elicited from speaker	Juan buitek.		Juan buite-k	Juan run-pfv	Juan ran.
+Yaqui	127	Constructed by native speaker linguist	U yoeme kutat yejte.		u yoeme kuta-t yejte	det man log-loc sit	The man sits on the log.
+Yaqui	128	Elicited from speaker	Inepo chepte.		inepo chepte	1sg.subj jump	I jump.
+Yaqui	129	Constructed by native speaker linguist	Wakas korata chepta.		wakas kora-ta chepta	cow fence-acc jump	The cow jumps over the fence.
+Yaqui	130	Elicited from speaker	Melquiades wataktek.		Melquiades watakte-k	Melquiades leave-pfv	Melquiades left. / Melquiades has gone.
+Yaqui	131	Elicited from speaker	U jamut chachaek.		u jamut cha~chae-k	det woman rdp~scream-pfv	The woman screamed.
+Yaqui	132	Constructed by native speaker linguist	U chu'u muuke.		u chu'u muuke	det dog die	The dog is dying.
+Yaqui	133	Elicited from speaker	Ne karota yeewa.		ne karo-ta yeewa	1sg car-acc play.trns	I am playing (with a toy) car.
+Yaqui	134	Elicited from speaker	Juan rojikte.		Juan rojikte	Juan be_sad	Juan is feeling sad.
+Yaqui	135	Elicited from speaker	Juan tajo'ota waacha.		Juan tajo'o-ta waacha	Juan clothes-acc dry	Juan is drying the clothes.
+Yaqui	136	Constructed by native speaker linguist	U ju'upa waake.		u ju'upa waake	det mesquite be_dry	The mesquite is drying.
+Yaqui	137	Elicited from speaker	Joan amureo.		Joan amu-reo	Juan hunt-nmlz	Juan is a hunter.
+Yaqui	138	Elicited from speaker	Maria lingonokta yee mamajta.		Maria lingo-nok-ta yee ma~majta	Maria foreign-speak-acc people rdp~teach	Maria teaches (people) English.
+Yaqui	139	Elicited from speaker	U baaso jamtek.		u baaso jamte-k	det glass break.intr-pfv	The glass broke.
+Yaqui	140	Elicited from speaker	U kari beete.		u kari beete	det house burn.intr	The house is burning.
+Yaqui	141	Elicited from speaker	U yoeme gomtek.		u yoeme gomte-k	det man frighten.intr-pfv	The man got frightened.
+Yaqui	142	Constructed by native speaker linguist	Ume supem siute.		ume supe-m siute	det.pl shirt-pl tear.intr	The shirt is tearing off.
+Yaqui	143	Elicited from speaker	Maria ili uusita bankot yechak.		Maria ili uusi-ta banko-t yecha-k	Maria little child-acc bench-loc sit-pfv	Maria seated the child on the bench.
+Yaqui	144	Elicited from speaker	Juan barkota go'oktak.		Juan barko-ta go'okta-k	Juan boat-acc sink.trns-pfv	Juan sank the boat.
+Yaqui	145	Elicited from speaker	Juan net tatasek.		Juan ne-t ta~tase-k	Juan 1sg-loc rdp~cough-pfv	Juan coughed on me.
+Yaqui	146	Constructed by native speaker linguist	Tiibu wakas soba'ita sipa.		Tiibu wakas soba'i-ta sipa	Tiburcio cow grilled_meat-acc freeze	Tiburcio is freezing the grilled beef.
+Yaqui	147	Elicited from speaker	Na'asota beabesuma.		na'aso-ta bea-besuma	orange-acc skin-peel	Peel the skin off the orange.
+Yaqui	148	Elicited from speaker	Juan mambaksia.		Juan mam-baksia	Juan hand-wash	Juan is washing his hands.
+Yaqui	149	Elicited from speaker	Ne kobawante.		ne koba-wante	1sg head-feel_pain	I am feeling pain in my head (lit. I am feeling head-pain.).
+Yaqui	150	Elicited from speaker	Ume sabanam kaa yee papatta.		ume sabana-m kaa yee pa~patta	det.pl sheet-pl neg people rdp~cover	These sheets do not cover (people).
+Yaqui	151	Elicited from speaker	U yoeme jita bektak.		u yoeme jita bekta-k	det man something shave-pfv	The man shaved (something).
+Yaqui	152	Elicited from speaker	Junu yee aania.		junu yee a~ania	that people rdp:hab~help	That helps.
+Yaqui	153	Elicited from speaker	Juan yee jajjase.		Juan yee ja~jjase	Juan people rdp:hab~follow	Juan chases (people).
+Yaqui	154	Elicited from speaker	U uusi unna jita a'awak.		u uusi unna jita a'awa-k	det child much something ask_for-pfv	The child asked for a lot.
+Yaqui	155	Elicited from speaker	Maria dibuujom yee bitchutuak.		Maria dibuujo-m yee bitchu-tua-k	Maria drawing-pl people see-caus-pfv	Maria showed drawings (to people).
+Yaqui	156	Elicited from speaker	U jamut ili uusita chachaek.		u jamut ili uusi-ta cha~chae-k	det woman little child-acc rdp~shout-pfv	The woman shouted at the little child.
+Yaqui	157	Elicited from speaker	Juan goi kilometrom buitek.		Juan goi kilometro-m bui~buite-k	Juan two kilometer-pl rdp:iter~run-pfv	Juan ran two kilometers.
+Yaqui	158	Elicited from speaker	Juan kaa bicha.		Juan kaa bicha	Juan neg see	Juan can not see.
+Yaqui	159	Elicited from speaker	Juan etejok.		Juan etejo-k	Juan talk-pfv	Juan talked.
+Yaqui	160	Elicited from speaker	Juan mesata tastak.		Juan mesa-ta tasta-k	Juan table-acc beat.trns-pfv	Juan beat the table.
+Yaqui	161	Elicited from speaker	Juan mesatat tastek.		Juan mesa-ta-t taste-k	Juan table-acc-loc beat.intr-pfv	Juan beat (at) the table.
+Yaqui	162	Elicited from speaker	Maria bwiika.		Maria bwiika	Maria sing	Maria is singing. / Maria sings.
+Yaqui	163	Elicited from speaker	Juan pelootampo yeewe.		Juan pelootam-po yeewe	Juan ball-loc play	Juan is playing soccer.
+Yaqui	164	Elicited from speaker	U ili uusi kutae yee bebak.		u ili uusi kuta-e yee beba-k	det little child stick-instr people hit-pfv	The child hit (people) with a stick.
+Yaqui	165	Elicited from speaker	Juan into maria emo ibaktak.		Juan into Maria emo ibakta-k	Juan and Maria refl hug-pfv	Juan and Maria hugged each other.
+Yaqui	166	Elicited from speaker	Maria yee ibaktala.		Maria yee ibakta-la	Maria people hug-ptcp	Maria is hugging around.
+Yaqui	167	Elicited from speaker	Juan au me'ak.		Juan au me'a-k	Juan refl kill-pfv	Juan killed himself.
+Yaqui	168	Elicited from speaker	Ne Peesiopo ta'a.		ne Peesio-po ta'a	1sg Hermosillo-loc know	I know Hermosillo (lit. I know about Hermosillo.).
+Yaqui	169	Elicited from speaker	Maria yee tutu'ulila.		Maria yee tu~tu'uli-la	Maria people rdp:hab~like-ptcp	Maria has liked people/someone.
+Yaqui	170	Elicited from speaker	Juan into Maria emo teak.		Juan into Maria emo tea-k	Juan and Maria refl meet-pfv	Juan and Maria met each other.
+Yaqui	171	Elicited from speaker	Joan into Maria emo ta'ak.		Joan into Maria emo ta'a-k	Juan and Maria refl know-pfv	Juan and Maria met (lit. Juan and Maria knew each other.).
+Yaqui	172	Elicited from speaker	U yeeka yuktuak.		u yeeka yuk-tua-k	det wind rain-caus-pfv	The wind caused it to rain.
+Yaqui	173	Elicited from speaker	U yoeme au bektak.		u yoeme au bekta-k	det man refl shave-pfv	The man shaved himself.
+Yaqui	174	Elicited from speaker	U yoeme kobata au bektariak.		u yoeme koba-ta au bekta-ria-k	det man head-acc refl shave-appl-pfv	The man shaved his head.
+Yaqui	175	Elicited from speaker	U chu'u jita jukjukta.		u chu'u jita juk~jukta	det dog something rdp:iter~smell	The dog is smelling (something).
+Yaqui	176	Elicited from speaker	Maria yee majta.		Maria yee majta	Maria people teach	Maria teaches (people).
+Yaqui	177	Elicited from speaker	Ju yoeme emo baksiak.		ju yoeme emo baksia-k	det man refl wash-pfv	The man washed (himself).
+Yaqui	178	Naturalistic spoken	Baasota ne manak.		baaso-ta ne mana-k	glass-acc 1sg put-pfv	I put the glass there.
+Yaqui	179	Elicited from speaker	Juan ji’ibwa'a.		Juan ji'i-bwa'a	Juan something-eat	Juan is eating.
+Yaqui	180	Elicited from speaker	U mansana bwa'atuk.		u mansana bwa'a-tu-k	det apple eat-inch-pfv	The apple is gone.
+Yaqui	181	Elicited from speaker	U wakas aa bwa'atu.		u wakas aa bwa'a-tu	det cow can eat-inch	This food is easy to eat (lit. This cow (meat) is easy to eat.).
+Yaqui	182	Elicited from speaker	Maria ibaktari.		Maria ibakta-ri	Maria hug-res	Maria is being hugged.
+Yaqui	183	Elicited from speaker	U mansana bwa'ari.		u mansana bwa'a-ri	det apple eat-res	The apple is gone (lit. The apple is eaten.).
+Yaqui	184	Elicited from speaker	Juan uusitau bitchu.		Juan uusi-ta-u bitchu	Juan child-acc-dir see	Juan sees the child.
+Yaqui	185	Elicited from speaker	Juan tu'isi bittu.		Juan tu'isi bit-tu	Juan well see-inch	Juan looks good.
+Yaqui	186	Elicited from speaker	U kawi kaa tu'isi bittu.		u kawi kaa tu'isi bit-tu	det mountain neg well see-inch	The mountain is not well-seen. / The mountain is not easy to see.
+Yaqui	187	Elicited from speaker	Maria majairi.		Maria majai-ri	Maria fear-res	Maria is afraid.
+Yaqui	188	Elicited from speaker	Maria yee majaila.		Maria yee majai-la	Maria people fear-ptcp	Maria has been afraid.
+Yaqui	189	Elicited from speaker	U yoeme chu'utat gomtek.		u yoeme chu'u-ta-t gomte-k	det man dog-acc-loc frighten.intr-pfv	The man got scared of the dog.
+Yaqui	190	Elicited from speaker	Yee gomtari.		yee gomta-ri	people frighten-res	The people are scared. / Someone frightened the people.
+Yaqui	191	Elicited from speaker	Ne Juanta betchi'ibo gomtek.		ne Juan-ta betchi'ibo gomte-k	1sg Juan-acc for frighten.intr-pfv	I got frightened because of Juan.
+Yaqui	192	Elicited from speaker	Ne Juanta Mariata gomtariak.		ne Juan-ta Maria-ta gomta-ria-k	1sg Juan-acc Maria-acc frighten-appl-pfv	I frightened Juan for Maria.
+Yaqui	193	Elicited from speaker	Maria tutu'uliri.		Maria tu~tu'uli-ri	Maria rdp:hab~like-res	Maria has been liked.
+Yaqui	194	Elicited from speaker	U ta'ari.		u ta'a-ri	det know-res	The stuff/person is known.
+Yaqui	195	Elicited from speaker	Juan Mariatat ea.		Juan Maria-ta-t ea	Juan Maria-acc-loc think	Juan is thinking (sexually) of Maria. / Juan is having sex with Maria.
+Yaqui	196	Elicited from speaker	Jita eeri.		jita ee-ri	something think-res	That is what I think.
+Yaqui	197	Elicited from speaker	Ume yoemem siime karipo jita jariwa.		ume yoeme-m siime kari-po jita jariwa	det.pl man-pl all house-loc something search_for	The men searched all the house.
+Yaqui	198	Elicited from speaker	Im karo kaa baksiatu.		im karo kaa baksia-tu	1sg.pos car neg wash-inch	My car does not wash well.
+Yaqui	199	Elicited from speaker	Im karo baksia'ari.		im karo baksia'a-ri	1sg.pos car wash-res	My car is washed.
+Yaqui	200	Elicited from speaker	I saabu kaa tu'isi jita babaksia.		i saabu kaa tu'isi jita ba~baksia	dem soap neg good something rdp~wash	This soap does not wash well.
+Yaqui	201	Elicited from speaker	Juan ne aniak jiyokapo.		Juan ne ania-k jiyoka-po	Juan 1sg help-pfv paint-loc	Juan helped me to paint.
+Yaqui	202	Elicited from speaker	Juan Mariatamak emo teak.		Juan Maria-ta-mak emo tea-k	Juan Maria-acc-com refl meet-pfv	Juan and Maria met each other.
+Yaqui	203	Elicited from speaker	Juan aapelau teak.		Juan aapelau tea-k	Juan by_himself meet-pfv	Juan realized something by himself.
+Yaqui	204	Elicited from speaker	U ili uusi achaiwatau tomita a'aula.		u ili uusi achai-wa-ta-u tomi-ta a'au-la	det little child father-poss-acc-dir money-acc ask_for-ptcp	The child asked money from his father.
+Yaqui	205	Elicited from speaker	U ili uusi unna tomita a'awa.		u ili uusi unna tomi-ta a'awa	det little child much money-acc ask_for	The child asks for a lot of money.
+Yaqui	206	Elicited from speaker	Ne tomita a'awak nim maalata betchi'ibo.		ne tomi-ta a'awa-k nim maala-ta betchi'ibo	1sg money-acc ask_for-pfv 1sg.pos mother-acc for	I asked for money from my mother.
+Yaqui	207	Elicited from speaker	Ne tomita nim maalata a'auriak.		ne tomi-ta nim maala-ta a'au-ria-k	1sg money-acc 1sg.pos mother-acc ask_for-appl-pfv	I asked for money from my mother.
+Yaqui	208	Elicited from speaker	Juan chae.		Juan chae	Juan shout	Juan is shouting. / Juan is screaming.
+Yaqui	209	Elicited from speaker	Juan Mariata teuwak.		Juan Maria-ta teuwa-k	Juan Maria-acc tell-pfv	Juan spoke to Maria. / Juan told something to Maria.
+Yaqui	210	Elicited from speaker	U chu'u Tobim teatuawa.		u chu'u Tobi-m tea-tua-wa	det dog Tobi-acc be_called-caus-pass	The dog was named Tobi.
+Yaqui	211	Elicited from speaker	U chu'u tobimtea.		u chu'u tobi-tea	det dog tobi-be_called	The dog's name is Tobi.
+Yaqui	212	Elicited from speaker	Juan espekopo au bitchu.		Juan espeko-po au bitchu	Juan mirror-loc refl see	Juan looks at himself in the mirror.
+Yaqui	213	Elicited from speaker	U chu'u yee jukjukta.		u chu'u yee juk~jukta	det dog people rdp~smell	The dog is smelling somebody. / The dog is sniffing.
+Yaqui	214	Elicited from speaker	Escaleam ne ja'amula.		escalea-m ne ja'amu-la	stair-pl 1sg climb-ptcp	I climb the stairs.
+Yaqui	215	Naturalistic written	Inepo mamni piso ja'amuk.		inepo mamni piso ja'amu-k	1sg.subj five floor climb-pfv	I climbed to the fifth floor.
+Yaqui	216	Elicited from speaker	Juan au baksia.		Juan au baksia	Juan refl wash	Juan is washing himself.
+Yaqui	217	Elicited from speaker	Juan tu'isi au a'anatua.		Juan tu'isi au a'ana-tua	Juan well refl dress-caus	Juan dresses well.
+Yaqui	218	Constructed by linguist	Ino ne bektak pajko betchi'ibo.		ino ne bekta-k pajko betchi'ibo	1sg.refl 1sg shave-pfv feast for	I shaved (myself) for the feast.
+Yaqui	219	Elicited from speaker	Ne tejwa.		ne tejwa	1sg tell	Speak to me. / Tell me (something).
+Yaqui	220	Elicited from speaker	Juan karita ne yaariak.		Juan kari-ta ne yaa-ria-k	Juan house-acc 1sg make-appl-pfv	Juan built me a house.
+Yaqui	221	Elicited from speaker	U mesatastek.		u mesa-taste-k	det table-beat.intr-pfv	The table was beaten.
+Yaqui	222	Elicited from speaker	Juan into Maria emo bwibwise.		Juan into Maria emo bwi~bwise	Juan and Maria refl rdp:iter~touch	Juan and Maria are touching each other.
+Yaqui	223	Constructed by native speaker linguist	Juan jita bwibwise.		Juan jita bwi~bwise	Juan something rdp:iter~touch	Juan is touching something.
+Yaqui	224	Constructed by native speaker linguist	Juan au bwibwise.		Juan au bwi~bwise	Juan refl rdp:iter~touch	Juan is touching himself.
+Yaqui	225	Elicited from speaker	Ume kuchi'im tu'isi jita chukchukta.		ume kuchi'i-m tu'isi jita chuk~chukta	det.pl knife-pl well something rdp~cut.trns	Those knives cut well.
+Yaqui	226	Elicited from speaker	Mariata tomipo anu'e!		Maria-ta tomi-po a=nu'e	Maria-acc money-loc 3sg=take	Take Maria's money!
+Yaqui	227	Elicited from speaker	Wepul jiosiata ne librom siutariak.		wepul jiosia-ta ne librom siuta-ria-k	one page-acc 1sg book tear.trns-appl-pfv	I tore one page from the book.
+Yaqui	228	Elicited from speaker	Maria Juanta librom essoriak.		Maria Juan-ta libro-m esso-ria-k	Maria Juan-acc book-pl hide-appl-pfv	Maria hid the book from Juan.
+Yaqui	229	Elicited from speaker	Maria eusek.		Maria euse-k	Maria hide-pfv	Maria hid.
+Yaqui	230	Elicited from speaker	Maria Juanta eusiak.		Maria Juan-ta eusia-k	Maria Juan-acc hide-pfv	Maria hid from Juan.
+Yaqui	231	Constructed by native speaker linguist	Joan maasoamureo.		Joan maaso-amu-reo	Juan deer-hunt-nmlz	Juan is a deer-hunter.
+Yaqui	232	Elicited from speaker	Ne librom Juanta makak Mariata betchi'ibo.		ne libro-m Juan-ta maka-k Maria-ta betchi'ibo	1sg book-pl Juan-acc give-pfv Maria-acc for	I gave Juan the book for Maria.
+Yaqui	233	Elicited from speaker	Librom ne yee miikak.		libro-m ne yee miika-k	book-pl 1sg people give-pfv	I gave away the books.
+Yaqui	234	Elicited from speaker	Juan bibliotekata unna jita mamaka.		Juan biblioteka-ta unna jita ma~maka	Juan library-acc much something rdp~give	Juan gives a lot (of things) to the library.
+Yaqui	235	Elicited from speaker	Maria librom makri.		Maria libro-m mak-ri	Maria book-pl give-res	Maria has been given a book.
+Yaqui	236	Elicited from speaker	Librom makri.		libro-m mak-ri	book-pl give-res	Someone was given a book.
+Yaqui	237	Elicited from speaker	Juan librom tojak.		Juan libro-m toja-k	Juan book-pl carry-pfv	Juan carried the book(s).
+Yaqui	238	Elicited from speaker	Juan korbatata sumak.		Juan korbata-ta suma-k	Juan tie-acc tie-pfv	Juan knotted his tie.
+Yaqui	239	Elicited from speaker	Juan kaba'ita wikiae sumak.		Juan kaba'i-ta wikia-e suma-k	Juan horse-acc rope-instr tie-pfv	Juan tied the horse with a rope.
+Yaqui	240	Elicited from speaker	Juan kaba'ita jupau wikiae sumak.		Juan kaba'i-ta jupa-u wikia-e suma-k	Juan horse-acc tree-dir rope-instr tie-pfv	Juan tied the horse to the tree with a rope.
+Yaqui	241	Elicited from speaker	I wikia kaa tu'isi jita susuma.		i wikia kaa tu'isi jita su~suma	dem rope neg well something rdp~tie	This rope does not tie well.
+Yaqui	242	Elicited from speaker	I pichel kaa tu'isi jita yeu toto'a.		i pichel kaa tu'isi jita yeu to~to'a	dem jar neg well something down rdp:hab~pour	This jar does not pour well.
+Yaqui	243	Elicited from speaker	Pichelpo iliiki ba'am to'a.		pichel-po iliiki ba'am to'a	jar-loc few water pour	Pour some water on the jar.
+Yaqui	244	Naturalistic written	Goi ili jamuchim tutukabeak in jo'apo to'e.		goi ili jamuch-im tutukabeak in jo'a-po to'e	two little woman-pl yesterday_at_night 1sg.pos house-loc pour	Yesterday, two girls stayed at my home (to sleep). \ lit. Two little girls yesterday laid at my home."
+Yaqui	245	Elicited from speaker	U jamut rebo'osammea au patta.		u jamut rebo'osa-m-mea au patta	det woman shawl-pl-instr refl cover	The woman is covering herself with the shawl.
+Yaqui	246	Elicited from speaker	Ili uusita sabanammea patta!		ili uusi-ta sabana-m-mea patta	little child-acc sheet-pl-instr cover	Cover the child with the sheets!
+Yaqui	247	Elicited from speaker	U ili uusi jaibu pattari.		u ili uusi jaibu patta-ri sabanam-mea	det little child already cover-res sheet-instr	The child is already covered with the sheet.
+Yaqui	248	Elicited from speaker	U ili uusi achaiwata betchi'ibo au pattak.		u ili uusi achai-wa-ta betchi'ibo au patta-k	det little child father-poss-acc for refl cover-pfv	The child covered himself for the father.
+Yaqui	249	Elicited from speaker	U jamut ili uusita soto'ita tapuniatuak.		u jamut ili uusi-ta soto'i-ta tapunia-tua-k	det woman little child-acc pot-acc fill-caus-pfv	The woman made the child fill the pot.
+Yaqui	250	Elicited from speaker	U pueplo ba'ammea tapuni.		u pueplo ba'am-mea tapun-i	det town water-instr fill-res	The town is covered with water (lit. The town is filled with water.).
+Yaqui	251	Elicited from speaker	U yuku pueplota keepatapuniak.		u yuku pueplo-ta keepa-tapunia-k	det rain town-acc drizzling-fill-pfv	The storm caused the town to be covered in drizzling.
+Yaqui	252	Constructed by native speaker linguist	Ili uusita nee pu'aktaria.		ili uusi-ta nee pu'akta-ria	little child-acc 1sg.obj load.trns-appl	Carry my child for me.
+Yaqui	253	Elicited from speaker	U karo samimmea pu'aktituawa.		u karo samim-mea pu'akti-tua-wa	det car hay-instr load-caus-pass	The car is being loaded with hay.
+Yaqui	254	Elicited from speaker	Juan neu kupiktek.		Juan ne-u kupikte-k	Juan 1sg-dir blink.intr-pfv	Juan blinked at me.
+Yaqui	255	Constructed by native speaker linguist	Ne puusim juantau kupiktak.		ne puusi-m Juan-ta-u kupikta-k	1sg eye-pl Juan-acc-dir blink.trns-pfv	I blinked (my eyes) at Juan.
+Yaqui	256	Elicited from speaker	Inepo wakabwitapo cheptek.		inepo waka-bwita-po chepte-k	1sg.subj cow-dung-loc jump-pfv	I stepped into the cow's dung.
+Yaqui	257	Elicited from speaker	Inepo wakabwitata cheptak.		inepo waka-bwita-ta chepta-k	1sg.subj cow-dung-acc jump-pfv	I jumped over the cow's dung.
+Yaqui	258	Elicited from speaker	Juan wepul partidota yeewek.		Juan wepul partido-ta yeewe-k	Juan one game-acc play-pfv	Juan played a game.
+Yaqui	259	Elicited from speaker	Juan Mariata yeutuak.		Juan Maria-ta yeu-tua-k	Juan Maria-acc play-caus-pfv	Juan made Maria play.
+Yaqui	260	Elicited from speaker	Juan yeewe.		Juan yeewe	Juan play	Juan is playing.
+Yaqui	261	Elicited from speaker	Juan siika.		Juan siika	Juan go	Juan left.
+Yaqui	262	Elicited from speaker	Juan mariatamak siika.		Juan Maria-ta-mak siika	Juan Maria-acc-com go	Juan went with Maria.
+Yaqui	263	Elicited from speaker	Melquiades Suichiu wataktek.		Melquiades Suichi-u watakte-k	Melquiades Vicam-dir leave-pfv	Melquiades left towards Vicam.
+Yaqui	264	Elicited from speaker	Melquiades Hermosiopo yeu wataktek.		Melquiades Hermosio-po yeu watakte-k	Melquiades Hermosillo-loc out leave-pfv	Melquiades left Hermosillo.
+Yaqui	265	Elicited from speaker	Melquiades kamionpo wataktek.		Melquiades kamion-po watakte-k	Melquiades bus-loc leave-pfv	Melquiades left by bus.
+Yaqui	266	Elicited from speaker	Juan jo'ak.		Juan jo'a-k	Juan live-pfv	Juan lives. / Juan has a house.
+Yaqui	267	Elicited from speaker	Im yee atbwawak.		im yee atbwa-wa-k	here people laugh-pass-pfv	They laughed at someone here.
+Yaqui	268	Elicited from speaker	Melquiades Mariatau aache.		Melquiades Maria-ta-u aache	Melquiades Maria-acc-dir laugh	Melquiades is laughing at Maria.
+Yaqui	269	Elicited from speaker	Maria Melquiadesta aattua.		Maria Melquiades-ta aat-tua	Maria Melquiades-acc laugh-caus	Maria is making Melquiades laugh. / Maria makes Melquiades laugh.
+Yaqui	270	Elicited from speaker	Juan Mariatat chae.		Juan Maria-ta-t chae	Juan Maria-acc-loc scream	Juan is screaming at Maria.
+Yaqui	271	Elicited from speaker	Bwa'ame ne tompo wantitua.		bwa'ame ne tom-po wanti-tua	food 1sg stomach-loc feel_pain-caus	The food made me feel pain in the stomach. / The food caused my tummy to ache.
+Yaqui	272	Elicited from speaker	Ne chubaktituak.		ne chubakti-tua-k	1sg feel_cold-caus-pfv	Something caused me to feel cold.
+Yaqui	273	Elicited from speaker	U jeeka ne chubachubaktitua.		u jeeka ne chuba~chubakti-tua	det wind 1sg rdp~feel_cold-caus	The wind caused me to feel cold.
+Yaqui	274	Elicited from speaker	U jeeka yee chubachubaktitua.		u jeeka yee chuba~chubakti-tua	det wind people rdp:hab~feel_cold-caus	The wind causes (everybody) to feel cold.
+Yaqui	275	Elicited from speaker	Mariata uusim apo'ik muucha.		Maria-ta uusi-m apo'ik muucha	Maria-acc child-pl 3sg.pos die.trns	Maria is dying for her children.
+Yaqui	276	Elicited from speaker	U yoeme uka jamutta muktua.		u yoeme u-ka jamut-ta muk-tua	det man det-acc woman-acc die-caus	The man let the woman die.
+Yaqui	277	Elicited from speaker	Maria Juanta rojiktituak.		Maria Juan-ta rojikti-tua-k	Maria Juan-acc be_sad-caus-pfv	Maria made Juan sad.
+Yaqui	278	Elicited from speaker	Ne nim chu'uta betchi'ibo rojikte.		ne nim chu'u-ta betchi'ibo rojikte	1sg 1sg.pos dog-acc for be_sad	I am feeling sad because of my dog.
+Yaqui	279	Elicited from speaker	Bwitiwame Juanta tebaurituak.		bwiti-wa-me Juan-ta tebauri-tua-k	run-pass-nmlz Juan-acc be_hungry-caus-pfv	Running caused Juan to be hungry.
+Yaqui	280	Constructed by native speaker linguist	U kaba'i techoapo go'okte.		u kaba'i techoa-po go'okte	det horse mud-loc sink.intr	The horse is sinking in the mud.
+Yaqui	281	Elicited from speaker	U ta'a sewam yee wawaacharia.		u ta'a sewa-m yee wa~waacha-ria	det sun flower-pl people rdp~be_dry-appl	The sun dries the flowers (for someone).
+Yaqui	282	Elicited from speaker	U tajo'o wachari.		u tajo'o waacha-ri	det clothes dry-res	The clothes are dry.
+Yaqui	283	Elicited from speaker	U ta'a kaa tu'isi jita wawaacha.		u ta'a kaa tu'isi jita wa~waacha	det sun neg well something rdp~be_dry	The sun does not dry well.
+Yaqui	284	Elicited from speaker	U ili uusi chu'uta kutae beebak.		u ili uusi chu'u-ta kuta-e beeba-k	det little child dog-acc stick-instr hit-pfv	The child hit the dog with a stick.
+Yaqui	285	Elicited from speaker	U chu'u yoemta gomtak.		u chu'u yoem-ta gomta-k	det dog man-acc frighten-pfv	The dog frightened the man.
+Yaqui	286	Elicited from speaker	Ne kupiktek.		ne kupikte-k	1sg blink.intr-pfv	I blinked.
+Yaqui	287	Elicited from speaker	Joan tomita joarapo etbwak.		Joan tomi-ta joara-po etbwa-k	Juan money-acc house-loc steal-pfv	Juan stole money from the house.
+Yaqui	288	Elicited from speaker	Joan Mariata tomita etbwariak.		Joan Maria-ta tomi-ta etbwa-ria-k	Juan Maria-acc money-acc steal-appl-pfv	Juan stole money from Maria.
+Yaqui	289	Elicited from speaker	Joanta ne atbwak.		Joan-ta ne atbwa-k	Juan-acc 1sg make_fun_of-pfv	I made fun of Juan.
+Yaqui	290	Constructed by native speaker linguist	Kajlos supem siutak.		Kajlos supem siuta-k	Carlos shirt tear.trns-pfv	Carlos tore off his shirt.
+Yaqui	291	Constructed by native speaker linguist	Tetata ne ro'akta.		teta-ta ne ro'akta	stone-acc 1sg roll.trns	I am rolling the rock. / I roll the rock.
+Yaqui	292	Constructed by native speaker linguist	U teta ro'akte.		u teta ro'akte	det stone roll.intr	The rock rolls. / The rock is rolling.
+Yaqui	293	Elicited from speaker	Ume munim tu'isi bwase.		ume muni-m tu'isi bwase	det.pl bean-pl well cook.intr	Beans cook well.
+Yaqui	294	Constructed by native speaker linguist	In maala wakasta bwasa.		in maala wakas-ta bwasa	1sg.pos mother meat-acc cook.trns	My mother is cooking the meat.
+Yaqui	295	Constructed by native speaker linguist	U wakas unna bwase.		u wakas unna bwase	det meat much cook.intr	The meat is cooking too much.
+Yaqui	296	Constructed by native speaker linguist	U bwa'ame jaibu bwasi.		u bwa'a-me jaibu bwas-i	det eat-nmlz already cook-res	Food is already cooked.
+Yaqui	297	Constructed by native speaker linguist	Jaboiwa kaa jikkaja.		jaboiwa kaa jikkaja	grandfather neg hear	(His) Grandfather does not hear.
+Yaqui	298	Elicited from speaker	U barko go'oktek.		u barko go'okte-k	det boat sink.intr-pfv	The boat sank.
+Yaqui	299	Elicited from speaker	Joan Mariata Peota dibuujom bittuak.		Joan Maria-ta Peo-ta dibuujom bit-tua-k	Juan Maria-acc Pedro-acc drawing.acc see-caus-pfv	Juan made Maria show drawings to Peter.
+Yaqui	300	Constructed by native speaker linguist	Bwiata ne bektabae.		bwia-ta ne bekta-bae	ground-acc 1sg shave-des	I will plow the ground (lit. I will shave the ground (in order to sow something).).
+Yaqui	301	Constructed by native speaker linguist	Itepo abaim besuma.		itepo abai-m besuma	1pl corn-pl peel	We are peeling the corns.
+Yaqui	302	Constructed by native speaker linguist	Ume kutam kaa tu'isi beete.		ume kuta-m kaa tu'isi beete	det.pl firewood-pl neg well burn.intr	The firewood does not burn well.
+Yaqui	303	Constructed by native speaker linguist	Sankoata ne mekka wattak.		sankoa-ta ne mekka watta-k	garbage-acc 1sg far throw.trns-pfv	I threw the litter far away.
+Yaqui	304	Constructed by native speaker linguist	Jume'e na'asom kom watte.		jume'e na'asom kom watte	dem:pl oranges.acc down throw.intr	Those oranges are falling down.
+Yaqui	305	Elicited from speaker	U ili uusi jamut jiosiam maejtrotau nu'upak.		u ili uusi jamut jiosiam maejtro-ta-u nu'upa-k	det little child woman book.acc teacher-acc-dir bring-pfv	The little girl brought the book to the teacher.
+Yaqui	306	Constructed by native speaker linguist	Joan kutachukte.		Joan kuta-chukte	Juan firewood-cut.intr	Juan is cutting firewood.
+Yaqui	307	Elicited from speaker	Joan chu'uta tetae me'ak.		Joan chu'u-ta teta-e me'a-k	Juan dog-acc stone-instr kill-pfv	Juan killed the dog with a stone.
+Yaqui	308	Constructed by native speaker linguist	U yoeme bu'uk teuwa.		u yoeme bu'uk teuwa	det man overmuch tell	The man is talking too much.
+Yaqui	309	Elicited from speaker	Joan a'abo wee-tiia.		Joan a'abo wee-tiia	Juan toward.here walk.sg-say.trns	Juan says he is coming.
+Yaqui	310	Elicited from speaker	Inepo Joanta ta'ak.		inepo Joan-ta ta'a-k	1sg.subj Juan-acc know-pfv	I knew Juan. / I met Juan.
+Yaqui	311	Constructed by native speaker linguist	Si ketgo jamuchim batwepo jipaksia.		si ketgo jamuch-im batwe-po ji-baksia	int early woman-pl river-loc something-wash	Women wash early (in the morning) in the river.
+Yaqui	312	Elicited from speaker	U jamut paapam jariwaka jibweje.		u jamut paapa-m jariwa-ka ji-bweje	det woman potato-pl look_for-ptcp something-dig	The woman is digging looking for potatoes.
+Yaqui	313	Elicited from speaker	U jamut bwiata bweje papaam jariwakai.		u jamut bwia-ta bweje papaa-m jariwa-kai	det woman ground-acc dig potato-pl look_for-ptcp	The woman is digging the ground looking for potatoes.
+Yaqui	314	Constructed by native speaker linguist	U bepa'aria bwiae yaari.		u bepa'aria bwia-e yaa-ri	det ceiling earth-instr make-res	The ceiling is made of earth.
+Yaqui	315	Elicited from speaker	Joan tablamak karita yaak.		Joan tabla-mak kari-ta yaa-k	Juan wood-instr house-acc make-pfv	Juan made a house by using wood. / Juan built a house out of wood.
+Yaqui	316	Elicited from speaker	Joan sementokarita yaak.		Joan semento-kari-ta yaa-k	Juan cement-house-acc make-pfv	Juan made a cement house.
+Yaqui	317	Constructed by native speaker linguist	Chu'um ne majaetua.		chu'u-m ne majae-tua	dog-pl 1sg fear-caus	I frightened the dogs. \ lit. I made the dogs to fear.
+Yaqui	318	Constructed by native speaker linguist	Achaim, emou ne etejobae.		achai-m emo-u ne etejo-bae	mister-pl 2pl.refl-dir 1sg tell-des	Gentlemen, I want to tell you (...)."
+Yaqui	319	Constructed by native speaker linguist	In maala in jakamak binwa etejo.		in maala in jaka-mak binwa etejo	1sg.pos mother 1sg.pos older_aunt-com a_while talk	My mom is talking to my aunt for long.
+Yaqui	320	Constructed by native speaker linguist	U sontao kawiu bichaa buite.		u sontao kawi-u bichaa buite	det soldier mountain-dir towards run	The soldier runs towards the mountain.
+Yaqui	321	Elicited from speaker	U yoeme jamutta uka ili uusita pisammea paktatuak.		u yoeme jamut-ta uka ili uusi-ta pisam-mea patta-tua-k	det man woman-acc det.acc little child-acc blanket-instr cover-caus-pfv	The man made the woman cover the boy with the blanket.
+Yaqui	322	Elicited from speaker	U yoeme jamutta uka baasota ba'ammea tapuniatuak.		u yoeme jamut-ta uka baaso-ta ba'am-mea tapunia-tua-k	det man woman-acc det.acc glass-acc water-instr fill-caus-pfv	The man made the woman fill the glass with water.
+Yaqui	323	Elicited from speaker	U yoeme jamutta karopo pajata pu'aktatuak.		u yoeme jamut-ta karo-po paja-ta pu'akta-tua-k	det man woman-acc car-loc hay-acc load.trns-caus-pfv	The man made the woman load the hay on the car.
+Yaqui	324	Elicited from speaker	U yoeme jamutta baasopo ba'am to'otuak.		u yoeme jamut-ta baaso-po ba'am to'o-tua-k	det man woman-acc glass-loc water pour.rdp-caus-pfv	The man made the woman pour the water into the glass.
+Yaqui	325	Elicited from speaker	U yoeme uka uusi beemeta maejtratau liprom bittuatebok.		u yoeme uka uusi beeme-ta maejtra-ta-u libro-m bittua-tebo-k	det man det.acc child girl-acc teacher-acc-dir book-pl send-ind.caus-pfv	The man made the girl send the book to the teacher.
+Yaqui	326	Elicited from speaker	U yoeme uka uusi beemeta maejtrota liprom maktuak.		u yoeme uka uusi beeme-ta maejtro-ta lipro-m mak-tua-k	det man det.acc child girl-acc teacher-acc book-pl give-caus-pfv	The man made the girl give the teacher the book.
+Yaqui	327	Elicited from speaker	U yoeme uka uusi beemeta librom maejtrata bittuak.		u yoeme uka uusi beeme-ta libro-m maejtra-ta bit-tua-k	det man det.acc child girl-acc book-pl teacher-acc see-caus-pfv	The man made the girl show the book to the teacher.
+Yaqui	328	Elicited from speaker	U yoeme uka uusi beemeta maejtrata librom essotuak.		u yoeme uka uusi beeme-ta maejtra-ta libro-m esso-tua-k	det man det.acc child girl-acc teacher-acc book-pl hide-caus-pfv	The man made the girl hide the book from the teacher.
+Yaqui	329	Elicited from speaker	U yoeme uka uusi beemeta librom jiosiota siutatuak.		u yoeme u-ka uusi beeme-ta libro-m jiosia-ta siuta-tua-k	det man det-acc child girl-acc book-pl page-acc tear.trns-caus-pfv	The man made the woman tear the page from the book.
+Yaqui	330	Elicited from speaker	U yoeme uka uusi beemeta mesapo jaimachirata tu'utetuak.		u yoeme uka uusi beeme-ta mesa-po jaimachira-ta tu'ute-tua-k	det man det.acc child girl-acc table-loc dirt-acc wipe-caus-pfv	The man made the girl wipe the dirt from the table.
+Yaqui	331	Elicited from speaker	U yoeme uka uusita nabasommea panim chuktatuak.		u yoeme u-ka uusi-ta nabasom-mea pan-im chukta-tua-k	det man det-acc child-acc knife-instr bread-pl cut.trns-caus-pfv	The man made the boy cut the bread with a knife.
+Yaqui	332	Elicited from speaker	U yoeme uka uusita bakotta kutae bwistuak.		u yoeme uka uusi-ta bakot-ta kuta-e bwis-tua-k	det man det.acc child-acc snake-acc stick-instr touch-caus-pfv	The man made the boy touch the snake with the stick.
+Yaqui	333	Elicited from speaker	U yoeme uka uusita bakotta kutae bebtuak.		u yoeme uka uusi-ta bakot-ta kuta-e beb-tua-k	det man det.acc child-acc snake-acc stick-instr hit-caus-pfv	The man made the boy hit the snake with a stick.
+Yaqui	334	Elicited from speaker	U yoeme uka uusita bakotta kutae me'etuak.		u yoeme uka uusi-ta bakot-ta kuta-e me'e-tua-k	det man det.acc child-acc snake-acc stick-instr kill-caus-pfv	The man made the boy kill the snake with a stick.
+Yaqui	335	Elicited from speaker	U yoeme uka uusita bentaanata tetae jamtatuak.		u yoeme u-ka uusi-ta bentana-ta teta-e jamta-tua-k	det man det-acc child-acc window-acc stone-instr break.trns-caus-pfv	The man made the boy break the window with a stone.
+Yaqui	336	Elicited from speaker	U yoeme uka uusita karita saamimmea yaatuak.		u yoeme uka uusi-ta kari-ta saamim-mea yaa-tua-k	det man det.acc child-acc house-acc adobe-instr make-caus-pfv	The man made the boy build a house with adobe.
+Yaqui	337	Elicited from speaker	U yoeme uka uusita karisaamita yaatuak.		u yoeme uka uusi-ta karisaami-ta yaa-tua-k	det man det.acc child-acc adobe_house-acc make-caus-pfv	The man made the boy build a house of adobe.
+Yaqui	338	Elicited from speaker	U yoeme uka uusi beemeta uusitau kaa suak ti jiutuak.		u yoeme u-ka uusi beeme-ta uusi-ta-u kaa suak ti jiu-tua-k	det man det-acc child girl-acc child-acc-dir neg smart thus name-caus-pfv	The man made the girl name the boy a dumb.
+Yaqui	339	Elicited from speaker	U yoeme uka jamutta uusi beemetau kaita teuwatuak.		u yoeme uka jamut-ta uusi beeme-ta-u kaita teuwa-tua-k	det man det.acc woman-acc child girl-acc-dir nothing tell-caus-pfv	The man made the woman say nothing to the girl.
+Yaqui	340	Elicited from speaker	U yoeme uka jamutta uusi beemetat chachaaetuak.		u yoeme uka jamut-ta uusi beeme-ta-t cha-chaae-tua-k	det man det.acc woman-acc child girl-acc-loc rdp:hab-shout-caus-pfv	The man made the woman shout at the girl.
+Yaqui	341	Elicited from speaker	U yoeme uusi beemetau etejoita teuwak.		u yoeme uusi beeme-ta-u eteori-ta teuwa-k	det man child girl-acc-dir story-acc tell-pfv	The man told a story to the girl.
+Yaqui	342	Elicited from speaker	U yoeme uka jamutta o'outa tomita betchi'ibo a'autuak.		u yoeme uka jamut-ta o'ou-ta tomi-ta betchi'ibo a'au-tua-k	det man det.acc woman-acc male-acc money-acc for ask_for-caus-pfv	The man made the woman ask the male for money.
+Yaqui	343	Elicited from speaker	U yoeme uka jamutta uusitau jamutta betana a eteuriatuak.		u yoeme uka jamut-ta uusi-ta-u beeme-ta betana a eteu-ria-tua-k	det man det.acc woman-acc child-acc-dir girl-acc about 3sg.obj tell-appl-caus-pfv	The man made the woman tell the boy about the girl.
+Yaqui	344	Elicited from speaker	U yoeme uka jamutta uusita ta'atuak.		u yoeme uka jamut-ta uusi-ta ta'a-tua-k	det man det.acc woman-acc child-acc know-caus-pfv	The man made the woman know the child.
+Yaqui	345	Elicited from speaker	U yoeme uka jamutta uusita bitchutuak.		u yoeme uka jamut-ta uusi-ta bitchu-tua-k	det man det.acc woman-acc child-acc see-caus-pfv	The man made the woman see the boy.
+Yaqui	346	Elicited from speaker	U yoeme uka jamutta uusita gomtatuak.		u yoeme uka jamut-ta uusi-ta gomta-tua-k	det man det.acc woman-acc child-acc frighten.trns-caus-pfv	The man made the woman to frighten the boy.
+Yaqui	347	Elicited from speaker	U yoeme uka jamutta o'outa majaetuak.		u yoeme uka jamut-ta o'ou-ta majae-tua-k	det man det.acc woman-acc male-acc fear-caus-pfv	The man made the woman fear the (other) man.
+Yaqui	348	Elicited from speaker	U yoeme uka jamutta o'outa tu'urituak.		u yoeme uka jamut-ta o'ou-ta tu'uri-tua-k	det man det.acc woman-acc male-acc like-caus-pfv	The man made the woman like (the other) male.
+Yaqui	349	Elicited from speaker	U yoeme uka jamutta uusita jariutuak.		u yoeme uka jamut-ta uusi-ta jariu-tua-k	det man det.acc woman-acc child-acc search_for-caus-pfv	The man made the woman search for the child.
+Yaqui	350	Elicited from speaker	U yoeme uka jamutta uusi beemetamak emo nau teutuak.		u yoeme uka jamut-ta uusi beeme-ta-mak emo nau teu-tua-k	det man det.acc woman-acc child girl-acc-com refl together meet-caus-pfv	The man made the woman meet the girl.
+Yaqui	351	Elicited from speaker	U yoeme uka jamutta uusi beemeta jajatuak.		u yoeme uka jamut-ta uusi beeme-ta jaja-tua-k	det man det.acc woman-acc child girl-acc follow-caus-pfv	The man made the woman follow the girl.
+Yaqui	352	Elicited from speaker	U yoeme uka jamutta uusi beemeta aniatuak.		u yoeme uka jamut-ta uusi beeme-ta ania-tua-k	det man det.acc woman-acc child girl-acc help-caus-pfv	The man made the woman help the girl.
+Yaqui	353	Elicited from speaker	U yoeme uka jamuta paanim bwa'atuak.		u yoeme uka jamu-ta paanim bwa'a-tua-k	det man det.acc woman-acc bread eat-caus-pfv	The man made the woman eat the bread.
+Yaqui	354	Elicited from speaker	U yoeme uka jamutta uka ili uusita a'anatuak.		u yoeme uka jamut-ta uka ili uusi-ta a'ana-tua-k	det man det.acc woman-acc det.acc little child-acc dress-caus-pfv	The man made the woman dress the child.
+Yaqui	355	Elicited from speaker	U yoeme uka jamutta tastuak.		u yoeme uka jamut-ta tas-tua-k	det man det.acc woman-acc cough-caus-pfv	The man made the woman cough.
+Yaqui	356	Elicited from speaker	U yoeme uka jamutta kauta ja'amutuak.		u yoeme uka jamut-ta kawi-t ja'amu-tua-k	det man det.acc woman-acc mountain-loc climb-caus-pfv	The man made the woman climb up the hill.
+Yaqui	357	Elicited from speaker	U yoeme uka jamutta betuk bwiapo yejtetuak.		u yoeme uka jamut-ta betuk bwia-po yejte-tua-k	det man det.acc woman-acc down ground-loc sit-caus-pfv	The man made the woman sit down on the floor.
+Yaqui	358	Elicited from speaker	U yoeme uka ili uusita pisopo buibuitituak.		u yoeme uka ili uusi-ta piso-po bui-buiti-tua-k	det man det.acc little child-acc floor-loc rdp:iter-run-caus-pfv	The man made the child run on the floor.
+Yaqui	359	Elicited from speaker	U yoeme uka ili uusita cheptituak.		u yoeme uka ili uusi-ta chepti-tua-k	det man det.acc little child-acc jump-caus-pfv	The man made the child jump.
+Yaqui	360	Elicited from speaker	U yoeme uka jamutta pueplopo jo'atuak.		u yoeme uka jamut-ta pueplo-po jo'a-tua-k	det man det.acc woman-acc town-loc live-caus-pfv	The man made the woman live in the town.
+Yaqui	361	Elicited from speaker	U yoeme uka jamutta wepul bwiikam bwiiktuak.		u yoeme uka jamut-ta wepul bwiika-m bwiik-tua-k	det man det.acc woman-acc one song-pl sing-caus-pfv	The man made the woman sing a song.
+Yaqui	362	Elicited from speaker	U ili uusi chu'uta wakasta juktatua.		u ili uusi chu'u-ta wakas-ta jukta-tua	det little child dog-acc cow-acc smell-caus	The child makes the dog smell the cow.
+Yaqui	363	Elicited from speaker	U sewa juktai.		u sewa jukta-i	det flower smell-res	The smelled flower. / The flower was smelled.
+Yaqui	364	Elicited from speaker	U sewa aa juktatu.		u sewa aa jukta-tu	det flower can smell-inch	The flower can be smelled.
+Yaqui	365	Elicited from speaker	U sewa juktawa.		u sewa jukta-wa	det flower smell-pass	The flower was smelled.
+Yaqui	366	Elicited from speaker	Maria yee majae.		Maria yee majae	Maria people fear	Maria is feeling fear (because of the people).
+Yaqui	367	Elicited from speaker	Chu'u majaetu.		chu'u majae-tu	dog fear-inch	Someone is scared because of the dog (lit. The fearsome dog (causes someone to be scared).).
+Yaqui	368	Elicited from speaker	U yoeme yee gomtak.		u yoeme yee gomta-k	det man people frighten.trns-pfv	The man frightened people.
+Yaqui	369	Elicited from speaker	Maria jamutta ko'arim tu'uliria.		Maria jamut-ta ko'ari-m tu'uli-ria	Maria woman-acc skirt-pl like-appl	Maria likes the woman's skirt.
+Yaqui	370	Elicited from speaker	Maria aa tu'ulitu.		Maria aa tu'uli-tu	Maria can like-inch	Maria is likeable (for someone). / Maria allows (someone) to woo her.
+Yaqui	371	Constructed by native speaker linguist	Maria tu'uliwa (Joanta betchi'ibo).		Maria tu'uli-wa Joan-ta betchi'ibo	Maria like-pass Juan-gen for	Maria is liked so that she will be Juan's (girlfriend).
+Yaqui	372	Elicited from speaker	U yoeme uka jamutta uusita ta'aria.		u yoeme uka jamut-ta uusi-ta ta'a-ria	det man det.acc woman-acc child-acc know-appl	The man knows the woman's child.
+Yaqui	373	Constructed by native speaker linguist	Aa jita ta'atu.		aa jita ta'a-tu	can something know-inch	It can be known.
+Yaqui	374	Constructed by native speaker linguist	Yee ta'awa.		yee ta'a-wa	people know-pass	The known people. / The known things.
+Yaqui	375	Elicited from speaker	Ne yee ta'a.		ne yee ta'a	1sg.subj people know	I know someone/people.
+Yaqui	376	Elicited from speaker	U yoeme jita ea.		u yoeme jita ea	det man something think	The man is thinking (of doing) something. / The man pretends to do something.
+Yaqui	377	Elicited from speaker	Jita eewa.		jita ee-wa	something think-pass	Something is thought.
+Yaqui	378	Elicited from speaker	U yoeme Joanta uusita jariuria.		u yoeme Joan-ta uusi-ta jariu-ria	det man Juan-acc child-acc search_for-appl	The man is searching for the boy for Juan. / The man is searching for Juan for the boy.
+Yaqui	379	Elicited from speaker	Inepo chu'utat jita jariwa.		inepo chu'u-ta-t jita jariwa	1sg.subj dog-acc-loc something search_for	I am searching for something on the dog.
+Yaqui	380	Elicited from speaker	U chu'u ousi jariuwak.		u chu'u ousi jariu-wa-k	det dog int search_for-pass-pfv	The dog was searched for too much.
+Yaqui	381	Elicited from speaker	U chu'u ousi jariuri.		u chu'u ousi jariu-ri	det dog int search_for-res	The searched for dog. / The dog was searched.
+Yaqui	382	Elicited from speaker	Marta sanaba beeata Joanta baksiaria.		Marta sanaba_beea-ta Joan-ta baksia-ria	Marta corn_leaf-acc Juan-acc wash-appl	Maria is washing the corn leaves for Juan.
+Yaqui	383	Elicited from speaker	Joan ili uusita karota baksiatua.		Joan ili uusi-ta karo-ta baksia-tua	Juan little child-acc car-acc wash-caus	Juan made the child wash the car.
+Yaqui	384	Elicited from speaker	Ume puatom baksiawak.		ume puato-m baksia-wa-k	det.pl dish-pl wash-pass-pfv	The dishes were washed.
+Yaqui	385	Elicited from speaker	U jamut ili uusita baato betchi'ibo a'anak.		u jamut ili uusi-ta baato betchi'ibo a'ana-k	det woman little child-acc baptism for dress-pfv	The woman dressed the child for the baptism. / The woman dressed the child in order to attend the baptism.
+Yaqui	386	Elicited from speaker	U jamut ili uusita o'outa a'anariak.		u jamut ili uusi-ta o'ou-ta a'ana-ria-k	det woman little child-acc male-acc dress-appl-pfv	The woman dressed the child for the man.
+Yaqui	387	Elicited from speaker	U tajo'oria tu'isi a'anatu.		u tajo'oria tu'isi a'ana-tu	det clothes well dress-inch	Clothes dress well.
+Yaqui	388	Elicited from speaker	U ili uusi a'anawak.		u ili uusi a'ana-wa-k	det little child dress-pass-pfv	The child was dressed.
+Yaqui	389	Elicited from speaker	Maria yee a'ana.		Maria yee a'ana	Maria people dress	Maria dresses the people. / Maria is a dressmaker. / Maria sews.
+Yaqui	390	Elicited from speaker	U jamut o'outa kobata bektatuak.		u jamut o'ou-ta koba-ta bekta-tua-k	det woman male-acc head-acc shave-caus-pfv	The woman made the man shave his head.
+Yaqui	391	Elicited from speaker	U jamut o'outa bektak.		u jamut o'ou-ta bekta-k	det woman male-acc shave-pfv	The woman shaved the man.
+Yaqui	392	Elicited from speaker	Joan kobat au bektak.		Joan koba-t au bekta-k	Juan head-loc refl shave-pfv	Juan shaved his head.
+Yaqui	393	Elicited from speaker	Kobapo ne ino bektak.		koba-po ne ino bekta-k	head-loc 1sg.subj 1sg.refl shave-pfv	I shaved on my head. / I shaved my own head.
+Yaqui	394	Elicited from speaker	Bo'am kaa tu'isi bektatu.		bo'am kaa tu'isi bekta-tu	hair neg well shave-inch	Hair does not shave well.
+Yaqui	395	Elicited from speaker	Ume bo'am bektawa.		ume bo'am bekta-wa	det.pl hair shave-pass	The hair is being shaved.
+Yaqui	396	Elicited from speaker	Ume bo'am jaibu bektari.		ume bo'am jaibu bekta-ri	det.pl hair already shave-res	The hair is already shaved.
+Yaqui	397	Elicited from speaker	Ume macham jaibu bektari.		ume macham jaibu bekta-ri	det.pl legs already shave-res	The legs are already shaved.
+Yaqui	398	Elicited from speaker	Maria jamutta o'outa aniaria.		Maria jamut-ta o'ou-ta ania-ria	Maria woman-acc male-acc help-appl	Maria is helping the woman for the man.
+Yaqui	399	Elicited from speaker	Ume jamuchim aniawak.		ume jamuch-im ania-wa-k	det.pl woman-pl help-pass-pfv	The women were helped.
+Yaqui	400	Elicited from speaker	U yoeme uka jamutta ili uusita jajariak.		u yoeme uka jamut-ta ili uusi-ta jaja-ria-k	det man det.acc woman-acc little child-acc follow-appl-pfv	The man followed the woman for the child.
+Yaqui	401	Elicited from speaker	U jamut yoemta uusi jajariak.		u jamut yoem-ta uusi jaja-ria-k	det woman man-gen child follow-appl-pfv	The woman followed the child of the man.
+Yaqui	402	Elicited from speaker	U baakot jajjawa.		u baakot ja-jja-wa	det snake rdp:hab-follow-pass	The snake is being followed. / The snake is being haunted.
+Yaqui	403	Elicited from speaker	Joan yee tea.		Joan yee tea	Juan people meet	Juan is meeting people.
+Yaqui	404	Elicited from speaker	Inepo enchi Mariata eteutuak.		inepo enchi Maria-ta eteu-tua-k	1sg.subj 2sg.obj Maria-acc talk-caus-pfv	I made you talk to Maria.
+Yaqui	405	Elicited from speaker	U eteori jaibu eteuwak.		u eteori jaibu eteu-wa-k	det story already talk-pass-pfv	The story has already been told.
+Yaqui	406	Elicited from speaker	U eteori jaibu eteuri.		u eteori jaibu eteu-ri	det story already talk-res	The story is already told.
+Yaqui	407	Elicited from speaker	Joan eteoritat jita etejok.		Joan eteori-ta-t jita etejo-k	Juan story-acc-loc something talk-pfv	Juan talked about a (specific part of the) story.
+Yaqui	408	Elicited from speaker	Joan eteoripo jita etejok.		Joan eteori-po jita etejo-k	Juan story-loc something talk-pfv	Juan talked about the story.
+Yaqui	409	Constructed by native speaker linguist	U yoeme jamutta ili uusim teuwaria.		u yoeme jamut-ta ili uusi-m teuwa-ria	det man woman-acc little child-pl name-appl	The man called the children of the woman.
+Yaqui	410	Elicited from speaker	Joan Pepepo nee tetewa.		Joan Pepe-po nee te-tewa	Juan Pepe-loc 1sg.obj rdp:hab-name	Juan calls me Pepe.
+Yaqui	411	Elicited from speaker	Joan yee tetewa.		Joan yee te-tewa	Juan people rdp:hab-name	Juan names the people.
+Yaqui	412	Elicited from speaker	Wakas aa yaatu.		wakas aa yaa-tu	meat can make-inch	Meat can be made. / Meat can be prepared/cooked.
+Yaqui	413	Elicited from speaker	U kari yaawa.		u kari yaa-wa	det house make-pass	The house is being made.
+Yaqui	414	Elicited from speaker	Joan yee yaa.		Joan yee yaa	Juan people make	Juan is taking pictures.
+Yaqui	415	Elicited from speaker	Joan karita bentanata jamtariak.		Joan kari-ta bentana-ta jamta-ria-k	Juan house-acc window-acc break.trns-appl-pfv	Juan broke the window of the house.
+Yaqui	416	Elicited from speaker	Melquiades lentem Jesusta jamtariak.		Melquiades lentem Jesus-ta jamta-ria-k	Melquiades eyeglasses Jesus-gen break.trns-appl-pfv	Melquiades broke the eyeglasses of Jesus.
+Yaqui	417	Elicited from speaker	U kari bentana jamtek.		u kari bentana jamte-k	det house window break.intr-pfv	The window of the house broke.
+Yaqui	418	Elicited from speaker	U kari bentana jamtawak.		u kari bentana jamta-wa-k	det house window break.trns-pass-pfv	The window of the house got broken.
+Yaqui	419	Elicited from speaker	U baaso jamtari.		u baaso jamta-ri	det glass break.trns-res	The glass is broken.
+Yaqui	420	Elicited from speaker	Joan jita jamtak.		Joan jita jamta-k	Juan something break.trns-pfv	Juan broke something.
+Yaqui	421	Elicited from speaker	Joan wakasta ne me'eriak.		Joan wakas-ta nee me'e-ria-k	Juan cow-acc 1sg.obj kill-appl-pfv	Juan killed a cow for me.
+Yaqui	422	Elicited from speaker	Joan wakasta ne me'etuak.		Joan wakas-ta nee me'e-tua-k	Juan cow-acc 1sg.obj kill-caus-pfv	Juan made me kill the cow.
+Yaqui	423	Elicited from speaker	U wakas aa me'etu.		u wakas aa me'e-tu	det cow can kill-inch	The cow can be killed.
+Yaqui	424	Elicited from speaker	U taabu me'ewa.		u taabu me'e-wa	det rabbit kill-pass	The rabbit is being killed.
+Yaqui	425	Elicited from speaker	U taabu me'eri.		u taabu me'e-ri	det rabbit kill-res	The rabbit is dead. / The rabbit was killed.
+Yaqui	426	Elicited from speaker	Joan yee me'a.		Joan yee me'a	Juan people kill	Juan kills (people).
+Yaqui	427	Elicited from speaker	U yoeme ili uusita chu'uta bebriak.		u yoeme ili uusi-ta chu'u-ta beb-ria-k	det man little child-acc dog-acc hit-appl-pfv	The man hit the dog for the child.
+Yaqui	428	Elicited from speaker	U yoeme ili uusita chu'u bebriak.		u yoeme ili uusi-ta chu'u beb-ria-k	det man little child-acc dog hit-appl-pfv	The man hit the dog of the child.
+Yaqui	429	Elicited from speaker	U yoeme chu'uta ili uusitau bebak.		u yoeme chu'u-ta ili uusi-ta-u beba-k	det man dog-acc little child-acc-dir hit-pfv	The man sent the dog to bite the child.
+Yaqui	430	Elicited from speaker	Chu'u aa bebtu.		chu'u aa beb-tu	dog can hit-inch	The dog can be hit.
+Yaqui	431	Elicited from speaker	Ne puetata mambebak.		nee pueta-ta mam-beba-k	1sg.subj door-acc hand-hit-pfv	I hit my/the hand with the door.
+Yaqui	432	Elicited from speaker	U chu'u bebwa.		u chu'u beb-wa	det dog hit-pass	The dog was hit.
+Yaqui	433	Constructed by native speaker linguist	U chu'u bebritukan.		u chu'u beb-ri-tu-kan	det dog hit-res-inch-ipfv	The dog had been hit.
+Yaqui	434	Elicited from speaker	Inepo yee beeba.		inepo yee beeba	1sg.subj people hit	I hit people.
+Yaqui	435	Constructed by native speaker linguist	U yoeme jamutta puetau mesata tastaria.		u yoeme jamut-ta pueta-u mesa-ta tasta-ria	det man woman-acc door-dir table-acc beat.trns-appl	The man beats the table of the woman against the door.
+Yaqui	436	Elicited from speaker	U yoeme jamutta karota tastaria.		u yoeme jamut-ta karo-ta tasta-ria	det man woman-acc car-acc beat.trns-appl	The man is moving the car for the woman.
+Yaqui	437	Elicited from speaker	U jamut yoemta karota tastatua.		u jamut yoem-ta karo-ta tasta-tua	det woman man-acc car-acc beat.trns-caus	The woman made the man crash the car.
+Yaqui	438	Elicited from speaker	Joan mesatau tastek.		Joan mesa-ta-u taste-k	Juan table-acc-dir beat.intr-pfv	Juan slammed the door.
+Yaqui	439	Elicited from speaker	U mesa tastawak.		u mesa tasta-wa-k	det table beat.trns-pass-pfv	The table was beaten.
+Yaqui	440	Elicited from speaker	U mesa tastai.		u mesa tasta-i	det table beat.trns-res	The table is beaten.
+Yaqui	441	Elicited from speaker	Joan yee tastasta.		Joan yee tas-tasta	Juan people rdp:hab-beat.trns	Juan hits people.
+Yaqui	442	Elicited from speaker	Nee ko'arim bwijria!		nee ko'arim bwij-ria	1sg.obj skirt touch-appl	Lift my skirt (lit. Lift me the skirt!)!
+Yaqui	443	Elicited from speaker	Joan am mambwibwise.		Joan am mam-bwi-bwise	Juan 3pl.obj hand-rdp:iter-touch	Juan is touching them the hands. / Juan is holding their hands.
+Yaqui	444	Elicited from speaker	Bempo'im mamam bwibwijwa.		bempo'im mama-m bwi-bwij-wa	3pl.poss hand-pl rdp:iter-touch-pass	Their hands were touched.
+Yaqui	445	Constructed by native speaker linguist	Bempo'im mamawam bwibwijri.		bempo'im mama-wa-m bwi-bwij-ri	3pl.poss hand-poss-pl rdp:iter-touch-res	Their hands are touched.
+Yaqui	446	Constructed by native speaker linguist	Nim sailata ne choonim chuktariak.		nim saila-ta ne choonim chukta-ria-k	1sg.pos brother-acc 1sg.subj hair cut.trns-appl-pfv	I cut my brother the hair.
+Yaqui	447	Elicited from speaker	Nim sailata paanim ne chuktariak.		nim saila-ta paanim ne chukta-ria-k	1sg.pos brother-gen bread 1sg.subj cut.trns-appl-pfv	I cut my brother's bread.
+Yaqui	448	Constructed by native speaker linguist	U wikia chuktek.		u wikia chukte-k	det rope cut.intr-pfv	The rope is cut.
+Yaqui	449	Constructed by native speaker linguist	Kuchi'im met chuktek.		kuchi'im me-t chukte-k	knife ?-loc cut.intr-pfv	He cut himself with the knife.
+Yaqui	450	Constructed by native speaker linguist	U wi'i aa chuktatu.		u wi'i aa chukta-tu	det cable can cut.trns-inch	The cable can be cut.
+Yaqui	451	Constructed by native speaker linguist	U wi'i chuktawa.		ume ba'am chukta-wa	det.pl water cut.trns-pass	Water was cut off.
+Yaqui	452	Constructed by native speaker linguist	Ume ba'am chuktai.		ume ba'am chukta-i	det.pl water cut.trns-res	Water is cut off.
+Yaqui	453	Constructed by native speaker linguist	Empo Mariata tomita nu'uriak.		empo Maria-ta tomi-ta nu'u-ria-k	2sg.subj Maria-acc money-acc take-appl-pfv	You took money from Maria.
+Yaqui	454	Constructed by native speaker linguist	U jamut Mariata ili uusita nu'utuak.		u jamut Maria-ta ili uusi-ta nu'u-tua-k	det woman Maria-acc little child-acc take-caus-pfv	The woman made Maria carry the child. / The woman made Maria take the child (in her arms).
+Yaqui	455	Constructed by native speaker linguist	Joan Mariatat tomita nu'uka.		Joan Maria-ta-t tomi-ta nu'u-ka	Juan Maria-acc-loc money-acc take-pfv	Juan took Maria's money. / Juan took the money (that was) on Maria.
+Yaqui	456	Elicited from speaker	Joan Mariatau tomita nu'uka.		Joan Maria-ta-u tomi-ta nu'u-ka	Juan Maria-acc-dir money-acc take-pfv	Juan went to Maria('s place) (to ask) for money \ lit. Juan took money from Maria (i.e. Maria's place).
+Yaqui	457	Elicited from speaker	U tomi aa nu'utu.		u tomi aa nu'u-tu	det money can take-inch	The money can be taken. / The money can be grabbed/stolen.
+Yaqui	458	Elicited from speaker	U tomi nu'uwak.		u tomi nu'u-wa-k	det money take-pass-pfv	The money was taken.
+Yaqui	459	Elicited from speaker	U tomi nu'uri.		u tomi nu'u-ri	det money take-res	The taken money. / The money (has been) taken.
+Yaqui	460	Elicited from speaker	Ne jiosiam wepul jiosiata siutariak.		ne jiosiam wepul jiosia-ta siuta-ria-k	1sg.subj book one page-gen tear.trns-appl-pfv	I tore one page from the book. / I tore one page off of the book.
+Yaqui	461	Constructed by native speaker linguist	Maria supempo siutek.		Maria supem-po siute-k	Maria blouse-loc tear.intr-pfv	Maria's blouse tore.
+Yaqui	462	Elicited from speaker	Supem aa siutatu.		supem aa siuta-tu	blouse can tear.trns-inch	The blouse can be torn.
+Yaqui	463	Constructed by native speaker linguist	Nee supesiute.		nee supe-siute	1sg.obj blouse-tear.intr	My clothes are tearing.
+Yaqui	464	Elicited from speaker	Ume supem siutawak.		ume supem siuta-wa-k	det.pl blouse tear.trns-pass-pfv	The blouse was torn.
+Yaqui	465	Elicited from speaker	Ne jiosiam siutari beetak.		ne jiosiam siuta-ri beeta-k	1sg.subj book.acc tear.trns-res burn.trns-pfv	I burned the torn pages of the book.
+Yaqui	466	Constructed by native speaker linguist	Na'asota ne besumaria.		na'aso-ta nee besuma-ria	orange-acc 1sg.obj peel-appl	Peel the orange for me.
+Yaqui	467	Elicited from speaker	Na'asota ne enchi besumatuak.		na'aso-ta ne enchi besuma-tua-k	orange-acc 1sg.subj 2sg.obj peel-caus-pfv	I made you peel the orange for me.
+Yaqui	468	Elicited from speaker	Na'aso aa besumatu.		na'aso aa besuma-tu	orange can peel-inch	The orange can be peeled.
+Yaqui	469	Constructed by linguist	Empo beabesuma.		empo bea-besuma	2sg.subj husk-peel	You're peeling.
+Yaqui	470	Elicited from speaker	Na'aso besumawak.		na'aso besuma-wa-k	orange peel-pass-pfv	The orange was peeled.
+Yaqui	471	Constructed by native speaker linguist	Uka na'aso besumarita ne bwa'aka.		uka na'aso besuma-ri-ta ne bwa'a-ka	det.acc orange peel-res-acc 1sg.subj eat-pfv	I ate the peeled orange.
+Yaqui	472	Elicited from speaker	Joan jita besuma.		Joan jita besuma	Juan something peel	Juan is peeling (something).
+Yaqui	473	Constructed by native speaker linguist	Maria librom Joantau essok.		Maria librom Joan-ta-u esso-k	Maria book Juan-acc-dir hide.trns-pfv	Maria hid the book at Juan's (place).
+Yaqui	474	Constructed by native speaker linguist	Maria Joantau eusek.		Maria Joan-ta-u euse-k	Maria Juan-acc-dir hide.intr-pfv	Maria hid (herself) at Juan's (place/house).
+Yaqui	475	Constructed by native speaker linguist	Reepam aa essotu.		reepa-m aa esso-tu	ear_ring-pl can hide.trns-inch	Earrings can be hidden.
+Yaqui	476	Constructed by native speaker linguist	Ne tomi essowakamta te'ak.		ne tomi esso-wa-kam-ta te'a-k	1sg.subj money hide.trns-pass-nmlz-acc find-pfv	I found the money that was hidden.
+Yaqui	477	Constructed by native speaker linguist	Ne tomi essorita te'ak.		ne tomi esso-ri-ta te'a-k	1sg.subj money hide.trns-res-acc find-pfv	I found the hidden money.
+Yaqui	478	Elicited from speaker	Maria yee esso.		Maria yee esso	Maria people hide.trns	Maria is hiding (someone).
+Yaqui	479	Elicited from speaker	U yoeme ili uusita jiosiam bittuak.		u yoeme ili uusi-ta jiosiam bittua-k	det man little child-acc book.acc show-pfv	The man showed a book to the child.
+Yaqui	480	Elicited from speaker	U yoeme ili uusita jiosiam jamutta bittuak.		u yoeme ili uusi-ta jiosiam jamut-ta bittua-k	det man little child-acc book.acc woman-acc show-pfv	The man showed the woman the child's book.
+Yaqui	481	Constructed by native speaker linguist	U yoeme ili uusita librompo monom bittuak.		u yoeme ili uusi-ta librom-po mono-m bittua-k	det man little child-acc book-loc image-pl show-pfv	The man showed the child the images from the book.
+Yaqui	482	Constructed by native speaker linguist	Empo jiosiam bittuawak.		empo jiosiam bittua-wa-k	2sg.subj book show-pass-pfv	Your were shown the book.
+Yaqui	483	Constructed by native speaker linguist	Ume jiosiam em bittuarim.		ume jiosiam em bittua-ri	det book 2sg.poss show-res	The book that was shown to you.
+Yaqui	484	Elicited from speaker	Joan jita yee bittuak.		Joan jita yee bittua-k	Juan something people show-pfv	Juan showed something.
+Yaqui	485	Constructed by native speaker linguist	Nee liprom ili uusita makria.		nee liprom ili uusi-ta mak-ria	1sg.obj book little child-acc give-appl	Give the boy the books on my behalf.
+Yaqui	486	Constructed by native speaker linguist	Sewam aa maktu.		sewa-m aa mak-tu	flower-pl can give-inch	Flowers can be given.
+Yaqui	487	Constructed by native speaker linguist	Aapo tajo'orita makwak.		aapo tajo'ori-ta mak-wa-k	3sg.subj clothes-acc give-pass-pfv	He was given a clothes.
+Yaqui	488	Elicited from speaker	Lominkopo tajo'o yee makbawa.		lominko-po tajo'o yee mak-ba-wa	sunday-loc clothes people give-des-pass	The clothes will be given to the people on Sunday.
+Yaqui	489	Constructed by native speaker linguist	Joan Peota jiosiam Potammeu bittuariak.		Joan Peo-ta jiosia-m Potam-me-u bittua-ria-k	Juan Pedro-acc document-pl Potam-nmlz-dir send-appl-pfv	Juan sent Pedro's documents to Potam.
+Yaqui	490	Constructed by native speaker linguist	Sewam a naa bittuatu.		sewa-m aa naa bittua-tu	flower-pl can everywhere send-inch	Flowers can be sent.
+Yaqui	491	Constructed by native speaker linguist	U jiostei aman bittuawak.		u jiostei aman bittua-wa-k	det letter there send-pass-pfv	The letter was sent there.
+Yaqui	492	Constructed by native speaker linguist	U jiostei aman bittuari.		u jiostei aman bittua-ri	det letter there send-res	The letter has been sent. / The sent letter.
+Yaqui	493	Constructed by native speaker linguist	Joan jita yee teu bittua.		Joan jita yee-te-u bittua	Juan something people-acc-dir send	Juan sends something to someone.
+Yaqui	494	Constructed by native speaker linguist	Joan liprom Peota bibliotekau toiriak.		Joan liprom Peo-ta biblioteka-u toi-ria-k	Juan book.pl Pedro-acc library-dir carry-appl-pfv	Juan carried Pedro the books to the library.
+Yaqui	495	Constructed by native speaker linguist	Joan librom Mariatau Peota toiriak.		Joan librom Maria-ta-u Peo-ta toi-ria-k	Juan book.pl Maria-acc-dir Pedro-acc carry-appl-pfv	Juan carried the books to Maria (in behalf of) Pedro.
+Yaqui	496	Elicited from speaker	Joan Peota liprom Mariatau toiriak.		Joan Peo-ta liprom Maria-ta-u toi-ria-k	Juan Pedro-gen book.pl Maria-acc-dir carry-appl-pfv	Juan brought the books of Pedro to Maria. / Juan carried Pedro's books to Maria.
+Yaqui	497	Elicited from speaker	Juan liprom Mariata Peotau toituak.		Juan liprom Maria-ta Peo-ta-u toi-tua-k	Juan book.pl Maria-acc Pedro-acc-dir carry-caus-pfv	Juan made Maria carry Pedro the books.
+Yaqui	498	Elicited from speaker	Inepo ji'itoja.		inepo ji'i-toja	1sg.subj something-carry	I am carrying something.
+Yaqui	499	Elicited from speaker	Munim soto'ipo a toitu.		muni-m soto'i-po aa toi-tu	bean-pl pot-loc can carry-inch	Beans can be carried in the pot.
+Yaqui	500	Elicited from speaker	U ba'a Potammeu toiwa.		u ba'a Potam-me-u toi-wa	det water Potam-nmlz-dir carry-pass	The water is carried to Potam.
+Yaqui	501	Elicited from speaker	Ba'a Peesiou toiri.		ba'a Peesio-u toi-ri	water Hermosillo-dir carry-res	The water has been carried to Hermosillo.
+Yaqui	502	Constructed by native speaker linguist	Juan yee toja.		Juan yee toja	Juan people carry	Juan is carrying someone.
+Yaqui	503	Constructed by native speaker linguist	Ili uusim jamutta sankoata mekka wattaria.		ili uusi-m jamut-ta sankoa-ta mekka watta-ria	little child-pl woman-acc garbage-acc far throw.trns-appl	The children throw the garbage far away to the woman.
+Yaqui	504	Constructed by native speaker linguist	U jamut ili uusim sankoata mekka wattatua.		u jamut ili uusi-m sankoa-ta mekka watta-tua	det woman little child-pl garbage-acc far throw.trns-caus	The woman made the children throw the garbage far away.
+Yaqui	505	Elicited from speaker	Sawam wattek.		sawa-m watte-k	leaf-pl throw.intr-pfv	Leaves fell down.
+Yaqui	506	Constructed by native speaker linguist	Empo taskaim waripo watta.		empo taska-im wari-po watta	2sg.subj tortilla-pl nest-loc throw.trns	Put the tortillas in the nest.
+Yaqui	507	Constructed by native speaker linguist	Aapo tajo'owatte.		aapo tajo'o-watte	3sg.subj clothes-throw.intr	He is throwing off his clothes. / He is getting undressed.
+Yaqui	508	Elicited from speaker	Ume sawam wattawa.		ume sawa-m watta-wa	det.pl leaf-pl throw.trns-pass	The leaves were thrown.
+Yaqui	509	Constructed by native speaker linguist	U ju'upa sawa wattari.		u ju'upa sawa watta-ri	det tree leaf throw.trns-res	The tree's leaves were thrown.
+Yaqui	510	Elicited from speaker	Joan yee mekka watta.		Joan yee mekka watta	Juan people far throw.trns	Juan throws (somebody) far away.
+Yaqui	511	Elicited from speaker	U yoeme Joanta kaba'ita jupau sumaria.		u yoeme Joan-ta kaba'i-ta jupa-u suma-ria	det man Juan-gen horse-acc tree-dir tie-appl	The man tied Juan's horse to the tree.
+Yaqui	512	Constructed by native speaker linguist	U yoeme Joanta kaba'ita sumatua.		u yoeme Joan-ta kaba'i-ta suma-tua	det man Juan-acc horse-acc tie-caus	The man made Juan tie the horse.
+Yaqui	513	Elicited from speaker	U kaba'i aa sumatu.		u kaba'i aa suma-tu	det horse can tie-inch	The horse can be tied.
+Yaqui	514	Constructed by native speaker linguist	Inepo mamsumai.		inepo mam-suma-i	1sg.subj hand-tie-res	My hands are tied.
+Yaqui	515	Constructed by native speaker linguist	Ume pajkome yee suma.		ume pajkome yee suma	det.pl ritual_character people tie	The Paskome ties (people).
+Yaqui	516	Elicited from speaker	Ne baasota mesapo aa manariak.		ne baaso-ta mesa-po a mana-ria-k	1sg.subj glass-acc table-loc 3sg.obj put-appl-pfv	I put him the glass on the table. / I put the glass on the table for him.
+Yaqui	517	Elicited from speaker	Ne baasota mesapo Joanta manariak.		ne baaso-ta mesa-po Joan-ta mana-ria-k	1sg.subj glass-acc table-loc Juan-acc put-appl-pfv	I put the glass on the table for Juan.
+Yaqui	518	Elicited from speaker	Joanta ne mesapo soto'ita manatuak.		Joan-ta ne mesa-po soto'i-ta mana-tua-k	Juan-acc 1sg.subj table-loc pot-acc put-caus-pfv	I made Juan put the pot on the table.
+Yaqui	519	Elicited from speaker	Liprom ne mesapo joak.		liprom ne mesa-po joa-k	book.pl 1sg.subj table-loc put-pfv	I put the books on the table. / I placed the books on the table.
+Yaqui	520	Elicited from speaker	U baaso kaa tu'isi aa manatu.		u baaso kaa tu'isi aa mana-tu	det glass neg well can put-inch	The glass can not be placed well. / The glass is not suitable.
+Yaqui	521	Elicited from speaker	A ba'amana.		a ba'a-mana	3sg.obj water-put	Put it into the water. / Let it soak.
+Yaqui	522	Elicited from speaker	Ba'am ama manawa.		ba'am ama mana-wa	water there put-pass	The water is put there.
+Yaqui	523	Constructed by native speaker linguist	Mariata ne yaabem bolsapo joariak.		Maria-ta ne yaabe-m bolsa-po joa-ria-k	Maria-acc 1sg.subj key-pl bag-loc put-appl-pfv	I put the keys in the bag for Maria.
+Yaqui	524	Elicited from speaker	Mariata ne bolsopo yaabem joatuak.		Maria-ta ne bolso-po yaabe-m joa-tua-k	Maria-acc 1sg.subj purse-loc key-pl put-caus-pfv	I made Maria put the keys in the purse.
+Yaqui	525	Constructed by native speaker linguist	Liprom ne Mariatau mesapo joak.		liprom ne Maria-ta-u mesa-po joa-k	book.pl 1sg.subj Maria-acc-dir table-loc put-pfv	I put the books to Maria on the table.
+Yaqui	526	Constructed by native speaker linguist	Aa mesapo joatu.		aa mesa-po joa-tu	can table-loc put-inch	The table can be set.
+Yaqui	527	Constructed by native speaker linguist	Ume liprom mesapo joawa.		ume lipro-m mesa-po joa-wa	det.pl book-pl table-loc put-pass	The books were put on the table.
+Yaqui	528	Constructed by native speaker linguist	Ume liprom mesapo joari.		ume lipro-m mesa-po joa-ri	det.pl book-pl table-loc put-res	The books are placed on the table.
+Yaqui	529	Elicited from speaker	In maala yee joa.		in maala yee joa	1sg.pos mother people put	My mom seats the people.
+Yaqui	530	Constructed by native speaker linguist	Chu'u puatopo ba'am to'oria.		chu'u puato-po ba'am to'o-ria	dog dish-loc water pour-appl	Pour some water on the dish for the dog.
+Yaqui	531	Elicited from speaker	Soto'ipo ba'am a to'otu.		soto'i-po ba'am aa to'o-tu	pot-loc water can pour-inch	Water can be poured in the pot.
+Yaqui	532	Constructed by native speaker linguist	Ba'am ama kom to'owa.		ba'am ama kom to'o-wa	water there down pour-pass	Water was poured.
+Yaqui	533	Elicited from speaker	Soto'ipo ba'am to'ori.		soto'i-po ba'am to'o-ri	pot-loc water pour-res	Water was poured in the pot.
+Yaqui	534	Constructed by native speaker linguist	Jita ama to'a.		jita ama to'a	something there pour	Pour something there.
+Yaqui	535	Elicited from speaker	Ili uusi beemeta jamutta ili uusita pattariak.		ili uusi beeme-ta jamut-ta ili uusi-ta patta-ria-k	little child girl-acc woman-acc little child-acc cover-appl-pfv	The girl covered the child on behalf of the woman.
+Yaqui	536	Elicited from speaker	Aapo soto'ipo a pattak.		aapo soto'i-po a patta-k	3sg.subj pot-loc 3sg.obj cover-pfv	He covered it in the pot.
+Yaqui	537	Constructed by native speaker linguist	Ili uusi pisammea aa pattatu.		ili uusi pisam-mea aa patta-tu	little child blanket-instr can cover-inch	The child can be covered with the blanket.
+Yaqui	538	Elicited from speaker	U ili uusi sabanamea pattawa.		u ili uusi sabana-mea patta-wa	det little child sheet-instr cover-pass	The child was covered with the sheet.
+Yaqui	539	Elicited from speaker	U yoeme uka jamutta baasota tapuniaria.		u yoeme u-ka jamut-ta baaso-ta tapunia-ria	det man det-acc woman-acc glass-acc fill-appl	The man is filling the glass for the woman.
+Yaqui	540	Elicited from speaker	U yoeme jamuttau baasota tapuniak.		u yoeme jamut-ta-u baaso-ta tapunia-k	det man woman-acc-dir glass-acc fill-pfv	The man filled the glass at the woman('s place).
+Yaqui	541	Constructed by native speaker linguist	U mesa kom tapunak.		u mesa kom tapuna-k	det table down fill.intr-pfv	The table filled.
+Yaqui	542	Constructed by native speaker linguist	Ume ba'am pichelpo aa tapuniatu.		ume ba'am pichel-po aa tapunia-tu	det.pl water jar-loc can fill-inch	The jar can be filled with water.
+Yaqui	543	Constructed by native speaker linguist	Ume ba'am tapuniawa.		ume ba'am tapunia-wa	det.pl water fill-pass	The water was filled in.
+Yaqui	544	Elicited from speaker	U piila tapuniawa.		u piila tapunia-wa	det basin fill-pass	The basin is being filled.
+Yaqui	545	Elicited from speaker	Yee bwa'ammea tompo tapunia.		yee bwa'am-mea tom-po tapunia	people food-instr stomach-loc fill	The stomach is being filled with food. \ lit. He is filing his stomach with food.
+Yaqui	546	Elicited from speaker	Ne pu'akte.		ne pu'akte	1sg.subj load.intr	I am loading.
+Yaqui	547	Elicited from speaker	Ili uusi aa pu'aktatu.		ili uusi aa pu'akta-tu	little child can load.trns-inch	The child can be lifted. / The child can be carried.
+Yaqui	548	Elicited from speaker	Ume samim karopo pu'aktari.		ume sam-im karo-po pu'akta-ri	det.pl adobe-pl car-loc load.trns-res	The adobe has been loaded onto the car.
+Yaqui	549	Elicited from speaker	Ne yee pu'akta.		ne yee pu'akta	1sg.subj people load.trns	I am loading.
+Yaqui	550	Elicited from speaker	Ne in maala mansanata bwa'aria.		ne in maala mansana-ta bwa'a-ria	1sg 1sg.pos mother apple-acc eat-appl	I ate the apple for my mother (in her place).
+Yaqui	551	Elicited from speaker	Totoita ne machampo bwa'e.		totoi-ta ne macham-po bwa'e	chicken-gen 1sg thigh-loc eat	I am eating the chicken's thigh.
+Yaqui	552	Elicited from speaker	Inepo tekwabwa'e.		inepo tekwa-bwa'e	1sg.subj meat-eat	I am eating meat.
+Yaqui	553	Elicited from speaker	Joan yee bwa'e.		Joan yee bwa'e	Juan people eat	Juan is eating.
+Yaqui	554	Elicited from speaker	Joan ili uusita Mariata ibaktaria.		Joan ili uusi-ta Maria-ta ibakta-ria	Juan little child-acc Maria-acc hug-appl	Juan hugs the child for Maria. / Juan greets Maria by hugging the child.
+Yaqui	555	Elicited from speaker	Joan Mariata ili uusita ibaktatuak.		Joan Maria-ta ili uusi-ta ibakta-tua-k	Juan Maria-acc little child-acc hug-caus-pfv	Juan made Maria hug the child.
+Yaqui	556	Constructed by native speaker linguist	Mu'uteka aa ibaktatu.		mu'uteka aa ibakta-tu	pillow can hug-inch	The pillow can be hugged. / The pillow is huggable.
+Yaqui	557	Elicited from speaker	U ili uusi ibaktawa.		u ili uusi ibakta-wa	det little child hug-pass	The child was hugged.
+Yaqui	558	Elicited from speaker	Joan jiosiata aa bitchuria.		Joan jiosia-ta aa bitchu-ria	Juan sheet-acc can look_at-appl	Juan is looking at the sheet.
+Yaqui	559	Elicited from speaker	Inepo jita bitchu.		inepo jita bitchu	1sg.subj something look_at	I am looking at something.
+Yaqui	560	Constructed by native speaker linguist	Joan karipo bitchu.		Joan kari-po bitchu	Juan house-loc look_at	Juan is looking into the house.
+Yaqui	561	Constructed by native speaker linguist	U kawi tu'isi bitchutu.		u kawi tu'isi bitchu-tu	det mountain well look_at-inch	The mountain can be looked at well. / The mountain is easy to see.
+Yaqui	562	Elicited from speaker	U kari bitchuwa.		u kari bitchu-wa	det house look_at-pass	The house has been looked at. / The house is being looked at.
+Yaqui	563	Elicited from speaker	U kari ousi bitchuri.		u kari ousi bitchu-ri	det house int look_at-res	The house has been looked at.
+Yaqui	564	Constructed by native speaker linguist	Empo munim nee bikria.		empo muni-m nee bik-ria	2sg.subj bean-pl 1sg.obj see-appl	See the beans for me (in my place).
+Yaqui	565	Elicited from speaker	U kari bikwa.		u kari bik-wa	det house see-pass	The house was seen.
+Yaqui	566	Elicited from speaker	Maria yee bi'bitcha.		Maria yee bi'-bitcha	Maria people rdp:hab-see	Maria sees people. / Maria is able to see.
+Yaqui	567	Elicited from speaker	Ju tomi aa a'autu.		ju tomi aa a'au-tu	det money can ask_for-inch	The money can be asked for (as a loan).
+Yaqui	568	Elicited from speaker	Ju tomi a'auwa.		ju tomi a'au-wa	det money ask_for-pass	The money was asked for. / The money was required.
+Yaqui	569	Constructed by native speaker linguist	Ju maskai jaibu a'auri.		ju maskai jaibu a'au-ri	det mask already ask_for-res	The mask is already asked for.
+Yaqui	570	Constructed by native speaker linguist	Ju yoeme ili uusita chaairia.		ju yoeme ili uusi-ta chaai-ria	det man little child-acc shout_at-appl	The man shouts at someone for the child (in his place).
+Yaqui	571	Constructed by native speaker linguist	Junu'u kaa chaaitu!		junu'u kaa chaai-tu	dem.sg neg shout_at-inch	That can not be shouted!
+Yaqui	572	Constructed by native speaker linguist	Nim team chachaiwa.		nim team cha-chai-wa	1sg.pos name rdp:iter-shout-pass	My name is being shouted. / My name was shouted.
+Yaqui	573	Constructed by native speaker linguist	Nim team chachairi im maala betchi'ibo...		nim team cha-chai-ri im maala betchi'ibo	1sg.pos name rdp:-shout-res 1sg.pos mother for	My name shouted by my mother...
+Yaqui	574	Constructed by native speaker linguist	Ne a kupikupiktiria.		ne a kupi-kupikti-ria	1sg 3sg.obj rdp:iter-blink-appl	I blink for someone else.
+Yaqui	575	Constructed by native speaker linguist	Ne puusim Juantau kupiktak.		ne puusim Juan-ta-u kupikta-k	1sg.subj eyes Juan-acc-dir blink.trns-pfv	I am blinking my eyes at Juan.
+Yaqui	576	Constructed by native speaker linguist	Jume puusim aa kupiktatu.		jume puusim aa kupikta-tu	det.pl eyes can blink.trns-inch	The eyes can be blinked.
+Yaqui	577	Elicited from speaker	Jume puusim kupikupiktawa.		jume puusim kupi-kupikta-wa	det.pl eyes rdp:iter-blink.trns-pass	The eyes were blinked.
+Yaqui	578	Elicited from speaker	Jume puusim kupikupikta(r)i.		jume puusim kupi-kupikta-(r)i	det.pl eyes rdp:iter-blink.trns-res	The blinked eyes.
+Yaqui	579	Constructed by native speaker linguist	Nee tajria.		nee taj-ria	1sg.obj cough-appl	Cough in my place.
+Yaqui	580	Constructed by native speaker linguist	To'ochia enchi tastua.		to'ochia enchi tas-tua	dust 2sg.obj cough-caus	The dust makes you cough.
+Yaqui	581	Elicited from speaker	Mariatat ne tatase.		Maria-ta-t ne ta-tase	Maria-acc-loc 1sg.subj rdp:iter-cough	I am coughing at Maria.
+Yaqui	582	Constructed by native speaker linguist	Imi'i ala aa tastu.		imi'i ala aa tas-tu	here affir can cough-inch	Here is a good place to cough.
+Yaqui	583	Constructed by native speaker linguist	Jo'arapo tajwa.		jo'ara-po taj-wa	house-loc cough-pass	There is coughing in the house (i.e. Someone has a cough in the house.). / It is coughed in the house.
+Yaqui	584	Constructed by native speaker linguist	Mariatat tajri.		Maria-ta-t taj-ri	Maria-acc-loc cough-res	Maria was coughed at.
+Yaqui	585	Constructed by native speaker linguist	Ju ili uusi ju'upat a ja'amuria.		ju ili uusi ju'upa-t a ja'amu-ria	det little child tree-loc 3sg.obj climb-appl	The child climbed up the tree.
+Yaqui	586	Constructed by native speaker linguist	Ne karou ja'amu.		ne karo-u ja'amu	1sg.subj car-dir climb	I got into the car.
+Yaqui	587	Constructed by native speaker linguist	Ju ju'upa aa ja'amutu.		ju ju'upa aa ja'amu-tu	det tree can climb-inch	The tree can be climbed up.
+Yaqui	588	Constructed by native speaker linguist	U yoeme kawja'amu.		u yoeme kaw-ja'amu	det man mountain-climb	The man climbs the mountain. / The man is doing mountain-climbing.
+Yaqui	589	Constructed by native speaker linguist	Kawiu ja'amuwa.		kawi-u ja'amu-wa	mountain-dir climb-pass	The mountain was climbed.
+Yaqui	590	Elicited from speaker	Kawiu ja'amuri.		kawi-u ja'amu-ri	mountain-dir climb-res	The mountain was climbed. / The climbed mountain.
+Yaqui	591	Elicited from speaker	Ne senuk buitiria.		ne senuk buiti-ria	1sg.subj other run-appl	I am running for someone (i.e. in his place).
+Yaqui	592	Constructed by native speaker linguist	Ji'inkolawempo ne buite.		ji'inkolawem-po ne buite	race-loc 1sg.subj run	I am running the race. / I am running in the race.
+Yaqui	593	Constructed by native speaker linguist	Ji'inkolawame aa buititu.		ji'inkolawame aa buiti-tu	race can run-inch	The race can be run.
+Yaqui	594	Constructed by native speaker linguist	Mekka bichaa tenniwa.		mekka bichaa tenni-wa	far towards run.pl-pass	People ran far away. (lit. It was run far away.)
+Yaqui	595	Constructed by native speaker linguist	Ne a bwiikria.		ne a bwiik-ria	1sg.subj 3sg.obj sing-appl	I am singing for someone.
+Yaqui	596	Elicited from speaker	Jume bwiikam aa bwiiktu.		jume bwiika-m aa bwiik-tu	det.pl song-pl can sing-inch	The songs can be sung.
+Yaqui	597	Constructed by native speaker linguist	Jume bwiikam bwiikwa im maalata betchi'ibo.		jume bwiika-m bwiik-wa im maala-ta betchi'ibo	det.pl song-pl sing-pass 1sg.pos mother-acc for	The songs are being sung for my mother.
+Yaqui	598	Constructed by native speaker linguist	Junu'ume bwiikam jaibu bwiikri.		junu'ume bwiika-m jaibu bwiik-ri	dem.pl song-pl already sing-res	Those songs were sung.
+Yaqui	599	Constructed by native speaker linguist	Ne enchi wataktiria.		ne enchi watakti-ria	1sg.subj 2sg.obj leave-appl	I am leaving (this place) for you.
+Yaqui	600	Elicited from speaker	Jesus Melquiadesta wataktiria.		Jesus Melquiades-ta watakti-ria	Jesus Melquiades-acc leave-appl	Jesus is leaving for Melquiades.
+Yaqui	601	Elicited from speaker	Ju chu'u aa wataktatu.		ju chu'u aa watakta-tu	det dog can leave.trns-inch	The dog can be left.
+Yaqui	602	Constructed by native speaker linguist	Ju ili uusi wataktawa.		ju ili uusi watakta-wa	det little child leave.trns-pass	The child is being left.
+Yaqui	603	Constructed by native speaker linguist	Ju ili uusi wataktari.		ju ili uusi watakta-ri	det little child leave.trns-res	The child was left.
+Yaqui	604	Elicited from speaker	Ju ili uusi jita watakta.		ju ili uusi jita watakta	det little child something leave.trns	The child is leaving something.
+Yaqui	605	Constructed by native speaker linguist	Imi'i ala aa jo'atu.		imi'i ala aa jo'a-tu	here affir can live-inch	This (here) is a good place to live in.
+Yaqui	606	Constructed by native speaker linguist	Bikampo alleaka jo'awa.		Bikam-po alleaka jo'a-wa	Vicam-loc happily live-pass	Vicam is a place to live in happily.
+Yaqui	607	Constructed by native speaker linguist	Aapo nee yejteria.		aapo nee yejte-ria	3sg.subj 1sg.obj sit-appl	He sits in order to ambush me.
+Yaqui	608	Constructed by native speaker linguist	U yoeme uka jamutta yejteria.		u yoeme uka jamut-ta yejte-ria	det man det.acc woman-acc sit-appl	The man sits in order to ambush the woman.
+Yaqui	609	Constructed by native speaker linguist	Junu'u bankot aa yejtetu.		junu'u banko-t aa yejte-tu	dem.sg bench-loc can sit-inch	That bank is a place to sit on.
+Yaqui	610	Constructed by native speaker linguist	Ju banko jaibu yejteri.		ju banko jaibu yejte-ri	det bench already sit-res	Someone has sat on the bench. / The bank has already been sat on.
+Yaqui	611	Constructed by native speaker linguist	Aapo jamutta atbwaria.		aapo jamut-ta atbwa-ria	3sg.subj woman-acc laugh-appl	He is laughing at his woman.
+Yaqui	612	Elicited from speaker	Aapo jamuttau aache.		aapo jamut-ta-u aache	3sg.subj woman-acc-dir laugh	He is laughing because of the woman.
+Yaqui	613	Constructed by native speaker linguist	Imi'i ala aa attu.		imi'i ala aa at-tu	here affir can laugh-inch	Here is a good place to laugh.
+Yaqui	614	Constructed by native speaker linguist	Ju balichia atbwari.		ju balichia atbwa-ri	det joke laugh-res	The joke was laughed about.
+Yaqui	615	Constructed by native speaker linguist	Aa tompo wantitu.		aa tom-po wanti-tu	can stomach-loc feel_pain-inch	Pain can be felt in the stomach.
+Yaqui	616	Constructed by native speaker linguist	Imi'i ala aa chubaktitu.		imi'i ala aa chubakti-tu	here affir can feel_cold-inch	Here is certainly a place to feel cold.
+Yaqui	617	Constructed by native speaker linguist	Chubaktiwa.		chubakti-wa	feel_cold-pass	It is cold. / It feels cold.
+Yaqui	618	Constructed by native speaker linguist	Aapo jamutta mukria.		aapo jamut-ta muk-ria	3sg.subj woman-acc die-appl	(S)he is dying for the woman.
+Yaqui	619	Constructed by native speaker linguist	Imi'i ala aa muktu.		imi'i ala aa muk-tu	here affir can die-inch	Here is certainly a place to die.
+Yaqui	620	Constructed by native speaker linguist	Empo ili uusita jamutta yeewaria.		empo ili uusi-ta jamut-ta yeewa-ria	2sg.subj little child-acc woman-acc play.trns-appl	You are playing with the child of the woman.
+Yaqui	621	Constructed by native speaker linguist	Ju chu'u aa yeewatu.		ju chu'u aa yeewa-tu	det dog can play.trns-inch	One can play with the dog.
+Yaqui	622	Elicited from speaker	Jume pelootam yeewawa.		jume pelootam yeewa-wa	det.pl ball play.trns-pass	The ball was played.
+Yaqui	623	Constructed by native speaker linguist	Ili uusi yeewari.		ili uusi yeewa-ri	little child play.trns-res	It is OK to play with the baby.
+Yaqui	624	Constructed by native speaker linguist	Imi'i ala aa rojiktitu.		imi'i ala aa rojikti-tu	here affir can be_sad-inch	Here is certainly a place to be sad.
+Yaqui	625	Constructed by native speaker linguist	In jo'arapo rojiktiwa.		in jo'ara-po rojikti-wa	1sg.pos home-loc be_sad-pass	There is sadness in my home.
+Yaqui	626	Constructed by native speaker linguist	Imi'i ala aa tebauritu.		imi'i ala aa tebauri-tu	here affir can be_hungry-inch	Here is certainly a place to be hungry.
+Yaqui	627	Constructed by native speaker linguist	Junu'u jo'arapo tebauriwa.		junu'u jo'ara-po tebauri-wa	dem.sg home-loc be_hungry-pass	There is hungriness in that house.
+Yaqui	628	Elicited from speaker	Ili uusi jamutta ro'aktiria.		ili uusi jamut-ta ro'akti-ria	little child woman-acc roll-appl	The child is rolling for the woman.
+Yaqui	629	Constructed by native speaker linguist	Ju tetta aa ro'aktatu.		ju tetta aa ro'akta-tu	det stone can roll.trns-inch	The stone can roll.
+Yaqui	630	Constructed by native speaker linguist	Junum ala aa kom ro'aktiwa.		junum ala aa kom ro'akti-wa	there affir can down roll-pass	There certainly is a place to roll down.
+Yaqui	631	Constructed by native speaker linguist	Ju tetta kom ro'aktiri.		ju tetta kom ro'akti-ri	det stone down roll-res	The stone was rolled.
+Yaqui	632	Constructed by native speaker linguist	Ili uusita ne techoapo go'oktiria.		ili uusi-ta ne techoa-po go'okti-ria	little child-acc 1sg mud-loc sink-appl	I sank myself in the mud for the child.
+Yaqui	633	Constructed by native speaker linguist	Techoapo aa go'oktitu.		techoa-po aa go'okti-tu	mud-loc can sink-inch	Mud is a place for sinking.
+Yaqui	634	Constructed by native speaker linguist	Techoapo go'oktiwa.		techoa-po go'okti-wa	mud-loc sink-pass	Someone was sunken in the mud.
+Yaqui	635	Constructed by native speaker linguist	Ju ili uusi jamutta sankoata beetaria.		ju ili uusi jamut-ta sankoa-ta beeta-ria	det little child woman-acc garbage-acc burn.trns-appl	The child is burning the garbage for the woman.
+Yaqui	636	Constructed by native speaker linguist	Ju sankoa aa beetatu.		ju sankoa aa beeta-tu	det garbage can burn.trns-inch	The garbage can be burned.
+Yaqui	637	Elicited from speaker	Nim kaari beetawa.		nim kaari beeta-wa	1sg.pos house burn.trns-pass	My house was burned.
+Yaqui	638	Constructed by native speaker linguist	Nim kaari beetai.		nim kaari beeta-i	1sg.pos house burn.trns-res	My house is burned.
+Yaqui	639	Constructed by native speaker linguist	Yee bebeeta.		yee be-beeta	people rdp:hab-burn.trns	It burns.
+Yaqui	640	Constructed by native speaker linguist	Tajo'o aa waachatu.		tajo'o aa waacha-tu	clothes can be_dry-inch	Clothes can be dried.
+Yaqui	641	Constructed by native speaker linguist	Ju tajo'o waachawa.		ju tajo'o waacha-wa	det clothes be_dry-pass	The clothes were dried.
+Yaqui	642	Constructed by native speaker linguist	O'orata ne jamuttau enchi tejwaria.		o'ora-ta ne jamut-ta-u enchi tejwa-ria	hour-acc 1sg.subj woman-acc-dir 2sg.obj say-appl	I am saying the hour to the woman for you (i.e. in your place).
+Yaqui	643	Constructed by native speaker linguist	Aapo ili uusita a tejwatua.		aapo ili uusi-ta a tejwa-tua	3sg.subj little child-acc 3sg.obj say-caus	He told the child to say it (=something) (to someone else).
+Yaqui	644	Constructed by native speaker linguist	Ju jamut aa tejwatu.		ju jamut aa tejwa-tu	det woman can say-inch	It can be said to that woman.
+Yaqui	645	Constructed by native speaker linguist	Ju jamut tejwawa.		ju jamut tejwa-wa	det woman say-pass	The woman is being told something.
+Yaqui	646	Constructed by native speaker linguist	Ju jamut tejwari.		ju jamut tejwa-ri	det woman say-res	The woman was told something.
+Yaqui	647	Constructed by native speaker linguist	Ju jamut yee tejwa.		ju jamut yee tejwa	det woman people say	The woman is advising something.

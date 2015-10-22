@@ -1,0 +1,82 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Accidental/Potential Intransitive Alternation	Accidental/Potential Transitive Alternation	Ambitransitive Alternation	Antipassive 1 Alternation	Antipassive 2 Alternation	Causative with -k'	Causative with -l/-ll	Causative with golal	Causative with yowal	Instrument Alternation	Object Incorporation Alternation	Potential Alternation	Potential Transitivizing Alternation	Recipient/Goal/Location Alternation 1	Recipient/Goal/Location Alternation 2
+Bezhta	1	EAT	yüⁿqal	1, 140, 152, 201	1-erg 2-abs abs[2].V	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	2	HUG	aⁿło yoc'al	48, 184, 220, 244	1-erg 2-lat V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	3	LOOK AT	goc'oqal	28, 114, 168, 259	1-abs 2-poss abs[1].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	4	SEE	yegaal	2, 123, 271, 292	1-lat 2-abs abs[2].V	Never	Never	Never	Marginally	Never	Never	Marginally	Never	Never	Never	Never	Marginally	Never	Never	Never
+Bezhta	5	SMELL	mäh biq'al	49, 148, 185, 274	1-lat V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	6	FEAR	hic'al	5, 6, 273	1-abs 2-poss abs[1].V	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	7	FRIGHTEN	hič'egolal	6, 226	1-erg 2-abs abs[2].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	8	LIKE	yat'al	4, 153	1-lat 2-abs abs[2].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	9	KNOW	yiq'al	3, 124, 295	1-lat 2-abs abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	10	THINK	urɣeziyaqal	26, 113, 167, 265	1-abs 2-supabl abs[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Bezhta	11	SEARCH FOR	xalbowal	27, 176, 242	1-erg 2-abs abs[2].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	12	WASH	nizal	7, 102, 154, 203, 302	1-erg 2-abs abs[2].V	Never	Never	Never	Regularly	Regularly	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	13	DRESS	łič'elal	177, 191, 284	1-erg 2-abs 3-sup abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	14	SHAVE (a body part/person)	kusuʔal	50, 69, 149, 247	1-erg 2-abs abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	15	HELP	komak bowal	12, 157, 233	1-erg 2-lat V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	16	FOLLOW	müɣäƛ yeⁿƛ'al	24, 189, 260, 301	1-abs 2-com abs[1].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	17	MEET	keziyaqal	51, 127	1-erg 2-abs abs[2].V	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never
+Bezhta	18	TALK	yiq'lašal	266, 267, 268, 282	1-abs 2-poss abs[1].V	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	19	ASK FOR	harziyowal	55, 198, 243	1-erg 2-poss 3-abs abs[3].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	20	SHOUT AT	lalaƛal	29, 66, 192, 246	1-erg 2-sup V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	21	TELL	xabar meyal	14, 101, 107, 159, 214, 232	1-erg 2-lat V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	22	SAY	nisal	13, 158, 231	1-erg 2-poss UTT3 V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	23	NAME	caaⁿ gulal	31, 169, 179, 239	1-erg 2-sup V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	24	BUILD	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	25	BREAK	yišelal	56, 120, 285	1-erg 2-abs 3-instr abs[2].V	Never	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	26	KILL	yiƛ'al (1)	17, 162, 230, 289	1-erg 2-abs 3-instr abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	27	BEAT	yäƛ'elal	57, 58, 100, 199, 229	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Regularly	Never	Regularly	Never	Never	Never
+Bezhta	28	HIT	yäƛ'elal	57, 58, 100, 199, 229	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Regularly	Never	Regularly	Never	Never	Never
+Bezhta	29	TOUCH	yeⁿxelal	62, 186, 278	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	30	CUT	yüč'al	23, 99, 121, 188, 227	1-erg 2-abs 3-instr abs[2].V	Never	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	31	TAKE	yokčal	30, 105, 178, 236	1-erg 2-possabl 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	32	TEAR	yäxelal	32, 180, 283	1-erg 2-abl 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	33	PEEL	no verbal counterpart	11	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	34	HIDE	yuⁿcal (1)	25, 216, 225	1-erg 2-abl 3-abs abs[3].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	35	SHOW	yegalal	77, 206	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	36	GIVE	niƛal	59, 60, 61, 68, 200, 221	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Bezhta	37	SEND	yeⁿyal	71, 72, 130, 171, 219	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Regularly
+Bezhta	38	CARRY	yezal	75, 76, 95, 131, 217	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Regularly
+Bezhta	39	THROW	yiƛ'al (2)	86, 87, 88, 89, 93, 210, 213	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly
+Bezhta	40	TIE	yiⁿcal	19, 143, 164, 209	1-erg 2-abs 3-instr LOC4 abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	41	PUT	gulal	21, 92, 166, 272	1-erg LOC2 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	42	POUR	git'al	20, 91, 165, 211	1-erg LOC2 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	43	COVER	yoq'olal	64, 133, 202	1-erg 2-abs 3-sup abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	44	FILL	yoc'lal	40, 196, 299	1-erg 2-abs abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	45	LOAD	yoⁿsal	22, 174, 175, 207	1-erg LOC2 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	46	BLINK	häydä pacpaƛal	39, 117, 146, 235, 291	V	Regularly	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	47	COUGH	öhƛäl	38, 70, 195, 245	1-erg V	Never	Never	Never	Regularly	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	48	CLIMB	no verbal counterpart	63, 201, 261	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	49	RUN	č'an yaɣal	45, 119, 279, 281, 286	1-erg V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Regularly	Regularly	Never	Never	Never
+Bezhta	49	RUN	č'änaɣal	119, 237, 280	1-erg V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	50	SIT	q'ey yecal	18, 132, 163, 263	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	51	SIT DOWN	q'ey yecal	18, 132, 163, 263	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	52	JUMP	yogic'al	65, 67, 204, 269, 270	1-abs abs[1].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Bezhta	53	SING	no verbal counterpart	8, 103, 155, 205	N/A	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	54	GO	yeⁿƛ'al (1)	108, 187, 262, 287	1-abs LOC2 abs[1].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	55	LEAVE	yeⁿƛ'al (2)	43, 218, 296	1-abs 2-abl abs[1].V	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	56	LIVE	ömrö bowal	78, 224, 234	1-erg 2-iness V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	57	LAUGH	łowal	74, 134, 293	1-abs abs[1].V	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Bezhta	58	SCREAM	lalaƛal	29, 66, 192, 246	1-erg 2-sup V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	59	FEEL PAIN	k'ok'al	10, 35, 116, 156, 250	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	60	FEEL COLD	yäč’ɬal	34, 144, 194	1-abs abs[1].V	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	61	DIE	yuɣal	16, 142, 161, 277	1-abs abs[1].V	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	62	PLAY	k'isal	73, 125, 264, 288	1-abs abs[1].V	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	63	BE SAD	urɣelliƛ'a yaqal	33, 193	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	64	BE HUNGRY	nukal	37, 170, 275	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	65	ROLL	k'äyƛäl	44, 112, 183, 257	1-abs abs[1].V	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	66	SINK	ɣanq'iziyaqal	42, 222, 255	1-abs abs[1].V	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never
+Bezhta	67	BURN	yek'al	36, 104, 122, 145, 253	1-abs abs[1].V	Regularly	Never	Never	Marginally	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	68	BE DRY	qoqal	79, 135, 136, 251, 297	1-abs abs[1].V	Regularly	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Bezhta	69	RAIN	no verbal counterpart	46, 197	N/A	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	70	BE A HUNTER	no verbal counterpart	81	N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	71	GRIND	haʔal	106, 172, 173, 228, 240	1-erg 2-abs abs[2].V	Never	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	72	WIPE	yaⁿcolal	97, 98	1-erg LOC2 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	73	DIG	yäxäl	80, 137, 138, 241	1-erg 2-abs abs[2].V	Never	Never	Never	Marginally	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	74	PUSH	zistuqlal	90, 212, 294	1-erg 2-abs abs[2].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	75	BRING	yaq'al	83, 84, 94, 208, 215	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Regularly
+Bezhta	76	STEAL	yuⁿcal (2)	85, 96, 190, 223	1-erg 2-possabl 3-abs abs[3].V	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	77	TEACH	małciyowal	118, 160, 238	1-erg 2-lat 3-abs abs[3].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	78	HEAR	tuqal	54, 151	1-lat 2-abs abs[2].V	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Bezhta	79	COOK	helal	41, 109, 181, 182, 258, 290	1-erg 2-abs abs[2].V	Never	Regularly	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Never	Never	Never
+Bezhta	80	BOIL	ɣayƛal	53, 110, 150, 256, 298	1-abs abs[1].V	Regularly	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never

@@ -1,0 +1,318 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Mitsukaido Japanese	1		Amakko pan kutta.		amakko pan kut-ta	girl.NOM bread.ACC eat-PST	The girl ate bread.
+Mitsukaido Japanese	2		Ore arenge pan kaseda.		ore are=nge pan kase-da	1sg.NOM 3sg=DAT bread.ACC eat.CAUS-PST	I made her/him eat bread.
+Mitsukaido Japanese	3		Areni pan kuwaretjatta.		are=ni pan kuw-are-tjat-ta	3sg=LOC bread.NOM eat-PASS-PERF-PST	The bread had been eaten by her/him.
+Mitsukaido Japanese	4		Orengani sore kuene.		ore=ngani sore ku-e-ne	1sg=EXP that.ACC eat-POT-NEG.NPST	I cannot eat that.
+Mitsukaido Japanese	5		Ka:tjan agambogodo daededa.		ka:tjan agambo=godo dae-de-da	mother.NOM baby=ACC hold-GER.be-PST	Mother hugged the baby.
+Mitsukaido Japanese	6		Ore ka:tjannge agambogodo dagaseda.		ore ka:tjan=nge agambo=godo dag-ase-da	1sg.NOM mother=DAT baby=ACC hold-CAUS-PST	I made my wife hug the baby.
+Mitsukaido Japanese	7		Agambo ka:tjanni dagasatteda.		agambo ka:tjan=ni dagasat-te-da	baby.NOM mother=LOC be.held-GER.be-PST	The baby was hugged in her/his mother's arm.
+Mitsukaido Japanese	8		Agambo ka:tjannge dakko sarededa.		agambo ka:tjan=nge dakko_s-are-de-da	baby.NOM mother=DAT hold-PASS-GER.be-PST	The baby was hugged by her/his mother.
+Mitsukaido Japanese	9		Imadara ka:tjanngani agambogodo dageru.		ima=dara ka:tjan=ngani agambo=godo dag-e-ru	now=COND mother=EXP baby=ACC hold-POT-NPST	Now the mother can hug the baby.
+Mitsukaido Japanese	10		Hono odogo jarokkogodo mida.		hono odogo jarokko=godo mi-da	that man.NOM boy=ACC look.at-PST	That man looked at the boy.
+Mitsukaido Japanese	11		Ore hono odogonge jarokkogodo miraseda.		ore hono odogo=nge jarokko=godo mi-rase-da	1sg.NOM that man=DAT boy=ACC look.at-CAUS-PST	I made that man look at the boy.
+Mitsukaido Japanese	12		Tukubasan me:ru.		Tukubasan me:-ru	Mt_Tsukuba.NOM see.POT-NPST	Mt. Tsukuba can be seen.
+Mitsukaido Japanese	13		Jarokko sagini mirareda.		jarokko sagini mi-rare-da	boy.NOM early look.at-PASS-PST	The boy was seen before.
+Mitsukaido Japanese	14		Orenganja jarokkogodo me:da.		ore=nganja jarokko=godo me:-da	1sg=EXP.TOP boy=ACC see.POT-PST	I could see the boy.
+Mitsukaido Japanese	15		Negome nezuminga nioe ka{e/n}-da.		nego-me nezumi=nga nioe ka{e/n}-da	cat-DIM.NOM mouse=POS smell.ACC smell-PST	The cat caught the mouse's scent.
+Mitsukaido Japanese	16		Ore negonge nezuminga nioe kangaseda.		ore nego=nge nezumi=nga nioe kang-ase-da	1sg.NOM cat=DAT mouse=POS smell.ACC smell-CAUS-PST	I made the cat smell the mouse.
+Mitsukaido Japanese	17		Nezumi negoni nioe kangarettsitta.		nezumi nego=ni nioe kang-are-ttsit-ta	mouse.NOM cat=LOC smell.ACC smell-PASS-PERF-PST	The mouse was smelled by the cat.
+Mitsukaido Japanese	18		Kono negonganiwa nioe kangeru.		kono nego=ngani=wa nioe kang-e-ru	this cat=EXP=TOP smell.ACC smell-POT-NPST	This cat has a good nose.
+Mitsukaido Japanese	19		Arewa aregodo okkanangattekkara.		are=wa are=godo okkanangat-te-k=kara	3sg=TOP 3sg=ACC fear-GER.be-NPST=because	She/he fears her/him.
+Mitsukaido Japanese	20		Ore arenge ano jarokkogodo okkanangaraseda.		ore are=nge ano jarokko=godo okkanangar-ase-da	1sg.NOM 3sg=DAT that boy=ACC fear-CAUS-PST	I made her/him fear that boy.
+Mitsukaido Japanese	21		Orenganja aregodo okkanegane:gara.		ore=nganja are=godo okkanega-ne:=gara	1sg=EXP.TOP 3sg=ACC afraid-NEG.NPST=because	I fear her/him.
+Mitsukaido Japanese	22		Are minnani okkanangararederu.		are minna=ni okkanangar-are-de-ru	3sg.NOM all=LOC fear-PASS-GER.be-NPST	She/he is feared by all.
+Mitsukaido Japanese	23		Ore hosingagi skida.		ore hosingagi ski-da	1sg.NOM dried_persimmon.ACC like-COP.NPST	I like dried persimmon.
+Mitsukaido Japanese	24		Ore ano hjtogodo kini etta.		ore ano hjto=godo kini_et-ta	1sg.NOM that man=ACC like-PST	I like that man.
+Mitsukaido Japanese	25		Ore ano jarogodo sitteru.		ore ano jaro=godo sit-te-ru	1sg.NOM that man=ACC know-GER.be-NPST	I know that man.
+Mitsukaido Japanese	26		Arenge sore sirasenakutja.		are=nge sore sir-ase-naku-tja	3sg=DAT that.ACC know-CAUS-NEG.ADV-GER.TOP	(I have to) make her/him know about that.
+Mitsukaido Japanese	27		Ano jaro minnani sirarederu.		ano jaro minna=ni sir-are-de-ru	that man.NOM all=LOC know-PASS-GER.be-NPST	That man is known to all.
+Mitsukaido Japanese	28		Ore sengarenga godo kangnge:da.		ore sengare=nga godo kangnge:-da	1sg.NOM oldest_son=POS thing.ACC think-PST	I thought about my son.
+Mitsukaido Japanese	29		Ore arenge sengarenga godo kangngeraseda.		ore are=nge sengare=nga godo kangnge-rase-da	1sg.NOM 3sg=DAT oldest_son=POS thing.ACC think-CAUS-PST	I made her/him think about her/his son.
+Mitsukaido Japanese	30		Are bo:ru mekkededa.		are bo:ru mekke-de-da	3sg.NOM ball.ACC look.for-GER.be-PST	She/he searched for a ball.
+Mitsukaido Japanese	31		Ore arenge bo:ru mekkeraseda.		ore are=nge bo:ru mekke-rase-da	1sg.NOM 3sg=DAT ball.ACC look.for-CAUS-PST	I made her/him search for a ball.
+Mitsukaido Japanese	32		Bo:ru mekkatta.		bo:ru mekkat-ta	ball.NOM be.found-PST	The ball was found.
+Mitsukaido Japanese	33		Ano amakkonganiwa aregodo mekkerareru.		ano amakko=ngani=wa are=godo mekke-rare-ru	that girl=EXP=TOP 3sg=ACC look_for-POT-NPST	That girl can search for her/him.
+Mitsukaido Japanese	34		Amakko hku aratta.		amakko hku arat-ta	girl.NOM clothes.ACC wash-PST	The girl washed the clothes.
+Mitsukaido Japanese	35		Ore amakkonge hku ara:seda.		ore amakko=nge hku ara:se-da	1sg.NOM girl=DAT clothes.ACC wash.CAUS-PST	I made the girl wash the clothes.
+Mitsukaido Japanese	36		Amakkoni hku ara:retjatta.		amakko=ni hku ara:re-tjat-ta	girl=LOC clothes.NOM wash.PASS-PERF-PST	The clothes were washed by the girl.
+Mitsukaido Japanese	37		Ano amakkonganja hitonde hku araeru.		ano amakko=nganja hitonde hku ara-e-ru	that girl=EXP.TOP alone clothes.ACC wash-POT-NPST	That girl can wash the clothes by herself.
+Mitsukaido Japanese	38		Ore amakkonge kimono kiseda.		ore amakko=nge kimono kise-da	1sg.NOM girl=DAT kimono.ACC dress-PST	I dressed the girl in a kimono.
+Mitsukaido Japanese	39		Ore arenge amakkonge kimono kiseraseda.		ore are=nge amakko=nge kimono kise-rase-da	1sg.NOM 3sg=DAT girl=DAT kimono dress-CAUS-PST	I made her/him dress the girl in a kimono.
+Mitsukaido Japanese	40		Amakko kimono kjta.		amakko kimono kj-ta	girl.NOM kimono.ACC wear-PST	The girl wore a kimono.
+Mitsukaido Japanese	41		Arengani mmagu kimono kiserareru.		are=ngani mmagu kimono kise-rare-ru	3sg=EXP well.ADV kimono.ACC dress-POT-NPST	She/he can dress (someone) in a kimono well.
+Mitsukaido Japanese	42		Are hinge sutta.		are hinge sut-ta	3sg.NOM mustache.ACC shave-PST	He shaved his beard.
+Mitsukaido Japanese	43		Ore arenge hinge suraseda.		ore are=nge hinge sur-ase-da	1sg.NOM 3sg=DAT mustache.ACC shave-CAUS-PST	I made him shave his beard.
+Mitsukaido Japanese	44		Arengani mmagu hinge sureru.		are=ngani mmagu hinge sur-e-ru	3sg=EXP well.ADV mustache.ACC shave-POT-NPST	He can shave his beard well.
+Mitsukaido Japanese	45		Are amakkogodo taskeda.		are amakko=godo taske-da	3sg.NOM girl=ACC help-PST	She/he helped a girl.
+Mitsukaido Japanese	46		Ore arenge amakkogodo taskeraseda.		ore are=nge amakko=godo taske-rase-da	1sg.NOM 3sg=DAT girl=ACC help-CAUS-PST	I made her/him help the girl.
+Mitsukaido Japanese	47		Amakko taskatta.		amakko taskat-ta	girl.NOM be.helped-PST	A girl was helped.
+Mitsukaido Japanese	48		Amakko areni taskerareda.		amakko are=ni taske-rare-da	girl.NOM 3sg=LOC help-PASS-PST	The girl was helped by her/him.
+Mitsukaido Japanese	49		Arenganiwa amakkogodo taskerarebe:.		are=ngani=wa amakko=godo taske-rare-be:	3sg=EXP=TOP girl=ACC help-POT-may	She/he can help the girl.
+Mitsukaido Japanese	50		Ore amakkonge skeda.		ore amakko=nge ske-da	1sg.NOM girl=DAT help-PST	I helped the girl.
+Mitsukaido Japanese	51		Ore aregodo amakkonge skeraseda.		ore are=godo amakko=nge ske-rase-da	1sg.NOM 3sg=ACC girl=DAT help-CAUS-PST	I made her/him help the girl.
+Mitsukaido Japanese	52		Ore areni skerareda.		ore are=ni ske-rare-da	1sg.NOM 3sg=LOC help-PASS-PST	I was helped by her/him.
+Mitsukaido Japanese	53		Arenganiwa amakkonge skerarebe:.		are=ngani=wa amakko=nge ske-rare-be:	3sg=EXP=TOP girl=DAT help-POT-may	She/he can help the girl.
+Mitsukaido Japanese	54		Amakko odogogodo okkageda.		amakko odogo=godo okkage-da	girl.NOM man=ACC follow-PST	The girl followed the man.
+Mitsukaido Japanese	55		Ore amakkonge odogogodo okkageraseda.		ore amakko=nge odogo=godo okkage-rase-da	1sg.NOM girl=DAT man=ACC follow-CAUS-PST	I made the girl follow the man.
+Mitsukaido Japanese	56		Odogo amakkoni okkagerareda.		odogo amakko=ni okkage-rare-da	man.NOM girl=LOC follow-PASS-PST	The man was followed by the girl.
+Mitsukaido Japanese	57		Ano amakkonganja ano odogogodo okkagerareru.		ano amakko=nganja ano odogo=godo okkage-rare-ru	that girl=EXP.TOP that man=ACC follow-POT-NPST	That girl can follow that man.
+Mitsukaido Japanese	58		Amakko arenge tuedetta.		amakko are=nge tuedet-ta	girl.NOM 3sg=DAT follow-PST	The girl followed her/him.
+Mitsukaido Japanese	59		Ore amakkogodo arenge tuede engaseda.		ore amakko=godo are=nge tuede_eng-ase-da	1sg.NOM girl=ACC 3sg=DAT follow-CAUS-PST	I made the girl follow her/him.
+Mitsukaido Japanese	60		Are amakkoni tuede korareda.		are amakko=ni tuede_ko-rare-da	3sg.NOM girl=LOC follow-PASS-PST	She/he was followed by the girl.
+Mitsukaido Japanese	61		Ore ano amakkoni egiattajo.		ore ano amakko=ni egiat-ta=jo	1sg.NOM that girl=LOC meet-PST=F	I met that girl.
+Mitsukaido Japanese	62		Ore aregodo amakkoni egia:seda.		ore are=godo amakko=ni egia:se-da	1sg.NOM 3sg=ACC girl=LOC meet.CAUS-PST	I made her/him meet the girl.
+Mitsukaido Japanese	63		Arengani amakkodo egiaeru.		are=ngani amakko=do egia-e-ru	3sg=EXP girl=COM meet-POT-NPST	She/he can meet the girl.
+Mitsukaido Japanese	64		Are ano jarokkonge ano amakkogodo hanasjta.		are ano jarokko=nge ano amakko=godo hanasj-ta	3sg.NOM that boy=DAT that girl=ACC talk-PST	She/he talked to that boy about that girl.
+Mitsukaido Japanese	65		Ore arenge ano jarokkonge ano amakkogodo hanasaseda.		ore are=nge ano jarokko=nge ano amakko=godo hanas-ase-da	1sg.NOM 3sg=DAT that boy=DAT that girl=ACC talk-CAUS-PST	I made her/him talk to that boy about that girl.
+Mitsukaido Japanese	66		Ano jarokko ano amakkogodo areni hanasareda.		ano jarokko ano amakko=godo are=ni hanas-are-da	that boy.NOM that girl=ACC 3sg=LOC talk-PASS-PST	That boy was told about that girl by her/him.
+Mitsukaido Japanese	67		Arengani ano jarokkonge ano amakkogodo hanaseru.		are=ngani ano jarokko=nge ano amakko=godo hanas-e-ru	3sg=EXP that boy=DAT that girl=ACC talk-POT-NPST	She/he can talk to that boy about that girl.
+Mitsukaido Japanese	68		Ano jarokko arenge tema se:sogu sjta.		ano jarokko are=nge tema se:sogu sj-ta	that boy.NOM 3sg=DAT wage.ACC ask for-PST	That boy asked her/him for the wage.
+Mitsukaido Japanese	69		Ore ano jarokkonge arenge tema se:sogu saseda.		ore ano jarokko=nge are=nge tema se:sogu s-ase-da	1sg.NOM that boy=DAT 3sg=DAT wage ask for-CAUS-PST	I made that boy ask her/him for the wage.
+Mitsukaido Japanese	70		Are ano jarokkoni tema se:sogu sareda.		are ano jarokko=ni tema se:sogu s-are-da	3sg.NOM that boy=LOC wage.ACC ask for-PASS-PST	She/he was asked for the wage by that boy.
+Mitsukaido Japanese	71		Ano jarokkongani arenge tema se:sogu degiru.		ano jarokko=ngani are=nge tema se:sogu degi-ru	that boy=EXP 3sg=DAT wage.ACC ask_for can-NPST	That boy can ask her/him for the wage.
+Mitsukaido Japanese	72		Ore kodomonge mugasino kodo hanasjta.		ore kodomo=nge mugasi=no kodo hanasj-ta	1sg.NOM child=DAT past=GEN thing.ACC tell-PST	I told the child an old story.
+Mitsukaido Japanese	73		Ano basamangani mugasino kodo u:nto sittekkara hanaseru.		ano basama=ngani mugasi=no kodo u:nto sit-te-k=kara hanas-e-ru	that old_lady=EXP past=GEN thing.ACC many know-GER.be-NPST=because tell-POT-NPST	That old lady can tell a story because she knows many old stories.
+Mitsukaido Japanese	74		Ano jaro ano amakkonge nanimo sjabeNnagatta.		ano jaro ano amakko=nge nanimo sjaben-nagat-ta	that man.NOM that girl=DAT anything.ACC say.IRR-NEG-PST	That boy did not say anything to that girl.
+Mitsukaido Japanese	75		Are ano jaronge ano amakkonge sore sjaberaseda.		are ano jaro=nge ano amakko=nge sore sjaber-ase-da	3sg.NOM that man=DAT that girl=DAT that.ACC say-CAUS-PST	She/he made that boy say it to that girl.
+Mitsukaido Japanese	76		Ano amakko ano jaroni nanimo iwarenagatta.		ano amakko ano jaro=ni nanimo iw-are-nagat-ta	that girl.NOM that man=LOC anything.ACC say-PASS-NEG-PST	That girl was not told anything by that boy.
+Mitsukaido Japanese	77		Arengani nanimo sjaberenagatta.		are=ngani nanimo sjaber-e-nagat-ta	3sg=EXP anything.ACC say-POT-NEG-PST	She/he could not say anything.
+Mitsukaido Japanese	78		Ano amakko hono jarokkogodo taro:tte jobatta.		ano amakko hono jarokko=godo taro:=tte jobat-ta	that girl.NOM that boy=ACC Taro=CIT call-PST	That girl called that boy Taro.
+Mitsukaido Japanese	79		Ano jarokko minnange zibungodo taro:tte jobasedendado.		ano jarokko minna=nge zibun=godo taro:=tte job-ase-de-n=da=do	that boy.NOM all=DAT self=ACC Taro=CIT call-CAUS-GER.be-NPST.NMNLZ=COP=F	That boy makes everybody call him Taro.
+Mitsukaido Japanese	80		Ano jaro taro:tte jobarederu.		ano jaro taro:=tte job-are-de-ru	that man.NOM Taro=CIT call-PASS-GER.be-NPST	The man is called Taro.
+Mitsukaido Japanese	81		Arenganja omegodo name:de jobeppena.		are=nganja ome=godo name:=de job-e-p-pe=na	3sg=EXP.TOP 2sg=ACC first_name=INST call-POT-NPST-may=F	She/he may be able to call you by your first name.
+Mitsukaido Japanese	82		Ore uzi tadeda.		ore uzi tade-da	1sg.NOM house.ACC build-PST	I built a house.
+Mitsukaido Japanese	83		Ore arenge uzi taderaseda.		ore are=nge uzi tade-rase-da	1sg.NOM 3sg=DAT house.ACC build-CAUS-PST	I made her/him build the house.
+Mitsukaido Japanese	84		Uzi tatta.		uzi tat-ta	house.NOM be.built-PST	The house was built.
+Mitsukaido Japanese	85		Orengani uzi taderareru.		ore=ngani uzi tade-rare-ru	1sg=EXP house.ACC build-POT-NPST	I can build a house.
+Mitsukaido Japanese	86		Jarokko garasumado bukkowasjta.		jarokko garasumado bukkowasj-ta	boy.NOM glass_window.ACC break-PST	The boy broke a window.
+Mitsukaido Japanese	87		Are jarokkonge garasumado bukkowasaseda.		are jarokko=nge garasumado bukkowas-ase-da	3sg.NOM boy=DAT glass_window.ACC break-CAUS-PST	She/he made the boy break a window.
+Mitsukaido Japanese	88		Garasumado bukkowareda.		garasumado bukkoware-da	glass_window.NOM break-PST	The window broke.
+Mitsukaido Japanese	89		Jarokkoni garasumado bukkowasareda.		jarokko=ni garasumado bukkowas-are-da	boy=LOC glass_window.NOM break-PASS-PST	The window was broken by the boy.
+Mitsukaido Japanese	90		Ano jaronganja garasumado bukkowaseme:.		ano jaro=nganja garasumado bukkowas-e-me:	that man=EXP.TOP glass_window.ACC break-POT-may_not	That man may not be able to break a window.
+Mitsukaido Japanese	91		Jarokko bo:de hebigodo korosjta.		jarokko bo:=de hebi=godo korosj-ta	boy.NOM stick=INST snake=ACC kill-PST	The boy killed a snake with a stick.
+Mitsukaido Japanese	92		Ore jarokkonge hebigodo korosaseda.		ore jarokko=nge hebi=godo koros-ase-da	1sg.NOM boy=DAT snake=ACC kill-CAUS-PST	I made the boy kill a snake.
+Mitsukaido Japanese	93		Hebi jarokkoni korosareda.		hebi jarokko=ni koros-are-da	snake.NOM boy=LOC kill-PASS-PST	The snake was killed by the boy.
+Mitsukaido Japanese	94		Ano jarokkonganja hebigodo koroseru.		ano jarokko=nganja hebi=godo koros-e-ru	that boy=EXP.TOP snake=ACC kill-POT-NPST	That boy can kill a snake.
+Mitsukaido Japanese	95		Jarokko sjo:zi sjttsaettjatta.		jarokko sjo:zi sjttsae-ttjat-ta	boy.NOM shoji_screen.ACC break-PERF-PST	The boy ripped a shoji screen.
+Mitsukaido Japanese	96		Ore jarokkonge sjo:zi sjttsagaseda.		ore jarokko=nge sjo:zi sjttsag-ase-da	1sg.NOM boy=DAT shoji_screen.ACC break-CAUS-PST	I made the boy rip the shoji screen.
+Mitsukaido Japanese	97		Sjo:zi sjttsageda.		sjo:zi sjttsage-da	shoji_screen.NOM break-PST	The shoji screen ripped.
+Mitsukaido Japanese	98		Jarokkoni sjo:zi sjttsagareda.		jarokko=ni sjo:zi sjttsag-are-da	boy=LOC shoji_screen.NOM break-PASS-PST	The shoji screen was ripped by the boy.
+Mitsukaido Japanese	99		Ano jarokkonganja sjo:zi sjttsagu godo degiru.		ano jarokko=nganja sjo:zi sjttsag-u godo degi-ru	that boy=EXP.TOP shoji_screen.ACC break-POT thing.ACC can-NPST	That boy can rip a shoji screen.
+Mitsukaido Japanese	100		Jarokko bo:de hebigodo buttadaeda.		jarokko bo:=de hebi=godo buttadae-da	boy.NOM stick=INST snake=ACC hit-PST	The boy hit a snake with a stick.
+Mitsukaido Japanese	101		Ore jarokkonge bo:de hebigodo buttadagaseda.		ore jarokko=nge bo:=de hebi=godo buttadag-ase-da	1sg.NOM boy=DAT stick=INST snake=ACC hit-CAUS-PST	I made the boy hit a snake with a stick.
+Mitsukaido Japanese	102		Hebi jarokkoni buttadagareda.		hebi jarokko=ni buttadag-are-da	snake.NOM boy=LOC hit-PASS-PST	The snake was hit by the boy.
+Mitsukaido Japanese	103		Ano jarokkonganja hebigodo buttadageru.		ano jarokko=nganja hebi=godo buttadag-e-ru	that boy=EXP.TOP snake=ACC hit-POT-NPST	That boy can hit a snake.
+Mitsukaido Japanese	104		Ore ano jarogodo bukkurasjte jakkara.		ore ano jaro=godo bukkurasj-te jak=kara	1sg.NOM that man=ACC hit-GER give.NPST=because	I hit that man.
+Mitsukaido Japanese	105		Ore arenge ano jarogodo bukkurasaseda.		ore are=nge ano jaro=godo bukkuras-ase-da	1sg.NOM 3sg=DAT that man=ACC hit-CAUS-PST	I made her/him hit that man.
+Mitsukaido Japanese	106		Ore ano jaroni bukkuraserareda.		ore ano jaro=ni bukkurase-rare-da	1sg.NOM that man=LOC hit-PASS-PST	I was hit by that man.
+Mitsukaido Japanese	107		Arenganja aregodo bukkuraserammena.		are=nganja are=godo bukkurase-ram-me=na	3sg=EXP.TOP 3sg=ACC hit-POT-may_not=F	She/he may not be able to hit her/him.
+Mitsukaido Japanese	108		Jaronga adama bukkurasjte jakka?		jaro=nga adama bukkurasj-te jak=ka	man=POS head.ACC hit-GER give.NPST=Q	Did (someone) hit the man's head?
+Mitsukaido Japanese	109		Jarogodo adama bukkurasjte jakka?		jaro=godo adama bukkurasj-te jak=ka	man=ACC head.ACC hit-GER give.NPST=Q	Did (someone) hit the man on the head?
+Mitsukaido Japanese	110		Jarokko bo:de hebigodo sa:tta.		jarokko bo:=de hebi=godo sa:t-ta	boy.NOM stick=INST snake=ACC touch-PST	The boy touched a snake with a stick.
+Mitsukaido Japanese	111		Ore jarokkonge hebigodo sa:raseda.		ore jarokko=nge hebi=godo sa:r-ase-da	1sg.NOM boy=DAT snake=ACC touch-CAUS-PST	I made the boy touch a snake.
+Mitsukaido Japanese	112		Hebi jarokkoni sa:rareda.		hebi jarokko=ni sa:r-are-da	snake.NOM boy=LOC touch-PASS-PST	The snake was touched by a boy.
+Mitsukaido Japanese	113		Ano jarokkonganja hebigodo sa:reru.		ano jarokko=nganja hebi=godo sa:r-e-ru	that boy=EXP.TOP snake=ACC touch-POT-NPST	That boy can touch a snake.
+Mitsukaido Japanese	114		Jarokko bo:de hebinge sa:tta.		jarokko bo:=de hebi=nge sa:t-ta	boy.NOM stick=INST snake=DAT touch-PST	The boy touched a snake with a stick.
+Mitsukaido Japanese	115		Ore jarokkogodo hebinge sa:raseda.		ore jarokko=godo hebi=nge sa:r-ase-da	1sg.NOM boy=ACC snake=DAT touch-CAUS-PST	I made the boy touch a snake.
+Mitsukaido Japanese	116		Ano jarokkonganja hebinge sa:reru.		ano jarokko=nganja hebi=nge sa:r-e-ru	that boy=EXP.TOP snake=DAT touch-POT-NPST	That boy can touch a snake.
+Mitsukaido Japanese	117		Jarokko ho:tsjode de:ko kitta.		jarokko ho:tsjo=de de:ko kit-ta	boy.NOM knife=INST radish.ACC cut-PST	The boy cut a radish with a knife.
+Mitsukaido Japanese	118		Ore jarokkonge de:ko kiraseda.		ore jarokko=nge de:ko kir-ase-da	1sg.NOM boy=DAT radish.ACC cut-CAUS-PST	I made the boy cut a radish.
+Mitsukaido Japanese	119		Oratsjino jaroni ki: kirarettsjitta.		oratsji=no jaro=ni ki: kir-are-ttsjit-ta	my_home=GEN boy=LOC tree.NOM cut-PASS-PERF-PST	The tree was cut by my son.
+Mitsukaido Japanese	120		Oratsjino jaronganja de:ko kireru.		oratsji=no jaro=nganja de:ko kir-e-ru	my_home=GEN boy=EXP.TOP radish.ACC cut-POT-NPST	My son can cut a radish.
+Mitsukaido Japanese	121		Jarokko amakkogara pen hindagutta.		jarokko amakko=gara pen hindagut-ta	boy.NOM girl=ABL pen.ACC take-PST	The boy took a pen from the girl.
+Mitsukaido Japanese	122		Ore jarokkonge amakkogara pen hindaguraseda.		ore jarokko=nge amakko=gara pen hindagur-ase-da	1sg.NOM boy=DAT girl=ABL pen.ACC take-CAUS-PST	I made the boy take a pen from the girl.
+Mitsukaido Japanese	123		Amakko jarokkoni pen hindagurareda.		amakko jarokko=ni pen hindagur-are-da	girl.NOM boy=LOC pen.ACC take-PASS-PST	The girl had her pen taken by the boy.
+Mitsukaido Japanese	124		Ano jarokkongani pen hindagureru.		ano jarokko=ngani pen hindagur-e-ru	that boy=EXP pen.ACC take-POT-NPST	That boy can take a pen.
+Mitsukaido Japanese	125		Jarokko kigara kagi mongitta.		jarokko ki=gara kagi mongit-ta	boy.NOM tree=ABL persimmon.ACC take-PST	The boy picked a persimmon from a tree.
+Mitsukaido Japanese	126		Ore jarokkonge kigara kagi mongiraseda.		ore jarokko=nge ki=gara kagi mongir-ase-da	1sg.NOM boy=DAT tree=ABL persimmon.ACC take-CAUS-PST	I made the boy pick a persimmon from a tree.
+Mitsukaido Japanese	127		Omengani ueno ho:na kagi mongireppena?		ome=ngani ue=no ho:=na kagi mongir-e-p-pe=na	2sg=EXP above=GEN around=ADNLOC persimmon.ACC take-POT-NPST-may=F	Can you pick a persimmon from the upper part of the tree?
+Mitsukaido Japanese	128		Amakko honno pe:zi hittsabaeda.		amakko hon=no pe:zi hittsabae-da	girl.NOM book=GEN page.ACC tear-PST	The girl tore the page from the book.
+Mitsukaido Japanese	129		Ore amakkonge honno pe:zi hittsbagaseda.		ore amakko=nge hon=no pe:zi hittsbag-ase-da	1sg.NOM girl=DAT book=GEN page.ACC tear-CAUS-PST	I made the girl tear the page from the book.
+Mitsukaido Japanese	130		Amakkongani honno pe:zi hittsabageru.		amakko=ngani hon=no pe:zi hittsabag-e-ru	girl=EXP book=GEN page.ACC tear-POT-NPST	The girl can tear the page from the book.
+Mitsukaido Japanese	131		Amakko emono ka: mueda.		amakko emo=no ka: mue-da	girl.NOM potato=GEN skin.ACC peel-PST	The girl peeled the potato.
+Mitsukaido Japanese	132		Ore amakkonge emono ka: mugaseda.		ore amakko=nge emo=no ka: mug-ase-da	1sg.NOM girl=DAT potato=GEN skin.ACC peel-CAUS-PST	I made her/him peel the potato.
+Mitsukaido Japanese	133		Arengani mmagu emono ka: mugeru.		are=ngani mmagu emo=no ka: mug-e-ru	3sg=EXP well.ADV potato=GEN skin.ACC peel-POT-NPST	She/he can peel the potato well.
+Mitsukaido Japanese	134		Ano amakko sense:nga hon kagusjta.		ano amakko sense:=nga hon kagusj-ta	that girl.NOM teacher=POS book.ACC hide-PST	That girl hid the teacher's book.
+Mitsukaido Japanese	135		Ore ano amakkonge sense:nga hon kagusaseda.		ore ano amakko=nge sense:=nga hon kagus-ase-da	1sg.NOM that girl=DAT teacher=POS book.ACC hide-CAUS-PST	I made that girl hide the teacher's book.
+Mitsukaido Japanese	136		Sense: ano amakkoni hon kagusareda.		sense: ano amakko=ni hon kagus-are-da	teacher.NOM that girl=LOC book.ACC hide-PASS-PST	The teacher's book was hidden by that girl.
+Mitsukaido Japanese	137		Ano amakkonganja hon kakusebena.		ano amakko=nganja hon kakus-e-be=na	that girl=EXP.TOP book.ACC hide-POT-may=F	That girl may be able to hide the book.
+Mitsukaido Japanese	138		Amakko sense:nge sjkudae miseda.		amakko sense:=nge sjkudae mise-da	girl.NOM teacher=DAT homework.ACC show-PST	The girl showed the homework to the teacher.
+Mitsukaido Japanese	139		Ore amakkonge sense:nge odomegodo miseraseda.		ore amakko=nge sense:=nge odome=godo mise-rase-da	1sg.NOM girl=DAT teacher=DAT baby=ACC show-CAUS-PST	I made the girl show a baby to the teacher.
+Mitsukaido Japanese	140		Sense: sjkudae mida.		sense: sjkudae mi-da	teacher.NOM homework.ACC see-PST	The teacher saw the homework.
+Mitsukaido Japanese	141		Sense: amakkoni sjkudae miserareda.		sense: amakko=ni sjkudae mise-rare-da	teacher.NOM girl=LOC homework.ACC show-PASS-PST	The teacher was shown the homework by the girl.
+Mitsukaido Japanese	142		Ano amakkonganja sense:nge sjkudae mise-{rare/re}-ru.		ano amakko=nganja sense:=nge sjkudae mise-{rare/re}-ru	that girl=EXP.TOP teacher=DAT homework.ACC show-POT-NPST	The girl can show the homework to the teacher.
+Mitsukaido Japanese	143		Sense: orenge hon kureda.		sense: ore=nge hon kure-da	teacher.NOM 1sg=DAT book.ACC give-PST	The teacher gave me a book.
+Mitsukaido Japanese	144		Ore sengarenge hon jatta.		ore sengare=nge hon jat-ta	1sg.NOM son=DAT book.ACC give-PST	I gave a book to my son.
+Mitsukaido Japanese	145		Musumekko kjogugara sense:nge hon ogutta.		musumekko kjogu=gara sense:=nge hon ogut-ta	girl.NOM post_office=ABL teacher=DAT book.ACC send-PST	The girl sent a book to the teacher from the post office.
+Mitsukaido Japanese	146		Ore musumekkonge hon sense:nge oguraseda.		ore musumekko=nge hon sense:=nge ogur-ase-da	1sg.NOM girl=DAT book.ACC teacher=DAT send-CAUS-PST	I made the girl send a book to the teacher.
+Mitsukaido Japanese	147		Sense: musumekkogara hon ogurareda.		sense: musumekko=gara hon ogur-are-da	teacher.NOM girl=ABL book.ACC send-PASS-PST	The teacher was sent a book by the girl.
+Mitsukaido Japanese	148		Musumekkonganja hon sense:nge ogureru.		musumekko=nganja hon sense:=nge ogur-e-ru	girl=EXP.TOP book.ACC teacher=DAT send-POT-NPST	The girl can send a book to the teacher.
+Mitsukaido Japanese	149		Amakko sense:nge hon mottetta.		amakko sense:=nge hon mottet-ta	girl.NOM teacher=DAT book.ACC carry-PST	The girl carried a book to the teacher.
+Mitsukaido Japanese	150		Ore amakkonge hon sense:nge mottengaseda.		ore amakko=nge hon sense:=nge motteng-ase-da	1sg.NOM girl=DAT book.ACC teacher=DAT carry-CAUS-PST	I made the girl carry a book to the teacher.
+Mitsukaido Japanese	151		Ano hon ano amakkoni sense:n togosa mottengareda.		ano hon ano amakko=ni sense:=n togo=sa motteng-are-da	that book.NOM that girl=LOC teacher=GEN place=DAT carry-PASS-PST	That book was carried to the teacher by that girl.
+Mitsukaido Japanese	152		Ano amakkongani sense:nge hon mottengeru.		ano amakko=ngani sense:=nge hon motteng-e-ru	that girl=EXP teacher=DAT book.ACC carry-POT-NPST	That girl can carry a book to the teacher.
+Mitsukaido Japanese	153		Are ka:sa esikoro bunnangeda.		are ka:=sa esikoro bunnange-da	3sg.NOM river=DAT pebble.ACC throw-PST	She/he threw a stone into the river.
+Mitsukaido Japanese	154		Ore arenge ka:sa esikoro bunnangeraseda.		ore are=nge ka:=sa esikoro bunnange-rase-da	1sg.NOM 3sg=DAT river=DAT pebble.ACC throw-CAUS-PST	I made her/him throw a stone into the river.
+Mitsukaido Japanese	155		Arenganiwa, go:rigidagara, esi bunnangerareru.		are=ngani=wa go:rigi=dagara esi bunnange-rare-ru	3sg=EXP=TOP powerful=because stone.ACC throw-POT-NPST	Because she/he is powerful, she/he can throw a stone."
+Mitsukaido Japanese	156		Are orenge bo:ru butskeda.		are ore=nge bo:ru butske-da	3sg.NOM 1sg=DAT ball.ACC throw-PST	She/he threw a ball to me.
+Mitsukaido Japanese	157		Tonarinte arenge orenge bo:ru butskeraseda.		tonarinte are=nge ore=nge bo:ru butske-rase-da	neighbor.NOM 3sg=DAT 1sg=DAT ball.ACC throw-CAUS-PST	The neighbor made her/him throw a ball to me.
+Mitsukaido Japanese	158		Ore areniwa bo:ru butskerarettsjaajo.		ore are=ni=wa bo:ru butske-rare-ttsja-a=jo	1sg.NOM 3sg=LOC=TOP ball.ACC throw-PASS-PERF-NPST=F	I was thrown a ball by her/him.
+Mitsukaido Japanese	159		Arenganiwa darengedemo bo:ru butskerareru.		are=ngani=wa dare=nge-demo bo:ru butske-rare-ru	3sg=EXP=TOP who=DAT-even ball.ACC throw-POT-NPST	She/he can throw a ball to anyone.
+Mitsukaido Japanese	160		Are mmagodo kisa tunaeda.		are mma=godo ki=sa tunae-da	3sg.NOM horse=ACC tree=DAT tie-PST	She/he tied a horse to the tree.
+Mitsukaido Japanese	161		Ore arenge mmagodo kisa tunangaseda.		ore are=nge mma=godo ki=sa tunang-ase-da	1sg.NOM 3sg=DAT horse=ACC tree=DAT tie-CAUS-PST	I made her/him tie a horse to the tree.
+Mitsukaido Japanese	162		Ano mma areni kisa tunangareda.		ano mma are=ni ki=sa tunang-are-da	that horse.NOM 3sg=LOC tree=DAT tie-PASS-PST	That horse was tied to the tree by her/him.
+Mitsukaido Japanese	163		Arengani mmagodo mmagu kisa tunangeru.		are=ngani mma=godo mmagu ki=sa tunang-e-ru	3sg=EXP horse=ACC well.ADV tree=DAT tie-POT-NPST	She/he can tie a horse to the tree well.
+Mitsukaido Japanese	164		Are tsukueno uesa hon oeda.		are tsukue=no ue=sa hon oe-da	3sg.NOM desk=GEN above=DAT book.ACC put-PST	He put the book on the table.
+Mitsukaido Japanese	165		Ore arenge hon tsukueno uesa ogaseda.		ore are=nge hon tsukue=no ue=sa og-ase-da	1sg.NOM 3sg=DAT book.ACC desk=GEN above=DAT put-CAUS-PST	I made her/him put a book on the desk.
+Mitsukaido Japanese	166		Arenganiwa kono tsukueno uesa hon ogerujo.		are=ngani=wa kono tsukue=no ue=sa hon og-e-ru=jo	3sg=EXP=TOP this desk=GEN above=DAT book.ACC put-POT-NPST=F	She/he can put a book on this desk.
+Mitsukaido Japanese	167		Are ozja tsjawansa eppe: tsueda.		are ozja tsjawan=sa eppe: tsue-da	3sg.NOM tea.ACC cup=DAT full pour-PST	She/he poured tea into the cup full.
+Mitsukaido Japanese	168		Ore arenge ozja tsjawansa tsungaseda.		ore are=nge ozja tsjawan=sa tsung-ase-da	1sg.NOM 3sg=DAT tea.ACC cup=DAT pour-CAUS-PST	I made her/him pour tea into the cup.
+Mitsukaido Japanese	169		Arengani ozja umagu tsungene.		are=ngani ozja umagu tsung-e-ne	3sg=EXP tea.ACC well.ADV pour-POT-NEG.NPST	She/he can pour tea well.
+Mitsukaido Japanese	170		Are kodomonge mo:hu kageda.		are kodomo=nge mo:hu kage-da	3sg.NOM child=DAT blanket.ACC cover-PST	She/he covered a child with a blanket.
+Mitsukaido Japanese	171		Ore arenge mo:hu kodomonge kageraseda.		ore are=nge mo:hu kodomo=nge kage-rase-da	1sg.NOM 3sg=DAT blanket.ACC child=DAT cover-CAUS-PST	I made her/him cover the child with the blanket.
+Mitsukaido Japanese	172		Kodomonge mo:hu kagatteru.		kodomo=nge mo:hu kagat-te-ru	child=DAT blanket.NOM cover-GER.be-NPST	The blanket is covering the child.
+Mitsukaido Japanese	173		Kodomo areni mo:hu kagerareda.		kodomo are=ni mo:hu kage-rare-da	child.NOM 3sg=LOC blanket.ACC cover-PASS-PST	The child was covered with a blanket by her/him.
+Mitsukaido Japanese	174		Arenganiwa, me: samesasenede, kodomonge mo:hu kagerareru.		are=ngani=wa me: same-sase-ne-de kodomo=nge mo:hu kage-rare-ru	3sg=EXP=TOP eye.ACC awaken-CAUS-NEG-GER child=DAT blanket.ACC cover-POT-NPST	She/he can cover the child with the blanket without letting the child awaken.
+Mitsukaido Japanese	175		Are inomi ozjade ktsieppeni sjta.		are inomi ozja=de ktsieppe-ni sj-ta	3sg.NOM cup.ACC tea=INST full-ADV do-PST	She/he filled the cup with tea.
+Mitsukaido Japanese	176		Ore arenge inomi ozjade ktsieppeni saseda.		ore are=nge inomi ozja=de ktsieppe-ni s-ase-da	1sg.NOM 3sg=DAT cup.ACC tea=INST full-ADV do-CAUS-PST	I made her/him fill the cup with tea.
+Mitsukaido Japanese	177		Arenganiwa, hadaragimondagara, nagaja sazumade eppeni degiru.		are=ngani=wa hadaragimon=dagara nagaja sazuma=de eppe-ni degi-ru	3sg=EXP=TOP hardworker=because barn.ACC sweet_potato=INST full-ADV can-NPST	Because she/he is a hardworker, she/he can fill the barn with sweet potatoes."
+Mitsukaido Japanese	178		Are ningurumasa wara eppe tsunda.		are ninguruma=sa wara eppe tsun-da	3sg.NOM wagon=DAT hay.ACC much load-PST	She/he loaded hay on the wagon full.
+Mitsukaido Japanese	179		Ore arenge ningurumasa wara eppe tsumaseda.		ore are=nge ninguruma=sa wara eppe tsum-ase-da	1sg.NOM 3sg=DAT wagon=DAT hay.ACC much load-CAUS-PST	I made her/him load hay on the wagon full.
+Mitsukaido Japanese	180		Arenganiwa ningurumasa nimotsu mmagu tsumeru.		are=ngani=wa ninguruma=sa nimotsu mmagu tsum-e-ru	3sg=EXP=TOP wagon=DAT baggage.ACC well.ADV load-POT-NPST	She/he can load hay on the wagon well.
+Mitsukaido Japanese	181		Amakko mabadagi sjta.		amakko mabadagi_sj-ta	girl.NOM blink-PST	The girl blinked.
+Mitsukaido Japanese	182		Are segi sjta.		are segi_sj-ta	3sg.NOM cough-PST	She/he coughed.
+Mitsukaido Japanese	183		Are tskubasansa nobotta.		are tskubasan=sa nobot-ta	3sg.NOM Mt_Tsukuba=DAT climb-PST	She/he climbed Mt. Tsukuba.
+Mitsukaido Japanese	184		Ore aregodo janesa noboraseda.		ore are=godo jane=sa nobor-ase-da	1sg.NOM 3sg=ACC roof=DAT climb-CAUS-PST	I made her/him climb the roof.
+Mitsukaido Japanese	185		Arenganiwa tskubasansa noborebena.		are=ngani=wa tskubasan=sa nobor-e-be=na	3sg=EXP=TOP Mt_Tsukuba=DAT climb-POT-may=F	She/he may be able to climb Mt. Tsukuba.
+Mitsukaido Japanese	186		Jarokko ro:ka kageda.		jarokko ro:ka kage-da	boy.NOM corridor.ACC run-PST	The boy ran around the corridor.
+Mitsukaido Japanese	187		Ore jarokkogodo ro:ka kageraseda.		ore jarokko=godo ro:ka kage-rase-da	1sg.NOM boy=ACC corridor.ACC run-CAUS-PST	I made the boy run around the corridor.
+Mitsukaido Japanese	188		Jarokkongani subajagu kagerareru.		jarokko=ngani subajagu kage-rare-ru	boy=EXP fast run-POT-NPST	The boy can run fast.
+Mitsukaido Japanese	189		Are sogosa sa:tteru.		are sogo=sa sa:t-te-ru	3sg.NOM there=DAT sit-GER.be-NPST	She/he is sitting there.
+Mitsukaido Japanese	190		Ore aregodo sogosa sa:raseda.		ore are=godo sogo=sa sa:r-ase-da	1sg.NOM 3sg=ACC there=DAT sit-CAUS-PST	I made her/him sit there.
+Mitsukaido Japanese	191		Arengani ezumademo sa:reru.		are=ngani ezumademo sa:r-e-ru	3sg=EXP forever sit-POT-NPST	She/he can sit for a long time.
+Mitsukaido Japanese	192		Kodomo esusa (kosi)kageda.		kodomo esu=sa (kosi)kage-da	child.NOM chair=DAT sit.down-PST	The child sat down on the chair.
+Mitsukaido Japanese	193		Ore aregodo esusa (kosi)kageraseda.		ore are=godo esu=sa (kosi)kage-rase-da	1sg.NOM 3sg=ACC chair=DAT sit.down-CAUS-PST	I made her/him sit down on the chair.
+Mitsukaido Japanese	194		Ano kodomongani, egagu nattande, hjtonde (kosi)kage(rare)rujo:ni natta.		ano kodomo=ngani egagu nat-ta=nde hjtonde kosikage-rare-ru=jo:ni nat-ta	that child=EXP big.ADV become-PST=because alone sit.down-POT-NPST=like become-PST	The child became big and she/he could sit down by herself/himself.
+Mitsukaido Japanese	195		Ano jarokko niwade tondeda.		ano jarokko niwa=de ton-de-da	that boy.NOM garden=INST jump-GER.be-PST	That boy was jumping in the garden.
+Mitsukaido Japanese	196		Ore ano jarokkogodo tobaseda.		ore ano jarokko=godo tob-ase-da	1sg.NOM that boy=ACC jump-CAUS-PST	I made that boy jump.
+Mitsukaido Japanese	197		Ano jarokkonganiwa tagagu tobebena.		ano jarokko=ngani=wa tagagu tob-e-be=na	that boy=EXP=TOP high jump-POT-may=F	That boy may be able to jump high.
+Mitsukaido Japanese	198		Jarokko udatta.		jarokko udat-ta	boy.NOM sing-PST	The boy sang.
+Mitsukaido Japanese	199		Ore jarokkogodo uda:seda.		ore jarokko=godo uda:se-da	1sg.NOM boy=ACC sing.CAUS-PST	I made the boy sing.
+Mitsukaido Japanese	200		Jarokko ko:ka mmagu udatta.		jarokko ko:ka mmagu udat-ta	boy.NOM school_song.ACC well.ADV sing-PST	The boy sang a school song.
+Mitsukaido Japanese	201		Jarokkongani mmagu udaeru.		jarokko=ngani mmagu uda-e-ru	boy=EXP well.ADV sing-POT-NPST	The boy can sing well.
+Mitsukaido Japanese	202		Jarokko egisa etta.		jarokko egi=sa et-ta	boy.NOM station=DAT go-PST	The boy went to the station.
+Mitsukaido Japanese	203		Ore aregodo sogosa engaseda.		ore are=godo sogo=sa eng-ase-da	1sg.NOM 3sg=ACC there=DAT go-CAUS-PST	I made her/him go there.
+Mitsukaido Japanese	204		Arengani sogosa engerujo.		are=ngani sogo=sa eng-e-ru=jo	3sg=EXP there=DAT go-POT-NPST=F	She/he can go there.
+Mitsukaido Japanese	205		Ore sogogara dogede jatta.		ore sogo=gara doge-de jat-ta	1sg.NOM there=ABL leave-GER give-PST	I left there.
+Mitsukaido Japanese	206		Ore kodomogodo dogeraseda.		ore kodomo=godo doge-rase-da	1sg.NOM child=ACC leave-CAUS-PST	I made a child leave.
+Mitsukaido Japanese	207		Ore kodomogodo dogasjta.		ore kodomo=godo dogasj-ta	1sg.NOM child=ACC let.leave-PST	I made a child leave.
+Mitsukaido Japanese	208		Jarokko sogosa sunderu.		jarokko sogo=sa sun-de-ru	boy.NOM there=DAT live-GER.be-NPST	The boy lives there.
+Mitsukaido Japanese	209		Ore jarokkogodo sogosa sumaseda.		ore jarokko=godo sogo=sa sum-ase-da	1sg.NOM boy=ACC there=DAT live-CAUS-PST	I made the boy live there.
+Mitsukaido Japanese	210		Ano jarokkongani semai hejademo sumeru.		ano jarokko=ngani semai heja=de=mo sum-e-ru	that boy=EXP small room=INST=even live-POT-NPST	That boy can live even in the small room.
+Mitsukaido Japanese	211		Ano amakko waratta.		ano amakko warat-ta	that girl.NOM laugh-PST	That girl laughed.
+Mitsukaido Japanese	212		Are amakkogodo wara:seda.		are amakko=godo wara:se-da	3sg.NOM girl=ACC laugh.CAUS-PST	I made the girl laugh.
+Mitsukaido Japanese	213		Ano amakko aregodo warattedaganna.		ano amakko are=godo warat-te-da=ganna	that girl.NOM 3sg=ACC laugh-GER.be-PST=because.PRT	That girl was laughing at her/him.
+Mitsukaido Japanese	214		Are ano amakkoni wara:reda.		are ano amakko=ni wara:re-da	3sg.NOM that girl=LOC laugh.PASS-PST	She/he was laughed at by that girl.
+Mitsukaido Japanese	215		Are wame:da.		are wame:-da	3sg.NOM scream-PST	She/he screamed.
+Mitsukaido Japanese	216		Ore aregodo wamegaseda.		ore are=godo wameg-ase-da	1sg.NOM 3sg=ACC scream-CAUS-PST	I made her/him scream.
+Mitsukaido Japanese	217	Elicited from speaker	Kesa ore kosi edena.		kesa ore kosi ede=na	this_morning 1sg.NOM waist.NOM painful.NPST=F	This morning my waist hurt.
+Mitsukaido Japanese	218		Orengani samue.		ore=ngani samue	1sg=EXP cold.NPST	I feel cold.
+Mitsukaido Japanese	219		Are sinda.		are sin-da	3sg.NOM die-PST	She/he died.
+Mitsukaido Japanese	220		Kodomora asunderu.		kodomora asun-de-ru	child.PL.NOM play-GER.be-NPST	The children are playing.
+Mitsukaido Japanese	221		Ore kodomoragodo asubaseda.		ore kodomora=godo asub-ase-da	1sg.NOM child.PL=ACC play-CAUS-PST	I made the children play.
+Mitsukaido Japanese	222		Ano kodomonganiwa hjtonde asuberu.		ano kodomo=ngani=wa hjtonde asub-e-ru	that child=EXP=TOP alone play-POT-NPST	That child can play by herself/himself.
+Mitsukaido Japanese	223		Ore kanasi:.		ore kanasi:	1sg.NOM sad.NPST	I am sad.
+Mitsukaido Japanese	224		Ora hara hetta.		ora hara het-ta	1sg.TOP stomach.NOM empty-PST	I am hungry.
+Mitsukaido Japanese	225		Kodomo hara herasjte kaette kjta.		kodomo hara herasj-te kaet-te kj-ta	child.NOM stomach.ACC empty-GER return-GER come-PST	The child came home hungry.
+Mitsukaido Japanese	226		Bo:ru korongatta.		bo:ru korongat-ta	ball.NOM roll-PST	The ball rolled.
+Mitsukaido Japanese	227		Ore bo:ru korongasjta.		ore bo:ru korongasj-ta	1sg.NOM ball.ACC roll-PST	I rolled a ball.
+Mitsukaido Japanese	228		Hune sizunda.		hune sizun-da	boat.NOM sink-PST	The boat sank.
+Mitsukaido Japanese	229		Ore hune sizumeda.		ore hune sizume-da	1sg.NOM boat.ACC sink-PST	I sank the boat.
+Mitsukaido Japanese	230		Samma jageda.		samma jage-da	saury.NOM burn-PST	A saury was grilled.
+Mitsukaido Japanese	231		Ore arenge samma jagaseda.		ore are=nge samma jag-ase-da	1sg.NOM 3sg=DAT saury.ACC burn-CAUS-PST	I made her/him grill a saury.
+Mitsukaido Japanese	232		Ore samma jaeda.		ore samma jae-da	1sg.NOM saury.ACC burn-PST	I grilled a saury.
+Mitsukaido Japanese	233		Arengani umagu sagana jagera.		are=ngani umagu sagana jag-e-ra	3sg=EXP well.ADV fish.ACC burn-POT-NPST.F	She/he can grill a saury well.
+Mitsukaido Japanese	234		Ano uzi jagederu.		ano uzi jage-de-ru	that house.NOM burn-GER.be-NPST	The house is burning.
+Mitsukaido Japanese	235		Are, hino husimazude, uzi jaetsitta.		are hi=no husimazu=de uzi jae-tsit-ta	3sg.NOM fire=GEN carelessness=INST house.ACC let.burn-PERF-PST	She/he got her/his house burned because she/he did not watch the fire properly.
+Mitsukaido Japanese	236		Hku kawaeda.		hku kawae-da	clothes.NOM dry-PST	The clothes dried.
+Mitsukaido Japanese	237		Ore hku kawagasjta.		ore hku kawagasj-ta	1sg.NOM clothes.ACC dry-PST	I dried the clothes.
+Mitsukaido Japanese	238		Ame hutte kjtagara esoede komejo!		ame hut-te kj-ta=gara esoede kom-e=jo	rain.NOM fall-GER come-PST=because in_a_hurry take_(clothes)_in_the_house-IMP=F	Because it begins raining, take the clothes into the house!"
+Mitsukaido Japanese	239		Tuzituzide omaeri sjte, ame huraseru.		tuzituzi=de omaeri sj-te ame hur-ase-ru	crossroads=INST ceremony.ACC do-GER rain.ACC fall-CAUS-NPST	We will make it rain, by performing a ceremony at the crossroads."
+Mitsukaido Japanese	240		Ore usangigodo totta.		ore usangi=godo tot-ta	1sg.NOM rabbit=ACC hunt-PST	I hunted a rabbit.
+Mitsukaido Japanese	241		Ore arenge usangigodo toraseda.		ore are=nge usangi=godo tor-ase-da	1sg.NOM 3sg=DAT rabbit=ACC hunt-CAUS-PST	I made her/him hunt a rabbit.
+Mitsukaido Japanese	242		Areni usangi torarettjtta.		are=ni usangi tor-are-ttjt-ta	3sg=LOC rabbit.NOM hunt-PASS-PERF-PST	The rabbit was hunted by her/him.
+Mitsukaido Japanese	243		Orenganja usangi tonno mmaedo.		ore=nganja usangi ton=no mmae=do	1sg=EXP.TOP rabbit.ACC hunt=GEN.NOM good.NPST=F	I'm good at hunting a rabbit.
+Mitsukaido Japanese	244		Are goma sutta.		are goma sut-ta	3sg.NOM sesame.ACC grind-PST	She/he ground sesame.
+Mitsukaido Japanese	245		Ore arenge goma suraseda.		ore are=nge goma sur-ase-da	1sg.NOM 3sg=DAT sesame.ACC grind-CAUS-PST	I made her/him grind sesame.
+Mitsukaido Japanese	246		Arengani mmagu goma sureru.		are=ngani mmagu goma sur-e-ru	3sg=EXP well.ADV sesame.ACC grind-POT-NPST	She/he can grind sesame well.
+Mitsukaido Japanese	247		Are esusude soba hi:da.		are esusu=de soba hi:-da	3sg.NOM millstone=INST buckwheat.ACC grind-PST	She/he ground buckwheat with a millstone.
+Mitsukaido Japanese	248		Ore arenge esusude soba higaseda.		ore are=nge esusu=de soba hig-ase-da	1sg.NOM 3sg=DAT millstone=INST buckwheat.ACC grind-CAUS-PST	I made her/him grind buckwheat with a millstone.
+Mitsukaido Japanese	249		Arengani mmagu soba higeru.		are=ngani mmagu soba hig-e-ru	3sg=EXP well.ADV buckwheat.ACC grind-POT-NPST	She/he can grind buckwheat with a millstone.
+Mitsukaido Japanese	250		Amakko te:buru hueda.		amakko te:buru hue-da	girl.NOM table.ACC wipe-PST	The girl wiped a table.
+Mitsukaido Japanese	251		Ore amakkonge te:buru hugaseda.		ore amakko=nge te:buru hug-ase-da	1sg.NOM girl=DAT table.ACC wipe-CAUS-PST	I made the girl wipe the table.
+Mitsukaido Japanese	252		Ano amakkongani mmagu te:buru hugeru.		ano amakko=ngani mmagu te:buru hug-e-ru	that girl=EXP well.ADV table.ACC wipe-POT-NPST	The girl can wipe the table well.
+Mitsukaido Japanese	253		Amakko te:buruno uena mizu nugutta.		amakko te:buru=no ue=na mizu nugut-ta	girl.NOM table=GEN above=ADNLOC water.ACC wipe-PST	The girl wiped the water from the table.
+Mitsukaido Japanese	254		Ore amakkonge mizu nuguwaseda.		ore amakko=nge mizu nuguw-ase-da	1sg.NOM girl=DAT water.ACC wipe-CAUS-PST	I made the girl wipe the water.
+Mitsukaido Japanese	255		Ano amakkongani mizu mmagu nugueru.		ano amakko=ngani mizu mmagu nugu-e-ru	that girl=EXP water well.ADV wipe-POT-NPST	The girl can wipe the water well.
+Mitsukaido Japanese	256		Ore uena hadagesa medo hotta.		ore ue=na hadage=sa medo hot-ta	1sg.NOM above=ADNLOC field=DAT hole.ACC dig-PST	I dug a hole in the field above.
+Mitsukaido Japanese	257		Ore arenge uena hadagesa medo horaseda.		ore are=nge ue=na hadage=sa medo hor-ase-da	1sg.NOM 3sg=DAT above=ADNLOC field=DAT hole.ACC dig-CAUS-PST	I made her/him dig a hole in the field above.
+Mitsukaido Japanese	258		Arengani sunguni medo horeru.		are=ngani sunguni medo hor-e-ru	3sg=EXP immediately hole.ACC dig-POT-NPST	She/he can dig a hole soon.
+Mitsukaido Japanese	259		Are emo hotteru.		are emo hot-te-ru	3sg.NOM potato.ACC dig-GER.be-NPST	She/he is digging for potatoes.
+Mitsukaido Japanese	260		Ore arenge emo horaseda.		ore are=nge emo hor-ase-da	1sg.NOM 3sg=DAT potato.ACC dig-CAUS-PST	I made her/him dig for potatoes.
+Mitsukaido Japanese	261		Arengani mmagu emo horeru.		are=ngani mmagu emo hor-e-ru	3sg=EXP well.ADV potato.ACC dig-POT-NPST	She/he can dig for potatoes.
+Mitsukaido Japanese	262		Amakko arenga senaga osjta.		amakko are=nga senaga osj-ta	girl.NOM 3sg=POS back.ACC push-PST	The girl pushed her/his back.
+Mitsukaido Japanese	263		Ore amakkonge arenga senaga osaseda.		ore amakko=nge are=nga senaga os-ase-da	1sg.NOM girl=DAT 3sg=POS back.ACC push-CAUS-PST	I made the girl push her/his back.
+Mitsukaido Japanese	264		Are amakkoni senaga osareda.		are amakko=ni senaga os-are-da	3sg.NOM girl=LOC back.ACC push-PASS-PST	She/he had her/his back pushed by the girl.
+Mitsukaido Japanese	265		Ano amakkongani arenga senaga oseru.		ano amakko=ngani are=nga senaga os-e-ru	that girl=EXP 3sg=POS back.ACC push-POT-NPST	That girl can push her/his back.
+Mitsukaido Japanese	266		Amakko sense:nga hon nusunda.		amakko sense:=nga hon nusun-da	girl.NOM teacher=POS book.ACC steal-PST	The girl stole the teacher's book.
+Mitsukaido Japanese	267		Ore amakkonge sense:nga hon nusumaseda.		ore amakko=nge sense:=nga hon nusum-ase-da	1sg.NOM girl=DAT teacher=POS book.ACC steal-CAUS-PST	I made the girl steal the teacher's book.
+Mitsukaido Japanese	268		Sense: amakkoni hon nusumareda.		sense: amakko=ni hon nusum-are-da	teacher.NOM girl=LOC book.ACC steal-PASS-PST	The teacher was stolen her/his book by the girl.
+Mitsukaido Japanese	269		Amakkongani sense:nga hon nusumeru.		amakko=ngani sense:=nga hon nusum-e-ru	girl=EXP teacher=POS book.ACC steal-POT-NPST	The girl can steal the teacher's book.
+Mitsukaido Japanese	270		Areni pan kuttjawareda.		are=ni pan kut-tjaw-are-da	3sg=LOC bread.NOM eat-PERF-PASS-PST	The bread had been eaten by her/him.
+Mitsukaido Japanese	271		Sense: orenge su:ngagu ose:da.		sense: ore=nge su:ngagu ose:-da	teacher.NOM 1sg=DAT mathematics.ACC teach-PST	The teacher taught me math.
+Mitsukaido Japanese	272		Ka:tjan agambogodo dakko sjteda.		ka:tjan agambo=godo dakko_sj-te-da	mother.NOM baby=ACC hold-GER.be-PST	Mother hugged the baby.
+Mitsukaido Japanese	273		Ore arenge jarokkonge kore oseraseda.		ore are=nge jarokko=nge kore ose-rase-da	1sg.NOM 3sg=DAT boy=DAT this.ACC teach-CAUS-PST	I made her/him teach this to the boy.
+Mitsukaido Japanese	274		Agambo ka:tjannge dagasatteda.		agambo ka:tjan=nge dagasat-te-da	baby.NOM mother=DAT be.held-GER.be-PST	The baby was hugged in her/his mother's arm.
+Mitsukaido Japanese	275		Ore sense:ni kore osatta.		ore sense:=ni kore osat-ta	1sg.NOM teacher=LOC this.ACC be.taught-PST	I learnt this from the teacher.
+Mitsukaido Japanese	276		Agambo ka:tjanni dakko sarededa.		agambo ka:tjan=ni dakko_s-are-de-da	baby.NOM mother=LOC hold-PASS-GER.be-PST	The baby was hugged by her/his mother.
+Mitsukaido Japanese	277		Ore areni kore oserareda.		ore are=ni kore ose-rare-da	1sg.NOM 3sg=LOC this.ACC teach-PASS-PST	I was taught this by her/him.
+Mitsukaido Japanese	278		Ore tonarino amakkogodo skida.		ore tonari=no amakko=godo ski=da	1sg.NOM next=GEN girl=ACC like=COP.NPST	I like the girl next door.
+Mitsukaido Japanese	279		Arengani arenge mmagu kore oserareru.		are=ngani are=nge mmagu kore ose-rare-ru	3sg=EXP 3sg=DAT well.ADV this.ACC teach-POT-NPST	She/he can teach this to her/him well.
+Mitsukaido Japanese	280		Ore manzju: kini etta.		ore manzju: kini_et-ta	1sg.NOM manju.ACC like-PST	I like manju.
+Mitsukaido Japanese	281		Orengani ano odo kigeru.		ore=ngani ano odo kige-ru	1sg=EXP that sound.NOM hear-NPST	I can hear that sound.
+Mitsukaido Japanese	282		Amakkoni hku arattja:reda.		amakko=ni hku ara-ttja:re-da	girl=LOC clothes.NOM wash-PERF.PASS-PST	The clothes were washed by the girl.
+Mitsukaido Japanese	283		Oi waeda.		oi wae-da	hot_water.NOM boil-PST	The water boiled.
+Mitsukaido Japanese	284		Ore ano amakkodo egiattajo.		ore ano amakko=do egiat-ta=jo	1sg.NOM that girl=COM meet-PST=F	I met that girl.
+Mitsukaido Japanese	285		Ore oi wagasjta.		ore oi wagasj-ta	1sg.NOM hot_water.ACC boil-PST	I boiled the water.
+Mitsukaido Japanese	286		Amakko sense:nge odomegodo miseda.		amakko sense:=nge odome=godo mise-da	girl.NOM teacher=DAT baby=ACC show-PST	The girl showed a baby to the teacher.
+Mitsukaido Japanese	287		Ore amakkonge sense:nge sjkudae miseraseda.		ore amakko=nge sense:=nge sjkudae mise-rase-da	1sg.NOM girl=DAT teacher=DAT homework.ACC show-CAUS-PST	I made the girl show the homework to the teacher.
+Mitsukaido Japanese	288		Sense: amakkoni odomegodo miserareda.		sense: amakko=ni odome=godo mise-rare-da	teacher.NOM girl=LOC baby=ACC show-PASS-PST	The teacher was shown a baby by the girl.
+Mitsukaido Japanese	289		Ano amakkonganja sense:nge odomegodo mise-{rare/re}-ru.		ano amakko=nganja sense:=nge odome=godo mise-{rare/re}-ru	that girl=EXP.TOP teacher=DAT baby=ACC show-POT-NPST	The girl can show a baby to the teacher.
+Mitsukaido Japanese	290		Musumekko kjogugara gakko:sa hon ogutta.		musumekko kjogu=gara gakko:=sa hon ogut-ta	girl.NOM post_office=ABL school=DAT book.ACC send-PST	The girl sent a book to school from the post office.
+Mitsukaido Japanese	291		Ore musumekkonge hon gakko:sa oguraseda.		ore musumekko=nge hon gakko:=sa ogur-ase-da	1sg.NOM girl=DAT book.ACC school=DAT send-CAUS-PST	I made the girl send a book to school.
+Mitsukaido Japanese	292		Amakko gakko:sa hon mottetta.		amakko gakko:=sa hon mottet-ta	girl.NOM school=DAT book.ACC carry-PST	The girl carried a book to school.
+Mitsukaido Japanese	293		Ore amakkonge hon gakko:sa mottengaseda.		ore amakko=nge hon gakko:=sa motteng-ase-da	1sg.NOM girl=DAT book.ACC school=DAT carry-CAUS-PST	I made the girl carry a book to school.
+Mitsukaido Japanese	294		Ore jarokkonge ko:ka uda:seda.		ore jarokko=nge ko:ka uda:se-da	1sg.NOM boy=DAT school_song.ACC sing.CAUS-PST	I made the boy sing a school song.
+Mitsukaido Japanese	295		Are kanasinderu.		are kanasin-de-ru	3sg.NOM be_sad-GER.be-NPST	She/he feels sad.
+Mitsukaido Japanese	296		Areni usangi tottjareda.		are=ni usangi tot-tjare-da	3sg=LOC rabbit.NOM hunt-PERF.PASS-PST	The rabbit was hunted by her/him.
+Mitsukaido Japanese	297		Ore aregodo amakkodo egia:seda.		ore are=godo amakko=do egia:se-da	1sg.NOM 3sg=ACC girl=COM meet.CAUS-PST	I made her/him meet the girl.
+Mitsukaido Japanese	298		Sense: odomegodo mida.		sense: odome=godo mi-da	teacher.NOM baby=ACC see-PST	The teacher saw a baby.
+Mitsukaido Japanese	299		Are tskubasan nobotta.		are tskubasan nobot-ta	3sg.NOM Mt_Tsukuba.ACC climb-PST	She/he climbed Mt. Tsukuba.
+Mitsukaido Japanese	300		Ore aregodo jane noboraseda.		ore are=godo jane nobor-ase-da	1sg.NOM 3sg=ACC roof.ACC climb-CAUS-PST	I made her/him climb the roof.
+Mitsukaido Japanese	301		Are samugatteda.		are samugat-te-da	3sg.NOM feel.cold-GER.be-PST	She/he felt cold.
+Mitsukaido Japanese	302		Hono odogo jarokkogodo tamangeragasjta.		hono odogo jarokko=godo tamangeragasj-ta	that man.NOM boy=ACC surprise-PST	That man surprised the boy.
+Mitsukaido Japanese	303		Jarokko ({ot/but})tamangeda.		jarokko ({ot/but})tamange-da	boy.NOM be.surprised-PST	The boy was surprised.
+Mitsukaido Japanese	304		Jarokko hono odogoni tamangeragasareda.		jarokko hono odogo=ni tamangeragas-are-da	boy.NOM that man=LOC surprise-PASS-PST	The boy was surprised by that man.
+Mitsukaido Japanese	305		Ore hono odogonge jarokkogodo tamangeragasaseda.		ore hono odogo=nge jarokko=godo tamangeragas-ase-da	1sg.NOM that man=DAT boy=ACC surprise-CAUS-PST	I made that man surprise the boy.
+Mitsukaido Japanese	306		Orenganja aregodo tamangeragaseru.		ore=nganja are=godo tamangeragas-e-ru	1sg=EXP.TOP 3sg=ACC surprise-POT-NPST	I can surprise her/him.
+Mitsukaido Japanese	307		Ore arenge donatta.		ore are=nge donat-ta	1sg.NOM 3sg=DAT shout.at-PST	I shouted at her/him.
+Mitsukaido Japanese	308		Ore areni donarareda.		ore are=ni donar-are-da	1sg.NOM 3sg=LOC shout.at-PASS-PST	I was shouted at by her/him.
+Mitsukaido Japanese	309		Ore areni zinarareda.		ore are=ni zinar-are-da	1sg.NOM 3sg=LOC shout.at-PASS-PST	I was shouted at by her/him.
+Mitsukaido Japanese	310		Ore arenge zinatta.		ore are=nge zinat-ta	1sg.NOM 3sg=DAT shout.at-PST	I shouted at her/him.
+Mitsukaido Japanese	311		Ore sengaregodo arenge donaraseda.		ore sengare=godo are=nge donar-ase-da	1sg.NOM son=ACC 3sg=DAT shout.at-CAUS-PST	I made my son shout at her/him.
+Mitsukaido Japanese	312		Ore sengaregodo arenge zinaraseda.		ore sengare=godo are=nge zinar-ase-da	1sg.NOM son=ACC 3sg=DAT shout.at-CAUS-PST	I made my son shout at her/him.
+Mitsukaido Japanese	313		Orenganiwa zinarenena.		ore=ngani=wa zinar-e-ne=na	1sg=EXP=TOP shout.at-POT-NEG.NPST=F	I cannot shout.
+Mitsukaido Japanese	314		Ore amakkonge sonna godo sjtsja oenenatte itta.		ore amakko=nge sonna godo sj-tsja oene=na=tte it-ta	1sg.NOM girl=DAT such thing.ACC do-COND no.good=F=CIT say-PST	I said to the girl "It's not good to do such a thing."."
+Mitsukaido Japanese	315		Ore dege: odo ki:da.		ore dege: odo ki:-da	1sg.NOM big.NPST sound.ACC hear-PST	I heard a big sound.
+Mitsukaido Japanese	316		Ore tonarinteni naesjobanasji kigarettsjtta.		ore tonarinte=ni naesjobanasji kig-are-ttsjt-ta	1sg.NOM neighbor=LOC secret.story.ACC hear-PASS-PERF-PST	I was affected by my neighbor's hearing of my secret story.
+Mitsukaido Japanese	317		Ore kodomonge hanasji kigaseda.		ore kodomo=nge hanasji kig-ase-da	1sg.NOM child=DAT story.ACC hear-CAUS-PST	I made the child listen to the story.

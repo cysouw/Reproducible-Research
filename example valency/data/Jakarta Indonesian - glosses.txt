@@ -1,0 +1,25 @@
+﻿Language_name	Gloss	Meaning
+Jakarta Indonesian	1	first person
+Jakarta Indonesian	3	third person
+Jakarta Indonesian	ACT	active
+Jakarta Indonesian	ADVERS	adversative
+Jakarta Indonesian	AGNMLZ	agent nominalizer
+Jakarta Indonesian	APPL	applicative
+Jakarta Indonesian	ASSOC	associative
+Jakarta Indonesian	COMP	comperative
+Jakarta Indonesian	G	generalized
+Jakarta Indonesian	G.ACT	generalized active
+Jakarta Indonesian	G.APPL	generalized applicative
+Jakarta Indonesian	G.PASS	generalized passive
+Jakarta Indonesian	INST	instrumental
+Jakarta Indonesian	LOC	locative
+Jakarta Indonesian	NMLZ	nominalizer
+Jakarta Indonesian	NONVOL	nonvolitional
+Jakarta Indonesian	PASS	passive
+Jakarta Indonesian	PFCT	perfective
+Jakarta Indonesian	PROG	progressive
+Jakarta Indonesian	RED	reduplication
+Jakarta Indonesian	TRU	truncation
+Jakarta Indonesian	fam	familiar
+Jakarta Indonesian	pl	plural
+Jakarta Indonesian	sg	singular

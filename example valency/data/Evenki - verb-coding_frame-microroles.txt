@@ -1,0 +1,191 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Evenki	1	EAT	d’ep-	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Evenki	1	EAT	d’ep-	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Evenki	2	HUG	kumle-	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Evenki	2	HUG	kumle-	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Evenki	3	LOOK AT	ičet-	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Evenki	3	LOOK AT	ičet-	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Evenki	4	SEE	iče-	Basic	1-nom 2-acc V	1	seeer	NP-nom	A
+Evenki	4	SEE	iče-	Basic	1-nom 2-acc V	2	seen entity	NP-acc	P
+Evenki	5	SMELL	Ŋosukta-	Basic	1-nom 2-acc V	1	smeller	NP-nom	A
+Evenki	5	SMELL	Ŋosukta-	Basic	1-nom 2-acc V	2	smelled entity	NP-acc	P
+Evenki	6	FEAR	Ŋeelet-	Basic	1-nom 2-abl V	1	fearer	NP-nom	S
+Evenki	6	FEAR	Ŋeelet-	Basic	1-nom 2-abl V	2	fear stimulus	NP-abl	X
+Evenki	7	FRIGHTEN	ŋeele-vken-	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Evenki	7	FRIGHTEN	ŋeele-vken-	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Evenki	8	LIKE	ajav-	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Evenki	8	LIKE	ajav-	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Evenki	9	KNOW	saa-	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Evenki	9	KNOW	saa-	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Evenki	10	THINK	d'alda-	Basic	1-nom 2-prol V	1	thinker	NP-nom	S
+Evenki	10	THINK	d'alda-	Basic	1-nom 2-prol V	2	thought content	NP-prol	X
+Evenki	11	SEARCH FOR	gelekte-	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Evenki	11	SEARCH FOR	gelekte-	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Evenki	12	WASH	av-	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Evenki	12	WASH	av-	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Evenki	13	DRESS	tet-yv--	Basic	1-nom 2-acc V	1	dresser	NP-nom	A
+Evenki	13	DRESS	tet-yv--	Basic	1-nom 2-acc V	2	dressee	NP-acc	P
+Evenki	14	SHAVE (a body part/person)	husča-	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Evenki	14	SHAVE (a body part/person)	husča-	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Evenki	15	HELP	bele-	Basic	1-nom 2-dat V	1	helper	NP-nom	S
+Evenki	15	HELP	bele-	Basic	1-nom 2-dat V	2	helpee	NP-dat	L
+Evenki	16	FOLLOW	bodo-	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Evenki	16	FOLLOW	bodo-	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Evenki	17	MEET	asila- (1)	Basic	1-nom 2-acc V	1	meeter	NP-nom	A
+Evenki	17	MEET	asila- (1)	Basic	1-nom 2-acc V	2	met person	NP-acc	P
+Evenki	18	TALK	ulgučen- (2)	Basic	1-nom 2-prol 3-com V	1	talker	NP-nom	S
+Evenki	18	TALK	ulgučen- (2)	Basic	1-nom 2-prol 3-com V	2	talked about content	NP-prol	X
+Evenki	18	TALK	ulgučen- (2)	Basic	1-nom 2-prol 3-com V	3	talked to person	NP-com	X
+Evenki	19	ASK FOR	ejet-	Basic	1-nom 2-acc 3-acc V	1	asker	NP-nom	A
+Evenki	19	ASK FOR	ejet-	Basic	1-nom 2-acc 3-acc V	2	askee	NP-acc	P
+Evenki	19	ASK FOR	ejet-	Basic	1-nom 2-acc 3-acc V	3	requested thing	NP-acc	P
+Evenki	20	SHOUT AT	tepke- (1)	Basic	1-nom 2-all V	1	shouter	NP-nom	S
+Evenki	20	SHOUT AT	tepke- (1)	Basic	1-nom 2-all V	2	shoutee	NP-all	X
+Evenki	21	TELL	ulgučen- (1)	Basic	1-nom 2-acc 3-dat V	1	teller	NP-nom	A
+Evenki	21	TELL	ulgučen- (1)	Basic	1-nom 2-acc 3-dat V	2	told content	NP-acc	P
+Evenki	21	TELL	ulgučen- (1)	Basic	1-nom 2-acc 3-dat V	3	tellee	NP-dat	L
+Evenki	22	SAY	guun-	Basic	1-nom 2-acc 3-dat V	1	sayer	NP-nom	A
+Evenki	22	SAY	guun-	Basic	1-nom 2-acc 3-dat V	2	said content	NP-acc	P
+Evenki	22	SAY	guun-	Basic	1-nom 2-acc 3-dat V	3	saying addressee	NP-dat	L
+Evenki	23	NAME	gerbit-	Basic	1-nom 2-acc 3-instr V	1	namer	NP-nom	A
+Evenki	23	NAME	gerbit-	Basic	1-nom 2-acc 3-instr V	2	namee	NP-acc	P
+Evenki	23	NAME	gerbit-	Basic	1-nom 2-acc 3-instr V	3	name	NP-instr	I
+Evenki	24	BUILD	oo-	Basic	1-nom 2-acc 3-abl V	1	builder	NP-nom	A
+Evenki	24	BUILD	oo-	Basic	1-nom 2-acc 3-abl V	2	built thing	NP-acc	P
+Evenki	24	BUILD	oo-	Basic	1-nom 2-acc 3-abl V	3	building material	NP-abl	X
+Evenki	25	BREAK	sukča-	Basic	1-nom 2-acc 3-instr V	1	breaker	NP-nom	A
+Evenki	25	BREAK	sukča-	Basic	1-nom 2-acc 3-instr V	2	broken thing	NP-acc	P
+Evenki	25	BREAK	sukča-	Basic	1-nom 2-acc 3-instr V	3	breaking instrument	NP-instr	I
+Evenki	26	KILL	vaa-	Basic	1-nom 2-acc 3-instr V	1	killer	NP-nom	A
+Evenki	26	KILL	vaa-	Basic	1-nom 2-acc 3-instr V	2	killee	NP-acc	P
+Evenki	26	KILL	vaa-	Basic	1-nom 2-acc 3-instr V	3	killing instrument	NP-instr	I
+Evenki	27	BEAT	iktu-	Basic	1-nom 2-acc 3-instr V	1	beater	NP-nom	A
+Evenki	27	BEAT	iktu-	Basic	1-nom 2-acc 3-instr V	2	beatee	NP-acc	P
+Evenki	27	BEAT	iktu-	Basic	1-nom 2-acc 3-instr V	3	beating instrument	NP-instr	I
+Evenki	28	HIT	ikte-	Basic	1-nom 2-acc 3-instr V	1	hitter	NP-nom	A
+Evenki	28	HIT	ikte-	Basic	1-nom 2-acc 3-instr V	2	hittee	NP-acc	P
+Evenki	28	HIT	ikte-	Basic	1-nom 2-acc 3-instr V	3	hitting instrument	NP-instr	I
+Evenki	29	TOUCH	Ileče-	Basic	1-nom 2-acc 3-instr V	1	toucher	NP-nom	A
+Evenki	29	TOUCH	Ileče-	Basic	1-nom 2-acc 3-instr V	2	touchee	NP-acc	P
+Evenki	29	TOUCH	Ileče-	Basic	1-nom 2-acc 3-instr V	3	touching instrument	NP-instr	I
+Evenki	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V	1	cutter	NP-nom	A
+Evenki	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V	2	cut thing	NP-acc	P
+Evenki	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V	3	cutting instrument	NP-instr	I
+Evenki	31	TAKE	d'ava-	Basic	1-nom 2-acc 3-abl V	1	taker	NP-nom	A
+Evenki	31	TAKE	d'ava-	Basic	1-nom 2-acc 3-abl V	2	taken thing	NP-acc	P
+Evenki	31	TAKE	d'ava-	Basic	1-nom 2-acc 3-abl V	3	taking source	NP-abl	X
+Evenki	32	TEAR	etyt-	Basic	1-nom 2-acc 3-abl V	1	tearer	NP-nom	A
+Evenki	32	TEAR	etyt-	Basic	1-nom 2-acc 3-abl V	2	torn thing	NP-acc	P
+Evenki	32	TEAR	etyt-	Basic	1-nom 2-acc 3-abl V	3	tearing source	NP-abl	X
+Evenki	33	PEEL	ile-	Basic	1-nom 2-acc 3-abl V	1	peeler	NP-nom	A
+Evenki	33	PEEL	ile-	Basic	1-nom 2-acc 3-abl V	2	peel	NP-acc	P
+Evenki	33	PEEL	ile-	Basic	1-nom 2-acc 3-abl V	3	peeled object	NP-abl	X
+Evenki	34	HIDE	d’aja-	Basic	1-nom 2-acc 3-abl V	1	hider	NP-nom	A
+Evenki	34	HIDE	d’aja-	Basic	1-nom 2-acc 3-abl V	2	hidden thing	NP-acc	P
+Evenki	34	HIDE	d’aja-	Basic	1-nom 2-acc 3-abl V	3	hiding affectee	NP-abl	X
+Evenki	35	SHOW	iče-vken-	Basic	1-nom 2-acc 3-dat V	1	shower	NP-nom	A
+Evenki	35	SHOW	iče-vken-	Basic	1-nom 2-acc 3-dat V	2	shown thing	NP-acc	P
+Evenki	35	SHOW	iče-vken-	Basic	1-nom 2-acc 3-dat V	3	showing addressee	NP-dat	L
+Evenki	36	GIVE	buu-	Basic	1-nom 2-acc 3-dat V	1	giver	NP-nom	A
+Evenki	36	GIVE	buu-	Basic	1-nom 2-acc 3-dat V	2	gift	NP-acc	P
+Evenki	36	GIVE	buu-	Basic	1-nom 2-acc 3-dat V	3	giving recipient	NP-dat	L
+Evenki	37	SEND	ung-	Basic	1-nom 2-acc 3-loc V	1	sender	NP-nom	A
+Evenki	37	SEND	ung-	Basic	1-nom 2-acc 3-loc V	2	sent thing	NP-acc	P
+Evenki	37	SEND	ung-	Basic	1-nom 2-acc 3-loc V	3	sending recipient	NP-loc	X
+Evenki	38	CARRY	Ŋene-v-	Basic	1-nom 2-acc 3-loc V	1	carrier	NP-nom	A
+Evenki	38	CARRY	Ŋene-v-	Basic	1-nom 2-acc 3-loc V	2	carried thing	NP-acc	P
+Evenki	38	CARRY	Ŋene-v-	Basic	1-nom 2-acc 3-loc V	3	carrying goal	NP-loc	X
+Evenki	39	THROW	nodaa-	Basic	1-nom 2-acc 3-loc V	1	thrower	NP-nom	A
+Evenki	39	THROW	nodaa-	Basic	1-nom 2-acc 3-loc V	2	thrown thing	NP-acc	P
+Evenki	39	THROW	nodaa-	Basic	1-nom 2-acc 3-loc V	3	throwing goal	NP-loc	X
+Evenki	40	TIE	ui-	Basic	1-nom 2-acc 3-dat V	1	tier	NP-nom	A
+Evenki	40	TIE	ui-	Basic	1-nom 2-acc 3-dat V	2	tied thing	NP-acc	P
+Evenki	40	TIE	ui-	Basic	1-nom 2-acc 3-dat V	3	tying goal	NP-dat	L
+Evenki	41	PUT	nee-	Basic	1-nom 2-acc 3-dat V	1	putter	NP-nom	A
+Evenki	41	PUT	nee-	Basic	1-nom 2-acc 3-dat V	2	put thing	NP-acc	P
+Evenki	41	PUT	nee-	Basic	1-nom 2-acc 3-dat V	3	putting goal	NP-dat	L
+Evenki	42	POUR	uŋku-	Basic	1-nom 2-acc 3-dat V	1	pourer	NP-nom	A
+Evenki	42	POUR	uŋku-	Basic	1-nom 2-acc 3-dat V	2	poured substance	NP-acc	P
+Evenki	42	POUR	uŋku-	Basic	1-nom 2-acc 3-dat V	3	pouring goal	NP-dat	L
+Evenki	43	COVER	das-	Basic	1-nom 2-acc 3-instr V	1	coverer	NP-nom	A
+Evenki	43	COVER	das-	Basic	1-nom 2-acc 3-instr V	2	covered thing	NP-acc	P
+Evenki	43	COVER	das-	Basic	1-nom 2-acc 3-instr V	3	cover	NP-instr	I
+Evenki	44	FILL	d’alupki-	Basic	1-nom 2-acc 3-instr V	1	filler	NP-nom	A
+Evenki	44	FILL	d’alupki-	Basic	1-nom 2-acc 3-instr V	2	filled container	NP-acc	P
+Evenki	44	FILL	d’alupki-	Basic	1-nom 2-acc 3-instr V	3	filling material	NP-instr	I
+Evenki	45	LOAD	tev-	Basic	1-nom 2-acc 3-dat V	1	loader	NP-nom	A
+Evenki	45	LOAD	tev-	Basic	1-nom 2-acc 3-dat V	2	loaded thing	NP-acc	P
+Evenki	45	LOAD	tev-	Basic	1-nom 2-acc 3-dat V	3	loading place	NP-dat	L
+Evenki	46	BLINK	sarim-	Basic	1-nom V	1	blinker	NP-nom	S
+Evenki	47	COUGH	simkit-	Basic	1-nom V	1	cougher	NP-nom	S
+Evenki	48	CLIMB	tukty-	Basic	1-nom 2-loc V	1	climber	NP-nom	S
+Evenki	48	CLIMB	tukty-	Basic	1-nom 2-loc V	2	climbing goal	NP-loc	X
+Evenki	49	RUN	tuksa-	Basic	1-nom 2-prol V	1	runner	NP-nom	S
+Evenki	49	RUN	tuksa-	Basic	1-nom 2-prol V	2	running place	NP-prol	X
+Evenki	50	SIT	tege-t-	Basic	1-nom 2-dat V	1	sitter	NP-nom	S
+Evenki	50	SIT	tege-t-	Basic	1-nom 2-dat V	2	sitting place	NP-dat	L
+Evenki	51	SIT DOWN	tege-	Basic	1-nom 2-dat V	1	sitdowner	NP-nom	S
+Evenki	51	SIT DOWN	tege-	Basic	1-nom 2-dat V	2	sitting-down place	NP-dat	L
+Evenki	52	JUMP	mikčan-	Basic	1-nom 2-loc V	1	jumper	NP-nom	S
+Evenki	52	JUMP	mikčan-	Basic	1-nom 2-loc V	2	jump location	NP-loc	X
+Evenki	53	SING	ike-	Basic	1-nom 2-acc V	1	singer	NP-nom	A
+Evenki	53	SING	ike-	Basic	1-nom 2-acc V	2	song	NP-acc	P
+Evenki	54	GO	ŋene-	Basic	1-nom 2-loc V	1	goer	NP-nom	S
+Evenki	54	GO	ŋene-	Basic	1-nom 2-loc V	2	going goal	NP-loc	X
+Evenki	55	LEAVE	suru-	Basic	1-nom 2-abl V	1	leaver	NP-nom	S
+Evenki	55	LEAVE	suru-	Basic	1-nom 2-abl V	2	left place/person	NP-abl	X
+Evenki	56	LIVE	bi-	Basic	1-nom 2-dat V	1	liver	NP-nom	S
+Evenki	56	LIVE	bi-	Basic	1-nom 2-dat V	2	living place	NP-dat	L
+Evenki	57	LAUGH	in’ekte-	Basic	1-nom V	1	laugher	NP-nom	S
+Evenki	58	SCREAM	tepke- (2)	Basic	1-nom V	1	screamer	NP-nom	S
+Evenki	59	FEEL PAIN	enuu-	Basic	1-nom V	1	pain locus	NP-nom	S
+Evenki	60	FEEL COLD	doŋoto-	Basic	1-nom V	1	freezing person	NP-nom	S
+Evenki	61	DIE	bu-	Basic	1-nom V	1	dieer	NP-nom	S
+Evenki	62	PLAY	evi-	Basic	1-nom V	1	player	NP-nom	S
+Evenki	63	BE SAD	merge-	Basic	1-nom V	1	sad person	NP-nom	S
+Evenki	64	BE HUNGRY	d’em-mu-	Basic	1-nom V	1	hungry person	NP-nom	S
+Evenki	65	ROLL	sirun-	Basic	1-nom V	1	rolling entity	NP-nom	S
+Evenki	66	SINK	eje-	Basic	1-nom V	1	sunken entity	NP-nom	S
+Evenki	67	BURN	d’egde-	Basic	1-nom V	1	burnt thing	NP-nom	S
+Evenki	68	BE DRY	olgokin bi-	Basic	1-nom V	1	dry thing	NP-nom	S
+Evenki	69	RAIN	udun-	Basic	1-nom V	1	rain	NP-nom	S
+Evenki	70	BE A HUNTER	bejumimni bi-	Basic	1-nom V	1	specialist/hunter	NP-nom	S
+Evenki	71	GRIND	huku-	Basic	1-nom 2-acc 3-instr V	1	grinder	NP-nom	A
+Evenki	71	GRIND	huku-	Basic	1-nom 2-acc 3-instr V	2	ground thing	NP-acc	P
+Evenki	71	GRIND	huku-	Basic	1-nom 2-acc 3-instr V	3	grinding instrument	NP-instr	I
+Evenki	72	WIPE	tesi-	Basic	1-nom 2-acc 3-abl V	1	wiper	NP-nom	A
+Evenki	72	WIPE	tesi-	Basic	1-nom 2-acc 3-abl V	2	wiped material	NP-acc	P
+Evenki	72	WIPE	tesi-	Basic	1-nom 2-acc 3-abl V	3	wiping surface	NP-abl	X
+Evenki	73	DIG	ulee-	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Evenki	73	DIG	ulee-	Basic	1-nom 2-acc V	2	dug up thing	NP-acc	P
+Evenki	74	PUSH	ana-	Basic	1-nom 2-acc 3-loc V	1	pusher	NP-nom	A
+Evenki	74	PUSH	ana-	Basic	1-nom 2-acc 3-loc V	2	pushee	NP-acc	P
+Evenki	74	PUSH	ana-	Basic	1-nom 2-acc 3-loc V	3	pushing goal	NP-loc	X
+Evenki	75	BRING	eme-v-	Basic	1-nom 2-acc 3-dat V	1	bringer	NP-nom	A
+Evenki	75	BRING	eme-v-	Basic	1-nom 2-acc 3-dat V	2	brought thing	NP-acc	P
+Evenki	75	BRING	eme-v-	Basic	1-nom 2-acc 3-dat V	3	bringing recipient	NP-dat	L
+Evenki	76	STEAL	d’oromo-	Basic	1-nom 2-acc 3-abl V	1	stealer	NP-nom	A
+Evenki	76	STEAL	d’oromo-	Basic	1-nom 2-acc 3-abl V	2	stolen thing	NP-acc	P
+Evenki	76	STEAL	d’oromo-	Basic	1-nom 2-acc 3-abl V	3	stealing source	NP-abl	X
+Evenki	77	TEACH	alagu-	Basic	1-nom 2-acc 3-dat V	1	teacher	NP-nom	A
+Evenki	77	TEACH	alagu-	Basic	1-nom 2-acc 3-dat V	2	teachee	NP-acc	P
+Evenki	77	TEACH	alagu-	Basic	1-nom 2-acc 3-dat V	3	taught content	NP-dat	L
+Evenki	78	HEAR	dooldy-	Basic	1-nom 2-acc V	1	hearer	NP-nom	A
+Evenki	78	HEAR	dooldy-	Basic	1-nom 2-acc V	2	heard sound	NP-acc	P
+Evenki	79	COOK	irii-	Basic	1-nom 2-acc V	1	cooker	NP-nom	A
+Evenki	79	COOK	irii-	Basic	1-nom 2-acc V	2	cooked food	NP-acc	P
+Evenki	80	BOIL	huju-	Basic	1-nom V	1	boiled thing	NP-nom	S
+Evenki	81	APPEAR	iče-vu-l-	Basic	1-nom 2-dat V	1	appearer	NP-nom	S
+Evenki	81	APPEAR	iče-vu-l-	Basic	1-nom 2-dat V	2	appear location	NP-dat	L
+Evenki	84	FALL	buru-	Basic	1-nom V	1	fallee	NP-nom	S
+Evenki	86	GET	ga-	Basic	1-nom 2-acc 3-abl V	1	receiver	NP-nom	A
+Evenki	86	GET	ga-	Basic	1-nom 2-acc 3-abl V	2	received thing	NP-acc	P
+Evenki	86	GET	ga-	Basic	1-nom 2-acc 3-abl V	3	receiving source	NP-abl	X
+Evenki	91	REMEMBER	d’onča-	Basic	1-nom 2-acc V	1	rememberer	NP-nom	A
+Evenki	91	REMEMBER	d’onča-	Basic	1-nom 2-acc V	2	remembered thing	NP-acc	P
+Evenki	93	HUNT (FOR)	bejukte-	Basic	1-nom 2-acc V	1	hunter	NP-nom	A
+Evenki	93	HUNT (FOR)	bejukte-	Basic	1-nom 2-acc V	2	hunted thing	NP-acc	P
+Evenki	96	MARRY	asila- (2)	Basic	1-nom 2-acc V	1	marrying person	NP-nom	A
+Evenki	96	MARRY	asila- (2)	Basic	1-nom 2-acc V	2	married person	NP-acc	P
+Evenki	116	COME	eme-	Basic	1-nom 2-loc V	1	comer	NP-nom	S
+Evenki	116	COME	eme-	Basic	1-nom 2-loc V	2	coming goal	NP-loc	X

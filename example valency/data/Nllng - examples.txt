@@ -1,0 +1,276 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Nǀǀng	1	Elicited from speaker	|aeki ke ǁkxʼam ǀoba.		ǀaeki ke ǁkxʼam ǀoba	woman FOC wash child	The woman washes the child.
+Nǀǀng	2	Naturalistic spoken	A bu ǁkxʼam u.		a bu ǁkxʼam u	CONN 2PL wash 2PL	And then you wash yourself.
+Nǀǀng	3	Elicited from speaker	Kua kadyama na ǁuruke.		kua kadyama na ǁuru-ke	3H.SG show 1SG.DAT road-PL	He shows me the way.
+Nǀǀng	4	Naturalistic spoken	Ha ǁooa.		ha ǁoo-a	3SG dry-PFV/STAT	It is dry.
+Nǀǀng	5	Elicited from speaker	ǂoo ke ǃauka ng ǂoo a ko.		ǂoo ke ǃauke-a ng ǂoo a ko	man FOC become.frightened-PFV OBL man this other	The man is afraid of the other man.
+Nǀǀng	6	Naturalistic spoken	A a si ǁʼae ǃauka ng nǀng.		a a si ǁʼae ǃauke-a ng nǀng	CONN 2SG IRR go become.frightened-PFV/STAT OBL 1SG.OBL	And you should be afraid of me.
+Nǀǀng	7	Elicited from speaker	ǀoba ǃauka ǂoo.		ǀoba ǃauke-a ǂoo	child become.frightened-STAT man	The child fears the man.
+Nǀǀng	8	Elicited from speaker	ǀoba ke hoo ǂoo si boeksi.		ǀoba ke hoo ǂoo si boek-si	child FOC get man GEN book-SG	The child gets the man's book.
+Nǀǀng	9	Naturalistic spoken	Ma, sa hooa mari!		ma sa hoo-a mari!	Mummy 1PL.E get-PFV money	Mummy, we got money!"
+Nǀǀng	10	Naturalistic spoken	ǂxaike ǂheeke.		ǂxai-ke ǂeeke	young.man-PL sing	The young men sing.
+Nǀǀng	11	Elicited from speaker	ǀoba ǂheeke ǃʼui.		ǀoba ǂeeke ǃʼui	child sing traditional.song	The child sings a song.
+Nǀǀng	12	Naturalistic spoken	Ha si ǀʼaa.		ha si ǀʼaa	3SG IRR die	He will die.
+Nǀǀng	13	Naturalistic spoken	Si ǃqora.		si ǃqora	1PL.E play	We play.
+Nǀǀng	14	Naturalistic spoken	ǃxaeka na ka ǃkxʼora nǀa ha.		ǃxaeka na ka ǃkxʼora nǀa ha	morning 1SG PL play INST 3SG	In the morning, I play with him."
+Nǀǀng	15	Elicited from speaker	ǂoo ke ǁʼhoqo.		ǂoo ke ǁʼhoqo	man FOC cough	The man coughs.
+Nǀǀng	16	Elicited from speaker	Na kxʼainʼin.		na kxʼainʼin	1SG laugh	I laugh.
+Nǀǀng	17	Elicited from speaker	Na kxʼainʼin kike.		na kxʼainʼin ki-ke	1SG laugh 3-PL	I laugh about them.
+Nǀǀng	18	Elicited from speaker	ǂhuu ke ǂqau.		ǂhuu ke ǂqau	rain FOC rain	It rains (lit. The rain rains.).
+Nǀǀng	19	Elicited from speaker	ǃaqa ǂqau.		ǃaqa ǂqau	rain rain	It rains (lit. The rain rains.).
+Nǀǀng	20	Naturalistic spoken	Ku aa ǀʼhuunsia ǂxanisi.		ku aa ǀʼhuunsi-a ǂxani-si	3H.SG give Boer-DAT letter-SG	He gives the letter to the Boer.
+Nǀǀng	21	Naturalistic spoken	Hng tsaa ha nǁaen.		hng tsaa ha nǁaen	3PL give 3SG.DAT blanket.PL	They give him blankets.
+Nǀǀng	22	Elicited from speaker	Si ǀae ba ǂxanisi.		si ǀae ba ǂxani-si	1PL.E send 2PL.DAT letter-SG	We send you a letter.
+Nǀǀng	23	Elicited from speaker	A ke si ǃxau tya ǁhaan.		a ke si ǃxau tya ǁhaan	2SG FOC IRR carry that bag	You must carry that bag.
+Nǀǀng	24	Elicited from speaker	ǂoo ke kxʼuu qain ǀoba.		ǂoo ke kxʼuu qain ǀoba	man FOC make frightened child	The man frightens the child.
+Nǀǀng	25	Naturalistic spoken	Ng tsʼaanʼa ʘoe.		ng tsʼaanʼa ʘoe	1SG like meat	I like meat.
+Nǀǀng	26	Elicited from speaker	ǀoba ke tsʼaanʼa ǂoo.		ǀoba ke tsʼaanʼa ǂoo	child FOC like man	The child likes the man.
+Nǀǀng	27	Naturalistic spoken	Na mos ǁxaea ng.		na mos ǁxae-a ng	1SG indeed know-STAT 1SG	I really know myself.
+Nǀǀng	28	Elicited from speaker	ǂoo ke ǁxaea ǀaeki.		ǂoo ke ǁxae-a ǀaeki	man FOC know-STAT woman	The man knows the woman.
+Nǀǀng	29	Naturalistic spoken	Ku ǁxaea guuke.		ku ǁxae-a guu-ke	3H.SG know-STAT thing-PL	She knows the things.
+Nǀǀng	30	Naturalistic spoken	Ng nǁae ǂʼainka, ng nǁann si tsʼii.		ng nǁae ǂʼainke-a ng nǁann si tsʼii	1SG then think-STAT 1SG liver IRR bite	I think my stomach will ache.
+Nǀǀng	31	Naturalistic spoken	Gǀa ǂʼainka, ng si ka ǃkxʼora nǀa a?		gǀa ǂʼainke-a ng si ka ǃkxʼora nǀa a	2SG.STR think-STAT 1SG IRR PL play INST 2SG	You think that I will play with you?
+Nǀǀng	32	Naturalistic spoken	Ng ǂʼain u si xuu kike nǀa kinn maar nǁaa ǃʼaun.		ng ǂʼain u si xuu ki-ke nǀa kinn maar nǁaa ǃʼaun	1SG think 2PL IRR leave 3-PL PURP 3PL but stay ground	I think you must let them stay on the land.
+Nǀǀng	33	Naturalistic spoken	Si ǁaanʼa ǀaake.		si ǁaanʼa ǀaa-ke	1PL.E search berry-PL	We search berries.
+Nǀǀng	34	Elicited from speaker	Ku xainki ke si ǂaasinn ku.		ku xainki ke si ǂaasinn ku	3H.SG mother FOC IRR dress 3H.SG	His (the child's) mother will dress him (the child).
+Nǀǀng	35	Naturalistic spoken	Ng ǂao ng nǁaa ng ǃxaike.		ng ǂao ng nǁaa ng ǃxai-ke	1SG want 1SG get.dressed 1SG clothes-PL	I want to put on my clothes.
+Nǀǀng	36	Naturalistic spoken	Ha ǀʼuike ng, ǂaasinn ng.		ha ǀʼuike ng ǂaasinn ng	3SG wipe.off 1SG dress 1SG	She wipes me off, (she) dresses me."
+Nǀǀng	37	Naturalistic spoken	A kama noxoba ǂaasinn a ng broekesi.		a kama noxoba ǂaasinn a ng broekesi	2SG kama still put.on 2SG OBL trousers	You are still wearing trousers.
+Nǀǀng	38	Elicited from speaker	ǀaeki nǁaa ǀoba.		ǀaeki nǁaa ǀoba	woman dress child	The woman dresses the child.
+Nǀǀng	39	Naturalistic spoken	Ku hui ng.		ku hui ng	3H.SG help 1SG	He helps me.
+Nǀǀng	40	Elicited from speaker	ǂoo ke hui ǀaeki.		ǂoo ke hui ǀaeki	man FOC help woman	The man helps the woman.
+Nǀǀng	41	Naturalistic spoken	Na si hui a, ng ǀʼhuunsi.		na si hui a ng ǀʼhuun-si	1SG IRR help 2SG 1SG white.person-SG	I will help you, my boss."
+Nǀǀng	42	Elicited from speaker	ǂoo ke ǀhunna ǃʼoakerasi.		ǂoo ke ǀhunn-a ǃʼoakerasi	man FOC follow-PFV young.girl	The man followed the girl.
+Nǀǀng	43	Elicited from speaker	ǂoo ke si hoo ǃʼoakerasi.		ǂoo ke si hoo ǃʼoakerasi	man FOC IRR meet young.girl	The man must meet the girl.
+Nǀǀng	44	Naturalistic spoken	Nǃaun sii ng mhoo gǁain.		nǃaun sii ng mhoo gǁain	hare come and meet brown.hyena	The hare comes and meets the hyena.
+Nǀǀng	45	Elicited from speaker	ǂoo ke ǃʼhoeʼin mari ng ǂoo a ko.		ǂoo ke ǃʼhoeʼin mari ng ǂoo a ko	man FOC ask.for money OBL man this other	The man asks the other man for money.
+Nǀǀng	46	Naturalistic spoken	A ng nǀng ǀaeki, na ǃʼhoeʼa a.		a ng nǀng ǀaeki na ǃʼhoeʼa a	2SG COP 1SG.STR woman 1SG ask.for 2SG	You are my wife, I asked for you."
+Nǀǀng	47	Naturalistic spoken	A ǁu si suin, a ǀkxʼaea dya gǀuuki.		a ǁu si suin a ǀkxʼae-a dya gǀuu-ki	2SG NEG IRR sit.down.SG 2SG tell-BEN 1PL.I.DAT tell.lie-NOM	You should not sit and be telling lies to us.
+Nǀǀng	48	Elicited from speaker	ǂoo ke ǀkxʼaea dya kxʼam.		ǂoo ke ǀkxʼae-a dya kxʼam	man FOC tell-BEN 1PL.I.DAT truth	The man says the truth to us.
+Nǀǀng	49	Elicited from speaker	A ke si ǃxau ǁʼae ǁhaan a ng gǃari.		a ke si ǃxau ǁʼae ǁhaan a ng gǃari!	2SG FOC IRR carry go.to bag this OBL town	You must carry this bag to town.
+Nǀǀng	50	Naturalistic spoken	A ǀkxʼui qain a haasi.		a ǀkxʼui qain a haa-si	2SG CAUS be.frightened 2SG horse-SG	You frighten your horse.
+Nǀǀng	51	Naturalistic spoken	Si ǃauka koro.		si ǃauke-a koro	1PL.E become.afraid-STAT jackal	We are afraid of the jackal.
+Nǀǀng	52	Elicited from speaker	ǂoo ke ǁʼngke haansi ng ǂʼhai.		ǂoo ke ǁʼngke haan-si ng ǂʼhai	man FOC tie horse-SG OBL shepherd's.tree	The man ties the horse to the tree.
+Nǀǀng	53	Elicited from speaker	Si ǁʼngke ǁhaan tyuu.		si ǁʼngke ǁhaan tyuu	1PL.E tie bag mouth	We tie up the bag's opening.
+Nǀǀng	54	Elicited from speaker	ǂoo ke ǂhaun ǀʼee ǃkhaa ng glassi.		ǂoo ke ǂhaun ǀʼee ǃkhaa ng glas-si	man FOC pour enter water OBL glass-SG	The man pours water into the glass.
+Nǀǀng	55	Naturalistic spoken	ǂhaunwa na koffie.		ǂhaun-wa na koffie	pour-IMP.SG/BEN 1SG.DAT coffee	Pour coffee for me!
+Nǀǀng	56	Elicited from speaker	A ha ǂkhuun, a ha hala.		a ha ǂkhuun a ha hala	CONN 3SG jump CONN 3SG show.off	Then he jumps, then he shows off."
+Nǀǀng	57	Elicited from speaker	ǀoba ke ǂhuun ǁhoe ng ǂʼhai.		ǀoba ke ǂhuun ǁhoe ng ǂʼhai	child FOC jump descend OBL shepherd's.tree	The child jumps down from the tree.
+Nǀǀng	58	Naturalistic spoken	Kua ǂhuun ǁʼaa ki a.		kua ǂhuun ǁʼaa ki a	3H.SG jump go.to place this	She jumps to this side.
+Nǀǀng	59	Elicited from speaker	Ha qannya sa piring.		ha qann-a sa piri-ng	3SG show-BEN 1PL.E.DAT goat-PL	He shows us the goats.
+Nǀǀng	60	Naturalistic spoken	Ha tsaa ha i gao.		ha tsaa ha i gao	3SG give 3SG.DAT DAT thing	He gives him something.
+Nǀǀng	61	Naturalistic spoken	... nou a hu gǀoe aa na ng gǀa aanki.		nou a hu gǀoe aa na ng gǀa aan-ki	now 2SG SUBORD again give 1SG.DAT OBL 2SG.STR eat-NOM	... now you must also give me some of your food.
+Nǀǀng	62	Naturalistic spoken	Aaa sa ng gunn a xa ǀʼee ng ǃabu!		aa-a sa ng gunn a xa ǀʼee ng ǃabu	give-IMP.SG 1PL.E.DAT OBL thing.PL 2SG PST put.in OBL bowl	Give us some of these things (that) you put into the bowl!
+Nǀǀng	63	Elicited from speaker	Na si ǀae u nǀa ǂxanisi u ǁʼae gǃari.		na si ǀae u nǀa ǂxani-si u ǁʼae gǃari	1SG IRR send 2PL INST letter-SG 2PL go.to town	I will send you to town with a letter. (lit. I will send you with a letter, you go to town)."
+Nǀǀng	64	Elicited from speaker	Kinn ǀae-a na i aanki.		kinn ǀae-a na i aanki	3PL send-BEN 1SG.DAT DAT food	They send me food.
+Nǀǀng	65	Elicited from speaker	ǂoo ke si ǀae ǀobaa i ǂxanisi.		ǂoo ke si ǀae ǀoba-a i ǂxani-si	man FOC IRR send child-DAT DAT book-SG	The man sends the book for/to the child.
+Nǀǀng	66	Elicited from speaker	Na ǀae ǁʼaa u ng ǀkxʼain.		na ǀae ǁʼaa u ng ǀkxʼain	1SG send go.to 2PL OBL town	I send you to town.
+Nǀǀng	67	Elicited from speaker	Na si ǀae ba ǂxanisi.		na si ǀae ba ǂxani-si	1SG IRR send 2PL.DAT book-SG	I will send you a letter.
+Nǀǀng	68	Elicited from speaker	Na si ǀae ǁʼaa u nǀa ng ǂxanisi ng ǀkxʼain.		na si ǀae ǁʼaa u nǀa ng ǂxani-si ng ǀkxʼain	1SG IRR send go.to 2PL INST OBL letter-SG OBL town	I will send you to town with a letter.
+Nǀǀng	69	Elicited from speaker	Na ǂaqbeke ǂausi ng nǁng.		na ǂaqbeke ǂau-si ng nǁng	1SG throw tsamma.melon-SG OBL house	I throw the tsamma melon against the wall (lit. house).
+Nǀǀng	70	Elicited from speaker	Na ǂaqbeke ǂausi ng ǃʼaun.		na ǂaqbeke ǂau-si ng ǃʼaun	1SG throw tsamma.melon-SG OBL ground	I throw the tsamma melon on the floor.
+Nǀǀng	71	Elicited from speaker	Na ǂaqbeke bolsi.		na ǂaqbeke bol-si	1SG throw ball-SG	I throw the ball.
+Nǀǀng	72	Elicited from speaker	ǂoo ke xng ǂaqbekea venstersi nǀa ng ǃao.		ǂoo ke xng ǂaqbeke-a venster-si nǀa ng ǃao	man FOC PST throw-PFV window-SG INST OBL stone	The man threw a stone into/at the window.
+Nǀǀng	73	Elicited from speaker	A si ǂaqbekea na bolsi!		a si ǂaqbeke-a na bol-si!	2SG IRR throw-BEN 1SG.DAT ball-SG	You must throw the ball to me!
+Nǀǀng	74	Elicited from speaker	A ǂaqbe-a na bolsi.		a ǂaqbe-a na bol-si	2SG throw-BEN 1SG.DAT ball-SG	You throw the ball to me.
+Nǀǀng	75	Elicited from speaker	ǀoba ke ǃxau ǁʼaa ǂhunn ʘuun ng ǂoo.		ǀoba ke ǃxau ǁʼaa ǂhunn ʘuun ng ǂoo	child FOC carry go.to dog DIM OBL man	The child carries the little dog to the man.
+Nǀǀng	76	Elicited from speaker	A ke si ǃxaua na (i) ǁxaan.		a ke si ǃxau-a na i ǁxaan	2SG FOC IRR carry-BEN 1SG.DAT DAT bag	You must carry that bag for me (e.g. because it is too heavy for me).
+Nǀǀng	77	Elicited from speaker	Kua ǃxaua ǁxaan, ku ǁʼaa ku aa ǂooa i.		kua ǃxau-a ǁxaan ku ǁʼaa ku aa ǂoo-a i	3H.SG carry-PFV bag 3H.SG go.to 3H.SG give man-DAT DAT	He carried the bag, he goes and gives it to the man."
+Nǀǀng	78	Naturalistic spoken	Si see si ǂhaun ki ng nǁng tyuu.		si see si ǂhaun ki ng nǁng tyuu	1PL.E come 1PL.E pour 3NH.SG OBL house mouth	We come and pour it (the soil) at (= in front of) the door.
+Nǀǀng	79	Elicited from speaker	Ku ǂhaun ǀʼeea ǃkhaa ng ǂqoa, of ku ǂhaun ǁʼnga kike ng ǂqoa?		ku ǂhaun ǀʼee-a ǃkhaa ng ǂqoa of ku ǂhaun ǁʼng-a ki-ke ng ǂqoa	3H.SG pour put.in-PFV water OBL pot or 3H.SG pour go.out-PFV 3-PL OBL pot	Did he pour the water into the pot, or did he pour it out of the pot?"
+Nǀǀng	80	Naturalistic spoken	Ng ǂanu ku nǀa nǁng.		ng ǂanu ku nǀa nǁng	1SG cover 3H.SG INST blanket	I cover her with a blanket.
+Nǀǀng	81	Naturalistic spoken	Ha ǂanu ng dyoo.		ha ǂanu ng dyoo	3SG cover OBL skin	She is covered with/by the animal hide.
+Nǀǀng	82	Naturalistic spoken	Ha ǂanu nǀa dyoo.		ha ǂanu nǀa dyoo	3SG cover INST skin	She is covered with the animal hide.
+Nǀǀng	83	Naturalistic spoken	Ha ǂanu.		ha ǂanu	3SG cover	It is covered.
+Nǀǀng	84	Naturalistic spoken	Si ǂanu nǁng.		si ǂanu nǁng	1PL.E cover house	We cover the house.
+Nǀǀng	85	Naturalistic spoken	Na si ǂʼaoke a xuu.		na si ǂʼaoke a xuu	1SG IRR cover 2SG face	I will cover your face.
+Nǀǀng	86	Naturalistic spoken	Ng ǂʼaoke ki nǀa ǃqui.		ng ǂʼaoke ki nǀa ǃqui	1SG cover 3NH.SG INST ash	I cover it with ashes.
+Nǀǀng	87	Elicited from speaker	ǂoo ke ǂʼunna glassi nǀa ng ǃkhaa.		ǂoo ke ǂʼunn-a glas-si nǀa ng ǃkhaa	man FOC fill-PFV glass-SG INST OBL water	The man has filled the glass with water.
+Nǀǀng	88	Elicited from speaker	ǂqoa ke ǂʼunna.		ǂqoa ke ǂʼunn-a	pot FOC fill-PFV	The pot is full.
+Nǀǀng	89	Elicited from speaker	Na kxʼuu ǂʼunn ki.		na kxʼuu ǂʼunn ki	1SG make fill 3NH.SG	I fill it (e.g. the pot).
+Nǀǀng	90	Naturalistic spoken	Ha ǂʼunn mandjiesi a ko.		ha ǂʼunn mandjie-si a ko	3SG fill basket-SG this other	He fills the other basket.
+Nǀǀng	91	Elicited from speaker	ǂoo ke kxʼuu ǂʼunn glassi ng ǃkhaa.		ǂoo ke kxʼuu ǂʼunn glas-si ng ǃkhaa	man FOC make fill glass-SG OBL water	The man fills the glass with water.
+Nǀǀng	92	Naturalistic spoken	Ha ǂʼunn emmersi.		ha ǂʼunn emmer-si	3SG fill bucket-SG	He fills the bucket.
+Nǀǀng	93	Elicited from speaker	Ha ǂʼunn emmersi ng ǀaake.		ha ǂʼunn emmer-si ng ǀaa-ke	3SG fill bucket-SG OBL berry-PL	He fills the bucket with berries.
+Nǀǀng	94	Elicited from speaker	Kia ǂunna.		kia ǂunn-a	3NH.SG fill-STAT	It is full.
+Nǀǀng	95	Elicited from speaker	ǂoo ke ǂʼunna xabasi ng ǃkhaa.		ǂoo ke ǂʼunn-a xaba-si ng ǃkhaa	man FOC fill-PFV glass-SG OBL water	The man filled the glass with water.
+Nǀǀng	96	Naturalistic spoken	Ku ka ǀkxʼaa ǂʼunna.		ku ka ǀkxʼaa ǂʼunn-a	3H.SG PL hand fill-STAT	His hands are full.
+Nǀǀng	97	Elicited from speaker	ǁhaike ke ǂʼunna ng sunn.		ǁhai-ke ke ǂʼunn-a ng sunn	milk-PL FOC fill-STAT OBL fat	The milk is full of fat. / The milk is full of cream, creamy, rich."
+Nǀǀng	98	Elicited from speaker	ʘoe ke ǂʼunna ng sunn.		ʘoe ke ǂʼunn-a ng sunn	meat FOC fill-STAT OBL fat	The meat is full of fat.
+Nǀǀng	99	Naturalistic spoken	Ki ǂʼunn.		ki ǂunn	3NH.SG fill	It is full.
+Nǀǀng	100	Naturalistic spoken	Xabasi ke xa ǂʼunn.		xaba-si ke xa ǂʼunn	vessel-SG FOC PST fill	The cup is full now.
+Nǀǀng	101	Naturalistic spoken	ǁhaan ha ǂʼunn.		ǁhaan ha ǂʼunn	bag 3SG fill	The bag is full.
+Nǀǀng	102	Naturalistic spoken	Nǀaa, ng ǁhaan ke ǂʼunna!		nǀaa ng ǁhaan ke ǂʼunn-a	look.IMP.SG 1SG bag FOC fill-STAT	Look, my bag is full!"
+Nǀǀng	103	Elicited from speaker	ǂoo ǀkxʼui ǂʼunn glassi nǀa ǃkhaa.		ǂoo ǀkxʼui ǂʼunn glas-si nǀa ǃkhaa	man CAUS fill glass-SG INST water	The man fills the glass with water.
+Nǀǀng	104	Naturalistic spoken	Ha nǁae ǁain nǃoon.		ha nǁae ǁain nǃoon	3SG then climb.up dune	Then he climbs up the dune.
+Nǀǀng	105	Naturalistic spoken	Ha gǀoe ǁain.		ha gǀoe ǁain	3SG again climb.up	He climbs up again.
+Nǀǀng	106	Naturalistic spoken	ǁainya.		ǁain-ya	climb.up-IMP.SG	Climb up!
+Nǀǀng	107	Naturalistic spoken	Kinn ǁain ǂʼhai.		kinn ǁain ǂʼhai	3PL climb.up shepherd's.tree	They climb (up) the tree.
+Nǀǀng	108	Naturalistic spoken	Si ǁʼaa ǁain ng nǃoon.		si ǁʼaa ǁain ng nǃoon	1PL.E go climb.up OBL dune	We go and climb (up) the dune.
+Nǀǀng	109	Naturalistic spoken	Ha ǃae.		ha ǃae	3SG run	He runs.
+Nǀǀng	110	Naturalistic spoken	ǃae ǁʼaa winkelsi.		ǃae ǁʼaa winkel-si	run go.to.IMP shop-SG	Run to the shop!
+Nǀǀng	111	Naturalistic spoken	ǁʼaa ǃae ǀʼee nǁng.		ǁʼaa ǃae ǀʼee nǁng	go run go.in house	He (goes and) runs into the house.
+Nǀǀng	112	Naturalistic spoken	Si ǁʼae ǃae ǁhoe nǃoon.		si ǁʼae ǃae ǁhoe nǃoon	1PL.E go run descend dune	We (go and) run down the dune.
+Nǀǀng	113	Naturalistic spoken	Si ǃaia reisies.		si ǃai-a reisies	1PL.E run-PFV race	We run a race.
+Nǀǀng	114	Naturalistic spoken	Si ǃae reisies.		si ǃae reisies	1PL.E run race	We run a race.
+Nǀǀng	115	Naturalistic spoken	Ng ǂao ng ǃae ǃare ng gǀa.		ng ǂao ng ǃae ǃare ng gǀa	1SG want 1SG run go.past OBL 2SG.STR	I want to pass you (running). / I want to overtake you (running).
+Nǀǀng	116	Naturalistic spoken	Oupa, dyisi xae a tcoo?		oupa dyisi xae a tcoo	grandpa, what QF 2SG sit	Grandpa, why are you sitting (around here)?"
+Nǀǀng	117	Elicited from speaker	ǃhuru a, ng soo nǁng.		ǃhuru a ng soo nǁng	day this 1SG sit house	Today I stay at home (lit. Today I sit at home.).
+Nǀǀng	118	Elicited from speaker	Na soo ki a.		na soo ki a	1SG sit place this	I am sitting here.
+Nǀǀng	119	Elicited from speaker	Ha soo nǁng tyuu.		ha soo nǁng tyuu	3SG sit house mouth	He sits in front of the house (lit. by the house's mouth = by the door).
+Nǀǀng	120	Naturalistic spoken	A ha ǂkhuun.		a ha ǂkhuun	CONN 3SG jump	Then he (the springbok) jumps.
+Nǀǀng	121	Elicited from speaker	ǀoba ke ka ǂhuun.		ǀoba ke ka ǂhuun	child FOC PL jump	The child jumps (up and down, again and again)."
+Nǀǀng	122	Elicited from speaker	Ng ǁu ǂheeke ǂhuu, a ng ǂheeke.		ng ǁu ǂeeke ǂhuu a ng ǂeeke	1SG NEG sing straight CONN 1SG sing	I don't sing well but I sing (nevertheless).
+Nǀǀng	123	Elicited from speaker	Ng ǁu ǁʼaa nǁng?		ng ǁu ǁʼaa nǁng	1SG NEG go.to house	I don't go home?
+Nǀǀng	124	Naturalistic spoken	Ha ǁʼaa tya ǃuu.		ha ǁʼaa tya ǃuu	3SG go.to that world	He goes to that country.
+Nǀǀng	125	Elicited from speaker	Si ǁʼaa gǃari.		si ǁʼaa gǃari	1PL.E go.to town	We go to town.
+Nǀǀng	126	Naturalistic spoken	Nǁngǂee ǁʼaa gǃae.		nǁngǂee ǁʼaa gǃae	people go.to springbok	The people go to the springboks.
+Nǀǀng	127	Naturalistic spoken	Ha ǁʼae.		ha ǁʼae	3SG go.away	He goes away.
+Nǀǀng	128	Elicited from speaker	Kua xng xuua gǃari.		kua xng xuu-a gǃari	3H.SG PST leave-PFV town	He has left the town.
+Nǀǀng	129	Elicited from speaker	Na nǁaa Antjie nǁng.		na nǁaa Antjie nǁng	1SG stay Antjie house	I stay (live) at Antjie's house.
+Nǀǀng	130	Naturalistic spoken	Gǃae meid-e ke nǁaa ki a.		gǃae meid-e ke nǁaa ki a	springbok girl-PL FOC stay place this	The springbok girls stay (live) here.
+Nǀǀng	131	Elicited from speaker	Kua xng nǁaa gǃari.		kua xng nǁaa gǃari	3H.SG PST stay town	I stayed (lived) in town.
+Nǀǀng	132	Naturalistic spoken	Kinn ke nǁaa post.		kinn ke nǁaa post	3PL FOC stay outpost	They stay (live) at the cattle post.
+Nǀǀng	133	Elicited from speaker	ǀoba ke ka nǁaa ng nǁng.		ǀoba ke ka nǁaa ng nǁng	child FOC PL stay 1SG house	The child stays (lives) at my house.
+Nǀǀng	134	Elicited from speaker	ǀoba ke ka nǁaa ng nǀng nǁng.		ǀoba ke ka nǁaa ng nǀng nǁng	child FOC PL stay OBL 1SG.STR house	The child stays (lives) at my house.
+Nǀǀng	135	Naturalistic spoken	Hng tsee hng nǀaa, nǁngǂee ka nǁaa.		hng tsee hng nǀaa nǁngǂee ka nǁaa	3PL come 3PL see people PL stay	They come and see: the people are (stay) there.
+Nǀǀng	136	Naturalistic spoken	Sa ǀʼhoa ǃkhaa.		sa ǀʼhoa ǃkhaa	1PL.E settle farm	We live on a farm.
+Nǀǀng	137	Naturalistic spoken	Si saa si ǀʼhoa Klapin.		si saa si ǀʼhoa Klapin	1PL.E come 1PL.E settle Klapin	We come and settle at Klapin.
+Nǀǀng	138	Elicited from speaker	Ki a ke si xng ng ǀʼhoa ng Klapin.		ki a ke si xng ng ǀʼhoa ng Klapin	3NH.SG this FOC 1PL.E PST thus settle OBL Klapin	This is how we lived at Klapin.
+Nǀǀng	139	Naturalistic spoken	Ha kxʼainʼin gǁain.		ha kxʼainʼin gǁain	3SG laugh brown.hyena	He laughs at the hyena.
+Nǀǀng	140	Naturalistic spoken	A ka nǀuinke hng ʘʼuiʼi.		a ka nǀuin-ke hng ʘʼuiʼi	2SG PL knee-PL 3PL be.sore	Your knees are sore.
+Nǀǀng	141	Naturalistic spoken	Sa ʘʼui si ka nǀuinke.		sa ʘʼui si ka nǀuin-ke	1PL.E be.sore 1PL.E PL knee-PL	Our knees are sore.
+Nǀǀng	142	Elicited from speaker	Na ʘʼuiʼi.		na ʘʼuiʼi	1SG be.in.pain	I have pain. / I am sick.
+Nǀǀng	143	Naturalistic spoken	Gǀa ǁu nǀai oom ǀʼArusi ǂao ha ǀʼaa?		gǀa ǁu nǀai oom ǀʼArusi ǂao ha ǀʼaa	2SG.STR NEG see uncle ǀʼArusi want 3SG die	Don't you see that uncle ǀʼArusi wants to die?
+Nǀǀng	144	Elicited from speaker	A si ǀʼaa.		a si ǀʼaa	2SG IRR die	You will die.
+Nǀǀng	145	Naturalistic spoken	U ke si ǀʼaa ng ǁqann!		u ke si ǀʼaa ng ǁqann	2PL FOC IRR die OBL hunger	You will die of hunger!
+Nǀǀng	146	Elicited from speaker	Ng khinn ǀʼhuu.		ng khinn ǀʼhuu	1SG feel cold	I feel cold.
+Nǀǀng	147	Elicited from speaker	Ng ǀʼhuu.		ng ǀʼhuu	1SG feel.cold	I feel cold.
+Nǀǀng	148	Elicited from speaker	ǀoba ǀʼhuu.		ǀoba ǀʼhuu	child feel.cold	The child feels cold.
+Nǀǀng	149	Elicited from speaker	ǀʼhuu ke si kxʼuu ʘʼuiʼi ng.		ǀʼhuu ke si kxʼuu ʘʼuiʼi ng	cold FOC IRR make be.sick 1SG	The cold will make me sick.
+Nǀǀng	150	Naturalistic spoken	Sau ǃqora koro.		sa-hu ǃqora koro	1PL.E-SUBORD play jackal	Then we play 'jackal' (= the jackal's game).
+Nǀǀng	151	Naturalistic spoken	Hng ka ǀqae-ke ʘʼuiʼi.		hng ka ǀqae-ke ʘʼuiʼi	3PL PL heart-PL be.sore	They are sad (lit. Their hearts are sore.).
+Nǀǀng	152	Elicited from speaker	Ha ǀqae ǁu tyhaaʼi.		ha ǀqae ǁu tyhaaʼi	3SG heart NEG tasty	He is sad (lit. His heart is not tasty/well.).
+Nǀǀng	153	Elicited from speaker	ǂoo ke khinn ǁqann.		ǂoo ke khinn ǁqann	man FOC feel hunger	The man is hungry.
+Nǀǀng	154	Naturalistic spoken	Dyoo ǂʼhubi.		dyoo ǂʼhubi	skin burn	The animal hide burns.
+Nǀǀng	155	Elicited from speaker	Na xng ǂʼhubia ng ǀkxʼaa ng ǀʼii.		na xng ǂʼhubi-a ng ǀkxʼaa ng ǀʼii	1SG PST burn-PFV 1SG hand OBL fire	I have burnt my hand in the fire.
+Nǀǀng	156	Elicited from speaker	ǀʼii ke ǂʼhubi ng.		ǀʼii ke ǂʼhubi ng	fire FOC burn 1SG	The fire burns me.
+Nǀǀng	157	Naturalistic spoken	Kinn ǂʼhubi tya gǁoo.		kinn ǂʼhubi tya gǁoo	3PL burn that bull	They burn that bull.
+Nǀǀng	158	Naturalistic spoken	Dya kxʼuu nǁng ng ki a.		dya kxʼuu nǁng ng ki a	1PL.I make house OBL place this	We build a house here.
+Nǀǀng	159	Naturalistic spoken	A si ǁhaa ng ka khiin.		a si ǁhaa ng ka khiin	2SG IRR break 1SG PL leg	You will break my legs.
+Nǀǀng	160	Naturalistic spoken	Gǁain ke xa ǀhaa a gǂarusi.		gǁain ke xa ǀhaa a gǂarusi	brown.hyena FOC PST kill 2SG sheep	The hyena has killed your sheep.
+Nǀǀng	161	Elicited from speaker	ǀoba ke ǀhaa ǀaqasi nǀa ǃʼoqoke.		ǀoba ke ǀhaa ǀaqa-si nǀa ǃʼoqoke	child FOC kill snake-SG INST stick	The child kills the snake with a stick.
+Nǀǀng	162	Elicited from speaker	ǀoba ke ǁhaa venstersi nǀa ǃao.		ǀoba ke ǁhaa venster-si nǀa ǃao	child FOC break window-SG INST stone	The child breaks the window with the stone.
+Nǀǀng	163	Naturalistic spoken	ǀʼhuunsi ǀkxʼaike gǁain.		ǀʼhuun-si ǀkxʼaike gǁain	white.person-SG beat brown.hyena	The Boer beats hyena.
+Nǀǀng	164	Naturalistic spoken	Na si ǂamʼa a.		na si ǂamʼa a	1SG IRR beat 2SG	I will beat you.
+Nǀǀng	165	Elicited from speaker	ǀoba ke ǂamʼin ǀaqasi nǀa ǃʼoqoke.		ǀoba ke ǂamʼin ǀaqa-si nǀa ǃʼoqoke	child FOC beat snake-SG INST stick	The child beats the snake with a stick.
+Nǀǀng	166	Elicited from speaker	ǂoo ke ain preesi.		ǂoo ke ain pree-si	man FOC eat bread-SG	The man eats the bread.
+Nǀǀng	167	Naturalistic spoken	I xa ain ǂauǁaa.		i xa ain ǂauǁaa	1PL.I PST eat seeds	We ate seeds.
+Nǀǀng	168	Naturalistic spoken	A ng ain.		a ng ain	CONN 1SG eat	Then I eat.
+Nǀǀng	169	Elicited from speaker	ǂoo ke ǂaqe ǀoba.		ǂoo ke ǂaqe ǀoba	man FOC look child	The man looks at the child.
+Nǀǀng	170	Naturalistic spoken	U saa, u ǂaqe nǁngǂee ngke he nǁaa ki a.		u saa u ǂaqe nǁngǂee ng-ke he nǁaa ki a	2PL come 2PL look people this-PL REL.SG stay place this	You come, you look at the people who are here."
+Nǀǀng	171	Naturalistic spoken	Gǀa ǁu nǀai ku xa aan a ǃkxʼabesi?		gǀa ǁu nǀai ku xa aan a ǃkxʼabe-si	2SG.STR NEG see 3H.SG PST eat 2SG cream-SG	Don't you see he has eaten your cream?
+Nǀǀng	172	Elicited from speaker	Ng ǁu ǃqhao gao.		ng ǁu ǃqhao gao	1SG NEG smell thing	I don't smell anything.
+Nǀǀng	173	Elicited from speaker	ǀoba ke ǀai preesi nǀa nǂona.		ǀoba ke ǀai pree-si nǀa nǂona	child FOC cut bread-SG INST knife	The child cuts the bread with the knife.
+Nǀǀng	174	Naturalistic spoken	Ng ǀaa ǁuu-ke.		ng ǀaa ǁuu-ke	1SG cut steekgras-PL	I cut steekgras.
+Nǀǀng	175	Elicited from speaker	ǀoba ǀkxʼaike ǀaqasi nǀa tsaqm.		ǀoba ǀkxʼaike ǀaqa-si nǀa tsaqm	child beat snake-SG INST stick	The child hits the snake with the stick.
+Nǀǀng	176	Elicited from speaker	ǂoo ke ǂqau kiin ng vloersi.		ǂoo ke ǂqau kiin ng vloer-si	man FOC fall lie.down OBL floor-SG	The man falls on the floor.
+Nǀǀng	177	Naturalistic spoken	ǁʼae nya ǁʼau, ǁʼae nya ǁʼau nǁoqoke.		ǁʼae nya ǁʼau ǁʼae nya ǁʼau nǁoqo-ke	go 1SG dig go 1SG dig wild.potatoe-PL	I go and dig, I go and dig out wild potatoes."
+Nǀǀng	178	Elicited from speaker	Kinn xainki ke kxʼuu aan kike.		kinn xainki ke kxʼuu aan ki-ke	3PL mother FOC make eat 3-PL	Their mother feeds them.
+Nǀǀng	179	Naturalistic spoken	Ku ng ǀhoqo ʘuun.		ku ng ǀhoqo ʘuun	3H.SG COP ghost DIM	She is a small ghost.
+Nǀǀng	180	Naturalistic spoken	Ng ǁu ng gǁain.		ng ǁu ng gǁain	1SG NEG COP brown.hyena	I am not the hyena.
+Nǀǀng	181	Naturalistic spoken	ǃae dyoo hng ǁooa.		ǃae dyoo hng ǁoo-a	oryx skin 3PL become.dry-STAT	The dry oryx hide.
+Nǀǀng	182	Elicited from speaker	Kinn ke si ǃxaadinn ǁhoo.		kinn ke si ǃxaadinn ǁhoo	3PL FOC IRR just.now become.dry	They (the clothes) will become dry quickly (just now).
+Nǀǀng	183	Naturalistic spoken	Ha ku ǂuike hng ǁoo.		ha ku ǂui-ke hng ǁoo	3SG look.like egg-PL 3PL dry	It looks like dry eggs (lit. It looks like eggs which are dry.).
+Nǀǀng	184	Elicited from speaker	Ng ǀʼii ǁhoo ng ǁʼuin nǀa ha ǁoo.		ng ǀʼii ǁhoo ng ǁʼuin nǀa ha ǁoo	1SG inside put.down OBL sun PURP 3SG become.dry	I put it in the sun so that it can dry / become dry.
+Nǀǀng	185	Elicited from speaker	Ng ǀqui ǁoo.		ng ǀqui ǁoo	1SG CAUS dry	I dry (them).
+Nǀǀng	186	Elicited from speaker	Tya ǂʼhubia.		kia ǂʼhubi-a	3NH.SG burn-STAT	It has/is burnt.
+Nǀǀng	187	Elicited from speaker	Ku ke xng kxʼuu ǀʼaa ku.		ku ke xng kxʼuu ǀʼaa ku	3H.SG FOC PST make die 3H.SG	He killed himself.
+Nǀǀng	188	Naturalistic spoken	Ha kxʼuu ʘʼuiʼi ng.		ha kxʼuu ʘʼuiʼi ng	3SG make be.in.pain 1SG	It (the old age) makes me sick / be in pain.
+Nǀǀng	189	Naturalistic spoken	A si ǃʼhaunwa.		a si ǃʼhaun-wa	then 1PL.E sit.down.PL-PFV	Then we sat down.
+Nǀǀng	190	Naturalistic spoken	Tcuinya ki a.		tcuin-ya ki a	sit.down-IMP.SG place this	Sit down here!
+Nǀǀng	191	Naturalistic spoken	ǁʼaa si ǃʼhaun Olifantshoek.		ǁʼaa si ǃʼhaun Olifantshoek	go.away 1PL.E sit.down.PL Olifantshoek	We go (and) land in Olifantshoek.
+Nǀǀng	192	Elicited from speaker	ǂoo ke suin ng stoelsi.		ǂoo ke suin ng stoel-si	man FOC sit.down.SG OBL chair-SG	The man sits down on the chair.
+Nǀǀng	193	Naturalistic spoken	Hng sii hng ǃʼhaun ǁuruke, hng sii ng ǃʼhaun ka nǂoqno.		hng sii hng ǃʼhaun ǁuru-ke hng sii hng ǃʼhaun ka nǂoqno	3PL come 3PL sit.down.PL road-PL 3PL come 3PL sit.down.PL PL shade	They come (and) sit down on the road, they come (and) sit down in the shade."
+Nǀǀng	194	Elicited from speaker	ǂoo nǃao kunisi ng ǂau.		ǂoo nǃao kuni-si ng ǂau	man load cart-SG OBL tsamma.melon	The man loaded the cart with tsamma melons.
+Nǀǀng	195	Elicited from speaker	ǂoo nǃao ǂau ng kunisi.		ǂoo nǃao ǂau ng kuni-si	man load tsamma.melon OBL cart-SG	The man loads tsamma melons onto the cart.
+Nǀǀng	196	Naturalistic spoken	Ha nǃao ha mandjiesi.		ha nǃao ha mandjie-si	3SG load 3SG basket-SG	He loads the basket (here: onto his bicycle).
+Nǀǀng	197	Elicited from speaker	Hau nǃao kunisi.		hau nǃao kuni-si	3SG load cart-SG	He loads his cart (with s.th.).
+Nǀǀng	198	Naturalistic spoken	Ku ǀai mandjiesi, ku nǃao ng baisikelsi.		ku ǀai mandjie-si ku nǃao ng baisikel-si	3H.SG take basket-SG 3H.SG load OBL bicycle-SG	He takes the basket, he loads it onto the cart."
+Nǀǀng	199	Elicited from speaker	ǂoo ke nǃao kunisi nǀa ǀhee.		ǂoo ke nǃao kuni-si nǀa ǀhee	man FOC load cart-SG INST grass	The man loads the cart with grass.
+Nǀǀng	200	Naturalistic spoken	Ha ǀai ng piri dyoo, ha ǁhoo.		ha ǀai ng piri dyoo ha ǁhoo	3SG take OBL goat skin 3SG put.down	He takes the goat's hide, he puts it down."
+Nǀǀng	201	Elicited from speaker	ǂoo ke xng ǁhooa boeksi ng tafelsi.		ǂoo ke xng ǁhoo-a boek-si ng tafel-si	man FOC PST put.down-PFV book-SG OBL table-SG	The man put the book on(to) the table.
+Nǀǀng	202	Elicited from speaker	Kua ǁhoo ǃʼore.		kua ǁhoo ǃʼore	3H.SG put.down dish	He puts the dish down.
+Nǀǀng	203	Elicited from speaker	ǂoo ke gǃai ǁhooa ǂxanisi ng tafelsi.		ǂoo ke gǃai ǁhoo-a ǂxani-si ng tafel-si	man FOC (up)on put.down-PFV book-SG OBL table-SG	The man has put down the book onto the table.
+Nǀǀng	204	Naturalistic spoken	Kinna kxʼaa.		kinna kxʼaa	3PL cry	They cry.
+Nǀǀng	205	Naturalistic spoken	Si ǂxaqake gǁolong tyxann.		si ǂxaqake gǁolo-ng tyxann	1PL.E search thornbush-PL shit	We look for thornbush gum.
+Nǀǀng	206	Naturalistic spoken	... a si ǂxaqake ǃkhaa.		a si ǂxaqake ǃkhaa	CONN 1PL.E search rain	... because we want to get rain.
+Nǀǀng	207	Naturalistic spoken	... a ng ǂxaqake ng nǀaa.		a ng ǂxaqake ng nǀaa	CONN 1SG search 1SG see	... but I would like to see (it).
+Nǀǀng	208	Naturalistic written	... want ǀʼhuunsi ǁu xa ǂxaqake si.		want ǀʼhuun-si ǁu xa ǂxaqake si	because white.person-SG NEG PST search 1PL.E	... because the white man did not want us.
+Nǀǀng	209	Naturalistic spoken	Hng tsee hng ǂxaqake si.		hng tsee hng ǂxaqake si	3PL come 3PL search 1PL.E	They came and searched us.
+Nǀǀng	210	Naturalistic spoken	Ng ǂao ng kxʼuua nya ǂoa.		ng ǂao ng kxʼuu-a nya ǂoa	1SG want 1SG make-BEN 1SG.DAT sleeping.mat	I want to make a sleeping mat for myself.
+Nǀǀng	211	Elicited from speaker	Na ǂaoa ku see.		na ǂao-a ku see	1SG want-STAT 3H.SG come	I want you to come.
+Nǀǀng	212	Naturalistic spoken	Ai, ou nooi, na ǂaoa ǃkhaa ʘuni.		ai ou nooi na ǂao-a ǃkhaa ʘuni	INTERJ old missis 1SG want-STAT water DIM.PL	Ay, missis, I want a little bit of water!"
+Nǀǀng	213	Naturalistic spoken	... maar a ǁala moo gao ki ng nǀng.		maar a ǁala moo gao ki ng nǀng	but 2SG IRR.NEG get thing this OBL 1SG.STR	... but you won't get this thing from me.
+Nǀǀng	214	Naturalistic spoken	Nǁngǂee huniki hoo ng ki.		nǁngǂee huniki hoo ng ki	people all get OBL 3NH.SG	Everybody gets (a piece) of it (the bread).
+Nǀǀng	215	Elicited from speaker	ǀoba xa mhoo ǂxanisi ng ǂoo.		ǀoba xa mhoo ǂxani-si ng ǂoo	child PST get book-SG OBL man	The child got the book from the man.
+Nǀǀng	216	Naturalistic spoken	Ha kxʼuu nǁng ʘoa.		ha kxʼuu nǁng ʘoa	3SG make house DIM	She makes a small hut.
+Nǀǀng	217	Naturalistic spoken	Ng kxʼuu blommesi ng gǀa.		ng kxʼuu blomm-e-si ng gǀa	1SG make flower-EPENTH-SG OBL 2SG.STR	I make you (look like) a flower. / I turn you into a flower.
+Nǀǀng	218	Naturalistic spoken	A ng sii ng kxʼuu koffie.		a ng sii ng kxʼuu koffie	CONN 1SG come 1SG make coffee	Then I come (and) make coffee.
+Nǀǀng	219	Elicited from speaker	ǂoo ke kxʼuu nǁng nǀa ǀhee.		ǂoo ke kxʼuu nǁng nǀa ǀhee	man FOC make house INST grass	The man builds a house with/from grass.
+Nǀǀng	220	Naturalistic spoken	A hng nou gǀoe kxʼuu gǃaasi ng Janniejannie.		a hng nou gǀoe kxʼuu gǃaasi ng Janniejannie	CONN 3PL now again make servant OBL Janniejannie	Then they also turn Janniejannie into a servant. / Then they also make Janniejannie become a servant.
+Nǀǀng	221	Elicited from speaker	Ku ǀuun ʘoe.		ku ǀuun ʘoe	3H.SG boil meat	He boils the meat.
+Nǀǀng	222	Naturalistic spoken	Gunn ngke ǀuun ǁʼng ng ki ǁʼannʼa.		gunn ng-ke ǀuun ǁʼng ng ki ǁʼannʼa	thing.PL these-PL boil go.out OBL place there	These things boil out on this side there.
+Nǀǀng	223	Naturalistic spoken	ǁxauke ke ǃʼhaunwa hng ǀuun.		ǁxau-ke ke ǃʼhaun-wa hng ǀuun	blood-PL FOC sit.PL-STAT 3PL boil	It is the blood (that) is boiling.
+Nǀǀng	224	Elicited from speaker	ǂqoa ke ǀuun.		ǂqoa ke ǀuun	pot FOC boil	The pot boils.
+Nǀǀng	225	Elicited from speaker	ǃkhaa ke ǀuun.		ǃkhaa ke ǀuun	water FOC boil	The water boils.
+Nǀǀng	226	Naturalistic spoken	Na ǃxama ʘoe.		na ǃxama ʘoe	1SG cook meat	I cook the meat.
+Nǀǀng	227	Naturalistic spoken	Ha ǃxama.		ha ǃxama	3SG cook	She cooks.
+Nǀǀng	228	Elicited from speaker	ʘoe ke ǃxama ng ǂqoa ǁaʼen.		ʘoe ke ǃxama ng ǂqoa ǁaʼen	meat FOC cook OBL pot inside	The meat cooks in the pot.
+Nǀǀng	229	Elicited from speaker	Petrus xa tyuua ǀkhuisi.		Petrus xa tyuu-a ǀkhui-si	Petrus PST hear-PFV bird-SG	Petrus heard the bird.
+Nǀǀng	230	Naturalistic spoken	Na ǁam xa noxoba nǀaa kike, a ng neti tyuu ng kike.		na ǁam xa noxoba nǀaa ki-ke a ng neti tyuu ng ki-ke	1SG NEG PST still see 3-PL CONN 1SG only hear OBL 3-PL	I haven't seen them yet, I only hear(d) about them."
+Nǀǀng	231	Elicited from speaker	Na xng tyuua ku xng ǃqaan.		na xng tyuu-a ku xng ǃqaan	1SG PST hear-PFV 3H.SG PST move	I have heard (that) she has moved.
+Nǀǀng	232	Naturalistic spoken	Ng ǁu tyuu kike.		ng ǁu tyuu ki-ke	1SG NEG hear 3-PL	I don't understand them.
+Nǀǀng	233	Naturalistic spoken	Na tyuu.		na tyuu	1SG hear	I listen.
+Nǀǀng	234	Naturalistic spoken	Saaa a saa tyuu ng Masehupu guuke.		saa-a a saa tyuu ng Masehupu guu-ke	come-IMP.SG 2SG come hear OBL Masehupu thing-PL	Come and come (and) hear about this Masehupu-things!
+Nǀǀng	235	Naturalistic spoken	Gǀa tyuu?		gǀa tyuu	2SG.STR hear	Do you hear? / Are you listening to me?
+Nǀǀng	236	Naturalistic spoken	A si gǀoe gaake ǁhaike.		a si gǀoe gaake ǁhai-ke	CONN 1PL.E again steal milk-PL	Then we also steal milk.
+Nǀǀng	237	Naturalistic spoken	Nǀaa ng, ng tyoan ǂoa.		nǀaa ng ng tyoan ǂoa	look.IMP.SG 1SG 1SG be.absent sleeping.mat	Look at me, I don't have a sleeping mat."
+Nǀǀng	238	Naturalistic spoken	Ha xa qain.		ha xa qain	3H.SG PST be.frightened	He got frightened.
+Nǀǀng	239	Naturalistic spoken	Ku tsʼaaʼa ng ǀkxʼoanki?		ku tsʼaaʼa ng ǀkxʼoan-ki	3H.SG like OBL hunt-NOM	Does he like hunting?
+Nǀǀng	240	Naturalistic spoken	Ng si ku ng ǀʼhuunsi a xa ǁʼae ǃkxʼabesi.		ng si ku ng ǀʼhuun-si a xa ǁʼae ǃkxʼabe-si	1SG IRR say OBL white.person-SG 2SG PST go.to cream-SG	I will say to the Boer (that) you went to the cream.
+Nǀǀng	241	Naturalistic spoken	Ha ǁhaa ng gǁoloke.		ha ǁhaa ng gǁolo-ke	3H.SG break OBL thornbush-PL	He breaks off (?a piece of) the thornbush.
+Nǀǀng	242	Elicited from speaker	ǀaeki ke ǂʼhaqa ǁʼaa Geelman.		ǀaeki ke ǂʼhaqa ǁʼa-a Geelman	woman FOC push go.away-PFV Geelman	The woman pushed Geelman away.
+Nǀǀng	243	Elicited from speaker	ǂʼhaqa siia na stoelsi.		ǂʼhaqa sii-a na stoel-si	push come-IMP.SG/BEN 1SG.DAT chair-SG	Push the chair towards me.
+Nǀǀng	244	Elicited from speaker	ǂʼhaqa ǁʼaea kua stoelsi.		ǂʼhaqa ǁʼae-a ku-a stoel-si	push go.to-IMP.SG/BEN 3H.SG-DAT chair-SG	Push the chair towards him.
+Nǀǀng	245	Naturalistic spoken	He ǂxaike hngke.		he ǂxaike hng-ke	3SG pound 3PL-PL	He pounds them.
+Nǀǀng	246	Naturalistic spoken	Kinn ǀai ka ǃuuke.		kinn ǀai ka ǃuuke	3PL take PL shoe	They take the shoes.
+Nǀǀng	247	Naturalistic spoken	Kua ǀai ǁhau gao ng nǁngǃui nǀaa.		kua ǀai ǁhau gao ng nǁngǃui nǀaa	3H.SG take remove thing OBL person head	He takes the thing off the person's head.
+Nǀǀng	248	Naturalistic spoken	ǀai uu ki nǀa tyuu.		ǀai uu ki nǀa tyuu	take take.up 3NH.SG INST mouth	(He) takes it with his mouth.
+Nǀǀng	249	Naturalistic spoken	Nǁngǃui ǀai ǁhau hoedsi ng nǁaa nǀaa.		nǁngǃui ǀai ǁhau hoed-si ng nǁaa nǀaa	person take remove hat-SG OBL 3SG.STR head	The person takes the hat off his head.
+Nǀǀng	250	Naturalistic spoken	Gǀa dyee ng ǀai ng nǀng?		gǀa dyee ng ǀai ng nǀng	2SG.STR do.how thus take OBL 1SG.STR	How (=why) do you touch me?
+Nǀǀng	251	Elicited from speaker	A hau ǀai ng tya ǀaake he ha xng ǂqaua.		a hau ǀai ng tya ǀaa-ke he ha xng ǂqau-a	CONN 3SG take OBL these berry-PL REL 3SG PST crush-PFV	Then she takes (some of) the crushed berries.
+Nǀǀng	252	Naturalistic spoken	Kinn tyxaa ng nuwe seatke.		kinn tyxaa ng nuwe seat-ke	3PL tear 1SG new seat-PL	They have torn my new seats.
+Nǀǀng	253	Elicited from speaker	ǀoba tyxaa ǂxanisi ǀxaa.		ǀoba tyxaa ǂxani-si ǀxaa	child tear book-SG side	The child tears the book's page.
+Nǀǀng	254	Elicited from speaker	ǀoba ke ǀʼhoo ǁhoo boeksi.		ǀoba ke ǀʼhoo ǁhoo boek-si	child FOC hide put.aside book-SG	The child hides the book.
+Nǀǀng	255	Elicited from speaker	ǀoba ke ǀʼhoo ǁhoo boeksi nǀa ǂoo gǂii nǀaa ki.		ǀoba ke ǀʼhoo ǁhoo boek-si nǀa ǂoo gǂii nǀaa ki	child FOC hide put.down book-SG PURP man PROH see 3NH.SG	The child hides the book so that the man doesn't see it.
+Nǀǀng	256	Elicited from speaker	ǀoba ǀhoo ǁhoo ǂxanisi.		ǀoba ǀʼhoo ǁhoo ǂxani-si	child hide put.aside book-SG	The child hides the book.
+Nǀǀng	257	Naturalistic spoken	Ha ǃauka.		ha ǃauka	3SG be.afraid	He is afraid.
+Nǀǀng	258	Naturalistic spoken	Ng ka ǃaruke hng si ǁhaa.		ng ka ǃaru-ke hng si ǁhaa	1SG PL legs-PL 3PL IRR break	My legs, they will break."
+Nǀǀng	259	Elicited from speaker	Ha tyuu ng ǀqxʼae kxʼam.		ha tyuu ng ǀqxʼae kxʼam	3SG hear 1SG tell truth	He hears I tell the truth.
+Nǀǀng	260	Elicited from speaker	Kua xng ǂqau kiin ǃʼaun.		kua xng ǂqau kiin ǃʼaun	3H.SG PST fall lie.down ground	He falls on the ground.
+Nǀǀng	261	Elicited from speaker	Ku nǁae ǂqau kiin.		ku nǁae ǂqau kiin	3H.SG then fall lie.down	Then he falls.
+Nǀǀng	262	Naturalistic spoken	Gǀa ǁqxʼam? - ja, na ǁqxʼam, man.		gǀa ǁqxʼam ja na ǁqxʼam man	2SG.STR wash yes 1SG wash man	Are you washing? - Yes, I am washing, man!"
+Nǀǀng	263		Na ǁu xa ǁxaea ku xa nǁaa ki a.		na ǁu xa ǁxae-a ku xa nǁaa ki a	1SG NEG PST know-STAT 3H.SG PST stay place thin	I don't know (that) he stays here.
+Nǀǀng	264	Elicited from speaker	Na ǂaasinn ng ǃobake.		na ǂaasinn ng ǃoba-ke	1SG put.on 1SG skirt-PL	I put my clothes on.
+Nǀǀng	265	Naturalistic spoken	Ng nǁaa.		ng nǁaa	1SG get.dressed	I get dressed.
+Nǀǀng	266	Elicited from speaker	Siia ki a, jong, a saa hui ng ng kunisi a.		sii-a ki a jong a saa hui ng ng kuni-si a	come-IMP.SG place this boy 2SG come help 1SG OBL cart-SG this	Come here, boy, come and help me with this car!"
+Nǀǀng	267	Naturalistic spoken	A net see ng hui ng nǀa oom gǁain.		a net see ng hui ng nǀa oom gǁain	2SG just come and help 1SG INST uncle brown.hyena	You must come and help me with Uncle Hyena.
+Nǀǀng	268	Elicited from speaker	ǁʼuin ǁʼannʼa ke, ǂoo soo ng stoelsi.		ǁʼuin ǁʼann-a ke ǂoo soo ng stoel-si	day go.away-PFV FOC man sit OBL chair-SG	Yesterday the man sat on the chair.
+Nǀǀng	269	Elicited from speaker	ǀeeki ke xa ǂʼhaqa ǁʼaa Piet.		ǀeeki ke xa ǂʼhaqa ǁʼaa Piet	woman FOC PST push go.away Piet	The woman pushed Piet (away).
+Nǀǀng	270	Elicited from speaker	ǀeeki xa ǂʼhaqa Piet.		ǀeeki xa ǂʼhaqa Piet	woman PST push Piet	The woman pushed Piet.
+Nǀǀng	271	Naturalistic spoken	Ha ku "ǀqxʼaikea, ǀqxʼaikea"		ha ku ǀqxʼaike-a ǀqxʼaike-a	3SG say beat-2SG.IMP beat-2SG.IMP	He says: "Beat (him), beat (him)!""
+Nǀǀng	272	Naturalistic spoken	A ha ǁʼaa ha ku ng nǀng: "tyuin xae a ..."		a ha ǁʼaa ha ku ng nǀng tyuin xae a	CONN 3SG go 3SG say OBL 1SG.STR what QF this	He goes and says to me "What is this ...""
+Nǀǀng	273	Elicited from speaker	ǀoba ke gaake ǂoo si boeksi.		ǀoba ke gaake ǂoo si boek-si	child FOC steal man GEN book-SG	The child steals the man's book.
+Nǀǀng	274	Naturalistic spoken	U gaake ng.		u gaake ng	2PL steal 1SG	You steal from us.
+Nǀǀng	275	Elicited from speaker	Petrus ke ǃqhao gao ng aanki.		Petrus ke ǃqhao gao ng aan-ki	Petrus FOC smell thing OBL eat-NOM	Petrus smells something in the food.

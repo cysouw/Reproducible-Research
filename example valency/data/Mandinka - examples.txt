@@ -1,0 +1,298 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Mandinka	1	Elicited from speaker	Kambaanóo ye léeríjámboo fárási kitáaboo bála.		kambaan-óo ye léeríjámb-oo fárási kitáab-oo bála	boy-DEF PF.POS page-DEF tear book-DEF in_contact	The boy tore the page from the book.
+Mandinka	2	Elicited from speaker	Léeríjámboo fárásíta kitáaboo bála.		léeríjámb-oo fárásí-ta kitáab-oo bála	page-DEF tear-PF.POS book-DEF in_contact	The page was torn from the book.
+Mandinka	3	Elicited from speaker	Kewó niŋ súnkútoo beńta.		kew-ó niŋ súnkút-oo beń-ta	man-DEF with girl-DEF meet-PF.POS	The man met the girl. \ Lit. The man with/and the girl met.
+Mandinka	4	Elicited from speaker	Saateemóolu beńta.		saatee-móo-lu beń-ta	village-person.DEF-PL meet-PF.POS	The villagers gathered.
+Mandinka	5	Elicited from speaker	Alikáaloo yé saateemóolu bendi.		alikáal-oo yé saatee-móo-lu be-ndi	chief-DEF PF.POS village-person.DEF-PL meet-CAUS	The chief gathered the villagers.
+Mandinka	6	Elicited from speaker	Saateemóolu bendíta.		saatee-móo-lu be-ndí-ta	village-person.DEF-PL meet-CAUS-PF.POS	The villagers were gathered.
+Mandinka	7	Elicited from speaker	Kewó ye baŋkôo bée beŋ.		kew-ó ye baŋk-ôo bée beŋ	man-DEF PF.POS country-DEF all wander_round	The man wandered around the whole country.
+Mandinka	8	Elicited from speaker	Kewó ye musóo tara márséwo to.		kew-ó ye mus-óo tara márséw-o to	man-DEF PF.POS woman-DEF meet market-DEF LOC	The man met/found the woman at the market.
+Mandinka	9	Elicited from speaker	Musóo ka tara márséwo to.		mus-óo ka tara márséw-o to	woman-DEF HAB.POS be_found market-DEF LOC	The woman can usually be found at the market.
+Mandinka	10	Elicited from speaker	Díndíŋo ye mbúuroo dómo.		díndíŋ-o ye mbúur-oo dómo	child-DEF PF.POS bread-DEF eat	The child ate the bread.
+Mandinka	11	Elicited from speaker	Mbúur-oo dómó-ta.		mbúur-oo dómó-ta	bread-DEF eat-PF.POS	The bread was eaten.
+Mandinka	12	Elicited from speaker	Díndíŋo ye dómóroo ke.		díndíŋ-o ye dómó-r-oo ke	child-DEF PF.POS eat-ANTIP-DEF do	The child ate.
+Mandinka	13	Elicited from speaker	Díndíŋo dómóríta.		díndíŋ-o dómó-rí-ta	child-DEF eat-ANTIP-PF.POS	The child ate.
+Mandinka	14	Elicited from speaker	Kewó ye díndíŋo dómóríndi mbúuroo la.		kew-ó ye díndíŋ-o dómó-ríndi mbúur-oo la	man-DEF PF.POS child-DEF eat-CAUS bread-DEF OBL	The man made the child eat the bread.
+Mandinka	15	Elicited from speaker	Kewó mínínta musóo la.		kew-ó mínín-ta mus-óo la	man-DEF wind-PF.POS woman-DEF OBL	The man hugged the woman.
+Mandinka	16	Elicited from speaker	Kewó ye í míniŋ musóo la.		kew-ó ye í míniŋ mus-óo la	man-DEF PF.POS REFL wind woman-DEF OBL	The man hugged the woman.
+Mandinka	17	Elicited from speaker	Nómboo mínínta yíroo la.		nómb-oo mínín-ta yír-oo la	creeper-DEF wind-PF.POS tree-DEF OBL	The creeper wound around the tree.
+Mandinka	18	Elicited from speaker	Kel-óo ye tat-ôo míniŋ.		kel-óo ye tat-ôo míniŋ	army-DEF PF.POS fortress-DEF surround	The army encircled the fortress.
+Mandinka	19	Elicited from speaker	Kewó ye julôo míniŋ fáloo la.		kew-ó ye jul-ôo míniŋ fál-oo la	man-DEF PF.POS rope-DEF wind stick-DEF OBL	The man wound the rope around the stick.
+Mandinka	20	Elicited from speaker	Kewó ye kambaanóo loŋ.		kew-ó ye kambaan-óo loŋ	man-DEF PF.POS boy-DEF know	The man knows the boy.
+Mandinka	21	Elicited from speaker	Ñiŋ́ kewô lónta báake.		ñiŋ́ kew-ô lón-ta báake	DEM man-DEF know-PF.POS very	This man is a very learned person.
+Mandinka	22	Elicited from speaker	Ñiŋ́ kewó ye mansaalijámaa loŋ.		ñiŋ́ kew-ó ye mansaali-jámaa loŋ	DEM man-DEF PF.POS riddle-many know	This man knows many riddles.
+Mandinka	23	Elicited from speaker	Kewó ye kambaanôo féle.		kew-ó ye kambaan-ôo féle	man-DEF PF.POS boy-DEF look_at	The man looked at the boy.
+Mandinka	24	Elicited from speaker	Kewó ye kambaanóo je.		kew-ó ye kambaan-óo je	man-DEF PF.POS boy-DEF see	The man saw the boy.
+Mandinka	25	Elicited from speaker	Kambaanôo jéta bâa dáala.		kambaan-ôo jé-ta bâa dáala	boy-DEF see-PF.POS river.DEF near	The boy was seen near the river.
+Mandinka	26	Elicited from speaker	Finkintéw-o-lu búka í je.		finkintéw-o-lu búka í je	blind-DEF-PL HAB.NEG REFL see	The blind do not see.
+Mandinka	27	Elicited from speaker	Wulóo ye díndíŋo súmbu.		wul-óo ye díndíŋ-o súmbu	dog-DEF PF.POS child-DEF smell	The dog smelled the child.
+Mandinka	28	Elicited from speaker	Kambaan-ôo sílán-ta kew-ó la.		kambaan-ôo sílán-ta kew-ó la	boy-DEF fear-PF.POS man-DEF OBL	The boy feared the man.
+Mandinka	29	Elicited from speaker	Kewó ye kambaanôo sílándi.		kew-ó ye kambaan-ôo sílá-ndi	man-DEF PF.POS boy-DEF fear-CAUS	The man frightened the boy.
+Mandinka	30	Elicited from speaker	Kewó lafíta kambaanóo la.		kew-ó lafí-ta kambaan-óo la	man-DEF like-PF.POS boy-DEF OBL	The man liked the boy.
+Mandinka	31	Elicited from speaker	Kewó lafíta kódoo la.		kew-ó lafí-ta kód-oo la	man-DEF want-PF.POS money-DEF OBL	The man wants money.
+Mandinka	32	Elicited from speaker	Muŋ́ ne yé kambaanoó lafindi kitáaboo la?		muŋ́ ne yé kambaan-oó lafi-ndi kitáab-oo la	what FOC PF.POS boy-DEF want-CAUS book-DEF OBL	What made the boy like the book?
+Mandinka	33	Elicited from speaker	Kambaanóo lafíta kitáaboo la.		kambaan-óo lafí-ta kitáab-oo la	boy-DEF like/want-PF.POS book-DEF OBL	The boy wants/likes the book.
+Mandinka	34	Elicited from speaker	Súŋkútoo yé ñiŋ báyoo kanu.		súŋkút-oo yé ñiŋ báy-oo kanu	girl-DEF PF.POS DEM cloth-DEF like	The girl likes this cloth.
+Mandinka	35	Elicited from speaker	Kambaanóo ye súŋkútoo kanu.		kambaan-óo ye súŋkút-oo kanu	boy-DEF PF.POS girl-DEF love	The boy loves the girl.
+Mandinka	36	Elicited from speaker	Kewó ye a míira kó musóo ye a kanu.		kew-ó ye a míira kó mus-óo ye a kanu	man-DEF PF.POS 3SG think QUOT woman-DEF PF.POS 3SG love	The man thinks that the woman loves him.
+Mandinka	37	Elicited from speaker	Kewó ye í míira kambaanóo la kúwo la.		kew-ó ye í míira kambaan-óo la kúw-o la	man-DEF PF.POS REFL think boy-DEF GEN matter-DEF OBL	The man thought about the boy.
+Mandinka	38	Elicited from speaker	Kewó ye kambaanôo ñíni.		kew-ó ye kambaan-ôo ñíni	man-DEF PF.POS boy-DEF search	The man searched for the boy.
+Mandinka	39	Elicited from speaker	Musóo ye dendikóo kuu.		mus-óo ye dendik-óo kuu	woman-DEF PF.POS shirt-DEF wash	The woman washed the shirt.
+Mandinka	40	Elicited from speaker	Musóo ye díndíŋo kuu.		mus-óo ye díndíŋ-o kuu	woman-DEF PF.POS child-DEF wash	The woman washed the child.
+Mandinka	41	Elicited from speaker	Díndíŋo kuúta.		díndíŋ-o kuú-ta	child-DEF wash-PF.POS	The child has been washed.
+Mandinka	42	Elicited from speaker	Musóo ye í kuu.		mus-óo ye í kuu	woman-DEF PF.POS REFL wash	The woman washed (herself).
+Mandinka	43	Elicited from speaker	Musóo ye kuuróo ke.		mus-óo ye kuu-r-óo ke	woman-DEF PF.POS wash-ANTIP-DEF do	The woman did the washing.
+Mandinka	44	Elicited from speaker	Kewó ye musóo kuurindi dendikóo la.		kew-ó ye mus-óo kuu-rindi dendik-óo la	man-DEF PF.POS woman-DEF wash-CAUS shirt-DEF OBL	The man made the woman wash the shirt.
+Mandinka	45	Elicited from speaker	Kewó ye kambaanôo máakóyi kódoo to.		kew-ó ye kambaan-ôo máakóyi kód-oo to	man-DEF PF.POS boy-DEF help money-DEF LOC	The man helped the boy financially.
+Mandinka	46	Elicited from speaker	Kewó ye súŋkútoo báyíndi.		kew-ó ye súŋkút-oo báyíndi	man-DEF PF.POS girl-DEF follow	The man followed the girl.
+Mandinka	47	Elicited from speaker	Kewó ye ŋáníŋo bóndi díndíŋo siŋô kóno.		kew-ó ye ŋáníŋ-o bó-ndi díndíŋ-o siŋ-ô kóno	man-DEF PF.POS thorn-DEF go_out-CAUS child-DEF foot-DEF in	The man removed the thorn from the child's foot.
+Mandinka	48	Elicited from speaker	Kewó ye subóo bula kufôo kóno.		kew-ó ye sub-óo bula kuf-ôo kóno	man-DEF PF.POS meat-DEF settle bag-DEF in	The man put the meat into the bag.
+Mandinka	49	Elicited from speaker	Kewó buláta kúlúŋo kóno.		kew-ó bulá-ta kúlúŋ-o kóno	man-DEF settle-PF.POS boat-DEF in	The man boarded the ship.
+Mandinka	50	Elicited from speaker	Kewó ye lóo bulandi saréetoo kóno.		kew-ó ye lóo bula-ndi saréet-oo kóno	man-DEF PF.POS wood settle-CAUS cart-DEF in	The man loaded the wood into the cart.
+Mandinka	51	Elicited from speaker	Lóo bulandíta saréetoo kóno.		lóo bula-ndí-ta saréet-oo kóno	wood settle-CAUS-PF.POS cart-DEF in	The wood was loaded into the cart.
+Mandinka	52	Elicited from speaker	Kewó ye kambaanóo bulandirindi lóo la saréetoo kóno.		kew-ó ye kambaan-óo bula-ndi-rindi lóo la saréet-oo kóno	man-DEF PF.POS boy-DEF settle-CAUS-CAUS wood OBL cart-DEF in	The man made the boy load the wood into the cart.
+Mandinka	53	Elicited from speaker	Kewó buláta súŋkútoo nóoma.		kew-ó bulá-ta súŋkút-oo nóoma	man-DEF settle-PF.POS girl-DEF on_the_track	The man followed the girl.
+Mandinka	54	Elicited from speaker	Kewô hákíloo buláta kambaanóo la.		kew-ô hákíl-oo bulá-ta kambaan-óo la	man-DEF mind-DEF settle-PF.POS boy-DEF OBL	The man remembered the boy.
+Mandinka	55	Elicited from speaker	Musóo ye kewô hákíloo bulandi kambaanóo la.		mus-óo ye kew-ô hákíl-oo bula-ndi kambaan-óo la	woman-DEF PF.POS man-DEF mind-DEF settle-CAUS boy-DEF OBL	The woman reminded the man of the boy.
+Mandinka	56	Elicited from speaker	Kewó ye kambaanóo bula dookúwo to.		kew-ó ye kambaan-óo bula dookúw-o to	man-DEF PF.POS boy-DEF settle work-DEF LOC	The man made the boy work.
+Mandinka	57	Elicited from speaker	Kewó ye tooñáa fo kambaanóo ye.		kew-ó ye tooñáa fo kambaan-óo ye	man-DEF PF.POS truth.DEF tell boy-DEF BEN	The man told the truth to the boy.
+Mandinka	58	Elicited from speaker	Tooñâa fóta kambaanóo ye.		tooñâa fó-ta kambaan-óo ye	truth.DEF tell-PF.POS boy-DEF BEN	The truth was told to the boy.
+Mandinka	59	Elicited from speaker	Musóo ye kewô fóoríndi tooñáa la kambaanóo ye.		mus-óo ye kew-ô fóo-ríndi tooñáa la kambaan-óo ye	woman-DEF PF.POS man-DEF tell-CAUS truth.DEF OBL boy-DEF BEN	The woman made the man tell the truth to the boy.
+Mandinka	60	Elicited from speaker	Kewó ka Mandinkakáŋo fo.		kew-ó ka Mandinka-káŋ-o fo	man-DEF HAB.POS Mandinka-language-DEF speaks	The man speaks Mandinka.
+Mandinka	61	Elicited from speaker	Kewó ye kambaanóo (la kúmoo) fó musóo ye.		kew-ó ye kambaan-óo la kúm-oo fó mus-óo ye	man-DEF PF.POS boy-DEF GEN word-DEF tell woman-DEF BEN	The man talked to the woman about the boy.
+Mandinka	62	Elicited from speaker	Kewó ye a fó kambaanóo ye kó 'haní'.		kew-ó ye a fó kambaan-óo ye kó 'haní'	man-DEF PF.POS 3SG say boy-DEF PF.POS QUOT 'no'	The man said 'no' to the boy.
+Mandinka	63	Elicited from speaker	Kambaanóo ye kewô dáani kódoo la.		kambaan-óo ye kew-ô dáani kód-oo la	boy-DEF PF.POS man-DEF ask money-DEF OBL	The boy asked the man for money.
+Mandinka	64	Elicited from speaker	Kambaanóo ye kódoo dáani kewô búlu.		kambaan-óo ye kód-oo dáani kew-ô búlu	boy-DEF PF.POS money-DEF ask man-DEF POSS	The boy asked the man for money.
+Mandinka	65	Elicited from speaker	Kewô sáríta.		kew-ô sárí-ta	man-DEF scream-PF.POS	The man screamed.
+Mandinka	66	Elicited from speaker	Kewó ye a dímmúsoo too laa Ámi la.		kew-ó ye a dímmús-oo too laa Ámi la	man-DEF PF.POS 3SG daughter-DEF name put Amy OBL	The man called his daughter Amy.
+Mandinka	67	Elicited from speaker	Kewô sáríta súŋkútoo kaŋ.		kew-ô sárí-ta súŋkút-oo kaŋ	man-DEF shout-PF.POS girl-DEF on	The man shouted to the girl.
+Mandinka	68	Elicited from speaker	Kewô sáríta súŋkútoo tóo ti.		kew-ô sárí-ta súŋkút-oo tóo ti	man-DEF shout-PF.POS girl-DEF name.DEF ESS	The man shouted the girl's name.
+Mandinka	69	Elicited from speaker	Kewó ye súŋkútoo tôo sári.		kew-ó ye súŋkút-oo tôo sári	man-DEF PF.POS girl-DEF name.DEF shout	The man shouted the girl's name.
+Mandinka	70	Elicited from speaker	Musóo ye féŋolu duŋ díndíŋo la.		mus-óo ye féŋ-o-lu duŋ díndíŋ-o la	woman-DEF PF.POS thing-DEF-PL put_on child-DEF OBL	The woman dressed the child.
+Mandinka	71	Elicited from speaker	Musóo ye kurutóo duŋ díndíŋo la.		mus-óo ye kurut-óo duŋ díndíŋ-o la	woman-DEF PF.POS trousers-DEF put_on child-DEF OBL	The woman put trousers on the child.
+Mandinka	72	Elicited from speaker	Díndíŋo ye kurutóo duŋ.		díndíŋ-o ye kurut-óo duŋ	child-DEF PF.POS trousers-DEF put_on	The child put on trousers.
+Mandinka	73	Elicited from speaker	Díndíŋo ye a la féŋolu duŋ.		díndíŋ-o ye a la féŋ-o-lu duŋ	child-DEF PF.POS 3SG GEN thing-DEF-PL put_on	The child dressed.
+Mandinka	74	Elicited from speaker	Díndíŋo ye í duŋ.		díndíŋ-o ye í duŋ	child-DEF PF.POS REFL put_on	The child dressed.
+Mandinka	75	Elicited from speaker	Musóo ye díndíŋo dundirindi kurtóo la.		mus-óo ye díndíŋ-o dun-dirindi kurt-óo la	woman-DEF PF.POS child-DEF put_on-CAUS trousers-DEF OBL	The woman made the child put on trousers.
+Mandinka	76	Elicited from speaker	Kewó ye a booráa lii.		kew-ó ye a booráa lii	man-DEF PF.POS 3SG beard.DEF shave	The man shaved (his beard).
+Mandinka	77	Elicited from speaker	Jumáa le ye í lii?		jumáa le ye í lii	who FOC PF.POS REFL shave	Who shaved you?
+Mandinka	78	Elicited from speaker	Kewó ye búŋo loo biríkoo la.		kew-ó ye búŋ-o loo birík-oo la	man-DEF PF.POS house-DEF erect brick-DEF OBL	The man built the house with bricks.
+Mandinka	79	Elicited from speaker	Kewó loóta.		kew-ó loó-ta	man-DEF stand-PF.POS	The man stood up / stopped.
+Mandinka	80	Elicited from speaker	Kewó ye í loo.		kew-ó ye í loo	man-DEF PF.POS REFL stand	The man stood up / stopped.
+Mandinka	81	Elicited from speaker	Musóo ye kulúŋo londi.		mus-óo ye kulúŋ-o lo-ndi	woman-DEF PF.POS mortar-DEF stand-CAUS	The woman put the mortar in standing position.
+Mandinka	82	Elicited from speaker	Moólu ye túlúŋo loo.		moó-lu ye túlúŋ-o loo	person.DEF-PL PF.POS dance-DEF organize	The people organized a dance.
+Mandinka	83	Elicited from speaker	Búŋo loóta.		búŋ-o loó-ta	house-DEF erect-PF.POS	The house was built.
+Mandinka	84	Elicited from speaker	Kewó boyíta yíroo sánto, a káŋo kátíta.		kew-ó boyí-ta yír-oo sánto a káŋ-o kátí-ta	man-DEF fall-PF.POS tree-DEF on_top 3SG neck-DEF break-PF.POS	The man fell from the tree and broke his neck.
+Mandinka	85	Elicited from speaker	Kambaanóo ye dokôo káti.		kambaan-óo ye dok-ôo káti	boy-DEF PF.POS stick-DEF break	The boy broke the stick.
+Mandinka	86	Elicited from speaker	Kewó ye a ñâa káti.		kew-ó ye a ñâa káti	man-DEF PF.POS 3SG eye.DEF break	The man blinked.
+Mandinka	87	Elicited from speaker	Musóo ye díndíŋolu tu súwo kóno.		mus-óo ye díndíŋ-o-lu tu súw-o kóno	woman-DEF PF.POS child-DEF-PL leave house-DEF in	The woman left the children in the house.
+Mandinka	88	Elicited from speaker	Musukéebaa fula túta saatéwo to.		musu-kéebaa fula tú-ta saatéw-o to	woman-old two remain-PF.POS village-DEF LOC	Two old women remained in the village.
+Mandinka	89	Elicited from speaker	A túta jee musukéebaa fula (la).		a tú-ta jee musu-kéebaa fula la	3SG remain-PF.POS there woman-old two OBL	There remained two old women.
+Mandinka	90	Elicited from speaker	Kambaanóo ye palantéeroo teyi beróo la.		kambaan-óo ye palantéer-oo teyi ber-óo la	boy-DEF PF.POS window-DEF break stone-DEF OBL	The boy broke the window with the stone.
+Mandinka	91	Elicited from speaker	Kíloo teyíta.		kíl-oo teyí-ta	egg-DEF break-PF.POS	The egg broke.
+Mandinka	92	Elicited from speaker	Kewô bóta saatéwo to.		kew-ô bó-ta saatéw-o to	man-DEF leave-PF.POS village-DEF LOC	The man left the village.
+Mandinka	93	Elicited from speaker	Kullíimaarôo bóta.		kullíimaar-ôo bó-ta	rainbow-DEF go_out-PF.POS	A rainbow appeared.
+Mandinka	94	Elicited from speaker	Kewó ye a lá dendikóo bo.		kew-ó ye a lá dendik-óo bo	man-DEF PF.POS 3SG GEN shirt-DEF take_off	The man took off his shirt.
+Mandinka	95	Elicited from speaker	Kewó ye ŋáníŋo bóndi a siŋô kóno.		kew-ó ye ŋáníŋ-o bó-ndi a siŋ-ô kóno	man-DEF PF.POS thorn-DEF go_out-CAUS 3SG foot-DEF in	The man removed the thorn from his foot.
+Mandinka	96	Elicited from speaker	Kewó ye saatéwo bula.		kew-ó ye saatéw-o bula	man-DEF PF.POS village-DEF abandon	The man left the village (i.e. he does not live in the village anymore).
+Mandinka	97	Elicited from speaker	Kewó ye dolóo bula.		kew-ó ye dol-óo bula	man-DEF PF.POS wine-DEF abandon	The man stopped drinking.
+Mandinka	98	Elicited from speaker	Kewó ye lóo laa saréetoo kaŋ.		kew-ó ye lóo laa saréet-oo kaŋ	man-DEF PF.POS wood.DEF lay cart-DEF on	The man put/loaded the wood on the cart.
+Mandinka	99	Elicited from speaker	Kewó ye mbajóo laa díndíŋo kaŋ.		kew-ó ye mbaj-óo laa díndíŋ-o kaŋ	man-DEF PF.POS blanket-DEF lay child-DEF on	The man put a blanket on the child.
+Mandinka	100	Elicited from speaker	Kewó ye í laa laaráŋo kaŋ.		kew-ó ye í laa laaráŋ-o kaŋ	man-DEF PF.POS REFL lay bed-DEF on	The man lay down on the bed.
+Mandinka	101	Elicited from speaker	Kewó ye baramatôo lándi laaráŋo kaŋ.		kew-ó ye baramatôo lá-ndi laaráŋ-o kaŋ	man-DEF PF.POS wounded_person lie-CAUS bed-DEF on	The man laid the wounded person on the bed.
+Mandinka	102	Elicited from speaker	Kewó ye kambaanôo láaríndi lóo la saréetoo kaŋ.		kew-ó ye kambaan-ôo láa-ríndi lóo la saréet-oo kaŋ	man-DEF PF.POS boy-DEF lay-CAUS wood.DEF OBL cart-DEF on	The man made the boy load the wood on the cart.
+Mandinka	103	Elicited from speaker	Kewó ye musóolu lándíríndi baramatóo la laaráŋo kaŋ.		kew-ó ye mus-óo-lu lá-ndí-ríndi baramatóo la laaráŋ-o kaŋ	man-DEF PF.POS woman-DEF-PL lie-CAUS-CAUS wounded_person.DEF OBL bed-DEF on	The man made the women lay the wounded person on the bed.
+Mandinka	104	Elicited from speaker	Kewó ye kitáaboo ke táabúloo kaŋ.		kew-ó ye kitáab-oo ke táabúl-oo kaŋ	man-DEF PF.POS book-DEF put table-DEF on	The man put the book on the table.
+Mandinka	105	Elicited from speaker	Musóo ye dendikóolu ke kúnéwo kóno.		mus-óo ye dendik-óo-lu ke kúnéw-o kóno	woman-DEF PF.POS clothes-DEF-PL put chest-DEF in	The woman put the clothes in the chest.
+Mandinka	106	Elicited from speaker	Kambaanóo ye saá faa faŋó la.		kambaan-óo ye saá faa faŋ-ó la	boy-DEF PF.POS snake.DEF kill cutlass-DEF OBL	The boy killed the snake with a cutlass.
+Mandinka	107	Elicited from speaker	Saajíyo faáta.		saajíy-o faá-ta	sheep-DEF kill/die-PF.POS	The sheep died / was killed.
+Mandinka	108	Elicited from speaker	Kewó ye a díŋo faarindi saajíyo la.		kew-ó ye a díŋ-o faa-rindi saajíy-o la	man-DEF PF.POS 3SG son-DEF kill-CAUS sheep-DEF OBL	The man made his son kill the sheep.
+Mandinka	109	Elicited from speaker	Kewó saáta.		kew-ó saá-ta	man-DEF die-PF.POS	The man died.
+Mandinka	110	Elicited from speaker	Kambaanóo ye saâ búsa fáloo la.		kambaan-óo ye saâ búsa fál-oo la	boy-DEF PF.POS snake.DEF hit/beat stick-DEF OBL	The boy hit / beat the snake with a stick.
+Mandinka	111	Elicited from speaker	Kewó ye tiyôo búsa.		kew-ó ye tiy-ôo búsa	man-DEF PF.POS peanuts-DEF hit/beat	The man threshed the peanuts.
+Mandinka	112	Elicited from speaker	Tiyôo búsáta.		tiy-ôo búsá-ta	peanuts-DEF hit/beat-PF.POS	The peanuts were threshed.
+Mandinka	113	Elicited from speaker	Kambaanóo ye saá maa fáloo la.		kambaan-óo ye saá maa fál-oo la	boy-DEF PF.POS snake.DEF touch stick-DEF OBL	The boy touched the snake with a stick.
+Mandinka	114	Elicited from speaker	Musóo ye subóo kuntu muróo la.		mus-óo ye sub-óo kuntu mur-óo la	woman-DEF PF.POS meat-DEF cut knife-DEF OBL	The woman cut the meat with a knife.
+Mandinka	115	Elicited from speaker	Subóo kuntúta.		sub-óo kuntú-ta	meat-DEF cut-PF.POS	The meat was cut.
+Mandinka	116	Elicited from speaker	Kewó ye ñantáŋo teyi faŋó la.		kew-ó ye ñantáŋ-o teyi faŋ-ó la	man-DEF PF.POS thatching_grass-DEF cut cutlass-DEF OBL	The man cut thatching-grass with a cutlass.
+Mandinka	117	Elicited from speaker	Kewó ye kitáaboo taa kambaanôo búlu.		kew-ó ye kitáab-oo taa kambaan-ôo búlu	man-DEF PF.POS book-DEF take boy-DEF POSS	The man took the book from the boy.
+Mandinka	118	Elicited from speaker	Musóo ye kódoo maabo kewó ma.		mus-óo ye kód-oo maabo kew-ó ma	woman-DEF PF.POS money-DEF hide man-DEF OBL	The woman hid the money from the man.
+Mandinka	119	Elicited from speaker	Musóo ye díndíŋo maabondi kewó ma.		mus-óo ye díndíŋ-o maabo-ndi kew-ó ma	woman-DEF PF.POS child-DEF hide-CAUS man-DEF OBL	The woman hid the child from the man.
+Mandinka	120	Elicited from speaker	Musóo ye díndíŋo maaborindi kódoo la kewó ma.		mus-óo ye díndíŋ-o maabo-rindi kód-oo la kew-ó ma	woman-DEF PF.POS child-DEF hide-CAUS money-DEF OBL man-DEF OBL	The woman made the child hide the money from the man.
+Mandinka	121	Elicited from speaker	Kód-oo maabó-ta kew-ó ma.		kód-oo maabó-ta kew-ó ma	money-DEF hide-PF.POS man-DEF OBL	The money was hidden from the man.
+Mandinka	122	Elicited from speaker	Díndíŋo maabóta kewó ma.		díndíŋ-o maabó-ta kew-ó ma	child-DEF hide-PF.POS man-DEF OBL	The child hid from the man.
+Mandinka	123	Elicited from speaker	Díndíŋo ye í maabo kewó ma.		díndíŋ-o ye í maabo kew-ó ma	child-DEF PF.POS REFL hide man-DEF OBL	The child hid from the man.
+Mandinka	124	Elicited from speaker	Kewó ye natáaloo yitandi musóo la.		kew-ó ye natáal-oo yitandi mus-óo la	man-DEF PF.POS picture-DEF show woman-DEF OBL	The man showed the picture to the woman.
+Mandinka	125	Elicited from speaker	Natáaloo yitandíta musóo la.		natáal-oo yitandí-ta mus-óo la	picture-DEF show-PF.POS woman-DEF OBL	The picture was shown to the woman.
+Mandinka	126	Elicited from speaker	Kewó ye díndíŋo yitandirindi natáaloo la musóo ye.		kew-ó ye díndíŋ-o yitandi-rindi natáal-oo la mus-óo ye	man-DEF PF.POS child-DEF show-CAUS picture-DEF OBL woman-DEF BEN	The man made the child show the picture to the woman.
+Mandinka	127	Elicited from speaker	Karammóo ye kitáaboo díi kambaanóo la.		karammóo ye kitáab-oo díi kambaan-óo la	teacher.DEF PF.POS book-DEF give boy-DEF OBL	The teacher gave the book to the boy.
+Mandinka	128	Elicited from speaker	Kitáaboo díita kambaanóo la.		kitáab-oo díi-ta kambaan-óo la	book-DEF give-PF.POS boy-DEF OBL	The book was given to the boy.
+Mandinka	129	Elicited from speaker	Karammóo ye kambaanóo so kitáaboo la.		karammóo ye kambaan-óo so kitáab-oo la	teacher PF.POS boy-DEF give book-DEF OBL	The teacher gave the book to the boy.
+Mandinka	130	Elicited from speaker	Kambaanóo ye batáayoo kíi a karammóo ye.		kambaan-óo ye batáay-oo kíi a karammóo ye	boy-DEF PF.POS letter-DEF send 3SG teacher.DEF BEN	The boy sent a letter to his teacher.
+Mandinka	131	Elicited from speaker	Súŋkútoo yé laríñcoo wóto.		súŋkút-oo yé laríñc-oo wóto	girl-DEF PF.POS orange-DEF peel	The girl peeled the orange.
+Mandinka	132	Elicited from speaker	Kambaanóo ye kitáaboo samba karambúŋo to.		kambaan-óo ye kitáab-oo samba karambúŋ-o to	boy-DEF PF.POS book-DEF bring/carry school-DEF LOC	The boy brought/carried the book to the school.
+Mandinka	133	Elicited from speaker	Kambaanóo ye kitáaboo samba a karammóo ye.		kambaan-óo ye kitáab-oo samba a karammóo ye	boy-DEF PF.POS book-DEF bring/carry 3SG teacher.DEF BEN	The boy brought/carried the book to his teacher.
+Mandinka	134	Elicited from speaker	Kambaanóo ye kitáaboo sambá naŋ a karammóo ye.		kambaan-óo ye kitáab-oo sambá naŋ a karammóo ye	boy-DEF PF.POS book-DEF bring/carry CTRP 3SG teacher.DEF BEN	The boy brought the book to his teacher.
+Mandinka	135	Elicited from speaker	Kewô táata.		kew-ô táa-ta	man-DEF go-PF.POS	The man went away.
+Mandinka	136	Elicited from speaker	Kewô táata kúŋkoo to.		kew-ô táa-ta kúŋk-oo to	man-DEF go-PF.POS field-DEF LOC	The man went to the field.
+Mandinka	137	Elicited from speaker	Kambaanôo táata kitáaboo ti karambúŋo to.		kambaan-ôo táa-ta kitáab-oo ti karambúŋ-o to	boy-DEF go-PF.POS book-DEF with school-DEF LOC	The boy carried the book to school.
+Mandinka	138	Elicited from speaker	Kewó naáta saatéwo to.		kew-ó naá-ta saatéw-o to	man-DEF come-PF.POS village-DEF LOC	The man came to the village.
+Mandinka	139	Elicited from speaker	Kambaanóo naáta kitáaboo ti a karammóo ye.		kambaan-óo naá-ta kitáab-oo ti a karammóo ye	boy-DEF come-PF.POS book-DEF with 3SG teacher.DEF BEN	The boy brought the book to his teacher.
+Mandinka	140	Elicited from speaker	Kambaanóo naáta kitáaboo ti karambúŋo to.		kambaan-óo naá-ta kitáab-oo ti karambúŋ-o to	boy-DEF come-PF.POS book-DEF with school-DEF LOC	The boy brought the book to school.
+Mandinka	141	Elicited from speaker	Kambaanóo ye kitáaboo naati a karammóo ye.		kambaan-óo ye kitáab-oo naa-ti a karammóo ye	boy-DEF PF.POS book-DEF come-with 3SG teacher.DEF BEN	The boy brought the book to his teacher.
+Mandinka	142	Elicited from speaker	Kambaanóo ye kitáaboo naati karambúŋo to.		kambaan-óo ye kitáab-oo naa-ti karambúŋ-o to	boy-DEF PF.POS book-DEF come-with school-DEF LOC	The boy brought the book to school.
+Mandinka	143	Elicited from speaker	Kambaanóo ye berôo fáyi palantéeroo kaŋ.		kambaan-óo ye ber-ôo fáyi palantéer-oo kaŋ	boy-DEF PF.POS stone-DEF throw window-DEF on	The boy threw the stone into the window.
+Mandinka	144	Elicited from speaker	Kambaanóo ye palantéeroo búŋ beróo la.		kambaan-óo ye palantéer-oo búŋ ber-óo la	boy-DEF PF.POS window-DEF aim stone-DEF OBL	The boy threw the stone into the window.
+Mandinka	145	Elicited from speaker	Kúmbúrúŋo ye díndíŋo buŋ.		kúmbúrúŋ-o ye díndíŋ-o buŋ	bee-DEF PF.POS child-DEF sting	A bee stung the child.
+Mandinka	146	Elicited from speaker	Kewó ye suwó siti yíroo bála julóo la.		kew-ó ye suw-ó siti yír-oo bála jul-óo la	man-DEF PF.POS horse-DEF tie tree-DEF in_contact rope-DEF OBL	The man tied the horse to the tree with a rope.
+Mandinka	147	Elicited from speaker	Suwó sitíta yíroo bála.		suw-ó sití-ta yír-oo bála	horse-DEF tie-PF.POS tree-DEF in_contact	The horse was tied to a tree.
+Mandinka	148	Elicited from speaker	Kewó ye kambaanóo sitirindi suwó la yíroo bála.		kew-ó ye kambaan-óo siti-rindi suw-ó la yír-oo bála	man-DEF PF.POS boy-DEF tie-CAUS horse-DEF OBL tree-DEF in_contact	The man made the boy tie the horse to the tree.
+Mandinka	149	Elicited from speaker	Kewó ye jíyo boŋ baŋkóo to.		kew-ó ye jíy-o boŋ baŋk-óo to	man-DEF PF.POS water-DEF pour ground-DEF LOC	The man poured the water on the ground.
+Mandinka	150	Elicited from speaker	Jíyo bońta baŋkóo to.		jíy-o boń-ta baŋk-óo to	water-DEF pour-PF.POS ground-DEF LOC	The water was poured on the ground.
+Mandinka	151	Elicited from speaker	Kewó ye jíyo soo wéeroo kóno.		kew-ó ye jíy-o soo wéer-oo kóno	man-DEF PF.POS water-DEF pour glass-DEF in	The man poured the water into the glass.
+Mandinka	152	Elicited from speaker	Kewó ye musóo soorindi jíyo la wéeroo kóno.		kew-ó ye mus-óo soo-rindi jíy-o la wéer-oo kóno	man-DEF PF.POS woman-DEF pour-CAUS water-DEF OBL glass-DEF in	The man made the woman pour the water into the glass.
+Mandinka	153	Elicited from speaker	Kewó ye díndíŋo múura mbajóo la.		kew-ó ye díndíŋ-o múura mbaj-óo la	man-DEF PF.POS child-DEF cover blanket-DEF OBL	The man covered the child with the blanket.
+Mandinka	154	Elicited from speaker	Kewó ye bootôo fándi maanóo la.		kew-ó ye boot-ôo fá-ndi maan-óo la	man-DEF PF.POS bag-DEF be_full-CAUS rice-DEF OBL	The man filled the bag with rice.
+Mandinka	155	Elicited from speaker	Bootôo fándíta maanóo la.		boot-ôo fá-ndí-ta maan-óo la	bag-DEF be_full-CAUS-PF.POS rice-DEF OBL	The bag was filled with rice.
+Mandinka	156	Elicited from speaker	Kewó ye a díŋo fándíríndi bootóo la.		kew-ó ye a díŋ-o fá-ndí-ríndi boot-óo la	man-DEF PF.POS 3SG son-DEF be_full-CAUS-CAUS bag-DEF OBL	The man made his son fill the bag.
+Mandinka	157	Elicited from speaker	Kewó ye a díŋo fándíríndi maanóo la bootôo kóno.		kew-ó ye a díŋ-o fá-ndí-ríndi maan-óo la boot-ôo kóno	man-DEF PF.POS 3SG son-DEF be_full-CAUS-CAUS rice-DEF OBL bag-DEF in	The man made his son fill the bag with rice.
+Mandinka	158	Elicited from speaker	Diŋkôo fáata jíyo la.		diŋk-ôo fáa-ta jíy-o la	hole-DEF be_full-PF.POS water-DEF OBL	The hole is full of water.
+Mandinka	159	Elicited from speaker	Jíyo ye diŋkóo faa.		jíy-o ye diŋk-óo faa	water-DEF PF.POS hole-DEF fill	The water filled up the hole.
+Mandinka	160	Elicited from speaker	Kewó tootóota.		kew-ó tootóo-ta	man-DEF cough-PF.POS	The man coughed.
+Mandinka	161	Elicited from speaker	Siisíyo yé kewó tootondi.		siisíy-o yé kew-ó tooto-ndi	smoke-DEF PF.POS man-DEF cough-CAUS	The smoke makes the man cough.
+Mandinka	162	Elicited from speaker	Kewó seléta koŋkôo sánto.		kew-ó selé-ta koŋk-ôo sánto	man-DEF climb-PF.POS hill-DEF on_top	The man climbed up the hill.
+Mandinka	163	Elicited from speaker	Kewó ye koŋkóo sele.		kew-ó ye koŋk-óo sele	man-DEF PF.POS hill-DEF climb	The man climbed up the hill.
+Mandinka	164	Elicited from speaker	Kewó ye kambaanóo selendi suwô sánto.		kew-ó ye kambaan-óo sele-ndi suw-ô sánto	man-DEF PF.POS boy-DEF climb-CAUS horse-DEF on.top	The man helped the boy get on the horse.
+Mandinka	165	Elicited from speaker	Díndíŋo boríta.		díndíŋ-o borí-ta	child-DEF run-PF.POS	The child ran (away).
+Mandinka	166	Elicited from speaker	Kátoo boríta baŋkóo kaŋ.		kát-oo borí-ta baŋk-óo kaŋ	ball-DEF run-PF.POS ground-DEF on	The ball rolled on the ground.
+Mandinka	167	Elicited from speaker	Díndíŋo ye í bori.		díndíŋ-o ye í bori	child-DEF PF.POS REFL run	The child ran (away).
+Mandinka	168	Elicited from speaker	Kewó ye suwó bori.		kew-ó ye suw-ó bori	man-DEF PF.POS horse-DEF ride	The man rode the horse.
+Mandinka	169	Elicited from speaker	Kewó ye suwó borindi.		kew-ó ye suw-ó bori-ndi	man-DEF PF.POS horse-DEF run-CAUS	The man rode the horse / made the horse run.
+Mandinka	170	Elicited from speaker	Díndíŋo siíta siiráŋo kaŋ.		díndíŋ-o sií-ta siiráŋ-o kaŋ	child-DEF sit-PF.POS chair-DEF on	The child sat on the chair.
+Mandinka	171	Elicited from speaker	Kewó ye díndíŋo sindi siiráŋo kaŋ.		kew-ó ye díndíŋ-o si-ndi siiráŋ-o kaŋ	man-DEF PF.POS child-DEF sit-CAUS chair-DEF on	The man sat the child on the chair.
+Mandinka	172	Elicited from speaker	Díndíŋo bárímmaa bé siíriŋ Siicóori.		díndíŋ-o bárímmaa bé sií-riŋ Siicóori	child-DEF uncle LOC.COP sit-RES Ziguinchor	The child's uncle lives in Ziguinchor.
+Mandinka	173	Elicited from speaker	Díndíŋo sawúnta.		díndíŋ-o sawún-ta	child-DEF jump-PF.POS	The child jumped.
+Mandinka	174	Elicited from speaker	Kewó sawúnta a lá koridaakútoo to.		kew-ó sawún-ta a lá koridaa-kút-oo to	man-DEF move-PF.POS 3SG GEN house-new-DEF LOC	The man moved to his new house.
+Mandinka	175	Elicited from speaker	Ñaŋkúm-oo sawún-ta siiráŋ-o kaŋ.		ñaŋkúm-oo sawún-ta siiráŋ-o kaŋ	cat-DEF jump-PF.POS chair-DEF on	The cat jumped on the chair.
+Mandinka	176	Naturalistic written	'File' sawundi 'folder' to!		file sawu-ndi folder to	file move-CAUS folder LOC	Transfer the file to a folder!
+Mandinka	177	Elicited from speaker	Súŋkútoo yé doŋkilóo laa.		súŋkút-oo yé doŋkil-óo la	girl-DEF PF.POS song-DEF sing	The girl sang (a song).
+Mandinka	178	Elicited from speaker	Musóo ye taalíŋo laa díndíŋo ye.		mus-óo ye taalíŋ-o laa díndíŋ-o ye	woman-DEF PF.POS story-DEF tell child-DEF BEN	The woman told a story to the child.
+Mandinka	179	Elicited from speaker	Kambaanôo jéléta.		kambaan-ôo jélé-ta	boy-DEF laugh-PF.POS	The boy laughed.
+Mandinka	180	Elicited from speaker	Kambaanôo jéléta súŋkútoo la.		kambaan-ôo jélé-ta súŋkút-oo la	boy-DEF laugh-PF.POS girl-DEF OBL	The boy laughed at the girl.
+Mandinka	181	Elicited from speaker	Kambaanóo ye súŋkútoo jéle.		kambaan-óo ye súŋkút-oo jéle	boy-DEF PF.POS girl-DEF laugh	The boy laughed at the girl.
+Mandinka	182	Elicited from speaker	Muŋ́ ne yé kambaanoô jéléndi?		muŋ́ ne yé kambaan-oô jélé-ndi	what FOC PF.POS boy-DEF laugh-CAUS	What made the boy laugh?
+Mandinka	183	Elicited from speaker	Ŋ́ búloo ka ŋ́ dímiŋ.		ŋ́ búl-oo ka ŋ́ dímiŋ	1SG arm-DEF HAB.POS 1SG hurt	My arm is hurting.
+Mandinka	184	Elicited from speaker	Ñiŋ kínoo si í kónoo dímiŋ.		ñiŋ kín-oo si í kón-oo dímiŋ	DEM food-DEF POT 2SG stomach-DEF hurt	This food may hurt your stomach.
+Mandinka	185	Elicited from speaker	Kewó ye ŋ́ búloo dete fó a ye ŋ́ dímíndi.		kew-ó ye ŋ́ búl-oo dete fó a ye ŋ́ dímí-ndi	man-DEF PF.POS 1SG arm-DEF squeeze until 3SG PF.POS 1SG hurt-CAUS	The man squeezed my arm to the extent that he hurt me.
+Mandinka	186	Elicited from speaker	Díndíŋolu túlúnta.		díndíŋ-o-lu túlún-ta	child-DEF-PL play-PF.POS	The children played.
+Mandinka	187	Elicited from speaker	Kewó túlúnta a káŋo la.		kew-ó túlún-ta a káŋ-o la	man-DEF play-PF.POS 3SG word-DEF OBL	The man did not keep his word (lit. played with his word).
+Mandinka	188	Elicited from speaker	Kewó ye musôo túluŋ.		kew-ó ye mus-ôo túluŋ	man-DEF PF.POS woman-DEF play	The man behaved frivolously towards the woman.
+Mandinka	189	Elicited from speaker	Musóo ye díndíŋolu túlúndi.		mus-óo ye díndíŋ-o-lu túlú-ndi	woman-DEF PF.POS child-DEF-PL play-CAUS	The woman made the children play / played with the children.
+Mandinka	190	Elicited from speaker	Kewó sunúta.		kew-ó sunú-ta	man-DEF be_sad-PF.POS	The man got sad.
+Mandinka	191	Elicited from speaker	Ñiŋ kúmoo yé kewó sunu.		ñiŋ kúm-oo yé kew-ó sunu	DEM word-DEF PF.POS man-DEF make_sad	These words made the man sad.
+Mandinka	192	Elicited from speaker	Musóo la saayáa ye kewó sunundi.		mus-óo la saayáa ye kew-ó sunu-ndi	woman-DEF GEN death.DEF PF.POS man-DEF be_sad-CAUS	The woman's death made the man sad.
+Mandinka	193	Elicited from speaker	Díndíŋolu kóŋkóta.		díndíŋ-o-lu kóŋkó-ta	child-DEF-PL be_hungry-PF.POS	The children got hungry.
+Mandinka	194	Elicited from speaker	Musóo ye díndíŋolu kóŋkóndi.		mus-óo ye díndíŋ-o-lu kóŋkó-ndi	woman-DEF PF.POS child-DEF-PL be_hungry-CAUS	The woman starved the children.
+Mandinka	195	Elicited from speaker	Kúlúŋo túunénta bâa kóno.		kúlúŋ-o túunén-ta bâa kóno	boat-DEF sink-PF.POS river.DEF in	The boat sank into the river.
+Mandinka	196	Elicited from speaker	Saatéwo janíta.		saatéw-o janí-ta	village-DEF burn-PF.POS	The village burned / was burnt.
+Mandinka	197	Elicited from speaker	Jáwoolu yé saatéwo jani.		jáw-oo-lu yé saatéw-o jani	enemy-DEF-PL PF.POS village-DEF burn	The enemies burned the village.
+Mandinka	198	Elicited from speaker	Dendikóo jaáta tilóo la.		dendik-óo jaá-ta til-óo la	shirt-DEF be_dry-PF.POS sun-DEF OBL	The shirt dried up in the sun.
+Mandinka	199	Elicited from speaker	Tilóo ye dendikóo jandi.		til-óo ye dendik-óo ja-ndi	sun-DEF PF.POS shirt-DEF be_dry-CAUS	The sun dried up the shirt.
+Mandinka	200	Elicited from speaker	Musóo ye tiyóo sii beróo la.		mus-óo ye tiy-óo sii ber-óo la	woman-DEF PF.POS peanut-DEF grind stone-DEF OBL	The woman ground the peanuts with a stone.
+Mandinka	201	Elicited from speaker	Súŋkútoo ye kíníjólóndáŋo kóŋkoŋ táabúloo kaŋ.		súŋkút-oo ye kíníjólóndáŋ-o kóŋkoŋ táabúl-oo kaŋ	girl-DEF PF.POS crumbs-DEF wipe table-DEF on	The girl wiped the crumbs from the table.
+Mandinka	202	Elicited from speaker	Súŋkútoo ye táabúloo fíta.		súŋkút-oo ye táabúl-oo fíta	girl-DEF PF.POS table-DEF wipe	The girl wiped the table.
+Mandinka	203	Elicited from speaker	Kewó ye diŋkóo siŋ.		kew-ó ye diŋk-óo siŋ	man-DEF PF.POS hole-DEF dig	The man dug a hole.
+Mandinka	204	Elicited from speaker	Kewó ye ñambóo siŋ.		kew-ó ye ñamb-óo siŋ	man-DEF PF.POS cassava-DEF dig	The man dug for cassava.
+Mandinka	205	Elicited from speaker	Kewólu yé wotóo ñori.		kew-ó-lu yé wot-óo ñori	man-DEF-PL PF.POS car-DEF push	The men pushed the car.
+Mandinka	206	Elicited from speaker	Díndíŋo ñoríta.		díndíŋ-o ñorí-ta	child-DEF move-PF.POS	The child moved (out of the way).
+Mandinka	207	Elicited from speaker	Ñáatóŋkoo yé beŋó ñorindi.		ñáatóŋk-oo yé beŋ-ó ñori-ndi	president-DEF PF.POS meeting-DEF move-CAUS	The president postponed the meeting.
+Mandinka	208	Elicited from speaker	Kambaanóo ye kitáaboo suuñaa a karammôo búlu.		kambaan-óo ye kitáab-oo suuñaa a karammôo búlu	boy-DEF PF.POS book-DEF steal 3SG teacher.DEF POSS	The boy stole the book from his teacher.
+Mandinka	209	Elicited from speaker	Kambaanóo ye a karammóo suuñaa kitáaboo la.		kambaan-óo ye a karammóo suuñaa kitáab-oo la	boy-DEF PF.POS 3SG teacher.DEF steal book-DEF OBL	The boy stole the book from his teacher.
+Mandinka	210	Elicited from speaker	Kewó ye kambáanoo nikindi wotóo la.		kew-ó ye kambáan-oo niki-ndi wot-óo la	man-DEF PF.POS boy-DEF learn-CAUS car-DEF OBL	The man taught driving to the boy.
+Mandinka	211	Elicited from speaker	Kambaanóo ye wotóo nikiŋ.		kambaan-óo ye wot-óo nikiŋ	boy-DEF PF.POS car-DEF learn	The boy learned driving.
+Mandinka	212	Elicited from speaker	Kewó ye kambaanóo karandi Mandinkakáŋo la.		kew-ó ye kambaan-óo kara-ndi Mandinka-káŋ-o la	man-DEF PF.POS boy-DEF learn-CAUS Mandinka-language-DEF OBL	The man taught Mandinka to the boy.
+Mandinka	213	Elicited from speaker	Kewó ye Mandinkakáŋo karandi kambaanóo ye.		kew-ó ye Mandinka-káŋ-o kara-ndi kambaan-óo ye	man-DEF PF.POS Mandinka-language-DEF learn-CAUS boy-DEF BEN	The man taught Mandinka to the boy.
+Mandinka	214	Elicited from speaker	Kambaanóo ye Mandinkakáŋo karaŋ.		kambaan-óo ye Mandinka-káŋ-o karaŋ	boy-DEF PF.POS Mandinka-language-DEF learn	The boy learned Mandinka.
+Mandinka	215	Elicited from speaker	Ñiŋ́ kewó karánta báake.		ñiŋ́ kew-ó karán-ta báake	DEM man-DEF learn-PF.POS very	This man is a very learned person.
+Mandinka	216	Elicited from speaker	Kambaanóo ye maakáŋo moyi.		kambaan-óo ye maakáŋ-o moyi	boy-DEF PF.POS noise-DEF hear	The boy heard a noise.
+Mandinka	217	Elicited from speaker	Wo kúwo moyíta.		wo kúw-o moyí-ta	DEM matter-DEF hear-PF.POS	The people heard about that matter. / lit. This matter was heard.
+Mandinka	218	Elicited from speaker	Musukéebaa búka moyiróo ke.		musu-kéebaa búka moyi-r-óo ke	woman-old HAB.NEG hear-ANTIP-DEF do	The old woman does not hear.
+Mandinka	219	Elicited from speaker	Kewó ye musóo moyindi muŋ́ ne la?		kew-ó ye mus-óo moyi-ndi muŋ́ ne la	man-DEF PF.POS woman-DEF hear-CAUS what FOC OBL	What did the man promise the woman?
+Mandinka	220	Elicited from speaker	Kewó ye musóo moyirindi muŋ́ ne la?		kew-ó ye mus-óo moyi-rindi muŋ́ ne la	man-DEF PF.POS woman-DEF hear-CAUS what FOC OBL	What did the man tell the woman?
+Mandinka	221	Elicited from speaker	Musóo ye subôo tábi.		mus-óo ye sub-ôo tábi	woman-DEF PF.POS meat-DEF cook	The woman cooked the meat.
+Mandinka	222	Elicited from speaker	Subôo tábíta.		sub-ôo tábí-ta	meat-DEF cook-PF.POS	The meat was cooked.
+Mandinka	223	Elicited from speaker	Musóo ye tábíroo ke.		mus-óo ye tábí-r-oo ke	woman-DEF PF.POS cook-ANTIP-DEF do	The woman did the cooking.
+Mandinka	224	Elicited from speaker	Kewó ye musôo tábíríndi subôo la.		kew-ó ye mus-ôo tábí-ríndi sub-ôo la	man-DEF PF.POS woman-DEF cook-CAUS meat-DEF OBL	The man made the woman cook the meat.
+Mandinka	225	Elicited from speaker	Jíyo fájíta.		jíy-o fájí-ta	water-DEF boil-PF.POS	The water boiled.
+Mandinka	226	Elicited from speaker	Musóo ye jíyo fájíndi.		mus-óo ye jíy-o fájí-ndi	woman-DEF PF.POS water-DEF boil-CAUS	The woman boiled the water.
+Mandinka	227	Elicited from speaker	Musôo fúntíta súwo kóno.		mus-ôo fúntí-ta súw-o kóno	woman-DEF go_out-PF.POS house-DEF in	The woman went out from the house.
+Mandinka	228	Elicited from speaker	Károo fúntíta.		kár-oo fúntí-ta	moon-DEF go_out-PF.POS	The moon appeared.
+Mandinka	229	Elicited from speaker	Kewó ye murôo fúntíndi bootôo kóno.		kew-ó ye mur-ôo fúntí-ndi boot-ôo kóno	man-DEF PF.POS knife-DEF go_out-CAUS bag-DEF in	The man took the knife out of the bag.
+Mandinka	230	Elicited from speaker	Kewó jaŋkáríta.		kew-ó jaŋkárí-ta	man-DEF be_ill-PF.POS	The man fell ill.
+Mandinka	231	Elicited from speaker	Dómóríjáwoo yé kewó jankarindi.		dómórí-jáw-oo yé kew-ó jankari-ndi	food-bad-DEF PF.POS man-DEF be_ill-CAUS	The bad food made the man ill.
+Mandinka	232	Elicited from speaker	Musóo kumbóota.		mus-óo kumbóo-ta	woman-DEF cry-PF.POS	The woman cried.
+Mandinka	233	Elicited from speaker	Musóo ka a keemáa kumboo.		mus-óo ka a keemáa kumboo	woman-DEF HAB.POS 3SG husband.DEF cry	The woman laments the loss of her husband.
+Mandinka	234	Elicited from speaker	Muŋ́ ne yé musóo kumbondi?		muŋ́ ne yé mus-óo kumbo-ndi	what FOC PF.POS woman-DEF cry-CAUS	What made the woman cry?
+Mandinka	235	Elicited from speaker	Yíroo boyíta baŋkóo kaŋ.		zír-oo boyí-ta baŋk-óo kaŋ	tree-DEF fall-PF.POS ground-DEF on	The tree fell on the ground.
+Mandinka	236	Elicited from speaker	Kewó ye yíroo boyi.		kew-ó ye yír-oo boyi	man-DEF PF.POS tree-DEF fall	The man cut down the tree.
+Mandinka	237	Elicited from speaker	Kewó ye yíroo boyindi.		kew-ó ye yír-oo boyi-ndi	man-DEF PF.POS tree-DEF fall-CAUS	The man cut down the tree.
+Mandinka	238	Elicited from speaker	Bándíyolu boyíta julóolu kaŋ.		bándíy-o-lu boyí-ta jul-óo-lu kaŋ	bandit-DEF-PL fall-PF.POS merchant-DEF-PL on	The bandits attacked (lit. fell on) the merchants.
+Mandinka	239	Elicited from speaker	Bándíyolu yé julóolu boyiŋkaŋ.		bándíy-o-lu yé jul-óo-lu boyiŋ-kaŋ	bandit-DEF-PL PF.POS merchant-DEF-PL fall-on	The bandits attacked the merchants.
+Mandinka	240	Elicited from speaker	Máŋkoo jolónta baŋkóo to.		máŋk-oo jolón-ta baŋk-óo to	mango-DEF fall-PF.POS ground-DEF LOC	The mango fell on the ground.
+Mandinka	241	Elicited from speaker	Kewó ye muróo joloŋ.		kew-ó ye mur-óo joloŋ	man-DEF PF.POS knife-DEF let_fall	The man let the knife fall.
+Mandinka	242	Elicited from speaker	Sulóo ye í joloŋ yíroo sánto.		sul-óo ye í joloŋ yír-oo sánto	monkey-DEF PF.POS REFL let_fall tree-DEF on_top	The monkey let itself fall from the tree.
+Mandinka	243	Elicited from speaker	Samâa búsáta baŋkóo kaŋ.		samâa búsá-ta baŋk-óo kaŋ	rain.DEF fall_violently-PF.POS ground-DEF on	The rain fell on the ground violently.
+Mandinka	244	Elicited from speaker	Samáa ye baŋkôo búsa.		samáa ye baŋk-ôo búsa	rain.DEF PF.POS ground-DEF fall_violently_on	The rain fell on the ground violently.
+Mandinka	245	Elicited from speaker	Kewó ye laaráŋo dádaa.		kew-ó ye laaráŋ-o dádaa	man-DEF PF.POS bed-DEF make/repair	The man made a bed / repaired the bed.
+Mandinka	246	Elicited from speaker	Laaráŋo dádáata.		laaráŋ-o dádáa-ta	bed-DEF make/repair-PF.POS	The bed was made / repaired.
+Mandinka	247	Elicited from speaker	Batuutáa ye newó ke sánoo ti.		batuutáa ye new-ó ke sán-oo ti	magician.DEF PF.POS iron-DEF transform gold-DEF ESS	The magician made gold out of iron (lit. changed the iron into gold).
+Mandinka	248	Elicited from speaker	Díndíŋo kéta kewó ti.		díndíŋ-o ké-ta kew-ó ti	child-DEF become-PF.POS man-DEF ESS	The child became a man.
+Mandinka	249	Elicited from speaker	Báamaa yé a díŋo kéndi kewó ti.		báamaa yé a díŋ-o ké-ndi kew-ó ti	mother PF.POS 3SG son-DEF become-CAUS man-DEF ESS	The mother helped her son become a man.
+Mandinka	250	Elicited from speaker	Newô kéta sánoo ti.		new-ô ké-ta sán-oo ti	iron-DEF become-PF.POS gold-DEF ESS	The iron changed into gold.
+Mandinka	251	Elicited from speaker	Kambaanóo ye kitáaboo soto a karammôo búlu.		kambaan-óo ye kitáab-oo soto a karammôo búlu	boy-DEF PF.POS book-DEF get/have 3SG teacher.DEF POSS	The boy got the book from his teacher.
+Mandinka	252	Elicited from speaker	Kambaanóo ye kitáaboo soto.		kambaan-óo ye kitáab-oo soto	boy-DEF PF.POS book-DEF get/have	The boy got the book / has a book.
+Mandinka	253	Elicited from speaker	Ñéwo sotóta le márséwo to bii.		ñéw-o sotó-ta le márséw-o to bii	fish-DEF be_available-PF.POS FOC market-DEF LOC today	There is fish available at the market today.
+Mandinka	254	Elicited from speaker	Kewó ka dáañínoo sotondi dímbáayaa ye.		kew-ó ka dáañín-oo soto-ndi dímbáayaa ye	man-DEF HAB.POS food-DEF be_available-CAUS family BEN	The man provides the family with food. / lit. makes food available for the family.
+Mandinka	255	Elicited from speaker	Musôo bálánta kewó ma dóntóroo la.		mus-ôo bálán-ta kew-ó ma dóntór-oo la	woman-DEF refuse-PF.POS man-DEF OBL loan-DEF OBL	The woman refused the man a loan.
+Mandinka	256	Elicited from speaker	Muŋ́ ne yé musôo bálándi dóntóroo la?		muŋ́ ne yé mus-ôo bálá-ndi dóntór-oo la	what FOC PF.POS woman-DEF refuse-CAUS loan-DEF OBL	What made the woman refuse the loan?
+Mandinka	257	Elicited from speaker	Kewô kúmáta.		kew-ô kúmá-ta	man-DEF speak-PF.POS	The man spoke.
+Mandinka	258	Elicited from speaker	Kewô kúmáta musóo ye.		kew-ô kúmá-ta mus-óo ye	man-DEF speak-PF.POS woman-DEF BEN	The man talked to the woman.
+Mandinka	259	Elicited from speaker	Tántáŋo kúmáta.		tántáŋ-o kúmá-ta	drum-DEF sound-PF.POS	The drum sounded.
+Mandinka	260	Elicited from speaker	Kambaanóo ye tántáŋo kúmándi.		kambaan-óo ye tántáŋ-o kúmá-ndi	boy-DEF PF.POS drum-DEF sound-CAUS	The boy sounded the drum.
+Mandinka	261	Elicited from speaker	Jíyo súmáyáata le.		jíy-o súmáyáa-ta le	water-DEF be_cold-PF.POS FOC	The water is cold.
+Mandinka	262	Elicited from speaker	Kewó ye têe súmáyándi janníŋ a bé a mińna.		kew-ó ye têe súmáyá-ndi janníŋ a bé a miń-na	man-DEF PF.POS tea.DEF be_cold-CAUS before 3SG LOC.COP 3SG drink-INF	The man let the tea get cold before drinking it.
+Mandinka	263	Elicited from speaker	Loolóo ka ñílísa.		loolóo ka ñílísa	star.DEF HAB.POS twinkle	Stars twinkle.
+Mandinka	264	Elicited from speaker	Ñiŋ báyoo díyáata musóo ye.		ñiŋ báy-oo díyáa-ta mus-óo ye	DEM cloth-DEF be_pleasant-PF.POS woman-DEF BEN	The woman likes this cloth.
+Mandinka	265	Elicited from speaker	Kewó ye wulôo báyi súwo kóno.		kew-ó ye wul-ôo báyi súw-o kóno	man-DEF PF.POS dog-DEF chase house-DEF in	The man chased the dog from the house.
+Mandinka	266	Elicited from speaker	Kewó ye mináŋo deema.		kew-ó ye mináŋ-o deema	man-DEF PF.POS deer-DEF hunt	The man hunted deer.
+Mandinka	267	Elicited from speaker	Kewó ka deemóo ke.		kew-ó ka deem-óo ke	man-DEF HAB.POS hunting-DEF do	The man hunts (habitually).
+Mandinka	268	Elicited from speaker	Kewó ye súŋkútoo fútuu.		kew-ó ye súŋkút-oo fútuu	man-DEF PF.POS girl-DEF marry	The man married the girl.
+Mandinka	269	Elicited from speaker	Súŋkútoo fútúuta kewó ye.		súŋkút-oo fútúu-ta kew-ó ye	girl-DEF marry-PF.POS man-DEF BEN	The girl married the man (lit. was married to the man).
+Mandinka	270	Elicited from speaker	Kambaanóo ye batáayoo karaŋ.		kambaan-óo ye batáay-oo karaŋ	boy-DEF PF.POS letter-DEF read	The boy read the letter.
+Mandinka	271	Elicited from speaker	Kewó ye kambaanóo karandirindi batáayoo la.		kew-ó ye kambaan-óo karan-dirindi batáay-oo la	man-DEF PF.POS boy-DEF read-CAUS letter-DEF OBL	The man made the boy read the letter.
+Mandinka	272	Elicited from speaker	Kewó ye kambaanôo kúmándi.		kew-ó ye kambaan-ôo kúmándi	man-DEF PF.POS boy-DEF call	The man called the boy.
+Mandinka	273	Elicited from speaker	Kewó ye kambaanôo kúmándi moo hákílíntáŋo la.		kew-ó ye kambaan-ôo kúmándi moo hákílíntáŋ-o la	man-DEF PF.POS boy-DEF call person stupid-DEF OBL	The man called the boy a fool.
+Mandinka	274	Elicited from speaker	Faá ye súŋkútoo nii kewó la.		faá ye súŋkút-oo nii kew-ó la	father.DEF PF.POS girl-DEF offer man-DEF BEN	The father married (lit. offered) the girl to the man.
+Mandinka	275	Elicited from speaker	Mus-óo ye kew-ó ñiniŋkaa a kontóŋ-o la.		mus-óo ye kew-ó ñiniŋkaa a kontóŋ-o la	woman-DEF PF.POS man-DEF ask 3SG surname-DEF OBL	The woman asked the man his surname.
+Mandinka	276	Elicited from speaker	Kewó ye tiyôo sóoli bootôo kóno.		kew-ó ye tiy-ôo sóoli boot-ôo kóno	man-DEF PF.POS peanuts-DEF cram bag-DEF in	The man crammed the peanuts into the bag.
+Mandinka	277	Elicited from speaker	Kewó ye bootôo sóoli tiyôo la.		kew-ó ye boot-ôo sóoli tiy-óo la	man-DEF PF.POS bag-DEF stuff peanuts-DEF OBL	The man stuffed the bag with peanuts.
+Mandinka	278	Elicited from speaker	Sáñjíyo kéta bii.		sáñjíy-o ké-ta bii	rain-DEF happen-PF.POS today	It rained today.
+Mandinka	279	Elicited from speaker	Kewó ye dookúwo ke.		kew-ó ye dookúw-o ke	man-DEF PF.POS work-DEF do	The man worked (lit. did work).
+Mandinka	280	Elicited from speaker	Dookúwo kéta.		dookúw-o ké-ta	work-DEF do-PF.POS	The work was done.
+Mandinka	281	Elicited from speaker	Musóolu teyíta báa la.		mus-óo-lu teyí-ta báa la	woman-DEF-PL cross-PF.POS river OBL	The women crossed the river.
+Mandinka	282	Elicited from speaker	Musóolu ye báa teyi.		mus-óo-lu ye báa teyi	woman-DEF-PL PF.POS river cross	The women crossed the river.
+Mandinka	283	Elicited from speaker	Kewó ye musóolu teyindi báa la.		kew-ó ye mus-óo-lu teyi-ndi báa la	man-DEF PF.POS woman-DEF-PL cross-CAUS river OBL	The man conveyed the women across the river.
+Mandinka	284	Elicited from speaker	Musôo wúlúuta kambaanóo la.		mus-ôo wúlúu-ta kambaan-óo la	woman-DEF give_birth-PF.POS boy-DEF OBL	The woman gave birth to a boy.
+Mandinka	285	Elicited from speaker	Musóo ye kambaanôo wúluu.		mus-óo ye kambaan-ôo wúluu	woman-DEF PF.POS boy-DEF give_birth	The woman gave birth to a boy.
+Mandinka	286	Elicited from speaker	Kewô wúlúuta Seejó le.		kew-ô wúlúu-ta Seejó le	man-DEF give_birth-PF.POS Sédhiou FOC	The man was born in Sédhiou.
+Mandinka	287	Elicited from speaker	Wulóo duńta búŋo kóno.		wul-óo duń-ta búŋ-o kóno	dog-DEF enter-PF.POS house-DEF in	The dog came into the room.
+Mandinka	288	Elicited from speaker	Kewó ye batáayoo duŋ kíilaa búlu.		kew-ó ye batáay-oo duŋ kíilaa búlu	man-DEF PF.POS letter-DEF enter messenger POSS	The man handed the letter to the messenger.
+Mandinka	289	Elicited from speaker	Kewó ye wulóo dundi búŋo kóno.		kew-ó ye wul-óo du-ndi búŋ-o kóno	man-DEF PF.POS dog-DEF enter-CAUS house-DEF in	The man let the dog come into the room.
+Mandinka	290	Elicited from speaker	Nénoo duńta.		nén-oo duń-ta	cold-DEF enter-PF.POS	It is cold (the weather got cold).
+Mandinka	291	Elicited from speaker	Kewó ye í fóño.		kew-ó ye í fóño	man-DEF PF.POS REFL rest	The man had a rest.
+Mandinka	292	Elicited from speaker	Baramatóo te bálúula.		baramatóo te bálúu-la	wounded_person.DEF COP.NEG live-INF	The injured person will not survive.
+Mandinka	293	Elicited from speaker	Moojámaa ka í báluu senóo le la jaŋ.		moo-jámaa ka í báluu sen-óo le la jaŋ	person-many HAB.POS REFL live farming-DEF FOC OBL here	Many people live on farming here.
+Mandinka	294	Elicited from speaker	Musóo ka denaanôo bálúndi ninsinónoo la.		mus-óo ka denaan-ôo bálú-ndi ninsi-nón-oo la	woman-DEF HAB.POS baby-DEF live-CAUS cow-milk-DEF OBL	The woman feeds the baby on cow milk.
+Mandinka	295	Elicited from speaker	Kewó ye jíyo miŋ.		kew-ó ye jíy-o miŋ	man-DEF PF.POS water-DEF drink	The man drank water.
+Mandinka	296	Elicited from speaker	Kewó ye í miŋ jíyo la.		kew-ó ye í miŋ jíy-o la	man-DEF PF.POS REFL drink water-DEF OBL	The man drank water.
+Mandinka	297	Elicited from speaker	Musóo ye kewó mindi bóoroo la.		mus-óo ye kew-ó mi-ndi bóor-oo la	woman-DEF PF.POS man-DEF drink-CAUS medicine-DEF OBL	The woman made the man drink the medicine.

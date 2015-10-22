@@ -1,0 +1,29 @@
+﻿Language_name	Gloss	Meaning
+Mandinka	1	first person
+Mandinka	3	third person
+Mandinka	ANTIP	antipassive
+Mandinka	BEN	benefactive postposition
+Mandinka	CAUS	causative
+Mandinka	COP	copula
+Mandinka	COP.NEG	negative copula
+Mandinka	CTRP	centripetal
+Mandinka	DEF	definite
+Mandinka	DEM	demonstrative
+Mandinka	ESS	essive postposition
+Mandinka	FOC	focalization
+Mandinka	GEN	genitive
+Mandinka	HAB	habitual
+Mandinka	INF	infinitive
+Mandinka	LOC	locative postposition
+Mandinka	LOC.COP	locative copula
+Mandinka	NEG	negative
+Mandinka	OBL	postposition in oblique marker function
+Mandinka	PF	perfective
+Mandinka	PL	plural
+Mandinka	POS	positive
+Mandinka	POSS	possessive postposition
+Mandinka	POT	potential
+Mandinka	QUOT	quotative
+Mandinka	REFL	reflexive pronoun
+Mandinka	RES	resultative
+Mandinka	SG	singular

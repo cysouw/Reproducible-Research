@@ -1,0 +1,237 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Xârâcùù	1	EAT	da	Basic	1 > V 2	1	eater	Ø	A
+Xârâcùù	1	EAT	da	Basic	1 > V 2	2	eaten food	Ø	P
+Xârâcùù	1	EAT	kê (2)	Basic	1 > V 2	1	eater	Ø	A
+Xârâcùù	1	EAT	kê (2)	Basic	1 > V 2	2	eaten food	Ø	P
+Xârâcùù	1	EAT	xwè	Basic	1 > V 2	1	eater	Ø	A
+Xârâcùù	1	EAT	xwè	Basic	1 > V 2	2	eaten food	Ø	P
+Xârâcùù	2	HUG	satee	Basic	1 > V 2	1	hugger	Ø	A
+Xârâcùù	2	HUG	satee	Basic	1 > V 2	2	huggee	Ø	P
+Xârâcùù	3	LOOK AT	téé fè	Basic	1 > V 2	1	looker	Ø	A
+Xârâcùù	3	LOOK AT	téé fè	Basic	1 > V 2	2	looked at entity	Ø	P
+Xârâcùù	4	SEE	téé	Basic	1 > V 2	1	seeer	Ø	A
+Xârâcùù	4	SEE	téé	Basic	1 > V 2	2	seen entity	Ø	P
+Xârâcùù	4	SEE	xâpârî	Basic	1 > V 2	1	seeer	Ø	A
+Xârâcùù	4	SEE	xâpârî	Basic	1 > V 2	2	seen entity	Ø	P
+Xârâcùù	5	SMELL	bu	Basic	1 > V 2	1	smeller	Ø	A
+Xârâcùù	5	SMELL	bu	Basic	1 > V 2	2	smelled entity	Ø	P
+Xârâcùù	6	FEAR	bata	Basic	1 > V taa+2	1	fearer	Ø	S
+Xârâcùù	6	FEAR	bata	Basic	1 > V taa+2	2	fear stimulus	taa+NP	X
+Xârâcùù	7	FRIGHTEN	fabata	Basic	1 > V 2	1	frightener	Ø	A
+Xârâcùù	7	FRIGHTEN	fabata	Basic	1 > V 2	2	frightenee	Ø	P
+Xârâcùù	8	LIKE	xwèrii	Basic	1 > V 2	1	liker	Ø	A
+Xârâcùù	8	LIKE	xwèrii	Basic	1 > V 2	2	liked entity	Ø	P
+Xârâcùù	9	KNOW	néxä	Basic	1 > V 2	1	knower	Ø	A
+Xârâcùù	9	KNOW	néxä	Basic	1 > V 2	2	known thing/person	Ø	P
+Xârâcùù	9	KNOW	tâmwâ	Basic	1 > V 2	1	knower	Ø	A
+Xârâcùù	9	KNOW	tâmwâ	Basic	1 > V 2	2	known thing/person	Ø	P
+Xârâcùù	10	THINK	nârâ	Basic	1 > V 2	1	thinker	Ø	A
+Xârâcùù	10	THINK	nârâ	Basic	1 > V 2	2	thought content	Ø	P
+Xârâcùù	11	SEARCH FOR	piicè	Basic	1 > V 2	1	searcher	Ø	A
+Xârâcùù	11	SEARCH FOR	piicè	Basic	1 > V 2	2	searched for thing	Ø	P
+Xârâcùù	12	WASH	ngûrû	Basic	1 > V 2	1	washer	Ø	A
+Xârâcùù	12	WASH	ngûrû	Basic	1 > V 2	2	washed entity	Ø	P
+Xârâcùù	13	DRESS	famwâmwâ	Basic	1 > V 2	1	dresser	Ø	A
+Xârâcùù	13	DRESS	famwâmwâ	Basic	1 > V 2	2	dressee	Ø	P
+Xârâcùù	15	HELP	ciiwi	Basic	1 > V 2	1	helper	Ø	A
+Xârâcùù	15	HELP	ciiwi	Basic	1 > V 2	2	helpee	Ø	P
+Xârâcùù	16	FOLLOW	fèèté	Basic	1 > V 2	1	follower	Ø	A
+Xârâcùù	16	FOLLOW	fèèté	Basic	1 > V 2	2	followee	Ø	P
+Xârâcùù	17	MEET	pùùtè	Basic	1 > V	1	meeter	Ø	S
+Xârâcùù	18	TALK	tèpe	Basic	1 > V wâ+2 (xù+3)	1	talker	Ø	S
+Xârâcùù	18	TALK	tèpe	Basic	1 > V wâ+2 (xù+3)	2	talked about content	wâ+NP	X
+Xârâcùù	18	TALK	tèpe	Basic	1 > V wâ+2 (xù+3)	3	talked to person	xù+NP	X
+Xârâcùù	19	ASK FOR	nââ	Basic	1 > V 2 taa+3	1	asker	Ø	A
+Xârâcùù	19	ASK FOR	nââ	Basic	1 > V 2 taa+3	2	requested thing	Ø	P
+Xârâcùù	19	ASK FOR	nââ	Basic	1 > V 2 taa+3	3	askee	taa+NP	X
+Xârâcùù	19	ASK FOR	nêgé	Basic	1 > V 2 xù+3	1	asker	Ø	A
+Xârâcùù	19	ASK FOR	nêgé	Basic	1 > V 2 xù+3	2	requested thing	Ø	P
+Xârâcùù	19	ASK FOR	nêgé	Basic	1 > V 2 xù+3	3	askee	xù+NP	X
+Xârâcùù	20	SHOUT AT	xangââ	Basic	1 > V ngê+2 xù+3	1	shouter	Ø	S
+Xârâcùù	20	SHOUT AT	xangââ	Basic	1 > V ngê+2 xù+3	2	shouted words	ngê+NP	I
+Xârâcùù	20	SHOUT AT	xangââ	Basic	1 > V ngê+2 xù+3	3	shoutee	xù+NP	X
+Xârâcùù	21	TELL	faxwata	Basic	1 > V ngê+2 xù+3	1	teller	Ø	S
+Xârâcùù	21	TELL	faxwata	Basic	1 > V ngê+2 xù+3	2	told content	ngê+NP	I
+Xârâcùù	21	TELL	faxwata	Basic	1 > V ngê+2 xù+3	3	tellee	xù+NP	X
+Xârâcùù	21	TELL	sömârâ	Basic	1 > V ngê+2 xù+3	1	teller	Ø	S
+Xârâcùù	21	TELL	sömârâ	Basic	1 > V ngê+2 xù+3	2	told content	ngê+NP	I
+Xârâcùù	21	TELL	sömârâ	Basic	1 > V ngê+2 xù+3	3	tellee	xù+NP	X
+Xârâcùù	22	SAY	ché	Basic	1 > V 2 xù+3	1	sayer	Ø	A
+Xârâcùù	22	SAY	ché	Basic	1 > V 2 xù+3	2	said content	Ø	P
+Xârâcùù	22	SAY	ché	Basic	1 > V 2 xù+3	3	saying addressee	xù+NP	X
+Xârâcùù	23	NAME	xacè	Basic	1 > V 2 (ngê+3)	1	namer	Ø	A
+Xârâcùù	23	NAME	xacè	Basic	1 > V 2 (ngê+3)	2	namee	Ø	P
+Xârâcùù	23	NAME	xacè	Basic	1 > V 2 (ngê+3)	3	name	ngê+NP	I
+Xârâcùù	24	BUILD	xwi	Basic	1 > V 2 (ngê+3)	1	builder	Ø	A
+Xârâcùù	24	BUILD	xwi	Basic	1 > V 2 (ngê+3)	2	built thing	Ø	P
+Xârâcùù	24	BUILD	xwi	Basic	1 > V 2 (ngê+3)	3	building material	ngê+NP	I
+Xârâcùù	25	BREAK	jikörö	Basic	1 > V 2 (ngê+3)	1	breaker	Ø	A
+Xârâcùù	25	BREAK	jikörö	Basic	1 > V 2 (ngê+3)	2	broken thing	Ø	P
+Xârâcùù	25	BREAK	jikörö	Basic	1 > V 2 (ngê+3)	3	breaking instrument	ngê+NP	I
+Xârâcùù	26	KILL	pwââmè	Basic	1 > V 2	1	killer	Ø	A
+Xârâcùù	26	KILL	pwââmè	Basic	1 > V 2	2	killee	Ø	P
+Xârâcùù	26	KILL	pwèkè	Basic	1 > V 2 (ngê+3)	1	killer	Ø	A
+Xârâcùù	26	KILL	pwèkè	Basic	1 > V 2 (ngê+3)	2	killee	Ø	P
+Xârâcùù	26	KILL	pwèkè	Basic	1 > V 2 (ngê+3)	3	killing instrument	ngê+NP	I
+Xârâcùù	26	KILL	sa	Basic	1 > V 2	1	killer	Ø	A
+Xârâcùù	26	KILL	sa	Basic	1 > V 2	2	killee	Ø	P
+Xârâcùù	26	KILL	söömè	Basic	1 > V 2 (ngê+3)	1	killer	Ø	A
+Xârâcùù	26	KILL	söömè	Basic	1 > V 2 (ngê+3)	2	killee	Ø	P
+Xârâcùù	26	KILL	söömè	Basic	1 > V 2 (ngê+3)	3	killing instrument	ngê+NP	I
+Xârâcùù	27	BEAT	fîgai	Basic	1 > V 2 (ngê+3)	1	beater	Ø	A
+Xârâcùù	27	BEAT	fîgai	Basic	1 > V 2 (ngê+3)	2	beatee	Ø	P
+Xârâcùù	27	BEAT	fîgai	Basic	1 > V 2 (ngê+3)	3	beating instrument	ngê+NP	I
+Xârâcùù	28	HIT	chëi	Basic	1 > V 2 (ngê+3)	1	hitter	Ø	A
+Xârâcùù	28	HIT	chëi	Basic	1 > V 2 (ngê+3)	2	hittee	Ø	P
+Xârâcùù	28	HIT	chëi	Basic	1 > V 2 (ngê+3)	3	hitting instrument	ngê+NP	I
+Xârâcùù	28	HIT	fîda	Basic	1 > V 2 (ngê+3)	1	hitter	Ø	A
+Xârâcùù	28	HIT	fîda	Basic	1 > V 2 (ngê+3)	2	hittee	Ø	P
+Xârâcùù	28	HIT	fîda	Basic	1 > V 2 (ngê+3)	3	hitting instrument	ngê+NP	I
+Xârâcùù	29	TOUCH	sakai	Basic	1 > V 2 (ngê+3)	1	toucher	Ø	A
+Xârâcùù	29	TOUCH	sakai	Basic	1 > V 2 (ngê+3)	2	touchee	Ø	P
+Xârâcùù	29	TOUCH	sakai	Basic	1 > V 2 (ngê+3)	3	touching instrument	ngê+NP	I
+Xârâcùù	29	TOUCH	xâânîî	Basic	1 > V 2	1	toucher	Ø	A
+Xârâcùù	29	TOUCH	xâânîî	Basic	1 > V 2	2	touchee	Ø	P
+Xârâcùù	30	CUT	söpuru	Basic	1 > V 2 (ngê+3)	1	cutter	Ø	A
+Xârâcùù	30	CUT	söpuru	Basic	1 > V 2 (ngê+3)	2	cut thing	Ø	P
+Xârâcùù	30	CUT	söpuru	Basic	1 > V 2 (ngê+3)	3	cutting instrument	ngê+NP	I
+Xârâcùù	31	TAKE	pè	Basic	1 > V 2 taa+3	1	taker	Ø	A
+Xârâcùù	31	TAKE	pè	Basic	1 > V 2 taa+3	2	taken thing	Ø	P
+Xârâcùù	31	TAKE	pè	Basic	1 > V 2 taa+3	3	taking source	taa+NP	X
+Xârâcùù	32	TEAR	chètia	Basic	1 > V > 2 (kèwâ+3)	1	tearer	Ø	A
+Xârâcùù	32	TEAR	chètia	Basic	1 > V > 2 (kèwâ+3)	2	torn thing	Ø	P
+Xârâcùù	32	TEAR	chètia	Basic	1 > V > 2 (kèwâ+3)	3	tearing source	kèwâ+NP	X
+Xârâcùù	33	PEEL	cee	Basic	1 > V 2	1	peeler	Ø	A
+Xârâcùù	33	PEEL	cee	Basic	1 > V 2	2	peeled object	Ø	P
+Xârâcùù	33	PEEL	tapöru	Basic	1 > V 2	1	peeler	Ø	A
+Xârâcùù	33	PEEL	tapöru	Basic	1 > V 2	2	peeled object	Ø	P
+Xârâcùù	34	HIDE	sûûârâ	Basic	1 > V 2 taa+3	1	hider	Ø	A
+Xârâcùù	34	HIDE	sûûârâ	Basic	1 > V 2 taa+3	2	hidden thing	Ø	P
+Xârâcùù	34	HIDE	sûûârâ	Basic	1 > V 2 taa+3	3	hiding affectee	taa+NP	X
+Xârâcùù	35	SHOW	xacië	Basic	1 > V 2 xù+3	1	shower	Ø	A
+Xârâcùù	35	SHOW	xacië	Basic	1 > V 2 xù+3	2	shown thing	Ø	P
+Xârâcùù	35	SHOW	xacië	Basic	1 > V 2 xù+3	3	showing addressee	xù+NP	X
+Xârâcùù	36	GIVE	xù	Basic	1 > V 2 xù+3	1	giver	Ø	A
+Xârâcùù	36	GIVE	xù	Basic	1 > V 2 xù+3	2	gift	Ø	P
+Xârâcùù	36	GIVE	xù	Basic	1 > V 2 xù+3	3	giving recipient	xù+NP	X
+Xârâcùù	37	SEND	nû	Basic	1 > V 2 xù+3	1	sender	Ø	A
+Xârâcùù	37	SEND	nû	Basic	1 > V 2 xù+3	2	sent thing	Ø	P
+Xârâcùù	37	SEND	nû	Basic	1 > V 2 xù+3	3	sending recipient	xù+NP	X
+Xârâcùù	38	CARRY	akö	Basic	1 > V 2 (LOC3)	1	carrier	Ø	A
+Xârâcùù	38	CARRY	akö	Basic	1 > V 2 (LOC3)	2	carried thing	Ø	P
+Xârâcùù	38	CARRY	akö	Basic	1 > V 2 (LOC3)	3	carrying goal	LOC	L
+Xârâcùù	38	CARRY	pè mê	Basic	1 > V 2 (LOC3)	1	carrier	Ø	A
+Xârâcùù	38	CARRY	pè mê	Basic	1 > V 2 (LOC3)	2	carried thing	Ø	P
+Xârâcùù	38	CARRY	pè mê	Basic	1 > V 2 (LOC3)	3	carrying goal	LOC	L
+Xârâcùù	39	THROW	gwéré	Basic	1 > V 2 (LOC3)	1	thrower	Ø	A
+Xârâcùù	39	THROW	gwéré	Basic	1 > V 2 (LOC3)	2	thrown thing	Ø	P
+Xârâcùù	39	THROW	gwéré	Basic	1 > V 2 (LOC3)	3	throwing goal	LOC	L
+Xârâcùù	39	THROW	tê	Basic	1 > V 2 (LOC3)	1	thrower	Ø	A
+Xârâcùù	39	THROW	tê	Basic	1 > V 2 (LOC3)	2	thrown thing	Ø	P
+Xârâcùù	39	THROW	tê	Basic	1 > V 2 (LOC3)	3	throwing goal	LOC	L
+Xârâcùù	40	TIE	curu	Basic	1 > V 2 (LOC3)	1	tier	Ø	A
+Xârâcùù	40	TIE	curu	Basic	1 > V 2 (LOC3)	2	tied thing	Ø	P
+Xârâcùù	40	TIE	curu	Basic	1 > V 2 (LOC3)	3	tying goal	LOC	L
+Xârâcùù	40	TIE	fëi	Basic	1 > V 2 (LOC3) (ngê+4)	1	tier	Ø	A
+Xârâcùù	40	TIE	fëi	Basic	1 > V 2 (LOC3) (ngê+4)	2	tied thing	Ø	P
+Xârâcùù	40	TIE	fëi	Basic	1 > V 2 (LOC3) (ngê+4)	3	tying goal	LOC	L
+Xârâcùù	40	TIE	fëi	Basic	1 > V 2 (LOC3) (ngê+4)	4	tying instrument	ngê+NP	I
+Xârâcùù	41	PUT	suè	Basic	1 > V 2 (LOC3)	1	putter	Ø	A
+Xârâcùù	41	PUT	suè	Basic	1 > V 2 (LOC3)	2	put thing	Ø	P
+Xârâcùù	41	PUT	suè	Basic	1 > V 2 (LOC3)	3	putting goal	LOC	L
+Xârâcùù	42	POUR	xwêê	Basic	1 > V 2 (LOC3)	1	pourer	Ø	A
+Xârâcùù	42	POUR	xwêê	Basic	1 > V 2 (LOC3)	2	poured substance	Ø	P
+Xârâcùù	42	POUR	xwêê	Basic	1 > V 2 (LOC3)	3	pouring goal	LOC	L
+Xârâcùù	43	COVER	kasache	Basic	1 > V 2 (ngê+3)	1	coverer	Ø	A
+Xârâcùù	43	COVER	kasache	Basic	1 > V 2 (ngê+3)	2	covered thing	Ø	P
+Xârâcùù	43	COVER	kasache	Basic	1 > V 2 (ngê+3)	3	cover	ngê+NP	I
+Xârâcùù	43	COVER	sache	Basic	1 > V 2 (ngê+3)	1	coverer	Ø	A
+Xârâcùù	43	COVER	sache	Basic	1 > V 2 (ngê+3)	2	covered thing	Ø	P
+Xârâcùù	43	COVER	sache	Basic	1 > V 2 (ngê+3)	3	cover	ngê+NP	I
+Xârâcùù	44	FILL	faxûda	Basic	1 > V 2 (ngê+3)	1	filler	Ø	A
+Xârâcùù	44	FILL	faxûda	Basic	1 > V 2 (ngê+3)	2	filled container	Ø	P
+Xârâcùù	44	FILL	faxûda	Basic	1 > V 2 (ngê+3)	3	filling material	ngê+NP	I
+Xârâcùù	45	LOAD	nîî	Basic	1 > V 2 (ngê+3)	1	loader	Ø	A
+Xârâcùù	45	LOAD	nîî	Basic	1 > V 2 (ngê+3)	2	loading place	Ø	P
+Xârâcùù	45	LOAD	nîî	Basic	1 > V 2 (ngê+3)	3	loaded thing	ngê+NP	I
+Xârâcùù	46	BLINK	nimè	Basic	1 > V	1	blinker	Ø	S
+Xârâcùù	47	COUGH	chèxô	Basic	1 > V	1	cougher	Ø	S
+Xârâcùù	48	CLIMB	péré	Basic	1 > V 2	1	climber	Ø	A
+Xârâcùù	48	CLIMB	péré	Basic	1 > V 2	2	climbing goal	Ø	P
+Xârâcùù	49	RUN	pûxûrû	Basic	1 > V	1	runner	Ø	S
+Xârâcùù	50	SIT	cuè	Basic	1 > V (LOC2)	1	sitter	Ø	S
+Xârâcùù	50	SIT	cuè	Basic	1 > V (LOC2)	2	sitting place	LOC	L
+Xârâcùù	51	SIT DOWN	cuè chéé	Basic	1 > V tö+2	1	sitdowner	Ø	S
+Xârâcùù	51	SIT DOWN	cuè chéé	Basic	1 > V tö+2	2	sitting-down place	tö+NP	L
+Xârâcùù	52	JUMP	cîchéé	Basic	1 > V (LOC2)	1	jumper	Ø	S
+Xârâcùù	52	JUMP	cîchéé	Basic	1 > V (LOC2)	2	jump location	LOC	L
+Xârâcùù	53	SING	xô	Basic	1 > V	1	singer	Ø	S
+Xârâcùù	54	GO	fè	Basic	1 > V (LOC2)	1	goer	Ø	S
+Xârâcùù	54	GO	fè	Basic	1 > V (LOC2)	2	going goal	LOC	L
+Xârâcùù	55	LEAVE	fè	Basic	1 > V (LOC2)	1	leaver	Ø	S
+Xârâcùù	55	LEAVE	fè	Basic	1 > V (LOC2)	2	left place/person	LOC	L
+Xârâcùù	55	LEAVE	fètaa	Basic	1 > V 2	1	leaver	Ø	A
+Xârâcùù	55	LEAVE	fètaa	Basic	1 > V 2	2	left place/person	Ø	P
+Xârâcùù	56	LIVE	muru	Basic	1 > V (LOC2)	1	liver	Ø	S
+Xârâcùù	56	LIVE	muru	Basic	1 > V (LOC2)	2	living place	LOC	L
+Xârâcùù	57	LAUGH	mwârâ	Basic	1 > V	1	laugher	Ø	S
+Xârâcùù	58	SCREAM	ngââ	Basic	1 > V	1	screamer	Ø	S
+Xârâcùù	59	FEEL PAIN	paii	Basic	1 > V	1	pain locus	Ø	S
+Xârâcùù	60	FEEL COLD	xùpè	Basic	1 > V	1	freezing person	Ø	S
+Xârâcùù	61	DIE	paiimè	Basic	1 > V	1	dieer	Ø	S
+Xârâcùù	62	PLAY	mwârâ	Basic	1 > V	1	player	Ø	S
+Xârâcùù	63	BE SAD	nârâyaa	Basic	1 > V	1	sad person	Ø	S
+Xârâcùù	64	BE HUNGRY	mêrê	Basic	1 > V	1	hungry person	Ø	S
+Xârâcùù	65	ROLL	cipwîrî	Basic	1 > V	1	rolling entity	Ø	S
+Xârâcùù	66	SINK	mutu	Basic	1 > V	1	sunken entity	Ø	S
+Xârâcùù	67	BURN	kê (1)	Basic	1 > V	1	burnt thing	Ø	S
+Xârâcùù	68	BE DRY	mëtë	Basic	1 > V	1	dry thing	Ø	S
+Xârâcùù	69	RAIN	xwa	Basic	1 > V	1	rain	Ø	S
+Xârâcùù	70	BE A HUNTER	acaa	Basic	1 > V	1	specialist/hunter	Ø	S
+Xârâcùù	71	GRIND	bikörö	Basic	1 > V 2 (ngê+3)	1	grinder	Ø	A
+Xârâcùù	71	GRIND	bikörö	Basic	1 > V 2 (ngê+3)	2	ground thing	Ø	P
+Xârâcùù	71	GRIND	bikörö	Basic	1 > V 2 (ngê+3)	3	grinding instrument	ngê+NP	I
+Xârâcùù	72	WIPE	jee	Basic	1 > V 2 (kè+3)	1	wiper	Ø	A
+Xârâcùù	72	WIPE	jee	Basic	1 > V 2 (kè+3)	2	wiped material	Ø	P
+Xârâcùù	72	WIPE	jee	Basic	1 > V 2 (kè+3)	3	wiping surface	kè+NP	X
+Xârâcùù	73	DIG	ja	Basic	1 > V 2	1	digger	Ø	A
+Xârâcùù	73	DIG	ja	Basic	1 > V 2	2	dug hole/ground	Ø	P
+Xârâcùù	73	DIG	kîî	Basic	1 > V 2	1	digger	Ø	A
+Xârâcùù	73	DIG	kîî	Basic	1 > V 2	2	dug hole/ground	Ø	P
+Xârâcùù	73	DIG	sëi	Basic	1 > V 2 (ngê+3)	1	digger	Ø	A
+Xârâcùù	73	DIG	sëi	Basic	1 > V 2 (ngê+3)	2	dug up thing	Ø	P
+Xârâcùù	73	DIG	sëi	Basic	1 > V 2 (ngê+3)	3	digging instrument	ngê+NP	I
+Xârâcùù	74	PUSH	sùù	Basic	1 > V 2	1	pusher	Ø	A
+Xârâcùù	74	PUSH	sùù	Basic	1 > V 2	2	pushee	Ø	P
+Xârâcùù	75	BRING	mê kèrè	Basic	1 > V 2 xù+3	1	bringer	Ø	A
+Xârâcùù	75	BRING	mê kèrè	Basic	1 > V 2 xù+3	2	brought thing	Ø	P
+Xârâcùù	75	BRING	mê kèrè	Basic	1 > V 2 xù+3	3	bringing recipient	xù+NP	X
+Xârâcùù	75	BRING	pè mê	Basic	1 > V 2 (LOC3)	1	bringer	Ø	A
+Xârâcùù	75	BRING	pè mê	Basic	1 > V 2 (LOC3)	2	brought thing	Ø	P
+Xârâcùù	75	BRING	pè mê	Basic	1 > V 2 (LOC3)	3	bringing recipient	LOC	L
+Xârâcùù	76	STEAL	pêdè	Basic	1 > V 2 taa+3	1	stealer	Ø	A
+Xârâcùù	76	STEAL	pêdè	Basic	1 > V 2 taa+3	2	stolen thing	Ø	P
+Xârâcùù	76	STEAL	pêdè	Basic	1 > V 2 taa+3	3	stealing source	taa+NP	X
+Xârâcùù	77	TEACH	faînû	Basic	1 > V ngê+2 xù+3	1	teacher	Ø	S
+Xârâcùù	77	TEACH	faînû	Basic	1 > V ngê+2 xù+3	2	taught content	ngê+NP	I
+Xârâcùù	77	TEACH	faînû	Basic	1 > V ngê+2 xù+3	3	teachee	xù+NP	X
+Xârâcùù	78	HEAR	xwata	Basic	1 > V 2	1	hearer	Ø	A
+Xârâcùù	78	HEAR	xwata	Basic	1 > V 2	2	heard sound	Ø	P
+Xârâcùù	79	COOK	chutââ	Basic	1 > V 2	1	cooker	Ø	A
+Xârâcùù	79	COOK	chutââ	Basic	1 > V 2	2	cooked food	Ø	P
+Xârâcùù	80	BOIL	bö	Basic	1 > V	1	boiled thing	Ø	S
+Xârâcùù	81	APPEAR	abaa	Basic	1 > V	1	appearer	Ø	S
+Xârâcùù	82	BE ILL	paii	Basic	1 > V	1	sick person	Ø	S
+Xârâcùù	83	CRY	têî	Basic	1 > V	1	crier	Ø	S
+Xârâcùù	85	MAKE	xwi	Basic	1 > V 2 (ngê+3)	1	maker	Ø	A
+Xârâcùù	85	MAKE	xwi	Basic	1 > V 2 (ngê+3)	2	made thing	Ø	P
+Xârâcùù	85	MAKE	xwi	Basic	1 > V 2 (ngê+3)	3	making material	ngê+NP	I
+Xârâcùù	86	GET	pè	Basic	1 > V 2 taa+3	1	receiver	Ø	A
+Xârâcùù	86	GET	pè	Basic	1 > V 2 taa+3	2	received thing	Ø	P
+Xârâcùù	86	GET	pè	Basic	1 > V 2 taa+3	3	receiving source	taa+NP	X
+Xârâcùù	86	GET	töpwé	Basic	1 > V 2 taa+3	1	receiver	Ø	A
+Xârâcùù	86	GET	töpwé	Basic	1 > V 2 taa+3	2	received thing	Ø	P
+Xârâcùù	86	GET	töpwé	Basic	1 > V 2 taa+3	3	receiving source	taa+NP	X
+Xârâcùù	87	WANT	xwèrii	Basic	1 > V 2	1	wanter	Ø	A
+Xârâcùù	87	WANT	xwèrii	Basic	1 > V 2	2	wanted thing	Ø	P
+Xârâcùù	150	SHAVE (self)	xii	Basic	1 > V	1	shaver (of self)	Ø	S

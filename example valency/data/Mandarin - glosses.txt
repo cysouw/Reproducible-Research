@@ -1,0 +1,20 @@
+﻿Language_name	Gloss	Meaning
+Mandarin Chinese	APPL	applicative
+Mandarin Chinese	BA	object marker: preposition ba, followed by a raised, specific pre-verbal object"
+Mandarin Chinese	BEI	a passive marker bei, preceding a degraded subject in passive constructions"
+Mandarin Chinese	CL	classifier
+Mandarin Chinese	COM	completive
+Mandarin Chinese	CRS	currently related state: sentence-final le
+Mandarin Chinese	DUR	durative
+Mandarin Chinese	EXP	experiential aspect: verbal suffix -guo
+Mandarin Chinese	LOC	locative
+Mandarin Chinese	PASS	passive
+Mandarin Chinese	PAST	past?
+Mandarin Chinese	PERF	perfective?
+Mandarin Chinese	PFV	perfective aspect: verbal suffix -le
+Mandarin Chinese	PL	plural
+Mandarin Chinese	POSS	possessive
+Mandarin Chinese	PREP	preposition
+Mandarin Chinese	PRES	present
+Mandarin Chinese	Q	question marker
+Mandarin Chinese	SG	singular

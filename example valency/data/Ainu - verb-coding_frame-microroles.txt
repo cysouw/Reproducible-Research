@@ -1,0 +1,202 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Ainu	1	EAT	e	Basic	1 2 subj[1].obj[2].V	1	eater	subj.V	A
+Ainu	1	EAT	e	Basic	1 2 subj[1].obj[2].V	2	eaten food	obj.V	P
+Ainu	2	HUG	kisma	Basic	1 2 subj[1].obj[2].V	1	hugger	subj.V	A
+Ainu	2	HUG	kisma	Basic	1 2 subj[1].obj[2].V	2	huggee	obj.V	P
+Ainu	3	LOOK AT	inkar	Basic	1 2+un subj[1].V	1	looker	subj.V	S
+Ainu	3	LOOK AT	inkar	Basic	1 2+un subj[1].V	2	looked at entity	NP+un	X
+Ainu	4	SEE	nukar	Basic	1 2 subj[1].obj[2].V	1	seeer	subj.V	A
+Ainu	4	SEE	nukar	Basic	1 2 subj[1].obj[2].V	2	seen entity	obj.V	P
+Ainu	5	SMELL	hurarakkar	Basic	1 2 subj[1].obj[2].V	1	smeller	subj.V	A
+Ainu	5	SMELL	hurarakkar	Basic	1 2 subj[1].obj[2].V	2	smelled entity	obj.V	P
+Ainu	6	FEAR	sitoma	Basic	1 2 subj[1].obj[2].V	1	fearer	subj.V	A
+Ainu	6	FEAR	sitoma	Basic	1 2 subj[1].obj[2].V	2	fear stimulus	obj.V	P
+Ainu	7	FRIGHTEN	kimatek-ka	Basic	1 2 subj[1].obj[2].V	1	frightener	subj.V	A
+Ainu	7	FRIGHTEN	kimatek-ka	Basic	1 2 subj[1].obj[2].V	2	frightenee	obj.V	P
+Ainu	8	LIKE	eramasu(y)	Basic	1 2 subj[1].obj[2].V	1	liker	subj.V	A
+Ainu	8	LIKE	eramasu(y)	Basic	1 2 subj[1].obj[2].V	2	liked entity	obj.V	P
+Ainu	8	LIKE	omap	Basic	1 2 subj[1].obj[2].V	1	liker	subj.V	A
+Ainu	8	LIKE	omap	Basic	1 2 subj[1].obj[2].V	2	liked entity	obj.V	P
+Ainu	9	KNOW	amkir	Basic	1 2 subj[1].obj[2].V	1	knower	subj.V	A
+Ainu	9	KNOW	amkir	Basic	1 2 subj[1].obj[2].V	2	known thing/person	obj.V	P
+Ainu	10	THINK	ramu	Basic	1 2 subj[1].obj[2].V	1	thinker	subj.V	A
+Ainu	10	THINK	ramu	Basic	1 2 subj[1].obj[2].V	2	thought content	obj.V	P
+Ainu	11	SEARCH FOR	hunara	Basic	1 2 subj[1].obj[2].V	1	searcher	subj.V	A
+Ainu	11	SEARCH FOR	hunara	Basic	1 2 subj[1].obj[2].V	2	searched for thing	obj.V	P
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	washer	subj.V	A
+Ainu	12	WASH	huray-e (SG) / huray-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	washed entity	obj.V	P
+Ainu	13	DRESS	i-mi-re	Basic	1 2 subj[1].obj[2].V	1	dresser	subj.V	A
+Ainu	13	DRESS	i-mi-re	Basic	1 2 subj[1].obj[2].V	2	dressee	obj.V	P
+Ainu	14	SHAVE (a body part/person)	memke	Basic	1 2 subj[1].obj[2].V	1	shaver (of body part)	subj.V	A
+Ainu	14	SHAVE (a body part/person)	memke	Basic	1 2 subj[1].obj[2].V	2	shaved body part	obj.V	P
+Ainu	15	HELP	kasuy	Basic	1 2 subj[1].obj[2].V	1	helper	subj.V	A
+Ainu	15	HELP	kasuy	Basic	1 2 subj[1].obj[2].V	2	helpee	obj.V	P
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Basic	1 2 subj[1].obj[2].V	1	follower	subj.V	A
+Ainu	16	FOLLOW	os ek (SG) / arki (PL)	Basic	1 2 subj[1].obj[2].V	2	followee	obj.V	P
+Ainu	17	MEET	nukar	Basic	1 2 subj[1].obj[2].V	1	meeter	subj.V	A
+Ainu	17	MEET	nukar	Basic	1 2 subj[1].obj[2].V	2	met person	obj.V	P
+Ainu	18	TALK	e-ko-itak	Basic	1 2 3 subj[1].obj[2].V	1	talker	subj.V	A
+Ainu	18	TALK	e-ko-itak	Basic	1 2 3 subj[1].obj[2].V	2	talked to person	obj.V	P
+Ainu	18	TALK	e-ko-itak	Basic	1 2 3 subj[1].obj[2].V	3	talked about content	Ø	X
+Ainu	19	ASK FOR	ko-tak	Basic	1 2 3 subj[1].obj[2].V	1	asker	subj.V	A
+Ainu	19	ASK FOR	ko-tak	Basic	1 2 3 subj[1].obj[2].V	2	askee	obj.V	P
+Ainu	19	ASK FOR	ko-tak	Basic	1 2 3 subj[1].obj[2].V	3	requested thing	Ø	X
+Ainu	20	SHOUT AT	hawekoyki	Basic	1 2 subj[1].obj[2].V	1	shouter	subj.V	A
+Ainu	20	SHOUT AT	hawekoyki	Basic	1 2 subj[1].obj[2].V	2	shoutee	obj.V	P
+Ainu	21	TELL	e-ko-isoytak	Basic	1 2 3 subj[1].obj[2].V	1	teller	subj.V	A
+Ainu	21	TELL	e-ko-isoytak	Basic	1 2 3 subj[1].obj[2].V	2	tellee	obj.V	P
+Ainu	21	TELL	e-ko-isoytak	Basic	1 2 3 subj[1].obj[2].V	3	told content	Ø	X
+Ainu	21	TELL	nu-re	Basic	1 2 3 subj[1].obj[2].V	1	teller	subj.V	A
+Ainu	21	TELL	nu-re	Basic	1 2 3 subj[1].obj[2].V	2	tellee	obj.V	P
+Ainu	21	TELL	nu-re	Basic	1 2 3 subj[1].obj[2].V	3	told content	Ø	X
+Ainu	22	SAY	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	1	sayer	subj.V	A
+Ainu	22	SAY	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	2	saying addressee	NP+(e)un	X
+Ainu	22	SAY	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	3	said content	obj.V	P
+Ainu	23	NAME	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	1	namer	subj.V	A
+Ainu	23	NAME	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	2	namee	NP+(e)un	X
+Ainu	23	NAME	ye	Basic	1 2+(e)un 3 subj[1].obj[3].V	3	name	obj.V	P
+Ainu	24	BUILD	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	1	builder	subj.V	A
+Ainu	24	BUILD	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	2	built thing	obj.V	P
+Ainu	24	BUILD	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	3	building material	NP+ani	I
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	1	breaker	subj.V	A
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	2	broken thing	obj.V	P
+Ainu	25	BREAK	per-e (SG) / per-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	3	breaking instrument	NP+ani	I
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	1	killer	subj.V	A
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	2	killee	obj.V	P
+Ainu	26	KILL	ray-ke (SG) / ronnu (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	3	killing instrument	NP+ani	I
+Ainu	27	BEAT	kik-kik	Basic	1 2 (3+ani) subj[1].obj[2].V	1	beater	subj.V	A
+Ainu	27	BEAT	kik-kik	Basic	1 2 (3+ani) subj[1].obj[2].V	2	beatee	obj.V	P
+Ainu	27	BEAT	kik-kik	Basic	1 2 (3+ani) subj[1].obj[2].V	3	beating instrument	NP+ani	I
+Ainu	28	HIT	kik	Basic	1 2 (3+ani) subj[1].obj[2].V	1	hitter	subj.V	A
+Ainu	28	HIT	kik	Basic	1 2 (3+ani) subj[1].obj[2].V	2	hittee	obj.V	P
+Ainu	28	HIT	kik	Basic	1 2 (3+ani) subj[1].obj[2].V	3	hitting instrument	NP+ani	I
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	1	toucher	subj.V	A
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	2	touchee	obj.V	P
+Ainu	29	TOUCH	ker-e (SG)/ker-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	3	touching instrument	NP+ani	I
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	1	cutter	subj.V	A
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	2	cut thing	obj.V	P
+Ainu	30	CUT	tuy-e (SG) / tuy-pa (PL)	Basic	1 2 (3+ani) subj[1].obj[2].V	3	cutting instrument	NP+ani	I
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	1	taker	subj.V	A
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	2	taken thing	obj.V	P
+Ainu	31	TAKE	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	3	taking source	Ø	X
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	tearer	subj.V	A
+Ainu	32	TEAR	yas-a (SG) / yas-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	torn thing	obj.V	P
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	peeler	subj.V	A
+Ainu	33	PEEL	sos-o (SG)/sos-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	peel	obj.V	P
+Ainu	34	HIDE	ko-nuyna	Basic	1 2 3 subj[1].obj[2].V	1	hider	subj.V	A
+Ainu	34	HIDE	ko-nuyna	Basic	1 2 3 subj[1].obj[2].V	2	hiding affectee	obj.V	P
+Ainu	34	HIDE	ko-nuyna	Basic	1 2 3 subj[1].obj[2].V	3	hidden thing	Ø	X
+Ainu	35	SHOW	nukar-e	Basic	1 2 3 subj[1].obj[2].V	1	shower	subj.V	A
+Ainu	35	SHOW	nukar-e	Basic	1 2 3 subj[1].obj[2].V	2	showing addressee	obj.V	P
+Ainu	35	SHOW	nukar-e	Basic	1 2 3 subj[1].obj[2].V	3	shown thing	Ø	X
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Basic	1 2 3 subj[1].obj[2].V	1	giver	subj.V	A
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Basic	1 2 3 subj[1].obj[2].V	2	giving recipient	obj.V	P
+Ainu	36	GIVE	kor-e (SG)/kor-pa-re (PL)	Basic	1 2 3 subj[1].obj[2].V	3	gift	Ø	X
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Basic	1 2+(e)un 3 subj[1].obj[3].V	1	sender	subj.V	A
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Basic	1 2+(e)un 3 subj[1].obj[3].V	2	sending recipient	NP+(e)un	X
+Ainu	37	SEND	arpa-re (SG) / paye-re (PL)	Basic	1 2+(e)un 3 subj[1].obj[3].V	3	sent thing	obj.V	P
+Ainu	38	CARRY	rúra	Basic	1 2+(e)un 3 subj[1].obj[3].V	1	carrier	subj.V	A
+Ainu	38	CARRY	rúra	Basic	1 2+(e)un 3 subj[1].obj[3].V	2	carrying goal	NP+(e)un	X
+Ainu	38	CARRY	rúra	Basic	1 2+(e)un 3 subj[1].obj[3].V	3	carried thing	obj.V	P
+Ainu	39	THROW	e-yapkir	Basic	1 2 LOC3 subj[1].obj[2].V	1	thrower	subj.V	A
+Ainu	39	THROW	e-yapkir	Basic	1 2 LOC3 subj[1].obj[2].V	2	thrown thing	obj.V	P
+Ainu	39	THROW	e-yapkir	Basic	1 2 LOC3 subj[1].obj[2].V	3	throwing goal	LOC	L
+Ainu	40	TIE	kot-e	Basic	1 2 LOC3 subj[1].obj[2].V	1	tier	subj.V	A
+Ainu	40	TIE	kot-e	Basic	1 2 LOC3 subj[1].obj[2].V	2	tying goal	obj.V	P
+Ainu	40	TIE	kot-e	Basic	1 2 LOC3 subj[1].obj[2].V	3	tied thing	LOC	L
+Ainu	41	PUT	an-u (SG) / ari (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	1	putter	subj.V	A
+Ainu	41	PUT	an-u (SG) / ari (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	2	put thing	obj.V	P
+Ainu	41	PUT	an-u (SG) / ari (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	3	putting goal	LOC	L
+Ainu	41	PUT	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	1	putter	subj.V	A
+Ainu	41	PUT	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	2	put thing	obj.V	P
+Ainu	41	PUT	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	3	putting goal	Ø	X
+Ainu	42	POUR	kuta	Basic	1 2 LOC3 subj[1].obj[2].V	1	pourer	subj.V	A
+Ainu	42	POUR	kuta	Basic	1 2 LOC3 subj[1].obj[2].V	2	poured substance	obj.V	P
+Ainu	42	POUR	kuta	Basic	1 2 LOC3 subj[1].obj[2].V	3	pouring goal	LOC	L
+Ainu	42	POUR	o-ta	Basic	1 2 3 subj[1].obj[2].V	1	pourer	subj.V	A
+Ainu	42	POUR	o-ta	Basic	1 2 3 subj[1].obj[2].V	2	poured substance	obj.V	P
+Ainu	42	POUR	o-ta	Basic	1 2 3 subj[1].obj[2].V	3	pouring goal	Ø	X
+Ainu	43	COVER	kamu-re	Basic	1 2 3 subj[1].obj[2].V	1	coverer	subj.V	A
+Ainu	43	COVER	kamu-re	Basic	1 2 3 subj[1].obj[2].V	2	covered thing	obj.V	P
+Ainu	43	COVER	kamu-re	Basic	1 2 3 subj[1].obj[2].V	3	cover	Ø	X
+Ainu	44	FILL	e-sik-te	Basic	1 2 3 subj[1].obj[2].V	1	filler	subj.V	A
+Ainu	44	FILL	e-sik-te	Basic	1 2 3 subj[1].obj[2].V	2	filled container	obj.V	P
+Ainu	44	FILL	e-sik-te	Basic	1 2 3 subj[1].obj[2].V	3	filling material	Ø	X
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	1	loader	subj.V	A
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	2	loaded thing	obj.V	P
+Ainu	45	LOAD	oma-re (SG) / o (PL)	Basic	1 2 3 subj[1].obj[2].V	3	loading place	Ø	X
+Ainu	46	BLINK	sik-rap-rap-u	Basic	1 subj[1].V	1	blinker	subj.V	S
+Ainu	47	COUGH	omke	Basic	1 subj[1].V	1	cougher	subj.V	S
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Basic	1 LOC2 subj[1].V	1	climber	subj.V	S
+Ainu	48	CLIMB	hemesu (SG) / hemespa (PL)	Basic	1 LOC2 subj[1].V	2	climbing goal	LOC	L
+Ainu	49	RUN	hoyupu (SG)/hoyuppa (PL)	Basic	1 subj[1].V	1	runner	subj.V	S
+Ainu	49	RUN	pas	Basic	1 subj[1].V	1	runner	subj.V	S
+Ainu	50	SIT	a (SG) / rok (PL)	Basic	1 LOC2 subj[1].V	1	sitter	subj.V	S
+Ainu	50	SIT	a (SG) / rok (PL)	Basic	1 LOC2 subj[1].V	2	sitting place	LOC	L
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Basic	1 LOC2 subj[1].V	1	sitdowner	subj.V	S
+Ainu	51	SIT DOWN	a (SG) / rok (PL)	Basic	1 LOC2 subj[1].V	2	sitting-down place	LOC	L
+Ainu	52	JUMP	hopuni(SG) / hopunpa (PL)	Basic	1 subj[1].V	1	jumper	subj.V	S
+Ainu	52	JUMP	tetterke	Basic	1 subj[1].V	1	jumper	subj.V	S
+Ainu	53	SING	sinotca-ki	Basic	1 subj[1].V	1	singer	subj.V	S
+Ainu	54	GO	arpa (SG) / paye (PL)	Basic	1 LOC2 subj[1].V	1	goer	subj.V	S
+Ainu	54	GO	arpa (SG) / paye (PL)	Basic	1 LOC2 subj[1].V	2	going goal	LOC	L
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Basic	1 LOC2 subj[1].V	1	leaver	subj.V	S
+Ainu	55	LEAVE	arpa (SG) / paye (PL)	Basic	1 LOC2 subj[1].V	2	left place/person	LOC	L
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	leaver	subj.V	A
+Ainu	55	LEAVE	hop-i (SG)/hop-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	left place/person	obj.V	P
+Ainu	56	LIVE	an (SG) / oka (PL)	Basic	1 LOC2 subj[1].V	1	liver	subj.V	S
+Ainu	56	LIVE	an (SG) / oka (PL)	Basic	1 LOC2 subj[1].V	2	living place	LOC	L
+Ainu	57	LAUGH	mina	Basic	1 subj[1].V	1	laugher	subj.V	S
+Ainu	58	SCREAM	kirirse	Basic	1 subj[1].V	1	screamer	subj.V	S
+Ainu	59	FEEL PAIN	arka	Basic	1 subj[1].V	1	pain locus	subj.V	S
+Ainu	59	FEEL PAIN	koni	Basic	1 2 subj[1].obj[2].V	1	pain locus	subj.V	A
+Ainu	59	FEEL PAIN	koni	Basic	1 2 subj[1].obj[2].V	2	pain-feeler	obj.V	P
+Ainu	60	FEEL COLD	merayke	Basic	1 subj[1].V	1	freezing person	subj.V	S
+Ainu	61	DIE	ray	Basic	1 subj[1].V	1	dieer	subj.V	S
+Ainu	62	PLAY	sinot	Basic	1 subj[1].V	1	player	subj.V	S
+Ainu	63	BE SAD	mismu	Basic	1 subj[1].V	1	sad person	subj.V	S
+Ainu	64	BE HUNGRY	i-p-e-rusuy	Basic	1 subj[1].V	1	hungry person	subj.V	S
+Ainu	65	ROLL	karkarse	Basic	1 subj[1].V	1	rolling entity	subj.V	S
+Ainu	66	SINK	rer	Basic	1 subj[1].V	1	sunken entity	subj.V	S
+Ainu	67	BURN	uhuy	Basic	1 subj[1].V	1	burnt thing	subj.V	S
+Ainu	68	BE DRY	sat	Basic	1 subj[1].V	1	dry thing	subj.V	S
+Ainu	70	BE A HUNTER	isonkur ne	Basic	1 subj[1].V	1	specialist/hunter	subj.V	S
+Ainu	71	GRIND	uta	Basic	1 2 subj[1].obj[2].V	1	grinder	subj.V	A
+Ainu	71	GRIND	uta	Basic	1 2 subj[1].obj[2].V	2	ground thing	obj.V	P
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	wiper	subj.V	A
+Ainu	72	WIPE	nu-w-e (SG)/nú-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	wiped material	obj.V	P
+Ainu	73	DIG	ta	Basic	1 2 subj[1].obj[2].V	1	digger	subj.V	A
+Ainu	73	DIG	ta	Basic	1 2 subj[1].obj[2].V	2	dug up thing	obj.V	P
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	1	pusher	subj.V	A
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	2	pushee	obj.V	P
+Ainu	74	PUSH	oputuy-e (SG)/ oputuy-pa (PL)	Basic	1 2 LOC3 subj[1].obj[2].V	3	pushing goal	LOC	L
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Basic	1 2 3 subj[1].obj[2].V	1	bringer	subj.V	A
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Basic	1 2 3 subj[1].obj[2].V	2	bringing recipient	obj.V	P
+Ainu	75	BRING	ko-ani (SG) / ko-anpa (PL)	Basic	1 2 3 subj[1].obj[2].V	3	brought thing	Ø	X
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Basic	1 2 subj[1].obj[2].V	1	bringer	subj.V	A
+Ainu	75	BRING	kor wa ek (SG) / arki (PL)	Basic	1 2 subj[1].obj[2].V	2	brought thing	obj.V	P
+Ainu	76	STEAL	ko-e-ikka	Basic	1 2 3 subj[1].obj[2].V	1	stealer	subj.V	A
+Ainu	76	STEAL	ko-e-ikka	Basic	1 2 3 subj[1].obj[2].V	2	stealing source	obj.V	P
+Ainu	76	STEAL	ko-e-ikka	Basic	1 2 3 subj[1].obj[2].V	3	stolen thing	Ø	X
+Ainu	77	TEACH	e-pakasnu	Basic	1 2 3 subj[1].obj[2].V	1	teacher	subj.V	A
+Ainu	77	TEACH	e-pakasnu	Basic	1 2 3 subj[1].obj[2].V	2	teachee	obj.V	P
+Ainu	77	TEACH	e-pakasnu	Basic	1 2 3 subj[1].obj[2].V	3	taught content	Ø	X
+Ainu	78	HEAR	nu	Basic	1 2 subj[1].obj[2].V	1	hearer	subj.V	A
+Ainu	78	HEAR	nu	Basic	1 2 subj[1].obj[2].V	2	heard sound	obj.V	P
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Basic	1 2 subj[1].obj[2].V	1	cooker	subj.V	A
+Ainu	79	COOK	suw-e (SG)/sú-pa (PL)	Basic	1 2 subj[1].obj[2].V	2	cooked food	obj.V	P
+Ainu	80	BOIL	pop	Basic	1 subj[1].V	1	boiled thing	subj.V	S
+Ainu	81	APPEAR	an (SG) / oka (PL)	Basic	1 LOC2 subj[1].V	1	appearer	subj.V	S
+Ainu	81	APPEAR	an (SG) / oka (PL)	Basic	1 LOC2 subj[1].V	2	appear location	LOC	L
+Ainu	81	APPEAR	hetuku (SG) / hetukpa (PL)	Basic	1 subj[1].V	1	appearer	subj.V	S
+Ainu	82	BE ILL	siyeye	Basic	1 subj[1].V	1	sick person	subj.V	S
+Ainu	83	CRY	cis	Basic	1 subj[1].V	1	crier	subj.V	S
+Ainu	84	FALL	hácir	Basic	1 subj[1].V	1	fallee	subj.V	S
+Ainu	85	MAKE	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	1	maker	subj.V	A
+Ainu	85	MAKE	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	2	made thing	obj.V	P
+Ainu	85	MAKE	kar	Basic	1 2 (3+ani) subj[1].obj[2].V	3	making material	NP+ani	I
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	1	receiver	subj.V	A
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	2	received thing	obj.V	P
+Ainu	86	GET	ko-uk (SG) / ko.uyna (PL)	Basic	1 2 3 subj[1].obj[2].V	3	receiving source	Ø	X
+Ainu	87	WANT	eramasu(y)	Basic	1 2 subj[1].obj[2].V	1	wanter	subj.V	A
+Ainu	87	WANT	eramasu(y)	Basic	1 2 subj[1].obj[2].V	2	wanted thing	obj.V	P

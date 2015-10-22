@@ -1,0 +1,31 @@
+﻿Language_name	Gloss	Meaning
+Sri Lanka Malay	abl	ablative
+Sri Lanka Malay	acc	accusative
+Sri Lanka Malay	addit	additive
+Sri Lanka Malay	adhort	adhortative
+Sri Lanka Malay	caus	causative
+Sri Lanka Malay	comit	comitative
+Sri Lanka Malay	copula	copula
+Sri Lanka Malay	cp	conjunctive participle
+Sri Lanka Malay	dat	dative
+Sri Lanka Malay	dist	distal
+Sri Lanka Malay	emph	emphatic
+Sri Lanka Malay	foc	focus
+Sri Lanka Malay	imp	imperative
+Sri Lanka Malay	indef	indefinite
+Sri Lanka Malay	inf	infinitive
+Sri Lanka Malay	interr	interrogative
+Sri Lanka Malay	invol	involitive
+Sri Lanka Malay	irr	irrealis
+Sri Lanka Malay	loc	locative
+Sri Lanka Malay	neg	negation
+Sri Lanka Malay	nmlzr	nominalizer
+Sri Lanka Malay	nonpast	nonpast
+Sri Lanka Malay	past	past
+Sri Lanka Malay	pl	plural
+Sri Lanka Malay	poss	possessive
+Sri Lanka Malay	prox	proximal
+Sri Lanka Malay	quot	quotative
+Sri Lanka Malay	rdp	reduplication
+Sri Lanka Malay	s	singular
+Sri Lanka Malay	simil	similitive

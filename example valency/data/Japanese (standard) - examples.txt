@@ -1,0 +1,105 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Japanese (standard)	1		Ken-ga gohan-o tabe-ta.		Ken-ga gohan-o tabe-ta	Ken-nom rice-acc eat-past	Ken ate the rice.
+Japanese (standard)	2		Uma-ga hasi-ru.		uma-ga hasi-ru	horse-nom run-pres	The horse runs.
+Japanese (standard)	3		Mari-ga sensei-ni syasin-o mise-ta.		Mari-ga sensei-ni syasin-o mise-ta	Mari-nom teacher-dat picture-acc show-past	Mari showed pictures to the teacher.
+Japanese (standard)	4		Sensei-ga syasin-o mise-rare-ta.		sensei-ga syasin-o mise-rare-ta	teacher-nom picture-acc show-pass-past	The teacher was shown a picture.
+Japanese (standard)	5		Okaasan-ga tiisai kodomo-o dakisime-ta.		okaasan-ga tiisai kodomo-o dakisime-ta	mother-nom little child-acc hug-past	Mother hugged her little child.
+Japanese (standard)	6		Mari-ga kabin-o kowasi-ta.		Mari-ga kabin-o kowasi-ta	Mari-nom vase-acc break-past	Mary broke the vase.
+Japanese (standard)	7		Booru-ga korogat-ta.		booru-ga korogat-ta	ball-nom roll-past	The ball rolled.
+Japanese (standard)	8		Ken-ga koppu-ni mizu-o mitasi-ta.		Ken-ga koppu-ni mizu-o mitasi-ta	Ken-nom cup-loc water-acc fill-past	Ken filled water into the cup.
+Japanese (standard)	9		Ken-ga Mari-o mi-ta.		Ken-ga Mari-o mi-ta	Ken-nom Mari-acc look-past	Ken looked at Mari./Ken saw Mari.
+Japanese (standard)	10		Otoko-ni kuma-ga mie-ta.		otoko-ni kuma-ga mie-ta	man-dat bear-nom see-past	The man saw the bear.
+Japanese (standard)	11		Kuma-ga syoonen-no nioi-o kai-da.		kuma-ga syoonen-no nioi-o kai-da	bear-nom boy-gen smell-acc sniff-past	The bear sniffed the boy.
+Japanese (standard)	12		Kodomo-ga kuma-o kowagat-ta.		kodomo-ga kuma-o kowagat-ta	child-nom bear-acc fear-past	The child feared the bear.
+Japanese (standard)	13		Kuma-ga kodomo-o kowagar-ase-ta.		kuma-ga kodomo-o kowagar-ase-ta	bear-nom child-acc fear-caus-past	The bear frightened the child.
+Japanese (standard)	14		Kodomo-ga omotya-o ki-ni-it-ta.		kodomo-ga omotya-o ki-ni-it-ta	child-nom toy-acc mind-loc-enter-past	The child liked the toy.
+Japanese (standard)	15		Syoonen-ga syoozyo-o sit-te i-ru.		syoonen-ga syoozyo-o sit-te i-ru	boy-nom girl-acc know-ger be-pres	The boy knows the girl.
+Japanese (standard)	16		Syoozyo-ga sono-koto-o kangae-ta.		syoozyo-ga sono-koto-o kangae-ta	girl-nom that-matter-acc think-past	The girl thought about that matter.
+Japanese (standard)	17		Dansei-ga zyosei-o sagasi-ta.		dansei-ga zyosei-o sagasi-ta	man-nom woman-acc search-past	The man searched for the woman.
+Japanese (standard)	18		Ken-ga osara-o arat-ta.		Ken-ga osara-o arat-ta	Ken-nom plate-acc wash-past	Ken washed the plates.
+Japanese (standard)	19		Okaasan-ga musume-ni huku-o kise-ta.		okaasan-ga musume-ni huku-o kise-ta	mother-nom daughter-dat clothes-acc dress-past	The mother dressed her daughter.
+Japanese (standard)	20		Otoko-ga hige-o sot-ta.		otoko-ga hige-o sot-ta	man-nom beard-acc shave-past	The man shaved his beard.
+Japanese (standard)	21		Watasi-ga kodomo-o tetudat-ta.		watasi-ga kodomo-o tetudat-ta	1.sg-nom child-acc help-past	I helped the child.
+Japanese (standard)	22		Kodomo-ga otona-no ato-ni tuzui-ta.		kodomo-ga otona-no ato-ni tuzui-ta	child-nom adult-gen back-loc follow-past	The children followed the adults.
+Japanese (standard)	23		Ken-ga Mari-ni at-ta.		Ken-ga Mari-ni at-ta	Ken-nom Mari-dat meet-past	Ken met Mari.
+Japanese (standard)	24		Ken-ga Mari-ni sono-koto-o hanasi-ta.		Ken-ga Mari-ni sono-koto-o hanasi-ta	Ken-nom Mari-dat that-matter-acc talk-past	Ken talked to Mari about that matter.
+Japanese (standard)	25		Ken-ga Mari-ni tasuke-o motome-ta.		Ken-ga Mari-ni tasuke-o motome-ta	Ken-nom Mari-dat help-acc ask-past	Ken asked Mari for her help.
+Japanese (standard)	26		Zyosei-ga kodomo-ni (nanika-o) saken-da.		zyosei-ga kodomo-ni nanika-o saken-da	woman-nom child-dat something-acc shout-past	The woman shouted (something) at the child.
+Japanese (standard)	27		Ken-ga Mari-ni sinzitu-o tuge-ta.		Ken-ga Mari-ni sinzitu-o tuge-ta	Ken-nom Mari-dat truth-acc tell-past	Ken told Mari the truth.
+Japanese (standard)	28		Ken-ga Mari-ni "hai." to it-ta.		Ken-ga Mari-ni hai to it-ta	Ken-nom Mari-dat yes quot say-past	Ken said "Yes." to Mari."
+Japanese (standard)	29		Ken-ga sono-ko-o Mari-to yon-da.		Ken-ga sono-ko-o Mari-to yon-da	Ken-nom that-child-acc Mari-quot call-past	Ken called that child Mari.
+Japanese (standard)	30		Otoko-tati-ga (ki-de) ie-o tate-ta.		otoko-tati-ga ki-de ie-o tate-ta	man-pl-nom wood-instr house-acc build-past	The men build the house (out of wood).
+Japanese (standard)	31		Ken-ga (hanmaa-de) mado-o kowasi-ta.		Ken-ga hanmaa-de mado-o kowasi-ta	Ken-nom hammer-instr window-acc break-past	Ken broke the window (with a hammer).
+Japanese (standard)	32		Syoonen-ga (satyuuzai-de) ka-o korosi-ta.		syoonen-ga satyuuzai-de ka-o korosi-ta	boy-nom insecticide-instr mosquito-acc kill-past	The boy killed the mosquitos (with the insecticide).
+Japanese (standard)	33		Kodomo-ga (boo-de) hebi-o tatai-ta.		kodomo-ga boo-de hebi-o tatai-ta	child-nom stick-instr snake-acc beat-past	The child beat the snake (with a stick).
+Japanese (standard)	34		Syoonen-ga (boo-de) kabe-o tatai-ta.		syoonen-ga boo-de kabe-o tatai-ta	boy-nom stick-instr wall-acc hit-past	The boy hit the wall (with a stick).
+Japanese (standard)	35		Syoonen-ga kaeru-o sawat-ta.		syoonen-ga kaeru-o sawat-ta	boy-nom frog-acc touch-past	The boy touched the frog.
+Japanese (standard)	36		Okaasan-ga (naifu-de) pan-o kit-ta.		okaasan-ga naifu-de pan-o kit-ta	mother-nom knife-instr bread-acc cut-past	Mother cut the bread (with a knife).
+Japanese (standard)	37		Otoko-ga tomodati-kara okane-o tot-ta.		otoko-ga tomodati-kara okane-o tot-ta	man-nom friend-abl money-acc take-past	The man took money from the friend.
+Japanese (standard)	38		Kodomo-ga hon-no peezi-o yabut-ta.		kodomo-ga hon-no peezi-o yabut-ta	child-nom book-gen page-acc tear-past	The child tore the page from the book.
+Japanese (standard)	39		Kodomo-ga hon-o kakusi-ta.		kodomo-ga hon-o kakusi-ta	child-nom book-acc hide-past	The child hid the book.
+Japanese (standard)	40		Ken-ga sensei-ni syasin-o mise-ta.		Ken-ga sensei-ni syasin-o mise-ta	Ken-nom teacher-dat picture-acc show-past	Ken showed pictures to the teacher.
+Japanese (standard)	41		Oya-ga kodomo-ni hon-o atae-ta.		oya-ga kodomo-ni hon-o atae-ta	parent-nom child-dat book-acc give-past	The parents gave the child the book.
+Japanese (standard)	42		Ken-ga Mari-ni tegami-o okut-ta.		Ken-ga Mari-ni tegami-o okut-ta	Ken-nom Mari-loc letter-acc send-past	Ken sent Mari the letter.
+Japanese (standard)	43		Ken-ga itiba-ni hako-o hakon-da.		Ken-ga itiba-ni hako-o hakon-da	Ken-nom market-loc box-acc carry-past	Ken carried the boxes to the market.
+Japanese (standard)	44		Syoonen-ga booru-o mado-ni nage-ta.		syoonen-ga booru-o mado-ni nage-ta	boy-nom ball-acc window-loc throw-past	The boy threw the ball to the window.
+Japanese (standard)	45		Otoko-ga (roopu-de) ki-ni uma-o tunai-da.		otoko-ga roopu-de ki-ni uma-o tunai-da	man-nom rope-instr tree-loc horse-acc tie-past	The man tied a horse to the tree (with a rope).
+Japanese (standard)	46		Watasi-ga teeburu-ni kappu-o oi-ta.		watasi-ga teeburu-ni kappu-o oi-ta	1.sg-nom table-loc cup-acc put-past	I put the cup on the table.
+Japanese (standard)	47		Ken-ga gurasu-ni mizu-o sosoi-da.		Ken-ga gurasu-ni mizu-o sosoi-da	Ken-nom glass-loc water-acc pour-past	Ken poured water into the glass.
+Japanese (standard)	48		Ken-ga akatyan-o nuno-de kurun-da.		Ken-ga akatyan-o nuno-de kurun-da	Ken-nom baby-acc cloth-instr cover-past	Ken covered the baby with a cloth.
+Japanese (standard)	49		Noohu-ga torakku-ni hosikusa-o tun-da.		noohu-ga torakku-ni hosikusa-o tun-da	farmer-nom truck-loc hay-acc load-past	Ken loaded hay onto the truck.
+Japanese (standard)	50		Mari-ga mabataki-o si-ta.		Mari-ga mabataki-o si-ta	Mari-nom blink-acc do-past	Mari blinked.
+Japanese (standard)	51		Roozin-ga seki-o si-ta.		roozin-ga seki-o si-ta	old.man-nom cough-acc do-past	The old man coughed.
+Japanese (standard)	52		Otoko-ga ki-o nobot-ta.		otoko-ga ki-o nobot-ta	man-nom tree-acc climb-past	The man climbed the tree.
+Japanese (standard)	53		Uma-ga hasiy-te i-ru.		uma-ga hasi-te i-ru	horse-nom run-ger be-pres	The horse is running.
+Japanese (standard)	54		Kodomo-ga yuka-ni suwat-ta.		kodomo-ga yuka-ni suwat-ta	child-nom floor-loc sit-past	The children sat on the floor.
+Japanese (standard)	55		Kodomo-ga benti-ni kosi-o orosi-ta.		kodomo-ga benti-ni kosi-o orosi-ta	child-nom bench-loc waist-acc lower-past	The children sat down on the bench.
+Japanese (standard)	56		Syoonen-ga tobiagat-ta.		syoonen-ga tobiagat-ta	boy-nom jump-past	The boy jumped.
+Japanese (standard)	57		Syoozyo-ga (uta-o) utat-ta.		syoozyo-ga uta-o utat-ta	girl-nom song-acc sing-past	The girl sang (a song).
+Japanese (standard)	58		Zyosei-ga itiba-ni it-ta.		zyosei-ga itiba-ni it-ta	woman-nom market-loc go-past	The woman went to the market.
+Japanese (standard)	59		Syoonen-ga mura-o sat-ta.		syoonen-ga mura-o sat-ta	boy-nom village-acc leave-past	The boy left the village.
+Japanese (standard)	60		Tomodati-ga Tokyo-ni sun-de i-ru.		tomodati-ga Tokyo-ni sun-de i-ru	friend-nom Tokyo-loc live-ger be-pres	The friend lives in Tokyo.
+Japanese (standard)	61		Mari-ga warat-ta.		Mari-ga warat-ta	Mari-nom laugh-past	Mari laughed.
+Japanese (standard)	62		Otoko-ga sakebi-goe-o age-ta.		otoko-ga sakebi-goe-o age-ta	man-nom scream-voice-acc raise-past	The man screamed.
+Japanese (standard)	63		Watasi-ga onaka-ga itakat-ta.		watasi-ga onaka-ga itakat-ta	1.sg-nom stomach-nom painful-past	I had a pain on my stomach.
+Japanese (standard)	64		Ken-ga samukat-ta.		Ken-ga samukat-ta	Ken-nom cold-past	Ken felt cold.
+Japanese (standard)	65		Musi-ga sin-da.		musi-ga sin-da	insect-nom die-past	The insects died.
+Japanese (standard)	66		Kodomo-ga ason-de i-ru.		kodomo-ga ason-de i-ru	child-nom play-ger be-pres	The child is playing.
+Japanese (standard)	67		Syoozyo-ga kanasikat-ta.		syoozyo-ga kanasikat-ta	girl-nom sad-past	The girl was sad.
+Japanese (standard)	68		Akatyan-ga onaka-ga sui-te i-ru.		akatyan-ga onaka-ga sui-te i-ru	baby-nom stomach-nom reduce-ger be-pres	The baby is hungry.
+Japanese (standard)	69		Booru-ga korogat-te i-ru.		booru-ga korogat-te i-ru	ball-nom roll-ger be-pres	The ball is rolling.
+Japanese (standard)	70		Hune-ga sizun-da.		hune-ga sizun-da	boat-nom sink-past	The boat sank.
+Japanese (standard)	71		Ie-ga moe-te i-ru.		ie-ga moe-te i-ru	house-nom burn-ger be-pres	The house is burning.
+Japanese (standard)	72		Zimen-ga kawai-te i-ru.		zimen-ga kawai-te i-ru	ground-nom dry-ger be-pres	The ground is dry.
+Japanese (standard)	73		Ame-ga hut-ta.		ame-ga hut-ta	rain-nom fall-past	It rained.
+Japanese (standard)	74		Ano-hito-ga ryoosi-da.		ano-hito-ga ryoosi-da	that-man-nom hunter-cop	That man is a hunter.
+Japanese (standard)	75		Zyosei-ga komugi-o hii-ta.		zyosei-ga komugi-o hii-ta	woman-nom wheat-acc grind-past	The woman ground the wheat.
+Japanese (standard)	76		Mari-ga teeburu-no doro-o hukitot-ta.		Mari-ga teeburu-no doro-o hukitot-ta	Mari-nom table-gen dirt-acc wipe-past	Mari wiped dirt off the table.
+Japanese (standard)	77		Zyosei-ga imo-o hot-te i-ru.		zyosei-ga imo-o hot-te i-ru	woman-nom potatoes-acc dig-ger be-pres	The woman is digging for potatoes.
+Japanese (standard)	78		Syoonen-ga syoozyo-o osi-ta.		syoonen-ga syoozyo-o osi-ta	boy-nom girl-acc push-past	The boy pushed the girl.
+Japanese (standard)	79		Syoozyo-ga watasi-ni hana-o mot-te ki-ta.		syoozyo-ga watasi-ni hana-o mot-te ki-ta	girl-nom 1.sg-loc flower-acc bring-ger come-past	The girl brought flowers to me.
+Japanese (standard)	80		Doroboo-ga roozin-kara okane-o nusun-da.		doroboo-ga roozin-kara okane-o nusun-da	thief-nom old.man-abl money-acc steal-past	The thief stole money from the old man.
+Japanese (standard)	81		Sensei-ga seito-ni suugaku-o osie-ta.		sensei-ga seito-ni suugaku-o osie-ta	teacher-nom student-dat math-acc teach-past	The teacher taught the students math.
+Japanese (standard)	82		Syoonen-ga kuma-no koe-o kii-ta.		syoonen-ga kuma-no koe-o kii-ta	boy-nom bear-gen voice-acc hear-past	The boy heard the bear's voice.
+Japanese (standard)	83		Mari-ga (kodomo-no tame-ni) sakana-o ryoori-si-ta.		Mari-ga kodomo-no tame-ni sakana-o ryoori-si-ta	Mari-nom child-gen benefit-dat fish-acc cook-do-past	Mari cooked the fish (for her child).
+Japanese (standard)	84		Oyu-ga wai-ta.		oyu-ga wai-ta	hot.water-nom boil-past	The water boiled.
+Japanese (standard)	85		Uma-ga hasir-e-ru.		uma-ga hasir-e-ru	horse-nom run-pot-pres	The horse can run.
+Japanese (standard)	86		Mari-ga uta-o uta-u.		Mari-ga uta-o uta-u	Mari-nom song-acc sing-pres	Mari sings a song.
+Japanese (standard)	87		Mari-ni uta-ga uta-e-ru.		Mari-ni uta-ga uta-e-ru	Mari-dat song-nom sing-pot-pres	Mari can sing a song.
+Japanese (standard)	88		Syasin-ga sensei-ni mise-rare-ta.		syasin-ga sensei-ni mise-rare-ta	picture-nom teacher-dat show-pass-past	Pictures were shown to the teacher.
+Japanese (standard)	89		Kabin-ga koware-ta.		kabin-ga koware-ta	vase-nom break-past	The vase broke.
+Japanese (standard)	90		Ken-ga booru-o korogasi-ta.		Ken-ga booru-o korogasi-ta	Ken-nom ball-acc roll-past	Ken rolled the ball.
+Japanese (standard)	91		Sensei-ga syashin-o mi-ta.		sensei-ga syasin-o mi-ta	teacher-nom picture-acc see-past	The teacher looked at the pictures. / The teacher saw the pictures.
+Japanese (standard)	92		Ken-kara Mary-ni tasuke-o motome-ru.		Ken-kara Mary-ni tasuke-o motome-ru	Ken-abl Mary-dat help-acc ask-pres	Ken asked Mary for her help.
+Japanese (standard)	93		Ken-ga itiba-e hako-o hakon-da.		Ken-ga itiba-e hako-o hakon-da	Ken-nom market-dir box-acc carry-past	Ken carried the boxes toward the market.
+Japanese (standard)	94		Otoko-ga ki-ni nobot-ta.		otoko-ga ki-ni nobot-ta	man-nom tree-loc climb-past	The man climbed on the tree.
+Japanese (standard)	95		Ken-ga Mari-to at-ta.		Ken-ga Mari-to at-ta	Ken-nom Mari-com meet-past	Ken met with Mari.
+Japanese (standard)	96		Ken-ga sono-koto-o hanasi-ta.		Ken-ga sono-koto-o hanasi-ta	Ken-nom that-matter-acc talk-past	Ken talked on that matter.
+Japanese (standard)	97		Ken-ga sono-koto-nituite hanasi-ta.		Ken-ga sono-koto-nituite hanasi-ta	Ken-nom that-matter-about talk-past	Ken talked about that matter.
+Japanese (standard)	98		Ken-ga mizu-de koppu-o mitasi-ta.		Ken-ga mizu-de koppu-o mitasi-ta	Ken-nom water-instr cup-acc fill-past	Ken filled the cup with water.
+Japanese (standard)	99		Mari-ga ringo-no kawa-o mui-ta.		Mari-ga ringo-no kawa-o mui-ta	Mari-nom apple-gen skin-acc peel-past	Mari peeled the skin off the apple.
+Japanese (standard)	100		Mari-ga ringo-o mui-ta.		Mari-ga ringo-o mui-ta	Mari-nom apple-acc peel-past	Mari peeled the apple.
+Japanese (standard)	101		Sensei-ga seito-o osie-ta.		sensei-ga seito-o osie-ta	teacher-nom student-acc teach-past	The teacher taught the students.
+Japanese (standard)	102		Kodomo-ni omotya-ga ki-ni-it-ta.		kodomo-ni omotya-ga ki-ni-it-ta	child-dat toy-nom mind-loc-enter-past	The child liked the toy.
+Japanese (standard)	103		Kodomo-ga omotya-ga ki-ni-it-ta.		kodomo-ga omotya-ga ki-ni-it-ta	child-nom toy-nom mind-loc-enter-past	The child liked the toy.
+Japanese (standard)	104		Musume-ga huku-o ki-ta.		musume-ga huku-o ki-ta	daughter-nom clothes-acc put.on-past	The daughter put on the clothes.

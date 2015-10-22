@@ -1,0 +1,81 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Argument-Decreasing Alternation	Argument-Increasing Alternation	Argument-Oblique Alternation	Direct Passivization Promoting Ni-marked Argument	Direct Passivization Promoting O-marked argument	Locative Alternation	Potential Formation
+Japanese (standard)	1	EAT	taberu	1	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	2	HUG	dakisimeru	5	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	3	LOOK AT	miru	9, 91	1-nom 2-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	4	SEE	mieru	10	1-dat 2-nom V	Regularly	Never	Regularly	Never	Never	Never	Never
+Japanese (standard)	5	SMELL	nioi-o kagu	11	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	6	FEAR	kowagaru	12	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Never
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	13	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	8	LIKE	ki-ni-iru	14, 102, 103	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Never
+Japanese (standard)	9	KNOW	siru	15	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Never
+Japanese (standard)	10	THINK	kangaeru	16	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	11	SEARCH FOR	sagasu	17	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	12	WASH	arau	18	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	13	DRESS	kiseru	19, 104	1-nom 2-dat 3-acc V	Regularly	Never	Never	Regularly	Regularly	Never	Regularly
+Japanese (standard)	14	SHAVE (a body part/person)	soru	20	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	15	HELP	tetudau	21	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	22	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	17	MEET	au	23, 95	1-nom 2-dat V	Never	Never	Regularly	Never	Never	Never	Regularly
+Japanese (standard)	18	TALK	hanasu	24, 96, 97	1-nom 2-dat 3-acc V	Never	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	19	ASK FOR	motomeru	25, 92	1-nom 2-dat 3-acc V	Never	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	20	SHOUT AT	sakebu	26	1-nom 2-dat 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	21	TELL	tugeru	27	1-nom 2-dat 3-acc V	Never	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	22	SAY	yuu	28	1-nom 2-dat UTT3 V	Never	Never	Regularly	Regularly	Never	Never	Regularly
+Japanese (standard)	23	NAME	yobu	29	1-nom 2-acc 3-quot V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	24	BUILD	tateru	30	1-nom (2-instr) 3-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	25	BREAK	kowasu	6, 31, 89	1-nom (2-instr) 3-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	26	KILL	korosu	32	1-nom (2-instr) 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	27	BEAT	tataku	33, 34	1-nom (2-instr) 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	28	HIT	tataku	33, 34	1-nom (2-instr) 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	29	TOUCH	sawaru	35	1-nom 2-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	30	CUT	kiru	36	1-nom (2-instr) 3-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	31	TAKE	toru	37	1-nom 2-abl 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	32	TEAR	yaburu	38	1-nom 2-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	33	PEEL	muku	99, 100	1-nom 2-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	34	HIDE	kakusu	39	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	35	SHOW	miseru	3, 4, 40, 88	1-nom 2-dat 3-acc V	Regularly	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	36	GIVE	ataeru	41	1-nom 2-dat 3-acc V	Never	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	37	SEND	okuru	42	1-nom 2-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	38	CARRY	hakobu	43, 93	1-nom 2-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	39	THROW	nageru	44	1-nom 2-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	40	TIE	tunagu	45	1-nom (2-instr) 3-loc 4-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	41	PUT	oku	46	1-nom 2-loc 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	42	POUR	sosogu	47	1-nom 2-loc 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	43	COVER	kurumu	48	1-nom (2-instr) 3-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	44	FILL	mitasu	8, 98	1-nom 2-loc 3-acc V	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Japanese (standard)	45	LOAD	tumu	49	1-nom 2-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	46	BLINK	mabataki-o suru	50	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	47	COUGH	seki-o suru	51	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	48	CLIMB	noboru	52, 94	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Regularly
+Japanese (standard)	49	RUN	hasiru	2, 53, 85	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	50	SIT	suwaru	54	1-nom 2-loc V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	55	1-nom 2-loc V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	52	JUMP	tobiagaru	56	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	53	SING	utau	57, 86, 87	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	54	GO	iku	58	1-nom 2-loc V	Never	Never	Regularly	Never	Never	Never	Regularly
+Japanese (standard)	55	LEAVE	saru	59	1-nom 2-acc V	Never	Never	Regularly	Never	Never	Never	Regularly
+Japanese (standard)	56	LIVE	sumu	60	1-nom 2-loc V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	57	LAUGH	warau	61	1-nom V	Never	Regularly	Never	Never	Never	Never	Regularly
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	62	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	59	FEEL PAIN	itai	63	1-nom 2-nom V	Never	Never	Never	Never	Never	Never	Never
+Japanese (standard)	60	FEEL COLD	samui	64	1-nom V	Never	Never	Never	Never	Never	Never	Never
+Japanese (standard)	61	DIE	sinu	65	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	62	PLAY	asobu	66	1-nom V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	63	BE SAD	kanasii	67	1-nom V	Never	Never	Never	Never	Never	Never	Never
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	68	1-nom V	Never	Regularly	Never	Never	Never	Never	Never
+Japanese (standard)	65	ROLL	korogaru	7, 69, 90	1-nom V	Never	Regularly	Never	Never	Never	Never	Never
+Japanese (standard)	66	SINK	sizumu	70	1-nom V	Never	Regularly	Never	Never	Never	Never	Never
+Japanese (standard)	67	BURN	moeru	71	1-nom V	Never	Regularly	Never	Never	Never	Never	Never
+Japanese (standard)	68	BE DRY	kawaku	72	1-nom V	Never	Regularly	Never	Never	Never	Never	Never
+Japanese (standard)	69	RAIN	(ame-ga) huru	73	1-nom V	Never	Never	Never	Never	Never	Never	Never
+Japanese (standard)	70	BE A HUNTER	no verbal counterpart	74	N/A	Never	Never	Never	Never	Never	Never	Never
+Japanese (standard)	71	GRIND	hiku	75	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	72	WIPE	hukitoru	76	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	73	DIG	horu	77	1-nom 2-acc V	Regularly	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	74	PUSH	osu	78	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	75	BRING	mot-te kuru	79	1-nom 2-loc 3-acc V	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Japanese (standard)	76	STEAL	nusumu	80	1-nom 2-abl 3-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	77	TEACH	osieru	81, 101	1-nom 2-dat 3-acc V	Regularly	Never	Regularly	Regularly	Regularly	Never	Regularly
+Japanese (standard)	78	HEAR	kiku	82	1-nom 2-acc V	Never	Never	Never	Never	Never	Never	Regularly
+Japanese (standard)	79	COOK	ryoori-suru	83	1-nom 2-acc V	Never	Never	Never	Never	Regularly	Never	Regularly
+Japanese (standard)	80	BOIL	waku	84	1-nom V	Never	Regularly	Never	Never	Never	Never	Never

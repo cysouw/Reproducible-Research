@@ -1,0 +1,368 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Icelandic	1	Constructed by native speaker linguist	Konan þakti vegginn með málningu.		kona-n þakti vegg-inn með málningu	woman-the.nom covered wall-the.acc with paint.dat	The woman covered the wall with paint.
+Icelandic	2	Constructed by native speaker linguist	Konan þekur málningunni á vegginn.		kona-n þekur málningu-nni á vegg-inn	woman-the.nom covers paint-the.dat on wall-the.acc	The woman smears the paint on the wall.
+Icelandic	3	Constructed by native speaker linguist	Konan breiddi teppið yfir drenginn.		kona-n breiddi teppi-ð yfir dreng-inn	woman-the.nom covered carpet-the.acc over boy-the.acc	The woman pulled the carpet over the boy. / The woman covered the boy with the carpet.
+Icelandic	4	Constructed by native speaker linguist	Drengurinn borðaði ávöxtinn.		drengur-inn borðaði ávöxt-inn	boy-the.nom ate fruit-the.acc	The boy ate the fruit.
+Icelandic	5	Constructed by native speaker linguist	Móðirin faðmaði drenginn.		móðir-in faðmaði dreng-inn	mother-the.nom hugged boy-the.acc	The mother hugged the boy.
+Icelandic	6	Constructed by native speaker linguist	Strákurinn horfði á stelpuna.		strákur-inn horfði á stelpu-na	boy-the.nom watched on girl-the.acc	The boy watched the girl.
+Icelandic	7	Constructed by native speaker linguist	Drengurinn leit á stúlkuna.		drengur-inn leit á stúlku-na	boy-the.nom looked at girl-the.acc	The boy looked at the girl.
+Icelandic	8	Constructed by native speaker linguist	Strákurinn sá björninn.		strákur-inn sá björn-inn	boy-the.nom saw bear-the.acc	The boy saw the bear.
+Icelandic	9	Constructed by native speaker linguist	Björninn fann lyktina af stráknum.		björn-inn fann lykt-ina af strák-num	bear-the.nom found smell-the.acc of boy-the.dat	The bear smelled the boy.
+Icelandic	10	Constructed by native speaker linguist	Maðurinn var hræddur við björninn.		maður-inn var hræddur við björn-inn	man-the.nom was scared.masc with bear-the.acc	The man was frightened of the bear.
+Icelandic	11	Constructed by native speaker linguist	Björninn hræddi manninn.		björn-inn hræddi mann-inn	bear-the.nom frightened man-the.acc	The bear frightened the man.
+Icelandic	12	Constructed by native speaker linguist	Stráknum líkaði nýja leikfangið sitt.		strák-num líkaði nýja leikfang-ið sitt	boy-the.dat liked.3sg new.nom toy-the.nom his.nom	The boy liked his new toy.
+Icelandic	13	Constructed by native speaker linguist	Stráknum líkaði við nýja leikfangið sitt.		strák-num líkaði við nýja leikfang-ið sitt	boy-the.dat liked with new.acc toy-the.acc his.acc	The boy liked his new toy.
+Icelandic	14	Constructed by native speaker linguist	Stelpan þekkti strákinn.		stelpa-n þekkti strák-inn	girl-the.nom knew boy-the.acc	The girl knew the boy.
+Icelandic	15	Constructed by native speaker linguist	Mennirnir leituðu að konunum.		mennir-nir leituðu að konum-num	men-the.nom searched for women.pl-the.dat	The men searched for the women.
+Icelandic	16	Constructed by native speaker linguist	Stelpan hugsaði um ömmu sína.		stelpa-n hugsaði um ömmu sína	girl-the.nom thought about grandmother.acc her.acc	The girl thought about her grandmother.
+Icelandic	17	Constructed by native speaker linguist	Mamman þvoði stráknum.		mamma-n þvoði strák-num	mother-the.nom washed boy-the.dat	The mother washed the boy.
+Icelandic	18	Constructed by native speaker linguist	Mamma þvoði strákinn.		mamma-n þvoði strák-inn	mother-the.nom washed boy-the.acc	The mother washed the boy.
+Icelandic	19	Constructed by native speaker linguist	Mamman klæddi dóttur sína í.		mamma-n klæddi dóttur sína í	mother-the.nom dressed daughter.acc her.acc in	The mother dressed her daughter.
+Icelandic	20	Constructed by native speaker linguist	Maðurinn rakaði skeggið á sér.		maður-inn rakaði skegg-ið á sér	man-the.nom shaved beard-the.acc on self.dat	The man shaved his beard.
+Icelandic	21	Constructed by native speaker linguist	Ég hjálpaði drengjunum.		ég hjálpaði drengju-num	I.nom helped boys-the.dat	I helped the boys.
+Icelandic	22	Constructed by native speaker linguist	Drengirnir eltu stelpurnar.		drengir-nir eltu stelpur-nar	boys-the.nom followed girls-the.acc	The boys followed the girls.
+Icelandic	23	Constructed by native speaker linguist	Drengirnir fylgdu stelpunum.		drengir-nir fylgdu stelpu-num	boys-the.nom followed girls-the.dat	The boys accompanied the girls.
+Icelandic	24	Constructed by native speaker linguist	Stelpunum fylgdi hávaði.		stelpu-num fylgdi hávaði	girls-the.dat accompanied noise.nom	The girls were accompanied by noise./ Some noise came with the girls.
+Icelandic	25	Constructed by native speaker linguist	Mennirnir hittu strákana.		mennir-nir hittu stráka-na	men-the.nom met boys-the.acc	The men met the boys.
+Icelandic	26	Constructed by native speaker linguist	Mennirnir og strákarnir hittust.		mennir-nir og strákar-nir hittu-st	men-the.nom and boys-the.nom met-refl/rcp	The men and the boys met.
+Icelandic	27	Constructed by native speaker linguist	Stelpan talaði við strákinn um hundinn sinn.		stelpa-n talaði við strák-inn um hund-inn sinn	girl-the.nom talked with boy-the.acc about dog-the.acc her.acc	The girl talked to the boy about her dog.
+Icelandic	28	Constructed by native speaker linguist	Strákurinn bað (foreldra sína) um pening.		strákur-inn bað foreldra sína um pening	boy-the.nom asked parents.acc his.acc about money.acc	The boy asked (his parents) for money.
+Icelandic	29	Constructed by native speaker linguist	Konan hrópaði á börnin.		kona-n hrópaði á börn-in	woman-the.nom shouted on children-the.acc	The woman shouted at the children.
+Icelandic	30	Constructed by native speaker linguist	Stelpan sagði stráknum skrítna sögu.		stelpa-n sagði strák-num skrítna sögu	girl-the.nom told boy-the.dat funny.acc story.acc	The girl told the boy a funny story.
+Icelandic	31	Constructed by native speaker linguist	Stelpan sagði "nei" við hann.		stelpa-n sagði nei við hann	girl-the.nom said no with him.acc	The girl said "no" to him."
+Icelandic	32	Constructed by native speaker linguist	Foreldrarnir kölluðu barnið Önnu.		foreldrar-nir kölluðu barn-ið Önnu	parents-the.nom called child-the.acc Anna.acc	The parents named the child Anna.
+Icelandic	33	Constructed by native speaker linguist	Foreldarnir nefndu barnið Önnu.		foreldar-nir nefndu barn-ið Önnu	parents-the.nom named child-the.acc Anna.acc	The parents named the child Anna.
+Icelandic	34	Constructed by native speaker linguist	Mennirnir byggðu hús úr tré.		mennir-nir byggðu hús úr tré	men-the.nom built house.acc out_of wood.dat	The men built a house from wood.
+Icelandic	35	Constructed by native speaker linguist	Strákurinn braut rúðuna með steini.		strákur-inn braut rúðu-na með steini	boy-the.nom broke glass-the.acc with stone.dat	The boy broke the window with a stone.
+Icelandic	36	Constructed by native speaker linguist	Rúðan brotnaði.		rúða-n brotnaði	glass-the.nom broke	The window broke.
+Icelandic	37	Constructed by native speaker linguist	Maðurinn drap óvin sinn með kylfu.		maður-inn drap óvin sinn með kylfu	man-the.nom killed enemy.acc his.acc with club.dat	The man killed his enemy with a club.
+Icelandic	38	Constructed by native speaker linguist	Maðurinn deyddi óvin sinn með kylfu.		maður-inn deyddi óvin sinn með kylfu	man-the.nom killed enemy.acc his.acc with club.dat	The man killed his enemy with a club.
+Icelandic	39	Constructed by native speaker linguist	Óvinurinn dó.		óvinur-inn dó	enemy-the.nom died	The enemy died.
+Icelandic	40	Constructed by native speaker linguist	Strákurinn lamdi snákinn með priki.		strákur-inn lamdi snák-inn með priki	boy-the.nom beat snake-the.acc with stick.dat	The boy beat the snake with a stick.
+Icelandic	41	Constructed by native speaker linguist	Strákurinn sló snákinn með priki.		strákur-inn sló snák-inn með priki	boy-the.nom hit snake-the.acc with stick.dat	The boy hit the snake with a stick.
+Icelandic	42	Constructed by native speaker linguist	Strákurinn snerti snákinn.		strákur-inn snerti snák-inn	boy-the.nom touched snake-the.acc	The boy touched the snake.
+Icelandic	43	Constructed by native speaker linguist	Konan sker brauðið með beittum hníf.		kona-n sker brauð-ið með beittum hníf	woman-the.nom cuts bread-the.acc with sharp.dat knife.dat	The woman cuts the bread with a sharp knife.
+Icelandic	44	Constructed by native speaker linguist	Hárgreiðslukonan klippti hárið á konunni.		hárgreiðslukona-n klippti hár-ið á konu-nni	hairdresser-the.nom cut hair-the.acc on woman-the.dat	The hairdresser cut the woman's hair.
+Icelandic	45	Constructed by native speaker linguist	Stelpan reif blaðsíðu úr bókinni.		stelpa-n reif blaðsíðu úr bók-inni	girl-the.nom tore page.acc out_of book-the.dat	The girl tore a page from the book.
+Icelandic	46	Constructed by native speaker linguist	Maðurinn tók peningana af vini sínum.		maður-inn tók peninga-na af vini sínum	man-the.nom took money-the.acc off friend.dat his.dat	The man took the money off his friend.
+Icelandic	47	Constructed by native speaker linguist	Hann tók við peningunum frá vini sínum.		hann tók við peningu-num frá vini sínum	he.nom took with money-the.dat from friend.dat his.dat	He took the money from his friend./ He accepted the money that his friend offered him.
+Icelandic	48	Constructed by native speaker linguist	Hann tók börkinn af prikinu.		hann tók börk-inn af prik-inu	he.nom took bark-the.acc off stick-the.dat	He peeled the bark off the stick.
+Icelandic	49	Constructed by native speaker linguist	Strákurinn faldi froskinn fyrir mömmu sinni.		strákur-inn faldi frosk-inn fyrir mömmu sinni	boy-the.nom hid frog-the.acc for mother.dat his.dat	The boy hid the frog from his mother.
+Icelandic	50	Constructed by native speaker linguist	Stelpan sýndi kennaranum myndir.		stelpa-n sýndi kennara-num myndir	girl-the.nom showed teacher-the.dat pictures.acc	The girl showed some pictures to the teacher.
+Icelandic	51	Constructed by native speaker linguist	Við gáfum börnunum bækurnar.		við gáfum börnu-num bækur-nar	we.nom gave children-the.dat books-the.acc	We gave the books to the children (as a gift).
+Icelandic	52	Constructed by native speaker linguist	Við réttum börnunum bækurnar.		við réttum börnu-num bækur-nar	we.nom handed children-the.dat books-the.acc	We handed the books to the children.
+Icelandic	53	Constructed by native speaker linguist	Við réttum bækurnar til barnanna.		við réttum bækur-nar til barna-nna	we.nom handed books-the.acc to children-the.gen	We offered the books to the children. / We handed the books over to the children.
+Icelandic	54	Constructed by native speaker linguist	Stelpan sendi blómin til ömmu sinnar.		stelpa-n sendi blóm-in til ömmu sinnar	girl-the.nom sent flowers-the.acc to grandmother.gen hers.gen	The girl sent the flowers to her grandmother.
+Icelandic	55	Constructed by native speaker linguist	Stelpan sendi ömmu sinni blómin.		stelpa-n sendi ömmu sinni blóm-in	girl-the.nom sent grandmother.dat her.dat flowers-the.acc	The girl sent her grandmother the flowers.
+Icelandic	56	Constructed by native speaker linguist	Maðurinn bar kassana á markaðinn.		maður-inn bar kassa-na á markað-inn	man-the.nom carried boxes-the.acc on market-the.acc	The man carried the boxes to the market.
+Icelandic	57	Constructed by native speaker linguist	Strákurinn kastaði boltanum inn um gluggann.		strákur-inn kastaði bolta-num inn um glugga-nn	boy-the.nom threw ball-the.dat in through window-the.acc	The boy threw the ball into the window.
+Icelandic	58	Constructed by native speaker linguist	Maðurinn batt hestinn með reipi við tréð.		maður-inn batt hest-inn með reipi við tré-ð	man-the.nom tied horse-the.acc with rope.dat with tree-the.acc	The man tied the horse with a rope to the tree.
+Icelandic	59	Constructed by native speaker linguist	Ég setti bollann á borðið.		ég setti bolla-nn á borð-ið	I.nom put cup-the.acc on table-the.acc	I put the cup on the table.
+Icelandic	60	Constructed by native speaker linguist	Maðurinn hellti vatni í glasið.		maður-inn hellti vatni í glas-ið	man-the.nom poured water.dat in glass-the.acc	The man poured water into the glass.
+Icelandic	61	Constructed by native speaker linguist	Hann hellti glasið fullt með vatni.		hann hellti glas-ið fullt með vatni	he.nom poured glass-the.acc full with water.dat	He filled the glass with water.
+Icelandic	62	Constructed by native speaker linguist	Stelpan fyllti glasið af vatni.		stelpa-n fyllti glas-ið af vatni	girl-the.nom filled glass-the.acc of water.dat	The girl filled the glass with water.
+Icelandic	63	Constructed by native speaker linguist	Bóndinn hlóð heyi á vörubílinn.		bónd-inn hlóð heyi á vörubíl-inn	farmer-the.nom loaded hay.dat on truck-the.acc	The farmer loaded hay onto the truck.
+Icelandic	64	Constructed by native speaker linguist	Bóndinn hlóð vörubílinn með heyi.		bónd-inn hlóð vörubíl-inn með heyi	farmer-the.nom loaded truck-the.acc with hay.dat	The farmer loaded the truck with hay.
+Icelandic	65	Constructed by native speaker linguist	Ég blikkaði augunum.		ég blikkaði augu-num	I.nom blinked eyes-the.dat	I blinked my eyes.
+Icelandic	66	Constructed by native speaker linguist	Ég blikkaði hana.		ég blikkaði hana	I.nom blinked her.acc	I winked at her.
+Icelandic	67	Constructed by native speaker linguist	Gamli maðurinn hóstaði.		gamli maður-inn hóstaði	old.nom man-the.nom coughed	The old man coughed.
+Icelandic	68	Constructed by native speaker linguist	Loksins hóstaði hann þessu upp úr sér.		loksins hóstaði hann þessu upp úr sér	finally coughed he.nom this.dat up out_of self.dat	Finally, he coughed it up."
+Icelandic	69	Constructed by native speaker linguist	Maðurinn klifraði (upp) tréð.		maður-inn klifraði upp tré-ð	man-the.nom climbed up tree-the.acc	The man climbed (up) the tree.
+Icelandic	70	Constructed by native speaker linguist	Hesturinn hleypur.		hestur-inn hleypur	horse-the.nom runs	The horse is running.
+Icelandic	71	Constructed by native speaker linguist	Börnin sátu á gólfinu.		börn-in sátu á gólf-inu	children-the.nom sat on floor-the.dat	The children sat on the floor.
+Icelandic	72	Constructed by native speaker linguist	Börnin settust á bekkinn.		börn-in settu-st á bekk-inn	children-the.nom sat-refl/rcp on bench-the.acc	The children sat down on the bench.
+Icelandic	73	Constructed by native speaker linguist	Stelpan hoppaði.		stelpa-n hoppaði	girl-the.nom jumped	The girl jumped.
+Icelandic	74	Constructed by native speaker linguist	Strákurinn söng (lag).		strákur-inn söng lag	boy-the.nom sang song.acc	The boy sang (a song).
+Icelandic	75	Constructed by native speaker linguist	Hann söng henni lítið ljóð.		hann söng henni lítið ljóð	he.nom sang her.dat litte.acc poem.acc	He sang her a little song.
+Icelandic	76	Constructed by native speaker linguist	Konan fór á markaðinn.		kona-n fór á markað-inn	woman-the.nom went on market-the.acc	The woman went to the market.
+Icelandic	77	Constructed by native speaker linguist	Strákurinn yfirgaf þorpið.		strákur-inn yfirgaf þorp-ið	boy-the.nom left village-the.acc	The boy left the village.
+Icelandic	78	Constructed by native speaker linguist	Gamla fólkið býr í bænum.		gamla fólk-ið býr í bænum	old.nom people-the.nom live in town	The old people live in town.
+Icelandic	79	Constructed by native speaker linguist	Litla stelpan hló.		litla stelpa-n hló	little.nom girl-the.nom laughed	The little girl laughed.
+Icelandic	80	Constructed by native speaker linguist	Bátinn rak.		bát-inn rak	boat-the.acc drifted	The boat drifted.
+Icelandic	81	Constructed by native speaker linguist	Mér er illt í hendinni.		mér er illt í hendi-nni	I.dat is.3sg ill.neut in hand-the.dat	I’m feeling pain in my arm.
+Icelandic	82	Constructed by native speaker linguist	Maðurinn öskraði.		maður-inn öskraði	man-the.nom screamed	The man screamed.
+Icelandic	83	Constructed by native speaker linguist	Okkur sækir syfja.		okkur sækir syfja	we.acc fetches sleepiness.nom	We feel sleepy.
+Icelandic	84	Constructed by native speaker linguist	Mig dreymdi ömmu.		mig dreymdi ömmu	me.acc dreamed grandmother.acc	I dreamed of grandma.
+Icelandic	85	Constructed by native speaker linguist	Mér er kalt.		mér er kalt	I.dat is.3sg cold.neu	I’m cold.
+Icelandic	86	Constructed by native speaker linguist	Snákurinn dó.		snákur-inn dó	snake-the.nom died	The snake died.
+Icelandic	87	Constructed by native speaker linguist	Barnið leikur sér.		barn-ið leikur sér	child-the.nom plays self.dat	The child is playing.
+Icelandic	88	Constructed by native speaker linguist	Litla stelpan var sorgmædd.		litla stelpa-n var sorgmædd	little.nom girl-the.nom was sad.fem	The little girl was sad.
+Icelandic	89	Constructed by native speaker linguist	Barnið er svangt.		barn-ið er svangt	baby-the.nom is hungry.neut	The baby is hungry.
+Icelandic	90	Constructed by native speaker linguist	Barnið hungrar.		barn-ið hungrar	child-the.acc hungers	The child is hungry.
+Icelandic	91	Constructed by native speaker linguist	Boltinn rúllar.		bolt-inn rúllar	ball-the.nom rolls	The ball is rolling.
+Icelandic	92	Constructed by native speaker linguist	Ég rúllaði vagninum niður brekkuna.		ég rúllaði vagni-num niður brekku-na	I.nom rolled wagon-the.dat down hill-the.acc	I rolled the wagon down the hill.
+Icelandic	93	Constructed by native speaker linguist	Báturinn sökk.		bátur-inn sökk	boat-the.nom sank	The boat sank.
+Icelandic	94	Constructed by native speaker linguist	Ég sökkti bátnum.		ég sökkti bát-num	I.nom sank boat-the.dat	I sank the boat.
+Icelandic	95	Constructed by native speaker linguist	Ég rak hann út.		ég rak hann út	I.nom drove him.acc out	I drove him out.
+Icelandic	96	Constructed by native speaker linguist	Húsið brennur.		húsi-ð brennur	house-the.nom burns	The house is burning.
+Icelandic	97	Constructed by native speaker linguist	Ég brenndi húsið.		ég brenndi húsi-ð	I.nom burned house-the.acc	I burned the house.
+Icelandic	98	Constructed by native speaker linguist	Jörðin er þurr.		jörð-in er þurr	ground-the.nom is dry.fem	The ground is dry.
+Icelandic	99	Constructed by native speaker linguist	Það rigndi.		það rigndi	it.nom rained	It rained.
+Icelandic	100	Constructed by native speaker linguist	Hann rigndi.		hann rigndi	he.nom rained	It rained.
+Icelandic	101	Constructed by native speaker linguist	Þjófurinn stal peningum frá gömlu konunni.		þjófur-inn stal peningum frá gömlu konu-nni	thief-the.nom stole money.dat from old.dat woman-the.dat	The thief stole money from the old lady.
+Icelandic	102	Constructed by native speaker linguist	Strákurinn heyrði í birninum.		strákur-inn heyrði í birni-num	boy-the.nom heard in bear-the.dat	The boy heard the bear.
+Icelandic	103	Constructed by native speaker linguist	Vatnið sýður.		vatn-ið sýður	water-the.nom boils	The water is boiling.
+Icelandic	104	Constructed by native speaker linguist	Ég sýð vatnið.		ég sýð vatn-ið	I.nom boil water-the.acc	I boil the water.
+Icelandic	105	Constructed by native speaker linguist	Hann er veikur.		hann er veikur	he.nom is sick.masc	He is sick.
+Icelandic	106	Constructed by native speaker linguist	Mér er óglatt.		mér er óglatt	I.dat is sick.neut	I feel sick.
+Icelandic	107	Constructed by native speaker linguist	Mér barst pakki (frá mömmu).		mér barst pakki frá mömmu	I.dat received package.nom from mother.dat	I got a package (from mom).
+Icelandic	108	Constructed by native speaker linguist	Maðurinn bað konunnar.		maður-inn bað konu-nnar	man-the.nom asked woman-the.gen	The man proposed to the woman.
+Icelandic	109	Constructed by native speaker linguist	Mig fýsir þess.		mig fýsir þess	me.acc urge that.gen	I'm eager for that.
+Icelandic	110	Constructed by native speaker linguist	Bátnum hvolfdi.		bát-num hvolfdi	boat-the.dat capsized	The boat capsized.
+Icelandic	111	Constructed by native speaker linguist	Ég hvolfdi bátnum.		ég hvolfdi bát-num	I.nom capsized boat-the.dat	I capsized the boat.
+Icelandic	112	Constructed by native speaker linguist	Honum skrikaði fótur.		honum skrikaði fótur	him.dat lost foot.nom	He stumbled.
+Icelandic	113	Constructed by native speaker linguist	Þess getur í gömlum bókum.		þess getur í gömlum bókum	it.gen mentions in old.dat books.dat	It says in old books. / It is mentioned in old books.
+Icelandic	114	Constructed by native speaker linguist	Hans varð vart í sveitinni.		hans varð vart í sveit-inni	he.gen became aware in province-the.dat	He made his presence known in the province.
+Icelandic	115	Constructed by native speaker linguist	Þess er þörf.		þess er þörf	it.gen is need.nom	It is needed.
+Icelandic	116	Constructed by native speaker linguist	Málningin þekur vel.		málning-in þekur vel	paint-the.nom covers well	The paint covers well. / The paint has good covering qualities.
+Icelandic	117	Constructed by native speaker linguist	Teppið þvæst vel.		teppi-ð þvæ-st vel	carpet-the.nom washes-refl/rcp easily	The carpet washes easily.
+Icelandic	118	Constructed by native speaker linguist	Barnið nefnist Anna.		barn-ið nefni-st Anna	child-the.nom calls-refl/rcp Anna.nom	The child is named Anna.
+Icelandic	119	Constructed by native speaker linguist	Barnið kallast Anna.		barn-ið kalla-st Anna	child-the.nom calls-refl/rcp Anna.nom	The child is called Anna.
+Icelandic	120	Constructed by native speaker linguist	Borgin byggist upp smám saman.		borg-in byggist upp smám saman	city-the.nom builds.refl/rcp up little_by little	The city is built up gradually. / The city arises gradually.
+Icelandic	121	Constructed by native speaker linguist	Óvinurinn drapst.		óvinur-inn drapst	enemy-the.nom killed.refl/rcp	The enemy died.
+Icelandic	122	Constructed by native speaker linguist	Strákarnir slógust.		strákar-nir slógu-st	boys-the.nom hit-refl/rcp	The boys fought.
+Icelandic	123	Constructed by native speaker linguist	Þau snertust.		þau snertu-st	they.nom touched-refl/rcp	They touched each other.
+Icelandic	124	Constructed by native speaker linguist	Brauðið skarst í tvennt.		brauð-ið skar-st í tvennt	bread-the.nom cut-refl/rcp in two	The bread cut into two pieces.
+Icelandic	125	Constructed by native speaker linguist	Blaðsíðan rifnaði úr bókinni.		blaðsíða-n rifnaði úr bók-inni	page-the.nom tore out_of book-the.dat	The page got torn from the book.
+Icelandic	126	Constructed by native speaker linguist	Pakkinn sendist aftur til sendanda.		pakk-inn sendi-st aftur til sendanda	package-the.nom send-refl/rcp again to sender.gen	The package should be sent back to sender.
+Icelandic	127	Constructed by native speaker linguist	Boltinn kastaðist til og frá.		bolt-inn kastaði-st til og frá	ball-the.nom threw-refl/rcp to and from	The ball bounced back and forth.
+Icelandic	128	Constructed by native speaker linguist	Þau bundust hvort öðru.		þau bundu-st hvort öðru	they.nom tied-refl/rcp each other.dat	They committed to each other.
+Icelandic	129	Constructed by native speaker linguist	Þau settust.		þau settu-st	they.nom sat-refl/rcp	They sat down. (lit. They sat themselves).
+Icelandic	130	Constructed by native speaker linguist	Mjólkin helltist niður.		mjólk-in hellti-st niður	milk-the.nom poured-refl/rcp down	The milk poured down.
+Icelandic	131	Constructed by native speaker linguist	Glasið fylltist.		glas-ið fyllti-st	glass-the.nom filled-refl/rcp	The glass got full.
+Icelandic	132	Constructed by native speaker linguist	Heyið hleðst upp.		hey-ið hleð-st upp	hay-the.nom loads-refl/rcp up	The hay piles up.
+Icelandic	133	Constructed by native speaker linguist	Slímið hóstaðist upp.		slím-ið hóstaði-st upp	mucus-the.nom coughed-refl/rcp up	The mucus got coughed up.
+Icelandic	134	Constructed by native speaker linguist	Teygjan rúllaðist upp.		teygja-n rúllaði-st upp	rubber_band-the.nom rolled-refl/rcp up	The rubber band rolled up.
+Icelandic	135	Constructed by native speaker linguist	Hún brenndist á puttunum.		hún brenndi-st á puttu-num	she.nom burned-refl/rcp on fingers-the.dat	She got her fingers burned. /lit. She burns herself on the finger.
+Icelandic	136	Constructed by native speaker linguist	Röddin heyrist mjög vel.		rödd-in heyri-st mjög vel	voice-the.nom hears-refl/rcp very well	The voice is easily heard.
+Icelandic	137	Constructed by native speaker linguist	Kartöflur sjóðast vel.		kartöflur sjóða-st vel	potatoes.nom boil-refl/rcp well	Potatoes boil well.
+Icelandic	138	Constructed by native speaker linguist	Sumir bátar hvolfast betur en aðrir.		sumir bátar hvolfa-st betur en aðrir	some.nom boats.nom capsize-refl/rcp better than others	Some boats turn upside down more easily than others. / Some boats get capsized better than others.
+Icelandic	139	Constructed by native speaker linguist	Veggurinn var þakinn.		veggur-inn var þakinn	wall-the.nom was covered	The wall was covered.
+Icelandic	140	Constructed by native speaker linguist	Teppið var breitt yfir manninn.		teppi-ð var breitt yfir mann-inn	blanket-the.nom was covered over man-the.acc	The blanket covered the man. / The man was covered by the blanket.
+Icelandic	141	Constructed by native speaker linguist	Ávöxturinn var borðaður.		ávöxtur-inn var borðaður	fruit-the.nom was eaten	The fruit was eaten.
+Icelandic	142	Constructed by native speaker linguist	Drengurinn var faðmaður.		drengur-inn var faðmaður	boy-the.nom was hugged	The boy was hugged.
+Icelandic	143	Constructed by native speaker linguist	Það var horft á stelpuna.		það var horft á stelpu-na	it was watched on girl-the.acc	The girl was being watched.
+Icelandic	144	Constructed by native speaker linguist	Það var litið á stelpuna.		það var litið á stelpu-na	it was looked at girl-the.acc	The girl was being looked at.
+Icelandic	145	Constructed by native speaker linguist	Björninn sást í skóginum.		björn-inn sá-st í skógi-num	bear-the.nom see-refl/rcp in woods-the.dat	The bear was seen in the woods.
+Icelandic	146	Constructed by native speaker linguist	Lyktin fannst af birninum.		lykt-in fann-st af birni-num	smell-the.nom felt-refl/rcp of bear-the.dat	One could feel the smell of the bear.
+Icelandic	147	Constructed by native speaker linguist	Maðurinn hræðist björninn.		maður-inn hræði-st björn-inn	man-the.nom fears-refl/rcp bear-the.acc	The man fears the bear.
+Icelandic	148	Constructed by native speaker linguist	Maðurinn var hræddur til þess að ...		maður-inn var hræddur til þess að	man-the.nom was scared.masc in_order it.gen to	The man was frightened (in order) to ...
+Icelandic	149	Constructed by native speaker linguist	Strákurinn þekkist á hárinu.		strákur-inn þekki-st á hár-inu	boy-the.nom know-refl/rcp on hair-the.dat	The boy is recognizable because of his hair.
+Icelandic	150	Constructed by native speaker linguist	Það var leitað að honum.		það var leitað að honum	it was looked for him.dat	He was looked for.
+Icelandic	151	Constructed by native speaker linguist	Ég leitaði hans lengi.		ég leitaði hans lengi	I.nom looked he.gen long	I looked for him for a long time.
+Icelandic	152	Constructed by native speaker linguist	Hans var leitað lengi.		hans var leitað lengi	he.gen was looked long	He was looked for for a long time.
+Icelandic	153	Constructed by native speaker linguist	Það var hugsað um fréttina.		það var hugsað um frétt-ina	it was thought about news-the.acc	People thought about this new news item.
+Icelandic	154	Constructed by native speaker linguist	Strákurinn var þveginn.		strákur-inn var þveginn	boy-the.nom was washed	The boy was (being) washed.
+Icelandic	155	Constructed by native speaker linguist	Hann klæddist alltaf fallegum fötum.		hann klæddi-st alltaf fallegum fötum	he.nom wore-refl/rcp always beautiful.dat clothes.dat	He always wore beautiful clothes. /lit. He dresses himself in beautiful clothes.
+Icelandic	156	Constructed by native speaker linguist	Hún var klædd í fallega kápu.		hún var klædd í fallega kápu	she.nom was dressed in beautiful.dat coat.dat	She was dressed in a beautiful coat.
+Icelandic	157	Constructed by native speaker linguist	Hann var rakaður.		hann var rakaður	he.nom was shaved	He was shaved.
+Icelandic	158	Constructed by native speaker linguist	Honum var hjálpað.		honum var hjálpað	him.dat was helped	He was helped.
+Icelandic	159	Constructed by native speaker linguist	Stelpurnar voru eltar.		stelpur-nar voru eltar	girls-the.nom were followed	The girls were followed.
+Icelandic	160	Constructed by native speaker linguist	Stelpunum var fylgt á leið.		stelpu-num var fylgt á leið	girls-the.dat was followed on way	The girls were taken part of the way.
+Icelandic	161	Constructed by native speaker linguist	Það var talað við strákinn.		það var talað við strák-inn	it was talked with boy-the.acc	The boy was talked with.
+Icelandic	162	Constructed by native speaker linguist	Það var beðið um bókina.		það var beðið um bók-ina	it was asked about book-the.acc	The book was asked for.
+Icelandic	163	Constructed by native speaker linguist	Foreldrarnir voru beðnir um bókina.		foreldrar-nir voru beðnir um bók-ina	parents-the.nom were asked about book-the.acc	The parents were asked for the book.
+Icelandic	164	Constructed by native speaker linguist	Það var hrópað á börnin.		það var hrópað á börn-in	it was shouted at children-the.acc	The children were shouted at.
+Icelandic	165	Constructed by native speaker linguist	Sagan var sögð aftur og aftur.		saga-n var sögð aftur og aftur	story-the.nom was said again and again	The story was told again and agian.
+Icelandic	166	Constructed by native speaker linguist	Honum var sögð sagan aftur og aftur.		honum var sögð saga-n aftur og aftur	him.dat was said story-the.nom again and again	He was told the story again and again.
+Icelandic	167	Constructed by native speaker linguist	Stúlkan var nefnd Anna.		stúlka-n var nefnd Anna	girl-the.nom was named Anna	The girl was named Anna.
+Icelandic	168	Constructed by native speaker linguist	Stúlkan var kölluð Anna.		stúlka-n var kölluð Anna	girl-the.nom was called Anna	The girl was called Anna.
+Icelandic	169	Constructed by native speaker linguist	Húsið var byggt.		hús-ið var byggt	house-the.nom was built	The house was built.
+Icelandic	170	Constructed by native speaker linguist	Rúðan var brotin.		rúða-n var brotin	glass-the.nom was broken	The window glass was broken.
+Icelandic	171	Constructed by native speaker linguist	Óvinurinn var drepinn.		óvinur-inn var drepinn	enemy-the.nom was killed	The enemy was killed.
+Icelandic	172	Constructed by native speaker linguist	Snákurinn var laminn.		snákur-inn var laminn	snake-the.nom was beaten	The snake was beaten.
+Icelandic	173	Constructed by native speaker linguist	Snákurinn var sleginn.		snákur-inn var sleginn	snake-the.nom was hit	The snake was hit.
+Icelandic	174	Constructed by native speaker linguist	Snákurinn var snertur.		snákur-inn var snertur	snake-the.nom was touched	The snake was touched.
+Icelandic	175	Constructed by native speaker linguist	Brauðið var skorið.		brauð-ið var skorið	bread-the.nom was cut	The bread was cut.
+Icelandic	176	Constructed by native speaker linguist	Puttinn á afa klipptist af.		putt-inn á afa klippti-st af	finger-the.nom on grandpa cut-refl/rcp off	Grandpa's finger got cut off.
+Icelandic	177	Constructed by native speaker linguist	Hárið var klippt.		hár-ið var klippt	hair-the.nom was cut	The hair was cut.
+Icelandic	178	Constructed by native speaker linguist	Blaðsíðan var rifin úr bókinni.		blaðsíða-n var rifin úr bóki-nni	page-the.nom was torn out_of book-the.dat	The page was torn out of the book.
+Icelandic	179	Constructed by native speaker linguist	Peningarnir voru teknir.		peningar-nir voru teknir	money-the.nom were taken	The money was taken.
+Icelandic	180	Constructed by native speaker linguist	Froskurinn var falinn.		froskur-inn var falinn	frog-the.nom was hidden	The frog was hidden.
+Icelandic	181	Constructed by native speaker linguist	Kennaranum voru sýndar myndir.		kennara-num voru sýndar myndir	teacher-the.dat were shown pictures.nom	The teacher was shown pictures.
+Icelandic	182	Constructed by native speaker linguist	Myndirnar voru sýndar.		myndir-nar voru sýndar	pictures-the.nom were shown	The pictures were shown.
+Icelandic	183	Constructed by native speaker linguist	Börnunum voru gefnar bækurnar.		börnu-num voru gefnar bækur-nar	children-the.dat were given books-the.nom	The children were given the books.
+Icelandic	184	Constructed by native speaker linguist	Bækurnar voru gefnar.		bækur-nar voru gefnar	books-the.nom were given	The books were given.
+Icelandic	185	Constructed by native speaker linguist	Börnunum voru réttar bækurnar.		börnu-num voru réttar bækur-nar	children-the.dat were handed books-the.nom	The children were given the books.
+Icelandic	186	Constructed by native speaker linguist	Bækurnar voru réttar Sveini.		bækur-nar voru réttar Svein-i	books-the.nom were handed Svein-dat	The books were handed to Sveinn.
+Icelandic	187	Constructed by native speaker linguist	Ömmu voru send blóm.		ömmu voru send blóm	grandmother.dat were sent flowers.nom	Grandma was sent flowers.
+Icelandic	188	Constructed by native speaker linguist	Blómin voru send til ömmu.		blóm-in voru send til ömmu	flowers-the.nom were sent to grandmother.gen	The flowers were sent to grandma.
+Icelandic	189	Constructed by native speaker linguist	Kassarnir voru bornir á markaðinn.		kassar-nir voru bornir á markað-inn	boxes-the.nom were carried on market-the.acc	The boxes were carried to the market.
+Icelandic	190	Constructed by native speaker linguist	Boltanum var kastað.		bolta-num var kastað	ball-the.dat was thrown	The ball was thrown.
+Icelandic	191	Constructed by native speaker linguist	Hesturinn var bundinn með reipi.		hestur-inn var bundinn með reipi	horse-the.nom was tied with rope.dat	The horse was tied with a rope.
+Icelandic	192	Constructed by native speaker linguist	Bollinn var settur á borðið.		boll-inn var settur á borð-ið	cup-the.nom was put on table-the.acc	The cup was put on the table.
+Icelandic	193	Constructed by native speaker linguist	Mjólkinni var hellt niður.		mjólk-inni var hellt niður	milk-the.dat was poured down	The milk was poured down.
+Icelandic	194	Constructed by native speaker linguist	Glasið var fyllt með vatni.		glas-ið var fyllt með vatni	glass-the.nom was filled with water.dat	The glass was filled with water.
+Icelandic	195	Constructed by native speaker linguist	Vörubíllin var hlaðinn heyi.		vörubíll-in var hlaðinn heyi	truck-the.nom was loaded hay.dat	The truck was loaded with hay.
+Icelandic	196	Constructed by native speaker linguist	Augunum var blikkað.		augu-num var blikkað	eyes-the.dat was blinked	The eyes were blinked.
+Icelandic	197	Constructed by native speaker linguist	Stelpan var blikkuð.		stelpa-n var blikkuð	girl-the.nom was blinked	The girl was winked at.
+Icelandic	198	Constructed by native speaker linguist	Slíminu var hóstað upp.		slím-inu var hóstað upp	mucus-the.dat was coughed up	The mucus was coughed up.
+Icelandic	199	Constructed by native speaker linguist	Það var klifrað upp tréð.		það var klifrað upp tré-ð	it was climbed up tree-the.acc	The tree was climbed.
+Icelandic	200	Constructed by native speaker linguist	Það var hlaupið.		það var hlaupið	it was ran	They did some running. / They ran.
+Icelandic	201	Constructed by native speaker linguist	Það var setið lengi.		það var setið lengi	it was sat long	They sat for a long time.
+Icelandic	202	Constructed by native speaker linguist	Það var hoppað.		það var hoppað	it was jumped	They jumped. / Some jumping took place.
+Icelandic	203	Constructed by native speaker linguist	Henni var sunginn lítill sálmur.		henni var sunginn lítill sálmur	her.dat was sung little.nom psalm.nom	She was sung a little psalm.
+Icelandic	204	Constructed by native speaker linguist	Ljóðið var sungið.		ljóð-ið var sungið	poem-the.nom was sung	The song was sung.
+Icelandic	205	Constructed by native speaker linguist	Það var farið á markaðinn.		það var farið á markað-inn	it was gone on market-the.acc	They went to the market. / The next step was going to the market.
+Icelandic	206	Constructed by native speaker linguist	Þorpið var yfirgefið.		þorp-ið var yfirgefið	village-the.nom was abandoned	The village was abandoned.
+Icelandic	207	Constructed by native speaker linguist	Það var búið í bænum.		það var búið í bæ-num	it was lived in town-the.dat	The town was lived in.
+Icelandic	208	Constructed by native speaker linguist	Það var hlegið.		það var hlegið	it was laughed	They laughed.
+Icelandic	209	Constructed by native speaker linguist	Hann var rekinn út.		hann var rekinn út	he.nom was driven out	He was driven out.
+Icelandic	210	Constructed by native speaker linguist	Það var öskrað.		það var öskrað	it was screamed	They screamed. / Some screaming took place.
+Icelandic	211	Constructed by native speaker linguist	Það var dáið í partýinu.		það var dáið í partý-inu	it was died in party-the.dat	Some people fell asleep at the party (because of extensive alchohol use).
+Icelandic	212	Constructed by native speaker linguist	Það var leikið sér í garðinum.		það var leikið sér í garði-num	it was played self.dat in garden-the.dat	They played in the garden.
+Icelandic	213	Constructed by native speaker linguist	Boltanum var rúllað.		bolta-num var rúllað	ball-the.dat was rolled	The ball was rolled.
+Icelandic	214	Constructed by native speaker linguist	Bátnum var sökkt.		bát-num var sökkt	boat-the.dat was sunk	The boat was sunk.
+Icelandic	215	Constructed by native speaker linguist	Húsið brann.		hús-ið brann	house-the.nom burned_down	The house burned down.
+Icelandic	216	Constructed by native speaker linguist	Húsið var brennt.		hús-ið var brennt	house-the.nom was burned	The house was burned down.
+Icelandic	217	Constructed by native speaker linguist	Peningunum var stolið.		peningu-num var stolið	money-the.dat was stolen	The money was stolen.
+Icelandic	218	Constructed by native speaker linguist	Reglulega er heyrt í öðrum greinendum ...		reglulega er heyrt í öðrum greinendum	regularly is heard in other.dat analysers.dat	We are regularly contacted by other analysers ...
+Icelandic	219	Constructed by native speaker linguist	Vatnið var soðið lengi.		vatn-ið var soðið lengi	water-the.nom was boiled long	The water was boiled for a long time.
+Icelandic	220	Constructed by native speaker linguist	Aðdáendabréf hafði borist mér from ...		aðdáendabréf hafði borist mér frá	fan_letter.nom had received I.dat from	A fan letter had come to me from ...
+Icelandic	221	Constructed by native speaker linguist	Konunnar var beðið.		konu-nnar var beðið	woman-the.gen was asked	The woman was proposed to.
+Icelandic	222	Constructed by native speaker linguist	Bátnum var hvolft.		bát-num var hvolft	boat-the.dat was capsized	The boat was capsized.
+Icelandic	223	Constructed by native speaker linguist	Þess var getið í gömlum bókum.		þess var getið í gömlum bókum	it.gen was mentioned in old.dat books.dat	It was mentioned in old books.
+Icelandic	224	Constructed by native speaker linguist	Ég gat þess í bréfinu.		ég gat þess í bréf-inu	I.nom mentioned it.gen in letter-the.dat	I mentioned it in the letter.
+Icelandic	225	Constructed by native speaker linguist	Það var borið kassana.		það var borið kassa-na	it was carried boxes-the.acc	The boxes were carried.
+Icelandic	226	Constructed by native speaker linguist	Það var bundið hestinn með reipi.		það var bundið hest-inn með reipi	it was tied horse-the.acc with rope.dat	The horse was tied with rope.
+Icelandic	227	Constructed by native speaker linguist	Það var blikkað stelpuna.		það var blikkað stelpu-na	it was blinked girl-the.acc	The girl was winked at.
+Icelandic	228	Constructed by native speaker linguist	Það var borðað matinn.		það var borðað mat-inn	it was eaten food-the.acc	The food was eaten.
+Icelandic	229	Constructed by native speaker linguist	Það var breitt teppið yfir hann.		það var breitt teppi-ð yfir hann	it was pulled blanket-the.acc over him.acc	The blanked was pulled over him.
+Icelandic	230	Constructed by native speaker linguist	Það var brennt húsið.		það var brennt hús-ið	it was burned house-the.acc	The house was burned down.
+Icelandic	231	Constructed by native speaker linguist	Það var brotið rúðuna.		það var brotið rúðu-na	it was broken glass-the.acc	The glass was broken.
+Icelandic	232	Constructed by native speaker linguist	Það var byggt skýli í garðinum.		það var byggt skýli í garði-num	it was built shelter.acc in garden-the.dat	They built a shelter in the garden.
+Icelandic	233	Constructed by native speaker linguist	Það var drepið mann í gær.		það var drepið mann í gær	it was killed man.acc in yesterday	A man was killled yesterday.
+Icelandic	234	Constructed by native speaker linguist	Það var elt stelpu út um allan garð.		það var elt stelpu út um allan garð	it was chased girl.acc out about all.acc garden.acc	A girl was chased all around the garden.
+Icelandic	235	Constructed by native speaker linguist	Það var faðmað drenginn.		það var faðmað dreng-inn	it was hugged boy-the.acc	The boy was hugged.
+Icelandic	236	Constructed by native speaker linguist	Það var falið froskinn.		það var falið frosk-inn	it was hidden frog-the.acc	The frog was hidden.
+Icelandic	237	Constructed by native speaker linguist	Það var fyllt glasið með vatni.		það var fyllt glas-ið með vatni	it was filled glass-the.acc with water.dat	The glass was filled with water.
+Icelandic	238	Constructed by native speaker linguist	Það var gefið allan matinn í gær.		það var gefið allan mat-inn í gær	it was given all.acc food-the.acc in yesterday	All the food was given away yesterday.
+Icelandic	239	Constructed by native speaker linguist	Það var hlaðið öllu heyinu í gær.		það var hlaðið öllu hey-inu í gær	it was loaded all.dat hay-the.dat in yesterday	All the hay was loaded up yesterday.
+Icelandic	240	Constructed by native speaker linguist	Það var hrætt manninn til að ...		það var hrætt mann-inn til að	it was scared man-the.acc to that	The man was scared into ...
+Icelandic	241	Constructed by native speaker linguist	Það var kallað hana Önnu.		það var kallað hana Önnu	it was called her.acc Anna.acc	She was called Anna.
+Icelandic	242	Constructed by native speaker linguist	Það var klætt hana í úlpu og skó.		það var klætt hana í úlpu og skó	it was dressed her.acc in jacket.acc and shoes.acc	She was dressed in jacket and shoes.
+Icelandic	243	Constructed by native speaker linguist	Það var klippt mig í gær.		það var klippt mig í gær	it was cut me.acc in yesterday	My hair was cut yesterday.
+Icelandic	244	Constructed by native speaker linguist	Þeim gaf góðan byr.		þeim gaf góð-an byr	them.dat gave good-acc wind.acc	They received good wind.
+Icelandic	245	Constructed by native speaker linguist	Það var lamið hann í gær.		það var lamið hann í gær	it was beaten him.acc in yesterday	He was beaten yesterday.
+Icelandic	246	Constructed by native speaker linguist	Það var nefnt þetta við mig.		það var nefnt þetta við mig	it was named this.acc with me.acc	This was mentioned to me.
+Icelandic	247	Constructed by native speaker linguist	Það var rakað hann í gær.		það var rakað hann í gær	it was shaved him.acc in yesterday	He was shaved yesterday.
+Icelandic	248	Constructed by native speaker linguist	Það var rekið hann út í gær.		það var rekið hann út í gær	it was driven him.acc out in yesterday	He was thrown out yesterday.
+Icelandic	249	Constructed by native speaker linguist	Það var rétt þeim þetta í gær.		það var rétt þeim þetta í gær	it was handed them.dat this.acc in yesterday	They were handed this yesterday.
+Icelandic	250	Constructed by native speaker linguist	Það var rifið blaðsíðuna út úr bókinni í gær.		það var rifið blaðsíðu-na út úr bók-inni í gær	it was torn page-the.acc out of book-the.dat in yesterday	The page was torn out of the book yesterday.
+Icelandic	251	Constructed by native speaker linguist	Það var sagt honum í gær að ...		það var sagt honum í gær að	it was said him.dat in yesterday that	Yesterday he was told that ...
+Icelandic	252	Constructed by native speaker linguist	Það var sent hana í gær.		það var sent hana í gær	it was sent her.acc in yesterday	She was sent yesterday.
+Icelandic	253	Constructed by native speaker linguist	Það var sett hana af stað í gær.		það var sett hana af stað í gær	it was put her.acc off labor in yesterday	Her labor was started yesterday.
+Icelandic	254	Constructed by native speaker linguist	Það var soðið hangikjötið í gær.		það var soðið hangikjöt-ið í gær	it was boiled smoked_meat-the.acc in yesterday	The smoked meat was boiled yesterday.
+Icelandic	255	Constructed by native speaker linguist	Það var skorið á naflastrenginn í gær.		það var skorið á naflastreng-inn í gær	it was cut on umbilical_cord-the.acc in yesterday	The umbilical cord was cut yesterday.
+Icelandic	256	Constructed by native speaker linguist	Það var slegið strákinn í gær.		það var slegið strák-inn í gær	it was hit boy-the.acc in yesterday	The boy was hit yesterday.
+Icelandic	257	Constructed by native speaker linguist	Það var óvert snert hana í gær.		það var óvert snert hana í gær	it was unintentionally touched her.acc in yesterday	She was unintentionally touched yesteday.
+Icelandic	258	Constructed by native speaker linguist	Það var sýnt henni sönunnargögnin í gær.		það var sýnt henni sönunnargögn-in í gær	it was shown her.dat evidence-the.acc in yesterday	She was shown the evidence yesterday.
+Icelandic	259	Constructed by native speaker linguist	Það var sungið þjóðsönginn í gær.		það var sungið þjóðsöng-inn í gær	it was sung national_anthem-the.acc in yesterday	The national anthem was sung yesterday.
+Icelandic	260	Constructed by native speaker linguist	Það var tekið niður jólastjörnuna í gær.		það var tekið niður jólastjörnu-na í gær	it was taken down christmas_star-the.acc in yesterday	The christmas star was taken down yesterday.
+Icelandic	261	Constructed by native speaker linguist	Það var yfirgefið svæðið í gær.		það var yfirgefið svæð-ið í gær	it was abandoned area-the.acc in yesterday	The area was abandoned yesterday.
+Icelandic	262	Constructed by native speaker linguist	Það var þakið garðinn með blómum.		það var þakið garð-inn með blómum	it was covered garden-the.acc with flowers.dat	The garden was covered with flowers.
+Icelandic	263	Constructed by native speaker linguist	Það var þvegið honum í gær.		það var þvegið honum í gær	it was washed him.dat in yesterday	He was washed yesterday.
+Icelandic	264	Constructed by native speaker linguist	Það var beðið hennar með pompi og prakt í gær.		það var beðið hennar með pompi og prakt í gær	it was proposed her.gen with pomp.dat and circumstance.dat in yesterday	She was proposed to with pomp and circumstance yesterday.
+Icelandic	265	Constructed by native speaker linguist	Ekki var getið þess í auglýsingunni að ...		ekki var getið þess í auglýsingu-nni að	not was mentioned it.gen in ad-the.dat that	It wasn't mentioned in the ad that ...
+Icelandic	266	Constructed by native speaker linguist	Það var leitað hans stíft og allir héldu í vonina.		það var leitað hans stíft og allir héldu í von-ina	it was searched he.gen without_a_break and everybody.nom held in hope-the.acc	He was searched for without a break and everybody clinged to the hope.
+Icelandic	267	Constructed by native speaker linguist	Það var fylgt stelpunum á leið.		það var fylgt stelpu-num á leið	it was followed girls-the.dat on way	The girls were taken a part of the way.
+Icelandic	268	Constructed by native speaker linguist	... þegar var hellt vatninu yfir hausinn á henni.		þegar var hellt vatn-inu yfir haus-inn á henni	when was poured water-the.dat over head-the.acc on her.dat	... when water was poured over her head.
+Icelandic	269	Constructed by native speaker linguist	Það var hjálpað henni að taka til.		það var hjálpað henni að taka til	it was helped her.dat to tidy up	She was helped tidying up.
+Icelandic	270	Constructed by native speaker linguist	Það var hóstað upp blóðinu og ...		það var hóstað upp blóð-inu og	it was coughed up blood-the.dat and	The blood was coughed up and ...
+Icelandic	271	Constructed by native speaker linguist	Það var hvolft bátnum á eyrinni.		það var hvolft bát-num á eyri-nni	it was capsized boat-the.dat on sandbank-the.dat	The baot was capsized on the sandbank.
+Icelandic	272	Constructed by native speaker linguist	Það var sökkt líkinu úti á rúmsjó.		það var sökkt lík-inu úti á rúmsjó	it was sunk corpse-the.dat out on open_sea	The corpse was sunk out on the open sea.
+Icelandic	273	Constructed by native speaker linguist	Það var stolið peningunum hans bróður míns.		það var stolið peningu-num hans bróður míns	it was stolen money-the.dat he.gen brother.gen mine	My brother's money got stolen.
+Icelandic	274	Constructed by native speaker linguist	Það sást til hans í skóginum.		það sá-st til hans í skógi-num	it see-refl/rcp to he.gen in woods-the.dat	He was seen in the woods.
+Icelandic	275	Constructed by native speaker linguist	Það fannst lykt af birninum.		það fann-st lykt af birni-num	it found-refl/rcp smell of bear-the.dat	They could smell the bear.
+Icelandic	276	Constructed by native speaker linguist	Það heyrðist í honum í skóginum.		það heyrði-st í honum í skógi-num	it heard-refl/rcp in him.dat in woods-the.dat	He was heard in the woods.
+Icelandic	277	Constructed by native speaker linguist	Veginn sá óglöggt.		veg-inn sá óglöggt	road-the.acc saw badly	The road was difficult to see.
+Icelandic	278	Constructed by native speaker linguist	Bílinn bar hratt yfir.		bíl-inn bar hratt yfir	car-the.acc carried fast over	The car went by quickly.
+Icelandic	279	Constructed by native speaker linguist	Bátinn braut í spón.		bát-inn braut í spón	boat-the.acc broke in pieces	The boat was smashed to pieces.
+Icelandic	280	Constructed by native speaker linguist	Veggina drepur.		vegg-ina drepur	walls-the.acc kills	The walls leak.
+Icelandic	281	Constructed by native speaker linguist	Bátinn fyllti.		bát-inn fyllti	boat-the.acc filled	The boat got swamped.
+Icelandic	282	Constructed by native speaker linguist	Seglin rífur.		segl-in rífur	sails-the.acc tear	The sails bursted.
+Icelandic	283	Constructed by native speaker linguist	Manninn tók út.		mann-inn tók út	man-the.acc took out	The man was seized by the sea. / The sea seized the man.
+Icelandic	284	Constructed by native speaker linguist	Honum ber heiðurinn.		honum ber heiður-inn	him.dat carries honor-the.nom	He deserves the credit.
+Icelandic	285	Constructed by native speaker linguist	Honum býr þetta í brjósti.		honum býr þetta í brjósti	him.dat live this.nom in breast.dat	He has this on his mind.
+Icelandic	286	Constructed by native speaker linguist	Þetta býr honum í brjósti.		þetta býr honum í brjósti	this.nom live him.dat in breast.dat	This is on his mind.
+Icelandic	287	Constructed by native speaker linguist	Honum brennur eitthvað fyrir brjósti.		honum brennur eitthvað fyrir brjósti	him.dat burns something.nom for breast.dat	He has something on his mind.
+Icelandic	288	Constructed by native speaker linguist	Það brennur honum fyrir brjósti.		það brennur honum fyrir brjósti	it.nom burns him.dat for breast.dat	It burdens him.
+Icelandic	289	Constructed by native speaker linguist	Þeim hljóp kapp í kinn.		þeim hljóp kapp í kinn	them.dat ran eagerness.nom in cheek	They got overexcited.
+Icelandic	290	Constructed by native speaker linguist	Honum hló hugur í brjósti.		honum hló hugur í brjósti	him.dat laughed interest.nom in breast.dat	His heart was gladdened.
+Icelandic	291	Constructed by native speaker linguist	Honum kastaði fyrir brjóst.		honum kastaði fyrir brjóst	him.dat threw for breast	He felt nauseous.
+Icelandic	292	Constructed by native speaker linguist	Honum leikur allt í lyndi.		honum leikur allt í lyndi	him.dat plays everything in harmony	Everything goes well for him.
+Icelandic	293	Constructed by native speaker linguist	Spurningunum rigndi yfir hann.		spurningu-num rigndi yfir hann	questions-the.dat rained over him.acc	He was showered with questions.
+Icelandic	294	Constructed by native speaker linguist	Mér segir svo hugur um að ...		mér segir svo hugur um að	I.dat says so mind.nom about that	I have the intuition that ...
+Icelandic	295	Constructed by native speaker linguist	Eldingu sló niður í húsið.		eldingu sló niður í hús-ið	lightning.dat hit down in house-the.acc	A lightning struck the house.
+Icelandic	296	Constructed by native speaker linguist	Skipi tekur vel.		skipi tekur vel	ship.dat takes well	The ship can make good use of the wind.
+Icelandic	297	Constructed by native speaker linguist	Snjónum hleður niður.		snjó-num hleður niður	snow-the.dat loads down	The snow is piling up.
+Icelandic	298	Constructed by native speaker linguist	Ég hugsaði það.		ég hugsaði það	I.nom thought it.acc	I thought that thought.
+Icelandic	299	Constructed by native speaker linguist	Þetta var hugsað þannig að ...		þetta var hugsað þannig að	this.nom was thought such that	This was thought of in such a way that ...
+Icelandic	300	Constructed by native speaker linguist	Hún var klædd fallegri kápu.		hún var klædd fallegri kápu	she.nom was dressed beautiful.dat coat.dat	She was dressed in a beautiful coat.
+Icelandic	301	Constructed by native speaker linguist	Svo var hitt hana Maríu mína og ...		svo var hitt hana Maríu mína og	then was met her.acc Maria.acc mine.acc and	Then I met with my Maria and ...
+Icelandic	302	Constructed by native speaker linguist	Þeir sáust.		þeir sáu-st	they.nom saw-refl/rcp	They saw each other.
+Icelandic	303	Constructed by native speaker linguist	Þeir föðmuðust.		þeir föðmuðu-st	they.nom hugged-refl/rcp	They hugged each other.
+Icelandic	304	Constructed by native speaker linguist	Þær horfðust í augu.		þær horfðu-st í augu	they.nom watched-refl/rcp in eyes.acc	They looked each other in the eyes.
+Icelandic	305	Constructed by native speaker linguist	Þær þekkjast.		þær þekkja-st	they.nom know-refl/rcp	They know each other.
+Icelandic	306	Constructed by native speaker linguist	Þeir hjálpuðust að.		þeir hjálpuðu-st að	they.nom helped-refl/rcp at	They helped each other.
+Icelandic	307	Constructed by native speaker linguist	Þeir fylgdust að áleiðis.		þeir fylgdu-st að áleiðis	they.nom followed-refl/rcp at on_way	They kept each other company a part of the way. / They walked together a part of the way.
+Icelandic	308	Constructed by native speaker linguist	Þeir töluðust ekki við.		þeir töluðu-st ekki við	they.nom spoke-refl/rcp not with	They didn't talk to each other. / They were not on speaking terms with each other.
+Icelandic	309	Constructed by native speaker linguist	Ég talaði hann til.		ég talaði hann til	I.nom talked him.acc to	I persuaded him.
+Icelandic	310	Constructed by native speaker linguist	Þeir hrópast á.		þeir hrópa-st á	they.nom shout-refl/rcp on	They shout to each other.
+Icelandic	311	Constructed by native speaker linguist	Ég hrópaði hann út.		ég hrópaði hann út	I.nom shouted him.acc out	I slandered him.
+Icelandic	312	Constructed by native speaker linguist	Hann sagðist ekki vilja ...		hann sagði-st ekki vilja	he.nom said-refl/rcp not want	He said that he didn't want ...
+Icelandic	313	Constructed by native speaker linguist	Þeir kölluðust á.		þeir kölluðu-st á	they.nom shouted-refl/rcp on	They shouted at each other.
+Icelandic	314	Constructed by native speaker linguist	Hann braust inn í húsið.		hann brau-st inn í hús-ið	he.nom broke-refl/rcp in in house-the.acc	He broke his way into the house. / He broke into the house.
+Icelandic	315	Constructed by linguist	Hann drapst.		hann drap-st	he.nom killed-refl/rcp	He died.
+Icelandic	316	Constructed by native speaker linguist	Glugginn lamdist til og frá í vindinum.		glugg-inn lamdi-st til og frá í vindi-num	window-the.nom beat-refl/rcp to and from in wind-the.dat	The window was banging back and forth in the wind.
+Icelandic	317	Constructed by native speaker linguist	Glugginn slóst til og frá í vindinum.		glugg-inn sló-st til og frá í vindi-num	window-the.nom beat-refl/rcp to and from in wind-the.dat	The window was banging back and forth in the wind.
+Icelandic	318	Constructed by native speaker linguist	Þeir rifust.		þeir rifu-st	they.nom tore-refl/rcp	They argued with each other.
+Icelandic	319	Constructed by native speaker linguist	Hann tók þessu vel.		hann tók þessu vel	he.nom took this.dat well	He took it well.
+Icelandic	320	Constructed by native speaker linguist	Ég bað um þetta.		ég bað um þetta	I.nom asked for this.acc	I asked for this.
+Icelandic	321	Constructed by native speaker linguist	Hann stal af peningum.		hann stal af peningum	he.nom stole of money.dat	He stole parts of the money.
+Icelandic	322	Constructed by native speaker linguist	Hann brenndi af spýtunum.		hann brenndi af spýtu-num	he.nom burned of sticks-the.dat	He burned some of the sticks.
+Icelandic	323	Constructed by native speaker linguist	Þeir lékust á.		þeir léku-st á	they.nom played-refl/rcp on.part	They played with each other.
+Icelandic	324	Constructed by native speaker linguist	Þeir öskruðust á.		þeir öskruðu-st á	they.nom screamed-refl/rcp on	They screamed at each other.
+Icelandic	325	Constructed by native speaker linguist	Þeir rákust á.		þeir ráku-st á	they.nom bumped-refl/rcp on	They bumped into each other.
+Icelandic	326	Constructed by native speaker linguist	Það var sest á bekkinn.		það var se-st á bekk-inn	it was sat-refl/rcp on bench-the.acc	They sat down on the bank.
+Icelandic	327	Constructed by native speaker linguist	Hann hljópst undan ábyrgðinni.		hann hljóp-st undan ábyrgð-inni	he.nom ran-refl/rcp from responsibility-the.dat	He ran away from the responsibility.
+Icelandic	328	Constructed by native speaker linguist	Það var hlaupist undan ábyrgðinni.		það var hlaupi-st undan ábyrgð-inni	it was ran-refl/rcp from responsibility-the.dat	They ran away from the responsibility.
+Icelandic	329	Constructed by native speaker linguist	Ég kastaði boltanum til hans.		ég kastaði bolta-num til hans	I.nom threw ball-the.dat to he.gen	I threw the ball to him.
+Icelandic	330	Constructed by native speaker linguist	Strákurinn söng.		strákur-inn söng	boy-the.nom sang	The boy sang.
+Icelandic	331	Constructed by native speaker linguist	Stelpan hló að brandaranum.		stelpa-n hló að brandara-num	girl-the.nom laughed at joke-the.dat	The girl laughed at the joke.
+Icelandic	332	Constructed by native speaker linguist	Maðurinn öskraði á konuna.		maður-inn öskraði á konu-na	man-the.nom yell at woman-the.acc	The man yelled at the woman.
+Icelandic	333	Constructed by native speaker linguist	Boltinn rúllar niður brekkuna.		bolti-nn rúllar niður brekku-na	ball-the.nom rolls down hill-the.acc	The ball rolls down the hill.
+Icelandic	334	Constructed by native speaker linguist	Maðurinn er veiðimaður.		maður-inn er veiðimaður	man-the.nom is hunter.nom	The man is a hunter.
+Icelandic	335	Constructed by native speaker linguist	Konan malar kornið með áhaldi.		kona-n malar korn-ið með áhaldi	woman-the.nom grinds corn-the.acc with tool.dat	The woman grinds the corn with a tool.
+Icelandic	336	Constructed by native speaker linguist	Konan eldar kjúkling.		kona-n eldar kjúkling	woman-the.nom cooks chicken	The woman cooks chicken.
+Icelandic	337	Constructed by native speaker linguist	Kjúklingurinn var eldaður.		kjúklingur-inn var eldaður	chicken-the.nom was cooked	The chicken was cooked.
+Icelandic	338	Constructed by native speaker linguist	Gamla konan kenndi stelpunni söng.		gamla kona-n kenndi stelpu-nni söng	old.nom woman-the.nom taught girl-the.dat song.acc	The old woman taught the girl a song.
+Icelandic	339	Constructed by native speaker linguist	Stelpunni var kenndur söngur.		stelpu-nni var kenndur söngur	girl-the.dat was taught song.nom	The girl was taught a song.
+Icelandic	340	Constructed by native speaker linguist	Söngurinn var kenndur.		söngur-inn var kenndur	song-the.nom was taught	The song was taught.
+Icelandic	341	Constructed by native speaker linguist	Konan þurrkaði skítinn af borðinu.		kona-n þurrkaði skít-inn af borð-inu	woman-the.nom wiped dirt-the.acc off table-the.dat	The woman wiped the dirt off the table.
+Icelandic	342	Constructed by native speaker linguist	Skíturinn var þurrkaður af borðinu.		skítur-inn var þurrkaður af borð-inu	dirt-the.nom was wiped off table-the.dat	The dirt was wiped off the table.
+Icelandic	343	Constructed by native speaker linguist	Stúlkan færði mér blóm.		stúlka-n færði mér blóm	girl-the.nom brought I.dat flowers.acc	The girl brought me flowers.
+Icelandic	344	Constructed by native speaker linguist	Mér voru færð blóm.		mér voru færð blóm	I.dat were brought flowers.nom	I was brought some flowers.
+Icelandic	345	Constructed by native speaker linguist	Strákurinn ýtti stelpunni út í vatnið.		strákur-inn ýtti stelpu-nni út í vatn-ið	boy-the.nom pushed girl-the.dat out in water-the.acc	The boy pushed the girl into the water.
+Icelandic	346	Constructed by native speaker linguist	Stelpunni var ýtt út í vatnið.		stelpu-nni var ýtt út í vatn-ið	girl-the.dat was pushed out in water-the.acc	The girl was pushed into the water.
+Icelandic	347	Constructed by native speaker linguist	Konan grefur eftir kartöflum.		kona-n grefur eftir kartöflum	woman-the.nom digs after potatoes.dat	The woman digs for potatoes.
+Icelandic	348	Constructed by native speaker linguist	Það var grafið eftir kartöflum.		það var grafið eftir kartöflum	it was dug after potatoes.dat	The potatoes were dug for.
+Icelandic	349	Constructed by native speaker linguist	Þau slógu sér niður í bænum.		þau slógu sér niður í bæ-num	they.nom settled self.dat down in town-the.dat	They settled in the town.
+Icelandic	350	Constructed by native speaker linguist	Því fór fjarri að ...		því fór fjarri að	it.dat left distant that	It was far from the truth that ...
+Icelandic	351	Constructed by native speaker linguist	Honum var sagt að ...		honum var sagt að	him.dat was told that	He was told that ...
+Icelandic	352	Constructed by native speaker linguist	Það var sagt söguna aftur og aftur.		það var sagt sögu-na aftur og aftur	it was told story-the again and again	The story was told again and again.
+Icelandic	353	Constructed by native speaker linguist	Það var malað það.		það var malað það	it.expl was ground it.acc	It was ground.
+Icelandic	354	Constructed by native speaker linguist	Kornið var malað.		korn-ið var malað	corn-the.nom was ground	The corn was ground.
+Icelandic	355	Constructed by native speaker linguist	Það var eldað hann.		það var eldað hann	it.expl was cooked it.acc	It was cooked.
+Icelandic	356	Constructed by native speaker linguist	Það var sungið hann.		það var sungið hann	it.expl was sung it.acc	It was sung.
+Icelandic	357	Constructed by native speaker linguist	Það var þurrkað hann af borðinu.		það var þurrkað hann af borð-inu	it.expl was dried it.acc off table-the.dat	It was dried off the table.
+Icelandic	358	Constructed by native speaker linguist	Blómin voru færð Sveini.		blóm-in voru færð Svein-i	flowers-the.nom were brought Svein-i.dat	The flowers were brought to Sveinn.
+Icelandic	359	Constructed by native speaker linguist	Það var ýtt henni út í vatnið.		það var ýtt henni út í vatn-ið	it.expl was pushed her.dat out in water-the.acc	She was pushed into the water.
+Icelandic	360	Constructed by native speaker linguist	Kartöflurnar grófust niður.		kartöflur-nar grófu-st niður	potatoes-the.nom dug-refl/rcp down	The potatoes got dug down.
+Icelandic	361	Constructed by native speaker linguist	Ég þurrkaði barninu.		ég þurrkaði barn-inu	I.nom dried child-the.dat	I dried the child.
+Icelandic	362	Constructed by native speaker linguist	Barninu var þurrkað.		barn-inu var þurrkað	child-the.dat was dried	The child was dried.
+Icelandic	363	Constructed by native speaker linguist	Textinn þurrkaðist út.		text-inn þurrkaðist út	text-the.nom wiped out	The text got wiped out.
+Icelandic	364	Constructed by native speaker linguist	Kornið malaðist af sjálfu sér.		korn-ið malaðist af sjálfu sér	corn-the.nom got.grounded by it.dat self.dat	The corn got grounded by itself.
+Icelandic	365	Constructed by native speaker linguist	Músin færðist.		mús-in færði-st	mouse-the.nom moved-refl/rcp	The mouse moved.
+Icelandic	366	Constructed by native speaker linguist	Þær horfðu á hvor aðra.		þær horfðu á hvor aðra	they.nom watched on each other	They watched each other.
+Icelandic	367	Constructed by native speaker linguist	Það var blikkað.		það var blikkað	it was blinked	It blinked.

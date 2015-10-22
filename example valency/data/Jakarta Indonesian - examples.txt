@@ -1,0 +1,186 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Jakarta Indonesian	1	Constructed by linguist	Erni tutup pintunya.		Erni tutup pintu-nya	Erni close door-ASSOC	Erni closes the door.
+Jakarta Indonesian	2	Constructed by linguist	Erni nutup pintunya.		Erni n-(t)utup pintu-nya	Erni G.ACT-close door-ASSOC	Erni closes the door.
+Jakarta Indonesian	3	Constructed by linguist	Pintunya tutup.		pintu-nya tutup	door-ASSOC close	The door is closed.
+Jakarta Indonesian	4	Elicited from speaker	Erni nutupin makanannya.		Erni n-(t)utup-in makan-an-nya	Erni G.ACT-close-G.APPL eat-NMLZ-ASSOC	Erni covered the food.
+Jakarta Indonesian	5	Elicited from speaker	Pintunya ditutup Erni.		pintu-nya di-tutup Erni	door-ASSOC G.PASS-close Erni	The door was closed by Erni.
+Jakarta Indonesian	6	Elicited from speaker	Gue kasi dia buku.		gua kasi dia buku	1sg.fam give 3sg book	I gave him a book.
+Jakarta Indonesian	7	Elicited from speaker	Gue kasi buku ke dia.		gue kasi buku ke dia	1sg.fam give book to 3sg	I gave a book to him.
+Jakarta Indonesian	8	Elicited from speaker	Gue bawain dia buku.		gue bawa-in dia buku	1sg.fam carry-G.APPL 3sg book	I brought her a book.
+Jakarta Indonesian	9	Elicited from speaker	Gue bawain buku buat dia.		gue bawa-in buku buat dia	1sg.fam carry-G.APPL book for 3sg	I brought a book for her.
+Jakarta Indonesian	10	Elicited from speaker	Gue ngajarin dia bahasa inggris.		gue ng-ajar-in dia bahasa inggris	1sg.fam G.ACT-teach-G.APPL 3sg language English	I teach her English.
+Jakarta Indonesian	11	Elicited from speaker	Gue ngajarin bahasa inggris ke dia.		gue ng-ajar-in bahasa inggris ke dia	1sg.fam G.ACT-teach-G.APPL language English to 3sg	I teach her English.
+Jakarta Indonesian	12	Elicited from speaker	Gue kecolongan dompet.		gue ke.an-colong dompet	1sg.fam ADVERS-steal wallet	My wallet was stolen.
+Jakarta Indonesian	13	Elicited from speaker	Kucing kebunuh.		kucing ke-bunuh	cat NONVOL-kill	The cat was killed (accidentally).
+Jakarta Indonesian	14	Elicited from speaker	Dalan ngambil duit dari dompet Betty.		Dalan ng-ambil duit dari dompet Betty	Dalan G.ACT-take money from wallet Betty	Dalan took money from Betty's wallet.
+Jakarta Indonesian	15	Elicited from speaker	Nadia bakar ikan.		Nadia bakar ikan	Nadia burn fish	Nadia's grilling fish.
+Jakarta Indonesian	16	Elicited from speaker	Tomo mbangun kos-kosan.		Tomo m-bangun kos~kos-an	Tomo G.ACT-build RED~rental.room-NMLZ	Tomo's building some rooms for rent.
+Jakarta Indonesian	17	Elicited from speaker	Tessa bantuin Erni bikin PR.		Tessa bantu-in Erni bikin PR	Tessa help-G.APPL Erni make homework	Tessa is helping Erni with her homework.
+Jakarta Indonesian	18	Elicited from speaker	Erni nangis.		Erni n-(t)angis	Erni G.ACT-cry	Erni's crying.
+Jakarta Indonesian	19	Constructed by linguist	Ujan.		ujan	rain	It's raining.
+Jakarta Indonesian	20	Constructed by linguist	Gue pergi.		gue pergi	1sg.fam go	I go.
+Jakarta Indonesian	21	Elicited from speaker	Betty ngumpet.		Betty ng-umpet	Betty G.ACT-hide	Betty is hiding.
+Jakarta Indonesian	22		Nadia dipanggil.		Nadia di-panggil	Nadia G.PASS-call	Nadia was called.
+Jakarta Indonesian	23	Elicited from speaker	Gue lempar batu.		gue lempar batu	1sg.fam throw stone	I threw a stone.
+Jakarta Indonesian	24	Elicited from speaker	Gue ngikat rambut.		gue ng-ikat rambut	1sg.fam G.ACT-tie hair	I tied my hair.
+Jakarta Indonesian	25	Elicited from speaker	Dompetnya dicolong dia.		dompet-nya di-colong dia	wallet-ASSOC G.PASS-steal 3sg	The wallet was stolen (by) her.
+Jakarta Indonesian	26	Elicited from speaker	Erni tutupin makanan.		Erni tutup-in makan-an	Erni close-G.APPL eat-NMLZ	Erni covered the food.
+Jakarta Indonesian	27	Elicited from speaker	Dalan mecahin gelas.		Dalan m-(p)ecah-in gelas	Dalan G.ACT-break-G.APPL glass	Dalan broke the glass.
+Jakarta Indonesian	28	Elicited from speaker	Aer dituangin gue.		aer di-tuang-in gue	water G.PASS-pour-G.APPL 1sg.fam	The water was poured out (by) me.
+Jakarta Indonesian	29	Elicited from speaker	Gue ngasi dia buku.		gue ng-(k)asi dia buku	1sg.fam G.ACT-give 3sg book	I gave him a book.
+Jakarta Indonesian	30	Elicited from speaker	Dalan dikasitahu Nadia soal FPI.		Dalan di-kasitahu Nadia soal FPI	Dalan G.PASS-tell Nadia about FPI	Dalan was told by Nadia about the FPI.
+Jakarta Indonesian	31	Elicited from speaker	Nadia dikasi kado ama pacarnya.		Nadia di-kasi kado ama pacar-nya	Nadia G.PASS-give gift by boy/girlfriend-ASSOC	Nadia was given a gift by her boyfriend.
+Jakarta Indonesian	32	Elicited from speaker	Betty kirimin gue surat.		Betty kirim-in gue surat	Betty send-G.APPL 1sg.fam letter	Betty sent me letters.
+Jakarta Indonesian	33	Elicited from speaker	Gue nuangin dia aer.		gue n-(t)uang-in dia aer	1sg.fam G.ACT-pour-G.APPL 3sg water	I poured her some water.
+Jakarta Indonesian	34	Elicited from speaker	Motor dimasukin garasi ama satpamnya.		motor di-masuk-in garasi ama satpam-nya	motorbike G.PASS-go.in-G.APPL garage by guard-ASSOC	The motorbike was put in the garage by the guard.
+Jakarta Indonesian	35	Elicited from speaker	Dalan dipotongin Mamanya mangga.		Dalan di-potong-in mama-nya mangga	Dalan G.PASS-cut-G.APPL mother-ASSOC mango	Dalan's mommy cut him some mango.
+Jakarta Indonesian	36	Constructed by linguist	Tim tutup pintu pake tongkat.		Tim tutup pintu pake tongkat	Tim close door INST stick	Tim closed the door with a stick.
+Jakarta Indonesian	37	Elicited from speaker	Gue lemparin Tim pake batu.		gue lempar-in Tim pake batu	1sg.fam throw-G.APPL Tim INST stone	I hit Tim with stones.
+Jakarta Indonesian	38	Elicited from speaker	Dalan kirim surat buat mamanya.		Dalan kirim surat buat mama-nya	Dalan send letter for mother-ASSOC	Dalan sent a letter for his mom.
+Jakarta Indonesian	39	Elicited from speaker	Gue taroin laptopnya buat John.		gue taro-in laptop-nya buat John	1sg.fam put-G.APPL laptop-ASSOC for John	I put the laptop down for John.
+Jakarta Indonesian	40	Elicited from speaker	Gue lempar batu ke Tim.		gue lempar batu ke Tim	1sg.fam throw stone to Tim	I threw a rock to Tim.
+Jakarta Indonesian	41	Elicited from speaker	Gue masukin mobil ke garasi.		gue masuk-in mobil ke garasi	1sg.fam go.in-G.APPL car to garage	I put the car in the garage.
+Jakarta Indonesian	42	Elicited from speaker	John taro buku di meja.		John taro buku-nya di meja	John put book-ASSOC LOC table	John put the book on the table.
+Jakarta Indonesian	43	Elicited from speaker	Gue taroin buku di meja.		gue taro-in buku di meja	1sg.fam put-G.APPL book LOC table	I put the book on the table (for someone).
+Jakarta Indonesian	44	Elicited from speaker	John terima laptopnya dari Bangkok.		John terima laptop-nya dari Bangkok	John receive laptop-ASSOC from Bangkok	John got his laptop from Bangkok.
+Jakarta Indonesian	45	Elicited from speaker	Tim dapetin herpes dari pacarnya.		Tim dapet-in herpes dari pacar-nya	Tim get-G.APPL herpes from boy/girlfriend-ASSOC	Tim got herpes from his girlfriend.
+Jakarta Indonesian	46	Elicited from speaker	Tim keujanan.		Tim ke.an-ujan	Tim ADVERS-rain	Tim got rained on.
+Jakarta Indonesian	47	Elicited from speaker	Tasku kebawa.		tas-ku ke-bawa	bag-1sg NONVOL-carry	My bag got carried away (accidentally).
+Jakarta Indonesian	48	Elicited from speaker	Erni nyukur kumisnya Dalan.		Erni n-(c)yukur kumis-nya Dalan	Erni G.ACT-shave moustache-ASSOC Dalan	Erni shaved Dalan's moustache.
+Jakarta Indonesian	49	Elicited from speaker	Erni ngajar matematika.		Erni ng-ajar matematika	Erni G.ACT-teach math	Erni teaches math.
+Jakarta Indonesian	50	Elicited from speaker	Dalan diajarin sastra ama Erni.		Dalan di-ajar-in sastra ama Erni	Dalan G.PASS-teach-G.APPL literature by Erni	Dalan was taught literature by Erni.
+Jakarta Indonesian	51	Elicited from speaker	Dalan nemu duit.		Dalan n-(t)emu duit	Dalan G.ACT-meet money	Dalan found (some) money.
+Jakarta Indonesian	52	Elicited from speaker	Aernya mendidih.		aer-nya mendidih	water-ASSOC boil	The water is boiling.
+Jakarta Indonesian	53	Elicited from speaker	Dalan berangkat.		Dalan berangkat	Dalan leave	Dalan left.
+Jakarta Indonesian	54		Tomo teriak.		Tomo teriak	Tomo shout	Tomo shouted.
+Jakarta Indonesian	55		Nadia isi aer ke gentong.		Nadia isi aer ke gentong	Nadia fill water to earthen.pitcher	Nadia filled the earthen pitcher with water.
+Jakarta Indonesian	56		Erni tuang aer ke gelas.		Erni tuang aer ke gelas	Erni pour water to glass	Erni poured the water into the glass.
+Jakarta Indonesian	57		Gue bawa ember.		gue bawa ember	1sg.fam carry basin	I brought the basin.
+Jakarta Indonesian	58		Erni dapet kado dari Pak John.		Erni dapet kado dari pak John	Erni get gift from TRU.father John	Erni got a gift from John.
+Jakarta Indonesian	59		Dalan nyolong duit.		Dalan n-(c)yolong duit	Dalan G.ACT-steal money	Dalan stole some money.
+Jakarta Indonesian	60		Betty ngumpet di lemari.		Betty ng-umpet di lemari	Betty G.ACT-hide LOC cupboard	Betty hid in the cupboard.
+Jakarta Indonesian	61		Nadia nyobek kertas.		Nadia ny-(s)obek kertas	Nadia G.ACT-tear paper	Nadia tore the paper.
+Jakarta Indonesian	62		Dalan nyentuh pacarnya.		Dalan ny-(s)entuh pacar-nya	Dalan G.ACT-touch boy/girlfriend-ASSOC	Dalan touched his girlfriend.
+Jakarta Indonesian	63		Erni pukul meja.		Erni pukul meja	Erni hit table	Erni hit the table.
+Jakarta Indonesian	64		Kucingnya mati.		kucing-nya mati	cat-ASSOC die	The cat died.
+Jakarta Indonesian	65		Gelasnya pecah.		gelas-nya pecah	glass-ASSOC break	The glass broke.
+Jakarta Indonesian	66		Dalan bangun rumah.		Dalan bangun rumah	Dalan build house	Dalan built a house.
+Jakarta Indonesian	67	Elicited from speaker	Nadia bilang ke Dalan dia udah pergi.		Nadia bilang ke Dalan dia udah pergi	Nadia say to Dalan 3sg PFCT go	Nadia told Dalan she already left.
+Jakarta Indonesian	68		Dalan cerita ke Erni soal rencana pernikahannya.		Dalan cerita ke Erni soal rencana pernikahan-nya	Dalan tell to Erni about plan wedding-ASSOC	Dalan told Erni about his wedding plan.
+Jakarta Indonesian	69		Erni kenal istrinya Pak John.		Erni kenal istri-nya pak John	Erni know wife-ASSOC TRU.father John	Erni knew John's wife.
+Jakarta Indonesian	70		Dalan liat setan.		Dalan liat setan	Dalan see evil.spirit	Dalan saw a ghost.
+Jakarta Indonesian	71		Dalan takut kecoak.		Dalan takut kecoak	Dalan afraid cockroach	Dalan was afraid of a cockroach.
+Jakarta Indonesian	72	Elicited from speaker	Erni suka coklat.		Erni suka coklat	Erni like chocolate	Erni likes chocolate.
+Jakarta Indonesian	73		Erni cari bukunya.		Erni cari buku-nya	Erni look.for book-ASSOC	Erni looked for her book.
+Jakarta Indonesian	74		Dalan ketemu Tom.		Dalan ketemu Tom	Dalan meet Tom	Dalan met Tom.
+Jakarta Indonesian	75		Gue ikut outing.		gue ikut outing	1sg.fam follow outing	I attended an outing.
+Jakarta Indonesian	76		Gua makan roti.		gua makan roti	1sg.fam eat bread	I ate bread.
+Jakarta Indonesian	77		Nadia pake sepatu.		Nadia pake sepatu	Nadia dress shoes	Nadia is wearing shoes.
+Jakarta Indonesian	78		Dalan mandi.		Dalan mandi	Dalan wash	Dalan bathes.
+Jakarta Indonesian	79		Dalan batuk.		Dalan batuk	Dalan cough	Dalan coughs.
+Jakarta Indonesian	80		Erni duduk di lantai.		Erni duduk di lantai	Erni sit LOC floor	Erni is sitting on the floor.
+Jakarta Indonesian	81		Dalan lari.		Dalan lari	Dalan run	Dalan is running.
+Jakarta Indonesian	82		Tom loncat.		Tom loncat	Tom jump	Tom jumped.
+Jakarta Indonesian	83		Dalan nyanyi lagu dangdut.		Dalan nyanyi lagu dangdut	Dalan sing song dangdut	Dalan sang a dangdut song.
+Jakarta Indonesian	84		Gua tinggal di Jakarta.		gua tinggal di Jakarta	1sg.fam live LOC Jakarta	I live in Jakarta.
+Jakarta Indonesian	85		Tessa muncul dari goa.		Tessa muncul dari goa	Tessa appear from cave	Tessa appeared from within the cave.
+Jakarta Indonesian	86		Tom sakit.		Tom sakit	Tom sick	Tom is sick.
+Jakarta Indonesian	87		Hpnya jatoh.		hp-nya jatoh	cellphone-ASSOC fall	The cellphone fell.
+Jakarta Indonesian	88		Hawanya dingin.		hawa-nya dingin	air-ASSOC cold	The air is cold.
+Jakarta Indonesian	89		Anaknya laper.		anak-nya laper	child-ASSOC hungry	The child is hungry.
+Jakarta Indonesian	90		Matanya ngedip.		mata-nya ng-edip	eye-ASSOC G.ACT-blink	His/her eye blinked.
+Jakarta Indonesian	91		Bolanya nggelinding.		bola-nya ng-gelinding	ball-ASSOC G.ACT-roll	The ball rolled.
+Jakarta Indonesian	92		Tessa nyalain lampu.		Tessa nyala-in lampu	Tessa appear-G.APPL lights	Tessa turned on the lights.
+Jakarta Indonesian	93		Kapalnya tenggelem.		kapal-nya tenggelem	ship-ASSOC sink	The ship sank.
+Jakarta Indonesian	94		Bajunya kering.		baju-nya kering	clothing-ASSOC dry	The item of clothing is dry.
+Jakarta Indonesian	95		Dalan pemburu.		Dalan pemburu	Dalan hunter	Dalan is a hunter.
+Jakarta Indonesian	96		Gue sedih.		gue sedih	1sg.fam sad	I'm sad.
+Jakarta Indonesian	97		Mobilnya penuh.		mobil-nya penuh	car-ASSOC full	The car's full.
+Jakarta Indonesian	98	Elicited from speaker	Dalan lap meja.		Dalan lap meja-nya	Dalan rag table-ASSOC	Dalan wiped the table.
+Jakarta Indonesian	99	Elicited from speaker	Nadia potong mangga pake piso.		Nadia potong mangga pake piso	Nadia cut mango INST knife	Nadia cut the mango with a knife.
+Jakarta Indonesian	100	Elicited from speaker	Jono bicara ama Betty soal gajinya.		Jono bicara ama Betty soal gaji-nya	Jono talk with Betty about salary-ASSOC	Jono talked to Betty about her salary.
+Jakarta Indonesian	101	Elicited from speaker	Dalan tolong Nadia ama PRnya.		Dalan tolong Nadia ama PR-nya	Dalan help Nadia with homework-ASSOC	Dalan helped Nadia with her homework.
+Jakarta Indonesian	102	Elicited from speaker	Erni masuk kelas.		Erni masuk kelas	Erni go.in class	Erni went into the classroom.
+Jakarta Indonesian	103	Elicited from speaker	Anaknya nunjukin hasil ujiannya ke ortunya.		anak-nya n-(t)unjuk-in hasil ujian-nya ke ortu-nya	child-ASSOC G.ACT-show-G.APPL result test-ASSOC to parent-ASSOC	The child showed her test results to her parents.
+Jakarta Indonesian	104	Elicited from speaker	Tessa nyuri duitnya dari dompet Betty.		Tessa n-(c)yuri duit-nya dari dompet Betty	Tessa G.ACT-steal money-ASSOC from wallet Betty	Tessa stole money from Betty's wallet.
+Jakarta Indonesian	105	Elicited from speaker	Jono nyolok kabel.		Jono n-(c)yolok kabel	Jono G.ACT-touch cable	Jono plugged in the cable.
+Jakarta Indonesian	106	Elicited from speaker	Dalan gebuk anjingnya.		Dalan gebuk anjing-nya	Dalan hit dog-ASSOC	Dalan hit the dog.
+Jakarta Indonesian	107	Elicited from speaker	Nadia bunuh anjing.		Nadia bunuh anjing	Nadia kill dog	Nadia killed the dog.
+Jakarta Indonesian	108	Elicited from speaker	Erni matahin penggaris.		Erni m-(p)atah-in peng-garis	Erni G.ACT-break-G.APPL pen-line	Erni broke her ruler.
+Jakarta Indonesian	109	Elicited from speaker	Tom lagi ngomong.		Tom lagi ng-omong	Tom PROG G.ACT-talk	Tom is talking.
+Jakarta Indonesian	110	Elicited from speaker	Erni kasitahu Tom rencana outing.		Erni kasitahu Tom rencana outing	Erni tell Tom plan outing	Erni told Tom the plan for the outing.
+Jakarta Indonesian	111	Elicited from speaker	Ririn minta duit.		Ririn minta duit	Ririn ask.for money	Ririn asked for money.
+Jakarta Indonesian	112	Elicited from speaker	Dalan lagi seneng.		Dalan lagi seneng	Dalan PROG like	Dalan is happy.
+Jakarta Indonesian	113	Elicited from speaker	Erni bantu mamanya.		Erni bantu mama-nya	Erni help mother-ASSOC	Erni helps her mother.
+Jakarta Indonesian	114	Elicited from speaker	Dalan panjat pinang.		Dalan panjat pinang	Dalan climb betel.palm	Dalan climbed the betel tree.
+Jakarta Indonesian	115	Elicited from speaker	Erni lompat.		Erni lompat	Erni jump	Erni is jumping (up and down).
+Jakarta Indonesian	116	Elicited from speaker	Kepalanya nongol.		kepala-nya nongol	head-ASSOC appear	Her head appeared (from the window). / Her head was sticking out.
+Jakarta Indonesian	117	Elicited from speaker	Pembantu cuci baju.		pem-bantu cuci baju	AGNMLZ-help wash clothes	The maid washes the clothes.
+Jakarta Indonesian	118	Elicited from speaker	Erni pegang tangannya anaknya.		Erni pegang tangan-nya anak-nya	Erni hold hand-ASSOC child-ASSOC	Erni held her child's hand.
+Jakarta Indonesian	119	Elicited from speaker	Nadia panggil dokter.		Nadia panggil dokter	Nadia call doctor	Nadia called (for) the doctor.
+Jakarta Indonesian	120	Elicited from speaker	Erni masak mie.		Erni masak mie	Erni cook noodle	Erni cooks noodles.
+Jakarta Indonesian	121	Elicited from speaker	Tukang gali kuburan.		tukang gali kubur-an	worker dig grave-NMLZ	The worker dug the grave.
+Jakarta Indonesian	122	Elicited from speaker	Petani giling padi.		pe-tani giling padi	AGNMLZ-farm grind rice	The farmer grinds the rice.
+Jakarta Indonesian	123	Elicited from speaker	Singgih dengar suara orang.		Singgih dengar suara orang	Singgih hear voice person	Singgih heard someone's voice.
+Jakarta Indonesian	124	Elicited from speaker	Dalan peluk pacarnya.		Dalan peluk pacar-nya	Dalan hug boy/girlfriend-ASSOC	Dalan was hugging his girlfriend.
+Jakarta Indonesian	125	Elicited from speaker	Dalan ketawa.		Dalan ketawa	Dalan laugh	Dalan was laughing.
+Jakarta Indonesian	126	Elicited from speaker	Erni bikin PRnya.		Erni bikin PR-nya	Erni make homework-ASSOC	Erni was doing her homework.
+Jakarta Indonesian	127	Elicited from speaker	Nadia ngupas mangga.		Nadia ng-(k)upas mangga	Nadia G.ACT-peel mango	Nadia is peeling a mango.
+Jakarta Indonesian	128	Elicited from speaker	Dalan ngulitin ayamnya.		Dalan ng-(k)ulit-in ayam-nya	Dalan G.ACT-skin-G.APPL chicken-ASSOC	Dalan skinned the chicken.
+Jakarta Indonesian	129	Elicited from speaker	Erni dorong mobil.		Erni dorong mobil	Erni push car	Erni was pushing the car.
+Jakarta Indonesian	130	Elicited from speaker	Bos terima kuitansi.		bos terima kuitansi	boss receive receipt	The boss got the receipt.
+Jakarta Indonesian	131	Elicited from speaker	Erni ambil duitnya.		Erni ambil duit-nya	Erni take money-ASSOC	Erni took the money.
+Jakarta Indonesian	132	Elicited from speaker	Nadia lagi mikir.		Nadia lagi m-(p)ikir	Nadia PROG G.ACT-think	Nadia is thinking.
+Jakarta Indonesian	133	Elicited from speaker	Vitto pengen baso.		Vitto pengen baso	Vitto want meatball	Vitto wants (some) meatballs.
+Jakarta Indonesian	134	Elicited from speaker	Pacarnya nyium bau badannya.		pacar-nya n-(c)yium bau badan-nya	boy/girlfriend-ASSOC G.ACT-smell odor body-ASSOC	His girlfriend smelled his body odor.
+Jakarta Indonesian	135	Elicited from speaker	Erni main sinetron.		Erni main sinetron	Erni play soap.opera	Erni appears in a soap opera.
+Jakarta Indonesian	136	Elicited from speaker	Tomo naik motor.		Tomo naik motor	Tomo ride motorbike	Tom takes a motorcycle.
+Jakarta Indonesian	137	Elicited from speaker	Tessa nyuri duit.		Tessa n-(c)yuri duit	Tessa G.ACT-steal money	Tessa stole the money.
+Jakarta Indonesian	138	Elicited from speaker	Tim dapet coklat.		Tim dapet coklat	Tim get chocolate	Tim got chocolate(s).
+Jakarta Indonesian	139	Elicited from speaker	Nadia motong mangga.		Nadia m-(p)otong mangga	Nadia G.ACT-cut mango	Nadia cut the mango.
+Jakarta Indonesian	140	Elicited from speaker	Erni tutup kepalanya pake jilbab.		Erni tutup kepala-nya pake jilbab	Erni cover head-ASSOC INST headscarf	Erni covers her head with a headscarf.
+Jakarta Indonesian	141	Elicited from speaker	Dalan ikat rambut.		Dalan ikat rambut	Dalan tie hair	Dalan tied his hair.
+Jakarta Indonesian	142	Elicited from speaker	Betty kirim gue duit.		Betty kirim gue duit	Betty send 1sg.fam money	Betty sent me money.
+Jakarta Indonesian	143	Elicited from speaker	Adam colong anjing.		Adam colong anjing	Adam steal dog	Adam stole a dog.
+Jakarta Indonesian	144	Elicited from speaker	Betty umpetin dompet di lemari.		Betty umpet-in dompet di lemari	Betty hide-G.APPL wallet LOC cupboard	Betty hid the wallet in the cupboard.
+Jakarta Indonesian	145	Elicited from speaker	Nadia sobek bajunya.		Nadia sobek baju-nya	Nadia tear clothes-ASSOC	Nadia tears her clothes.
+Jakarta Indonesian	146	Elicited from speaker	Adam potong kuenya.		Adam potong kue-nya	Adam cut cake-ASSOC	Adam cut the cake.
+Jakarta Indonesian	147	Elicited from speaker	Dalan matiin lampu.		Dalan mati-in lampu	Dalan kill-G.APPL light	Dalan killed the lights.
+Jakarta Indonesian	148	Elicited from speaker	Erni pecahin hatiku.		Erni pecah-in hati-ku	Erni break-G.APPL liver-1sg	Erni broke my heart.
+Jakarta Indonesian	149	Elicited from speaker	Dalan takutin Erni.		dalan takut-in Erni	Dalan fear-G.APPL Erni	Dalan frightened Erni.
+Jakarta Indonesian	150	Elicited from speaker	Gue ikut Dalan.		gue ikut Dalan	1sg.fam follow Dalan	I followed Dalan.
+Jakarta Indonesian	151	Elicited from speaker	Erni tolong Dalan.		Erni tolong Dalan	Erni help Dalan	Erni helped Dalan.
+Jakarta Indonesian	152	Elicited from speaker	Nadia pakein baju ke anak.		Nadia pake-in baju ke anak	Nadia use-G.APPL clothes to child	Nadia dresses her child.
+Jakarta Indonesian	153	Elicited from speaker	Dalan mandiin neneknya.		Dalan mandi-in nenek-nya	Dalan wash-G.APPL grandmother-ASSOC	Dalan bathes his grandmother.
+Jakarta Indonesian	154	Elicited from speaker	Betty pergi ke pasar.		Betty pergi ke pasar	Betty go to market	Betty went to the market.
+Jakarta Indonesian	155	Elicited from speaker	Dalan lagi nyanyi.		Dalan lagi nyanyi	Dalan PROG sing	Dalan is singing.
+Jakarta Indonesian	156	Elicited from speaker	Ibu Dalan baru meninggal.		Ibu Dalan baru men-(t)inggal	mother Dalan just G.ACT-live	Dalan's mother just died.
+Jakarta Indonesian	157	Elicited from speaker	Adam dingin.		Adam dingin	Adam cold	Adam is cold.
+Jakarta Indonesian	158	Elicited from speaker	Apinya nyala.		Api-nya nyala	fire-ASSOC burn	The fire is burning.
+Jakarta Indonesian	159	Elicited from speaker	Dalan penuhin mobil (ma gas).		Dalan penuh-in mobil	Dalan fill-G.APPL car	Dalan filled the car (with gas).
+Jakarta Indonesian	160	Elicited from speaker	Dalan masuk barangnya ke mobil.		Dalan masuk barang-nya ke mobil	Dalan enter thing-ASSOC to car	Dalan loaded his things into the car.
+Jakarta Indonesian	161	Elicited from speaker	Dalan tunjukin gue tangannya.		Dalan tunjuk-in gue tangan-nya	Dalan point-G.APPL 1sg.fam hand-ASSOC	Dalan showed me his hand.
+Jakarta Indonesian	162	Elicited from speaker	Erni patahin balpoin gue.		Erni patah-in balpoin gue	Erni break-G.APPL pen 1sg.fam	Erni broke my pen.
+Jakarta Indonesian	163	Elicited from speaker	Nadia omong kita mendingan pergi.		Nadia omong kita mending-an pergi	Nadia say 1pl better-COMP go	Nadia said it would be best if we go.
+Jakarta Indonesian	164	Elicited from speaker	Ririn minta duit ke Tessa.		Ririn minta duit ke Tessa	Ririn ask.for money to Tessa	Ririn asked Tessa for money.
+Jakarta Indonesian	165	Elicited from speaker	Betty seneng masakan padang.		Betty seneng masak-an padang	Betty like cook-NMLZ Padang	Betty likes Padang food.
+Jakarta Indonesian	166	Elicited from speaker	Rumah lagi kebakar.		Rumah lagi ke-bakar	house PROG NONVOL-burn	The house is burning.
+Jakarta Indonesian	167	Elicited from speaker	Gue dipanggil Tom.		gue di-panggil Tom	1sg.fam G.PASS-call Tom	I am called Tom. / I was called by Tom.
+Jakarta Indonesian	168	Elicited from speaker	Gue panggil dia Mak.		gue panggil dia Mak	1sg.fam call 3sg mother	I call her mom.
+Jakarta Indonesian	169	Elicited from speaker	Singgih dengarin lagu itu terus.		Singgih dengar-in lagu itu terus	Singgih hear-G.APPL song that continue	Singgih listened to that song endlessly.
+Jakarta Indonesian	170	Elicited from speaker	Nadia kupas mangga.		Nadia kupas mangga	Nadia peel mango	Nadia pealed a mango.
+Jakarta Indonesian	171	Elicited from speaker	Dalan kulitin ayamnya.		Dalan kulit-in ayam-nya	Dalan skin-G.APPL chicken-ASSOC	Dalan skinned the chicken.
+Jakarta Indonesian	172	Elicited from speaker	Dalan cukur kumisnya.		Dalan cukur kumis-nya	Dalan shave moustache-ASSOC	Dalan shaved his moustache.
+Jakarta Indonesian	173	Elicited from speaker	Anak lagi main.		anak lagi main	child PROG play	The children are playing.
+Jakarta Indonesian	174	Elicited from speaker	Hillary naik gunung Everest.		Hillary naik gunung Everest	Hillary climb mount Everest	Hillary climbed Mt. Everest.
+Jakarta Indonesian	175	Elicited from speaker	Nadia mau ketemu Tomo besok.		Nadia mau ke-temu Tomo besok	Nadia want NONVOL-meet Tomo tomorrow	Nadia wants to meet Tomo tomorrow.
+Jakarta Indonesian	176	Elicited from speaker	Dalan ketakutan.		Dalan ke.an-takut	Dalan ADVERS-fear	Dalan got scared.
+Jakarta Indonesian	177	Elicited from speaker	Tessa kecolongan.		Tessa ke.an-colong	Tessa ADVERS-steal	Tessa was robbed.
+Jakarta Indonesian	178	Elicited from speaker	Kita bicarain soal itu.		kita bicara-in soal itu	1pl speak-G.APPL matter that	We discussed that issue.
+Jakarta Indonesian	179	Elicited from speaker	Anjing dibunuh.		Anjing di-bunuh	dog G.PASS-kill	The dog was killed.
+Jakarta Indonesian	180	Elicited from speaker	Gue kirimin surat buat Erni.		gue kirim-in surat buat Erni	1sg.fam send-G.APPL letter for Erni	I sent the letters for Erni.
+Jakarta Indonesian	181	Elicited from speaker	Nadia dibawain kado ama Erni.		Nadia di-bawa-in kado ama Erni	Nadia G.PASS-carry-G.APPL gift with Erni	Nadia was brought a gift by Erni.
+Jakarta Indonesian	182	Elicited from speaker	Gue dimintain duit ama adik.		gue di-minta-in duit ama adik	1sg.fam G.PASS-ask.for-G.APPL money by younger.sibling	My little sister asked me for money. /Lit. From me was asked for money by my little sister.
+Jakarta Indonesian	183	Elicited from speaker	Brad ngebantuin Erni masak sarapan.		Brad nge-bantu-in Erni masak sarapan	Brad G.ACT-help-G.APPL Erni cook breakfast	Brad helped Erni cook breakfast.
+Jakarta Indonesian	184	Naturalistic spoken	Belom kering.		belom kering	not.yet dry	It's not dry yet.
+Jakarta Indonesian	185	Naturalistic spoken	Tutup pake apa?		tutup pake apa	cover with what	What do you want to cover her with?

@@ -1,0 +1,85 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Accusative-Genitive alternation	Cognate object alternation	Comitative alternation	Instrumental subject alternation	Negative Accusative-Genitive alternation	Object deletion	Participial Passive	Prefixal Goal-Instrumental alternation	Prefixal Source-promoting alternation	Reflexive Anticausative	Reflexive Middle	Reflexive Middle (impersonal)	Reflexive Passive	Reflexive Reciprocal	Semantic reflexive
+Russian	1	EAT	estʹ	39, 105	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	2	HUG	obnjatʹ	85	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never
+Russian	3	LOOK AT	smotretʹ	53	1-nom V.subj[1] na+2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	4	SEE	videtʹ	27, 104, 116	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Regularly	Never
+Russian	5	SMELL	njuxatʹ	95	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	6	FEAR	bojatʹsja	17, 18	1-nom V.subj[1] 2-acc	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	7	FRIGHTEN	pugatʹ	43	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never
+Russian	8	LIKE	nravitʹsja	51	1-nom V.subj[1] 2-dat	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	9	KNOW	znatʹ	50, 115	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Never	Never	Never	Never	Never	Marginally	Never
+Russian	10	THINK	dumatʹ	96, 122	1-nom V.subj[1] o+2-LOC	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never
+Russian	11	SEARCH FOR	iskatʹ	14, 15, 114	1-nom V.subj[1] 2-acc	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	12	WASH	mytʹ	21, 71	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Regularly	Marginally	Regularly	Never	Never	Never	Regularly	Never	Marginally	Never	Regularly
+Russian	13	DRESS	odetʹ	19, 20	1-nom V.subj[1] 2-acc (v+3-acc)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Regularly
+Russian	14	SHAVE (a body part/person)	britʹ	83	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Regularly	Marginally	Regularly	Never	Never	Never	Marginally	Never	Marginally	Never	Regularly
+Russian	15	HELP	pomočʹ	45	1-nom V.subj[1] 2-dat	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	16	FOLLOW	sledovatʹ	42	1-nom V.subj[1] za+2-instr	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	17	MEET	vstretitʹ	16, 54	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Marginally	Regularly	Never
+Russian	18	TALK	govoritʹ	66, 67	1-nom V.subj[1] 2-dat UTT3	Never	Never	Regularly	Never	Never	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	19	ASK FOR	prositʹ	28, 111	1-nom V.subj[1] 2-acc (u+3-gen)	Never	Never	Never	Never	Regularly	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	20	SHOUT AT	kričatʹ	92	1-nom V.subj[1] na+2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	21	TELL	skazatʹ	61, 62	1-nom V.subj[1] 2-dat UTT3	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	22	SAY	skazatʹ	61, 62	1-nom V.subj[1] 2-dat UTT3	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	22	SAY	govoritʹ	66, 67	1-nom V.subj[1] 2-dat UTT3	Never	Never	Regularly	Never	Never	Marginally	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	23	NAME	nazvatʹ	55, 56	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never
+Russian	24	BUILD	stroitʹ	12, 13, 117, 126	1-nom V.subj[1] 2-acc (iz+3-gen)	Never	Never	Never	Never	Regularly	Marginally	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	25	BREAK	slomatʹ	10, 11, 31, 34	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Russian	26	KILL	ubitʹ	49	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Never	Marginally	Marginally	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Russian	27	BEAT	bitʹ	25, 26, 30	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Regularly	Never	Regularly	Never	Never	Marginally	Marginally	Never	Marginally	Marginally	Never
+Russian	28	HIT	udaritʹ	47	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Marginally	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Regularly
+Russian	29	TOUCH	kosnutʹsja	70, 112	1-nom V.subj[1] 2-gen (3-instr)	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	30	CUT	rezatʹ	37	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Regularly	Never	Regularly	Never	Never	Never	Regularly	Never	Regularly	Never	Regularly
+Russian	31	TAKE	vzjatʹ	76	1-nom V.subj[1] 2-acc (u+3-gen)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Russian	32	TEAR	otorvatʹ	68, 107, 110	1-nom V.subj[1] 2-acc (ot+3-gen)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Regularly	Regularly	Regularly	Never	Regularly	Never	Never
+Russian	33	PEEL	očistitʹ	88	1-nom V.subj[1] 2-acc (ot+3-gen)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Marginally	Marginally	Never	Marginally	Never	Never
+Russian	34	HIDE	sprjatatʹ	46	1-nom V.subj[1] 2-acc (ot+3-gen)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Marginally	Never	Never	Regularly	Never	Regularly
+Russian	35	SHOW	pokazatʹ	63	1-nom V.subj[1] 2-acc 3-dat	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Marginally	Never	Never	Regularly	Never	Marginally
+Russian	36	GIVE	datʹ	44	1-nom V.subj[1] 2-acc 3-dat	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	37	SEND	poslatʹ	109	1-nom V.subj[1] 2-acc 3-dat	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	38	CARRY	nesti	32, 108	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	39	THROW	brositʹ	69	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Regularly	Marginally	Never	Marginally	Never	Never
+Russian	40	TIE	privjazatʹ	3, 4, 124	1-nom V.subj[1] 2-acc k+3-dat (4-instr)	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Marginally	Never	Marginally	Never	Never
+Russian	41	PUT	položitʹ	58	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	42	POUR	litʹ	5, 57	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Regularly	Marginally	Never	Regularly	Never	Never
+Russian	43	COVER	nakrytʹ	36	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Marginally	Marginally	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Marginally
+Russian	44	FILL	napolnitʹ	41, 123	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Regularly	Regularly	Never	Regularly	Never	Never	Regularly	Marginally	Never	Regularly	Never	Never
+Russian	45	LOAD	nagruzitʹ	1, 2	1-nom V.subj[1] 2-acc LOC3	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	46	BLINK	morgnutʹ	80	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	47	COUGH	kašljatʹ	35	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	48	CLIMB	vzobratʹsja	33	1-nom V.subj[1] na+2-acc	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	49	RUN	bežatʹ	60	1-nom V.subj[1] (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	50	SIT	sidetʹ	64, 120	1-nom V.subj[1] (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	51	SIT DOWN	sestʹ	65	1-nom V.subj[1] (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never
+Russian	52	JUMP	prygnutʹ	48	1-nom V.subj[1] (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never
+Russian	53	SING	petʹ	23, 24	1-nom V.subj[1]	Never	Regularly	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	54	GO	idti	84	1-nom V.subj[1] (LOC2)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	55	LEAVE	ujti	73	1-nom V.subj[1] (iz/ot 2-gen)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	55	LEAVE	uexatʹ	87	1-nom V.subj[1] (iz/ot 2-gen)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	56	LIVE	žitʹ	52, 119	1-nom V.subj[1] (LOC2)	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	57	LAUGH	smejatʹsja	86	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	58	SCREAM	vopit'	93	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	59	FEEL PAIN	boletʹ	77	1-nom V.subj[1] u+2-gen	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	60	FEEL COLD	mërznutʹ	40	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	61	DIE	umeretʹ	38	1-nom V.subj[1]	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	62	PLAY	igratʹ (1)	90, 121	1-nom V.subj[1] (v+2-acc)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	62	PLAY	igratʹ (2)	89	1-nom V.subj[1] (na+2-loc)	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	63	BE SAD	grustitʹ	113	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Russian	64	BE HUNGRY	bytʹ golodnym	29	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	65	ROLL	katitʹsja	91	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Never
+Russian	66	SINK	utonutʹ	94	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	67	BURN	goretʹ	81, 82	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	68	BE DRY	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	69	RAIN	dožd' idët	59	V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	70	BE A HUNTER	no verbal counterpart		N/A	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	71	GRIND	molotʹ	100	1-nom V.subj[1] 2-acc	Never	Never	Never	Marginally	Regularly	Marginally	Regularly	Never	Never	Never	Regularly	Never	Marginally	Never	Never
+Russian	72	WIPE	vyteretʹ	8, 9, 127	1-nom V.subj[1] 2-acc s+3-gen	Never	Never	Never	Never	Regularly	Never	Marginally	Never	Regularly	Never	Marginally	Never	Regularly	Never	Regularly
+Russian	73	DIG	kopatʹ	99	1-nom V.subj[1] 2-acc (3-instr)	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Marginally	Never	Never
+Russian	74	PUSH	tolknutʹ	102	1-nom V.subj[1] 2-acc (LOC3)	Never	Never	Never	Never	Marginally	Never	Marginally	Never	Never	Never	Never	Never	Never	Never	Never
+Russian	75	BRING	prinesti	75	1-nom V.subj[1] 2-acc 3-dat	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Never	Never
+Russian	76	STEAL	ukrastʹ	6, 7	1-nom V.subj[1] 2-acc (u+3-gen)	Never	Never	Never	Never	Regularly	Marginally	Regularly	Never	Regularly	Never	Never	Never	Regularly	Never	Never
+Russian	77	TEACH	naučitʹ	103	1-nom V.subj[1] 2-acc (3-dat)	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Regularly
+Russian	78	HEAR	uslyšatʹ	101	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Marginally	Never	Never	Never	Never	Never
+Russian	79	COOK	gotovitʹ	98	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never	Never	Regularly	Regularly	Never	Regularly	Never	Never
+Russian	79	COOK	varitʹ	106	1-nom V.subj[1] 2-acc	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Never	Marginally	Never	Never
+Russian	80	BOIL	kipetʹ	97	1-nom V.subj[1]	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never

@@ -1,0 +1,981 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Yorùbá	1	EAT	je̩	Fi alternation	Never	
+Yorùbá	1	EAT	je̩	Fi/ní alternation	Never	
+Yorùbá	1	EAT	je̩	Inchoative-causative	Never	
+Yorùbá	1	EAT	je̩	Ní/fi alternation	Never	
+Yorùbá	1	EAT	je̩	Oblique-dropping	Never	
+Yorùbá	1	EAT	je̩	Possessive alternation	Marginally	
+Yorùbá	1	EAT	je̩	Preposition-dropping	Never	
+Yorùbá	1	EAT	je̩	Recipient-dropping alternation	Never	
+Yorùbá	1	EAT	je̩	Symmetrical alternation	Never	
+Yorùbá	1	EAT	je̩	Theme-dropping alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Fi alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Fi/ní alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Inchoative-causative	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Ní/fi alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Oblique-dropping	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Possessive alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Preposition-dropping	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Recipient-dropping alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Symmetrical alternation	Never	
+Yorùbá	2	HUG	dìrò̩mó̩	Theme-dropping alternation	Never	
+Yorùbá	3	LOOK AT	wò	Fi alternation	Never	
+Yorùbá	3	LOOK AT	wò	Fi/ní alternation	Never	
+Yorùbá	3	LOOK AT	wò	Inchoative-causative	Never	
+Yorùbá	3	LOOK AT	wò	Ní/fi alternation	Never	
+Yorùbá	3	LOOK AT	wò	Oblique-dropping	Never	
+Yorùbá	3	LOOK AT	wò	Possessive alternation	Never	
+Yorùbá	3	LOOK AT	wò	Preposition-dropping	Never	
+Yorùbá	3	LOOK AT	wò	Recipient-dropping alternation	Never	
+Yorùbá	3	LOOK AT	wò	Symmetrical alternation	Never	
+Yorùbá	3	LOOK AT	wò	Theme-dropping alternation	Never	
+Yorùbá	4	SEE	rí	Fi alternation	Never	
+Yorùbá	4	SEE	rí	Fi/ní alternation	Never	
+Yorùbá	4	SEE	rí	Inchoative-causative	Never	
+Yorùbá	4	SEE	rí	Ní/fi alternation	Never	
+Yorùbá	4	SEE	rí	Oblique-dropping	Never	
+Yorùbá	4	SEE	rí	Possessive alternation	Never	
+Yorùbá	4	SEE	rí	Preposition-dropping	Never	
+Yorùbá	4	SEE	rí	Recipient-dropping alternation	Never	
+Yorùbá	4	SEE	rí	Symmetrical alternation	Never	
+Yorùbá	4	SEE	rí	Theme-dropping alternation	Never	
+Yorùbá	5	SMELL	rùn	Fi alternation	Never	
+Yorùbá	5	SMELL	rùn	Fi/ní alternation	Never	
+Yorùbá	5	SMELL	rùn	Inchoative-causative	Never	
+Yorùbá	5	SMELL	rùn	Ní/fi alternation	Never	
+Yorùbá	5	SMELL	rùn	Oblique-dropping	Never	
+Yorùbá	5	SMELL	rùn	Possessive alternation	Never	
+Yorùbá	5	SMELL	rùn	Preposition-dropping	Never	
+Yorùbá	5	SMELL	rùn	Recipient-dropping alternation	Never	
+Yorùbá	5	SMELL	rùn	Symmetrical alternation	Never	
+Yorùbá	5	SMELL	rùn	Theme-dropping alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Fi alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Fi/ní alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Inchoative-causative	Never	
+Yorùbá	6	FEAR	bè̩rù	Ní/fi alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Oblique-dropping	Never	
+Yorùbá	6	FEAR	bè̩rù	Possessive alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Preposition-dropping	Never	
+Yorùbá	6	FEAR	bè̩rù	Recipient-dropping alternation	Never	
+Yorùbá	6	FEAR	bè̩rù	Symmetrical alternation	Regularly	
+Yorùbá	6	FEAR	bè̩rù	Theme-dropping alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Fi alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Fi/ní alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Inchoative-causative	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Ní/fi alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Oblique-dropping	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Possessive alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Preposition-dropping	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Recipient-dropping alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Symmetrical alternation	Never	
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Theme-dropping alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Fi alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Fi/ní alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Inchoative-causative	Never	
+Yorùbá	8	LIKE	fé̩ràn	Ní/fi alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Oblique-dropping	Never	
+Yorùbá	8	LIKE	fé̩ràn	Possessive alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Preposition-dropping	Never	
+Yorùbá	8	LIKE	fé̩ràn	Recipient-dropping alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Symmetrical alternation	Never	
+Yorùbá	8	LIKE	fé̩ràn	Theme-dropping alternation	Never	
+Yorùbá	9	KNOW	mò̩	Fi alternation	Never	
+Yorùbá	9	KNOW	mò̩	Fi/ní alternation	Never	
+Yorùbá	9	KNOW	mò̩	Inchoative-causative	Never	
+Yorùbá	9	KNOW	mò̩	Ní/fi alternation	Never	
+Yorùbá	9	KNOW	mò̩	Oblique-dropping	Never	
+Yorùbá	9	KNOW	mò̩	Possessive alternation	Never	
+Yorùbá	9	KNOW	mò̩	Preposition-dropping	Never	
+Yorùbá	9	KNOW	mò̩	Recipient-dropping alternation	Never	
+Yorùbá	9	KNOW	mò̩	Symmetrical alternation	Never	
+Yorùbá	9	KNOW	mò̩	Theme-dropping alternation	Never	
+Yorùbá	10	THINK	rònú	Fi alternation	Never	
+Yorùbá	10	THINK	rònú	Fi/ní alternation	Never	
+Yorùbá	10	THINK	rònú	Inchoative-causative	Never	
+Yorùbá	10	THINK	rònú	Ní/fi alternation	Never	
+Yorùbá	10	THINK	rònú	Oblique-dropping	Never	
+Yorùbá	10	THINK	rònú	Possessive alternation	Never	
+Yorùbá	10	THINK	rònú	Preposition-dropping	Regularly	
+Yorùbá	10	THINK	rònú	Recipient-dropping alternation	Never	
+Yorùbá	10	THINK	rònú	Symmetrical alternation	Never	
+Yorùbá	10	THINK	rònú	Theme-dropping alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Fi alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Fi/ní alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Inchoative-causative	Never	
+Yorùbá	11	SEARCH FOR	wá	Ní/fi alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Oblique-dropping	Never	
+Yorùbá	11	SEARCH FOR	wá	Possessive alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Preposition-dropping	Never	
+Yorùbá	11	SEARCH FOR	wá	Recipient-dropping alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Symmetrical alternation	Never	
+Yorùbá	11	SEARCH FOR	wá	Theme-dropping alternation	Never	
+Yorùbá	12	WASH	fò̩	Fi alternation	Never	
+Yorùbá	12	WASH	fò̩	Fi/ní alternation	Never	
+Yorùbá	12	WASH	fò̩	Inchoative-causative	Never	
+Yorùbá	12	WASH	fò̩	Ní/fi alternation	Never	
+Yorùbá	12	WASH	fò̩	Oblique-dropping	Never	
+Yorùbá	12	WASH	fò̩	Possessive alternation	Never	
+Yorùbá	12	WASH	fò̩	Preposition-dropping	Never	
+Yorùbá	12	WASH	fò̩	Recipient-dropping alternation	Never	
+Yorùbá	12	WASH	fò̩	Symmetrical alternation	Never	
+Yorùbá	12	WASH	fò̩	Theme-dropping alternation	Never	
+Yorùbá	12	WASH	wè̩	Fi alternation	Never	
+Yorùbá	12	WASH	wè̩	Fi/ní alternation	Never	
+Yorùbá	12	WASH	wè̩	Inchoative-causative	Marginally	
+Yorùbá	12	WASH	wè̩	Ní/fi alternation	Never	
+Yorùbá	12	WASH	wè̩	Oblique-dropping	Never	
+Yorùbá	12	WASH	wè̩	Possessive alternation	Never	
+Yorùbá	12	WASH	wè̩	Preposition-dropping	Never	
+Yorùbá	12	WASH	wè̩	Recipient-dropping alternation	Never	
+Yorùbá	12	WASH	wè̩	Symmetrical alternation	Never	
+Yorùbá	12	WASH	wè̩	Theme-dropping alternation	Never	
+Yorùbá	13	DRESS	múra	Fi alternation	Never	
+Yorùbá	13	DRESS	múra	Fi/ní alternation	Never	
+Yorùbá	13	DRESS	múra	Inchoative-causative	Regularly	
+Yorùbá	13	DRESS	múra	Ní/fi alternation	Never	
+Yorùbá	13	DRESS	múra	Oblique-dropping	Regularly	
+Yorùbá	13	DRESS	múra	Possessive alternation	Never	
+Yorùbá	13	DRESS	múra	Preposition-dropping	Never	
+Yorùbá	13	DRESS	múra	Recipient-dropping alternation	Never	
+Yorùbá	13	DRESS	múra	Symmetrical alternation	Never	
+Yorùbá	13	DRESS	múra	Theme-dropping alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Fi alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Fi/ní alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Inchoative-causative	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Ní/fi alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Oblique-dropping	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Possessive alternation	Marginally	
+Yorùbá	14	SHAVE (a body part/person)	fá	Preposition-dropping	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Recipient-dropping alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Symmetrical alternation	Never	
+Yorùbá	14	SHAVE (a body part/person)	fá	Theme-dropping alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Fi alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Fi/ní alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Inchoative-causative	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Ní/fi alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Oblique-dropping	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Possessive alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Preposition-dropping	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Recipient-dropping alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Symmetrical alternation	Never	
+Yorùbá	15	HELP	ràn...ló̩wó̩	Theme-dropping alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Fi alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Fi/ní alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Inchoative-causative	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Ní/fi alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Oblique-dropping	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Possessive alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Preposition-dropping	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Recipient-dropping alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Symmetrical alternation	Never	
+Yorùbá	16	FOLLOW	tè̩lé	Theme-dropping alternation	Never	
+Yorùbá	17	MEET	bá	Fi alternation	Never	
+Yorùbá	17	MEET	bá	Fi/ní alternation	Never	
+Yorùbá	17	MEET	bá	Inchoative-causative	Never	
+Yorùbá	17	MEET	bá	Ní/fi alternation	Never	
+Yorùbá	17	MEET	bá	Oblique-dropping	Never	
+Yorùbá	17	MEET	bá	Possessive alternation	Never	
+Yorùbá	17	MEET	bá	Preposition-dropping	Never	
+Yorùbá	17	MEET	bá	Recipient-dropping alternation	Never	
+Yorùbá	17	MEET	bá	Symmetrical alternation	Never	
+Yorùbá	17	MEET	bá	Theme-dropping alternation	Never	
+Yorùbá	17	MEET	pàdé	Fi alternation	Never	
+Yorùbá	17	MEET	pàdé	Fi/ní alternation	Never	
+Yorùbá	17	MEET	pàdé	Inchoative-causative	Never	
+Yorùbá	17	MEET	pàdé	Ní/fi alternation	Never	
+Yorùbá	17	MEET	pàdé	Oblique-dropping	Never	
+Yorùbá	17	MEET	pàdé	Possessive alternation	Never	
+Yorùbá	17	MEET	pàdé	Preposition-dropping	Never	
+Yorùbá	17	MEET	pàdé	Recipient-dropping alternation	Never	
+Yorùbá	17	MEET	pàdé	Symmetrical alternation	Never	
+Yorùbá	17	MEET	pàdé	Theme-dropping alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Fi alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Fi/ní alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Inchoative-causative	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Ní/fi alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Oblique-dropping	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Possessive alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Preposition-dropping	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Recipient-dropping alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Symmetrical alternation	Never	
+Yorùbá	18	TALK	bá...sò̩rò̩	Theme-dropping alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Fi alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Fi/ní alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Inchoative-causative	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Ní/fi alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Oblique-dropping	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Possessive alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Preposition-dropping	Regularly	
+Yorùbá	19	ASK FOR	to̩ro̩	Recipient-dropping alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Symmetrical alternation	Never	
+Yorùbá	19	ASK FOR	to̩ro̩	Theme-dropping alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Fi alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Fi/ní alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Inchoative-causative	Never	
+Yorùbá	20	SHOUT AT	jágbe	Ní/fi alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Oblique-dropping	Never	
+Yorùbá	20	SHOUT AT	jágbe	Possessive alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Preposition-dropping	Never	
+Yorùbá	20	SHOUT AT	jágbe	Recipient-dropping alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Symmetrical alternation	Never	
+Yorùbá	20	SHOUT AT	jágbe	Theme-dropping alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Fi alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Fi/ní alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Inchoative-causative	Never	
+Yorùbá	20	SHOUT AT	kígbe	Ní/fi alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Oblique-dropping	Never	
+Yorùbá	20	SHOUT AT	kígbe	Possessive alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Preposition-dropping	Never	
+Yorùbá	20	SHOUT AT	kígbe	Recipient-dropping alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Symmetrical alternation	Never	
+Yorùbá	20	SHOUT AT	kígbe	Theme-dropping alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Fi alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Fi/ní alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Inchoative-causative	Never	
+Yorùbá	21	TELL	so̩ (1)	Ní/fi alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Oblique-dropping	Never	
+Yorùbá	21	TELL	so̩ (1)	Possessive alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Preposition-dropping	Never	
+Yorùbá	21	TELL	so̩ (1)	Recipient-dropping alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Symmetrical alternation	Never	
+Yorùbá	21	TELL	so̩ (1)	Theme-dropping alternation	Marginally	
+Yorùbá	23	NAME	pè	Fi alternation	Never	
+Yorùbá	23	NAME	pè	Fi/ní alternation	Never	
+Yorùbá	23	NAME	pè	Inchoative-causative	Never	
+Yorùbá	23	NAME	pè	Ní/fi alternation	Marginally	
+Yorùbá	23	NAME	pè	Oblique-dropping	Never	
+Yorùbá	23	NAME	pè	Possessive alternation	Never	
+Yorùbá	23	NAME	pè	Preposition-dropping	Never	
+Yorùbá	23	NAME	pè	Recipient-dropping alternation	Never	
+Yorùbá	23	NAME	pè	Symmetrical alternation	Never	
+Yorùbá	23	NAME	pè	Theme-dropping alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Fi alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Fi/ní alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Inchoative-causative	Never	
+Yorùbá	23	NAME	so̩ (2)	Ní/fi alternation	Marginally	
+Yorùbá	23	NAME	so̩ (2)	Oblique-dropping	Never	
+Yorùbá	23	NAME	so̩ (2)	Possessive alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Preposition-dropping	Never	
+Yorùbá	23	NAME	so̩ (2)	Recipient-dropping alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Symmetrical alternation	Never	
+Yorùbá	23	NAME	so̩ (2)	Theme-dropping alternation	Never	
+Yorùbá	24	BUILD	kó̩	Fi alternation	Never	
+Yorùbá	24	BUILD	kó̩	Fi/ní alternation	Marginally	
+Yorùbá	24	BUILD	kó̩	Inchoative-causative	Never	
+Yorùbá	24	BUILD	kó̩	Ní/fi alternation	Never	
+Yorùbá	24	BUILD	kó̩	Oblique-dropping	Never	
+Yorùbá	24	BUILD	kó̩	Possessive alternation	Never	
+Yorùbá	24	BUILD	kó̩	Preposition-dropping	Never	
+Yorùbá	24	BUILD	kó̩	Recipient-dropping alternation	Never	
+Yorùbá	24	BUILD	kó̩	Symmetrical alternation	Never	
+Yorùbá	24	BUILD	kó̩	Theme-dropping alternation	Never	
+Yorùbá	25	BREAK	dá	Fi alternation	Never	
+Yorùbá	25	BREAK	dá	Fi/ní alternation	Never	
+Yorùbá	25	BREAK	dá	Inchoative-causative	Regularly	
+Yorùbá	25	BREAK	dá	Ní/fi alternation	Never	
+Yorùbá	25	BREAK	dá	Oblique-dropping	Never	
+Yorùbá	25	BREAK	dá	Possessive alternation	Regularly	
+Yorùbá	25	BREAK	dá	Preposition-dropping	Never	
+Yorùbá	25	BREAK	dá	Recipient-dropping alternation	Never	
+Yorùbá	25	BREAK	dá	Symmetrical alternation	Never	
+Yorùbá	25	BREAK	dá	Theme-dropping alternation	Never	
+Yorùbá	25	BREAK	fó̩	Fi alternation	Never	
+Yorùbá	25	BREAK	fó̩	Fi/ní alternation	Never	
+Yorùbá	25	BREAK	fó̩	Inchoative-causative	Regularly	
+Yorùbá	25	BREAK	fó̩	Ní/fi alternation	Never	
+Yorùbá	25	BREAK	fó̩	Oblique-dropping	Never	
+Yorùbá	25	BREAK	fó̩	Possessive alternation	Regularly	
+Yorùbá	25	BREAK	fó̩	Preposition-dropping	Never	
+Yorùbá	25	BREAK	fó̩	Recipient-dropping alternation	Never	
+Yorùbá	25	BREAK	fó̩	Symmetrical alternation	Never	
+Yorùbá	25	BREAK	fó̩	Theme-dropping alternation	Never	
+Yorùbá	25	BREAK	kán	Fi alternation	Never	
+Yorùbá	25	BREAK	kán	Fi/ní alternation	Never	
+Yorùbá	25	BREAK	kán	Inchoative-causative	Regularly	
+Yorùbá	25	BREAK	kán	Ní/fi alternation	Never	
+Yorùbá	25	BREAK	kán	Oblique-dropping	Never	
+Yorùbá	25	BREAK	kán	Possessive alternation	Regularly	
+Yorùbá	25	BREAK	kán	Preposition-dropping	Never	
+Yorùbá	25	BREAK	kán	Recipient-dropping alternation	Never	
+Yorùbá	25	BREAK	kán	Symmetrical alternation	Never	
+Yorùbá	25	BREAK	kán	Theme-dropping alternation	Never	
+Yorùbá	26	KILL	pa	Fi alternation	Never	
+Yorùbá	26	KILL	pa	Fi/ní alternation	Never	
+Yorùbá	26	KILL	pa	Inchoative-causative	Never	
+Yorùbá	26	KILL	pa	Ní/fi alternation	Never	
+Yorùbá	26	KILL	pa	Oblique-dropping	Never	
+Yorùbá	26	KILL	pa	Possessive alternation	Marginally	
+Yorùbá	26	KILL	pa	Preposition-dropping	Never	
+Yorùbá	26	KILL	pa	Recipient-dropping alternation	Never	
+Yorùbá	26	KILL	pa	Symmetrical alternation	Never	
+Yorùbá	26	KILL	pa	Theme-dropping alternation	Never	
+Yorùbá	27	BEAT	lù	Fi alternation	Never	
+Yorùbá	27	BEAT	lù	Fi/ní alternation	Regularly	
+Yorùbá	27	BEAT	lù	Inchoative-causative	Never	
+Yorùbá	27	BEAT	lù	Ní/fi alternation	Never	
+Yorùbá	27	BEAT	lù	Oblique-dropping	Never	
+Yorùbá	27	BEAT	lù	Possessive alternation	Regularly	
+Yorùbá	27	BEAT	lù	Preposition-dropping	Never	
+Yorùbá	27	BEAT	lù	Recipient-dropping alternation	Never	
+Yorùbá	27	BEAT	lù	Symmetrical alternation	Never	
+Yorùbá	27	BEAT	lù	Theme-dropping alternation	Never	
+Yorùbá	27	BEAT	nà	Fi alternation	Never	
+Yorùbá	27	BEAT	nà	Fi/ní alternation	Regularly	
+Yorùbá	27	BEAT	nà	Inchoative-causative	Never	
+Yorùbá	27	BEAT	nà	Ní/fi alternation	Never	
+Yorùbá	27	BEAT	nà	Oblique-dropping	Never	
+Yorùbá	27	BEAT	nà	Possessive alternation	Regularly	
+Yorùbá	27	BEAT	nà	Preposition-dropping	Never	
+Yorùbá	27	BEAT	nà	Recipient-dropping alternation	Never	
+Yorùbá	27	BEAT	nà	Symmetrical alternation	Never	
+Yorùbá	27	BEAT	nà	Theme-dropping alternation	Never	
+Yorùbá	28	HIT	gbá	Fi alternation	Never	
+Yorùbá	28	HIT	gbá	Fi/ní alternation	Marginally	
+Yorùbá	28	HIT	gbá	Inchoative-causative	Never	
+Yorùbá	28	HIT	gbá	Ní/fi alternation	Never	
+Yorùbá	28	HIT	gbá	Oblique-dropping	Never	
+Yorùbá	28	HIT	gbá	Possessive alternation	Marginally	
+Yorùbá	28	HIT	gbá	Preposition-dropping	Never	
+Yorùbá	28	HIT	gbá	Recipient-dropping alternation	Never	
+Yorùbá	28	HIT	gbá	Symmetrical alternation	Never	
+Yorùbá	28	HIT	gbá	Theme-dropping alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Fi alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Fi/ní alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Inchoative-causative	Never	
+Yorùbá	28	HIT	ko̩lù	Ní/fi alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Oblique-dropping	Never	
+Yorùbá	28	HIT	ko̩lù	Possessive alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Preposition-dropping	Never	
+Yorùbá	28	HIT	ko̩lù	Recipient-dropping alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Symmetrical alternation	Never	
+Yorùbá	28	HIT	ko̩lù	Theme-dropping alternation	Never	
+Yorùbá	29	TOUCH	bà	Fi alternation	Never	
+Yorùbá	29	TOUCH	bà	Fi/ní alternation	Regularly	
+Yorùbá	29	TOUCH	bà	Inchoative-causative	Never	
+Yorùbá	29	TOUCH	bà	Ní/fi alternation	Never	
+Yorùbá	29	TOUCH	bà	Oblique-dropping	Never	
+Yorùbá	29	TOUCH	bà	Possessive alternation	Marginally	
+Yorùbá	29	TOUCH	bà	Preposition-dropping	Never	
+Yorùbá	29	TOUCH	bà	Recipient-dropping alternation	Never	
+Yorùbá	29	TOUCH	bà	Symmetrical alternation	Never	
+Yorùbá	29	TOUCH	bà	Theme-dropping alternation	Never	
+Yorùbá	29	TOUCH	kàn	Fi alternation	Never	
+Yorùbá	29	TOUCH	kàn	Fi/ní alternation	Regularly	
+Yorùbá	29	TOUCH	kàn	Inchoative-causative	Never	
+Yorùbá	29	TOUCH	kàn	Ní/fi alternation	Never	
+Yorùbá	29	TOUCH	kàn	Oblique-dropping	Never	
+Yorùbá	29	TOUCH	kàn	Possessive alternation	Regularly	
+Yorùbá	29	TOUCH	kàn	Preposition-dropping	Never	
+Yorùbá	29	TOUCH	kàn	Recipient-dropping alternation	Never	
+Yorùbá	29	TOUCH	kàn	Symmetrical alternation	Never	
+Yorùbá	29	TOUCH	kàn	Theme-dropping alternation	Never	
+Yorùbá	30	CUT	gé	Fi alternation	Never	
+Yorùbá	30	CUT	gé	Fi/ní alternation	Regularly	
+Yorùbá	30	CUT	gé	Inchoative-causative	Regularly	
+Yorùbá	30	CUT	gé	Ní/fi alternation	Never	
+Yorùbá	30	CUT	gé	Oblique-dropping	Never	
+Yorùbá	30	CUT	gé	Possessive alternation	Regularly	
+Yorùbá	30	CUT	gé	Preposition-dropping	Never	
+Yorùbá	30	CUT	gé	Recipient-dropping alternation	Never	
+Yorùbá	30	CUT	gé	Symmetrical alternation	Never	
+Yorùbá	30	CUT	gé	Theme-dropping alternation	Never	
+Yorùbá	31	TAKE	gbà	Fi alternation	Never	
+Yorùbá	31	TAKE	gbà	Fi/ní alternation	Never	
+Yorùbá	31	TAKE	gbà	Inchoative-causative	Never	
+Yorùbá	31	TAKE	gbà	Ní/fi alternation	Never	
+Yorùbá	31	TAKE	gbà	Oblique-dropping	Never	
+Yorùbá	31	TAKE	gbà	Possessive alternation	Never	
+Yorùbá	31	TAKE	gbà	Preposition-dropping	Never	
+Yorùbá	31	TAKE	gbà	Recipient-dropping alternation	Never	
+Yorùbá	31	TAKE	gbà	Symmetrical alternation	Never	
+Yorùbá	31	TAKE	gbà	Theme-dropping alternation	Never	
+Yorùbá	32	TEAR	ya	Fi alternation	Never	
+Yorùbá	32	TEAR	ya	Fi/ní alternation	Never	
+Yorùbá	32	TEAR	ya	Inchoative-causative	Regularly	
+Yorùbá	32	TEAR	ya	Ní/fi alternation	Never	
+Yorùbá	32	TEAR	ya	Oblique-dropping	Never	
+Yorùbá	32	TEAR	ya	Possessive alternation	Marginally	
+Yorùbá	32	TEAR	ya	Preposition-dropping	Never	
+Yorùbá	32	TEAR	ya	Recipient-dropping alternation	Never	
+Yorùbá	32	TEAR	ya	Symmetrical alternation	Never	
+Yorùbá	32	TEAR	ya	Theme-dropping alternation	Never	
+Yorùbá	33	PEEL	bó	Fi alternation	Never	
+Yorùbá	33	PEEL	bó	Fi/ní alternation	Never	
+Yorùbá	33	PEEL	bó	Inchoative-causative	Regularly	
+Yorùbá	33	PEEL	bó	Ní/fi alternation	Never	
+Yorùbá	33	PEEL	bó	Oblique-dropping	Never	
+Yorùbá	33	PEEL	bó	Possessive alternation	Marginally	
+Yorùbá	33	PEEL	bó	Preposition-dropping	Never	
+Yorùbá	33	PEEL	bó	Recipient-dropping alternation	Never	
+Yorùbá	33	PEEL	bó	Symmetrical alternation	Never	
+Yorùbá	33	PEEL	bó	Theme-dropping alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Fi alternation	Regularly	
+Yorùbá	34	HIDE	pa...mó̩	Fi/ní alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Inchoative-causative	Never	
+Yorùbá	34	HIDE	pa...mó̩	Ní/fi alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Oblique-dropping	Never	
+Yorùbá	34	HIDE	pa...mó̩	Possessive alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Preposition-dropping	Never	
+Yorùbá	34	HIDE	pa...mó̩	Recipient-dropping alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Symmetrical alternation	Never	
+Yorùbá	34	HIDE	pa...mó̩	Theme-dropping alternation	Never	
+Yorùbá	35	SHOW	hàn	Fi alternation	Never	
+Yorùbá	35	SHOW	hàn	Fi/ní alternation	Marginally	
+Yorùbá	35	SHOW	hàn	Inchoative-causative	Never	
+Yorùbá	35	SHOW	hàn	Ní/fi alternation	Never	
+Yorùbá	35	SHOW	hàn	Oblique-dropping	Never	
+Yorùbá	35	SHOW	hàn	Possessive alternation	Never	
+Yorùbá	35	SHOW	hàn	Preposition-dropping	Never	
+Yorùbá	35	SHOW	hàn	Recipient-dropping alternation	Never	
+Yorùbá	35	SHOW	hàn	Symmetrical alternation	Never	
+Yorùbá	35	SHOW	hàn	Theme-dropping alternation	Never	
+Yorùbá	36	GIVE	fún	Fi alternation	Never	
+Yorùbá	36	GIVE	fún	Fi/ní alternation	Never	
+Yorùbá	36	GIVE	fún	Inchoative-causative	Never	
+Yorùbá	36	GIVE	fún	Ní/fi alternation	Regularly	
+Yorùbá	36	GIVE	fún	Oblique-dropping	Never	
+Yorùbá	36	GIVE	fún	Possessive alternation	Never	
+Yorùbá	36	GIVE	fún	Preposition-dropping	Never	
+Yorùbá	36	GIVE	fún	Recipient-dropping alternation	Never	
+Yorùbá	36	GIVE	fún	Symmetrical alternation	Never	
+Yorùbá	36	GIVE	fún	Theme-dropping alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Fi alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Fi/ní alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Inchoative-causative	Never	
+Yorùbá	37	SEND	ráns̩é̩	Ní/fi alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Oblique-dropping	Never	
+Yorùbá	37	SEND	ráns̩é̩	Possessive alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Preposition-dropping	Never	
+Yorùbá	37	SEND	ráns̩é̩	Recipient-dropping alternation	Marginally	
+Yorùbá	37	SEND	ráns̩é̩	Symmetrical alternation	Never	
+Yorùbá	37	SEND	ráns̩é̩	Theme-dropping alternation	Never	
+Yorùbá	38	CARRY	gbé	Fi alternation	Never	
+Yorùbá	38	CARRY	gbé	Fi/ní alternation	Never	
+Yorùbá	38	CARRY	gbé	Inchoative-causative	Never	
+Yorùbá	38	CARRY	gbé	Ní/fi alternation	Never	
+Yorùbá	38	CARRY	gbé	Oblique-dropping	Never	
+Yorùbá	38	CARRY	gbé	Possessive alternation	Never	
+Yorùbá	38	CARRY	gbé	Preposition-dropping	Never	
+Yorùbá	38	CARRY	gbé	Recipient-dropping alternation	Never	
+Yorùbá	38	CARRY	gbé	Symmetrical alternation	Never	
+Yorùbá	38	CARRY	gbé	Theme-dropping alternation	Never	
+Yorùbá	39	THROW	jù	Fi alternation	Never	
+Yorùbá	39	THROW	jù	Fi/ní alternation	Never	
+Yorùbá	39	THROW	jù	Inchoative-causative	Never	
+Yorùbá	39	THROW	jù	Ní/fi alternation	Never	
+Yorùbá	39	THROW	jù	Oblique-dropping	Never	
+Yorùbá	39	THROW	jù	Possessive alternation	Never	
+Yorùbá	39	THROW	jù	Preposition-dropping	Never	
+Yorùbá	39	THROW	jù	Recipient-dropping alternation	Never	
+Yorùbá	39	THROW	jù	Symmetrical alternation	Never	
+Yorùbá	39	THROW	jù	Theme-dropping alternation	Never	
+Yorùbá	40	TIE	dè	Fi alternation	Never	
+Yorùbá	40	TIE	dè	Fi/ní alternation	Regularly	
+Yorùbá	40	TIE	dè	Inchoative-causative	Marginally	
+Yorùbá	40	TIE	dè	Ní/fi alternation	Never	
+Yorùbá	40	TIE	dè	Oblique-dropping	Never	
+Yorùbá	40	TIE	dè	Possessive alternation	Never	
+Yorùbá	40	TIE	dè	Preposition-dropping	Never	
+Yorùbá	40	TIE	dè	Recipient-dropping alternation	Never	
+Yorùbá	40	TIE	dè	Symmetrical alternation	Never	
+Yorùbá	40	TIE	dè	Theme-dropping alternation	Never	
+Yorùbá	40	TIE	so (3)	Fi alternation	Never	
+Yorùbá	40	TIE	so (3)	Fi/ní alternation	Regularly	
+Yorùbá	40	TIE	so (3)	Inchoative-causative	Never	
+Yorùbá	40	TIE	so (3)	Ní/fi alternation	Never	
+Yorùbá	40	TIE	so (3)	Oblique-dropping	Never	
+Yorùbá	40	TIE	so (3)	Possessive alternation	Never	
+Yorùbá	40	TIE	so (3)	Preposition-dropping	Never	
+Yorùbá	40	TIE	so (3)	Recipient-dropping alternation	Never	
+Yorùbá	40	TIE	so (3)	Symmetrical alternation	Never	
+Yorùbá	40	TIE	so (3)	Theme-dropping alternation	Never	
+Yorùbá	41	PUT	fi	Fi alternation	Never	
+Yorùbá	41	PUT	fi	Fi/ní alternation	Never	
+Yorùbá	41	PUT	fi	Inchoative-causative	Never	
+Yorùbá	41	PUT	fi	Ní/fi alternation	Never	
+Yorùbá	41	PUT	fi	Oblique-dropping	Never	
+Yorùbá	41	PUT	fi	Possessive alternation	Marginally	
+Yorùbá	41	PUT	fi	Preposition-dropping	Never	
+Yorùbá	41	PUT	fi	Recipient-dropping alternation	Never	
+Yorùbá	41	PUT	fi	Symmetrical alternation	Never	
+Yorùbá	41	PUT	fi	Theme-dropping alternation	Never	
+Yorùbá	42	POUR	dà	Fi alternation	Never	
+Yorùbá	42	POUR	dà	Fi/ní alternation	Never	
+Yorùbá	42	POUR	dà	Inchoative-causative	Regularly	
+Yorùbá	42	POUR	dà	Ní/fi alternation	Never	
+Yorùbá	42	POUR	dà	Oblique-dropping	Never	
+Yorùbá	42	POUR	dà	Possessive alternation	Marginally	
+Yorùbá	42	POUR	dà	Preposition-dropping	Never	
+Yorùbá	42	POUR	dà	Recipient-dropping alternation	Never	
+Yorùbá	42	POUR	dà	Symmetrical alternation	Never	
+Yorùbá	42	POUR	dà	Theme-dropping alternation	Never	
+Yorùbá	42	POUR	ro̩	Fi alternation	Never	
+Yorùbá	42	POUR	ro̩	Fi/ní alternation	Never	
+Yorùbá	42	POUR	ro̩	Inchoative-causative	Never	
+Yorùbá	42	POUR	ro̩	Ní/fi alternation	Never	
+Yorùbá	42	POUR	ro̩	Oblique-dropping	Never	
+Yorùbá	42	POUR	ro̩	Possessive alternation	Marginally	
+Yorùbá	42	POUR	ro̩	Preposition-dropping	Never	
+Yorùbá	42	POUR	ro̩	Recipient-dropping alternation	Never	
+Yorùbá	42	POUR	ro̩	Symmetrical alternation	Never	
+Yorùbá	42	POUR	ro̩	Theme-dropping alternation	Never	
+Yorùbá	43	COVER	bò	Fi alternation	Never	
+Yorùbá	43	COVER	bò	Fi/ní alternation	Regularly	
+Yorùbá	43	COVER	bò	Inchoative-causative	Marginally	
+Yorùbá	43	COVER	bò	Ní/fi alternation	Never	
+Yorùbá	43	COVER	bò	Oblique-dropping	Never	
+Yorùbá	43	COVER	bò	Possessive alternation	Marginally	
+Yorùbá	43	COVER	bò	Preposition-dropping	Never	
+Yorùbá	43	COVER	bò	Recipient-dropping alternation	Never	
+Yorùbá	43	COVER	bò	Symmetrical alternation	Never	
+Yorùbá	43	COVER	bò	Theme-dropping alternation	Never	
+Yorùbá	43	COVER	dé	Fi alternation	Never	
+Yorùbá	43	COVER	dé	Fi/ní alternation	Regularly	
+Yorùbá	43	COVER	dé	Inchoative-causative	Never	
+Yorùbá	43	COVER	dé	Ní/fi alternation	Never	
+Yorùbá	43	COVER	dé	Oblique-dropping	Never	
+Yorùbá	43	COVER	dé	Possessive alternation	Marginally	
+Yorùbá	43	COVER	dé	Preposition-dropping	Never	
+Yorùbá	43	COVER	dé	Recipient-dropping alternation	Never	
+Yorùbá	43	COVER	dé	Symmetrical alternation	Never	
+Yorùbá	43	COVER	dé	Theme-dropping alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Fi alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Fi/ní alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Inchoative-causative	Never	
+Yorùbá	44	FILL	po̩n...kún	Ní/fi alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Oblique-dropping	Never	
+Yorùbá	44	FILL	po̩n...kún	Possessive alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Preposition-dropping	Never	
+Yorùbá	44	FILL	po̩n...kún	Recipient-dropping alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Symmetrical alternation	Never	
+Yorùbá	44	FILL	po̩n...kún	Theme-dropping alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Fi alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Fi/ní alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Inchoative-causative	Never	
+Yorùbá	44	FILL	ro̩...kún	Ní/fi alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Oblique-dropping	Never	
+Yorùbá	44	FILL	ro̩...kún	Possessive alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Preposition-dropping	Never	
+Yorùbá	44	FILL	ro̩...kún	Recipient-dropping alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Symmetrical alternation	Never	
+Yorùbá	44	FILL	ro̩...kún	Theme-dropping alternation	Never	
+Yorùbá	45	LOAD	kó	Fi alternation	Never	
+Yorùbá	45	LOAD	kó	Fi/ní alternation	Never	
+Yorùbá	45	LOAD	kó	Inchoative-causative	Never	
+Yorùbá	45	LOAD	kó	Ní/fi alternation	Never	
+Yorùbá	45	LOAD	kó	Oblique-dropping	Never	
+Yorùbá	45	LOAD	kó	Possessive alternation	Regularly	
+Yorùbá	45	LOAD	kó	Preposition-dropping	Never	
+Yorùbá	45	LOAD	kó	Recipient-dropping alternation	Never	
+Yorùbá	45	LOAD	kó	Symmetrical alternation	Never	
+Yorùbá	45	LOAD	kó	Theme-dropping alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Fi alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Fi/ní alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Inchoative-causative	Never	
+Yorùbá	47	COUGH	wúkó̩	Ní/fi alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Oblique-dropping	Never	
+Yorùbá	47	COUGH	wúkó̩	Possessive alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Preposition-dropping	Never	
+Yorùbá	47	COUGH	wúkó̩	Recipient-dropping alternation	Never	
+Yorùbá	47	COUGH	wúkó̩	Symmetrical alternation	Regularly	
+Yorùbá	47	COUGH	wúkó̩	Theme-dropping alternation	Never	
+Yorùbá	48	CLIMB	gùn	Fi alternation	Never	
+Yorùbá	48	CLIMB	gùn	Fi/ní alternation	Never	
+Yorùbá	48	CLIMB	gùn	Inchoative-causative	Never	
+Yorùbá	48	CLIMB	gùn	Ní/fi alternation	Never	
+Yorùbá	48	CLIMB	gùn	Oblique-dropping	Never	
+Yorùbá	48	CLIMB	gùn	Possessive alternation	Marginally	
+Yorùbá	48	CLIMB	gùn	Preposition-dropping	Never	
+Yorùbá	48	CLIMB	gùn	Recipient-dropping alternation	Never	
+Yorùbá	48	CLIMB	gùn	Symmetrical alternation	Never	
+Yorùbá	48	CLIMB	gùn	Theme-dropping alternation	Never	
+Yorùbá	49	RUN	sáré	Fi alternation	Never	
+Yorùbá	49	RUN	sáré	Fi/ní alternation	Never	
+Yorùbá	49	RUN	sáré	Inchoative-causative	Never	
+Yorùbá	49	RUN	sáré	Ní/fi alternation	Never	
+Yorùbá	49	RUN	sáré	Oblique-dropping	Never	
+Yorùbá	49	RUN	sáré	Possessive alternation	Never	
+Yorùbá	49	RUN	sáré	Preposition-dropping	Never	
+Yorùbá	49	RUN	sáré	Recipient-dropping alternation	Never	
+Yorùbá	49	RUN	sáré	Symmetrical alternation	Never	
+Yorùbá	49	RUN	sáré	Theme-dropping alternation	Never	
+Yorùbá	50	SIT	jókòó	Fi alternation	Never	
+Yorùbá	50	SIT	jókòó	Fi/ní alternation	Never	
+Yorùbá	50	SIT	jókòó	Inchoative-causative	Never	
+Yorùbá	50	SIT	jókòó	Ní/fi alternation	Never	
+Yorùbá	50	SIT	jókòó	Oblique-dropping	Never	
+Yorùbá	50	SIT	jókòó	Possessive alternation	Never	
+Yorùbá	50	SIT	jókòó	Preposition-dropping	Never	
+Yorùbá	50	SIT	jókòó	Recipient-dropping alternation	Never	
+Yorùbá	50	SIT	jókòó	Symmetrical alternation	Never	
+Yorùbá	50	SIT	jókòó	Theme-dropping alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Fi alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Fi/ní alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Inchoative-causative	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Ní/fi alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Oblique-dropping	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Possessive alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Preposition-dropping	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Recipient-dropping alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Symmetrical alternation	Never	
+Yorùbá	52	JUMP	bé̩sílè̩	Theme-dropping alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Fi alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Fi/ní alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Inchoative-causative	Never	
+Yorùbá	52	JUMP	fòsókè	Ní/fi alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Oblique-dropping	Never	
+Yorùbá	52	JUMP	fòsókè	Possessive alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Preposition-dropping	Never	
+Yorùbá	52	JUMP	fòsókè	Recipient-dropping alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Symmetrical alternation	Never	
+Yorùbá	52	JUMP	fòsókè	Theme-dropping alternation	Never	
+Yorùbá	53	SING	ko̩rin	Fi alternation	Never	
+Yorùbá	53	SING	ko̩rin	Fi/ní alternation	Never	
+Yorùbá	53	SING	ko̩rin	Inchoative-causative	Never	
+Yorùbá	53	SING	ko̩rin	Ní/fi alternation	Never	
+Yorùbá	53	SING	ko̩rin	Oblique-dropping	Never	
+Yorùbá	53	SING	ko̩rin	Possessive alternation	Marginally	
+Yorùbá	53	SING	ko̩rin	Preposition-dropping	Never	
+Yorùbá	53	SING	ko̩rin	Recipient-dropping alternation	Never	
+Yorùbá	53	SING	ko̩rin	Symmetrical alternation	Never	
+Yorùbá	53	SING	ko̩rin	Theme-dropping alternation	Never	
+Yorùbá	54	GO	lo̩	Fi alternation	Never	
+Yorùbá	54	GO	lo̩	Fi/ní alternation	Never	
+Yorùbá	54	GO	lo̩	Inchoative-causative	Never	
+Yorùbá	54	GO	lo̩	Ní/fi alternation	Never	
+Yorùbá	54	GO	lo̩	Oblique-dropping	Regularly	
+Yorùbá	54	GO	lo̩	Possessive alternation	Never	
+Yorùbá	54	GO	lo̩	Preposition-dropping	Never	
+Yorùbá	54	GO	lo̩	Recipient-dropping alternation	Never	
+Yorùbá	54	GO	lo̩	Symmetrical alternation	Never	
+Yorùbá	54	GO	lo̩	Theme-dropping alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Fi alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Fi/ní alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Inchoative-causative	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Ní/fi alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Oblique-dropping	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Possessive alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Preposition-dropping	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Recipient-dropping alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Symmetrical alternation	Never	
+Yorùbá	55	LEAVE	fi...sílè̩	Theme-dropping alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Fi alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Fi/ní alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Inchoative-causative	Never	
+Yorùbá	56	LIVE	gbé (2)	Ní/fi alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Oblique-dropping	Never	
+Yorùbá	56	LIVE	gbé (2)	Possessive alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Preposition-dropping	Never	
+Yorùbá	56	LIVE	gbé (2)	Recipient-dropping alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Symmetrical alternation	Never	
+Yorùbá	56	LIVE	gbé (2)	Theme-dropping alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Fi alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Fi/ní alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Inchoative-causative	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Ní/fi alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Oblique-dropping	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Possessive alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Preposition-dropping	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Recipient-dropping alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Symmetrical alternation	Never	
+Yorùbá	57	LAUGH	ré̩rìín	Theme-dropping alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Fi alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Fi/ní alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Inchoative-causative	Never	
+Yorùbá	58	SCREAM	ho̩n	Ní/fi alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Oblique-dropping	Never	
+Yorùbá	58	SCREAM	ho̩n	Possessive alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Preposition-dropping	Never	
+Yorùbá	58	SCREAM	ho̩n	Recipient-dropping alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Symmetrical alternation	Never	
+Yorùbá	58	SCREAM	ho̩n	Theme-dropping alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Fi alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Fi/ní alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Inchoative-causative	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Ní/fi alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Oblique-dropping	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Possessive alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Preposition-dropping	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Recipient-dropping alternation	Never	
+Yorùbá	60	FEEL COLD	móòtútù	Symmetrical alternation	Regularly	
+Yorùbá	60	FEEL COLD	móòtútù	Theme-dropping alternation	Never	
+Yorùbá	61	DIE	kú	Fi alternation	Never	
+Yorùbá	61	DIE	kú	Fi/ní alternation	Never	
+Yorùbá	61	DIE	kú	Inchoative-causative	Never	
+Yorùbá	61	DIE	kú	Ní/fi alternation	Never	
+Yorùbá	61	DIE	kú	Oblique-dropping	Never	
+Yorùbá	61	DIE	kú	Possessive alternation	Never	
+Yorùbá	61	DIE	kú	Preposition-dropping	Never	
+Yorùbá	61	DIE	kú	Recipient-dropping alternation	Never	
+Yorùbá	61	DIE	kú	Symmetrical alternation	Never	
+Yorùbá	61	DIE	kú	Theme-dropping alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Fi alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Fi/ní alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Inchoative-causative	Never	
+Yorùbá	62	PLAY	s̩eré	Ní/fi alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Oblique-dropping	Never	
+Yorùbá	62	PLAY	s̩eré	Possessive alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Preposition-dropping	Never	
+Yorùbá	62	PLAY	s̩eré	Recipient-dropping alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Symmetrical alternation	Never	
+Yorùbá	62	PLAY	s̩eré	Theme-dropping alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Fi alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Fi/ní alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Inchoative-causative	Never	
+Yorùbá	63	BE SAD	banújé̩	Ní/fi alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Oblique-dropping	Never	
+Yorùbá	63	BE SAD	banújé̩	Possessive alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Preposition-dropping	Never	
+Yorùbá	63	BE SAD	banújé̩	Recipient-dropping alternation	Never	
+Yorùbá	63	BE SAD	banújé̩	Symmetrical alternation	Regularly	
+Yorùbá	63	BE SAD	banújé̩	Theme-dropping alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Fi alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Fi/ní alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Inchoative-causative	Never	
+Yorùbá	64	BE HUNGRY	pebi	Ní/fi alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Oblique-dropping	Never	
+Yorùbá	64	BE HUNGRY	pebi	Possessive alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Preposition-dropping	Never	
+Yorùbá	64	BE HUNGRY	pebi	Recipient-dropping alternation	Never	
+Yorùbá	64	BE HUNGRY	pebi	Symmetrical alternation	Regularly	
+Yorùbá	64	BE HUNGRY	pebi	Theme-dropping alternation	Never	
+Yorùbá	65	ROLL	yí	Fi alternation	Never	
+Yorùbá	65	ROLL	yí	Fi/ní alternation	Never	
+Yorùbá	65	ROLL	yí	Inchoative-causative	Never	
+Yorùbá	65	ROLL	yí	Ní/fi alternation	Never	
+Yorùbá	65	ROLL	yí	Oblique-dropping	Never	
+Yorùbá	65	ROLL	yí	Possessive alternation	Never	
+Yorùbá	65	ROLL	yí	Preposition-dropping	Never	
+Yorùbá	65	ROLL	yí	Recipient-dropping alternation	Never	
+Yorùbá	65	ROLL	yí	Symmetrical alternation	Never	
+Yorùbá	65	ROLL	yí	Theme-dropping alternation	Never	
+Yorùbá	66	SINK	rì (2)	Fi alternation	Never	
+Yorùbá	66	SINK	rì (2)	Fi/ní alternation	Never	
+Yorùbá	66	SINK	rì (2)	Inchoative-causative	Never	
+Yorùbá	66	SINK	rì (2)	Ní/fi alternation	Never	
+Yorùbá	66	SINK	rì (2)	Oblique-dropping	Never	
+Yorùbá	66	SINK	rì (2)	Possessive alternation	Never	
+Yorùbá	66	SINK	rì (2)	Preposition-dropping	Never	
+Yorùbá	66	SINK	rì (2)	Recipient-dropping alternation	Never	
+Yorùbá	66	SINK	rì (2)	Symmetrical alternation	Never	
+Yorùbá	66	SINK	rì (2)	Theme-dropping alternation	Never	
+Yorùbá	67	BURN	jó	Fi alternation	Never	
+Yorùbá	67	BURN	jó	Fi/ní alternation	Never	
+Yorùbá	67	BURN	jó	Inchoative-causative	Never	
+Yorùbá	67	BURN	jó	Ní/fi alternation	Never	
+Yorùbá	67	BURN	jó	Oblique-dropping	Never	
+Yorùbá	67	BURN	jó	Possessive alternation	Never	
+Yorùbá	67	BURN	jó	Preposition-dropping	Never	
+Yorùbá	67	BURN	jó	Recipient-dropping alternation	Never	
+Yorùbá	67	BURN	jó	Symmetrical alternation	Never	
+Yorùbá	67	BURN	jó	Theme-dropping alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Fi alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Fi/ní alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Inchoative-causative	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Ní/fi alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Oblique-dropping	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Possessive alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Preposition-dropping	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Recipient-dropping alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Symmetrical alternation	Never	
+Yorùbá	68	BE DRY	gbe̩ (3)	Theme-dropping alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Fi alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Fi/ní alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Inchoative-causative	Never	
+Yorùbá	69	RAIN	rò̩jò	Ní/fi alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Oblique-dropping	Never	
+Yorùbá	69	RAIN	rò̩jò	Possessive alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Preposition-dropping	Never	
+Yorùbá	69	RAIN	rò̩jò	Recipient-dropping alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Symmetrical alternation	Never	
+Yorùbá	69	RAIN	rò̩jò	Theme-dropping alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Fi alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Fi/ní alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Inchoative-causative	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Ní/fi alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Oblique-dropping	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Possessive alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Preposition-dropping	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Recipient-dropping alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Symmetrical alternation	Never	
+Yorùbá	71	GRIND	lò̩ (2)	Theme-dropping alternation	Never	
+Yorùbá	72	WIPE	nù	Fi alternation	Never	
+Yorùbá	72	WIPE	nù	Fi/ní alternation	Never	
+Yorùbá	72	WIPE	nù	Inchoative-causative	Never	
+Yorùbá	72	WIPE	nù	Ní/fi alternation	Never	
+Yorùbá	72	WIPE	nù	Oblique-dropping	Never	
+Yorùbá	72	WIPE	nù	Possessive alternation	Never	
+Yorùbá	72	WIPE	nù	Preposition-dropping	Never	
+Yorùbá	72	WIPE	nù	Recipient-dropping alternation	Never	
+Yorùbá	72	WIPE	nù	Symmetrical alternation	Never	
+Yorùbá	72	WIPE	nù	Theme-dropping alternation	Never	
+Yorùbá	73	DIG	gbé̩	Fi alternation	Never	
+Yorùbá	73	DIG	gbé̩	Fi/ní alternation	Never	
+Yorùbá	73	DIG	gbé̩	Inchoative-causative	Never	
+Yorùbá	73	DIG	gbé̩	Ní/fi alternation	Never	
+Yorùbá	73	DIG	gbé̩	Oblique-dropping	Never	
+Yorùbá	73	DIG	gbé̩	Possessive alternation	Never	
+Yorùbá	73	DIG	gbé̩	Preposition-dropping	Never	
+Yorùbá	73	DIG	gbé̩	Recipient-dropping alternation	Never	
+Yorùbá	73	DIG	gbé̩	Symmetrical alternation	Never	
+Yorùbá	73	DIG	gbé̩	Theme-dropping alternation	Never	
+Yorùbá	74	PUSH	tì	Fi alternation	Never	
+Yorùbá	74	PUSH	tì	Fi/ní alternation	Never	
+Yorùbá	74	PUSH	tì	Inchoative-causative	Never	
+Yorùbá	74	PUSH	tì	Ní/fi alternation	Never	
+Yorùbá	74	PUSH	tì	Oblique-dropping	Never	
+Yorùbá	74	PUSH	tì	Possessive alternation	Never	
+Yorùbá	74	PUSH	tì	Preposition-dropping	Never	
+Yorùbá	74	PUSH	tì	Recipient-dropping alternation	Never	
+Yorùbá	74	PUSH	tì	Symmetrical alternation	Never	
+Yorùbá	74	PUSH	tì	Theme-dropping alternation	Never	
+Yorùbá	75	BRING	mú...wá	Fi alternation	Never	
+Yorùbá	75	BRING	mú...wá	Fi/ní alternation	Never	
+Yorùbá	75	BRING	mú...wá	Inchoative-causative	Never	
+Yorùbá	75	BRING	mú...wá	Ní/fi alternation	Never	
+Yorùbá	75	BRING	mú...wá	Oblique-dropping	Never	
+Yorùbá	75	BRING	mú...wá	Possessive alternation	Never	
+Yorùbá	75	BRING	mú...wá	Preposition-dropping	Never	
+Yorùbá	75	BRING	mú...wá	Recipient-dropping alternation	Never	
+Yorùbá	75	BRING	mú...wá	Symmetrical alternation	Never	
+Yorùbá	75	BRING	mú...wá	Theme-dropping alternation	Never	
+Yorùbá	76	STEAL	jí	Fi alternation	Never	
+Yorùbá	76	STEAL	jí	Fi/ní alternation	Never	
+Yorùbá	76	STEAL	jí	Inchoative-causative	Never	
+Yorùbá	76	STEAL	jí	Ní/fi alternation	Never	
+Yorùbá	76	STEAL	jí	Oblique-dropping	Never	
+Yorùbá	76	STEAL	jí	Possessive alternation	Marginally	
+Yorùbá	76	STEAL	jí	Preposition-dropping	Never	
+Yorùbá	76	STEAL	jí	Recipient-dropping alternation	Never	
+Yorùbá	76	STEAL	jí	Symmetrical alternation	Never	
+Yorùbá	76	STEAL	jí	Theme-dropping alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Fi alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Fi/ní alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Inchoative-causative	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Ní/fi alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Oblique-dropping	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Possessive alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Preposition-dropping	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Recipient-dropping alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Symmetrical alternation	Never	
+Yorùbá	77	TEACH	kó̩ (2)	Theme-dropping alternation	Regularly	
+Yorùbá	78	HEAR	gbó̩	Fi alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Fi/ní alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Inchoative-causative	Never	
+Yorùbá	78	HEAR	gbó̩	Ní/fi alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Oblique-dropping	Never	
+Yorùbá	78	HEAR	gbó̩	Possessive alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Preposition-dropping	Never	
+Yorùbá	78	HEAR	gbó̩	Recipient-dropping alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Symmetrical alternation	Never	
+Yorùbá	78	HEAR	gbó̩	Theme-dropping alternation	Never	
+Yorùbá	79	COOK	dáná	Fi alternation	Never	
+Yorùbá	79	COOK	dáná	Fi/ní alternation	Never	
+Yorùbá	79	COOK	dáná	Inchoative-causative	Never	
+Yorùbá	79	COOK	dáná	Ní/fi alternation	Never	
+Yorùbá	79	COOK	dáná	Oblique-dropping	Never	
+Yorùbá	79	COOK	dáná	Possessive alternation	Never	
+Yorùbá	79	COOK	dáná	Preposition-dropping	Never	
+Yorùbá	79	COOK	dáná	Recipient-dropping alternation	Never	
+Yorùbá	79	COOK	dáná	Symmetrical alternation	Never	
+Yorùbá	79	COOK	dáná	Theme-dropping alternation	Never	
+Yorùbá	79	COOK	sè	Fi alternation	Never	
+Yorùbá	79	COOK	sè	Fi/ní alternation	Never	
+Yorùbá	79	COOK	sè	Inchoative-causative	Regularly	
+Yorùbá	79	COOK	sè	Ní/fi alternation	Never	
+Yorùbá	79	COOK	sè	Oblique-dropping	Never	
+Yorùbá	79	COOK	sè	Possessive alternation	Never	
+Yorùbá	79	COOK	sè	Preposition-dropping	Never	
+Yorùbá	79	COOK	sè	Recipient-dropping alternation	Never	
+Yorùbá	79	COOK	sè	Symmetrical alternation	Never	
+Yorùbá	79	COOK	sè	Theme-dropping alternation	Never	
+Yorùbá	80	BOIL	hó	Fi alternation	Never	
+Yorùbá	80	BOIL	hó	Fi/ní alternation	Never	
+Yorùbá	80	BOIL	hó	Inchoative-causative	Never	
+Yorùbá	80	BOIL	hó	Ní/fi alternation	Never	
+Yorùbá	80	BOIL	hó	Oblique-dropping	Never	
+Yorùbá	80	BOIL	hó	Possessive alternation	Never	
+Yorùbá	80	BOIL	hó	Preposition-dropping	Never	
+Yorùbá	80	BOIL	hó	Recipient-dropping alternation	Never	
+Yorùbá	80	BOIL	hó	Symmetrical alternation	Never	
+Yorùbá	80	BOIL	hó	Theme-dropping alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Fi alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Fi/ní alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Inchoative-causative	Never	
+Yorùbá	81	APPEAR	farahàn	Ní/fi alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Oblique-dropping	Never	
+Yorùbá	81	APPEAR	farahàn	Possessive alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Preposition-dropping	Regularly	
+Yorùbá	81	APPEAR	farahàn	Recipient-dropping alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Symmetrical alternation	Never	
+Yorùbá	81	APPEAR	farahàn	Theme-dropping alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Fi alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Fi/ní alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Inchoative-causative	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Ní/fi alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Oblique-dropping	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Possessive alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Preposition-dropping	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Recipient-dropping alternation	Never	
+Yorùbá	82	BE ILL	s̩àárè̩	Symmetrical alternation	Regularly	
+Yorùbá	82	BE ILL	s̩àárè̩	Theme-dropping alternation	Never	
+Yorùbá	83	CRY	sunkún	Fi alternation	Never	
+Yorùbá	83	CRY	sunkún	Fi/ní alternation	Never	
+Yorùbá	83	CRY	sunkún	Inchoative-causative	Never	
+Yorùbá	83	CRY	sunkún	Ní/fi alternation	Never	
+Yorùbá	83	CRY	sunkún	Oblique-dropping	Never	
+Yorùbá	83	CRY	sunkún	Possessive alternation	Never	
+Yorùbá	83	CRY	sunkún	Preposition-dropping	Never	
+Yorùbá	83	CRY	sunkún	Recipient-dropping alternation	Never	
+Yorùbá	83	CRY	sunkún	Symmetrical alternation	Never	
+Yorùbá	83	CRY	sunkún	Theme-dropping alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Fi alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Fi/ní alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Inchoative-causative	Never	
+Yorùbá	84	FALL	s̩ubú	Ní/fi alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Oblique-dropping	Never	
+Yorùbá	84	FALL	s̩ubú	Possessive alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Preposition-dropping	Never	
+Yorùbá	84	FALL	s̩ubú	Recipient-dropping alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Symmetrical alternation	Never	
+Yorùbá	84	FALL	s̩ubú	Theme-dropping alternation	Never	
+Yorùbá	85	MAKE	s̩e	Fi alternation	Never	
+Yorùbá	85	MAKE	s̩e	Fi/ní alternation	Regularly	
+Yorùbá	85	MAKE	s̩e	Inchoative-causative	Never	
+Yorùbá	85	MAKE	s̩e	Ní/fi alternation	Never	
+Yorùbá	85	MAKE	s̩e	Oblique-dropping	Never	
+Yorùbá	85	MAKE	s̩e	Possessive alternation	Never	
+Yorùbá	85	MAKE	s̩e	Preposition-dropping	Never	
+Yorùbá	85	MAKE	s̩e	Recipient-dropping alternation	Never	
+Yorùbá	85	MAKE	s̩e	Symmetrical alternation	Never	
+Yorùbá	85	MAKE	s̩e	Theme-dropping alternation	Never	
+Yorùbá	86	GET	gbà (2)	Fi alternation	Never	
+Yorùbá	86	GET	gbà (2)	Fi/ní alternation	Never	
+Yorùbá	86	GET	gbà (2)	Inchoative-causative	Never	
+Yorùbá	86	GET	gbà (2)	Ní/fi alternation	Never	
+Yorùbá	86	GET	gbà (2)	Oblique-dropping	Never	
+Yorùbá	86	GET	gbà (2)	Possessive alternation	Never	
+Yorùbá	86	GET	gbà (2)	Preposition-dropping	Never	
+Yorùbá	86	GET	gbà (2)	Recipient-dropping alternation	Never	
+Yorùbá	86	GET	gbà (2)	Symmetrical alternation	Never	
+Yorùbá	86	GET	gbà (2)	Theme-dropping alternation	Never	
+Yorùbá	87	WANT	fé̩	Fi alternation	Never	
+Yorùbá	87	WANT	fé̩	Fi/ní alternation	Never	
+Yorùbá	87	WANT	fé̩	Inchoative-causative	Never	
+Yorùbá	87	WANT	fé̩	Ní/fi alternation	Never	
+Yorùbá	87	WANT	fé̩	Oblique-dropping	Never	
+Yorùbá	87	WANT	fé̩	Possessive alternation	Never	
+Yorùbá	87	WANT	fé̩	Preposition-dropping	Never	
+Yorùbá	87	WANT	fé̩	Recipient-dropping alternation	Never	
+Yorùbá	87	WANT	fé̩	Symmetrical alternation	Never	
+Yorùbá	87	WANT	fé̩	Theme-dropping alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Fi alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Fi/ní alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Inchoative-causative	Never	
+Yorùbá	113	WINK	s̩é̩jú	Ní/fi alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Oblique-dropping	Never	
+Yorùbá	113	WINK	s̩é̩jú	Possessive alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Preposition-dropping	Never	
+Yorùbá	113	WINK	s̩é̩jú	Recipient-dropping alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Symmetrical alternation	Never	
+Yorùbá	113	WINK	s̩é̩jú	Theme-dropping alternation	Never	

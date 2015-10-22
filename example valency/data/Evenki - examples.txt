@@ -1,0 +1,110 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Evenki	1	Elicited from speaker	Beje tar kuŋakanme hullat dastan.		beje tar kuŋakan-me hulla-t das-ta-n	man that child-ACC blanket-INSTR cover-NONFUT-3SG	The man covered the child with the blanket.
+Evenki	2		Beje stakanma muut d’alupkiran.		beje stakan-ma muu-t d’alupki-ra-n	man glass-ACC water-INSTR fill-NONFUT-3SG	The man filled the glass with water .
+Evenki	3		Beje oroktovo iruktavundu tevren.		beje orokto-vo iruktavun-du tev-re-n	man hay-ACC cart-DAT load-NONFUT-3SG	The man loaded the hay on the cart.
+Evenki	4		Beje morinma moodu uiren.		beje morin-ma moo-du ui-re-n	man horse-ACC tree-DAT tie-NONFUT-3SG	The man tied the horse to the tree.
+Evenki	5		Beje muuve tygedu uŋkuren.		beje muu-ve tyge-du uŋku-re-n	man water-ACC bowel-DAT pour-NONFUT-3SG	The man poured the water into the glass.
+Evenki	6		Beje knigava ostoldu neeren.		beje kniga-va ostol-du nee-re-n	man book-ACC table-DAT put-NONFUT-3SG	The man put the book on the table.
+Evenki	7		Bejetken d’olovo okoshkoli nodaaren.		bejetken d’olo-vo okoshko-li nodaa-re-n	boy stone-ACC window-PROL throw-NONFUT-3SG	The boy threw the stone into the window.
+Evenki	8		Bejetken knigava alagumnidu emevren.		bejetken kniga-va alagumni-du eme-v-re-n	boy book-ACC teacher-DAT come-CAUS-NONFUT-3SG	The boy brought the book to the teacher.
+Evenki	9		Bejetken knigava alagumnila / tatkittula ŋenevd’ečen.		bejetken kniga-va alagumni-la / tatkit-tula ŋene-v-d’eče-n	boy book-ACC teacher-LOC / school-LOC go-CAUS-IPFV-3SG	The boy carried the book to the teacher / to school.
+Evenki	10		Bejetken knigava alagumnila / tatkittula ungčen.		bejetken kniga-va alagumni-la / tatkit-tula ung-če-n	boy book-ACC teacher-LOC / school-LOC send-AOR-3SG	The boy sent the book to the teacher/to school.
+Evenki	11		Bejetken knigava alagumnidu buuren.		bejetken kniga-va alagumni-du buu-re-n	boy book-ACC teacher-DAT give-NONFUT-3SG	The boy gave the book to the teacher.
+Evenki	12		Bejetken knigava alagumnidu ičevkenen.		bejetken kniga-va alagumni-du iče-vken-e-n	boy book-ACC teacher-DAT see-CAUS-NONFUT-3SG	The boy showed the book to the teacher.
+Evenki	13		Bejetken knigava alagumniduk garan.		bejetken kniga-va alagumni-duk ga-ra-n	boy book-ACC teacher-ABL take-NONFUT-3SG	The boy got the book from the teacher.
+Evenki	14		Bejetken knigava alagumniduk d’oromoron.		bejetken kniga-va alagumni-duk d’oromo-ro-n	boy book-ACC teacher-ABL steal-NONFUT-3SG	The boy stole the book from the teacher.
+Evenki	15		Bejetken knigava alagumniduk d’ajaran.		bejetken kniga-va alagumni-duk d’aja-ra-n	boy book-ACC teacher-ABL hide-NONFUT-3SG	The boy hid the book from the teacher.
+Evenki	16		Bejetken knigaduk stranitsava etytten.		bejetken kniga-duk stranitsa-va etyt-te-n	boy book-ABL page-ACC tear-NONFUT-3SG	The boy tore the page from the book.
+Evenki	17		Bejetken tetygeduk n’aŋn’ava tesiren.		bejetken tetyge-duk n’aŋn’a-va tesi-re-n	boy cloth-ABL dirt-ACC wipe-NONFUT-3SG	The boy wiped the dirt from the cloth.
+Evenki	18		Bejetken kolobovo purtat mineren.		bejetken kolobo-vo purta-t mine-re-n	boy bread-ACC knife-INSTR cut-NONFUT-3SG	The boy cut the bread with the knife.
+Evenki	19		Bejetken kulinma mokandi ilečečen.		bejetken kulin-ma mokan-di ileče-če-n	boy snake-ACC stick-INSTR touch-AOR-3SG	The boy touched the snake with the stick .
+Evenki	20		Bejetken kulinma mokandi ikteren.		bejetken kulin-ma mokan-di ikte-re-n	boy snake-ACC stick-INSTR hit-NONFUT-3SG	The boy hit the snake with the stick .
+Evenki	21		Bejetken kulinma mokandi iktud’ečen.		bejetken kulin-ma mokan-di iktu-d’eče-n	boy snake-ACC stick-INSTR beat-IPFV-3SG	The boy beat the snake with the stick.
+Evenki	22		Bejetken kulinma mokandi vaaren.		bejetken kulin-ma mokan-di vaa-re-n	boy snake-ACC stick-INSTR kill-NONFUT-3SG	The boy killed the snake with the stick.
+Evenki	23		Bejetken oknovo d’olot sukčaran.		bejetken okno-vo d’olo-t sukča-ra-n	boy window-ACC stone-INSTR break-NONFUT-3SG	The boy broke the window with the stone.
+Evenki	24		Beje d’uuva mooduk ooran.		beje d’uu-va moo-duk oo-ra-n	man house-ACC wood-ABL make-NONFUT-3SG	The man built the house of timber.
+Evenki	25		Beje bejetkenme dulbundi gerbitten (gerbičen).		beje bejetken-me dulbun-di gerbit-te-n (gerbi-če-n)	man boy-ACC fool-INSTR call-NONFUT-3SG (call-AOR-3SG)	The man called the boy a fool.
+Evenki	26		Beje bejetkendu ted’eve guunen.		beje bejetken-du ted’e-ve guun-e-n	man boy-DAT truth-ACC say-NONFUT-3SG	The man said truth to the boy.
+Evenki	27		Beje bejetkentyki tepkeren.		beje bejetken-tyki tepke-re-n	man boy-ALL shout-NONFUT-3SG	The man shouted to the boy.
+Evenki	28		Beje ulgurve bejetkendu ulgučenen.		beje ulgur-ve bejetken-du ulgučen-e-n	man story-ACC boy-DAT tell-NONFUT-3SG	The man told a story to the boy.
+Evenki	29		Bejetken bejeve ejetčen meŋurve buuden.		bejetken beje-ve ejet-če-n meŋur-ve buu-de-n	boy man-ACC ask-AOR-3SG money-ACC give-PURP-3SG	The boy asked the man for money.
+Evenki	30		Beje bejetkennun agili ulgučemetten.		beje bejetken-nun agi-li ulguče-met-te-n	man boy-COMIT taiga-PROL talk-RECIPR-NONFUT-3SG	The man talked to the boy about the taiga.
+Evenki	31		Beje tar bejetkenme saačan.		beje tar bejetken-me saa-ča-n	man that boy-ACC know-AOR-3SG	The man knew the boy.
+Evenki	32		Beje bejetkenme ičeren.		beje bejetken-me iče-re-n	man boy-ACC see-NONFUT-3SG	The man saw the boy.
+Evenki	33		Beje bejetkenme ičetten.		beje bejetken-me ičet-te-n	man boy-ACC look.at-NONFUT-3SG	The man looked at the boy.
+Evenki	34		Beje bejetkenme ŋeelevkenen.		beje bejetken-me ŋeele-vken-e-n	man boy-ACC fear-CAUS-NONFUT-3SG	The man frightened the boy.
+Evenki	35		Bejetken bejeduk ŋeeletčečen.		bejetken beje-duk ŋeelet-čeče-n	boy man-ABL fear-IPFV-3SG	The boy feared the man.
+Evenki	36		Bejetken bejeve ajavd’ačan.		bejetken beje-ve ajav-d’ača-n	boy man-ACC like-IPFV-3SG	The boy liked the man.
+Evenki	37		Beje bejetkenme gelekted’ečen.		beje bejetken-me gelekte-d’eče-n	man boy-ACC look.for-IPFV-3SG	The man searched for the boy .
+Evenki	38		Beje hunatpa arčaran.		beje hunat-pa arča-ra-n	man girl-ACC meet-NONFUT-3SG	The man met the girl.
+Evenki	39		Beje hunatpa bodod’očon.		beje hunat-pa bodo-d’očo-n	man girl-ACC follow-IPFV-3SG	The man followed the girl.
+Evenki	40		Beje hunattu beleren.		beje hunat-tu bele-re-n	man girl-DAT help-NONFUT-3SG	The man helped the girl.
+Evenki	41		Beje kolobovo d’epten.		beje kolobo-vo d’ep-te-n	man bread-ACC eat-NONFUT-3SG	The man ate the bread.
+Evenki	42		Beje kuŋakanme tetyvren.		beje kuŋakan-me tet-yv-re-n	man child-ACC dress-CAUS-NONFUT-3SG	The man dressed the child.
+Evenki	43		Beje kuŋakanme avran.		beje kuŋakan-me av-ra-n	man child-ACC wash-NONFUT-3SG	The man washed the child.
+Evenki	44		Beje simkitčan.		beje simkit-ča-n	man cough-AOR-3SG	The man coughed.
+Evenki	45		Beje urele tuktyren.		beje ure-le tukty-re-n	man mountain-LOC climb-NONFUT-3SG	The man climbed (up) the hill.
+Evenki	46		Beje dunnedu tegeren.		beje dunne-du tege-re-n	man ground-DAT sit.down-NONFUT-3SG	The man sat down (on the floor).
+Evenki	47		Beje dunnedu tegetčečen.		beje dunne-du tege-t-čeče-n	man ground-DAT sit-PROC-NONFUT-3SG	The man sat (= was sitting) (on the floor).
+Evenki	48		Kuŋakan agili tuksad’aran.		kuŋakan agi-li tuksa-d’ara-n	child taiga-PROL run-PRES-3SG	The child is running in the forest.
+Evenki	49		Kuŋakan poldula mikčanen.		kuŋakan pol-dula mikčan-e-n	child floor-LOC jump-NONFUT-3SG	The child jumped on the floor.
+Evenki	50		Bejetken ikenme iked’ečen.		bejetken iken-me ike-d’eče-n	boy song-ACC sing-IPFV-3SG	The boy sang (a song).
+Evenki	51		Bejetken gulesegdu bid’ečen.		bejetken guleseg-du bi-d’eče-n	boy village-DAT be-IPFV-3SG	The boy lived (in the village).
+Evenki	52		Bejetken hoktodu ičevullen.		bejetken hokto-du iče-vu-l-le-n	boy road-DAT see-PASS-INCEP-NONFUT-3SG	The boy appeared on the road.
+Evenki	53		Ŋalev enuud’eren.		Ŋale-v enuu-d’ere-n	arm-1SG.POSS ache-PRES-3SG	My arm hurts (me).
+Evenki	54		Beje bučen.		beje bu-če-n	man die-AOR-3SG	The man died.
+Evenki	55		Beje dunnele bururen.		beje dunne-le buru-re-n	man ground-LOC fall-NONFUT-3SG	The man fell (on the ground).
+Evenki	56		Bejetken doŋotoron.		bejetken doŋoto-ro-n	boy freeze-NONFUT-3SG	The boy froze.
+Evenki	57		Bejetken d’emmud’ečen.		bejetken d’em-mu-d’eče-n	boy eat-want-IPFV-3SG	The boy was hungry.
+Evenki	58		(Udun) udund’ečen.		(udun) udun-d’eče-n	(rain) rain-IPFV-3SG	It rained.
+Evenki	59		Bejetken gulesegduk sururen.		bejetken guleseg-duk suru-re-n	boy village-ABL go-NONFUT-3SG	The boy went (from the village).
+Evenki	60		Eni hutevi kumleren.		eni hute-vi kumle-re-n	mother child-REFL.POSS hug-NONFUT-3SG	The mother hugged her child.
+Evenki	61		Homooty bejetkenme ŋosiktačan.		homooty bejetken-me ŋosikta-ča-n	bear boy-ACC smell-AOR-3SG	The bear smelled the boy.
+Evenki	62		Asatken tynive en’ekelivi d’aldad’ečen.		asatken tynive en’eke-li-vi d’alda-d’eče-n	girl yesterday grandmother-PROL-REFL.POSS think-IPFV-3SG	The girl thought about her grandmother yesterday.
+Evenki	63		Beje gurgaktavi husčaran.		beje gurgakta-vi husča-ra-n	man beard-REFL.POSS shave-NONFUT-3SG	‘The man shave his beard’.
+Evenki	64		Bejetken knigava alagumniduk d’avaran.		bejetken kniga-va alagumni-duk d’ava-ra-n	boy book-ACC teacher-ABL take-NONFUT-3SG	The boy took the book from the teacher.
+Evenki	65		Bejetken mookanduk uldaksava ilečen.		bejetken mookan-duk uldaksa-va ile-če-n	boy stick-ABL bark-ACC peel-AOR-3SG	The boy peeled the bark off the stick.
+Evenki	66		Bi sarimusinim.		bi sarimu-sin-i-m	1SG blink-SEMELF-NONFUT-1SG	I blinked (my eyes).
+Evenki	67		Asi unijekittule ŋeneren.		asi unijekit-tule ŋene-re-n	woman market-LOC go-NONFUT-3SG	The woman went to the market.
+Evenki	68		Asatken in’ektellen.		asatken in’ekte-l-le-n	girl laugh-INCH-NONFUT-3SG	The girl laughed.
+Evenki	69		Beje tepkeren.		beje tepke-re-n	man scream-NONFUT-3SG	The man screamed.
+Evenki	70		Kuŋakan evid’eren.		kuŋakan evi-d’ere-n	child play-PRES-3SG	‘The child is playing.
+Evenki	71		Asatkan merged’ečen.		asatkan merge-d’eče-n	girl be.sad-IPFV-3SG	‘The girl was sad’.
+Evenki	72		Mjač sirund’eren.		mjač sirun-d’ere-n	ball roll-PRES-3SG	‘The ball is rolling’.
+Evenki	73		D’av eječen.		d’av eje-če-n	boat sink-AOR-3SG	The boat sank.
+Evenki	74		D’u d’egded’eren.		d’u d’egde-d’ere-n	house burn-PRES-3SG	The house is burning.
+Evenki	75		Dunne olgokin bisin.		dunne olgokin bi-si-n	ground dry be-PRES-3SG	‘The ground is dry’.
+Evenki	76		Tar beje bejumimni bisin.		tar beje bejumimni bi-si-n	that man hunter be-PRES-3SG	This man is a hunter.
+Evenki	77		Asal čunmilve duktevundu dukteŋkit dukted’ečetyn.		asa-l čunmi-l-ve duktevun-du dukteŋki-t dukte-d’eče-tyn	woman-PL seed-PL-ACC mortar-DAT pestle-INSTR grind-IPFV-3PL	The women ground the seeds with mortar and pestle.
+Evenki	78		Asi kartoshkava uleed’eren.		asi kartoshka-va ulee-d’ere-n	woman potatoes-ACC dig-PRES-3SG	The woman is digging for potatoes.
+Evenki	79		Bejetken asatkanma muule anaran.		bejetken asatkan-ma muu-le ana-ra-n	boy girl-ACC water-LOC push-NONFUT-3SG	The boy pushed the girl into the water.
+Evenki	80		Atyrkan asatkanme davlavundu alagud’ačan.		atyrkan asatkan-me davlavun-du alagu-d’ača-n	old.woman girl-ACC song-DAT teach-IPFV-3SG	The old lady taught the girl a song.
+Evenki	81		Bejetken homootyva doldyran.		bejetken homooty-va doldy-ra-n	boy bear-ACC hear-NONFUT-3SG	The boy heard the bear.
+Evenki	82		Asal ulleve iriireØ.		asa-l ulle-ve irii-re-Ø	woman-PL meat-ACC cook-NONFUT-3PL	The women cooked the meat.
+Evenki	83		Muu hujud’eren.		muu huju-d’ere-n	water boil-PRES-3SG	The water is boiling.
+Evenki	84		Beje hunatpa asilačan.		beje hunat-pa asila-ča-n	man girl-ACC marry-AOR-3SG	The man married the girl.
+Evenki	85		Beje tar bejetkenme d’ončad’ačan.		beje tar bejetken-me d’onča-d’ača-n	man that boy-ACC remember-IPFV-3SG	The man remembered the boy.
+Evenki	86		Beje oronmo bejukted’ečen.		beje oron-mo bejukte-d’eče-n	man deer-ACC hunt-IPFV-3SG	The man hunted for deer.
+Evenki	87		Bejetken gulesegdule emeren.		bejetken guleseg-dule eme-re-n	boy village-LOC come-NONFUT-3SG	The boy came (to the village).
+Evenki	88		Bi udunmum.		bi udun-mu-Ø-m	1SG rain-PASS-NFUT-1SG	I got soaked in the rain.
+Evenki	89		Hovoko nekunin suruvren Nirumnjaldu.		Hovoko nekun-in suru-v-re-n Nirumnja-l-du	Hovoko younger.brother-3SG.POSS go.away-PASS-NFUT-3SG Nirumnja-PL-DAT	Hovoko's younger brother was led away by the Nirumnjals.
+Evenki	90		Bejetken alagumniduk sovetja ejetčen.		bejetken alagumni-duk sovetja ejet-če-n	boy teacher-ABL advice ask-PAST-3SG	The boy asked the teacher for advice.
+Evenki	91		Bu bakačavun: kolobo d’oromovčo bičen.		bu baka-ča-vun kolobo d’oromo-v-čo bi-če-n	we find-PAST-1PL bread steal-PASS-PAST.PART be-PAST-3SG	We found out that the bread was stolen.
+Evenki	92		D’un djagda sekteldin dasivča bičen.		d’u-n djagda sekte-l-di-n dasi-v-ča bi-če-n	house-3SG pine_tree branch-PL-INSTR-3SG cover-PASS-PART be-PAST-3SG	His/her house was covered with pine-tree branches.
+Evenki	93		Nuŋartyn mindu soomat ajavuvčatyn.		nuŋartyn min-du soomat ajavu-v-ča-tyn	3PL 1SG-DAT very.much love/like-PASS-PAST-3PL	I liked them very much.
+Evenki	94		Tar d’u d’egdyvren.		tar d’u d’egdy-v-re-n	that house burn-PASS-NONFUT-3SG	That house was/got burned.
+Evenki	95		Nuŋanŋin ŋaalen soot vaapča bisin.		nuŋanŋin ŋaale-n soot vaa-p-ča bi-si-n	3SG hand-3SG very kill/hurt-PASS-PAST.PART be-PRES-3SG	His hand was hurt very much.
+Evenki	96		D’av sukčavran.		d’av sukča-v-ra-n	boat break-DECAUS/PASS-NONFUT-3SG	The boat broke (by itself; spontaneously).
+Evenki	97		Uluki (hurkeken-du) vaavren.		uluki (hurkeken-du) vaa-v-re-n	squirrel (boy-DAT) kill-PASS-NFUT-3SG	The squirrel was killed (by the boy).
+Evenki	98		Nuŋartyn (memegilver) vaamatte.		nuŋartyn (memegilver) vaa-mat-te-Ø	3PL (each.other) kill-RECIPR-NONFUT-3PL	They killed each other.
+Evenki	99		Taril bejel memegildukver ŋeelemetčere.		tar-il beje-l memegil<duk>ver ŋeele-met-čere-Ø	that-PL man-PL each.other<ABL> be_afraid-RECIPR-PRES-3PL	Those people are afraid of each other.
+Evenki	100		Nuŋan upkattuk ŋeelet-če-vki (ile) bisin.		nuŋan upkat-tuk ŋeelet-če-vki (ile) bi-si-n.	3SG all-ABL fear-RESULT-HAB.PART (person) be-PRES-3SG	He/she is always afraid of all other people.
+Evenki	101		Bejetken berkenin d’udu d’ajučad’aran.		bejetken berken-in d’u-du d’aju-ča-d’ara-n.	boy bow-3SG.POSS house-DAT hide-RESULT-PRES-3SG	The boy's bow is hidden in the house.
+Evenki	102		Butun muuli d’ukegečinduli sirunčed’eren.		butun muu-li d’uke-gečin-duli sirun-če-d’ere-n.	beetle water-PROL ice-AS.IF-PROL roll-RESULT-PRES-3SG	The beetle is moving on the (surface of the) water as if on ice.
+Evenki	103		Nuŋartyn memegilduver d’ulvar oomatta.		nuŋartyn memegil<du>ver d’u-l-var oo-mat-ta-Ø	they each.other<DAT> house-PL-POSS make-RECIPR-NONFUT-3PL	They built houses for each other.
+Evenki	104		Taril bejel memegilnunmer guumetčere.		tar-il beje-l memegil<nun>mer guu-met-čere-Ø	that-PL man-PL each.other<COMIT> say-RECIPR-PRES-3PL	Those people are talking with each other.
+Evenki	105		Evenkil tykin lučadyldi gerbildi gerbitmetčere.		Evenki-l tykin lučady-l-di gerbi-l-di gerbit-met-čere-Ø	Evenk-PL now Russian-PL-INSTR name-PL-INSTR name-RECIPR-PRES-3PL	Evenks now call each other by Russian names.
+Evenki	106		Asal memegiltykiver tepkemetčere.		asa-l memegil<tyki>ver tepke-met-čere-Ø	woman-PL each.other<ALL> shout-RECIPR-PRES-3PL	The women are shouting at/to each other.
+Evenki	107		Asatkar ookinda memegilduver belemetčere.		asatka-r ookin-da memegil<du>ver bele-met-čere-Ø	girl-PL always-? each.other<DAT> help-RECIPR-PRES-3PL	The girls always help each other.
+Evenki	108		Bejetker memegilduliver d’aldamatčere.		bejetke-r memegil<duli>ver d’alda-mat-čere-Ø	boy-PL each.other<PROL> think-RECIPR-PRES-3PL	The boys are thinking of each other.
+Evenki	109		Bejetken bejeduk ejetčen meŋurve buuden.		bejetken beje-duk ejet-če-n meŋur-ve buu-de-n	boy man-ABL ask-AOR-3SG money-ACC give-PURP-3SG	The boy asked the man for money.

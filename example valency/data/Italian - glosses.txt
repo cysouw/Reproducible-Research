@@ -1,0 +1,33 @@
+﻿Language_name	Gloss	Meaning
+Italian	ADV	adverb
+Italian	ART	article
+Italian	COMP	complementizer
+Italian	COMPL	complementizer
+Italian	COND	conditional
+Italian	DAT	dative
+Italian	DEF	definite
+Italian	DET	determiner
+Italian	F	feminine
+Italian	FUT	future
+Italian	IMP	impersonal
+Italian	IMPF	imperfective
+Italian	INDF	indefinite
+Italian	INF	infinitive
+Italian	IPFV	imperfective
+Italian	M	masculine
+Italian	NEG	negation
+Italian	OBJ	object
+Italian	OBL	oblique
+Italian	PFV	perfective
+Italian	PL	plural
+Italian	PP	past participle
+Italian	PRF	perfect
+Italian	PROG	progressive
+Italian	PRS	present
+Italian	PST	past (tense marker)
+Italian	PTCP	participle
+Italian	REFL	reflexive
+Italian	REL	relativizer
+Italian	SBJV	subjunctive
+Italian	SF	?
+Italian	SG	singular

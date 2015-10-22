@@ -1,0 +1,218 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Nen	1	EAT	nne	Basic	1-erg 2-abs und[2].V.act[1]	1	eater	NP-erg & V.act	A
+Nen	1	EAT	nne	Basic	1-erg 2-abs und[2].V.act[1]	2	eaten food	NP-abs & und.V	P
+Nen	2	HUG	wambns	Basic	1-erg 2-abs und[2].V.act[1]	1	hugger	NP-erg & V.act	A
+Nen	2	HUG	wambns	Basic	1-erg 2-abs und[2].V.act[1]	2	huggee	NP-abs & und.V	P
+Nen	3	LOOK AT	wakaes	Basic	1-erg 2-abs und[2].V.act[1]	1	looker	NP-erg & V.act	A
+Nen	3	LOOK AT	wakaes	Basic	1-erg 2-abs und[2].V.act[1]	2	looked at entity	NP-abs & und.V	P
+Nen	4	SEE	wakaes	Basic	1-erg 2-abs und[2].V.act[1]	1	seeer	NP-erg & V.act	A
+Nen	4	SEE	wakaes	Basic	1-erg 2-abs und[2].V.act[1]	2	seen entity	NP-abs & und.V	P
+Nen	4	SEE	winḡs	Basic	1-erg 2-abs und[2].V.act[1]	1	seeer	NP-erg & V.act	A
+Nen	4	SEE	winḡs	Basic	1-erg 2-abs und[2].V.act[1]	2	seen entity	NP-abs & und.V	P
+Nen	5	SMELL	wambaes	Basic	1-erg 2-abs und[2].V.act[1]	1	smeller	NP-erg & V.act	A
+Nen	5	SMELL	wambaes	Basic	1-erg 2-abs und[2].V.act[1]	2	smelled entity	NP-abs & und.V	P
+Nen	6	FEAR	brbräm räms	Basic	1-abs und[1].V	1	fearer	NP-abs & und.V	S
+Nen	7	FRIGHTEN	brbr wets	Basic	1-erg 2-abs und[2].V.act[1]	1	frightener	NP-erg & V.act	A
+Nen	7	FRIGHTEN	brbr wets	Basic	1-erg 2-abs und[2].V.act[1]	2	frightenee	NP-abs & und.V	P
+Nen	8	LIKE	mñteba wakaes	Basic	1-erg 2-abs und[2].V.act[1]	1	liker	NP-erg & V.act	A
+Nen	8	LIKE	mñteba wakaes	Basic	1-erg 2-abs und[2].V.act[1]	2	liked entity	NP-abs & und.V	P
+Nen	9	KNOW	mete	Basic	1-abs 2-abs und[1].V	1	knower	NP-abs & und.V	S
+Nen	9	KNOW	mete	Basic	1-abs 2-abs und[1].V	2	known thing/person	NP-abs	X
+Nen	10	THINK	embärs	Basic	1-abs V.act[1]	1	thinker	NP-abs & V.act	X
+Nen	10	THINK	wabaes	Basic	1-erg 2-abs und[2].V.act[1]	1	thinker	NP-erg & V.act	A
+Nen	10	THINK	wabaes	Basic	1-erg 2-abs und[2].V.act[1]	2	thought content	NP-abs & und.V	P
+Nen	11	SEARCH FOR	ronzas	Basic	1-erg 2-abs und[2].V.act[1]	1	searcher	NP-erg & V.act	A
+Nen	11	SEARCH FOR	ronzas	Basic	1-erg 2-abs und[2].V.act[1]	2	searched for thing	NP-abs & und.V	P
+Nen	12	WASH	wémbärs	Basic	1-erg 2-abs und[2].V.act[1]	1	washer	NP-erg & V.act	A
+Nen	12	WASH	wémbärs	Basic	1-erg 2-abs und[2].V.act[1]	2	washed entity	NP-abs & und.V	P
+Nen	13	DRESS	wamanes	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	dresser	NP-erg & V.act	A
+Nen	13	DRESS	wamanes	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	dressee	NP-abs & und.V	P
+Nen	13	DRESS	wamanes	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	clothes	NP-abl	I
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Basic	1-erg 2-abs und[2].V.act[1]	1	shaver (of body part)	NP-erg & V.act	A
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	Basic	1-erg 2-abs und[2].V.act[1]	2	shaved person	NP-abs & und.V	P
+Nen	15	HELP	wetrs	Basic	1-erg 2-obl und[2].V.act[1]	1	helper	NP-erg & V.act	X
+Nen	15	HELP	wetrs	Basic	1-erg 2-obl und[2].V.act[1]	2	helpee	NP-obl & und.V	X
+Nen	16	FOLLOW	waets	Basic	1-erg 2-abs und[2].V.act[1]	1	follower	NP-erg & V.act	A
+Nen	16	FOLLOW	waets	Basic	1-erg 2-abs und[2].V.act[1]	2	followee	NP-abs & und.V	P
+Nen	17	MEET	bäts	Basic	1-erg 2-abs und[2].V.act[1]	1	meeter	NP-erg & V.act	A
+Nen	17	MEET	bäts	Basic	1-erg 2-abs und[2].V.act[1]	2	met person	NP-abs & und.V	P
+Nen	17	MEET	kiwinḡs	Basic	1-abs 2-com V.act[1]	1	meeter	NP-abs & V.act	X
+Nen	17	MEET	kiwinḡs	Basic	1-abs 2-com V.act[1]	2	met person	NP-com	I
+Nen	18	TALK	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	1	talker	NP-erg & V.act	A
+Nen	18	TALK	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	2	talked to person	NP-abs & und.V	P
+Nen	18	TALK	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	3	talked about content	NP-all	X
+Nen	18	TALK	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	1	talker	NP-abs & V.act	X
+Nen	18	TALK	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	2	talked about content	NP-abs	X
+Nen	18	TALK	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	3	talked to person	NP-dat	X
+Nen	19	ASK FOR	wémés	Basic	1-erg 2-abs (3-obl) und[2].V.act[1]	1	asker	NP-erg & V.act	A
+Nen	19	ASK FOR	wémés	Basic	1-erg 2-abs (3-obl) und[2].V.act[1]	2	askee	NP-abs & und.V	P
+Nen	19	ASK FOR	wémés	Basic	1-erg 2-abs (3-obl) und[2].V.act[1]	3	requested thing	NP-obl	X
+Nen	20	SHOUT AT	ke oters	Basic	1-abs 2-dat V.act[1]	1	shouter	NP-abs & V.act	X
+Nen	20	SHOUT AT	ke oters	Basic	1-abs 2-dat V.act[1]	2	shoutee	NP-dat	X
+Nen	20	SHOUT AT	weräns	Basic	1-erg 2-abs und[2].V.act[1]	1	shouter	NP-erg & V.act	A
+Nen	20	SHOUT AT	weräns	Basic	1-erg 2-abs und[2].V.act[1]	2	shoutee	NP-abs & und.V	P
+Nen	21	TELL	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	1	teller	NP-erg & V.act	A
+Nen	21	TELL	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	2	tellee	NP-abs & und.V	P
+Nen	21	TELL	mts	Basic	1-erg 2-abs 3-all und[2].V.act[1]	3	told content	NP-all	X
+Nen	21	TELL	wawaets	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	1	teller	NP-erg & V.act	X
+Nen	21	TELL	wawaets	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	2	told content	NP-abs	X
+Nen	21	TELL	wawaets	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	3	tellee	NP-dat & und.V	X
+Nen	21	TELL	wetls	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	1	teller	NP-erg & V.act	X
+Nen	21	TELL	wetls	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	2	told content	NP-abs	X
+Nen	21	TELL	wetls	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	3	tellee	NP-dat & und.V	X
+Nen	22	SAY	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	1	sayer	NP-abs & V.act	X
+Nen	22	SAY	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	2	said content	NP-abs	X
+Nen	22	SAY	owabs	Basic	1-abs 2-abs 3-dat V.act[1]	3	saying addressee	NP-dat	X
+Nen	23	NAME	yétqén ewets	Basic	1-abs (2-loc) V.act[1]	1	namer	NP-abs & V.act	X
+Nen	23	NAME	yétqén ewets	Basic	1-abs (2-loc) V.act[1]	2	namee	NP-loc	L
+Nen	24	BUILD	räms	Basic	1-erg 2-abs und[2].V.act[1]	1	builder	NP-erg & V.act	A
+Nen	24	BUILD	räms	Basic	1-erg 2-abs und[2].V.act[1]	2	built thing	NP-abs & und.V	P
+Nen	25	BREAK	dars	Basic	1-erg 2-abs und[2].V.act[1]	1	breaker	NP-erg & V.act	A
+Nen	25	BREAK	dars	Basic	1-erg 2-abs und[2].V.act[1]	2	broken thing	NP-abs & und.V	P
+Nen	25	BREAK	räbärs	Basic	1-erg 2-abs und[2].V.act[1]	1	breaker	NP-erg & V.act	A
+Nen	25	BREAK	räbärs	Basic	1-erg 2-abs und[2].V.act[1]	2	broken thing	NP-abs & und.V	P
+Nen	26	KILL	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	killer	NP-erg & V.act	A
+Nen	26	KILL	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	killee	NP-abs & und.V	P
+Nen	26	KILL	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	killing instrument	NP-abl	I
+Nen	27	BEAT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	beater	NP-erg & V.act	A
+Nen	27	BEAT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	beatee	NP-abs & und.V	P
+Nen	27	BEAT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	beating instrument	NP-abl	I
+Nen	28	HIT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	hitter	NP-erg & V.act	A
+Nen	28	HIT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	hittee	NP-abs & und.V	P
+Nen	28	HIT	gms	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	hitting instrument	NP-abl	I
+Nen	29	TOUCH	wenzas	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	toucher	NP-erg & V.act	A
+Nen	29	TOUCH	wenzas	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	touchee	NP-abs & und.V	P
+Nen	29	TOUCH	wenzas	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	touching instrument	NP-abl	I
+Nen	30	CUT	nps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	cutter	NP-erg & V.act	A
+Nen	30	CUT	nps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	cut thing	NP-abs & und.V	P
+Nen	30	CUT	nps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	cutting instrument	NP-abl	I
+Nen	31	TAKE	kaps renzas	Basic	1-erg 2-abs (3-dat-abl) und[2].V.act[1]	1	taker	NP-erg & V.act	A
+Nen	31	TAKE	kaps renzas	Basic	1-erg 2-abs (3-dat-abl) und[2].V.act[1]	2	taken thing	NP-abs & und.V	P
+Nen	31	TAKE	kaps renzas	Basic	1-erg 2-abs (3-dat-abl) und[2].V.act[1]	3	taking source	NP-dat-abl	X
+Nen	31	TAKE	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	taker	NP-erg & V.act	A
+Nen	31	TAKE	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	taken thing	NP-abs & und.V	P
+Nen	31	TAKE	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	take to goal	NP-dat	X
+Nen	32	TEAR	drers	Basic	1-erg 2-abs und[2].V.act[1]	1	tearer	NP-erg & V.act	A
+Nen	32	TEAR	drers	Basic	1-erg 2-abs und[2].V.act[1]	2	torn thing	NP-abs & und.V	P
+Nen	33	PEEL	wétrers	Basic	1-erg 2-abs und[2].V.act[1]	1	peeler	NP-erg & V.act	A
+Nen	33	PEEL	wétrers	Basic	1-erg 2-abs und[2].V.act[1]	2	peeled object	NP-abs & und.V	P
+Nen	34	HIDE	wérnis	Basic	1-erg 2-abs und[2].V.act[1]	1	hider	NP-erg & V.act	A
+Nen	34	HIDE	wérnis	Basic	1-erg 2-abs und[2].V.act[1]	2	hidden thing	NP-abs & und.V	P
+Nen	35	SHOW	wayabs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	shower	NP-erg & V.act	A
+Nen	35	SHOW	wayabs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	shown thing	NP-abs & und.V	P
+Nen	35	SHOW	wayabs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	showing addressee	NP-dat	X
+Nen	36	GIVE	warams	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	1	giver	NP-erg & V.act	X
+Nen	36	GIVE	warams	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	2	gift	NP-abs	X
+Nen	36	GIVE	warams	Basic	1-erg 2-abs 3-dat und[3].V.act[1]	3	giving recipient	NP-dat & und.V	X
+Nen	37	SEND	trärs	Basic	1-erg 2-abs und[2].V.act[1]	1	sender	NP-erg & V.act	A
+Nen	37	SEND	trärs	Basic	1-erg 2-abs und[2].V.act[1]	2	sending recipient	NP-abs & und.V	P
+Nen	37	SEND	watembs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	sender	NP-erg & V.act	A
+Nen	37	SEND	watembs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	sent thing	NP-abs & und.V	P
+Nen	37	SEND	watembs	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	sending recipient	NP-dat	X
+Nen	37	SEND	wäbäres	Basic	1-erg 2-abs und[2].V.act[1]	1	sender	NP-erg & V.act	A
+Nen	37	SEND	wäbäres	Basic	1-erg 2-abs und[2].V.act[1]	2	sent thing	NP-abs & und.V	P
+Nen	38	CARRY	menzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	carrier	NP-erg & V.act	A
+Nen	38	CARRY	menzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	carried thing	NP-abs & und.V	P
+Nen	38	CARRY	menzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	carrying goal	NP-dat	X
+Nen	38	CARRY	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	carrier	NP-erg & V.act	A
+Nen	38	CARRY	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	carried thing	NP-abs & und.V	P
+Nen	38	CARRY	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	carrying goal	NP-dat	X
+Nen	38	CARRY	wazrs (2)	Basic	1-erg 2-abs und[2].V.act[1]	1	carrier	NP-erg & V.act	A
+Nen	38	CARRY	wazrs (2)	Basic	1-erg 2-abs und[2].V.act[1]	2	carried thing	NP-abs & und.V	P
+Nen	39	THROW	wwis	Basic	1-erg 2-abs (LOC3) und[2].V.act[1]	1	thrower	NP-erg & V.act	A
+Nen	39	THROW	wwis	Basic	1-erg 2-abs (LOC3) und[2].V.act[1]	2	thrown thing	NP-abs & und.V	P
+Nen	39	THROW	wwis	Basic	1-erg 2-abs (LOC3) und[2].V.act[1]	3	throwing goal	LOC	X
+Nen	40	TIE	sns	Basic	1-erg 2-abs und[2].V.act[1]	1	tier	NP-erg & V.act	A
+Nen	40	TIE	sns	Basic	1-erg 2-abs und[2].V.act[1]	2	tied thing	NP-abs & und.V	P
+Nen	40	TIE	wmbaes	Basic	1-erg 2-abs und[2].V.act[1]	1	tier	NP-erg & V.act	A
+Nen	40	TIE	wmbaes	Basic	1-erg 2-abs und[2].V.act[1]	2	tied thing	NP-abs & und.V	P
+Nen	41	PUT	kms	Basic	1-erg 2-abs und[2].V.act[1]	1	putter	NP-erg & V.act	A
+Nen	41	PUT	kms	Basic	1-erg 2-abs und[2].V.act[1]	2	put thing	NP-abs & und.V	P
+Nen	42	POUR	wazrs (1)	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	pourer	NP-erg & V.act	A
+Nen	42	POUR	wazrs (1)	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	poured substance	NP-abs & und.V	P
+Nen	42	POUR	wazrs (1)	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	pouring source	NP-abl	I
+Nen	43	COVER	awapars	Basic	1-abs V.act[1]	1	coverer	NP-abs & V.act	X
+Nen	43	COVER	wapars	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	coverer	NP-erg & V.act	A
+Nen	43	COVER	wapars	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	covered thing	NP-abs & und.V	P
+Nen	43	COVER	wapars	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	cover	NP-abl	I
+Nen	44	FILL	waps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	1	filler	NP-erg & V.act	A
+Nen	44	FILL	waps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	2	filled container	NP-abs & und.V	P
+Nen	44	FILL	waps	Basic	1-erg 2-abs (3-abl) und[2].V.act[1]	3	filling material	NP-abl	I
+Nen	45	LOAD	wapls	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	1	loader	NP-erg & V.act	A
+Nen	45	LOAD	wapls	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	2	loaded thing	NP-abs & und.V	P
+Nen	45	LOAD	wapls	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	3	loading place	NP-loc	L
+Nen	45	LOAD	wawags	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	loader	NP-erg & V.act	A
+Nen	45	LOAD	wawags	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	loaded thing	NP-abs & und.V	P
+Nen	45	LOAD	wawags	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	loading place	NP-dat	X
+Nen	45	LOAD	wewes	Basic	1-erg 2-obl und[2].V.act[1]	1	loader	NP-erg & V.act	X
+Nen	45	LOAD	wewes	Basic	1-erg 2-obl und[2].V.act[1]	2	loaded thing	NP-obl & und.V	X
+Nen	47	COUGH	momae ke otärs	Basic	1-abs V.act[1]	1	cougher	NP-abs & V.act	X
+Nen	48	CLIMB	armbs	Basic	1-abs 2-com V.act[1]	1	climber	NP-abs & V.act	X
+Nen	48	CLIMB	armbs	Basic	1-abs 2-com V.act[1]	2	climb instrument	NP-com	I
+Nen	49	RUN	alnzs	Basic	1-abs V.act[1]	1	runner	NP-abs & V.act	X
+Nen	50	SIT	weret	Basic	1-abs und[1].V	1	sitter	NP-abs & und.V	S
+Nen	50	SIT	√mzngr	Basic	1-abs und[1].V	1	sitter	NP-abs & und.V	S
+Nen	51	SIT DOWN	amzs	Basic	1-abs (2-loc) V.act[1]	1	sitdowner	NP-abs & V.act	X
+Nen	51	SIT DOWN	amzs	Basic	1-abs (2-loc) V.act[1]	2	sitting-down place	NP-loc	L
+Nen	52	JUMP	ábrms	Basic	1-abs V.act[1]	1	jumper	NP-abs & V.act	X
+Nen	52	JUMP	ätäns	Basic	1-abs V.act[1]	1	jumper	NP-abs & V.act	X
+Nen	53	SING	angan räms	Basic	1-erg V.act[1]	1	singer	NP-erg & V.act	X
+Nen	54	GO	yls	Basic	1-abs und[1].V	1	goer	NP-abs & und.V	S
+Nen	55	LEAVE	branḡs	Basic	1-erg 2-abs und[2].V.act[1]	1	leaver	NP-erg & V.act	A
+Nen	55	LEAVE	branḡs	Basic	1-erg 2-abs und[2].V.act[1]	2	left place/person	NP-abs & und.V	P
+Nen	55	LEAVE	ors	Basic	1-erg 2-abs V.act[1]	1	leaver	NP-erg & V.act	X
+Nen	55	LEAVE	ors	Basic	1-erg 2-abs V.act[1]	2	left place/person	NP-abs	X
+Nen	56	LIVE	weret	Basic	1-abs und[1].V	1	liver	NP-abs & und.V	S
+Nen	57	LAUGH	urs	Basic	1-abs V.act[1]	1	laugher	NP-abs & V.act	X
+Nen	58	SCREAM	awambs	Basic	1-abs V.act[1]	1	screamer	NP-abs & V.act	X
+Nen	59	FEEL PAIN	tkretewäm räms	Basic	1-abs und[1].V	1	pain locus	NP-abs & und.V	S
+Nen	60	FEEL COLD	kérbéräm räms	Basic	1-abs und[1].V	1	freezing person	NP-abs & und.V	S
+Nen	61	DIE	kr √m	Basic	1-abs und[1].V	1	dieer	NP-abs & und.V	S
+Nen	62	PLAY	izers	Basic	1-abs V.act[1]	1	player	NP-abs & V.act	X
+Nen	63	BE SAD	weiweiyäm räms	Basic	1-abs und[1].V	1	sad person	NP-abs & und.V	S
+Nen	64	BE HUNGRY	gersäm räms	Basic	1-abs und[1].V	1	hungry person	NP-abs & und.V	S
+Nen	66	SINK	olets	Basic	1-abs V.act[1]	1	sunken entity	NP-abs & V.act	X
+Nen	67	BURN	uzers	Basic	1-abs V.act[1]	1	burnt thing	NP-abs & V.act	X
+Nen	67	BURN	äkrärs	Basic	1-abs V.act[1]	1	burnt thing	NP-abs & V.act	X
+Nen	68	BE DRY	ombtes √m	Basic	1-abs und[1].V	1	dry thing	NP-abs & und.V	S
+Nen	71	GRIND	éss	Basic	1-erg 2-abs und[2].V.act[1]	1	grinder	NP-erg & V.act	A
+Nen	71	GRIND	éss	Basic	1-erg 2-abs und[2].V.act[1]	2	ground thing	NP-abs & und.V	P
+Nen	72	WIPE	läns	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	1	wiper	NP-erg & V.act	A
+Nen	72	WIPE	läns	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	2	wiped material	NP-abs & und.V	P
+Nen	72	WIPE	läns	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	3	wiping surface	NP-loc	L
+Nen	73	DIG	tars	Basic	1-erg 2-abs und[2].V.act[1]	1	digger	NP-erg & V.act	A
+Nen	73	DIG	tars	Basic	1-erg 2-abs und[2].V.act[1]	2	dug hole/ground	NP-abs & und.V	P
+Nen	74	PUSH	wédéḡés	Basic	1-erg 2-abs und[2].V.act[1]	1	pusher	NP-erg & V.act	A
+Nen	74	PUSH	wédéḡés	Basic	1-erg 2-abs und[2].V.act[1]	2	pushee	NP-abs & und.V	P
+Nen	75	BRING	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	1	bringer	NP-erg & V.act	A
+Nen	75	BRING	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	2	brought thing	NP-abs & und.V	P
+Nen	75	BRING	renzas	Basic	1-erg 2-abs 3-dat und[2].V.act[1]	3	bringing recipient	NP-dat	X
+Nen	76	STEAL	wr	Basic	1-erg 2-abs und[2].V.act[1]	1	stealer	NP-erg & V.act	A
+Nen	76	STEAL	wr	Basic	1-erg 2-abs und[2].V.act[1]	2	stolen thing	NP-abs & und.V	P
+Nen	76	STEAL	wérnis	Basic	1-erg 2-abs und[2].V.act[1]	1	stealer	NP-erg & V.act	A
+Nen	76	STEAL	wérnis	Basic	1-erg 2-abs und[2].V.act[1]	2	stolen thing	NP-abs & und.V	P
+Nen	77	TEACH	awapaps	Basic	1-erg 2-obl und[2].V.act[1]	1	teacher	NP-erg & V.act	X
+Nen	77	TEACH	awapaps	Basic	1-erg 2-obl und[2].V.act[1]	2	teachee	NP-obl & und.V	X
+Nen	78	HEAR	weres	Basic	1-erg 2-abs und[2].V.act[1]	1	hearer	NP-erg & V.act	A
+Nen	78	HEAR	weres	Basic	1-erg 2-abs und[2].V.act[1]	2	heard sound	NP-abs & und.V	P
+Nen	79	COOK	dus	Basic	1-erg 2-abs und[2].V.act[1]	1	cooker	NP-erg & V.act	A
+Nen	79	COOK	dus	Basic	1-erg 2-abs und[2].V.act[1]	2	cooked food	NP-abs & und.V	P
+Nen	79	COOK	zeyas	Basic	1-erg 2-abs und[2].V.act[1]	1	cooker	NP-erg & V.act	A
+Nen	79	COOK	zeyas	Basic	1-erg 2-abs und[2].V.act[1]	2	cooked food	NP-abs & und.V	P
+Nen	80	BOIL	rngs	Basic	1-abs V.act[1]	1	boiled thing	NP-abs & V.act	X
+Nen	81	APPEAR	ipars	Basic	1-abs V.act[1]	1	appearer	NP-abs & V.act	X
+Nen	82	BE ILL	enzinewäm räms	Basic	1-abs und[1].V	1	sick person	NP-abs & und.V	S
+Nen	83	CRY	engs	Basic	1-abs V.act[1]	1	crier	NP-abs & V.act	X
+Nen	84	FALL	uwis	Basic	1-abs V.act[1]	1	fallee	NP-abs & V.act	X
+Nen	85	MAKE	räms	Basic	1-erg 2-abs und[2].V.act[1]	1	maker	NP-erg & V.act	A
+Nen	85	MAKE	räms	Basic	1-erg 2-abs und[2].V.act[1]	2	made thing	NP-abs & und.V	P
+Nen	85	MAKE	waprs	Basic	1-erg 2-abs und[2].V.act[1]	1	maker	NP-erg & V.act	A
+Nen	85	MAKE	waprs	Basic	1-erg 2-abs und[2].V.act[1]	2	made thing	NP-abs & und.V	P
+Nen	86	GET	√ane	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	1	receiver	NP-erg & V.act	A
+Nen	86	GET	√ane	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	2	received thing	NP-abs & und.V	P
+Nen	86	GET	√ane	Basic	1-erg 2-abs 3-loc und[2].V.act[1]	3	receiving source	NP-loc	L
+Nen	87	WANT	mñte √m	Basic	1-abs 2-all und[1].V	1	wanter	NP-abs & und.V	S
+Nen	87	WANT	mñte √m	Basic	1-abs 2-all und[1].V	2	wanted thing	NP-all	X
+Nen	93	HUNT (FOR)	ärs	Basic	1-abs V.act[1]	1	hunter	NP-abs & V.act	X
+Nen	128	ROLL (tr)	paes	Basic	1-erg 2-abs und[2].V.act[1]	1	roller (tr)	NP-erg & V.act	A
+Nen	128	ROLL (tr)	paes	Basic	1-erg 2-abs und[2].V.act[1]	2	rolling thing (tr)	NP-abs & und.V	P

@@ -1,0 +1,1753 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Yucatec Maya	1	EAT	haan	Causative	Never	
+Yucatec Maya	1	EAT	haan	Deagentive	Never	
+Yucatec Maya	1	EAT	haan	Direct object shift	Never	
+Yucatec Maya	1	EAT	haan	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	1	EAT	haan	Fientive	Never	
+Yucatec Maya	1	EAT	haan	Incorporative	Never	
+Yucatec Maya	1	EAT	haan	Indirect participation	Never	
+Yucatec Maya	1	EAT	haan	Introversive	Never	
+Yucatec Maya	1	EAT	haan	Passive	Never	
+Yucatec Maya	1	EAT	haan	Reciprocal	Never	
+Yucatec Maya	1	EAT	haan	Reflexive	Never	
+Yucatec Maya	1	EAT	haan	Usative	Never	
+Yucatec Maya	1	EAT	haant	Causative	Never	
+Yucatec Maya	1	EAT	haant	Deagentive	Never	
+Yucatec Maya	1	EAT	haant	Direct object shift	Never	
+Yucatec Maya	1	EAT	haant	Extraversive	Never	
+Yucatec Maya	1	EAT	haant	Fientive	Never	
+Yucatec Maya	1	EAT	haant	Incorporative	Never	
+Yucatec Maya	1	EAT	haant	Indirect participation	Never	
+Yucatec Maya	1	EAT	haant	Introversive	Never	
+Yucatec Maya	1	EAT	haant	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	1	EAT	haant	Reciprocal	Marginally	
+Yucatec Maya	1	EAT	haant	Reflexive	Marginally	
+Yucatec Maya	1	EAT	haant	Usative	Never	
+Yucatec Maya	2	HUG	méek'	Causative	Never	
+Yucatec Maya	2	HUG	méek'	Deagentive	Never	
+Yucatec Maya	2	HUG	méek'	Direct object shift	Never	
+Yucatec Maya	2	HUG	méek'	Extraversive	Never	
+Yucatec Maya	2	HUG	méek'	Fientive	Never	
+Yucatec Maya	2	HUG	méek'	Incorporative	Marginally	
+Yucatec Maya	2	HUG	méek'	Indirect participation	Never	
+Yucatec Maya	2	HUG	méek'	Introversive	Never	
+Yucatec Maya	2	HUG	méek'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	2	HUG	méek'	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	2	HUG	méek'	Reflexive	Marginally	
+Yucatec Maya	2	HUG	méek'	Usative	Never	
+Yucatec Maya	3	LOOK AT	pakat	Causative	Never	
+Yucatec Maya	3	LOOK AT	pakat	Deagentive	Never	
+Yucatec Maya	3	LOOK AT	pakat	Direct object shift	Never	
+Yucatec Maya	3	LOOK AT	pakat	Extraversive	Never	
+Yucatec Maya	3	LOOK AT	pakat	Fientive	Never	
+Yucatec Maya	3	LOOK AT	pakat	Incorporative	Never	
+Yucatec Maya	3	LOOK AT	pakat	Indirect participation	Never	
+Yucatec Maya	3	LOOK AT	pakat	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	3	LOOK AT	pakat	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	3	LOOK AT	pakat	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	3	LOOK AT	pakat	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	3	LOOK AT	pakat	Usative	Never	
+Yucatec Maya	4	SEE	il	Causative	Marginally	
+Yucatec Maya	4	SEE	il	Deagentive	Never	
+Yucatec Maya	4	SEE	il	Direct object shift	Never	
+Yucatec Maya	4	SEE	il	Extraversive	Never	
+Yucatec Maya	4	SEE	il	Fientive	Never	
+Yucatec Maya	4	SEE	il	Incorporative	Never	
+Yucatec Maya	4	SEE	il	Indirect participation	Never	
+Yucatec Maya	4	SEE	il	Introversive	Never	
+Yucatec Maya	4	SEE	il	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	4	SEE	il	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	4	SEE	il	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	4	SEE	il	Usative	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Causative	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Deagentive	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Direct object shift	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	5	SMELL	ch'a'bok	Fientive	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Incorporative	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Indirect participation	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Introversive	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Passive	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Reciprocal	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Reflexive	Never	
+Yucatec Maya	5	SMELL	ch'a'bok	Usative	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Causative	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Deagentive	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Direct object shift	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Extraversive	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Fientive	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Incorporative	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Indirect participation	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Introversive	Never	
+Yucatec Maya	5	SMELL	ch'a'bokt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	5	SMELL	ch'a'bokt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	5	SMELL	ch'a'bokt	Reflexive	Marginally	
+Yucatec Maya	5	SMELL	ch'a'bokt	Usative	Never	
+Yucatec Maya	5	SMELL	u'y	Causative	Never	
+Yucatec Maya	5	SMELL	u'y	Deagentive	Never	
+Yucatec Maya	5	SMELL	u'y	Direct object shift	Never	
+Yucatec Maya	5	SMELL	u'y	Extraversive	Never	
+Yucatec Maya	5	SMELL	u'y	Fientive	Never	
+Yucatec Maya	5	SMELL	u'y	Incorporative	Marginally	
+Yucatec Maya	5	SMELL	u'y	Indirect participation	Never	
+Yucatec Maya	5	SMELL	u'y	Introversive	Marginally	
+Yucatec Maya	5	SMELL	u'y	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	5	SMELL	u'y	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	5	SMELL	u'y	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	5	SMELL	u'y	Usative	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Causative	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Deagentive	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Direct object shift	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Extraversive	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Fientive	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Incorporative	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Indirect participation	No data	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Introversive	Never	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	6	FEAR	ch'a' sahakil	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	6	FEAR	ch'a' sahakil	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	6	FEAR	ch'a' sahakil	Usative	Never	
+Yucatec Maya	6	FEAR	sahak	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	6	FEAR	sahak	Deagentive	Never	
+Yucatec Maya	6	FEAR	sahak	Direct object shift	Never	
+Yucatec Maya	6	FEAR	sahak	Extraversive	Never	
+Yucatec Maya	6	FEAR	sahak	Fientive	Regularly	sbj[1].V' ti'+2 1
+Yucatec Maya	6	FEAR	sahak	Incorporative	Never	
+Yucatec Maya	6	FEAR	sahak	Indirect participation	Never	
+Yucatec Maya	6	FEAR	sahak	Introversive	Never	
+Yucatec Maya	6	FEAR	sahak	Passive	Never	
+Yucatec Maya	6	FEAR	sahak	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	6	FEAR	sahak	Reflexive	Marginally	
+Yucatec Maya	6	FEAR	sahak	Usative	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Causative	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Deagentive	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Direct object shift	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Extraversive	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Fientive	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Incorporative	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Indirect participation	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Introversive	Never	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Reflexive	Marginally	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Usative	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Causative	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Deagentive	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Direct object shift	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Extraversive	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Fientive	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Incorporative	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Indirect participation	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Introversive	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	7	FRIGHTEN	sahbes	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	7	FRIGHTEN	sahbes	Reflexive	Never	
+Yucatec Maya	7	FRIGHTEN	sahbes	Usative	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Causative	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Deagentive	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Direct object shift	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Extraversive	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	8	LIKE	uts ti' ich	Incorporative	Marginally	
+Yucatec Maya	8	LIKE	uts ti' ich	Indirect participation	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Introversive	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Passive	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Reciprocal	Marginally	
+Yucatec Maya	8	LIKE	uts ti' ich	Reflexive	Never	
+Yucatec Maya	8	LIKE	uts ti' ich	Usative	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Causative	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Deagentive	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Direct object shift	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Extraversive	Regularly	sbj[1].V'extra.obj[2] 2 1
+Yucatec Maya	9	KNOW	k'ahóol	Fientive	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Incorporative	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Indirect participation	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Introversive	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Passive	Never	
+Yucatec Maya	9	KNOW	k'ahóol	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	9	KNOW	k'ahóol	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	9	KNOW	k'ahóol	Usative	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Causative	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Deagentive	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Direct object shift	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Extraversive	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Fientive	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Incorporative	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Indirect participation	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Introversive	Never	
+Yucatec Maya	9	KNOW	k'ahóolt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	9	KNOW	k'ahóolt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	9	KNOW	k'ahóolt	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	9	KNOW	k'ahóolt	Usative	Never	
+Yucatec Maya	10	THINK	tukult	Causative	Never	
+Yucatec Maya	10	THINK	tukult	Deagentive	Never	
+Yucatec Maya	10	THINK	tukult	Direct object shift	Never	
+Yucatec Maya	10	THINK	tukult	Extraversive	Never	
+Yucatec Maya	10	THINK	tukult	Fientive	Never	
+Yucatec Maya	10	THINK	tukult	Incorporative	Never	
+Yucatec Maya	10	THINK	tukult	Indirect participation	Never	
+Yucatec Maya	10	THINK	tukult	Introversive	Never	
+Yucatec Maya	10	THINK	tukult	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	10	THINK	tukult	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	10	THINK	tukult	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	10	THINK	tukult	Usative	Never	
+Yucatec Maya	10	THINK	tuukul	Causative	Never	
+Yucatec Maya	10	THINK	tuukul	Deagentive	Never	
+Yucatec Maya	10	THINK	tuukul	Direct object shift	Never	
+Yucatec Maya	10	THINK	tuukul	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	10	THINK	tuukul	Fientive	Never	
+Yucatec Maya	10	THINK	tuukul	Incorporative	Never	
+Yucatec Maya	10	THINK	tuukul	Indirect participation	Never	
+Yucatec Maya	10	THINK	tuukul	Introversive	Never	
+Yucatec Maya	10	THINK	tuukul	Passive	Never	
+Yucatec Maya	10	THINK	tuukul	Reciprocal	Never	
+Yucatec Maya	10	THINK	tuukul	Reflexive	Never	
+Yucatec Maya	10	THINK	tuukul	Usative	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Causative	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Deagentive	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Direct object shift	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Extraversive	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Fientive	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Incorporative	No data	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Indirect participation	Never	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Introversive	Regularly	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Reflexive	Marginally	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Usative	Never	
+Yucatec Maya	12	WASH	ichkíil	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	12	WASH	ichkíil	Deagentive	Never	
+Yucatec Maya	12	WASH	ichkíil	Direct object shift	Never	
+Yucatec Maya	12	WASH	ichkíil	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	12	WASH	ichkíil	Fientive	Never	
+Yucatec Maya	12	WASH	ichkíil	Incorporative	Never	
+Yucatec Maya	12	WASH	ichkíil	Indirect participation	Never	
+Yucatec Maya	12	WASH	ichkíil	Introversive	Never	
+Yucatec Maya	12	WASH	ichkíil	Passive	Never	
+Yucatec Maya	12	WASH	ichkíil	Reciprocal	Marginally	
+Yucatec Maya	12	WASH	ichkíil	Reflexive	Never	
+Yucatec Maya	12	WASH	ichkíil	Usative	Never	
+Yucatec Maya	12	WASH	ichíint	Causative	Never	
+Yucatec Maya	12	WASH	ichíint	Deagentive	Never	
+Yucatec Maya	12	WASH	ichíint	Direct object shift	Never	
+Yucatec Maya	12	WASH	ichíint	Extraversive	Never	
+Yucatec Maya	12	WASH	ichíint	Fientive	Never	
+Yucatec Maya	12	WASH	ichíint	Incorporative	Never	
+Yucatec Maya	12	WASH	ichíint	Indirect participation	Never	
+Yucatec Maya	12	WASH	ichíint	Introversive	Never	
+Yucatec Maya	12	WASH	ichíint	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	12	WASH	ichíint	Reciprocal	Never	
+Yucatec Maya	12	WASH	ichíint	Reflexive	Never	
+Yucatec Maya	12	WASH	ichíint	Usative	Never	
+Yucatec Maya	12	WASH	isíins	Causative	Never	
+Yucatec Maya	12	WASH	isíins	Deagentive	Never	
+Yucatec Maya	12	WASH	isíins	Direct object shift	Never	
+Yucatec Maya	12	WASH	isíins	Extraversive	Never	
+Yucatec Maya	12	WASH	isíins	Fientive	Never	
+Yucatec Maya	12	WASH	isíins	Incorporative	Never	
+Yucatec Maya	12	WASH	isíins	Indirect participation	Never	
+Yucatec Maya	12	WASH	isíins	Introversive	Never	
+Yucatec Maya	12	WASH	isíins	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	12	WASH	isíins	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	12	WASH	isíins	Reflexive	Never	
+Yucatec Maya	12	WASH	isíins	Usative	Never	
+Yucatec Maya	13	DRESS	búukint	Causative	Never	
+Yucatec Maya	13	DRESS	búukint	Deagentive	Never	
+Yucatec Maya	13	DRESS	búukint	Direct object shift	Never	
+Yucatec Maya	13	DRESS	búukint	Extraversive	Never	
+Yucatec Maya	13	DRESS	búukint	Fientive	Never	
+Yucatec Maya	13	DRESS	búukint	Incorporative	Never	
+Yucatec Maya	13	DRESS	búukint	Indirect participation	Never	
+Yucatec Maya	13	DRESS	búukint	Introversive	Never	
+Yucatec Maya	13	DRESS	búukint	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	13	DRESS	búukint	Reciprocal	Never	
+Yucatec Maya	13	DRESS	búukint	Reflexive	Never	
+Yucatec Maya	13	DRESS	búukint	Usative	Never	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Causative	Never	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Deagentive	Never	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Direct object shift	Regularly	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Extraversive	Never	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Fientive	Never	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Indirect participation	Regularly	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Reciprocal	Marginally	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Usative	Never	
+Yucatec Maya	15	HELP	áant	Causative	Never	
+Yucatec Maya	15	HELP	áant	Deagentive	Never	
+Yucatec Maya	15	HELP	áant	Direct object shift	Never	
+Yucatec Maya	15	HELP	áant	Extraversive	Never	
+Yucatec Maya	15	HELP	áant	Fientive	Never	
+Yucatec Maya	15	HELP	áant	Incorporative	Never	
+Yucatec Maya	15	HELP	áant	Indirect participation	Never	
+Yucatec Maya	15	HELP	áant	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	15	HELP	áant	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	15	HELP	áant	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	15	HELP	áant	Reflexive	Marginally	
+Yucatec Maya	15	HELP	áant	Usative	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Causative	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Deagentive	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Direct object shift	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Extraversive	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Fientive	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	16	FOLLOW	ch'a' paach	Indirect participation	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Introversive	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	16	FOLLOW	ch'a' paach	Reciprocal	Marginally	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Reflexive	Never	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Usative	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Causative	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Deagentive	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Direct object shift	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Extraversive	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Fientive	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Incorporative	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Indirect participation	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Introversive	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Reflexive	Never	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Usative	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Causative	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Deagentive	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Direct object shift	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Extraversive	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Fientive	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Incorporative	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Indirect participation	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Introversive	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	16	FOLLOW	tsaypacht	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	16	FOLLOW	tsaypacht	Reflexive	Never	
+Yucatec Maya	16	FOLLOW	tsaypacht	Usative	Never	
+Yucatec Maya	17	MEET	naktáant	Causative	Never	
+Yucatec Maya	17	MEET	naktáant	Deagentive	Never	
+Yucatec Maya	17	MEET	naktáant	Direct object shift	Never	
+Yucatec Maya	17	MEET	naktáant	Extraversive	Never	
+Yucatec Maya	17	MEET	naktáant	Fientive	Never	
+Yucatec Maya	17	MEET	naktáant	Incorporative	Never	
+Yucatec Maya	17	MEET	naktáant	Indirect participation	Never	
+Yucatec Maya	17	MEET	naktáant	Introversive	Never	
+Yucatec Maya	17	MEET	naktáant	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	17	MEET	naktáant	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	17	MEET	naktáant	Reflexive	Never	
+Yucatec Maya	17	MEET	naktáant	Usative	Never	
+Yucatec Maya	17	MEET	nuptáant	Causative	Never	
+Yucatec Maya	17	MEET	nuptáant	Deagentive	Never	
+Yucatec Maya	17	MEET	nuptáant	Direct object shift	Never	
+Yucatec Maya	17	MEET	nuptáant	Extraversive	Never	
+Yucatec Maya	17	MEET	nuptáant	Fientive	Never	
+Yucatec Maya	17	MEET	nuptáant	Incorporative	Never	
+Yucatec Maya	17	MEET	nuptáant	Indirect participation	Never	
+Yucatec Maya	17	MEET	nuptáant	Introversive	Never	
+Yucatec Maya	17	MEET	nuptáant	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	17	MEET	nuptáant	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	17	MEET	nuptáant	Reflexive	Never	
+Yucatec Maya	17	MEET	nuptáant	Usative	Never	
+Yucatec Maya	18	TALK	t'aan	Causative	Never	
+Yucatec Maya	18	TALK	t'aan	Deagentive	Never	
+Yucatec Maya	18	TALK	t'aan	Direct object shift	Never	
+Yucatec Maya	18	TALK	t'aan	Extraversive	Never	
+Yucatec Maya	18	TALK	t'aan	Fientive	Never	
+Yucatec Maya	18	TALK	t'aan	Incorporative	Marginally	
+Yucatec Maya	18	TALK	t'aan	Indirect participation	Never	
+Yucatec Maya	18	TALK	t'aan	Introversive	Never	
+Yucatec Maya	18	TALK	t'aan	Passive	Never	
+Yucatec Maya	18	TALK	t'aan	Reciprocal	Regularly	sbj[1/2].V' (yóok'ol+3)
+Yucatec Maya	18	TALK	t'aan	Reflexive	Never	
+Yucatec Maya	18	TALK	t'aan	Usative	Never	
+Yucatec Maya	18	TALK	tsikbal	Causative	Never	
+Yucatec Maya	18	TALK	tsikbal	Deagentive	Never	
+Yucatec Maya	18	TALK	tsikbal	Direct object shift	Never	
+Yucatec Maya	18	TALK	tsikbal	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1 ti'+2
+Yucatec Maya	18	TALK	tsikbal	Fientive	Never	
+Yucatec Maya	18	TALK	tsikbal	Incorporative	Never	
+Yucatec Maya	18	TALK	tsikbal	Indirect participation	Never	
+Yucatec Maya	18	TALK	tsikbal	Introversive	Never	
+Yucatec Maya	18	TALK	tsikbal	Passive	Never	
+Yucatec Maya	18	TALK	tsikbal	Reciprocal	Never	
+Yucatec Maya	18	TALK	tsikbal	Reflexive	Never	
+Yucatec Maya	18	TALK	tsikbal	Usative	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Causative	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Deagentive	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Direct object shift	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Extraversive	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Fientive	Never	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Incorporative	No data	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Indirect participation	No data	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	19	ASK FOR	k'áat (2)	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	19	ASK FOR	k'áat (2)	Reciprocal	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	19	ASK FOR	k'áat (2)	Reflexive	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	19	ASK FOR	k'áat (2)	Usative	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Causative	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Deagentive	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Direct object shift	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Extraversive	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Fientive	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Incorporative	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Indirect participation	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Introversive	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	20	SHOUT AT	awat (2)	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	20	SHOUT AT	awat (2)	Reflexive	Never	
+Yucatec Maya	20	SHOUT AT	awat (2)	Usative	Never	
+Yucatec Maya	21	TELL	tsikbat	Causative	Never	
+Yucatec Maya	21	TELL	tsikbat	Deagentive	Never	
+Yucatec Maya	21	TELL	tsikbat	Direct object shift	Never	
+Yucatec Maya	21	TELL	tsikbat	Extraversive	Never	
+Yucatec Maya	21	TELL	tsikbat	Fientive	Never	
+Yucatec Maya	21	TELL	tsikbat	Incorporative	Never	
+Yucatec Maya	21	TELL	tsikbat	Indirect participation	Never	
+Yucatec Maya	21	TELL	tsikbat	Introversive	Never	
+Yucatec Maya	21	TELL	tsikbat	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	21	TELL	tsikbat	Reciprocal	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	21	TELL	tsikbat	Reflexive	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	21	TELL	tsikbat	Usative	Never	
+Yucatec Maya	22	SAY	a'l	Causative	Never	
+Yucatec Maya	22	SAY	a'l	Deagentive	Never	
+Yucatec Maya	22	SAY	a'l	Direct object shift	Never	
+Yucatec Maya	22	SAY	a'l	Extraversive	Never	
+Yucatec Maya	22	SAY	a'l	Fientive	Never	
+Yucatec Maya	22	SAY	a'l	Incorporative	Never	
+Yucatec Maya	22	SAY	a'l	Indirect participation	Never	
+Yucatec Maya	22	SAY	a'l	Introversive	Never	
+Yucatec Maya	22	SAY	a'l	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	22	SAY	a'l	Reciprocal	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	22	SAY	a'l	Reflexive	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	22	SAY	a'l	Usative	Never	
+Yucatec Maya	23	NAME	k'aaba'	Causative	Never	
+Yucatec Maya	23	NAME	k'aaba'	Deagentive	Never	
+Yucatec Maya	23	NAME	k'aaba'	Direct object shift	Never	
+Yucatec Maya	23	NAME	k'aaba'	Extraversive	Never	
+Yucatec Maya	23	NAME	k'aaba'	Fientive	Marginally	
+Yucatec Maya	23	NAME	k'aaba'	Incorporative	Never	
+Yucatec Maya	23	NAME	k'aaba'	Indirect participation	Never	
+Yucatec Maya	23	NAME	k'aaba'	Introversive	Never	
+Yucatec Maya	23	NAME	k'aaba'	Passive	Never	
+Yucatec Maya	23	NAME	k'aaba'	Reciprocal	Never	
+Yucatec Maya	23	NAME	k'aaba'	Reflexive	Never	
+Yucatec Maya	23	NAME	k'aaba'	Usative	Regularly	sbj[2].V'usat.obj[1] 1 2
+Yucatec Maya	24	BUILD	beet	Causative	Never	
+Yucatec Maya	24	BUILD	beet	Deagentive	Never	
+Yucatec Maya	24	BUILD	beet	Direct object shift	Never	
+Yucatec Maya	24	BUILD	beet	Extraversive	Never	
+Yucatec Maya	24	BUILD	beet	Fientive	Never	
+Yucatec Maya	24	BUILD	beet	Incorporative	Never	
+Yucatec Maya	24	BUILD	beet	Indirect participation	Never	
+Yucatec Maya	24	BUILD	beet	Introversive	Never	
+Yucatec Maya	24	BUILD	beet	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	24	BUILD	beet	Reciprocal	Never	
+Yucatec Maya	24	BUILD	beet	Reflexive	Marginally	
+Yucatec Maya	24	BUILD	beet	Usative	Never	
+Yucatec Maya	25	BREAK	kach	Causative	Never	
+Yucatec Maya	25	BREAK	kach	Deagentive	Regularly	sbj[2].V'deag 2
+Yucatec Maya	25	BREAK	kach	Direct object shift	Never	
+Yucatec Maya	25	BREAK	kach	Extraversive	Never	
+Yucatec Maya	25	BREAK	kach	Fientive	Never	
+Yucatec Maya	25	BREAK	kach	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	25	BREAK	kach	Indirect participation	Marginally	
+Yucatec Maya	25	BREAK	kach	Introversive	Marginally	
+Yucatec Maya	25	BREAK	kach	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	25	BREAK	kach	Reciprocal	Never	
+Yucatec Maya	25	BREAK	kach	Reflexive	Never	
+Yucatec Maya	25	BREAK	kach	Usative	Never	
+Yucatec Maya	25	BREAK	pa'	Causative	Never	
+Yucatec Maya	25	BREAK	pa'	Deagentive	Never	
+Yucatec Maya	25	BREAK	pa'	Direct object shift	Never	
+Yucatec Maya	25	BREAK	pa'	Extraversive	Never	
+Yucatec Maya	25	BREAK	pa'	Fientive	Never	
+Yucatec Maya	25	BREAK	pa'	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	25	BREAK	pa'	Indirect participation	Never	
+Yucatec Maya	25	BREAK	pa'	Introversive	Never	
+Yucatec Maya	25	BREAK	pa'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	25	BREAK	pa'	Reciprocal	Never	
+Yucatec Maya	25	BREAK	pa'	Reflexive	Never	
+Yucatec Maya	25	BREAK	pa'	Usative	Never	
+Yucatec Maya	26	KILL	kíins	Causative	Never	
+Yucatec Maya	26	KILL	kíins	Deagentive	Never	
+Yucatec Maya	26	KILL	kíins	Direct object shift	Never	
+Yucatec Maya	26	KILL	kíins	Extraversive	Never	
+Yucatec Maya	26	KILL	kíins	Fientive	Never	
+Yucatec Maya	26	KILL	kíins	Incorporative	Never	
+Yucatec Maya	26	KILL	kíins	Indirect participation	Never	
+Yucatec Maya	26	KILL	kíins	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	26	KILL	kíins	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	26	KILL	kíins	Reciprocal	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	26	KILL	kíins	Reflexive	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	26	KILL	kíins	Usative	Never	
+Yucatec Maya	27	BEAT	p'uch	Causative	Never	
+Yucatec Maya	27	BEAT	p'uch	Deagentive	Never	
+Yucatec Maya	27	BEAT	p'uch	Direct object shift	Never	
+Yucatec Maya	27	BEAT	p'uch	Extraversive	Never	
+Yucatec Maya	27	BEAT	p'uch	Fientive	Never	
+Yucatec Maya	27	BEAT	p'uch	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	27	BEAT	p'uch	Indirect participation	Never	
+Yucatec Maya	27	BEAT	p'uch	Introversive	Marginally	
+Yucatec Maya	27	BEAT	p'uch	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	27	BEAT	p'uch	Reciprocal	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	27	BEAT	p'uch	Reflexive	Never	
+Yucatec Maya	27	BEAT	p'uch	Usative	Never	
+Yucatec Maya	28	HIT	hats'	Causative	Never	
+Yucatec Maya	28	HIT	hats'	Deagentive	Never	
+Yucatec Maya	28	HIT	hats'	Direct object shift	Never	
+Yucatec Maya	28	HIT	hats'	Extraversive	Never	
+Yucatec Maya	28	HIT	hats'	Fientive	Never	
+Yucatec Maya	28	HIT	hats'	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	28	HIT	hats'	Indirect participation	Never	
+Yucatec Maya	28	HIT	hats'	Introversive	Marginally	
+Yucatec Maya	28	HIT	hats'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	28	HIT	hats'	Reciprocal	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	28	HIT	hats'	Reflexive	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	28	HIT	hats'	Usative	Never	
+Yucatec Maya	28	HIT	koh	Causative	Never	
+Yucatec Maya	28	HIT	koh	Deagentive	Regularly	sbj[2].V'deag 2 (yéetel+3)
+Yucatec Maya	28	HIT	koh	Direct object shift	Never	
+Yucatec Maya	28	HIT	koh	Extraversive	Never	
+Yucatec Maya	28	HIT	koh	Fientive	Never	
+Yucatec Maya	28	HIT	koh	Incorporative	No data	
+Yucatec Maya	28	HIT	koh	Indirect participation	Never	
+Yucatec Maya	28	HIT	koh	Introversive	Marginally	
+Yucatec Maya	28	HIT	koh	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	28	HIT	koh	Reciprocal	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	28	HIT	koh	Reflexive	No data	
+Yucatec Maya	28	HIT	koh	Usative	Never	
+Yucatec Maya	29	TOUCH	mach	Causative	Never	
+Yucatec Maya	29	TOUCH	mach	Deagentive	Never	
+Yucatec Maya	29	TOUCH	mach	Direct object shift	Never	
+Yucatec Maya	29	TOUCH	mach	Extraversive	Never	
+Yucatec Maya	29	TOUCH	mach	Fientive	Never	
+Yucatec Maya	29	TOUCH	mach	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	29	TOUCH	mach	Indirect participation	Never	
+Yucatec Maya	29	TOUCH	mach	Introversive	Marginally	
+Yucatec Maya	29	TOUCH	mach	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	29	TOUCH	mach	Reciprocal	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	29	TOUCH	mach	Reflexive	Marginally	
+Yucatec Maya	29	TOUCH	mach	Usative	Never	
+Yucatec Maya	30	CUT	xot	Causative	Never	
+Yucatec Maya	30	CUT	xot	Deagentive	Never	
+Yucatec Maya	30	CUT	xot	Direct object shift	Never	
+Yucatec Maya	30	CUT	xot	Extraversive	Never	
+Yucatec Maya	30	CUT	xot	Fientive	Never	
+Yucatec Maya	30	CUT	xot	Incorporative	Marginally	
+Yucatec Maya	30	CUT	xot	Indirect participation	Never	
+Yucatec Maya	30	CUT	xot	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	30	CUT	xot	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	30	CUT	xot	Reciprocal	Never	
+Yucatec Maya	30	CUT	xot	Reflexive	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	30	CUT	xot	Usative	Never	
+Yucatec Maya	31	TAKE	ch'a'	Causative	Never	
+Yucatec Maya	31	TAKE	ch'a'	Deagentive	Never	
+Yucatec Maya	31	TAKE	ch'a'	Direct object shift	Never	
+Yucatec Maya	31	TAKE	ch'a'	Extraversive	Never	
+Yucatec Maya	31	TAKE	ch'a'	Fientive	Never	
+Yucatec Maya	31	TAKE	ch'a'	Incorporative	Regularly	sbj[1].V' ti'+3 1
+Yucatec Maya	31	TAKE	ch'a'	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	31	TAKE	ch'a'	Introversive	Never	
+Yucatec Maya	31	TAKE	ch'a'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	31	TAKE	ch'a'	Reciprocal	Marginally	
+Yucatec Maya	31	TAKE	ch'a'	Reflexive	Never	
+Yucatec Maya	31	TAKE	ch'a'	Usative	Never	
+Yucatec Maya	32	TEAR	hat	Causative	Never	
+Yucatec Maya	32	TEAR	hat	Deagentive	Regularly	sbj[2].V'deag 2
+Yucatec Maya	32	TEAR	hat	Direct object shift	Regularly	
+Yucatec Maya	32	TEAR	hat	Extraversive	Never	
+Yucatec Maya	32	TEAR	hat	Fientive	Never	
+Yucatec Maya	32	TEAR	hat	Incorporative	Marginally	
+Yucatec Maya	32	TEAR	hat	Indirect participation	Regularly	
+Yucatec Maya	32	TEAR	hat	Introversive	Marginally	
+Yucatec Maya	32	TEAR	hat	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	32	TEAR	hat	Reciprocal	Never	
+Yucatec Maya	32	TEAR	hat	Reflexive	Marginally	
+Yucatec Maya	32	TEAR	hat	Usative	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Causative	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Deagentive	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Direct object shift	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Extraversive	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Fientive	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Incorporative	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Indirect participation	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Introversive	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	33	PEEL	cheppóolt	Reciprocal	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Reflexive	Never	
+Yucatec Maya	33	PEEL	cheppóolt	Usative	Never	
+Yucatec Maya	33	PEEL	lak	Causative	Never	
+Yucatec Maya	33	PEEL	lak	Deagentive	Regularly	sbj[2].V'deag 2
+Yucatec Maya	33	PEEL	lak	Direct object shift	Never	
+Yucatec Maya	33	PEEL	lak	Extraversive	Never	
+Yucatec Maya	33	PEEL	lak	Fientive	Never	
+Yucatec Maya	33	PEEL	lak	Incorporative	Never	
+Yucatec Maya	33	PEEL	lak	Indirect participation	Regularly	
+Yucatec Maya	33	PEEL	lak	Introversive	Marginally	
+Yucatec Maya	33	PEEL	lak	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	33	PEEL	lak	Reciprocal	Never	
+Yucatec Maya	33	PEEL	lak	Reflexive	Marginally	
+Yucatec Maya	33	PEEL	lak	Usative	Never	
+Yucatec Maya	33	PEEL	sóolt	Causative	Never	
+Yucatec Maya	33	PEEL	sóolt	Deagentive	Never	
+Yucatec Maya	33	PEEL	sóolt	Direct object shift	Never	
+Yucatec Maya	33	PEEL	sóolt	Extraversive	Never	
+Yucatec Maya	33	PEEL	sóolt	Fientive	Never	
+Yucatec Maya	33	PEEL	sóolt	Incorporative	Never	
+Yucatec Maya	33	PEEL	sóolt	Indirect participation	Never	
+Yucatec Maya	33	PEEL	sóolt	Introversive	Never	
+Yucatec Maya	33	PEEL	sóolt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	33	PEEL	sóolt	Reciprocal	Never	
+Yucatec Maya	33	PEEL	sóolt	Reflexive	Never	
+Yucatec Maya	33	PEEL	sóolt	Usative	Never	
+Yucatec Maya	33	PEEL	ts'íil	Causative	Never	
+Yucatec Maya	33	PEEL	ts'íil	Deagentive	Never	
+Yucatec Maya	33	PEEL	ts'íil	Direct object shift	Regularly	
+Yucatec Maya	33	PEEL	ts'íil	Extraversive	Never	
+Yucatec Maya	33	PEEL	ts'íil	Fientive	Never	
+Yucatec Maya	33	PEEL	ts'íil	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	33	PEEL	ts'íil	Indirect participation	Never	
+Yucatec Maya	33	PEEL	ts'íil	Introversive	Marginally	
+Yucatec Maya	33	PEEL	ts'íil	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	33	PEEL	ts'íil	Reciprocal	Never	
+Yucatec Maya	33	PEEL	ts'íil	Reflexive	Never	
+Yucatec Maya	33	PEEL	ts'íil	Usative	Never	
+Yucatec Maya	34	HIDE	ta'k	Causative	Marginally	
+Yucatec Maya	34	HIDE	ta'k	Deagentive	Never	
+Yucatec Maya	34	HIDE	ta'k	Direct object shift	Never	
+Yucatec Maya	34	HIDE	ta'k	Extraversive	Never	
+Yucatec Maya	34	HIDE	ta'k	Fientive	Never	
+Yucatec Maya	34	HIDE	ta'k	Incorporative	Never	
+Yucatec Maya	34	HIDE	ta'k	Indirect participation	Never	
+Yucatec Maya	34	HIDE	ta'k	Introversive	Never	
+Yucatec Maya	34	HIDE	ta'k	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	34	HIDE	ta'k	Reciprocal	Marginally	
+Yucatec Maya	34	HIDE	ta'k	Reflexive	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	34	HIDE	ta'k	Usative	Never	
+Yucatec Maya	35	SHOW	e's	Causative	Never	
+Yucatec Maya	35	SHOW	e's	Deagentive	Never	
+Yucatec Maya	35	SHOW	e's	Direct object shift	Never	
+Yucatec Maya	35	SHOW	e's	Extraversive	Never	
+Yucatec Maya	35	SHOW	e's	Fientive	Never	
+Yucatec Maya	35	SHOW	e's	Incorporative	Never	
+Yucatec Maya	35	SHOW	e's	Indirect participation	Never	
+Yucatec Maya	35	SHOW	e's	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	35	SHOW	e's	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	35	SHOW	e's	Reciprocal	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	35	SHOW	e's	Reflexive	Regularly	sbj[1/2].V' ti'+3
+Yucatec Maya	35	SHOW	e's	Usative	Never	
+Yucatec Maya	36	GIVE	ts'a'	Causative	Never	
+Yucatec Maya	36	GIVE	ts'a'	Deagentive	Never	
+Yucatec Maya	36	GIVE	ts'a'	Direct object shift	Never	
+Yucatec Maya	36	GIVE	ts'a'	Extraversive	Never	
+Yucatec Maya	36	GIVE	ts'a'	Fientive	Never	
+Yucatec Maya	36	GIVE	ts'a'	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	36	GIVE	ts'a'	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	36	GIVE	ts'a'	Introversive	Marginally	
+Yucatec Maya	36	GIVE	ts'a'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	36	GIVE	ts'a'	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	36	GIVE	ts'a'	Reflexive	Marginally	
+Yucatec Maya	36	GIVE	ts'a'	Usative	Never	
+Yucatec Maya	37	SEND	túuxt	Causative	Never	
+Yucatec Maya	37	SEND	túuxt	Deagentive	Never	
+Yucatec Maya	37	SEND	túuxt	Direct object shift	Never	
+Yucatec Maya	37	SEND	túuxt	Extraversive	Never	
+Yucatec Maya	37	SEND	túuxt	Fientive	Never	
+Yucatec Maya	37	SEND	túuxt	Incorporative	Marginally	
+Yucatec Maya	37	SEND	túuxt	Indirect participation	Marginally	
+Yucatec Maya	37	SEND	túuxt	Introversive	Never	
+Yucatec Maya	37	SEND	túuxt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	37	SEND	túuxt	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	37	SEND	túuxt	Reflexive	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	37	SEND	túuxt	Usative	Never	
+Yucatec Maya	38	CARRY	bis	Causative	Never	
+Yucatec Maya	38	CARRY	bis	Deagentive	Never	
+Yucatec Maya	38	CARRY	bis	Direct object shift	Never	
+Yucatec Maya	38	CARRY	bis	Extraversive	Never	
+Yucatec Maya	38	CARRY	bis	Fientive	Never	
+Yucatec Maya	38	CARRY	bis	Incorporative	Never	
+Yucatec Maya	38	CARRY	bis	Indirect participation	Never	
+Yucatec Maya	38	CARRY	bis	Introversive	Never	
+Yucatec Maya	38	CARRY	bis	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	38	CARRY	bis	Reciprocal	Marginally	
+Yucatec Maya	38	CARRY	bis	Reflexive	Never	
+Yucatec Maya	38	CARRY	bis	Usative	Never	
+Yucatec Maya	39	THROW	ch'in	Causative	Never	
+Yucatec Maya	39	THROW	ch'in	Deagentive	Never	
+Yucatec Maya	39	THROW	ch'in	Direct object shift	Never	
+Yucatec Maya	39	THROW	ch'in	Extraversive	Never	
+Yucatec Maya	39	THROW	ch'in	Fientive	Never	
+Yucatec Maya	39	THROW	ch'in	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	39	THROW	ch'in	Indirect participation	Never	
+Yucatec Maya	39	THROW	ch'in	Introversive	Marginally	
+Yucatec Maya	39	THROW	ch'in	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	39	THROW	ch'in	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	39	THROW	ch'in	Reflexive	Never	
+Yucatec Maya	39	THROW	ch'in	Usative	Never	
+Yucatec Maya	39	THROW	pul	Causative	Never	
+Yucatec Maya	39	THROW	pul	Deagentive	Never	
+Yucatec Maya	39	THROW	pul	Direct object shift	Never	
+Yucatec Maya	39	THROW	pul	Extraversive	Never	
+Yucatec Maya	39	THROW	pul	Fientive	Never	
+Yucatec Maya	39	THROW	pul	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	39	THROW	pul	Indirect participation	Never	
+Yucatec Maya	39	THROW	pul	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	39	THROW	pul	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	39	THROW	pul	Reciprocal	Never	
+Yucatec Maya	39	THROW	pul	Reflexive	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	39	THROW	pul	Usative	Never	
+Yucatec Maya	40	TIE	k'ax	Causative	Never	
+Yucatec Maya	40	TIE	k'ax	Deagentive	Regularly	sbj[2].V'deag 2 (ti'+3) (yéetel+4)
+Yucatec Maya	40	TIE	k'ax	Direct object shift	Never	
+Yucatec Maya	40	TIE	k'ax	Extraversive	Never	
+Yucatec Maya	40	TIE	k'ax	Fientive	Never	
+Yucatec Maya	40	TIE	k'ax	Incorporative	Marginally	
+Yucatec Maya	40	TIE	k'ax	Indirect participation	Never	
+Yucatec Maya	40	TIE	k'ax	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	40	TIE	k'ax	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (ti'+3) (yéetel+4)
+Yucatec Maya	40	TIE	k'ax	Reciprocal	Regularly	sbj[1/2].V' (ti'+3) (yéetel+4)
+Yucatec Maya	40	TIE	k'ax	Reflexive	Regularly	sbj[1/2].V' (ti'+3) (yéetel+4)
+Yucatec Maya	40	TIE	k'ax	Usative	Never	
+Yucatec Maya	41	PUT	ts'a'	Causative	Never	
+Yucatec Maya	41	PUT	ts'a'	Deagentive	Never	
+Yucatec Maya	41	PUT	ts'a'	Direct object shift	Never	
+Yucatec Maya	41	PUT	ts'a'	Extraversive	Never	
+Yucatec Maya	41	PUT	ts'a'	Fientive	Never	
+Yucatec Maya	41	PUT	ts'a'	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	41	PUT	ts'a'	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	41	PUT	ts'a'	Introversive	Marginally	
+Yucatec Maya	41	PUT	ts'a'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	41	PUT	ts'a'	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	41	PUT	ts'a'	Reflexive	Marginally	
+Yucatec Maya	41	PUT	ts'a'	Usative	Never	
+Yucatec Maya	42	POUR	láal	Causative	Never	
+Yucatec Maya	42	POUR	láal	Deagentive	Never	
+Yucatec Maya	42	POUR	láal	Direct object shift	Never	
+Yucatec Maya	42	POUR	láal	Extraversive	Never	
+Yucatec Maya	42	POUR	láal	Fientive	Never	
+Yucatec Maya	42	POUR	láal	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	42	POUR	láal	Indirect participation	Never	
+Yucatec Maya	42	POUR	láal	Introversive	Never	
+Yucatec Maya	42	POUR	láal	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	42	POUR	láal	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	42	POUR	láal	Reflexive	Marginally	
+Yucatec Maya	42	POUR	láal	Usative	Never	
+Yucatec Maya	42	POUR	t'oh	Causative	Never	
+Yucatec Maya	42	POUR	t'oh	Deagentive	No data	
+Yucatec Maya	42	POUR	t'oh	Direct object shift	Never	
+Yucatec Maya	42	POUR	t'oh	Extraversive	Never	
+Yucatec Maya	42	POUR	t'oh	Fientive	Never	
+Yucatec Maya	42	POUR	t'oh	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	42	POUR	t'oh	Indirect participation	Never	
+Yucatec Maya	42	POUR	t'oh	Introversive	Never	
+Yucatec Maya	42	POUR	t'oh	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	42	POUR	t'oh	Reciprocal	Never	
+Yucatec Maya	42	POUR	t'oh	Reflexive	Never	
+Yucatec Maya	42	POUR	t'oh	Usative	Never	
+Yucatec Maya	43	COVER	pix	Causative	Never	
+Yucatec Maya	43	COVER	pix	Deagentive	Regularly	sbj[2].V'deag 2 (yéetel+3)
+Yucatec Maya	43	COVER	pix	Direct object shift	Never	
+Yucatec Maya	43	COVER	pix	Extraversive	Never	
+Yucatec Maya	43	COVER	pix	Fientive	Never	
+Yucatec Maya	43	COVER	pix	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	43	COVER	pix	Indirect participation	Never	
+Yucatec Maya	43	COVER	pix	Introversive	Marginally	
+Yucatec Maya	43	COVER	pix	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	43	COVER	pix	Reciprocal	Marginally	
+Yucatec Maya	43	COVER	pix	Reflexive	Regularly	sbj[1/2].V' (yéetel+3)
+Yucatec Maya	43	COVER	pix	Usative	Never	
+Yucatec Maya	44	FILL	but'	Causative	Never	
+Yucatec Maya	44	FILL	but'	Deagentive	Regularly	sbj[2].V'deag 2 LOC3
+Yucatec Maya	44	FILL	but'	Direct object shift	Regularly	
+Yucatec Maya	44	FILL	but'	Extraversive	Never	
+Yucatec Maya	44	FILL	but'	Fientive	Never	
+Yucatec Maya	44	FILL	but'	Incorporative	Marginally	
+Yucatec Maya	44	FILL	but'	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	44	FILL	but'	Introversive	Never	
+Yucatec Maya	44	FILL	but'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	44	FILL	but'	Reciprocal	Never	
+Yucatec Maya	44	FILL	but'	Reflexive	Never	
+Yucatec Maya	44	FILL	but'	Usative	Never	
+Yucatec Maya	44	FILL	chup	Causative	Never	
+Yucatec Maya	44	FILL	chup	Deagentive	Regularly	sbj[2].V'deag 2 (yéetel+3)
+Yucatec Maya	44	FILL	chup	Direct object shift	Never	
+Yucatec Maya	44	FILL	chup	Extraversive	Never	
+Yucatec Maya	44	FILL	chup	Fientive	Never	
+Yucatec Maya	44	FILL	chup	Incorporative	No data	
+Yucatec Maya	44	FILL	chup	Indirect participation	Marginally	
+Yucatec Maya	44	FILL	chup	Introversive	Never	
+Yucatec Maya	44	FILL	chup	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	44	FILL	chup	Reciprocal	Never	
+Yucatec Maya	44	FILL	chup	Reflexive	Never	
+Yucatec Maya	44	FILL	chup	Usative	Never	
+Yucatec Maya	45	LOAD	but'	Causative	Never	
+Yucatec Maya	45	LOAD	but'	Deagentive	Regularly	sbj[2].V'deag 2 LOC3
+Yucatec Maya	45	LOAD	but'	Direct object shift	Regularly	
+Yucatec Maya	45	LOAD	but'	Extraversive	Never	
+Yucatec Maya	45	LOAD	but'	Fientive	Never	
+Yucatec Maya	45	LOAD	but'	Incorporative	Marginally	
+Yucatec Maya	45	LOAD	but'	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	45	LOAD	but'	Introversive	Never	
+Yucatec Maya	45	LOAD	but'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	45	LOAD	but'	Reciprocal	Never	
+Yucatec Maya	45	LOAD	but'	Reflexive	Never	
+Yucatec Maya	45	LOAD	but'	Usative	Never	
+Yucatec Maya	45	LOAD	kuch	Causative	Never	
+Yucatec Maya	45	LOAD	kuch	Deagentive	Never	
+Yucatec Maya	45	LOAD	kuch	Direct object shift	Never	
+Yucatec Maya	45	LOAD	kuch	Extraversive	Never	
+Yucatec Maya	45	LOAD	kuch	Fientive	Never	
+Yucatec Maya	45	LOAD	kuch	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	45	LOAD	kuch	Indirect participation	Never	
+Yucatec Maya	45	LOAD	kuch	Introversive	Never	
+Yucatec Maya	45	LOAD	kuch	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	45	LOAD	kuch	Reciprocal	Never	
+Yucatec Maya	45	LOAD	kuch	Reflexive	Never	
+Yucatec Maya	45	LOAD	kuch	Usative	Never	
+Yucatec Maya	45	LOAD	na'ks	Causative	Never	
+Yucatec Maya	45	LOAD	na'ks	Deagentive	Never	
+Yucatec Maya	45	LOAD	na'ks	Direct object shift	Never	
+Yucatec Maya	45	LOAD	na'ks	Extraversive	Never	
+Yucatec Maya	45	LOAD	na'ks	Fientive	Never	
+Yucatec Maya	45	LOAD	na'ks	Incorporative	Never	
+Yucatec Maya	45	LOAD	na'ks	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	45	LOAD	na'ks	Introversive	Marginally	
+Yucatec Maya	45	LOAD	na'ks	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	45	LOAD	na'ks	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	45	LOAD	na'ks	Reflexive	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	45	LOAD	na'ks	Usative	Never	
+Yucatec Maya	46	BLINK	chak'	Causative	Never	
+Yucatec Maya	46	BLINK	chak'	Deagentive	Regularly	
+Yucatec Maya	46	BLINK	chak'	Direct object shift	Never	
+Yucatec Maya	46	BLINK	chak'	Extraversive	Never	
+Yucatec Maya	46	BLINK	chak'	Fientive	Never	
+Yucatec Maya	46	BLINK	chak'	Incorporative	Regularly	sbj[1].V' ti'+2 1
+Yucatec Maya	46	BLINK	chak'	Indirect participation	Never	
+Yucatec Maya	46	BLINK	chak'	Introversive	Never	
+Yucatec Maya	46	BLINK	chak'	Passive	Never	
+Yucatec Maya	46	BLINK	chak'	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	46	BLINK	chak'	Reflexive	Never	
+Yucatec Maya	46	BLINK	chak'	Usative	Never	
+Yucatec Maya	46	BLINK	chak'ich	Causative	Never	
+Yucatec Maya	46	BLINK	chak'ich	Deagentive	Never	
+Yucatec Maya	46	BLINK	chak'ich	Direct object shift	Never	
+Yucatec Maya	46	BLINK	chak'ich	Extraversive	Regularly	sbj[1].V'extra.obj[2] 2 1
+Yucatec Maya	46	BLINK	chak'ich	Fientive	Never	
+Yucatec Maya	46	BLINK	chak'ich	Incorporative	Never	
+Yucatec Maya	46	BLINK	chak'ich	Indirect participation	Never	
+Yucatec Maya	46	BLINK	chak'ich	Introversive	Never	
+Yucatec Maya	46	BLINK	chak'ich	Passive	Never	
+Yucatec Maya	46	BLINK	chak'ich	Reciprocal	Never	
+Yucatec Maya	46	BLINK	chak'ich	Reflexive	Never	
+Yucatec Maya	46	BLINK	chak'ich	Usative	Never	
+Yucatec Maya	46	BLINK	chak'icht	Causative	Never	
+Yucatec Maya	46	BLINK	chak'icht	Deagentive	Never	
+Yucatec Maya	46	BLINK	chak'icht	Direct object shift	Never	
+Yucatec Maya	46	BLINK	chak'icht	Extraversive	Never	
+Yucatec Maya	46	BLINK	chak'icht	Fientive		
+Yucatec Maya	46	BLINK	chak'icht	Incorporative		
+Yucatec Maya	46	BLINK	chak'icht	Indirect participation		
+Yucatec Maya	46	BLINK	chak'icht	Introversive		
+Yucatec Maya	46	BLINK	chak'icht	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	46	BLINK	chak'icht	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	46	BLINK	chak'icht	Reflexive		
+Yucatec Maya	46	BLINK	chak'icht	Usative		
+Yucatec Maya	47	COUGH	sa'sa'kaal	Causative	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Deagentive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Direct object shift	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Extraversive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Fientive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Incorporative	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Indirect participation	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Introversive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Passive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Reciprocal	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Reflexive	Never	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Usative	Never	
+Yucatec Maya	47	COUGH	se'n	Causative	Never	
+Yucatec Maya	47	COUGH	se'n	Deagentive	Never	
+Yucatec Maya	47	COUGH	se'n	Direct object shift	Never	
+Yucatec Maya	47	COUGH	se'n	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	47	COUGH	se'n	Fientive	Never	
+Yucatec Maya	47	COUGH	se'n	Incorporative	Never	
+Yucatec Maya	47	COUGH	se'n	Indirect participation	Never	
+Yucatec Maya	47	COUGH	se'n	Introversive	Never	
+Yucatec Maya	47	COUGH	se'n	Passive	Never	
+Yucatec Maya	47	COUGH	se'n	Reciprocal	Never	
+Yucatec Maya	47	COUGH	se'n	Reflexive	Never	
+Yucatec Maya	47	COUGH	se'n	Usative	Never	
+Yucatec Maya	48	CLIMB	na'k	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	48	CLIMB	na'k	Deagentive	Never	
+Yucatec Maya	48	CLIMB	na'k	Direct object shift	Never	
+Yucatec Maya	48	CLIMB	na'k	Extraversive	Never	
+Yucatec Maya	48	CLIMB	na'k	Fientive	Never	
+Yucatec Maya	48	CLIMB	na'k	Incorporative	Never	
+Yucatec Maya	48	CLIMB	na'k	Indirect participation	Never	
+Yucatec Maya	48	CLIMB	na'k	Introversive	Never	
+Yucatec Maya	48	CLIMB	na'k	Passive	Never	
+Yucatec Maya	48	CLIMB	na'k	Reciprocal	Never	
+Yucatec Maya	48	CLIMB	na'k	Reflexive	Never	
+Yucatec Maya	48	CLIMB	na'k	Usative	Never	
+Yucatec Maya	49	RUN	áalkab	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	49	RUN	áalkab	Deagentive	Never	
+Yucatec Maya	49	RUN	áalkab	Direct object shift	Never	
+Yucatec Maya	49	RUN	áalkab	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	49	RUN	áalkab	Fientive	Never	
+Yucatec Maya	49	RUN	áalkab	Incorporative	Never	
+Yucatec Maya	49	RUN	áalkab	Indirect participation	Never	
+Yucatec Maya	49	RUN	áalkab	Introversive	Never	
+Yucatec Maya	49	RUN	áalkab	Passive	Never	
+Yucatec Maya	49	RUN	áalkab	Reciprocal	Never	
+Yucatec Maya	49	RUN	áalkab	Reflexive	Never	
+Yucatec Maya	49	RUN	áalkab	Usative	Never	
+Yucatec Maya	49	RUN	áalkabt	Causative	Never	
+Yucatec Maya	49	RUN	áalkabt	Deagentive	Never	
+Yucatec Maya	49	RUN	áalkabt	Direct object shift	Never	
+Yucatec Maya	49	RUN	áalkabt	Extraversive	Never	
+Yucatec Maya	49	RUN	áalkabt	Fientive	Never	
+Yucatec Maya	49	RUN	áalkabt	Incorporative	Never	
+Yucatec Maya	49	RUN	áalkabt	Indirect participation	Never	
+Yucatec Maya	49	RUN	áalkabt	Introversive	Never	
+Yucatec Maya	49	RUN	áalkabt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	49	RUN	áalkabt	Reciprocal	Never	
+Yucatec Maya	49	RUN	áalkabt	Reflexive	Never	
+Yucatec Maya	49	RUN	áalkabt	Usative	Never	
+Yucatec Maya	50	SIT	kul	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	50	SIT	kul	Deagentive	Never	
+Yucatec Maya	50	SIT	kul	Direct object shift	Never	
+Yucatec Maya	50	SIT	kul	Extraversive	Never	
+Yucatec Maya	50	SIT	kul	Fientive	Never	
+Yucatec Maya	50	SIT	kul	Incorporative	Never	
+Yucatec Maya	50	SIT	kul	Indirect participation	Never	
+Yucatec Maya	50	SIT	kul	Introversive	Never	
+Yucatec Maya	50	SIT	kul	Passive	Never	
+Yucatec Maya	50	SIT	kul	Reciprocal	Never	
+Yucatec Maya	50	SIT	kul	Reflexive	Never	
+Yucatec Maya	50	SIT	kul	Usative	Never	
+Yucatec Maya	51	SIT DOWN	kul	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	51	SIT DOWN	kul	Deagentive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Direct object shift	Never	
+Yucatec Maya	51	SIT DOWN	kul	Extraversive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Fientive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Incorporative	Never	
+Yucatec Maya	51	SIT DOWN	kul	Indirect participation	Never	
+Yucatec Maya	51	SIT DOWN	kul	Introversive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Passive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Reciprocal	Never	
+Yucatec Maya	51	SIT DOWN	kul	Reflexive	Never	
+Yucatec Maya	51	SIT DOWN	kul	Usative	Never	
+Yucatec Maya	52	JUMP	síit'	Causative	Never	
+Yucatec Maya	52	JUMP	síit'	Deagentive	Never	
+Yucatec Maya	52	JUMP	síit'	Direct object shift	Never	
+Yucatec Maya	52	JUMP	síit'	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	52	JUMP	síit'	Fientive	Never	
+Yucatec Maya	52	JUMP	síit'	Incorporative	Never	
+Yucatec Maya	52	JUMP	síit'	Indirect participation	Never	
+Yucatec Maya	52	JUMP	síit'	Introversive	Never	
+Yucatec Maya	52	JUMP	síit'	Passive	Never	
+Yucatec Maya	52	JUMP	síit'	Reciprocal	Never	
+Yucatec Maya	52	JUMP	síit'	Reflexive	Never	
+Yucatec Maya	52	JUMP	síit'	Usative	Never	
+Yucatec Maya	53	SING	k'ay	Causative	Never	
+Yucatec Maya	53	SING	k'ay	Deagentive	Never	
+Yucatec Maya	53	SING	k'ay	Direct object shift	Never	
+Yucatec Maya	53	SING	k'ay	Extraversive	Never	
+Yucatec Maya	53	SING	k'ay	Fientive	Never	
+Yucatec Maya	53	SING	k'ay	Incorporative	Never	
+Yucatec Maya	53	SING	k'ay	Indirect participation	Marginally	
+Yucatec Maya	53	SING	k'ay	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	53	SING	k'ay	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	53	SING	k'ay	Reciprocal	Marginally	
+Yucatec Maya	53	SING	k'ay	Reflexive	Never	
+Yucatec Maya	53	SING	k'ay	Usative	Never	
+Yucatec Maya	54	GO	bin	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	54	GO	bin	Deagentive	Never	
+Yucatec Maya	54	GO	bin	Direct object shift	Never	
+Yucatec Maya	54	GO	bin	Extraversive	Never	
+Yucatec Maya	54	GO	bin	Fientive	Never	
+Yucatec Maya	54	GO	bin	Incorporative	Never	
+Yucatec Maya	54	GO	bin	Indirect participation	Never	
+Yucatec Maya	54	GO	bin	Introversive	Never	
+Yucatec Maya	54	GO	bin	Passive	Never	
+Yucatec Maya	54	GO	bin	Reciprocal	Never	
+Yucatec Maya	54	GO	bin	Reflexive	Never	
+Yucatec Maya	54	GO	bin	Usative	Never	
+Yucatec Maya	55	LEAVE	hóok'	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	55	LEAVE	hóok'	Deagentive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Direct object shift	Never	
+Yucatec Maya	55	LEAVE	hóok'	Extraversive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Fientive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Incorporative	Never	
+Yucatec Maya	55	LEAVE	hóok'	Indirect participation	Never	
+Yucatec Maya	55	LEAVE	hóok'	Introversive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Passive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Reciprocal	Never	
+Yucatec Maya	55	LEAVE	hóok'	Reflexive	Never	
+Yucatec Maya	55	LEAVE	hóok'	Usative	Never	
+Yucatec Maya	56	LIVE	kah	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	56	LIVE	kah	Deagentive	Never	
+Yucatec Maya	56	LIVE	kah	Direct object shift	Never	
+Yucatec Maya	56	LIVE	kah	Extraversive	Never	
+Yucatec Maya	56	LIVE	kah	Fientive	Never	
+Yucatec Maya	56	LIVE	kah	Incorporative	Never	
+Yucatec Maya	56	LIVE	kah	Indirect participation	Never	
+Yucatec Maya	56	LIVE	kah	Introversive	Never	
+Yucatec Maya	56	LIVE	kah	Passive	Never	
+Yucatec Maya	56	LIVE	kah	Reciprocal	Never	
+Yucatec Maya	56	LIVE	kah	Reflexive	Never	
+Yucatec Maya	56	LIVE	kah	Usative	Never	
+Yucatec Maya	57	LAUGH	che'h	Causative	Never	
+Yucatec Maya	57	LAUGH	che'h	Deagentive	Never	
+Yucatec Maya	57	LAUGH	che'h	Direct object shift	Never	
+Yucatec Maya	57	LAUGH	che'h	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	57	LAUGH	che'h	Fientive	Never	
+Yucatec Maya	57	LAUGH	che'h	Incorporative	Never	
+Yucatec Maya	57	LAUGH	che'h	Indirect participation	Never	
+Yucatec Maya	57	LAUGH	che'h	Introversive	Never	
+Yucatec Maya	57	LAUGH	che'h	Passive	Never	
+Yucatec Maya	57	LAUGH	che'h	Reciprocal	Never	
+Yucatec Maya	57	LAUGH	che'h	Reflexive	Never	
+Yucatec Maya	57	LAUGH	che'h	Usative	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Causative	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Deagentive	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Direct object shift	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	58	SCREAM	awat (1)	Fientive	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Incorporative	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Indirect participation	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Introversive	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Passive	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Reciprocal	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Reflexive	Never	
+Yucatec Maya	58	SCREAM	awat (1)	Usative	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Causative	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Deagentive	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Direct object shift	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Extraversive	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Incorporative	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Indirect participation	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Introversive	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Passive	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Reciprocal	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Reflexive	Never	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Usative	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	59	FEEL PAIN	yah	Deagentive	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Direct object shift	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Extraversive	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	59	FEEL PAIN	yah	Incorporative	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Indirect participation	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Introversive	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Passive	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Reciprocal	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Reflexive	Never	
+Yucatec Maya	59	FEEL PAIN	yah	Usative	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	60	FEEL COLD	ke'l	Deagentive	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Direct object shift	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Extraversive	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	60	FEEL COLD	ke'l	Incorporative	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Indirect participation	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Introversive	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Passive	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Reciprocal	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Reflexive	Never	
+Yucatec Maya	60	FEEL COLD	ke'l	Usative	Never	
+Yucatec Maya	61	DIE	kíim	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	61	DIE	kíim	Deagentive	Never	
+Yucatec Maya	61	DIE	kíim	Direct object shift	Never	
+Yucatec Maya	61	DIE	kíim	Extraversive	Never	
+Yucatec Maya	61	DIE	kíim	Fientive	Never	
+Yucatec Maya	61	DIE	kíim	Incorporative	Never	
+Yucatec Maya	61	DIE	kíim	Indirect participation	Never	
+Yucatec Maya	61	DIE	kíim	Introversive	Never	
+Yucatec Maya	61	DIE	kíim	Passive	Never	
+Yucatec Maya	61	DIE	kíim	Reciprocal	Never	
+Yucatec Maya	61	DIE	kíim	Reflexive	Never	
+Yucatec Maya	61	DIE	kíim	Usative	Never	
+Yucatec Maya	62	PLAY	báaxal	Causative	Never	
+Yucatec Maya	62	PLAY	báaxal	Deagentive	Never	
+Yucatec Maya	62	PLAY	báaxal	Direct object shift	Never	
+Yucatec Maya	62	PLAY	báaxal	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	62	PLAY	báaxal	Fientive	Never	
+Yucatec Maya	62	PLAY	báaxal	Incorporative	Never	
+Yucatec Maya	62	PLAY	báaxal	Indirect participation	Never	
+Yucatec Maya	62	PLAY	báaxal	Introversive	Never	
+Yucatec Maya	62	PLAY	báaxal	Passive	Never	
+Yucatec Maya	62	PLAY	báaxal	Reciprocal	Regularly	
+Yucatec Maya	62	PLAY	báaxal	Reflexive	Never	
+Yucatec Maya	62	PLAY	báaxal	Usative	Never	
+Yucatec Maya	62	PLAY	báaxt	Causative	Never	
+Yucatec Maya	62	PLAY	báaxt	Deagentive	Never	
+Yucatec Maya	62	PLAY	báaxt	Direct object shift	Never	
+Yucatec Maya	62	PLAY	báaxt	Extraversive	Never	
+Yucatec Maya	62	PLAY	báaxt	Fientive	Never	
+Yucatec Maya	62	PLAY	báaxt	Incorporative	Never	
+Yucatec Maya	62	PLAY	báaxt	Indirect participation	Never	
+Yucatec Maya	62	PLAY	báaxt	Introversive	Never	
+Yucatec Maya	62	PLAY	báaxt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	62	PLAY	báaxt	Reciprocal	Never	
+Yucatec Maya	62	PLAY	báaxt	Reflexive	Never	
+Yucatec Maya	62	PLAY	báaxt	Usative	Never	
+Yucatec Maya	63	BE SAD	ok'om	Causative	Marginally	
+Yucatec Maya	63	BE SAD	ok'om	Deagentive	Never	
+Yucatec Maya	63	BE SAD	ok'om	Direct object shift	Never	
+Yucatec Maya	63	BE SAD	ok'om	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	63	BE SAD	ok'om	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	63	BE SAD	ok'om	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	63	BE SAD	ok'om	Indirect participation	Never	
+Yucatec Maya	63	BE SAD	ok'om	Introversive	Never	
+Yucatec Maya	63	BE SAD	ok'om	Passive	Never	
+Yucatec Maya	63	BE SAD	ok'om	Reciprocal	Never	
+Yucatec Maya	63	BE SAD	ok'om	Reflexive	Never	
+Yucatec Maya	63	BE SAD	ok'om	Usative	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	64	BE HUNGRY	wi'h	Deagentive	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Direct object shift	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Extraversive	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	64	BE HUNGRY	wi'h	Incorporative	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Indirect participation	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Introversive	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Passive	Regularly	
+Yucatec Maya	64	BE HUNGRY	wi'h	Reciprocal	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Reflexive	Never	
+Yucatec Maya	64	BE HUNGRY	wi'h	Usative	Never	
+Yucatec Maya	65	ROLL	balak'	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	65	ROLL	balak'	Deagentive	Never	
+Yucatec Maya	65	ROLL	balak'	Direct object shift	Never	
+Yucatec Maya	65	ROLL	balak'	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	65	ROLL	balak'	Fientive	Never	
+Yucatec Maya	65	ROLL	balak'	Incorporative	Never	
+Yucatec Maya	65	ROLL	balak'	Indirect participation	Never	
+Yucatec Maya	65	ROLL	balak'	Introversive	Never	
+Yucatec Maya	65	ROLL	balak'	Passive	Never	
+Yucatec Maya	65	ROLL	balak'	Reciprocal	Never	
+Yucatec Maya	65	ROLL	balak'	Reflexive	Never	
+Yucatec Maya	65	ROLL	balak'	Usative	Never	
+Yucatec Maya	67	BURN	éel	Causative	Marginally	
+Yucatec Maya	67	BURN	éel	Deagentive	Never	
+Yucatec Maya	67	BURN	éel	Direct object shift	Never	
+Yucatec Maya	67	BURN	éel	Extraversive	Never	
+Yucatec Maya	67	BURN	éel	Fientive	Never	
+Yucatec Maya	67	BURN	éel	Incorporative	Never	
+Yucatec Maya	67	BURN	éel	Indirect participation	Never	
+Yucatec Maya	67	BURN	éel	Introversive	Never	
+Yucatec Maya	67	BURN	éel	Passive	Never	
+Yucatec Maya	67	BURN	éel	Reciprocal	Never	
+Yucatec Maya	67	BURN	éel	Reflexive	Never	
+Yucatec Maya	67	BURN	éel	Usative	Never	
+Yucatec Maya	68	BE DRY	tikin	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	68	BE DRY	tikin	Deagentive	Never	
+Yucatec Maya	68	BE DRY	tikin	Direct object shift	Never	
+Yucatec Maya	68	BE DRY	tikin	Extraversive	Never	
+Yucatec Maya	68	BE DRY	tikin	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	68	BE DRY	tikin	Incorporative	Never	
+Yucatec Maya	68	BE DRY	tikin	Indirect participation	Never	
+Yucatec Maya	68	BE DRY	tikin	Introversive	Never	
+Yucatec Maya	68	BE DRY	tikin	Passive	Regularly	
+Yucatec Maya	68	BE DRY	tikin	Reciprocal	Marginally	
+Yucatec Maya	68	BE DRY	tikin	Reflexive	Regularly	
+Yucatec Maya	68	BE DRY	tikin	Usative	Never	
+Yucatec Maya	69	RAIN	k'áax	Causative	Never	
+Yucatec Maya	69	RAIN	k'áax	Deagentive	Never	
+Yucatec Maya	69	RAIN	k'áax	Direct object shift	Never	
+Yucatec Maya	69	RAIN	k'áax	Extraversive	Never	
+Yucatec Maya	69	RAIN	k'áax	Fientive	Never	
+Yucatec Maya	69	RAIN	k'áax	Incorporative	Never	
+Yucatec Maya	69	RAIN	k'áax	Indirect participation	Never	
+Yucatec Maya	69	RAIN	k'áax	Introversive	Never	
+Yucatec Maya	69	RAIN	k'áax	Passive	Never	
+Yucatec Maya	69	RAIN	k'áax	Reciprocal	Never	
+Yucatec Maya	69	RAIN	k'áax	Reflexive	Never	
+Yucatec Maya	69	RAIN	k'áax	Usative	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Causative	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Deagentive	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Direct object shift	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Extraversive	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Fientive	Marginally	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Incorporative	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Indirect participation	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Introversive	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Passive	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Reciprocal	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Reflexive	Never	
+Yucatec Maya	70	BE A HUNTER	hts'oon	Usative	Never	
+Yucatec Maya	71	GRIND	huch'	Causative	Never	
+Yucatec Maya	71	GRIND	huch'	Deagentive	Never	
+Yucatec Maya	71	GRIND	huch'	Direct object shift	Never	
+Yucatec Maya	71	GRIND	huch'	Extraversive	Never	
+Yucatec Maya	71	GRIND	huch'	Fientive	Never	
+Yucatec Maya	71	GRIND	huch'	Incorporative	Regularly	sbj[1].V' (yéetel+3) 1
+Yucatec Maya	71	GRIND	huch'	Indirect participation	Marginally	
+Yucatec Maya	71	GRIND	huch'	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	71	GRIND	huch'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	71	GRIND	huch'	Reciprocal	Never	
+Yucatec Maya	71	GRIND	huch'	Reflexive	Never	
+Yucatec Maya	71	GRIND	huch'	Usative	Never	
+Yucatec Maya	72	WIPE	cho'	Causative	Never	
+Yucatec Maya	72	WIPE	cho'	Deagentive	Never	
+Yucatec Maya	72	WIPE	cho'	Direct object shift	Never	
+Yucatec Maya	72	WIPE	cho'	Extraversive	Never	
+Yucatec Maya	72	WIPE	cho'	Fientive	Never	
+Yucatec Maya	72	WIPE	cho'	Incorporative	No data	
+Yucatec Maya	72	WIPE	cho'	Indirect participation	Marginally	
+Yucatec Maya	72	WIPE	cho'	Introversive	Marginally	
+Yucatec Maya	72	WIPE	cho'	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	72	WIPE	cho'	Reciprocal	Marginally	
+Yucatec Maya	72	WIPE	cho'	Reflexive	Marginally	
+Yucatec Maya	72	WIPE	cho'	Usative	Never	
+Yucatec Maya	72	WIPE	púus	Causative	Never	
+Yucatec Maya	72	WIPE	púus	Deagentive	Never	
+Yucatec Maya	72	WIPE	púus	Direct object shift	Never	
+Yucatec Maya	72	WIPE	púus	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	72	WIPE	púus	Fientive	Never	
+Yucatec Maya	72	WIPE	púus	Incorporative	Never	
+Yucatec Maya	72	WIPE	púus	Indirect participation	Never	
+Yucatec Maya	72	WIPE	púus	Introversive	Never	
+Yucatec Maya	72	WIPE	púus	Passive	Never	
+Yucatec Maya	72	WIPE	púus	Reciprocal	Never	
+Yucatec Maya	72	WIPE	púus	Reflexive	Never	
+Yucatec Maya	72	WIPE	púus	Usative	Never	
+Yucatec Maya	72	WIPE	púust	Causative	Never	
+Yucatec Maya	72	WIPE	púust	Deagentive	Never	
+Yucatec Maya	72	WIPE	púust	Direct object shift	Regularly	
+Yucatec Maya	72	WIPE	púust	Extraversive	Never	
+Yucatec Maya	72	WIPE	púust	Fientive	Never	
+Yucatec Maya	72	WIPE	púust	Incorporative	Marginally	
+Yucatec Maya	72	WIPE	púust	Indirect participation	Regularly	
+Yucatec Maya	72	WIPE	púust	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	72	WIPE	púust	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	72	WIPE	púust	Reciprocal	Marginally	
+Yucatec Maya	72	WIPE	púust	Reflexive	Marginally	
+Yucatec Maya	72	WIPE	púust	Usative	Never	
+Yucatec Maya	73	DIG	háal	Causative	Never	
+Yucatec Maya	73	DIG	háal	Deagentive	Never	
+Yucatec Maya	73	DIG	háal	Direct object shift	Never	
+Yucatec Maya	73	DIG	háal	Extraversive	Never	
+Yucatec Maya	73	DIG	háal	Fientive	Never	
+Yucatec Maya	73	DIG	háal	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	73	DIG	háal	Indirect participation	Never	
+Yucatec Maya	73	DIG	háal	Introversive	Never	
+Yucatec Maya	73	DIG	háal	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	73	DIG	háal	Reciprocal	Never	
+Yucatec Maya	73	DIG	háal	Reflexive	Never	
+Yucatec Maya	73	DIG	háal	Usative	Never	
+Yucatec Maya	73	DIG	páan	Causative	Never	
+Yucatec Maya	73	DIG	páan	Deagentive	Never	
+Yucatec Maya	73	DIG	páan	Direct object shift	Never	
+Yucatec Maya	73	DIG	páan	Extraversive	Never	
+Yucatec Maya	73	DIG	páan	Fientive	Never	
+Yucatec Maya	73	DIG	páan	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	73	DIG	páan	Indirect participation	Never	
+Yucatec Maya	73	DIG	páan	Introversive	Marginally	
+Yucatec Maya	73	DIG	páan	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	73	DIG	páan	Reciprocal	Never	
+Yucatec Maya	73	DIG	páan	Reflexive	Never	
+Yucatec Maya	73	DIG	páan	Usative	Never	
+Yucatec Maya	74	PUSH	léench'int	Causative	Never	
+Yucatec Maya	74	PUSH	léench'int	Deagentive	Never	
+Yucatec Maya	74	PUSH	léench'int	Direct object shift	Never	
+Yucatec Maya	74	PUSH	léench'int	Extraversive	Never	
+Yucatec Maya	74	PUSH	léench'int	Fientive	Never	
+Yucatec Maya	74	PUSH	léench'int	Incorporative	Never	
+Yucatec Maya	74	PUSH	léench'int	Indirect participation	Never	
+Yucatec Maya	74	PUSH	léench'int	Introversive	Never	
+Yucatec Maya	74	PUSH	léench'int	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	74	PUSH	léench'int	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	74	PUSH	léench'int	Reflexive	Never	
+Yucatec Maya	74	PUSH	léench'int	Usative	Never	
+Yucatec Maya	74	PUSH	tul	Causative	Never	
+Yucatec Maya	74	PUSH	tul	Deagentive	Never	
+Yucatec Maya	74	PUSH	tul	Direct object shift	Never	
+Yucatec Maya	74	PUSH	tul	Extraversive	Never	
+Yucatec Maya	74	PUSH	tul	Fientive	Never	
+Yucatec Maya	74	PUSH	tul	Incorporative	Regularly	sbj[1].V' LOC3 1
+Yucatec Maya	74	PUSH	tul	Indirect participation	Never	
+Yucatec Maya	74	PUSH	tul	Introversive	Never	
+Yucatec Maya	74	PUSH	tul	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	74	PUSH	tul	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	74	PUSH	tul	Reflexive	Never	
+Yucatec Maya	74	PUSH	tul	Usative	Never	
+Yucatec Maya	75	BRING	taas	Causative	Never	
+Yucatec Maya	75	BRING	taas	Deagentive	Never	
+Yucatec Maya	75	BRING	taas	Direct object shift	Never	
+Yucatec Maya	75	BRING	taas	Extraversive	Never	
+Yucatec Maya	75	BRING	taas	Fientive	Never	
+Yucatec Maya	75	BRING	taas	Incorporative	Never	
+Yucatec Maya	75	BRING	taas	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	75	BRING	taas	Introversive	Never	
+Yucatec Maya	75	BRING	taas	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	75	BRING	taas	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	75	BRING	taas	Reflexive	Never	
+Yucatec Maya	75	BRING	taas	Usative	Never	
+Yucatec Maya	76	STEAL	ookol	Causative	Never	
+Yucatec Maya	76	STEAL	ookol	Deagentive	Never	
+Yucatec Maya	76	STEAL	ookol	Direct object shift	Marginally	
+Yucatec Maya	76	STEAL	ookol	Extraversive	Marginally	
+Yucatec Maya	76	STEAL	ookol	Fientive	Never	
+Yucatec Maya	76	STEAL	ookol	Incorporative	Marginally	
+Yucatec Maya	76	STEAL	ookol	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	76	STEAL	ookol	Introversive	Marginally	
+Yucatec Maya	76	STEAL	ookol	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	76	STEAL	ookol	Reciprocal	No data	
+Yucatec Maya	76	STEAL	ookol	Reflexive	Never	
+Yucatec Maya	76	STEAL	ookol	Usative	Never	
+Yucatec Maya	76	STEAL	ookolt	Causative	Never	
+Yucatec Maya	76	STEAL	ookolt	Deagentive	Never	
+Yucatec Maya	76	STEAL	ookolt	Direct object shift	Never	
+Yucatec Maya	76	STEAL	ookolt	Extraversive	Never	
+Yucatec Maya	76	STEAL	ookolt	Fientive	Never	
+Yucatec Maya	76	STEAL	ookolt	Incorporative	Never	
+Yucatec Maya	76	STEAL	ookolt	Indirect participation	Regularly	
+Yucatec Maya	76	STEAL	ookolt	Introversive	Never	
+Yucatec Maya	76	STEAL	ookolt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	76	STEAL	ookolt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	76	STEAL	ookolt	Reflexive	Marginally	
+Yucatec Maya	76	STEAL	ookolt	Usative	Never	
+Yucatec Maya	77	TEACH	ka'ns	Causative	Never	
+Yucatec Maya	77	TEACH	ka'ns	Deagentive	Never	
+Yucatec Maya	77	TEACH	ka'ns	Direct object shift	Marginally	
+Yucatec Maya	77	TEACH	ka'ns	Extraversive	Never	
+Yucatec Maya	77	TEACH	ka'ns	Fientive	Never	
+Yucatec Maya	77	TEACH	ka'ns	Incorporative	Never	
+Yucatec Maya	77	TEACH	ka'ns	Indirect participation	Never	
+Yucatec Maya	77	TEACH	ka'ns	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	77	TEACH	ka'ns	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	77	TEACH	ka'ns	Reciprocal	Marginally	
+Yucatec Maya	77	TEACH	ka'ns	Reflexive	Never	
+Yucatec Maya	77	TEACH	ka'ns	Usative	Never	
+Yucatec Maya	78	HEAR	u'y	Causative	Never	
+Yucatec Maya	78	HEAR	u'y	Deagentive	Never	
+Yucatec Maya	78	HEAR	u'y	Direct object shift	Never	
+Yucatec Maya	78	HEAR	u'y	Extraversive	Never	
+Yucatec Maya	78	HEAR	u'y	Fientive	Never	
+Yucatec Maya	78	HEAR	u'y	Incorporative	Marginally	
+Yucatec Maya	78	HEAR	u'y	Indirect participation	Never	
+Yucatec Maya	78	HEAR	u'y	Introversive	Marginally	
+Yucatec Maya	78	HEAR	u'y	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	78	HEAR	u'y	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	78	HEAR	u'y	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	78	HEAR	u'y	Usative	Never	
+Yucatec Maya	79	COOK	chak	Causative	Never	
+Yucatec Maya	79	COOK	chak	Deagentive	Never	
+Yucatec Maya	79	COOK	chak	Direct object shift	Never	
+Yucatec Maya	79	COOK	chak	Extraversive	Never	
+Yucatec Maya	79	COOK	chak	Fientive	Never	
+Yucatec Maya	79	COOK	chak	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	79	COOK	chak	Indirect participation	Regularly	
+Yucatec Maya	79	COOK	chak	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	79	COOK	chak	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	79	COOK	chak	Reciprocal	Never	
+Yucatec Maya	79	COOK	chak	Reflexive	Never	
+Yucatec Maya	79	COOK	chak	Usative	Never	
+Yucatec Maya	80	BOIL	look	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	80	BOIL	look	Deagentive	Never	
+Yucatec Maya	80	BOIL	look	Direct object shift	Never	
+Yucatec Maya	80	BOIL	look	Extraversive	Never	
+Yucatec Maya	80	BOIL	look	Fientive	Never	
+Yucatec Maya	80	BOIL	look	Incorporative	Never	
+Yucatec Maya	80	BOIL	look	Indirect participation	Never	
+Yucatec Maya	80	BOIL	look	Introversive	Never	
+Yucatec Maya	80	BOIL	look	Passive	Never	
+Yucatec Maya	80	BOIL	look	Reciprocal	Never	
+Yucatec Maya	80	BOIL	look	Reflexive	Never	
+Yucatec Maya	80	BOIL	look	Usative	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Causative	Marginally	
+Yucatec Maya	81	APPEAR	chíikpah	Deagentive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Direct object shift	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Extraversive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Fientive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Incorporative	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Indirect participation	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Introversive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Passive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Reciprocal	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Reflexive	Never	
+Yucatec Maya	81	APPEAR	chíikpah	Usative	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	82	BE ILL	k'oha'n	Deagentive	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Direct object shift	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Extraversive	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Fientive	Regularly	sbj[1].V' 1
+Yucatec Maya	82	BE ILL	k'oha'n	Incorporative	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Indirect participation	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Introversive	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Passive	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Reciprocal	Never	
+Yucatec Maya	82	BE ILL	k'oha'n	Reflexive	Marginally	
+Yucatec Maya	82	BE ILL	k'oha'n	Usative	Never	
+Yucatec Maya	83	CRY	ook'ol	Causative	Never	
+Yucatec Maya	83	CRY	ook'ol	Deagentive	Never	
+Yucatec Maya	83	CRY	ook'ol	Direct object shift	Never	
+Yucatec Maya	83	CRY	ook'ol	Extraversive	Regularly	sbj[1].V'extra.obj[3] 3 1
+Yucatec Maya	83	CRY	ook'ol	Fientive	Never	
+Yucatec Maya	83	CRY	ook'ol	Incorporative	Never	
+Yucatec Maya	83	CRY	ook'ol	Indirect participation	Never	
+Yucatec Maya	83	CRY	ook'ol	Introversive	Never	
+Yucatec Maya	83	CRY	ook'ol	Passive	Never	
+Yucatec Maya	83	CRY	ook'ol	Reciprocal	Never	
+Yucatec Maya	83	CRY	ook'ol	Reflexive	Never	
+Yucatec Maya	83	CRY	ook'ol	Usative	Never	
+Yucatec Maya	84	FALL	lúub	Causative	Regularly	sbj[2].V'caus.obj[1] 1 2
+Yucatec Maya	84	FALL	lúub	Deagentive	Never	
+Yucatec Maya	84	FALL	lúub	Direct object shift	Never	
+Yucatec Maya	84	FALL	lúub	Extraversive	Never	
+Yucatec Maya	84	FALL	lúub	Fientive	Never	
+Yucatec Maya	84	FALL	lúub	Incorporative	Never	
+Yucatec Maya	84	FALL	lúub	Indirect participation	Never	
+Yucatec Maya	84	FALL	lúub	Introversive	Never	
+Yucatec Maya	84	FALL	lúub	Passive	Never	
+Yucatec Maya	84	FALL	lúub	Reciprocal	Never	
+Yucatec Maya	84	FALL	lúub	Reflexive	Never	
+Yucatec Maya	84	FALL	lúub	Usative	Never	
+Yucatec Maya	85	MAKE	beet	Causative	Never	
+Yucatec Maya	85	MAKE	beet	Deagentive	Never	
+Yucatec Maya	85	MAKE	beet	Direct object shift	Never	
+Yucatec Maya	85	MAKE	beet	Extraversive	Never	
+Yucatec Maya	85	MAKE	beet	Fientive	Never	
+Yucatec Maya	85	MAKE	beet	Incorporative	Never	
+Yucatec Maya	85	MAKE	beet	Indirect participation	Never	
+Yucatec Maya	85	MAKE	beet	Introversive	Never	
+Yucatec Maya	85	MAKE	beet	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) (yéetel+3)
+Yucatec Maya	85	MAKE	beet	Reciprocal	Never	
+Yucatec Maya	85	MAKE	beet	Reflexive	Marginally	
+Yucatec Maya	85	MAKE	beet	Usative	Never	
+Yucatec Maya	86	GET	k'am	Causative	Never	
+Yucatec Maya	86	GET	k'am	Deagentive	Never	
+Yucatec Maya	86	GET	k'am	Direct object shift	Never	
+Yucatec Maya	86	GET	k'am	Extraversive	Never	
+Yucatec Maya	86	GET	k'am	Fientive	Never	
+Yucatec Maya	86	GET	k'am	Incorporative	Regularly	sbj[1].V' ti'+3 1
+Yucatec Maya	86	GET	k'am	Indirect participation	Never	
+Yucatec Maya	86	GET	k'am	Introversive	Marginally	
+Yucatec Maya	86	GET	k'am	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) ti'+3
+Yucatec Maya	86	GET	k'am	Reciprocal	No data	
+Yucatec Maya	86	GET	k'am	Reflexive	Never	
+Yucatec Maya	86	GET	k'am	Usative	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Causative	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Deagentive	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Direct object shift	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Extraversive	Regularly	sbj[1].V'extra.obj[2] 2 1
+Yucatec Maya	87	WANT	k'áat (1)	Fientive	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Incorporative	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Indirect participation	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Introversive	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Passive	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Reciprocal	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Reflexive	Never	
+Yucatec Maya	87	WANT	k'áat (1)	Usative	Never	
+Yucatec Maya	94	CHASE	hóok's	Causative	Never	
+Yucatec Maya	94	CHASE	hóok's	Deagentive	Never	
+Yucatec Maya	94	CHASE	hóok's	Direct object shift	Never	
+Yucatec Maya	94	CHASE	hóok's	Extraversive	Never	
+Yucatec Maya	94	CHASE	hóok's	Fientive	Never	
+Yucatec Maya	94	CHASE	hóok's	Incorporative	Never	
+Yucatec Maya	94	CHASE	hóok's	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	94	CHASE	hóok's	Introversive	Never	
+Yucatec Maya	94	CHASE	hóok's	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	94	CHASE	hóok's	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	94	CHASE	hóok's	Reflexive	No data	
+Yucatec Maya	94	CHASE	hóok's	Usative	Never	
+Yucatec Maya	96	MARRY	kahkunt	Causative	Never	
+Yucatec Maya	96	MARRY	kahkunt	Deagentive	Never	
+Yucatec Maya	96	MARRY	kahkunt	Direct object shift	Never	
+Yucatec Maya	96	MARRY	kahkunt	Extraversive	Never	
+Yucatec Maya	96	MARRY	kahkunt	Fientive	Never	
+Yucatec Maya	96	MARRY	kahkunt	Incorporative	Never	
+Yucatec Maya	96	MARRY	kahkunt	Indirect participation	Never	
+Yucatec Maya	96	MARRY	kahkunt	Introversive	Never	
+Yucatec Maya	96	MARRY	kahkunt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	96	MARRY	kahkunt	Reciprocal	Never	
+Yucatec Maya	96	MARRY	kahkunt	Reflexive	Never	
+Yucatec Maya	96	MARRY	kahkunt	Usative	Never	
+Yucatec Maya	110	LEARN	kan	Causative	Regularly	
+Yucatec Maya	110	LEARN	kan	Deagentive	Never	
+Yucatec Maya	110	LEARN	kan	Direct object shift	Never	
+Yucatec Maya	110	LEARN	kan	Extraversive	Never	
+Yucatec Maya	110	LEARN	kan	Fientive	Never	
+Yucatec Maya	110	LEARN	kan	Incorporative	No data	
+Yucatec Maya	110	LEARN	kan	Indirect participation	Never	
+Yucatec Maya	110	LEARN	kan	Introversive	Regularly	sbj[1].V'intro 1
+Yucatec Maya	110	LEARN	kan	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	110	LEARN	kan	Reciprocal	Never	
+Yucatec Maya	110	LEARN	kan	Reflexive	Never	
+Yucatec Maya	110	LEARN	kan	Usative	Never	
+Yucatec Maya	111	CALL	t'an	Causative	Never	
+Yucatec Maya	111	CALL	t'an	Deagentive	Never	
+Yucatec Maya	111	CALL	t'an	Direct object shift	Never	
+Yucatec Maya	111	CALL	t'an	Extraversive	Never	
+Yucatec Maya	111	CALL	t'an	Fientive	Never	
+Yucatec Maya	111	CALL	t'an	Incorporative	Never	
+Yucatec Maya	111	CALL	t'an	Indirect participation	Never	
+Yucatec Maya	111	CALL	t'an	Introversive	Never	
+Yucatec Maya	111	CALL	t'an	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	111	CALL	t'an	Reciprocal	No data	
+Yucatec Maya	111	CALL	t'an	Reflexive	Never	
+Yucatec Maya	111	CALL	t'an	Usative	Never	
+Yucatec Maya	112	COME (2)	taal	Causative	Regularly	sbj[3].V'caus.obj[1] 1 3 LOC2
+Yucatec Maya	112	COME (2)	taal	Deagentive	Never	
+Yucatec Maya	112	COME (2)	taal	Direct object shift	Never	
+Yucatec Maya	112	COME (2)	taal	Extraversive	Never	
+Yucatec Maya	112	COME (2)	taal	Fientive	Never	
+Yucatec Maya	112	COME (2)	taal	Incorporative	Never	
+Yucatec Maya	112	COME (2)	taal	Indirect participation	Never	
+Yucatec Maya	112	COME (2)	taal	Introversive	Never	
+Yucatec Maya	112	COME (2)	taal	Passive	Never	
+Yucatec Maya	112	COME (2)	taal	Reciprocal	Never	
+Yucatec Maya	112	COME (2)	taal	Reflexive	Never	
+Yucatec Maya	112	COME (2)	taal	Usative	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Causative	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Deagentive	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Direct object shift	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Extraversive	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Fientive	Marginally	
+Yucatec Maya	113	BE A DRESS	búuk	Incorporative	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Indirect participation	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Introversive	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Passive	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Reciprocal	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Reflexive	Never	
+Yucatec Maya	113	BE A DRESS	búuk	Usative	Regularly	sbj[2].V'usat.obj[1] 1 2
+Yucatec Maya	116	BURN (tr)	tóok	Causative	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Deagentive	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Direct object shift	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Extraversive	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Fientive	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Incorporative	Regularly	sbj[1].V' 1
+Yucatec Maya	116	BURN (tr)	tóok	Indirect participation	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Introversive	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	116	BURN (tr)	tóok	Reciprocal	Never	
+Yucatec Maya	116	BURN (tr)	tóok	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	116	BURN (tr)	tóok	Usative	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Causative	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Deagentive	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Direct object shift	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Extraversive	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Fientive	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Incorporative	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Indirect participation	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Introversive	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Reciprocal	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Reflexive	Never	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Usative	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Causative	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Deagentive	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Direct object shift	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Extraversive	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Fientive	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Incorporative	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Indirect participation	Never	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Introversive	Marginally	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Reciprocal	No data	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Reflexive	Marginally	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Usative	Never	
+Yucatec Maya	119	DRY	tikinkunt	Causative	Never	
+Yucatec Maya	119	DRY	tikinkunt	Deagentive	Never	
+Yucatec Maya	119	DRY	tikinkunt	Direct object shift	Never	
+Yucatec Maya	119	DRY	tikinkunt	Extraversive	Never	
+Yucatec Maya	119	DRY	tikinkunt	Fientive	Never	
+Yucatec Maya	119	DRY	tikinkunt	Incorporative	Never	
+Yucatec Maya	119	DRY	tikinkunt	Indirect participation	Never	
+Yucatec Maya	119	DRY	tikinkunt	Introversive	Marginally	
+Yucatec Maya	119	DRY	tikinkunt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	119	DRY	tikinkunt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	119	DRY	tikinkunt	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	119	DRY	tikinkunt	Usative	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Causative	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Deagentive	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Direct object shift	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Extraversive	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Fientive	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Incorporative	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Indirect participation	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Introversive	Never	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Usative	Never	
+Yucatec Maya	121	FELL	lúubs	Causative	Never	
+Yucatec Maya	121	FELL	lúubs	Deagentive	Never	
+Yucatec Maya	121	FELL	lúubs	Direct object shift	Never	
+Yucatec Maya	121	FELL	lúubs	Extraversive	Never	
+Yucatec Maya	121	FELL	lúubs	Fientive	Never	
+Yucatec Maya	121	FELL	lúubs	Incorporative	Never	
+Yucatec Maya	121	FELL	lúubs	Indirect participation	Never	
+Yucatec Maya	121	FELL	lúubs	Introversive	Marginally	
+Yucatec Maya	121	FELL	lúubs	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	121	FELL	lúubs	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	121	FELL	lúubs	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	121	FELL	lúubs	Usative	Never	
+Yucatec Maya	123	SEAT	kulkint	Causative	Never	
+Yucatec Maya	123	SEAT	kulkint	Deagentive	Never	
+Yucatec Maya	123	SEAT	kulkint	Direct object shift	Never	
+Yucatec Maya	123	SEAT	kulkint	Extraversive	Never	
+Yucatec Maya	123	SEAT	kulkint	Fientive	Never	
+Yucatec Maya	123	SEAT	kulkint	Incorporative	Never	
+Yucatec Maya	123	SEAT	kulkint	Indirect participation	Never	
+Yucatec Maya	123	SEAT	kulkint	Introversive	Marginally	
+Yucatec Maya	123	SEAT	kulkint	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	123	SEAT	kulkint	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	123	SEAT	kulkint	Reflexive	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	123	SEAT	kulkint	Usative	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Causative	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Deagentive	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Direct object shift	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Extraversive	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Fientive	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Incorporative	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Indirect participation	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Introversive	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	124	MAKE RUN	áalkabans	Reciprocal	Marginally	
+Yucatec Maya	124	MAKE RUN	áalkabans	Reflexive	Never	
+Yucatec Maya	124	MAKE RUN	áalkabans	Usative	Never	
+Yucatec Maya	125	SINK (tr)	bul	Causative	Never	
+Yucatec Maya	125	SINK (tr)	bul	Deagentive	Regularly	sbj[2].V'deag 2
+Yucatec Maya	125	SINK (tr)	bul	Direct object shift	Never	
+Yucatec Maya	125	SINK (tr)	bul	Extraversive	Never	
+Yucatec Maya	125	SINK (tr)	bul	Fientive	Never	
+Yucatec Maya	125	SINK (tr)	bul	Incorporative	No data	
+Yucatec Maya	125	SINK (tr)	bul	Indirect participation	Never	
+Yucatec Maya	125	SINK (tr)	bul	Introversive	No data	
+Yucatec Maya	125	SINK (tr)	bul	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	125	SINK (tr)	bul	Reciprocal	Marginally	
+Yucatec Maya	125	SINK (tr)	bul	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	125	SINK (tr)	bul	Usative	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Causative	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Deagentive	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Direct object shift	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Extraversive	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Fientive	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Incorporative	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Indirect participation	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Introversive	Marginally	
+Yucatec Maya	126	BOIL (tr)	lookans	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	126	BOIL (tr)	lookans	Reciprocal	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Reflexive	Never	
+Yucatec Maya	126	BOIL (tr)	lookans	Usative	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Causative	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Deagentive	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Direct object shift	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Extraversive	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Fientive	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Incorporative	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Indirect participation	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Introversive	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	128	ROLL (tr)	balak'es	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	128	ROLL (tr)	balak'es	Reflexive	Never	
+Yucatec Maya	128	ROLL (tr)	balak'es	Usative	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Causative	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Deagentive	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Direct object shift	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Extraversive	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Fientive	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Incorporative	Marginally	
+Yucatec Maya	128	ROLL (tr)	balak't	Indirect participation	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Introversive	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	128	ROLL (tr)	balak't	Reciprocal	Marginally	
+Yucatec Maya	128	ROLL (tr)	balak't	Reflexive	Never	
+Yucatec Maya	128	ROLL (tr)	balak't	Usative	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Causative	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Deagentive	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Direct object shift	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Extraversive	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Fientive	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Incorporative	Never	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Indirect participation	Regularly	sbj[1].V'.obj[2] 2 1
+Yucatec Maya	137	MAKE CLIMB	na'ks	Introversive	Marginally	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Passive	Regularly	sbj[2].V'pass 2 (tumen+1) LOC3
+Yucatec Maya	137	MAKE CLIMB	na'ks	Reciprocal	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	137	MAKE CLIMB	na'ks	Reflexive	Regularly	sbj[1/2].V' LOC3
+Yucatec Maya	137	MAKE CLIMB	na'ks	Usative	Never	
+Yucatec Maya	138	HURT	yahkunt	Causative	Never	
+Yucatec Maya	138	HURT	yahkunt	Deagentive	Never	
+Yucatec Maya	138	HURT	yahkunt	Direct object shift	Never	
+Yucatec Maya	138	HURT	yahkunt	Extraversive	Never	
+Yucatec Maya	138	HURT	yahkunt	Fientive	Never	
+Yucatec Maya	138	HURT	yahkunt	Incorporative	Never	
+Yucatec Maya	138	HURT	yahkunt	Indirect participation	Never	
+Yucatec Maya	138	HURT	yahkunt	Introversive	Never	
+Yucatec Maya	138	HURT	yahkunt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	138	HURT	yahkunt	Reciprocal	Marginally	
+Yucatec Maya	138	HURT	yahkunt	Reflexive	Marginally	
+Yucatec Maya	138	HURT	yahkunt	Usative	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Causative	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Deagentive	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Direct object shift	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Extraversive	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Fientive	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Incorporative	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Indirect participation	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Introversive	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	140	BE NAMED	k'aaba'int	Reciprocal	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Reflexive	Never	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Usative	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Causative	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Deagentive	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Direct object shift	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Extraversive	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Fientive	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Incorporative	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Indirect participation	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Introversive	Never	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Usative	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Causative	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Deagentive	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Direct object shift	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Extraversive	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Fientive	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Incorporative	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Indirect participation	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Introversive	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Reciprocal	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Reflexive	Never	
+Yucatec Maya	142	BE SAD ABOUT	ok'om-óolt	Usative	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Causative	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Deagentive	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Direct object shift	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Extraversive	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Fientive	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Incorporative	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Indirect participation	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Introversive	Never	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	143	CRY ABOUT	ook'olt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	143	CRY ABOUT	ook'olt	Reflexive	Regularly	sbj[1/2].V'
+Yucatec Maya	143	CRY ABOUT	ook'olt	Usative	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Causative	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Deagentive	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Direct object shift	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Extraversive	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Fientive	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Incorporative	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Indirect participation	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Introversive	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	144	COUGH AT	se'nt	Reciprocal	Regularly	sbj[1/2].V'
+Yucatec Maya	144	COUGH AT	se'nt	Reflexive	Never	
+Yucatec Maya	144	COUGH AT	se'nt	Usative	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Causative	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Deagentive	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Direct object shift	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Extraversive	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Fientive	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Incorporative	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Indirect participation	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Introversive	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Passive	Regularly	sbj[2].V'pass 2 (tumen+1)
+Yucatec Maya	145	JUMP OVER	síit't	Reciprocal	Marginally	
+Yucatec Maya	145	JUMP OVER	síit't	Reflexive	Never	
+Yucatec Maya	145	JUMP OVER	síit't	Usative	Never	

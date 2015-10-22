@@ -1,0 +1,29 @@
+﻿Language_name	Gloss	Meaning
+Bora	1	first person
+Bora	2	second person
+Bora	3	third person
+Bora	ABL	ablative
+Bora	ACC	accusative
+Bora	ALL	allative
+Bora	ANIM	animate
+Bora	CAUS	causative
+Bora	FUT	future
+Bora	HAB	habitual
+Bora	HAND	by hand
+Bora	INAN	inanimate
+Bora	INST	instrumental
+Bora	INTR	intransitive
+Bora	LOC	locative
+Bora	MULT	plural verbal number
+Bora	OBJ	object?
+Bora	PL	plural nominal number
+Bora	POSS	possessive
+Bora	PRED	predicative
+Bora	RECP	reciprocal
+Bora	REFL	reflexive
+Bora	REP	repetitive?
+Bora	SG	singular
+Bora	SNG	singular verbal number
+Bora	SOC	sociative
+Bora	TRANS	transitive
+Bora	VBLZ	verbalizer

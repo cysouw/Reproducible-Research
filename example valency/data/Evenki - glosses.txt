@@ -1,0 +1,28 @@
+﻿Language_name	Gloss	Meaning
+Evenki	1	first person
+Evenki	2	second person
+Evenki	3	thirld person
+Evenki	ABL	ablative
+Evenki	ACC	accusative
+Evenki	ALL	allative
+Evenki	AOR	aorist
+Evenki	CAUS	causative
+Evenki	COMIT	comitative
+Evenki	DAT	dative
+Evenki	INCEP	inceptive
+Evenki	INCH	inchoative
+Evenki	INSTR	instrumental
+Evenki	IPFV	imperfective
+Evenki	LOC	locative
+Evenki	NONFUT	non-future
+Evenki	PASS	passive
+Evenki	PL	plural
+Evenki	POSS	possessive
+Evenki	PRES	present
+Evenki	PROC	process
+Evenki	PROL	prolative
+Evenki	PURP	purposive
+Evenki	RECIPR	reciprocal
+Evenki	REFL	reflexive
+Evenki	SEMELF	semelfactive
+Evenki	SG	singular

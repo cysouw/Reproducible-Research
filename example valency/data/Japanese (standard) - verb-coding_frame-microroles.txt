@@ -1,0 +1,443 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Japanese (standard)	1	EAT	taberu	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Japanese (standard)	1	EAT	taberu	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Japanese (standard)	1	EAT	taberu	Derived	1-nom 2-acc V'pot	1	eater	NP-nom	
+Japanese (standard)	1	EAT	taberu	Derived	1-nom 2-acc V'pot	2	eaten food	NP-acc	
+Japanese (standard)	1	EAT	taberu	Derived	2-nom passV'	2	eaten food	NP-nom	
+Japanese (standard)	2	HUG	dakisimeru	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Japanese (standard)	2	HUG	dakisimeru	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Japanese (standard)	2	HUG	dakisimeru	Derived	1-nom 2-acc V'pot	1	hugger	NP-nom	
+Japanese (standard)	2	HUG	dakisimeru	Derived	1-nom 2-acc V'pot	2	huggee	NP-acc	
+Japanese (standard)	2	HUG	dakisimeru	Derived	2-nom passV'	2	huggee	NP-nom	
+Japanese (standard)	3	LOOK AT	miru	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Japanese (standard)	3	LOOK AT	miru	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Japanese (standard)	3	LOOK AT	miru	Derived	1-nom 2-acc V'pot	1	looker	NP-nom	
+Japanese (standard)	3	LOOK AT	miru	Derived	1-nom 2-acc V'pot	2	looked at entity	NP-acc	
+Japanese (standard)	3	LOOK AT	miru	Derived	2-nom passV'	2	looked at entity	NP-nom	
+Japanese (standard)	3	LOOK AT	miru	Derived	2-nom V'decr	2	looked at entity	NP-nom	
+Japanese (standard)	4	SEE	mieru	Basic	1-dat 2-nom V	1	seeer	NP-dat	X
+Japanese (standard)	4	SEE	mieru	Basic	1-dat 2-nom V	2	seen entity	NP-nom	S
+Japanese (standard)	4	SEE	mieru	Derived	2-nom V'decr	2	seen entity	NP-nom	
+Japanese (standard)	5	SMELL	nioi-o kagu	Basic	1-nom V	1	smeller	NP-nom	S
+Japanese (standard)	5	SMELL	nioi-o kagu	Derived	1-nom V'pot	1	smeller	NP-nom	
+Japanese (standard)	6	FEAR	kowagaru	Basic	1-nom 2-acc V	1	fearer	NP-nom	A
+Japanese (standard)	6	FEAR	kowagaru	Basic	1-nom 2-acc V	2	fear stimulus	NP-acc	P
+Japanese (standard)	6	FEAR	kowagaru	Derived	2-nom passV'	2	fear stimulus	NP-nom	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Derived	1-nom 2-acc V'pot	1	frightener	NP-nom	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Derived	1-nom 2-acc V'pot	2	frightenee	NP-acc	
+Japanese (standard)	7	FRIGHTEN	kowagaraseru	Derived	2-nom passV'	2	frightenee	NP-nom	
+Japanese (standard)	8	LIKE	ki-ni-iru	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Japanese (standard)	8	LIKE	ki-ni-iru	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Japanese (standard)	8	LIKE	ki-ni-iru	Derived	2-nom passV'	2	liked entity	NP-nom	
+Japanese (standard)	9	KNOW	siru	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Japanese (standard)	9	KNOW	siru	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Japanese (standard)	9	KNOW	siru	Derived	2-nom passV'	2	known thing/person	NP-nom	
+Japanese (standard)	10	THINK	kangaeru	Basic	1-nom 2-acc V	1	thinker	NP-nom	A
+Japanese (standard)	10	THINK	kangaeru	Basic	1-nom 2-acc V	2	thought content	NP-acc	P
+Japanese (standard)	10	THINK	kangaeru	Derived	1-nom 2-acc V'pot	1	thinker	NP-nom	
+Japanese (standard)	10	THINK	kangaeru	Derived	1-nom 2-acc V'pot	2	thought content	NP-acc	
+Japanese (standard)	10	THINK	kangaeru	Derived	2-nom passV'	2	thought content	NP-nom	
+Japanese (standard)	11	SEARCH FOR	sagasu	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Japanese (standard)	11	SEARCH FOR	sagasu	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Japanese (standard)	11	SEARCH FOR	sagasu	Derived	1-nom 2-acc V'pot	1	searcher	NP-nom	
+Japanese (standard)	11	SEARCH FOR	sagasu	Derived	1-nom 2-acc V'pot	2	searched for thing	NP-acc	
+Japanese (standard)	11	SEARCH FOR	sagasu	Derived	2-nom passV'	2	searched for thing	NP-nom	
+Japanese (standard)	12	WASH	arau	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Japanese (standard)	12	WASH	arau	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Japanese (standard)	12	WASH	arau	Derived	1-nom 2-acc V'pot	1	washer	NP-nom	
+Japanese (standard)	12	WASH	arau	Derived	1-nom 2-acc V'pot	2	washed entity	NP-acc	
+Japanese (standard)	12	WASH	arau	Derived	2-nom passV'	2	washed entity	NP-nom	
+Japanese (standard)	13	DRESS	kiseru	Basic	1-nom 2-dat 3-acc V	1	dresser	NP-nom	A
+Japanese (standard)	13	DRESS	kiseru	Basic	1-nom 2-dat 3-acc V	2	dressee	NP-dat	X
+Japanese (standard)	13	DRESS	kiseru	Basic	1-nom 2-dat 3-acc V	3	clothes	NP-acc	P
+Japanese (standard)	13	DRESS	kiseru	Derived	1-nom 2-dat 3-acc V'pot	1	dresser	NP-nom	
+Japanese (standard)	13	DRESS	kiseru	Derived	1-nom 2-dat 3-acc V'pot	2	dressee	NP-dat	
+Japanese (standard)	13	DRESS	kiseru	Derived	1-nom 2-dat 3-acc V'pot	3	clothes	NP-acc	
+Japanese (standard)	13	DRESS	kiseru	Derived	2-nom 3-acc passV'	2	dressee	NP-nom	
+Japanese (standard)	13	DRESS	kiseru	Derived	2-nom 3-acc passV'	3	clothes	NP-acc	
+Japanese (standard)	13	DRESS	kiseru	Derived	2-nom 3-acc V'decr	2	dressee	NP-nom	
+Japanese (standard)	13	DRESS	kiseru	Derived	2-nom 3-acc V'decr	3	clothes	NP-acc	
+Japanese (standard)	13	DRESS	kiseru	Derived	3-nom 2-dat passV'	2	dressee	NP-dat	
+Japanese (standard)	13	DRESS	kiseru	Derived	3-nom 2-dat passV'	3	clothes	NP-nom	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Derived	1-nom 2-acc V'pot	1	shaver (of body part)	NP-nom	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Derived	1-nom 2-acc V'pot	2	shaved body part	NP-acc	
+Japanese (standard)	14	SHAVE (a body part/person)	soru	Derived	2-nom passV'	2	shaved body part	NP-nom	
+Japanese (standard)	15	HELP	tetudau	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Japanese (standard)	15	HELP	tetudau	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Japanese (standard)	15	HELP	tetudau	Derived	1-nom 2-acc V'pot	1	helper	NP-nom	
+Japanese (standard)	15	HELP	tetudau	Derived	1-nom 2-acc V'pot	2	helpee	NP-acc	
+Japanese (standard)	15	HELP	tetudau	Derived	2-nom passV'	2	helpee	NP-nom	
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Basic	1-nom V	1	follower	NP-nom	S
+Japanese (standard)	16	FOLLOW	ato-ni tuzuku	Derived	1-nom V'pot	1	follower	NP-nom	
+Japanese (standard)	17	MEET	au	Basic	1-nom 2-dat V	1	meeter	NP-nom	S
+Japanese (standard)	17	MEET	au	Basic	1-nom 2-dat V	2	met person	NP-dat	X
+Japanese (standard)	17	MEET	au	Derived	1-nom 2-dat V'pot	1	meeter	NP-nom	
+Japanese (standard)	17	MEET	au	Derived	1-nom 2-dat V'pot	2	met person	NP-dat	
+Japanese (standard)	18	TALK	hanasu	Basic	1-nom 2-dat 3-acc V	1	talker	NP-nom	A
+Japanese (standard)	18	TALK	hanasu	Basic	1-nom 2-dat 3-acc V	2	talked to person	NP-dat	X
+Japanese (standard)	18	TALK	hanasu	Basic	1-nom 2-dat 3-acc V	3	talked about content	NP-acc	P
+Japanese (standard)	18	TALK	hanasu	Derived	1-nom 2-dat 3-acc V'pot	1	talker	NP-nom	
+Japanese (standard)	18	TALK	hanasu	Derived	1-nom 2-dat 3-acc V'pot	2	talked to person	NP-dat	
+Japanese (standard)	18	TALK	hanasu	Derived	1-nom 2-dat 3-acc V'pot	3	talked about content	NP-acc	
+Japanese (standard)	18	TALK	hanasu	Derived	2-nom 3-acc passV'	2	talked to person	NP-nom	
+Japanese (standard)	18	TALK	hanasu	Derived	2-nom 3-acc passV'	3	talked about content	NP-acc	
+Japanese (standard)	18	TALK	hanasu	Derived	3-nom 2-dat passV'	2	talked to person	NP-dat	
+Japanese (standard)	18	TALK	hanasu	Derived	3-nom 2-dat passV'	3	talked about content	NP-nom	
+Japanese (standard)	19	ASK FOR	motomeru	Basic	1-nom 2-dat 3-acc V	1	asker	NP-nom	A
+Japanese (standard)	19	ASK FOR	motomeru	Basic	1-nom 2-dat 3-acc V	2	askee	NP-dat	X
+Japanese (standard)	19	ASK FOR	motomeru	Basic	1-nom 2-dat 3-acc V	3	requested thing	NP-acc	P
+Japanese (standard)	19	ASK FOR	motomeru	Derived	1-nom 2-dat 3-acc V'pot	1	asker	NP-nom	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	1-nom 2-dat 3-acc V'pot	2	askee	NP-dat	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	1-nom 2-dat 3-acc V'pot	3	requested thing	NP-acc	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	2-nom 3-acc passV'	2	askee	NP-nom	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	2-nom 3-acc passV'	3	requested thing	NP-acc	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	3-nom 2-dat passV'	2	askee	NP-dat	
+Japanese (standard)	19	ASK FOR	motomeru	Derived	3-nom 2-dat passV'	3	requested thing	NP-nom	
+Japanese (standard)	20	SHOUT AT	sakebu	Basic	1-nom 2-dat 3-acc V	1	shouter	NP-nom	A
+Japanese (standard)	20	SHOUT AT	sakebu	Basic	1-nom 2-dat 3-acc V	2	shoutee	NP-dat	X
+Japanese (standard)	20	SHOUT AT	sakebu	Basic	1-nom 2-dat 3-acc V	3	shouted words	NP-acc	P
+Japanese (standard)	20	SHOUT AT	sakebu	Derived	1-nom 2-dat 3-acc V'pot	1	shouter	NP-nom	
+Japanese (standard)	20	SHOUT AT	sakebu	Derived	1-nom 2-dat 3-acc V'pot	2	shoutee	NP-dat	
+Japanese (standard)	20	SHOUT AT	sakebu	Derived	1-nom 2-dat 3-acc V'pot	3	shouted words	NP-acc	
+Japanese (standard)	20	SHOUT AT	sakebu	Derived	3-nom 2-dat passV'	2	shoutee	NP-dat	
+Japanese (standard)	20	SHOUT AT	sakebu	Derived	3-nom 2-dat passV'	3	shouted words	NP-nom	
+Japanese (standard)	21	TELL	tugeru	Basic	1-nom 2-dat 3-acc V	1	teller	NP-nom	A
+Japanese (standard)	21	TELL	tugeru	Basic	1-nom 2-dat 3-acc V	2	tellee	NP-dat	X
+Japanese (standard)	21	TELL	tugeru	Basic	1-nom 2-dat 3-acc V	3	told content	NP-acc	P
+Japanese (standard)	21	TELL	tugeru	Derived	1-nom 2-dat 3-acc V'pot	1	teller	NP-nom	
+Japanese (standard)	21	TELL	tugeru	Derived	1-nom 2-dat 3-acc V'pot	2	tellee	NP-dat	
+Japanese (standard)	21	TELL	tugeru	Derived	1-nom 2-dat 3-acc V'pot	3	told content	NP-acc	
+Japanese (standard)	21	TELL	tugeru	Derived	2-nom 3-acc passV'	2	tellee	NP-nom	
+Japanese (standard)	21	TELL	tugeru	Derived	2-nom 3-acc passV'	3	told content	NP-acc	
+Japanese (standard)	21	TELL	tugeru	Derived	3-nom 2-dat passV'	2	tellee	NP-dat	
+Japanese (standard)	21	TELL	tugeru	Derived	3-nom 2-dat passV'	3	told content	NP-nom	
+Japanese (standard)	22	SAY	yuu	Basic	1-nom 2-dat UTT3 V	1	sayer	NP-nom	S
+Japanese (standard)	22	SAY	yuu	Basic	1-nom 2-dat UTT3 V	2	saying addressee	NP-dat	X
+Japanese (standard)	22	SAY	yuu	Basic	1-nom 2-dat UTT3 V	3	said content	UTT	X
+Japanese (standard)	22	SAY	yuu	Derived	1-nom 2-dat UTT3 V'pot	1	sayer	NP-nom	
+Japanese (standard)	22	SAY	yuu	Derived	1-nom 2-dat UTT3 V'pot	2	saying addressee	NP-dat	
+Japanese (standard)	22	SAY	yuu	Derived	1-nom 2-dat UTT3 V'pot	3	said content	UTT	
+Japanese (standard)	22	SAY	yuu	Derived	2-nom UTT3 passV'	2	saying addressee	NP-nom	
+Japanese (standard)	22	SAY	yuu	Derived	2-nom UTT3 passV'	3	said content	UTT	
+Japanese (standard)	23	NAME	yobu	Basic	1-nom 2-acc 3-quot V	1	namer	NP-nom	A
+Japanese (standard)	23	NAME	yobu	Basic	1-nom 2-acc 3-quot V	2	namee	NP-acc	P
+Japanese (standard)	23	NAME	yobu	Basic	1-nom 2-acc 3-quot V	3	name	NP-quot	X
+Japanese (standard)	23	NAME	yobu	Derived	1-nom 2-acc 3-quot V'pot	1	namer	NP-nom	
+Japanese (standard)	23	NAME	yobu	Derived	1-nom 2-acc 3-quot V'pot	2	namee	NP-acc	
+Japanese (standard)	23	NAME	yobu	Derived	1-nom 2-acc 3-quot V'pot	3	name	NP-quot	
+Japanese (standard)	23	NAME	yobu	Derived	2-nom 3-quot passV'	2	namee	NP-nom	
+Japanese (standard)	23	NAME	yobu	Derived	2-nom 3-quot passV'	3	name	NP-quot	
+Japanese (standard)	24	BUILD	tateru	Basic	1-nom (2-instr) 3-acc V	1	builder	NP-nom	A
+Japanese (standard)	24	BUILD	tateru	Basic	1-nom (2-instr) 3-acc V	2	building material	NP-instr	I
+Japanese (standard)	24	BUILD	tateru	Basic	1-nom (2-instr) 3-acc V	3	built thing	NP-acc	P
+Japanese (standard)	24	BUILD	tateru	Derived	1-nom (2-instr) 3-acc V'pot	1	builder	NP-nom	
+Japanese (standard)	24	BUILD	tateru	Derived	1-nom (2-instr) 3-acc V'pot	2	building material	NP-instr	
+Japanese (standard)	24	BUILD	tateru	Derived	1-nom (2-instr) 3-acc V'pot	3	built thing	NP-acc	
+Japanese (standard)	24	BUILD	tateru	Derived	3-nom (2-instr) passV'	2	building material	NP-instr	
+Japanese (standard)	24	BUILD	tateru	Derived	3-nom (2-instr) passV'	3	built thing	NP-nom	
+Japanese (standard)	24	BUILD	tateru	Derived	3-nom V'decr	3	built thing	NP-nom	
+Japanese (standard)	25	BREAK	kowasu	Basic	1-nom (2-instr) 3-acc V	1	breaker	NP-nom	A
+Japanese (standard)	25	BREAK	kowasu	Basic	1-nom (2-instr) 3-acc V	2	breaking instrument	NP-instr	I
+Japanese (standard)	25	BREAK	kowasu	Basic	1-nom (2-instr) 3-acc V	3	broken thing	NP-acc	P
+Japanese (standard)	25	BREAK	kowasu	Derived	1-nom (2-instr) 3-acc V'pot	1	breaker	NP-nom	
+Japanese (standard)	25	BREAK	kowasu	Derived	1-nom (2-instr) 3-acc V'pot	2	breaking instrument	NP-instr	
+Japanese (standard)	25	BREAK	kowasu	Derived	1-nom (2-instr) 3-acc V'pot	3	broken thing	NP-acc	
+Japanese (standard)	25	BREAK	kowasu	Derived	3-nom (2-instr) passV'	2	breaking instrument	NP-instr	
+Japanese (standard)	25	BREAK	kowasu	Derived	3-nom (2-instr) passV'	3	broken thing	NP-nom	
+Japanese (standard)	25	BREAK	kowasu	Derived	3-nom V'decr	3	broken thing	NP-nom	
+Japanese (standard)	26	KILL	korosu	Basic	1-nom (2-instr) 3-acc V	1	killer	NP-nom	A
+Japanese (standard)	26	KILL	korosu	Basic	1-nom (2-instr) 3-acc V	2	killing instrument	NP-instr	I
+Japanese (standard)	26	KILL	korosu	Basic	1-nom (2-instr) 3-acc V	3	killee	NP-acc	P
+Japanese (standard)	26	KILL	korosu	Derived	1-nom (2-instr) 3-acc V'pot	1	killer	NP-nom	
+Japanese (standard)	26	KILL	korosu	Derived	1-nom (2-instr) 3-acc V'pot	2	killing instrument	NP-instr	
+Japanese (standard)	26	KILL	korosu	Derived	1-nom (2-instr) 3-acc V'pot	3	killee	NP-acc	
+Japanese (standard)	26	KILL	korosu	Derived	3-nom (2-instr) passV'	2	killing instrument	NP-instr	
+Japanese (standard)	26	KILL	korosu	Derived	3-nom (2-instr) passV'	3	killee	NP-nom	
+Japanese (standard)	27	BEAT	tataku	Basic	1-nom (2-instr) 3-acc V	1	beater	NP-nom	A
+Japanese (standard)	27	BEAT	tataku	Basic	1-nom (2-instr) 3-acc V	2	beating instrument	NP-instr	I
+Japanese (standard)	27	BEAT	tataku	Basic	1-nom (2-instr) 3-acc V	3	beatee	NP-acc	P
+Japanese (standard)	27	BEAT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	1	beater	NP-nom	
+Japanese (standard)	27	BEAT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	2	beating instrument	NP-instr	
+Japanese (standard)	27	BEAT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	3	beatee	NP-acc	
+Japanese (standard)	27	BEAT	tataku	Derived	3-nom (2-instr) passV'	2	beating instrument	NP-instr	
+Japanese (standard)	27	BEAT	tataku	Derived	3-nom (2-instr) passV'	3	beatee	NP-nom	
+Japanese (standard)	28	HIT	tataku	Basic	1-nom (2-instr) 3-acc V	1	hitter	NP-nom	A
+Japanese (standard)	28	HIT	tataku	Basic	1-nom (2-instr) 3-acc V	2	hitting instrument	NP-instr	I
+Japanese (standard)	28	HIT	tataku	Basic	1-nom (2-instr) 3-acc V	3	hittee	NP-acc	P
+Japanese (standard)	28	HIT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	1	hitter	NP-nom	
+Japanese (standard)	28	HIT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	2	hitting instrument	NP-instr	
+Japanese (standard)	28	HIT	tataku	Derived	1-nom (2-instr) 3-acc V'pot	3	hittee	NP-acc	
+Japanese (standard)	28	HIT	tataku	Derived	3-nom (2-instr) passV'	2	hitting instrument	NP-instr	
+Japanese (standard)	28	HIT	tataku	Derived	3-nom (2-instr) passV'	3	hittee	NP-nom	
+Japanese (standard)	29	TOUCH	sawaru	Basic	1-nom 2-acc V	1	toucher	NP-nom	A
+Japanese (standard)	29	TOUCH	sawaru	Basic	1-nom 2-acc V	2	touchee	NP-acc	P
+Japanese (standard)	29	TOUCH	sawaru	Derived	1-nom 2-acc V'pot	1	toucher	NP-nom	
+Japanese (standard)	29	TOUCH	sawaru	Derived	1-nom 2-acc V'pot	2	touchee	NP-acc	
+Japanese (standard)	29	TOUCH	sawaru	Derived	2-nom passV'	2	touchee	NP-nom	
+Japanese (standard)	30	CUT	kiru	Basic	1-nom (2-instr) 3-acc V	1	cutter	NP-nom	A
+Japanese (standard)	30	CUT	kiru	Basic	1-nom (2-instr) 3-acc V	2	cutting instrument	NP-instr	I
+Japanese (standard)	30	CUT	kiru	Basic	1-nom (2-instr) 3-acc V	3	cut thing	NP-acc	P
+Japanese (standard)	30	CUT	kiru	Derived	1-nom (2-instr) 3-acc V'pot	1	cutter	NP-nom	
+Japanese (standard)	30	CUT	kiru	Derived	1-nom (2-instr) 3-acc V'pot	2	cutting instrument	NP-instr	
+Japanese (standard)	30	CUT	kiru	Derived	1-nom (2-instr) 3-acc V'pot	3	cut thing	NP-acc	
+Japanese (standard)	30	CUT	kiru	Derived	3-nom (2-instr) passV'	2	cutting instrument	NP-instr	
+Japanese (standard)	30	CUT	kiru	Derived	3-nom (2-instr) passV'	3	cut thing	NP-nom	
+Japanese (standard)	30	CUT	kiru	Derived	3-nom V'decr	3	cut thing	NP-nom	
+Japanese (standard)	31	TAKE	toru	Basic	1-nom 2-abl 3-acc V	1	taker	NP-nom	A
+Japanese (standard)	31	TAKE	toru	Basic	1-nom 2-abl 3-acc V	2	taking source	NP-abl	X
+Japanese (standard)	31	TAKE	toru	Basic	1-nom 2-abl 3-acc V	3	taken thing	NP-acc	P
+Japanese (standard)	31	TAKE	toru	Derived	1-nom 2-abl 3-acc V'pot	1	taker	NP-nom	
+Japanese (standard)	31	TAKE	toru	Derived	1-nom 2-abl 3-acc V'pot	2	taking source	NP-abl	
+Japanese (standard)	31	TAKE	toru	Derived	1-nom 2-abl 3-acc V'pot	3	taken thing	NP-acc	
+Japanese (standard)	31	TAKE	toru	Derived	3-nom 2-abl passV'	2	taking source	NP-abl	
+Japanese (standard)	31	TAKE	toru	Derived	3-nom 2-abl passV'	3	taken thing	NP-nom	
+Japanese (standard)	32	TEAR	yaburu	Basic	1-nom 2-acc V	1	tearer	NP-nom	A
+Japanese (standard)	32	TEAR	yaburu	Basic	1-nom 2-acc V	2	tearing source	NP-acc	P
+Japanese (standard)	32	TEAR	yaburu	Derived	1-nom 2-acc V'pot	1	tearer	NP-nom	
+Japanese (standard)	32	TEAR	yaburu	Derived	1-nom 2-acc V'pot	2	tearing source	NP-acc	
+Japanese (standard)	32	TEAR	yaburu	Derived	2-nom passV'	2	tearing source	NP-nom	
+Japanese (standard)	32	TEAR	yaburu	Derived	2-nom V'decr	2	tearing source	NP-nom	
+Japanese (standard)	33	PEEL	muku	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Japanese (standard)	33	PEEL	muku	Basic	1-nom 2-acc V	2	peeled object	NP-acc	P
+Japanese (standard)	33	PEEL	muku	Derived	1-nom 2-acc V'pot	1	peeler	NP-nom	
+Japanese (standard)	33	PEEL	muku	Derived	1-nom 2-acc V'pot	2	peeled object	NP-acc	
+Japanese (standard)	33	PEEL	muku	Derived	2-nom passV'	2	peeled object	NP-nom	
+Japanese (standard)	33	PEEL	muku	Derived	2-nom V'decr	2	peeled object	NP-nom	
+Japanese (standard)	34	HIDE	kakusu	Basic	1-nom 2-acc V	1	hider	NP-nom	A
+Japanese (standard)	34	HIDE	kakusu	Basic	1-nom 2-acc V	2	hidden thing	NP-acc	P
+Japanese (standard)	34	HIDE	kakusu	Derived	1-nom 2-acc V'pot	1	hider	NP-nom	
+Japanese (standard)	34	HIDE	kakusu	Derived	1-nom 2-acc V'pot	2	hidden thing	NP-acc	
+Japanese (standard)	34	HIDE	kakusu	Derived	2-nom passV'	2	hidden thing	NP-nom	
+Japanese (standard)	35	SHOW	miseru	Basic	1-nom 2-dat 3-acc V	1	shower	NP-nom	A
+Japanese (standard)	35	SHOW	miseru	Basic	1-nom 2-dat 3-acc V	2	showing addressee	NP-dat	X
+Japanese (standard)	35	SHOW	miseru	Basic	1-nom 2-dat 3-acc V	3	shown thing	NP-acc	P
+Japanese (standard)	35	SHOW	miseru	Derived	1-nom 2-dat 3-acc V'pot	1	shower	NP-nom	
+Japanese (standard)	35	SHOW	miseru	Derived	1-nom 2-dat 3-acc V'pot	2	showing addressee	NP-dat	
+Japanese (standard)	35	SHOW	miseru	Derived	1-nom 2-dat 3-acc V'pot	3	shown thing	NP-acc	
+Japanese (standard)	35	SHOW	miseru	Derived	2-nom 3-acc passV'	2	showing addressee	NP-nom	
+Japanese (standard)	35	SHOW	miseru	Derived	2-nom 3-acc passV'	3	shown thing	NP-acc	
+Japanese (standard)	35	SHOW	miseru	Derived	2-nom 3-acc V'decr	2	showing addressee	NP-nom	
+Japanese (standard)	35	SHOW	miseru	Derived	2-nom 3-acc V'decr	3	shown thing	NP-acc	
+Japanese (standard)	35	SHOW	miseru	Derived	3-nom 2-dat passV'	2	showing addressee	NP-dat	
+Japanese (standard)	35	SHOW	miseru	Derived	3-nom 2-dat passV'	3	shown thing	NP-nom	
+Japanese (standard)	36	GIVE	ataeru	Basic	1-nom 2-dat 3-acc V	1	giver	NP-nom	A
+Japanese (standard)	36	GIVE	ataeru	Basic	1-nom 2-dat 3-acc V	2	giving recipient	NP-dat	X
+Japanese (standard)	36	GIVE	ataeru	Basic	1-nom 2-dat 3-acc V	3	gift	NP-acc	P
+Japanese (standard)	36	GIVE	ataeru	Derived	1-nom 2-dat 3-acc V'pot	1	giver	NP-nom	
+Japanese (standard)	36	GIVE	ataeru	Derived	1-nom 2-dat 3-acc V'pot	2	giving recipient	NP-dat	
+Japanese (standard)	36	GIVE	ataeru	Derived	1-nom 2-dat 3-acc V'pot	3	gift	NP-acc	
+Japanese (standard)	36	GIVE	ataeru	Derived	2-nom 3-acc passV'	2	giving recipient	NP-nom	
+Japanese (standard)	36	GIVE	ataeru	Derived	2-nom 3-acc passV'	3	gift	NP-acc	
+Japanese (standard)	36	GIVE	ataeru	Derived	3-nom 2-dat passV'	2	giving recipient	NP-dat	
+Japanese (standard)	36	GIVE	ataeru	Derived	3-nom 2-dat passV'	3	gift	NP-nom	
+Japanese (standard)	37	SEND	okuru	Basic	1-nom 2-loc 3-acc V	1	sender	NP-nom	A
+Japanese (standard)	37	SEND	okuru	Basic	1-nom 2-loc 3-acc V	2	sending recipient	NP-loc	L
+Japanese (standard)	37	SEND	okuru	Basic	1-nom 2-loc 3-acc V	3	sent thing	NP-acc	P
+Japanese (standard)	37	SEND	okuru	Derived	1-nom 2-loc 3-acc V'pot	1	sender	NP-nom	
+Japanese (standard)	37	SEND	okuru	Derived	1-nom 2-loc 3-acc V'pot	2	sending recipient	NP-loc	
+Japanese (standard)	37	SEND	okuru	Derived	1-nom 2-loc 3-acc V'pot	3	sent thing	NP-acc	
+Japanese (standard)	37	SEND	okuru	Derived	3-nom 2-loc passV'	2	sending recipient	NP-loc	
+Japanese (standard)	37	SEND	okuru	Derived	3-nom 2-loc passV'	3	sent thing	NP-nom	
+Japanese (standard)	38	CARRY	hakobu	Basic	1-nom 2-loc 3-acc V	1	carrier	NP-nom	A
+Japanese (standard)	38	CARRY	hakobu	Basic	1-nom 2-loc 3-acc V	2	carrying goal	NP-loc	L
+Japanese (standard)	38	CARRY	hakobu	Basic	1-nom 2-loc 3-acc V	3	carried thing	NP-acc	P
+Japanese (standard)	38	CARRY	hakobu	Derived	1-nom 2-loc 3-acc V'pot	1	carrier	NP-nom	
+Japanese (standard)	38	CARRY	hakobu	Derived	1-nom 2-loc 3-acc V'pot	2	carrying goal	NP-loc	
+Japanese (standard)	38	CARRY	hakobu	Derived	1-nom 2-loc 3-acc V'pot	3	carried thing	NP-acc	
+Japanese (standard)	38	CARRY	hakobu	Derived	3-nom 2-loc passV'	2	carrying goal	NP-loc	
+Japanese (standard)	38	CARRY	hakobu	Derived	3-nom 2-loc passV'	3	carried thing	NP-nom	
+Japanese (standard)	39	THROW	nageru	Basic	1-nom 2-loc 3-acc V	1	thrower	NP-nom	A
+Japanese (standard)	39	THROW	nageru	Basic	1-nom 2-loc 3-acc V	2	throwing goal	NP-loc	L
+Japanese (standard)	39	THROW	nageru	Basic	1-nom 2-loc 3-acc V	3	thrown thing	NP-acc	P
+Japanese (standard)	39	THROW	nageru	Derived	1-nom 2-loc 3-acc V'pot	1	thrower	NP-nom	
+Japanese (standard)	39	THROW	nageru	Derived	1-nom 2-loc 3-acc V'pot	2	throwing goal	NP-loc	
+Japanese (standard)	39	THROW	nageru	Derived	1-nom 2-loc 3-acc V'pot	3	thrown thing	NP-acc	
+Japanese (standard)	39	THROW	nageru	Derived	3-nom 2-loc passV'	2	throwing goal	NP-loc	
+Japanese (standard)	39	THROW	nageru	Derived	3-nom 2-loc passV'	3	thrown thing	NP-nom	
+Japanese (standard)	40	TIE	tunagu	Basic	1-nom (2-instr) 3-loc 4-acc V	1	tier	NP-nom	A
+Japanese (standard)	40	TIE	tunagu	Basic	1-nom (2-instr) 3-loc 4-acc V	2	tying instrument	NP-instr	I
+Japanese (standard)	40	TIE	tunagu	Basic	1-nom (2-instr) 3-loc 4-acc V	3	tying goal	NP-loc	L
+Japanese (standard)	40	TIE	tunagu	Basic	1-nom (2-instr) 3-loc 4-acc V	4	tied thing	NP-acc	P
+Japanese (standard)	40	TIE	tunagu	Derived	1-nom (2-instr) 3-loc 4-acc V'pot	1	tier	NP-nom	
+Japanese (standard)	40	TIE	tunagu	Derived	1-nom (2-instr) 3-loc 4-acc V'pot	2	tying instrument	NP-instr	
+Japanese (standard)	40	TIE	tunagu	Derived	1-nom (2-instr) 3-loc 4-acc V'pot	3	tying goal	NP-loc	
+Japanese (standard)	40	TIE	tunagu	Derived	1-nom (2-instr) 3-loc 4-acc V'pot	4	tied thing	NP-acc	
+Japanese (standard)	40	TIE	tunagu	Derived	4-nom (2-instr) 3-loc passV'	2	tying instrument	NP-instr	
+Japanese (standard)	40	TIE	tunagu	Derived	4-nom (2-instr) 3-loc passV'	3	tying goal	NP-loc	
+Japanese (standard)	40	TIE	tunagu	Derived	4-nom (2-instr) 3-loc passV'	4	tied thing	NP-nom	
+Japanese (standard)	41	PUT	oku	Basic	1-nom 2-loc 3-acc V	1	putter	NP-nom	A
+Japanese (standard)	41	PUT	oku	Basic	1-nom 2-loc 3-acc V	2	putting goal	NP-loc	L
+Japanese (standard)	41	PUT	oku	Basic	1-nom 2-loc 3-acc V	3	put thing	NP-acc	P
+Japanese (standard)	41	PUT	oku	Derived	1-nom 2-loc 3-acc V'pot	1	putter	NP-nom	
+Japanese (standard)	41	PUT	oku	Derived	1-nom 2-loc 3-acc V'pot	2	putting goal	NP-loc	
+Japanese (standard)	41	PUT	oku	Derived	1-nom 2-loc 3-acc V'pot	3	put thing	NP-acc	
+Japanese (standard)	41	PUT	oku	Derived	3-nom 2-loc passV'	2	putting goal	NP-loc	
+Japanese (standard)	41	PUT	oku	Derived	3-nom 2-loc passV'	3	put thing	NP-nom	
+Japanese (standard)	42	POUR	sosogu	Basic	1-nom 2-loc 3-acc V	1	pourer	NP-nom	A
+Japanese (standard)	42	POUR	sosogu	Basic	1-nom 2-loc 3-acc V	2	pouring goal	NP-loc	L
+Japanese (standard)	42	POUR	sosogu	Basic	1-nom 2-loc 3-acc V	3	poured substance	NP-acc	P
+Japanese (standard)	42	POUR	sosogu	Derived	1-nom 2-loc 3-acc V'pot	1	pourer	NP-nom	
+Japanese (standard)	42	POUR	sosogu	Derived	1-nom 2-loc 3-acc V'pot	2	pouring goal	NP-loc	
+Japanese (standard)	42	POUR	sosogu	Derived	1-nom 2-loc 3-acc V'pot	3	poured substance	NP-acc	
+Japanese (standard)	42	POUR	sosogu	Derived	3-nom 2-loc passV'	2	pouring goal	NP-loc	
+Japanese (standard)	42	POUR	sosogu	Derived	3-nom 2-loc passV'	3	poured substance	NP-nom	
+Japanese (standard)	43	COVER	kurumu	Basic	1-nom (2-instr) 3-acc V	1	coverer	NP-nom	A
+Japanese (standard)	43	COVER	kurumu	Basic	1-nom (2-instr) 3-acc V	2	covered thing	NP-instr	I
+Japanese (standard)	43	COVER	kurumu	Basic	1-nom (2-instr) 3-acc V	3	cover	NP-acc	P
+Japanese (standard)	43	COVER	kurumu	Derived	1-nom (2-instr) 3-acc V'pot	1	coverer	NP-nom	
+Japanese (standard)	43	COVER	kurumu	Derived	1-nom (2-instr) 3-acc V'pot	2	covered thing	NP-instr	
+Japanese (standard)	43	COVER	kurumu	Derived	1-nom (2-instr) 3-acc V'pot	3	cover	NP-acc	
+Japanese (standard)	43	COVER	kurumu	Derived	3-nom (2-instr) passV'	2	covered thing	NP-instr	
+Japanese (standard)	43	COVER	kurumu	Derived	3-nom (2-instr) passV'	3	cover	NP-nom	
+Japanese (standard)	43	COVER	kurumu	Derived	3-nom V'decr	3	cover	NP-nom	
+Japanese (standard)	44	FILL	mitasu	Basic	1-nom 2-loc 3-acc V	1	filler	NP-nom	A
+Japanese (standard)	44	FILL	mitasu	Basic	1-nom 2-loc 3-acc V	2	filled container	NP-loc	L
+Japanese (standard)	44	FILL	mitasu	Basic	1-nom 2-loc 3-acc V	3	filling material	NP-acc	P
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 2-loc 3-acc V'pot	1	filler	NP-nom	
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 2-loc 3-acc V'pot	2	filled container	NP-loc	
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 2-loc 3-acc V'pot	3	filling material	NP-acc	
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 3-instr 2-acc V'	1	filler	NP-nom	
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 3-instr 2-acc V'	2	filled container	NP-acc	
+Japanese (standard)	44	FILL	mitasu	Derived	1-nom 3-instr 2-acc V'	3	filling material	NP-instr	
+Japanese (standard)	44	FILL	mitasu	Derived	3-nom 2-loc passV'	2	filled container	NP-loc	
+Japanese (standard)	44	FILL	mitasu	Derived	3-nom 2-loc passV'	3	filling material	NP-nom	
+Japanese (standard)	45	LOAD	tumu	Basic	1-nom 2-loc 3-acc V	1	loader	NP-nom	A
+Japanese (standard)	45	LOAD	tumu	Basic	1-nom 2-loc 3-acc V	2	loading place	NP-loc	L
+Japanese (standard)	45	LOAD	tumu	Basic	1-nom 2-loc 3-acc V	3	loaded thing	NP-acc	P
+Japanese (standard)	45	LOAD	tumu	Derived	1-nom 2-loc 3-acc V'pot	1	loader	NP-nom	
+Japanese (standard)	45	LOAD	tumu	Derived	1-nom 2-loc 3-acc V'pot	2	loading place	NP-loc	
+Japanese (standard)	45	LOAD	tumu	Derived	1-nom 2-loc 3-acc V'pot	3	loaded thing	NP-acc	
+Japanese (standard)	45	LOAD	tumu	Derived	3-nom 2-loc passV'	2	loading place	NP-loc	
+Japanese (standard)	45	LOAD	tumu	Derived	3-nom 2-loc passV'	3	loaded thing	NP-nom	
+Japanese (standard)	46	BLINK	mabataki-o suru	Basic	1-nom V	1	blinker	NP-nom	S
+Japanese (standard)	46	BLINK	mabataki-o suru	Derived	1-nom V'pot	1	blinker	NP-nom	
+Japanese (standard)	47	COUGH	seki-o suru	Basic	1-nom V	1	cougher	NP-nom	S
+Japanese (standard)	47	COUGH	seki-o suru	Derived	1-nom V'pot	1	cougher	NP-nom	
+Japanese (standard)	48	CLIMB	noboru	Basic	1-nom 2-acc V	1	climber	NP-nom	A
+Japanese (standard)	48	CLIMB	noboru	Basic	1-nom 2-acc V	2	climbing goal	NP-acc	P
+Japanese (standard)	48	CLIMB	noboru	Derived	1-nom 2-acc V'pot	1	climber	NP-nom	
+Japanese (standard)	48	CLIMB	noboru	Derived	1-nom 2-acc V'pot	2	climbing goal	NP-acc	
+Japanese (standard)	49	RUN	hasiru	Basic	1-nom V	1	runner	NP-nom	S
+Japanese (standard)	49	RUN	hasiru	Derived	1-nom V'pot	1	runner	NP-nom	
+Japanese (standard)	50	SIT	suwaru	Basic	1-nom 2-loc V	1	sitter	NP-nom	S
+Japanese (standard)	50	SIT	suwaru	Basic	1-nom 2-loc V	2	sitting place	NP-loc	L
+Japanese (standard)	50	SIT	suwaru	Derived	1-nom 2-loc V'pot	1	sitter	NP-nom	
+Japanese (standard)	50	SIT	suwaru	Derived	1-nom 2-loc V'pot	2	sitting place	NP-loc	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Basic	1-nom 2-loc V	1	sitdowner	NP-nom	S
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Basic	1-nom 2-loc V	2	sitting-down place	NP-loc	L
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Derived	1-nom 2-loc V'pot	1	sitdowner	NP-nom	
+Japanese (standard)	51	SIT DOWN	kosi-o orosu	Derived	1-nom 2-loc V'pot	2	sitting-down place	NP-loc	
+Japanese (standard)	52	JUMP	tobiagaru	Basic	1-nom V	1	jumper	NP-nom	S
+Japanese (standard)	52	JUMP	tobiagaru	Derived	1-nom V'pot	1	jumper	NP-nom	
+Japanese (standard)	53	SING	utau	Basic	1-nom 2-acc V	1	singer	NP-nom	A
+Japanese (standard)	53	SING	utau	Basic	1-nom 2-acc V	2	song	NP-acc	P
+Japanese (standard)	53	SING	utau	Derived	1-nom 2-acc V'pot	1	singer	NP-nom	
+Japanese (standard)	53	SING	utau	Derived	1-nom 2-acc V'pot	2	song	NP-acc	
+Japanese (standard)	53	SING	utau	Derived	2-nom passV'	2	song	NP-nom	
+Japanese (standard)	54	GO	iku	Basic	1-nom 2-loc V	1	goer	NP-nom	S
+Japanese (standard)	54	GO	iku	Basic	1-nom 2-loc V	2	going goal	NP-loc	L
+Japanese (standard)	54	GO	iku	Derived	1-nom 2-loc V'pot	1	goer	NP-nom	
+Japanese (standard)	54	GO	iku	Derived	1-nom 2-loc V'pot	2	going goal	NP-loc	
+Japanese (standard)	55	LEAVE	saru	Basic	1-nom 2-acc V	1	leaver	NP-nom	A
+Japanese (standard)	55	LEAVE	saru	Basic	1-nom 2-acc V	2	left place/person	NP-acc	P
+Japanese (standard)	55	LEAVE	saru	Derived	1-nom 2-acc V'pot	1	leaver	NP-nom	
+Japanese (standard)	55	LEAVE	saru	Derived	1-nom 2-acc V'pot	2	left place/person	NP-acc	
+Japanese (standard)	56	LIVE	sumu	Basic	1-nom 2-loc V	1	liver	NP-nom	S
+Japanese (standard)	56	LIVE	sumu	Basic	1-nom 2-loc V	2	living place	NP-loc	L
+Japanese (standard)	56	LIVE	sumu	Derived	1-nom 2-loc V'pot	1	liver	NP-nom	
+Japanese (standard)	56	LIVE	sumu	Derived	1-nom 2-loc V'pot	2	living place	NP-loc	
+Japanese (standard)	57	LAUGH	warau	Basic	1-nom V	1	laugher	NP-nom	S
+Japanese (standard)	57	LAUGH	warau	Derived	1-nom V'pot	1	laugher	NP-nom	
+Japanese (standard)	57	LAUGH	warau	Derived	4-nom 1-acc V'incr	1	laugher	NP-acc	
+Japanese (standard)	57	LAUGH	warau	Derived	4-nom 1-acc V'incr	4	laugh causer	NP-nom	
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Basic	1-nom V	1	screamer	NP-nom	S
+Japanese (standard)	58	SCREAM	sakebi-goe-o ageru	Derived	1-nom V'pot	1	screamer	NP-nom	
+Japanese (standard)	59	FEEL PAIN	itai	Basic	1-nom 2-nom V	1	pain-feeler	NP-nom	S
+Japanese (standard)	59	FEEL PAIN	itai	Basic	1-nom 2-nom V	2	pain locus	NP-nom	X
+Japanese (standard)	60	FEEL COLD	samui	Basic	1-nom V	1	freezing person	NP-nom	S
+Japanese (standard)	61	DIE	sinu	Basic	1-nom V	1	dieer	NP-nom	S
+Japanese (standard)	61	DIE	sinu	Derived	1-nom V'pot	1	dieer	NP-nom	
+Japanese (standard)	62	PLAY	asobu	Basic	1-nom V	1	player	NP-nom	S
+Japanese (standard)	62	PLAY	asobu	Derived	1-nom V'pot	1	player	NP-nom	
+Japanese (standard)	63	BE SAD	kanasii	Basic	1-nom V	1	sad person	NP-nom	S
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Basic	1-nom V	1	hungry person	NP-nom	S
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Derived	4-nom 1-acc V'incr	1	hungry person	NP-acc	
+Japanese (standard)	64	BE HUNGRY	onaka-ga suku	Derived	4-nom 1-acc V'incr	4	hunger causer	NP-nom	
+Japanese (standard)	65	ROLL	korogaru	Basic	1-nom V	1	rolling entity	NP-nom	S
+Japanese (standard)	65	ROLL	korogaru	Derived	4-nom 1-acc V'incr	1	rolling entity	NP-acc	
+Japanese (standard)	65	ROLL	korogaru	Derived	4-nom 1-acc V'incr	4	roll causer	NP-nom	
+Japanese (standard)	66	SINK	sizumu	Basic	1-nom V	1	sunken entity	NP-nom	S
+Japanese (standard)	66	SINK	sizumu	Derived	4-nom 1-acc V'incr	1	sunken entity	NP-acc	
+Japanese (standard)	66	SINK	sizumu	Derived	4-nom 1-acc V'incr	4	sink-(caus)er	NP-nom	
+Japanese (standard)	67	BURN	moeru	Basic	1-nom V	1	burnt thing	NP-nom	S
+Japanese (standard)	67	BURN	moeru	Derived	4-nom 1-acc V'incr	1	burnt thing	NP-acc	
+Japanese (standard)	67	BURN	moeru	Derived	4-nom 1-acc V'incr	4	burner	NP-nom	
+Japanese (standard)	68	BE DRY	kawaku	Basic	1-nom V	1	dry thing	NP-nom	S
+Japanese (standard)	68	BE DRY	kawaku	Derived	4-nom 1-acc V'incr	1	dry thing	NP-acc	
+Japanese (standard)	68	BE DRY	kawaku	Derived	4-nom 1-acc V'incr	4	drier / dry causer	NP-nom	
+Japanese (standard)	69	RAIN	(ame-ga) huru	Basic	1-nom V	1	rain	NP-nom	S
+Japanese (standard)	71	GRIND	hiku	Basic	1-nom 2-acc V	1	grinder	NP-nom	A
+Japanese (standard)	71	GRIND	hiku	Basic	1-nom 2-acc V	2	ground thing	NP-acc	P
+Japanese (standard)	71	GRIND	hiku	Derived	1-nom 2-acc V'pot	1	grinder	NP-nom	
+Japanese (standard)	71	GRIND	hiku	Derived	1-nom 2-acc V'pot	2	ground thing	NP-acc	
+Japanese (standard)	71	GRIND	hiku	Derived	2-nom passV'	2	ground thing	NP-nom	
+Japanese (standard)	72	WIPE	hukitoru	Basic	1-nom 2-acc V	1	wiper	NP-nom	A
+Japanese (standard)	72	WIPE	hukitoru	Basic	1-nom 2-acc V	2	wiping surface	NP-acc	P
+Japanese (standard)	72	WIPE	hukitoru	Derived	1-nom 2-acc V'pot	1	wiper	NP-nom	
+Japanese (standard)	72	WIPE	hukitoru	Derived	1-nom 2-acc V'pot	2	wiping surface	NP-acc	
+Japanese (standard)	72	WIPE	hukitoru	Derived	2-nom passV'	2	wiping surface	NP-nom	
+Japanese (standard)	73	DIG	horu	Basic	1-nom 2-acc V	1	digger	NP-nom	A
+Japanese (standard)	73	DIG	horu	Basic	1-nom 2-acc V	2	dug up thing	NP-acc	P
+Japanese (standard)	73	DIG	horu	Derived	1-nom 2-acc V'pot	1	digger	NP-nom	
+Japanese (standard)	73	DIG	horu	Derived	1-nom 2-acc V'pot	2	dug up thing	NP-acc	
+Japanese (standard)	73	DIG	horu	Derived	2-nom passV'	2	dug up thing	NP-nom	
+Japanese (standard)	73	DIG	horu	Derived	2-nom V'decr	2	dug up thing	NP-nom	
+Japanese (standard)	74	PUSH	osu	Basic	1-nom 2-acc V	1	pusher	NP-nom	A
+Japanese (standard)	74	PUSH	osu	Basic	1-nom 2-acc V	2	pushee	NP-acc	P
+Japanese (standard)	74	PUSH	osu	Derived	1-nom 2-acc V'pot	1	pusher	NP-nom	
+Japanese (standard)	74	PUSH	osu	Derived	1-nom 2-acc V'pot	2	pushee	NP-acc	
+Japanese (standard)	74	PUSH	osu	Derived	2-nom passV'	2	pushee	NP-nom	
+Japanese (standard)	75	BRING	mot-te kuru	Basic	1-nom 2-loc 3-acc V	1	bringer	NP-nom	A
+Japanese (standard)	75	BRING	mot-te kuru	Basic	1-nom 2-loc 3-acc V	2	bringing recipient	NP-loc	L
+Japanese (standard)	75	BRING	mot-te kuru	Basic	1-nom 2-loc 3-acc V	3	brought thing	NP-acc	P
+Japanese (standard)	75	BRING	mot-te kuru	Derived	1-nom 2-loc 3-acc V'pot	1	bringer	NP-nom	
+Japanese (standard)	75	BRING	mot-te kuru	Derived	1-nom 2-loc 3-acc V'pot	2	bringing recipient	NP-loc	
+Japanese (standard)	75	BRING	mot-te kuru	Derived	1-nom 2-loc 3-acc V'pot	3	brought thing	NP-acc	
+Japanese (standard)	75	BRING	mot-te kuru	Derived	3-nom 2-loc passV'	2	bringing recipient	NP-loc	
+Japanese (standard)	75	BRING	mot-te kuru	Derived	3-nom 2-loc passV'	3	brought thing	NP-nom	
+Japanese (standard)	76	STEAL	nusumu	Basic	1-nom 2-abl 3-acc V	1	stealer	NP-nom	A
+Japanese (standard)	76	STEAL	nusumu	Basic	1-nom 2-abl 3-acc V	2	stealing source	NP-abl	X
+Japanese (standard)	76	STEAL	nusumu	Basic	1-nom 2-abl 3-acc V	3	stolen thing	NP-acc	P
+Japanese (standard)	76	STEAL	nusumu	Derived	1-nom 2-abl 3-acc V'pot	1	stealer	NP-nom	
+Japanese (standard)	76	STEAL	nusumu	Derived	1-nom 2-abl 3-acc V'pot	2	stealing source	NP-abl	
+Japanese (standard)	76	STEAL	nusumu	Derived	1-nom 2-abl 3-acc V'pot	3	stolen thing	NP-acc	
+Japanese (standard)	76	STEAL	nusumu	Derived	3-nom 2-abl passV'	2	stealing source	NP-abl	
+Japanese (standard)	76	STEAL	nusumu	Derived	3-nom 2-abl passV'	3	stolen thing	NP-nom	
+Japanese (standard)	77	TEACH	osieru	Basic	1-nom 2-dat 3-acc V	1	teacher	NP-nom	A
+Japanese (standard)	77	TEACH	osieru	Basic	1-nom 2-dat 3-acc V	2	teachee	NP-dat	X
+Japanese (standard)	77	TEACH	osieru	Basic	1-nom 2-dat 3-acc V	3	taught content	NP-acc	P
+Japanese (standard)	77	TEACH	osieru	Derived	1-nom 2-dat 3-acc V'pot	1	teacher	NP-nom	
+Japanese (standard)	77	TEACH	osieru	Derived	1-nom 2-dat 3-acc V'pot	2	teachee	NP-dat	
+Japanese (standard)	77	TEACH	osieru	Derived	1-nom 2-dat 3-acc V'pot	3	taught content	NP-acc	
+Japanese (standard)	77	TEACH	osieru	Derived	2-nom 3-acc passV'	2	teachee	NP-nom	
+Japanese (standard)	77	TEACH	osieru	Derived	2-nom 3-acc passV'	3	taught content	NP-acc	
+Japanese (standard)	77	TEACH	osieru	Derived	2-nom 3-acc V'decr	2	teachee	NP-nom	
+Japanese (standard)	77	TEACH	osieru	Derived	2-nom 3-acc V'decr	3	taught content	NP-acc	
+Japanese (standard)	77	TEACH	osieru	Derived	3-nom 2-dat passV'	2	teachee	NP-dat	
+Japanese (standard)	77	TEACH	osieru	Derived	3-nom 2-dat passV'	3	taught content	NP-nom	
+Japanese (standard)	78	HEAR	kiku	Basic	1-nom 2-acc V	1	hearer	NP-nom	A
+Japanese (standard)	78	HEAR	kiku	Basic	1-nom 2-acc V	2	heard sound	NP-acc	P
+Japanese (standard)	78	HEAR	kiku	Derived	1-nom 2-acc V'pot	1	hearer	NP-nom	
+Japanese (standard)	78	HEAR	kiku	Derived	1-nom 2-acc V'pot	2	heard sound	NP-acc	
+Japanese (standard)	79	COOK	ryoori-suru	Basic	1-nom 2-acc V	1	cooker	NP-nom	A
+Japanese (standard)	79	COOK	ryoori-suru	Basic	1-nom 2-acc V	2	cooked food	NP-acc	P
+Japanese (standard)	79	COOK	ryoori-suru	Derived	1-nom 2-acc V'pot	1	cooker	NP-nom	
+Japanese (standard)	79	COOK	ryoori-suru	Derived	1-nom 2-acc V'pot	2	cooked food	NP-acc	
+Japanese (standard)	79	COOK	ryoori-suru	Derived	2-nom passV'	2	cooked food	NP-nom	
+Japanese (standard)	80	BOIL	waku	Basic	1-nom V	1	boiled thing	NP-nom	S
+Japanese (standard)	80	BOIL	waku	Derived	4-nom 1-acc V'incr	1	boiled thing	NP-acc	
+Japanese (standard)	80	BOIL	waku	Derived	4-nom 1-acc V'incr	4	boiler	NP-nom	

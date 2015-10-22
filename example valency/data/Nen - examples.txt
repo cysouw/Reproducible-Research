@@ -1,0 +1,222 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Nen	1		Ämengama äräm toge yaparnda.		äme-ngama är-äm toge y-apar-nd-a	mat-ABL man-ERG child(ABS) 3sgU:α-cover-PST.PF-3sgA:PST.PF	The man covered the child with the mat.
+Nen	2		Ynd nungama kap yapndn.		ynd nu-ngama kap y-ap-nd-n	1sgERG water-ABL cup(ABS) 3sgU:α-fill-PST.PF-1sgA	I filled the cup with water.
+Nen	3		Ynd nawapnan.		ynd n-aw-ap-na-n	1sgABS M:α-RR-cover-ND:IPF-1sgA	I'm about to cover myself.
+Nen	4	Elicited from speaker	Kap nungama wapsmne ym.		kap nu-ngama wap-s-mne y-m	cup water-ABL fill-NLZR-ORIG 3sgU-be	The cup has been filled with water.
+Nen	5		Kmboke rkrk ws geym nu(ngama) apst korkorp ym.		kmboke rkrk ws geym nu-ngama ø-ap-s-t korkorp y-m	neck narrow bottle FOC water-ABL M.INF-fill-INF-ALL difficult 3sgU-be	The small-necked bottle is difficult to fill.
+Nen	6		Kmboke marete ws nu(ngama) apst pitas ym.		kmboke marete ws nu-ngama ø-ap-s-t pitas y-m	neck broad bottle water-ABL M.INF-fill-NLZR-ALL enough 3sgU-be	The broad-necked bottle is easy to fill.
+Nen	7		Kap nungama apsere ym.		kap nu-ngama apsere y-m	cup water-ABL full 3sgU-be	The cup is full of water.
+Nen	8		Ynd yande tnd sombes embaewn.		ynd yande tnd sombes e-mbae-w-n	1sgERG 3sgGEN hand two 2/3nsgU-tie-sgA\duU:IPF-1sgA	I'm tying up both his hands.
+Nen	9		Wmbaes tsne!		w-mbae-s t-sne-ø	TR.INF-tie-NLZR 3sgU:β-start-IPF:IMP:2sgA	Start tying it!
+Nen	10		Ymam kapngama nu yazrnda.		ymam kap-ngama nu y-azr-nd-a	3sgERG cup-ABL water 3sgU:α-pour-PST.PF:ND-3sgA:PST.PF	He poured the water out of the cup.
+Nen	11		Ymam yna nne wazrst yngapapnda.		ymam yna nne wazr-s-t y-ng-apap-nd-a	3sgERG DEM yam carry-NLZR-ALL 3sgU:α-AW-try-ND:PST.PF-3sgA:PST.PF	He's trying to carry all those yams.
+Nen	12		Nu kapngama nazrnda.		nu kap-ngama n-azr-nd-a	water cup-ABL M:α-pour-PF:ND-3sgA:PST.PF	The water has poured out of the cup.
+Nen	13		Nazne.		n-az-n-e	M:α-pour-ND:IPF-3sgA:B.IPF	It's pouring out of the cup.
+Nen	14		Ynd ḡénzér kp wenda benama tuwitan kunzt.		ynd ḡénzér_kp wenda ben-ama t-uwi-ta-n kunz-t	1sgERG stone window hole-PERL 3sgU:β-throw-ND:IPF-1sgA inside-ALL	I threw the stone inside, through the window."
+Nen	15		Ynd ḡénzér kp tuwitan smasma tnamtan.		ynd ḡénzér_kp t-uwi-ta-n smasma t-nam-ta-n	1sgERG stone 3sgU:β-throw-ND:IPF-1sgA goanna 3sgU:β-hit.at.a.distance-ND:IPF-1sgA	I threw a stone at the goanna and hit it.
+Nen	16		Ynd ḡénzér kp tuwitan smasma tltan.		ynd ḡénzér_kp t-uwi-ta-n smasma t-lt-a-n	1sgERG stone 3sgU:β-throw-ND.IPF-1sgA goanna 3sgU:β-miss-ND:IPF-1sgA	I threw a stone at the goanna and missed.
+Nen	17		Ynd wawapserepap buk aba ynrenzan.		ynd wawapser-epap buk aba y-n-renz-a-n	1sgERG teacher-DAT2 book IMM 3sgU:α-TOW-carry-ND:IPF-1sgA	I brought/carried the book to the teacher.
+Nen	18		Ynd begta aba ynrenzan.		ynd begta aba y-n-renz-a-n	1sgERG 2sgDAT1 IMM 3sgU:α-TOW-carry-ND:IPF-1sgA	I brought it for you.
+Nen	19		Togetoge tapap tnrenza!		toge tapap t-n-menz-a	child(ABS) 1sgDAT2 3sgU:β-TOW-lead-IPF.IMP.sg	Bring the child to me!
+Nen	20		Ymam kiémbngama wngrenze moett.		ymam kiémb-ngama w-ng-renz-e moet-t	3sgERG truck-ABL 1sgU:α-AW-carry-ND:IPF:3sgA Morehead-ALL	He took me to Morehead in a truck.
+Nen	21		Ymam bepapt toge bä ynrenze.		ymam bepapt toge bä y-n-renz-e	3sgERG 3sgALL child FUT 3sgU:α-TOW-carry-ND:BEN.IPF:3sgA	He will take the child to him/her.
+Nen	22		Ynd ḡénzér kp tande anaipap yngatembandn.		ynd ḡénzér_kp tande an-aipap y-ng-atemba-nd-n	1sgERG money 1sgGEN older.brother-DAT2 3sgU:α-AW-send-ND:PST.PF-1sgA	I send the money to my brother.
+Nen	23		Ynd totr yngatembetan.		ynd totr y-ng-atembe-ta-n	1sgERG now 3sgU:α-AW-send-ND:B.IPF-1sgA	I'm sending it now.
+Nen	24		Bñe ynd te yngatembandn.		bñe ynd te y-ng-atemb-and-n	letter 1sgERG CPL 3sgU:α-AW-send-ND:PST.PF-1sgA	I've already sent the letter.
+Nen	25		Yngtrnandn.		y-ng-tr-na-nd-n	3sgU:α-AW-send-ND:B.IPF-ND:PST.PF-1sgA	I sent him (a letter).
+Nen	26		Ynd bñe dumni noträrm.		ynd bñe dumni n-o-trär-m	1nsgABS letter(ABS) always M:α-RR-send-1nsgA	We used to send each other letters.
+Nen	27		Yngäberetandn wäberes.		y-ng-äbere-ta-nd-n w-äbere-s	3sgU:α-AW-send-ND:B.IPF-ND:PST.PF-1sgA TR.INF-send-NLZR	I sent him away (for being bad).
+Nen	28		Ymam wagib yaramanda (wawapapserei).		ymam wagib y-a-rama-nd-a wawapser-ei	3sgERG fish 3sgU-BEN-give-ND:PF-3sgA:PST.PF teacher-OBL	She gave a fish to him (to the teacher).
+Nen	29		Ymam wagib tagta waramanda.		ymam wagib tagta w-a-rama-nd-a	3sgERG fish 1sgDAT 1sgU-BEN-give-ND:PST.PF-3sgA:PST.PF	She gave me a fish.
+Nen	30		Ymam wagib ta waramanda.		ymam wagib ta w-arama-nd-a	3sgERG fish 1sgOBL 1sgU-give-ND:PST.PF-3sgA:PST.PF	She gave me a fish.
+Nen	31		Ymam wagib yaramanda wawapsereita.		ymam wagib y-arama-nd-a wawapser-eita	3sgERG fish 3sgU-give-ND:PST.PF-3sgA:PST.PF teacher-DAT1	She gave the teacher the fish (and it reached him).
+Nen	32		Ymam {wawapsereita/yagta} wagib yayabnda.		ymam {wawapser-eita/yagta} wagib y-ayab-nda	3sgERG {teacher-DAT1/3sgDAT1} fish 3sgU:α-show-ND:PST.PF:3sgA	She showed the fish to the teacher / to him.
+Nen	33		Yna äräm ag sombes yawayabae.		yna är-äm ag sombes ya-wa-yab-ae	DEM man-ERG coconut two 3nsgU:α-BEN-show-3A\duU:PF:PST.PF	That man showed (him) two coconuts.
+Nen	34		Ynd nambis ärt wagib yawaramandn.		ynd nambis är-t wagib yaw-arama-nd-n	1sgERG three man-PL:OBL fish 3nsgU:α-give-ND:PF-1sgA	I gave the three men a fish.
+Nen	35	Elicited from speaker	Ynd sombes ärbet ämbs wagib yawaraman.		ynd sombes ärbet ämbs wagib yaw-aram-a-n	1sgERG two man:DU.DAT1 one fish 3nsgU:α-fish-DU:PF-1sgA	I gave the two men a fish.
+Nen	36		Ymam ybegta ag yawayabnda.		ymam ybegta ag ya-wayab-nda	3sgERG 3nsgDAT1 coconut 3nsgU:α-show-ND:PF:3sgA	He showed them the coconut.
+Nen	37		Ymam ybegta ag yawayabae.		ymam ybegta ag yaw-ayab-ae	3sgERG 3nsgDAT1 coconut 3nsgU:α-show-DU:PF:3sgA\duU	He showed the two of them one coconut.
+Nen	38	Elicited from speaker	Yna togam yadmaepapngama wagib ykapanda a yanenda.		yna togam yadma-epap-ngama wagib y-kap-anda a y-ane-nda	DEM child:ERG 3sg:mother-DAT2-ABL fish 3sgU:α-pick_up-ND:PST.PF:3sgA and 3sgU:α-carry-ND:PST.PF:3sgA	The child got/took the fish from his mother.
+Nen	39		Yna togam tande naepa ynganenda.		yna togam tande naepa y-ng-ane-nda	DEM child:ERG 1sgPOSS knife(ABS) 3sgU-AW-carry-ND:PST.PF:3sgA	This child took my knife.
+Nen	40		Ämbs äräm kiémb yanenda.		ämbs är-äm kiémb y-ane-nda	one man-ERG pig 3sgU:α-carry-ND:PST.PF:3sgA	A man is carrying a pig.
+Nen	41		Ynd boraro ke neretan.		ynd boraro ke n-ere-ta-n	1sgABS bamboo.flute sound M:α-hear-ND:IPF-1sgA	I can hear the sound of a bamboo flute.
+Nen	42	Elicited from speaker	Är togam yrninda ämb ärände nne.		är togam y-rni-nda ämb ärä-nde nne	person child(ERG) 3sgU:α-steal-ND:PST.PF:3sgA one man-GEN food	The boy stole a man's food.
+Nen	43		Yna samban ärm ybenzo-ybenzos nne yrnitat.		yna samba-n är-m ybenzo_ybenzos nne y-rni-ta-t	DEM village-LOC man-PL:ERG each.other's food 3sgU:α-steal-ND:IPF-3nsgA	In that village people steal each other's food.
+Nen	44		Yndbem ganzan kp tengernitam depi ärbende brbrmne.		yndbem ganzan_kp te-ng-erni-ta-m depi är-bende brbr-mne	1nsgERG sacred_stone 3nsgU-AW-hide-ND:IPF-1nsgA foreigner person-PL:GEN fear-ORIG	We hid the sacred stones from the foreigners / for fear of the foreigners.
+Nen	45		Ymam yta nne wérnist yapapnda.		ymam yta nne w-érni-s-t y-apap-nda	3sgERG in.vain food TR.INF-hide-NLZR-ALL 3sgU:α-begin-ND:PST.PF:3sgA	He was about to steal/hide the food.
+Nen	46		Yna togetoge nernendt.		yna togetoge n-e-rne-nd-t	DEM children M:α-RR-hide-ND:PST.PF-3nsgA	The children hid.
+Nen	47		Ymam yéb tr ydrernda.		ymam yéb tr y-drer-nda	3sgERG bag handle 3sgU:α-tear-ND:PST.PF:3sgA	He tore the handle from the bag.
+Nen	48		Yna yéb nedrernda.		yna yéb n-e-drer-nda	DEM bag M:α-DA-tear-ND:PST.PF:3sgA	This bag tore.
+Nen	49		Yna yéb edrersmne ym.		yna yéb e-drer-s-mne y-m	DEM bag DA-tear-NLZR-ORIG 3sg:α-be	This bag got torn.
+Nen	50		Yna kendngama mupi yländn.		yna kend-ngama mupi y-län-d-n	DEM paperbark-ABL mud 3sgU:α-wipe-ND:PST.PF-1sgA	I wiped the mud with the bark.
+Nen	51		Ynd mupi ämewan yländn.		ynd mupi äme-wan y-län-d-n	1sgERG mud(ABS) mat-LOC 3sgU:α-wipe-ND:PST.PF-1sgA	I wiped the mud off the mat.
+Nen	52		Parwae pip yñptan.		parwae pip y-ñp-ta-n	animal meat(ABS) 3sgU:α-cut-ND:IPF-1sgA	I cut (up) the animal meat.
+Nen	53		Bä nawañpt.		bä n-aw-añp-ø-t	3ABS M:α-RR-cut-DU:IPF-3nsgA	The two of them are cutting themselves/each other.
+Nen	54		Ynd kaepan neñpandn.		ynd kaep-an n-e-ñpa-nd-n	1sgABS leg-LOC M:α-DA-cut-ND:PST.PF-1sgA	I got/cut on the leg.
+Nen	55		Bä neñpanda.		bä n-e-ñpa-nda	3ABS M:α-DA-cut-ND:PST.PF:3sgA	He got cut. / He cut himself.
+Nen	56		Ynd parwae pip bende nuñpandn.		ynd parwae pip bende n-u-ñpa-nd-n	1sgERG animal meat 2sgGEN M:α-AB-cut-ND:PST.PF-1sgA	I cut a piece of your meat for myself.
+Nen	57		Är togam mleg toge tndan enzanda.		ärtog-am mlegtoge tnd-an ø-enza-nda	boy-ERG girl(ABS) hand-LOC 3sgU:α-touch-ND:PST.PF:3sgA	The boy touched the girl on the hand.
+Nen	58		Togam wénngama kanam enzanda.		tog-am wén-ngama kanam ø-enza-nda	child-ERG stick-ABL snake(ABS) 3sgU:α-touch-ND:PST.PF:3sgA	The boy touched the snake with a stick.
+Nen	59		Sombes wlwl newenzt.		sombes wlwl n-ew-enz-ø-t	two pole M:α-RR-touch-DU:IPF-3nsgA	The two poles are touching each other.
+Nen	60		Mémbenan ynd tanzos newenzan.		mémben-an ynd tanzos n-ew-enz-a-n	nose-LOC 1sgABS 1sgRR M:α-RR-touch-ND:IPF-1sgA	I am touching myself on the nose.
+Nen	61		Togam kanam wénngama ygmenda.		tog-am kanam wén-ngama y-gme-nda	child-ERG snake(ABS) stick-ABL 3sgU:α-hit-ND:PST.PF:3sgA	The child hit/beat the snake with a stick.
+Nen	62		Ynd padaran wgmenda.		ynd padar-an w-gme-nda	1sgABS shoulder-LOC 1sgU:α-hit-ND:PST.PF:3sgA	I got hit on the shoulder.
+Nen	63		Yna är bä ym ymam kanam ygmenda.		yna är bä y-m ymam kanam y-gme-nda	DEM man(ABS) STAT 3sg:α-be 3sgERG snake(ABS) 3sgU:α-kill-ND:PST.PF:3sgA	This is the man who killed the snake.
+Nen	64		Togam kanam krtas ygmenda.		tog-am kanam kr-ta-s y-gme-nda	child-ERG snake(ABS) death-ALL-only 3sgU:α-hit/kill-ND:PST.PF:3sgA	The boy killed the snake.
+Nen	65		Ynd ämbs kanga bleble yräbärndn.		ynd ämbs kanga bleble y-räbär-nd-n	1sgERG one ladder step 3sgU:α-break-ND:PST.PF-1sgA	I broke a step of the ladder.
+Nen	66		Yna wén mngär äräbärser ym.		yna wén mngär ä-räbär-s-er y-m	DEM stick quickly DA-break-NLZR-AGN 3sgU:α-be	This wood breaks easily.
+Nen	67		Ämbs kanga ble näräbärnda.		ämbs kanga ble n-ä-räbär-nda	one ladder step M:α-DA-break-ND:PST.PF:3sgA	One step of the ladder broke.
+Nen	68		Yna äräm kend mnḡ tramte.		yna är-äm kend mnḡ t-ram-t-e	DEM man-ERG paperbark house(ABS) 3sgU:α-build-ND:IPF-3sgA	The man built a paperbark house.
+Nen	69		Yao ämb zi aba nowabtan mlegeipap.		yao ämb zi aba n-owab-ta-n mleg-eipap	NEG any word(ABS) RCN M:α-say-ND:IPF-1sgA girl-DAT2	I didn't say anything to the girl.
+Nen	70		Bm Blag wagib dbnan terna!		bm Blag wagib dbnan t-er-na-ø	2sgERG Blag(ABS) fish because_of 3sgU:β-shout.out.to-ND:IPF-IPF:IMP:2sgA	You shout out to Blag because of the fish!
+Nen	71		Bm Blag terna!		bm Blag t-er-na-ø	2sgERG Blag(ABS) 3sgU:β-shout.out.to-ND:IPF-IPF:IMP:2sgA	Shout at Blag (e.g. not to do something)!
+Nen	72		Blag ternang mnegta sesat osns yao bä guñpanga.		Blag t-er-na-ng mnegta ses-at osn-s yao bä g-u-ñpa-nga	Blag 3sgU:β-shout.out.to-ND:IPF-2pl.IPF:IMP in.order.to church-ALL visit-NMLZ NEG 3ABS M:γ-AB-cut-FUT.PF.3sgA	Shout out/command to Blag not to miss/skip church.
+Nen	73		Bm ke kotna Blagepap wagibta!		bm ke k-ot-na-ø Blag-epap wagib-ta	2sgABS noise(ABS) M:β-make.noise-ND:IPF-IMP Blag-DAT2 fish-DAT1	Shout out to Blag for fish!
+Nen	74		Ymam zi (tagta) qawaete.		ymam zi tagta q-awae-t-e	3sgERG word 1sgDAT 1sgU:β-tell-ND:IPF-3sgA	He told (me) a story.
+Nen	75		Bä zi nowabte.		bä zi n-owab-t-e	3sgABS word M:α-talk-ND:IPF-3sgA	He is talking.
+Nen	76		Är togaepap zi aba nowabte mlegändemne.		är tog-aepap zi aba n-owab-t-e mleg-ände-mne	man(ABS) child-DAT2 word(ABS) RCN M:α-talk-ND:IPF-3sgA girl-GEN-ORIG	The man talked to the boy about the girl.
+Nen	77		Ynd ymtendn bä ylst.		ynd y-mte-nd-n bä yls-t	1sgERG 3sgU:α-tell-ND:PST.PF-1sgA FUT go(INF)-ALL	I told him to go.
+Nen	78		Ynd Idaba yémtandn, yande/yanzo dmab dgan ym, kkpan o wrngan ym.		ynd Idaba y-ém-ta-nd-n yande/yanzo dmab dga-n y-m kkp-an o wrng-an y-m	1sgERG Idaba 3sgU-ask-ND:IPF-ND:PST.PF-1sgA 3sgGEN/3sgRR woman where-LOC 3sgU:α-be garden-LOC or forest-LOC 3sgU:α-be	I asked Idaba where his wife was, in the garden or in the forest."
+Nen	79		Yna är bä mete ym yna toge.		yna är bä mete y-m yna toge	DEM man FUT know 3sgU:α-be:ND DEM child	The man knows that boy.
+Nen	80		Yna är sombes bä ybenzos mete yären.		yna är sombes bä ybenzos mete yä-ren	DEM man two 3ABS 3nsgRR know 3nsg:α-be:DU	Those two men know each other.
+Nen	81		Ynd bi {rts/ogyabs} mete wm.		ynd bi {rt-s/ogyab-s} mete w-m	1sgABS sago(ABS) {beat-NLZR/work-NLZR} know 1sgU:α-be:ND	I know how to beat/work sago.
+Nen	82		Ynd mete te nämtendn, bä bä ynm.		ynd mete te n-ämte-nd-n bä bä y-n-m	1sgABS know already M:α-become-ND:PST.PF-1sgA 3ABS FUT 3sgU:α-TOW-be	I knew he would come.
+Nen	83		Ynd kae yinḡndn.		ynd kae y-inḡ-nd-n	1sgERG ±one.day 3sgU:α-see-ND:PST.PF-1sgA	I saw him yesterday.
+Nen	84		Bm ynd kae tnakate.		bm ynd kae tn-aka-t-e	2sgERG 1nsgABS ±one.day 1nsgU:β-look.at-ND:IPF-B.IPF.3sgA	You saw us yesterday.
+Nen	85		Kae aqa bä nawakaewm.		kae aqa bä n-aw-akae-w-m	±one.day again FUT M:α-RR-see-DU:B.IPF-1nsgA	We'll see each other again tomorrow.
+Nen	86		Ynd tanzos kae kawakatan.		ynd tanzos kae k-aw-aka-ta-n	1sgABS 1sgRR ±one.day M:β-RR-look.at-ND:IPF-1sgA	I saw myself yesterday (e.g. a picture of myself).
+Nen	87		Ynd ämbygn te niwinḡanzm.		ynd ämbygn te n-iw-inḡ-anz-m	1sgABS ±one.year already M:α-RR-see-DU:PRET-1nsgA	We saw each other last year.
+Nen	88		Ynd wén trmb bmbo yakatan.		ynd wén trmb_bmbo y-aka-ta-n	1sgERG tree flower(ABS) 3sgU:α-look.at-ND:IPF-1sgA	I looked at the flower.
+Nen	89		Tänm bm kawakatang!		tä-n-m bm k-aw-aka-ta-ng	2/3nsg:β-TOW-be 2ABS M:β-RR-look.at-ND:IPF-2pl.IPF:IMP	Come(PL) and look at yourselves/each other!
+Nen	90		Yna äräm gasa brbrba wetst yapapnda.		yna är-äm gasa brbr-ba wet-s-t y-apap-nda	DEM man-ERG crocodile fear-COM make-NLZR-ALL 3sgU:α-begin-ND:PST.PF:3sgA	That man is going to frighten the crocodile.
+Nen	91		Ynd yta ele sermban bba närtan, ämb yao nen yingowndn.		ynd yta ele sermba-n bba n-är-ta-n ämb yao nen y-ing-nd-n	1sgABS in.vain hunting night-LOC PREV M:α-hunt-ND:B.IPF-1sgA one NEG what 3sgU:α-see-ND:PST.PF-1sgA	I went out hunting last night, but didn't find anything."
+Nen	92		Ynd nembnaman ämb ygn.		ynd n-emb-nama-n ämbygn	1sgABS M:α-think-ND:PRIM-1sgA ±one.year	I was thinking of something last year (it took me a long time to figure it out).
+Nen	93		Ynd bm kae bä nawabatan.		ynd bm kae bä n-aw-aba-ta-n	1sgABS 2sgABS ±one.day FUT M:α-RR-think.of-ND:B.IPF-1sgA	I will think of you tomorrow.
+Nen	94		Är togam mleg mñteba yakate.		ärtog-am mleg mñte-ba y-aka-t-e	boy-ERG girl sweetness-COM 3sgU:α-look.at-ND:B.IPF-3sgA	The boy likes/loves the girl.
+Nen	95		Är togam angan räms mñteba yakate.		ärtog-am angan ø-räm-s mñte-ba y-aka-t-e	boy-ERG song TR.INF-make-NLZR(ABS) sweetness-COM 3sgU:α-look.at-ND:B.IPF-3sgA	That boy likes singing.
+Nen	96		Ynd ki yta aba yrnzani.		ynd ki yta aba y-rnz-a-n	1sgERG key in.vain RCN 3sgU:α-look.for-ND:B.IPF-1sgA	I looked for the key in vain.
+Nen	97		Yna äräm trnze yande äprnḡsmne toge.		yna är-äm t-rnz-e yande äprnḡ-s-mne toge	DEM man-ERG 3sgU:α-look.for-ND:IPF:3sgA 3sgGEN be.lost-NLZR-ORIG child	The man looked in vain for his lost son.
+Nen	98		Grmbo diya ele aba närte sermban.		Grmbo diya ele aba n-är-te sermb-an	Grmbo(ABS) deer(ABS) hunting RCN M:α-hunt-ND:B.IPF.3sgA night-LOC	Grmbo went hunting for a deer in the night.
+Nen	99		Ymam mleg ybätnda wrng endn adwae.		ymam mleg y-bät-nda wrng end-n adwae	3sgERG girl 3sgU:α-meet-ND:PST.PF:3sgA forest path-LOC secretly	The man secretly met the girl in the forest path.
+Nen	100		Bä mlegäba näbätangand wrngendn adwae.		bä mleg-äba n-ä-bäta-ngand wrng end-n adwae	3ABS girl-COM M:α-RR-meet-FUT.PF.3duA forest path-LOC secretly	He and the girl will meet in secret on a forest path.
+Nen	101		Ynd tande ägmser äräba kiwinḡam déḡdéḡan wrng endn.		ynd tande ägmser är-äba k-iw-inḡ-a-m déḡdéḡan wrng end-n	1sgABS 1sgGEN enemy person-COM M:β-RR-meet-DU:PF-1nsgA accidentally forest path-LOC	I accidentally met my enemy on a bush track.
+Nen	102		Yna äräm mleg yngaetnda.		yna är-äm mleg y-ng-aet-nda	DEM man-ERG girl 3sgU:α-AW-follow-ND:PST.PF:3sgA	The man followed the girl.
+Nen	103		Nambis toge suris nawaetat.		nambis toge suris n-aw-aet-a-t	three child straight M:α-RR-follow-ND:IPF-3nsgA	The three children are following each other in a straight line.
+Nen	104		Bä powangama nowaete.		bä powa-ngama n-o-wae-t-e	3ABS behind-ABL M:α-DI-follow-ND:B.IPF-3sgA	He is following behind.
+Nen	105		Buder, ta qetena!		buder ta q-ete-na-ø	friend 1sgOBL 1sgU:β-help-ND:B.IPF-IPF:IMP:2sgA	Friend, help me!"
+Nen	106		Yesu, {tagta/ta} qetena!		Yesu {tagta/ta} q-ete-na-ø	Jesus {1sgDAT1/1sgOBL} 1sgU:β-help-ND:B.IPF-IPF:IMP:2sgA	Jesus, help me!"
+Nen	107		Är yna samban wgd weterser yngm.		är yna samba-n wgd w-eter-s-er y-ng-m	person DEM village-LOC good TR.INF-help-NLZR-AGN 3sgU:α-AW-be:ND	People in this village help each other.
+Nen	108		Ynd ärboloeta etenan kanga armbsn.		ynd ärbolo-eta ø-ete-na-n kanga armb-s-n	1sgERG old.man-DAT1 3sgU:α-help-ND:B.IPF-1sgA ladder climb-NLZR-LOC	I helped the old man climb the ladder.
+Nen	109		Togam nne aba ynete.		tog-am nne aba y-ne-t-e	child-ERG yam IMM 3sgU:α-eat-ND:B.IPF-3sgA	The child ate the yam.
+Nen	110		Gers kmangrer zän täwänete ybenzos.		gers kmangr-er zän täw-ä-ne-te ybenzos	hunger sleep-AGN dog 3nsgU:α-RR-eat-ND:IPF:3sgA 3nsgRR	The starving dogs eat one another.
+Nen	111		Ynd zéḡ sombes yasnan.		ynd zéḡ sombes ya-sn-a-n	1sgERG rope two(ABS) 3nsgU:α-tie-DU:PF-1sgA	I tied two ropes.
+Nen	112		Nesnenda.		n-e-sne-nda	M:α-DA-tie-ND:PF:3sgA	It got hooked/tied.
+Nen	113		Ag ydarndn.		ag y-dar-nd-n	coconut 3sgU:α-break-ND:PF-1sgA	I broke the coconut open.
+Nen	114		Ur kp yanzos nadarnda.		ur kp yanzos n-a-dar-nd-a	bushfowl egg 3sgRR M:α-RR-break-ND:PF-3sgA:PST.PF	The bushfowl egg got broken.
+Nen	115		Mlegäm toge selemingama tamanete.		mleg-äm toge selemi-ngama t-amane-te	girl-ERG child(ABS) clothes-ABL 3sgU:α-dress-ND:IPF:3sgA	The girl dressed the child.
+Nen	116		Yna mleg komanete selemingama.		yna mleg k-o-mane-te selemi-ngama	DEM girl M:β-AB-dress-ND:IPF:3sgA clothes-ABL	The girl got dressed.
+Nen	117		Yna mlegäm toge anu kae témbni.		yna mleg-äm toge anu kae t-émb-ni	DEM girl-ERG child bathing ±one.day 3sgU:β-wash-ND:IPF:3sgA	The girl washed the child yesterday.
+Nen	118		Är kae kumbni anu.		är kae k-u-mb-ni anu	man ±one.day M:β-AB-wash-ND:IPF:3sgA bathe	The man washed/bathed yesterday.
+Nen	119		Är momae ke kotne.		är momae ke k-ot-ne	man(ABS) mucus noise M:β-make.noise-ND:IPF:3sgA	The man coughed.
+Nen	120		Är karmbte lädawama.		är k-armb-te läda-wama	man(ABS) M:β-ascend-ND:IPF:3sgA ladder-COM	The man climbed the ladder (ascended by means of the ladder).
+Nen	121		Äräm toge tarmbte lädawama kitara tqt.		är-äm toge t-armb-te läda-wama kitara tq-t	man-ERG child(ABS) 3sgU:β-ascend-ND:IPF:3sgA ladder-COM platform high-ALL	The man took the child up the ladder onto the balcony.
+Nen	122		Är kae namnznda ämewan.		är kae n-am<n>z-nda äme-wan	man(ABS) ±one.day M:α-sit<ND>-ND:PF:3sgA mat-LOC	The man sat (down) on the mat yesterday.
+Nen	123		Bä ämewan aba erengr.		bä äme-wan aba ere-ngr	3sgABS mat-LOC RCN sit-ND:STAT	He was sitting on the mat (not long ago).
+Nen	124		Kae toge sombes äräm emzae ämiwan.		kae toge sombes är-äm e-mz-a-e ämi-wan	±one.day child(ABS) two man-ERG 3nsgU:α-sit-DU:PF-3A\3duU mat-LOC	The man sat the two children on the mat yesterday.
+Nen	125		Ynd gtets aba nlintan Dimsisi sambat.		ynd gtets aba n-lin-ta-n Dimsisi samba-t	1sgABS that.far RCN M:α-run-ND:IPF-1sgA Dimsisi village-ALL	I ran all the way to Dimsisi village.
+Nen	126		Ynd kätnan tñat.		ynd k-ätn-a-n tñ-at	1sgABS M:β-jump.up-ND:IPF-1sgA fence-ALL	I jumped onto the fence.
+Nen	127		Togetoge izersn nbrmete.		togetoge izer-s-n n-brme-te	children(ABS) play-NLZR-LOC M:α-jump-ND:IPF:3sgA	The children were playing, jumping."
+Nen	128		Är toge samban derengron.		är toge samba-n d-ere-ngr-on	person child village-LOC 3sgU:γ-sit-ND:STAT-PST	The boy lived in the village.
+Nen	129		Är togam angan kae tramte.		är tog-am angan kae t-ram-te	person child-ERG song(ABS) ±one.day 3sgU:β-make-ND:IPF:3sgA	The boy sang a song yesterday.
+Nen	130		Är togam mlegeita marirmarir angan aba yramte.		är tog-am mleg-eita marirmarir angan aba y-ram-te	person child-ERG girl-DAT1 love.song song RCN 3sgU:α-make-ND:IPF:3sgA	The boy sang a love song for the girl.
+Nen	131		Kae ämber toge má iparse niparnda endn.		kae ämber toge má iparse n-ipar-nda end-n	±one.day one child(ABS) still appearance M:α-appear-ND:PF:3sgA road-LOC	Yesterday a boy appeared on the road.
+Nen	132		Kae gte endn awiya kipane widmatane kogamnete.		kae gte end-n awiya k-ipa-ne widma-tane k-ogamne-te	±one.day there road-LOC cassowary M:β-appear-ND:IPF:3sgA hand-side M:β-cross-ND:IPF:3sgA	Yesterday a cassowary suddenly appeared and passed to the other side of the road.
+Nen	133		Enzul Meripap má iparse niparwe.		enzul Meri-pap má iparse n-ipar-we	angel(ABS) Mary-DAT2 still appearance M:α-appear-ND:PRET:3sgA	An angel appeared to Mary.
+Nen	134		Ktktqébiwäm geä nzne, bm kr bä nm.		ktktqébi-wäm geä n-z-ne bm kr bä n-m	taipan-ERG COND 2sgU-bite-ND:IPF:3sgA 2sgABS death FUT 2sgU:α-be:ND	If a taipan bites you, you will die."
+Nen	135		Wena 2006an mngr tqngama nuwiwi bandat.		Wena 2006-an mngr tq-ngama n-uwi-wi band-at	Wena 2006-LOC two.leaf.tree high-ABL M:α-fall-ND:PRET:3sgA ground-ALL	In 2006 Wena fell down to the ground from up in a two-leaf tree.
+Nen	136		Nu rrkebas napamte.		nu rr-ke-ba-s n-apam-te	water swish-noise-COM-ADV M:α-rain-ND:IPF:3sgA	Rain is falling, making a swishing noise."
+Nen	137		Binzawa yanzo togaepapn yétqën newete.		Binzawa yanzo togaepapn yétqën n-ew-et-e	Binzawa 3sgRR child:OBL:LOC name M:α-RR-end-ND:IPF:3sgA	Binzawa named his child / passed on his name to his child.
+Nen	138		Ynd gersäm wramte.		ynd gers-äm w-ram-te	1sgABS hunger-ERG 1sgU:α-make-ND:IPF:3sgA	I am hungry.
+Nen	139		Tande ps gbres enzinewäm yramte.		tande ps gbres enzine-wäm y-ram-te	1sgGEN body all sickness-ERG 3sgU:α-make-ND:IPF:3sgA	My whole body is feeling sick.
+Nen	140		Ynd weiwei-yäm w-ram-te.		ynd weiwei-yäm w-ram-te	1sgABS sadness-ERG 1sgU-make-ND:IPF:3sgA	I feel sad.
+Nen	141		Nu nrnde.		nu n-rn-de	water M:α-boil-ND:IPF:3sgA	The water is boiling.
+Nen	142		Naepa tnane!		naepa t-n-ane-ø	knife(ABS) 3sgU:β-TOW-carry-IPF:IMP:2sgA	Bring the knife!
+Nen	143		Sombes bnzsn näkrert.		sombes bnz_sn n-äkrär-ø-t	two firestick M:α-burn-DU:IPF-3nsgA	Two pieces of charcoal are burning.
+Nen	144		Bnz nuzärnda.		bnz n-uzär-nda	fire M:α-flare.up-ND:PF:3sgA	The fire flared up; it's caught fire.
+Nen	145		Ynd wngm sambaks bä dizerngn totr.		ynd w-ng-m sambaks bä d-izer-ng-n totr	1sgERG 1sgU:α-AW-be grassland FUT 3sgU:γ-set.fire.to-ND:FUT-1sgA now	I'm going to burn the grassland today.
+Nen	146		Bmbem nne tzweng bnzn!		bmbem nne t-z-we-ng bnz-n	2nsgERG food(ABS) 3sgU:α-cook-PF.ND-PF.IMP.2sgA fire-LOC	You two cook food on the fire!
+Nen	147		Ymam wmtenda nne dust.		ymam w-mte-nda nne dus-t	3sgERG 1sgU-tell-ND:PST.PF:3sgA food cook_in_ground_oven-ALL	He told me to cook the food.
+Nen	148		Bmbem nne nozwt.		bmbem nne n-o-z-w-t	2nsgERG food(ABS) M:α-AB-cook-DU:IPF-3nsgA	You two are cooking for yourselves, cooking (for your own benefit)."
+Nen	149		Toge e nende.		toge e n-en-de	child crying M:α-cry-ND:IPF:3sgA	The baby is crying.
+Nen	150		Ynd nendan.		ynd n-en-da-n	1sgABS M:α-cry-ND:IPF-1sgA	I cry.
+Nen	151		Yndbem band bba ytarm.		yndbem band bba y-tar-ø-m	1nsgERG ground(ABS) RCN 3sgU:α-dig-DU:IPF-1nsgA	The two of us dug the ground.
+Nen	152		Ynd brbräm wramte.		ynd brbr-äm w-ram-te	1sgABS fear-ERG 1sgU-make-ND:IPF:3sgA	I'm feeling frightened.
+Nen	153		Megdelinende mleg toge kérbér kitongäm yramte kapyép kunzn.		Megdelin-ende mleg toge kérbér kitong-äm y-ram-te kapyép kunz-n	Magdalen-GEN girl child(ABS) cold big-ERG 3sgU:α-make-ND:IPF:3sgA baby.carrybag inside-LOC	Magdalen's little girl felt really cold inside the baby sling.
+Nen	154		Tande tnd kapkap tkretewäm wramte.		tande tnd kapkap tkrete-wäm w-ram-te	1sgGEN hand palm pain-ERG 1sgU:α-make-ND:IPF:3sgA	The pains in my hand are hurting my whole body.
+Nen	155		Ynd pan qérqér wzerst wngm.		ynd pan_qérqér w-zer-s-t w-ng-m	1sgABS savannah TR.INF-burn.off-NLZR-ALL 1sgU-AW-be(ND)	I'm going to the savannah to burn off.
+Nen	156		Ynd bén nurm.		ynd bén n-ur-ø-m	1sgABS laughter M:α-laugh-DU:IPF-1nsgA	We two are laughing.
+Nen	157		Ymam norte yande dmab.		ymam n-or-te yande dmab	3sgERG M:α-leave-ND:IPF:3sgA 3sgGEN wife	He's left/divorced his wife.
+Nen	158		Buder, ynd bende baskel yrgab tondn nnorndn.		buder ynd bende baskel yrgab tond-n n-n-or-nd-n	friend 1sgERG 2sgGEN bicycle river bank-LOC M:α-TOW-leave-ND:PF-1sgA	Friend, I left your bicycle by the river bank."
+Nen	159		Ynd ybranḡtan tande dmab.		ynd y-branḡ-ta-n tande dmab	1sgABS 3sgU:α-leave-ND:PF-1sgA 1sgGEN wife	I've left my wife.
+Nen	160		Ynd nabranḡam.		ynd n-a-branḡ-a-m	1sgABS M:α-RR-leave-DU:PF-1nsgA	We divorced (each other)/ left each other.
+Nen	161		Togetogeyäbem Kmgonde tñ yramtat.		togetoge-yäbem Kmgo-nde tñ y-ram-ta-t	children-PL:ERG Kmgo-GEN fence 3sgU:α-make-ND:IPF-3nsgA	The boys are tying up Kamgo's fence.
+Nen	162		Godm band kitong yaprtamanga.		God-m band kitong y-apr-tamanga	God-ERG ground big(ABS) 3sgU:α-make-ND:PRIM:3sgA	God made the earth.
+Nen	163		Kananga ge yétrert.		kananga ge y-étrer-ø-t	yam here 3sgU:α-scrape-DU:IPF-3nsgA	She / the two of them are scraping the skin off the yam.
+Nen	164		Sombes toge nizert.		sombes toge n-izer-ø-t	two child M:α-play-DU:IPF-3nsgA	The two children are playing.
+Nen	165		Yndbem yédéḡm yna wn bu.		yndbem y-édéḡ-ø-m yna wn_bu	1nsgERG 3sgU:α-push.aside-DU:IPF-1nsgA DEM log	We (two) pushed the log aside.
+Nen	166		Ymam biskar katrowan ykmanda.		ymam biskar katro-wan y-kma-nda	3sgERG cassava black.palm-LOC 3sgU:α-lie-ND:PF:3sgA	He put the cassava inside a black palm container.
+Nen	167		Zimindi nnemne nne ämbs prta ykmangr yna sarnnḡ kunzn.		Zimi-ndi nne-mne nne ämbs prta y-kma-ngr yna sarnḡ kunz-n	Jimmy-GEN eat-ORIG yam one 36 3sgU:α-lie-ND:STAT DEM yam_house inside-LOC	Here are 36 of Jimmy's eating yams inside the yam house.
+Nen	168		Bä kmangret äkmst nopapnda.		bä kmangre-t ä-km-s-t n-opap-nda	3sgABS sleep-ALL RR-lie-NLZR-ALL M:α-begin-ND:PF:3sgA	He's about to go to sleep.
+Nen	169		Ynd yna yéb yanendn tande mitadmaepapn.		ynd yna yéb y-ane-nd-n tande mitadma-epapn	1sgERG DEM bag(ABS) 3sgU:α-get-ND:PF-1sgA 1sgGEN aunt-LOC	I got this bag from my aunty.
+Nen	170		Yndbem wn bu ypaewm.		yndbem wn_bu y-pae-w-m	1nsgERG log 3sgU:α-roll-DU:IPF-1nsgA	We (two) rolled the log aside.
+Nen	171		Yna är get ymnzngr.		yna är get y-m<n>z-ngr	DEM man overlong 3sgU:α-sit<ND>-STAT	That man is sitting.
+Nen	172		Bm ämewan kamnz!		bm äme-wan k-am<n>z-ø	2sgABS mat-LOC M:β-sit<ND>-IPF:IMP:2sgA	Sit on the mat!
+Nen	173		Ynd ämewan ymnzndn.		ynd äme-wan y-m<n>z-nd-n	1sgERG mat-LOC 3sgU:α-sit<ND>-ND:PF-1sgA	I sat it on the mat.
+Nen	174		Ynd bm wimb nambatan.		ynd bm wimb n-amba-ta-n	1sgERG 2sgABS smell(ABS) 2sgU:α-smell-ND:IPF-1sgA	I smell you.
+Nen	175		Sombes zän nawambaewt.		sombes zän n-aw-ambae-w-t	two dog M:α-RR-smell-DU:IPF-3nsgA	Two dogs are sniffing each other.
+Nen	176		Ämb äräm tbe dene dnawapapte sarnḡ dene bä yangmbatang zḡngama.		ämb är-äm tbe dene dn-awapap-t-e sarnḡ dene bä ya-ng-mba-tang zḡ-ngama	one man-ERG 1nsgOBL thus 1nsgU:γ-teach-ND:IPF-3sgA yam_house thus FUT 3nsgU:α-AW-tie-ND:IPF:2pl.IMP string-ABL	He was teaching us to tie the door post string of a yam house with string.
+Nen	177		Ynd yawapaptan ybegta tande zi.		ynd y-awapap-ta-n ybegta tande zi	1sgERG 3sgU:α-teach-ND:IPF-1sgA 3nsgDAT1 1sgPOSS language	I'm teaching her my language.
+Nen	178		Ynd naowapaptan Nen Zi.		ynd n-a<o>wapap-ta-n Nen zi	1sgABS M:α-teach<AB>-ND:IPF-1sgA Nen language	I am learning Nen.
+Nen	179		Bä mñte ym ungist.		bä mñte y-m ungi-s-t	3sgABS desirous 3sgU:α-be:ND stand.up-NLZR-ALL	He wants to stand up.
+Nen	180		Bä mñte ym geä gunginga.		bä mñte y-m geä g-ungi-ng-a	3sgABS desirous 3sgU:α-be:ND COND M:γ-stand-ND:FUT-3sgA:PST.PF	He wants to stand up.
+Nen	181		Ymam boraro ke erete.		ymam boraro ke ø-ere-t-e	3sgERG flute sound 3sgU:α-hear-ND:IPF-3sgA	He can hear the sound of a flute.
+Nen	182		Mnegta nowerete Nen Ym mersraes zi aba ygärngdam o yao.		mnegta n-o-were-t-e Nen_Ym mersraes zi aba y-gärng-da-m o yao	for.that.reason M:α-AB-hear-ND:IPF-3sgA Nen_language carefully language RCN 3sgU:α-translate-ND:PF-1nsgA or NEG	He is listening carefully to the recording to know whether we have translated the Nen correctly or not.
+Nen	183		Ynd bä naweretam gtäts Dimsisi är bende nne arns zi, geä gerengm, ynd yna powa nne bä narntam.		ynd bä n-a-were-ta-m gtäts Dimsisi är-bende nne arn-s zi geä g-ere-ng-m ynd yna powa nne bä n-arn-ta-m	1nsgABS FUT M:α-DA-hear-ND:IPF-1nsgA until Dimsisi person-PL:GEN yam harvest-NLZR word COND M:γ-hear-ND:FUT-1nsgA 1nsgABS DEM after yam FUT M:α-harvest-ND:IPF-1nsgA	We must wait to hear/get word that the Dimisisi people have begun their harvest, when we hear then we begin our own harvesting."
+Nen	184		Ynd begta newendn.		ynd begta n-ewe-nd-n	1sgERG 2sgDAT1 2sgU-load-ND:PF-1sgA	I loaded you up.
+Nen	185		Bä ylst newendt.		bä yl-s-t n-ewe-nd-t	3ABS go-NLZR-ALL M:α-load-ND:PF-3nsgA	They're loaded up to go.
+Nen	186		Ynd nawagtan.		ynd n-a-wag-ta-n	1sgABS M:α-RR-load-ND:IPF-1sgA	I load myself up.
+Nen	187		Bä nne nawagtan.		bä nne n-a-wag-ta-n	3sgABS yam(ABS) M:α-RR-load-ND:IPF-1sgA	He loads himself up with yams.
+Nen	188		Ḡmam nne ywaleta yawagte.		ḡma-m nne ywal-eta ya-wag-te	Ḡma-ERG yam(ABS) Ywal-DAT1 3nsgU:α-load-ND:IPF:3sgA	Ḡma is loading the yams for/onto Ywal (i.e. into her yam-basket).
+Nen	189		Bmbem pitasan nne baba yapltat gowawan.		bmbem pitas-an nne baba y-apl-ta-t gowa-wan	2nsgERG enough-LOC food(ABS) RCN 3sgU:α-fill-ND:IPF-3nsgA canoe-LOC	You’ve loaded the canoe up completely (with enough).
+Nen	190		Ymabem gowa sikma pip yapndt kstemne gowa noletnda.		ymabem gowa sikma_pip y-ap-nd-t kste-mne gowa n-olet-nda	3nsgERG canoe(ABS) too.much 3sgU:α-fill-ND:PF-3nsgA heavy-ORIG canoe M:α-sink-ND:PST.PF.3sgA	They filled the canoe completely to overflowing.
+Nen	191		Sombes ärm mnḡ koramt.		sombes är-m mnḡ k-o-ram-ø-t	two man-ERG house M:β-AB-build-DU:IPF-3nsgA	Two men are building a house for themselves.
+Nen	192		Ynd bm kae bä nabatan.		ynd bm kae bä n-aba-ta-n	1sgERG 2sgABS ±one.day FUT 2sgU-think.of-ND:IPF-1sgA	I'll think of you tomorrow.
+Nen	193		Yna powa Aesek kr modowa noyabte.		yna powa Aesek kr modowa n-o-yab-te	DEM after Isaac dead bandicoot M:α-AB-show-ND:IPF:3sgA	After that, Isaac is showing off the dead bandicoot."
+Nen	194		Ynd biskar yéstan.		ynd biskar y-és-ta-n	1sgERG cassava 3sgU:α-scrape-ND:IPF-1sgA	I am scraping the cassava.
+Nen	195		Ynd bä yambnandn.		ynd bä y-ambn-and-n	1sgERG 3U 3sgU:α-hug-ND:PF-1sgA	I hugged her.
+Nen	196		Bä sombes nawambnandt.		bä n-a-wambn-and-t	3ABS M:α-RR-embrace-ND:PF-3plA	They embraced.
+Nen	197		Yna toge nawambete.		yna toge n-awambe-t-e	DEM child M:α-scream-ND:IPF-3sgA	The child is calling out.
+Nen	198		Bm ynd bä wérne btkamgeb.		bm ynd bä w-érn-e btkamgeb	2sgERG 1sgABS FUT 1sgU:α-shave-2sgA beard	You will shave me.
+Nen	199		Bä nernat.		bä n-e-rn-a-t	3ABS M:α-RR-shave-ND:IPF-3nsgA	They are shaving.
+Nen	200		Gowa (är kste-ba) nolete.		gowa är kste-ba n-o-le-t-e	canoe person heavy-COM M:α-DI-sink-ND:IPF-3sgA	The canoe sank (with the heavy people).
+Nen	201		Ymam gowa yaletnda.		ymam gowa ya-let-nd-a	3sgERG canoe(ABS) 3sgU:α-sink-ND:PF-3sgA:PST.PF	He sank the canoe.
+Nen	202		Ynd nawabatan Arupen ge ḡerengron.		ynd n-a-waba-ta-n Arupe-n ge ḡ-ere-ngr-on	1sgABS M:α-RR-think-ND:IPF-1sgA Arufi-LOC there M:γ-live-ND:STAT-RPst	I remembered living in Arufi.
+Nen	203		Tende är gms brbr är yna bä dewernete, mnene är mrkp npser oynangéwelmän.		tende är gms brbr är yna bä d-e-werne-t-e mnene är mrkp np-s-er o-y-n-ng-ewelmän	before person kill:NLZR fear person DEM FUT 3nsgU:α-RR-hide-ND:IPF-3sgA because person head cut-NLZR-AGN APPR-3sgU-TOW-AW-go:PL	A long time ago people used to hide here from headhunters (N2:125).
+Nen	204		Tandemne brbräm yramte.		tande-mne brbr-äm y/ram\te	1sgPOSS-SOU fear-ERG 3sgA\3sgU:IMPF:NPREHOD/\do	(S)he is afraid of me.
+Nen	205		Brmbrende aplsmne är.		brmbr-ende apl-s-mne är	spirit-GEN overflow-NLZR-SOU man	A man full of (overflowing with) spirit.
+Nen	206		Wagibta Blag témta!		wagib-ta Blag t-ém-ta-ø	fish-OBL Blag(ABS) 3sgU:β-ask-ND:IPF-IPF:IMP:2sgA	Ask Blag for a fish!
+Nen	207		Yna pepa yép kunzn ombtes ym.		yna pepa yép kunz-n ombtes y-m	DEM paper bag inside-LOC dry 3sgU:α-be:ND	The papers are dry inside the bag.
+Nen	208		Yna sombes är nägmt.		yna sombes är n-ä-gm-ø-t	DEM two man M:α-RR-hit-DU:IPF-3duA	Those two men are fighting. (Could be hitting each other, or also fighting by other means)."
+Nen	209		Ynd parwae pip yñptan naepangama.		ynd parwae pip y-ñp-ta-n naepa-ngama	1sgERG animal meat 3sgU:α-cut-ND:IPF-1sgA knife-ABL	I am cutting the meat with a knife.
+Nen	210		Tnrama!		t-n-rama-ø	3sgU:α-TOW-give/do(PF)-PF.IMP.2sgA	Give it here!
+Nen	211		Tängramae!		tä-ng-ram-ae	3nsgU:β-AW-do/give-IPF:IMP.2sgA\DuU	Give those two things (away)!
+Nen	212		Bm mñteba nawakaewt.		bm mñte-ba n-a-wakae-w-t	2ABS sweetness-COM M:α-RR-look-DU:IPF-2nsgA	You two love each other.
+Nen	213		Ymam ynd wmtenda kunzt elaost.		ymam ynd w-mte-nda kunz-t elao-s-t	3sgERG 1sgABS 1sgU:α-tell-ND:PF:3sgA inside-ALL enter-NLZR-ALL	He told me to go inside.
+Nen	214		Ynd bbegta weiwei bä dawawrngn.		ynd bbe-gta weiwei bä da-wa-wr-ng-n	1sgERG 2nsg-DAT1 sadness FUT 2nsg-BEN-leave-PF.FUT.ND-1sgA	I'll leave a sadness for you.
+Nen	215		Ymam bñe tagta wnde tntrne.		ymam bñe ta-gta wnde t-n-tr-n-e	3sgERG letter 1sg-DAT1 in.return 3sg:β-TOW-send.in.exchange-ND:IPF-3sgA	He send me a letter in return.
+Nen	216		Yndbem bm natembetam.		yndbem bm n-atembe-ta-m	1nsgERG 2ABS 2sgU:α-send.off-ND:IPF-1nsgA	We say farewell to you.
+Nen	217		Bä ynd enzan.		bä ynd ø-enz-a-n	3sgABS 1sgERG 3sgU:α-touch-ND:IPF-1sgA	I'm touching him.
+Nen	218		Bmbem tagta wetlt yna zi.		bmbem ta-gta w-etl-ø-t yna zi	2nsgERG 1sg-DAT1 1sgU:α-tell-DU:IPF-2nsgA DEM story	You two are telling me this story.
+Nen	219		Ymabem ybenzo zi nutlét.		ymabem ybe-nzo zi n-u-tlé-ø-t	3nsgERG 3nsg-RR story M:α-RR-tell-DU:IPF-3nsgA	They two are telling each other a story.
+Nen	220		Ymam kiámb zéḡ wnan aba ymbate.		ymam kiámb zéḡ wn-an aba y-mba-t-e	3sgERG pig rope tree-LOC RCN 3sgU:α-tie-ND:IPF-3sgA	He tied the pig to the tree with a rope.
+Nen	221		Ynd sombes bñe yagta tängwäbärn.		ynd sombes bñe ya-gta tä-ng-wäbär-n	1sgABS two letter(ABS) 3sg-DAT1 3nsgU:β-AW.send-DU:IPF-1sgA	I sent two letters.

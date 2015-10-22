@@ -1,0 +1,115 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Causative	Deagentive	Direct object shift	Extraversive	Fientive	Incorporative	Indirect participation	Introversive	Passive	Reciprocal	Reflexive	Usative
+Yucatec Maya	1	EAT	haan	1, 104, 127	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	1	EAT	haant	1, 103, 104, 187, 188, 297	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Marginally	Never
+Yucatec Maya	2	HUG	méek'	2, 105, 189, 298	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Marginally	Never	Never	Regularly	Regularly	Marginally	Never
+Yucatec Maya	3	LOOK AT	pakat	3, 106, 107, 299, 300, 301, 336	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Never
+Yucatec Maya	4	SEE	il	4, 37, 108, 145, 189, 190, 228, 298	sbj[1].V.obj[2] 2 1	Marginally	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	5	SMELL	u'y	5, 92, 109, 110, 191, 192, 193, 261, 317, 318	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Marginally	Never	Marginally	Regularly	Regularly	Regularly	Never
+Yucatec Maya	5	SMELL	ch'a'bok	113, 296	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	5	SMELL	ch'a'bokt	111, 112, 296	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Marginally	Never
+Yucatec Maya	6	FEAR	sahak	6, 7, 8	sbj[1].V ti'+2 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Regularly	Marginally	Never
+Yucatec Maya	6	FEAR	ch'a' sahakil	114, 124, 194, 195, 337	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	No data	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	7	FRIGHTEN	sahbes	7, 302	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	7	FRIGHTEN	sahakkuns	8, 196	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Marginally	Never
+Yucatec Maya	8	LIKE	uts ti' ich	9, 197	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Regularly	Marginally	Never	Never	Never	Marginally	Never	Never
+Yucatec Maya	9	KNOW	k'ahóol	10, 125, 303	sbj[1].V.obj[2] 2 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Yucatec Maya	9	KNOW	k'ahóolt	125, 126, 128, 198	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	10	THINK	tukult	11, 129, 199	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	10	THINK	tuukul	11, 130, 340	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	11	SEARCH FOR	kax(an)t	12, 131, 132, 304	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	No data	Never	Regularly	Regularly	Regularly	Marginally	Never
+Yucatec Maya	12	WASH	isíins	13, 133, 329	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	12	WASH	ichkíil	13, 134, 200, 332	sbj[1].V 1	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Marginally	Never	Never
+Yucatec Maya	12	WASH	ichíint	13, 332	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	13	DRESS	búukint	115, 123	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	14, 135, 136, 137, 201, 324	sbj[1].V.obj[2] 2 1	Never	Never	Regularly	Never	Never	Regularly	Regularly	Regularly	Regularly	Marginally	Regularly	Never
+Yucatec Maya	15	HELP	áant	15, 138, 139, 202, 203	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Marginally	Never
+Yucatec Maya	16	FOLLOW	ch'a'paacht	16, 161	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	16	FOLLOW	tsaypacht	319, 320	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	16	FOLLOW	ch'a' paach	140, 151	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Marginally	Never	Never
+Yucatec Maya	17	MEET	naktáant	17, 162	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	17	MEET	nuptáant	18	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	18	TALK	t'aan	20, 163	sbj[1].V 1 yéetel+2 yóok'ol+3	Never	Never	Never	Never	Never	Marginally	Never	Never	Never	Regularly	Never	Never
+Yucatec Maya	18	TALK	tsikbal	19, 23, 141	sbj[1].V 1 yéetel+2 yóok'ol+3	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	19	ASK FOR	k'áat (2)	21, 143, 144, 164	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Never	Never	Never	No data	No data	Regularly	Regularly	Regularly	Regularly	Never
+Yucatec Maya	20	SHOUT AT	awat (2)	22, 165	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	21	TELL	tsikbat	23, 146, 147	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	22	SAY	a'l	24, 117, 118, 119, 166, 303	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	23	NAME	k'aaba'	116, 331	sbj[1].V 1	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Regularly
+Yucatec Maya	24	BUILD	beet	25, 99, 277, 278	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Never
+Yucatec Maya	25	BREAK	pa'	26, 153	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	25	BREAK	kach	102, 148, 294, 344	sbj[1].V.obj[2] 2 1	Never	Regularly	Never	Never	Never	Regularly	Marginally	Marginally	Regularly	Never	Never	Never
+Yucatec Maya	26	KILL	kíins	27, 150, 167, 168, 221	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Never
+Yucatec Maya	27	BEAT	p'uch	28, 157, 321, 322	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Regularly	Regularly	Never	Never
+Yucatec Maya	28	HIT	hats'	158, 279, 350	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Regularly	Regularly	Regularly	Never
+Yucatec Maya	28	HIT	koh	29, 295	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Regularly	Never	Never	Never	No data	Never	Marginally	Regularly	Regularly	No data	Never
+Yucatec Maya	29	TOUCH	mach	317, 318, 334	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Regularly	Regularly	Marginally	Never
+Yucatec Maya	30	CUT	xot	30, 315	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Never	Regularly	Never
+Yucatec Maya	31	TAKE	ch'a'	31, 113, 154, 328	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Regularly	Marginally	Never	Never
+Yucatec Maya	32	TEAR	hat	32, 155, 280, 281	sbj[1].V.obj[2] 2 1	Never	Regularly	Regularly	Never	Never	Marginally	Regularly	Marginally	Regularly	Never	Marginally	Never
+Yucatec Maya	33	PEEL	sóolt	33	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	33	PEEL	ts'íil	159, 160, 305, 354	sbj[1].V.obj[2] 2 1	Never	Never	Regularly	Never	Never	Regularly	Never	Marginally	Regularly	Never	Never	Never
+Yucatec Maya	33	PEEL	cheppóolt	34	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	33	PEEL	lak	35, 352	sbj[1].V.obj[2] 2 1	Never	Regularly	Never	Never	Never	Never	Regularly	Marginally	Regularly	Never	Marginally	Never
+Yucatec Maya	34	HIDE	ta'k	36, 169	sbj[1].V.obj[2] 2 ti'+3 1	Marginally	Never	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Never
+Yucatec Maya	35	SHOW	e's	37, 170, 171, 172	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Never
+Yucatec Maya	36	GIVE	ts'a'	38, 45, 173, 174, 206, 348	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Regularly	Regularly	Marginally	Regularly	Regularly	Marginally	Never
+Yucatec Maya	37	SEND	túuxt	39, 175, 176, 177	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Marginally	Marginally	Never	Regularly	Regularly	Regularly	Never
+Yucatec Maya	38	CARRY	bis	40, 178	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Never	Never
+Yucatec Maya	39	THROW	pul	41, 42, 43, 179, 181	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Regularly	Never
+Yucatec Maya	39	THROW	ch'in	87, 180, 250, 251	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Regularly	Regularly	Never	Never
+Yucatec Maya	40	TIE	k'ax	44, 182, 183, 282	sbj[1].V.obj[2] 2 (ti'+3) (yéetel+4) 1	Never	Regularly	Never	Never	Never	Marginally	Never	Regularly	Regularly	Regularly	Regularly	Never
+Yucatec Maya	41	PUT	ts'a'	38, 45, 173, 174, 206, 348	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Regularly	Regularly	Marginally	Regularly	Regularly	Marginally	Never
+Yucatec Maya	42	POUR	t'oh	47	sbj[1].V.obj[2] 2 1 LOC3	Never	No data	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	42	POUR	láal	46, 184, 185, 186	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Regularly	Marginally	Never
+Yucatec Maya	43	COVER	pix	48, 204	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Regularly	Never	Never	Never	Regularly	Never	Marginally	Regularly	Marginally	Regularly	Never
+Yucatec Maya	44	FILL	chup	49, 283, 316	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Regularly	Never	Never	Never	No data	Marginally	Never	Regularly	Never	Never	Never
+Yucatec Maya	44	FILL	but'	50, 51, 205, 323, 346, 357, 358	sbj[1].V.obj[2] 2 1 LOC3	Never	Regularly	Regularly	Never	Never	Marginally	Regularly	Never	Regularly	Never	Never	Never
+Yucatec Maya	45	LOAD	but'	50, 51, 205, 323, 346, 357, 358	sbj[1].V.obj[2] 2 1 LOC3	Never	Regularly	Regularly	Never	Never	Marginally	Regularly	Never	Regularly	Never	Never	Never
+Yucatec Maya	45	LOAD	kuch	52, 333	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	45	LOAD	na'ks	285, 345, 356	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Regularly	Regularly	Never
+Yucatec Maya	46	BLINK	chak'	53, 207, 284	sbj[1].V ti'+2 1	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never
+Yucatec Maya	46	BLINK	chak'ich	53, 207, 325	sbj[1].V ti'+2 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	46	BLINK	chak'icht	207, 208	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never					Regularly	Regularly		
+Yucatec Maya	47	COUGH	se'n	55, 209	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	47	COUGH	sa'sa'kaal	54	sbj[1].V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	48	CLIMB	na'k	56, 285	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	49	RUN	áalkab	57, 120, 121, 122	sbj[1].V 1	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	49	RUN	áalkabt	121	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	50	SIT	kul	58, 59, 286	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	51	SIT DOWN	kul	58, 59, 286	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	52	JUMP	síit'	60, 287	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	53	SING	k'ay	61, 62, 210, 211, 288	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Marginally	Regularly	Regularly	Marginally	Never	Never
+Yucatec Maya	54	GO	bin	40, 63	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	55	LEAVE	hóok'	64, 289	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	56	LIVE	kah	65, 212	sbj[1].V LOC2 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	57	LAUGH	che'h	66, 291	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	58	SCREAM	awat (1)	22, 67, 145	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	59	FEEL PAIN	yah	68, 219, 355	sbj[1].V 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	59	FEEL PAIN	k'i'nam	69	sbj[1].V 1	Never	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	60	FEEL COLD	ke'l	70, 220	sbj[1].V 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	61	DIE	kíim	27, 71, 149	sbj[1].V 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	62	PLAY	báaxal	72, 215, 222, 224	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never
+Yucatec Maya	62	PLAY	báaxt	222, 223	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	63	BE SAD	ok'om	73, 216, 225	sbj[1].V 1	Marginally	Never	Never	Regularly	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Yucatec Maya	64	BE HUNGRY	wi'h	74, 217, 227, 228	sbj[1].V 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	65	ROLL	balak'	75, 229, 230	sbj[1].V 1	Regularly	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	66	SINK															
+Yucatec Maya	67	BURN	éel	77, 235	sbj[1].V 1	Marginally	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	68	BE DRY	tikin	79, 306, 308, 326	sbj[1].V 1	Regularly	Never	Never	Never	Regularly	Never	Never	Never	Regularly	Marginally	Regularly	Never
+Yucatec Maya	69	RAIN	k'áax	80, 238, 239	sbj[1].V 1	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	70	BE A HUNTER	hts'oon	81, 240	sbj[1].V 1	Never	Never	Never	Never	Marginally	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	71	GRIND	huch'	82, 241, 242, 342, 343	sbj[1].V.obj[2] 2 1 (yéetel+3)	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Regularly	Never	Never	Never
+Yucatec Maya	72	WIPE	cho'	83, 243, 292	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	No data	Marginally	Marginally	Regularly	Marginally	Marginally	Never
+Yucatec Maya	72	WIPE	púust	84, 85, 245, 246, 247	sbj[1].V.obj[2] 2 1	Never	Never	Regularly	Never	Never	Marginally	Regularly	Regularly	Regularly	Marginally	Marginally	Never
+Yucatec Maya	72	WIPE	púus	85, 244	sbj[1].V 1	Never	Never	Never	Regularly	Never	Never	Never	Never	Never	Never	Never	Never
+Yucatec Maya	73	DIG	háal	86	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Yucatec Maya	73	DIG	páan	248, 249	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Marginally	Regularly	Never	Never	Never
+Yucatec Maya	74	PUSH	léench'int	87, 250, 251	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	74	PUSH	tul	88, 252	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Never	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	75	BRING	taas	89, 253, 254	sbj[1].V.obj[2] 2 1 LOC3	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never	Never
+Yucatec Maya	76	STEAL	ookol	90, 257, 335, 359, 360, 361	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Marginally	Marginally	Never	Marginally	Regularly	Marginally	Regularly	No data	Never	Never
+Yucatec Maya	76	STEAL	ookolt	258, 347	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Marginally	Never
+Yucatec Maya	77	TEACH	ka'ns	91, 255, 256, 259, 260, 362	sbj[1].V.obj[2] 2 ti'+3 1	Never	Never	Marginally	Never	Never	Never	Never	Regularly	Regularly	Marginally	Never	Never
+Yucatec Maya	78	HEAR	u'y	5, 92, 109, 110, 191, 192, 193, 261, 317, 318	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Marginally	Never	Marginally	Regularly	Regularly	Regularly	Never
+Yucatec Maya	79	COOK	chak	93, 262, 263	sbj[1].V.obj[2] 2 1	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Never	Never	Never
+Yucatec Maya	80	BOIL	look	94, 264	sbj[1].V 1	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never

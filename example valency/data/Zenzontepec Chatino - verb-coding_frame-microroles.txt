@@ -1,0 +1,253 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Zenzontepec Chatino	1	EAT	y-aku	Basic	V 1 jiʔį̄+2	1	eater	Ø	A
+Zenzontepec Chatino	1	EAT	y-aku	Basic	V 1 jiʔį̄+2	2	eaten food	jiʔį̄+NP	P
+Zenzontepec Chatino	1	EAT	y-aku	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	1	eater	jiʔį̄+NP	
+Zenzontepec Chatino	1	EAT	y-aku	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	2	eaten food	jiʔį̄+NP	
+Zenzontepec Chatino	1	EAT	y-aku	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	3	eat causer/feeder	Ø	
+Zenzontepec Chatino	1	EAT	y-aku	Derived	V' 1	1	eater	Ø	
+Zenzontepec Chatino	1	EAT	y-aku	Derived	yV' 2	2	eaten food	Ø	
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Basic	V 1 jiʔį̄+2	1	hugger	Ø	A
+Zenzontepec Chatino	2	HUG	nk-y-uʔu-xiiʔ	Basic	V 1 jiʔį̄+2	2	huggee	jiʔį̄+NP	P
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Basic	V 1 jiʔį̄+2	1	hugger	Ø	A
+Zenzontepec Chatino	2	HUG	nkā-tūkwá-xiiʔ	Basic	V 1 jiʔį̄+2	2	huggee	jiʔį̄+NP	P
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Basic	V 1 jiʔį̄+2	1	looker	Ø	A
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Basic	V 1 jiʔį̄+2	2	looked at entity	jiʔį̄+NP	P
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Derived	V' 1	1	looker	Ø	
+Zenzontepec Chatino	3	LOOK AT	nkā-naʔa	Derived	V' 2	2	looked at entity	Ø	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Basic	V 1 jiʔį̄+2	1	seeer	Ø	A
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Basic	V 1 jiʔį̄+2	2	seen entity	jiʔį̄+NP	P
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Derived	V' 1	1	seeer	Ø	
+Zenzontepec Chatino	4	SEE	nkā-naʔa	Derived	V' 2	2	seen entity	Ø	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Basic	V 1 jiʔį̄+2	1	smeller	Ø	A
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Basic	V 1 jiʔį̄+2	2	smelled entity	jiʔį̄+NP	P
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	1	smeller	jiʔį̄+NP	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	2	smelled entity	jiʔį̄+NP	
+Zenzontepec Chatino	5	SMELL	y-ukwęʔ	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	3	smell causer	Ø	
+Zenzontepec Chatino	6	FEAR	y-utzę	Basic	V 1 jiʔį̄+2	1	fearer	Ø	A
+Zenzontepec Chatino	6	FEAR	y-utzę	Basic	V 1 jiʔį̄+2	2	fear stimulus	jiʔį̄+NP	P
+Zenzontepec Chatino	6	FEAR	y-utzę	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	1	fearer	jiʔį̄+NP	
+Zenzontepec Chatino	6	FEAR	y-utzę	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	2	fear stimulus	jiʔį̄+NP	
+Zenzontepec Chatino	6	FEAR	y-utzę	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	3	fear causer	Ø	
+Zenzontepec Chatino	6	FEAR	y-utzę	Derived	V' 1	1	fearer	Ø	
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Basic	V 1 jiʔį̄+2	1	frightener	Ø	A
+Zenzontepec Chatino	7	FRIGHTEN	nkw-ē-k-utzę	Basic	V 1 jiʔį̄+2	2	frightenee	jiʔį̄+NP	P
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Basic	V 1 jiʔį̄+2	1	liker	Ø	A
+Zenzontepec Chatino	8	LIKE	y-a-toǫ-tīʔ	Basic	V 1 jiʔį̄+2	2	liked entity	jiʔį̄+NP	P
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Basic	V 1 jiʔį̄+2	1	knower	Ø	A
+Zenzontepec Chatino	9	KNOW	n-tzuʔu-ntoo	Basic	V 1 jiʔį̄+2	2	known thing/person	jiʔį̄+NP	P
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Basic	V 1 jiʔį̄+2	1	thinker	Ø	A
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Basic	V 1 jiʔį̄+2	2	thought content	jiʔį̄+NP	P
+Zenzontepec Chatino	10	THINK	nkā-tāá-tīʔ	Derived	V' 1	1	thinker	Ø	
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Basic	V 1 jiʔį̄+2	1	searcher	Ø	A
+Zenzontepec Chatino	11	SEARCH FOR	nkwī-tyána	Basic	V 1 jiʔį̄+2	2	searched for thing	jiʔį̄+NP	P
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Basic	V 1 jiʔį̄+2	1	washer	Ø	A
+Zenzontepec Chatino	12	WASH	nkw-ē-k-ata	Basic	V 1 jiʔį̄+2	2	washed entity	jiʔį̄+NP	P
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Basic	V 1 jiʔį̄+2 3	1	dresser	Ø	A
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Basic	V 1 jiʔį̄+2 3	2	dressee	jiʔį̄+NP	P
+Zenzontepec Chatino	13	DRESS	nkw-ē-k-u-tūʔú (s-ateʔ)	Basic	V 1 jiʔį̄+2 3	3	clothes	Ø	X
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Basic	V 1 jiʔį̄+2	1	helper	Ø	A
+Zenzontepec Chatino	15	HELP	nkwi-tyā-tyūkwá	Basic	V 1 jiʔį̄+2	2	helpee	jiʔį̄+NP	P
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Basic	V 1 jiʔį̄+2	1	follower	Ø	A
+Zenzontepec Chatino	16	FOLLOW	y-a-la-saʔą	Basic	V 1 jiʔį̄+2	2	followee	jiʔį̄+NP	P
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Basic	V 1 jiʔį̄+2	1	meeter	Ø	A
+Zenzontepec Chatino	17	MEET	nk-y-uʔu-ntoo	Basic	V 1 jiʔį̄+2	2	met person	jiʔį̄+NP	P
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Basic	V 1 jiʔį̄+2 3	1	talker	Ø	A
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Basic	V 1 jiʔį̄+2 3	2	talked to person	jiʔį̄+NP	P
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Basic	V 1 jiʔį̄+2 3	3	talked about content	Ø	X
+Zenzontepec Chatino	18	TALK	y-akwiʔ	Derived	V' 1	1	talker	Ø	
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	asker	Ø	A
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	requested thing	jiʔį̄+NP	P
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	askee	jiʔį̄+NP	P
+Zenzontepec Chatino	19	ASK FOR	nkā-nána	Derived	V' 1	1	asker	Ø	
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Basic	V 1 jiʔį̄+2	1	shouter	Ø	A
+Zenzontepec Chatino	20	SHOUT AT	nk-xáʔā-lóʔō	Basic	V 1 jiʔį̄+2	2	shoutee	jiʔį̄+NP	P
+Zenzontepec Chatino	21	TELL	nakwę	Basic	UTT1 V 2 jiʔį̄+3	1	told content	UTT	X
+Zenzontepec Chatino	21	TELL	nakwę	Basic	UTT1 V 2 jiʔį̄+3	2	teller	Ø	A
+Zenzontepec Chatino	21	TELL	nakwę	Basic	UTT1 V 2 jiʔį̄+3	3	tellee	jiʔį̄+NP	P
+Zenzontepec Chatino	22	SAY	nakwę	Basic	UTT1 V 2 jiʔį̄+3	1	said content	UTT	X
+Zenzontepec Chatino	22	SAY	nakwę	Basic	UTT1 V 2 jiʔį̄+3	2	sayer	Ø	A
+Zenzontepec Chatino	22	SAY	nakwę	Basic	UTT1 V 2 jiʔį̄+3	3	saying addressee	jiʔį̄+NP	P
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Basic	V 1 jiʔį̄+2 3	1	namer	Ø	A
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Basic	V 1 jiʔį̄+2 3	2	namee	jiʔį̄+NP	P
+Zenzontepec Chatino	23	NAME	nka-lōó-naa	Basic	V 1 jiʔį̄+2 3	3	name	Ø	X
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	builder	Ø	A
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	built thing	jiʔį̄+NP	P
+Zenzontepec Chatino	24	BUILD	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	building material	lóʔō+NP	I
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	breaker	Ø	A
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	broken thing	jiʔį̄+NP	P
+Zenzontepec Chatino	25	BREAK	nka-laʔa	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	breaking instrument	lóʔō+NP	I
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	killer	Ø	A
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	killee	jiʔį̄+NP	P
+Zenzontepec Chatino	26	KILL	nkay-u-jwi	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	killing instrument	lóʔō+NP	I
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	beater	Ø	A
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	beating instrument	jiʔį̄+NP	P
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	beatee	jiʔį̄+NP	P
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Derived	V' 1 jiʔį̄+3	1	beater	Ø	
+Zenzontepec Chatino	27	BEAT	nka-ʔni	Derived	V' 1 jiʔį̄+3	3	beatee	jiʔį̄+NP	
+Zenzontepec Chatino	28	HIT	nkā-rá	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	hitter	Ø	A
+Zenzontepec Chatino	28	HIT	nkā-rá	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	hittee	jiʔį̄+NP	P
+Zenzontepec Chatino	28	HIT	nkā-rá	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	hitting instrument	lóʔō+NP	I
+Zenzontepec Chatino	28	HIT	nkā-rá	Derived	V' 1 jiʔį̄+2	1	hitter	Ø	
+Zenzontepec Chatino	28	HIT	nkā-rá	Derived	V' 1 jiʔį̄+2	2	hittee	jiʔį̄+NP	
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	toucher	Ø	A
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	touchee	jiʔį̄+NP	P
+Zenzontepec Chatino	29	TOUCH	y-alaʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	touching instrument	lóʔō+NP	I
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	cutter	Ø	A
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	cut thing	jiʔį̄+NP	P
+Zenzontepec Chatino	30	CUT	nkā-xūʔú	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	cutting instrument	lóʔō+NP	I
+Zenzontepec Chatino	31	TAKE	nkā-láā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	taker	Ø	A
+Zenzontepec Chatino	31	TAKE	nkā-láā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	taken thing	jiʔį̄+NP	P
+Zenzontepec Chatino	31	TAKE	nkā-láā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	taking source	jiʔį̄+NP	P
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Basic	V 1 jiʔį̄+2	1	tearer	Ø	A
+Zenzontepec Chatino	32	TEAR	nkā-s-āáʔ	Basic	V 1 jiʔį̄+2	2	torn thing	jiʔį̄+NP	P
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	peel causer	Ø	A
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	peeled object	jiʔį̄+NP	P
+Zenzontepec Chatino	33	PEEL	nka-s-atą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	peeler	lóʔō+NP	I
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	hider	Ø	A
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	hidden thing	jiʔį̄+NP	P
+Zenzontepec Chatino	34	HIDE	nka-to-kāchíʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	hiding affectee	jiʔį̄+NP	P
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	shower	Ø	A
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	shown thing	jiʔį̄+NP	P
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	showing addressee	jiʔį̄+NP	P
+Zenzontepec Chatino	35	SHOW	nka-suʔū	Derived	V' 1	1	shower	Ø	
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	giver	Ø	A
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	gift	jiʔį̄+NP	P
+Zenzontepec Chatino	36	GIVE	nkā-tāá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	giving recipient	jiʔį̄+NP	P
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	sender	Ø	A
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	sent thing	jiʔį̄+NP	P
+Zenzontepec Chatino	37	SEND	nkā-tēję́	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	sending recipient	jiʔį̄+NP	P
+Zenzontepec Chatino	38	CARRY	nka-teę	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	carrier	Ø	A
+Zenzontepec Chatino	38	CARRY	nka-teę	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	carried thing	jiʔį̄+NP	P
+Zenzontepec Chatino	38	CARRY	nka-teę	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	carry instrument	lóʔō+NP	I
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	thrower	Ø	A
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	thrown thing	jiʔį̄+NP	P
+Zenzontepec Chatino	39	THROW	nkā-nēʔé	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	throwing goal	jiʔį̄+NP	P
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3 lóʔō+4	1	tier	Ø	A
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3 lóʔō+4	2	tied thing	jiʔį̄+NP	P
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3 lóʔō+4	3	tying goal	jiʔį̄+NP	P
+Zenzontepec Chatino	40	TIE	nkā-x-īką́ʔ	Basic	V 1 jiʔį̄+2 jiʔį̄+3 lóʔō+4	4	tying instrument	lóʔō+NP	I
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	putter	Ø	A
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	put thing	jiʔį̄+NP	P
+Zenzontepec Chatino	41	PUT	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	putting goal	jiʔį̄+NP	P
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	pourer	Ø	A
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	poured substance	jiʔį̄+NP	P
+Zenzontepec Chatino	42	POUR	nkā-t-ūʔú	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	pouring goal	jiʔį̄+NP	P
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	pourer	Ø	A
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	poured substance	jiʔį̄+NP	P
+Zenzontepec Chatino	42	POUR	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	pouring goal	jiʔį̄+NP	P
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	coverer	Ø	A
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	covered thing	jiʔį̄+NP	P
+Zenzontepec Chatino	43	COVER	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	cover	lóʔō+NP	I
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	filler	Ø	A
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	filled container	jiʔį̄+NP	P
+Zenzontepec Chatino	44	FILL	nka-ʔne-chá-tzaʔą	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	filling material	lóʔō+NP	I
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	loader	Ø	A
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	loaded thing	jiʔį̄+NP	P
+Zenzontepec Chatino	45	LOAD	nkā-tūkwá	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	loading place	jiʔį̄+NP	P
+Zenzontepec Chatino	46	BLINK	nk-y-uwi-ntoo	Basic	V 1	1	blinker	Ø	S
+Zenzontepec Chatino	47	COUGH	nka-tuuʔ	Basic	V 1	1	cougher	Ø	S
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Basic	V 1 (LOC2)	1	climber	Ø	S
+Zenzontepec Chatino	48	CLIMB	nk-yó-saʔą	Basic	V 1 (LOC2)	2	climbing goal	LOC	L
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Basic	V 1	1	runner	Ø	S
+Zenzontepec Chatino	49	RUN	nkū-túʔu-jná	Derived	eV' 2 jiʔį̄+1	1	runner	jiʔį̄+NP	
+Zenzontepec Chatino	50	SIT	n-tyukwā	Basic	V 1 (LOC2)	1	sitter	Ø	S
+Zenzontepec Chatino	50	SIT	n-tyukwā	Basic	V 1 (LOC2)	2	sitting place	LOC	L
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Basic	V 1 (LOC2)	1	sitdowner	Ø	S
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-saʔą	Basic	V 1 (LOC2)	2	sitting-down place	LOC	L
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Basic	V 1 (LOC2)	1	sitdowner	Ø	S
+Zenzontepec Chatino	51	SIT DOWN	nkw-ē-tyukwā	Basic	V 1 (LOC2)	2	sitting-down place	LOC	L
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Basic	V 1	1	jumper	Ø	S
+Zenzontepec Chatino	52	JUMP	nkw-é-kwaą̄	Derived	eV' 2 jiʔį̄+1	1	jumper	jiʔį̄+NP	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Basic	V 1 jiʔį̄+2	1	singer	Ø	A
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Basic	V 1 jiʔį̄+2	2	song	jiʔį̄+NP	P
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	1	singer	jiʔį̄+NP	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	2	song	jiʔį̄+NP	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Derived	eV' 3 jiʔį̄+2 jiʔį̄+1	3	sing causer	Ø	
+Zenzontepec Chatino	53	SING	(nka-)y-ūlá	Derived	V' 1	1	singer	Ø	
+Zenzontepec Chatino	54	GO	y-aa	Basic	V 1 (LOC2)	1	goer	Ø	S
+Zenzontepec Chatino	54	GO	y-aa	Basic	V 1 (LOC2)	2	going goal	LOC	L
+Zenzontepec Chatino	54	GO	y-aa	Derived	V'lóʔō 1 jiʔį̄+3 LOC2	1	goer	Ø	
+Zenzontepec Chatino	54	GO	y-aa	Derived	V'lóʔō 1 jiʔį̄+3 LOC2	2	going goal	LOC	
+Zenzontepec Chatino	54	GO	y-aa	Derived	V'lóʔō 1 jiʔį̄+3 LOC2	3	gone with thing	jiʔį̄+NP	
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Basic	V 1 jiʔį̄+2	1	leaver	Ø	A
+Zenzontepec Chatino	55	LEAVE	nkū-túʔu	Basic	V 1 jiʔį̄+2	2	left place/person	jiʔį̄+NP	P
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Basic	V 1 (LOC2)	1	liver	Ø	S
+Zenzontepec Chatino	56	LIVE	n-kā-tāká	Basic	V 1 (LOC2)	2	living place	LOC	L
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Basic	V 1	1	laugher	Ø	S
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Derived	eV' 2 jiʔį̄+1	1	laugher	jiʔį̄+NP	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Derived	V'lóʔō 1 jiʔį̄+3	1	laugher	Ø	
+Zenzontepec Chatino	57	LAUGH	nka-xiti	Derived	V'lóʔō 1 jiʔį̄+3	3	laughed-about thing	jiʔį̄+NP	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Basic	V 1	1	screamer	Ø	S
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Derived	eV' 2 jiʔį̄+1	1	screamer	jiʔį̄+NP	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Derived	V'lóʔō 1 jiʔį̄+3	1	screamer	Ø	
+Zenzontepec Chatino	58	SCREAM	nk-xáʔā	Derived	V'lóʔō 1 jiʔį̄+3	3	screamed at person	jiʔį̄+NP	
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi	Basic	V 1	1	pain locus	Ø	S
+Zenzontepec Chatino	59	FEEL PAIN	tiʔi nkw-ii	Basic	V 1	1	pain locus	Ø	S
+Zenzontepec Chatino	60	FEEL COLD	nkay-ulaʔ	Basic	V 1	1	freezing person	Ø	S
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Basic	V 1	1	dieer	Ø	S
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Derived	uV' 2 jiʔį̄+1	1	dieer	jiʔį̄+NP	
+Zenzontepec Chatino	61	DIE	nku-jwi (1)	Derived	uV' 2 jiʔį̄+1	2	killer/death causer	Ø	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Basic	V 1	1	player	Ø	S
+Zenzontepec Chatino	62	PLAY	nka-jyā	Derived	eV' 2 jiʔį̄+1	1	player	jiʔį̄+NP	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Derived	V'lóʔō 1 jiʔį̄+3	1	player	Ø	
+Zenzontepec Chatino	62	PLAY	nka-jyā	Derived	V'lóʔō 1 jiʔį̄+3	3	playing partner	jiʔį̄+NP	
+Zenzontepec Chatino	63	BE SAD	nkay-uwe-tīʔ	Basic	V 1	1	sad person	Ø	S
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Basic	V 1	1	hungry person	Ø	S
+Zenzontepec Chatino	64	BE HUNGRY	nk-y-uteʔ	Derived	eV' 2 jiʔį̄+1	1	hungry person	jiʔį̄+NP	
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Basic	V 1	1	rolling entity	Ø	S
+Zenzontepec Chatino	65	ROLL	nku-lā-misę̄	Derived	eV' 2 jiʔį̄+1	1	rolling entity	jiʔį̄+NP	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Basic	V 1 jiʔį̄+2	1	sunken entity	Ø	A
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Basic	V 1 jiʔį̄+2	2	sink location	jiʔį̄+NP	P
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Derived	uV' 3 jiʔį̄+1	1	sunken entity	jiʔį̄+NP	
+Zenzontepec Chatino	66	SINK	nkū-lítiʔ	Derived	uV' 3 jiʔį̄+1	3	sink-(caus)er	Ø	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Basic	V 1	1	burnt thing	Ø	S
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Derived	tV' 3	3	fire	Ø	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Derived	utV' 2 jiʔį̄+1	1	burnt thing	jiʔį̄+NP	
+Zenzontepec Chatino	67	BURN	nk-y-akę̄	Derived	utV' 2 jiʔį̄+1	2	burner	Ø	
+Zenzontepec Chatino	68	BE DRY	witi	Basic	V 1	1	dry thing	Ø	S
+Zenzontepec Chatino	68	BE DRY	witi	Derived	uV' 2 jiʔį̄+1	1	dry thing	jiʔį̄+NP	
+Zenzontepec Chatino	68	BE DRY	witi	Derived	uV' 2 jiʔį̄+1	2	drier / dry causer	Ø	
+Zenzontepec Chatino	71	GRIND	nkay-oō	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	grinder	Ø	A
+Zenzontepec Chatino	71	GRIND	nkay-oō	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	ground thing	jiʔį̄+NP	P
+Zenzontepec Chatino	71	GRIND	nkay-oō	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	grinding instrument	lóʔō+NP	I
+Zenzontepec Chatino	71	GRIND	nkay-oō	Derived	V' 1	1	grinder	Ø	
+Zenzontepec Chatino	73	DIG	nkā-lúū	Basic	V 1 jiʔį̄+2	1	digger	Ø	A
+Zenzontepec Chatino	73	DIG	nkā-lúū	Basic	V 1 jiʔį̄+2	2	dug up thing	jiʔį̄+NP	P
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	bringer	Ø	A
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	brought thing	jiʔį̄+NP	P
+Zenzontepec Chatino	75	BRING	y-aa-lóʔō	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	bringing recipient	jiʔį̄+NP	P
+Zenzontepec Chatino	76	STEAL	nka-wanā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	stealer	Ø	A
+Zenzontepec Chatino	76	STEAL	nka-wanā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	stolen thing	jiʔį̄+NP	P
+Zenzontepec Chatino	76	STEAL	nka-wanā	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	stealing source	jiʔį̄+NP	P
+Zenzontepec Chatino	76	STEAL	nka-wanā	Derived	V' 1	1	stealer	Ø	
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	1	teacher	Ø	A
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	2	taught content	jiʔį̄+NP	P
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Basic	V 1 jiʔį̄+2 jiʔį̄+3	3	teachee	jiʔį̄+NP	P
+Zenzontepec Chatino	77	TEACH	nka-suʔū	Derived	V' 1	1	teacher	Ø	
+Zenzontepec Chatino	78	HEAR	y-una (2)	Basic	V 1 jiʔį̄+2	1	hearer	Ø	A
+Zenzontepec Chatino	78	HEAR	y-una (2)	Basic	V 1 jiʔį̄+2	2	heard sound	jiʔį̄+NP	P
+Zenzontepec Chatino	78	HEAR	y-una (2)	Derived	V' 1	1	hearer	Ø	
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	cooker	Ø	A
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	cooked food	jiʔį̄+NP	P
+Zenzontepec Chatino	79	COOK	nkay-ū-kéʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	cooking instrument	lóʔō+NP	I
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Basic	V 1	1	boiled thing	Ø	S
+Zenzontepec Chatino	80	BOIL	nkū-lákwi	Derived	eV' 2 jiʔį̄+1	1	boiled thing	jiʔį̄+NP	
+Zenzontepec Chatino	82	BE ILL	n-kā-kitza	Basic	V 1	1	sick person	Ø	S
+Zenzontepec Chatino	83	CRY	y-ūná	Basic	V 1	1	crier	Ø	S
+Zenzontepec Chatino	83	CRY	y-ūná	Derived	eV' 2 jiʔį̄+1	1	crier	jiʔį̄+NP	
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	maker	Ø	A
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	made thing	jiʔį̄+NP	P
+Zenzontepec Chatino	85	MAKE	nka-jnyā	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	making material	lóʔō+NP	I
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Basic	V 1 jiʔį̄+2	1	receiver	Ø	A
+Zenzontepec Chatino	86	GET	nk-y-ukwą̄	Basic	V 1 jiʔį̄+2	2	received thing	jiʔį̄+NP	P
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	receiver	Ø	A
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	received thing	jiʔį̄+NP	P
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	receiving source	lóʔō+NP	I
+Zenzontepec Chatino	86	GET	nku-jwī (2)	Derived	V' 2	2	received thing	Ø	
+Zenzontepec Chatino	87	WANT	nkw-ii	Basic	V 1 jiʔį̄+2	1	wanter	Ø	A
+Zenzontepec Chatino	87	WANT	nkw-ii	Basic	V 1 jiʔį̄+2	2	wanted thing	jiʔį̄+NP	P
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	1	closer	Ø	A
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	2	closed thing	jiʔį̄+NP	P
+Zenzontepec Chatino	88	CLOSE	nka-t-ākǫ́ʔ	Basic	V 1 jiʔį̄+2 (lóʔō+3)	3	closing instrument	lóʔō+NP	I
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Basic	V 1 jiʔį̄+2	1	shave (self) causer	Ø	A
+Zenzontepec Chatino	150	SHAVE (self)	nka-téēʔ	Basic	V 1 jiʔį̄+2	2	shaver (of self)	jiʔį̄+NP	P

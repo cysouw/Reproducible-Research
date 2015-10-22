@@ -1,0 +1,24 @@
+﻿Language_name	Gloss	Meaning
+Emai	ALL	allative
+Emai	APP	applicative
+Emai	ASS	associative
+Emai	C	continuous
+Emai	CL	change of location
+Emai	CONC	concessive
+Emai	COP	copula
+Emai	CS	change of state
+Emai	DS	distributive
+Emai	F	factative
+Emai	H	habitual
+Emai	LOC	locative
+Emai	MAN	manner
+Emai	NEG	negation
+Emai	PA	projected adherence
+Emai	PL	plural
+Emai	PRED	predictive aspect
+Emai	PROSNEG	prospective negation
+Emai	R	recurrent
+Emai	REC	reciprocal
+Emai	SC	subject concord
+Emai	SG	singular
+Emai	SUBJ	subjunctive

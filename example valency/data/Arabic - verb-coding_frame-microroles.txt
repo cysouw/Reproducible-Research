@@ -1,0 +1,203 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Modern Standard Arabic	1	EAT	ʾakala	Basic	V.subj[1] 1-nom 2-acc	1	eater	V.subj NP-nom	A
+Modern Standard Arabic	1	EAT	ʾakala	Basic	V.subj[1] 1-nom 2-acc	2	eaten food	NP-acc	P
+Modern Standard Arabic	2	HUG	ʿānaqa	Basic	V.subj[1] 1-nom 2-acc	1	hugger	V.subj NP-nom	A
+Modern Standard Arabic	2	HUG	ʿānaqa	Basic	V.subj[1] 1-nom 2-acc	2	huggee	NP-acc	P
+Modern Standard Arabic	3	LOOK AT	naẓara	Basic	V.subj[1] 1-nom ʾilâ+2	1	looker	V.subj NP-nom	S
+Modern Standard Arabic	3	LOOK AT	naẓara	Basic	V.subj[1] 1-nom ʾilâ+2	2	looked at entity	ʾilâ+NP	X
+Modern Standard Arabic	4	SEE	raʾâ	Basic	V.subj[1] 1-nom 2-acc	1	seeer	V.subj NP-nom	A
+Modern Standard Arabic	4	SEE	raʾâ	Basic	V.subj[1] 1-nom 2-acc	2	seen entity	NP-acc	P
+Modern Standard Arabic	5	SMELL	šamma	Basic	V.subj[1] 1-nom 2-acc	1	smeller	V.subj NP-nom	A
+Modern Standard Arabic	5	SMELL	šamma	Basic	V.subj[1] 1-nom 2-acc	2	smelled entity	NP-acc	P
+Modern Standard Arabic	6	FEAR	ḫāfa	Basic	V.subj[1] 1-nom 2-acc	1	fearer	V.subj NP-nom	A
+Modern Standard Arabic	6	FEAR	ḫāfa	Basic	V.subj[1] 1-nom 2-acc	2	fear stimulus	NP-acc	P
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Basic	V.subj[1] 1-nom 2-acc	1	frightener	V.subj NP-nom	A
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Basic	V.subj[1] 1-nom 2-acc	2	frightenee	NP-acc	P
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Basic	V.subj[1] 1-nom 2-acc	1	frightener	V.subj NP-nom	A
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Basic	V.subj[1] 1-nom 2-acc	2	frightenee	NP-acc	P
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Basic	V.subj[1] 1-nom 2-acc	1	liker	V.subj NP-nom	A
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Basic	V.subj[1] 1-nom 2-acc	2	liked entity	NP-acc	P
+Modern Standard Arabic	9	KNOW	ʿalima	Basic	V.subj[1] 1-nom 2-acc	1	knower	V.subj NP-nom	A
+Modern Standard Arabic	9	KNOW	ʿalima	Basic	V.subj[1] 1-nom 2-acc	2	known thing/person	NP-acc	P
+Modern Standard Arabic	9	KNOW	ʿarifa	Basic	V.subj[1] 1-nom 2-acc	1	knower	V.subj NP-nom	A
+Modern Standard Arabic	9	KNOW	ʿarifa	Basic	V.subj[1] 1-nom 2-acc	2	known thing/person	NP-acc	P
+Modern Standard Arabic	10	THINK	fakkara	Basic	V.subj[1] 1-nom fī+2	1	thinker	V.subj NP-nom	S
+Modern Standard Arabic	10	THINK	fakkara	Basic	V.subj[1] 1-nom fī+2	2	thought content	fī+NP	X
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Basic	V.subj[1] 1-nom ʿan+2	1	searcher	V.subj NP-nom	S
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Basic	V.subj[1] 1-nom ʿan+2	2	searched for thing	ʿan+NP	X
+Modern Standard Arabic	12	WASH	ġasala	Basic	V.subj[1] 1-nom 2-acc	1	washer	V.subj NP-nom	A
+Modern Standard Arabic	12	WASH	ġasala	Basic	V.subj[1] 1-nom 2-acc	2	washed entity	NP-acc	P
+Modern Standard Arabic	13	DRESS	ʾalbasa	Basic	V.subj[1] 1-nom 2-acc	1	dresser	V.subj NP-nom	A
+Modern Standard Arabic	13	DRESS	ʾalbasa	Basic	V.subj[1] 1-nom 2-acc	2	dressee	NP-acc	P
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Basic	V.subj[1] 1-nom 2-acc	1	shaver (of body part)	V.subj NP-nom	A
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Basic	V.subj[1] 1-nom 2-acc	2	shaved body part	NP-acc	P
+Modern Standard Arabic	15	HELP	sāʿada	Basic	V.subj[1] 1-nom 2-acc	1	helper	V.subj NP-nom	A
+Modern Standard Arabic	15	HELP	sāʿada	Basic	V.subj[1] 1-nom 2-acc	2	helpee	NP-acc	P
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Basic	V.subj[1] 1-nom 2-acc	1	follower	V.subj NP-nom	A
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Basic	V.subj[1] 1-nom 2-acc	2	followee	NP-acc	P
+Modern Standard Arabic	17	MEET	laqiya	Basic	V.subj[1] 1-nom 2-acc	1	meeter	V.subj NP-nom	A
+Modern Standard Arabic	17	MEET	laqiya	Basic	V.subj[1] 1-nom 2-acc	2	met person	NP-acc	P
+Modern Standard Arabic	18	TALK	takallama	Basic	V.subj[1] 1-nom maʿa+2 ʿan+3	1	talker	V.subj NP-nom	S
+Modern Standard Arabic	18	TALK	takallama	Basic	V.subj[1] 1-nom maʿa+2 ʿan+3	2	talked to person	maʿa+NP	X
+Modern Standard Arabic	18	TALK	takallama	Basic	V.subj[1] 1-nom maʿa+2 ʿan+3	3	talked about content	ʿan+NP	X
+Modern Standard Arabic	19	ASK FOR	saʾala	Basic	V.subj[1] 1-nom (2-acc) 3-acc	1	asker	V.subj NP-nom	A
+Modern Standard Arabic	19	ASK FOR	saʾala	Basic	V.subj[1] 1-nom (2-acc) 3-acc	2	askee	NP-acc	P
+Modern Standard Arabic	19	ASK FOR	saʾala	Basic	V.subj[1] 1-nom (2-acc) 3-acc	3	requested thing	NP-acc	P
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Basic	V.subj[1] 1-nom (ʿalâ+2)	1	shouter	V.subj NP-nom	S
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Basic	V.subj[1] 1-nom (ʿalâ+2)	2	shoutee	ʿalâ+NP	X
+Modern Standard Arabic	21	TELL	ḥakâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	1	teller	V.subj NP-nom	A
+Modern Standard Arabic	21	TELL	ḥakâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	2	tellee	li+NP	X
+Modern Standard Arabic	21	TELL	ḥakâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	3	told content	NP-acc	P
+Modern Standard Arabic	22	SAY	qāla	Basic	V.subj[1] 1-nom li+2 UTT3	1	sayer	V.subj NP-nom	S
+Modern Standard Arabic	22	SAY	qāla	Basic	V.subj[1] 1-nom li+2 UTT3	2	saying addressee	li+NP	X
+Modern Standard Arabic	22	SAY	qāla	Basic	V.subj[1] 1-nom li+2 UTT3	3	said content	UTT	X
+Modern Standard Arabic	23	NAME	sammâ	Basic	V.subj[1] 1-nom 2-acc 3-acc	1	namer	V.subj NP-nom	A
+Modern Standard Arabic	23	NAME	sammâ	Basic	V.subj[1] 1-nom 2-acc 3-acc	2	namee	NP-acc	P
+Modern Standard Arabic	23	NAME	sammâ	Basic	V.subj[1] 1-nom 2-acc 3-acc	3	name	NP-acc	P
+Modern Standard Arabic	24	BUILD	banâ	Basic	V.subj[1] 1-nom 2-acc (min+3)	1	builder	V.subj NP-nom	A
+Modern Standard Arabic	24	BUILD	banâ	Basic	V.subj[1] 1-nom 2-acc (min+3)	2	built thing	NP-acc	P
+Modern Standard Arabic	24	BUILD	banâ	Basic	V.subj[1] 1-nom 2-acc (min+3)	3	building material	min+NP	X
+Modern Standard Arabic	25	BREAK	kasara	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	breaker	V.subj NP-nom	A
+Modern Standard Arabic	25	BREAK	kasara	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	broken thing	NP-acc	P
+Modern Standard Arabic	25	BREAK	kasara	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	breaking instrument	bi+NP	I
+Modern Standard Arabic	26	KILL	qatala	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	killer	V.subj NP-nom	A
+Modern Standard Arabic	26	KILL	qatala	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	killee	NP-acc	P
+Modern Standard Arabic	26	KILL	qatala	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	killing instrument	bi+NP	I
+Modern Standard Arabic	27	BEAT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	beater	V.subj NP-nom	A
+Modern Standard Arabic	27	BEAT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	beatee	NP-acc	P
+Modern Standard Arabic	27	BEAT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	beating instrument	bi+NP	I
+Modern Standard Arabic	28	HIT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	hitter	V.subj NP-nom	A
+Modern Standard Arabic	28	HIT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	hittee	NP-acc	P
+Modern Standard Arabic	28	HIT	ḍaraba	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	hitting instrument	bi+NP	I
+Modern Standard Arabic	28	HIT	laṭama	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	hitter	V.subj NP-nom	A
+Modern Standard Arabic	28	HIT	laṭama	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	hittee	NP-acc	P
+Modern Standard Arabic	28	HIT	laṭama	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	hitting instrument	bi+NP	I
+Modern Standard Arabic	29	TOUCH	lamasa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	toucher	V.subj NP-nom	A
+Modern Standard Arabic	29	TOUCH	lamasa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	touchee	NP-acc	P
+Modern Standard Arabic	29	TOUCH	lamasa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	touching instrument	bi+NP	I
+Modern Standard Arabic	30	CUT	qaṭaʿa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	cutter	V.subj NP-nom	A
+Modern Standard Arabic	30	CUT	qaṭaʿa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	cut thing	NP-acc	P
+Modern Standard Arabic	30	CUT	qaṭaʿa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	cutting instrument	bi+NP	I
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Basic	V.subj[1] 1-nom 2-acc (min+3)	1	taker	V.subj NP-nom	A
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Basic	V.subj[1] 1-nom 2-acc (min+3)	2	taken thing	NP-acc	P
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Basic	V.subj[1] 1-nom 2-acc (min+3)	3	taking source	min+NP	X
+Modern Standard Arabic	32	TEAR	nazaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	1	tearer	V.subj NP-nom	A
+Modern Standard Arabic	32	TEAR	nazaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	2	torn thing	NP-acc	P
+Modern Standard Arabic	32	TEAR	nazaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	3	tearing source	min+NP	X
+Modern Standard Arabic	33	PEEL	qaššara	Basic	V.subj[1] 1-nom 2-acc	1	peeler	V.subj NP-nom	A
+Modern Standard Arabic	33	PEEL	qaššara	Basic	V.subj[1] 1-nom 2-acc	2	peeled object	NP-acc	P
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	1	hider	V.subj NP-nom	A
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	2	hidden thing	NP-acc	P
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	3	hiding affectee	ʿalâ+NP	X
+Modern Standard Arabic	35	SHOW	ʾarâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	1	shower	V.subj NP-nom	A
+Modern Standard Arabic	35	SHOW	ʾarâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	2	showing addressee	li+NP	X
+Modern Standard Arabic	35	SHOW	ʾarâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	3	shown thing	NP-acc	P
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	1	giver	V.subj NP-nom	A
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	2	giving recipient	li+NP	X
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Basic	V.subj[1] 1-nom (li+2) 3-acc	3	gift	NP-acc	P
+Modern Standard Arabic	37	SEND	ʾarsala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	1	sender	V.subj NP-nom	A
+Modern Standard Arabic	37	SEND	ʾarsala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	2	sent thing	NP-acc	P
+Modern Standard Arabic	37	SEND	ʾarsala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	3	sending recipient	ʾilâ+NP	X
+Modern Standard Arabic	38	CARRY	ḥamala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	1	carrier	V.subj NP-nom	A
+Modern Standard Arabic	38	CARRY	ḥamala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	2	carried thing	NP-acc	P
+Modern Standard Arabic	38	CARRY	ḥamala	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	3	carrying goal	ʾilâ+NP	X
+Modern Standard Arabic	39	THROW	ramâ	Basic	V.subj[1] 1-nom 2-acc LOC3	1	thrower	V.subj NP-nom	A
+Modern Standard Arabic	39	THROW	ramâ	Basic	V.subj[1] 1-nom 2-acc LOC3	2	thrown thing	NP-acc	P
+Modern Standard Arabic	39	THROW	ramâ	Basic	V.subj[1] 1-nom 2-acc LOC3	3	throwing goal	LOC	L
+Modern Standard Arabic	40	TIE	rabaṭa	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3) (bi+4)	1	tier	V.subj NP-nom	A
+Modern Standard Arabic	40	TIE	rabaṭa	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3) (bi+4)	2	tied thing	NP-acc	P
+Modern Standard Arabic	40	TIE	rabaṭa	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3) (bi+4)	3	tying goal	ʾilâ+NP	X
+Modern Standard Arabic	40	TIE	rabaṭa	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3) (bi+4)	4	tying instrument	bi+NP	I
+Modern Standard Arabic	41	PUT	waḍaʿa	Basic	V.subj[1] 1-nom 2-acc LOC3	1	putter	V.subj NP-nom	A
+Modern Standard Arabic	41	PUT	waḍaʿa	Basic	V.subj[1] 1-nom 2-acc LOC3	2	put thing	NP-acc	P
+Modern Standard Arabic	41	PUT	waḍaʿa	Basic	V.subj[1] 1-nom 2-acc LOC3	3	putting goal	LOC	L
+Modern Standard Arabic	42	POUR	ṣabba	Basic	V.subj[1] 1-nom 2-acc LOC3	1	pourer	V.subj NP-nom	A
+Modern Standard Arabic	42	POUR	ṣabba	Basic	V.subj[1] 1-nom 2-acc LOC3	2	poured substance	NP-acc	P
+Modern Standard Arabic	42	POUR	ṣabba	Basic	V.subj[1] 1-nom 2-acc LOC3	3	pouring goal	LOC	L
+Modern Standard Arabic	43	COVER	ġaṭṭā	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	coverer	V.subj NP-nom	A
+Modern Standard Arabic	43	COVER	ġaṭṭā	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	covered thing	NP-acc	P
+Modern Standard Arabic	43	COVER	ġaṭṭā	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	cover	bi+NP	I
+Modern Standard Arabic	44	FILL	malaʾa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	filler	V.subj NP-nom	A
+Modern Standard Arabic	44	FILL	malaʾa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	filled container	NP-acc	P
+Modern Standard Arabic	44	FILL	malaʾa	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	filling material	bi+NP	I
+Modern Standard Arabic	45	LOAD	ḥammala	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	1	loader	V.subj NP-nom	A
+Modern Standard Arabic	45	LOAD	ḥammala	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	2	loaded thing	NP-acc	P
+Modern Standard Arabic	45	LOAD	ḥammala	Basic	V.subj[1] 1-nom 2-acc ʿalâ+3	3	loading place	ʿalâ+NP	X
+Modern Standard Arabic	45	LOAD	šaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	loader	V.subj NP-nom	A
+Modern Standard Arabic	45	LOAD	šaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	loading place	NP-acc	P
+Modern Standard Arabic	45	LOAD	šaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	loaded thing	bi+NP	I
+Modern Standard Arabic	46	BLINK	ramaša	Basic	V.subj[1] 1-nom	1	blinker	V.subj NP-nom	S
+Modern Standard Arabic	47	COUGH	saʿala	Basic	V.subj[1] 1-nom	1	cougher	V.subj NP-nom	S
+Modern Standard Arabic	48	CLIMB	tasallaqa	Basic	V.subj[1] 1-nom 2-acc	1	climber	V.subj NP-nom	A
+Modern Standard Arabic	48	CLIMB	tasallaqa	Basic	V.subj[1] 1-nom 2-acc	2	climbing goal	NP-acc	P
+Modern Standard Arabic	49	RUN	ǧarâ	Basic	V.subj[1] 1-nom	1	runner	V.subj NP-nom	S
+Modern Standard Arabic	50	SIT	ǧalasa	Basic	V.subj[1] 1-nom (LOC2)	1	sitter	V.subj NP-nom	S
+Modern Standard Arabic	50	SIT	ǧalasa	Basic	V.subj[1] 1-nom (LOC2)	2	sitting place	LOC	L
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Basic	V.subj[1] 1-nom (LOC2)	1	sitdowner	V.subj NP-nom	S
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Basic	V.subj[1] 1-nom (LOC2)	2	sitting-down place	LOC	L
+Modern Standard Arabic	52	JUMP	qafaza	Basic	V.subj[1] 1-nom	1	jumper	V.subj NP-nom	S
+Modern Standard Arabic	53	SING	ġannâ	Basic	V.subj[1] 1-nom	1	singer	V.subj NP-nom	S
+Modern Standard Arabic	54	GO	d̠ahaba	Basic	V.subj[1] 1-nom ʾilâ+2	1	goer	V.subj NP-nom	S
+Modern Standard Arabic	54	GO	d̠ahaba	Basic	V.subj[1] 1-nom ʾilâ+2	2	going goal	ʾilâ+NP	X
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Basic	V.subj[1] 1-nom 2-acc	1	leaver	V.subj NP-nom	A
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Basic	V.subj[1] 1-nom 2-acc	2	left place/person	NP-acc	P
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Basic	V.subj[1] 1-nom ʾilâ+2	1	leaver	V.subj NP-nom	S
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Basic	V.subj[1] 1-nom ʾilâ+2	2	leaving goal	ʾilâ+NP	X
+Modern Standard Arabic	56	LIVE	ʿāša	Basic	V.subj[1] 1-nom fī+2	1	liver	V.subj NP-nom	S
+Modern Standard Arabic	56	LIVE	ʿāša	Basic	V.subj[1] 1-nom fī+2	2	living place	fī+NP	X
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Basic	V.subj[1] 1-nom	1	laugher	V.subj NP-nom	S
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Basic	V.subj[1] 1-nom	1	screamer	V.subj NP-nom	S
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Basic	V.subj[1] 1-nom (ʿalâ+2)	1	screamer	V.subj NP-nom	S
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Basic	V.subj[1] 1-nom (ʿalâ+2)	2	screamed at person	ʿalâ+NP	X
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Basic	V.subj[1] 1-nom min+2	1	pain-feeler	V.subj NP-nom	S
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Basic	V.subj[1] 1-nom min+2	2	pain locus	min+NP	X
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Basic	V.subj[1] 1-nom	1	freezing person	V.subj NP-nom	S
+Modern Standard Arabic	61	DIE	māta	Basic	V.subj[1] 1-nom	1	dieer	V.subj NP-nom	S
+Modern Standard Arabic	62	PLAY	laʿaba	Basic	V.subj[1] 1-nom	1	player	V.subj NP-nom	S
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Basic	V 1-nom	1	sad person	NP-nom	X
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Basic	V 1-nom	1	hungry person	NP-nom	X
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Basic	V.subj[1] 1-nom	1	rolling entity	V.subj NP-nom	S
+Modern Standard Arabic	66	SINK	ġariqa	Basic	V.subj[1] 1-nom	1	sunken entity	V.subj NP-nom	S
+Modern Standard Arabic	67	BURN	iḥtaraqa	Basic	V.subj[1] 1-nom	1	burnt thing	V.subj NP-nom	S
+Modern Standard Arabic	68	BE DRY	ǧāffun	Basic	V 1-nom	1	dry thing	NP-nom	X
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Basic	V.subj[1] 1-nom	1	rain source	V.subj NP-nom	S
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Basic	V 1-nom	1	specialist/hunter	NP-nom	X
+Modern Standard Arabic	71	GRIND	ṭaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	1	grinder	V.subj NP-nom	A
+Modern Standard Arabic	71	GRIND	ṭaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	2	ground thing	NP-acc	P
+Modern Standard Arabic	71	GRIND	ṭaḥana	Basic	V.subj[1] 1-nom 2-acc (bi+3)	3	grinding instrument	bi+NP	I
+Modern Standard Arabic	72	WIPE	masaḥa	Basic	V.subj[1] 1-nom 2-acc (ʿan+3)	1	wiper	V.subj NP-nom	A
+Modern Standard Arabic	72	WIPE	masaḥa	Basic	V.subj[1] 1-nom 2-acc (ʿan+3)	2	wiped material	NP-acc	P
+Modern Standard Arabic	72	WIPE	masaḥa	Basic	V.subj[1] 1-nom 2-acc (ʿan+3)	3	wiping surface	ʿan+NP	X
+Modern Standard Arabic	73	DIG	ḥafara	Basic	V.subj[1] 1-nom	1	digger	V.subj NP-nom	S
+Modern Standard Arabic	73	DIG	nabaša	Basic	V.subj[1] 1-nom	1	digger	V.subj NP-nom	S
+Modern Standard Arabic	74	PUSH	daḥara	Basic	V.subj[1] 1-nom 2-acc LOC3	1	pusher	V.subj NP-nom	A
+Modern Standard Arabic	74	PUSH	daḥara	Basic	V.subj[1] 1-nom 2-acc LOC3	2	pushee	NP-acc	P
+Modern Standard Arabic	74	PUSH	daḥara	Basic	V.subj[1] 1-nom 2-acc LOC3	3	pushing goal	LOC	L
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	1	bringer	V.subj NP-nom	A
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	2	brought thing	NP-acc	P
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Basic	V.subj[1] 1-nom 2-acc (ʾilâ+3)	3	bringing recipient	ʾilâ+NP	X
+Modern Standard Arabic	76	STEAL	saraqa	Basic	V.subj[1] 1-nom 2-acc (min+3)	1	stealer	V.subj NP-nom	A
+Modern Standard Arabic	76	STEAL	saraqa	Basic	V.subj[1] 1-nom 2-acc (min+3)	2	stolen thing	NP-acc	P
+Modern Standard Arabic	76	STEAL	saraqa	Basic	V.subj[1] 1-nom 2-acc (min+3)	3	stealing source	min+NP	X
+Modern Standard Arabic	77	TEACH	ʿallama	Basic	V.subj[1] 1-nom 2-acc 3-acc	1	teacher	V.subj NP-nom	A
+Modern Standard Arabic	77	TEACH	ʿallama	Basic	V.subj[1] 1-nom 2-acc 3-acc	2	teachee	NP-acc	P
+Modern Standard Arabic	77	TEACH	ʿallama	Basic	V.subj[1] 1-nom 2-acc 3-acc	3	taught content	NP-acc	P
+Modern Standard Arabic	78	HEAR	samiʿa	Basic	V.subj[1] 1-nom 2-acc	1	hearer	V.subj NP-nom	A
+Modern Standard Arabic	78	HEAR	samiʿa	Basic	V.subj[1] 1-nom 2-acc	2	heard sound	NP-acc	P
+Modern Standard Arabic	79	COOK	ṭabaḫa	Basic	V.subj[1] 1-nom 2-acc	1	cooker	V.subj NP-nom	A
+Modern Standard Arabic	79	COOK	ṭabaḫa	Basic	V.subj[1] 1-nom 2-acc	2	cooked food	NP-acc	P
+Modern Standard Arabic	80	BOIL	ġalâ	Basic	V.subj[1] 1-nom	1	boiled thing	V.subj NP-nom	S
+Modern Standard Arabic	81	APPEAR	ẓahara	Basic	V.subj[1] 1-nom	1	appearer	V.subj NP-nom	S
+Modern Standard Arabic	82	BE ILL	marīḍun	Basic	V 1-nom	1	sick person	NP-nom	X
+Modern Standard Arabic	83	CRY	bakâ	Basic	V.subj[1] 1-nom	1	crier	V.subj NP-nom	S
+Modern Standard Arabic	84	FALL	saqaṭa	Basic	V.subj[1] 1-nom	1	fallee	V.subj NP-nom	S
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	1	maker	V.subj NP-nom	A
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	2	made thing	NP-acc	P
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Basic	V.subj[1] 1-nom 2-acc (min+3)	3	making material	min+NP	X
+Modern Standard Arabic	86	GET	ḥaṣala	Basic	V.subj[1] 1-nom ʿalâ+2 min+3	1	receiver	V.subj NP-nom	S
+Modern Standard Arabic	86	GET	ḥaṣala	Basic	V.subj[1] 1-nom ʿalâ+2 min+3	2	received thing	ʿalâ+NP	X
+Modern Standard Arabic	86	GET	ḥaṣala	Basic	V.subj[1] 1-nom ʿalâ+2 min+3	3	receiving source	min+NP	X
+Modern Standard Arabic	87	WANT	ʾarāda	Basic	V.subj[1] 1-nom 2-acc	1	wanter	V.subj NP-nom	A
+Modern Standard Arabic	87	WANT	ʾarāda	Basic	V.subj[1] 1-nom 2-acc	2	wanted thing	NP-acc	P
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Basic	V.subj[1] 1-nom ʾilâ+2	1	coming person/thing	V.subj NP-nom	S
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Basic	V.subj[1] 1-nom ʾilâ+2	2	come goal	ʾilâ+NP	X

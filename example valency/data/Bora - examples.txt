@@ -1,0 +1,129 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Bora	1	Elicited from speaker	Wajpi tsɨ́ɨ́méneke wátajcó cobííjavu.		wajpi tsɨ́ɨ́méne-ke wátajcó cobííjya-vu	man child-ACC cover blanket-ALL	The man covered the child with the blanket.
+Bora	2	Elicited from speaker	Wajpi wáhpetsó vááso nújpácyotu.		wajpi wáhpe-tsó vááso nújpácyo-tu	man full-CAUS glass water-ABL	The man filled the glass with water.
+Bora	3	Elicited from speaker	Wajpi picyóó ájɨ mɨ́ɨ́népañévu.		wajpi picyóó ájɨ mɨ́ɨ́né pañé-vu	man put palm_leaves canoe inside-ALL	The man loaded the hay on the canoe (lit. The man put palm leaves into the canoe).
+Bora	4	Elicited from speaker	Wajpi chiácó ɨ́ɨ́juke úméhetu.		wajpi chiácó ɨ́ɨ́ju-ke úméhe-tu	man tie horse-ACC tree-ABL	The man tied the horse to the tree.
+Bora	5	Elicited from speaker	Wajpi cáhpiñú nújpacyo váásó pañévu.		wajpi cáhpiñú nújpacyo váásó pañé-vu	man pour water glass inside-ALL	The man poured the water into the glass .
+Bora	6	Elicited from speaker	Wajpi picyó wajácuháámɨ méétsá hallúvu.		wajpi picyó wajácuháámɨ méétsá hallú-vu	man put book table top-ALL	The man put the book on the table.
+Bora	7	Elicited from speaker	Ováhtsa waaó nééwau nújpácyó pañévu.		ováhtsa waaó nééwau nújpácyó pañé-vu	boy throw stone(ACC) water inside-ALL	The boy threw the stone into the window.
+Bora	8	Elicited from speaker	Ováhtsa tsiivá wajácuháámɨ uwáábóóbedívu.		ováhtsa tsiivá wajácuháámɨ uwáábóóbe-dí-vu	boy bring book teacher-ANIM-ALL	The boy brought the book to the teacher.
+Bora	9	Elicited from speaker	Ováhtsa tsajtyé wajácuháámɨ uwáábóóbedívu.		ováhtsa tsajtyé wajácuháámɨ uwáábóóbe-dí-vu	boy carry book teacher-ANIM-ALL	The boy carried the book to the teacher.
+Bora	10	Elicited from speaker	Ováhtsa tsajtyé wajácuháámɨ uwáábójavu.		ováhtsa tsajtyé wajácuháámɨ uwáábója-vu	boy carry book school-ALL	The boy carried the book to school.
+Bora	11	Elicited from speaker	Ováhtsa walló wajácuháámɨ uwáábóóbedívu.		ováhtsa walló wajácuháámɨ uwáábóóbe-dí-vu	boy send book teacher-ANIM-ALL	The boy sent the book to the teacher .
+Bora	12	Elicited from speaker	Ováhtsa walló wajácuháámɨ uwáábójavu.		ováhtsa walló wajácuháámɨ uwáábó-ja-vu	boy send book teach-house-ALL	The boy sent the book to school.
+Bora	13	Elicited from speaker	Ováhtsa ajcú waajácuháámɨvu uwáábóóbeke.		ováhtsa ajcú waajácuháámɨ-vu uwáábóóbe-ke	boy give book-ALL teacher-ACC	The boy gave the book to the teacher.
+Bora	14	Elicited from speaker	Ováhtsa ɨ́ɨ́tetsó waajácuháámɨ uwáábóóbeke.		ováhtsa ɨ́ɨ́te-tsó waajácuháámɨ uwáábóóbe-ke	boy see-CAUS book teacher-ACC	The boy showed the book to the teacher.
+Bora	15	Elicited from speaker	Ováhtsa ujcú waajácuháámɨ uwáábóóbedítyu .		ováhtsa ujcú waajácuháámɨ uwáábóóbe-dí-tyu	boy take book teacher-ANIM-ABL	The boy took the book from the teacher.
+Bora	16	Elicited from speaker	Ováhtsa naní waajácuháámɨ uwáábóóbedítyu .		ováhtsa naní waajácuháámɨ uwáábóóbe-dí-tyu	boy steal book teacher-ANIM-ABL	The boy stole the book from the teacher.
+Bora	17	Elicited from speaker	Ováhtsa páátanú waajácuháámɨ uwáábóóbedítyu.		ováhtsa páátanú waajácuháámɨ uwáábóóbe-dí-tyu	boy hide book teacher-ANIM-ABL	The boy hid the book from the teacher.
+Bora	18	Elicited from speaker	Ováhtsa kídyahɨ́nú páá nɨɨtsúwáwuri.		ováhtsa kídyahɨ́nú páá nɨɨtsúwáwu-ri	boy cut bread knife-LOC/INST	The boy cut the bread with the knife.
+Bora	19	Elicited from speaker	Ováhtsa dómajcó ííñímeke úméhékori.		ováhtsa dómajcó ííñíme-ke úméhéco-ri	boy touch snake-ACC stick-LOC/INST	The boy touched the snake with the stick.
+Bora	20	Elicited from speaker	Ováhtsa wádɨ́rɨhjácó ííñímeke (ballóówari).		ováhtsa wádɨ́rɨhjácó ííñíme-ke ballóówa-ri	boy beat.w/stick snake-ACC stick-LOC/INST	The boy hit the snake with the stick .
+Bora	21	Elicited from speaker	Ováhtsa wádɨ́rɨhcó ííñímeke (ballóówari).		ováhtsa wádɨ́rɨhcó ííñíme-ke ballóówa-ri	boy beat.w/stick snake-ACC stick-LOC/INST	The boy beat the snake with the stick.
+Bora	22	Elicited from speaker	Ováhtsa dsɨ́jɨ́vetsó ííñímeke ballóówari.		ováhtsa dsɨ́jɨ́ve-tsó ííñíme-ke ballóówa-ri	boy die-CAUS snake-ACC stick-LOC/INST	The boy killed the snake with the stick.
+Bora	23	Elicited from speaker	Ováhtsa cápújuhjácó veentáána nééwábyari.		ováhtsa cápújuhjácó veentáána nééwábya-ri	boy break.w/pointed_object window stone-LOC/INST	The boy broke the window with the stone.
+Bora	24	Elicited from speaker	Wajpi meenú ja ájɨri.		wajpi meenú ja ájɨ-ri	man make house palm-LOC/INST	The man built the house with palm leaves.
+Bora	25	Elicited from speaker	Wajpi dilló ováhtsake cuhjúbadi.		wajpi dilló ováhtsa-ke cuhjúba-di	man name boy-ACC fool-ANIM	The man called the boy a fool.
+Bora	26	Elicited from speaker	Wajpi néé ováhtsake ''tsáhaá''.		wajpi néé ováhtsa-ke tsáhaá	man say boy-ACC no	The man said to the boy: "no"."
+Bora	27	Elicited from speaker	Wajpi (uubállé) uubálle ováhtsake .		wajpi uubállé uubálle ováhtsa-ke	man story tell boy-ACC	The man told a story to the boy.
+Bora	28	Elicited from speaker	Ováhtsa táuméí dsɨ́ɨ́dsɨ wajpikye.		ováhtsa táuméí dsɨ́ɨ́dsɨ wajpi-kye	boy ask money(ACC) man-ACC	The boy asked the man for money.
+Bora	29	Elicited from speaker	Wajpi ihjyúvá ováhtsama wákyiméiyi.		wajpi ihjyúvá ováhtsa-ma wákyiméi-yi	man talk boy-SOC work-LOC/INST	The man talked to the boy about work.
+Bora	30	Elicited from speaker	Wajpi wáájacú ováhtsake.		wajpi wáájacú ováhtsa-ke	man know boy-ACC	The man knew the boy.
+Bora	31	Elicited from speaker	Wajpi ɨ́tsaavé ováhtsake.		wajpi ɨ́tsaavé ováhtsa-ke	man remember boy-ACC	The man remembered the boy.
+Bora	32	Elicited from speaker	Wajpi ováhtsake ájtyumɨ́.		wajpi ováhtsa-ke ájtyumɨ́	man boy-ACC see	The man saw the boy.
+Bora	33	Elicited from speaker	Wajpi ɨɨté ováhtsake.		wajpi ɨɨté ováhtsa-ke	man look boy-ACC	The man looked at the boy.
+Bora	34	Elicited from speaker	Wajpi íllívyeebó ováhtsake.		wajpi íllívyeebó ováhtsa-ke	man frighten boy-ACC	The man frightened the boy.
+Bora	35	Elicited from speaker	Ováhtsa illí wájpike.		ováhtsa illí wájpi-ke	boy fear man-ACC	The boy feared the man.
+Bora	36	Elicited from speaker	Ováhtsa ímillé wájpikye.		ováhtsa ímillé wájpi-kye	boy like man-ACC	The boy liked the man.
+Bora	37	Elicited from speaker	Wajpi nehcó ováhtsake.		wajpi nehcó ováhtsa-ke	man search boy-ACC	The man searched for the boy.
+Bora	38	Elicited from speaker	Wajpi llííñájá.		wajpi llííñájá	man hunt	The man hunted.
+Bora	39	Elicited from speaker	Wajpi táábavá wálleke.		wajpi táába-vá wálle-ke	man wife-VBLZ.have woman-ACC	The man married the girl.
+Bora	40	Elicited from speaker	Wajpi ajtyúmɨ́ bádsɨ́jcájake.		wajpi ajtyúmɨ́ bádsɨ́jcája-ke	man meet girl-ACC	The man met (lit. saw) the girl.
+Bora	41	Elicited from speaker	Wajpi úraavyé bádsɨ́jcájake.		wajpi úraavyé bádsɨ́jcája-ke	man follow girl-ACC	The man followed the girl.
+Bora	42	Elicited from speaker	Wajpi pɨ́aabó bádsɨ́jcájake.		wajpi pɨ́aabó bádsɨ́jcája-ke	man help girl-ACC	The man helped the girl.
+Bora	43	Elicited from speaker	Wajpi majchó páá.		wajpi majchó páá	man eat bread(ACC)	The man ate the bread.
+Bora	44	Elicited from speaker	Wajpi uácó tsɨ́ɨ́méneke.		wajpi uácó tsɨ́ɨ́méne-ke	man dress child-ACC	The man dressed the child.
+Bora	45	Elicited from speaker	Wajpi nijtyú tsɨ́ɨ́méneke.		wajpi nijtyú tsɨ́ɨ́méne-ke	man wash child-ACC	The man washed the child.
+Bora	46	Elicited from speaker	Wajpi nijtyámeí.		wajpi nijtyá-meí	man wash-REFL	The man washed himself.
+Bora	47	Elicited from speaker	Wajpi éjéhtsó.		wajpi éjéhtsó	man cough	The man coughed.
+Bora	48	Elicited from speaker	Wajpi nériivyé téhbau.		wajpi nériivyé téhbau	man climb hill	The man climbed (up) the hill.
+Bora	49	Elicited from speaker	Wajpi ácuuvé (baavu).		wajpi ácuuvé baa-vu	man sit below-ALL	The man sat down (on the floor).
+Bora	50	Elicited from speaker	Wajpi ácuúcunú (baari).		wajpi ácuúcunú baa-ri	man sit below-LOC/INST	The man sat (on the floor).
+Bora	51	Elicited from speaker	Tsɨɨméne dsɨɨné (baari).		tsɨɨméne dsɨɨné baa-ri	child run below-LOC/INST	The child ran (on the floor).
+Bora	52	Elicited from speaker	Tsɨɨméne cátsíñiivyé (baari).		tsɨɨméne cátsíñiivyé baa-ri	child jump below-LOC/INST	The child jumped (on the floor).
+Bora	53	Elicited from speaker	Ováhtsa tsáá cóomivu.		ováhtsa tsáá cóómi-vu	boy come village-ALL	The boy came (to the village).
+Bora	54	Elicited from speaker	Ováhtsa tsáá cóomitu.		ováhtsa tsáá cóomi-tu	boy come village-ABL	The boy went (from the village).
+Bora	55	Elicited from speaker	Ováhtsa ícyahíjcá cóomiri.		ováhtsa ícya-híjcyá cóomi-ri	boy be-REP village-LOC/INST	The boy lived (in the village).
+Bora	56	Elicited from speaker	Ováhtsa májtsivá.		ováhtsa májtsi-vá	boy song-VBLZ.have	The boy sang (a song).
+Bora	57	Elicited from speaker	Ováhtsa bóhówaavé júúvari.		ováhtsa bóhówaavé júúva-ri	boy appear road-LOC/INST	The boy appeared on the path.
+Bora	58	Elicited from speaker	Táñéjuwa oké avyé.		táñéjuwa o-ké avyé	1SG.POSS_arm 1SG-ACC hurt	My arm hurts (me).
+Bora	59	Elicited from speaker	Wajpi dsɨ́jívé.		wajpi dsɨ́jívé	man die	The man died.
+Bora	60	Elicited from speaker	Wajpi áákityé (baavu).		wajpi áákityé baa-vu	man fall below-ALL	The man fell (on the ground).
+Bora	61	Elicited from speaker	Ováhtsa tsuucó.		ováhtsa tsuucó	boy cold	The boy froze (lit. The boy was cold).
+Bora	62	Elicited from speaker	Ováhtsa ajyábáávaté.		ováhtsa ajyábáávaté	boy be_hungry	The boy was hungry.
+Bora	63	Elicited from speaker	Alléne.		allé-ne	rain-3INAN	It rained.
+Bora	64	Elicited from speaker	Walle wájpikyé wátájcotsó tsɨ́ɨ́méneke cobííjyavu.		walle wájpii-kyé wátájco-tsó tsɨ́ɨ́méne-ke cobííjya-vu	woman man-ACC cover-CAUS child-ACC blanket-ALL	The woman made the man cover the child with a blanket.
+Bora	65	Elicited from speaker	Wajpi wátájcameí cobííjyari.		wajpi wátájca-meí cobííjya-ri	man cover-REFL blanket-LOC/INST	The man covered himself with a blanket.
+Bora	66	Elicited from speaker	Wajpi wátájcameí cobííjyavu.		wajpi wátájca-meí cobííjya-vu	man cover-REFL blanket-ALL	The man covered himself with a blanket.
+Bora	67	Elicited from speaker	Wajpíímu wátácójcatsí cobííjyari.		wajpíí-mu wátácó-jcatsí cobííjya-ri	man-PL cover-RECP blanket-LOC/INST	The men covered each other with a blanket.
+Bora	68	Elicited from speaker	Wajpi wátacó tsɨ́ɨ́méneke cobííjyari.		wajpi wátacó tsɨ́ɨ́méne-ke cobííjya-ri	man cover child-ACC blanket-LOC/INST	The man covered the child with a blanket.
+Bora	69	Elicited from speaker	Tsɨ́ɨ́mene wátahácunú cobííjya-ri.		tsɨ́ɨ́mene wáta-hácunú cobííjya-ri	child cover-MULT.INTR blanket-LOC/INST	The child was covered with a blanket.
+Bora	70	Elicited from speaker	Tsɨ́ɨ́mene wátáhaavé cobííjyavu.		tsɨ́ɨ́mene wátá-haavé cobííjya-vu	child cover-SNG.INTR blanket-ALL	The child has covered himself with a blanket.
+Bora	71	Elicited from speaker	Vááso wahpécunú nújpácyotu.		vááso wahpé-cunú nújpácyo-tu	glass fill-MULT.INTR water-ABL	The glass is full of water.
+Bora	72	Constructed by linguist	O dóóhi.		o dóó-hi níívúwa-ke	1SG eat_meat-PRED deer-ACC	I eat deer.
+Bora	73	Constructed by linguist	Walle wajpike majchótso páávu.		walle wajpi-ke majchó-tso páá-vu	woman man-ACC eat-CAUS bread-ALL	The woman made the man eat bread.
+Bora	74		Tsɨ́ɨ́júmuke tsɨɨme ámábiñúhi.		tsɨ́ɨ́jú-mu-ke tsɨɨme ámábiñú-hi	mother-PL-ACC children hug-PRED	The children are hugging the mothers.
+Bora	75		Oohííbyé árahcó hééco.		oohííbyé árahcó hééco	dog smell meat(ACC)	The dog smells the meat.
+Bora	76		Táñahbévajtéké ó ɨtsáávehíjcyáhi.		táñahbévajté-ké ó ɨtsááve-híjcyá-hi	brothers-ACC 1SG think-REP-PRED	I think about my brothers.
+Bora	77		Ó babáñú áátsɨ́ɨ́meke wájyamúúnevu.		ó babáñú áátsɨ́ɨ́me-ke wájyamúúne-vu	1SG dress my_children-ACC clothes-ALL	I dress my children with clothes.
+Bora	78		Oke táñahbe tsɨjpájúú.		o-ke táñahbe tsɨjpájúú	1.SG-ACC 1.SG_brother shout_at	My brother is shouting at me.
+Bora	79	Elicited from speaker	Wajpi meenú ja ájɨtu.		wajpi meenú ja ájɨ-tu	man make house palm-ABL	The man built the house with palm leaves.
+Bora	80	Elicited from speaker	Ováhtsa tsáhaamɨ dóbahjyúcú wajácuháámɨtu.		ováhtsa tsá-haamɨ dó-ba-hjyúcú wajácuháámɨ-tu	boy one-leaf INST:HAND-tear-SNG.TRANS book-ABL	The boy tore the page from the book.
+Bora	81		Méɨhtú baajúrí.		mé-ɨhtú baajúrí	1PL-peel manioc(ACC)	We peel manioc.
+Bora	82		Aalle támihcyó.		aalle támihcyó	3SG blink	She blinks.
+Bora	83		Keeme ácuúcunú cúúmú hallúri.		keeme ácuúcunú cúúmú hallú-ri	old_man sit signal_drum top-LOC/INST	The old man sits on the signal drum.
+Bora	84		O péé tahjyávu.		o péé tah-jyá-vu	1SG go 1SG-house-ALL	I go to my house.
+Bora	85		Ú ijchívyé cóómítyuú.		ú ijchívyé cóómí-tyuú	2SG leave village-ABL	You left the village.
+Bora	86	Constructed by linguist	Ó goocó.		ó goocó	1SG laugh	I laugh.
+Bora	87	Elicited from speaker	Wajpi ihjyúcunú ováhtsake.		wajpi ihjyúcunú ováhtsa-ke	man shout boy-ACC	The man shouted at the boy.
+Bora	88		Ováhtsámú ɨɨcú peróótáuri.		ováhtsá-mú ɨɨcú peróótáu-ri	boy-PL play ball-LOC/INST	The boys are playing with the ball.
+Bora	89		Bádsɨ́jcaja ɨ́dáátsové.		bádsɨ́jcaja ɨ́dáátsové	girl feel_sad	The girl feels sad.
+Bora	90		Úméneba víyiivyé téhí pañévu.		úméneba víyiivyé téhí pañé-vu	trunk roll river inside-ALL	The trunk rolled into the river.
+Bora	91		Cúújúwamɨ pámaavé Ikító mujcójutu.		cúújúwamɨ pámaavé Ikító mujcóju-tu	steam_ship sink Iquitos harbour-ALL	The steamship sank in the harbour of Iquitos.
+Bora	92	Constructed by linguist	Tahjya áiivyé.		tah-jya áiivyé	1SG-house burn	My house is burning.
+Bora	93		Ó daarɨ́.		ó daarɨ́	1SG dry	I am dry.
+Bora	94	Naturalistic spoken	Botsíi píívyéébeke ú táúmeíhí mémájchotá dooráábeke.		botsíi píívyéébe-ke ú táúmeí-hí mé-májchotá dooráábe-ke	finally creator-ACC 2SG ask-PRED 1PL-nutrition fish-ACC	You ask the creator for fish of our nutrition.
+Bora	95	Naturalistic spoken	Tájtsɨɨméne-ke tsúúca ítyujpácyovu ú úújetsó.		táj-tsɨɨméne-ke tsúúca í-tyujpácyo-vu ú úúje-tsó	1SG-child-ACC already 3-blood-ALL 2SG see-CAUS	You have already shown my child his blood.
+Bora	96	Elicited from speaker	Téwaahyévú oke ú ájcuú.		téwaahyé-vú o-ke ú ájcuú	leftovers-ALL 1SG-ACC 2SG give	You give me the leftovers.
+Bora	97		Ó picyóó táwaajácuháámɨ́ méétsáwá hallúvu.		ó picyóó tá-waajácuháámɨ́ méétsáwá hallú-vu	1SG put 1SG-book table top-ALL	I put my book on the table.
+Bora	98	Constructed by linguist	Ó caanú dɨɨ caanúcori.		ó caanú dɨɨ caanúco-ri	1SG grind peppers mortar-LOC/INST	I grind peppers with a mortar.
+Bora	99		Ó píchóujcó ííñullíjyu tájtyúhatyu.		ó píchóujcó ííñullíjyu tájtyúha-tyu	1SG wipe dust my_foot-ABL	I am wiping dust off my foot.
+Bora	100		Táujcáhé ó nɨɨtsú.		táujcáhé ó nɨɨtsú	my_beard(ACC) 1SG shave	I shaved my beard.
+Bora	101		Ó lleebó cajpááná ihjyúváne.		ó lleebó cajpááná ihjyúvá-ne	1SG hear bell speak-INAN	I hear the bell ring.
+Bora	102		Tsɨ́ɨ́mene waaó íwatájcojɨ téhí pañévu.		tsɨ́ɨ́mene waaó íwatájcojɨ téhí pañé-vu	child throw his_hat(ACC) water inside-ALL	The child threw his hat into the water.
+Bora	103	Elicited from speaker	Taálle tú hééco.		taálle tú hééco	grandmother cook meat	The grandmother cooks the meat.
+Bora	104		Méúwaabó tsiiméké wákimyéivu.		mé-úwaabó tsɨɨmé-ké wákimyéi-vu	1PL-teach children-ACC work-ALL	We teach the children the work.
+Bora	105	Elicited from speaker	Nújpacyo tsúúca waanéhi.		nújpacyo tsúúca waané-hi	water already boil-PRED	The water is already boiling.
+Bora	106	Elicited from speaker	Wajpi dilló ováhtsake cuhjúbake.		wajpi dilló ováhtsa-ke cuhjúba-ke	man name boy-ACC slow-ACC	The man called the boy a slow one.
+Bora	107	Elicited from speaker	Ó babáñú áátsɨ́ɨ́meke wájyamúúneri.		ó babáñú áátsɨ́ɨ́me-ke wájyamúúne-ri	1SG dress my_children-ACC clothes-LOC/INST	I dress my children with clothes.
+Bora	108	Elicited from speaker	Táñahbe úménemúnáajpi íjcya-á-hi.		táñahbe úménemúnáajpi íjcya-á-hi	my_brother wood_worker be-FUT-PRED	My brother will be a wood worker.
+Bora	109	Elicited from speaker	Wajpi taavá niivúwake.		wajpi taavá niivúwa-ke	man hunt deer-ACC	The man hunted the deer.
+Bora	110	Elicited from speaker	Mújcuri ó tsehdí.		mújcuri ó tsehdí	barbasco_root(ACC) 1SG dig	I dig for barbasco root.
+Bora	111	Constructed by linguist	Pɨ́aabójcatsímye.		pɨ́aabó-jcatsí-mye	help-RECP-3PL	They helped each other.
+Bora	112	Elicited from speaker	Nɨɨtsúwáwu kídyahɨ́nú páá.		nɨɨtsúwáwu kídyahɨ́nú páá	knife cut bread	The knife cuts the bread.
+Bora	113	Naturalistic spoken	Dsɨ́jɨ́vétsómeííbye.		dsɨ́jɨ́vé-tsó-meíí-bye	die-CAUS-REFL-3SG	He killed himself.
+Bora	114		Táñahbe oke waaó.		táñahbe o-ke waaó	my_brother 1SG-ACC push	My brother pushed me.
+Bora	115	Elicited from speaker	Ováhtsa táuméí dsɨ́ɨ́dsɨtu wajpikye.		ováhtsa táuméí dsɨ́ɨ́dsɨ-tu wajpi-kye	boy ask money-ABL man-ACC	The boy asked the man for money.
+Bora	116		Nííjyaba allé.		nííjyaba allé	thunderstorm rain	Lit. The thunderstorm rained.
+Bora	117		Ɨ́ɨ́nerí ú goocó?		Ɨ́ɨ́ne-LOC/INST ú goocó	what-INST 2SG laugh	What are you laughing about/at?
+Bora	118	Elicited from speaker	Wajpi íllityétsó ováhtsake.		wajpi íllityé-tsó ováhtsa-ke	man fear-CAUS boy-ACC	The man frightened the boy.
+Bora	119	Elicited from speaker	Ováhtsake ó tsíívatsóhi wajácuháámɨ uwáábóóbedívu.		ováhtsa-ke ó tsííva-tsó-hi wajácuháámɨ uwáábóóbe-dí-vu	boy-ACC 1sg bring-CAUS-PRED book:ACC teacher-ANIM-ALL	I make the boy bring the book to the teacher.
+Bora	120	Elicited from speaker	Tsɨ́ɨ́méneke ó wááotsóhi íwatájcojɨ téhí pañévu.		tsɨ́ɨ́méne-ke ó wááo-tsó-hi íwatájcojɨ téhí pañé-vu	child-ACC 1SG throw-CAUS-PRED his_hat:ACC water inside-ALL	I make the child throw his hat into the water.
+Bora	121	Elicited from speaker	Ovátsake ó wállotsóhi wajácuáámɨ uwáábóóbedívu.		ovátsa-ke ó wállo-tsó-hi wajácuáámɨ uwáábóóbe-dí-vu	boy-ACC 1SG send-CAUS-PRED book:ACC teacher-ANIM-ALL	I make the boy send the book to the teacher.
+Bora	122	Elicited from speaker	Ovátsake o tsájtyetsóhi wajácuáámɨ uwáábóóbedívu.		ovátsa-ke o tsájtye-tsó-hi wajácuáámɨ uwáábóóbe-dí-vu	boy-ACC 1SG take-CAUS-PRED book:ACC teacher-ANIM-ALL	I make the boy take the book to the teacher.
+Bora	123	Elicited from speaker	Wájpike ó cáhpíñutsóhi nújpakyo váásó pañévu.		wájpi-ke ó cáhpíñu-tsó-hi nújpakyo váásó pañé-vu	man-ACC 1SG pour-CAUS-PRED water:ACC glass inside-ALL	I make the man fill the glass with water.
+Bora	124	Elicited from speaker	Wájpike ó píkyootsóhi ájɨ mɨ́ɨ́né pañévu.		wájpi-ke ó píkyoo-tsó-hi ájɨ mɨ́ɨ́né pañé-vu	man-ACC 1SG put-CAUS-PRED palmleafs:ACC canoe inside-ALL	I make the man put the palmleafs in the canoe.
+Bora	125	Elicited from speaker	Wájpike ó uácotsóhi tsɨ́ɨ́meke íwajyámúvu.		wájpi-ke ó uáco-tsó-hi tsɨ́ɨ́me-ke íwajyámú-vu	man-ACC 1SG put_on-CAUS-PRED child-ACC his_clothes-ALL	I make the man dress the child with clothes.
+Bora	126	Elicited from speaker	Ovátsake ó ájcyutsóhi wajácuáámɨvu uwáábóóbeke.		ovátsa-ke ó ájcyu-tsó-hi wajácuáámɨ-vu uwáábóóbe-ke	boy-ACC 1SG give-CAUS-PRED book-ALL teacher-ACC	I make the boy give the book to the teacher.
+Bora	127	Elicited from speaker	Ovátsake ó táuméítsóhi dsɨ́ɨ́dsɨke wajpike.		ovátsa-ke ó táuméí-tsó-hi dsɨ́ɨ́dsɨ-ke wajpi-ke	boy-ACC 1SG ask_for-CAUS-PRED money-ACC man-ACC	I make the boy ask the man for money. / Yo hago al joven pedir dinero al hombre.
+Bora	128	Elicited from speaker	Wájpike ó wátájcotsóhi tsɨ́ɨ́méneke cobííjyari.		wájpi-ke ó wátájco-tsó-hi tsɨ́ɨ́méne-ke cobííjya-ri	man-ACC 1SG cover-CAUS-PRED child-ACC blanket-INST	I make the man cover the child with a blanket.

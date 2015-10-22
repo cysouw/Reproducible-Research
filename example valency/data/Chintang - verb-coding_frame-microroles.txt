@@ -1,0 +1,223 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Chintang	1	EAT	ca	Basic	1-erg 2-abs V.agt[1].obj[2]	1	eater	NP-erg & V.agt	A
+Chintang	1	EAT	ca	Basic	1-erg 2-abs V.agt[1].obj[2]	2	eaten food	NP-abs & V.obj	P
+Chintang	2	HUG	hept	Basic	1-erg 2-abs V.agt[1].obj[2]	1	hugger	NP-erg & V.agt	A
+Chintang	2	HUG	hept	Basic	1-erg 2-abs V.agt[1].obj[2]	2	huggee	NP-abs & V.obj	P
+Chintang	3	LOOK AT	copt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	looker	NP-erg & V.agt	A
+Chintang	3	LOOK AT	copt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	looked at entity	NP-abs & V.obj	P
+Chintang	4	SEE	khaŋ	Basic	1-erg 2-abs V.agt[1].obj[2]	1	seeer	NP-erg & V.agt	A
+Chintang	4	SEE	khaŋ	Basic	1-erg 2-abs V.agt[1].obj[2]	2	seen entity	NP-abs & V.obj	P
+Chintang	5	SMELL	nams	Basic	1-erg 2-abs V.agt[1].obj[2]	1	smeller	NP-erg & V.agt	A
+Chintang	5	SMELL	nams	Basic	1-erg 2-abs V.agt[1].obj[2]	2	smelled entity	NP-abs & V.obj	P
+Chintang	6	FEAR	kipma kat	Basic	1-abs poss[1].V.subj[1]	1	fearer	NP-abs & V.subj	S
+Chintang	6	FEAR	kipma katt	Basic	1-erg 2-abs poss[1].V.agt[1].obj[2]	1	fearer	NP-erg & poss.V.agt	X
+Chintang	6	FEAR	kipma katt	Basic	1-erg 2-abs poss[1].V.agt[1].obj[2]	2	fear stimulus	NP-abs & V.obj	X
+Chintang	6	FEAR	kitt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	fearer	NP-erg & V.agt	A
+Chintang	6	FEAR	kitt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	fear stimulus	NP-abs & V.obj	P
+Chintang	7	FRIGHTEN	kip-mett	Basic	1-erg 2-abs V.agt[1].obj[2]	1	frightener	NP-erg & V.agt	A
+Chintang	7	FRIGHTEN	kip-mett	Basic	1-erg 2-abs V.agt[1].obj[2]	2	frightenee	NP-abs & V.obj	P
+Chintang	8	LIKE	khaŋma les	Basic	1-erg 2-abs V.agt[1].obj[2]	1	liker	NP-erg & V.agt	A
+Chintang	8	LIKE	khaŋma les	Basic	1-erg 2-abs V.agt[1].obj[2]	2	liked entity	NP-abs & V.obj	P
+Chintang	9	KNOW	mɨksi-khaŋ	Basic	1-erg 2-abs V.agt[1].obj[2]	1	knower	NP-erg & V.agt	A
+Chintang	9	KNOW	mɨksi-khaŋ	Basic	1-erg 2-abs V.agt[1].obj[2]	2	known thing/person	NP-abs & V.obj	P
+Chintang	9	KNOW	nis	Basic	1-erg 2-abs V.agt[1].obj[2]	1	knower	NP-erg & V.agt	A
+Chintang	9	KNOW	nis	Basic	1-erg 2-abs V.agt[1].obj[2]	2	known thing/person	NP-abs & V.obj	P
+Chintang	10	THINK	mitt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	thinker	NP-erg & V.agt	A
+Chintang	10	THINK	mitt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	thought content	NP-abs & V.obj	P
+Chintang	11	SEARCH FOR	kond	Basic	1-erg 2-abs V.agt[1].obj[2]	1	searcher	NP-erg & V.agt	A
+Chintang	11	SEARCH FOR	kond	Basic	1-erg 2-abs V.agt[1].obj[2]	2	searched for thing	NP-abs & V.obj	P
+Chintang	12	WASH	wa-chid-	Basic	1-erg 2-abs V.agt[1].obj[2]	1	washer	NP-erg & V.agt	A
+Chintang	12	WASH	wa-chid-	Basic	1-erg 2-abs V.agt[1].obj[2]	2	washed entity	NP-abs & V.obj	P
+Chintang	12	WASH	wa-dhapt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	washer	NP-erg & V.agt	A
+Chintang	12	WASH	wa-dhapt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	washed entity	NP-abs & V.obj	P
+Chintang	12	WASH	wa-lekt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	washer	NP-erg & V.agt	A
+Chintang	12	WASH	wa-lekt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	washed entity	NP-abs & V.obj	P
+Chintang	12	WASH	wahu-mett	Basic	1-erg 2-abs V.agt[1].obj[2]	1	washer	NP-erg & V.agt	A
+Chintang	12	WASH	wahu-mett	Basic	1-erg 2-abs V.agt[1].obj[2]	2	washed entity	NP-abs & V.obj	P
+Chintang	13	DRESS	waiʔ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	dresser	NP-erg & V.agt	A
+Chintang	13	DRESS	waiʔ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	clothes	NP-abs	X
+Chintang	13	DRESS	waiʔ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	dressee	NP-abs & V.obj	P
+Chintang	14	SHAVE (a body part/person)	khos	Basic	1-erg 2-abs V.agt[1].obj[2]	1	shaver (of body part)	NP-erg & V.agt	A
+Chintang	14	SHAVE (a body part/person)	khos	Basic	1-erg 2-abs V.agt[1].obj[2]	2	shaved body part	NP-abs & V.obj	P
+Chintang	15	HELP	phad	Basic	1-erg 2-abs V.agt[1].obj[2]	1	helper	NP-erg & V.agt	A
+Chintang	15	HELP	phad	Basic	1-erg 2-abs V.agt[1].obj[2]	2	helpee	NP-abs & V.obj	P
+Chintang	16	FOLLOW	rɨkt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	follower	NP-erg & V.agt	A
+Chintang	16	FOLLOW	rɨkt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	followee	NP-abs & V.obj	P
+Chintang	17	MEET	tok	Basic	1-erg 2-abs V.agt[1].obj[2]	1	meeter	NP-erg & V.agt	A
+Chintang	17	MEET	tok	Basic	1-erg 2-abs V.agt[1].obj[2]	2	met person	NP-abs & V.obj	P
+Chintang	17	MEET	tup	Basic	1-abs V.subj[1]	1	meeter	NP-abs & V.subj	S
+Chintang	18	TALK	hand	Basic	1-erg 2-abs V.agt[1].obj[2]	1	talker	NP-erg & V.agt	A
+Chintang	18	TALK	hand	Basic	1-erg 2-abs V.agt[1].obj[2]	2	talked about content	NP-abs & V.obj	P
+Chintang	19	ASK FOR	nakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	asker	NP-erg & V.agt	A
+Chintang	19	ASK FOR	nakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	requested thing	NP-abs	X
+Chintang	19	ASK FOR	nakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	askee	NP-abs & V.obj	P
+Chintang	20	SHOUT AT	ratt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	shouter	NP-erg & V.agt	A
+Chintang	20	SHOUT AT	ratt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	shoutee	NP-abs & V.obj	P
+Chintang	21	TELL	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	teller	NP-erg & V.agt	A
+Chintang	21	TELL	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	told content	NP-abs	X
+Chintang	21	TELL	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	tellee	NP-abs & V.obj	P
+Chintang	22	SAY	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	sayer	NP-erg & V.agt	A
+Chintang	22	SAY	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	said content	NP-abs	X
+Chintang	22	SAY	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	saying addressee	NP-abs & V.obj	P
+Chintang	23	NAME	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	namer	NP-erg & V.agt	A
+Chintang	23	NAME	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	name	NP-abs	X
+Chintang	23	NAME	lud	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	namee	NP-abs & V.obj	P
+Chintang	23	NAME	patt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	namer	NP-erg & V.agt	A
+Chintang	23	NAME	patt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	name	NP-abs	X
+Chintang	23	NAME	patt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	namee	NP-abs & V.obj	P
+Chintang	24	BUILD	numd	Basic	1-erg 2-abs V.agt[1].obj[2]	1	builder	NP-erg & V.agt	A
+Chintang	24	BUILD	numd	Basic	1-erg 2-abs V.agt[1].obj[2]	2	built thing	NP-abs & V.obj	P
+Chintang	25	BREAK	ket	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	breaker	NP-erg & V.agt	A
+Chintang	25	BREAK	ket	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	broken thing	NP-abs & V.obj	P
+Chintang	25	BREAK	ket	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	breaking instrument	NP-erg	I
+Chintang	25	BREAK	ot	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	breaker	NP-erg & V.agt	A
+Chintang	25	BREAK	ot	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	broken thing	NP-abs & V.obj	P
+Chintang	25	BREAK	ot	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	breaking instrument	NP-erg	I
+Chintang	26	KILL	set	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	killer	NP-erg & V.agt	A
+Chintang	26	KILL	set	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	killee	NP-abs & V.obj	P
+Chintang	26	KILL	set	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	killing instrument	NP-erg	I
+Chintang	27	BEAT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	beater	NP-erg & V.agt	A
+Chintang	27	BEAT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	beatee	NP-abs & V.obj	P
+Chintang	27	BEAT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	beating instrument	NP-erg	I
+Chintang	27	BEAT	thatt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	beater	NP-erg & V.agt	A
+Chintang	27	BEAT	thatt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	beatee	NP-abs & V.obj	P
+Chintang	27	BEAT	thatt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	beating instrument	NP-erg	I
+Chintang	28	HIT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	hitter	NP-erg & V.agt	A
+Chintang	28	HIT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	hittee	NP-abs & V.obj	P
+Chintang	28	HIT	ten	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	hitting instrument	NP-erg	I
+Chintang	29	TOUCH	nop	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	toucher	NP-erg & V.agt	A
+Chintang	29	TOUCH	nop	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	touchee	NP-abs & V.obj	P
+Chintang	29	TOUCH	nop	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	touching instrument	NP-erg	I
+Chintang	30	CUT	kɨpt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	cutter	NP-erg & V.agt	A
+Chintang	30	CUT	kɨpt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	cut thing	NP-abs & V.obj	P
+Chintang	30	CUT	kɨpt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	cutting instrument	NP-erg	I
+Chintang	31	TAKE	khatt	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	1	taker	NP-erg & V.agt	A
+Chintang	31	TAKE	khatt	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	2	taken thing	NP-abs & V.obj	P
+Chintang	31	TAKE	khatt	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	3	take to goal	NP-loc	L
+Chintang	32	TEAR	rek	Basic	1-erg 2-abs V.agt[1].obj[2]	1	tearer	NP-erg & V.agt	A
+Chintang	32	TEAR	rek	Basic	1-erg 2-abs V.agt[1].obj[2]	2	torn thing	NP-abs & V.obj	P
+Chintang	33	PEEL	ok	Basic	1-erg 2-abs V.agt[1].obj[2]	1	peeler	NP-erg & V.agt	A
+Chintang	33	PEEL	ok	Basic	1-erg 2-abs V.agt[1].obj[2]	2	peeled object	NP-abs & V.obj	P
+Chintang	34	HIDE	tek	Basic	1-erg 2-abs V.agt[1].obj[2]	1	hider	NP-erg & V.agt	A
+Chintang	34	HIDE	tek	Basic	1-erg 2-abs V.agt[1].obj[2]	2	hidden thing	NP-abs & V.obj	P
+Chintang	35	SHOW	khaŋ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	shower	NP-erg & V.agt	A
+Chintang	35	SHOW	khaŋ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	shown thing	NP-abs	X
+Chintang	35	SHOW	khaŋ-mett	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	showing addressee	NP-abs & V.obj	P
+Chintang	36	GIVE	pid	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	giver	NP-erg & V.agt	A
+Chintang	36	GIVE	pid	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	gift	NP-abs	X
+Chintang	36	GIVE	pid	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	giving recipient	NP-abs & V.obj	P
+Chintang	37	SEND	hakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	sender	NP-erg & V.agt	A
+Chintang	37	SEND	hakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	sent thing	NP-abs	X
+Chintang	37	SEND	hakt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	sending recipient	NP-abs & V.obj	P
+Chintang	37	SEND	haŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	1	sender	NP-erg & V.agt	A
+Chintang	37	SEND	haŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	2	sent thing	NP-abs & V.obj	P
+Chintang	37	SEND	haŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	3	sending recipient	NP-loc	L
+Chintang	38	CARRY	khur	Basic	1-erg 2-abs V.agt[1].obj[2]	1	carrier	NP-erg & V.agt	A
+Chintang	38	CARRY	khur	Basic	1-erg 2-abs V.agt[1].obj[2]	2	carried thing	NP-abs & V.obj	P
+Chintang	38	CARRY	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	carrier	NP-erg & V.agt	A
+Chintang	38	CARRY	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	carried thing	NP-abs	X
+Chintang	38	CARRY	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	carrying goal	NP-abs & V.obj	P
+Chintang	39	THROW	or	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	thrower	NP-erg & V.agt	A
+Chintang	39	THROW	or	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	throwing goal	NP-abs & V.obj	P
+Chintang	39	THROW	or	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	thrown thing	NP-erg	I
+Chintang	39	THROW	os	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	1	thrower	NP-erg & V.agt	A
+Chintang	39	THROW	os	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	2	thrown thing	NP-abs & V.obj	P
+Chintang	39	THROW	os	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	3	throwing goal	NP-loc	L
+Chintang	40	TIE	chud	Basic	1-erg 2-abs 3-erg 4-loc V.agt[1].obj[2]	1	tier	NP-erg & V.agt	A
+Chintang	40	TIE	chud	Basic	1-erg 2-abs 3-erg 4-loc V.agt[1].obj[2]	2	tied thing	NP-abs & V.obj	P
+Chintang	40	TIE	chud	Basic	1-erg 2-abs 3-erg 4-loc V.agt[1].obj[2]	3	tying instrument	NP-erg	I
+Chintang	40	TIE	chud	Basic	1-erg 2-abs 3-erg 4-loc V.agt[1].obj[2]	4	tying goal	NP-loc	L
+Chintang	41	PUT	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	1	putter	NP-erg & V.agt	A
+Chintang	41	PUT	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	2	put thing	NP-abs & V.obj	P
+Chintang	41	PUT	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	3	putting goal	NP-loc	L
+Chintang	42	POUR	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	pourer	NP-erg & V.agt	A
+Chintang	42	POUR	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	pouring goal	NP-abs & V.obj	P
+Chintang	42	POUR	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	poured substance	NP-erg	I
+Chintang	43	COVER	bhukt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	coverer	NP-erg & V.agt	A
+Chintang	43	COVER	bhukt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	covered thing	NP-abs & V.obj	P
+Chintang	43	COVER	bhukt	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	cover	NP-erg	I
+Chintang	44	FILL	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	filler	NP-erg & V.agt	A
+Chintang	44	FILL	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	filled container	NP-abs & V.obj	P
+Chintang	44	FILL	bhare numd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	filling material	NP-erg	I
+Chintang	44	FILL	tipt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	filler	NP-erg & V.agt	A
+Chintang	44	FILL	tipt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	filled container	NP-abs & V.obj	P
+Chintang	45	LOAD	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	1	loader	NP-erg & V.agt	A
+Chintang	45	LOAD	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	2	loaded thing	NP-abs & V.obj	P
+Chintang	45	LOAD	yuŋs	Basic	1-erg 2-abs 3-loc V.agt[1].obj[2]	3	loading place	NP-loc	L
+Chintang	46	BLINK	sipt (1)	Basic	1-erg 2-abs V.agt[1].obj[2]	1	blinker	NP-erg & V.agt	A
+Chintang	46	BLINK	sipt (1)	Basic	1-erg 2-abs V.agt[1].obj[2]	2	eye	NP-abs & V.obj	P
+Chintang	47	COUGH	chuŋs	Basic	1-abs V.subj[1]	1	cougher	NP-abs & V.subj	S
+Chintang	48	CLIMB	sopt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	climber	NP-erg & V.agt	A
+Chintang	48	CLIMB	sopt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	climbing goal	NP-abs & V.obj	P
+Chintang	49	RUN	pind	Basic	1-abs V.subj[1]	1	runner	NP-abs & V.subj	S
+Chintang	50	SIT	yuŋ	Basic	1-abs 2-loc V.subj[1]	1	sitter	NP-abs & V.subj	S
+Chintang	50	SIT	yuŋ	Basic	1-abs 2-loc V.subj[1]	2	sitting place	NP-loc	L
+Chintang	51	SIT DOWN	yuŋ	Basic	1-abs 2-loc V.subj[1]	1	sitdowner	NP-abs & V.subj	S
+Chintang	51	SIT DOWN	yuŋ	Basic	1-abs 2-loc V.subj[1]	2	sitting-down place	NP-loc	L
+Chintang	52	JUMP	tand	Basic	1-abs 2-loc V.subj[1]	1	jumper	NP-abs & V.subj	S
+Chintang	52	JUMP	tand	Basic	1-abs 2-loc V.subj[1]	2	jump location	NP-loc	L
+Chintang	53	SING	cham lus	Basic	1-erg 2-abs V.agt[1].obj[2]	1	singer	NP-erg & V.agt	A
+Chintang	53	SING	cham lus	Basic	1-erg 2-abs V.agt[1].obj[2]	2	song	NP-abs & V.obj	P
+Chintang	54	GO	khat	Basic	1-abs 2-loc V.subj[1]	1	goer	NP-abs & V.subj	S
+Chintang	54	GO	khat	Basic	1-abs 2-loc V.subj[1]	2	going goal	NP-loc	L
+Chintang	55	LEAVE	khat (2)	Basic	1-abs V.subj[1]	1	leaver	NP-abs & V.subj	S
+Chintang	56	LIVE	yuŋ	Basic	1-abs 2-loc V.subj[1]	1	liver	NP-abs & V.subj	S
+Chintang	56	LIVE	yuŋ	Basic	1-abs 2-loc V.subj[1]	2	living place	NP-loc	L
+Chintang	58	SCREAM	ratt (2)	Basic	1-abs V.subj[1]	1	screamer	NP-abs & V.subj	S
+Chintang	59	FEEL PAIN	tuk	Basic	1-abs V.subj[1]	1	pain locus	NP-abs & V.subj	S
+Chintang	60	FEEL COLD	cuŋwa si	Basic	1-abs V.subj[1]	1	freezing person	NP-abs & V.subj	S
+Chintang	61	DIE	si	Basic	1-abs V.subj[1]	1	dieer	NP-abs & V.subj	S
+Chintang	62	PLAY	khoŋs	Basic	1-erg 2-abs V.agt[1].obj[2]	1	player	NP-erg & V.agt	A
+Chintang	62	PLAY	khoŋs	Basic	1-erg 2-abs V.agt[1].obj[2]	2	toy	NP-abs & V.obj	P
+Chintang	63	BE SAD	micinɨŋ tuk	Basic	1-abs V.subj[1]	1	sad person	NP-abs & V.subj	S
+Chintang	63	BE SAD	som tuk	Basic	1-abs V.subj[1]	1	sad person	NP-abs & V.subj	S
+Chintang	64	BE HUNGRY	sɨŋsawa si	Basic	1-abs V.subj[1]	1	hungry person	NP-abs & V.subj	S
+Chintang	70	BE A HUNTER	kaʔappa	Basic	1-abs V	1	specialist/hunter	NP-abs	X
+Chintang	71	GRIND	cemd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	1	grinder	NP-erg & V.agt	A
+Chintang	71	GRIND	cemd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	2	ground thing	NP-abs & V.obj	P
+Chintang	71	GRIND	cemd	Basic	1-erg 2-abs 3-erg V.agt[1].obj[2]	3	grinding instrument	NP-erg	I
+Chintang	72	WIPE	tɨk	Basic	1-erg 2-abs V.agt[1].obj[2]	1	wiper	NP-erg & V.agt	A
+Chintang	72	WIPE	tɨk	Basic	1-erg 2-abs V.agt[1].obj[2]	2	wiped material	NP-abs & V.obj	P
+Chintang	73	DIG	phol	Basic	1-erg 2-abs V.agt[1].obj[2]	1	digger	NP-erg & V.agt	A
+Chintang	73	DIG	phol	Basic	1-erg 2-abs V.agt[1].obj[2]	2	dug up thing	NP-abs & V.obj	P
+Chintang	73	DIG	tus	Basic	1-erg 2-abs V.agt[1].obj[2]	1	digger	NP-erg & V.agt	A
+Chintang	73	DIG	tus	Basic	1-erg 2-abs V.agt[1].obj[2]	2	dug up thing	NP-abs & V.obj	P
+Chintang	74	PUSH	tol	Basic	1-erg 2-abs V.agt[1].obj[2]	1	pusher	NP-erg & V.agt	A
+Chintang	74	PUSH	tol	Basic	1-erg 2-abs V.agt[1].obj[2]	2	pushee	NP-abs & V.obj	P
+Chintang	75	BRING	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	bringer	NP-erg & V.agt	A
+Chintang	75	BRING	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	brought thing	NP-abs	X
+Chintang	75	BRING	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	bringing recipient	NP-abs & V.obj	P
+Chintang	76	STEAL	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	stealer	NP-erg & V.agt	A
+Chintang	76	STEAL	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	stolen thing	NP-abs	X
+Chintang	76	STEAL	khutt	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	stealing source	NP-abs & V.obj	P
+Chintang	77	TEACH	cind	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	1	teacher	NP-erg & V.agt	A
+Chintang	77	TEACH	cind	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	2	taught content	NP-abs	X
+Chintang	77	TEACH	cind	Basic	1-erg 2-abs 3-abs V.agt[1].obj[3]	3	teachee	NP-abs & V.obj	P
+Chintang	78	HEAR	khems	Basic	1-erg 2-abs V.agt[1].obj[2]	1	hearer	NP-erg & V.agt	A
+Chintang	78	HEAR	khems	Basic	1-erg 2-abs V.agt[1].obj[2]	2	heard sound	NP-abs & V.obj	P
+Chintang	79	COOK	thukt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	cooker	NP-erg & V.agt	A
+Chintang	79	COOK	thukt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	cooked food	NP-abs & V.obj	P
+Chintang	80	BOIL	lokt	Basic	1-abs V.obj[1]	1	boiled thing	NP-abs & V.obj	X
+Chintang	81	APPEAR	that	Basic	1-abs V.subj[1]	1	appearer	NP-abs & V.subj	S
+Chintang	82	BE ILL	maihid	Basic	1-abs V.subj[1]	1	sick person	NP-abs & V.subj	S
+Chintang	83	CRY	hap	Basic	1-abs V.subj[1]	1	crier	NP-abs & V.subj	S
+Chintang	85	MAKE	bane numd	Basic	1-erg 2-abs V.agt[1].obj[2]	1	maker	NP-erg & V.agt	A
+Chintang	85	MAKE	bane numd	Basic	1-erg 2-abs V.agt[1].obj[2]	2	made thing	NP-abs & V.obj	P
+Chintang	86	GET	tok	Basic	1-erg 2-abs V.agt[1].obj[2]	1	receiver	NP-erg & V.agt	A
+Chintang	86	GET	tok	Basic	1-erg 2-abs V.agt[1].obj[2]	2	received thing	NP-abs & V.obj	P
+Chintang	87	WANT	lamma katt	Basic	1-erg 2-abs poss[1].V.agt[1].obj[2]	1	wanter	NP-erg & poss.V.agt	X
+Chintang	87	WANT	lamma katt	Basic	1-erg 2-abs poss[1].V.agt[1].obj[2]	2	wanted thing	NP-abs & V.obj	X
+Chintang	116	BURN (tr)	hutt	Basic	1-erg 2-abs V.agt[1].obj[2]	1	burner (tr)	NP-erg & V.agt	A
+Chintang	116	BURN (tr)	hutt	Basic	1-erg 2-abs V.agt[1].obj[2]	2	burnt thing (tr)	NP-abs & V.obj	P
+Chintang	119	DRY	sipt (2)	Basic	1-erg 2-abs V.agt[1].obj[2]	1	drier (tr)	NP-erg & V.agt	A
+Chintang	119	DRY	sipt (2)	Basic	1-erg 2-abs V.agt[1].obj[2]	2	dry thing (tr)	NP-abs & V.obj	P
+Chintang	122	DROP	thams	Basic	1-erg 2-abs V.agt[1].obj[2]	1	dropper	NP-erg & V.agt	A
+Chintang	122	DROP	thams	Basic	1-erg 2-abs V.agt[1].obj[2]	2	dropped thing	NP-abs & V.obj	P
+Chintang	125	SINK (tr)	lums	Basic	1-erg 2-abs V.agt[1].obj[2]	1	sink-(caus)er (tr)	NP-erg & V.agt	A
+Chintang	125	SINK (tr)	lums	Basic	1-erg 2-abs V.agt[1].obj[2]	2	sunken entity (tr)	NP-abs & V.obj	P
+Chintang	126	BOIL (tr)	phaŋs	Basic	1-erg 2-abs V.agt[1].obj[2]	1	boiler (tr)	NP-erg & V.agt	A
+Chintang	126	BOIL (tr)	phaŋs	Basic	1-erg 2-abs V.agt[1].obj[2]	2	boiled thing (tr)	NP-abs & V.obj	P
+Chintang	128	ROLL (tr)	kɨr	Basic	1-erg 2-abs V.agt[1].obj[2]	1	roller (tr)	NP-erg & V.agt	A
+Chintang	128	ROLL (tr)	kɨr	Basic	1-erg 2-abs V.agt[1].obj[2]	2	rolling thing (tr)	NP-abs & V.obj	P
+Chintang	141	LAUGH ABOUT	rett	Basic	1-erg 2-abs V.agt[1].obj[2]	1	laugher (tr.)	NP-erg & V.agt	A
+Chintang	141	LAUGH ABOUT	rett	Basic	1-erg 2-abs V.agt[1].obj[2]	2	laughed-about thing (tr.)	NP-abs & V.obj	P

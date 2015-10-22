@@ -1,0 +1,104 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Adjunct addition	Allative alternation	Assume.position alternation	Autobenefactive	Causative	Dative addition	Dative alternation	Deagentive alternation	Locative alternation	Middle	Middle object addition	Middle object-downgrading alternation	Object omission	Placement alternation	Pseudo-passive	Reciprocal (copular version)	Reflexive/reciprocal
+Nen	1	EAT	nne	109, 110	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	2	HUG	wambns	195, 196	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	3	LOOK AT	wakaes	84, 85, 86, 88, 89	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	4	SEE	winḡs	83, 87, 101	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	4	SEE	wakaes	84, 85, 86, 88, 89	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	5	SMELL	wambaes	174, 175	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	6	FEAR	brbräm räms	152, 204	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	7	FRIGHTEN	brbr wets	90	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	8	LIKE	mñteba wakaes	94, 95, 212	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	9	KNOW	mete	79, 80, 81, 82	1-abs 2-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data
+Nen	10	THINK	embärs	92	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	10	THINK	wabaes	93, 192, 202	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	11	SEARCH FOR	ronzas	96, 97	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	12	WASH	wémbärs	117, 118	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	13	DRESS	wamanes	115, 116	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	14	SHAVE (a body part/person)	btkamgeb rens	198, 199	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	15	HELP	wetrs	105, 106, 107, 108	1-erg 2-obl und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	16	FOLLOW	waets	102, 103, 104	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	Regularly
+Nen	17	MEET	bäts	99, 100	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	17	MEET	kiwinḡs	87, 101	1-abs 2-com V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	18	TALK	owabs	69, 75, 76	1-abs 2-abs 3-dat V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	18	TALK	mts	77, 213	1-erg 2-abs 3-all und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	19	ASK FOR	wémés	78, 206	1-erg 2-abs (3-obl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	20	SHOUT AT	ke oters	73	1-abs 2-dat V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	20	SHOUT AT	weräns	70, 71, 72	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	21	TELL	wawaets	74	1-erg 2-abs 3-dat und[3].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	21	TELL	wetls	218, 219	1-erg 2-abs 3-dat und[3].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	21	TELL	mts	77, 213	1-erg 2-abs 3-all und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	22	SAY	owabs	69, 75, 76	1-abs 2-abs 3-dat V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	23	NAME	yétqén ewets	137	1-abs (2-loc) V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	24	BUILD	räms	68, 161, 191	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	25	BREAK	räbärs	65, 66, 67	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	25	BREAK	dars	113, 114	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	26	KILL	gms	61, 62, 63, 64, 208	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	Regularly
+Nen	27	BEAT	gms	61, 62, 63, 64, 208	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	Regularly
+Nen	28	HIT	gms	61, 62, 63, 64, 208	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	Regularly
+Nen	29	TOUCH	wenzas	57, 58, 59, 60, 217	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	30	CUT	nps	52, 53, 54, 55, 56, 209	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	31	TAKE	renzas	17, 18, 20, 21, 39, 40, 142	1-erg 2-abs 3-dat und[2].V.act[1]	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	31	TAKE	kaps renzas	38	1-erg 2-abs (3-dat-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	32	TEAR	drers	47, 48, 49	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	33	PEEL	wétrers	163	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	34	HIDE	wérnis	42, 43, 44, 45, 46, 203	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	35	SHOW	wayabs	32, 33, 36, 37, 193	1-erg 2-abs 3-dat und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	36	GIVE	warams	28, 29, 30, 31, 34, 35, 210, 211	1-erg 2-abs 3-dat und[3].V.act[1]	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	37	SEND	watembs	22, 23, 24, 216	1-erg 2-abs 3-dat und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	37	SEND	trärs	25, 26, 215	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	37	SEND	wäbäres	27, 221	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	38	CARRY	renzas	17, 18, 20, 21, 39, 40, 142	1-erg 2-abs 3-dat und[2].V.act[1]	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	38	CARRY	wazrs (2)	11	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	38	CARRY	menzas	19	1-erg 2-abs 3-dat und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	39	THROW	wwis	14, 15, 16	1-erg 2-abs (LOC3) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	40	TIE	wmbaes	8, 9, 220	1-erg 2-abs und[2].V.act[1]	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	40	TIE	sns	111, 112	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	41	PUT	kms	166, 167, 168	1-erg 2-abs und[2].V.act[1]	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data
+Nen	42	POUR	wazrs (1)	10, 11, 12, 13	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data
+Nen	43	COVER	wapars	1, 3	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	43	COVER	awapars	3	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	44	FILL	waps	2, 4, 5, 6, 7	1-erg 2-abs (3-abl) und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data
+Nen	45	LOAD	wewes	184, 185	1-erg 2-obl und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	45	LOAD	wawags	186, 187, 188	1-erg 2-abs 3-dat und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	Regularly
+Nen	45	LOAD	wapls	189, 190, 205	1-erg 2-abs 3-loc und[2].V.act[1]	No data	No data	No data	No data	Regularly	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	46	BLINK	no direct counterpart		N/A	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	47	COUGH	momae ke otärs	119	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	48	CLIMB	armbs	120, 121	1-abs 2-com V.act[1]	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	49	RUN	alnzs	125	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	50	SIT	weret	123, 128	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	50	SIT	√mzngr	171, 172, 173	1-abs und[1].V	No data	No data	Regularly	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	51	SIT DOWN	amzs	122, 124	1-abs (2-loc) V.act[1]	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	52	JUMP	ätäns	126	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	52	JUMP	ábrms	127	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	53	SING	angan räms	129, 130	1-erg V.act[1]	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	54	GO	yls	155	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	55	LEAVE	ors	157, 158, 214	1-erg 2-abs V.act[1]	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	55	LEAVE	branḡs	159, 160	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	56	LIVE	weret	123, 128	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	57	LAUGH	urs	156	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	58	SCREAM	awambs	197	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	59	FEEL PAIN	tkretewäm räms	154	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	60	FEEL COLD	kérbéräm räms	153	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	61	DIE	kr √m	134	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	62	PLAY	izers	164	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	63	BE SAD	weiweiyäm räms	140	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	64	BE HUNGRY	gersäm räms	138	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	65	ROLL																				
+Nen	66	SINK	olets	200, 201	1-abs V.act[1]	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	67	BURN	äkrärs	143	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	67	BURN	uzers	144, 145	1-abs V.act[1]	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	68	BE DRY	ombtes √m	207	1-abs und[1].V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	69	RAIN	nu apams	136	V	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	70	BE A HUNTER																				
+Nen	71	GRIND	éss	194	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	72	WIPE	läns	50, 51	1-erg 2-abs 3-loc und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	73	DIG	tars	151	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	74	PUSH	wédéḡés	165	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	75	BRING	renzas	17, 18, 20, 21, 39, 40, 142	1-erg 2-abs 3-dat und[2].V.act[1]	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	76	STEAL	wr	42, 43	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	76	STEAL	wérnis	42, 43, 44, 45, 46, 203	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Nen	77	TEACH	awapaps	176, 177, 178	1-erg 2-obl und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	78	HEAR	weres	41, 181, 182, 183	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	Regularly	No data	No data	No data	Regularly	No data	No data	No data	No data	No data
+Nen	79	COOK	zeyas	146, 148	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	79	COOK	dus	147	1-erg 2-abs und[2].V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Nen	80	BOIL	rngs	141	1-abs V.act[1]	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data

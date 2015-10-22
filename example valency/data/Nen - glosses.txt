@@ -1,0 +1,66 @@
+﻿Language_name	Gloss	Meaning
+Nen	1	first person
+Nen	2	second person
+Nen	3	third person
+Nen	3A>3duU	third person actor acting upon 3 person dual undergoer
+Nen	A	actor
+Nen	AB	autobenefactive
+Nen	ABL	ablative
+Nen	ABS	absolutive
+Nen	ADV	adverbial
+Nen	AGN	agentive
+Nen	ALL	allative
+Nen	APPR	apprehensive mood
+Nen	AW	away
+Nen	BEN	benefactive
+Nen	COM	comitative
+Nen	COND	conditional
+Nen	CPL	completive particle
+Nen	CUR	current
+Nen	DA	deagentive
+Nen	DAT1	dative1
+Nen	DAT2	dative2
+Nen	DEM	demonstrative pronoun
+Nen	DI	diathetic prefix
+Nen	DU	dual
+Nen	ERG	ergative
+Nen	FOC	focus
+Nen	FUT	future
+Nen	GEN	genitive
+Nen	IMM	immediate
+Nen	IMP	imperative
+Nen	INF	infinitive
+Nen	IPF	imperfective
+Nen	LOC	locative
+Nen	M	middle
+Nen	ND	non-dual
+Nen	NEG	negation
+Nen	NLZR	nominalizer
+Nen	NOM	nominative
+Nen	NPREHOD	non-prehodiernal
+Nen	OBL	oblique
+Nen	ORIG	originative case
+Nen	PERL	perlative
+Nen	PF	perfective
+Nen	PL	plural
+Nen	POSS	possessive
+Nen	PRET	preterite
+Nen	PREV	previous
+Nen	PRIM	primordial
+Nen	PST	past
+Nen	RCN	recent
+Nen	RPst	remote past
+Nen	RR	reflexive/reciprocal diathetic prefix
+Nen	SG	singular
+Nen	SOU	source
+Nen	STAT	stative
+Nen	TOW	towards
+Nen	TR	transitive
+Nen	U	undergoer
+Nen	nsg	non-singular
+Nen	pl	plural
+Nen	sg	singular
+Nen	±one	±one
+Nen	α	undergoer prefix
+Nen	β	undergoer prefix
+Nen	γ	undergoer prefix

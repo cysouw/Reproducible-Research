@@ -1,0 +1,849 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Eastern Armenian	1	EAT	utel	Causative	Marginally	
+Eastern Armenian	1	EAT	utel	Causative-Mediopassive	Never	
+Eastern Armenian	1	EAT	utel	Contentive	Never	
+Eastern Armenian	1	EAT	utel	Internal Object	Never	
+Eastern Armenian	1	EAT	utel	Mediopassive	Marginally	
+Eastern Armenian	1	EAT	utel	Object Omission	Marginally	
+Eastern Armenian	1	EAT	utel	Proprietive	Never	
+Eastern Armenian	1	EAT	utel	Reciprocal	Never	
+Eastern Armenian	2	HUG	gɾkel	Causative	Never	
+Eastern Armenian	2	HUG	gɾkel	Causative-Mediopassive	Never	
+Eastern Armenian	2	HUG	gɾkel	Contentive	Never	
+Eastern Armenian	2	HUG	gɾkel	Internal Object	Never	
+Eastern Armenian	2	HUG	gɾkel	Mediopassive	Regularly	
+Eastern Armenian	2	HUG	gɾkel	Object Omission	Never	
+Eastern Armenian	2	HUG	gɾkel	Proprietive	Never	
+Eastern Armenian	2	HUG	gɾkel	Reciprocal	Never	
+Eastern Armenian	3	LOOK AT	najel	Causative	Never	
+Eastern Armenian	3	LOOK AT	najel	Causative-Mediopassive	Never	
+Eastern Armenian	3	LOOK AT	najel	Contentive	Never	
+Eastern Armenian	3	LOOK AT	najel	Internal Object	Never	
+Eastern Armenian	3	LOOK AT	najel	Mediopassive	Marginally	
+Eastern Armenian	3	LOOK AT	najel	Object Omission	Never	
+Eastern Armenian	3	LOOK AT	najel	Proprietive	Never	
+Eastern Armenian	3	LOOK AT	najel	Reciprocal	Regularly	1/2-nom V'.subj[1/2]
+Eastern Armenian	4	SEE	tesnel	Causative	Never	
+Eastern Armenian	4	SEE	tesnel	Causative-Mediopassive	Never	
+Eastern Armenian	4	SEE	tesnel	Contentive	Never	
+Eastern Armenian	4	SEE	tesnel	Internal Object	Never	
+Eastern Armenian	4	SEE	tesnel	Mediopassive	Regularly	
+Eastern Armenian	4	SEE	tesnel	Object Omission	Never	
+Eastern Armenian	4	SEE	tesnel	Proprietive	Never	
+Eastern Armenian	4	SEE	tesnel	Reciprocal	Never	
+Eastern Armenian	5	SMELL	hot arnel	Causative	Never	
+Eastern Armenian	5	SMELL	hot arnel	Causative-Mediopassive	Never	
+Eastern Armenian	5	SMELL	hot arnel	Contentive	Never	
+Eastern Armenian	5	SMELL	hot arnel	Internal Object	Never	
+Eastern Armenian	5	SMELL	hot arnel	Mediopassive	Never	
+Eastern Armenian	5	SMELL	hot arnel	Object Omission	Never	
+Eastern Armenian	5	SMELL	hot arnel	Proprietive	Never	
+Eastern Armenian	5	SMELL	hot arnel	Reciprocal	Never	
+Eastern Armenian	5	SMELL	hototel	Causative	Never	
+Eastern Armenian	5	SMELL	hototel	Causative-Mediopassive	Never	
+Eastern Armenian	5	SMELL	hototel	Contentive	Never	
+Eastern Armenian	5	SMELL	hototel	Internal Object	Never	
+Eastern Armenian	5	SMELL	hototel	Mediopassive	Marginally	
+Eastern Armenian	5	SMELL	hototel	Object Omission	Never	
+Eastern Armenian	5	SMELL	hototel	Proprietive	Never	
+Eastern Armenian	5	SMELL	hototel	Reciprocal	Never	
+Eastern Armenian	6	FEAR	vaχenal	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	6	FEAR	vaχenal	Causative-Mediopassive	Never	
+Eastern Armenian	6	FEAR	vaχenal	Contentive	Never	
+Eastern Armenian	6	FEAR	vaχenal	Internal Object	Never	
+Eastern Armenian	6	FEAR	vaχenal	Mediopassive	Never	
+Eastern Armenian	6	FEAR	vaχenal	Object Omission	Never	
+Eastern Armenian	6	FEAR	vaχenal	Proprietive	Never	
+Eastern Armenian	6	FEAR	vaχenal	Reciprocal	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Causative	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Contentive	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Internal Object	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Mediopassive	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Object Omission	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Proprietive	Never	
+Eastern Armenian	7	FRIGHTEN	vaχecʰnel	Reciprocal	Never	
+Eastern Armenian	8	LIKE	dur gal	Causative	Never	
+Eastern Armenian	8	LIKE	dur gal	Causative-Mediopassive	Never	
+Eastern Armenian	8	LIKE	dur gal	Contentive	Never	
+Eastern Armenian	8	LIKE	dur gal	Internal Object	Never	
+Eastern Armenian	8	LIKE	dur gal	Mediopassive	Never	
+Eastern Armenian	8	LIKE	dur gal	Object Omission	Never	
+Eastern Armenian	8	LIKE	dur gal	Proprietive	Never	
+Eastern Armenian	8	LIKE	dur gal	Reciprocal	Never	
+Eastern Armenian	8	LIKE	havanel	Causative	Marginally	
+Eastern Armenian	8	LIKE	havanel	Causative-Mediopassive	Never	
+Eastern Armenian	8	LIKE	havanel	Contentive	Never	
+Eastern Armenian	8	LIKE	havanel	Internal Object	Never	
+Eastern Armenian	8	LIKE	havanel	Mediopassive	Marginally	
+Eastern Armenian	8	LIKE	havanel	Object Omission	Never	
+Eastern Armenian	8	LIKE	havanel	Proprietive	Never	
+Eastern Armenian	8	LIKE	havanel	Reciprocal	Never	
+Eastern Armenian	8	LIKE	siɾel	Causative	Marginally	
+Eastern Armenian	8	LIKE	siɾel	Causative-Mediopassive	Never	
+Eastern Armenian	8	LIKE	siɾel	Contentive	Never	
+Eastern Armenian	8	LIKE	siɾel	Internal Object	Never	
+Eastern Armenian	8	LIKE	siɾel	Mediopassive	Regularly	
+Eastern Armenian	8	LIKE	siɾel	Object Omission	Never	
+Eastern Armenian	8	LIKE	siɾel	Proprietive	Never	
+Eastern Armenian	8	LIKE	siɾel	Reciprocal	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Causative	Marginally	
+Eastern Armenian	9	KNOW	čanačʰel	Causative-Mediopassive	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Contentive	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Internal Object	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Mediopassive	Regularly	
+Eastern Armenian	9	KNOW	čanačʰel	Object Omission	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Proprietive	Never	
+Eastern Armenian	9	KNOW	čanačʰel	Reciprocal	Never	
+Eastern Armenian	10	THINK	mtacel	Causative	Never	
+Eastern Armenian	10	THINK	mtacel	Causative-Mediopassive	Never	
+Eastern Armenian	10	THINK	mtacel	Contentive	Never	
+Eastern Armenian	10	THINK	mtacel	Internal Object	Never	
+Eastern Armenian	10	THINK	mtacel	Mediopassive	Regularly	
+Eastern Armenian	10	THINK	mtacel	Object Omission	Never	
+Eastern Armenian	10	THINK	mtacel	Proprietive	Never	
+Eastern Armenian	10	THINK	mtacel	Reciprocal	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Causative	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Causative-Mediopassive	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Contentive	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Internal Object	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Mediopassive	Regularly	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Object Omission	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Proprietive	Never	
+Eastern Armenian	11	SEARCH FOR	pʰntɾel	Reciprocal	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Causative	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Contentive	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Internal Object	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Mediopassive	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Object Omission	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Proprietive	Never	
+Eastern Armenian	12	WASH	loʁacʰnel	Reciprocal	Never	
+Eastern Armenian	12	WASH	lval	Causative	Marginally	
+Eastern Armenian	12	WASH	lval	Causative-Mediopassive	Regularly	1/2-nom causmedV'.subj[1/2]
+Eastern Armenian	12	WASH	lval	Contentive	Never	
+Eastern Armenian	12	WASH	lval	Internal Object	Never	
+Eastern Armenian	12	WASH	lval	Mediopassive	Never	
+Eastern Armenian	12	WASH	lval	Object Omission	Never	
+Eastern Armenian	12	WASH	lval	Proprietive	Never	
+Eastern Armenian	12	WASH	lval	Reciprocal	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Causative	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Contentive	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Internal Object	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Mediopassive	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Object Omission	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Proprietive	Never	
+Eastern Armenian	13	DRESS	hagcʰnel	Reciprocal	Never	
+Eastern Armenian	15	HELP	ognel	Causative	Never	
+Eastern Armenian	15	HELP	ognel	Causative-Mediopassive	Never	
+Eastern Armenian	15	HELP	ognel	Contentive	Never	
+Eastern Armenian	15	HELP	ognel	Internal Object	Never	
+Eastern Armenian	15	HELP	ognel	Mediopassive	Never	
+Eastern Armenian	15	HELP	ognel	Object Omission	Never	
+Eastern Armenian	15	HELP	ognel	Proprietive	Never	
+Eastern Armenian	15	HELP	ognel	Reciprocal	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Causative	Marginally	
+Eastern Armenian	16	FOLLOW	hetevel	Causative-Mediopassive	Marginally	
+Eastern Armenian	16	FOLLOW	hetevel	Contentive	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Internal Object	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Mediopassive	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Object Omission	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Proprietive	Never	
+Eastern Armenian	16	FOLLOW	hetevel	Reciprocal	Never	
+Eastern Armenian	17	MEET	handipel	Causative	Marginally	
+Eastern Armenian	17	MEET	handipel	Causative-Mediopassive	Never	
+Eastern Armenian	17	MEET	handipel	Contentive	Never	
+Eastern Armenian	17	MEET	handipel	Internal Object	Never	
+Eastern Armenian	17	MEET	handipel	Mediopassive	Marginally	
+Eastern Armenian	17	MEET	handipel	Object Omission	Never	
+Eastern Armenian	17	MEET	handipel	Proprietive	Never	
+Eastern Armenian	17	MEET	handipel	Reciprocal	Regularly	
+Eastern Armenian	18	TALK	χosel	Causative	Regularly	
+Eastern Armenian	18	TALK	χosel	Causative-Mediopassive	Never	
+Eastern Armenian	18	TALK	χosel	Contentive	Never	
+Eastern Armenian	18	TALK	χosel	Internal Object	Never	
+Eastern Armenian	18	TALK	χosel	Mediopassive	Regularly	
+Eastern Armenian	18	TALK	χosel	Object Omission	Never	
+Eastern Armenian	18	TALK	χosel	Proprietive	Never	
+Eastern Armenian	18	TALK	χosel	Reciprocal	Regularly	
+Eastern Armenian	19	ASK FOR	χndɾel	Causative	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Causative-Mediopassive	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Contentive	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Internal Object	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Mediopassive	Marginally	
+Eastern Armenian	19	ASK FOR	χndɾel	Object Omission	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Proprietive	Never	
+Eastern Armenian	19	ASK FOR	χndɾel	Reciprocal	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Causative	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Causative-Mediopassive	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Contentive	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Internal Object	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Mediopassive	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Object Omission	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Proprietive	Never	
+Eastern Armenian	20	SHOUT AT	bacʰakančʰel	Reciprocal	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Causative	Marginally	
+Eastern Armenian	20	SHOUT AT	gorgoral	Causative-Mediopassive	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Contentive	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Internal Object	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Mediopassive	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Object Omission	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Proprietive	Never	
+Eastern Armenian	20	SHOUT AT	gorgoral	Reciprocal	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Causative	Marginally	
+Eastern Armenian	20	SHOUT AT	kančʰel	Causative-Mediopassive	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Contentive	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Internal Object	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Mediopassive	Regularly	
+Eastern Armenian	20	SHOUT AT	kančʰel	Object Omission	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Proprietive	Never	
+Eastern Armenian	20	SHOUT AT	kančʰel	Reciprocal	Never	
+Eastern Armenian	21	TELL	patmel	Causative	Never	
+Eastern Armenian	21	TELL	patmel	Causative-Mediopassive	Never	
+Eastern Armenian	21	TELL	patmel	Contentive	Never	
+Eastern Armenian	21	TELL	patmel	Internal Object	Never	
+Eastern Armenian	21	TELL	patmel	Mediopassive	Regularly	
+Eastern Armenian	21	TELL	patmel	Object Omission	Never	
+Eastern Armenian	21	TELL	patmel	Proprietive	Never	
+Eastern Armenian	21	TELL	patmel	Reciprocal	Never	
+Eastern Armenian	22	SAY	asel	Causative	Never	
+Eastern Armenian	22	SAY	asel	Causative-Mediopassive	Never	
+Eastern Armenian	22	SAY	asel	Contentive	Never	
+Eastern Armenian	22	SAY	asel	Internal Object	Never	
+Eastern Armenian	22	SAY	asel	Mediopassive	Regularly	
+Eastern Armenian	22	SAY	asel	Object Omission	Never	
+Eastern Armenian	22	SAY	asel	Proprietive	Never	
+Eastern Armenian	22	SAY	asel	Reciprocal	Never	
+Eastern Armenian	23	NAME	anvanel	Causative	Never	
+Eastern Armenian	23	NAME	anvanel	Causative-Mediopassive	Never	
+Eastern Armenian	23	NAME	anvanel	Contentive	Never	
+Eastern Armenian	23	NAME	anvanel	Internal Object	Never	
+Eastern Armenian	23	NAME	anvanel	Mediopassive	Regularly	
+Eastern Armenian	23	NAME	anvanel	Object Omission	Never	
+Eastern Armenian	23	NAME	anvanel	Proprietive	Never	
+Eastern Armenian	23	NAME	anvanel	Reciprocal	Never	
+Eastern Armenian	24	BUILD	karucʰel	Causative	Never	
+Eastern Armenian	24	BUILD	karucʰel	Causative-Mediopassive	Never	
+Eastern Armenian	24	BUILD	karucʰel	Contentive	Never	
+Eastern Armenian	24	BUILD	karucʰel	Internal Object	Never	
+Eastern Armenian	24	BUILD	karucʰel	Mediopassive	Regularly	
+Eastern Armenian	24	BUILD	karucʰel	Object Omission	Never	
+Eastern Armenian	24	BUILD	karucʰel	Proprietive	Never	
+Eastern Armenian	24	BUILD	karucʰel	Reciprocal	Never	
+Eastern Armenian	24	BUILD	šinel	Causative	Never	
+Eastern Armenian	24	BUILD	šinel	Causative-Mediopassive	Never	
+Eastern Armenian	24	BUILD	šinel	Contentive	Never	
+Eastern Armenian	24	BUILD	šinel	Internal Object	Never	
+Eastern Armenian	24	BUILD	šinel	Mediopassive	Regularly	
+Eastern Armenian	24	BUILD	šinel	Object Omission	Never	
+Eastern Armenian	24	BUILD	šinel	Proprietive	Never	
+Eastern Armenian	24	BUILD	šinel	Reciprocal	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Causative	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Causative-Mediopassive	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Contentive	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Internal Object	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Mediopassive	Regularly	
+Eastern Armenian	25	BREAK	ǯaɾdel	Object Omission	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Proprietive	Never	
+Eastern Armenian	25	BREAK	ǯaɾdel	Reciprocal	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Causative	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Contentive	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Internal Object	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Mediopassive	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Object Omission	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Proprietive	Never	
+Eastern Armenian	26	KILL	mahacʰnel	Reciprocal	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Causative	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Causative-Mediopassive	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Contentive	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Internal Object	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Mediopassive	Regularly	
+Eastern Armenian	26	KILL	moɾtʰel	Object Omission	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Proprietive	Never	
+Eastern Armenian	26	KILL	moɾtʰel	Reciprocal	Never	
+Eastern Armenian	26	KILL	spanel	Causative	Never	
+Eastern Armenian	26	KILL	spanel	Causative-Mediopassive	Never	
+Eastern Armenian	26	KILL	spanel	Contentive	Never	
+Eastern Armenian	26	KILL	spanel	Internal Object	Never	
+Eastern Armenian	26	KILL	spanel	Mediopassive	Regularly	
+Eastern Armenian	26	KILL	spanel	Object Omission	Never	
+Eastern Armenian	26	KILL	spanel	Proprietive	Never	
+Eastern Armenian	26	KILL	spanel	Reciprocal	Never	
+Eastern Armenian	27	BEAT	cecel	Causative	Never	
+Eastern Armenian	27	BEAT	cecel	Causative-Mediopassive	Never	
+Eastern Armenian	27	BEAT	cecel	Contentive	Never	
+Eastern Armenian	27	BEAT	cecel	Internal Object	Never	
+Eastern Armenian	27	BEAT	cecel	Mediopassive	Regularly	
+Eastern Armenian	27	BEAT	cecel	Object Omission	Never	
+Eastern Armenian	27	BEAT	cecel	Proprietive	Never	
+Eastern Armenian	27	BEAT	cecel	Reciprocal	Never	
+Eastern Armenian	28	HIT	haɾvacel	Causative	Never	
+Eastern Armenian	28	HIT	haɾvacel	Causative-Mediopassive	Never	
+Eastern Armenian	28	HIT	haɾvacel	Contentive	Never	
+Eastern Armenian	28	HIT	haɾvacel	Internal Object	Never	
+Eastern Armenian	28	HIT	haɾvacel	Mediopassive	Never	
+Eastern Armenian	28	HIT	haɾvacel	Object Omission	Never	
+Eastern Armenian	28	HIT	haɾvacel	Proprietive	Never	
+Eastern Armenian	28	HIT	haɾvacel	Reciprocal	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Causative	Regularly	
+Eastern Armenian	29	TOUCH	dipčʰel	Causative-Mediopassive	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Contentive	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Internal Object	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Mediopassive	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Object Omission	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Proprietive	Never	
+Eastern Armenian	29	TOUCH	dipčʰel	Reciprocal	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Causative	Regularly	
+Eastern Armenian	29	TOUCH	kpčʰel	Causative-Mediopassive	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Contentive	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Internal Object	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Mediopassive	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Object Omission	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Proprietive	Never	
+Eastern Armenian	29	TOUCH	kpčʰel	Reciprocal	Never	
+Eastern Armenian	30	CUT	ktɾel	Causative	Marginally	
+Eastern Armenian	30	CUT	ktɾel	Causative-Mediopassive	Never	
+Eastern Armenian	30	CUT	ktɾel	Contentive	Never	
+Eastern Armenian	30	CUT	ktɾel	Internal Object	Never	
+Eastern Armenian	30	CUT	ktɾel	Mediopassive	Regularly	
+Eastern Armenian	30	CUT	ktɾel	Object Omission	Never	
+Eastern Armenian	30	CUT	ktɾel	Proprietive	Never	
+Eastern Armenian	30	CUT	ktɾel	Reciprocal	Never	
+Eastern Armenian	31	TAKE	arnel	Causative	Never	
+Eastern Armenian	31	TAKE	arnel	Causative-Mediopassive	Never	
+Eastern Armenian	31	TAKE	arnel	Contentive	Never	
+Eastern Armenian	31	TAKE	arnel	Internal Object	Never	
+Eastern Armenian	31	TAKE	arnel	Mediopassive	Never	
+Eastern Armenian	31	TAKE	arnel	Object Omission	Never	
+Eastern Armenian	31	TAKE	arnel	Proprietive	Never	
+Eastern Armenian	31	TAKE	arnel	Reciprocal	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Causative	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Contentive	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Internal Object	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Mediopassive	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Object Omission	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Proprietive	Never	
+Eastern Armenian	31	TAKE	veɾcʰnel	Reciprocal	Never	
+Eastern Armenian	32	TEAR	patrel	Causative	Never	
+Eastern Armenian	32	TEAR	patrel	Causative-Mediopassive	Never	
+Eastern Armenian	32	TEAR	patrel	Contentive	Never	
+Eastern Armenian	32	TEAR	patrel	Internal Object	Never	
+Eastern Armenian	32	TEAR	patrel	Mediopassive	Regularly	
+Eastern Armenian	32	TEAR	patrel	Object Omission	Never	
+Eastern Armenian	32	TEAR	patrel	Proprietive	Regularly	
+Eastern Armenian	32	TEAR	patrel	Reciprocal	Never	
+Eastern Armenian	32	TEAR	pokel	Causative	Never	
+Eastern Armenian	32	TEAR	pokel	Causative-Mediopassive	Never	
+Eastern Armenian	32	TEAR	pokel	Contentive	Never	
+Eastern Armenian	32	TEAR	pokel	Internal Object	Never	
+Eastern Armenian	32	TEAR	pokel	Mediopassive	Regularly	
+Eastern Armenian	32	TEAR	pokel	Object Omission	Never	
+Eastern Armenian	32	TEAR	pokel	Proprietive	Regularly	
+Eastern Armenian	32	TEAR	pokel	Reciprocal	Never	
+Eastern Armenian	33	PEEL	klpel	Causative	Never	
+Eastern Armenian	33	PEEL	klpel	Causative-Mediopassive	Never	
+Eastern Armenian	33	PEEL	klpel	Contentive	Never	
+Eastern Armenian	33	PEEL	klpel	Internal Object	Never	
+Eastern Armenian	33	PEEL	klpel	Mediopassive	Regularly	
+Eastern Armenian	33	PEEL	klpel	Object Omission	Never	
+Eastern Armenian	33	PEEL	klpel	Proprietive	Regularly	
+Eastern Armenian	33	PEEL	klpel	Reciprocal	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Causative	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Causative-Mediopassive	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Contentive	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Internal Object	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Mediopassive	Regularly	
+Eastern Armenian	33	PEEL	kʰeɾel	Object Omission	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Proprietive	Never	
+Eastern Armenian	33	PEEL	kʰeɾel	Reciprocal	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Causative	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Causative-Mediopassive	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Contentive	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Internal Object	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Mediopassive	Regularly	
+Eastern Armenian	33	PEEL	makʰɾel	Object Omission	Never	
+Eastern Armenian	33	PEEL	makʰɾel	Proprietive	Marginally	
+Eastern Armenian	33	PEEL	makʰɾel	Reciprocal	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Causative	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Contentive	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Internal Object	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Mediopassive	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Object Omission	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Proprietive	Never	
+Eastern Armenian	34	HIDE	tʰakʰcʰnel	Reciprocal	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Causative	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Causative-Mediopassive	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Contentive	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Internal Object	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Mediopassive	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Object Omission	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Proprietive	Never	
+Eastern Armenian	35	SHOW	cʰujcʰ tal	Reciprocal	Never	
+Eastern Armenian	36	GIVE	tal	Causative	Never	
+Eastern Armenian	36	GIVE	tal	Causative-Mediopassive	Never	
+Eastern Armenian	36	GIVE	tal	Contentive	Never	
+Eastern Armenian	36	GIVE	tal	Internal Object	Never	
+Eastern Armenian	36	GIVE	tal	Mediopassive	Never	
+Eastern Armenian	36	GIVE	tal	Object Omission	Never	
+Eastern Armenian	36	GIVE	tal	Proprietive	Never	
+Eastern Armenian	36	GIVE	tal	Reciprocal	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Causative	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Causative-Mediopassive	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Contentive	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Internal Object	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Mediopassive	Regularly	
+Eastern Armenian	37	SEND	uʁaɾkel	Object Omission	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Proprietive	Never	
+Eastern Armenian	37	SEND	uʁaɾkel	Reciprocal	Never	
+Eastern Armenian	38	CARRY	tanel	Causative	Never	
+Eastern Armenian	38	CARRY	tanel	Causative-Mediopassive	Never	
+Eastern Armenian	38	CARRY	tanel	Contentive	Never	
+Eastern Armenian	38	CARRY	tanel	Internal Object	Never	
+Eastern Armenian	38	CARRY	tanel	Mediopassive	Never	
+Eastern Armenian	38	CARRY	tanel	Object Omission	Never	
+Eastern Armenian	38	CARRY	tanel	Proprietive	Never	
+Eastern Armenian	38	CARRY	tanel	Reciprocal	Never	
+Eastern Armenian	39	THROW	netel	Causative	Never	
+Eastern Armenian	39	THROW	netel	Causative-Mediopassive	Never	
+Eastern Armenian	39	THROW	netel	Contentive	Never	
+Eastern Armenian	39	THROW	netel	Internal Object	Never	
+Eastern Armenian	39	THROW	netel	Mediopassive	Regularly	
+Eastern Armenian	39	THROW	netel	Object Omission	Never	
+Eastern Armenian	39	THROW	netel	Proprietive	Never	
+Eastern Armenian	39	THROW	netel	Reciprocal	Never	
+Eastern Armenian	40	TIE	kapel	Causative	Never	
+Eastern Armenian	40	TIE	kapel	Causative-Mediopassive	Never	
+Eastern Armenian	40	TIE	kapel	Contentive	Never	
+Eastern Armenian	40	TIE	kapel	Internal Object	Never	
+Eastern Armenian	40	TIE	kapel	Mediopassive	Regularly	
+Eastern Armenian	40	TIE	kapel	Object Omission	Never	
+Eastern Armenian	40	TIE	kapel	Proprietive	Never	
+Eastern Armenian	40	TIE	kapel	Reciprocal	Never	
+Eastern Armenian	41	PUT	daɾsel	Causative	Never	
+Eastern Armenian	41	PUT	daɾsel	Causative-Mediopassive	Never	
+Eastern Armenian	41	PUT	daɾsel	Contentive	Never	
+Eastern Armenian	41	PUT	daɾsel	Internal Object	Never	
+Eastern Armenian	41	PUT	daɾsel	Mediopassive	Regularly	
+Eastern Armenian	41	PUT	daɾsel	Object Omission	Never	
+Eastern Armenian	41	PUT	daɾsel	Proprietive	Never	
+Eastern Armenian	41	PUT	daɾsel	Reciprocal	Never	
+Eastern Armenian	41	PUT	dnel	Causative	Never	
+Eastern Armenian	41	PUT	dnel	Causative-Mediopassive	Never	
+Eastern Armenian	41	PUT	dnel	Contentive	Never	
+Eastern Armenian	41	PUT	dnel	Internal Object	Never	
+Eastern Armenian	41	PUT	dnel	Mediopassive	Never	
+Eastern Armenian	41	PUT	dnel	Object Omission	Never	
+Eastern Armenian	41	PUT	dnel	Proprietive	Never	
+Eastern Armenian	41	PUT	dnel	Reciprocal	Never	
+Eastern Armenian	42	POUR	lcʰnel	Causative	Never	
+Eastern Armenian	42	POUR	lcʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	42	POUR	lcʰnel	Contentive	Marginally	
+Eastern Armenian	42	POUR	lcʰnel	Internal Object	Never	
+Eastern Armenian	42	POUR	lcʰnel	Mediopassive	Never	
+Eastern Armenian	42	POUR	lcʰnel	Object Omission	Never	
+Eastern Armenian	42	POUR	lcʰnel	Proprietive	Never	
+Eastern Armenian	42	POUR	lcʰnel	Reciprocal	Never	
+Eastern Armenian	43	COVER	cackel	Causative	Never	
+Eastern Armenian	43	COVER	cackel	Causative-Mediopassive	Never	
+Eastern Armenian	43	COVER	cackel	Contentive	Never	
+Eastern Armenian	43	COVER	cackel	Internal Object	Never	
+Eastern Armenian	43	COVER	cackel	Mediopassive	Regularly	
+Eastern Armenian	43	COVER	cackel	Object Omission	Never	
+Eastern Armenian	43	COVER	cackel	Proprietive	Never	
+Eastern Armenian	43	COVER	cackel	Reciprocal	Never	
+Eastern Armenian	44	FILL	lcʰnel	Causative	Never	
+Eastern Armenian	44	FILL	lcʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	44	FILL	lcʰnel	Contentive	Marginally	
+Eastern Armenian	44	FILL	lcʰnel	Internal Object	Never	
+Eastern Armenian	44	FILL	lcʰnel	Mediopassive	Never	
+Eastern Armenian	44	FILL	lcʰnel	Object Omission	Never	
+Eastern Armenian	44	FILL	lcʰnel	Proprietive	Never	
+Eastern Armenian	44	FILL	lcʰnel	Reciprocal	Never	
+Eastern Armenian	45	LOAD	baɾʒel	Causative	Never	
+Eastern Armenian	45	LOAD	baɾʒel	Causative-Mediopassive	Marginally	
+Eastern Armenian	45	LOAD	baɾʒel	Contentive	No data	
+Eastern Armenian	45	LOAD	baɾʒel	Internal Object	Never	
+Eastern Armenian	45	LOAD	baɾʒel	Mediopassive	Regularly	
+Eastern Armenian	45	LOAD	baɾʒel	Object Omission	Never	
+Eastern Armenian	45	LOAD	baɾʒel	Proprietive	Never	
+Eastern Armenian	45	LOAD	baɾʒel	Reciprocal	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Causative	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Causative-Mediopassive	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Contentive	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Internal Object	Marginally	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Mediopassive	Marginally	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Object Omission	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Proprietive	Never	
+Eastern Armenian	46	BLINK	tʰaɾtʰel	Reciprocal	Never	
+Eastern Armenian	47	COUGH	hagal	Causative	Marginally	
+Eastern Armenian	47	COUGH	hagal	Causative-Mediopassive	Never	
+Eastern Armenian	47	COUGH	hagal	Contentive	Never	
+Eastern Armenian	47	COUGH	hagal	Internal Object	Never	
+Eastern Armenian	47	COUGH	hagal	Mediopassive	Never	
+Eastern Armenian	47	COUGH	hagal	Object Omission	Never	
+Eastern Armenian	47	COUGH	hagal	Proprietive	Never	
+Eastern Armenian	47	COUGH	hagal	Reciprocal	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Causative-Mediopassive	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Contentive	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Internal Object	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Mediopassive	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Object Omission	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Proprietive	Never	
+Eastern Armenian	48	CLIMB	baɾʒɾanal	Reciprocal	Never	
+Eastern Armenian	49	RUN	vazel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	49	RUN	vazel	Causative-Mediopassive	Marginally	
+Eastern Armenian	49	RUN	vazel	Contentive	Never	
+Eastern Armenian	49	RUN	vazel	Internal Object	Never	
+Eastern Armenian	49	RUN	vazel	Mediopassive	Never	
+Eastern Armenian	49	RUN	vazel	Object Omission	Never	
+Eastern Armenian	49	RUN	vazel	Proprietive	Never	
+Eastern Armenian	49	RUN	vazel	Reciprocal	Never	
+Eastern Armenian	50	SIT	nstel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	50	SIT	nstel	Causative-Mediopassive	Marginally	
+Eastern Armenian	50	SIT	nstel	Contentive	Never	
+Eastern Armenian	50	SIT	nstel	Internal Object	Never	
+Eastern Armenian	50	SIT	nstel	Mediopassive	Never	
+Eastern Armenian	50	SIT	nstel	Object Omission	Never	
+Eastern Armenian	50	SIT	nstel	Proprietive	Never	
+Eastern Armenian	50	SIT	nstel	Reciprocal	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	51	SIT DOWN	nstel	Causative-Mediopassive	Marginally	
+Eastern Armenian	51	SIT DOWN	nstel	Contentive	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Internal Object	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Mediopassive	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Object Omission	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Proprietive	Never	
+Eastern Armenian	51	SIT DOWN	nstel	Reciprocal	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Causative	Marginally	
+Eastern Armenian	52	JUMP	cʰatkel	Causative-Mediopassive	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Contentive	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Internal Object	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Mediopassive	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Object Omission	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Proprietive	Never	
+Eastern Armenian	52	JUMP	cʰatkel	Reciprocal	Never	
+Eastern Armenian	53	SING	jeɾgel	Causative	Marginally	
+Eastern Armenian	53	SING	jeɾgel	Causative-Mediopassive	Never	
+Eastern Armenian	53	SING	jeɾgel	Contentive	Never	
+Eastern Armenian	53	SING	jeɾgel	Internal Object	Marginally	
+Eastern Armenian	53	SING	jeɾgel	Mediopassive	Regularly	
+Eastern Armenian	53	SING	jeɾgel	Object Omission	Regularly	1-nom V'.subj[1]
+Eastern Armenian	53	SING	jeɾgel	Proprietive	Never	
+Eastern Armenian	53	SING	jeɾgel	Reciprocal	Never	
+Eastern Armenian	54	GO	gnal	Causative	Marginally	
+Eastern Armenian	54	GO	gnal	Causative-Mediopassive	Marginally	
+Eastern Armenian	54	GO	gnal	Contentive	Never	
+Eastern Armenian	54	GO	gnal	Internal Object	Never	
+Eastern Armenian	54	GO	gnal	Mediopassive	Never	
+Eastern Armenian	54	GO	gnal	Object Omission	Never	
+Eastern Armenian	54	GO	gnal	Proprietive	Never	
+Eastern Armenian	54	GO	gnal	Reciprocal	Never	
+Eastern Armenian	55	LEAVE	meknel	Causative	Never	
+Eastern Armenian	55	LEAVE	meknel	Causative-Mediopassive	Never	
+Eastern Armenian	55	LEAVE	meknel	Contentive	Never	
+Eastern Armenian	55	LEAVE	meknel	Internal Object	Never	
+Eastern Armenian	55	LEAVE	meknel	Mediopassive	Regularly	
+Eastern Armenian	55	LEAVE	meknel	Object Omission	Never	
+Eastern Armenian	55	LEAVE	meknel	Proprietive	Never	
+Eastern Armenian	55	LEAVE	meknel	Reciprocal	Never	
+Eastern Armenian	56	LIVE	apɾel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	56	LIVE	apɾel	Causative-Mediopassive	Never	
+Eastern Armenian	56	LIVE	apɾel	Contentive	Never	
+Eastern Armenian	56	LIVE	apɾel	Internal Object	Never	
+Eastern Armenian	56	LIVE	apɾel	Mediopassive	Regularly	
+Eastern Armenian	56	LIVE	apɾel	Object Omission	Never	
+Eastern Armenian	56	LIVE	apɾel	Proprietive	Never	
+Eastern Armenian	56	LIVE	apɾel	Reciprocal	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	57	LAUGH	cicaʁel	Causative-Mediopassive	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Contentive	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Internal Object	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Mediopassive	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Object Omission	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Proprietive	Never	
+Eastern Armenian	57	LAUGH	cicaʁel	Reciprocal	Never	
+Eastern Armenian	58	SCREAM	goral	Causative	Marginally	
+Eastern Armenian	58	SCREAM	goral	Causative-Mediopassive	Never	
+Eastern Armenian	58	SCREAM	goral	Contentive	Never	
+Eastern Armenian	58	SCREAM	goral	Internal Object	Never	
+Eastern Armenian	58	SCREAM	goral	Mediopassive	Never	
+Eastern Armenian	58	SCREAM	goral	Object Omission	Never	
+Eastern Armenian	58	SCREAM	goral	Proprietive	Never	
+Eastern Armenian	58	SCREAM	goral	Reciprocal	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	59	FEEL PAIN	cʰavel	Causative-Mediopassive	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Contentive	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Internal Object	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Mediopassive	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Object Omission	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Proprietive	Never	
+Eastern Armenian	59	FEEL PAIN	cʰavel	Reciprocal	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	60	FEEL COLD	mɾsel	Causative-Mediopassive	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Contentive	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Internal Object	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Mediopassive	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Object Omission	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Proprietive	Never	
+Eastern Armenian	60	FEEL COLD	mɾsel	Reciprocal	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	60	FEEL COLD	sarel	Causative-Mediopassive	Regularly	1/4-nom causmedV'.subj[1/4]
+Eastern Armenian	60	FEEL COLD	sarel	Contentive	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Internal Object	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Mediopassive	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Object Omission	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Proprietive	Never	
+Eastern Armenian	60	FEEL COLD	sarel	Reciprocal	Never	
+Eastern Armenian	61	DIE	mahanal	Causative	Marginally	
+Eastern Armenian	61	DIE	mahanal	Causative-Mediopassive	Never	
+Eastern Armenian	61	DIE	mahanal	Contentive	Never	
+Eastern Armenian	61	DIE	mahanal	Internal Object	Never	
+Eastern Armenian	61	DIE	mahanal	Mediopassive	Never	
+Eastern Armenian	61	DIE	mahanal	Object Omission	Never	
+Eastern Armenian	61	DIE	mahanal	Proprietive	Never	
+Eastern Armenian	61	DIE	mahanal	Reciprocal	Never	
+Eastern Armenian	61	DIE	mernel	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	61	DIE	mernel	Causative-Mediopassive	Marginally	
+Eastern Armenian	61	DIE	mernel	Contentive	Never	
+Eastern Armenian	61	DIE	mernel	Internal Object	Never	
+Eastern Armenian	61	DIE	mernel	Mediopassive	Never	
+Eastern Armenian	61	DIE	mernel	Object Omission	Never	
+Eastern Armenian	61	DIE	mernel	Proprietive	Never	
+Eastern Armenian	61	DIE	mernel	Reciprocal	Never	
+Eastern Armenian	62	PLAY	χaʁal	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	62	PLAY	χaʁal	Causative-Mediopassive	Regularly	1/2-nom causmedV'.subj[1/2]
+Eastern Armenian	62	PLAY	χaʁal	Contentive	Never	
+Eastern Armenian	62	PLAY	χaʁal	Internal Object	Never	
+Eastern Armenian	62	PLAY	χaʁal	Mediopassive	Never	
+Eastern Armenian	62	PLAY	χaʁal	Object Omission	Never	
+Eastern Armenian	62	PLAY	χaʁal	Proprietive	Never	
+Eastern Armenian	62	PLAY	χaʁal	Reciprocal	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Causative	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Causative-Mediopassive	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Contentive	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Internal Object	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Mediopassive	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Object Omission	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Proprietive	Never	
+Eastern Armenian	63	BE SAD	tχuɾ e	Reciprocal	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Causative	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Causative-Mediopassive	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Contentive	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Internal Object	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Mediopassive	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Object Omission	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Proprietive	Never	
+Eastern Armenian	64	BE HUNGRY	sovel	Reciprocal	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Causative	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Causative-Mediopassive	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Contentive	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Internal Object	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Mediopassive	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Object Omission	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Proprietive	Never	
+Eastern Armenian	65	ROLL	gloɾvel	Reciprocal	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Causative	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Causative-Mediopassive	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Contentive	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Internal Object	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Mediopassive	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Object Omission	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Proprietive	Never	
+Eastern Armenian	66	SINK	χoɾtakvel	Reciprocal	Never	
+Eastern Armenian	67	BURN	ajɾvel	Causative	Never	
+Eastern Armenian	67	BURN	ajɾvel	Causative-Mediopassive	Never	
+Eastern Armenian	67	BURN	ajɾvel	Contentive	Never	
+Eastern Armenian	67	BURN	ajɾvel	Internal Object	Never	
+Eastern Armenian	67	BURN	ajɾvel	Mediopassive	Never	
+Eastern Armenian	67	BURN	ajɾvel	Object Omission	Never	
+Eastern Armenian	67	BURN	ajɾvel	Proprietive	Never	
+Eastern Armenian	67	BURN	ajɾvel	Reciprocal	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Causative	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Causative-Mediopassive	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Contentive	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Internal Object	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Mediopassive	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Object Omission	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Proprietive	Never	
+Eastern Armenian	68	BE DRY	čʰoɾ e	Reciprocal	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Causative	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Causative-Mediopassive	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Contentive	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Internal Object	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Mediopassive	Marginally	
+Eastern Armenian	69	RAIN	anʒɾevel	Object Omission	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Proprietive	Never	
+Eastern Armenian	69	RAIN	anʒɾevel	Reciprocal	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Causative	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Causative-Mediopassive	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Contentive	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Internal Object	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Mediopassive	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Object Omission	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Proprietive	Never	
+Eastern Armenian	70	BE A HUNTER	voɾsoɾd e	Reciprocal	Never	
+Eastern Armenian	71	GRIND	cecel	Causative	Never	
+Eastern Armenian	71	GRIND	cecel	Causative-Mediopassive	Never	
+Eastern Armenian	71	GRIND	cecel	Contentive	Never	
+Eastern Armenian	71	GRIND	cecel	Internal Object	Never	
+Eastern Armenian	71	GRIND	cecel	Mediopassive	Regularly	
+Eastern Armenian	71	GRIND	cecel	Object Omission	Never	
+Eastern Armenian	71	GRIND	cecel	Proprietive	Never	
+Eastern Armenian	71	GRIND	cecel	Reciprocal	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Causative	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Causative-Mediopassive	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Contentive	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Internal Object	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Mediopassive	Regularly	
+Eastern Armenian	72	WIPE	makʰɾel	Object Omission	Never	
+Eastern Armenian	72	WIPE	makʰɾel	Proprietive	Marginally	
+Eastern Armenian	72	WIPE	makʰɾel	Reciprocal	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Causative	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Causative-Mediopassive	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Contentive	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Internal Object	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Mediopassive	Regularly	
+Eastern Armenian	73	DIG	pʰoɾel	Object Omission	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Proprietive	Never	
+Eastern Armenian	73	DIG	pʰoɾel	Reciprocal	Never	
+Eastern Armenian	74	PUSH	hɾel	Causative	Never	
+Eastern Armenian	74	PUSH	hɾel	Causative-Mediopassive	Never	
+Eastern Armenian	74	PUSH	hɾel	Contentive	Never	
+Eastern Armenian	74	PUSH	hɾel	Internal Object	Never	
+Eastern Armenian	74	PUSH	hɾel	Mediopassive	Regularly	
+Eastern Armenian	74	PUSH	hɾel	Object Omission	Never	
+Eastern Armenian	74	PUSH	hɾel	Proprietive	Never	
+Eastern Armenian	74	PUSH	hɾel	Reciprocal	Never	
+Eastern Armenian	75	BRING	beɾel	Causative	Never	
+Eastern Armenian	75	BRING	beɾel	Causative-Mediopassive	Never	
+Eastern Armenian	75	BRING	beɾel	Contentive	Never	
+Eastern Armenian	75	BRING	beɾel	Internal Object	Never	
+Eastern Armenian	75	BRING	beɾel	Mediopassive	Never	
+Eastern Armenian	75	BRING	beɾel	Object Omission	Never	
+Eastern Armenian	75	BRING	beɾel	Proprietive	Never	
+Eastern Armenian	75	BRING	beɾel	Reciprocal	Never	
+Eastern Armenian	76	STEAL	goʁanal	Causative	Marginally	
+Eastern Armenian	76	STEAL	goʁanal	Causative-Mediopassive	Never	
+Eastern Armenian	76	STEAL	goʁanal	Contentive	Never	
+Eastern Armenian	76	STEAL	goʁanal	Internal Object	Never	
+Eastern Armenian	76	STEAL	goʁanal	Mediopassive	Never	
+Eastern Armenian	76	STEAL	goʁanal	Object Omission	Never	
+Eastern Armenian	76	STEAL	goʁanal	Proprietive	Never	
+Eastern Armenian	76	STEAL	goʁanal	Reciprocal	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Causative	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Causative-Mediopassive	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Contentive	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Internal Object	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Mediopassive	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Object Omission	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Proprietive	Never	
+Eastern Armenian	77	TEACH	sovoɾecʰnel	Reciprocal	Never	
+Eastern Armenian	78	HEAR	lsel	Causative	Marginally	
+Eastern Armenian	78	HEAR	lsel	Causative-Mediopassive	Marginally	
+Eastern Armenian	78	HEAR	lsel	Contentive	Never	
+Eastern Armenian	78	HEAR	lsel	Internal Object	Never	
+Eastern Armenian	78	HEAR	lsel	Mediopassive	Regularly	
+Eastern Armenian	78	HEAR	lsel	Object Omission	Never	
+Eastern Armenian	78	HEAR	lsel	Proprietive	Never	
+Eastern Armenian	78	HEAR	lsel	Reciprocal	Never	
+Eastern Armenian	79	COOK	jepʰel	Causative	Never	
+Eastern Armenian	79	COOK	jepʰel	Causative-Mediopassive	Never	
+Eastern Armenian	79	COOK	jepʰel	Contentive	Never	
+Eastern Armenian	79	COOK	jepʰel	Internal Object	Never	
+Eastern Armenian	79	COOK	jepʰel	Mediopassive	Regularly	
+Eastern Armenian	79	COOK	jepʰel	Object Omission	Marginally	
+Eastern Armenian	79	COOK	jepʰel	Proprietive	Never	
+Eastern Armenian	79	COOK	jepʰel	Reciprocal	Never	
+Eastern Armenian	80	BOIL	jeral	Causative	Regularly	4-nom 1-dat causV'.subj[4]
+Eastern Armenian	80	BOIL	jeral	Causative-Mediopassive	Marginally	
+Eastern Armenian	80	BOIL	jeral	Contentive	Never	
+Eastern Armenian	80	BOIL	jeral	Internal Object	Never	
+Eastern Armenian	80	BOIL	jeral	Mediopassive	Never	
+Eastern Armenian	80	BOIL	jeral	Object Omission	Never	
+Eastern Armenian	80	BOIL	jeral	Proprietive	Never	
+Eastern Armenian	80	BOIL	jeral	Reciprocal	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Causative	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Causative-Mediopassive	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Contentive	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Internal Object	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Mediopassive	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Object Omission	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Proprietive	Never	
+Eastern Armenian	81	APPEAR	hajtnvel	Reciprocal	Never	
+Eastern Armenian	82	BE ILL	hivand e	Causative	Never	
+Eastern Armenian	82	BE ILL	hivand e	Causative-Mediopassive	Never	
+Eastern Armenian	82	BE ILL	hivand e	Contentive	Never	
+Eastern Armenian	82	BE ILL	hivand e	Internal Object	Never	
+Eastern Armenian	82	BE ILL	hivand e	Mediopassive	Never	
+Eastern Armenian	82	BE ILL	hivand e	Object Omission	Never	
+Eastern Armenian	82	BE ILL	hivand e	Proprietive	Never	
+Eastern Armenian	82	BE ILL	hivand e	Reciprocal	Never	
+Eastern Armenian	83	CRY	lacʰel	Causative	Marginally	
+Eastern Armenian	83	CRY	lacʰel	Causative-Mediopassive	Never	
+Eastern Armenian	83	CRY	lacʰel	Contentive	Never	
+Eastern Armenian	83	CRY	lacʰel	Internal Object	Never	
+Eastern Armenian	83	CRY	lacʰel	Mediopassive	Never	
+Eastern Armenian	83	CRY	lacʰel	Object Omission	Never	
+Eastern Armenian	83	CRY	lacʰel	Proprietive	Never	
+Eastern Armenian	83	CRY	lacʰel	Reciprocal	Never	
+Eastern Armenian	84	FALL	ənknel	Causative	Never	
+Eastern Armenian	84	FALL	ənknel	Causative-Mediopassive	Never	
+Eastern Armenian	84	FALL	ənknel	Contentive	Never	
+Eastern Armenian	84	FALL	ənknel	Internal Object	Never	
+Eastern Armenian	84	FALL	ənknel	Mediopassive	Never	
+Eastern Armenian	84	FALL	ənknel	Object Omission	Never	
+Eastern Armenian	84	FALL	ənknel	Proprietive	Never	
+Eastern Armenian	84	FALL	ənknel	Reciprocal	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Causative	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Causative-Mediopassive	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Contentive	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Internal Object	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Mediopassive	Regularly	
+Eastern Armenian	85	MAKE	saɾkʰel	Object Omission	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Proprietive	Never	
+Eastern Armenian	85	MAKE	saɾkʰel	Reciprocal	Never	
+Eastern Armenian	85	MAKE	steʁcel	Causative	Never	
+Eastern Armenian	85	MAKE	steʁcel	Causative-Mediopassive	Never	
+Eastern Armenian	85	MAKE	steʁcel	Contentive	Never	
+Eastern Armenian	85	MAKE	steʁcel	Internal Object	Never	
+Eastern Armenian	85	MAKE	steʁcel	Mediopassive	Regularly	
+Eastern Armenian	85	MAKE	steʁcel	Object Omission	Never	
+Eastern Armenian	85	MAKE	steʁcel	Proprietive	Never	
+Eastern Armenian	85	MAKE	steʁcel	Reciprocal	Never	
+Eastern Armenian	85	MAKE	šinel	Causative	Never	
+Eastern Armenian	85	MAKE	šinel	Causative-Mediopassive	Never	
+Eastern Armenian	85	MAKE	šinel	Contentive	Never	
+Eastern Armenian	85	MAKE	šinel	Internal Object	Never	
+Eastern Armenian	85	MAKE	šinel	Mediopassive	Regularly	
+Eastern Armenian	85	MAKE	šinel	Object Omission	Never	
+Eastern Armenian	85	MAKE	šinel	Proprietive	Never	
+Eastern Armenian	85	MAKE	šinel	Reciprocal	Never	
+Eastern Armenian	86	GET	stanal	Causative	Marginally	
+Eastern Armenian	86	GET	stanal	Causative-Mediopassive	Never	
+Eastern Armenian	86	GET	stanal	Contentive	Never	
+Eastern Armenian	86	GET	stanal	Internal Object	Never	
+Eastern Armenian	86	GET	stanal	Mediopassive	Never	
+Eastern Armenian	86	GET	stanal	Object Omission	Never	
+Eastern Armenian	86	GET	stanal	Proprietive	Never	
+Eastern Armenian	86	GET	stanal	Reciprocal	Never	
+Eastern Armenian	87	WANT	uzel	Causative	Never	
+Eastern Armenian	87	WANT	uzel	Causative-Mediopassive	Never	
+Eastern Armenian	87	WANT	uzel	Contentive	Never	
+Eastern Armenian	87	WANT	uzel	Internal Object	Never	
+Eastern Armenian	87	WANT	uzel	Mediopassive	Marginally	
+Eastern Armenian	87	WANT	uzel	Object Omission	Never	
+Eastern Armenian	87	WANT	uzel	Proprietive	Never	
+Eastern Armenian	87	WANT	uzel	Reciprocal	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Causative	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Causative-Mediopassive	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Contentive	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Internal Object	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Mediopassive	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Object Omission	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Proprietive	Never	
+Eastern Armenian	150	SHAVE (self)	sapʰɾvel	Reciprocal	Never	

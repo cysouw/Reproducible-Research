@@ -1,0 +1,96 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Ket	1	Elicited from speaker	Qimdɯlʲ naˀnʲ dabil.		qim-dɯlʲ naˀnʲ da-b-il-a	woman-child bread 3SG.F.SBJ-3INAN.OBJ-PST-eat	The girl ate the bread.
+Ket	2	Elicited from speaker	Dɨ̄lʲ debile naˀnʲ.		dɨ̄lʲ de-b-il-e naˀnʲ	child 3SG.F.SBJ-3INAN.OBJ-PST-eat bread	The child ate the bread.
+Ket	3	Elicited from speaker	Hiɣe dətovɨnte dɨ̄lʲ usinčas.		hiɣe d-ət-o-v-ɨn-te dɨ̄lʲ usinč-as	man 3SG.M.SBJ-on-3SG.M.OBJ-TH-PST-STEM child blanket-INSTR	The man covered the child with the blanket.
+Ket	4	Elicited from speaker	Hīɣ dɯlʲ usinsʲas dətoɣomne.		hīɣ dɯlʲ usinsʲ-as d-ət-o-ɣ-o-m-n-e	man child blanket-INSTR 3SG.M.SBJ-on-3SG.M.OBJ-TH-PST-TH-PST-put.MOM	The man covered the child with the blanket.
+Ket	5	Elicited from speaker	Hīɣ eɣin ulʲasʲ dutomsin.		hīɣ eɣin ulʲ-asʲ d-ut-o-b-in-sin	man dipper water-INSTR 3SG.M.SBJ-full-PST-3INAN.OBJ-PST-cause.to.become	The man filled the dipper with water.
+Ket	6	Elicited from speaker	Hīɣ īsʲ súùlʲdiŋa desoŋondaq.		hīɣ īsʲ súùlʲ-diŋa d-es-oŋ-o-n-daq	man fish hand.sled-INAN.DAT 3SG.M.SBJ-into_the_open-3PL.ANIM.OBJ-PST-PST-put.MOM	The man loaded the fish on the hand sled.
+Ket	7	Elicited from speaker	Hīɣ sèlʲ oksʲdaŋa daŋaɣina.		hīɣ sèlʲ oksʲ-daŋa d-aŋ-a-ɣ-in-a	man reindeer tree-M.DAT 3SG.M.SBJ-rope-3SG.M.OBJ-TH-PST-put.MOM	The man tied the deer to the tree.
+Ket	8	Elicited from speaker	Hīɣ eɣindiŋa ūlʲ datpijdaq.		hīɣ eɣin-diŋa ūlʲ d-at-p-ij-daq	man dipper-INAN.DAT water 3SG.M.SBJ-by_pouring-3INAN.OBJ-PST-put.MOM	The man poured the water into the dipper.
+Ket	9	Elicited from speaker	Hīɣ īsʲ lʲam dədiŋa desoŋondaq.		hīɣ īsʲ lʲam d-ət-diŋa d-es-oŋ-on-daq	man fish table POSS.INAN-back-INAN.DAT 3SG.M.SBJ-into_the_open-3PL.ANIM.OBJ-PST-put.MOM	The man put the fish on the table.
+Ket	10	Elicited from speaker	Hiɣdɯlʲ tɯˀsʲ okoškodiŋa deskomdaq.		hiɣ-dɯlʲ tɯˀsʲ okoško-diŋa d-es-k-om-daq	man-child stone window-INAN.DAT 3SG.M.SBJ-into_the_open-TH-3INAN.OBJ/PST-put.MOM	The boy threw the stone into the window.
+Ket	11	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋa daiːmbes.		qim-dɯlʲ eslʲa siraɣat-ket-daŋa ra-ik-u-k-in-bes	woman-child book teach-person-M.DAT 3SG.F.SBJ-here-3INAN.OBJ-TH-PST-move.MOM	The girl brought the book to the teacher (once).
+Ket	12	Elicited from speaker	Qimdɯlʲ rataŋgimne.		qim-dɯlʲ ra-taŋ-g-i-m-n-e	woman-child 3SG.F.SBJ-drag-TH-EV-3INAN.OBJ-PST-put.MOM	The girl dragged it.
+Ket	13	Elicited from speaker	Ulolta.		ul-ol-ta	water-PST-fall	It rained.
+Ket	14	Elicited from speaker	Dɯlʲ ovɯlʲd qoʁot.		dɯlʲ o-vɯlʲ-d(e) qoʁot	child PST-be\PST-STEM hunger	The boy was hungry.
+Ket	15	Elicited from speaker	Hiɣdɯlʲ dontəːl.		hiɣ-dɯlʲ d-on-tə:l	man-child 3SG.M.SBJ-PST-freeze	The boy froze.
+Ket	16	Elicited from speaker	Hīɣ baŋdiŋa hɯta (t)tolaraq.		hīɣ baŋ-diŋa hɯta (t)-t-ol-a-raq	man ground-INAN.DAT down 3SG.M.SBJ-TH-PST-3SG.M.SBJ-fall	The man fell to the ground.
+Ket	17	Elicited from speaker	Keˀt duno.		keˀt du-n-qo	person 3SG.M.SBJ-PST-die	The man died.
+Ket	18	Elicited from speaker	Āb həŋn aratn.		āb həŋn ar-a-tn	1POSS arm be_sick-PRES-undergo	My arm hurts (me).
+Ket	19	Elicited from speaker	Hiɣdɯlʲ dbilil.		hiɣ-dɯlʲ d-b-il-il	man-child 3SG.M.SBJ-3INAN.OBJ-PST-sing	The boy sang (it).
+Ket	20	Elicited from speaker	Hiɣdɯlʲ eŋŋuŋga doldaq.		hiɣ-dɯlʲ eŋŋuŋ-ga d-ol-daq	man-child village-LOC 3SG.M.SBJ-PST-live	The boy lived in the village.
+Ket	21	Elicited from speaker	Hiɣdɯlʲ eŋŋuŋdiŋalʲ oɣon.		hiɣ-dɯlʲ eŋŋuŋ-diŋalʲ o-ɣ-o-(t)n	man-child village-INAN.ABL 3SG.M.SBJ-TH-PST-go	The boy went (from the village).
+Ket	22	Elicited from speaker	Hīɣ baŋga tsesolte.		hīɣ baŋ-ga t-ses-ol-te	man ground-LOC 3SG.M.SBJ-place-PST-be.put	The man sat on the ground.
+Ket	23	Elicited from speaker	Hīɣ baŋdiŋa tkonaɣən.		hīɣ baŋ-diŋa t-k-on-a-ɣən	man ground-INAN.DAT 3SG.M.SBJ-TH-PST-3SG.M.SBJ-sit_down	The man sat down on the ground.
+Ket	24	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋa školadiŋa daeraqimne.		qim-dɯlʲ eslʲa siraɣat-ket-daŋa škola-diŋa da-era-q-im-n-e	woman-child book teach-person-M.DAT school-INAN.DAT 3SG.F.SBJ-send-CAUS-3INAN.OBJ-PST-put.MOM	The girl sent the book to the teacher to school.
+Ket	25	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatket daovijaq.		qim-dɯlʲ eslʲa siraɣat-ket da-o-v-ij-aq	woman-child book teach-person 3SG.F.SBJ-3SG.M.OBJ-TH-PST-give	The girl gave the book to the teacher.
+Ket	26	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋa raɯtkimna.		qim-dɯlʲ eslʲa siraɣat-ket-daŋa ra-ɯt-k-im-n-a	woman-child book teach-person-M.DAT 3SG.F.SBJ-visible-TH-3INAN.OBJ-PST-put.MOM	The girl showed the book to the teacher.
+Ket	27	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋalʲ rauddeiŋuɣolvet.		qim-dɯlʲ eslʲa siraɣat-ket-daŋalʲ ra-uddeiŋ-u-ɣ-ol-vet	woman-child book teach-person-M.ABL 3SG.F.SBJ-steal-3INAN.OBJ-TH-PST-ITER	The girl stole the book from the teacher.
+Ket	28	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋalʲ dakajnem.		qim-dɯlʲ eslʲa siraɣat-ket-daŋalʲ da-kaj-n-em	woman-child book teach-person-M.ABL 3SG.F.SBJ-take_object-PST-take	The girl took the book from the teacher.
+Ket	29	Elicited from speaker	Qimdɯlʲ eslʲa siraɣatketdaŋalʲ ragimna.		qim-dɯlʲ eslʲa siraɣat-ket-daŋalʲ ra-gi-m-n-a	woman-child book teach-person-M.ABL 3SG.F.SBJ-hide-3INAN.OBJ-PST-put.MOM	The girl hid the book from the teacher.
+Ket	30	Elicited from speaker	Qimdɯlʲ eslʲadiŋalʲ eslit lʲamt kəma raqətejula.		qim-dɯlʲ eslʲa-diŋalʲ esli-t lʲamt kəma ra-qətej-u-l-a	woman-child book-INAN.ABL book-POSS piece away 3SG.F.SBJ-yank-3INAN.OBJ-PST-MOM	The girl tore the page from the book.
+Ket	31	Elicited from speaker	Qimdɯlʲ lamd ətdiŋalʲ sʲīn kəma raovilvet.		qim-dɯlʲ lam-d ət-diŋalʲ sʲīn kəma ra-o-v-il-vet	woman-child table-POSS back-INAN.ABL dirt away 3SG.F.SBJ-PST-3INAN.OBJ-PST-wipe	The girl wiped the dirt off the table.
+Ket	32	Elicited from speaker	Hiɣdɯlʲ naˀnʲ donasʲ tkomna.		hiɣ-dɯlʲ naˀnʲ don-asʲ t-k-o-m-n-a	man-child bread knife-INSTR 3SG.M.SBJ-TH-PST-3INAN.OBJ-PST-cut	The boy cut the bread with the knife.
+Ket	33	Elicited from speaker	Hiɣdɯlʲ tìɣ oksʲasʲ dnoldəj.		hiɣ-dɯlʲ tìɣ oksʲ-asʲ d-n-o-l-dəj	man-child snake stick-INSTR 3SG.M.SBJ-TH-3SG.M.OBJ-PST-touch	The boy touched the snake with the stick.
+Ket	34	Elicited from speaker	Hiɣdɯlʲ tìɣ oksʲas doviltet.		hiɣ-dɯlʲ tìɣ oksʲ-as d-o-v-il-tet	man-child snake stick-INSTR 3SG.M.SBJ-3SG.M.OBJ-TH-PST-hit	The boy hit the snake with the stick.
+Ket	35	Elicited from speaker	Hiɣdɯlʲ tìɣ oksʲas tharondo.		hiɣ-dɯlʲ tìɣ oksʲ-as t-har-o-n-do	man-child snake stick-INSTR 3SG.M.SBJ-area-3M.SG.OBJ-PST-beat	The boy beat the snake with the stick.
+Ket	36	Elicited from speaker	Hiɣdɯlʲ tìɣ oksʲas daʁaj.		hiɣ-dɯlʲ tìɣ oksʲ-as d-a-ʁ-aj	man-child snake stick-INSTR 3SG.M.SBJ-3SG.M.OBJ-PST-kill	The boy killed the snake with the stick.
+Ket	37	Elicited from speaker	Hiɣdɯlʲ okoško tɯsʲas dilunbet.		hiɣ-dɯlʲ okoško tɯsʲ-as d-il-u-k-in-bed	man-child window stone-INSTR 3SG.M.SBJ-small.piece-3SG.INAN.OBJ-TH-PST-make	The boy broke the window with the stone.
+Ket	38	Constructed by linguist	Hīɣ iʁus dubbet (aqdiŋalʲ).		hīɣ iʁus du-b-bed aq-diŋalʲ	man house 3SG.M.SBJ-3INAN.OBJ-make wood.PL-INAN.ABL	The man builds a house out of wood.
+Ket	39	Naturalistic spoken	Qarʲ da'ŋa bara: eddi.	kарр’ да'ңа барä: “?едди”.	qarʲ da'ŋa bara ed-di	DEM.M 3SG.M.DAT 3M.SG.say alive-1SG	He said to him: "I’m alive"."
+Ket	40	Elicited from speaker	Hīɣ qimdɯldiŋa desolej.		hīɣ qim-dɯl-diŋa d-es-ol-ej	man woman-child-F.DAT 3SG.M.SBJ-out-PST-call	The man shouted at the girl.
+Ket	41	Elicited from speaker	Hīɣ qimdɯldiŋa asʲkət (t)tovinge.		hīɣ qim-dɯl-diŋa asʲkət t-t-o-v-in-ge	man woman-child-F.DAT fairy_tale 3SG.M.SBJ-TH-PST-3INAN.OBJ-PST-tell	The man told a fairytale to the girl.
+Ket	42	Elicited from speaker	Hiɣdɯlʲ hiɣdaŋalʲ qəmtəŋ esʲaŋ tsilaq.		hiɣ-dɯlʲ hiɣ-daŋalʲ qəmtəŋ esʲaŋ t-si-l-aq	man-child man-M.ABL money for 3SG.M.SBJ-ask-PST-STEM	The boy asked the man for money.
+Ket	43	Elicited from speaker	Hīɣ hiɣdɯlasʲ qimdil dasanolʁan.		hīɣ hiɣ-dɯl-asʲ qim-dɯl d-asqan-i-ɣ-ol-kan	man man-child-INSTR woman-child 3SG.M.SBJ-words-3F.SG.OBJ-TH-PST-speak	The man talked to the boy about the girl.
+Ket	44	Elicited from speaker	Hīɣ dɯlda qoŋ inam italam.		hīɣ dɯl-da qoŋ inam it-a-l-am	man child-POSS.M image long_ago know-3SG.M.SBJ-PST-STEM	The man knew the boy.
+Ket	45	Elicited from speaker	Hīɣ hiɣdɯlʲ datoloŋ.		hīɣ hiɣ-dɯlʲ d-a-t-ol-oŋ	man man-child 3SG.M.SBJ-3SG.M.OBJ-TH-PST-see	The man saw the boy.
+Ket	46	Elicited from speaker	Hiɣə daniŋlʲebet ture dɯldat.		hiɣə d-aniŋ-lʲe-bet ture dɯl-dat	man 3SG.M.SBJ-think-PST-ITER DEM.M child-M.SG.ADESS	The man thought about that boy.
+Ket	47	Elicited from speaker	Hīɣ hiɣdɯlʲda tān dbuŋloq.		hīɣ hiɣ-dɯlʲ-da tān d-bu-ŋ-l-oq	man man-child-POSS.M toward 3SG.M.SBJ-3SG.M.SBJ-TH-PST-look	The man looked at the boy.
+Ket	48	Elicited from speaker	Hīɣ hiɣdɯlʲ dqoranqone.		hīɣ hiɣ-dɯlʲ d-qoraŋ-q-o-n-e	man man-child 3SG.M.SBJ-fright-CAUS-3SG.M.OBJ-PST-put.MOM	The man frightened the boy.
+Ket	49	Elicited from speaker	Hiɣdɯlʲ hiɣdaŋalʲ dbutolok.		hiɣ-dɯlʲ hiɣ-daŋalʲ d-bu-t-ol-ok	man-child man-M.ABL 3SG.M.SBJ-3SG.M.SBJ-TH-PST-shiver	The boy feared the man.
+Ket	50	Elicited from speaker	Hiɣdɯlʲdaŋa hīɣ daqtoɣon.		hiɣ-dɯlʲ-daŋa hīɣ d-aqt-o-ʁon	man-child-M.DAT man 3SG.M.SBJ-good-PST-be.INCEPT	The boy liked the man.
+Ket	51	Elicited from speaker	Hīɣ hiɣdɯlʲdaŋt tsaŋlevet.		hīɣ hiɣ-dɯlʲ-daŋt t-saŋ-le-vet	man man-child-M.ADESS 3SG.M.SBJ-search-PST-ITER	The man searched for the boy.
+Ket	52	Elicited from speaker	Hīɣ qīm (du)sukbulotin.		hīɣ qīm du-suk-bu-k-il-ot-in	man woman 3ANIM.SBJ-meet-3ANIM.SBJ-TH-PST-go-SBJ.PL	The man and the woman met.
+Ket	53	Elicited from speaker	Hīɣ qīmd oŋta qolʲepka eiŋ aɣoɣon.		hīɣ qīm-d oŋta qolʲep-ka eiŋ a-ɣ-o-ʁon	man woman-POSS back side-LOC go 3SG.M.SBJ-TH-PST-INCEPT	The man followed the woman.
+Ket	54	Elicited from speaker	Hīɣ qīm posovatuɣolbet.		hīɣ qīm du-posovat-u-ɣ-ol-bet	man woman 3SG.M.SBJ-help-3SG.F.OBJ-TH-PST-ITER	The man helped the woman.
+Ket	55	Elicited from speaker	Qimdɯlʲ dɯlʲ daolsa.		qim-dɯlʲ dɯlʲ da-o-l-sa	woman-child child 3SG.F.SBJ-3SG.M.OBJ-PST-dress	The girl dressed the child.
+Ket	56	Elicited from speaker	Qimdɯlʲ dɯlʲ dauldolaŋ.		qim-dɯlʲ dɯlʲ da-ul-d-o-l-gaŋ	woman-child child 3SG.F.SBJ-water-TH-3SG.M.OBJ-PST-wash	The girl washed the child.
+Ket	57	Elicited from speaker	Hīɣ qaqtemerolbet.		hīɣ du-qaqtemer-ol-bed	man 3SG.M.SBJ-cough-PST-make	The man coughed.
+Ket	58	Elicited from speaker	Hīɣ qaˀj tosʲa tkonut.		hīɣ qaˀj tosʲa t-k-on-qut	man hill up 3SG.M.SBJ-TH-PST-go	The man climbed up the hill.
+Ket	59	Elicited from speaker	Dɯlʲ baŋbesʲ toqtetoɣon.		dɯlʲ baŋ-besʲ toqtet-o-ɣ-o-(t)n	child ground-PROS run-3SG.M.SBJ-TH-PST-go	The child ran (on the floor).
+Ket	60	Elicited from speaker	Dɯlʲ deŋolbet.		dɯlʲ d-eŋ-ol-bed	child 3SG.M.SBJ-jump-PST-make	The child jumped.
+Ket	61	Elicited from speaker	Hiɣdɯlʲ (kulʲtaɣa) dətoɣon.		hiɣ-dɯlʲ kulʲta-ɣa d-ət-o-qon	man-child road-LOC 3SG.M.SBJ-visible-PST-INCEPT	The boy appeared (on the road).
+Ket	62	Elicited from speaker	Buŋ dɯlgat thataŋɔŋsivetn.		buŋ dɯlgat t-hataŋ-ɔŋ-k-si-bed-n	3PL children 3SBJ-press-3PL.OBJ-TH-PRES-make-ANIM.PL.SBJ	They hug the children.
+Ket	63	Elicited from speaker	Hīɣ isnadiŋal ditit.		hīɣ is-na-diŋal d-it-it	man fish-POSS.ANIM.PL-ABL 3SG.M.SBJ-smell-sense	The man smells the fish. / The man catches the scent of the fish.
+Ket	64	Elicited from speaker	Hīɣ dakūˑl tkava.		hīɣ da-kūˑl t-k-a-v-a	man 3SG.M.POSS-beard 3SBJ-off-PRES-3INAN.OBJ-shave	The man shaves his beard.
+Ket	65	Elicited from speaker	Āˑm hiɣdɯl daesaɣej.		āˑm hiɣ-dɯl da-es-a-ɣ-ej	mother man-child 3SG.F.SBJ-out-3SG.M.OBJ-TH-call	The mother calls the boy.
+Ket	66	Elicited from speaker	Āˑm dēˑs daimoltijtsa.		āˑm da-imoltij-bu-t-s-a	mother 3SG.F.SBJ-blink-3SBJ.RFLX-TH-PRES-make	Mother blinks.
+Ket	67	Elicited from speaker	Kʌjdɛŋ sesdiŋa ɔŋɔn.		kʌj-dɛŋ ses-diŋa ɔŋ-k-ɔn-den	hunting-people river-INAN.ADESS 3ANIM.SBJ-TH-PST-go	The hunters went to the river.
+Ket	68	Naturalistic spoken	Āˑm dadaʁɔlij.		āˑm da-daʁ-ɔl-ij	mother 3SG.F.SBJ-laugh-PST-ITER	Mother laughed.
+Ket	69	Naturalistic spoken	Āˑm daesij.		āˑm da-es-ej	mother 3SG.F.SBJ-out-shout	Mother is shouting (out).
+Ket	70	Naturalistic spoken	Dɯlgat danisten.		dɯlgat d-an-is-de-n	children 3SBJ-mind-PRES-occupy-ANIM.PL.SBJ	Children are playing.
+Ket	71	Naturalistic spoken	Hiɣdɯl daŋsivet.		hiɣ-dɯl d-aŋ-si-bed	man-child 3SG.M.SBJ-negative.feeling-PRES-make	The boy is sad.
+Ket	72	Naturalistic spoken	Bāˑɣ kivatiŋ.		bāˑɣ k-i-b-a-tiŋ	log down-PRES-3INAN.SBJ-INTRANS-roll	A log is rolling.
+Ket	73	Elicited from speaker	Qīˑm daulolon.		qīˑm da-ul-ol-qan	woman 3SG.F.SBJ-wet-PST-become	The woman sank. / The woman drowned.
+Ket	74	Naturalistic spoken	Bɔˀk inaʁavʁan.		bɔˀk inaq-a-b-qan	fire burn-PRES-3INAN.SBJ-begin	Fire burns. / Fire begins to burn.
+Ket	75	Naturalistic spoken	Baˀŋ tɔʁɔjiŋam.		baˀŋ tɔʁɔjiŋ-am	ground dry-3INAN.SBJ.PRED.AGR	The ground is dry.
+Ket	76	Naturalistic spoken	Bōˑp kʌjket ovɯldu.		b-ōˑp kʌj-ket ovɯl-du	my-father hunting-person be\PST-3.MASC.SG	My father was a hunter.
+Ket	77	Constructed by linguist	At talɯn diptet.		at talɯn di-b-ted	1SG flour 1SBJ-3INAN.OBJ-grind	I grind flour.
+Ket	78	Elicited from speaker	At tirʌŋ dugdavut.		ad tid-ʌŋ d-u-gd-a-v-qut	1SG root-PL 1SG.SBJ-3INAN.OBJ-TH-PRES-TH-dig	I dig roots.
+Ket	79	Elicited from speaker	Āˑm hiɣdɯl dateːlajt.		āˑm hiɣ-dɯl da-teːl-aj-t	mother man-child 3SG.F.SBJ-shove-3SG.M.OBJ-do.once	The mother pushes the boy.
+Ket	80	Naturalistic spoken	Qīˑm dɯlgat dasiraqqaŋit.		qīˑm dɯlgat da-siraq-q-aŋ-t	woman children 3SG.F.SBJ-teach-into-3ANIM.PL.OBJ-put.MOM	The woman teaches the children.
+Ket	81	Naturalistic spoken	At uɣil qaan baɣabda.		at uɣ-il qaan ba-ɣ-a-b-da	1SG 2SG-ABL words 1SG.SBJ-TH-PRES-TH-hear	I hear you. / I hear your words.
+Ket	82	Naturalistic spoken	Āˑm aːl daənɢivit.		āˑm aːl da-ən-q-i-b-t	mother soup 3SG.F.SBJ-cook-into-PRES-3INAN.OBJ-put.MOM	Mother cooks soup.
+Ket	83	Naturalistic spoken	Aːl uɣaʁan.		aːl u-k-a-qan	soup 3INAN.SBJ-TH-PRES-boil	The soup is boiling. / The soup is cooking.
+Ket	84	Elicited from speaker	Qīˑm bāˑɣ dakiptiŋ.		qīˑm bāˑɣ da-k-i-b-tiŋ	woman log 3SG.F.SBJ-TH-PRES-3INAN.OBJ-roll	The woman rolls a log.
+Ket	85	Naturalistic spoken	Isqo keˀt daŋbuːna.		isqo keˀt d-aŋ-bu-k-in-a	fishing man 3SG.M.SBJ-tie-3SBJ.RFLX-TH-PST-put.MOM	The fisherman tethered himself.
+Ket	86	Elicited from speaker	Thataŋbuksivetn.		t-hataŋ-bu-k-si-bed-n	3SBJ-close-3SBJ.RFLX-TH-PRES-make-ANIM.PL.SBJ	They hug each other. / They hug themselves.
+Ket	87	Elicited from speaker	Isqo deˀŋ daŋbuːnan.		isqo deˀŋ d-aŋ-bu-k-in-a-n	fishing people 3SBJ-tie-3SBJ.RFLX-TH-PST-put.MOM-ANIM.PL.SBJ	The fishermen tethered each other.
+Ket	88	Naturalistic spoken	Keˀt tsuna.		keˀt t-sun-a	person 3SBJ-hazel.grouse-eat	The person is eating grouse meat.
+Ket	89	Elicited from speaker	Āˑm hiɣdɯl dadaqqajit.		āˑm hiɣ-dɯl da-daq-q-aj-t	mother man-child 3SG.F.SBJ-laugh-CAUS-3SG.M.OBJ-do.once	The mother causes the boy to start laughing (once).
+Ket	90	Elicited from speaker	Āˑm hiɣdɯl dadaqqajda.		āˑm hiɣ-dɯl da-daq-q-aj-da	mother man-child 3SG.F.SBJ-laugh-CAUS-3SG.M.OBJ-ITER	The mother causes the boy to start laughing (regularly).
+Ket	91	Constructed by linguist	Ad eŋqoŋ diksives.		ad eŋqoŋ d-ik-si-bes	1SG today 1SG-into.open.space-PRES-pass	I come today.
+Ket	92	Constructed by linguist	Ad op eŋqoŋ diɣoksives.		ad op eŋqoŋ d-ik-o-k-si-bes	1SG father today 1SG-into.open.space-3.MASC.OBJ-with/TH-PRES-pass	I come with (=bring) father today.
+Ket	93	Constructed by linguist	Lʲa’m abəbed.		lʲa’m a-b-ə-bed	table PRES-3INAN.SBJ-RES-wipe	The table is wiped off.
+Ket	94	Constructed by linguist	At lʲa’m dabbet.		ad lʲa’m d-a-b-bed	1SG table 1.SBJ-PRES-3INAN.SBJ-wipe	I wiped the table.
+Ket	95	Constructed by linguist	Hīɣdɯlʲ tiɣdaŋal tqoranejolbet.		hīɣ dɯlʲ tiɣ-daŋal t-qoranej-ol-bed	boy child snake-MASC.SG:ABL 3SBJ-fear-PST-make	The boy was afraid of the snake.

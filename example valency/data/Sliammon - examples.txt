@@ -1,0 +1,244 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Sliammon	1		čʼəɬ.		čʼəɬ	rain	It rains. / It rained.
+Sliammon	2		ʔiɬtənstanapi=č.		ʔiɬtən-st-anapi=č	eat-CAU-2PL.OBJ=1SG.INDC.SBJ	I feed you guys.
+Sliammon	3		kʼʷətas tə= tutamʼiš.		kʼʷən-t-∅-as tə= tutamʼiš	see-CTR-3.OBJ-3.ERG DET= boy	He looked at the boy.
+Sliammon	4		čʼagatas tə= saɬtxʷ.		čʼag-a-t-∅-as tə= saɬtxʷ	help-LV-CTR-3.OBJ-3.ERG DET= woman	He helped the woman.
+Sliammon	5		saysayʼmitas tə= tumiš.		CVC-saǰʼ-mi-t-∅-as tə= tumiš	RDPL-fear-RLT-CTR-3.OBJ-3.ERG DET= man	He feared the man. / He was scared of the man.
+Sliammon	6	Elicited from speaker	kʼʷitʼᶿim.		kʼʷitʼᶿ-im	jump-MDL	He jumped.
+Sliammon	7		kʼʷitʼᶿimit =čxʷ tə= pələməs!		kʼʷitʼᶿ-im-mi-t-∅ =čxʷ tə= pələməs	jump-MDL-RLT-CTR-3.OBJ =2SG.INDC.SBJ DET= plums	Jump for the plums! / You jump for the plums!
+Sliammon	8		hu =tᶿəm.		hu =tᶿəm	go =1SG.INDC.SBJ:FUT	I will go.
+Sliammon	9	Elicited from speaker	x̣ənatas tə= tiča ʔə= tə= pukʷ.		x̣ənat-t-∅-as tə= tiča ʔə= tə= pukʷ	give-CTR-3.OBJ-3.ERG DET= teacher OBL= DET= book	He gave the book to the teacher.
+Sliammon	10		xənatəm.		xənat-t-∅-əm	give-CTR-3.OBJ-PASS	It was given to him.
+Sliammon	11		x̣̣əyp =č.		x̣əyp =č	startle =1SG.INDC.SBJ	I got startled.
+Sliammon	12		tʼᶿiyitas tə= tutamiš.		tʼᶿiy-i-t-∅-as tə= tutamiš	search-LV-CTR-3.OBJ-3.ERG DET= boy	He looked for the boy.
+Sliammon	13		niʔitas tə= ʔiʔagikʼʷs.		niʔ-i-t-∅-as tə= ʔiʔagikʼʷ-s	put.on-LV-CTR-3.OBJ-3.ERG DET= clothes-3.POSS	He put his clothes on.
+Sliammon	14	Elicited from speaker	qəpt =čən.		qəp-t-∅ =čən	touch-CTR-3.OBJ =1SG.INDC.SBJ	I touch it.
+Sliammon	15	Elicited from speaker	kʷayiš =tᶿəm tə= pəču.		kʷay-iš-∅ =tᶿəm tə= pəču	hide-CTR-3.OBJ =1SG.INDC.SBJ:FUT DET= basket	I will hide the basket.
+Sliammon	16		kʷinatas tə= kʼʷawʔis.		kʷinat-t-∅-as tə= kʼʷawʔis	carry-CTR-3.OBJ-3.ERG DET= bucket	She is carrying the bucket.
+Sliammon	17	Elicited from speaker	səytʼat =tᶿəm tə= ləstəpuwl.		səytʼ-a-t-∅ =tᶿəm tə= ləstəpuwl	throw-LV-CTR-3.OBJ =1SG.INDC.SBJ:FUT DET= ball	I will throw the ball.
+Sliammon	18	Elicited from speaker	tuqʼʷum tə= tumiš.		tuqʼʷ-um tə= tumiš	cough-MDL DET= man	The man coughed / has a cold.
+Sliammon	19		qʼaqʼa tə= čuyʼ.		qʼaqʼa tə= čuyʼ	hungry DET= child	The child is hungry.
+Sliammon	20	Elicited from speaker	šəmʼ tə=tʼəytʼayš'.		šəmʼ tə=tʼəy-tʼayš'	dry DET=PL-blanket	The blankets dried up.
+Sliammon	21		θayʼəm tə=nəxʷiɬ.		θayʼ-əm tə=nəxʷiɬ	sink-MDL DET=canoe	The boat sank.
+Sliammon	22	Elicited from speaker	sax̣ʷat'.		sax̣ʷ-a-t-∅	scrape-LV-CTR-3.OBJ	Scrape it.
+Sliammon	23		sasax̣ʷusəm =č.		sa-sax̣ʷ-us-əm =č	IMPF-scrape-face-MDL =1SG.INDC.SBJ	I am shaving my face.
+Sliammon	24	Elicited from speaker	təx̣ʷnixʷas tə= tutamʼiš.		təx̣ʷ-n<i>xʷ-∅-as tə=tutamʼiš	find.out-NTR<STV>-OBJ-3.ERG DET= boy	He knew the boy.
+Sliammon	25		ʔəysxʷasuɬ tə= tumiš.		ʔəy-sxʷ-as-uɬ tə= tumiš	good-CAU-3.ERG-PAST DET= man	He liked the man.
+Sliammon	26	Elicited from speaker	səpʼtas tə= ʔuɬqay.		səpʼ-t-∅-as tə= ʔuɬqay	club-CTR-3.OBJ-3.ERG DET= snake	He hit the snake. / He clubbed the snake.
+Sliammon	27	Elicited from speaker	hihiw tih sapʼatas tə= ʔuɬqay.		hihiw tih sapʼ-a-t-∅-as tə= ʔuɬqay	very big club[PL]-LV-CTR-3.OBJ-3.ERG DET= snake	He beat the snake.
+Sliammon	28		yəpʼtas tə= lamaya.		yəpʼ-t-∅-as tə= lamaya	break-CTR-3.OBJ-3.ERG DET= bottle	He broke the bottle.
+Sliammon	29	Elicited from speaker	pəx̣tuɬ =čən tiʔi qʼəsnayʼ.		pəx̣-t-∅-uɬ =čən tiʔi qʼəsnayʼ	tear-CTR-3.OBJ-PAST =1SG.INDC.SBJ DEM shirt	I tore this shirt apart.
+Sliammon	30	Elicited from speaker	kʼʷənsxʷas tə= tiča (ʔə=) tə= pukʷ.		kʼʷən-sxʷ-∅-as tə= tiča ʔə= tə= pukʷ	see-CAU-3.OBJ-3.ERG DET= teacher OBL= DET= book	He showed the book to the teacher.
+Sliammon	31		kʼʷənʔəmsxʷ =tᶿəm ɬu= ǰaʔihiw ʔə= tiʔi pukʷ.		kʼʷən-ʔəm-sxʷ-∅ =tᶿəm ɬu= ǰaʔihiw ʔə= tiʔi pukʷ	see-A.INTR-CAU-3.OBJ =1SG.INDC.SBJ:FUT DET= DEM OBL= DEM book	I will show these guys the book.
+Sliammon	32	Elicited from speaker	qʼisitas tə= tiqiw ʔə= tə= ǰaǰʼa.		qʼis-i-t-∅-as tə= tiqiw ʔə= tə= ǰaǰʼa	tie-LV-CTR-3.OBJ-3.ERG DET= horse OBL= DET= tree	He tied the horse to the tree.
+Sliammon	33		ʔah tə= tᶿ= čayiš.		ʔah tə= tᶿ= čayiš	sore DET= 1SG.POSS= hand	My hand is hurting.
+Sliammon	34	Elicited from speaker	qaqsamʼuθinamʼuɬ plit.		qaqsamʼuθin-amʼ-uɬ plit	sing-MDL-PAST Fred	Fred sang.
+Sliammon	35		qaqsamʼuθinʔəmtas.		qaqsamʼuθin-ʔəm-t-∅-as	sing-IND-CTR-3.OBJ-3.ERG	He sang for her.
+Sliammon	36	Elicited from speaker	wuwum =ga!		wuw-um =ga	sing-MDL =IMP	Sing! / Go ahead and sing!
+Sliammon	37	Elicited from speaker	wuwumʔəmt =ga!		wuw-um-ʔəm-t-∅ =ga	sing-MDL-IND-CTR-3.OBJ =IMP	Sing for him!
+Sliammon	38	Elicited from speaker	wuwumstumšas.		wuw-um-stu-mš-as	sing-MDL-CAU-1SG.OBJ-3.ERG	He made me sing.
+Sliammon	39	Elicited from speaker	ɬawš =č tə= tᶿ= ʔayaʔ.		ɬaw-š-∅ =č tə= tᶿ= ʔayaʔ	leave-CTR-3.OBJ =1SG.INDC.SBJ DET= 1SG.POSS= house	I am leaving my house.
+Sliammon	40	Elicited from speaker	kʼʷəɬaš =ga tə= qayʼa!		kʼʷəɬ-aš-∅ =ga tə= qayʼa	spill-CTR-3.OBJ =IMP DET= water	Spill the water out!
+Sliammon	41	Elicited from speaker	kʼʷəɬ tə= qayʼa.		kʼʷəɬ =∅ tə= qayʼa	spill =3.INDC.SBJ DET= water	The water spilled.
+Sliammon	42	Elicited from speaker	kʼʷəɬʔəmθ =čxʷ ʔə= kʷ= tiy!		kʼʷəɬ-ʔəm-θ =čxʷ ʔə= kʷ= tiy	spill-A.INTR-CTR:2SG.OBJ =2SG.INDC.SBJ OBL= DET= tea	(You) Pour some tea for me!
+Sliammon	43	Elicited from speaker	kʼʷəɬʔəm =ga ʔə= kʷ= tihaya!		kʼʷəɬ-ʔəm =ga ʔə= kʷ= tihaya	spill-A.INTR =IMP OBL= DET= tea	Pour some tea!
+Sliammon	44	Elicited from speaker	kʼʷəɬʔəmsxʷas tə= saɬtxʷ.		kʼʷəɬ-ʔəm-sxʷ-∅-as tə= saɬtxʷ	spill-A.INTR-CAU-3.OBJ-3.ERG DET= woman	He made the girl pour it.
+Sliammon	45	Elicited from speaker	kʷatas tə= ƛas ʔə= tə= θiwuθitən.		kʷa-t-∅-as tə= ƛas ʔə= tə= θiwuθitən	put.down-CTR-3.OBJ-3.ERG DET= glass OBL= DET= table	He put the glass on the table.
+Sliammon	46		kʷaʔəmθ =ga ʔə= təyʼta!		kʷa(ʔ)-ʔəm-θ =ga ʔə= təyʼta	put.down-IND-CTR:2SG.OBJ =IMP OBL= DEM	Put it down there for me!
+Sliammon	47	Elicited from speaker	tʼayšatas tə= čuyʼ.		tʼayš-a-t-∅-as tə= čuyʼ	blanket-LV-CTR-3.OBJ-3.ERG DET= child	He covered the baby with a blanket.
+Sliammon	48	Elicited from speaker	tʼayšatəm tə= čuyʼ ʔə= tə= tans.		tʼayš-a-t-∅-əm tə= čuyʼ ʔə= tə= tan-s	blanket-LV-CTR-3.OBJ-PASS DET= child OBL= DET= mother-3.POSS	The mother covered the baby with a blanket. / The baby was covered with a blanket by his mother.
+Sliammon	49	Elicited from speaker	tʼayšaʔamθ =ga ʔə= tə= tᶿ= čuyʼ!		tʼayš-aʔam-θ =ga ʔə= tə= tᶿ= čuyʼ	blanket-IND-CTR:1SG.OBJ =IMP OBL= DET= 1SG.POSS= child	Put a blanket over my baby for me!
+Sliammon	50	Elicited from speaker	tʼayšam =tᶿəm.		tʼayš-am =tᶿəm	blanket-MDL =1SG.INDC.SBJ:FUT	I will cover myself with a blanket.
+Sliammon	51		yaʔcʼaš =čxʷ tə= kʼʷawʔis!		yaʔcʼ-aš-∅ =čxʷ tə= kʼʷawʔis	full-CTR-3.OBJ =2SG.INDC.SBJ DET= bucket	(You) fill up the bucket!
+Sliammon	52	Elicited from speaker	yəčʼ tə= kʼʷawʔis.		yəčʼ tə= kʼʷawʔis	full DET= bucket	The bucket is full.
+Sliammon	53	Elicited from speaker	yəčʼʔəmθi =tᶿəm ʔə= tə= qayʼa.		yəčʼ-ʔəm-θi =tᶿəm ʔə= tə= qayʼa	full-IND-CTR:2SG.OBJ =1SG.INDC.SBJ:FUT OBL= DET= water	I will fill (it) up with water for you.
+Sliammon	54	Elicited from speaker	yəčʼmiθim =a ʔə= kʷə= θ= ʔayaʔ?		yəčʼ-mi-θi-m =a ʔə= kʷə= θ= ʔayaʔ	full-RLT-CTR:2SG.OBJ-PASS =QN OBL= DET= 2SG.POSS= house	Is your house full of people? / lit. 'Are you being filled in regards to your house?'
+Sliammon	55		ʔuwuɬsxʷas tə= ʔasxʷ.		ʔuwuɬ-sxʷ-∅-as tə= ʔasxʷ	embark-CAU-3.OBJ-3.ERG DET= seal	He loads the seal.
+Sliammon	56	Elicited from speaker	ʔuʔuwuɬ =št ʔə= tə= nəxʷiɬ.		ʔu-ʔuwuɬ =št ʔə= tə= nəxʷiɬ	IMPF-embark =1PL.INDC.SBJ OBL= DET= canoe	We are embarking on the boat.
+Sliammon	57	Elicited from speaker	titiwšamsxʷ =č ʔə= kʷ= ʔayʔaǰuθəm.		ti-tiwš-am-sxʷ-∅ =č ʔə= kʷ= ʔayʔaǰuθəm	IMPF-learn-MDL-CAU-3.OBJ =1SG.INDC.SBJ OBL= DET= Native.language	I am teaching her the native language.
+Sliammon	58	Elicited from speaker	titiwšam =č.		ti-tiwš-am =č	IMPF-learn-MDL =1SG.INDC.SBJ	I am learning.
+Sliammon	59	Elicited from speaker	tiwšamʔəmθi =tᶿəm.		tiwš-am-ʔəm-θi =tᶿəm	learn-MDL-IND-CTR:2SG.OBJ =1SG.INDC.SBJ	I will teach (her) for you.
+Sliammon	60	Elicited from speaker	čəwʼuniθas ʔə= tə= tᶿ= tala.		čəwʼu-ni-θ-as ʔə= tə= tᶿ= tala	steal-IND-CTR:1SG.OBJ-3.ERG OBL= DET= 1SG.POSS= money	He stole money from me.
+Sliammon	61	Elicited from speaker	čəwʼuɬ tə= čuyʼ.		čəwʼuɬ tə= čuyʼ	steal DET= child	The child stole (something).
+Sliammon	62	Elicited from speaker	čəwʼuniθayəm ʔə= šə= tᶿ= ʔatnupil.		čəwʼu-ni-θay-əm ʔə= šə= tᶿ= ʔatnupil	steal-IND-CTR:1SG.OBJ-PASS OBL= DET= 1SG.POSS= car	My car is stolen. / I was stolen as regards my car.
+Sliammon	63	Elicited from speaker	ǰuǰuθut =št tə= ʔatnupil.		ǰu-ǰuθ-u-t-∅ =št tə= ʔatnupil	IMPF-push-LV-CTR-3.OBJ =1PL.INDC.SBJ DET= car	We are pushing the car.
+Sliammon	64	Elicited from speaker	ǰuθʔəm =kʼʷa =səm ʔə= tə= tᶿ= ʔatnupil.		ǰuθ-ʔəm =∅ =kʼʷa =səm ʔə= tə= tᶿ= ʔatnupil	push-A.INTR =3.INDC.SBJ =QUOT =FUT OBL= DET= 1SG.POSS= car	He will push my car.
+Sliammon	65	Elicited from speaker	ǰuθʔəmθi =tᶿəm ʔə= tə= ʔatnupil.		ǰuθ-ʔəm-θi =tᶿəm ʔə= tə= ʔatnupil	push-IND-CTR:2SG.OBJ =1SG.INDC.SBJ:FUT OBL= DET= car	I will push the car for you.
+Sliammon	66	Elicited from speaker	həqʷt =čaxʷ tiyʼta qʷasəm!		həqʷ-t-∅ =čaxʷ tiyʼta qʷasəm	smell-CTR-3.OBJ =2SG.INDC.SBJ DEM flower	(You) smell that flower!
+Sliammon	67	Elicited from speaker	həhqʷaʔam ɬə= čʼačʼnuʔ.		hə-hqʷ-aʔam =∅ ɬə= čʼačʼnuʔ	IMPF-smell-A.INTR =3.INDC.SBJ DET= little.dog	The little dog is smelling around.
+Sliammon	68	Elicited from speaker	həqʷšinəm.		həqʷ-šin-əm	smell-foot-MDL	To smell one's own foot.
+Sliammon	69	Elicited from speaker	qʼʷaqʼʷθustas tə= saɬtxʷ ʔə= kʷ= x̣ʷax̣ʷaǰʼimʼ.		qʼʷaqʼʷθus-t-∅-as tə= saɬtxʷ ʔə= kʷ= x̣ʷax̣ʷaǰʼimʼ	tell.stories-CTR-3.OBJ-3.ERG DET= woman OBL= DET= legend	He told the woman a legend.
+Sliammon	70	Elicited from speaker	qʼʷaqʼʷθəmʼ =tᶿəm.		qʼʷaqʼʷθəmʼ =tᶿəm	tell.stories:MDL =1SG.INDC.SBJ	I will tell stories.
+Sliammon	71	Elicited from speaker	nanat =čxʷ tə= čuyʼ!		nan-a-t-∅ =čxʷ tə= čuyʼ	name-LV-CTR-3.OBJ =2SG.INDC.SBJ DET= child	(You) name the baby!
+Sliammon	72	Elicited from speaker	həytasuɬ tə= ʔayaʔ.		həy-t-∅-as-uɬ tə= ʔayaʔ	make-CTR-3.OBJ-3.ERG-PAST DET= house	He built the house.
+Sliammon	73	Elicited from speaker	θapatas tə= čuyʼ.		θap-a-t-∅-as tə= čuyʼ	bathe-LV-CTR-3.OBJ-3.ERG DET= child	She bathed the baby.
+Sliammon	74	Elicited from speaker	θapiš tə= tan.		θap-iš =∅ tə= tan	bathe-MDL =3.INDC.SBJ DET= mother	The mother bathed.
+Sliammon	75	Elicited from speaker	θapišsxʷas.		θap-iš-sxʷ-∅-as	bathe-MDL-CAU-3.OBJ-3.ERG	She let him take a bath.
+Sliammon	76	Elicited from speaker	tʼᶿətʼᶿkʷtas tə= θiwuθitən.		tʼᶿə-tʼᶿkʷ-t-∅-as tə= θiwuθitən	IMPF-wipe-CTR-3.OBJ-3.ERG DET= table	He is wiping the table.
+Sliammon	77	Elicited from speaker	ǰaqʼ tə= ǰaǰʼa.		ǰaqʼ tə= ǰaǰʼa	fall DET= tree	The tree fell.
+Sliammon	78	Elicited from speaker	mamʼatas ɬə= paʔa ǰanxʷ.		ma-mʼa-t-∅-as ɬə= paʔa ǰanxʷ	IMPF-obtain-CTR-3.OBJ-3.ERG DET= one fish	He is taking one fish.
+Sliammon	79	Elicited from speaker	qʷiqʷaysxʷas tə= wiwʼlus niniǰi tə= saɬtxʷ.		qʷi-qʷay-sxʷ-∅-as tə= wiwʼlus niniǰi tə= saɬtxʷ	RDPL-talk-CAU-3.OBJ-3.ERG DET= young.man about DET= woman	He talked to the young man about the girl.
+Sliammon	80	Elicited from speaker	qʷaysxʷas.		qʷay-sxʷ-∅-as	talk-CAU-3.OBJ-3.ERG	He will let him talk. / He will make him talk.
+Sliammon	81	Elicited from speaker	qʷayʔəmθ =čxʷəm.		qʷay-ʔəm-θ =čxʷəm	talk-IND-CTR:1SG.OBJ =2SG.INDC.SBJ:FUT	You will speak for me.
+Sliammon	82	Elicited from speaker	qʷay =ga!		qʷay =ga	talk =IMP	Talk!
+Sliammon	83	Elicited from speaker	qʼiyaθas.		qʼiya-θ-as	shout-CTR:1SG.OBJ-3.ERG	He hollered at me.
+Sliammon	84	Elicited from speaker	qʼiyaʔəmθ =čxʷ!		qʼiya-ʔəm-θ =čxʷ	holler-IND-CTR:1SG.OBJ =2SG.INDC.SBJ	(You) holler at them for me!
+Sliammon	85	Elicited from speaker	ɬupʼut =ga tə= θ= 'banana'!		ɬupʼ-u-t-∅ =ga tə= θ= 'banana'	peel-LV-CTR-3.OBJ =IMP DET= 2SG.POSS= banana	Peel your banana!
+Sliammon	86	Elicited from speaker	ƛʼux̣ʷt.		ƛʼux̣ʷt =∅	cry =3.INDC.SBJ	She cries.
+Sliammon	87	Elicited from speaker	čʼičʼx̣at =č tə= tᶿ= ʔiɬtən.		čʼi-čʼx̣-a-t-∅ =č tə= tᶿ= ʔiɬtən	IMPF-cook-LV-CTR-3.OBJ =1SG.INDC.SBJ DET= 1SG.POSS= food	I am cooking my food.
+Sliammon	88	Elicited from speaker	paɬuqʼʷum tə= qayʼa.		paɬuqʼʷ-um tə= qayʼa	boil-MDL DET= water	The water is boiling.
+Sliammon	89	Elicited from speaker	pəɬqʼʷat =tᶿəm tə= məǰaθ.		pəɬqʼʷ-a-t-∅ =tᶿəm tə= məǰaθ	boil-LV-CTR-3.OBJ =1SG.INDC.SBJ:FUT DET= meat	I will boil the meat.
+Sliammon	90		šihigimut tə= qayʼawmixʷ.		ših-ig-imut tə= qayʼawmixʷ	appear-PL-MDL DET= people	The people (all) appeared.
+Sliammon	91	Naturalistic spoken	čʼiyit =a =čxʷ ɬ= tʼitʼəstʼis?		čʼiy-i-t-∅ =a =čxʷ ɬ= tʼitʼəstʼis	hear-LV-CTR-3.OBJ =QN =2SG.INDC.SBJ DET= bird	Do you hear the bird?
+Sliammon	92	Elicited from speaker	ʔətᶿ= x̣aƛʼ kʷ= qayʼa.		ʔətᶿ= x̣aƛʼ kʷ= qayʼa	1SG.POSS= want DET= water	I want water.
+Sliammon	93	Elicited from speaker	x̣aƛʼnumi =č.		x̣aƛʼ-nu-mi =č	want-NTR-2SG.OBJ =1SG.INDC.SBJ	I love you.
+Sliammon	94	Elicited from speaker	hu =ga tʼaʔqʼaš tə= supayu!		hu =ga tʼaʔqʼ-aš tə= supayu	go =IMP bring-CTR DET= ax	Go bring the ax back!
+Sliammon	95	Elicited from speaker	tʼətʼqʼaʔamθi =č ʔə= tə= ʔapəls.		tʼə-tʼqʼ-aʔam-θi =č ʔə= tə= ʔapəls	IMPF-bring-IND-CTR:2SG.OBJ =1SG.INDC.SBJ OBL= DET= apple	I am bringing apples to (for) you.
+Sliammon	96	Elicited from speaker	Kʷanač ʔə= tə= θiyumixʷtən.		kʷanač =∅ ʔə= tə= θiyumixʷtən	sit =3.INDC.SBJ OBL= DET= floor	He is sitting on the floor.
+Sliammon	97	Elicited from speaker	kʷanačəm tə= tutamiš.		kʷanač-əm =∅ tə= tutamiš	sit-MDL =3.INDC.SBJ DET= boy	The boy sat down.
+Sliammon	98	Elicited from speaker	šaʔ tə= tutamʼiš ʔə= tə= ǰaǰʼa.		šaʔ tə= tutamʼiš ʔə= tə= ǰaǰʼa	climb DET= boy OBL= DET= tree	The boy climbed the tree.
+Sliammon	99	Elicited from speaker	tʼᶿikʼit tə= čəyčuyʼ.		tʼᶿikʼ<i>t tə=čəy-čuyʼ	scream<STV> DET= PL-child	The kids are screaming.
+Sliammon	100	Elicited from speaker	tʼᶿikʼtmiθas.		tʼᶿikʼt-mi-θ-as	scream-RLT-CTR:1SG.OBJ-3.ERG	He screamed at me.
+Sliammon	101	Elicited from speaker	pəlʼkʷ tə= ǰaǰʼa.		pəlʼkʷ tə= ǰaǰʼa	roll DET= tree	The log rolled down.
+Sliammon	102	Elicited from speaker	gayatas =kʷu ɬ= tans.		gay-a-t-∅-as =kʷu ɬ= tan-s	ask-LV-CTR-3.OBJ-3.ERG =CLT DET= mother-3.POSS	He asked his mother.
+Sliammon	103	Elicited from speaker	x̣̣ʷuǰut =čxʷ tə= čuyʼ!		x̣ʷuǰ-u-t-∅ =čxʷ tə= čuyʼ	put.arm.around-LV-CTR-3.OBJ =2SG.INDC.SBJ DET= child	(You) hold the baby with your arms around him!
+Sliammon	104	Naturalistic spoken	nunpigənmitasiw.		nu-np-igən-mi-t-∅-as-iw	RDPL-think-feeling-RLT-CTR-3.OBJ-3.ERG-PL	They thought about it.
+Sliammon	105	Elicited from speaker	čʼaʔčʼəm tə= tutamʼiš.		čʼaʔ-čʼəm =∅ tə= tutamʼiš	RDPL-cold =3.INDC.SBJ DET= boy	The boy is cold.
+Sliammon	106	Naturalistic spoken	ʔah =səm kʷ= qʷayiganap.		ʔah =səm kʷ= qʷayigan-ap	sore =FUT DET= feeling-2PL.POSS	You all will be sad.
+Sliammon	107	Elicited from speaker	tʼᶿipʼnəxʷ =ga!		tʼᶿipʼnəxʷ =ga	close.eyes =IMP	Close your eyes!
+Sliammon	108	Naturalistic spoken	natas čičiyaʔs.		na-t-∅-as čičiyaʔ-s	say-CTR-3.OBJ-3.ERG grandmother-3.POSS	He spoke to his grandmother.
+Sliammon	109	Elicited from speaker	čʼəttas tə= saplin.		čʼət-t-∅-as tə= saplin	cut-CTR-3.OBJ-3.ERG DET= bread	He cut the bread.
+Sliammon	110	Elicited from speaker	qəytas tə= mušmuš.		qəy-t-∅-as tə= mušmuš	die-CTR-3.OBJ-3.ERG DET= cow	He killed the cow.
+Sliammon	111	Elicited from speaker	ǰəƛʼ =čat =səm.		ǰəƛʼ =čat =səm	run =1PL.INDC.SBJ =FUT	We will run.
+Sliammon	112	Elicited from speaker	ʔawθmut qʼətxʷ tə= pipa.		ʔawθ-mut qʼətxʷ tə= pipa	suddenly-very burn DET= paper	All of a sudden, the paper burned."
+Sliammon	113	Elicited from speaker	ʔuʔuɬqʷu =č.		ʔu-ʔuɬqʷu =č	IMPF-dig.clams =1SG.INDC.SBJ	I am digging clams.
+Sliammon	114	Elicited from speaker	ʔuɬqʷusxʷas təyʼta čuyʼ.		ʔuɬqʷu-sxʷ-∅-as təyʼta čuyʼ	dig.clams-CAU-3.OBJ-3.ERG DEM child	He makes this child dig clams.
+Sliammon	115	Elicited from speaker	ʔuɬqʷuʔəmsxʷ =ga!		ʔuɬqʷu-ʔəm-sxʷ-∅ =ga	dig.clams-IND-CAU-3.OBJ =IMP	Make him dig clams!
+Sliammon	116	Elicited from speaker	ʔuʔuɬqʷuʔəmθis.		ʔu-ʔuɬqʷu-ʔəm-θi-s	IMPF-dig.clams-IND-CTR:2SG.OBJ-3.ERG	He is digging clams for me.
+Sliammon	117	Naturalistic spoken	tuyuwʔap tə= tᶿ= qəmʼqəm.		tuy<uw>ʔap tə=tᶿ=qəmʼqəm	follow<PL> DET=1SG.POSS=relative	My relatives followed (me).
+Sliammon	118	Elicited from speaker	tuyʔəptas tə= saɬtxʷ.		tuyʔəp-t-∅-as tə= saɬtxʷ	follow-CTR-3.OBJ-3.ERG DET= woman	He followed the girl.
+Sliammon	119	Elicited from speaker	kʷa= qəyʼ šə= tᶿ= manʼuɬ.		kʷa= qəyʼ šə= tᶿ= manʼ-uɬ	CLT= die DET= 1SG.POSS= father-PAST	My father passed away.
+Sliammon	120	Elicited from speaker	kʷukʷtəm John.		kʷu-kʷt-əm John	IMPF-sick-MDL pers.name	John is sick.
+Sliammon	121	Elicited from speaker	qaqsimʼsxʷ =tᶿəm.		qaqs-imʼ-sxʷ-∅ =tᶿəm	play-MDL-CAU-3.OBJ =1SG.INDC.SBJ:FUT	I will play with her.
+Sliammon	122	Naturalistic spoken	qaqsimʼ.		qaqs-imʼ =∅	play-MDL =3.INDC.SBJ	She plays.
+Sliammon	123	Elicited from speaker	qəsəm.		qəs-əm =∅	laugh-MDL =3.INDC.SBJ	She laughs.
+Sliammon	124	Elicited from speaker	qəqəsmiθas.		qə-qəs-mi-θ-as	IMPF-laugh-RLT-CTR:1SG.OBJ-3.ERG	They are laughing at me.
+Sliammon	125	Elicited from speaker	θiqʔəm =tᶿəm ʔə= tə= qawθ.		θiq-ʔəm =tᶿəm ʔə= tə= qawθ	dig-A.INTR =1SG.INDC.SBJ:FUT OBL= DET= potato	I am going to dig some potatoes.
+Sliammon	126	Naturalistic spoken	θiqit =čxʷ.		θiq-i-t-∅ =čxʷ	dig-LV-CTR-3.OBJ =2SG.INDC.SBJ	You dig it.
+Sliammon	127	Elicited from speaker	məkʷtas tə= saplin.		məkʷ-t-∅-as tə= saplin	eat-CTR-3.OBJ-3.ERG DET= bread	He ate bread.
+Sliammon	128	Elicited from speaker	nəgi =səm ʔə= məkʷʔəmstumin.		nəgi =səm ʔə= məkʷ-ʔəm-stu-mi-n	2SG.INDP =FUT CLF= eat-A.INTR-CAU-2SG.OBJ-1SG.ERG	I will let you eat it.
+Sliammon	129	Elicited from speaker	məkʷʔəmθas ʔə= tə= tᶿ= ʔiɬtən.		məkʷ-ʔəm-θ-as ʔə= tə= tᶿ= ʔiɬtən	eat-IND-CTR:1SG.OBJ-3.ERG OBL= DET= 1SG.POSS= food	He ate my food.
+Sliammon	130	Elicited from speaker	ʔiɬtən =tᶿəm ʔə= tə= ǰanxʷ.		ʔiɬtən =tᶿəm ʔə= tə= ǰanxʷ	eat =1SG.INDC.SBJ:FUT OBL= DET= fish	I will eat the fish.
+Sliammon	131	Elicited from speaker	ʔəystənamut.		ʔəy-stə-namut	good-CAU-RFL	He likes himself.
+Sliammon	132	Elicited from speaker	hustaʔam =čxʷ ʔə= kʷə= θ= nəgin!		hu-st-aʔam =čxʷ ʔə= kʷə= θ= nəgin	go-CAU-A.INTR =2SG.INDC.SBJ OBL= DET= 2SG.POSS= lunch	Take some for your lunch!
+Sliammon	133	Elicited from speaker	x̣əypəxʷ =čxʷəm tə= čuyʼ.		x̣əyp-əxʷ-∅ =čxʷəm tə= čuyʼ	startle-NTR-3.OBJ =2SG.INDC.SBJ:FUT DET= child	You are going to scare the baby.
+Sliammon	134	Elicited from speaker	x̣əypmiθi =č.		x̣əyp-mi-θi =č	startle-RLT-CTR:2SG.OBJ =1SG.INDC.SBJ	You startled me.
+Sliammon	135	Elicited from speaker	x̣̣ayʼpəm kitlin.		x̣ayʼp-əm kitlin	startle-MDL Catherine	Catherine gets scared easily.
+Sliammon	136	Elicited from speaker	x̣̣ʷay tə= məmmimaw.		x̣ʷay tə= məm-mimaw	die(PL) DET= PL-cat	All the cats died.
+Sliammon	137	Elicited from speaker	x̣̣ʷaǰat =čxʷ tə= qəwqigaθ.		x̣ʷaǰ-a-t-∅ =čxʷ tə= qəw-qigaθ	die(PL)-LV-CTR-3.OBJ =2SG.INDC.SBJ DET= PL-deer	You killed all the deer.
+Sliammon	138	Naturalistic spoken	məkʷəxʷas tə= čəyčuyʼ.		məkʷ-əxʷ-∅-as tə= čəy-čuyʼ	eat-NTR-3.OBJ-3.ERG DET= PL-child	She [Basket Ogress] has eaten the children.
+Sliammon	139		məkʷθim =səm ʔə= tə= miXəɬ.		məkʷ-θi-m =səm ʔə= tə= miXəɬ	eat-CTR:2SG.OBJ-PASS =FUT OBL= DET= bear	The bear will eat you. / You will be eaten by the bear.
+Sliammon	140	Elicited from speaker	čəwʼuɬʔəmsxʷas.		čəwʼuɬ-ʔəm-sxʷ-∅-as	steal-A.INTR-CAU-3.OBJ-3.ERG	He made him steal it.
+Sliammon	141	Elicited from speaker	kʷi= čʼagəxʷan.		kʷi= čʼag-əxʷ-∅-an	CLT= help-NTR-3.OBJ-1SG.ERG	I finished helping him.
+Sliammon	142	Elicited from speaker	čʼagaθiyəm =kʼʷa =səm ʔə= tom.		čʼag-a-θiy-əm =kʼʷa =səm ʔə= tom	help-LV-1SG.OBJ-PASS =QUOT =FUT OBL= PSN	Tom will help me. / I will be helped by Tom.
+Sliammon	143	Elicited from speaker	čʼəɬstum ʔə= ɬə= tʼitʼistʼis.		čʼəɬ-stu-∅-m ʔə= ɬə= tʼitʼistʼis	rain-CAU-3.OBJ-PASS OBL= DET= birds	The bird made it rain, the bird called for rain."
+Sliammon	144	Elicited from speaker	čʼəɬtuwəm.		čʼəɬ-t-uw-əm	rain-CTR-1PL.OBJ-PASS	It is raining on us.
+Sliammon	145	Elicited from speaker	čʼətʔəmtas tə= tutamʼiš ʔə= tə= saplin.		čʼət-ʔəm-t-∅-as tə= tutamʼiš ʔə= tə= saplin	cut-IND-CTR-3.OBJ-3.ERG DET= boy OBL= DET= bread	He cut the bread for the boy.
+Sliammon	146	Elicited from speaker	čʼətʔəmsxʷuɬ =č.		čʼət-ʔəm-sxʷ-∅-uɬ =č	cut-A.INTR-CAU-3.OBJ-PAST =1SG.INDC.SBJ	I let him cut (it).
+Sliammon	147	Elicited from speaker	čʼət tə= tᶿ= ʔiyčsən.		čʼət =∅ tə= tᶿ= ʔiyčsən	cut =3.INDC.SBJ DET= 1SG.POSS= forehead	My forehead got cut.
+Sliammon	148	Elicited from speaker	čʼətəxʷan tə= ǰanxʷ.		čʼət-əxʷ-∅-an tə= ǰanxʷ	cut-NTR-3.OBJ-1.ERG DET= fish	I have already cut the fish.
+Sliammon	149	Elicited from speaker	čʼətʔəm =ga ʔə= kʷ= qʼʷayʼx̣!		čʼət-ʔəm =ga ʔə= kʷ= qʼʷayʼx̣	cut-A.INTR =IMP OBL= DET= firewood	Cut some wood!
+Sliammon	150	Elicited from speaker	qəhit =səm tə= ǰaǰʼa ʔiy čaʔat čʼəttəm.		qəh-it =səm tə= ǰaǰʼa ʔiy čaʔat čʼət-t-∅-əm	lift-STV =FUT DET= tree and now cut-CTR-3.OBJ-PASS	The log will be lifted before they cut it.
+Sliammon	151	Elicited from speaker	čʼəXʔəm =tᶿəm ʔə= kʷ= saplin.		čʼəX-ʔəm =tᶿəm ʔə= kʷ= saplin	cook-A.INTR =1SG.INDC.SBJ:FUT OBL= DET= bread	I will bake bread.
+Sliammon	152	Elicited from speaker	čʼəXʔəθasuɬ ʔə= tə= saplin.		čʼəX-ʔəm-θ-as-uɬ ʔə= tə= saplin	cook-IND-CTR:1SG.OBJ-3.ERG-PAST OBL= DET= bread	She cooked some bread for me.
+Sliammon	153	Elicited from speaker	čʼəX tə= saplin.		čʼəX tə= saplin	cook DET= bread	The bread is cooked.
+Sliammon	154	Elicited from speaker	čʼaXəxʷan.		čʼaX-əxʷ-∅-an	cook-NTR-3.OBJ-1.ERG	I have cooked it.
+Sliammon	155	Elicited from speaker	čʼəXʔəmstumšasuɬ.		čʼəX-ʔəm-stu-mš-as-uɬ	cook-A.INTR-CAU-1SG.OBJ-3.ERG-PAST	She made me cook.
+Sliammon	156	Elicited from speaker	čʼəXsxʷmut.		čʼəX-sxʷ-mut	cook-CAU-very	Let it cook well.
+Sliammon	157	Elicited from speaker	hahays čʼəXtəm (ʔə=) Mary tə= məǰaθ.		hahays čʼəX-t-∅-əm ʔə= Mary tə= məǰaθ	slowly cook-CTR-3.OBJ-PASS OBL= PSN DET= meat	Mary cooked the meat slowly. / The meat was cooked slowly by Mary.
+Sliammon	158	Elicited from speaker	čʼiyəxʷuɬ =č.		čʼiy-əxʷ-∅-uɬ =č	hear-NTR-3.OBJ-PAST =1SG.INDC.SBJ	I heard it.
+Sliammon	159	Elicited from speaker	gayəxʷas =kʷu ɬə= tans.		gay-əxʷ-∅-as =kʷu ɬə= tan-s	ask-NTR-3.OBJ-3.ERG =CLT DET= mother-3.POSS	She has already asked her mother.
+Sliammon	160	Elicited from speaker	gagʼayaθayamʼuɬ =ga hahan =səm.		ga-gʼay-a-θay-amʼ-uɬ =ga ha-h-an =səm	IMPF-ask-LV-CTR:1SG.OBJ-PASS-PAST =CLT go-EPEN-1SG.CNJ.SBJ =FUT	They were asking me if I would go.
+Sliammon	161	Elicited from speaker	həqʷʔəmsxʷas tə= čʼanʼu.		həqʷ-ʔəm-sxʷ-∅-as tə= čʼanʼu	smell-A.INTR-CAU-3.OBJ-3.ERG DET= dog	They let the dog smell (it).
+Sliammon	162	Elicited from speaker	həqʷəxʷan =kʷu.		həqʷ-əxʷ-∅-an =kʷu	smell-NTR-3.OBJ-1SG.ERG =CLT	I smell it now.
+Sliammon	163	Elicited from speaker	həyʔəm =č ʔə= kʷ= kʼʷaxʷa.		həy-ʔəm =č ʔə= kʷ= kʼʷaxʷa	make-A.INTR =1SG.INDC.SBJ OBL= DET= box	I will build a box.
+Sliammon	164	Elicited from speaker	həyʔəmsxʷan tə= tumiš.		həy-ʔəm-sxʷ-∅-an tə= tumiš	make-A.INTR-CAU-3.OBJ-1.ERG DET= man	I made the man make (it).
+Sliammon	165	Elicited from speaker	həyʔəmθi =tᶿəm ʔə= kʷə= θ= ʔayaʔ.		həy-ʔəm-θi =tᶿəm ʔə= kʷə= θ= ʔayaʔ	make-IND-2SG.OBJ. =1SG.INDC.SBJ:FUT OBL= DET= 2SG.POSS= house	I will build your house for you.
+Sliammon	166	Elicited from speaker	haǰʼəxʷan.		haǰʼ-əxʷ-∅-an	make-NTR-3.OBJ-1SG.ERG	I finally made it.
+Sliammon	167	Elicited from speaker	hustanapi =tᶿəm ʔə= kʷ= tiyskʷat.		hu-st-anapi =tᶿəm ʔə= kʷ= tiyskʷat	go-CAU-1PL.OBJ =1SG.INDC.SBJ:FUT OBL= DET= place.name	I will take you guys to Powell River.
+Sliammon	168	Naturalistic spoken	θumitas tə= tʼᶿəstaya.		θu-mi-t-∅-as tə= tʼᶿəstaya	go-RLT-CTR-3.OBJ-3.ERG DET= knothole	He went towards the knot(hole) in the wall.
+Sliammon	169	Naturalistic spoken	θumitəm =kʼʷa (ʔə=) qayX tə= tʼᶿəstaya.		θu-mi-t-∅-əm =kʼʷa ʔə= qayX tə= tʼᶿəstaya	go-RLT-CTR-3.OBJ-PASS =QUOT OBL= Mink DET= knothole	Mink went towards the knot in the wall.
+Sliammon	170	Elicited from speaker	huhuɬ =č ʔə= kʷ= tiyskʷat sǰasuɬ.		hu-h-uɬ =č ʔə= kʷ= tiyskʷat sǰasuɬ	go-EPEN-PAST =1SG.INDC.SBJ OBL= DET= place.name yesterday	I went to Powell River yesterday.
+Sliammon	171	Elicited from speaker	ǰaqʼʔəm.		ǰaqʼ-ʔəm	fall-A.INTR	fell trees
+Sliammon	172	Elicited from speaker	ǰaǰaqʼagatas tə= ǰaǰiyʔəm.		ǰa-ǰaqʼ-ag-a-t-∅-as tə= ǰaǰiyʔəm	IMPF-fall-PL-LV-CTR-3.OBJ-3.ERG DET= trees	He is felling the trees.
+Sliammon	173	Elicited from speaker	ǰəƛʼstumi =tᶿəm.		ǰəƛʼ-stu-mi =tᶿəm	run-CAU-2SG.OBJ =1SG.INDC.SBJ+FUT	I will run away with you.
+Sliammon	174	Elicited from speaker	ǰəƛʼmit =ga tə= θ= man!		ǰəƛʼ-mi-t-∅ =ga tə= θ= man	run-RLT-CTR-3.OBJ =IMP DET= 2SG.POSS= father	You run to your father!
+Sliammon	175	Elicited from speaker	ǰəƛʼʔəmθ =ga!		ǰəƛʼ-ʔəm-θ =ga!	run-IND-CTR+1SG.OBJ =IMP	Run for me!
+Sliammon	176	Elicited from speaker	ǰaqʼəxʷas.		ǰaqʼ-əxʷ-∅-as	fall-NTR-3.OBJ-3.ERG	He made it fall.
+Sliammon	177	Elicited from speaker	ǰəƛʼnumi =č.		ǰəƛʼ-nu-mi =č	run-NTR-2SG.OBJ =1SG.INDC.SBJ	I made you run.
+Sliammon	178	Elicited from speaker	ǰuθuθayəm ʔə= John.		ǰuθ-u-θay-əm ʔə= John	push-LV-CTR:1SG.OBJ-PASS OBL= pers.name	John pushed me. / I was pushed by John.
+Sliammon	179	Elicited from speaker	kʷayʔəm =č ʔə= kʷ= tala.		kʷay-ʔəm =č ʔə= kʷ= tala	hide-A.INTR =1SG.INDC.SBJ OBL= DET= money	I hid some money.
+Sliammon	180	Elicited from speaker	kʷayʔəmsxʷas.		kʷay-ʔəm-sxʷ-∅-as	hide-A.INTR-CAU-3.OBJ-3.ERG	He made him hide (sth.).
+Sliammon	181	Elicited from speaker	kʷayʔəmθ =čxʷ ʔə= tə= tᶿ= tala!		kʷay-ʔəm-θ =čxʷ ʔə= tə= tᶿ= tala!	hide-A.INTR-CTR:1SG.OBJ =2SG.INDC.SBJ OBL= DET= 1SG.POSS= money	Hide my money for me!
+Sliammon	182	Elicited from speaker	kʷinatəm ʔə= John.		kʷinat-t-∅-əm ʔə= John	carry-CTR-3.OBJ-PASS OBL= pers.name	John is carrying it.
+Sliammon	183	Elicited from speaker	nunpiganʼəm =ga ʔə= kʷ= payʼatat =səm.		nu-np-iganʼ-əm =ga ʔə= kʷ= payʼa-t-at =səm	RDPL-think-body-MDL =IMP OBL= DET= always/next-CTR-1PL.ERG =FUT	Think about the next one we are going to do.
+Sliammon	184	Elicited from speaker	pəx̣ tə= tᶿ= pʼaʔačʼ.		pəx̣ tə= tᶿ= pʼaʔačʼ	rip DET= 1SG.POSS= net	My net ripped.
+Sliammon	185		qəptamʼuɬ ʔə= John tə= ǰanxʷ sǰasuɬ.		qəp-t-amʼ-uɬ ʔə= John tə= ǰanxʷ sǰasuɬ	touch-CTR-PASS-PAST OBL= PSN DET= fish yesterday	John touched the fish yesterday.
+Sliammon	186	Elicited from speaker	səpʼʔəmθ =ga!		səpʼ-ʔəm-θ =ga!	club-IND-CTR+1SG.OBJ =IMP	Hit it for me!
+Sliammon	187	Elicited from speaker	səpʼ =čan.		səpʼ =čan	club =1SG.INDC.SBJ	I got hit.
+Sliammon	188	Elicited from speaker	šamʼəxʷan.		šamʼ-əxʷ-∅-an	dry-NTR-3.OBJ-1SG.ERG	I got it dry.
+Sliammon	189	Elicited from speaker	tuqʼʷt tə= tumiš.		tuqʼʷt tə= tumiš	cough DET= man	The man coughed.
+Sliammon	190	Elicited from speaker	tuqʼʷtsxʷas.		tuqʼʷt-sxʷ-∅-as	cough-CAU-3.OBJ-3.ERG	She made him cough.
+Sliammon	191		θayʼaš =tᶿəm tə= nəxʷiɬ.		θayʼ-aš-∅ =tᶿəm tə= nəxʷiɬ	sink-CTR-3.OBJ =1SG.INDC.SBJ+FUT DET= canoe	I will sink the boat (canoe).
+Sliammon	192		sax̣ʷʔəm.		sax̣ʷ-ʔəm	shave-A.INTR	shave/scrape something
+Sliammon	193	Elicited from speaker	θapʔəmt =tᶿəm ʔə= š= čuyʼs Norma.		θap-ʔəm-t-∅ =tᶿəm ʔə= š= čuyʼ-s Norma	bathe-IND-CTR-3.OBJ =1SG.INDC.SBJ+FUT OBL= DET= child-3.POSS PSN	I will bathe Norma's baby/child.
+Sliammon	194	Elicited from speaker	θaθapatəm =kʼʷa ʔə= Mary tə= čuyʼ.		θa-θap-a-t-∅-əm =kʼʷa ʔə= Mary tə= čuyʼ	IMPF-bathe-LV-CTR-3.OBJ-PASS =QUOT OBL= PSN DET= child	Mary is bathing a baby. / lit. 'A baby/child is being bathed by Mary.'
+Sliammon	195	Elicited from speaker	yəpʼʔəm =ga ʔə= tə= təwʼ!		yəpʼ-ʔəm =ga ʔə= tə= təwʼ	break-A.INTR =IMP OBL= DET= ice	Break (off) the ice!
+Sliammon	196	Elicited from speaker	yəpʼʔəmsxʷas ʔə= tə= lamaya.		yəpʼ-ʔəm-sxʷ-∅-as ʔə= tə= lamaya	break-A.INTR-CAU-3.OBJ-3.ERG OBL= DET= bottle	He made him break the bottles.
+Sliammon	197		yəpʼʔəmθ =ga!		yəpʼ-ʔəm-θ =ga!	break-IND-CTR+1SG.OBJ =IMP	Break it for me!
+Sliammon	198	Elicited from speaker	yəpʼ tə= ƛas.		yəpʼ =∅ tə= ƛas	break =3.INDC.SBJ DET= glass	The glass broke.
+Sliammon	199		ʔəyʼ =səm =t.		ʔəyʼ =∅ =səm =t	good =3.INDC.SBJ =FUT =CLT	He will be okay. / lit. 'He will be good.'
+Sliammon	200		tʼayšaʔamsxʷan Cynthia ʔə= tə= čuyʼ.		tʼayš-aʔam-sxʷ-∅-an Cynthia ʔə= tə= čuyʼ	blanket-A.INTR-CAU-3.OBJ-1SG.ERG PSN OBL= DET= child	I made Cynthia cover the baby (child) with a blanket.
+Sliammon	201		tʼayš.		tʼayš	blanket	blanket
+Sliammon	202	Elicited from speaker	tʼᶿikʼt tə= saɬtxʷ.		tʼᶿikʼt =∅ tə= saɬtxʷ	scream =3.INDC.SBJ DET= woman	The woman screamed.
+Sliammon	203	Elicited from speaker	tuyʔəpʔəmstumšas ʔə= tə= qigaθ.		tuyʔəp-ʔəm-stu-mš-as ʔə= tə= qigaθ	follow-A.INTR-CAU-1SG.OBJ-3.ERG OBL= DET= deer	He made me follow the deer.
+Sliammon	204		tʼᶿəkʷʔəm =ga ʔə= tə= kʼʷaʔkʼʷaʔsta!		tʼᶿəkʷ-ʔəm =ga ʔə= tə= kʼʷaʔ-kʼʷaʔsta	wipe-A.INTR =IMP OBL= DET= PL-cup	Wipe some of the cups!
+Sliammon	205	Elicited from speaker	tʼᶿəkʷʔəmstumšas ʔə= tə= θiwuθitən.		tʼᶿəkʷ-ʔəm-stu-mš-as ʔə= tə= θiwuθitən	wipe-A.INTR-CAU-1SG.OBJ-3.ERG OBL= DET= table	He made me wipe the table.
+Sliammon	206	Elicited from speaker	tʼᶿəkʼʷʔəmθ =čxʷ ʔə= tə= θiwuθitən.		tʼᶿəkʼʷ-ʔəm-θ =čxʷ ʔə= tə= θiwuθitən	wipe-IND-CTR+1SG.OBJ =2SG.INDC.SBJ OBL= DET= table	You wipe the table for me.
+Sliammon	207	Elicited from speaker	tʼᶿətʼᶿkʷšənəm =č ʔə= tə= tʼᶿəkʷšətən.		tʼᶿə-tʼᶿkʷ-šən-əm =č ʔə= tə= tʼᶿəkʷšətən	IMPF-wipe-foot-MDL =1SG.INDC.SBJ OBL= DET= mat	I am wiping my foot on the mat.
+Sliammon	208	Elicited from speaker	kʷən =a tʼᶿəkʷ tə= θiwuθitən?		kʷən =a tʼᶿəkʷ tə= θiwuθitən?	INTRR =QN wipe DET= table	Did the table get wiped?
+Sliammon	209	Elicited from speaker	x̣ənatʔəm.		x̣ənat-ʔəm	give-A.INTR	He gave it away.
+Sliammon	210	Elicited from speaker	x̣ənatʔəmsxʷas.		x̣ənat-ʔəm-sxʷ-∅-as	give-A.INTR-CAU-3.OBJ-3.ERG	He had him give (e.g. donations).
+Sliammon	211	Elicited from speaker	x̣ənatəxʷan.		x̣ənat-əxʷ-∅-an	give-NTR-3.OBJ-1.ERG	I already gave (it/sth.) to him.
+Sliammon	212	Elicited from speaker	yəčʼʔəm =ga ʔə= tə= θ= yax̣ay!		yəčʼ-ʔəm =ga ʔə= tə= θ= yax̣ay!	fill-A.INTR =IMP OBL= DET= 2SG.POSS= basket	Fill up your basket!
+Sliammon	213	Elicited from speaker	x̣əypaʔam.		x̣əyp-aʔam	startle-A.INTR	to startle s.o.
+Sliammon	214	Elicited from speaker	x̣əypaθas.		x̣əyp-a-θ-as	startle-LV-CTR+1SG.OBJ-3.ERG	She startled me.
+Sliammon	215	Elicited from speaker	tʼᶿiyʔəmstumuɬas ʔə= šə= talahawustəns.		tʼᶿiy-ʔəm-st-umuɬ-as ʔə= šə= talahawustən-s	search-A.INTR-CAU-1PL.OBJ-3.ERG OBL= DET= glasses-3.POSS	He made us search for his glasses.
+Sliammon	216	Elicited from speaker	hu =kʷa təx̣ʷtas kʼʷinas =səm ƛʼaʔayin.		hu =kʷa təx̣ʷ-t-∅-as kʼʷin-as =səm ƛʼaʔayin	go =CLT find.out-CTR-3.OBJ-3.ERG how.many-3.CNJ.SBJ =FUT start	He went to find out what time it's going to start.
+Sliammon	217		tʼaʔqʼəxʷan =kʷu šə= tᶿ= supayu.		tʼaʔqʼ-əxʷ-∅-an =kʷu šə= tᶿ= supayu	bring-NTR-3.OBJ-1SG.ERG =CLT DET= 1SG.POSS= ax	I brought my ax back.
+Sliammon	218		tʼᶿipʼənxʷsxʷas ɬə= saʔɬtxʷ.		tʼᶿipʼənxʷ-sxʷ-∅-as ɬə= saʔɬtxʷ	close.eyes-CAU-3.OBJ-3.ERG DET= little.girl	He closed the little girl's eyes.
+Sliammon	219	Elicited from speaker	šihʔəmtəm ʔə= kʷ= ʔaǰumiš kapu.		ših-ʔəm-t-∅-əm ʔə= kʷ= ʔaǰumiš kapu	appear-IND-CTR-3.OBJ-PASS OBL= DET= pretty coat	They brought out a pretty coat for him/her.
+Sliammon	220		šihitas tə= ʔəyʼ ʔiɬtəns.		ših-i-t-∅-as tə= ʔəyʼ ʔiɬtən-s	appear-LV-CTR-3.OBJ-3.ERG DET= good food-3.POSS	He brought out the (his) good food.
+Sliammon	221		saysay =č ʔə= tə= tʼəl.		say-say =č ʔə= tə= tʼəl	RDPL-scare =1SG.INDC.SBJ OBL= DET= basket.ogress	I am scared of the basket ogress.
+Sliammon	222		šamitas tə= ʔapls.		ša-mi-t-∅-as tə= ʔapls	go.upward-RLT-CTR-3.OBJ-3.ERG DET= apple	He is climbing for (toward) the apples.
+Sliammon	223		šasxʷas tə= supayu.		ša-sxʷ-∅-as tə= supayu	go.upward-CAU-3.OBJ-3.ERG DET= ax	He took the ax up (e.g. as he climbed the tree).
+Sliammon	224	Elicited from speaker	Kʷanačsxʷas tə= ƛʼax̣ay.		kʷanač-sxʷ-∅-as tə= ƛʼax̣ay	sit-CAU-3.OBJ-3.ERG DET= elderly.person	She had/has the elder sitting down.
+Sliammon	225	Elicited from speaker	Kʷanačtas tə= čičiyaʔs.		kʷanač-t-∅-as tə= čičiyaʔ-s	sit-CTR-3.OBJ-3.ERG DET= grandmother-3.POSS	He sat his grandmother down.
+Sliammon	226	Elicited from speaker	kʷanačmiθ =čxʷ.		kʷanač-mi-θ =čxʷ	sit-RLT-CTR:1SG.OBJ =2SG.INDC.SBJ	You are sitting on me.
+Sliammon	227		ʔaham =č.		ʔah-am =č	sore-MDL =1SG.INDC.SBJ	I got hurt.
+Sliammon	228	Elicited from speaker	qəyʼsxʷ =gut!		qəyʼ-sxʷ-∅ =gut!	die-CAU-3.OBJ =IMP	Let it die!
+Sliammon	229	Elicited from speaker	qəyʼt =čan =səm tə= mix̣aɬ.		qəyʼ-t-∅ =čan =səm tə= mix̣aɬ	die-CTR-3.OBJ =1SG.INDC.SBJ =FUT DET= bear	I am going to kill the bear.
+Sliammon	230	Elicited from speaker	qəytəm tə= čʼačʼnuʔ.		qəy-t-∅-əm tə= čʼačʼnuʔ	die-CTR-3.OBJ-PASS DET= little.dog	The little dog got killed.
+Sliammon	231		qəyʼʔəmθi =tᶿəm.		qəyʼ-ʔəm-θi =tᶿəm	die-IND-CTR+2SG.OBJ =1SG.INDC.SBJ+FUT	I will kill it for you.
+Sliammon	232	Elicited from speaker	qəyʔəmsxʷas.		qəy-ʔəm-sxʷ-∅-as	die-A.INTR-CAU-3.OBJ-3.ERG	He made him kill it.
+Sliammon	233	Elicited from speaker	səytʼaʔamθ =ga ʔə= ɬə= tᶿ= kapu!		səytʼ-aʔam-θ =ga ʔə= ɬə= tᶿ= kapu!	throw-IND-CTR+1SG.OBJ =IMP OBL= DET= 1SG.POSS= coat	Throw my coat to/for me!
+Sliammon	234	Elicited from speaker	səytʼaʔamstumšas ʔə= tə= qʼʷayʼx̣.		səytʼ-aʔam-stu-mš-as ʔə= tə= qʼʷayʼx̣	throw-A.INTR-CAU-1SG.OBJ-3.ERG OBL= DET= wood	He made me throw the wood (into fire).
+Sliammon	235	Elicited from speaker	qʷaymiθi =tᶿəm.		qʷay-mi-θi =tᶿəm	talk-RLT-CTR+2SG.OBJ =1SG.INDC.SBJ+FUT	I will scold you.
+Sliammon	236		qʼaqʼamstumiyəm ʔə= tə= paʔaǰa.		qʼa-qʼa-m-stu-may-əm ʔə= tə= paʔaǰa	RDPL-hungry-MDL-CAU-1SG.OBJ-PASS OBL= DET= salmonberry.shoot	Salmonberry shoots made me hungry. / Salmonberry shoots whetted my appetite.
+Sliammon	237	Elicited from speaker	qʼaqʼʔat =č.		qʼa-qʼʔ-a-t-∅ =č	RDPL-hungry-LV-CTR-3.OBJ =1SG.INDC.SBJ	I let it get hungry.
+Sliammon	238	Elicited from speaker	čʼamʼatas.		čʼamʼ-a-t-∅-as	cold-LV-CTR-3.OBJ-3.ERG	He made it cold.
+Sliammon	239	Elicited from speaker	ʔahsxʷas tə= ǰišəns.		ʔah-sxʷ-∅-as tə= ǰišən-s	sore-CAU-3.OBJ-3.ERG DET= foot-3.POSS	His foot is hurting (him).
+Sliammon	240		kʼʷənʔəmstumšas ʔə= tə= ǰanxʷ.		kʼʷən-ʔəm-stu-mš-as ʔə= tə= ǰanxʷ	see-A.INTR-CAU-1SG.OBJ-3.ERG OBL= DET= fish	He showed me the fish.
+Sliammon	241	Naturalistic spoken	kʼʷənit =št tə= ʔasxʷ.		kʼʷən-i-t-∅ =št tə= ʔasxʷ	see-STV-CTR-3.OBJ =1PL.INDC.SBJ DET= seal	We see the seal.
+Sliammon	242		kʼʷənəxʷas tə= tutamʼiš.		kʼʷən-əxʷ-∅-as tə= tutamʼiš	see-NTR-3.OBJ-3.ERG DET= boy	He saw the boy.
+Sliammon	243		tawtas.		taw-t-∅-as	tell-CTR-3.OBJ-3.ERG	He told her.

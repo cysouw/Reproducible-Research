@@ -1,0 +1,916 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Hoocąk	1	EAT	ruuc	Basic	1 2 und[2].act[1].V	1	eater	act.V	A
+Hoocąk	1	EAT	ruuc	Basic	1 2 und[2].act[1].V	2	eaten food	obj:und.V	P
+Hoocąk	1	EAT	ruuc	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	eater	act.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	eaten food	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	eat location	LOC & obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	eater	act.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	eaten food	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	eat beneficiary	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	eater	act.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	eaten food	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	eating instrument	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	1 act[1].V'	1	eater	act.V	
+Hoocąk	1	EAT	ruuc	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	eater	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	eaten food	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	eat causer/feeder	act.V	
+Hoocąk	1	EAT	ruuc	Derived	6/1 2 und[2].act[6/1].V'caus	1	eater	act.V	
+Hoocąk	1	EAT	ruuc	Derived	6/1 2 und[2].act[6/1].V'caus	2	eaten food	obj:und.V	
+Hoocąk	1	EAT	ruuc	Derived	6/1 2 und[2].act[6/1].V'caus	6	eat causer/feeder	act.V	
+Hoocąk	2	HUG	nąąt'ųp	Basic	1 2 und[2].act[1].V	1	hugger	act.V	A
+Hoocąk	2	HUG	nąąt'ųp	Basic	1 2 und[2].act[1].V	2	huggee	obj:und.V	P
+Hoocąk	2	HUG	nąąt'ųp	Derived	1/2 act[1/2].V'rfl/rcp	1	hugger	act.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	1/2 act[1/2].V'rfl/rcp	2	huggee	act.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	hugger	obj:und.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	huggee	obj:und.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	hug causer	act.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6/1 2 und[2].act[6/1].V'caus	1	hugger	act.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6/1 2 und[2].act[6/1].V'caus	2	huggee	obj:und.V	
+Hoocąk	2	HUG	nąąt'ųp	Derived	6/1 2 und[2].act[6/1].V'caus	6	hug causer	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Basic	1 2 und[2].act[1].V	1	looker	act.V	A
+Hoocąk	3	LOOK AT	horoǧoc	Basic	1 2 und[2].act[1].V	2	looked at entity	obj:und.V	P
+Hoocąk	3	LOOK AT	horoǧoc	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	looker	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	looked at entity	obj:und.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	look instrument	obj:und.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	1/2 act[1/2].V'rfl/rcp	1	looker	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	1/2 act[1/2].V'rfl/rcp	2	looked at entity	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	looker	obj:und.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	looked at entity	obj:und.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	look causer	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6/1 2 und[2].act[6/1].V'caus	1	looker	act.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6/1 2 und[2].act[6/1].V'caus	2	looked at entity	obj:und.V	
+Hoocąk	3	LOOK AT	horoǧoc	Derived	6/1 2 und[2].act[6/1].V'caus	6	look causer	act.V	
+Hoocąk	4	SEE	haja	Basic	1 2 und[2].act[1].V	1	seeer	act.V	A
+Hoocąk	4	SEE	haja	Basic	1 2 und[2].act[1].V	2	seen entity	obj:und.V	P
+Hoocąk	4	SEE	haja	Derived	1/2 act[1/2].V'rfl/rcp	1	seeer	act.V	
+Hoocąk	4	SEE	haja	Derived	1/2 act[1/2].V'rfl/rcp	2	seen entity	act.V	
+Hoocąk	4	SEE	haja	Derived	6/1 2 und[2].act[6/1].V'caus	1	seeer	act.V	
+Hoocąk	4	SEE	haja	Derived	6/1 2 und[2].act[6/1].V'caus	2	seen entity	obj:und.V	
+Hoocąk	4	SEE	haja	Derived	6/1 2 und[2].act[6/1].V'caus	6	see causer	act.V	
+Hoocąk	5	SMELL	horupąną	Basic	1 2 und[2].act[1].V	1	smeller	act.V	A
+Hoocąk	5	SMELL	horupąną	Basic	1 2 und[2].act[1].V	2	smelled entity	obj:und.V	P
+Hoocąk	5	SMELL	horupąną	Derived	1/2 act[1/2].V'rfl/rcp	1	smeller	act.V	
+Hoocąk	5	SMELL	horupąną	Derived	1/2 act[1/2].V'rfl/rcp	2	smelled entity	act.V	
+Hoocąk	5	SMELL	horupąną	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	smeller	obj:und.V	
+Hoocąk	5	SMELL	horupąną	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	smelled entity	obj:und.V	
+Hoocąk	5	SMELL	horupąną	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	smell causer	act.V	
+Hoocąk	5	SMELL	horupąną	Derived	6/1 2 und[2].act[6/1].V'caus	1	smeller	act.V	
+Hoocąk	5	SMELL	horupąną	Derived	6/1 2 und[2].act[6/1].V'caus	2	smelled entity	obj:und.V	
+Hoocąk	5	SMELL	horupąną	Derived	6/1 2 und[2].act[6/1].V'caus	6	smell causer	act.V	
+Hoocąk	6	FEAR	nąąkewe	Basic	1 2 und[2].act[1].V	1	fearer	act.V	A
+Hoocąk	6	FEAR	nąąkewe	Basic	1 2 und[2].act[1].V	2	fear stimulus	obj:und.V	P
+Hoocąk	6	FEAR	nąąkewe	Derived	1/2 act[1/2].V'rfl/rcp	1	fearer	act.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	1/2 act[1/2].V'rfl/rcp	2	fear stimulus	act.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	fearer	obj:und.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	fear stimulus	obj:und.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	fear causer	act.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6/1 2 und[2].act[6/1].V'caus	1	fearer	act.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6/1 2 und[2].act[6/1].V'caus	2	fear stimulus	obj:und.V	
+Hoocąk	6	FEAR	nąąkewe	Derived	6/1 2 und[2].act[6/1].V'caus	6	fear causer	act.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Basic	1 2 und[2].act[1].V	1	frightener	act.V	A
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Basic	1 2 und[2].act[1].V	2	frightenee	obj:und.V	P
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	frightener	act.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	frightenee	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	frighten beneficiary	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	frightener	act.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	frightenee	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	frightening thing/instr.	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1/2 act[1/2].V'rfl/rcp	1	frightener	act.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	1/2 act[1/2].V'rfl/rcp	2	frightenee	act.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	frightener	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	frightenee	obj:und.V	
+Hoocąk	7	FRIGHTEN	nąąǧire hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	scare causer	act.V	
+Hoocąk	8	LIKE	gipį	Basic	1 2 und[2].act[1].V	1	liker	act.V	A
+Hoocąk	8	LIKE	gipį	Basic	1 2 und[2].act[1].V	2	liked entity	obj:und.V	P
+Hoocąk	8	LIKE	gipį	Derived	1/2 act[1/2].V'rfl/rcp	1	liker	act.V	
+Hoocąk	8	LIKE	gipį	Derived	1/2 act[1/2].V'rfl/rcp	2	liked entity	act.V	
+Hoocąk	8	LIKE	gipį	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	liker	obj:und.V	
+Hoocąk	8	LIKE	gipį	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	liked entity	obj:und.V	
+Hoocąk	8	LIKE	gipį	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	like causer	act.V	
+Hoocąk	8	LIKE	gipį	Derived	6/1 2 und[2].act[6/1].V'caus	1	liker	act.V	
+Hoocąk	8	LIKE	gipį	Derived	6/1 2 und[2].act[6/1].V'caus	2	liked entity	obj:und.V	
+Hoocąk	8	LIKE	gipį	Derived	6/1 2 und[2].act[6/1].V'caus	6	like causer	act.V	
+Hoocąk	9	KNOW	hiperes	Basic	1 2 und[2].act[1].V	1	knower	act.V	A
+Hoocąk	9	KNOW	hiperes	Basic	1 2 und[2].act[1].V	2	known thing/person	obj:und.V	P
+Hoocąk	9	KNOW	hiperes	Derived	1/2 act[1/2].V'rfl/rcp	1	knower	act.V	
+Hoocąk	9	KNOW	hiperes	Derived	1/2 act[1/2].V'rfl/rcp	2	known thing/person	act.V	
+Hoocąk	9	KNOW	hiperes	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	knower	obj:und.V	
+Hoocąk	9	KNOW	hiperes	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	known thing/person	obj:und.V	
+Hoocąk	9	KNOW	hiperes	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	know causer	act.V	
+Hoocąk	9	KNOW	hiperes	Derived	6/1 2 und[2].act[6/1].V'caus	1	knower	act.V	
+Hoocąk	9	KNOW	hiperes	Derived	6/1 2 und[2].act[6/1].V'caus	2	known thing/person	obj:und.V	
+Hoocąk	9	KNOW	hiperes	Derived	6/1 2 und[2].act[6/1].V'caus	6	know causer	act.V	
+Hoocąk	10	THINK	wewį	Basic	1 2 und[2].act[1].V	1	thinker	act.V	A
+Hoocąk	10	THINK	wewį	Basic	1 2 und[2].act[1].V	2	thought content	obj:und.V	P
+Hoocąk	10	THINK	wewį	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	thinker	act.V	
+Hoocąk	10	THINK	wewį	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	thought content	obj:und.V	
+Hoocąk	10	THINK	wewį	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	think beneficiary	obj:und.V	
+Hoocąk	10	THINK	wewį	Derived	1/2 act[1/2].V'rfl/rcp	1	thinker	act.V	
+Hoocąk	10	THINK	wewį	Derived	1/2 act[1/2].V'rfl/rcp	2	thought content	act.V	
+Hoocąk	10	THINK	wewį	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	thinker	obj:und.V	
+Hoocąk	10	THINK	wewį	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	thought content	obj:und.V	
+Hoocąk	10	THINK	wewį	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	think causer	act.V	
+Hoocąk	10	THINK	wewį	Derived	6/1 2 und[2].act[6/1].V'caus	1	thinker	act.V	
+Hoocąk	10	THINK	wewį	Derived	6/1 2 und[2].act[6/1].V'caus	2	thought content	obj:und.V	
+Hoocąk	10	THINK	wewį	Derived	6/1 2 und[2].act[6/1].V'caus	6	think causer	act.V	
+Hoocąk	11	SEARCH FOR	honį	Basic	1 2 (LOC3) und[2].act[1].V	1	searcher	act.V	A
+Hoocąk	11	SEARCH FOR	honį	Basic	1 2 (LOC3) und[2].act[1].V	2	searched for thing	obj:und.V	P
+Hoocąk	11	SEARCH FOR	honį	Basic	1 2 (LOC3) und[2].act[1].V	3	search location	LOC	L
+Hoocąk	11	SEARCH FOR	honį	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	searcher	act.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	searched for thing	obj:und.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	search location	LOC	
+Hoocąk	11	SEARCH FOR	honį	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	search beneficiary	obj:und.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	1	searcher	act.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	2	searched for thing	act.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	3	search location	LOC	
+Hoocąk	11	SEARCH FOR	honį	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	1	searcher	obj:und.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	2	searched for thing	obj:und.V	
+Hoocąk	11	SEARCH FOR	honį	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	3	search location	LOC	
+Hoocąk	11	SEARCH FOR	honį	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	6	search causer	act.V	
+Hoocąk	12	WASH	ruža	Basic	1 2 und[2].act[1].V	1	washer	act.V	A
+Hoocąk	12	WASH	ruža	Basic	1 2 und[2].act[1].V	2	washed entity	obj:und.V	P
+Hoocąk	12	WASH	ruža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	washer	act.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	washed entity	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	wash location	LOC & obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	washer	act.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	washed entity	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	wash beneficiary	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	washer	act.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	washed entity	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	washing instrument	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	1/2 act[1/2].V'rfl/rcp	1	washer	act.V	
+Hoocąk	12	WASH	ruža	Derived	1/2 act[1/2].V'rfl/rcp	2	washed entity	act.V	
+Hoocąk	12	WASH	ruža	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	washer	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	washed entity	obj:und.V	
+Hoocąk	12	WASH	ruža	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	wash causer	act.V	
+Hoocąk	15	HELP	gijire	Basic	1 2 und[2].act[1].V	1	helper	act.V	A
+Hoocąk	15	HELP	gijire	Basic	1 2 und[2].act[1].V	2	helpee	obj:und.V	P
+Hoocąk	15	HELP	gijire	Derived	1/2 act[1/2].V'rfl/rcp	1	helper	act.V	
+Hoocąk	15	HELP	gijire	Derived	1/2 act[1/2].V'rfl/rcp	2	helpee	act.V	
+Hoocąk	15	HELP	gijire	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	helper	obj:und.V	
+Hoocąk	15	HELP	gijire	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	helpee	obj:und.V	
+Hoocąk	15	HELP	gijire	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	help causer	act.V	
+Hoocąk	15	HELP	gijire	Derived	6/1 2 und[2].act[6/1].V'caus	1	helper	act.V	
+Hoocąk	15	HELP	gijire	Derived	6/1 2 und[2].act[6/1].V'caus	2	helpee	obj:und.V	
+Hoocąk	15	HELP	gijire	Derived	6/1 2 und[2].act[6/1].V'caus	6	help causer	act.V	
+Hoocąk	16	FOLLOW	ruxe	Basic	1 2 und[2].act[1].V	1	follower	act.V	A
+Hoocąk	16	FOLLOW	ruxe	Basic	1 2 und[2].act[1].V	2	followee	obj:und.V	P
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	follower	act.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	followee	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	follow beneficiary	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	follower	act.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	followee	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	follow instrument	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	follower	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	followee	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	follow causer	act.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6/1 2 und[2].act[6/1].V'caus	1	follower	act.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6/1 2 und[2].act[6/1].V'caus	2	followee	obj:und.V	
+Hoocąk	16	FOLLOW	ruxe	Derived	6/1 2 und[2].act[6/1].V'caus	6	follow causer	act.V	
+Hoocąk	17	MEET	hikipa	Basic	1 2 und[2].act[1].V	1	meeter	act.V	A
+Hoocąk	17	MEET	hikipa	Basic	1 2 und[2].act[1].V	2	met person	obj:und.V	P
+Hoocąk	17	MEET	hikipa	Derived	1/2 act[1/2].V'rfl/rcp	1	meeter	act.V	
+Hoocąk	17	MEET	hikipa	Derived	1/2 act[1/2].V'rfl/rcp	2	met person	act.V	
+Hoocąk	17	MEET	hikipa	Derived	6/1 2 und[2].act[6/1].V'caus	1	meeter	act.V	
+Hoocąk	17	MEET	hikipa	Derived	6/1 2 und[2].act[6/1].V'caus	2	met person	obj:und.V	
+Hoocąk	17	MEET	hikipa	Derived	6/1 2 und[2].act[6/1].V'caus	6	meet causer	act.V	
+Hoocąk	18	TALK	hokit'e	Basic	1 2 und[2].act[1].V	1	talker	act.V	A
+Hoocąk	18	TALK	hokit'e	Basic	1 2 und[2].act[1].V	2	talked to person	obj:und.V	P
+Hoocąk	18	TALK	hokit'e	Derived	1/2 act[1/2].V'rfl/rcp	1	talker	act.V	
+Hoocąk	18	TALK	hokit'e	Derived	1/2 act[1/2].V'rfl/rcp	2	talked to person	act.V	
+Hoocąk	18	TALK	hokit'e	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	talker	obj:und.V	
+Hoocąk	18	TALK	hokit'e	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	talked to person	obj:und.V	
+Hoocąk	18	TALK	hokit'e	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	talk causer	act.V	
+Hoocąk	18	TALK	hokit'e	Derived	6/1 2 und[2].act[6/1].V'caus	1	talker	act.V	
+Hoocąk	18	TALK	hokit'e	Derived	6/1 2 und[2].act[6/1].V'caus	2	talked to person	obj:und.V	
+Hoocąk	18	TALK	hokit'e	Derived	6/1 2 und[2].act[6/1].V'caus	6	talk causer	act.V	
+Hoocąk	19	ASK FOR	taa	Basic	1 2 und[2].act[1].V	1	asker	act.V	A
+Hoocąk	19	ASK FOR	taa	Basic	1 2 und[2].act[1].V	2	requested thing	obj:und.V	P
+Hoocąk	19	ASK FOR	taa	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	asker	act.V	
+Hoocąk	19	ASK FOR	taa	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	requested thing	obj:und.V	
+Hoocąk	19	ASK FOR	taa	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	askee	obj:und.V	
+Hoocąk	19	ASK FOR	taa	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	asker	obj:und.V	
+Hoocąk	19	ASK FOR	taa	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	requested thing	obj:und.V	
+Hoocąk	19	ASK FOR	taa	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	ask for causer	act.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Basic	1 act[1].V	1	shouter	act.V	X
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	1 3 und[3].act[1].V'ben	1	shouter	act.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	1 3 und[3].act[1].V'ben	3	shoutee	obj:und.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	2 1 und[1].act[2].V'caus	1	shouter	obj:und.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	2 1 und[1].act[2].V'caus	2	shout causer	act.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	2/1 act[2/1].V'caus	1	shouter	act.V	
+Hoocąk	20	SHOUT AT	wąą (rehii)	Derived	2/1 act[2/1].V'caus	2	shout causer	act.V	
+Hoocąk	21	TELL	horak	Basic	1 2 und[2].act[1].V	1	teller	act.V	A
+Hoocąk	21	TELL	horak	Basic	1 2 und[2].act[1].V	2	told content	obj:und.V	P
+Hoocąk	21	TELL	horak	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	teller	act.V	
+Hoocąk	21	TELL	horak	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	told content	obj:und.V	
+Hoocąk	21	TELL	horak	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	tellee	obj:und.V	
+Hoocąk	21	TELL	horak	Derived	1/2 act[1/2].V'rfl/rcp	1	teller	act.V	
+Hoocąk	21	TELL	horak	Derived	1/2 act[1/2].V'rfl/rcp	2	told content	act.V	
+Hoocąk	21	TELL	horak	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	teller	obj:und.V	
+Hoocąk	21	TELL	horak	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	told content	obj:und.V	
+Hoocąk	21	TELL	horak	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	tell causer	act.V	
+Hoocąk	22	SAY	ee	Basic	1 UTT2 act[1].V	1	sayer	act.V	X
+Hoocąk	22	SAY	ee	Basic	1 UTT2 act[1].V	2	said content	UTT	X
+Hoocąk	22	SAY	ee	Derived	1 3 UTT2 und[3].act[1].V'ben	1	sayer	act.V	
+Hoocąk	22	SAY	ee	Derived	1 3 UTT2 und[3].act[1].V'ben	2	said content	UTT	
+Hoocąk	22	SAY	ee	Derived	1 3 UTT2 und[3].act[1].V'ben	3	saying addressee	obj:und.V	
+Hoocąk	22	SAY	ee	Derived	4 1 UTT2 und[1].act[4].V'caus	1	sayer	obj:und.V	
+Hoocąk	22	SAY	ee	Derived	4 1 UTT2 und[1].act[4].V'caus	2	said content	UTT	
+Hoocąk	22	SAY	ee	Derived	4 1 UTT2 und[1].act[4].V'caus	4	say causer	act.V	
+Hoocąk	23	NAME	hige	Basic	1 2 (3) und[2].act[1].V	1	namer	act.V	A
+Hoocąk	23	NAME	hige	Basic	1 2 (3) und[2].act[1].V	2	namee	obj:und.V	P
+Hoocąk	23	NAME	hige	Basic	1 2 (3) und[2].act[1].V	3	name	Ø	I
+Hoocąk	23	NAME	hige	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	1	namer	act.V	
+Hoocąk	23	NAME	hige	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	2	namee	obj:und.V	
+Hoocąk	23	NAME	hige	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	3	name	Ø	
+Hoocąk	23	NAME	hige	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	4	name/say addressee	obj:und.V	
+Hoocąk	23	NAME	hige	Derived	1/2 (3) act[1/2].V'rfl/rcp	1	namer	act.V	
+Hoocąk	23	NAME	hige	Derived	1/2 (3) act[1/2].V'rfl/rcp	2	namee	act.V	
+Hoocąk	23	NAME	hige	Derived	1/2 (3) act[1/2].V'rfl/rcp	3	name	Ø	
+Hoocąk	24	BUILD	ųų	Basic	1 2 und[2].act[1].V	1	builder	act.V	A
+Hoocąk	24	BUILD	ųų	Basic	1 2 und[2].act[1].V	2	built thing	obj:und.V	P
+Hoocąk	24	BUILD	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	builder	act.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	built thing	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	building location	LOC & obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	builder	act.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	built thing	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	build beneficiary	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	builder	act.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	built thing	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	building material	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	builder	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	built thing	obj:und.V	
+Hoocąk	24	BUILD	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	build causer	act.V	
+Hoocąk	25	BREAK	gišiš	Basic	1 2 und[2].act[1].V	1	breaker	act.V	A
+Hoocąk	25	BREAK	gišiš	Basic	1 2 und[2].act[1].V	2	broken thing	obj:und.V	P
+Hoocąk	25	BREAK	gišiš	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	breaker	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	broken thing	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	break location	LOC & obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	breaker	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	broken thing	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	break maleficiary	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	breaker	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	broken thing	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	breaking instrument	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	1/2 act[1/2].V'rfl/rcp	1	breaker	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	1/2 act[1/2].V'rfl/rcp	2	broken thing	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	2 und[2].V'RDP	2	broken thing	sbj:und	
+Hoocąk	25	BREAK	gišiš	Derived	2 und[2].V're	2	broken thing	sbj:und	
+Hoocąk	25	BREAK	gišiš	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	breaker	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	broken thing	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	break causer	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	6/1 2 und[2].act[6/1].V'caus	1	breaker	act.V	
+Hoocąk	25	BREAK	gišiš	Derived	6/1 2 und[2].act[6/1].V'caus	2	broken thing	obj:und.V	
+Hoocąk	25	BREAK	gišiš	Derived	6/1 2 und[2].act[6/1].V'caus	6	break causer	act.V	
+Hoocąk	26	KILL	t'ee hii	Basic	1 2 und[2].act[1].V	1	killer	act.V	A
+Hoocąk	26	KILL	t'ee hii	Basic	1 2 und[2].act[1].V	2	killee	obj:und.V	P
+Hoocąk	27	BEAT	hirojį	Basic	1 2 (3) und[2].act[1].V	1	beater	act.V	A
+Hoocąk	27	BEAT	hirojį	Basic	1 2 (3) und[2].act[1].V	2	beatee	obj:und.V	P
+Hoocąk	27	BEAT	hirojį	Basic	1 2 (3) und[2].act[1].V	3	beating instrument	Ø	I
+Hoocąk	27	BEAT	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	1	beater	act.V	
+Hoocąk	27	BEAT	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	3	beating instrument	Ø	
+Hoocąk	27	BEAT	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	4	beat beneficiary	obj:und.V	
+Hoocąk	27	BEAT	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	1	beater	act.V	
+Hoocąk	27	BEAT	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	2	beatee	act.V	
+Hoocąk	27	BEAT	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	3	beating instrument	Ø	
+Hoocąk	27	BEAT	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	1	beater	obj:und.V	
+Hoocąk	27	BEAT	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	3	beating instrument	Ø	
+Hoocąk	27	BEAT	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	6	beat causer	act.V	
+Hoocąk	27	BEAT	hojį	Basic	1 2 und[2].act[1].V	1	beater	act.V	A
+Hoocąk	27	BEAT	hojį	Basic	1 2 und[2].act[1].V	2	beatee	obj:und.V	P
+Hoocąk	27	BEAT	hojį	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	beater	act.V	
+Hoocąk	27	BEAT	hojį	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	beat beneficiary	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	beater	act.V	
+Hoocąk	27	BEAT	hojį	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	beating instrument	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	1/2 act[1/2].V'rfl/rcp	1	beater	act.V	
+Hoocąk	27	BEAT	hojį	Derived	1/2 act[1/2].V'rfl/rcp	2	beatee	act.V	
+Hoocąk	27	BEAT	hojį	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	beater	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	beat causer	act.V	
+Hoocąk	27	BEAT	hojį	Derived	6/1 2 und[2].act[6/1].V'caus	1	beater	act.V	
+Hoocąk	27	BEAT	hojį	Derived	6/1 2 und[2].act[6/1].V'caus	2	beatee	obj:und.V	
+Hoocąk	27	BEAT	hojį	Derived	6/1 2 und[2].act[6/1].V'caus	6	beat causer	act.V	
+Hoocąk	28	HIT	hapa	Basic	1 2 und[2].act[1].V	1	hitter	act.V	A
+Hoocąk	28	HIT	hapa	Basic	1 2 und[2].act[1].V	2	hittee	obj:und.V	P
+Hoocąk	28	HIT	hapa	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	hitter	act.V	
+Hoocąk	28	HIT	hapa	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	hittee	obj:und.V	
+Hoocąk	28	HIT	hapa	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	hitting instrument	obj:und.V	
+Hoocąk	28	HIT	hapa	Derived	1/2 act[1/2].V'rfl/rcp	1	hitter	act.V	
+Hoocąk	28	HIT	hapa	Derived	1/2 act[1/2].V'rfl/rcp	2	hittee	act.V	
+Hoocąk	28	HIT	hapa	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	hitter	obj:und.V	
+Hoocąk	28	HIT	hapa	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	hittee	obj:und.V	
+Hoocąk	28	HIT	hapa	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	hit causer	act.V	
+Hoocąk	29	TOUCH	hiki'o	Basic	1 2 und[2].act[1].V	1	toucher	act.V	A
+Hoocąk	29	TOUCH	hiki'o	Basic	1 2 und[2].act[1].V	2	touchee	obj:und.V	P
+Hoocąk	29	TOUCH	hiki'o	Derived	1/2 act[1/2].V'rfl/rcp	1	toucher	act.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	1/2 act[1/2].V'rfl/rcp	2	touchee	act.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	toucher	obj:und.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	touchee	obj:und.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	touch causer	act.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6/1 2 und[2].act[6/1].V'caus	1	toucher	act.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6/1 2 und[2].act[6/1].V'caus	2	touchee	obj:und.V	
+Hoocąk	29	TOUCH	hiki'o	Derived	6/1 2 und[2].act[6/1].V'caus	6	touch causer	act.V	
+Hoocąk	30	CUT	mąącgis	Basic	1 2 und[2].act[1].V	1	cutter	act.V	A
+Hoocąk	30	CUT	mąącgis	Basic	1 2 und[2].act[1].V	2	cut thing	obj:und.V	P
+Hoocąk	30	CUT	mąącgis	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	cutter	act.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	cut thing	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	cutting goal/place	LOC & obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	cutter	act.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	cut thing	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	cut beneficiary	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	cutter	act.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	cut thing	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	cutting instrument	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	1/2 act[1/2].V'rfl/rcp	1	cutter	act.V	
+Hoocąk	30	CUT	mąącgis	Derived	1/2 act[1/2].V'rfl/rcp	2	cut thing	act.V	
+Hoocąk	30	CUT	mąącgis	Derived	2 und[2].V'RDP	2	cut thing	sbj:und	
+Hoocąk	30	CUT	mąącgis	Derived	2 und[2].V're	2	cut thing	sbj:und	
+Hoocąk	30	CUT	mąącgis	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	cutter	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	cut thing	obj:und.V	
+Hoocąk	30	CUT	mąącgis	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	cutting causer	act.V	
+Hoocąk	31	TAKE	ruus	Basic	1 2 und[2].act[1].V	1	taker	act.V	A
+Hoocąk	31	TAKE	ruus	Basic	1 2 und[2].act[1].V	2	taken thing	obj:und.V	P
+Hoocąk	31	TAKE	ruus	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	taker	act.V	
+Hoocąk	31	TAKE	ruus	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	taken thing	obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	taken from place	LOC & obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	taker	act.V	
+Hoocąk	31	TAKE	ruus	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	taken thing	obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	taking source	obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	taker	obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	taken thing	obj:und.V	
+Hoocąk	31	TAKE	ruus	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	take causer	act.V	
+Hoocąk	32	TEAR	rugas	Basic	1 2 und[2].act[1].V	1	tearer	act.V	A
+Hoocąk	32	TEAR	rugas	Basic	1 2 und[2].act[1].V	2	torn thing	obj:und.V	P
+Hoocąk	32	TEAR	rugas	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	tearer	act.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	torn thing	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	tearing place	LOC & obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	tearer	act.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	torn thing	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	tearing source	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	tearer	act.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	torn thing	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	tear instrument	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	2 und[2].V'RDP	2	torn thing	sbj:und	
+Hoocąk	32	TEAR	rugas	Derived	2 und[2].V're	2	torn thing	sbj:und	
+Hoocąk	32	TEAR	rugas	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	tearer	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	torn thing	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	tear causer	act.V	
+Hoocąk	32	TEAR	rugas	Derived	6/1 2 und[2].act[6/1].V'caus	1	tearer	act.V	
+Hoocąk	32	TEAR	rugas	Derived	6/1 2 und[2].act[6/1].V'caus	2	torn thing	obj:und.V	
+Hoocąk	32	TEAR	rugas	Derived	6/1 2 und[2].act[6/1].V'caus	6	tear causer	act.V	
+Hoocąk	33	PEEL	ruxoro	Basic	1 2 und[2].act[1].V	1	peeler	act.V	A
+Hoocąk	33	PEEL	ruxoro	Basic	1 2 und[2].act[1].V	2	peeled object	obj:und.V	P
+Hoocąk	33	PEEL	ruxoro	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	peeler	act.V	
+Hoocąk	33	PEEL	ruxoro	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	peeled object	obj:und.V	
+Hoocąk	33	PEEL	ruxoro	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	peel beneficiary	obj:und.V	
+Hoocąk	33	PEEL	ruxoro	Derived	2 und[2].V'RDP	2	peeled object	sbj:und	
+Hoocąk	33	PEEL	ruxoro	Derived	2 und[2].V're	2	peeled object	sbj:und	
+Hoocąk	33	PEEL	ruxoro	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	peeler	obj:und.V	
+Hoocąk	33	PEEL	ruxoro	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	peeled object	obj:und.V	
+Hoocąk	33	PEEL	ruxoro	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	peel causer	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Basic	1 2 und[2].act[1].V	1	hider	act.V	A
+Hoocąk	34	HIDE	nųųxąwą	Basic	1 2 und[2].act[1].V	2	hidden thing	obj:und.V	P
+Hoocąk	34	HIDE	nųųxąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	hider	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	hidden thing	obj:und.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	hiding affectee	obj:und.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	1/2 act[1/2].V'rfl/rcp	1	hider	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	1/2 act[1/2].V'rfl/rcp	2	hidden thing	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	hider	obj:und.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	hidden thing	obj:und.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	hide causer	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6/1 2 und[2].act[6/1].V'caus	1	hider	act.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6/1 2 und[2].act[6/1].V'caus	2	hidden thing	obj:und.V	
+Hoocąk	34	HIDE	nųųxąwą	Derived	6/1 2 und[2].act[6/1].V'caus	6	hide causer	act.V	
+Hoocąk	35	SHOW	waha	Basic	1 2 und[2].act[1].V	1	shower	act.V	A
+Hoocąk	35	SHOW	waha	Basic	1 2 und[2].act[1].V	2	shown thing	obj:und.V	P
+Hoocąk	35	SHOW	waha	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	shower	act.V	
+Hoocąk	35	SHOW	waha	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	shown thing	obj:und.V	
+Hoocąk	35	SHOW	waha	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	showing addressee	obj:und.V	
+Hoocąk	35	SHOW	waha	Derived	1/2 act[1/2].V'rfl/rcp	1	shower	act.V	
+Hoocąk	35	SHOW	waha	Derived	1/2 act[1/2].V'rfl/rcp	2	shown thing	act.V	
+Hoocąk	35	SHOW	waha	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	shower	obj:und.V	
+Hoocąk	35	SHOW	waha	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	shown thing	obj:und.V	
+Hoocąk	35	SHOW	waha	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	show causer	act.V	
+Hoocąk	35	SHOW	waha	Derived	6/1 2 und[2].act[6/1].V'caus	1	shower	act.V	
+Hoocąk	35	SHOW	waha	Derived	6/1 2 und[2].act[6/1].V'caus	2	shown thing	obj:und.V	
+Hoocąk	35	SHOW	waha	Derived	6/1 2 und[2].act[6/1].V'caus	6	show causer	act.V	
+Hoocąk	36	GIVE	hok'ų	Basic	1 2 3 und[3].und[2].act[1].V	1	giver	act.V	A
+Hoocąk	36	GIVE	hok'ų	Basic	1 2 3 und[3].und[2].act[1].V	2	giving recipient	obj:und.V	P
+Hoocąk	36	GIVE	hok'ų	Basic	1 2 3 und[3].und[2].act[1].V	3	gift	obj:und.V	P
+Hoocąk	36	GIVE	hok'ų	Derived	1/2 3 und[3].act[1/2].V'rfl/rcp	1	giver	act.V	
+Hoocąk	36	GIVE	hok'ų	Derived	1/2 3 und[3].act[1/2].V'rfl/rcp	2	giving recipient	act.V	
+Hoocąk	36	GIVE	hok'ų	Derived	1/2 3 und[3].act[1/2].V'rfl/rcp	3	gift	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4 1 2 3 und[3].und[2].und[1].act[4].V'caus	1	giver	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4 1 2 3 und[3].und[2].und[1].act[4].V'caus	2	giving recipient	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4 1 2 3 und[3].und[2].und[1].act[4].V'caus	3	gift	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4 1 2 3 und[3].und[2].und[1].act[4].V'caus	4	give causer	act.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4/1 2 3 und[3].und[2].act[4/1].V'caus	1	giver	act.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4/1 2 3 und[3].und[2].act[4/1].V'caus	2	giving recipient	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4/1 2 3 und[3].und[2].act[4/1].V'caus	3	gift	obj:und.V	
+Hoocąk	36	GIVE	hok'ų	Derived	4/1 2 3 und[3].und[2].act[4/1].V'caus	4	give causer	act.V	
+Hoocąk	38	CARRY	ru'ą	Basic	1 2 (LOC3) und[2].act[1].V	1	carrier	act.V	A
+Hoocąk	38	CARRY	ru'ą	Basic	1 2 (LOC3) und[2].act[1].V	2	carried thing	obj:und.V	P
+Hoocąk	38	CARRY	ru'ą	Basic	1 2 (LOC3) und[2].act[1].V	3	carrying goal	LOC	L
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	carrier	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	carried thing	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	carrying goal	LOC & obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	carrier	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	carried thing	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	carrying goal	LOC	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	carry beneficiary	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	1	carrier	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	2	carried thing	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	3	carrying goal	LOC	
+Hoocąk	38	CARRY	ru'ą	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	5	carry instrument	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	1	carrier	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	2	carried thing	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	3	carrying goal	LOC	
+Hoocąk	38	CARRY	ru'ą	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	1	carrier	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	2	carried thing	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	3	carrying goal	LOC	
+Hoocąk	38	CARRY	ru'ą	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	6	carry causer	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	1	carrier	act.V	
+Hoocąk	38	CARRY	ru'ą	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	2	carried thing	obj:und.V	
+Hoocąk	38	CARRY	ru'ą	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	3	carrying goal	LOC	
+Hoocąk	38	CARRY	ru'ą	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	6	carry causer	act.V	
+Hoocąk	39	THROW	hirojį	Basic	1 2 (3) und[2].act[1].V	1	thrower	act.V	A
+Hoocąk	39	THROW	hirojį	Basic	1 2 (3) und[2].act[1].V	2	throwing goal	obj:und.V	P
+Hoocąk	39	THROW	hirojį	Basic	1 2 (3) und[2].act[1].V	3	thrown thing	Ø	I
+Hoocąk	39	THROW	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	1	thrower	act.V	
+Hoocąk	39	THROW	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	2	throwing goal	obj:und.V	
+Hoocąk	39	THROW	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	3	thrown thing	Ø	
+Hoocąk	39	THROW	hirojį	Derived	1 2 (3) 4 und[4].und[2].act[1].V'ben	4	throw beneficiary	obj:und.V	
+Hoocąk	39	THROW	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	1	thrower	act.V	
+Hoocąk	39	THROW	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	2	throwing goal	act.V	
+Hoocąk	39	THROW	hirojį	Derived	1/2 (3) act[1/2].V'rfl/rcp	3	thrown thing	Ø	
+Hoocąk	39	THROW	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	1	thrower	obj:und.V	
+Hoocąk	39	THROW	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	2	throwing goal	obj:und.V	
+Hoocąk	39	THROW	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	3	thrown thing	Ø	
+Hoocąk	39	THROW	hirojį	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	6	throw causer	act.V	
+Hoocąk	39	THROW	ųųreehi	Basic	1 2 (LOC3) und[2].act[1].V	1	thrower	act.V	A
+Hoocąk	39	THROW	ųųreehi	Basic	1 2 (LOC3) und[2].act[1].V	2	thrown thing	obj:und.V	P
+Hoocąk	39	THROW	ųųreehi	Basic	1 2 (LOC3) und[2].act[1].V	3	throwing goal	LOC	L
+Hoocąk	39	THROW	ųųreehi	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	thrower	act.V	
+Hoocąk	39	THROW	ųųreehi	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	thrown thing	obj:und.V	
+Hoocąk	39	THROW	ųųreehi	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	throwing goal	LOC	
+Hoocąk	39	THROW	ųųreehi	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	throw beneficiary	obj:und.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	1	thrower	obj:und.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	2	thrown thing	obj:und.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	3	throwing goal	LOC	
+Hoocąk	39	THROW	ųųreehi	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	6	throw causer	act.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	1	thrower	act.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	2	thrown thing	obj:und.V	
+Hoocąk	39	THROW	ųųreehi	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	3	throwing goal	LOC	
+Hoocąk	39	THROW	ųųreehi	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	6	throw causer	act.V	
+Hoocąk	40	TIE	rusgic	Basic	1 2 und[2].act[1].V	1	tier	act.V	A
+Hoocąk	40	TIE	rusgic	Basic	1 2 und[2].act[1].V	2	tied thing	obj:und.V	P
+Hoocąk	40	TIE	rusgic	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	tier	act.V	
+Hoocąk	40	TIE	rusgic	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	tied thing	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	tie beneficiary	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	tier	act.V	
+Hoocąk	40	TIE	rusgic	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	tied thing	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	tying instrument	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	1/2 act[1/2].V'rfl/rcp	1	tier	act.V	
+Hoocąk	40	TIE	rusgic	Derived	1/2 act[1/2].V'rfl/rcp	2	tied thing	act.V	
+Hoocąk	40	TIE	rusgic	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	tier	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	tied thing	obj:und.V	
+Hoocąk	40	TIE	rusgic	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	tie causer	act.V	
+Hoocąk	41	PUT	hožu	Basic	1 2 LOC3 und[2].act[1].V	1	putter	act.V	A
+Hoocąk	41	PUT	hožu	Basic	1 2 LOC3 und[2].act[1].V	2	put thing	obj:und.V	P
+Hoocąk	41	PUT	hožu	Basic	1 2 LOC3 und[2].act[1].V	3	putting goal	LOC	L
+Hoocąk	41	PUT	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	putter	act.V	
+Hoocąk	41	PUT	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	put thing	obj:und.V	
+Hoocąk	41	PUT	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	putting goal	LOC & obj:und.V	
+Hoocąk	41	PUT	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	putter	act.V	
+Hoocąk	41	PUT	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	put thing	obj:und.V	
+Hoocąk	41	PUT	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	putting goal	LOC	
+Hoocąk	41	PUT	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	put beneficiary	obj:und.V	
+Hoocąk	41	PUT	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	1	putter	act.V	
+Hoocąk	41	PUT	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	2	put thing	act.V	
+Hoocąk	41	PUT	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	3	putting goal	LOC	
+Hoocąk	42	POUR	waxų	Basic	1 2 (LOC3) und[2].act[1].V	1	pourer	act.V	A
+Hoocąk	42	POUR	waxų	Basic	1 2 (LOC3) und[2].act[1].V	2	poured substance	obj:und.V	P
+Hoocąk	42	POUR	waxų	Basic	1 2 (LOC3) und[2].act[1].V	3	pouring goal	LOC	L
+Hoocąk	42	POUR	waxų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	pourer	act.V	
+Hoocąk	42	POUR	waxų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	poured substance	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	pouring goal	LOC & obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	pourer	act.V	
+Hoocąk	42	POUR	waxų	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	poured substance	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	pouring goal	LOC	
+Hoocąk	42	POUR	waxų	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	pour beneficiary	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	2 (LOC3) und[2].V're	2	poured substance	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	2 (LOC3) und[2].V're	3	pouring goal	LOC	
+Hoocąk	42	POUR	waxų	Derived	2 und[2].V'RDP	2	poured substance	sbj:und	
+Hoocąk	42	POUR	waxų	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	1	pourer	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	2	poured substance	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	3	pouring goal	LOC	
+Hoocąk	42	POUR	waxų	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	6	pour causer	act.V	
+Hoocąk	42	POUR	waxų	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	1	pourer	act.V	
+Hoocąk	42	POUR	waxų	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	2	poured substance	obj:und.V	
+Hoocąk	42	POUR	waxų	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	3	pouring goal	LOC	
+Hoocąk	42	POUR	waxų	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	6	pour causer	act.V	
+Hoocąk	43	COVER	haruką	Basic	1 2 und[2].act[1].V	1	coverer	act.V	A
+Hoocąk	43	COVER	haruką	Basic	1 2 und[2].act[1].V	2	covered thing	obj:und.V	P
+Hoocąk	43	COVER	haruką	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	coverer	act.V	
+Hoocąk	43	COVER	haruką	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	covered thing	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	cover-beneficiary	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	coverer	act.V	
+Hoocąk	43	COVER	haruką	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	covered thing	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	cover	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	1/2 act[1/2].V'rfl/rcp	1	coverer	act.V	
+Hoocąk	43	COVER	haruką	Derived	1/2 act[1/2].V'rfl/rcp	2	covered thing	act.V	
+Hoocąk	43	COVER	haruką	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	coverer	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	covered thing	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	cover causer	act.V	
+Hoocąk	43	COVER	haruką	Derived	6/1 2 und[2].act[6/1].V'caus	1	coverer	act.V	
+Hoocąk	43	COVER	haruką	Derived	6/1 2 und[2].act[6/1].V'caus	2	covered thing	obj:und.V	
+Hoocąk	43	COVER	haruką	Derived	6/1 2 und[2].act[6/1].V'caus	6	cover causer	act.V	
+Hoocąk	44	FILL	hoixjį hii	Basic	1 2 (3) und[2].act[1].V	1	filler	act.V	A
+Hoocąk	44	FILL	hoixjį hii	Basic	1 2 (3) und[2].act[1].V	2	filled container	obj:und.V	P
+Hoocąk	44	FILL	hoixjį hii	Basic	1 2 (3) und[2].act[1].V	3	filling material	Ø	I
+Hoocąk	44	FILL	hoixjį hii	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	1	filler	obj:und.V	
+Hoocąk	44	FILL	hoixjį hii	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	2	filled container	obj:und.V	
+Hoocąk	44	FILL	hoixjį hii	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	3	filling material	Ø	
+Hoocąk	44	FILL	hoixjį hii	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	6	fill causer	act.V	
+Hoocąk	44	FILL	hoixjį hii	Derived	6/1 2 (3) und[2].act[6/1].V'caus	1	filler	act.V	
+Hoocąk	44	FILL	hoixjį hii	Derived	6/1 2 (3) und[2].act[6/1].V'caus	2	filled container	obj:und.V	
+Hoocąk	44	FILL	hoixjį hii	Derived	6/1 2 (3) und[2].act[6/1].V'caus	3	filling material	Ø	
+Hoocąk	44	FILL	hoixjį hii	Derived	6/1 2 (3) und[2].act[6/1].V'caus	6	fill causer	act.V	
+Hoocąk	45	LOAD	hožu	Basic	1 2 LOC3 und[2].act[1].V	1	loader	act.V	A
+Hoocąk	45	LOAD	hožu	Basic	1 2 LOC3 und[2].act[1].V	2	loaded thing	obj:und.V	P
+Hoocąk	45	LOAD	hožu	Basic	1 2 LOC3 und[2].act[1].V	3	loading place	LOC	L
+Hoocąk	45	LOAD	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	loader	act.V	
+Hoocąk	45	LOAD	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	loaded thing	obj:und.V	
+Hoocąk	45	LOAD	hožu	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	loading place	LOC & obj:und.V	
+Hoocąk	45	LOAD	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	loader	act.V	
+Hoocąk	45	LOAD	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	loaded thing	obj:und.V	
+Hoocąk	45	LOAD	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	loading place	LOC	
+Hoocąk	45	LOAD	hožu	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	load beneficiary	obj:und.V	
+Hoocąk	45	LOAD	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	1	loader	act.V	
+Hoocąk	45	LOAD	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	2	loaded thing	act.V	
+Hoocąk	45	LOAD	hožu	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	3	loading place	LOC	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Basic	1 act[1].V	1	blinker	act.V	X
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Derived	2 1 und[1].act[2].V'caus	1	blinker	obj:und.V	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Derived	2 1 und[1].act[2].V'caus	2	blink causer	act.V	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Derived	2/1 act[2/1].V'caus	1	blinker	act.V	
+Hoocąk	46	BLINK	hišjasu(ra) gip'i(p'i)s	Derived	2/1 act[2/1].V'caus	2	blink causer	act.V	
+Hoocąk	47	COUGH	hooxiwi	Basic	1 act[1].V	1	cougher	act.V	X
+Hoocąk	47	COUGH	hooxiwi	Derived	2 1 und[1].act[2].V'caus	1	cougher	obj:und.V	
+Hoocąk	47	COUGH	hooxiwi	Derived	2 1 und[1].act[2].V'caus	2	cough causer	act.V	
+Hoocąk	47	COUGH	hooxiwi	Derived	2/1 act[2/1].V'caus	1	cougher	act.V	
+Hoocąk	47	COUGH	hooxiwi	Derived	2/1 act[2/1].V'caus	2	cough causer	act.V	
+Hoocąk	48	CLIMB	hoti	Basic	1 2 und[2].act[1].V	1	climber	act.V	A
+Hoocąk	48	CLIMB	hoti	Basic	1 2 und[2].act[1].V	2	climbing goal	obj:und.V	P
+Hoocąk	48	CLIMB	hoti	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	climber	act.V	
+Hoocąk	48	CLIMB	hoti	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	climbing goal	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	climb beneficiary	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	climber	act.V	
+Hoocąk	48	CLIMB	hoti	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	climbing goal	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	climb instrument	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	climber	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	climbing goal	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	climb causer	act.V	
+Hoocąk	48	CLIMB	hoti	Derived	6/1 2 und[2].act[6/1].V'caus	1	climber	act.V	
+Hoocąk	48	CLIMB	hoti	Derived	6/1 2 und[2].act[6/1].V'caus	2	climbing goal	obj:und.V	
+Hoocąk	48	CLIMB	hoti	Derived	6/1 2 und[2].act[6/1].V'caus	6	climb causer	act.V	
+Hoocąk	49	RUN	nųųwąk	Basic	1 act[1].V	1	runner	act.V	X
+Hoocąk	49	RUN	nųųwąk	Derived	1 LOC5 und[5].act[1].V'loc	1	runner	act.V	
+Hoocąk	49	RUN	nųųwąk	Derived	1 LOC5 und[5].act[1].V'loc	5	running place	LOC & obj:und.V	
+Hoocąk	49	RUN	nųųwąk	Derived	2 1 und[1].act[2].V'caus	1	runner	obj:und.V	
+Hoocąk	49	RUN	nųųwąk	Derived	2 1 und[1].act[2].V'caus	2	run causer	act.V	
+Hoocąk	50	SIT	mįįnak	Basic	1 LOC2 act[1].V	1	sitter	act.V	X
+Hoocąk	50	SIT	mįįnak	Basic	1 LOC2 act[1].V	2	sitting place	LOC	L
+Hoocąk	50	SIT	mįįnak	Derived	1 LOC2 und[2].act[1].V'loc	1	sitter	act.V	
+Hoocąk	50	SIT	mįįnak	Derived	1 LOC2 und[2].act[1].V'loc	2	sitting place	LOC & obj:und.V	
+Hoocąk	50	SIT	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	1	sitter	obj:und.V	
+Hoocąk	50	SIT	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	2	sitting place	LOC	
+Hoocąk	50	SIT	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	3	sit causer	act.V	
+Hoocąk	50	SIT	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	1	sitter	act.V	
+Hoocąk	50	SIT	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	2	sitting place	LOC	
+Hoocąk	50	SIT	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	3	sit causer	act.V	
+Hoocąk	51	SIT DOWN	mįįnak	Basic	1 LOC2 act[1].V	1	sitdowner	act.V	X
+Hoocąk	51	SIT DOWN	mįįnak	Basic	1 LOC2 act[1].V	2	sitting-down place	LOC	L
+Hoocąk	51	SIT DOWN	mįįnak	Derived	1 LOC2 und[2].act[1].V'loc	1	sitdowner	act.V	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	1 LOC2 und[2].act[1].V'loc	2	sitting-down place	LOC & obj:und.V	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	1	sitdowner	obj:und.V	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	2	sitting-down place	LOC	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3 1 LOC2 und[1].act[3].V'caus	3	sit down causer	act.V	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	1	sitdowner	act.V	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	2	sitting-down place	LOC	
+Hoocąk	51	SIT DOWN	mįįnak	Derived	3/1 LOC2 act[3/1].V'caus	3	sit down causer	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Basic	1 act[1].V	1	jumper	act.V	X
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 3 und[3].act[1].V'ben	1	jumper	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 3 und[3].act[1].V'ben	3	jump beneficiary	obj:und.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 4 und[4].act[1].V'inst	1	jumper	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 4 und[4].act[1].V'inst	4	jump instrument	obj:und.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 LOC5 und[5].act[1].V'loc	1	jumper	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	1 LOC5 und[5].act[1].V'loc	5	jump location	LOC & obj:und.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	2 1 und[1].act[2].V'caus	1	jumper	obj:und.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	2 1 und[1].act[2].V'caus	2	jump causer	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	2/1 act[2/1].V'caus	1	jumper	act.V	
+Hoocąk	52	JUMP	t'ąą(t'ą)p	Derived	2/1 act[2/1].V'caus	2	jump causer	act.V	
+Hoocąk	53	SING	nąąwą	Basic	1 2 und[2].act[1].V	1	singer	act.V	A
+Hoocąk	53	SING	nąąwą	Basic	1 2 und[2].act[1].V	2	song	obj:und.V	P
+Hoocąk	53	SING	nąąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	singer	act.V	
+Hoocąk	53	SING	nąąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	song	obj:und.V	
+Hoocąk	53	SING	nąąwą	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	sung-to person	obj:und.V	
+Hoocąk	53	SING	nąąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	singer	obj:und.V	
+Hoocąk	53	SING	nąąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	song	obj:und.V	
+Hoocąk	53	SING	nąąwą	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	sing causer	act.V	
+Hoocąk	53	SING	nąąwą	Derived	6/1 2 und[2].act[6/1].V'caus	1	singer	act.V	
+Hoocąk	53	SING	nąąwą	Derived	6/1 2 und[2].act[6/1].V'caus	2	song	obj:und.V	
+Hoocąk	53	SING	nąąwą	Derived	6/1 2 und[2].act[6/1].V'caus	6	sing causer	act.V	
+Hoocąk	56	LIVE	cii	Basic	1 LOC2 act[1].V	1	liver	act.V	X
+Hoocąk	56	LIVE	cii	Basic	1 LOC2 act[1].V	2	living place	LOC	L
+Hoocąk	56	LIVE	cii	Derived	1 LOC2 und[2].act[1].V'loc	1	liver	act.V	
+Hoocąk	56	LIVE	cii	Derived	1 LOC2 und[2].act[1].V'loc	2	living place	LOC & obj:und.V	
+Hoocąk	56	LIVE	cii	Derived	3 1 LOC2 und[1].act[3].V'caus	1	liver	obj:und.V	
+Hoocąk	56	LIVE	cii	Derived	3 1 LOC2 und[1].act[3].V'caus	2	living place	LOC	
+Hoocąk	56	LIVE	cii	Derived	3 1 LOC2 und[1].act[3].V'caus	3	live causer	act.V	
+Hoocąk	57	LAUGH	hikša	Basic	1 act[1].V	1	laugher	act.V	X
+Hoocąk	57	LAUGH	hikša	Derived	1/3 act[1/3].V'rfl/rcp	1	laugher	act.V	
+Hoocąk	57	LAUGH	hikša	Derived	1/3 act[1/3].V'rfl/rcp	3	laughed-about thing	act.V	
+Hoocąk	57	LAUGH	hikša	Derived	2 1 und[1].act[2].V'caus	1	laugher	obj:und.V	
+Hoocąk	57	LAUGH	hikša	Derived	2 1 und[1].act[2].V'caus	2	laugh causer	act.V	
+Hoocąk	57	LAUGH	hikša	Derived	2/1 act[2/1].V'caus	1	laugher	act.V	
+Hoocąk	57	LAUGH	hikša	Derived	2/1 act[2/1].V'caus	2	laugh causer	act.V	
+Hoocąk	58	SCREAM	iijanįk	Basic	1 act[1].V	1	screamer	act.V	X
+Hoocąk	58	SCREAM	iijanįk	Derived	2 1 und[1].act[2].V'caus	1	screamer	obj:und.V	
+Hoocąk	58	SCREAM	iijanįk	Derived	2 1 und[1].act[2].V'caus	2	scream causer	act.V	
+Hoocąk	59	FEEL PAIN	teek	Basic	1 und[1].V	1	pain locus	sbj:und	S
+Hoocąk	59	FEEL PAIN	teek	Derived	2 1 und[1].act[2].V'caus	1	pain locus	obj:und.V	
+Hoocąk	59	FEEL PAIN	teek	Derived	2 1 und[1].act[2].V'caus	2	pain causer	act.V	
+Hoocąk	59	FEEL PAIN	teek	Derived	2/1 act[2/1].V'caus	1	pain locus	act.V	
+Hoocąk	59	FEEL PAIN	teek	Derived	2/1 act[2/1].V'caus	2	pain causer	act.V	
+Hoocąk	60	FEEL COLD	taasak	Basic	1 und[1].V	1	freezing person	sbj:und	S
+Hoocąk	60	FEEL COLD	taasak	Derived	2 1 und[1].act[2].V'caus	1	freezing person	obj:und.V	
+Hoocąk	60	FEEL COLD	taasak	Derived	2 1 und[1].act[2].V'caus	2	chill causer	act.V	
+Hoocąk	60	FEEL COLD	taasak	Derived	2/1 act[2/1].V'caus	1	freezing person	act.V	
+Hoocąk	60	FEEL COLD	taasak	Derived	2/1 act[2/1].V'caus	2	chill causer	act.V	
+Hoocąk	61	DIE	t'ee	Basic	1 und[1].V	1	dieer	sbj:und	S
+Hoocąk	61	DIE	t'ee	Derived	1 4 und[4].und[1].V'inst	1	dieer	sbj:und	
+Hoocąk	61	DIE	t'ee	Derived	1 4 und[4].und[1].V'inst	4	cause of death	obj:und.V	
+Hoocąk	61	DIE	t'ee	Derived	2 1 und[1].act[2].V'caus	1	dieer	obj:und.V	
+Hoocąk	61	DIE	t'ee	Derived	2 1 und[1].act[2].V'caus	2	killer/death causer	act.V	
+Hoocąk	61	DIE	t'ee	Derived	2/1 act[2/1].V'caus	1	dieer	act.V	
+Hoocąk	61	DIE	t'ee	Derived	2/1 act[2/1].V'caus	2	killer/death causer	act.V	
+Hoocąk	62	PLAY	šgaac	Basic	1 act[1].V	1	player	act.V	X
+Hoocąk	62	PLAY	šgaac	Derived	1 4 und[4].act[1].V'inst	1	player	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	1 4 und[4].act[1].V'inst	4	toy	obj:und.V	
+Hoocąk	62	PLAY	šgaac	Derived	1 LOC5 und[5].act[1].V'loc	1	player	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	1 LOC5 und[5].act[1].V'loc	5	play location	LOC & obj:und.V	
+Hoocąk	62	PLAY	šgaac	Derived	1/3 act[1/3].V'rfl/rcp	1	player	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	1/3 act[1/3].V'rfl/rcp	3	playing partner	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	2 1 und[1].act[2].V'caus	1	player	obj:und.V	
+Hoocąk	62	PLAY	šgaac	Derived	2 1 und[1].act[2].V'caus	2	play causer	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	2/1 act[2/1].V'caus	1	player	act.V	
+Hoocąk	62	PLAY	šgaac	Derived	2/1 act[2/1].V'caus	2	play causer	act.V	
+Hoocąk	63	BE SAD	horuš'ak	Basic	1 act[1].V	1	sad person	act.V	X
+Hoocąk	63	BE SAD	horuš'ak	Derived	2 1 und[1].act[2].V'caus	1	sad person	obj:und.V	
+Hoocąk	63	BE SAD	horuš'ak	Derived	2 1 und[1].act[2].V'caus	2	sadness causer	act.V	
+Hoocąk	63	BE SAD	horuš'ak	Derived	2/1 act[2/1].V'caus	1	sad person	act.V	
+Hoocąk	63	BE SAD	horuš'ak	Derived	2/1 act[2/1].V'caus	2	sadness causer	act.V	
+Hoocąk	64	BE HUNGRY	tookewehi	Basic	1 und[1].V	1	hungry person	sbj:und	S
+Hoocąk	64	BE HUNGRY	tookewehi	Derived	2 1 und[1].act[2].V'caus	1	hungry person	obj:und.V	
+Hoocąk	64	BE HUNGRY	tookewehi	Derived	2 1 und[1].act[2].V'caus	2	hunger causer	act.V	
+Hoocąk	64	BE HUNGRY	tookewehi	Derived	2/1 act[2/1].V'caus	1	hungry person	act.V	
+Hoocąk	64	BE HUNGRY	tookewehi	Derived	2/1 act[2/1].V'caus	2	hunger causer	act.V	
+Hoocąk	65	ROLL	howaną(ną)	Basic	1 act[1].V	1	rolling entity	act.V	X
+Hoocąk	65	ROLL	howaną(ną)	Derived	1 LOC5 und[5].act[1].V'loc	1	rolling entity	act.V	
+Hoocąk	65	ROLL	howaną(ną)	Derived	1 LOC5 und[5].act[1].V'loc	5	rolling location	LOC & obj:und.V	
+Hoocąk	65	ROLL	howaną(ną)	Derived	2 1 und[1].act[2].V'caus	1	rolling entity	obj:und.V	
+Hoocąk	65	ROLL	howaną(ną)	Derived	2 1 und[1].act[2].V'caus	2	roller	act.V	
+Hoocąk	65	ROLL	howaną(ną)	Derived	2/1 act[2/1].V'caus	1	rolling entity	act.V	
+Hoocąk	65	ROLL	howaną(ną)	Derived	2/1 act[2/1].V'caus	2	roller	act.V	
+Hoocąk	66	SINK	hasaware	Basic	1 und[1].V	1	sunken entity	sbj:und	S
+Hoocąk	66	SINK	hasaware	Derived	2 1 und[1].act[2].V'caus	1	sunken entity	obj:und.V	
+Hoocąk	66	SINK	hasaware	Derived	2 1 und[1].act[2].V'caus	2	sink-(caus)er	act.V	
+Hoocąk	66	SINK	hasaware	Derived	2/1 act[2/1].V'caus	1	sunken entity	act.V	
+Hoocąk	66	SINK	hasaware	Derived	2/1 act[2/1].V'caus	2	sink-(caus)er	act.V	
+Hoocąk	67	BURN	taa'e	Basic	1 und[1].V	1	burnt thing	sbj:und	S
+Hoocąk	67	BURN	taa'e	Derived	2 1 und[1].act[2].V'caus	1	burnt thing	obj:und.V	
+Hoocąk	67	BURN	taa'e	Derived	2 1 und[1].act[2].V'caus	2	burner	act.V	
+Hoocąk	68	BE DRY	wuus	Basic	1 und[1].V	1	dry thing	sbj:und	S
+Hoocąk	68	BE DRY	wuus	Derived	2 1 und[1].act[2].V'caus	1	dry thing	obj:und.V	
+Hoocąk	68	BE DRY	wuus	Derived	2 1 und[1].act[2].V'caus	2	drier / dry causer	act.V	
+Hoocąk	68	BE DRY	wuus	Derived	2/1 act[2/1].V'caus	1	dry thing	act.V	
+Hoocąk	68	BE DRY	wuus	Derived	2/1 act[2/1].V'caus	2	drier / dry causer	act.V	
+Hoocąk	69	RAIN	nįįžu	Basic	V	1	rain causer		
+Hoocąk	69	RAIN	nįįžu	Derived	1 act[1].V'caus	1	rain causer	act.V	
+Hoocąk	69	RAIN	nįįžu	Derived	2 und[2].V'loc	2	rain goal	LOC & obj:und.V	
+Hoocąk	71	GRIND	gicop	Basic	1 2 und[2].act[1].V	1	grinder	act.V	A
+Hoocąk	71	GRIND	gicop	Basic	1 2 und[2].act[1].V	2	ground thing	obj:und.V	P
+Hoocąk	71	GRIND	gicop	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	grinder	act.V	
+Hoocąk	71	GRIND	gicop	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	gicop	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	grind beneficiary	obj:und.V	
+Hoocąk	71	GRIND	gicop	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	grinder	obj:und.V	
+Hoocąk	71	GRIND	gicop	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	gicop	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	grind causer	act.V	
+Hoocąk	71	GRIND	gicop	Derived	6/1 2 und[2].act[6/1].V'caus	1	grinder	act.V	
+Hoocąk	71	GRIND	gicop	Derived	6/1 2 und[2].act[6/1].V'caus	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	gicop	Derived	6/1 2 und[2].act[6/1].V'caus	6	grind causer	act.V	
+Hoocąk	71	GRIND	mąąxjuk	Basic	1 2 und[2].act[1].V	1	grinder	act.V	A
+Hoocąk	71	GRIND	mąąxjuk	Basic	1 2 und[2].act[1].V	2	ground thing	obj:und.V	P
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	grinder	act.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	grind beneficiary	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	grinder	act.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	grinding instrument	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1/2 act[1/2].V'rfl/rcp	1	grinder	act.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	1/2 act[1/2].V'rfl/rcp	2	ground thing	act.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	2 und[2].V'RDP	2	ground thing	sbj:und	
+Hoocąk	71	GRIND	mąąxjuk	Derived	2 und[2].V're	2	ground thing	sbj:und	
+Hoocąk	71	GRIND	mąąxjuk	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	grinder	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	ground thing	obj:und.V	
+Hoocąk	71	GRIND	mąąxjuk	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	grind causer	act.V	
+Hoocąk	72	WIPE	waža	Basic	1 2 und[2].act[1].V	1	wiper	act.V	A
+Hoocąk	72	WIPE	waža	Basic	1 2 und[2].act[1].V	2	wiping surface	obj:und.V	P
+Hoocąk	72	WIPE	waža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	wiper	act.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	wiping surface	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	wipe goal	LOC & obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	wiper	act.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	wiping surface	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	wipe beneficiary	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	wiper	act.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	wiping surface	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	wiped material	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	1/2 act[1/2].V'rfl/rcp	1	wiper	act.V	
+Hoocąk	72	WIPE	waža	Derived	1/2 act[1/2].V'rfl/rcp	2	wiping surface	act.V	
+Hoocąk	72	WIPE	waža	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	wiper	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	wiping surface	obj:und.V	
+Hoocąk	72	WIPE	waža	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	wipe causer	act.V	
+Hoocąk	73	DIG	k'ee	Basic	1 2 und[2].act[1].V	1	digger	act.V	A
+Hoocąk	73	DIG	k'ee	Basic	1 2 und[2].act[1].V	2	dug hole/ground	obj:und.V	P
+Hoocąk	73	DIG	k'ee	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	digger	act.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	dug hole/ground	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	digging place	LOC & obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	digger	act.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	dug hole/ground	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	dig beneficiary	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	digger	act.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	dug hole/ground	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	digging instrument	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	digger	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	dug hole/ground	obj:und.V	
+Hoocąk	73	DIG	k'ee	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	dig causer	act.V	
+Hoocąk	74	PUSH	hawają	Basic	1 2 (LOC3) und[2].act[1].V	1	pusher	act.V	A
+Hoocąk	74	PUSH	hawają	Basic	1 2 (LOC3) und[2].act[1].V	2	pushee	obj:und.V	P
+Hoocąk	74	PUSH	hawają	Basic	1 2 (LOC3) und[2].act[1].V	3	pushing goal	LOC	L
+Hoocąk	74	PUSH	hawają	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	pusher	act.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	pushee	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	pushing goal	LOC & obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	1	pusher	act.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	2	pushee	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	3	pushing goal	LOC	
+Hoocąk	74	PUSH	hawają	Derived	1 2 4 (LOC3) und[4].und[2].act[1].V'ben	4	push beneficiary	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	1	pusher	act.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	2	pushee	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	3	pushing goal	LOC	
+Hoocąk	74	PUSH	hawają	Derived	1 2 5 (LOC3) und[5].und[2].act[1].V'inst	5	push instrument	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	1	pusher	act.V	
+Hoocąk	74	PUSH	hawają	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	2	pushee	act.V	
+Hoocąk	74	PUSH	hawają	Derived	1/2 (LOC3) act[1/2].V'rfl/rcp	3	pushing goal	LOC	
+Hoocąk	74	PUSH	hawają	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	1	pusher	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	2	pushee	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	3	pushing goal	LOC	
+Hoocąk	74	PUSH	hawają	Derived	6 1 2 (LOC3) und[2].und[1].act[6].V'caus	6	push causer	act.V	
+Hoocąk	74	PUSH	hawają	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	1	pusher	act.V	
+Hoocąk	74	PUSH	hawają	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	2	pushee	obj:und.V	
+Hoocąk	74	PUSH	hawają	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	3	pushing goal	LOC	
+Hoocąk	74	PUSH	hawają	Derived	6/1 2 (LOC3) und[2].act[6/1].V'caus	6	push causer	act.V	
+Hoocąk	75	BRING	hanį jii	Basic	1 2 und[2].act[1].V	1	bringer	act.V	A
+Hoocąk	75	BRING	hanį jii	Basic	1 2 und[2].act[1].V	2	brought thing	obj:und.V	P
+Hoocąk	75	BRING	hanį jii	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	bringer	act.V	
+Hoocąk	75	BRING	hanį jii	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	brought thing	obj:und.V	
+Hoocąk	75	BRING	hanį jii	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	bringing recipient	obj:und.V	
+Hoocąk	75	BRING	hanį jii	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	bringer	obj:und.V	
+Hoocąk	75	BRING	hanį jii	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	brought thing	obj:und.V	
+Hoocąk	75	BRING	hanį jii	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	bring causer	act.V	
+Hoocąk	75	BRING	hanį jii	Derived	6/1 2 und[2].act[6/1].V'caus	1	bringer	act.V	
+Hoocąk	75	BRING	hanį jii	Derived	6/1 2 und[2].act[6/1].V'caus	2	brought thing	obj:und.V	
+Hoocąk	75	BRING	hanį jii	Derived	6/1 2 und[2].act[6/1].V'caus	6	bring causer	act.V	
+Hoocąk	76	STEAL	mąąnų	Basic	1 2 und[2].act[1].V	1	stealer	act.V	A
+Hoocąk	76	STEAL	mąąnų	Basic	1 2 und[2].act[1].V	2	stolen thing	obj:und.V	P
+Hoocąk	76	STEAL	mąąnų	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	stealer	act.V	
+Hoocąk	76	STEAL	mąąnų	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	stolen thing	obj:und.V	
+Hoocąk	76	STEAL	mąąnų	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	stealing source	obj:und.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	stealer	obj:und.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	stolen thing	obj:und.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	steal causer	act.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6/1 2 und[2].act[6/1].V'caus	1	stealer	act.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6/1 2 und[2].act[6/1].V'caus	2	stolen thing	obj:und.V	
+Hoocąk	76	STEAL	mąąnų	Derived	6/1 2 und[2].act[6/1].V'caus	6	steal causer	act.V	
+Hoocąk	77	TEACH	gigųs	Basic	1 2 (3) und[2].act[1].V	1	teacher	act.V	A
+Hoocąk	77	TEACH	gigųs	Basic	1 2 (3) und[2].act[1].V	2	teachee	obj:und.V	P
+Hoocąk	77	TEACH	gigųs	Basic	1 2 (3) und[2].act[1].V	3	taught content	Ø	I
+Hoocąk	77	TEACH	gigųs	Derived	1/2 (3) act[1/2].V'rfl/rcp	1	teacher	act.V	
+Hoocąk	77	TEACH	gigųs	Derived	1/2 (3) act[1/2].V'rfl/rcp	2	teachee	act.V	
+Hoocąk	77	TEACH	gigųs	Derived	1/2 (3) act[1/2].V'rfl/rcp	3	taught content	Ø	
+Hoocąk	77	TEACH	gigųs	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	1	teacher	obj:und.V	
+Hoocąk	77	TEACH	gigųs	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	2	teachee	obj:und.V	
+Hoocąk	77	TEACH	gigųs	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	3	taught content	Ø	
+Hoocąk	77	TEACH	gigųs	Derived	6 1 2 (3) und[2].und[1].act[6].V'caus	6	teach causer	act.V	
+Hoocąk	78	HEAR	nąąxgų	Basic	1 2 und[2].act[1].V	1	hearer	act.V	A
+Hoocąk	78	HEAR	nąąxgų	Basic	1 2 und[2].act[1].V	2	heard sound	obj:und.V	P
+Hoocąk	78	HEAR	nąąxgų	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	hearer	act.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	heard sound	obj:und.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	hear instrument	obj:und.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	1/2 act[1/2].V'rfl/rcp	1	hearer	act.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	1/2 act[1/2].V'rfl/rcp	2	heard sound	act.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	hearer	obj:und.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	heard sound	obj:und.V	
+Hoocąk	78	HEAR	nąąxgų	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	hear causer	act.V	
+Hoocąk	79	COOK	tuuc hii	Basic	1 2 und[2].act[1].V	1	cooker	act.V	A
+Hoocąk	79	COOK	tuuc hii	Basic	1 2 und[2].act[1].V	2	cooked food	obj:und.V	P
+Hoocąk	79	COOK	tuuc hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	cooker	act.V	
+Hoocąk	79	COOK	tuuc hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	cooked food	obj:und.V	
+Hoocąk	79	COOK	tuuc hii	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	cooking instrument	obj:und.V	
+Hoocąk	79	COOK	tuuc hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	cooker	obj:und.V	
+Hoocąk	79	COOK	tuuc hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	cooked food	obj:und.V	
+Hoocąk	79	COOK	tuuc hii	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	cook causer	act.V	
+Hoocąk	80	BOIL	xere	Basic	1 und[1].V	1	boiled thing	sbj:und	S
+Hoocąk	80	BOIL	xere	Derived	2 1 und[1].act[2].V'caus	1	boiled thing	obj:und.V	
+Hoocąk	80	BOIL	xere	Derived	2 1 und[1].act[2].V'caus	2	boiler	act.V	
+Hoocąk	80	BOIL	xere	Derived	2/1 act[2/1].V'caus	1	boiled thing	act.V	
+Hoocąk	80	BOIL	xere	Derived	2/1 act[2/1].V'caus	2	boiler	act.V	
+Hoocąk	81	APPEAR	haǧep	Basic	1 act[1].V	1	appearer	act.V	X
+Hoocąk	81	APPEAR	haǧep	Derived	1 3 und[3].act[1].V'ben	1	appearer	act.V	
+Hoocąk	81	APPEAR	haǧep	Derived	1 3 und[3].act[1].V'ben	3	appear beneficiary	obj:und.V	
+Hoocąk	81	APPEAR	haǧep	Derived	2 1 und[1].act[2].V'caus	1	appearer	obj:und.V	
+Hoocąk	81	APPEAR	haǧep	Derived	2 1 und[1].act[2].V'caus	2	appear causer	act.V	
+Hoocąk	82	BE ILL	howaža	Basic	1 act[1].V	1	sick person	act.V	X
+Hoocąk	82	BE ILL	howaža	Derived	1 4 und[4].act[1].V'inst	1	sick person	act.V	
+Hoocąk	82	BE ILL	howaža	Derived	1 4 und[4].act[1].V'inst	4	affliction/disease	obj:und.V	
+Hoocąk	82	BE ILL	howaža	Derived	2 1 und[1].act[2].V'caus	1	sick person	obj:und.V	
+Hoocąk	82	BE ILL	howaža	Derived	2 1 und[1].act[2].V'caus	2	sickness causer	act.V	
+Hoocąk	82	BE ILL	howaža	Derived	2/1 act[2/1].V'caus	1	sick person	act.V	
+Hoocąk	82	BE ILL	howaža	Derived	2/1 act[2/1].V'caus	2	sickness causer	act.V	
+Hoocąk	83	CRY	ǧaak	Basic	1 act[1].V	1	crier	act.V	X
+Hoocąk	83	CRY	ǧaak	Derived	1 3 und[3].act[1].V'ben	1	crier	act.V	
+Hoocąk	83	CRY	ǧaak	Derived	1 3 und[3].act[1].V'ben	3	cried after/for person	obj:und.V	
+Hoocąk	83	CRY	ǧaak	Derived	2 1 und[1].act[2].V'caus	1	crier	obj:und.V	
+Hoocąk	83	CRY	ǧaak	Derived	2 1 und[1].act[2].V'caus	2	cry causer	act.V	
+Hoocąk	83	CRY	ǧaak	Derived	2/1 act[2/1].V'caus	1	crier	act.V	
+Hoocąk	83	CRY	ǧaak	Derived	2/1 act[2/1].V'caus	2	cry causer	act.V	
+Hoocąk	84	FALL	bookewe	Basic	1 act[1].V	1	fallee	act.V	X
+Hoocąk	84	FALL	bookewe	Derived	1 4 und[4].act[1].V'inst	1	fallee	act.V	
+Hoocąk	84	FALL	bookewe	Derived	1 4 und[4].act[1].V'inst	4	fall instrument	obj:und.V	
+Hoocąk	84	FALL	bookewe	Derived	2 1 und[1].act[2].V'caus	1	fallee	obj:und.V	
+Hoocąk	84	FALL	bookewe	Derived	2 1 und[1].act[2].V'caus	2	fall causer	act.V	
+Hoocąk	84	FALL	bookewe	Derived	2/1 act[2/1].V'caus	1	fallee	act.V	
+Hoocąk	84	FALL	bookewe	Derived	2/1 act[2/1].V'caus	2	fall causer	act.V	
+Hoocąk	84	FALL	šiipre	Basic	1 und[1].V	1	fallee	sbj:und	S
+Hoocąk	84	FALL	šiipre	Derived	1 LOC3 und[3].und[1].V'loc	1	fallee	obj:und.V	
+Hoocąk	84	FALL	šiipre	Derived	1 LOC3 und[3].und[1].V'loc	3	fall goal	LOC & obj:und.V	
+Hoocąk	84	FALL	šiipre	Derived	2 1 und[1].act[2].V'caus	1	fallee	obj:und.V	
+Hoocąk	84	FALL	šiipre	Derived	2 1 und[1].act[2].V'caus	2	fall causer	act.V	
+Hoocąk	84	FALL	šiipre	Derived	2/1 act[2/1].V'caus	1	fallee	act.V	
+Hoocąk	84	FALL	šiipre	Derived	2/1 act[2/1].V'caus	2	fall causer	act.V	
+Hoocąk	85	MAKE	ųų	Basic	1 2 und[2].act[1].V	1	maker	act.V	A
+Hoocąk	85	MAKE	ųų	Basic	1 2 und[2].act[1].V	2	made thing	obj:und.V	P
+Hoocąk	85	MAKE	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	1	maker	act.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	2	made thing	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 (LOC)3 und[3].und[2].act[1].V'loc	3	make location	LOC & obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	maker	act.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	made thing	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	make beneficiary	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	1	maker	act.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	2	made thing	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	1 2 5 und[5].und[2].act[1].V'inst	5	making material	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	maker	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	made thing	obj:und.V	
+Hoocąk	85	MAKE	ųų	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	make causer	act.V	
+Hoocąk	86	GET	harucap	Basic	1 2 und[2].act[1].V	1	receiver	act.V	A
+Hoocąk	86	GET	harucap	Basic	1 2 und[2].act[1].V	2	received thing	obj:und.V	P
+Hoocąk	86	GET	harucap	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	receiver	obj:und.V	
+Hoocąk	86	GET	harucap	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	received thing	obj:und.V	
+Hoocąk	86	GET	harucap	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	receiving source	act.V	
+Hoocąk	86	GET	harucap	Derived	6/1 2 und[2].act[6/1].V'caus	1	receiver	act.V	
+Hoocąk	86	GET	harucap	Derived	6/1 2 und[2].act[6/1].V'caus	2	received thing	obj:und.V	
+Hoocąk	86	GET	harucap	Derived	6/1 2 und[2].act[6/1].V'caus	6	receiving source	act.V	
+Hoocąk	87	WANT	roogų	Basic	1 2 und[2].act[1].V	1	wanter	act.V	A
+Hoocąk	87	WANT	roogų	Basic	1 2 und[2].act[1].V	2	wanted thing	obj:und.V	P
+Hoocąk	87	WANT	roogų	Derived	1 2 4 und[4].und[2].act[1].V'ben	1	wanter	act.V	
+Hoocąk	87	WANT	roogų	Derived	1 2 4 und[4].und[2].act[1].V'ben	2	wanted thing	obj:und.V	
+Hoocąk	87	WANT	roogų	Derived	1 2 4 und[4].und[2].act[1].V'ben	4	want beneficiary	obj:und.V	
+Hoocąk	87	WANT	roogų	Derived	6 1 2 und[2].und[1].act[6].V'caus	1	wanter	obj:und.V	
+Hoocąk	87	WANT	roogų	Derived	6 1 2 und[2].und[1].act[6].V'caus	2	wanted thing	obj:und.V	
+Hoocąk	87	WANT	roogų	Derived	6 1 2 und[2].und[1].act[6].V'caus	6	want causer	act.V	
+Hoocąk	87	WANT	roogų	Derived	6/1 2 und[2].act[6/1].V'caus	1	wanter	act.V	
+Hoocąk	87	WANT	roogų	Derived	6/1 2 und[2].act[6/1].V'caus	2	wanted thing	obj:und.V	
+Hoocąk	87	WANT	roogų	Derived	6/1 2 und[2].act[6/1].V'caus	6	want causer	act.V	
+Hoocąk	148	GET DRESSED	hikikoroho	Basic	1 act[1].V	1	getting dressed person	act.V	X
+Hoocąk	148	GET DRESSED	hikikoroho	Derived	2 1 und[1].act[2].V'caus	1	getting dressed person	obj:und.V	
+Hoocąk	148	GET DRESSED	hikikoroho	Derived	2 1 und[1].act[2].V'caus	2	get dressed causer	act.V	
+Hoocąk	148	GET DRESSED	hikikoroho	Derived	2/1 act[2/1].V'caus	1	getting dressed person	act.V	
+Hoocąk	148	GET DRESSED	hikikoroho	Derived	2/1 act[2/1].V'caus	2	get dressed causer	act.V	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Basic	1 act[1].V	1	shaver (of self)	act.V	X
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Derived	1/3 act[1/3].V'rfl/rcp	1	shaver (of self)	act.V	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Derived	1/3 act[1/3].V'rfl/rcp	3	shave (self) body part	act.V	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Derived	2 1 und[1].act[2].V'caus	1	shaver (of self)	obj:und.V	
+Hoocąk	150	SHAVE (self)	iihį(ra) gik'o	Derived	2 1 und[1].act[2].V'caus	2	shave (self) causer	act.V	

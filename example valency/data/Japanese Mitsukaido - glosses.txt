@@ -1,0 +1,38 @@
+﻿Language_name	Gloss	Meaning
+Mitsukaido Japanese	1	first person
+Mitsukaido Japanese	3	third person
+Mitsukaido Japanese	ABL	ablicative
+Mitsukaido Japanese	ACC	accusative
+Mitsukaido Japanese	ADNLOC	adnominal locative
+Mitsukaido Japanese	ADV	adverb
+Mitsukaido Japanese	CAUS	causative
+Mitsukaido Japanese	CIT	citation
+Mitsukaido Japanese	COM	comitative
+Mitsukaido Japanese	COND	conditional?
+Mitsukaido Japanese	COP	copula
+Mitsukaido Japanese	DAT	dative
+Mitsukaido Japanese	DIM	diminutive
+Mitsukaido Japanese	EXP	experiencer
+Mitsukaido Japanese	F	final particle
+Mitsukaido Japanese	GEN	genetive
+Mitsukaido Japanese	GER	gerund
+Mitsukaido Japanese	IMP	imperative
+Mitsukaido Japanese	INST	instrumental
+Mitsukaido Japanese	IRR	irealis
+Mitsukaido Japanese	LOC	locative
+Mitsukaido Japanese	NEG	negation
+Mitsukaido Japanese	NMNLZ	nominalizer
+Mitsukaido Japanese	NOM	nominative
+Mitsukaido Japanese	NPST	non-past
+Mitsukaido Japanese	PASS	passive
+Mitsukaido Japanese	PERF	perfective
+Mitsukaido Japanese	PL	plural
+Mitsukaido Japanese	POS	possessive
+Mitsukaido Japanese	POT	potential
+Mitsukaido Japanese	PRES	present
+Mitsukaido Japanese	PROG	prgressive
+Mitsukaido Japanese	PRT	particle
+Mitsukaido Japanese	PST	past
+Mitsukaido Japanese	Q	question marker
+Mitsukaido Japanese	TOP	topic
+Mitsukaido Japanese	sg	singular

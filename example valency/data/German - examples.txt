@@ -1,0 +1,171 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+German	1	Constructed by native speaker linguist	Der Junge isst den Apfel.		der Junge isst den Apfel	DEF.M.NOM boy(NOM) eat.3SG.PRS DEF.M.ACC apple(ACC)	The boy eats the apple.
+German	2	Constructed by native speaker linguist	Die Amme bedeckte das Kind mit der Decke.		die Amme be-deck-te das Kind mit der Decke	DEF.F.NOM wet.nurse APPL-cover-3SG.PST DEF.N.ACC child(ACC) with DEF.F.DAT blanket(DAT)	The wet nurse covered the child with the blanket.
+German	3	Constructed by native speaker linguist	Er isst.		er isst	3SG.M.NOM eat.3SG.PRS	He eats. / He is eating.
+German	4	Constructed by native speaker linguist	Die Frau umarmt einen Mann.		die Frau umarm-t ein-en Mann	DEF.F.NOM woman(NOM) hug-3SG.PRS INDEF-M.ACC man(ACC)	The woman hugs a man.
+German	5	Constructed by native speaker linguist	Der Mann sieht den Bären.		der Mann sieht den Bär-en	DEF.M.NOM man(NOM) see.3SG.PRS DEF.ACC bear-ACC	The man sees the bear.
+German	6	Constructed by native speaker linguist	Er riecht den Knoblauch.		er riech-t den Knoblauch	3SG.M.NOM smell-3SG.PRS DEF.M.ACC garlic(ACC)	He smells the garlic.
+German	7	Constructed by native speaker linguist	Sie bindet ihn an.		sie binde-t ihn an	3SG.F.NOM tie-3SG.PRS 3SG.M.ACC VPCL	She ties him.
+German	8	Constructed by native speaker linguist	Die Windel riecht.		die Windel riech-t	DEF.F.NOM diaper(NOM) smell-3SG.PRS	The diaper stinks.
+German	9	Constructed by native speaker linguist	Pat wäscht die Wäsche.		Pat wäsch-t die Wäsche	Pat wash\3SG-3SG.PRS DEF.F.ACC laundry(ACC)	Pat washs the laundry.
+German	10	Constructed by native speaker linguist	Der Bär erschreckte den Mann.		der Bär erschreck-te den Mann	DEF.M.NOM bear(NOM) frighten-3SG.PST DEF.M.ACC man(ACC)	The bear frightened the man.
+German	11	Constructed by native speaker linguist	Die Wäsche wäscht.		die Wäsche wäsch-t	DEF.NOM laundry wasch\3SG-3SG.PRS	The laundry is beeing washed.
+German	12	Constructed by native speaker linguist	Der Mann erschrak.		der Mann erschrak	DEF.M.NOM man(NOM) be.afraid.3SG.PST	The man got frightened.
+German	13	Constructed by native speaker linguist	Die Wäsche wird gewaschen.		die Wäsche wird ge-wasch-en	DEF.F.NOM laundry(NOM) be.PASS.3SG PTCP-wash-PTCP	The laundry is beeing washed.
+German	14	Constructed by native speaker linguist	Ich zerbreche die Vase.		ich zerbrech-e die Vase	1SG.NOM break-1SG.PRS DEF.F.ACC vase(ACC)	I break the vase.
+German	15	Constructed by native speaker linguist	Pat hustet.		Pat huste-t	Pat cough-3SG.PRS	Pat coughs.
+German	16	Constructed by native speaker linguist	Die Vase zerbrach.		die Vase zerbrach	DEF.F.NOM vase(NOM) break.PST	The vase broke.
+German	17	Constructed by native speaker linguist	Das Mädchen schickt seiner Großmutter Blumen.		das Mädchen schick-t sein-er Großmutter Blume-n	DEF.N.NOM girl(NOM) send-3SG.PRS POSS.3SG-DAT.SG grandmother flower-PL(ACC)	The girl sends flowers to her grandmother.
+German	18	Constructed by native speaker linguist	Das Mädchen schickt Blumen an seine Großmutter.		das Mädchen schick-t Blume-n an sein-e Großmutter	DEF.N.NOM girl(NOM) send-3SG.PRS flower-PL(ACC) to POSS.3SG-F.ACC grandmother(ACC)	The girl sends flowers to her grandmother.
+German	19	Constructed by native speaker linguist	Die Frau will einen Hut.		die Frau will ein-en Hut	DEF.F.NOM woman want.3SG.PRS INDEF-ACC hat(ACC)	The woman wants a hat.
+German	20	Constructed by native speaker linguist	Das Kind fällt vom Baum.		das Kind fäll-t von dem Baum	DEF.N.NOM child(NOM) fall.SG.PRS-3SG.PRS off DEF.M.DAT tree(DAT)	The child falls off the tree.
+German	21	Constructed by native speaker linguist	Das Kind ist krank.		das Kind ist krank	DEF.N.NOM child(NOM) be.3SG.PRS ill	The child is sick.
+German	22	Constructed by native speaker linguist	Die Frau erscheint im richtigen Moment.		die Frau erschein-t im richtig-en Moment	DEF.F.NOM woman(NOM) appear-3SG.PRS in.DEF.DAT right-DAT moment(DAT)	The woman appears at the right moment.
+German	23	Constructed by native speaker linguist	Die Mutter bringt der Tochter ein Gedicht bei.		die Mutter bring-t der Tochter ein Gedicht bei	DEF.F.NOM mother(NOM) teach-3SG.PRS DEF.F.DAT daughter(DAT) INDEF.N.ACC poem(ACC) VPCL	The mother teaches the daugher a poem.
+German	24	Constructed by native speaker linguist	Der Mann kocht eine Suppe.		der Mann koch-t ein-e Suppe	DEF.M.NOM man(NOM) cook-3SG.PRS INDEF-F.ACC soup(ACC)	The man cooks a soup.
+German	25	Constructed by native speaker linguist	Der Kellner bringt dem Gast einen Kaffee.		der Kellner bring-t dem Gast ein-en Kaffee	DEF.M.NOM waiter(NOM) bring-3SG.PRS DEF.DAT guest INDEF-ACC coffee(ACC)	The waiter brings a coffee to the guest.
+German	26	Constructed by native speaker linguist	Der Mann verließ die Stadt.		der Mann verließ die Stadt	DEF.M.NOM man(NOM) leave.3SG.PST DEF.F.ACC town(ACC)	The man left the town.
+German	27	Constructed by native speaker linguist	Mir ist kalt.		mir ist kalt	1SG.DAT be.3SG.PRS cold	I am cold.
+German	28	Constructed by native speaker linguist	Der alte Mann starb.		der alt-e Mann starb	DEF.M.NOM old-SG.M.NOM man(NOM) die.3SG.PST	The old man died.
+German	29	Constructed by native speaker linguist	Die Diebe stahlen dem Mann ein Bild.		die Dieb-e stahl-en dem Mann ein Bild	DEF.PL.NOM thief-PL(NOM) steal\PST-3PL DEF.DAT man(DAT) INDEF.N.ACC picture(ACC)	The thieves stole a picture from the man.
+German	30	Constructed by native speaker linguist	Das Mädchen singt ein Lied.		das Mädchen sing-t ein Lied	DEF.N.NOM girl(NOM) sing-3SG.PRS INDEF.N.ACC song(ACC)	The girl sings a song.
+German	31	Constructed by native speaker linguist	Der Boden ist trocken.		der Boden ist trocken	DEF.M.NOM ground(NOM) be.3SG.PRS dry	The ground is dry.
+German	32	Constructed by native speaker linguist	Die Kerze brennt.		die Kerze brenn-t	DEF.F.NOM candle(NOM) burn-3SG.PRS	The candle burns.
+German	33	Constructed by native speaker linguist	Er macht einen Tee.		er mach-t ein-en Tee	3SG.M.NOM make-3SG.PRS INDEF-ACC tea(ACC)	He brews a tea.
+German	34	Constructed by native speaker linguist	Sie bekommt ein Buch von ihrem Bruder.		sie bekomm-t ein Buch von ihr-em Bruder	3SG.F.NOM get-3SG.PRS INDEF.N.ACC book(ACC) from POSS.3SG-DAT brother(DAT)	She gets a book from her brother.
+German	35	Constructed by native speaker linguist	Das Mädchen weint.		das Mädchen wein-t	DEF.N.NOM girl(NOM) cry-3SG.PRS	The girl crys.
+German	36	Constructed by native speaker linguist	Mein Vater ist Jäger.		mein Vater ist Jäger	POSS.1SG.NOM father(NOM) be.3SG.PRS hunter	My fahter is a hunter.
+German	37	Constructed by native speaker linguist	Du nennst mich einen Verlierer?		du nenn-st mich ein-en Verlierer	2SG.NOM call-2SG.PRS 1SG.ACC INDEF-ACC loser(ACC)	You call me a loser?
+German	38	Constructed by native speaker linguist	Sie umarmen einander.		sie umarm-en einander	3PL.NOM hug-3PL.PRS RECIP	They hug.
+German	39	Constructed by native speaker linguist	Wir sagen einander die Wahrheit.		wir sag-en einander die Wahrheit	1PL.NOM say-1PL.PRS RECIP DEF.F.ACC truth(ACC)	We tell each other the truth.
+German	40	Constructed by native speaker linguist	Die Kälte brachte ihn um.		die Kälte brach-te ihn um	DEF.F.NOM cold(NOM) kill.PST-3SG.PST 3SG.M.ACC VPCL	The cold killed him.
+German	41	Constructed by native speaker linguist	Der Junge berührte die Schlange mit einem Stock.		der Junge berühr-te die Schlange mit ein-em Stock	DEF.M.NOM boy(NOM) touch-3SG.PST DEF.F.ACC snake(ACC) with INDEF-DAT stick	The boy touched the snake with a stick.
+German	42	Constructed by native speaker linguist	Die Großmutter schälte die Kartoffeln.		die Großmutter schäl-te die Kartoffel-n	DEF.F.NOM grandmother(NOM) peel-3SG.PST DEF.PL.ACC potato-PL(ACC)	The grandmother peeled the potatoes.
+German	43	Constructed by native speaker linguist	Der Junge versteckte den Schatz vor seiner Schwester.		der Junge versteck-te den Schatz vor sein-er Schwester	DEF.M.NOM boy(NOM) hide-3SG.PST DEF.M.ACC treasure(ACC) from POSS.3SG-DAT.SG sister(DAT)	The boy hid the treasure from his sister.
+German	44	Constructed by native speaker linguist	Der Junge hört das Telefon.		der Junge hör-t das Telefon	DEF.M.NOM boy(NOM) hear-3SG.PRS DEF.N.ACC telephone(ACC)	The boy hears the telephone.
+German	45	Constructed by native speaker linguist	Die Katze springt vom Dach (hinunter).		die Katze spring-t vo-m Dach hinunter	DEF.F.NOM cat(NOM) jump-3SG.PRS from-DEF.DAT roof(DAT) down	The cat jumps from the roof.
+German	46	Constructed by native speaker linguist	Das Kind spielt.		das Kind spiel-t	DEF.N.NOM child(NOM) play-3SG.PRS	The child plays.
+German	47	Constructed by native speaker linguist	Die Studenten lachten.		die Student-en lach-ten	DEF.PL.NOM student-PL(NOM) laugh-3PL.PST	The students laughed.
+German	48	Constructed by native speaker linguist	Die Frau schrie beim Anblick der Maus.		die Frau schrie bei-m Anblick der Maus	DEF.F.NOM woman(NOM) scream\3SG.PST at-DEF.DAT sight(DAT) DEF.F.GEN mouse(GEN)	The woman sreamed at the sight of the mouse.
+German	49	Constructed by native speaker linguist	Ich wohne in der Nähe der Hauptstadt.		ich wohn-e in der Nähe der Hauptstadt	1SG.NOM live-1SG.PRS in DEF.F.DAT vicinity(DAT) DEF.F.GEN capital(GEN)	I live near the capital.
+German	50	Constructed by native speaker linguist	Ich lebe in einer kleinen Stadt.		ich leb-e in ein-er klein-en Stadt	1SG.NOM live-1SG.PRS in INDEF-DAT small-DAT town(DAT)	I live in a small town.
+German	51	Constructed by native speaker linguist	Der Ball rollt.		der Ball roll-t	DEF.M.NOM ball(NOM) roll-3SG.PRS	The ball rolls.
+German	52	Constructed by native speaker linguist	Das Baby hat Hunger.		das Baby ha-t Hunger	DEF.N.NOM baby(NOM) have-3SG.PRS hunger	The baby is hungry.
+German	53	Constructed by native speaker linguist	Mir tut der Kopf weh.		mir tut der Kopf weh	1SG.DAT hurt.3SG.PRS DEF.M.NOM head(NOM) VPCL	My head is hurting. / I am feeling pain in my head.
+German	54	Constructed by native speaker linguist	Das Schiff sinkt.		das Schiff sink-t	DEF.N.NOM ship(NOM) sink-3SG.PRS	The ship sinks.
+German	55	Constructed by native speaker linguist	Der Einheimische zeigt uns den Weg.		der Einheimische zeig-t uns den Weg	DEF.M.NOM local(NOM) show-3SG.PRS 1PL.DAT DEF.M.ACC way(ACC)	The local shows us the way.
+German	56	Constructed by native speaker linguist	Er füllt das Glas mit Wein.		er füll-t das Glas mit Wein	3SG.M.NOM fill-3SG.PRS DEF.N.ACC glas(ACC) with wine(DAT)	He fills the glas with wine.
+German	57	Constructed by native speaker linguist	Er befüllt den Tank mit Benzin.		er be-füll-t den Tank mit Benzin	3SG.M.NOM APPL-fill-3SG.PRS DEF.M.ACC tank(ACC) with petrol(DAT)	He is filling up the tank with petrol.
+German	58	Constructed by native speaker linguist	Der Präsident baut ein Haus.		der Präsident bau-t ein Haus	DEF.M.NOM president(NOM) build-3SG.PRS INDEF.N.ACC house(ACC)	The president builds a house.
+German	59	Constructed by native speaker linguist	Wir bebauen den Boden mit Reihenhäusern.		wir be-bau-en den Boden mit Reihenhäus-er-n	1PL.NOM APPL-build-1PL.PRS DEF.M.ACC land(ACC) with non_detached.house\PL-PL-DAT	We build non-detached houses on the land.
+German	60	Constructed by native speaker linguist	Der Musiker baut den Waisenkindern ein Haus.		der Musiker bau-t den Waisenkind-er-n ein Haus	DEF.M.NOM musician(NOM) build-3SG.PRS DEF.PL.ACC orphan-PL-DAT INDEF.N.ACC house(ACC)	The musician is building a house for the orphans.
+German	61	Constructed by native speaker linguist	Er verbaute das ganze Holz.		er ver-bau-te das ganze Holz	3SG.M.NOM APPL-build-3SG.PST DEF.N.ACC whole.ACC wood(ACC)	He used up all the wood (for building something).
+German	62	Constructed by native speaker linguist	Die Prinzessin ist traurig.		die Prinzessin ist traurig	DEF.F.NOM princess(NOM) be.3SG.PRS sad	The princess is sad.
+German	63	Constructed by native speaker linguist	Der Witwer trauert um seine verstorbene Frau.		der Witwer trauer-t um sein-e verstorben-e Frau	DEF.M.NOM widower(NOM) be.sad-3SG.PRS for POSS.3SG-F.ACC deceased-ACC wife(ACC)	The widower is mourning over his late wife.
+German	64	Constructed by native speaker linguist	Es regnet.		es regne-t	3SG.N.NOM rain-3SG.PRS	It rains.
+German	65	Constructed by native speaker linguist	Es regnet einen lauwarmen Regen.		es regne-t ein-en lauwarm-en Regen	3SG.N.NOM rain-3SG.PRS INDEF-ACC lukewarm-ACC rain(ACC)	It rains a lukewarm rain.
+German	66	Constructed by native speaker linguist	Der Abenteurer gräbt nach Gold.		der Abenteurer gräb-t nach Gold	DEF.M.NOM adventurer dig\3SG-3SG.PRS for gold(DAT)	The adventurer digs for gold.
+German	67	Constructed by native speaker linguist	Ich lade Möbel auf den Anhänger.		ich lad-e Möbel auf den Anhänger	1SG.NOM load-1SG.PRS furniture(ACC) on DEF.M.ACC trailer(ACC)	I am loading furniture onto the trailer.
+German	68	Constructed by native speaker linguist	Sie hat die Möbel verladen.		sie hat die Möbel ver-lad-en	3SG.F.NOM AUX.PRF DEF.PL.ACC furniture(ACC) APPL-load-PTCP	She stowed the furniture.
+German	69	Constructed by native speaker linguist	Ich belade den Anhänger (mit Möbeln).		ich be-lad-e den Anhänger mit Möbel-n	1SG.NOM APPL-load-1SG.PRS DEF.M.ACC trailer(ACC) with furniture-DAT	I am loading the trailer with furniture.
+German	70	Constructed by native speaker linguist	Ich lade dir den Weihnachtsbaum auf das Autodach.		ich lad-e dir den Weihnachtsbaum auf das Autodach	1SG.NOM load-1SG.PRS 2SG.DAT DEF.M.ACC christmas.tree(ACC) on DEF.N.ACC car_top(ACC)	I load the christmas tree onto the roof of the car for you.
+German	71	Constructed by native speaker linguist	Sie kennt ihre Schwächen.		sie kenn-t ihr-e Schwäche-n	3SG.F.NOM know-3SG.PRS POSS.3SG-F.ACC weakness-PL(ACC)	She knows her weaknesses.
+German	72	Constructed by native speaker linguist	Ich suche den Schlüssel.		ich such-e den Schlüssel	1SG.NOM search.for-1SG.PRS DEF.M.ACC key(ACC)	I am looking for the key.
+German	73	Constructed by native speaker linguist	Ich suche dir eine Muschel.		ich such-e dir ein-e Muschel	1SG.NOM search.for-1SG.PRS 2SG.DAT INDEF-F.ACC shell	I search a shell for you.
+German	74	Constructed by native speaker linguist	Ihre Eltern suchen einander.		ihr-e Eltern such-en einander	POSS.3SG-PL.NOM parent.PL search.for-3PL.PRS RECIP	Her parents look for each other.
+German	75	Constructed by native speaker linguist	Die Geschwister zeigen einander ihre Geschenke.		die Geschwister zeig-en einander ihre Geschenk-e	DEF.F.NOM sibling.PL show-3PL.PRS RECIP POSS.3PL.ACC present(ACC)-PL	The siblings show their presents to each other.
+German	76	Constructed by native speaker linguist	Die Schauspielerin zeigt sich der Öffentlichkeit.		die Schauspieler-in zeig-t sich der Öffentlichkeit	DEF.F.NOM actor-F show-3SG.PRS REFL.3SG DEF.F.DAT public(DAT)	The actress shows herself to the public.
+German	77	Constructed by native speaker linguist	Der Vorstandsvorsitzende bittet um Gehör.		der Vorstandsvorsitzende bitte-t um Gehör	DEF.M.NOM chief.executive.officer.NOM ask-3SG.PRS for hearing	The CEO asks for attention.
+German	78	Constructed by native speaker linguist	Der Patient erbittet eine Krankschreibung.		der Patient er-bitte-t ein-e Krankschreibung	DEF.M.NOM patient IPRX-ask-3SG.PRS INDEF-F.ACC medical.certificate	The patient asks for a medical certificate.
+German	79	Constructed by native speaker linguist	Sie folgt ihm.		sie folg-t ihm	3SG.F.NOM follow-3SG.PRS 3SG.M.DAT	She follows him.
+German	80	Constructed by native speaker linguist	Sie verfolgt ihn.		sie ver-folg-t ihn	3SG.F.NOM IPRX-follow-3SG.PRS 3SG.M.ACC	She follows him.
+German	81	Constructed by native speaker linguist	Der Kellner füllt Wasser in die Karaffe.		der Kellner füll-t Wasser in die Karaffe	DEF.M.NOM waiter(NOM) fill-3SG.PRS water(ACC) in DEF.F.ACC decanter(ACC)	The waiter fills water into the decanter.
+German	82	Constructed by native speaker linguist	Der Reis füllt meinen Magen.		der Reis füll-t mein-en Magen	DEF.M.NOM rice(NOM) fill-3SG.PRS POSS.1SG-ACC stomach(ACC)	The rice fills my stomach.
+German	83	Constructed by native speaker linguist	Das Wasser kocht.		das Wasser koch-t	DEF.N.NOM water(NOM) cook-3SG.PRS	The water boils.
+German	84	Constructed by native speaker linguist	Ich fülle ihr die Schüssel mit Suppe.		ich füll-e ihr die Schüssel mit Suppe	1SG.NOM fill-1SG.PRS 3SG.F.DAT DEF.F.ACC bowl(ACC) with soup(DAT)	I fill the bowl with soup for her.
+German	85	Constructed by native speaker linguist	Der Elefant hat Angst vor Mäusen.		der Elefant hat Angst vor Mäus-e-n	DEF.M.NOM elephant(NOM) have.3SG fear(ACC) of mouse\PL-PL-DAT	The elephant is afraid of mice.
+German	86	Constructed by native speaker linguist	Die Ärztin hilft dem Patienten.		die Ärzt-in hilf-t dem Patient-en	DEF.F.NOM doctor\F-F(NOM) help\3SG-3SG.PRS DEF.DAT patient-DAT	The doctor helps the patient.
+German	87	Constructed by native speaker linguist	Sie redet mit dem Pförtner über das Wetter.		sie rede-t mit dem Pförtner über das Wetter	3SG.F.NOM talk-3SG.PRS with DEF.DAT gatekeeper.DAT about DEF.N.ACC weather(ACC)	She talks with the gatekeeper about the weather .
+German	88	Constructed by native speaker linguist	Großmutter stellte den Kuchen auf den Tisch.		Großmutter stell-te den Kuchen auf den Tisch	grandmother(NOM) put-3SG.PST DEF.M.ACC cake(ACC) on DEF.M.ACC table(ACC)	Grandmother put the cake on the table.
+German	89	Constructed by native speaker linguist	Der Kellner legt Messer neben Gabeln.		der Kellner leg-t Messer neben Gabel-n	DEF.M.NOM waiter(NOM) put-3SG.PRS knife.PL.ACC next.to fork-PL(ACC)	The waiter puts knives next to forks.
+German	90	Constructed by native speaker linguist	Er gibt seinem Meerschwein Futter.		er gib-t sein-em Meerschwein Futter	3SG.M.NOM give\3SG-3SG.PRS POSS.3SG-DAT guinea.pig.DAT food.ACC	He gives food to his guinea pig.
+German	91	Constructed by native speaker linguist	Sie geben einander Schutz.		sie geb-en einander Schutz	3PL.NOM give-PL RECIP protection(ACC)	They protect each other.
+German	92	Constructed by native speaker linguist	Die Philosophin denkt an ihre Katze.		die Philosoph-in denk-t an ihr-e Katze	DEF.F.NOM philosopher-F(NOM) think-3SG.PRS to POSS.3SG-F.ACC cat(ACC)	The philosopher thinks about her cat.
+German	93	Constructed by native speaker linguist	Er denkt nach.		er denk-t nach	3SG.M.NOM think-3SG.PRS VPCL	He thinks.
+German	94	Constructed by native speaker linguist	Der Lehrer schaut den Schüler an.		der Lehrer schau-t den Schüler an	DEF.M.NOM teacher(NOM) look_at-3SG.PRS DEF.M.ACC student(ACC) VPCL	The teacher looks at the student.
+German	95	Constructed by native speaker linguist	Der Tänzerin gefällt die Musik.		der Tänzer-in gefäll-t die Musik	DEF.F.DAT dancer-F(DAT) please\3SG-3SG.PRS DEF.F.NOM music(NOM)	The dancer likes the music. / The dancer is pleased by the music. / The music pleases the dancer.
+German	96	Constructed by native speaker linguist	Ich mag meinen Nachbarn.		ich mag mein-en Nachbar-n	1SG.NOM like.1SG.PRS POSS.1SG-ACC neighbour-PL(ACC)	I like my neighbour.
+German	97	Constructed by native speaker linguist	Der Koch wäscht Gemüse.		der Koch wäsch-t Gemüse	DEF.M.NOM cook.NOM wash\3SG-3SG.PRS vegetable(ACC)	The cook washes the vegetable.
+German	98	Constructed by native speaker linguist	Der Friseur wäscht mir die Haare.		der Friseur wäsch-t mir die Haar-e	DEF.M.NOM hairdresser(NOM) wash\3SG-3SG.PRS 1SG.DAT DEF.PL.ACC hair-PL(ACC)	The hairdresser washes my hair (for me).
+German	99	Constructed by native speaker linguist	Die Großmutter bekocht die Kranke mit Suppe.		die Großmutter be-koch-t die Kranke mit Suppe	DEF.F.NOM grandmother(NOM) APPL-cook-3SG.PRS DEF.F.ACC sick.person with soup(DAT)	The grandmother cooks soup for the sick person.
+German	100	Constructed by native speaker linguist	Die Mutter zieht ihr Kind an.		die Mutter zieh-t ihr Kind an	DEF.F.NOM mother(NOM) dress-3SG.PRS POSS.3SG.ACC child(ACC) VPCL	The mother dresses her child.
+German	101	Constructed by native speaker linguist	Die Frau zieht sich eine Hose an.		die Frau zieh-t sich ein-e Hose an	DEF.F.NOM woman(NOM) dress-3SG.PRS REFL.3SG INDEF-F.ACC trousers(ACC) VPCL	The woman puts on a pair of trousers. / The woman dresses herself with a pair of pants.
+German	102	Constructed by native speaker linguist	Er zieht seinem Sohn eine Weste an.		er zieh-t sein-em Sohn ein-e Weste an	3SG.M.NOM dress-3SG.PRS POSS.3SG-DAT son(DAT) INDEF-F.ACC waistcoat(DAT) VPCL	He dressed his son with a vest.
+German	103	Constructed by native speaker linguist	Sie denkt diesen Gedanken ohne zu zögern.		sie denk-t diese-n Gedanke-n ohne zu zöger-n	3SG.F.NOM think-3SG.PRS DEM-ACC thought-PL(ACC) without INF hesitate-INF	She thinks this thought without hesitation.
+German	104	Constructed by native speaker linguist	Sie lachte ihr schönstes Lachen.		sie lach-te ihr schön-st-es Lachen	3SG.F.NOM laugh-3SG.PST POSS.3SG beautiful-SUPERL-ACC laughter	She laughed her most beautiful laugh.
+German	105	Constructed by native speaker linguist	Der Junge stößt seinen Freund ins Wasser.		der Junge stöß-t sein-en Freund in-s Wasser	DEF.M.NOM boy(NOM) push\3SG-3SG.PRS POSS.3SG-ACC friend(ACC) in-DEF.N.ACC water(ACC)	The boy pushes his friend into the water.
+German	106	Constructed by native speaker linguist	Der Witwer trauert.		der Witwer trauer-t	DEF.M.NOM widower(NOM) be.sad-3SG.PRS	The widower is mourning.
+German	107	Constructed by native speaker linguist	Der Kellner wischt die Krümel vom Tisch.		der Kellner wisch-t die Krümel von dem Tisch	DEF.M.NOM waiter(NOM) wipe-3SG.PRS DEF.PL.ACC crumb.PL(ACC) from DEF.M.DAT table(DAT)	The waiter wipes the crumbs off the table.
+German	108	Constructed by native speaker linguist	Die Studenten lachten über den Witz.		die Student-en lach-ten über den Witz	DEF.PL.NOM student-PL(NOM) laugh-3PL.PST about DEF.M.ACC joke(ACC)	The students laughed about the joke.
+German	109	Constructed by native speaker linguist	Er geht zum Rathaus.		er geh-t zu-m Rathaus	3SG.M.NOM go-3SG.PRS to-DEF.DAT town.hall	He goes to the town hall.
+German	110	Constructed by native speaker linguist	Er geht sonntags in die Kirche.		er geh-t sonntags in die Kirche	3SG.M.NOM go-3SG.PRS every.sunday in DEF.F.ACC church(ACC)	He goes to church on Sundays.
+German	111	Constructed by native speaker linguist	Er geht nach Amerika.		er geh-t nach Amerika	3SG.M.NOM go-3SG.PRS to America(ACC)	He goes to America.
+German	112	Constructed by native speaker linguist	Der alte Mann saß auf einer Bank.		der alt-e Mann saß auf ein-er Bank	DEF.M.NOM old-NOM man(NOM) sit\3SG.PST on INDEF-DAT bench(DAT)	The old man was sitting on a bench.
+German	113	Constructed by native speaker linguist	Sie schubs-te ihren Feind in den Abgrund.		sie schubs-te ihr-en Feind in den Abgrund	3SG.F.NOM push-3SG.PST POSS.3SG-ACC enemy(ACC) in DEF.M.ACC abyss(ACC)	She pushed her enemy into the abyss.
+German	114	Constructed by native speaker linguist	Der Frosch hüpfte ins Wasser.		der Frosch hüpf-te in-s Wasser	DEF.M.NOM frog(NOM) jump-3SG.PST in-DEF.N.ACC water(ACC)	The frog jumped into the water.
+German	115	Constructed by native speaker linguist	Er rasiert sich.		er rasier-t sich	3SG.M.NOM shave-3SG.PRS REFL.3SG	He shaves himself.
+German	116	Constructed by native speaker linguist	Der Friseur rasiert ihm den Kopf.		der Friseur rasier-t ihm den Kopf	DEF.M.NOM hairdresser(NOM) shave-3SG.PRS 3SG.M.DAT DEF.M.ACC head(ACC)	The hairdresser shaves him the head.
+German	117	Constructed by native speaker linguist	Die Studentin spricht mit dem Professor über die Prüfung.		die Student-in sprich-t mit dem Professor über die Prüfung	DEF.F.NOM student(NOM)-F talk-3SG.PRS with DEF.DAT professor(DAT) about DEF.F.ACC exam(ACC)	The college girl talks with the professor about her exam.
+German	118	Constructed by native speaker linguist	Der Besucher bindet seinen Hund an den Baum.		der Besucher binde-t sein-en Hund an den Baum	DEF.M.NOM visitor(NOM) tie-3SG.PRS POSS.3SG-ACC dog(ACC) to DEF.M.ACC three(ACC)	The visitor ties his dog to the three.
+German	119	Constructed by native speaker linguist	Der alte Mann setzte sich hin.		der alt-e Mann setz-te sich hin	DEF.M.NOM old-SG.M.NOM man(NOM) sit-3SG.PST REFL.3SG down	The old man sat down.
+German	120	Constructed by native speaker linguist	Er trifft seine Schwester.		er triff-t sein-e Schwester	3SG.M.NOM meet-3SG.PRS POSS.3SG-F.ACC sister	He meets his sister.
+German	121	Constructed by native speaker linguist	John schrie seinen Bruder an.		John schrie sein-en Bruder an	John shout_at\3SG.PST POSS.3SG-ACC brother VPCL	John shouted at his brother.
+German	122	Constructed by native speaker linguist	Die Senatoren töteten Caesar mit einem Dolch.		die Senator-en töte-ten Caesar mit ein-em Dolch	DEF.PL.NOM senator-PL kill-3PL.PST Caesar with INDEF-DAT dagger(DAT)	The senators killed Caesar with a dagger.
+German	123	Constructed by native speaker linguist	Die alte Frau erzählte den Kindern ein Märchen.		die alt-e Frau erzähl-te den Kind-er-n ein Märchen	DEF.F.NOM old-NOM woman(NOM) tell-3SG.PST DEF.PL.DAT child-PL-DAT INDEF.N.ACC fairytale(ACC)	The old woman told a fairytale to the children.
+German	124	Constructed by native speaker linguist	Der Gast goss Milch in seinen Kaffee.		der Gast goss Milch in sein-en Kaffee	DEF.M.NOM guest(NOM) pour\3SG.PST milk(ACC) in POSS.3SG-ACC coffee(ACC)	The guest poured milk into his coffee.
+German	125	Constructed by native speaker linguist	Die alte Dame hustete.		die alt-e Dame huste-te	DEF.F.NOM old-NOM lady(NOM) cough-3SG.PST	The old lady coughed.
+German	126	Constructed by native speaker linguist	Er trägt das Gepäck zum Wagen.		er träg-t das Gepäck zu-m Wagen	3SG.M.NOM carry\3SG-3SG.PRS DEF.N.ACC baggage(ACC) to-DEF.DAT car(DAT)	He carrys the baggage to the car.
+German	127	Constructed by native speaker linguist	Die Gruppe kletterte den Berg hinauf.		die Gruppe kletter-te den Berg hinauf	DEF.F.NOM group(NOM) climb-3SG.PST DEF.M.ACC mountain(ACC) up	The group climbed the mountain.
+German	128	Constructed by native speaker linguist	Er wirft die Schlüssel aus dem Fenster.		er wirf-t die Schlüssel aus dem Fenster	3SG.M.NOM throw\3.SG-3SG.PRS DEF.PL.ACC key(ACC) out_of DEF.DAT window(DAT)	He throws the keys out of the window.
+German	129	Constructed by native speaker linguist	Ich schneide das Brot.		ich schneid-e das Brot	1SG.NOM cut-1SG.PRS DEF.N.ACC bread(ACC)	I cut the bread.
+German	130	Constructed by native speaker linguist	Wir setzten uns auf den Boden.		wir setz-en uns auf den Boden	1PL.NOM sit-1PL.PRS REFL.1SG on DEF.M.ACC floor(ACC)	We sit down on the floor.
+German	131	Constructed by native speaker linguist	Sie deckte das Baby zu.		sie deck-te das Baby mit ein-er Decke zu	3SG.F.NOM cover-3SG.PST DEF.N.ACC baby(ACC) with INDEF-DAT cover(DAT) APPL	She covered the baby with a cover.
+German	132	Constructed by native speaker linguist	Sie blinzelte mit den Augen.		sie blinzel-te mit den Auge-n	3SG.F.NOM blink-3SG.PST with DEF.PL.DAT eye-PL(DAT)	She blinked with the (her) eyes.
+German	133	Constructed by native speaker linguist	Ich renne zur Bushaltestelle.		ich renn-e zu-r Bushaltestelle	1SG.NOM run-1SG.PRS to-DEF.F.DAT bus.stop	I run to the bus stop.
+German	134	Constructed by native speaker linguist	Fass den Ofen nicht an!		fass den Ofen nicht an	touch.SG.IMP DEF.M.ACC stove(ACC) NEG VPCL	Don't touch the stove!
+German	135	Constructed by native speaker linguist	Er nahm einen Keks.		er nahm ein-en Keks	3SG.M.NOM take\3SG.PST INDEF-M.ACC cookie(ACC)	He took a cookie.
+German	136	Constructed by native speaker linguist	Er reißt die Seite aus dem Buch.		er reiß-t die Seite aus dem Buch	3SG.M.NOM tear-3SG.PRS DEF.F.ACC page(ACC) out_of DEF.DAT book(DAT)	He tears the page from the book.
+German	137	Constructed by native speaker linguist	Maschinen mahlen die Kaffeebohnen.		Maschin-en mahl-en die Kaffee-bohn-en	machine-PL(NOM) grind-3PL.PRS DEF.PL.ACC coffee-bean-PL(ACC)	Machines grind the coffeebeans.
+German	138	Constructed by native speaker linguist	Er schiebt das Auto in die Garage.		er schieb-t das Auto in die Garage	3SG.M.NOM push-3SG.PRS DEF.N.ACC car(ACC) in DEF.F.ACC garage(ACC)	He pushes the car into the garage.
+German	139	Constructed by native speaker linguist	Er schlägt täglich seine Frau.		er schläg-t täglich sein-e Frau	3SG.M.NOM beat\3SG-3SG.PRS every_day POSS.3SG-F.ACC woman(ACC)	He beats his wife every day.
+German	140	Constructed by native speaker linguist	Das Auto wird in die Garage geschoben.		das Auto wird in die Garage ge-schob-en	DEF.N.NOM car(NOM) be.PASS.3SG in DEF.F.ACC garage(ACC) PTCP-push\PST-PTCP	The car is pushed into the garage.
+German	141	Constructed by native speaker linguist	Der Kellner bringt einen Kaffee zum Gast.		der Kellner bring-t ein-en Kaffee zu-m Gast	DEF.M.NOM waiter(NOM) bring-3SG.PRS INDEF-ACC coffee(ACC) to-DEF.DAT guest(DAT)	The waiter brings a coffee to the guest.
+German	142	Constructed by native speaker linguist	Ich koche meiner Mutter eine Suppe.		ich koch-e mein-er Mutter ein-e Suppe	1SG.NOM cook-1SG.PRS POSS.1SG-DAT.SG mother(DAT) INDEF-F.ACC soup(ACC)	I cook a soup for my mother.
+German	143	Constructed by native speaker linguist	Ich lege meinem Bruder ein Buch auf den Tisch.		ich leg-e mein-em Bruder ein Buch auf den Tisch	1SG.NOM put-1SG.PRS POSS.1SG-DAT brother(DAT) INDEF.N.ACC book(ACC) on DEF.M.ACC table(ACC)	I put the book for my brother on the table.
+German	144	Constructed by native speaker linguist	Ich sage der Polizei kein Wort.		ich sag-e der Polizei kein Wort	1SG.NOM say-1SG.PRS DEF.F.DAT police(DAT) NEG.ACC word(ACC)	I don't say a word to the police.
+German	145	Constructed by native speaker linguist	Ich sage kein Wort zur Polizei.		ich sag-e kein Wort zu-r Polizei	1SG.NOM say-1SG.PRS NEG.ACC word to-DEF.F.DAT police(DAT)	I don't say any word to the police.
+German	146	Constructed by native speaker linguist	Die Diebe stahlen ein Bild von dem Mann.		die Dieb-e stahl-en ein Bild von dem Mann	DEF.PL.NOM thief-PL(NOM) steal\PST-3PL INDEF.N.ACC picture(ACC) from DEF.DAT man(DAT)	The thieves stole a picture from the man.
+German	147	Constructed by native speaker linguist	Er bestiehlt seine Frau.		er be-stiehl-t sein-e Frau	3SG.M.NOM APPL-steal\3SG.PRS-3SG.PRS POSS.3SG-F.ACC woman(ACC)	He steals from his wife.
+German	148	Constructed by native speaker linguist	Ich verschicke die Briefe.		ich ver-schick-e die Brief-e	1SG.NOM APPL-send-1SG.PRS DEF.PL.ACC letter-PL(ACC)	I send out the letters.
+German	149	Constructed by native speaker linguist	Ich renne (eine Runde) um den Block.		ich renn-e ein-e Runde um den Block	1SG.NOM run-1SG.PRS INDEF-F.ACC round(ACC) around DEF.M.ACC block(ACC)	I run (a round) around the block.
+German	150	Constructed by native speaker linguist	Er begießt den Braten (mit Fett).		er be-gieß-t den Braten mit Fett	3SG.M.NOM APPL-pour-3SG.PRS DEF.M.ACC roast(ACC) with fat(DAT)	He bastes the roast (with fat).
+German	151	Constructed by native speaker linguist	Der Konzertsaal füllt sich.		der Konzert-saal füll-t sich	DEF.M.NOM concert-hall fill-3SG.PRS REFL.3SG	The concert hall fills up.
+German	152	Constructed by native speaker linguist	Sie blinzelt.		sie blinzel-t	3SG.F.NOM blink-3SG.PRS	She blinks.
+German	153	Constructed by native speaker linguist	Die Frau schrie.		die Frau schrie	DEF.F.NOM woman(NOM) scream\3SG.PST	The woman screamed.
+German	154	Constructed by native speaker linguist	Der Junge fürchtet den Mann.		der Junge fürchte-t den Mann	DEF.M.NOM boy(NOM) fear-3SG.PRS DEF.M.ACC man	The boy fears the man.
+German	155	Constructed by native speaker linguist	Der Richter denkt über sein Urteil nach.		der Richter denk-t über sein Urteil nach	DEF.M.NOM judge.NOM think-3SG.PRS about POSS.3SG.M.ACC judgement.ACC VPCL	The judge thinks about his judgement.
+German	156	Constructed by native speaker linguist	Der Friseur rasiert ihn.		der Friseur rasier-t ihn	DEF.M.NOM hairdresser(NOM) shave-3SG.PRS 3SG.M.ACC	The hairdresser shaves him.
+German	157	Constructed by native speaker linguist	Die alte Frau erzählte ein Märchen.		die alt-e Frau erzähl-te ein Märchen	DEF.F.NOM old-NOM woman(NOM) tell-3SG.PST INDEF.N.ACC fairytale(ACC)	The old woman told a fairytale.
+German	158	Constructed by native speaker linguist	Ich sage kein Wort.		ich sag-e kein Wort	1SG.NOM say-1SG.PRS NEG.ACC word(ACC)	I don't say a word.
+German	159	Constructed by native speaker linguist	Er fasst den Ofen an.		er fass-t den Ofen an	3SG.M.NOM touch-3SG.PRS DEF.M.ACC stove(ACC) VPCL	He touchs the stove.
+German	160	Constructed by native speaker linguist	Er setzte den Stein auf das Spielfeld.		er setz-t-e den Stein auf das Spiel-feld	3SG.M.NOM put-3SG-PAST DEF.ACC stone on DEF.N.ACC game-field	He puts the stone on the playing field.
+German	161	Naturalistic written	Lola rennt.		Lola renn-t	Lola run-3SG.PRS	Lola runs.
+German	162	Constructed by native speaker linguist	Sie bekommt ein Pferd.		sie bekomm-t ein Pferd	3SG.F.NOM get-3SG.PRS INDEF.N.ACC horse	She gets a horse.
+German	163		Die Kinder sangen.		die Kinder sang-en	DEF.NOM.PL children sing\PST-PL	The children sang.
+German	164		Es wird nach Gold gegraben.		es wird nach Gold ge-graben	EXPL PASS for gold PTCP-dig	The gold gets dug for.
+German	165		Der Büßer fällt auf die Knie.		der Büßer fäll-t auf die Knie	DEF.N.NOM penitent(NOM) fall.SG.PRS-3SG.PRS on DEF.N.PL.ACC knee(PL.ACC)	The penitent falls onto his knees.
+German	166		Der Stein fällt auf den Boden.		der Stein fäll-t auf den Boden	DEF.M.NOM stone(NOM) fall.SG.PRS-3SG.PRS onto DEF.M.ACC ground(DAT)	The stone falls to the ground.
+German	167	Constructed by native speaker linguist	Er mahlt die Kaffeebohnen mit der Maschine.		er mahl-t die Kaffee-bohn-en mit der Maschine	3SG.M.NOM grind-3SG.PRS DEF.PL.ACC coffee-bean-PL(ACC) with DEF.SG.DAT machine(DAT)	He grinds the coffee beans with the machine.
+German	168	Constructed by native speaker linguist	Der König war nicht angezogen.		der König war nicht angezogen	DEF.M.SG.NOM king.SG(NOM) be.PST NEG dress.PASS.PTCP	The king was not dressed.
+German	169	Constructed by native speaker linguist	Sie bat mich um Geld.		sie bat mich um Geld	she.NOM ask.3SG.PST me.ACC for money	She asked me for money.
+German	170	Constructed by native speaker linguist	Er lehrt Mathematik.		er lehrt Mathematik	he teach mathematics	He teaches mathematics.

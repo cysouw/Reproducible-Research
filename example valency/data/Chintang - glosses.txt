@@ -1,0 +1,68 @@
+﻿Language_name	Gloss	Meaning
+Chintang	A	agent-like argument of canonical transitive verb
+Chintang	ACROSS	across
+Chintang	AFF	affirmative
+Chintang	ATTN	attention
+Chintang	AUX	auxiliary
+Chintang	BEN	benefactive
+Chintang	BGR	background
+Chintang	CAT	categorizer
+Chintang	CAUS	causative
+Chintang	CHANGE	change
+Chintang	CIT	citative
+Chintang	CLF	classifier
+Chintang	COM	comitative
+Chintang	COMPL	completive
+Chintang	CON	conative
+Chintang	COND	conditional
+Chintang	DEM	demonstrative
+Chintang	DIR	directional
+Chintang	DOWN	down
+Chintang	EMPH	emphatic
+Chintang	EQU	?
+Chintang	ERG	ergative
+Chintang	F	feminine
+Chintang	FOC	focus
+Chintang	GEN	genitive
+Chintang	IMP	imperative
+Chintang	IND	indicative
+Chintang	INF	infinitive
+Chintang	INSIST	insistive
+Chintang	IPFV	imperfective
+Chintang	ITR	intransitive
+Chintang	LNK	linker
+Chintang	LOC	locative
+Chintang	MED	medium/medial
+Chintang	MIR	mirative
+Chintang	NEG	negative
+Chintang	NMLZ	nominalizer
+Chintang	NPST	non-past
+Chintang	NTVZ	nativizer
+Chintang	O	object
+Chintang	OBL	oblique
+Chintang	OPT	optative
+Chintang	P	patient-like argument of canonical transitive verb
+Chintang	PASS	passive
+Chintang	POSS	possessive
+Chintang	PRF	perfect
+Chintang	PROX	proximal
+Chintang	PST	past
+Chintang	PTCP	participle
+Chintang	RECP	reciprocal
+Chintang	REFL	reflexive
+Chintang	REP	reportative
+Chintang	S	single argument of canonical intransitive verb
+Chintang	SEQ	sequential
+Chintang	SPEC	specifier / specific
+Chintang	STEM	second part of bipartite stems
+Chintang	SURP	surprise marker
+Chintang	TOP	topic
+Chintang	TR	transitive
+Chintang	UP	up
+Chintang	V.NTVZ	verbal nativizer
+Chintang	d	dual
+Chintang	e	exclusive
+Chintang	i	inclusive
+Chintang	ns	non-singular
+Chintang	p	plural
+Chintang	s	singular

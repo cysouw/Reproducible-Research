@@ -1,0 +1,2281 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Modern Standard Arabic	1	EAT	ʾakala	Caused Motion Alternation	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Locative Alternation 1	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Locative Alternation 2	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Locative Alternation 3	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Object Adding Alternation	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Object Omission Alternation	Regularly	
+Modern Standard Arabic	1	EAT	ʾakala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem II Causative	Marginally	
+Modern Standard Arabic	1	EAT	ʾakala	Stem IV Causative	No data	
+Modern Standard Arabic	1	EAT	ʾakala	Stem V Anticausative	No data	
+Modern Standard Arabic	1	EAT	ʾakala	Stem V Reflexive	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VI Passive	Regularly	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VI Reflexive	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VII Anticausative	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VII Passive	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Stem X Causative	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	1	EAT	ʾakala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Locative Alternation 1	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Locative Alternation 2	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Locative Alternation 3	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Object Adding Alternation	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Object Omission Alternation	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem II Causative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem IV Causative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem V Anticausative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem V Reflexive	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VI Passive	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VI Reflexive	No data	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VII Passive	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Stem X Causative	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	2	HUG	ʿānaqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Caused Motion Alternation	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Locative Alternation 1	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Locative Alternation 2	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Locative Alternation 3	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Object Adding Alternation	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Object Omission Alternation	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem II Causative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem IV Causative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem V Anticausative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem V Reflexive	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VI Passive	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VI Reciprocal	Marginally	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VI Reflexive	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VII Anticausative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VII Passive	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Stem X Causative	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	3	LOOK AT	naẓara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Locative Alternation 1	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Locative Alternation 2	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Locative Alternation 3	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Object Adding Alternation	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Object Omission Alternation	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem II Causative	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem IV Causative	Regularly	
+Modern Standard Arabic	4	SEE	raʾâ	Stem V Anticausative	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem V Reflexive	No data	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VI Passive	No data	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VII Passive	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Stem X Causative	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	4	SEE	raʾâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	5	SMELL	šamma	Caused Motion Alternation	Never	
+Modern Standard Arabic	5	SMELL	šamma	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	5	SMELL	šamma	Locative Alternation 1	Never	
+Modern Standard Arabic	5	SMELL	šamma	Locative Alternation 2	Never	
+Modern Standard Arabic	5	SMELL	šamma	Locative Alternation 3	Never	
+Modern Standard Arabic	5	SMELL	šamma	Object Adding Alternation	Never	
+Modern Standard Arabic	5	SMELL	šamma	Object Omission Alternation	Never	
+Modern Standard Arabic	5	SMELL	šamma	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	5	SMELL	šamma	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem II Causative	Regularly	
+Modern Standard Arabic	5	SMELL	šamma	Stem IV Causative	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem V Anticausative	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem V Reflexive	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VI Passive	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VI Reciprocal	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VI Reflexive	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VII Anticausative	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VII Passive	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VIII Anticausative	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem VIII Reflexive	Never	
+Modern Standard Arabic	5	SMELL	šamma	Stem X Causative	Never	
+Modern Standard Arabic	5	SMELL	šamma	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	5	SMELL	šamma	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Caused Motion Alternation	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Locative Alternation 1	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Locative Alternation 2	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Locative Alternation 3	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Object Adding Alternation	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Object Omission Alternation	Regularly	
+Modern Standard Arabic	6	FEAR	ḫāfa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Prepositional (min 'from') / Accusative Object Alternation	Regularly	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem II Causative	Regularly	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem IV Causative	Regularly	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem V Anticausative	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem V Reflexive	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VI Passive	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VI Reflexive	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VII Anticausative	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VII Passive	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Stem X Causative	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	6	FEAR	ḫāfa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Caused Motion Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Locative Alternation 1	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Locative Alternation 2	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Locative Alternation 3	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Object Adding Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Object Omission Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem II Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem IV Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem V Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem V Reflexive	Regularly	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VI Passive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VI Reflexive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VII Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VII Passive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Stem X Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ḫawwafa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Caused Motion Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Locative Alternation 1	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Locative Alternation 2	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Locative Alternation 3	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Object Adding Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Object Omission Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem II Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem IV Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem V Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem V Reflexive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VI Passive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VI Reflexive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VII Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VII Passive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Stem X Causative	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	7	FRIGHTEN	ʾaḫāfa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Caused Motion Alternation	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Locative Alternation 1	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Locative Alternation 2	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Locative Alternation 3	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Object Adding Alternation	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Object Omission Alternation	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem II Causative	Regularly	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem IV Causative	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem V Anticausative	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem V Reflexive	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VI Passive	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VI Reflexive	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VII Anticausative	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VII Passive	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Stem X Causative	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	8	LIKE	ʾaḥabba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Caused Motion Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Locative Alternation 1	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Locative Alternation 2	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Locative Alternation 3	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Object Adding Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Object Omission Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Prepositional (bi+) / Accusative object Alternation	Regularly	
+Modern Standard Arabic	9	KNOW	ʿalima	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem II Causative	Regularly	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem IV Causative	Regularly	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem V Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem V Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VI Passive	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VI Reciprocal	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VI Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VII Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VII Passive	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VIII Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem VIII Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Stem X Causative	Regularly	
+Modern Standard Arabic	9	KNOW	ʿalima	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿalima	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Caused Motion Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Locative Alternation 1	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Locative Alternation 2	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Locative Alternation 3	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Object Adding Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Object Omission Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Prepositional (bi+) / Accusative object Alternation	Regularly	
+Modern Standard Arabic	9	KNOW	ʿarifa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem II Causative	Regularly	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem IV Causative	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem V Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem V Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VI Passive	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VI Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VII Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VII Passive	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Stem X Causative	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	9	KNOW	ʿarifa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	10	THINK	fakkara	Caused Motion Alternation	Never	
+Modern Standard Arabic	10	THINK	fakkara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	10	THINK	fakkara	Locative Alternation 1	Never	
+Modern Standard Arabic	10	THINK	fakkara	Locative Alternation 2	Never	
+Modern Standard Arabic	10	THINK	fakkara	Locative Alternation 3	Never	
+Modern Standard Arabic	10	THINK	fakkara	Object Adding Alternation	Never	
+Modern Standard Arabic	10	THINK	fakkara	Object Omission Alternation	Never	
+Modern Standard Arabic	10	THINK	fakkara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	10	THINK	fakkara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem II Causative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem IV Causative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem V Anticausative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem V Reflexive	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VI Passive	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VI Reflexive	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VII Anticausative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VII Passive	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	10	THINK	fakkara	Stem X Causative	Never	
+Modern Standard Arabic	10	THINK	fakkara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	10	THINK	fakkara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Caused Motion Alternation	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Locative Alternation 1	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Locative Alternation 2	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Locative Alternation 3	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Object Adding Alternation	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Object Omission Alternation	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem II Causative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem IV Causative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem V Anticausative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem V Reflexive	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VI Passive	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VI Reciprocal	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VI Reflexive	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VII Anticausative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VII Passive	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VIII Anticausative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem VIII Reflexive	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Stem X Causative	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	11	SEARCH FOR	baḥat̠a	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	12	WASH	ġasala	Caused Motion Alternation	Never	
+Modern Standard Arabic	12	WASH	ġasala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	12	WASH	ġasala	Locative Alternation 1	Never	
+Modern Standard Arabic	12	WASH	ġasala	Locative Alternation 2	Never	
+Modern Standard Arabic	12	WASH	ġasala	Locative Alternation 3	Never	
+Modern Standard Arabic	12	WASH	ġasala	Object Adding Alternation	Never	
+Modern Standard Arabic	12	WASH	ġasala	Object Omission Alternation	Never	
+Modern Standard Arabic	12	WASH	ġasala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	12	WASH	ġasala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem II Causative	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem IV Causative	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem V Anticausative	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem V Reflexive	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VI Passive	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VI Reflexive	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VII Anticausative	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VII Passive	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	12	WASH	ġasala	Stem VIII Reflexive	Regularly	
+Modern Standard Arabic	12	WASH	ġasala	Stem X Causative	No data	
+Modern Standard Arabic	12	WASH	ġasala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	12	WASH	ġasala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Caused Motion Alternation	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Locative Alternation 1	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Locative Alternation 2	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Locative Alternation 3	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Object Adding Alternation	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Object Omission Alternation	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem II Causative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem IV Causative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem V Anticausative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem V Reflexive	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VI Passive	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VI Reflexive	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VII Anticausative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VII Passive	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Stem X Causative	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	13	DRESS	ʾalbasa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Locative Alternation 1	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Locative Alternation 2	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Locative Alternation 3	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Object Adding Alternation	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Object Omission Alternation	Regularly	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem II Causative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem IV Causative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem V Anticausative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem V Reflexive	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VI Passive	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VI Reflexive	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VII Passive	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Stem X Causative	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	14	SHAVE (a body part/person)	ḥalaqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Caused Motion Alternation	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Locative Alternation 1	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Locative Alternation 2	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Locative Alternation 3	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Object Adding Alternation	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Object Omission Alternation	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem II Causative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem IV Causative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem V Anticausative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem V Reflexive	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VI Passive	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VI Reciprocal	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VI Reflexive	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VII Anticausative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VII Passive	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VIII Anticausative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem VIII Reflexive	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Stem X Causative	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	15	HELP	sāʿada	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem II Causative	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem IV Causative	Regularly	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VI Passive	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VI Reflexive	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VII Anticausative	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VII Passive	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem VIII Reflexive	No data	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Stem X Causative	Regularly	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	16	FOLLOW	tabiʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	17	MEET	laqiya	Caused Motion Alternation	Never	
+Modern Standard Arabic	17	MEET	laqiya	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	17	MEET	laqiya	Locative Alternation 1	Never	
+Modern Standard Arabic	17	MEET	laqiya	Locative Alternation 2	Never	
+Modern Standard Arabic	17	MEET	laqiya	Locative Alternation 3	Never	
+Modern Standard Arabic	17	MEET	laqiya	Object Adding Alternation	Never	
+Modern Standard Arabic	17	MEET	laqiya	Object Omission Alternation	Never	
+Modern Standard Arabic	17	MEET	laqiya	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	17	MEET	laqiya	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem II Causative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem IV Causative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem V Anticausative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem V Reflexive	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VI Passive	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VI Reciprocal	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VI Reflexive	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VII Anticausative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VII Passive	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VIII Anticausative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	17	MEET	laqiya	Stem VIII Reflexive	Never	
+Modern Standard Arabic	17	MEET	laqiya	Stem X Causative	Never	
+Modern Standard Arabic	17	MEET	laqiya	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	17	MEET	laqiya	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	18	TALK	takallama	Caused Motion Alternation	Never	
+Modern Standard Arabic	18	TALK	takallama	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	18	TALK	takallama	Locative Alternation 1	Never	
+Modern Standard Arabic	18	TALK	takallama	Locative Alternation 2	Never	
+Modern Standard Arabic	18	TALK	takallama	Locative Alternation 3	Never	
+Modern Standard Arabic	18	TALK	takallama	Object Adding Alternation	Never	
+Modern Standard Arabic	18	TALK	takallama	Object Omission Alternation	Never	
+Modern Standard Arabic	18	TALK	takallama	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	18	TALK	takallama	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem II Causative	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem IV Causative	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem V Anticausative	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem V Reflexive	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VI Passive	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VI Reciprocal	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VI Reflexive	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VII Anticausative	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VII Passive	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VIII Anticausative	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem VIII Reflexive	Never	
+Modern Standard Arabic	18	TALK	takallama	Stem X Causative	Never	
+Modern Standard Arabic	18	TALK	takallama	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	18	TALK	takallama	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Caused Motion Alternation	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Locative Alternation 1	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Locative Alternation 2	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Locative Alternation 3	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Object Adding Alternation	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Object Omission Alternation	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem II Causative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem IV Causative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem V Anticausative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem V Reflexive	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VI Passive	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VI Reflexive	Regularly	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VII Anticausative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VII Passive	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Stem X Causative	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	19	ASK FOR	saʾala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Caused Motion Alternation	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Locative Alternation 1	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Locative Alternation 2	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Locative Alternation 3	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Object Adding Alternation	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Object Omission Alternation	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem II Causative	Marginally	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem IV Causative	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem V Anticausative	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem V Reflexive	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VI Passive	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VI Reflexive	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VII Anticausative	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VII Passive	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Stem X Causative	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	20	SHOUT AT	ṣāḥa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Locative Alternation 1	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Locative Alternation 2	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Locative Alternation 3	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Object Adding Alternation	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Object Omission Alternation	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem II Causative	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem IV Causative	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem V Anticausative	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem V Reflexive	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VI Passive	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VII Passive	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Stem X Causative	No data	
+Modern Standard Arabic	21	TELL	ḥakâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	21	TELL	ḥakâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	22	SAY	qāla	Caused Motion Alternation	Never	
+Modern Standard Arabic	22	SAY	qāla	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	22	SAY	qāla	Locative Alternation 1	Never	
+Modern Standard Arabic	22	SAY	qāla	Locative Alternation 2	Never	
+Modern Standard Arabic	22	SAY	qāla	Locative Alternation 3	Never	
+Modern Standard Arabic	22	SAY	qāla	Object Adding Alternation	Never	
+Modern Standard Arabic	22	SAY	qāla	Object Omission Alternation	Never	
+Modern Standard Arabic	22	SAY	qāla	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	22	SAY	qāla	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem II Causative	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem IV Causative	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem V Anticausative	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem V Reflexive	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VI Passive	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VI Reciprocal	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VI Reflexive	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VII Anticausative	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VII Passive	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VIII Anticausative	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem VIII Reflexive	Never	
+Modern Standard Arabic	22	SAY	qāla	Stem X Causative	Never	
+Modern Standard Arabic	22	SAY	qāla	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	22	SAY	qāla	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	23	NAME	sammâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	23	NAME	sammâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	23	NAME	sammâ	Locative Alternation 1	Never	
+Modern Standard Arabic	23	NAME	sammâ	Locative Alternation 2	Never	
+Modern Standard Arabic	23	NAME	sammâ	Locative Alternation 3	Never	
+Modern Standard Arabic	23	NAME	sammâ	Object Adding Alternation	Never	
+Modern Standard Arabic	23	NAME	sammâ	Object Omission Alternation	Never	
+Modern Standard Arabic	23	NAME	sammâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	23	NAME	sammâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem II Causative	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem IV Causative	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem V Anticausative	Regularly	
+Modern Standard Arabic	23	NAME	sammâ	Stem V Reflexive	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VI Passive	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VII Passive	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	23	NAME	sammâ	Stem X Causative	Never	
+Modern Standard Arabic	23	NAME	sammâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	23	NAME	sammâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	24	BUILD	banâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	24	BUILD	banâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	24	BUILD	banâ	Locative Alternation 1	Never	
+Modern Standard Arabic	24	BUILD	banâ	Locative Alternation 2	Never	
+Modern Standard Arabic	24	BUILD	banâ	Locative Alternation 3	Never	
+Modern Standard Arabic	24	BUILD	banâ	Object Adding Alternation	Never	
+Modern Standard Arabic	24	BUILD	banâ	Object Omission Alternation	Never	
+Modern Standard Arabic	24	BUILD	banâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	24	BUILD	banâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem II Causative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem IV Causative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem V Anticausative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem V Reflexive	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VI Passive	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VII Passive	Regularly	
+Modern Standard Arabic	24	BUILD	banâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	24	BUILD	banâ	Stem X Causative	Never	
+Modern Standard Arabic	24	BUILD	banâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	24	BUILD	banâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	25	BREAK	kasara	Caused Motion Alternation	Never	
+Modern Standard Arabic	25	BREAK	kasara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	25	BREAK	kasara	Locative Alternation 1	Never	
+Modern Standard Arabic	25	BREAK	kasara	Locative Alternation 2	Never	
+Modern Standard Arabic	25	BREAK	kasara	Locative Alternation 3	Never	
+Modern Standard Arabic	25	BREAK	kasara	Object Adding Alternation	Never	
+Modern Standard Arabic	25	BREAK	kasara	Object Omission Alternation	Never	
+Modern Standard Arabic	25	BREAK	kasara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	25	BREAK	kasara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem II Causative	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem IV Causative	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem V Anticausative	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem V Reflexive	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VI Passive	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VI Reflexive	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VII Anticausative	Regularly	
+Modern Standard Arabic	25	BREAK	kasara	Stem VII Passive	Regularly	
+Modern Standard Arabic	25	BREAK	kasara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	25	BREAK	kasara	Stem X Causative	Never	
+Modern Standard Arabic	25	BREAK	kasara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	25	BREAK	kasara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	26	KILL	qatala	Caused Motion Alternation	Never	
+Modern Standard Arabic	26	KILL	qatala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	26	KILL	qatala	Locative Alternation 1	Never	
+Modern Standard Arabic	26	KILL	qatala	Locative Alternation 2	Never	
+Modern Standard Arabic	26	KILL	qatala	Locative Alternation 3	Never	
+Modern Standard Arabic	26	KILL	qatala	Object Adding Alternation	Never	
+Modern Standard Arabic	26	KILL	qatala	Object Omission Alternation	Never	
+Modern Standard Arabic	26	KILL	qatala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	26	KILL	qatala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem II Causative	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem IV Causative	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem V Anticausative	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem V Reflexive	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VI Passive	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VI Reflexive	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VII Anticausative	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VII Passive	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	26	KILL	qatala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	26	KILL	qatala	Stem X Causative	Never	
+Modern Standard Arabic	26	KILL	qatala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	26	KILL	qatala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Caused Motion Alternation	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Locative Alternation 1	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Locative Alternation 2	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Locative Alternation 3	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Object Adding Alternation	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Object Omission Alternation	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem II Causative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem IV Causative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem V Anticausative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem V Reflexive	No data	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VI Passive	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VI Reciprocal	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VI Reflexive	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VII Anticausative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VII Passive	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Stem X Causative	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	27	BEAT	ḍaraba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Caused Motion Alternation	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Locative Alternation 1	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Locative Alternation 2	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Locative Alternation 3	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Object Adding Alternation	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Object Omission Alternation	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem II Causative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem IV Causative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem V Anticausative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem V Reflexive	No data	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VI Passive	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VI Reciprocal	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VI Reflexive	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VII Anticausative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VII Passive	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Stem X Causative	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	28	HIT	ḍaraba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	28	HIT	laṭama	Caused Motion Alternation	Never	
+Modern Standard Arabic	28	HIT	laṭama	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	28	HIT	laṭama	Locative Alternation 1	Never	
+Modern Standard Arabic	28	HIT	laṭama	Locative Alternation 2	Never	
+Modern Standard Arabic	28	HIT	laṭama	Locative Alternation 3	Never	
+Modern Standard Arabic	28	HIT	laṭama	Object Adding Alternation	Never	
+Modern Standard Arabic	28	HIT	laṭama	Object Omission Alternation	Never	
+Modern Standard Arabic	28	HIT	laṭama	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	28	HIT	laṭama	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem II Causative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem IV Causative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem V Anticausative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem V Reflexive	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VI Passive	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	28	HIT	laṭama	Stem VI Reflexive	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VII Anticausative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VII Passive	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VIII Anticausative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	28	HIT	laṭama	Stem VIII Reflexive	Never	
+Modern Standard Arabic	28	HIT	laṭama	Stem X Causative	Never	
+Modern Standard Arabic	28	HIT	laṭama	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	28	HIT	laṭama	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Caused Motion Alternation	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Locative Alternation 1	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Locative Alternation 2	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Locative Alternation 3	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Object Adding Alternation	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Object Omission Alternation	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem II Causative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem IV Causative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem V Anticausative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem V Reflexive	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VI Passive	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VI Reflexive	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VII Anticausative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VII Passive	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Stem X Causative	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	29	TOUCH	lamasa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem II Causative	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem IV Causative	No data	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VI Passive	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VI Reciprocal	No data	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VI Reflexive	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VII Anticausative	Regularly	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VII Passive	Regularly	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Stem X Causative	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	30	CUT	qaṭaʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Caused Motion Alternation	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Locative Alternation 1	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Locative Alternation 2	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Locative Alternation 3	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Object Adding Alternation	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Object Omission Alternation	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem II Causative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem IV Causative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem V Anticausative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem V Reflexive	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VI Passive	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VI Reciprocal	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VI Reflexive	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VII Anticausative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VII Passive	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VIII Anticausative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem VIII Reflexive	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Stem X Causative	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	31	TAKE	ʾaḫad̠a	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem II Causative	Regularly	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem IV Causative	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VI Passive	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VI Reflexive	No data	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VII Anticausative	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VII Passive	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem VIII Reflexive	No data	
+Modern Standard Arabic	32	TEAR	nazaʿa	Stem X Causative	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	32	TEAR	nazaʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Caused Motion Alternation	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Locative Alternation 1	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Locative Alternation 2	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Locative Alternation 3	Regularly	
+Modern Standard Arabic	33	PEEL	qaššara	Object Adding Alternation	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Object Omission Alternation	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem II Causative	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem IV Causative	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem V Anticausative	Regularly	
+Modern Standard Arabic	33	PEEL	qaššara	Stem V Reflexive	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VI Passive	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VI Reflexive	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VII Anticausative	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VII Passive	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Stem X Causative	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	33	PEEL	qaššara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Locative Alternation 1	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Locative Alternation 2	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Locative Alternation 3	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Object Adding Alternation	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Object Omission Alternation	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem II Causative	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem IV Causative	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem V Anticausative	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem V Reflexive	Regularly	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VI Passive	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VII Passive	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VIII Anticausative	Regularly	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem VIII Reflexive	Regularly	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Stem X Causative	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	34	HIDE	ʾaḫfâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Locative Alternation 1	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Locative Alternation 2	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Locative Alternation 3	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Object Adding Alternation	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Object Omission Alternation	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem II Causative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem IV Causative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem V Anticausative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem V Reflexive	No data	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VI Passive	No data	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VI Reflexive	Marginally	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VII Passive	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Stem X Causative	Never	
+Modern Standard Arabic	35	SHOW	ʾarâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Regularly	
+Modern Standard Arabic	35	SHOW	ʾarâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Locative Alternation 1	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Locative Alternation 2	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Locative Alternation 3	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Object Adding Alternation	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Object Omission Alternation	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem II Causative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem IV Causative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem V Anticausative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem V Reflexive	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VI Passive	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VII Passive	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Stem X Causative	Never	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Regularly	
+Modern Standard Arabic	36	GIVE	ʾaʿṭâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Caused Motion Alternation	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Locative Alternation 1	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Locative Alternation 2	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Locative Alternation 3	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Object Adding Alternation	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Object Omission Alternation	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem II Causative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem IV Causative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem V Anticausative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem V Reflexive	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VI Passive	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VI Reflexive	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VII Anticausative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VII Passive	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Stem X Causative	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	37	SEND	ʾarsala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Caused Motion Alternation	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Locative Alternation 1	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Locative Alternation 2	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Locative Alternation 3	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Object Adding Alternation	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Object Omission Alternation	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem II Causative	Regularly	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem IV Causative	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem V Anticausative	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem V Reflexive	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VI Passive	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VI Reflexive	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VII Anticausative	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VII Passive	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Stem X Causative	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	38	CARRY	ḥamala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	39	THROW	ramâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	39	THROW	ramâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	39	THROW	ramâ	Locative Alternation 1	Never	
+Modern Standard Arabic	39	THROW	ramâ	Locative Alternation 2	Regularly	
+Modern Standard Arabic	39	THROW	ramâ	Locative Alternation 3	Never	
+Modern Standard Arabic	39	THROW	ramâ	Object Adding Alternation	Never	
+Modern Standard Arabic	39	THROW	ramâ	Object Omission Alternation	Never	
+Modern Standard Arabic	39	THROW	ramâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	39	THROW	ramâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem II Causative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem IV Causative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem V Anticausative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem V Reflexive	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VI Passive	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	39	THROW	ramâ	Stem VI Reflexive	No data	
+Modern Standard Arabic	39	THROW	ramâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VII Passive	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	39	THROW	ramâ	Stem VIII Reflexive	Regularly	
+Modern Standard Arabic	39	THROW	ramâ	Stem X Causative	Never	
+Modern Standard Arabic	39	THROW	ramâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	39	THROW	ramâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Caused Motion Alternation	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Locative Alternation 1	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Locative Alternation 2	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Locative Alternation 3	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Object Adding Alternation	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Object Omission Alternation	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem II Causative	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem IV Causative	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem V Anticausative	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem V Reflexive	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VI Passive	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VI Reciprocal	No data	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VI Reflexive	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VII Anticausative	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VII Passive	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VIII Anticausative	Regularly	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VIII Reciprocal	Regularly	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Stem X Causative	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	40	TIE	rabaṭa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem II Causative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem IV Causative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VI Passive	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VI Reflexive	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VII Anticausative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VII Passive	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Stem X Causative	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	41	PUT	waḍaʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Caused Motion Alternation	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Locative Alternation 1	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Locative Alternation 2	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Locative Alternation 3	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Object Adding Alternation	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Object Omission Alternation	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem II Causative	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem IV Causative	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem V Anticausative	Regularly	
+Modern Standard Arabic	42	POUR	ṣabba	Stem V Reflexive	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VI Passive	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VI Reciprocal	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VI Reflexive	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VII Anticausative	Regularly	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VII Passive	Regularly	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Stem X Causative	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	42	POUR	ṣabba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Caused Motion Alternation	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Locative Alternation 1	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Locative Alternation 2	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Locative Alternation 3	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Object Adding Alternation	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Object Omission Alternation	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem II Causative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem IV Causative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem V Anticausative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem V Reflexive	Regularly	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VI Passive	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VI Reciprocal	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VI Reflexive	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VII Anticausative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VII Passive	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VIII Anticausative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem VIII Reflexive	No data	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Stem X Causative	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	43	COVER	ġaṭṭā	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Caused Motion Alternation	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Locative Alternation 1	Regularly	
+Modern Standard Arabic	44	FILL	malaʾa	Locative Alternation 2	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Locative Alternation 3	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Object Adding Alternation	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Object Omission Alternation	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem II Causative	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem IV Causative	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem V Anticausative	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem V Reflexive	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VI Passive	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VI Reflexive	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VII Anticausative	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VII Passive	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VIII Anticausative	Regularly	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Stem X Causative	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	44	FILL	malaʾa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Caused Motion Alternation	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Locative Alternation 1	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Locative Alternation 2	Regularly	
+Modern Standard Arabic	45	LOAD	ḥammala	Locative Alternation 3	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Object Adding Alternation	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Object Omission Alternation	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem II Causative	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem IV Causative	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem V Anticausative	Regularly	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem V Reflexive	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VI Passive	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VI Reflexive	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VII Anticausative	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VII Passive	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Stem X Causative	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	ḥammala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Caused Motion Alternation	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Locative Alternation 1	Regularly	
+Modern Standard Arabic	45	LOAD	šaḥana	Locative Alternation 2	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Locative Alternation 3	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Object Adding Alternation	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Object Omission Alternation	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem II Causative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem IV Causative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem V Anticausative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem V Reflexive	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VI Passive	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VI Reciprocal	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VI Reflexive	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VII Anticausative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VII Passive	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VIII Anticausative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem VIII Reflexive	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Stem X Causative	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	45	LOAD	šaḥana	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Caused Motion Alternation	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Locative Alternation 1	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Locative Alternation 2	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Locative Alternation 3	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Object Adding Alternation	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Object Omission Alternation	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem II Causative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem IV Causative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem V Anticausative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem V Reflexive	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VI Passive	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VI Reciprocal	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VI Reflexive	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VII Anticausative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VII Passive	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VIII Anticausative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem VIII Reflexive	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Stem X Causative	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	46	BLINK	ramaša	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Caused Motion Alternation	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Locative Alternation 1	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Locative Alternation 2	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Locative Alternation 3	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Object Adding Alternation	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Object Omission Alternation	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem II Causative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem IV Causative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem V Anticausative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem V Reflexive	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VI Passive	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VI Reflexive	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VII Anticausative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VII Passive	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Stem X Causative	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	47	COUGH	saʿala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Locative Alternation 1	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Locative Alternation 2	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Locative Alternation 3	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Object Adding Alternation	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Object Omission Alternation	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem II Causative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem IV Causative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem V Anticausative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem V Reflexive	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VI Passive	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VI Reflexive	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VII Passive	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Stem X Causative	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	48	CLIMB	tasallaqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Caused Motion Alternation	Regularly	
+Modern Standard Arabic	49	RUN	ǧarâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Locative Alternation 1	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Locative Alternation 2	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Locative Alternation 3	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Object Adding Alternation	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Object Omission Alternation	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem II Causative	Marginally	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem IV Causative	Regularly	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem V Anticausative	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem V Reflexive	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VI Passive	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VII Passive	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Stem X Causative	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	49	RUN	ǧarâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Caused Motion Alternation	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Locative Alternation 1	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Locative Alternation 2	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Locative Alternation 3	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Object Adding Alternation	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Object Omission Alternation	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem II Causative	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem IV Causative	Regularly	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem V Anticausative	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem V Reflexive	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VI Passive	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VI Reflexive	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VII Anticausative	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VII Passive	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Stem X Causative	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	50	SIT	ǧalasa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Caused Motion Alternation	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Locative Alternation 1	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Locative Alternation 2	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Locative Alternation 3	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Object Adding Alternation	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Object Omission Alternation	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem II Causative	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem IV Causative	Regularly	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem V Anticausative	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem V Reflexive	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VI Passive	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VI Reflexive	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VII Anticausative	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VII Passive	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Stem X Causative	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	51	SIT DOWN	ǧalasa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Caused Motion Alternation	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Locative Alternation 1	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Locative Alternation 2	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Locative Alternation 3	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Object Adding Alternation	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Object Omission Alternation	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem II Causative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem IV Causative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem V Anticausative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem V Reflexive	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VI Passive	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VI Reciprocal	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VI Reflexive	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VII Anticausative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VII Passive	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VIII Anticausative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem VIII Reflexive	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Stem X Causative	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	52	JUMP	qafaza	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	53	SING	ġannâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	53	SING	ġannâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	53	SING	ġannâ	Locative Alternation 1	Never	
+Modern Standard Arabic	53	SING	ġannâ	Locative Alternation 2	Never	
+Modern Standard Arabic	53	SING	ġannâ	Locative Alternation 3	Never	
+Modern Standard Arabic	53	SING	ġannâ	Object Adding Alternation	Regularly	
+Modern Standard Arabic	53	SING	ġannâ	Object Omission Alternation	Never	
+Modern Standard Arabic	53	SING	ġannâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	53	SING	ġannâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem II Causative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem IV Causative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem V Anticausative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem V Reflexive	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VI Passive	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VII Passive	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	53	SING	ġannâ	Stem X Causative	Never	
+Modern Standard Arabic	53	SING	ġannâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	53	SING	ġannâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Caused Motion Alternation	Regularly	
+Modern Standard Arabic	54	GO	d̠ahaba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Locative Alternation 1	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Locative Alternation 2	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Locative Alternation 3	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Object Adding Alternation	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Object Omission Alternation	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem II Causative	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem IV Causative	Regularly	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem V Anticausative	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem V Reflexive	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VI Passive	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VI Reciprocal	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VI Reflexive	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VII Anticausative	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VII Passive	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Stem X Causative	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	54	GO	d̠ahaba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Caused Motion Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Locative Alternation 1	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Locative Alternation 2	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Locative Alternation 3	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Object Adding Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Object Omission Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Prepositional (min 'from') / Accusative Object Alternation	Regularly	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem II Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem IV Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem V Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem V Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VI Passive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VI Reciprocal	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VI Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VII Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VII Passive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VIII Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem VIII Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Stem X Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (1)	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Caused Motion Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Locative Alternation 1	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Locative Alternation 2	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Locative Alternation 3	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Object Adding Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Object Omission Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem II Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem IV Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem V Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem V Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VI Passive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VI Reciprocal	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VI Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VII Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VII Passive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VIII Anticausative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem VIII Reflexive	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Stem X Causative	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	55	LEAVE	ġādara (2)	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Caused Motion Alternation	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Locative Alternation 1	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Locative Alternation 2	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Locative Alternation 3	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Object Adding Alternation	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Object Omission Alternation	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem II Causative	Regularly	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem IV Causative	No data	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem V Anticausative	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem V Reflexive	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VI Passive	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VI Reciprocal	No data	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VI Reflexive	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VII Anticausative	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VII Passive	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VIII Anticausative	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem VIII Reflexive	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Stem X Causative	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	56	LIVE	ʿāša	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Caused Motion Alternation	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Locative Alternation 1	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Locative Alternation 2	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Locative Alternation 3	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Object Adding Alternation	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Object Omission Alternation	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem II Causative	Regularly	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem IV Causative	Regularly	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem V Anticausative	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem V Reflexive	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VI Passive	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VI Reciprocal	No data	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VI Reflexive	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VII Anticausative	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VII Passive	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VIII Anticausative	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem VIII Reflexive	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Stem X Causative	Regularly	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	57	LAUGH	ḍaḥika	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Caused Motion Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Locative Alternation 1	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Locative Alternation 2	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Locative Alternation 3	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Object Adding Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Object Omission Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem II Causative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem IV Causative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem V Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem V Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VI Passive	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VI Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VII Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VII Passive	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Stem X Causative	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣaraḫa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Caused Motion Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Locative Alternation 1	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Locative Alternation 2	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Locative Alternation 3	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Object Adding Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Object Omission Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem II Causative	Marginally	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem IV Causative	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem V Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem V Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VI Passive	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VI Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VII Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VII Passive	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Stem X Causative	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	58	SCREAM	ṣāḥa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Caused Motion Alternation	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Locative Alternation 1	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Locative Alternation 2	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Locative Alternation 3	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Object Adding Alternation	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Object Omission Alternation	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem II Causative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem IV Causative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem V Anticausative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem V Reflexive	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VI Passive	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VI Reciprocal	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VI Reflexive	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VII Anticausative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VII Passive	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VIII Anticausative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem VIII Reflexive	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Stem X Causative	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	59	FEEL PAIN	taʾallama	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Caused Motion Alternation	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Locative Alternation 1	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Locative Alternation 2	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Locative Alternation 3	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Object Adding Alternation	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Object Omission Alternation	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem II Causative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem IV Causative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem V Anticausative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem V Reflexive	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VI Passive	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VI Reciprocal	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VI Reflexive	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VII Anticausative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VII Passive	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VIII Anticausative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem VIII Reflexive	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Stem X Causative	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	60	FEEL COLD	šaʿara bilbardi	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	61	DIE	māta	Caused Motion Alternation	Never	
+Modern Standard Arabic	61	DIE	māta	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	61	DIE	māta	Locative Alternation 1	Never	
+Modern Standard Arabic	61	DIE	māta	Locative Alternation 2	Never	
+Modern Standard Arabic	61	DIE	māta	Locative Alternation 3	Never	
+Modern Standard Arabic	61	DIE	māta	Object Adding Alternation	Never	
+Modern Standard Arabic	61	DIE	māta	Object Omission Alternation	Never	
+Modern Standard Arabic	61	DIE	māta	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	61	DIE	māta	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	61	DIE	māta	Stem II Causative	Marginally	
+Modern Standard Arabic	61	DIE	māta	Stem IV Causative	Marginally	
+Modern Standard Arabic	61	DIE	māta	Stem V Anticausative	Never	
+Modern Standard Arabic	61	DIE	māta	Stem V Reflexive	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VI Passive	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VI Reciprocal	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VI Reflexive	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VII Anticausative	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VII Passive	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VIII Anticausative	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	61	DIE	māta	Stem VIII Reflexive	Never	
+Modern Standard Arabic	61	DIE	māta	Stem X Causative	Never	
+Modern Standard Arabic	61	DIE	māta	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	61	DIE	māta	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Caused Motion Alternation	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Locative Alternation 1	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Locative Alternation 2	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Locative Alternation 3	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Object Adding Alternation	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Object Omission Alternation	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem II Causative	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem IV Causative	No data	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem V Anticausative	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem V Reflexive	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VI Passive	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VI Reciprocal	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VI Reflexive	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VII Anticausative	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VII Passive	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VIII Anticausative	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem VIII Reflexive	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Stem X Causative	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	62	PLAY	laʿaba	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Caused Motion Alternation	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Locative Alternation 1	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Locative Alternation 2	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Locative Alternation 3	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Object Adding Alternation	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Object Omission Alternation	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem II Causative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem IV Causative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem V Anticausative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem V Reflexive	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VI Passive	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VI Reciprocal	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VI Reflexive	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VII Anticausative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VII Passive	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VIII Anticausative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem VIII Reflexive	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Stem X Causative	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	63	BE SAD	ḥazīnun	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Caused Motion Alternation	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Locative Alternation 1	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Locative Alternation 2	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Locative Alternation 3	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Object Adding Alternation	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Object Omission Alternation	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem II Causative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem IV Causative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem V Anticausative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem V Reflexive	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VI Passive	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VI Reciprocal	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VI Reflexive	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VII Anticausative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VII Passive	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VIII Anticausative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem VIII Reflexive	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Stem X Causative	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	64	BE HUNGRY	ǧāʾiʿun	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Caused Motion Alternation	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Locative Alternation 1	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Locative Alternation 2	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Locative Alternation 3	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Object Adding Alternation	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Object Omission Alternation	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem II Causative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem IV Causative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem V Anticausative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem V Reflexive	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VI Passive	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VI Reflexive	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VII Anticausative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VII Passive	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Stem X Causative	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	65	ROLL	tadaḥraǧa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Locative Alternation 1	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Locative Alternation 2	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Locative Alternation 3	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Object Adding Alternation	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Object Omission Alternation	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem II Causative	Regularly	
+Modern Standard Arabic	66	SINK	ġariqa	Stem IV Causative	Regularly	
+Modern Standard Arabic	66	SINK	ġariqa	Stem V Anticausative	No data	
+Modern Standard Arabic	66	SINK	ġariqa	Stem V Reflexive	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VI Passive	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VI Reflexive	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VII Passive	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Stem X Causative	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	66	SINK	ġariqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Locative Alternation 1	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Locative Alternation 2	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Locative Alternation 3	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Object Adding Alternation	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Object Omission Alternation	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem II Causative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem IV Causative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem V Anticausative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem V Reflexive	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VI Passive	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VI Reflexive	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VII Passive	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Stem X Causative	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	67	BURN	iḥtaraqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Caused Motion Alternation	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Locative Alternation 1	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Locative Alternation 2	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Locative Alternation 3	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Object Adding Alternation	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Object Omission Alternation	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem II Causative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem IV Causative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem V Anticausative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem V Reflexive	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VI Passive	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VI Reciprocal	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VI Reflexive	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VII Anticausative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VII Passive	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VIII Anticausative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem VIII Reflexive	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Stem X Causative	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	68	BE DRY	ǧāffun	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Caused Motion Alternation	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Locative Alternation 1	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Locative Alternation 2	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Locative Alternation 3	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Object Adding Alternation	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Object Omission Alternation	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem II Causative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem IV Causative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem V Anticausative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem V Reflexive	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VI Passive	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VI Reciprocal	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VI Reflexive	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VII Anticausative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VII Passive	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VIII Anticausative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem VIII Reflexive	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Stem X Causative	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	69	RAIN	ʾamṭarat	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Caused Motion Alternation	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Locative Alternation 1	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Locative Alternation 2	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Locative Alternation 3	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Object Adding Alternation	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Object Omission Alternation	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem II Causative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem IV Causative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem V Anticausative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem V Reflexive	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VI Passive	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VI Reciprocal	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VI Reflexive	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VII Anticausative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VII Passive	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VIII Anticausative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem VIII Reflexive	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Stem X Causative	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	70	BE A HUNTER	ṣayyādun	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Caused Motion Alternation	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Locative Alternation 1	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Locative Alternation 2	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Locative Alternation 3	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Object Adding Alternation	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Object Omission Alternation	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem II Causative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem IV Causative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem V Anticausative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem V Reflexive	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VI Passive	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VI Reciprocal	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VI Reflexive	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VII Anticausative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VII Passive	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VIII Anticausative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem VIII Reflexive	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Stem X Causative	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	71	GRIND	ṭaḥana	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Caused Motion Alternation	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Locative Alternation 1	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Locative Alternation 2	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Locative Alternation 3	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Object Adding Alternation	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Object Omission Alternation	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem II Causative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem IV Causative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem V Anticausative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem V Reflexive	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VI Passive	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VI Reflexive	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VII Anticausative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VII Passive	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Stem X Causative	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	72	WIPE	masaḥa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Caused Motion Alternation	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Locative Alternation 1	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Locative Alternation 2	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Locative Alternation 3	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Object Adding Alternation	Regularly	
+Modern Standard Arabic	73	DIG	ḥafara	Object Omission Alternation	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem II Causative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem IV Causative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem V Anticausative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem V Reflexive	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VI Passive	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VI Reflexive	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VII Anticausative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VII Passive	Regularly	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Stem VIII Reflexive	No data	
+Modern Standard Arabic	73	DIG	ḥafara	Stem X Causative	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	73	DIG	ḥafara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	73	DIG	nabaša	Caused Motion Alternation	Never	
+Modern Standard Arabic	73	DIG	nabaša	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	73	DIG	nabaša	Locative Alternation 1	Never	
+Modern Standard Arabic	73	DIG	nabaša	Locative Alternation 2	Never	
+Modern Standard Arabic	73	DIG	nabaša	Locative Alternation 3	Never	
+Modern Standard Arabic	73	DIG	nabaša	Object Adding Alternation	Regularly	
+Modern Standard Arabic	73	DIG	nabaša	Object Omission Alternation	Never	
+Modern Standard Arabic	73	DIG	nabaša	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	73	DIG	nabaša	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem II Causative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem IV Causative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem V Anticausative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem V Reflexive	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VI Passive	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VI Reciprocal	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VI Reflexive	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VII Anticausative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VII Passive	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VIII Anticausative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem VIII Reflexive	Never	
+Modern Standard Arabic	73	DIG	nabaša	Stem X Causative	Never	
+Modern Standard Arabic	73	DIG	nabaša	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	73	DIG	nabaša	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Caused Motion Alternation	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Locative Alternation 1	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Locative Alternation 2	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Locative Alternation 3	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Object Adding Alternation	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Object Omission Alternation	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem II Causative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem IV Causative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem V Anticausative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem V Reflexive	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VI Passive	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VI Reciprocal	Regularly	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VI Reflexive	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VII Anticausative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VII Passive	Regularly	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Stem X Causative	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	74	PUSH	daḥara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Caused Motion Alternation	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Locative Alternation 1	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Locative Alternation 2	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Locative Alternation 3	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Object Adding Alternation	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Object Omission Alternation	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem II Causative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem IV Causative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem V Anticausative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem V Reflexive	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VI Passive	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VI Reflexive	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VII Anticausative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VII Passive	No data	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Stem X Causative	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	75	BRING	ʾaḥḍara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Caused Motion Alternation	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Locative Alternation 1	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Locative Alternation 2	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Locative Alternation 3	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Object Adding Alternation	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Object Omission Alternation	Regularly	
+Modern Standard Arabic	76	STEAL	saraqa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem II Causative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem IV Causative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem V Anticausative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem V Reflexive	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VI Passive	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VI Reflexive	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VII Anticausative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VII Passive	Regularly	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Stem X Causative	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	76	STEAL	saraqa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Regularly	
+Modern Standard Arabic	77	TEACH	ʿallama	Caused Motion Alternation	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Locative Alternation 1	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Locative Alternation 2	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Locative Alternation 3	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Object Adding Alternation	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Object Omission Alternation	No data	
+Modern Standard Arabic	77	TEACH	ʿallama	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem II Causative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem IV Causative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem V Anticausative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem V Reflexive	Regularly	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VI Passive	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VI Reciprocal	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VI Reflexive	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VII Anticausative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VII Passive	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VIII Anticausative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem VIII Reflexive	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Stem X Causative	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	77	TEACH	ʿallama	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Prepositional (bi+) / Accusative object Alternation	Regularly	
+Modern Standard Arabic	78	HEAR	samiʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem II Causative	Regularly	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem IV Causative	Regularly	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VI Passive	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VI Reflexive	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VII Anticausative	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VII Passive	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Stem X Causative	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	78	HEAR	samiʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Caused Motion Alternation	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Locative Alternation 1	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Locative Alternation 2	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Locative Alternation 3	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Object Adding Alternation	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Object Omission Alternation	Regularly	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem II Causative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem IV Causative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem V Anticausative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem V Reflexive	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VI Passive	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VI Reflexive	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VII Anticausative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VII Passive	Marginally	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Stem X Causative	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	79	COOK	ṭabaḫa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Locative Alternation 1	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Locative Alternation 2	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Locative Alternation 3	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Object Adding Alternation	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Object Omission Alternation	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem II Causative	No data	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem IV Causative	Regularly	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem V Anticausative	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem V Reflexive	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VI Passive	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VII Passive	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Stem X Causative	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	80	BOIL	ġalâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Caused Motion Alternation	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Locative Alternation 1	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Locative Alternation 2	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Locative Alternation 3	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Object Adding Alternation	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Object Omission Alternation	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem II Causative	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem IV Causative	Regularly	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem V Anticausative	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem V Reflexive	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VI Passive	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VI Reciprocal	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VI Reflexive	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VII Anticausative	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VII Passive	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VIII Anticausative	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem VIII Reflexive	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Stem X Causative	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	81	APPEAR	ẓahara	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Caused Motion Alternation	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Locative Alternation 1	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Locative Alternation 2	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Locative Alternation 3	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Object Adding Alternation	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Object Omission Alternation	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem II Causative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem IV Causative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem V Anticausative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem V Reflexive	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VI Passive	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VI Reciprocal	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VI Reflexive	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VII Anticausative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VII Passive	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VIII Anticausative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem VIII Reflexive	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Stem X Causative	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	82	BE ILL	marīḍun	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	83	CRY	bakâ	Caused Motion Alternation	Never	
+Modern Standard Arabic	83	CRY	bakâ	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	83	CRY	bakâ	Locative Alternation 1	Never	
+Modern Standard Arabic	83	CRY	bakâ	Locative Alternation 2	Never	
+Modern Standard Arabic	83	CRY	bakâ	Locative Alternation 3	Never	
+Modern Standard Arabic	83	CRY	bakâ	Object Adding Alternation	Never	
+Modern Standard Arabic	83	CRY	bakâ	Object Omission Alternation	Never	
+Modern Standard Arabic	83	CRY	bakâ	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	83	CRY	bakâ	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem II Causative	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem IV Causative	Regularly	
+Modern Standard Arabic	83	CRY	bakâ	Stem V Anticausative	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem V Reflexive	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VI Passive	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VI Reciprocal	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VI Reflexive	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VII Anticausative	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VII Passive	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VIII Anticausative	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem VIII Reflexive	Never	
+Modern Standard Arabic	83	CRY	bakâ	Stem X Causative	Never	
+Modern Standard Arabic	83	CRY	bakâ	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	83	CRY	bakâ	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Caused Motion Alternation	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Locative Alternation 1	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Locative Alternation 2	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Locative Alternation 3	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Object Adding Alternation	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Object Omission Alternation	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem II Causative	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem IV Causative	Regularly	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem V Anticausative	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem V Reflexive	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VI Passive	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VI Reflexive	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VII Anticausative	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VII Passive	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Stem X Causative	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	84	FALL	saqaṭa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Caused Motion Alternation	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Locative Alternation 1	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Locative Alternation 2	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Locative Alternation 3	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Object Adding Alternation	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Object Omission Alternation	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem II Causative	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem IV Causative	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem V Anticausative	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem V Reflexive	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VI Passive	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VI Reflexive	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VII Anticausative	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VII Passive	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Stem X Causative	No data	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	85	MAKE	ṣanaʿa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Caused Motion Alternation	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Locative Alternation 1	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Locative Alternation 2	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Locative Alternation 3	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Object Adding Alternation	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Object Omission Alternation	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem II Causative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem IV Causative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem V Anticausative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem V Reflexive	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VI Passive	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VI Reciprocal	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VI Reflexive	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VII Anticausative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VII Passive	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VIII Anticausative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem VIII Reflexive	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Stem X Causative	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	86	GET	ḥaṣala	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Caused Motion Alternation	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Locative Alternation 1	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Locative Alternation 2	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Locative Alternation 3	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Object Adding Alternation	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Object Omission Alternation	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem II Causative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem IV Causative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem V Anticausative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem V Reflexive	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VI Passive	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VI Reciprocal	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VI Reflexive	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VII Anticausative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VII Passive	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VIII Anticausative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem VIII Reflexive	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Stem X Causative	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	87	WANT	ʾarāda	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Caused Motion Alternation	Regularly	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Goal Alternation - Prepositional (ʾilâ+ 'to') / Accusative Object	Regularly	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Locative Alternation 1	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Locative Alternation 2	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Locative Alternation 3	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Object Adding Alternation	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Object Omission Alternation	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Prepositional (bi+) / Accusative object Alternation	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Prepositional (min 'from') / Accusative Object Alternation	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem II Causative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem IV Causative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem V Anticausative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem V Reflexive	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VI Passive	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VI Reciprocal	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VI Reflexive	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VII Anticausative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VII Passive	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VIII Anticausative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VIII Reciprocal	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem VIII Reflexive	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Stem X Causative	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Theme / Recipient Alternation - Prepositional (li+ 'to') / Accusative Object	Never	
+Modern Standard Arabic	112	COME (2)	ǧāʾa	Theme / Source Alternation - Prepositional (min+ 'from') Accusative Object	Never	

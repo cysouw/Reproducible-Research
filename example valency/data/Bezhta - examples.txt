@@ -1,0 +1,304 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Bezhta	1	Constructed by native speaker linguist	Öždi bäbä müqiyo.		öždi bäbä m-üq-iyo	boy.ERG bread(III).ABS III-eat-PST	The boy ate bread.
+Bezhta	2	Constructed by native speaker linguist	Kibbal iyo yegaayo.		kibba-l iyo y-egaa-yo	girl.OBL-LAT mother(II).ABS II-see-PST	The girl saw her mother.
+Bezhta	3	Constructed by native speaker linguist	Abol teli xabarla yiyaq'eš.		abo-l teli xabar-la y-iyaq'e-š	father-LAT many story-PL NHPL-know.PL-PRS	The father knows many stories.
+Bezhta	4	Constructed by native speaker linguist	Öždil kid yat'ca.		öždi-l kid y-at'-ca	boy.OBL-LAT girl(II).ABS II-like-PRS	The boy likes the girl.
+Bezhta	5	Constructed by native speaker linguist	Kid c'oyqa hič'eš.		kid c'o-y-qa hič'e-š	girl.ABS fire-OBL-POSS fear-PRS	The girl fears the fire.
+Bezhta	6	Constructed by native speaker linguist	Kibba öžö hič'egolca.		kibba öžö hič'e-gol-ca	girl.ERG boy(I).ABS fear-MAKE(I)-PRS	The girl frightens the boy.
+Bezhta	7	Constructed by native speaker linguist	Kibba łic'o nizaayo.		kibba łic'o nizaa-yo	girl.ERG clothes.ABS wash-PST	The girl washes the clothes.
+Bezhta	8	Constructed by native speaker linguist	Kibba keč' iƛeš.		kibba keč' iƛe-š	girl.ERG song.ABS sing-PRS	The girl sings the song.
+Bezhta	9	Constructed by native speaker linguist	Kid yiyas.		kid y-iya-s	girl(II).ABS II-cry-PRS	The girl cries.
+Bezhta	10	Constructed by native speaker linguist	Kid k'ok'ona gey.		kid k'ok'o-na gey	girl.ABS be.ill-CVB be.PRS	The girl is ill.
+Bezhta	11	Constructed by native speaker linguist	Kibba k'atuwas beš baɣoyo.		kibba k'atu-wa-s beš b-aɣo-yo	girl.ERG potato-OBL-GEN1 skin(III).ABS III-take-PST	Girl peeled off the potato's skin.
+Bezhta	12	Constructed by native speaker linguist	Kibba iyol komak booyo.		kibba iyo-l komak b-oo-yo	girl.ERG mother-LAT help(III).ABS III-do-PST	The girl helped her mother.
+Bezhta	13	Constructed by native speaker linguist	Kibba aboqa dilna niƛaƛo nisoyo.		kibba abo-qa dil-na niƛ-a-ƛo niso-yo	girl.ERG father-POSS 1SG.LAT-and give-IMP-QUOT say-PST	The girl said to the father: "Give me as well!"."
+Bezhta	14	Constructed by native speaker linguist	Uštelli q'owal xabar meeyo.		uštel-li q'owa-l xabar m-ee-yo	teacher-ERG children-LAT story(III).ABS III-let.out-PST	The teacher told a story to the children.
+Bezhta	15	Constructed by native speaker linguist	Öžö xöxƛ'äš ekiyo.		öžö xöx-ƛ'ä-š Ø-ek-iyo	boy(I).ABS tree.OBL-SUP-ABL I-fall-PST	The boy fell from the tree.
+Bezhta	16	Constructed by native speaker linguist	Iyo yuɣoyo.		iyo y-uɣo-yo	mother(II).ABS II-die-PST	The mother died.
+Bezhta	17	Constructed by native speaker linguist	Öždi bekela k'obalalid biƛ'eyo.		öždi bekela k'obala-li-d b-iƛ'e-yo	boy.ERG snake(III).ABS stick-OBL-INSTR III-kill-PST	The boy killed the snake with the stick.
+Bezhta	18	Constructed by native speaker linguist	Kid q'ey yečena gey.		kid q'ey y-eče-na gey	girl(II).ABS on.the.ground II-be-CVB be.PRS	The girl is sitting.
+Bezhta	19	Constructed by native speaker linguist	Öždi waya sabaliyad micoyo xöxił.		öždi waya sabali-ya-d m-ico-yo xöx-i-ł	boy.ERG cow(III).ABS rope-OBL-INSTR III-tie-PST tree-OBL-INTER	The boy tied the cow to the tree with the rope.
+Bezhta	20	Constructed by native speaker linguist	Kibba wedralaʔ łi git'iyo.		kibba wedra-la-ʔ łi git'-iyo	girl.ERG bucket-OBL-INESS water(IV).ABS pour(II/IV)-PST	The girl poured water into the bucket.
+Bezhta	21	Constructed by native speaker linguist	Öždi istoliyaƛ'a t'ek guliyo.		öždi istoli-ya-ƛ'a t'ek gul-iyo	boy.ERG table-OBL-SUP book(IV).ABS put(IV)-PST	The boy put the book on the table.
+Bezhta	22	Constructed by native speaker linguist	Öždi hudo mašinalƛ'a mosoyo.		öždi hudo mašina-l-ƛ'a m-oso-yo	boy.ERG firewood(III).ABS car-OBL-SUP III-collapse-PST	The boy loaded the firewood onto the car.
+Bezhta	23	Constructed by native speaker linguist	Öždi c'it'ad bäbä büč'iyo.		öždi c'it'-a-d bäbä b-üč'-iyo	boy.ERG knife-OBL-INSTR bread(III).ABS III-cut-PST	The boy cut the bread with the knife.
+Bezhta	24	Constructed by native speaker linguist	Öžö kibbaɣoy müɣäƛ eⁿƛ'eš.		öžö kibba-ɣoy müɣäƛ Ø-eⁿƛ'e-š	boy(I).ABS girl.OBL-COMIT after I-go-PRS	The boy follows the girl.
+Bezhta	25	Constructed by native speaker linguist	Öždi isilco t'ek yuⁿcoyo.		öždi isi-l-co t'ek y-uⁿco-yo	boy.ERG sister-OBL-ABL book(IV).ABS IV-hide-PST	The boy hid the book from his sister.
+Bezhta	26	Constructed by native speaker linguist	Öžö kibbaƛ'as urɣeziaqiyo.		öžö kibba-ƛ'a-s urɣezi<Ø>aq-iyo	boy(I).ABS girl.OBL-SUP-ABL think<I>-PST	The boy thinks about the girl.
+Bezhta	27	Constructed by native speaker linguist	Kibba t'ek xalbooyo.		kibba t'ek xalboo-yo	girl.ERG book.ABS search-PST	The girl looked for the book.
+Bezhta	28	Constructed by native speaker linguist	Öžö kibbaqa goc'oqiyo.		öžö kibba-qa goc'oq-iyo	boy.ABS girl.OBL-POSS look(I)-PST	The boy looked at the girl.
+Bezhta	29	Constructed by native speaker linguist	Öždi kibbaƛ'a lalaƛoyo.		öždi kibba-ƛ'a lalaƛo-yo	boy.ERG girl.OBL-SUP shout-PST	The boy shouted at the girl.
+Bezhta	30	Constructed by native speaker linguist	Kibba iyoqas t'ek yokčiyo.		kibba iyo-qa-s t'ek y-okči-yo	girl.ERG mother-POSS-ABL book(IV).ABS IV-take-PST	The girl took the book from the mother.
+Bezhta	31	Constructed by native speaker linguist	Mähmädi öždiƛ'a Murad caaⁿ gullo.		Mähmäd-i öždi-ƛ'a Murad caaⁿ gul-lo	Magomed-ERG boy.OBL-SUP Murad name(IV).ABS put(IV)-PST	Magomed called his son Murad.
+Bezhta	32	Constructed by native speaker linguist	Kibba kuntalałco ɣeč'i yäxelca.		kibba kunta-la-ł-co ɣeč'i y-äxe-l-ca	girl.ERG dress-OBL-INTER-ABL tissue(IV).ABS IV-tear-CAUS-PRS	The girl tears the tissue from the dress.
+Bezhta	33	Constructed by native speaker linguist	Öžö urɣelliƛ'a gey.		öžö urɣel-li-ƛ'a gey	boy.ABS thought-OBL-SUP be.PRS	The boy is sad.
+Bezhta	34	Constructed by native speaker linguist	Öžö äč’ɬiyo.		öžö Ø-äč’-ɬ-iyo	boy(I).ABS I-cold-INCH-PST	The boy got cold.
+Bezhta	35	Constructed by native speaker linguist	Iyos q'äm k'ok'os.		iyo-s q'äm k'ok'o-s	mother-GEN1 head.ABS hurt-PRS	The mother's head is aching.
+Bezhta	36	Constructed by native speaker linguist	Hudo bek'eš.		hudo b-ek'e-š	firewood(III).ABS III-burn-PRS	The firewood is burning.
+Bezhta	37	Constructed by native speaker linguist	Kid nukoyo.		kid nuko-yo	girl.ABS be.hungry-PST	The girl was hungry.
+Bezhta	38	Constructed by native speaker linguist	Kibba öhƛöyo.		kibba öhƛö-yo	girl.ERG cough-PST	The girl coughed.
+Bezhta	39	Constructed by native speaker linguist	Öždis häydä pacpaƛos.		öždi-s häy-dä pacpaƛo-s	boy.OBL-GEN1 eye-PL blink-PRS	The boys eyes are blinking.
+Bezhta	40	Constructed by native speaker linguist	Kibba łiis wedra boc'ilca.		kibba łii-s wedra b-oc'-il-ca	girl.ERG water-GEN1 bucket(III).ABS III-fill-CAUS-PRS	The girl fills the bucket with the water.
+Bezhta	41	Constructed by native speaker linguist	Kibba xo heleyo.		kibba xo hele-yo	girl.ERG meat.ABS boil-PST	The girl cooked (boiled) the meat.
+Bezhta	42	Constructed by native speaker linguist	Gama ɣanq'izibaqiyo.		gama ɣanq'izi<b>aq-iyo	boat(III).ABS sink<III>-PST	The boat sank.
+Bezhta	43	Constructed by native speaker linguist	Öžö äƛaʔaš eⁿƛ'eyo.		öžö äƛ-a-ʔ-aš Ø-eⁿƛ'e-yo	boy(I).ABS village-OBL-IN-ABL I-go-PST	The boy left the village.
+Bezhta	44	Constructed by native speaker linguist	Örrä k'äyƛöš.		örrä k'äyƛö-š	wheel.ABS turn.round-PRS	The wheel is rolling.
+Bezhta	45	Constructed by native speaker linguist	Öždi yiƛa č'an yaɣos.		öždi yiƛa č'an y-aɣo-s	boy.ERG fast run(IV).ABS IV-take-PRS	The boy is running fast.
+Bezhta	46	Constructed by native speaker linguist	Wodo guus.		wodo guu-s	rain(III) come(III)-PRS	It is raining.
+Bezhta	47	Constructed by native speaker linguist	Boq moq'oyo.		boq m-oq'o-yo	sun(III).ABS III-come-PST	The sun appeared.
+Bezhta	48	Constructed by native speaker linguist	Öždi kibbal aⁿło yoc'iyo.		öždi kibba-l aⁿło y-oc'-iyo	boy.ERG girl.OBL-LAT embrace(IV).ABS IV-fill-PST	The boy hugged the girl.
+Bezhta	49	Constructed by native speaker linguist	Kibbal k'imalis mäh biq'eyo.		kibba-l k'ima-li-s mäh b-iq'e-yo	girl.OBL-LAT cheese-OBL-GEN1 smell(III).ABS III-know-PST	The girl smelled the cheese.
+Bezhta	50	Constructed by native speaker linguist	Öždi bab kusuʔiyo.		öždi bab kusuʔ-iyo	boy.ERG beard.ABS shave-PST	The boy shaved his beard.
+Bezhta	51	Constructed by native speaker linguist	Öždil kid keziyaqiyo.		öždi-l kid kezi<y>aq-iyo	boy.OBL-DAT girl(II).ABS meet<II>-PST	The boy met the girl.
+Bezhta	52	Constructed by native speaker linguist	Kibba simindiyala hät't'äš bäbä boos.		kibba simindi-ya-la hät't'ä-š bäbä b-oo-s	girl.ERG maize-OBL-GEN2 flour.OBL-GEN1 bread(III).ABS III-do-PRS	The girl makes the bread out of maize flour.
+Bezhta	53	Constructed by native speaker linguist	łi ɣayƛos.		łi ɣayƛo-s	water.ABS boil-PRS	The water boils.
+Bezhta	54	Constructed by native speaker linguist	Kibbal quy tuqiyo.		kibba-l quy tuq-iyo	girl.OBL-LAT noise.ABS hear-PST	The girl heard the noise.
+Bezhta	55	Constructed by native speaker linguist	Ist'i isiqa okko harziyooyo.		ist'i isi-qa okko harzi<y>oo-yo	brother.ERG sister-POSS money(IV).ABS ask<IV>-PST	The brother asked his sister for the money.
+Bezhta	56	Constructed by native speaker linguist	Öždi xäbäläd c'ika bišello.		öždi xäbä-lä-d c'ika b-iše-ll-o	boy.ERG foot-OBL-INSTR glass(III).ABS III-break-CAUS-PST	The boy broke the glass with his foot.
+Bezhta	57	Constructed by native speaker linguist	Öždi kibbal k'obala bäƛ'ello.		öždi kibba-l k'obala b-äƛ'el-lo	boy.ERG girl.OBL-LAT stick(III).ABS III-hit-PST	The boy hit the girl with the stick.
+Bezhta	58	Constructed by native speaker linguist	Öždi kid k'obalalid yäƛ'ello.		öždi kid k'obala-li-d y-äƛ'el-lo	boy.ERG girl(II).ABS stick-OBL-INSTR II-hit-PST	The boy hit the girl with the stick.
+Bezhta	59	Constructed by native speaker linguist	Öždi kibbal t'ek niƛiyo.		öždi kibba-l t'ek niƛ-iyo	boy.ERG girl.OBL-LAT book.ABS give-PST	The boy gave the book to the girl.
+Bezhta	60	Constructed by native speaker linguist	Öždi kibbaqa t'ek niƛiyo.		öždi kibba-qa t'ek niƛ-iyo	boy.ERG girl.OBL-POSS book.ABS give-PST	The boy gave the book to the girl.
+Bezhta	61	Constructed by native speaker linguist	Öždi kibbaqal t'ek niƛiyo.		öždi kibba-qa-l t'ek niƛ-iyo	boy.ERG girl.OBL-POSS-LAT book.ABS give-PST	The boy gave the book to the girl.
+Bezhta	62	Constructed by native speaker linguist	Öždi kibbal koo yeⁿxelca.		öždi kibba-l koo y-eⁿxe-l-ca	boy.ERG girl.OBL-LAT hand(IV).ABS IV-touch-CAUS-PRS	The boy touches the girl with his hand.
+Bezhta	63	Constructed by native speaker linguist	Öžö xöxƛ'ä ƛ'odo eⁿƛ'eyo.		öžö xöx-ƛ'ä ƛ'odo Ø-eⁿƛ'e-yo	boy(I).ABS tree.OBL-SUP upwards I-go-PST	The boy climbed the tree.
+Bezhta	64	Constructed by native speaker linguist	Kibba öždiƛ'a yurɣan moq'olca.		kibba öždi-ƛ'a yurɣan m-oq'o-l-ca	girl.ERG boy.OBL-SUP blanket(III).ABS III-come-CAUS-PRS	The girl covers the boy with the blanket.
+Bezhta	65	Constructed by native speaker linguist	Öžö ogic'iyo.		öžö Ø-ogic'-iyo	boy(I).ABS I-jump-PST	The boy jumped.
+Bezhta	66	Constructed by native speaker linguist	Öžö kibbaƛ'a laladayo.		öžö kibba-ƛ'a lala-da-yo	boy.ABS girl.OBL-SUP shout-ANTIP-PST	The boy shouted at the girl.
+Bezhta	67	Constructed by native speaker linguist	Öžö ogiyacca.		öžö Ø-ogi<ya>c-ca	boy(I).ABS I-jump<ANTIP>-PRS	The boy is busy jumping.
+Bezhta	68	Constructed by native speaker linguist	Öžö kibbal t'eklad niƛdas.		öžö kibba-l t'ek-la-d niƛ-da-s	boy.ABS girl.OBL-LAT book-PL-INSTR give-ANTIP-PRS	The boy gives books to the girl.
+Bezhta	69	Constructed by native speaker linguist	Öžö kusuʔdas.		öžö kusuʔ-da-s	boy.ABS shave-ANTIP-PRS	The boy shaves.
+Bezhta	70	Constructed by native speaker linguist	Kid öhdäyo.		kid öhdä-yo	girl.ABS cough.ANTIP-PST	The girl coughed many times.
+Bezhta	71	Constructed by native speaker linguist	Öždi kibbal diʔi yeⁿeyo.		öždi kibba-l diʔi y-eⁿe-yo	boy.ERG girl.OBL-LAT flower(IV).ABS IV-send-PST	The boy sent the girl the flower (for permanent possession).
+Bezhta	72	Constructed by native speaker linguist	Öždi kibbadoy t'ek yeⁿeyo.		öždi kibba-doy t'ek y-eⁿe-yo	boy.ERG girl.OBL-APUD book(IV).ABS IV-send-PST	The boy sent girl the book (for temporary possession).
+Bezhta	73	Constructed by native speaker linguist	Kid nänilaɬ k'isas.		kid nänilaɬ k'isa-s	girl.ABS doll.INTER play-PRS	The girl plays with the doll.
+Bezhta	74	Constructed by native speaker linguist	Kid łowas.		kid łowa-s	girl.ABS laugh-PRS	The girl laughs.
+Bezhta	75	Constructed by native speaker linguist	Öždi q'ac'icco iyol yežeš.		öždi q'ac'icco iyo-l y-eže-š	boy.ERG rucksack(IV).ABS mother-LAT IV-carry-PRS	The boy carried the rucksack for the mother.
+Bezhta	76	Constructed by native speaker linguist	Öždi q'ac'icco iyodoy yežeš.		öždi q'ac'icco iyo-doy y-eže-š	boy.ERG rucksack(IV).ABS mother-APUD IV-carry-PRS	The boy carries the rucksack to the mother.
+Bezhta	77	Constructed by native speaker linguist	Öždi kibbal t'ek yegalca.		öždi kibba-l t'ek y-ega-l-ca	boy.ERG girl.OBL-LAT book(IV).ABS IV-see-CAUS-PRS	The boy shows a book to the girl.
+Bezhta	78	Constructed by native speaker linguist	Öždi äƛaʔ ömrö boos.		öždi äƛ-a-ʔ ömrö b-oo-s	boy.ERG village-OBL-INESS life(III).ABS III-do-PRS	The boy lives in the village.
+Bezhta	79	Constructed by native speaker linguist	Mizo qoqona gey.		mizo qoqo-na gey	ground.ABS dry-CVB be.PRS	The ground is dry.
+Bezhta	80	Constructed by native speaker linguist	Öždi mäče bäxčä.		öždi mäče b-äx-čä	boy.ERG ground(III).ABS III-dig-PRS	The boy digs the ground.
+Bezhta	81	Constructed by native speaker linguist	Abo biłoqan gey.		abo biłoqan gey	father.ABS hunter.ABS be.PRS	The father is a hunter.
+Bezhta	82	Constructed by native speaker linguist	Öždil kibbaqas t'ek yiqoyo.		öždi-l kibba-qa-s t'ek y-iqo-yo	boy.OBL-LAT girl.OBL-POSS-ABL book(IV).ABS IV-get-PST	The boy got the book from the girl.
+Bezhta	83	Constructed by native speaker linguist	Kibba iyol žamɣo baq'oyo.		kibba iyo-l žamɣo b-aq'o-yo	girl.ERG mother-LAT sorrel(III).ABS III-bring-PST	The girl brought sorrel to the mother.
+Bezhta	84	Constructed by native speaker linguist	Kibba iyodoy žamɣo baq'oyo.		kibba iyo-doy žamɣo b-aq'o-yo	girl.ERG mother-APUD sorrel(III).ABS III-bring-PST	The girl brought sorrel to the mother.
+Bezhta	85	Constructed by native speaker linguist	Öždi kibbaqas t'ek yuⁿcoyo.		öždi kibba-qa-s t'ek y-uⁿco-yo	boy.ERG girl.OBL-POSS-ABL book(IV).ABS IV-steal-PST	The boy stole the book from the girl.
+Bezhta	86	Constructed by native speaker linguist	Öždi kibbal burti biƛ'eyo.		öždi kibba-l burti b-iƛ'e-yo	boy.ERG girl.OBL-LAT ball(III).ABS III-throw-PST	The boy threw the ball to the girl (so as to hit her).
+Bezhta	87	Constructed by native speaker linguist	Öždi kibbadoy burti biƛ'eyo.		öždi kibba-doy burti b-iƛ'e-yo	boy.ERG girl.OBL-APUD ball(III).ABS III-throw-PST	The boy threw the ball to the girl (into her direction).
+Bezhta	88	Constructed by native speaker linguist	Öždi kibbaqa burti biƛ'eyo.		öždi kibba-qa burti b-iƛ'e-yo	boy.ERG girl.OBL-POSS ball(III).ABS III-throw-PST	The boy threw the ball to the girl (so that she would catch it).
+Bezhta	89	Constructed by native speaker linguist	Öždi istoliyaƛ'a q'alam biƛ'eyo.		öždi istoli-ya-ƛ'a q'alam b-iƛ'e-yo	boy.ERG table-OBL-SUP pencil(III).ABS III-throw-PST	The boy threw the pencil on the table.
+Bezhta	90	Constructed by native speaker linguist	Öždi ƛ'alo zistuqilca.		öždi ƛ'alo zistuqil-ca	boy.ERG stone(IV).ABS push(IV)-PRS	The boy pushes the stone.
+Bezhta	91	Constructed by native speaker linguist	Öžö wedralaʔ łiid git'das.		öžö wedra-la-ʔ łii-d git'-da-s	boy(I).ABS bucket-OBL-INESS water-INSTR pour(I)-ANTIP-PRS	The boy is busy pouring the water into the bucket.
+Bezhta	92	Constructed by native speaker linguist	Öžö istoliyaƛ'a t'eklad goldas.		öžö istoli-ya-ƛ'a t'ek-la-d gol-da-s	boy(I).ABS table-OBL-SUP book-PL-INSTR put(I)-ANTIP-PRS	The boy is busy putting books on the table.
+Bezhta	93	Constructed by native speaker linguist	Öžö istoliyaƛ'a q'alamlid iƛ'elas.		öžö istoli-ya-ƛ'a q'alam-li-d Ø-iƛ'e-la-s	boy(I).ABS table-OBL-SUP pencil-OBL-INSTR I-throw-ANTIP-PRS	The boy is busy throwing pencils on the table.
+Bezhta	94	Constructed by native speaker linguist	Kid iyol žamɣolid yaq'olas.		kid iyo-l žamɣo-li-d y-aq'o-la-s	girl(II).ABS mother-LAT sorrel-OBL-INSTR II-bring-ANTIP-PRS	The girl is busy bringing sorrel to the mother.
+Bezhta	95	Constructed by native speaker linguist	Öžö q'ac'iccad iyodoy eželas.		öžö q'ac'icca-d iyo-doy Ø-eže-la-s	boy(I).ABS rucksack.OBL-INSTR mother-APUD I-carry-ANTIP-PRS	The boy is busy carrying the rucksack to the mother.
+Bezhta	96	Constructed by native speaker linguist	Öžö kibbaqas t'eklad uⁿcolas.		öžö kibba-qa-s t'ek-la-d Ø-uⁿco-la-s	boy(I).ABS girl.OBL-POSS-ABL book-PL-INSTR I-steal-ANTIP-PRS	The boy is busy stealing books from the girl.
+Bezhta	97	Constructed by native speaker linguist	Öždi istoliyaƛ'as čaq'i yaⁿcolca.		öždi istoli-ya-ƛ'a-s čaq'i y-aⁿco-l-ca	boy.ERG table-OBL-SUP-ABL ink(IV).ABS IV-clean-CAUS-PRS	The boy wipes the ink off the table.
+Bezhta	98	Constructed by native speaker linguist	Öžö istoliyaƛ'as čaq'ilad aⁿcoldas.		öžö istoli-ya-ƛ'a-s čaq'i-la-d Ø-aⁿco-l-da-s	boy(I).ABS table-OBL-SUP-ABL ink-OBL-INSTR I-clean-CAUS-ANTIP-PRS	The boy is busy wiping the ink off the table.
+Bezhta	99	Constructed by native speaker linguist	Öžö c'it'ad bäbäläd üč'das.		öžö c'it'ad bäbä-lä-d Ø-üⁿč'-da-s	boy(I).ABS knife.INSTR bread-OBL-INSTR I-cut-ANTIP-PRS	The boy is busy cutting the bread with the knife.
+Bezhta	100	Constructed by native speaker linguist	Öžö kibbal k'obalalid äƛ'eldas.		öžö kibba-l k'obala-li-d Ø-äƛ'el-da-s	boy(I).ABS girl.OBL-LAT stick-OBL-INSTR I-hit-ANTIP-PRS	The boy is busy hitting the girl with the stick.
+Bezhta	101	Constructed by native speaker linguist	Uštel q'owal xabarlaad eⁿhdas.		uštel q'owa-l xabar-laa-d Ø-eⁿh-da-s	teacher(I).ABS children-LAT story-PL.OBL-INSTR I-let.out-ANTIP-PRS	The teacher is busy telling a story to the kids.
+Bezhta	102	Constructed by native speaker linguist	Kid łic'olid nizalaas.		kid łic'o-li-d niza-laa-s	girl.ABS clothes-OBL-INSTR wash-ANTIP-PRS	The girl is busy washing the clothes.
+Bezhta	103	Constructed by native speaker linguist	Kid keč'lad iƛelas.		kid keč'-la-d iƛe-la-s	girl.ABS song-PL-INSTR sing-ANTIP-PRS	The girl is busy singing songs.
+Bezhta	104	Constructed by native speaker linguist	Hudo bek'eldas.		hudo b-ek'el-da-s	firewood(III).ABS III-burn.CAUS-ANTIP-PRS	The firewood is burning slowly.
+Bezhta	105	Constructed by native speaker linguist	Kid iyoqas t'eklad yokčildas.		kid iyo-qa-s t'ek-la-d y-okči-l-da-s	girl(II).ABS mother-POSS-ABL book-PL-INSTR II-take-CAUS-ANTIP-PST	The girl is busy taking books from her mother.
+Bezhta	106	Constructed by native speaker linguist	Öždi qibo haʔos haboƛ'a.		öždi qibo haʔo-s habo-ƛ'a	boy.ERG wheat.ABS grind-PRS mill-SUP	The boy grinds the wheat on the mill.
+Bezhta	107	Constructed by native speaker linguist	Kibba hinila gedis öždil xabar mehca.		kibba hini-la gedi-s öždi-l xabar m-eh-ca	girl.ERG REFL-GEN2 cat.OBL-GEN1 boy.OBL-LAT story(III).ABS III-let.out-PRS	The girl talks to the boy about her cat.
+Bezhta	108	Constructed by native speaker linguist	Kid yeⁿƛ'eš biƛoɣa.		kid y-eⁿƛ'e-š biƛo-ɣa	girl(II).ABS II-go-PRS house-APUD	The girl goes home.
+Bezhta	109	Constructed by native speaker linguist	Xo heleš.		xo hele-š	meat.ABS boil-PRS	The meat is cooking/boiling.
+Bezhta	110	Constructed by native speaker linguist	Kibba łi ɣayƛollo.		kibba łi ɣayƛo-l-lo	girl.ERG water.ABS boil-CAUS-PST	The girl boiled the water.
+Bezhta	111	Constructed by native speaker linguist	Kibba öžö xöxƛ'äš ekillo.		kibba öžö xöx-ƛ'ä-š Ø-ek-ill-o	girl.ERG boy(I).ABS tree.OBL-SUP-ABL I-fall-CAUS-PST	The girl made the boy fall from the tree.
+Bezhta	112	Constructed by native speaker linguist	Öždi örrä k'äyƛölca.		öždi örrä k'äyƛö-l-ca	boy.ERG wheel.ABS roll-CAUS-PRS	The boy rolls the wheel.
+Bezhta	113	Constructed by native speaker linguist	Öždi iyo kibbaƛ'as urɣeziyooyo.		öždi iyo kibba-ƛ'a-s urɣezi<y>oo-yo	boy.ERG mother(II).ABS girl.OBL-SUP-ABL think.about<II>-PST	The boy made mother think about the girl.
+Bezhta	114	Constructed by native speaker linguist	Öždi iyoqa kid gič'eqilca.		öždi iyo-qa kid gič'eq-il-ca	boy.ERG mother-POSS girl(II).ABS look(II)-CAUS-PRS	The boy makes the girl look at the mother.
+Bezhta	115	Constructed by native speaker linguist	Kibba öžö iyagolca.		kibba öžö Ø-iya-gol-ca	girl.ERG boy(I).ABS I-cry-MAKE(I)-PRS	The girl makes the boy cry.
+Bezhta	116	Constructed by native speaker linguist	Öždi iyos q'äm k'ok'olca.		öždi iyo-s q'äm k'ok'o-l-ca	boy.ERG mother-GEN1 head.ABS be.ill-CAUS-PRS	The boy troubles the mother.
+Bezhta	117	Constructed by native speaker linguist	Öždi häydä pacpaƛolca.		öždi häy-dä pacpaƛo-l-ca	boy.ERG eye-PL blink-CAUS-PRS	The boy blinks his eyes.
+Bezhta	118	Constructed by native speaker linguist	Öždi kibbal ʔarab mic małciboos.		öždi kibba-l ʔarab mic małci<b>oo-s	boy.ERG girl.OBL-LAT Arabic language(III).ABS teach<III>-PRS	The boy teaches the Arabic language to the girl.
+Bezhta	119	Constructed by native speaker linguist	Öždi yiƛa č'anaɣoš.		öždi yiƛa č'anaɣo-š	boy.ERG fast run-PRS	The boy runs fast.
+Bezhta	120	Constructed by native speaker linguist	Öždiqa xäbäläd c'ika bišello.		öždi-qa xäbä-lä-d c'ika b-iše-l-lo	boy.OBL-POSS foot-OBL-INSTR glass(III).ABS III-break-CAUS-PST	Accidentally the boy broke the glass with his foot.
+Bezhta	121	Constructed by native speaker linguist	Öždi c'it'ad hinis zoƛ'o büč'iyo.		öždi-qa c'it'a-d hini-s zoƛ'o b-üč'-iyo	boy.OBL-POSS knife.OBL-INSTR REFL-GEN1 finger(III).ABS III-cut-PST	Accidentally the boy cut his finger with the knife.
+Bezhta	122	Constructed by native speaker linguist	Kibba hudo bek'elca.		kibba hudo b-ek'e-l-ca	girl.ERG firewood(III).ABS III-burn-CAUS-PRS	The girl burns the firewood.
+Bezhta	123	Constructed by native speaker linguist	Kibba iyoqa gedo begaallo.		kibba iyo-qa gedo b-egaa-l-lo	girl.ERG mother-POSS cat(III).ABS III-see-CAUS-PST	The girl showed the cat to the mother.
+Bezhta	124	Constructed by native speaker linguist	Öždi dars yiq'elca.		öždi dars y-iq'e-l-ca	boy.ERG lesson(IV) IV-know-CAUS-PRS	The boy learns a lesson.
+Bezhta	125	Constructed by native speaker linguist	Kibba hinɣoy öžö k'isagolca.		kibba hin-ɣoy öžö k'isa-gol-ca	girl.ERG REFL-COMIT boy(I).ABS play-MAKE(I)-PRS	The girl makes the boy play with her.
+Bezhta	126	Constructed by native speaker linguist	Öždi kid biƛoɣa yoⁿq'ollo.		öždi kid biƛo-ɣa y-oⁿq'o-l-lo	boy.ERG girl(II).ABS house-APUD II-come-CAUS-PST	The boy accompanied girl to the house.
+Bezhta	127	Constructed by native speaker linguist	Kibba öždää iyoɣoy kezibooyo.		kibba öždää iyo-ɣoy kezi<b>oo-yo	girl.ERG boy.PL mother-COMIT meet.CAUS<HPL>-PST	The girl introduced the boys to the mother.
+Bezhta	128	Constructed by native speaker linguist	Kibba iyod simindiyala hät't'äš bäbä boylis.		kibba iyo-d simindi-ya-la hät't'ä-š bäbä b-oy-l-is	girl.ERG mother-INSTR maize-OBL-GEN2 flour.OBL-GEN1 bread(III).ABS III-do-CAUS-PRS	The girl made the mother make the bread out of maize flour.
+Bezhta	129	Constructed by native speaker linguist	Öždi ist'id mizala aguriyas biƛo yoyliyo.		öždi ist'i-d miza-la aguri-ya-s biƛo y-oy-l-iyo	boy.ERG brother.OBL-INSTR ground.OBL-GEN2 brick-OBL-GEN1 house(IV).ABS IV-do-CAUS-PST	The boy made the brother make the house out of ground bricks.
+Bezhta	130	Constructed by native speaker linguist	Öždi kibbad iyol diʔi yeⁿeyliyo.		öždi kibba-d iyo-l diʔi y-eⁿe-yl-iyo	boy.ERG girl.OBL-INSTR mother-LAT flower(IV).ABS IV-send-CAUS-PST	The boy made the girl send a flower to the mother.
+Bezhta	131	Constructed by native speaker linguist	Öždi kibbad q'ac'icco iyol yežeylis.		öždi kibba-d q'ac'icco iyo-l y-eže-yl-is	boy.ERG girl.OBL-INSTR rucksack(IV).ABS mother-LAT IV-carry-CAUS-PRS	The boy made the girl carry the rucksack for the mother.
+Bezhta	132	Constructed by native speaker linguist	Öždi kid q'ey yečello.		öždi kid q'ey y-eče-l-lo	boy.ERG girl(II).ABS on.the.ground II-stay-CAUS-PST	The boy made the girl sit down.
+Bezhta	133	Constructed by native speaker linguist	Kid öždiƛ'a yurɣanlid yoq'oldas.		kid öždi-ƛ'a yurɣan-li-d y-oq'o-l-da-s	girl(II).ABS boy.OBL-SUP blanket-OBL-INSTR II-come-CAUS-ANTIP-PRS	The girl is busy covering the boy with the blanket.
+Bezhta	134	Constructed by native speaker linguist	Öždi kid łowagilca.		öždi kid łowa-gil-ca	boy.ERG girl(II).ABS laugh-MAKE(II)-PRS	The boy made the girl laugh.
+Bezhta	135	Constructed by native speaker linguist	Öždiqa box qoqoyo.		öždi-qa box qoqo-yo	boy.OBL-POSS grass.ABS dry-PST	The boy could dry the grass. / The boy accidentally dried the grass.
+Bezhta	136	Constructed by native speaker linguist	Öždi box qoqollo.		öždi box qoqo-l-lo	boy.ERG grass.ABS dry-CAUS-PST	The boy dried the grass.
+Bezhta	137	Constructed by native speaker linguist	Öžö micał äkid äxdäš.		öžö mica-ł äⁿki-d Ø-äx-dä-š	boy(I).ABS ground.OBL-INTER shovel.OBL-INSTR I-dig-ANTIP-PRS	The boy digs (in) the ground with the shovel.
+Bezhta	138	Constructed by native speaker linguist	Kibba öždid mäče bäxillis.		kibba öždi-d mäče b-äx-ill-is	girl.ERG boy.OBL-INSTR ground(III).ABS III-dig-CAUS2-PRS	The girl makes the boy dig the ground.
+Bezhta	139	Constructed by native speaker linguist	Öždi ist'id kibbaqas t'ek yiqollo.		öždi ist'i-d kibba-qa-s t'ek y-iqo-l-lo	boy.ERG brother.OBL-INSTR girl.OBL-POSS-ABL book(IV).ABS IV-get-CAUS-PST	The boy made the brother get the book from the girl.
+Bezhta	140	Constructed by native speaker linguist	Öžö bäbäläd üⁿqdäš.		öžö bäbä-lä-d Ø-üⁿq-dä-š	boy(I).ABS bread-OBL-INSTR I-eat-ANTIP-PRS	The boy is busy eating the bread.
+Bezhta	141	Constructed by native speaker linguist	Öždiqa xöxƛ'äš eⁿš bekiyo.		öždi-qa xöx-ƛ'ä-š eⁿš b-ek-iyo	boy.OBL-POSS tree.OBL-SUP-ABL apple(III) III-fall-PST	The boy could make the apple fall from the tree. / The boy accidentally made the apple fall from the tree.
+Bezhta	142	Constructed by native speaker linguist	Öždiqa wo buɣoyo.		öždi-qa wo b-uɣo-yo	boy.OBL-POSS dog(III).ABS III-die-PST	The boy could kill the dog. / The boy accidentally killed the dog.
+Bezhta	143	Constructed by native speaker linguist	Öžö sabaliyad xöxił iⁿcolas.		öžö sabali-ya-d xöx-i-ł Ø-iⁿco-la-s	boy(I).ABS rope-OBL-INSTR tree-OBL-INTER I-tie-ANTIP-PRS	The boy ties the rope to the tree.
+Bezhta	144	Constructed by native speaker linguist	Öždiqa kid yäč’ɬiyo.		öždi-qa kid y-äč’-ɬ-iyo	boy.OBL-POSS girl(II).ABS II-cold-INCH-PST	The boy accidentally made the girl get cold. / The boy could make the girl get cold.
+Bezhta	145	Constructed by native speaker linguist	Kibbaqa biƛo yek'eyo.		kibba-qa biƛo y-ek'e-yo	girl.OBL-POSS house(IV).ABS IV-burn-PST	The girl accidentally burnt the house. / The girl could burn the house.
+Bezhta	146	Constructed by native speaker linguist	Öždiqa häydä pacpaƛoyo.		öždi-qa häy-dä pacpaƛo-yo	boy.OBL-POSS eye-PL blink-PST	The boy could blink his eyes. / The boy accidentally blinked his eyes.
+Bezhta	147	Constructed by native speaker linguist	Öždiqa kid biƛoɣa yoⁿq'oyo.		öždi-qa kid biƛo-ɣa y-oⁿq'o-yo	boy.OBL-POSS girl(II).ABS house-APUD II-come-PST	The boy could bring the girl home. / The boy accidentally brought the girl home.
+Bezhta	148	Constructed by native speaker linguist	Öždi kibbal k'imalis mäh biq'ello.		öždi kibba-l k'ima-li-s mäh b-iq'e-l-lo	boy.ERG girl.OBL-LAT cheese-OBL-GEN1 smell(III).ABS III-know-CAUS-PST	The boy made the girl smell the cheese.
+Bezhta	149	Constructed by linguist	Abo öždid bab kusuʔliyo.		abo öždi-d bab kusuʔ-l-iyo	father.ERG boy.OBL-INSTR beard.ABS shave-CAUS-PST	The father made the boy shave his beard.
+Bezhta	150	Constructed by native speaker linguist	Kibbaqa łi ɣayƛoyo.		kibba-qa łi ɣayƛo-yo	girl.OBL-POSS water.ABS boil-PST	The girl could boil the water. / The girl accidentally boiled the water.
+Bezhta	151	Constructed by native speaker linguist	Öždi kibbal xabar tuqilca.		öždi kibba-l xabar tuq-il-ca	boy.ERG girl.OBL-LAT story.ABS hear-CAUS-PRS	The boy makes the girl listen to the story.
+Bezhta	152	Constructed by native speaker linguist	Öždi kid bäbäläd yüⁿqdagilca.		öždi kid bäbä-lä-d y-üⁿq-da-gil-ca	boy.ERG girl(II).ABS bread-OBL-INSTR II-eat-PL-MAKE(II)-PRS	The boy makes the girl eat the bread.
+Bezhta	153	Constructed by native speaker linguist	Öždi kid yat'ilca.		öždi kid y-at'-il-ca	boy.ERG girl(II).ABS II-like-CAUS-PRS	The boy likes the girl. (lit. The boy is cuddling the girl.).
+Bezhta	154	Constructed by native speaker linguist	Öždi kibbad łic'o nizayliyo.		öždi kibba-d łic'o niza-yl-iyo	boy.ERG girl.OBL-INSTR clothes.ABS wash-CAUS-PST	The boy made the girl wash the clothes.
+Bezhta	155	Constructed by native speaker linguist	Öždi kibbad keč' iƛellis.		öždi kibba-d keč' iƛe-ll-is	boy.ERG girl.OBL-INSTR song.ABS sing-CAUS-PRS	The boy makes the girl sing the song.
+Bezhta	156	Other	Untila k'ok'ollo maɣo.		untila k'ok'o-l-lo maɣo	disease.ERG be.sick-CAUS-PST body	The disease made the body sick.
+Bezhta	157	Constructed by native speaker linguist	Kibba iyol öždid komak boyliyo.		kibba iyo-l öždi-d komak b-oo-yl-iyo	girl.ERG mother-LAT boy.OBL-INSTR help(III).ABS III-do-CAUS-PST	The girl made the boy help the mother.
+Bezhta	158	Constructed by native speaker linguist	Kibba öždid gedoƛo nisoyliyo.		kibba öždi-d gedo-ƛo niso-yl-iyo	girl.ERG boy.OBL-INSTR cat-QUOT say-CAUS-PST	The girl made the boy say 'cat'.
+Bezhta	159	Constructed by native speaker linguist	Uštelli q'owad hinil xabar meeyliyo.		uštel-li q'owa-d hini-l xabar m-ee-yl-iyo	teacher-ERG children-INSTR REFL-LAT story(III).ABS III-let.out-CAUS-PST	The teacher made the children tell him a story.
+Bezhta	160	Constructed by native speaker linguist	Öždi ist'id kibbal ʔarab mic małcibooyliyo.		öždi ist'i-d kibba-l ʔarab mic małci<b>oo-yl-iyo	boy.ERG brother.OBL-INSTR girl.OBL-LAT Arabic language(III).ABS teach<III>-CAUS-PRS	The boy made the brother teach the girl the Arabic language.
+Bezhta	161	Constructed by native speaker linguist	Öždi wo buɣollo.		öždi wo b-uɣo-l-lo	boy.ERG dog(III).ABS III-die-CAUS-PST	The boy killed the dog.
+Bezhta	162	Constructed by native speaker linguist	Öždi ist'id bekela k'obalalid biƛ'elliyo.		öždi ist'i-d bekela k'obala-li-d b-iƛ'e-ll-iyo	boy.ERG brother.OBL-INSTR snake(III).ABS stick-OBL-INSTR III-kill-CAUS-PST	The boy made the brother kill the snake with the stick.
+Bezhta	163	Constructed by native speaker linguist	Iyo kid q'ey yečello.		iyo kid q'ey y-eče-l-lo	mother.ERG girl(II).ABS down II-sit-CAUS-PST	The mother made the girl sit down.
+Bezhta	164	Constructed by native speaker linguist	Öždi kibbad waya sabaliyad xöxił micolliyo.		öždi kibba-d waya sabali-ya-d xöx-i-ł m-ico-ll-iyo	boy.ERG girl.OBL-INSTR cow(III).ABS rope-OBL-INSTR tree-OBL-INTER III-tie-CAUS-PST	The boy made the girl tie the cow to the tree with the rope.
+Bezhta	165	Constructed by native speaker linguist	Kibba öždid wedralaʔ łi git'illiyo.		kibba öždi-d wedra-la-ʔ łi git'-ill-iyo	girl.ERG boy.OBL-INSTR bucket-OBL-INESS water(IV).ABS pour(IV)-CAUS-PST	The girl made the boy pour water into the bucket.
+Bezhta	166	Constructed by native speaker linguist	Öždi istoliyaƛ'a kibbad t'ek gulliyo.		öždi istoli-ya-ƛ'a kibba-d t'ek gul-ill-iyo	boy.ERG table-OBL-SUP girl.OBL-INSTR book(IV).ABS put(IV)-CAUS-PST	The boy made the girl put the book on the table.
+Bezhta	167	Constructed by native speaker linguist	Öždi xabar urɣezibooyo.		öždi xabar urɣezi<b>oo-yo	boy.ERG story(III).ABS think.about<III>-PST	The boy made up the story.
+Bezhta	168	Constructed by native speaker linguist	Öždi is kibba-qa goc'oq-ill-iyo.		öždi is kibba-qa goc'oq-ill-iyo	boy.ERG brother(I).ABS girl.OBL-POSS look(I)-CAUS-PST	The boy made the brother look at the girl.
+Bezhta	169	Constructed by native speaker linguist	Mähmädi ist'id öždiƛ'a Murad caaⁿ gulilliyo.		Mähmäd-i ist'i-d öždi-ƛ'a Murad caaⁿ gul-ill-iyo	Magomed-ERG brother.OBL-INSTR boy.OBL-SUP Murad name(IV).ABS put(IV)-CAUS-PST	Magomed made his brother name his son Murad.
+Bezhta	170	Constructed by native speaker linguist	Kibba öžö nukogolca.		kibba öžö nuko-gol-ca	girl.ERG boy(I).ABS be.hungry-MAKE(I)-PRS	The girl makes the boy hungry.
+Bezhta	171	Constructed by native speaker linguist	Öžö kibbal diʔiläd eⁿhdas.		öžö kibba-l diʔi-lä-d Ø-eⁿh-da-s	boy(I).ABS girl.OBL-LAT flower-OBL-INSTR I-send-ANTIP-PRS	The boy is busy sending flowers to the girl.
+Bezhta	172	Constructed by native speaker linguist	Öžö qibad haʔolas haboƛ'a.		öžö qiba-d haʔo-la-s habo-ƛ'a	boy(I).ABS wheat.OBL-INSTR grind-ANTIP-PRS mill-SUP	The boy grinds the wheat on the mill.
+Bezhta	173	Constructed by native speaker linguist	Öždiqa qibo haʔoyo.		öždi-qa qibo haʔo-yo	boy.OBL-POSS wheat.ABS grind-PST	The boy could grind the wheat. / The boy accidentally ground the wheat.
+Bezhta	174	Constructed by native speaker linguist	Öžö hudad mašinalƛ'a oⁿsolas.		öžö huda-d mašina-l-ƛ'a Ø-oⁿso-la-s	boy(I).ABS firewood.OBL-INSTR car-OBL-SUP I-collapse-ANTIP-PST	The boy is busy loading the firewood on the car.
+Bezhta	175	Constructed by native speaker linguist	Öždi ist'id hudo mašinalƛ'a mosolliyo.		öždi ist'i-d hudo mašina-l-ƛ'a m-oso-ll-iyo	boy.ERG brother.OBL-INSTR firewood(III).ABS car-OBL-SUP III-collapse-CAUS-PST	The boy made the brother load the car with the firewood.
+Bezhta	176		Kibba öždid t'ek xalboyliyo.		kibba öždi-d t'ek xalbo-yl-iyo	girl.ERG boy.OBL-INSTR book.ABS search-CAUS-PST	The girl made the boy search for the book.
+Bezhta	177	Constructed by native speaker linguist	Kid iyod isiƛ'a kuntalad łič'eldas.		kid iyo-d isi-ƛ'a kunta-la-d łič'e-l-da-s	girl.ABS mother-INSTR sister-SUP dress-OBL-INSTR put.on-CAUS-ANTIP-PRS	The girl is dressing the sister with the mother.
+Bezhta	178	Constructed by native speaker linguist	Kibba öždid iyoqas t'ek yokčilliyo.		kibba öždi-d iyo-qa-s t'ek y-okči-ll-iyo	girl.ERG boy.OBL-INSTR mother-POSS-ABL book(IV).ABS IV-take-CAUS-PST	The girl made the boy take the book from the mother.
+Bezhta	179	Constructed by native speaker linguist	Mähmäd öždiƛ'a caaⁿd goldas.		Mähmäd öždi-ƛ'a caaⁿd gol-da-s	Magomed.ABS boy.OBL-SUP name.INSTR put(I)-ANTIP-PRS	Magomed gives names to boys.
+Bezhta	180	Constructed by native speaker linguist	Öžö kuntalałla kisad äxeldas.		öžö kuntalałla kisad Ø-äxe-l-da-s	boy(I).ABS dress.OBL.INTER.GEN2 pocket.INSTR I-tear-CAUS-ANTIP-PRS	The boy is busy tearing the dress pocket.
+Bezhta	181	Constructed by native speaker linguist	Kibbaqa xo heleyo.		kibba-qa xo hele-yo	girl.OBL-POSS meat.ABS cook-PST	The girl could cook the meat. / The girl accidentally cooked the meat.
+Bezhta	182	Constructed by native speaker linguist	Kibba öždid k'atu helelliyo.		kibba öždi-d k'atu hele-ll-iyo	girl.ERG boy.OBL-INSTR potato.ABS cook-CAUS-PST	The girl made the boy boil potatoes.
+Bezhta	183	Constructed by native speaker linguist	Öždiqa örrä k'äyƛöyo.		öždi-qa örrä k'äyƛö-yo	boy.OBL-POSS wheel.ABS roll-PST	The boy could roll the wheel. / The boy accidentally rolled the wheel.
+Bezhta	184	Constructed by native speaker linguist	Öžö kibbal aⁿłod oc'ildas.		öžö kibba-l aⁿłod Ø-oc'-il-da-s	boy(I).ABS girl.OBL-LAT embrace.INSTR I-fill-CAUS-ANTIP-PRS	The boy is busy hugging the girl.
+Bezhta	185		Kibba öždid k'imalis mäh biq'ello.		kibba öždi-d k'ima-li-s mäh b-iq'e-l-lo	girl.ERG boy.OBL-INSTR cheese-OBL-GEN1 smell(III) III-know-CAUS-PST	The girl made the boy smell the cheese.
+Bezhta	186	Constructed by native speaker linguist	Öžö kibbal kood eⁿxeldas.		öžö kibba-l koo-d Ø-eⁿxe-l-da-s	boy(I).ABS girl.OBL-LAT hand-INSTR I-touch-CAUS-ANTIP-PRS	The boy is busy touching the girl with the hand.
+Bezhta	187	Constructed by native speaker linguist	Öždi kid biƛoɣa yeⁿyliyo.		öždi kid biƛo-ɣa y-eⁿ-yl-iyo	boy.ERG girl(II).ABS house-APUD II-let.out-CAUS-PST	The boy let the girl go home.
+Bezhta	188	Constructed by native speaker linguist	Öždi kibbad bäbä c'it'ad büč'illiyo.		öždi kibba-d bäbä c'it'-a-d b-üč'-ill-iyo	boy.ERG girl.OBL-INSTR bread(III).ABS knife-OBL-INSTR III-cut-CAUS-PST	The boy made the girl cut the bread with the knife.
+Bezhta	189	Constructed by native speaker linguist	Öždi wo kibbaɣoy müɣäƛ meeyo.		öždi wo kibba-ɣoy müɣäƛ m-ee-yo	boy.ERG dog(III).ABS girl.OBL-COMIT behind III-send-PST	The boy let the dog follow the girl.
+Bezhta	190	Constructed by native speaker linguist	Öždi ist'id kibbaqas t'ek yuⁿcolliyo.		öždi ist'i-d kibba-qa-s t'ek y-uⁿco-ll-iyo	boy.ERG brother.OBL-INSTR girl.OBL-POSS-ABL book(IV).ABS IV-steal-CAUS-PST	The boy made the brother steal the book from the girl.
+Bezhta	191	Constructed by native speaker linguist	Kibba iyod kunta isiƛ'a łič'elliyo.		kibba iyod kunta isi-ƛ'a łič'e-ll-iyo	girl.ERG mother.INSTR dress.ABS sister-SUP put.on-CAUS-PST	The girl dressed the sister with the mother's help.
+Bezhta	192	Constructed by native speaker linguist	Öždi ist'id kibbaƛ'a lalaƛolliyo.		öždi ist'i-d kibba-ƛ'a lalaƛo-ll-iyo	boy.ERG brother.OBL-INSTR girl.OBL-SUP shout-CAUS-PST	The boy made the brother shout at the girl.
+Bezhta	193	Constructed by native speaker linguist	Öždi kid urɣelliƛ'a yekilliyo.		öždi kid urɣel-li-ƛ'a y-ek-ill-iyo	boy.ERG girl(II).ABS thought-OBL-SUP II-fall-CAUS-PST	The boy made the girl sad.
+Bezhta	194	Constructed by native speaker linguist	Öždi kid yäč'k'iyo.		öždi kid y-äč'-k'-iyo	boy.ERG girl(II).ABS II-cold-TR-PST	The boy made the girl feel cold.
+Bezhta	195	Constructed by native speaker linguist	Kid k'atula öhdägilca.		kid k'atu-la öhdä-gil-ca	girl(II).ABS potato-ERG cough.ANTIP-MAKE(II)-PRS	The potato makes the girl cough.
+Bezhta	196	Constructed by native speaker linguist	Kibba ist'id łiis wedra boc'illiyo.		kibba ist'i-d łii-s wedra b-oc'-ill-iyo	girl.ERG brother.OBL-INSTR water-GEN1 bucket(III).ABS III-fill-CAUS2-PRS	The girl made the brother fill the bucket with the water.
+Bezhta	197	Constructed by native speaker linguist	Allahli wodo guyliyo.		Allah-li wodo guy-l-iyo	God-ERG rain(IV) come(IV)-CAUS-PST	The God made the rain go.
+Bezhta	198	Constructed by native speaker linguist	Ist'i isid iyoqa okko harziyoyliyo.		ist'i isi-d iyo-qa okko harzi<y>oo-yl-iyo	brother.ERG sister-INSTR mother-POSS money(IV).ABS ask<IV>-CAUS-PST	The brother made the sister ask money from the mother.
+Bezhta	199		Öždi kibbad gedil k'obala bäƛ'elliyo.		öždi kibba-d gedil k'obala b-äƛ'el-l-iyo	boy.ERG girl.OBL-INSTR cat.LAT stick(III).ABS III-hit-CAUS-PST	The boy made the girl hit the cat with the stick.
+Bezhta	200	Constructed by native speaker linguist	Öždi ist'id kibbal t'ek niƛilliyo.		öždi ist'i-d kibba-l t'ek niƛ-ill-iyo	boy.ERG brother.OBL-INSTR girl.OBL-LAT book.ABS give-CAUS-PST	The boy made the brother give the book to the girl.
+Bezhta	201	Constructed by native speaker linguist	Öždiqa bäbä müqiyłiyo.		öždi-qa bäbä m-üq-iył-iyo	boy.OBL-POSS bread(III).ABS III-eat-POT-PST	The boy could eat the bread.
+Bezhta	202	Constructed by native speaker linguist	Kibba iyod öždiƛ'a yurɣan moq'olliyo.		kibba iyo-d öždi-ƛ'a yurɣan m-oq'o-ll-iyo	girl.ERG mother-INSTR boy.OBL-SUP blanket(III).ABS III-come-CAUS2-PST	The girl made the mother cover the boy with the blanket.
+Bezhta	203	Constructed by native speaker linguist	Kibbaqa łic'o nizayłiyo.		kibba-qa łic'o niza-ył-iyo	girl.OBL-POSS clothes.ABS wash-POT-PST	The girl could wash the clothes.
+Bezhta	204	Constructed by native speaker linguist	Öždi kid yogic'illo.		öždi kid y-ogic'-ill-o	boy.ERG girl(II).ABS II-jump-CAUS-PST	The boy made the girl jump.
+Bezhta	205	Constructed by native speaker linguist	Kibbaqa iyol keč' iƛeyłiyo.		kibba-qa iyo-l keč' iƛe-ył-iyo	girl.OBL-POSS mother-LAT song.ABS sing-POT-PST	The girl could sing a song to her mother.
+Bezhta	206	Constructed by native speaker linguist	Öždi ist'id kibbal t'ek yegalliyo.		öždi ist'i-d kibba-l t'ek y-ega-ll-iyo	boy.ERG brother.OBL-INSTR girl.OBL-LAT book(IV).ABS IV-see-CAUS2-PRS	The boy made the brother show the book to the girl.
+Bezhta	207	Constructed by native speaker linguist	Öždiqa hudo mašinalƛ'a mosoyłiyo.		öždi-qa hudo mašina-l-ƛ'a m-oso-ył-iyo	boy.OBL-POSS firewood(III).ABS car-OBL-SUP III-load-POT-PST	The boy could load the car with the firewood.
+Bezhta	208	Constructed by native speaker linguist	Kibba ist'id iyol žamɣo baq'olliyo.		kibba ist'i-d iyo-l žamɣo b-aq'o-ll-iyo	girl.ERG brother.OBL-INSTR mother-LAT sorrel(III).ABS III-bring-CAUS-PST	The girl made the brother bring the sorrel to the mother.
+Bezhta	209	Constructed by native speaker linguist	Öždiqa waya sabaliyad xöxił micoyłiyo.		öždi-qa waya sabali-ya-d xöx-i-ł m-ico-ył-iyo	boy.OBL-POSS cow(III).ABS rope-OBL-INSTR tree-OBL-INTER III-tie-POT-PST	The boy could tie the cow to the tree.
+Bezhta	210	Constructed by native speaker linguist	Öždi ist'id kibbal burti biƛ'elliyo.		öždi ist'i-d kibba-l burti b-iƛ'e-ll-iyo	boy.ERG brother.OBL-INSTR girl.OBL-LAT ball(III).ABS III-throw-CAUS-PST	The boy made the brother throw the ball to the girl.
+Bezhta	211	Constructed by native speaker linguist	Kibbaqa wedralaʔ łi git'iyłiyo.		kibba-qa wedra-la-ʔ łi git'-iył-iyo	girl.OBL-POSS bucket-OBL-INESS water(IV).ABS pour(II/IV)-POT-PST	The girl could pour water into the bucket.
+Bezhta	212	Constructed by native speaker linguist	Kibba öždid ƛ'alo zistuqilliyo.		kibba öždi-d ƛ'alo zistuqil-l-iyo	girl.ERG boy.OBL-INSTR stone.ABS push-CAUS-PST	The girl made the boy push the stone.
+Bezhta	213	Constructed by native speaker linguist	Öždiqa kibbal burti biƛ'eyłiyo.		öždi-qa kibba-l burti b-iƛ'e-ył-iyo	boy.OBL-POSS girl.OBL-LAT ball(III).ABS III-throw-POT-PST	The boy could throw the ball to the girl.
+Bezhta	214	Constructed by native speaker linguist	Kibba öždid gedis xabar meyliyo.		kibba öždi-d gedi-s xabar m-e-yl-iyo	girl.ERG boy.OBL-INSTR cat.OBL-GEN1 story(III).ABS III-let.out-CAUS-PST	The girl made the boy tell the story about the cat.
+Bezhta	215	Constructed by native speaker linguist	Kibbaqa iyol žamɣo baq'oyłiyo.		kibba-qa iyo-l žamɣo b-aq'o-ył-iyo	girl.OBL-POSS mother-LAT sorrel(III).ABS III-bring-POT-PST	The girl could bring sorrel to the mother.
+Bezhta	216	Constructed by native speaker linguist	Öždi ist'id isilco t'ek yuⁿcoyliyo.		öždi ist'i-d isi-l-co t'ek y-uⁿco-yl-iyo	boy.ERG brother.OBL-INSTR sister-OBL-ABL book(IV).ABS IV-hide-CAUS-PST	The boy made the brother hide the book from his sister.
+Bezhta	217	Constructed by native speaker linguist	Öždiqa q'ac'icco iyol yežeyłiyo.		öždi-qa q'ac'icco iyo-l y-eže-ył-iyo	boy.OBL-POSS rucksack(IV).ABS mother-LAT IV-carry-POT-PST	The boy could carry the rucksack to his mother.
+Bezhta	218	Constructed by native speaker linguist	Abo öžö äƛaʔaš eⁿeyo.		abo öžö äƛ-a-ʔ-aš Ø-eⁿe-yo	father.ERG boy(I).ABS village-OBL-INESS-ABL I-let.out-PST	The father made the son leave the village.
+Bezhta	219	Constructed by native speaker linguist	Öždiqa kibbal diʔi yeⁿyłiyo.		öždi-qa kibba-l diʔi y-eⁿe-ył-iyo	boy.OBL-POSS girl.OBL-LAT flower(IV).ABS IV-send-POT-PST	The boy could send flowers to the girl.
+Bezhta	220	Constructed by native speaker linguist	Öždi ist'id kibbal aⁿło yoc'illiyo.		öždi ist'i-d kibba-l aⁿło y-oc'-ill-iyo	boy.ERG brother.OBL-INSTR girl.OBL-LAT embrace(IV).ABS IV-fill-CAUS- PST	The boy made the brother hug the girl.
+Bezhta	221	Constructed by native speaker linguist	Öždiqa kibbal t'ek niƛiyłiyo.		öždi-qa kibba-l t'ek niƛ-iył-iyo	boy.OBL-POSS girl.OBL-LAT book.ABS give-POT-PST	The boy could give book to the girl.
+Bezhta	222	Constructed by native speaker linguist	Öždi gama ɣanq'izibooyo.		öždi gama ɣanq'izi<b>oo-yo	boy.ERG boat(III).ABS make.sink<III>-PST	The boy made the boat sink.
+Bezhta	223	Constructed by native speaker linguist	Öždiqa kibbaqas t'ek yuⁿcoyłiyo.		öždi-qa kibba-qa-s t'ek y-uⁿco-ył-iyo	boy.OBL-POSS girl.OBL-POSS-ABL book(IV).ABS IV-steal-POT-PST	The boy could steal the book from the girl.
+Bezhta	224	Constructed by native speaker linguist	Öždi ist'id äƛaʔ ömrö booyliyo.		öždi ist'i-d äƛ-a-ʔ ömrö b-oo-yl-iyo	boy.ERG brother.OBL-INSTR village-OBL-INESS life(III).ABS III-do-CAUS-PRS	The boy made the brother live in the village.
+Bezhta	225	Constructed by native speaker linguist	Öždiqa isilco t'ek yuⁿcoyłiyo.		öždi-qa isi-l-co t'ek y-uⁿco-ył-iyo	boy.OBL-POSS sister-OBL-ABL book(IV).ABS IV-hide-POT-PST	The boy could hide the book from his sister.
+Bezhta	226	Constructed by native speaker linguist	Kibba woyid öžö hič'egolilliyo.		kibba woyid öžö hič'e-gol-ill-iyo	girl.ERG dog.INSTR boy(I).ABS be.afraid-MAKE(I)-CAUS-PST	The girl scared the boy with the dog.
+Bezhta	227	Constructed by native speaker linguist	Öždiqa c'it'ad bäbä büč'iyłiyo.		öždi-qa c'it'-a-d bäbä b-üč'-iył-iyo	boy.OBL-POSS knife-OBL-INSTR bread(III).ABS III-cut-POT-PST	The boy could cut the bread with the knife.
+Bezhta	228	Constructed by native speaker linguist	Öždi ist'id qibo haʔoyliyo haboƛ'a.		öždi ist'i-d qibo haʔoy-l-iyo habo-ƛ'a	boy.ERG brother.OBL-INSTR wheat.ABS grind-CAUS-PST mill-SUP	The boy made the brother grind the wheat on the mill.
+Bezhta	229	Constructed by native speaker linguist	Öždiqa kibbal k'obala bäƛ'eyłiyo.		öždi-qa kibba-l k'obala b-äƛ'e-ył-iyo	boy.OBL-POSS girl.OBL-LAT stick(III).ABS III-hit-POT-PST	The boy could hit the girl with the stick.
+Bezhta	230	Constructed by native speaker linguist	Öždiqa bekela k'obalalid biƛ'eyłiyo.		öždi-qa bekela k'obala-li-d b-iƛ'e-ył-iyo	boy.OBL-POSS snake(III).ABS stick-OBL-INSTR III-kill-POT-PST	The boy could kill the snake with the stick.
+Bezhta	231	Constructed by native speaker linguist	Kibbaqa aboqa dilna niƛaƛo nisoyłiyo.		kibba-qa abo-qa dil-na niƛ-a-ƛo niso-ył-iyo	girl.OBL-POSS father-POSS 1SG.LAT-and give-IMP-QUOT say-POT-PST	The girl could say to the father: "Give me as well!"."
+Bezhta	232	Constructed by native speaker linguist	Uštelliqa q'owal xabar meeyłiyo.		uštelli-qa q'owa-l xabar m-ee-ył-iyo	teacher.OBL-POSS children-LAT story(III).ABS III-let.out-POT-PST	The teacher could tell a story to the children.
+Bezhta	233	Constructed by native speaker linguist	Kibbaqa iyol komak booyłiyo.		kibba-qa iyo-l komak b-oo-ył-iyo	girl.OBL-POSS mother-LAT help(III).ABS III-do-POT-PST	The girl could help her mother.
+Bezhta	234	Constructed by native speaker linguist	Öždiqa äƛaʔ ömrö booyłiyo.		öždi-qa äƛ-a-ʔ ömrö b-oo-ył-iyo	boy.OBL-POSS village-OBL-INESS life(III).ABS III-do-POT-PST	The boy could live in the village.
+Bezhta	235	Constructed by native speaker linguist	Öždiqa häydä pacpaƛoyłiyo.		öždi-qa häy-dä pacpaƛo-ył-iyo	boy.OBL-POSS eye-PL blink-POT-PST	The boy could blink his eyes.
+Bezhta	236	Constructed by native speaker linguist	Kibbaqa iyoqas t'ek yokčiyłiyo.		kibba-qa iyo-qa-s t'ek y-okči-ył-iyo	girl.OBL-POSS mother-POSS-ABL book(IV).ABS IV-take-POT-PST	The girl could take the book from the mother.
+Bezhta	237	Constructed by native speaker linguist	Öždiqa yiƛa č'anaɣoyłiyo.		öždi-qa yiƛa č'anaɣo-ył-iyo	boy.OBL-POSS fast run-POT-PST	The boy could run fast.
+Bezhta	238	Constructed by native speaker linguist	Öždiqa kibbal ʔarab mic małcibooyłiyo.		öždi-qa kibba-l ʔarab mic małci<b>oo-ył-iyo	boy.OBL-POSS girl.OBL-LAT Arabic language(III).ABS teach<III>-POT-PST	The boy could teach Arabic to the girl.
+Bezhta	239	Constructed by native speaker linguist	Mähmädqa öždiƛ'a Murad caaⁿ guliyłiyo.		Mähmäd-qa öždi-ƛ'a Murad caaⁿ gul-iył-iyo	Magomed-POSS boy.OBL-SUP Murad name(IV).ABS put(IV)-POT-PST	Magomed could name his son Murad.
+Bezhta	240	Constructed by native speaker linguist	Öždiqa qibo haboƛ'a haʔoyłiyo.		öždi-qa qibo habo-ƛ'a haʔo-ył-iyo	boy.OBL-POSS wheat.ABS mill-SUP grind-POT-PST	The boy could grind the wheat on the mill.
+Bezhta	241	Constructed by native speaker linguist	Öždiqa mäče bäxiyłiyo.		öždi-qa mäče b-äx-iył-iyo	boy.OBL-POSS ground(III).ABS III-dig-POT-PST	The boy could grind the ground.
+Bezhta	242	Constructed by native speaker linguist	Kibbaqa t'ek xalboyłiyo.		kibba-qa t'ek xalbo-ył-iyo	girl.OBL-POSS book.ABS search-POT-PST	The girl could search for a book.
+Bezhta	243	Constructed by native speaker linguist	Ist'iqa isiqa okko harziyooyłiyo.		ist'i-qa isi-qa okko harzi<y>oo-ył-iyo	brother.OBL-POSS sister-POSS money(IV).ABS ask<IV>-POT-PST	The boy could ask money from his sister.
+Bezhta	244	Constructed by native speaker linguist	Öždiqa kibbal aⁿło yoc'iyłiyo.		öždi-qa kibba-l aⁿło y-oc'-iył-iyo	boy.OBL-POSS girl.OBL-LAT embrace(IV).ABS IV-fill-POT-PST	The boy could hug the girl.
+Bezhta	245	Constructed by native speaker linguist	Kibbaqa öhƛöyłiyo.		kibba-qa öhƛö-ył-iyo	girl.OBL-POSS cough-POT-PST	The girl could cough.
+Bezhta	246		Öždiqa kibbaƛ'a lalaƛoyłiyo.		öždi-qa kibba-ƛ'a lalaƛo-ył-iyo	boy.OBL-POSS girl.OBL-SUP shout-POT-PST	The boy could shout at the girl.
+Bezhta	247	Constructed by native speaker linguist	Öždiqa bab kusuʔiyłiyo.		öždi-qa bab kusuʔ-iył-iyo	boy.OBL-POSS beard.ABS shave-POT-PST	The boy could shave his beard.
+Bezhta	248	Constructed by native speaker linguist	Kid yuq'o yiyayłiyo.		kid yuq'o y-iya-ył-iyo	girl(II).ABS loud II-cry-POT-PST	The girl could cry loud.
+Bezhta	249	Constructed by native speaker linguist	Kibbaqa yuq'o yiyayłiyo.		kibba-qa yuq'o y-iya-ył-iyo	girl.OBL-POSS loud II-cry-POT-PST	The girl could cry loud.
+Bezhta	250	Constructed by native speaker linguist	Öždiqa iyos q'äm k'ok'oyłiyo.		öždi-qa iyo-s q'äm k'ok'o-ył-iyo	boy.OBL-POSS mother-GEN1 head.ABS be.sick-POT-PST	The boy could trouble his mother.
+Bezhta	251	Constructed by native speaker linguist	Biqoqa box qoqoyłiyo.		biqo-qa box qoqo-ył-iyo	sun.OBL-POSS grass.ABS be.dry-POT-PST	The sun could dry the grass.
+Bezhta	252	Constructed by native speaker linguist	Kibbaqa simindiyala hät't'äš bäbä boyłiyo.		kibba-qa simindi-ya-la hät't'ä-š bäbä b-o-ył-iyo	girl.OBL-POSS maize-OBL-GEN2 flour.OBL-GEN1 bread(III).ABS III-do-POT-PST	The girl could make the bread out of maize flour.
+Bezhta	253	Constructed by native speaker linguist	Kibbaqa hudo bek'eyłiyo.		kibba-qa hudo b-ek'e-ył-iyo	girl.OBL-POSS firewood(III).ABS III-burn-POT-PST	The girl could burn the firewood.
+Bezhta	254	Constructed by native speaker linguist	Öždiqa xät'ä bekiyłiyo.		öždi-qa xät'ä b-ek-iył-iyo	boy.OBL-POSS plate(III) III-fall-POT-PST	The boy could drop the plate.
+Bezhta	255	Constructed by native speaker linguist	Öždiqa gama ɣanq'izibaqiyłiyo.		öždi-qa gama ɣanq'izi<b>aq-iył-iyo	boy.OBL-POSS boat(III).ABS sink<III>-POT-PST	The boy could sink the boat.
+Bezhta	256	Constructed by native speaker linguist	Kibbaqa łi ɣayƛoyłiyo.		kibba-qa łi ɣayƛo-ył-iyo	girl.OBL-POSS water.ABS boil-POT-PST	The girl could boil the water.
+Bezhta	257	Constructed by native speaker linguist	Öždiqa örrä k'äyƛöyłiyo.		öždi-qa örrä k'äyƛö-ył-iyo	boy.OBL-POSS wheel.ABS roll-POT-PST	The boy could roll the wheel.
+Bezhta	258	Constructed by native speaker linguist	Kibbaqa xo heleyłiyo.		kibba-qa xo hele-ył-iyo	girl.OBL-POSS meat.ABS cook-POT-PST	The girl could cook the meat.
+Bezhta	259	Constructed by native speaker linguist	Öždiqa kibbaqa goc'oqiyłiyo.		öždi-qa kibba-qa goc'oq-iył-iyo	boy.OBL-POSS girl.OBL-POSS look-POT-PST	The boy could look at the girl.
+Bezhta	260	Constructed by native speaker linguist	Öžö kibbaɣoy müɣäƛ eⁿƛ'eyłiyo.		öžö kibba-ɣoy müɣäƛ Ø-eⁿƛ'e-ył-iyo	boy(I).ABS girl.OBL-COMIT after I-go-POT-PST	The boy could follow the girl.
+Bezhta	261	Constructed by native speaker linguist	Öžö xöxƛ'ä ƛ'odo eⁿƛ'eyłiyo.		öžö xöx-ƛ'ä ƛ'odo Ø-eⁿƛ'e-ył-iyo	boy(I).ABS tree.OBL-SUP upwards I-go-POT-PST	The boy could climb up the tree.
+Bezhta	262	Constructed by native speaker linguist	Abo qunnaʔ eⁿƛ'eyłiyo.		abo qunnaʔ Ø-eⁿƛ'e-ył-iyo	father(I).ABS farm.LOC I-go-POT-PST	The father could go to the farm.
+Bezhta	263	Constructed by native speaker linguist	Kid q'ey yečeyłiyo.		kid q'ey y-eče-ył-iyo	girl(II).ABS on.the.ground II-sit-POT-PST	The girl could sit down.
+Bezhta	264	Constructed by native speaker linguist	Kid öždiɣoy k'isayłiyo.		kid öždi-ɣoy k'isa-ył-iyo	girl(II).ABS boy.OBL-COMIT play-POT-PST	The girl could play with the boy.
+Bezhta	265		Abo maʔišatlis urɣeziaqiyłiyo.		abo maʔišatlis urɣezi<Ø>aq-iył-iyo	father(I).ABS family.OBL.GEN think<I>-POT-PST	The father could think about his family.
+Bezhta	266	Constructed by native speaker linguist	Kid aboqa yiq'lašeš.		kid abo-qa y-iq'laše-š	girl(II).ABS father-POSS II-talk-PRS	The girl talks to her father.
+Bezhta	267	Constructed by native speaker linguist	Kid aboqa yiq'lašeyłiyo.		kid abo-qa y-iq'laše-ył-iyo	girl(II).ABS father-POSS II-talk-POT-PST	The girl could talk to her father.
+Bezhta	268	Constructed by native speaker linguist	Kibbaqa aboqa yiq'lašeyłiyo.		kibba-qa abo-qa y-iq'laše-ył-iyo	girl.OBL-POSS father-POSS II-talk-POT-PST	The girl could talk to her father.
+Bezhta	269	Constructed by native speaker linguist	Öžö mašinalƛ'a ogic'iyłiyo.		öžö mašina-l-ƛ'a Ø-ogic'-iył-iyo	boy(I).ABS car-OBL-SUP I-jump-POT-PST	The boy could jump on the car.
+Bezhta	270	Constructed by native speaker linguist	Öždiqa kid mašinalƛ'a yogic'iyłiyo.		öždi-qa kid mašina-l-ƛ'a y-ogic'-iył-iyo	boy.OBL-POSS girl(II).ABS car-OBL-SUP II-jump-POT-PST	The boy could make the girl jump on the car.
+Bezhta	271		Kibbaqa iyol mot'o begaayłiyo.		kibba-qa iyo-l mot'o b-egaa-ył-iyo	girl.OBL-POSS mother-LAT face(III).ABS III-see-POT-PST	The girl was no longer angry with her mother (lit. The girl showed her face to her mother.).
+Bezhta	272		Kibbaqa vedra istoliyaʎ’a guliyłiyo.		kibba-qa vedra istoliyaʎ’a gul-iył-iyo	girl.OBL-POSS basket.ABS table.SUP put-POT-PST	The girl could put the basket on the table.
+Bezhta	273		Aboqa kid hič'eyłiyo.		abo-qa kid hič'e-ył-iyo	father-POSS girl.ABS be.afraid-POT-PST	The father could scare the girl.
+Bezhta	274		Kibbaqa k'imalis mäh biq'eyłiyo.		kibba-qa k'ima-li-s mäh b-iq'e-ył-iyo	girl.OBL-POSS cheese-OBL-GEN1 smell(III).ABS III-know-POT-PST	The girl could smell the cheese.
+Bezhta	275		Kibbaqa abo nukoyłiyo.		kibba-qa abo nuko-ył-iyo	girl.OBL-POSS father.ABS be.hungry-POT-PST	The girl could make father hungry.
+Bezhta	276		Kibbaqa iyo biƛoɣa yoⁿq'oyłiyo.		kibba-qa iyo biƛo-ɣa y-oⁿq'o-ył-iyo	girl.OBL-POSS mother(II).ABS house-APUD II-come-POT-PST	The girl could take the mother home.
+Bezhta	277		Öždiqa wo buɣoyɬiyo.		öždi-qa wo b-uɣo-yɬ-iyo	boy-POSS dog(III).ABS III-die-POT-PST	The boy could kill the dog.
+Bezhta	278		Öždi ist'id kibbal k'obala mexellis.		öždi ist'i-d kibba-l k'obala m-exe-ll-is	boy.ERG brother.OBL-INSTR girl.OBL-LAT stick(III).ABS III-touch-CAUS-PRS	The boy makes the brother touch the girl with the stick.
+Bezhta	279		Öždiqa yiƛa č'an yaɣoyłiyo.		öždi-qa yiƛa č'an y-aɣo-ył-iyo	boy.OBL-POSS fast run(IV).ABS IV-take-POT-PST	The boy could run fast.
+Bezhta	280		Öždi kibbad č'anaɣoylis.		öždi kibba-d č'anaɣo-yl-is	boy.ERG girl.OBL-INSTR run-CAUS-PRS	The boy makes the girl run.
+Bezhta	281		Öždi kibbad č'an yaɣoylis.		öždi kibba-d č'an y-aɣo-yl-is	boy.ERG girl.OBL-INSTR run(IV).ABS IV-take-CAUS-PRS	The boy makes the girl run.
+Bezhta	282		Kibba öžö aboqa iq'lašegolca.		kibba öžö abo-qa Ø-iq'laše-gol-ca	girl.ERG boy(I).ABS father-POSS I-talk-put-PRS	The girl makes the boy talk to the father.
+Bezhta	283		Kibbaqa kuntalałco ɣeč'i yäxeyɬiyo.		Kibba-qa kunta-l-ał-co ɣeč'i y-äxe-yɬ-iyo	girl.OBL-POSS dress-OBL-INTER-ABL tissue(IV).ABS IV-tear-POT-PST	The girl could tear the tissue from the dress.
+Bezhta	284		Kibbaqa iyo kunta isiƛ'a łič'eyłiyo.		Kibba-qa iyod kunta isi-ƛ'a łič'e-ył-iyo	girl.OBL-POSS mother.INSTR dress.ABS sister-SUP put.on-POT-PST	The girl could put on the dress on the sister with mother's help.
+Bezhta	285		öžö xäbäläd c'ikalid išeldas.		öžö xäbä-lä-d c'ika-li-d Ø-išel-da-s	boy(I) foot-OBL-INSTR glass-OBL-INSTR I-break-ANTIP-PRS	The boy is busy breaking the glass with the foot.
+Bezhta	286		Öžö yiƛa č'anad aɣoldas.		öžö yiƛa č'an-a-d Ø-aɣo-l-da-s	boy(I) fast run-OBL-INSTR I-take-CAUS-ANTIP-PRS	The boy is busy running fast.
+Bezhta	287		Kid y-eⁿyaƛ'e-š biƛo-ɣa.		kid y-eⁿ<ya>ƛ'e-š biƛo-ɣa	girl(I) II-go<ANTIP>-PRS house-APUD	The girl is busy going home.
+Bezhta	288		Kid nänilaɬ k'iyasas.		kid nänilaɬ k'i<ya>sa-s	girl doll.INTER play<ANTIP>-PRS	The girl is busy playing with the doll.
+Bezhta	289		Öžö bekelalid k'obalalid iƛ'elas.		öžö bekela-li-d k'obala-li-d Ø-iƛ'e-la-s	boy snake-OBL-INSTR stick-OBL-INSTR I-kill-ANTIP-PRS	The boy is busy killing the snake withthe stick.
+Bezhta	290		Kid k'atulad helelas.		kid k'atu-la-d hele-la-s	girl potato-OBL-INSTR cook-ANTIP-PRS	The girl is busy cooking potato.
+Bezhta	291		öždis häydä pacpaƛoldas.		öždi-s häy-dä pacpaƛo-l-da-s	boy.OBL-GEN1 eye-PL blink-CAUS-ANTIP-PRS	The boy's eyes are blinking.
+Bezhta	292		Kid iyod yegaaldas.		kid iyo-d y-egaa-l-da-s	girl mother-INSTR II-see-CAUS-ANTIP-PRS	The girl is busy showing the mother.
+Bezhta	293		Kid łohdas.		kid łohda-s	girl laugh.ANTIP-PRS	The girl is busy laughing.
+Bezhta	294		Kid öždid zistuqildas.		kid öždi-d zistuqil-da-s	girl(II) boy.OBL-INSTR push(II)-ANTIP-PRS	The girl is busy pushing the boy.
+Bezhta	295		Kid darslid yiq'eldas.		kid darsbaad y-iq'e-l-da-s	girl(II) lesson.PL.INSTR II-know-CAUS-ANTIP-PRS	The girl is busy learning the lessons.
+Bezhta	296		Öžö äƛaʔaš eⁿyaƛ'eyo.		öžö äƛ-a-ʔ-aš Ø-eⁿ<ya>ƛ'e-yo	boy(I).ABS village-OBL-IN-ABL I-go<ANTIP>-PST	The boy is busy leaving the village.
+Bezhta	297		Kid fenlid müč’lid qoqoldas.		kid fen-li-d müč’-li-d qoqo-l-da-s	girl hair.drier-OBL-INSTR hair-OBL-INSTR be.dry-CAUS-ANTIP-PSR	The girl is busy drying her hair with the hair-drier.
+Bezhta	298		Kid łiid ɣayƛoldas.		kid łiid ɣayƛo-l-da-s	girl water.INSTR boil-CAUS-ANTIP-PRS	The girl is busy boiling the water.
+Bezhta	299		Kid łiis wedralad yoc'ildas.		kid łiis wedra-la-d y-oc'il-da-s	girl(II) water.GEN1 bucket-OBL-INSTR II-fill-ANTIP-PRS	The girl is busy filling the bucket with the water.
+Bezhta	300		Kid xöxƛ'äš eⁿšlid yekildas.		kid xöx-ƛ'ä-š eⁿš-li-d y-ek-il-da-s	girl(II) tree.OBL-SUP-ABL apple-OBL-INSTR II-fall-CAUS-ANTIP-PRS	The girl is busy throwing apples from the tree.
+Bezhta	301		Öžö kibbaɣoy müɣäƛ eⁿyaƛ'eš.		öžö kibba-ɣoy müɣäƛ Ø-eⁿ<ya>ƛ'e-š	boy(I).ABS girl.OBL-COMIT after I-go<ANTIP>-PRS	The boy is busy following the girl.
+Bezhta	302		Kid nizalaayo.		kid niza-laa-yo.	girl wash-ANTIP-PST	The girl washed herself.
+Bezhta	303		Kid bäbäläd yohdas.		kid bäbä-lä-d y-oh-da-s	girl(II) bread-OBL-INSTR II-make-ANTIP-PRS	The girl is busy making bread.

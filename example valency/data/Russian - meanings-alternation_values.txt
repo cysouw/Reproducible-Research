@@ -1,0 +1,1351 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Russian	1	EAT	estʹ	Accusative-Genitive alternation	Never	
+Russian	1	EAT	estʹ	Cognate object alternation	Never	
+Russian	1	EAT	estʹ	Comitative alternation	Never	
+Russian	1	EAT	estʹ	Instrumental subject alternation	Never	
+Russian	1	EAT	estʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	1	EAT	estʹ	Object deletion	Regularly	1-nom V'.subj[1] (3-instr)
+Russian	1	EAT	estʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	1	EAT	estʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	1	EAT	estʹ	Prefixal Source-promoting alternation	Never	
+Russian	1	EAT	estʹ	Reflexive Anticausative	Never	
+Russian	1	EAT	estʹ	Reflexive Middle	Never	
+Russian	1	EAT	estʹ	Reflexive Middle (impersonal)	Never	
+Russian	1	EAT	estʹ	Reflexive Passive	Never	
+Russian	1	EAT	estʹ	Reflexive Reciprocal	Never	
+Russian	1	EAT	estʹ	Semantic reflexive	Never	
+Russian	2	HUG	obnjatʹ	Accusative-Genitive alternation	Never	
+Russian	2	HUG	obnjatʹ	Cognate object alternation	Never	
+Russian	2	HUG	obnjatʹ	Comitative alternation	Never	
+Russian	2	HUG	obnjatʹ	Instrumental subject alternation	Never	
+Russian	2	HUG	obnjatʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	2	HUG	obnjatʹ	Object deletion	Never	
+Russian	2	HUG	obnjatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	2	HUG	obnjatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	2	HUG	obnjatʹ	Prefixal Source-promoting alternation	Never	
+Russian	2	HUG	obnjatʹ	Reflexive Anticausative	Never	
+Russian	2	HUG	obnjatʹ	Reflexive Middle	Never	
+Russian	2	HUG	obnjatʹ	Reflexive Middle (impersonal)	Never	
+Russian	2	HUG	obnjatʹ	Reflexive Passive	Never	
+Russian	2	HUG	obnjatʹ	Reflexive Reciprocal	Regularly	1-nom V'sja.subj[1]
+Russian	2	HUG	obnjatʹ	Semantic reflexive	Never	
+Russian	3	LOOK AT	smotretʹ	Accusative-Genitive alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Cognate object alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Comitative alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Instrumental subject alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Negative Accusative-Genitive alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Object deletion	Never	
+Russian	3	LOOK AT	smotretʹ	Participial Passive	Never	
+Russian	3	LOOK AT	smotretʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Prefixal Source-promoting alternation	Never	
+Russian	3	LOOK AT	smotretʹ	Reflexive Anticausative	Never	
+Russian	3	LOOK AT	smotretʹ	Reflexive Middle	Never	
+Russian	3	LOOK AT	smotretʹ	Reflexive Middle (impersonal)	Never	
+Russian	3	LOOK AT	smotretʹ	Reflexive Passive	Never	
+Russian	3	LOOK AT	smotretʹ	Reflexive Reciprocal	Never	
+Russian	3	LOOK AT	smotretʹ	Semantic reflexive	Never	
+Russian	4	SEE	videtʹ	Accusative-Genitive alternation	Never	
+Russian	4	SEE	videtʹ	Cognate object alternation	Never	
+Russian	4	SEE	videtʹ	Comitative alternation	Never	
+Russian	4	SEE	videtʹ	Instrumental subject alternation	Never	
+Russian	4	SEE	videtʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	4	SEE	videtʹ	Object deletion	Never	
+Russian	4	SEE	videtʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	4	SEE	videtʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	4	SEE	videtʹ	Prefixal Source-promoting alternation	Never	
+Russian	4	SEE	videtʹ	Reflexive Anticausative	Never	
+Russian	4	SEE	videtʹ	Reflexive Middle	Never	
+Russian	4	SEE	videtʹ	Reflexive Middle (impersonal)	Never	
+Russian	4	SEE	videtʹ	Reflexive Passive	Marginally	
+Russian	4	SEE	videtʹ	Reflexive Reciprocal	Regularly	1-nom V'sja.subj[1]
+Russian	4	SEE	videtʹ	Semantic reflexive	Never	
+Russian	5	SMELL	njuxatʹ	Accusative-Genitive alternation	Never	
+Russian	5	SMELL	njuxatʹ	Cognate object alternation	Never	
+Russian	5	SMELL	njuxatʹ	Comitative alternation	Never	
+Russian	5	SMELL	njuxatʹ	Instrumental subject alternation	Never	
+Russian	5	SMELL	njuxatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	5	SMELL	njuxatʹ	Object deletion	Never	
+Russian	5	SMELL	njuxatʹ	Participial Passive	Never	
+Russian	5	SMELL	njuxatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	5	SMELL	njuxatʹ	Prefixal Source-promoting alternation	Never	
+Russian	5	SMELL	njuxatʹ	Reflexive Anticausative	Never	
+Russian	5	SMELL	njuxatʹ	Reflexive Middle	Never	
+Russian	5	SMELL	njuxatʹ	Reflexive Middle (impersonal)	Never	
+Russian	5	SMELL	njuxatʹ	Reflexive Passive	Never	
+Russian	5	SMELL	njuxatʹ	Reflexive Reciprocal	Never	
+Russian	5	SMELL	njuxatʹ	Semantic reflexive	Never	
+Russian	6	FEAR	bojatʹsja	Accusative-Genitive alternation	Regularly	1-nom V'.subj[1] 2-gen
+Russian	6	FEAR	bojatʹsja	Cognate object alternation	Never	
+Russian	6	FEAR	bojatʹsja	Comitative alternation	Never	
+Russian	6	FEAR	bojatʹsja	Instrumental subject alternation	Never	
+Russian	6	FEAR	bojatʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	6	FEAR	bojatʹsja	Object deletion	Never	
+Russian	6	FEAR	bojatʹsja	Participial Passive	Never	
+Russian	6	FEAR	bojatʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	6	FEAR	bojatʹsja	Prefixal Source-promoting alternation	Never	
+Russian	6	FEAR	bojatʹsja	Reflexive Anticausative	Never	
+Russian	6	FEAR	bojatʹsja	Reflexive Middle	Never	
+Russian	6	FEAR	bojatʹsja	Reflexive Middle (impersonal)	Never	
+Russian	6	FEAR	bojatʹsja	Reflexive Passive	Never	
+Russian	6	FEAR	bojatʹsja	Reflexive Reciprocal	Never	
+Russian	6	FEAR	bojatʹsja	Semantic reflexive	Never	
+Russian	7	FRIGHTEN	pugatʹ	Accusative-Genitive alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Cognate object alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Comitative alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Instrumental subject alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Object deletion	Never	
+Russian	7	FRIGHTEN	pugatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	7	FRIGHTEN	pugatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Prefixal Source-promoting alternation	Never	
+Russian	7	FRIGHTEN	pugatʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	7	FRIGHTEN	pugatʹ	Reflexive Middle	Never	
+Russian	7	FRIGHTEN	pugatʹ	Reflexive Middle (impersonal)	Never	
+Russian	7	FRIGHTEN	pugatʹ	Reflexive Passive	Never	
+Russian	7	FRIGHTEN	pugatʹ	Reflexive Reciprocal	Never	
+Russian	7	FRIGHTEN	pugatʹ	Semantic reflexive	Never	
+Russian	8	LIKE	nravitʹsja	Accusative-Genitive alternation	Never	
+Russian	8	LIKE	nravitʹsja	Cognate object alternation	Never	
+Russian	8	LIKE	nravitʹsja	Comitative alternation	Never	
+Russian	8	LIKE	nravitʹsja	Instrumental subject alternation	Never	
+Russian	8	LIKE	nravitʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	8	LIKE	nravitʹsja	Object deletion	Never	
+Russian	8	LIKE	nravitʹsja	Participial Passive	Never	
+Russian	8	LIKE	nravitʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	8	LIKE	nravitʹsja	Prefixal Source-promoting alternation	Never	
+Russian	8	LIKE	nravitʹsja	Reflexive Anticausative	Never	
+Russian	8	LIKE	nravitʹsja	Reflexive Middle	Never	
+Russian	8	LIKE	nravitʹsja	Reflexive Middle (impersonal)	Never	
+Russian	8	LIKE	nravitʹsja	Reflexive Passive	Never	
+Russian	8	LIKE	nravitʹsja	Reflexive Reciprocal	Never	
+Russian	8	LIKE	nravitʹsja	Semantic reflexive	Never	
+Russian	9	KNOW	znatʹ	Accusative-Genitive alternation	Never	
+Russian	9	KNOW	znatʹ	Cognate object alternation	Never	
+Russian	9	KNOW	znatʹ	Comitative alternation	Never	
+Russian	9	KNOW	znatʹ	Instrumental subject alternation	Never	
+Russian	9	KNOW	znatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	9	KNOW	znatʹ	Object deletion	Never	
+Russian	9	KNOW	znatʹ	Participial Passive	Marginally	
+Russian	9	KNOW	znatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	9	KNOW	znatʹ	Prefixal Source-promoting alternation	Never	
+Russian	9	KNOW	znatʹ	Reflexive Anticausative	Never	
+Russian	9	KNOW	znatʹ	Reflexive Middle	Never	
+Russian	9	KNOW	znatʹ	Reflexive Middle (impersonal)	Never	
+Russian	9	KNOW	znatʹ	Reflexive Passive	Never	
+Russian	9	KNOW	znatʹ	Reflexive Reciprocal	Marginally	
+Russian	9	KNOW	znatʹ	Semantic reflexive	Never	
+Russian	10	THINK	dumatʹ	Accusative-Genitive alternation	Never	
+Russian	10	THINK	dumatʹ	Cognate object alternation	Regularly	1-nom V'.subj[1] 3-acc
+Russian	10	THINK	dumatʹ	Comitative alternation	Never	
+Russian	10	THINK	dumatʹ	Instrumental subject alternation	Never	
+Russian	10	THINK	dumatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	10	THINK	dumatʹ	Object deletion	Never	
+Russian	10	THINK	dumatʹ	Participial Passive	Never	
+Russian	10	THINK	dumatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	10	THINK	dumatʹ	Prefixal Source-promoting alternation	Never	
+Russian	10	THINK	dumatʹ	Reflexive Anticausative	Never	
+Russian	10	THINK	dumatʹ	Reflexive Middle	Never	
+Russian	10	THINK	dumatʹ	Reflexive Middle (impersonal)	Marginally	
+Russian	10	THINK	dumatʹ	Reflexive Passive	Never	
+Russian	10	THINK	dumatʹ	Reflexive Reciprocal	Never	
+Russian	10	THINK	dumatʹ	Semantic reflexive	Never	
+Russian	11	SEARCH FOR	iskatʹ	Accusative-Genitive alternation	Regularly	1-nom V'.subj[1] 2-gen
+Russian	11	SEARCH FOR	iskatʹ	Cognate object alternation	Never	
+Russian	11	SEARCH FOR	iskatʹ	Comitative alternation	Never	
+Russian	11	SEARCH FOR	iskatʹ	Instrumental subject alternation	Never	
+Russian	11	SEARCH FOR	iskatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	11	SEARCH FOR	iskatʹ	Object deletion	Never	
+Russian	11	SEARCH FOR	iskatʹ	Participial Passive	Never	
+Russian	11	SEARCH FOR	iskatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	11	SEARCH FOR	iskatʹ	Prefixal Source-promoting alternation	Never	
+Russian	11	SEARCH FOR	iskatʹ	Reflexive Anticausative	Never	
+Russian	11	SEARCH FOR	iskatʹ	Reflexive Middle	Never	
+Russian	11	SEARCH FOR	iskatʹ	Reflexive Middle (impersonal)	Never	
+Russian	11	SEARCH FOR	iskatʹ	Reflexive Passive	Never	
+Russian	11	SEARCH FOR	iskatʹ	Reflexive Reciprocal	Never	
+Russian	11	SEARCH FOR	iskatʹ	Semantic reflexive	Never	
+Russian	12	WASH	mytʹ	Accusative-Genitive alternation	Never	
+Russian	12	WASH	mytʹ	Cognate object alternation	Never	
+Russian	12	WASH	mytʹ	Comitative alternation	Never	
+Russian	12	WASH	mytʹ	Instrumental subject alternation	Marginally	
+Russian	12	WASH	mytʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	12	WASH	mytʹ	Object deletion	Marginally	
+Russian	12	WASH	mytʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	12	WASH	mytʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	12	WASH	mytʹ	Prefixal Source-promoting alternation	Never	
+Russian	12	WASH	mytʹ	Reflexive Anticausative	Never	
+Russian	12	WASH	mytʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	12	WASH	mytʹ	Reflexive Middle (impersonal)	Never	
+Russian	12	WASH	mytʹ	Reflexive Passive	Marginally	
+Russian	12	WASH	mytʹ	Reflexive Reciprocal	Never	
+Russian	12	WASH	mytʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (3-instr)
+Russian	13	DRESS	odetʹ	Accusative-Genitive alternation	Never	
+Russian	13	DRESS	odetʹ	Cognate object alternation	Never	
+Russian	13	DRESS	odetʹ	Comitative alternation	Never	
+Russian	13	DRESS	odetʹ	Instrumental subject alternation	Never	
+Russian	13	DRESS	odetʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (v+3-acc)
+Russian	13	DRESS	odetʹ	Object deletion	Never	
+Russian	13	DRESS	odetʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (v+3-acc) (1-instr)
+Russian	13	DRESS	odetʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	13	DRESS	odetʹ	Prefixal Source-promoting alternation	Never	
+Russian	13	DRESS	odetʹ	Reflexive Anticausative	Never	
+Russian	13	DRESS	odetʹ	Reflexive Middle	Never	
+Russian	13	DRESS	odetʹ	Reflexive Middle (impersonal)	Never	
+Russian	13	DRESS	odetʹ	Reflexive Passive	Marginally	
+Russian	13	DRESS	odetʹ	Reflexive Reciprocal	Never	
+Russian	13	DRESS	odetʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (v+3-acc)
+Russian	14	SHAVE (a body part/person)	britʹ	Accusative-Genitive alternation	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Cognate object alternation	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Comitative alternation	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Instrumental subject alternation	Marginally	
+Russian	14	SHAVE (a body part/person)	britʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	14	SHAVE (a body part/person)	britʹ	Object deletion	Marginally	
+Russian	14	SHAVE (a body part/person)	britʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	14	SHAVE (a body part/person)	britʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Prefixal Source-promoting alternation	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Reflexive Anticausative	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Reflexive Middle	Marginally	
+Russian	14	SHAVE (a body part/person)	britʹ	Reflexive Middle (impersonal)	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Reflexive Passive	Marginally	
+Russian	14	SHAVE (a body part/person)	britʹ	Reflexive Reciprocal	Never	
+Russian	14	SHAVE (a body part/person)	britʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (3-instr)
+Russian	15	HELP	pomočʹ	Accusative-Genitive alternation	Never	
+Russian	15	HELP	pomočʹ	Cognate object alternation	Never	
+Russian	15	HELP	pomočʹ	Comitative alternation	Never	
+Russian	15	HELP	pomočʹ	Instrumental subject alternation	Never	
+Russian	15	HELP	pomočʹ	Negative Accusative-Genitive alternation	Never	
+Russian	15	HELP	pomočʹ	Object deletion	Never	
+Russian	15	HELP	pomočʹ	Participial Passive	Never	
+Russian	15	HELP	pomočʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	15	HELP	pomočʹ	Prefixal Source-promoting alternation	Never	
+Russian	15	HELP	pomočʹ	Reflexive Anticausative	Never	
+Russian	15	HELP	pomočʹ	Reflexive Middle	Never	
+Russian	15	HELP	pomočʹ	Reflexive Middle (impersonal)	Never	
+Russian	15	HELP	pomočʹ	Reflexive Passive	Never	
+Russian	15	HELP	pomočʹ	Reflexive Reciprocal	Never	
+Russian	15	HELP	pomočʹ	Semantic reflexive	Never	
+Russian	16	FOLLOW	sledovatʹ	Accusative-Genitive alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Cognate object alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Comitative alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Instrumental subject alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Object deletion	Never	
+Russian	16	FOLLOW	sledovatʹ	Participial Passive	Never	
+Russian	16	FOLLOW	sledovatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Prefixal Source-promoting alternation	Never	
+Russian	16	FOLLOW	sledovatʹ	Reflexive Anticausative	Never	
+Russian	16	FOLLOW	sledovatʹ	Reflexive Middle	Never	
+Russian	16	FOLLOW	sledovatʹ	Reflexive Middle (impersonal)	Never	
+Russian	16	FOLLOW	sledovatʹ	Reflexive Passive	Never	
+Russian	16	FOLLOW	sledovatʹ	Reflexive Reciprocal	Never	
+Russian	16	FOLLOW	sledovatʹ	Semantic reflexive	Never	
+Russian	17	MEET	vstretitʹ	Accusative-Genitive alternation	Never	
+Russian	17	MEET	vstretitʹ	Cognate object alternation	Never	
+Russian	17	MEET	vstretitʹ	Comitative alternation	Never	
+Russian	17	MEET	vstretitʹ	Instrumental subject alternation	Never	
+Russian	17	MEET	vstretitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	17	MEET	vstretitʹ	Object deletion	Never	
+Russian	17	MEET	vstretitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	17	MEET	vstretitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	17	MEET	vstretitʹ	Prefixal Source-promoting alternation	Never	
+Russian	17	MEET	vstretitʹ	Reflexive Anticausative	Never	
+Russian	17	MEET	vstretitʹ	Reflexive Middle	Marginally	
+Russian	17	MEET	vstretitʹ	Reflexive Middle (impersonal)	Never	
+Russian	17	MEET	vstretitʹ	Reflexive Passive	Marginally	
+Russian	17	MEET	vstretitʹ	Reflexive Reciprocal	Regularly	1-nom V'sja.subj[1]
+Russian	17	MEET	vstretitʹ	Semantic reflexive	Never	
+Russian	18	TALK	govoritʹ	Accusative-Genitive alternation	Never	
+Russian	18	TALK	govoritʹ	Cognate object alternation	Never	
+Russian	18	TALK	govoritʹ	Comitative alternation	Regularly	1-nom V'.subj[1] s+2-instr
+Russian	18	TALK	govoritʹ	Instrumental subject alternation	Never	
+Russian	18	TALK	govoritʹ	Negative Accusative-Genitive alternation	Never	
+Russian	18	TALK	govoritʹ	Object deletion	Marginally	
+Russian	18	TALK	govoritʹ	Participial Passive	Marginally	
+Russian	18	TALK	govoritʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	18	TALK	govoritʹ	Prefixal Source-promoting alternation	Never	
+Russian	18	TALK	govoritʹ	Reflexive Anticausative	Never	
+Russian	18	TALK	govoritʹ	Reflexive Middle	Never	
+Russian	18	TALK	govoritʹ	Reflexive Middle (impersonal)	Never	
+Russian	18	TALK	govoritʹ	Reflexive Passive	Never	
+Russian	18	TALK	govoritʹ	Reflexive Reciprocal	Never	
+Russian	18	TALK	govoritʹ	Semantic reflexive	Never	
+Russian	19	ASK FOR	prositʹ	Accusative-Genitive alternation	Never	
+Russian	19	ASK FOR	prositʹ	Cognate object alternation	Never	
+Russian	19	ASK FOR	prositʹ	Comitative alternation	Never	
+Russian	19	ASK FOR	prositʹ	Instrumental subject alternation	Never	
+Russian	19	ASK FOR	prositʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (u+3-gen)
+Russian	19	ASK FOR	prositʹ	Object deletion	Marginally	
+Russian	19	ASK FOR	prositʹ	Participial Passive	Marginally	
+Russian	19	ASK FOR	prositʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	19	ASK FOR	prositʹ	Prefixal Source-promoting alternation	Never	
+Russian	19	ASK FOR	prositʹ	Reflexive Anticausative	Never	
+Russian	19	ASK FOR	prositʹ	Reflexive Middle	Never	
+Russian	19	ASK FOR	prositʹ	Reflexive Middle (impersonal)	Never	
+Russian	19	ASK FOR	prositʹ	Reflexive Passive	Never	
+Russian	19	ASK FOR	prositʹ	Reflexive Reciprocal	Never	
+Russian	19	ASK FOR	prositʹ	Semantic reflexive	Never	
+Russian	20	SHOUT AT	kričatʹ	Accusative-Genitive alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Cognate object alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Comitative alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Instrumental subject alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Object deletion	Never	
+Russian	20	SHOUT AT	kričatʹ	Participial Passive	Never	
+Russian	20	SHOUT AT	kričatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Prefixal Source-promoting alternation	Never	
+Russian	20	SHOUT AT	kričatʹ	Reflexive Anticausative	Never	
+Russian	20	SHOUT AT	kričatʹ	Reflexive Middle	Never	
+Russian	20	SHOUT AT	kričatʹ	Reflexive Middle (impersonal)	Never	
+Russian	20	SHOUT AT	kričatʹ	Reflexive Passive	Never	
+Russian	20	SHOUT AT	kričatʹ	Reflexive Reciprocal	Never	
+Russian	20	SHOUT AT	kričatʹ	Semantic reflexive	Never	
+Russian	21	TELL	skazatʹ	Accusative-Genitive alternation	Never	
+Russian	21	TELL	skazatʹ	Cognate object alternation	Never	
+Russian	21	TELL	skazatʹ	Comitative alternation	Never	
+Russian	21	TELL	skazatʹ	Instrumental subject alternation	Never	
+Russian	21	TELL	skazatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	21	TELL	skazatʹ	Object deletion	Never	
+Russian	21	TELL	skazatʹ	Participial Passive	Marginally	
+Russian	21	TELL	skazatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	21	TELL	skazatʹ	Prefixal Source-promoting alternation	Never	
+Russian	21	TELL	skazatʹ	Reflexive Anticausative	Never	
+Russian	21	TELL	skazatʹ	Reflexive Middle	Never	
+Russian	21	TELL	skazatʹ	Reflexive Middle (impersonal)	Never	
+Russian	21	TELL	skazatʹ	Reflexive Passive	Never	
+Russian	21	TELL	skazatʹ	Reflexive Reciprocal	Never	
+Russian	21	TELL	skazatʹ	Semantic reflexive	Never	
+Russian	22	SAY	govoritʹ	Accusative-Genitive alternation	Never	
+Russian	22	SAY	govoritʹ	Cognate object alternation	Never	
+Russian	22	SAY	govoritʹ	Comitative alternation	Regularly	1-nom V'.subj[1] s+2-instr
+Russian	22	SAY	govoritʹ	Instrumental subject alternation	Never	
+Russian	22	SAY	govoritʹ	Negative Accusative-Genitive alternation	Never	
+Russian	22	SAY	govoritʹ	Object deletion	Marginally	
+Russian	22	SAY	govoritʹ	Participial Passive	Marginally	
+Russian	22	SAY	govoritʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	22	SAY	govoritʹ	Prefixal Source-promoting alternation	Never	
+Russian	22	SAY	govoritʹ	Reflexive Anticausative	Never	
+Russian	22	SAY	govoritʹ	Reflexive Middle	Never	
+Russian	22	SAY	govoritʹ	Reflexive Middle (impersonal)	Never	
+Russian	22	SAY	govoritʹ	Reflexive Passive	Never	
+Russian	22	SAY	govoritʹ	Reflexive Reciprocal	Never	
+Russian	22	SAY	govoritʹ	Semantic reflexive	Never	
+Russian	22	SAY	skazatʹ	Accusative-Genitive alternation	Never	
+Russian	22	SAY	skazatʹ	Cognate object alternation	Never	
+Russian	22	SAY	skazatʹ	Comitative alternation	Never	
+Russian	22	SAY	skazatʹ	Instrumental subject alternation	Never	
+Russian	22	SAY	skazatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	22	SAY	skazatʹ	Object deletion	Never	
+Russian	22	SAY	skazatʹ	Participial Passive	Marginally	
+Russian	22	SAY	skazatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	22	SAY	skazatʹ	Prefixal Source-promoting alternation	Never	
+Russian	22	SAY	skazatʹ	Reflexive Anticausative	Never	
+Russian	22	SAY	skazatʹ	Reflexive Middle	Never	
+Russian	22	SAY	skazatʹ	Reflexive Middle (impersonal)	Never	
+Russian	22	SAY	skazatʹ	Reflexive Passive	Never	
+Russian	22	SAY	skazatʹ	Reflexive Reciprocal	Never	
+Russian	22	SAY	skazatʹ	Semantic reflexive	Never	
+Russian	23	NAME	nazvatʹ	Accusative-Genitive alternation	Never	
+Russian	23	NAME	nazvatʹ	Cognate object alternation	Never	
+Russian	23	NAME	nazvatʹ	Comitative alternation	Never	
+Russian	23	NAME	nazvatʹ	Instrumental subject alternation	Never	
+Russian	23	NAME	nazvatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	23	NAME	nazvatʹ	Object deletion	Never	
+Russian	23	NAME	nazvatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	23	NAME	nazvatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	23	NAME	nazvatʹ	Prefixal Source-promoting alternation	Never	
+Russian	23	NAME	nazvatʹ	Reflexive Anticausative	Never	
+Russian	23	NAME	nazvatʹ	Reflexive Middle	Never	
+Russian	23	NAME	nazvatʹ	Reflexive Middle (impersonal)	Never	
+Russian	23	NAME	nazvatʹ	Reflexive Passive	Marginally	
+Russian	23	NAME	nazvatʹ	Reflexive Reciprocal	Never	
+Russian	23	NAME	nazvatʹ	Semantic reflexive	Never	
+Russian	24	BUILD	stroitʹ	Accusative-Genitive alternation	Never	
+Russian	24	BUILD	stroitʹ	Cognate object alternation	Never	
+Russian	24	BUILD	stroitʹ	Comitative alternation	Never	
+Russian	24	BUILD	stroitʹ	Instrumental subject alternation	Never	
+Russian	24	BUILD	stroitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (iz+3-gen)
+Russian	24	BUILD	stroitʹ	Object deletion	Marginally	
+Russian	24	BUILD	stroitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (iz+3-gen) (1-instr)
+Russian	24	BUILD	stroitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	24	BUILD	stroitʹ	Prefixal Source-promoting alternation	Never	
+Russian	24	BUILD	stroitʹ	Reflexive Anticausative	Never	
+Russian	24	BUILD	stroitʹ	Reflexive Middle	Marginally	
+Russian	24	BUILD	stroitʹ	Reflexive Middle (impersonal)	Never	
+Russian	24	BUILD	stroitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] iz+3-gen (1-instr)
+Russian	24	BUILD	stroitʹ	Reflexive Reciprocal	Never	
+Russian	24	BUILD	stroitʹ	Semantic reflexive	Never	
+Russian	25	BREAK	slomatʹ	Accusative-Genitive alternation	Never	
+Russian	25	BREAK	slomatʹ	Cognate object alternation	Never	
+Russian	25	BREAK	slomatʹ	Comitative alternation	Never	
+Russian	25	BREAK	slomatʹ	Instrumental subject alternation	Marginally	
+Russian	25	BREAK	slomatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	25	BREAK	slomatʹ	Object deletion	Never	
+Russian	25	BREAK	slomatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	25	BREAK	slomatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	25	BREAK	slomatʹ	Prefixal Source-promoting alternation	Never	
+Russian	25	BREAK	slomatʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	25	BREAK	slomatʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	25	BREAK	slomatʹ	Reflexive Middle (impersonal)	Never	
+Russian	25	BREAK	slomatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (3-instr)/(1-instr)
+Russian	25	BREAK	slomatʹ	Reflexive Reciprocal	Never	
+Russian	25	BREAK	slomatʹ	Semantic reflexive	Never	
+Russian	26	KILL	ubitʹ	Accusative-Genitive alternation	Never	
+Russian	26	KILL	ubitʹ	Cognate object alternation	Never	
+Russian	26	KILL	ubitʹ	Comitative alternation	Never	
+Russian	26	KILL	ubitʹ	Instrumental subject alternation	Never	
+Russian	26	KILL	ubitʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	26	KILL	ubitʹ	Object deletion	Marginally	
+Russian	26	KILL	ubitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	26	KILL	ubitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	26	KILL	ubitʹ	Prefixal Source-promoting alternation	Never	
+Russian	26	KILL	ubitʹ	Reflexive Anticausative	Never	
+Russian	26	KILL	ubitʹ	Reflexive Middle	Never	
+Russian	26	KILL	ubitʹ	Reflexive Middle (impersonal)	Never	
+Russian	26	KILL	ubitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (3-instr)/(1-instr)
+Russian	26	KILL	ubitʹ	Reflexive Reciprocal	Never	
+Russian	26	KILL	ubitʹ	Semantic reflexive	Never	
+Russian	27	BEAT	bitʹ	Accusative-Genitive alternation	Never	
+Russian	27	BEAT	bitʹ	Cognate object alternation	Never	
+Russian	27	BEAT	bitʹ	Comitative alternation	Never	
+Russian	27	BEAT	bitʹ	Instrumental subject alternation	Marginally	
+Russian	27	BEAT	bitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	27	BEAT	bitʹ	Object deletion	Never	
+Russian	27	BEAT	bitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	27	BEAT	bitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	27	BEAT	bitʹ	Prefixal Source-promoting alternation	Never	
+Russian	27	BEAT	bitʹ	Reflexive Anticausative	Marginally	
+Russian	27	BEAT	bitʹ	Reflexive Middle	Marginally	
+Russian	27	BEAT	bitʹ	Reflexive Middle (impersonal)	Never	
+Russian	27	BEAT	bitʹ	Reflexive Passive	Marginally	
+Russian	27	BEAT	bitʹ	Reflexive Reciprocal	Marginally	
+Russian	27	BEAT	bitʹ	Semantic reflexive	Never	
+Russian	28	HIT	udaritʹ	Accusative-Genitive alternation	Never	
+Russian	28	HIT	udaritʹ	Cognate object alternation	Never	
+Russian	28	HIT	udaritʹ	Comitative alternation	Never	
+Russian	28	HIT	udaritʹ	Instrumental subject alternation	Marginally	
+Russian	28	HIT	udaritʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	28	HIT	udaritʹ	Object deletion	Never	
+Russian	28	HIT	udaritʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	28	HIT	udaritʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	28	HIT	udaritʹ	Prefixal Source-promoting alternation	Never	
+Russian	28	HIT	udaritʹ	Reflexive Anticausative	Never	
+Russian	28	HIT	udaritʹ	Reflexive Middle	Never	
+Russian	28	HIT	udaritʹ	Reflexive Middle (impersonal)	Never	
+Russian	28	HIT	udaritʹ	Reflexive Passive	Marginally	
+Russian	28	HIT	udaritʹ	Reflexive Reciprocal	Never	
+Russian	28	HIT	udaritʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (3-instr)
+Russian	29	TOUCH	kosnutʹsja	Accusative-Genitive alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Cognate object alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Comitative alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Instrumental subject alternation	Regularly	3-nom V'.subj[3] 2-gen
+Russian	29	TOUCH	kosnutʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Object deletion	Never	
+Russian	29	TOUCH	kosnutʹsja	Participial Passive	Never	
+Russian	29	TOUCH	kosnutʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Prefixal Source-promoting alternation	Never	
+Russian	29	TOUCH	kosnutʹsja	Reflexive Anticausative	Never	
+Russian	29	TOUCH	kosnutʹsja	Reflexive Middle	Never	
+Russian	29	TOUCH	kosnutʹsja	Reflexive Middle (impersonal)	Never	
+Russian	29	TOUCH	kosnutʹsja	Reflexive Passive	Never	
+Russian	29	TOUCH	kosnutʹsja	Reflexive Reciprocal	Never	
+Russian	29	TOUCH	kosnutʹsja	Semantic reflexive	Never	
+Russian	30	CUT	rezatʹ	Accusative-Genitive alternation	Never	
+Russian	30	CUT	rezatʹ	Cognate object alternation	Never	
+Russian	30	CUT	rezatʹ	Comitative alternation	Never	
+Russian	30	CUT	rezatʹ	Instrumental subject alternation	Marginally	
+Russian	30	CUT	rezatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	30	CUT	rezatʹ	Object deletion	Never	
+Russian	30	CUT	rezatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	30	CUT	rezatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	30	CUT	rezatʹ	Prefixal Source-promoting alternation	Never	
+Russian	30	CUT	rezatʹ	Reflexive Anticausative	Never	
+Russian	30	CUT	rezatʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	30	CUT	rezatʹ	Reflexive Middle (impersonal)	Never	
+Russian	30	CUT	rezatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (3-instr)/(1-instr)
+Russian	30	CUT	rezatʹ	Reflexive Reciprocal	Never	
+Russian	30	CUT	rezatʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (3-instr)
+Russian	31	TAKE	vzjatʹ	Accusative-Genitive alternation	Never	
+Russian	31	TAKE	vzjatʹ	Cognate object alternation	Never	
+Russian	31	TAKE	vzjatʹ	Comitative alternation	Never	
+Russian	31	TAKE	vzjatʹ	Instrumental subject alternation	Never	
+Russian	31	TAKE	vzjatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (u+3-gen)
+Russian	31	TAKE	vzjatʹ	Object deletion	Never	
+Russian	31	TAKE	vzjatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (u+3-gen) (1-instr)
+Russian	31	TAKE	vzjatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	31	TAKE	vzjatʹ	Prefixal Source-promoting alternation	Never	
+Russian	31	TAKE	vzjatʹ	Reflexive Anticausative	Never	
+Russian	31	TAKE	vzjatʹ	Reflexive Middle	Never	
+Russian	31	TAKE	vzjatʹ	Reflexive Middle (impersonal)	Never	
+Russian	31	TAKE	vzjatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] u+3-gen (1-instr)
+Russian	31	TAKE	vzjatʹ	Reflexive Reciprocal	Never	
+Russian	31	TAKE	vzjatʹ	Semantic reflexive	Never	
+Russian	32	TEAR	otorvatʹ	Accusative-Genitive alternation	Never	
+Russian	32	TEAR	otorvatʹ	Cognate object alternation	Never	
+Russian	32	TEAR	otorvatʹ	Comitative alternation	Never	
+Russian	32	TEAR	otorvatʹ	Instrumental subject alternation	Never	
+Russian	32	TEAR	otorvatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (ot+3-gen)
+Russian	32	TEAR	otorvatʹ	Object deletion	Never	
+Russian	32	TEAR	otorvatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (ot+3-gen) (1-instr)
+Russian	32	TEAR	otorvatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	32	TEAR	otorvatʹ	Prefixal Source-promoting alternation	Regularly	1-nom obV'.subj[1] 3-acc
+Russian	32	TEAR	otorvatʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] (ot+3-gen)
+Russian	32	TEAR	otorvatʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2] (ot+3-gen)
+Russian	32	TEAR	otorvatʹ	Reflexive Middle (impersonal)	Never	
+Russian	32	TEAR	otorvatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)
+Russian	32	TEAR	otorvatʹ	Reflexive Reciprocal	Never	
+Russian	32	TEAR	otorvatʹ	Semantic reflexive	Never	
+Russian	33	PEEL	očistitʹ	Accusative-Genitive alternation	Never	
+Russian	33	PEEL	očistitʹ	Cognate object alternation	Never	
+Russian	33	PEEL	očistitʹ	Comitative alternation	Never	
+Russian	33	PEEL	očistitʹ	Instrumental subject alternation	Never	
+Russian	33	PEEL	očistitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (ot+3-gen)
+Russian	33	PEEL	očistitʹ	Object deletion	Never	
+Russian	33	PEEL	očistitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (ot+3-gen) (1-instr)
+Russian	33	PEEL	očistitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	33	PEEL	očistitʹ	Prefixal Source-promoting alternation	Never	
+Russian	33	PEEL	očistitʹ	Reflexive Anticausative	Marginally	
+Russian	33	PEEL	očistitʹ	Reflexive Middle	Marginally	
+Russian	33	PEEL	očistitʹ	Reflexive Middle (impersonal)	Never	
+Russian	33	PEEL	očistitʹ	Reflexive Passive	Marginally	
+Russian	33	PEEL	očistitʹ	Reflexive Reciprocal	Never	
+Russian	33	PEEL	očistitʹ	Semantic reflexive	Never	
+Russian	34	HIDE	sprjatatʹ	Accusative-Genitive alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Cognate object alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Comitative alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Instrumental subject alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (ot+3-gen)
+Russian	34	HIDE	sprjatatʹ	Object deletion	Never	
+Russian	34	HIDE	sprjatatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (ot+3-gen) (1-instr)
+Russian	34	HIDE	sprjatatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Prefixal Source-promoting alternation	Never	
+Russian	34	HIDE	sprjatatʹ	Reflexive Anticausative	Marginally	
+Russian	34	HIDE	sprjatatʹ	Reflexive Middle	Never	
+Russian	34	HIDE	sprjatatʹ	Reflexive Middle (impersonal)	Never	
+Russian	34	HIDE	sprjatatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (ot+3-gen) (1-instr)
+Russian	34	HIDE	sprjatatʹ	Reflexive Reciprocal	Never	
+Russian	34	HIDE	sprjatatʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (ot+3-gen)
+Russian	35	SHOW	pokazatʹ	Accusative-Genitive alternation	Never	
+Russian	35	SHOW	pokazatʹ	Cognate object alternation	Never	
+Russian	35	SHOW	pokazatʹ	Comitative alternation	Never	
+Russian	35	SHOW	pokazatʹ	Instrumental subject alternation	Never	
+Russian	35	SHOW	pokazatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen 3-dat
+Russian	35	SHOW	pokazatʹ	Object deletion	Never	
+Russian	35	SHOW	pokazatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] 3-dat (1-instr)
+Russian	35	SHOW	pokazatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	35	SHOW	pokazatʹ	Prefixal Source-promoting alternation	Never	
+Russian	35	SHOW	pokazatʹ	Reflexive Anticausative	Marginally	
+Russian	35	SHOW	pokazatʹ	Reflexive Middle	Never	
+Russian	35	SHOW	pokazatʹ	Reflexive Middle (impersonal)	Never	
+Russian	35	SHOW	pokazatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] 3-dat (1-instr)
+Russian	35	SHOW	pokazatʹ	Reflexive Reciprocal	Never	
+Russian	35	SHOW	pokazatʹ	Semantic reflexive	Marginally	
+Russian	36	GIVE	datʹ	Accusative-Genitive alternation	Never	
+Russian	36	GIVE	datʹ	Cognate object alternation	Never	
+Russian	36	GIVE	datʹ	Comitative alternation	Never	
+Russian	36	GIVE	datʹ	Instrumental subject alternation	Never	
+Russian	36	GIVE	datʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen 3-dat
+Russian	36	GIVE	datʹ	Object deletion	Never	
+Russian	36	GIVE	datʹ	Participial Passive	Regularly	2-nom passV'.subj[2] 3-dat (1-instr)
+Russian	36	GIVE	datʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	36	GIVE	datʹ	Prefixal Source-promoting alternation	Never	
+Russian	36	GIVE	datʹ	Reflexive Anticausative	Never	
+Russian	36	GIVE	datʹ	Reflexive Middle	Marginally	
+Russian	36	GIVE	datʹ	Reflexive Middle (impersonal)	Never	
+Russian	36	GIVE	datʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] 3-dat (1-instr)
+Russian	36	GIVE	datʹ	Reflexive Reciprocal	Never	
+Russian	36	GIVE	datʹ	Semantic reflexive	Never	
+Russian	37	SEND	poslatʹ	Accusative-Genitive alternation	Never	
+Russian	37	SEND	poslatʹ	Cognate object alternation	Never	
+Russian	37	SEND	poslatʹ	Comitative alternation	Never	
+Russian	37	SEND	poslatʹ	Instrumental subject alternation	Never	
+Russian	37	SEND	poslatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen 3-dat
+Russian	37	SEND	poslatʹ	Object deletion	Never	
+Russian	37	SEND	poslatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] 3-dat (1-instr)
+Russian	37	SEND	poslatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	37	SEND	poslatʹ	Prefixal Source-promoting alternation	Never	
+Russian	37	SEND	poslatʹ	Reflexive Anticausative	Never	
+Russian	37	SEND	poslatʹ	Reflexive Middle	Marginally	
+Russian	37	SEND	poslatʹ	Reflexive Middle (impersonal)	Never	
+Russian	37	SEND	poslatʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] 3-dat (1-instr)
+Russian	37	SEND	poslatʹ	Reflexive Reciprocal	Never	
+Russian	37	SEND	poslatʹ	Semantic reflexive	Never	
+Russian	38	CARRY	nesti	Accusative-Genitive alternation	Never	
+Russian	38	CARRY	nesti	Cognate object alternation	Never	
+Russian	38	CARRY	nesti	Comitative alternation	Never	
+Russian	38	CARRY	nesti	Instrumental subject alternation	Never	
+Russian	38	CARRY	nesti	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen LOC3
+Russian	38	CARRY	nesti	Object deletion	Never	
+Russian	38	CARRY	nesti	Participial Passive	Regularly	2-nom passV'.subj[2] LOC3 (1-instr)
+Russian	38	CARRY	nesti	Prefixal Goal-Instrumental alternation	Never	
+Russian	38	CARRY	nesti	Prefixal Source-promoting alternation	Never	
+Russian	38	CARRY	nesti	Reflexive Anticausative	Never	
+Russian	38	CARRY	nesti	Reflexive Middle	Marginally	
+Russian	38	CARRY	nesti	Reflexive Middle (impersonal)	Never	
+Russian	38	CARRY	nesti	Reflexive Passive	Regularly	2-nom V'sja.subj[2] LOC3 (1-instr)
+Russian	38	CARRY	nesti	Reflexive Reciprocal	Never	
+Russian	38	CARRY	nesti	Semantic reflexive	Never	
+Russian	39	THROW	brositʹ	Accusative-Genitive alternation	Never	
+Russian	39	THROW	brositʹ	Cognate object alternation	Never	
+Russian	39	THROW	brositʹ	Comitative alternation	Never	
+Russian	39	THROW	brositʹ	Instrumental subject alternation	Never	
+Russian	39	THROW	brositʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen LOC3
+Russian	39	THROW	brositʹ	Object deletion	Never	
+Russian	39	THROW	brositʹ	Participial Passive	Regularly	2-nom passV'.subj[2] LOC3 (1-instr)
+Russian	39	THROW	brositʹ	Prefixal Goal-Instrumental alternation	Regularly	1-nom zaV'.subj[1] 3-acc 2-instr
+Russian	39	THROW	brositʹ	Prefixal Source-promoting alternation	Never	
+Russian	39	THROW	brositʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] LOC3
+Russian	39	THROW	brositʹ	Reflexive Middle	Marginally	
+Russian	39	THROW	brositʹ	Reflexive Middle (impersonal)	Never	
+Russian	39	THROW	brositʹ	Reflexive Passive	Marginally	
+Russian	39	THROW	brositʹ	Reflexive Reciprocal	Never	
+Russian	39	THROW	brositʹ	Semantic reflexive	Never	
+Russian	40	TIE	privjazatʹ	Accusative-Genitive alternation	Never	
+Russian	40	TIE	privjazatʹ	Cognate object alternation	Never	
+Russian	40	TIE	privjazatʹ	Comitative alternation	Never	
+Russian	40	TIE	privjazatʹ	Instrumental subject alternation	Never	
+Russian	40	TIE	privjazatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen k+3-dat (4-instr)
+Russian	40	TIE	privjazatʹ	Object deletion	Never	
+Russian	40	TIE	privjazatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] k+3-dat (4-instr)/(1-instr)
+Russian	40	TIE	privjazatʹ	Prefixal Goal-Instrumental alternation	Regularly	1-nom obV'.subj[1] 3-acc (4-instr)
+Russian	40	TIE	privjazatʹ	Prefixal Source-promoting alternation	Never	
+Russian	40	TIE	privjazatʹ	Reflexive Anticausative	Never	
+Russian	40	TIE	privjazatʹ	Reflexive Middle	Marginally	
+Russian	40	TIE	privjazatʹ	Reflexive Middle (impersonal)	Never	
+Russian	40	TIE	privjazatʹ	Reflexive Passive	Marginally	
+Russian	40	TIE	privjazatʹ	Reflexive Reciprocal	Never	
+Russian	40	TIE	privjazatʹ	Semantic reflexive	Never	
+Russian	41	PUT	položitʹ	Accusative-Genitive alternation	Never	
+Russian	41	PUT	položitʹ	Cognate object alternation	Never	
+Russian	41	PUT	položitʹ	Comitative alternation	Never	
+Russian	41	PUT	položitʹ	Instrumental subject alternation	Never	
+Russian	41	PUT	položitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen LOC3
+Russian	41	PUT	položitʹ	Object deletion	Never	
+Russian	41	PUT	položitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] LOC3 (1-instr)
+Russian	41	PUT	položitʹ	Prefixal Goal-Instrumental alternation	Regularly	1-nom zaV'.subj[1] 3-acc 2-instr
+Russian	41	PUT	položitʹ	Prefixal Source-promoting alternation	Never	
+Russian	41	PUT	položitʹ	Reflexive Anticausative	Never	
+Russian	41	PUT	položitʹ	Reflexive Middle	Marginally	
+Russian	41	PUT	položitʹ	Reflexive Middle (impersonal)	Never	
+Russian	41	PUT	položitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] LOC3 (1-instr)
+Russian	41	PUT	položitʹ	Reflexive Reciprocal	Never	
+Russian	41	PUT	položitʹ	Semantic reflexive	Never	
+Russian	42	POUR	litʹ	Accusative-Genitive alternation	Never	
+Russian	42	POUR	litʹ	Cognate object alternation	Never	
+Russian	42	POUR	litʹ	Comitative alternation	Never	
+Russian	42	POUR	litʹ	Instrumental subject alternation	Never	
+Russian	42	POUR	litʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen LOC3
+Russian	42	POUR	litʹ	Object deletion	Never	
+Russian	42	POUR	litʹ	Participial Passive	Regularly	2-nom passV'.subj[2] LOC3 (1-instr)
+Russian	42	POUR	litʹ	Prefixal Goal-Instrumental alternation	Regularly	1-nom zaV'.subj[1] 3-acc 2-instr
+Russian	42	POUR	litʹ	Prefixal Source-promoting alternation	Never	
+Russian	42	POUR	litʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] LOC3
+Russian	42	POUR	litʹ	Reflexive Middle	Marginally	
+Russian	42	POUR	litʹ	Reflexive Middle (impersonal)	Never	
+Russian	42	POUR	litʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] LOC3 (1-instr)
+Russian	42	POUR	litʹ	Reflexive Reciprocal	Never	
+Russian	42	POUR	litʹ	Semantic reflexive	Never	
+Russian	43	COVER	nakrytʹ	Accusative-Genitive alternation	Never	
+Russian	43	COVER	nakrytʹ	Cognate object alternation	Never	
+Russian	43	COVER	nakrytʹ	Comitative alternation	Never	
+Russian	43	COVER	nakrytʹ	Instrumental subject alternation	Marginally	
+Russian	43	COVER	nakrytʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	43	COVER	nakrytʹ	Object deletion	Never	
+Russian	43	COVER	nakrytʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	43	COVER	nakrytʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	43	COVER	nakrytʹ	Prefixal Source-promoting alternation	Never	
+Russian	43	COVER	nakrytʹ	Reflexive Anticausative	Never	
+Russian	43	COVER	nakrytʹ	Reflexive Middle	Marginally	
+Russian	43	COVER	nakrytʹ	Reflexive Middle (impersonal)	Never	
+Russian	43	COVER	nakrytʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (3-instr)/(1-instr)
+Russian	43	COVER	nakrytʹ	Reflexive Reciprocal	Never	
+Russian	43	COVER	nakrytʹ	Semantic reflexive	Marginally	
+Russian	44	FILL	napolnitʹ	Accusative-Genitive alternation	Never	
+Russian	44	FILL	napolnitʹ	Cognate object alternation	Never	
+Russian	44	FILL	napolnitʹ	Comitative alternation	Never	
+Russian	44	FILL	napolnitʹ	Instrumental subject alternation	Regularly	3-nom V'.subj[3] 2-acc
+Russian	44	FILL	napolnitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	44	FILL	napolnitʹ	Object deletion	Never	
+Russian	44	FILL	napolnitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	44	FILL	napolnitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	44	FILL	napolnitʹ	Prefixal Source-promoting alternation	Never	
+Russian	44	FILL	napolnitʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] (3-instr)
+Russian	44	FILL	napolnitʹ	Reflexive Middle	Marginally	
+Russian	44	FILL	napolnitʹ	Reflexive Middle (impersonal)	Never	
+Russian	44	FILL	napolnitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (3-instr)/(1-instr)
+Russian	44	FILL	napolnitʹ	Reflexive Reciprocal	Never	
+Russian	44	FILL	napolnitʹ	Semantic reflexive	Never	
+Russian	45	LOAD	nagruzitʹ	Accusative-Genitive alternation	Never	
+Russian	45	LOAD	nagruzitʹ	Cognate object alternation	Never	
+Russian	45	LOAD	nagruzitʹ	Comitative alternation	Never	
+Russian	45	LOAD	nagruzitʹ	Instrumental subject alternation	Never	
+Russian	45	LOAD	nagruzitʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	45	LOAD	nagruzitʹ	Object deletion	Never	
+Russian	45	LOAD	nagruzitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] LOC3 (1-instr)
+Russian	45	LOAD	nagruzitʹ	Prefixal Goal-Instrumental alternation	Regularly	1-nom zaV'.subj[1] 3-acc 2-instr
+Russian	45	LOAD	nagruzitʹ	Prefixal Source-promoting alternation	Never	
+Russian	45	LOAD	nagruzitʹ	Reflexive Anticausative	Never	
+Russian	45	LOAD	nagruzitʹ	Reflexive Middle	Marginally	
+Russian	45	LOAD	nagruzitʹ	Reflexive Middle (impersonal)	Never	
+Russian	45	LOAD	nagruzitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] LOC3 (1-instr)
+Russian	45	LOAD	nagruzitʹ	Reflexive Reciprocal	Never	
+Russian	45	LOAD	nagruzitʹ	Semantic reflexive	Never	
+Russian	46	BLINK	morgnutʹ	Accusative-Genitive alternation	Never	
+Russian	46	BLINK	morgnutʹ	Cognate object alternation	Never	
+Russian	46	BLINK	morgnutʹ	Comitative alternation	Never	
+Russian	46	BLINK	morgnutʹ	Instrumental subject alternation	Never	
+Russian	46	BLINK	morgnutʹ	Negative Accusative-Genitive alternation	Never	
+Russian	46	BLINK	morgnutʹ	Object deletion	Never	
+Russian	46	BLINK	morgnutʹ	Participial Passive	Never	
+Russian	46	BLINK	morgnutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	46	BLINK	morgnutʹ	Prefixal Source-promoting alternation	Never	
+Russian	46	BLINK	morgnutʹ	Reflexive Anticausative	Never	
+Russian	46	BLINK	morgnutʹ	Reflexive Middle	Never	
+Russian	46	BLINK	morgnutʹ	Reflexive Middle (impersonal)	Never	
+Russian	46	BLINK	morgnutʹ	Reflexive Passive	Never	
+Russian	46	BLINK	morgnutʹ	Reflexive Reciprocal	Never	
+Russian	46	BLINK	morgnutʹ	Semantic reflexive	Never	
+Russian	47	COUGH	kašljatʹ	Accusative-Genitive alternation	Never	
+Russian	47	COUGH	kašljatʹ	Cognate object alternation	Never	
+Russian	47	COUGH	kašljatʹ	Comitative alternation	Never	
+Russian	47	COUGH	kašljatʹ	Instrumental subject alternation	Never	
+Russian	47	COUGH	kašljatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	47	COUGH	kašljatʹ	Object deletion	Never	
+Russian	47	COUGH	kašljatʹ	Participial Passive	Never	
+Russian	47	COUGH	kašljatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	47	COUGH	kašljatʹ	Prefixal Source-promoting alternation	Never	
+Russian	47	COUGH	kašljatʹ	Reflexive Anticausative	Never	
+Russian	47	COUGH	kašljatʹ	Reflexive Middle	Never	
+Russian	47	COUGH	kašljatʹ	Reflexive Middle (impersonal)	Never	
+Russian	47	COUGH	kašljatʹ	Reflexive Passive	Never	
+Russian	47	COUGH	kašljatʹ	Reflexive Reciprocal	Never	
+Russian	47	COUGH	kašljatʹ	Semantic reflexive	Never	
+Russian	48	CLIMB	vzobratʹsja	Accusative-Genitive alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Cognate object alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Comitative alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Instrumental subject alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Object deletion	Never	
+Russian	48	CLIMB	vzobratʹsja	Participial Passive	Never	
+Russian	48	CLIMB	vzobratʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Prefixal Source-promoting alternation	Never	
+Russian	48	CLIMB	vzobratʹsja	Reflexive Anticausative	Never	
+Russian	48	CLIMB	vzobratʹsja	Reflexive Middle	Never	
+Russian	48	CLIMB	vzobratʹsja	Reflexive Middle (impersonal)	Never	
+Russian	48	CLIMB	vzobratʹsja	Reflexive Passive	Never	
+Russian	48	CLIMB	vzobratʹsja	Reflexive Reciprocal	Never	
+Russian	48	CLIMB	vzobratʹsja	Semantic reflexive	Never	
+Russian	49	RUN	bežatʹ	Accusative-Genitive alternation	Never	
+Russian	49	RUN	bežatʹ	Cognate object alternation	Never	
+Russian	49	RUN	bežatʹ	Comitative alternation	Never	
+Russian	49	RUN	bežatʹ	Instrumental subject alternation	Never	
+Russian	49	RUN	bežatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	49	RUN	bežatʹ	Object deletion	Never	
+Russian	49	RUN	bežatʹ	Participial Passive	Never	
+Russian	49	RUN	bežatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	49	RUN	bežatʹ	Prefixal Source-promoting alternation	Never	
+Russian	49	RUN	bežatʹ	Reflexive Anticausative	Never	
+Russian	49	RUN	bežatʹ	Reflexive Middle	Never	
+Russian	49	RUN	bežatʹ	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	49	RUN	bežatʹ	Reflexive Passive	Never	
+Russian	49	RUN	bežatʹ	Reflexive Reciprocal	Never	
+Russian	49	RUN	bežatʹ	Semantic reflexive	Never	
+Russian	50	SIT	sidetʹ	Accusative-Genitive alternation	Never	
+Russian	50	SIT	sidetʹ	Cognate object alternation	Never	
+Russian	50	SIT	sidetʹ	Comitative alternation	Never	
+Russian	50	SIT	sidetʹ	Instrumental subject alternation	Never	
+Russian	50	SIT	sidetʹ	Negative Accusative-Genitive alternation	Never	
+Russian	50	SIT	sidetʹ	Object deletion	Never	
+Russian	50	SIT	sidetʹ	Participial Passive	Never	
+Russian	50	SIT	sidetʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	50	SIT	sidetʹ	Prefixal Source-promoting alternation	Never	
+Russian	50	SIT	sidetʹ	Reflexive Anticausative	Never	
+Russian	50	SIT	sidetʹ	Reflexive Middle	Never	
+Russian	50	SIT	sidetʹ	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	50	SIT	sidetʹ	Reflexive Passive	Never	
+Russian	50	SIT	sidetʹ	Reflexive Reciprocal	Never	
+Russian	50	SIT	sidetʹ	Semantic reflexive	Never	
+Russian	51	SIT DOWN	sestʹ	Accusative-Genitive alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Cognate object alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Comitative alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Instrumental subject alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Negative Accusative-Genitive alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Object deletion	Never	
+Russian	51	SIT DOWN	sestʹ	Participial Passive	Never	
+Russian	51	SIT DOWN	sestʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Prefixal Source-promoting alternation	Never	
+Russian	51	SIT DOWN	sestʹ	Reflexive Anticausative	Marginally	
+Russian	51	SIT DOWN	sestʹ	Reflexive Middle	Never	
+Russian	51	SIT DOWN	sestʹ	Reflexive Middle (impersonal)	Never	
+Russian	51	SIT DOWN	sestʹ	Reflexive Passive	Never	
+Russian	51	SIT DOWN	sestʹ	Reflexive Reciprocal	Never	
+Russian	51	SIT DOWN	sestʹ	Semantic reflexive	Never	
+Russian	52	JUMP	prygnutʹ	Accusative-Genitive alternation	Never	
+Russian	52	JUMP	prygnutʹ	Cognate object alternation	Never	
+Russian	52	JUMP	prygnutʹ	Comitative alternation	Never	
+Russian	52	JUMP	prygnutʹ	Instrumental subject alternation	Never	
+Russian	52	JUMP	prygnutʹ	Negative Accusative-Genitive alternation	Never	
+Russian	52	JUMP	prygnutʹ	Object deletion	Never	
+Russian	52	JUMP	prygnutʹ	Participial Passive	Never	
+Russian	52	JUMP	prygnutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	52	JUMP	prygnutʹ	Prefixal Source-promoting alternation	Never	
+Russian	52	JUMP	prygnutʹ	Reflexive Anticausative	Never	
+Russian	52	JUMP	prygnutʹ	Reflexive Middle	Never	
+Russian	52	JUMP	prygnutʹ	Reflexive Middle (impersonal)	Marginally	(1-dat) V'sja.subj
+Russian	52	JUMP	prygnutʹ	Reflexive Passive	Never	
+Russian	52	JUMP	prygnutʹ	Reflexive Reciprocal	Never	
+Russian	52	JUMP	prygnutʹ	Semantic reflexive	Never	
+Russian	53	SING	petʹ	Accusative-Genitive alternation	Never	
+Russian	53	SING	petʹ	Cognate object alternation	Regularly	1-nom V'.subj[1] 2-acc
+Russian	53	SING	petʹ	Comitative alternation	Never	
+Russian	53	SING	petʹ	Instrumental subject alternation	Never	
+Russian	53	SING	petʹ	Negative Accusative-Genitive alternation	Never	
+Russian	53	SING	petʹ	Object deletion	Never	
+Russian	53	SING	petʹ	Participial Passive	Marginally	
+Russian	53	SING	petʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	53	SING	petʹ	Prefixal Source-promoting alternation	Never	
+Russian	53	SING	petʹ	Reflexive Anticausative	Never	
+Russian	53	SING	petʹ	Reflexive Middle	Never	
+Russian	53	SING	petʹ	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	53	SING	petʹ	Reflexive Passive	Never	
+Russian	53	SING	petʹ	Reflexive Reciprocal	Never	
+Russian	53	SING	petʹ	Semantic reflexive	Never	
+Russian	54	GO	idti	Accusative-Genitive alternation	Never	
+Russian	54	GO	idti	Cognate object alternation	Never	
+Russian	54	GO	idti	Comitative alternation	Never	
+Russian	54	GO	idti	Instrumental subject alternation	Never	
+Russian	54	GO	idti	Negative Accusative-Genitive alternation	Never	
+Russian	54	GO	idti	Object deletion	Never	
+Russian	54	GO	idti	Participial Passive	Never	
+Russian	54	GO	idti	Prefixal Goal-Instrumental alternation	Never	
+Russian	54	GO	idti	Prefixal Source-promoting alternation	Never	
+Russian	54	GO	idti	Reflexive Anticausative	Never	
+Russian	54	GO	idti	Reflexive Middle	Never	
+Russian	54	GO	idti	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	54	GO	idti	Reflexive Passive	Never	
+Russian	54	GO	idti	Reflexive Reciprocal	Never	
+Russian	54	GO	idti	Semantic reflexive	Never	
+Russian	55	LEAVE	uexatʹ	Accusative-Genitive alternation	Never	
+Russian	55	LEAVE	uexatʹ	Cognate object alternation	Never	
+Russian	55	LEAVE	uexatʹ	Comitative alternation	Never	
+Russian	55	LEAVE	uexatʹ	Instrumental subject alternation	Never	
+Russian	55	LEAVE	uexatʹ	Negative Accusative-Genitive alternation	Never	
+Russian	55	LEAVE	uexatʹ	Object deletion	Never	
+Russian	55	LEAVE	uexatʹ	Participial Passive	Never	
+Russian	55	LEAVE	uexatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	55	LEAVE	uexatʹ	Prefixal Source-promoting alternation	Never	
+Russian	55	LEAVE	uexatʹ	Reflexive Anticausative	Never	
+Russian	55	LEAVE	uexatʹ	Reflexive Middle	Never	
+Russian	55	LEAVE	uexatʹ	Reflexive Middle (impersonal)	Never	
+Russian	55	LEAVE	uexatʹ	Reflexive Passive	Never	
+Russian	55	LEAVE	uexatʹ	Reflexive Reciprocal	Never	
+Russian	55	LEAVE	uexatʹ	Semantic reflexive	Never	
+Russian	55	LEAVE	ujti	Accusative-Genitive alternation	Never	
+Russian	55	LEAVE	ujti	Cognate object alternation	Never	
+Russian	55	LEAVE	ujti	Comitative alternation	Never	
+Russian	55	LEAVE	ujti	Instrumental subject alternation	Never	
+Russian	55	LEAVE	ujti	Negative Accusative-Genitive alternation	Never	
+Russian	55	LEAVE	ujti	Object deletion	Never	
+Russian	55	LEAVE	ujti	Participial Passive	Never	
+Russian	55	LEAVE	ujti	Prefixal Goal-Instrumental alternation	Never	
+Russian	55	LEAVE	ujti	Prefixal Source-promoting alternation	Never	
+Russian	55	LEAVE	ujti	Reflexive Anticausative	Never	
+Russian	55	LEAVE	ujti	Reflexive Middle	Never	
+Russian	55	LEAVE	ujti	Reflexive Middle (impersonal)	Never	
+Russian	55	LEAVE	ujti	Reflexive Passive	Never	
+Russian	55	LEAVE	ujti	Reflexive Reciprocal	Never	
+Russian	55	LEAVE	ujti	Semantic reflexive	Never	
+Russian	56	LIVE	žitʹ	Accusative-Genitive alternation	Never	
+Russian	56	LIVE	žitʹ	Cognate object alternation	Regularly	1-nom V'.subj[1] 3-acc (LOC2)
+Russian	56	LIVE	žitʹ	Comitative alternation	Never	
+Russian	56	LIVE	žitʹ	Instrumental subject alternation	Never	
+Russian	56	LIVE	žitʹ	Negative Accusative-Genitive alternation	Never	
+Russian	56	LIVE	žitʹ	Object deletion	Never	
+Russian	56	LIVE	žitʹ	Participial Passive	Never	
+Russian	56	LIVE	žitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	56	LIVE	žitʹ	Prefixal Source-promoting alternation	Never	
+Russian	56	LIVE	žitʹ	Reflexive Anticausative	Never	
+Russian	56	LIVE	žitʹ	Reflexive Middle	Never	
+Russian	56	LIVE	žitʹ	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	56	LIVE	žitʹ	Reflexive Passive	Never	
+Russian	56	LIVE	žitʹ	Reflexive Reciprocal	Never	
+Russian	56	LIVE	žitʹ	Semantic reflexive	Never	
+Russian	57	LAUGH	smejatʹsja	Accusative-Genitive alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Cognate object alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Comitative alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Instrumental subject alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Object deletion	Never	
+Russian	57	LAUGH	smejatʹsja	Participial Passive	Never	
+Russian	57	LAUGH	smejatʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Prefixal Source-promoting alternation	Never	
+Russian	57	LAUGH	smejatʹsja	Reflexive Anticausative	Never	
+Russian	57	LAUGH	smejatʹsja	Reflexive Middle	Never	
+Russian	57	LAUGH	smejatʹsja	Reflexive Middle (impersonal)	Never	
+Russian	57	LAUGH	smejatʹsja	Reflexive Passive	Never	
+Russian	57	LAUGH	smejatʹsja	Reflexive Reciprocal	Never	
+Russian	57	LAUGH	smejatʹsja	Semantic reflexive	Never	
+Russian	58	SCREAM	vopit'	Accusative-Genitive alternation	Never	
+Russian	58	SCREAM	vopit'	Cognate object alternation	Never	
+Russian	58	SCREAM	vopit'	Comitative alternation	Never	
+Russian	58	SCREAM	vopit'	Instrumental subject alternation	Never	
+Russian	58	SCREAM	vopit'	Negative Accusative-Genitive alternation	Never	
+Russian	58	SCREAM	vopit'	Object deletion	Never	
+Russian	58	SCREAM	vopit'	Participial Passive	Never	
+Russian	58	SCREAM	vopit'	Prefixal Goal-Instrumental alternation	Never	
+Russian	58	SCREAM	vopit'	Prefixal Source-promoting alternation	Never	
+Russian	58	SCREAM	vopit'	Reflexive Anticausative	Never	
+Russian	58	SCREAM	vopit'	Reflexive Middle	Never	
+Russian	58	SCREAM	vopit'	Reflexive Middle (impersonal)	Never	
+Russian	58	SCREAM	vopit'	Reflexive Passive	Never	
+Russian	58	SCREAM	vopit'	Reflexive Reciprocal	Never	
+Russian	58	SCREAM	vopit'	Semantic reflexive	Never	
+Russian	59	FEEL PAIN	boletʹ	Accusative-Genitive alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Cognate object alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Comitative alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Instrumental subject alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Negative Accusative-Genitive alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Object deletion	Never	
+Russian	59	FEEL PAIN	boletʹ	Participial Passive	Never	
+Russian	59	FEEL PAIN	boletʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Prefixal Source-promoting alternation	Never	
+Russian	59	FEEL PAIN	boletʹ	Reflexive Anticausative	Never	
+Russian	59	FEEL PAIN	boletʹ	Reflexive Middle	Never	
+Russian	59	FEEL PAIN	boletʹ	Reflexive Middle (impersonal)	Never	
+Russian	59	FEEL PAIN	boletʹ	Reflexive Passive	Never	
+Russian	59	FEEL PAIN	boletʹ	Reflexive Reciprocal	Never	
+Russian	59	FEEL PAIN	boletʹ	Semantic reflexive	Never	
+Russian	60	FEEL COLD	mërznutʹ	Accusative-Genitive alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Cognate object alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Comitative alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Instrumental subject alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Negative Accusative-Genitive alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Object deletion	Never	
+Russian	60	FEEL COLD	mërznutʹ	Participial Passive	Never	
+Russian	60	FEEL COLD	mërznutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Prefixal Source-promoting alternation	Never	
+Russian	60	FEEL COLD	mërznutʹ	Reflexive Anticausative	Never	
+Russian	60	FEEL COLD	mërznutʹ	Reflexive Middle	Never	
+Russian	60	FEEL COLD	mërznutʹ	Reflexive Middle (impersonal)	Never	
+Russian	60	FEEL COLD	mërznutʹ	Reflexive Passive	Never	
+Russian	60	FEEL COLD	mërznutʹ	Reflexive Reciprocal	Never	
+Russian	60	FEEL COLD	mërznutʹ	Semantic reflexive	Never	
+Russian	61	DIE	umeretʹ	Accusative-Genitive alternation	Never	
+Russian	61	DIE	umeretʹ	Cognate object alternation	Marginally	
+Russian	61	DIE	umeretʹ	Comitative alternation	Never	
+Russian	61	DIE	umeretʹ	Instrumental subject alternation	Never	
+Russian	61	DIE	umeretʹ	Negative Accusative-Genitive alternation	Never	
+Russian	61	DIE	umeretʹ	Object deletion	Never	
+Russian	61	DIE	umeretʹ	Participial Passive	Never	
+Russian	61	DIE	umeretʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	61	DIE	umeretʹ	Prefixal Source-promoting alternation	Never	
+Russian	61	DIE	umeretʹ	Reflexive Anticausative	Never	
+Russian	61	DIE	umeretʹ	Reflexive Middle	Never	
+Russian	61	DIE	umeretʹ	Reflexive Middle (impersonal)	Never	
+Russian	61	DIE	umeretʹ	Reflexive Passive	Never	
+Russian	61	DIE	umeretʹ	Reflexive Reciprocal	Never	
+Russian	61	DIE	umeretʹ	Semantic reflexive	Never	
+Russian	62	PLAY	igratʹ (1)	Accusative-Genitive alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Cognate object alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Comitative alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Instrumental subject alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Negative Accusative-Genitive alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Object deletion	Never	
+Russian	62	PLAY	igratʹ (1)	Participial Passive	Never	
+Russian	62	PLAY	igratʹ (1)	Prefixal Goal-Instrumental alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Prefixal Source-promoting alternation	Never	
+Russian	62	PLAY	igratʹ (1)	Reflexive Anticausative	Never	
+Russian	62	PLAY	igratʹ (1)	Reflexive Middle	Never	
+Russian	62	PLAY	igratʹ (1)	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	62	PLAY	igratʹ (1)	Reflexive Passive	Never	
+Russian	62	PLAY	igratʹ (1)	Reflexive Reciprocal	Never	
+Russian	62	PLAY	igratʹ (1)	Semantic reflexive	Never	
+Russian	62	PLAY	igratʹ (2)	Accusative-Genitive alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Cognate object alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Comitative alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Instrumental subject alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Negative Accusative-Genitive alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Object deletion	Never	
+Russian	62	PLAY	igratʹ (2)	Participial Passive	Never	
+Russian	62	PLAY	igratʹ (2)	Prefixal Goal-Instrumental alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Prefixal Source-promoting alternation	Never	
+Russian	62	PLAY	igratʹ (2)	Reflexive Anticausative	Never	
+Russian	62	PLAY	igratʹ (2)	Reflexive Middle	Never	
+Russian	62	PLAY	igratʹ (2)	Reflexive Middle (impersonal)	Regularly	(1-dat) V'sja.subj
+Russian	62	PLAY	igratʹ (2)	Reflexive Passive	Never	
+Russian	62	PLAY	igratʹ (2)	Reflexive Reciprocal	Never	
+Russian	62	PLAY	igratʹ (2)	Semantic reflexive	Never	
+Russian	63	BE SAD	grustitʹ	Accusative-Genitive alternation	Never	
+Russian	63	BE SAD	grustitʹ	Cognate object alternation	Never	
+Russian	63	BE SAD	grustitʹ	Comitative alternation	Never	
+Russian	63	BE SAD	grustitʹ	Instrumental subject alternation	Never	
+Russian	63	BE SAD	grustitʹ	Negative Accusative-Genitive alternation	Never	
+Russian	63	BE SAD	grustitʹ	Object deletion	Never	
+Russian	63	BE SAD	grustitʹ	Participial Passive	Never	
+Russian	63	BE SAD	grustitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	63	BE SAD	grustitʹ	Prefixal Source-promoting alternation	Never	
+Russian	63	BE SAD	grustitʹ	Reflexive Anticausative	Never	
+Russian	63	BE SAD	grustitʹ	Reflexive Middle	Never	
+Russian	63	BE SAD	grustitʹ	Reflexive Middle (impersonal)	Regularly	
+Russian	63	BE SAD	grustitʹ	Reflexive Passive	Never	
+Russian	63	BE SAD	grustitʹ	Reflexive Reciprocal	Never	
+Russian	63	BE SAD	grustitʹ	Semantic reflexive	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Accusative-Genitive alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Cognate object alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Comitative alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Instrumental subject alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Negative Accusative-Genitive alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Object deletion	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Participial Passive	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Prefixal Goal-Instrumental alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Prefixal Source-promoting alternation	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Reflexive Anticausative	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Reflexive Middle	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Reflexive Middle (impersonal)	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Reflexive Passive	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Reflexive Reciprocal	Never	
+Russian	64	BE HUNGRY	bytʹ golodnym	Semantic reflexive	Never	
+Russian	65	ROLL	katitʹsja	Accusative-Genitive alternation	Never	
+Russian	65	ROLL	katitʹsja	Cognate object alternation	Never	
+Russian	65	ROLL	katitʹsja	Comitative alternation	Never	
+Russian	65	ROLL	katitʹsja	Instrumental subject alternation	Never	
+Russian	65	ROLL	katitʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	65	ROLL	katitʹsja	Object deletion	Never	
+Russian	65	ROLL	katitʹsja	Participial Passive	Never	
+Russian	65	ROLL	katitʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	65	ROLL	katitʹsja	Prefixal Source-promoting alternation	Never	
+Russian	65	ROLL	katitʹsja	Reflexive Anticausative	Never	
+Russian	65	ROLL	katitʹsja	Reflexive Middle	Marginally	
+Russian	65	ROLL	katitʹsja	Reflexive Middle (impersonal)	Never	
+Russian	65	ROLL	katitʹsja	Reflexive Passive	Never	
+Russian	65	ROLL	katitʹsja	Reflexive Reciprocal	Never	
+Russian	65	ROLL	katitʹsja	Semantic reflexive	Never	
+Russian	66	SINK	utonutʹ	Accusative-Genitive alternation	Never	
+Russian	66	SINK	utonutʹ	Cognate object alternation	Never	
+Russian	66	SINK	utonutʹ	Comitative alternation	Never	
+Russian	66	SINK	utonutʹ	Instrumental subject alternation	Never	
+Russian	66	SINK	utonutʹ	Negative Accusative-Genitive alternation	Never	
+Russian	66	SINK	utonutʹ	Object deletion	Never	
+Russian	66	SINK	utonutʹ	Participial Passive	Never	
+Russian	66	SINK	utonutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	66	SINK	utonutʹ	Prefixal Source-promoting alternation	Never	
+Russian	66	SINK	utonutʹ	Reflexive Anticausative	Never	
+Russian	66	SINK	utonutʹ	Reflexive Middle	Never	
+Russian	66	SINK	utonutʹ	Reflexive Middle (impersonal)	Never	
+Russian	66	SINK	utonutʹ	Reflexive Passive	Never	
+Russian	66	SINK	utonutʹ	Reflexive Reciprocal	Never	
+Russian	66	SINK	utonutʹ	Semantic reflexive	Never	
+Russian	67	BURN	goretʹ	Accusative-Genitive alternation	Never	
+Russian	67	BURN	goretʹ	Cognate object alternation	Never	
+Russian	67	BURN	goretʹ	Comitative alternation	Never	
+Russian	67	BURN	goretʹ	Instrumental subject alternation	Never	
+Russian	67	BURN	goretʹ	Negative Accusative-Genitive alternation	Never	
+Russian	67	BURN	goretʹ	Object deletion	Never	
+Russian	67	BURN	goretʹ	Participial Passive	Never	
+Russian	67	BURN	goretʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	67	BURN	goretʹ	Prefixal Source-promoting alternation	Never	
+Russian	67	BURN	goretʹ	Reflexive Anticausative	Never	
+Russian	67	BURN	goretʹ	Reflexive Middle	Never	
+Russian	67	BURN	goretʹ	Reflexive Middle (impersonal)	Never	
+Russian	67	BURN	goretʹ	Reflexive Passive	Never	
+Russian	67	BURN	goretʹ	Reflexive Reciprocal	Never	
+Russian	67	BURN	goretʹ	Semantic reflexive	Never	
+Russian	68	BE DRY	no verbal counterpart	Accusative-Genitive alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Cognate object alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Comitative alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Instrumental subject alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Negative Accusative-Genitive alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Object deletion	Never	
+Russian	68	BE DRY	no verbal counterpart	Participial Passive	Never	
+Russian	68	BE DRY	no verbal counterpart	Prefixal Goal-Instrumental alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Prefixal Source-promoting alternation	Never	
+Russian	68	BE DRY	no verbal counterpart	Reflexive Anticausative	Never	
+Russian	68	BE DRY	no verbal counterpart	Reflexive Middle	Never	
+Russian	68	BE DRY	no verbal counterpart	Reflexive Middle (impersonal)	Never	
+Russian	68	BE DRY	no verbal counterpart	Reflexive Passive	Never	
+Russian	68	BE DRY	no verbal counterpart	Reflexive Reciprocal	Never	
+Russian	68	BE DRY	no verbal counterpart	Semantic reflexive	Never	
+Russian	69	RAIN	dožd' idët	Accusative-Genitive alternation	Never	
+Russian	69	RAIN	dožd' idët	Cognate object alternation	Never	
+Russian	69	RAIN	dožd' idët	Comitative alternation	Never	
+Russian	69	RAIN	dožd' idët	Instrumental subject alternation	Never	
+Russian	69	RAIN	dožd' idët	Negative Accusative-Genitive alternation	Never	
+Russian	69	RAIN	dožd' idët	Object deletion	Never	
+Russian	69	RAIN	dožd' idët	Participial Passive	Never	
+Russian	69	RAIN	dožd' idët	Prefixal Goal-Instrumental alternation	Never	
+Russian	69	RAIN	dožd' idët	Prefixal Source-promoting alternation	Never	
+Russian	69	RAIN	dožd' idët	Reflexive Anticausative	Never	
+Russian	69	RAIN	dožd' idët	Reflexive Middle	Never	
+Russian	69	RAIN	dožd' idët	Reflexive Middle (impersonal)	Never	
+Russian	69	RAIN	dožd' idët	Reflexive Passive	Never	
+Russian	69	RAIN	dožd' idët	Reflexive Reciprocal	Never	
+Russian	69	RAIN	dožd' idët	Semantic reflexive	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Accusative-Genitive alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Cognate object alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Comitative alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Instrumental subject alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Negative Accusative-Genitive alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Object deletion	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Participial Passive	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Prefixal Goal-Instrumental alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Prefixal Source-promoting alternation	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Reflexive Anticausative	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Reflexive Middle	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Reflexive Middle (impersonal)	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Reflexive Passive	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Reflexive Reciprocal	Never	
+Russian	70	BE A HUNTER	no verbal counterpart	Semantic reflexive	Never	
+Russian	71	GRIND	molotʹ	Accusative-Genitive alternation	Never	
+Russian	71	GRIND	molotʹ	Cognate object alternation	Never	
+Russian	71	GRIND	molotʹ	Comitative alternation	Never	
+Russian	71	GRIND	molotʹ	Instrumental subject alternation	Marginally	
+Russian	71	GRIND	molotʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	71	GRIND	molotʹ	Object deletion	Marginally	
+Russian	71	GRIND	molotʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	71	GRIND	molotʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	71	GRIND	molotʹ	Prefixal Source-promoting alternation	Never	
+Russian	71	GRIND	molotʹ	Reflexive Anticausative	Never	
+Russian	71	GRIND	molotʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2]
+Russian	71	GRIND	molotʹ	Reflexive Middle (impersonal)	Never	
+Russian	71	GRIND	molotʹ	Reflexive Passive	Marginally	
+Russian	71	GRIND	molotʹ	Reflexive Reciprocal	Never	
+Russian	71	GRIND	molotʹ	Semantic reflexive	Never	
+Russian	72	WIPE	vyteretʹ	Accusative-Genitive alternation	Never	
+Russian	72	WIPE	vyteretʹ	Cognate object alternation	Never	
+Russian	72	WIPE	vyteretʹ	Comitative alternation	Never	
+Russian	72	WIPE	vyteretʹ	Instrumental subject alternation	Never	
+Russian	72	WIPE	vyteretʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen s+3-gen
+Russian	72	WIPE	vyteretʹ	Object deletion	Never	
+Russian	72	WIPE	vyteretʹ	Participial Passive	Marginally	
+Russian	72	WIPE	vyteretʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	72	WIPE	vyteretʹ	Prefixal Source-promoting alternation	Regularly	1-nom obV'.subj[1] 3-acc
+Russian	72	WIPE	vyteretʹ	Reflexive Anticausative	Never	
+Russian	72	WIPE	vyteretʹ	Reflexive Middle	Marginally	
+Russian	72	WIPE	vyteretʹ	Reflexive Middle (impersonal)	Never	
+Russian	72	WIPE	vyteretʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] s+3-gen (1-instr)
+Russian	72	WIPE	vyteretʹ	Reflexive Reciprocal	Never	
+Russian	72	WIPE	vyteretʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1]
+Russian	73	DIG	kopatʹ	Accusative-Genitive alternation	Never	
+Russian	73	DIG	kopatʹ	Cognate object alternation	Never	
+Russian	73	DIG	kopatʹ	Comitative alternation	Never	
+Russian	73	DIG	kopatʹ	Instrumental subject alternation	Never	
+Russian	73	DIG	kopatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (3-instr)
+Russian	73	DIG	kopatʹ	Object deletion	Never	
+Russian	73	DIG	kopatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (3-instr)/(1-instr)
+Russian	73	DIG	kopatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	73	DIG	kopatʹ	Prefixal Source-promoting alternation	Never	
+Russian	73	DIG	kopatʹ	Reflexive Anticausative	Never	
+Russian	73	DIG	kopatʹ	Reflexive Middle	Marginally	
+Russian	73	DIG	kopatʹ	Reflexive Middle (impersonal)	Never	
+Russian	73	DIG	kopatʹ	Reflexive Passive	Marginally	
+Russian	73	DIG	kopatʹ	Reflexive Reciprocal	Never	
+Russian	73	DIG	kopatʹ	Semantic reflexive	Never	
+Russian	74	PUSH	tolknutʹ	Accusative-Genitive alternation	Never	
+Russian	74	PUSH	tolknutʹ	Cognate object alternation	Never	
+Russian	74	PUSH	tolknutʹ	Comitative alternation	Never	
+Russian	74	PUSH	tolknutʹ	Instrumental subject alternation	Never	
+Russian	74	PUSH	tolknutʹ	Negative Accusative-Genitive alternation	Marginally	
+Russian	74	PUSH	tolknutʹ	Object deletion	Never	
+Russian	74	PUSH	tolknutʹ	Participial Passive	Marginally	
+Russian	74	PUSH	tolknutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	74	PUSH	tolknutʹ	Prefixal Source-promoting alternation	Never	
+Russian	74	PUSH	tolknutʹ	Reflexive Anticausative	Never	
+Russian	74	PUSH	tolknutʹ	Reflexive Middle	Never	
+Russian	74	PUSH	tolknutʹ	Reflexive Middle (impersonal)	Never	
+Russian	74	PUSH	tolknutʹ	Reflexive Passive	Never	
+Russian	74	PUSH	tolknutʹ	Reflexive Reciprocal	Never	
+Russian	74	PUSH	tolknutʹ	Semantic reflexive	Never	
+Russian	75	BRING	prinesti	Accusative-Genitive alternation	Never	
+Russian	75	BRING	prinesti	Cognate object alternation	Never	
+Russian	75	BRING	prinesti	Comitative alternation	Never	
+Russian	75	BRING	prinesti	Instrumental subject alternation	Never	
+Russian	75	BRING	prinesti	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen 3-dat
+Russian	75	BRING	prinesti	Object deletion	Never	
+Russian	75	BRING	prinesti	Participial Passive	Regularly	2-nom passV'.subj[2] 3-dat (1-instr)
+Russian	75	BRING	prinesti	Prefixal Goal-Instrumental alternation	Never	
+Russian	75	BRING	prinesti	Prefixal Source-promoting alternation	Never	
+Russian	75	BRING	prinesti	Reflexive Anticausative	Never	
+Russian	75	BRING	prinesti	Reflexive Middle	Marginally	
+Russian	75	BRING	prinesti	Reflexive Middle (impersonal)	Never	
+Russian	75	BRING	prinesti	Reflexive Passive	Regularly	2-nom V'sja.subj[2] 3-dat (1-instr)
+Russian	75	BRING	prinesti	Reflexive Reciprocal	Never	
+Russian	75	BRING	prinesti	Semantic reflexive	Never	
+Russian	76	STEAL	ukrastʹ	Accusative-Genitive alternation	Never	
+Russian	76	STEAL	ukrastʹ	Cognate object alternation	Never	
+Russian	76	STEAL	ukrastʹ	Comitative alternation	Never	
+Russian	76	STEAL	ukrastʹ	Instrumental subject alternation	Never	
+Russian	76	STEAL	ukrastʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen (u+3-gen)
+Russian	76	STEAL	ukrastʹ	Object deletion	Marginally	
+Russian	76	STEAL	ukrastʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (u+3-gen) (1-instr)
+Russian	76	STEAL	ukrastʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	76	STEAL	ukrastʹ	Prefixal Source-promoting alternation	Regularly	1-nom obV'.subj[1] 3-acc
+Russian	76	STEAL	ukrastʹ	Reflexive Anticausative	Never	
+Russian	76	STEAL	ukrastʹ	Reflexive Middle	Never	
+Russian	76	STEAL	ukrastʹ	Reflexive Middle (impersonal)	Never	
+Russian	76	STEAL	ukrastʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] u+3-gen (1-instr)
+Russian	76	STEAL	ukrastʹ	Reflexive Reciprocal	Never	
+Russian	76	STEAL	ukrastʹ	Semantic reflexive	Never	
+Russian	77	TEACH	naučitʹ	Accusative-Genitive alternation	Never	
+Russian	77	TEACH	naučitʹ	Cognate object alternation	Never	
+Russian	77	TEACH	naučitʹ	Comitative alternation	Never	
+Russian	77	TEACH	naučitʹ	Instrumental subject alternation	Never	
+Russian	77	TEACH	naučitʹ	Negative Accusative-Genitive alternation	Never	
+Russian	77	TEACH	naučitʹ	Object deletion	Never	
+Russian	77	TEACH	naučitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] 3-dat (1-instr)
+Russian	77	TEACH	naučitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	77	TEACH	naučitʹ	Prefixal Source-promoting alternation	Never	
+Russian	77	TEACH	naučitʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2] 3-dat
+Russian	77	TEACH	naučitʹ	Reflexive Middle	Never	
+Russian	77	TEACH	naučitʹ	Reflexive Middle (impersonal)	Never	
+Russian	77	TEACH	naučitʹ	Reflexive Passive	Never	
+Russian	77	TEACH	naučitʹ	Reflexive Reciprocal	Never	
+Russian	77	TEACH	naučitʹ	Semantic reflexive	Regularly	1-nom V'sja.subj[1] (3-dat)
+Russian	78	HEAR	uslyšatʹ	Accusative-Genitive alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Cognate object alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Comitative alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Instrumental subject alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	78	HEAR	uslyšatʹ	Object deletion	Never	
+Russian	78	HEAR	uslyšatʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	78	HEAR	uslyšatʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Prefixal Source-promoting alternation	Never	
+Russian	78	HEAR	uslyšatʹ	Reflexive Anticausative	Marginally	
+Russian	78	HEAR	uslyšatʹ	Reflexive Middle	Never	
+Russian	78	HEAR	uslyšatʹ	Reflexive Middle (impersonal)	Never	
+Russian	78	HEAR	uslyšatʹ	Reflexive Passive	Never	
+Russian	78	HEAR	uslyšatʹ	Reflexive Reciprocal	Never	
+Russian	78	HEAR	uslyšatʹ	Semantic reflexive	Never	
+Russian	79	COOK	gotovitʹ	Accusative-Genitive alternation	Never	
+Russian	79	COOK	gotovitʹ	Cognate object alternation	Never	
+Russian	79	COOK	gotovitʹ	Comitative alternation	Never	
+Russian	79	COOK	gotovitʹ	Instrumental subject alternation	Never	
+Russian	79	COOK	gotovitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	79	COOK	gotovitʹ	Object deletion	Regularly	1-nom V'.subj[1]
+Russian	79	COOK	gotovitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	79	COOK	gotovitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	79	COOK	gotovitʹ	Prefixal Source-promoting alternation	Never	
+Russian	79	COOK	gotovitʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2]
+Russian	79	COOK	gotovitʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2]
+Russian	79	COOK	gotovitʹ	Reflexive Middle (impersonal)	Never	
+Russian	79	COOK	gotovitʹ	Reflexive Passive	Regularly	2-nom V'sja.subj[2] (1-instr)
+Russian	79	COOK	gotovitʹ	Reflexive Reciprocal	Never	
+Russian	79	COOK	gotovitʹ	Semantic reflexive	Never	
+Russian	79	COOK	varitʹ	Accusative-Genitive alternation	Never	
+Russian	79	COOK	varitʹ	Cognate object alternation	Never	
+Russian	79	COOK	varitʹ	Comitative alternation	Never	
+Russian	79	COOK	varitʹ	Instrumental subject alternation	Never	
+Russian	79	COOK	varitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	79	COOK	varitʹ	Object deletion	Never	
+Russian	79	COOK	varitʹ	Participial Passive	Regularly	2-nom passV'.subj[2] (1-instr)
+Russian	79	COOK	varitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	79	COOK	varitʹ	Prefixal Source-promoting alternation	Never	
+Russian	79	COOK	varitʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2]
+Russian	79	COOK	varitʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2]
+Russian	79	COOK	varitʹ	Reflexive Middle (impersonal)	Never	
+Russian	79	COOK	varitʹ	Reflexive Passive	Marginally	
+Russian	79	COOK	varitʹ	Reflexive Reciprocal	Never	
+Russian	79	COOK	varitʹ	Semantic reflexive	Never	
+Russian	80	BOIL	kipetʹ	Accusative-Genitive alternation	Never	
+Russian	80	BOIL	kipetʹ	Cognate object alternation	Never	
+Russian	80	BOIL	kipetʹ	Comitative alternation	Never	
+Russian	80	BOIL	kipetʹ	Instrumental subject alternation	Never	
+Russian	80	BOIL	kipetʹ	Negative Accusative-Genitive alternation	Never	
+Russian	80	BOIL	kipetʹ	Object deletion	Never	
+Russian	80	BOIL	kipetʹ	Participial Passive	Never	
+Russian	80	BOIL	kipetʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	80	BOIL	kipetʹ	Prefixal Source-promoting alternation	Never	
+Russian	80	BOIL	kipetʹ	Reflexive Anticausative	Never	
+Russian	80	BOIL	kipetʹ	Reflexive Middle	Never	
+Russian	80	BOIL	kipetʹ	Reflexive Middle (impersonal)	Never	
+Russian	80	BOIL	kipetʹ	Reflexive Passive	Never	
+Russian	80	BOIL	kipetʹ	Reflexive Reciprocal	Never	
+Russian	80	BOIL	kipetʹ	Semantic reflexive	Never	
+Russian	81	APPEAR	pojavitʹsja	Accusative-Genitive alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Cognate object alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Comitative alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Instrumental subject alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Object deletion	Never	
+Russian	81	APPEAR	pojavitʹsja	Participial Passive	Never	
+Russian	81	APPEAR	pojavitʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Prefixal Source-promoting alternation	Never	
+Russian	81	APPEAR	pojavitʹsja	Reflexive Anticausative	Never	
+Russian	81	APPEAR	pojavitʹsja	Reflexive Middle	Never	
+Russian	81	APPEAR	pojavitʹsja	Reflexive Middle (impersonal)	Never	
+Russian	81	APPEAR	pojavitʹsja	Reflexive Passive	Never	
+Russian	81	APPEAR	pojavitʹsja	Reflexive Reciprocal	Never	
+Russian	81	APPEAR	pojavitʹsja	Semantic reflexive	Never	
+Russian	84	FALL	upastʹ	Accusative-Genitive alternation	Never	
+Russian	84	FALL	upastʹ	Cognate object alternation	Never	
+Russian	84	FALL	upastʹ	Comitative alternation	Never	
+Russian	84	FALL	upastʹ	Instrumental subject alternation	Never	
+Russian	84	FALL	upastʹ	Negative Accusative-Genitive alternation	Never	
+Russian	84	FALL	upastʹ	Object deletion	Never	
+Russian	84	FALL	upastʹ	Participial Passive	Never	
+Russian	84	FALL	upastʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	84	FALL	upastʹ	Prefixal Source-promoting alternation	Never	
+Russian	84	FALL	upastʹ	Reflexive Anticausative	Never	
+Russian	84	FALL	upastʹ	Reflexive Middle	Never	
+Russian	84	FALL	upastʹ	Reflexive Middle (impersonal)	Never	
+Russian	84	FALL	upastʹ	Reflexive Passive	Never	
+Russian	84	FALL	upastʹ	Reflexive Reciprocal	Never	
+Russian	84	FALL	upastʹ	Semantic reflexive	Never	
+Russian	91	REMEMBER	zapomnitʹ	Accusative-Genitive alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Cognate object alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Comitative alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Instrumental subject alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Negative Accusative-Genitive alternation	Regularly	1-nom negV'.subj[1] 2-gen
+Russian	91	REMEMBER	zapomnitʹ	Object deletion	Never	
+Russian	91	REMEMBER	zapomnitʹ	Participial Passive	Marginally	
+Russian	91	REMEMBER	zapomnitʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Prefixal Source-promoting alternation	Never	
+Russian	91	REMEMBER	zapomnitʹ	Reflexive Anticausative	Regularly	2-nom V'sja.subj[2]
+Russian	91	REMEMBER	zapomnitʹ	Reflexive Middle	Regularly	2-nom V'sja.subj[2]
+Russian	91	REMEMBER	zapomnitʹ	Reflexive Middle (impersonal)	Never	
+Russian	91	REMEMBER	zapomnitʹ	Reflexive Passive	Marginally	
+Russian	91	REMEMBER	zapomnitʹ	Reflexive Reciprocal	Never	
+Russian	91	REMEMBER	zapomnitʹ	Semantic reflexive	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Accusative-Genitive alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Cognate object alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Comitative alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Instrumental subject alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Negative Accusative-Genitive alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Object deletion	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Participial Passive	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Prefixal Goal-Instrumental alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Prefixal Source-promoting alternation	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Reflexive Anticausative	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Reflexive Middle	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Reflexive Middle (impersonal)	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Reflexive Passive	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Reflexive Reciprocal	Never	
+Russian	93	HUNT (FOR)	oxotitʹsja	Semantic reflexive	Never	
+Russian	100	DROWN	utonutʹ	Accusative-Genitive alternation	Never	
+Russian	100	DROWN	utonutʹ	Cognate object alternation	Never	
+Russian	100	DROWN	utonutʹ	Comitative alternation	Never	
+Russian	100	DROWN	utonutʹ	Instrumental subject alternation	Never	
+Russian	100	DROWN	utonutʹ	Negative Accusative-Genitive alternation	Never	
+Russian	100	DROWN	utonutʹ	Object deletion	Never	
+Russian	100	DROWN	utonutʹ	Participial Passive	Never	
+Russian	100	DROWN	utonutʹ	Prefixal Goal-Instrumental alternation	Never	
+Russian	100	DROWN	utonutʹ	Prefixal Source-promoting alternation	Never	
+Russian	100	DROWN	utonutʹ	Reflexive Anticausative	Never	
+Russian	100	DROWN	utonutʹ	Reflexive Middle	Never	
+Russian	100	DROWN	utonutʹ	Reflexive Middle (impersonal)	Never	
+Russian	100	DROWN	utonutʹ	Reflexive Passive	Never	
+Russian	100	DROWN	utonutʹ	Reflexive Reciprocal	Never	
+Russian	100	DROWN	utonutʹ	Semantic reflexive	Never	
+Russian	112	COME (2)	prijti	Accusative-Genitive alternation	Never	
+Russian	112	COME (2)	prijti	Cognate object alternation	Never	
+Russian	112	COME (2)	prijti	Comitative alternation	Never	
+Russian	112	COME (2)	prijti	Instrumental subject alternation	Never	
+Russian	112	COME (2)	prijti	Negative Accusative-Genitive alternation	Never	
+Russian	112	COME (2)	prijti	Object deletion	Never	
+Russian	112	COME (2)	prijti	Participial Passive	Never	
+Russian	112	COME (2)	prijti	Prefixal Goal-Instrumental alternation	Never	
+Russian	112	COME (2)	prijti	Prefixal Source-promoting alternation	Never	
+Russian	112	COME (2)	prijti	Reflexive Anticausative	Never	
+Russian	112	COME (2)	prijti	Reflexive Middle	Never	
+Russian	112	COME (2)	prijti	Reflexive Middle (impersonal)	Never	
+Russian	112	COME (2)	prijti	Reflexive Passive	Never	
+Russian	112	COME (2)	prijti	Reflexive Reciprocal	Never	
+Russian	112	COME (2)	prijti	Semantic reflexive	Never	

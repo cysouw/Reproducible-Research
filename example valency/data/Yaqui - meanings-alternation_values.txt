@@ -1,0 +1,1080 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Yaqui	1	EAT	bwa’e	Applicative	Regularly	
+Yaqui	1	EAT	bwa’e	Causative	Regularly	
+Yaqui	1	EAT	bwa’e	Directional Object	Marginally	
+Yaqui	1	EAT	bwa’e	Equipollent Applicative	Marginally	
+Yaqui	1	EAT	bwa’e	Equipollent Causal	Marginally	
+Yaqui	1	EAT	bwa’e	Equipollent Noncausal	Marginally	
+Yaqui	1	EAT	bwa’e	Intransitivizer incorporation: ji'i	Regularly	
+Yaqui	1	EAT	bwa’e	Locative	Marginally	
+Yaqui	1	EAT	bwa’e	Middle	Regularly	
+Yaqui	1	EAT	bwa’e	Object incorporation	Regularly	
+Yaqui	1	EAT	bwa’e	Passive	Regularly	
+Yaqui	1	EAT	bwa’e	Resultative	Regularly	
+Yaqui	1	EAT	bwa’e	Undetermined object	Regularly	
+Yaqui	2	HUG	ibakta	Applicative	Regularly	
+Yaqui	2	HUG	ibakta	Causative	Regularly	
+Yaqui	2	HUG	ibakta	Directional Object	Never	
+Yaqui	2	HUG	ibakta	Equipollent Applicative	Never	
+Yaqui	2	HUG	ibakta	Equipollent Causal	Never	
+Yaqui	2	HUG	ibakta	Equipollent Noncausal	Never	
+Yaqui	2	HUG	ibakta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	2	HUG	ibakta	Locative	Never	
+Yaqui	2	HUG	ibakta	Middle	Regularly	
+Yaqui	2	HUG	ibakta	Object incorporation	Never	
+Yaqui	2	HUG	ibakta	Passive	Regularly	
+Yaqui	2	HUG	ibakta	Resultative	Regularly	
+Yaqui	2	HUG	ibakta	Undetermined object	Marginally	
+Yaqui	3	LOOK AT	bitchu	Applicative	Regularly	
+Yaqui	3	LOOK AT	bitchu	Causative	Regularly	
+Yaqui	3	LOOK AT	bitchu	Directional Object	Regularly	
+Yaqui	3	LOOK AT	bitchu	Equipollent Applicative	Never	
+Yaqui	3	LOOK AT	bitchu	Equipollent Causal	Never	
+Yaqui	3	LOOK AT	bitchu	Equipollent Noncausal	Never	
+Yaqui	3	LOOK AT	bitchu	Intransitivizer incorporation: ji'i	Never	
+Yaqui	3	LOOK AT	bitchu	Locative	Regularly	
+Yaqui	3	LOOK AT	bitchu	Middle	Regularly	
+Yaqui	3	LOOK AT	bitchu	Object incorporation	Never	
+Yaqui	3	LOOK AT	bitchu	Passive	Regularly	
+Yaqui	3	LOOK AT	bitchu	Resultative	Regularly	
+Yaqui	3	LOOK AT	bitchu	Undetermined object	Marginally	
+Yaqui	4	SEE	bitcha	Applicative	Regularly	
+Yaqui	4	SEE	bitcha	Causative	Regularly	
+Yaqui	4	SEE	bitcha	Directional Object	Never	
+Yaqui	4	SEE	bitcha	Equipollent Applicative	Never	
+Yaqui	4	SEE	bitcha	Equipollent Causal	Never	
+Yaqui	4	SEE	bitcha	Equipollent Noncausal	Never	
+Yaqui	4	SEE	bitcha	Intransitivizer incorporation: ji'i	Never	
+Yaqui	4	SEE	bitcha	Locative	Never	
+Yaqui	4	SEE	bitcha	Middle	Regularly	
+Yaqui	4	SEE	bitcha	Object incorporation	Never	
+Yaqui	4	SEE	bitcha	Passive	Regularly	
+Yaqui	4	SEE	bitcha	Resultative	No data	
+Yaqui	4	SEE	bitcha	Undetermined object	Regularly	
+Yaqui	5	SMELL	jukta	Applicative	Regularly	
+Yaqui	5	SMELL	jukta	Causative	Regularly	
+Yaqui	5	SMELL	jukta	Directional Object	Never	
+Yaqui	5	SMELL	jukta	Equipollent Applicative	Never	
+Yaqui	5	SMELL	jukta	Equipollent Causal	Never	
+Yaqui	5	SMELL	jukta	Equipollent Noncausal	Never	
+Yaqui	5	SMELL	jukta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	5	SMELL	jukta	Locative	Never	
+Yaqui	5	SMELL	jukta	Middle	Marginally	
+Yaqui	5	SMELL	jukta	Object incorporation	Never	
+Yaqui	5	SMELL	jukta	Passive	Regularly	
+Yaqui	5	SMELL	jukta	Resultative	Regularly	
+Yaqui	5	SMELL	jukta	Undetermined object	Regularly	
+Yaqui	6	FEAR	majae	Applicative	Never	
+Yaqui	6	FEAR	majae	Causative	Regularly	
+Yaqui	6	FEAR	majae	Directional Object	Never	
+Yaqui	6	FEAR	majae	Equipollent Applicative	Never	
+Yaqui	6	FEAR	majae	Equipollent Causal	Never	
+Yaqui	6	FEAR	majae	Equipollent Noncausal	Never	
+Yaqui	6	FEAR	majae	Intransitivizer incorporation: ji'i	Never	
+Yaqui	6	FEAR	majae	Locative	Never	
+Yaqui	6	FEAR	majae	Middle	Marginally	
+Yaqui	6	FEAR	majae	Object incorporation	Never	
+Yaqui	6	FEAR	majae	Passive	Regularly	
+Yaqui	6	FEAR	majae	Resultative	Regularly	
+Yaqui	6	FEAR	majae	Undetermined object	Marginally	
+Yaqui	7	FRIGHTEN	gomta	Applicative	Regularly	
+Yaqui	7	FRIGHTEN	gomta	Causative	Regularly	
+Yaqui	7	FRIGHTEN	gomta	Directional Object	Never	
+Yaqui	7	FRIGHTEN	gomta	Equipollent Applicative	No data	
+Yaqui	7	FRIGHTEN	gomta	Equipollent Causal	No data	
+Yaqui	7	FRIGHTEN	gomta	Equipollent Noncausal	Regularly	
+Yaqui	7	FRIGHTEN	gomta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	7	FRIGHTEN	gomta	Locative	Marginally	
+Yaqui	7	FRIGHTEN	gomta	Middle	No data	
+Yaqui	7	FRIGHTEN	gomta	Object incorporation	Never	
+Yaqui	7	FRIGHTEN	gomta	Passive	Regularly	
+Yaqui	7	FRIGHTEN	gomta	Resultative	Regularly	
+Yaqui	7	FRIGHTEN	gomta	Undetermined object	Regularly	
+Yaqui	8	LIKE	tu’ure	Applicative	Marginally	
+Yaqui	8	LIKE	tu’ure	Causative	Regularly	
+Yaqui	8	LIKE	tu’ure	Directional Object	Never	
+Yaqui	8	LIKE	tu’ure	Equipollent Applicative	Never	
+Yaqui	8	LIKE	tu’ure	Equipollent Causal	Never	
+Yaqui	8	LIKE	tu’ure	Equipollent Noncausal	Never	
+Yaqui	8	LIKE	tu’ure	Intransitivizer incorporation: ji'i	Never	
+Yaqui	8	LIKE	tu’ure	Locative	Never	
+Yaqui	8	LIKE	tu’ure	Middle	Marginally	
+Yaqui	8	LIKE	tu’ure	Object incorporation	Never	
+Yaqui	8	LIKE	tu’ure	Passive	Regularly	
+Yaqui	8	LIKE	tu’ure	Resultative	Marginally	
+Yaqui	8	LIKE	tu’ure	Undetermined object	Marginally	
+Yaqui	9	KNOW	ta’a	Applicative	Marginally	
+Yaqui	9	KNOW	ta’a	Causative	Regularly	
+Yaqui	9	KNOW	ta’a	Directional Object	No data	
+Yaqui	9	KNOW	ta’a	Equipollent Applicative	Never	
+Yaqui	9	KNOW	ta’a	Equipollent Causal	Never	
+Yaqui	9	KNOW	ta’a	Equipollent Noncausal	Never	
+Yaqui	9	KNOW	ta’a	Intransitivizer incorporation: ji'i	Never	
+Yaqui	9	KNOW	ta’a	Locative	Regularly	
+Yaqui	9	KNOW	ta’a	Middle	Marginally	
+Yaqui	9	KNOW	ta’a	Object incorporation	Never	
+Yaqui	9	KNOW	ta’a	Passive	Regularly	
+Yaqui	9	KNOW	ta’a	Resultative	Regularly	
+Yaqui	9	KNOW	ta’a	Undetermined object	Regularly	
+Yaqui	10	THINK	ea	Applicative	Never	
+Yaqui	10	THINK	ea	Causative	No data	
+Yaqui	10	THINK	ea	Directional Object	Marginally	
+Yaqui	10	THINK	ea	Equipollent Applicative	Never	
+Yaqui	10	THINK	ea	Equipollent Causal	Never	
+Yaqui	10	THINK	ea	Equipollent Noncausal	Never	
+Yaqui	10	THINK	ea	Intransitivizer incorporation: ji'i	Never	
+Yaqui	10	THINK	ea	Locative	Regularly	
+Yaqui	10	THINK	ea	Middle	No data	
+Yaqui	10	THINK	ea	Object incorporation	Never	
+Yaqui	10	THINK	ea	Passive	Regularly	
+Yaqui	10	THINK	ea	Resultative	Regularly	
+Yaqui	10	THINK	ea	Undetermined object	Regularly	
+Yaqui	11	SEARCH FOR	jariwa	Applicative	Regularly	
+Yaqui	11	SEARCH FOR	jariwa	Causative	Regularly	
+Yaqui	11	SEARCH FOR	jariwa	Directional Object	Never	
+Yaqui	11	SEARCH FOR	jariwa	Equipollent Applicative	Never	
+Yaqui	11	SEARCH FOR	jariwa	Equipollent Causal	Never	
+Yaqui	11	SEARCH FOR	jariwa	Equipollent Noncausal	Never	
+Yaqui	11	SEARCH FOR	jariwa	Intransitivizer incorporation: ji'i	Never	
+Yaqui	11	SEARCH FOR	jariwa	Locative	Marginally	
+Yaqui	11	SEARCH FOR	jariwa	Middle	No data	
+Yaqui	11	SEARCH FOR	jariwa	Object incorporation	Never	
+Yaqui	11	SEARCH FOR	jariwa	Passive	Regularly	
+Yaqui	11	SEARCH FOR	jariwa	Resultative	Regularly	
+Yaqui	11	SEARCH FOR	jariwa	Undetermined object	Regularly	
+Yaqui	12	WASH	baksia	Applicative	Regularly	
+Yaqui	12	WASH	baksia	Causative	Regularly	
+Yaqui	12	WASH	baksia	Directional Object	Never	
+Yaqui	12	WASH	baksia	Equipollent Applicative	Never	
+Yaqui	12	WASH	baksia	Equipollent Causal	Never	
+Yaqui	12	WASH	baksia	Equipollent Noncausal	Never	
+Yaqui	12	WASH	baksia	Intransitivizer incorporation: ji'i	Never	
+Yaqui	12	WASH	baksia	Locative	Never	
+Yaqui	12	WASH	baksia	Middle	Regularly	
+Yaqui	12	WASH	baksia	Object incorporation	Regularly	
+Yaqui	12	WASH	baksia	Passive	Regularly	
+Yaqui	12	WASH	baksia	Resultative	Regularly	
+Yaqui	12	WASH	baksia	Undetermined object	Regularly	
+Yaqui	13	DRESS	a’ana	Applicative	Regularly	
+Yaqui	13	DRESS	a’ana	Causative	Regularly	
+Yaqui	13	DRESS	a’ana	Directional Object	No data	
+Yaqui	13	DRESS	a’ana	Equipollent Applicative	Never	
+Yaqui	13	DRESS	a’ana	Equipollent Causal	Never	
+Yaqui	13	DRESS	a’ana	Equipollent Noncausal	Never	
+Yaqui	13	DRESS	a’ana	Intransitivizer incorporation: ji'i	Never	
+Yaqui	13	DRESS	a’ana	Locative	Never	
+Yaqui	13	DRESS	a’ana	Middle	Marginally	
+Yaqui	13	DRESS	a’ana	Object incorporation	Never	
+Yaqui	13	DRESS	a’ana	Passive	Regularly	
+Yaqui	13	DRESS	a’ana	Resultative	No data	
+Yaqui	13	DRESS	a’ana	Undetermined object	Regularly	
+Yaqui	15	HELP	ania	Applicative	Regularly	
+Yaqui	15	HELP	ania	Causative	Regularly	
+Yaqui	15	HELP	ania	Directional Object	Never	
+Yaqui	15	HELP	ania	Equipollent Applicative	Never	
+Yaqui	15	HELP	ania	Equipollent Causal	Never	
+Yaqui	15	HELP	ania	Equipollent Noncausal	Never	
+Yaqui	15	HELP	ania	Intransitivizer incorporation: ji'i	Never	
+Yaqui	15	HELP	ania	Locative	Marginally	
+Yaqui	15	HELP	ania	Middle	No data	
+Yaqui	15	HELP	ania	Object incorporation	No data	
+Yaqui	15	HELP	ania	Passive	Regularly	
+Yaqui	15	HELP	ania	Resultative	No data	
+Yaqui	15	HELP	ania	Undetermined object	Regularly	
+Yaqui	16	FOLLOW	jajase	Applicative	Regularly	
+Yaqui	16	FOLLOW	jajase	Causative	Regularly	
+Yaqui	16	FOLLOW	jajase	Directional Object	Never	
+Yaqui	16	FOLLOW	jajase	Equipollent Applicative	Never	
+Yaqui	16	FOLLOW	jajase	Equipollent Causal	Never	
+Yaqui	16	FOLLOW	jajase	Equipollent Noncausal	Never	
+Yaqui	16	FOLLOW	jajase	Intransitivizer incorporation: ji'i	Never	
+Yaqui	16	FOLLOW	jajase	Locative	Never	
+Yaqui	16	FOLLOW	jajase	Middle	No data	
+Yaqui	16	FOLLOW	jajase	Object incorporation	No data	
+Yaqui	16	FOLLOW	jajase	Passive	Regularly	
+Yaqui	16	FOLLOW	jajase	Resultative	No data	
+Yaqui	16	FOLLOW	jajase	Undetermined object	Regularly	
+Yaqui	17	MEET	tea (2)	Applicative	Regularly	
+Yaqui	17	MEET	tea (2)	Causative	Regularly	
+Yaqui	17	MEET	tea (2)	Directional Object	Never	
+Yaqui	17	MEET	tea (2)	Equipollent Applicative	Never	
+Yaqui	17	MEET	tea (2)	Equipollent Causal	Never	
+Yaqui	17	MEET	tea (2)	Equipollent Noncausal	Never	
+Yaqui	17	MEET	tea (2)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	17	MEET	tea (2)	Locative	Never	
+Yaqui	17	MEET	tea (2)	Middle	No data	
+Yaqui	17	MEET	tea (2)	Object incorporation	No data	
+Yaqui	17	MEET	tea (2)	Passive	Never	
+Yaqui	17	MEET	tea (2)	Resultative	No data	
+Yaqui	17	MEET	tea (2)	Undetermined object	Regularly	
+Yaqui	18	TALK	etejo (2)	Applicative	No data	
+Yaqui	18	TALK	etejo (2)	Causative	Marginally	
+Yaqui	18	TALK	etejo (2)	Directional Object	Regularly	
+Yaqui	18	TALK	etejo (2)	Equipollent Applicative	No data	
+Yaqui	18	TALK	etejo (2)	Equipollent Causal	No data	
+Yaqui	18	TALK	etejo (2)	Equipollent Noncausal	Never	
+Yaqui	18	TALK	etejo (2)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	18	TALK	etejo (2)	Locative	No data	
+Yaqui	18	TALK	etejo (2)	Middle	Never	
+Yaqui	18	TALK	etejo (2)	Object incorporation	Never	
+Yaqui	18	TALK	etejo (2)	Passive	Never	
+Yaqui	18	TALK	etejo (2)	Resultative	No data	
+Yaqui	18	TALK	etejo (2)	Undetermined object	No data	
+Yaqui	19	ASK FOR	a’awa	Applicative	Regularly	
+Yaqui	19	ASK FOR	a’awa	Causative	Regularly	
+Yaqui	19	ASK FOR	a’awa	Directional Object	Regularly	
+Yaqui	19	ASK FOR	a’awa	Equipollent Applicative	Never	
+Yaqui	19	ASK FOR	a’awa	Equipollent Causal	Never	
+Yaqui	19	ASK FOR	a’awa	Equipollent Noncausal	Never	
+Yaqui	19	ASK FOR	a’awa	Intransitivizer incorporation: ji'i	Never	
+Yaqui	19	ASK FOR	a’awa	Locative	Never	
+Yaqui	19	ASK FOR	a’awa	Middle	Regularly	
+Yaqui	19	ASK FOR	a’awa	Object incorporation	Never	
+Yaqui	19	ASK FOR	a’awa	Passive	Regularly	
+Yaqui	19	ASK FOR	a’awa	Resultative	Regularly	
+Yaqui	19	ASK FOR	a’awa	Undetermined object	Marginally	
+Yaqui	20	SHOUT AT	chaae (1)	Applicative	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Causative	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Directional Object	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Equipollent Applicative	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Equipollent Causal	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Equipollent Noncausal	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Locative	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Middle	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Object incorporation	Never	
+Yaqui	20	SHOUT AT	chaae (1)	Passive	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Resultative	Regularly	
+Yaqui	20	SHOUT AT	chaae (1)	Undetermined object	Never	
+Yaqui	21	TELL	etejo (1)	Applicative	No data	
+Yaqui	21	TELL	etejo (1)	Causative	Marginally	
+Yaqui	21	TELL	etejo (1)	Directional Object	Never	
+Yaqui	21	TELL	etejo (1)	Equipollent Applicative	Never	
+Yaqui	21	TELL	etejo (1)	Equipollent Causal	Never	
+Yaqui	21	TELL	etejo (1)	Equipollent Noncausal	Never	
+Yaqui	21	TELL	etejo (1)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	21	TELL	etejo (1)	Locative	No data	
+Yaqui	21	TELL	etejo (1)	Middle	No data	
+Yaqui	21	TELL	etejo (1)	Object incorporation	No data	
+Yaqui	21	TELL	etejo (1)	Passive	Regularly	
+Yaqui	21	TELL	etejo (1)	Resultative	Regularly	
+Yaqui	21	TELL	etejo (1)	Undetermined object	Regularly	
+Yaqui	21	TELL	teuwa	Applicative	No data	
+Yaqui	21	TELL	teuwa	Causative	Regularly	
+Yaqui	21	TELL	teuwa	Directional Object	Never	
+Yaqui	21	TELL	teuwa	Equipollent Applicative	Never	
+Yaqui	21	TELL	teuwa	Equipollent Causal	Never	
+Yaqui	21	TELL	teuwa	Equipollent Noncausal	Never	
+Yaqui	21	TELL	teuwa	Intransitivizer incorporation: ji'i	No data	
+Yaqui	21	TELL	teuwa	Locative	No data	
+Yaqui	21	TELL	teuwa	Middle	No data	
+Yaqui	21	TELL	teuwa	Object incorporation	No data	
+Yaqui	21	TELL	teuwa	Passive	No data	
+Yaqui	21	TELL	teuwa	Resultative	No data	
+Yaqui	21	TELL	teuwa	Undetermined object	No data	
+Yaqui	22	SAY	tejwa	Applicative	Regularly	
+Yaqui	22	SAY	tejwa	Causative	Regularly	
+Yaqui	22	SAY	tejwa	Directional Object	Marginally	
+Yaqui	22	SAY	tejwa	Equipollent Applicative	Never	
+Yaqui	22	SAY	tejwa	Equipollent Causal	Never	
+Yaqui	22	SAY	tejwa	Equipollent Noncausal	Never	
+Yaqui	22	SAY	tejwa	Intransitivizer incorporation: ji'i	Never	
+Yaqui	22	SAY	tejwa	Locative	Never	
+Yaqui	22	SAY	tejwa	Middle	Regularly	
+Yaqui	22	SAY	tejwa	Object incorporation	No data	
+Yaqui	22	SAY	tejwa	Passive	Regularly	
+Yaqui	22	SAY	tejwa	Resultative	Regularly	
+Yaqui	22	SAY	tejwa	Undetermined object	Marginally	
+Yaqui	24	BUILD	yaa	Applicative	Regularly	
+Yaqui	24	BUILD	yaa	Causative	Regularly	
+Yaqui	24	BUILD	yaa	Directional Object	Never	
+Yaqui	24	BUILD	yaa	Equipollent Applicative	Never	
+Yaqui	24	BUILD	yaa	Equipollent Causal	Never	
+Yaqui	24	BUILD	yaa	Equipollent Noncausal	Never	
+Yaqui	24	BUILD	yaa	Intransitivizer incorporation: ji'i	Never	
+Yaqui	24	BUILD	yaa	Locative	Never	
+Yaqui	24	BUILD	yaa	Middle	Regularly	
+Yaqui	24	BUILD	yaa	Object incorporation	Never	
+Yaqui	24	BUILD	yaa	Passive	Regularly	
+Yaqui	24	BUILD	yaa	Resultative	Regularly	
+Yaqui	24	BUILD	yaa	Undetermined object	Marginally	
+Yaqui	25	BREAK	jamta	Applicative	Marginally	
+Yaqui	25	BREAK	jamta	Causative	Regularly	
+Yaqui	25	BREAK	jamta	Directional Object	Never	
+Yaqui	25	BREAK	jamta	Equipollent Applicative	No data	
+Yaqui	25	BREAK	jamta	Equipollent Causal	No data	
+Yaqui	25	BREAK	jamta	Equipollent Noncausal	Regularly	
+Yaqui	25	BREAK	jamta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	25	BREAK	jamta	Locative	Never	
+Yaqui	25	BREAK	jamta	Middle	Never	
+Yaqui	25	BREAK	jamta	Object incorporation	Marginally	
+Yaqui	25	BREAK	jamta	Passive	Regularly	
+Yaqui	25	BREAK	jamta	Resultative	Regularly	
+Yaqui	25	BREAK	jamta	Undetermined object	Marginally	
+Yaqui	26	KILL	me’a	Applicative	Regularly	
+Yaqui	26	KILL	me’a	Causative	Regularly	
+Yaqui	26	KILL	me’a	Directional Object	Never	
+Yaqui	26	KILL	me’a	Equipollent Applicative	Never	
+Yaqui	26	KILL	me’a	Equipollent Causal	Never	
+Yaqui	26	KILL	me’a	Equipollent Noncausal	Never	
+Yaqui	26	KILL	me’a	Intransitivizer incorporation: ji'i	Never	
+Yaqui	26	KILL	me’a	Locative	Never	
+Yaqui	26	KILL	me’a	Middle	Marginally	
+Yaqui	26	KILL	me’a	Object incorporation	Never	
+Yaqui	26	KILL	me’a	Passive	Regularly	
+Yaqui	26	KILL	me’a	Resultative	Regularly	
+Yaqui	26	KILL	me’a	Undetermined object	Regularly	
+Yaqui	27	BEAT	tasta	Applicative	Regularly	
+Yaqui	27	BEAT	tasta	Causative	Regularly	
+Yaqui	27	BEAT	tasta	Directional Object	Regularly	
+Yaqui	27	BEAT	tasta	Equipollent Applicative	No data	
+Yaqui	27	BEAT	tasta	Equipollent Causal	Never	
+Yaqui	27	BEAT	tasta	Equipollent Noncausal	Regularly	
+Yaqui	27	BEAT	tasta	Intransitivizer incorporation: ji'i	No data	
+Yaqui	27	BEAT	tasta	Locative	Never	
+Yaqui	27	BEAT	tasta	Middle	No data	
+Yaqui	27	BEAT	tasta	Object incorporation	Regularly	
+Yaqui	27	BEAT	tasta	Passive	Regularly	
+Yaqui	27	BEAT	tasta	Resultative	Marginally	
+Yaqui	27	BEAT	tasta	Undetermined object	Regularly	
+Yaqui	28	HIT	beeba	Applicative	Regularly	
+Yaqui	28	HIT	beeba	Causative	Regularly	
+Yaqui	28	HIT	beeba	Directional Object	Marginally	
+Yaqui	28	HIT	beeba	Equipollent Applicative	Never	
+Yaqui	28	HIT	beeba	Equipollent Causal	Never	
+Yaqui	28	HIT	beeba	Equipollent Noncausal	Never	
+Yaqui	28	HIT	beeba	Intransitivizer incorporation: ji'i	Never	
+Yaqui	28	HIT	beeba	Locative	Never	
+Yaqui	28	HIT	beeba	Middle	Regularly	
+Yaqui	28	HIT	beeba	Object incorporation	Marginally	
+Yaqui	28	HIT	beeba	Passive	Regularly	
+Yaqui	28	HIT	beeba	Resultative	Regularly	
+Yaqui	28	HIT	beeba	Undetermined object	Regularly	
+Yaqui	28	HIT	tasta	Applicative	Regularly	
+Yaqui	28	HIT	tasta	Causative	Regularly	
+Yaqui	28	HIT	tasta	Directional Object	Regularly	
+Yaqui	28	HIT	tasta	Equipollent Applicative	No data	
+Yaqui	28	HIT	tasta	Equipollent Causal	Never	
+Yaqui	28	HIT	tasta	Equipollent Noncausal	Regularly	
+Yaqui	28	HIT	tasta	Intransitivizer incorporation: ji'i	No data	
+Yaqui	28	HIT	tasta	Locative	Never	
+Yaqui	28	HIT	tasta	Middle	No data	
+Yaqui	28	HIT	tasta	Object incorporation	Regularly	
+Yaqui	28	HIT	tasta	Passive	Regularly	
+Yaqui	28	HIT	tasta	Resultative	Marginally	
+Yaqui	28	HIT	tasta	Undetermined object	Regularly	
+Yaqui	29	TOUCH	bwibwise	Applicative	Regularly	
+Yaqui	29	TOUCH	bwibwise	Causative	Regularly	
+Yaqui	29	TOUCH	bwibwise	Directional Object	Never	
+Yaqui	29	TOUCH	bwibwise	Equipollent Applicative	Never	
+Yaqui	29	TOUCH	bwibwise	Equipollent Causal	Never	
+Yaqui	29	TOUCH	bwibwise	Equipollent Noncausal	Never	
+Yaqui	29	TOUCH	bwibwise	Intransitivizer incorporation: ji'i	Never	
+Yaqui	29	TOUCH	bwibwise	Locative	Never	
+Yaqui	29	TOUCH	bwibwise	Middle	Never	
+Yaqui	29	TOUCH	bwibwise	Object incorporation	Regularly	
+Yaqui	29	TOUCH	bwibwise	Passive	Regularly	
+Yaqui	29	TOUCH	bwibwise	Resultative	Regularly	
+Yaqui	29	TOUCH	bwibwise	Undetermined object	Regularly	
+Yaqui	30	CUT	chukta	Applicative	Regularly	
+Yaqui	30	CUT	chukta	Causative	Regularly	
+Yaqui	30	CUT	chukta	Directional Object	Never	
+Yaqui	30	CUT	chukta	Equipollent Applicative	No data	
+Yaqui	30	CUT	chukta	Equipollent Causal	No data	
+Yaqui	30	CUT	chukta	Equipollent Noncausal	Regularly	
+Yaqui	30	CUT	chukta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	30	CUT	chukta	Locative	Marginally	
+Yaqui	30	CUT	chukta	Middle	Regularly	
+Yaqui	30	CUT	chukta	Object incorporation	Regularly	
+Yaqui	30	CUT	chukta	Passive	Regularly	
+Yaqui	30	CUT	chukta	Resultative	Marginally	
+Yaqui	30	CUT	chukta	Undetermined object	Regularly	
+Yaqui	31	TAKE	nu’e	Applicative	Regularly	
+Yaqui	31	TAKE	nu’e	Causative	Regularly	
+Yaqui	31	TAKE	nu’e	Directional Object	Regularly	
+Yaqui	31	TAKE	nu’e	Equipollent Applicative	Never	
+Yaqui	31	TAKE	nu’e	Equipollent Causal	Never	
+Yaqui	31	TAKE	nu’e	Equipollent Noncausal	Never	
+Yaqui	31	TAKE	nu’e	Intransitivizer incorporation: ji'i	Never	
+Yaqui	31	TAKE	nu’e	Locative	Marginally	
+Yaqui	31	TAKE	nu’e	Middle	Regularly	
+Yaqui	31	TAKE	nu’e	Object incorporation	Regularly	
+Yaqui	31	TAKE	nu’e	Passive	Marginally	
+Yaqui	31	TAKE	nu’e	Resultative	Marginally	
+Yaqui	31	TAKE	nu’e	Undetermined object	Regularly	
+Yaqui	32	TEAR	siuta	Applicative	Regularly	
+Yaqui	32	TEAR	siuta	Causative	Regularly	
+Yaqui	32	TEAR	siuta	Directional Object	No data	
+Yaqui	32	TEAR	siuta	Equipollent Applicative	Never	
+Yaqui	32	TEAR	siuta	Equipollent Causal	Never	
+Yaqui	32	TEAR	siuta	Equipollent Noncausal	Regularly	
+Yaqui	32	TEAR	siuta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	32	TEAR	siuta	Locative	Regularly	
+Yaqui	32	TEAR	siuta	Middle	Marginally	
+Yaqui	32	TEAR	siuta	Object incorporation	Regularly	
+Yaqui	32	TEAR	siuta	Passive	Regularly	
+Yaqui	32	TEAR	siuta	Resultative	Marginally	
+Yaqui	32	TEAR	siuta	Undetermined object	Regularly	
+Yaqui	33	PEEL	besuma	Applicative	Regularly	
+Yaqui	33	PEEL	besuma	Causative	Regularly	
+Yaqui	33	PEEL	besuma	Directional Object	Never	
+Yaqui	33	PEEL	besuma	Equipollent Applicative	Never	
+Yaqui	33	PEEL	besuma	Equipollent Causal	Never	
+Yaqui	33	PEEL	besuma	Equipollent Noncausal	Never	
+Yaqui	33	PEEL	besuma	Intransitivizer incorporation: ji'i	Never	
+Yaqui	33	PEEL	besuma	Locative	Never	
+Yaqui	33	PEEL	besuma	Middle	Regularly	
+Yaqui	33	PEEL	besuma	Object incorporation	Regularly	
+Yaqui	33	PEEL	besuma	Passive	Regularly	
+Yaqui	33	PEEL	besuma	Resultative	Regularly	
+Yaqui	33	PEEL	besuma	Undetermined object	Marginally	
+Yaqui	34	HIDE	esso	Applicative	Regularly	
+Yaqui	34	HIDE	esso	Causative	Regularly	
+Yaqui	34	HIDE	esso	Directional Object	Marginally	
+Yaqui	34	HIDE	esso	Equipollent Applicative	Never	
+Yaqui	34	HIDE	esso	Equipollent Causal	Never	
+Yaqui	34	HIDE	esso	Equipollent Noncausal	Regularly	
+Yaqui	34	HIDE	esso	Intransitivizer incorporation: ji'i	Never	
+Yaqui	34	HIDE	esso	Locative	No data	
+Yaqui	34	HIDE	esso	Middle	Regularly	
+Yaqui	34	HIDE	esso	Object incorporation	Never	
+Yaqui	34	HIDE	esso	Passive	Regularly	
+Yaqui	34	HIDE	esso	Resultative	Regularly	
+Yaqui	34	HIDE	esso	Undetermined object	Marginally	
+Yaqui	35	SHOW	bittua (2)	Applicative	Never	
+Yaqui	35	SHOW	bittua (2)	Causative	Never	
+Yaqui	35	SHOW	bittua (2)	Directional Object	Marginally	
+Yaqui	35	SHOW	bittua (2)	Equipollent Applicative	Never	
+Yaqui	35	SHOW	bittua (2)	Equipollent Causal	Never	
+Yaqui	35	SHOW	bittua (2)	Equipollent Noncausal	Never	
+Yaqui	35	SHOW	bittua (2)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	35	SHOW	bittua (2)	Locative	Marginally	
+Yaqui	35	SHOW	bittua (2)	Middle	Never	
+Yaqui	35	SHOW	bittua (2)	Object incorporation	Never	
+Yaqui	35	SHOW	bittua (2)	Passive	Regularly	
+Yaqui	35	SHOW	bittua (2)	Resultative	Regularly	
+Yaqui	35	SHOW	bittua (2)	Undetermined object	Marginally	
+Yaqui	36	GIVE	maka	Applicative	Regularly	
+Yaqui	36	GIVE	maka	Causative	Regularly	
+Yaqui	36	GIVE	maka	Directional Object	Marginally	
+Yaqui	36	GIVE	maka	Equipollent Applicative	Never	
+Yaqui	36	GIVE	maka	Equipollent Causal	Never	
+Yaqui	36	GIVE	maka	Equipollent Noncausal	Never	
+Yaqui	36	GIVE	maka	Intransitivizer incorporation: ji'i	Never	
+Yaqui	36	GIVE	maka	Locative	Never	
+Yaqui	36	GIVE	maka	Middle	Regularly	
+Yaqui	36	GIVE	maka	Object incorporation	Never	
+Yaqui	36	GIVE	maka	Passive	Regularly	
+Yaqui	36	GIVE	maka	Resultative	Regularly	
+Yaqui	36	GIVE	maka	Undetermined object	Regularly	
+Yaqui	37	SEND	bittua (1)	Applicative	Regularly	
+Yaqui	37	SEND	bittua (1)	Causative	Regularly	
+Yaqui	37	SEND	bittua (1)	Directional Object	Never	
+Yaqui	37	SEND	bittua (1)	Equipollent Applicative	Never	
+Yaqui	37	SEND	bittua (1)	Equipollent Causal	Never	
+Yaqui	37	SEND	bittua (1)	Equipollent Noncausal	Never	
+Yaqui	37	SEND	bittua (1)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	37	SEND	bittua (1)	Locative	Never	
+Yaqui	37	SEND	bittua (1)	Middle	Regularly	
+Yaqui	37	SEND	bittua (1)	Object incorporation	Never	
+Yaqui	37	SEND	bittua (1)	Passive	Regularly	
+Yaqui	37	SEND	bittua (1)	Resultative	Regularly	
+Yaqui	37	SEND	bittua (1)	Undetermined object	Regularly	
+Yaqui	38	CARRY	toja	Applicative	Regularly	
+Yaqui	38	CARRY	toja	Causative	Regularly	
+Yaqui	38	CARRY	toja	Directional Object	Never	
+Yaqui	38	CARRY	toja	Equipollent Applicative	Never	
+Yaqui	38	CARRY	toja	Equipollent Causal	Never	
+Yaqui	38	CARRY	toja	Equipollent Noncausal	Never	
+Yaqui	38	CARRY	toja	Intransitivizer incorporation: ji'i	Regularly	
+Yaqui	38	CARRY	toja	Locative	Never	
+Yaqui	38	CARRY	toja	Middle	Regularly	
+Yaqui	38	CARRY	toja	Object incorporation	Never	
+Yaqui	38	CARRY	toja	Passive	Regularly	
+Yaqui	38	CARRY	toja	Resultative	Marginally	
+Yaqui	38	CARRY	toja	Undetermined object	Regularly	
+Yaqui	39	THROW	watta	Applicative	Regularly	
+Yaqui	39	THROW	watta	Causative	Regularly	
+Yaqui	39	THROW	watta	Directional Object	Never	
+Yaqui	39	THROW	watta	Equipollent Applicative	No data	
+Yaqui	39	THROW	watta	Equipollent Causal	No data	
+Yaqui	39	THROW	watta	Equipollent Noncausal	Regularly	
+Yaqui	39	THROW	watta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	39	THROW	watta	Locative	Marginally	
+Yaqui	39	THROW	watta	Middle	No data	
+Yaqui	39	THROW	watta	Object incorporation	Marginally	
+Yaqui	39	THROW	watta	Passive	Regularly	
+Yaqui	39	THROW	watta	Resultative	Regularly	
+Yaqui	39	THROW	watta	Undetermined object	Regularly	
+Yaqui	40	TIE	suma	Applicative	Regularly	
+Yaqui	40	TIE	suma	Causative	Regularly	
+Yaqui	40	TIE	suma	Directional Object	Never	
+Yaqui	40	TIE	suma	Equipollent Applicative	Never	
+Yaqui	40	TIE	suma	Equipollent Causal	Never	
+Yaqui	40	TIE	suma	Equipollent Noncausal	Never	
+Yaqui	40	TIE	suma	Intransitivizer incorporation: ji'i	No data	
+Yaqui	40	TIE	suma	Locative	Never	
+Yaqui	40	TIE	suma	Middle	Regularly	
+Yaqui	40	TIE	suma	Object incorporation	Never	
+Yaqui	40	TIE	suma	Passive	No data	
+Yaqui	40	TIE	suma	Resultative	Marginally	
+Yaqui	40	TIE	suma	Undetermined object	Regularly	
+Yaqui	41	PUT	joa	Applicative	Regularly	
+Yaqui	41	PUT	joa	Causative	Regularly	
+Yaqui	41	PUT	joa	Directional Object	Marginally	
+Yaqui	41	PUT	joa	Equipollent Applicative	Never	
+Yaqui	41	PUT	joa	Equipollent Causal	Never	
+Yaqui	41	PUT	joa	Equipollent Noncausal	Never	
+Yaqui	41	PUT	joa	Intransitivizer incorporation: ji'i	Never	
+Yaqui	41	PUT	joa	Locative	No data	
+Yaqui	41	PUT	joa	Middle	Regularly	
+Yaqui	41	PUT	joa	Object incorporation	No data	
+Yaqui	41	PUT	joa	Passive	Regularly	
+Yaqui	41	PUT	joa	Resultative	Regularly	
+Yaqui	41	PUT	joa	Undetermined object	Regularly	
+Yaqui	41	PUT	mana	Applicative	Regularly	
+Yaqui	41	PUT	mana	Causative	Regularly	
+Yaqui	41	PUT	mana	Directional Object	Never	
+Yaqui	41	PUT	mana	Equipollent Applicative	Never	
+Yaqui	41	PUT	mana	Equipollent Causal	Never	
+Yaqui	41	PUT	mana	Equipollent Noncausal	Never	
+Yaqui	41	PUT	mana	Intransitivizer incorporation: ji'i	Never	
+Yaqui	41	PUT	mana	Locative	Never	
+Yaqui	41	PUT	mana	Middle	Regularly	
+Yaqui	41	PUT	mana	Object incorporation	Marginally	
+Yaqui	41	PUT	mana	Passive	Regularly	
+Yaqui	41	PUT	mana	Resultative	Regularly	
+Yaqui	41	PUT	mana	Undetermined object	No data	
+Yaqui	42	POUR	to’a	Applicative	Regularly	
+Yaqui	42	POUR	to’a	Causative	Regularly	
+Yaqui	42	POUR	to’a	Directional Object	No data	
+Yaqui	42	POUR	to’a	Equipollent Applicative	Never	
+Yaqui	42	POUR	to’a	Equipollent Causal	Never	
+Yaqui	42	POUR	to’a	Equipollent Noncausal	Marginally	
+Yaqui	42	POUR	to’a	Intransitivizer incorporation: ji'i	Never	
+Yaqui	42	POUR	to’a	Locative	No data	
+Yaqui	42	POUR	to’a	Middle	Regularly	
+Yaqui	42	POUR	to’a	Object incorporation	Never	
+Yaqui	42	POUR	to’a	Passive	Regularly	
+Yaqui	42	POUR	to’a	Resultative	Regularly	
+Yaqui	42	POUR	to’a	Undetermined object	Regularly	
+Yaqui	43	COVER	patta	Applicative	Regularly	
+Yaqui	43	COVER	patta	Causative	Regularly	
+Yaqui	43	COVER	patta	Directional Object	Never	
+Yaqui	43	COVER	patta	Equipollent Applicative	Never	
+Yaqui	43	COVER	patta	Equipollent Causal	Never	
+Yaqui	43	COVER	patta	Equipollent Noncausal	Never	
+Yaqui	43	COVER	patta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	43	COVER	patta	Locative	Marginally	
+Yaqui	43	COVER	patta	Middle	Regularly	
+Yaqui	43	COVER	patta	Object incorporation	Never	
+Yaqui	43	COVER	patta	Passive	Regularly	
+Yaqui	43	COVER	patta	Resultative	Regularly	
+Yaqui	43	COVER	patta	Undetermined object	Regularly	
+Yaqui	44	FILL	tapunia	Applicative	Regularly	
+Yaqui	44	FILL	tapunia	Causative	Regularly	
+Yaqui	44	FILL	tapunia	Directional Object	Marginally	
+Yaqui	44	FILL	tapunia	Equipollent Applicative	No data	
+Yaqui	44	FILL	tapunia	Equipollent Causal	Never	
+Yaqui	44	FILL	tapunia	Equipollent Noncausal	Never	
+Yaqui	44	FILL	tapunia	Intransitivizer incorporation: ji'i	Never	
+Yaqui	44	FILL	tapunia	Locative	Never	
+Yaqui	44	FILL	tapunia	Middle	Regularly	
+Yaqui	44	FILL	tapunia	Object incorporation	Regularly	
+Yaqui	44	FILL	tapunia	Passive	Regularly	
+Yaqui	44	FILL	tapunia	Resultative	Regularly	
+Yaqui	44	FILL	tapunia	Undetermined object	Marginally	
+Yaqui	45	LOAD	pu'akta	Applicative	Marginally	
+Yaqui	45	LOAD	pu'akta	Causative	Regularly	
+Yaqui	45	LOAD	pu'akta	Directional Object	No data	
+Yaqui	45	LOAD	pu'akta	Equipollent Applicative	No data	
+Yaqui	45	LOAD	pu'akta	Equipollent Causal	No data	
+Yaqui	45	LOAD	pu'akta	Equipollent Noncausal	Regularly	
+Yaqui	45	LOAD	pu'akta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	45	LOAD	pu'akta	Locative	No data	
+Yaqui	45	LOAD	pu'akta	Middle	Regularly	
+Yaqui	45	LOAD	pu'akta	Object incorporation	No data	
+Yaqui	45	LOAD	pu'akta	Passive	Regularly	
+Yaqui	45	LOAD	pu'akta	Resultative	Regularly	
+Yaqui	45	LOAD	pu'akta	Undetermined object	Regularly	
+Yaqui	46	BLINK	kupikte	Applicative	Regularly	
+Yaqui	46	BLINK	kupikte	Causative	Regularly	
+Yaqui	46	BLINK	kupikte	Directional Object	Regularly	
+Yaqui	46	BLINK	kupikte	Equipollent Applicative	Regularly	
+Yaqui	46	BLINK	kupikte	Equipollent Causal	Never	
+Yaqui	46	BLINK	kupikte	Equipollent Noncausal	Never	
+Yaqui	46	BLINK	kupikte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	46	BLINK	kupikte	Locative	Never	
+Yaqui	46	BLINK	kupikte	Middle	Regularly	
+Yaqui	46	BLINK	kupikte	Object incorporation	Never	
+Yaqui	46	BLINK	kupikte	Passive	Marginally	
+Yaqui	46	BLINK	kupikte	Resultative	Marginally	
+Yaqui	46	BLINK	kupikte	Undetermined object	Never	
+Yaqui	47	COUGH	tase	Applicative	Marginally	
+Yaqui	47	COUGH	tase	Causative	Regularly	
+Yaqui	47	COUGH	tase	Directional Object	No data	
+Yaqui	47	COUGH	tase	Equipollent Applicative	Never	
+Yaqui	47	COUGH	tase	Equipollent Causal	Never	
+Yaqui	47	COUGH	tase	Equipollent Noncausal	Never	
+Yaqui	47	COUGH	tase	Intransitivizer incorporation: ji'i	Never	
+Yaqui	47	COUGH	tase	Locative	Marginally	
+Yaqui	47	COUGH	tase	Middle	Regularly	
+Yaqui	47	COUGH	tase	Object incorporation	Never	
+Yaqui	47	COUGH	tase	Passive	Marginally	
+Yaqui	47	COUGH	tase	Resultative	Marginally	
+Yaqui	47	COUGH	tase	Undetermined object	Never	
+Yaqui	48	CLIMB	ja’amu	Applicative	Regularly	
+Yaqui	48	CLIMB	ja’amu	Causative	Regularly	
+Yaqui	48	CLIMB	ja’amu	Directional Object	Marginally	
+Yaqui	48	CLIMB	ja’amu	Equipollent Applicative	Never	
+Yaqui	48	CLIMB	ja’amu	Equipollent Causal	Never	
+Yaqui	48	CLIMB	ja’amu	Equipollent Noncausal	Never	
+Yaqui	48	CLIMB	ja’amu	Intransitivizer incorporation: ji'i	Never	
+Yaqui	48	CLIMB	ja’amu	Locative	Never	
+Yaqui	48	CLIMB	ja’amu	Middle	Regularly	
+Yaqui	48	CLIMB	ja’amu	Object incorporation	Marginally	
+Yaqui	48	CLIMB	ja’amu	Passive	Regularly	
+Yaqui	48	CLIMB	ja’amu	Resultative	Regularly	
+Yaqui	48	CLIMB	ja’amu	Undetermined object	Never	
+Yaqui	49	RUN	buite	Applicative	Regularly	
+Yaqui	49	RUN	buite	Causative	Regularly	
+Yaqui	49	RUN	buite	Directional Object	Never	
+Yaqui	49	RUN	buite	Equipollent Applicative	Never	
+Yaqui	49	RUN	buite	Equipollent Causal	Never	
+Yaqui	49	RUN	buite	Equipollent Noncausal	Never	
+Yaqui	49	RUN	buite	Intransitivizer incorporation: ji'i	Never	
+Yaqui	49	RUN	buite	Locative	Regularly	
+Yaqui	49	RUN	buite	Middle	Regularly	
+Yaqui	49	RUN	buite	Object incorporation	Never	
+Yaqui	49	RUN	buite	Passive	Marginally	
+Yaqui	49	RUN	buite	Resultative	Marginally	
+Yaqui	49	RUN	buite	Undetermined object	Never	
+Yaqui	50	SIT	yejte	Applicative	Regularly	
+Yaqui	50	SIT	yejte	Causative	Regularly	
+Yaqui	50	SIT	yejte	Directional Object	Never	
+Yaqui	50	SIT	yejte	Equipollent Applicative	Never	
+Yaqui	50	SIT	yejte	Equipollent Causal	Regularly	
+Yaqui	50	SIT	yejte	Equipollent Noncausal	Never	
+Yaqui	50	SIT	yejte	Intransitivizer incorporation: ji'i	No data	
+Yaqui	50	SIT	yejte	Locative	Never	
+Yaqui	50	SIT	yejte	Middle	Regularly	
+Yaqui	50	SIT	yejte	Object incorporation	Never	
+Yaqui	50	SIT	yejte	Passive	Never	
+Yaqui	50	SIT	yejte	Resultative	Regularly	
+Yaqui	50	SIT	yejte	Undetermined object	Never	
+Yaqui	51	SIT DOWN	yejte	Applicative	Regularly	
+Yaqui	51	SIT DOWN	yejte	Causative	Regularly	
+Yaqui	51	SIT DOWN	yejte	Directional Object	Never	
+Yaqui	51	SIT DOWN	yejte	Equipollent Applicative	Never	
+Yaqui	51	SIT DOWN	yejte	Equipollent Causal	Regularly	
+Yaqui	51	SIT DOWN	yejte	Equipollent Noncausal	Never	
+Yaqui	51	SIT DOWN	yejte	Intransitivizer incorporation: ji'i	No data	
+Yaqui	51	SIT DOWN	yejte	Locative	Never	
+Yaqui	51	SIT DOWN	yejte	Middle	Regularly	
+Yaqui	51	SIT DOWN	yejte	Object incorporation	Never	
+Yaqui	51	SIT DOWN	yejte	Passive	Never	
+Yaqui	51	SIT DOWN	yejte	Resultative	Regularly	
+Yaqui	51	SIT DOWN	yejte	Undetermined object	Never	
+Yaqui	52	JUMP	chepte	Applicative	No data	
+Yaqui	52	JUMP	chepte	Causative	Regularly	
+Yaqui	52	JUMP	chepte	Directional Object	No data	
+Yaqui	52	JUMP	chepte	Equipollent Applicative	Regularly	
+Yaqui	52	JUMP	chepte	Equipollent Causal	No data	
+Yaqui	52	JUMP	chepte	Equipollent Noncausal	Never	
+Yaqui	52	JUMP	chepte	Intransitivizer incorporation: ji'i	No data	
+Yaqui	52	JUMP	chepte	Locative	Regularly	
+Yaqui	52	JUMP	chepte	Middle	No data	
+Yaqui	52	JUMP	chepte	Object incorporation	No data	
+Yaqui	52	JUMP	chepte	Passive	No data	
+Yaqui	52	JUMP	chepte	Resultative	No data	
+Yaqui	52	JUMP	chepte	Undetermined object	No data	
+Yaqui	53	SING	bwiika	Applicative	Regularly	
+Yaqui	53	SING	bwiika	Causative	Regularly	
+Yaqui	53	SING	bwiika	Directional Object	Marginally	
+Yaqui	53	SING	bwiika	Equipollent Applicative	Never	
+Yaqui	53	SING	bwiika	Equipollent Causal	Never	
+Yaqui	53	SING	bwiika	Equipollent Noncausal	Never	
+Yaqui	53	SING	bwiika	Intransitivizer incorporation: ji'i	Never	
+Yaqui	53	SING	bwiika	Locative	Never	
+Yaqui	53	SING	bwiika	Middle	Regularly	
+Yaqui	53	SING	bwiika	Object incorporation	Never	
+Yaqui	53	SING	bwiika	Passive	Regularly	
+Yaqui	53	SING	bwiika	Resultative	Regularly	
+Yaqui	53	SING	bwiika	Undetermined object	Never	
+Yaqui	54	GO	siika	Applicative	Never	
+Yaqui	54	GO	siika	Causative	Regularly	
+Yaqui	54	GO	siika	Directional Object	Never	
+Yaqui	54	GO	siika	Equipollent Applicative	Never	
+Yaqui	54	GO	siika	Equipollent Causal	Never	
+Yaqui	54	GO	siika	Equipollent Noncausal	Never	
+Yaqui	54	GO	siika	Intransitivizer incorporation: ji'i	Never	
+Yaqui	54	GO	siika	Locative	Never	
+Yaqui	54	GO	siika	Middle	No data	
+Yaqui	54	GO	siika	Object incorporation	No data	
+Yaqui	54	GO	siika	Passive	Never	
+Yaqui	54	GO	siika	Resultative	Never	
+Yaqui	54	GO	siika	Undetermined object	Never	
+Yaqui	55	LEAVE	watakte	Applicative	Regularly	
+Yaqui	55	LEAVE	watakte	Causative	Regularly	
+Yaqui	55	LEAVE	watakte	Directional Object	Never	
+Yaqui	55	LEAVE	watakte	Equipollent Applicative	Regularly	
+Yaqui	55	LEAVE	watakte	Equipollent Causal	Never	
+Yaqui	55	LEAVE	watakte	Equipollent Noncausal	Never	
+Yaqui	55	LEAVE	watakte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	55	LEAVE	watakte	Locative	Marginally	
+Yaqui	55	LEAVE	watakte	Middle	Regularly	
+Yaqui	55	LEAVE	watakte	Object incorporation	Never	
+Yaqui	55	LEAVE	watakte	Passive	Regularly	
+Yaqui	55	LEAVE	watakte	Resultative	Regularly	
+Yaqui	55	LEAVE	watakte	Undetermined object	Never	
+Yaqui	56	LIVE	jo’a	Applicative	Never	
+Yaqui	56	LIVE	jo’a	Causative	Regularly	
+Yaqui	56	LIVE	jo’a	Directional Object	Never	
+Yaqui	56	LIVE	jo’a	Equipollent Applicative	Never	
+Yaqui	56	LIVE	jo’a	Equipollent Causal	Never	
+Yaqui	56	LIVE	jo’a	Equipollent Noncausal	Never	
+Yaqui	56	LIVE	jo’a	Intransitivizer incorporation: ji'i	Never	
+Yaqui	56	LIVE	jo’a	Locative	Never	
+Yaqui	56	LIVE	jo’a	Middle	Regularly	
+Yaqui	56	LIVE	jo’a	Object incorporation	Never	
+Yaqui	56	LIVE	jo’a	Passive	Regularly	
+Yaqui	56	LIVE	jo’a	Resultative	Regularly	
+Yaqui	56	LIVE	jo’a	Undetermined object	No data	
+Yaqui	57	LAUGH	aache	Applicative	Marginally	
+Yaqui	57	LAUGH	aache	Causative	Regularly	
+Yaqui	57	LAUGH	aache	Directional Object	Regularly	
+Yaqui	57	LAUGH	aache	Equipollent Applicative	Never	
+Yaqui	57	LAUGH	aache	Equipollent Causal	Never	
+Yaqui	57	LAUGH	aache	Equipollent Noncausal	Never	
+Yaqui	57	LAUGH	aache	Intransitivizer incorporation: ji'i	Never	
+Yaqui	57	LAUGH	aache	Locative	Never	
+Yaqui	57	LAUGH	aache	Middle	Regularly	
+Yaqui	57	LAUGH	aache	Object incorporation	Never	
+Yaqui	57	LAUGH	aache	Passive	Never	
+Yaqui	57	LAUGH	aache	Resultative	Marginally	
+Yaqui	57	LAUGH	aache	Undetermined object	Never	
+Yaqui	58	SCREAM	chaae (2)	Applicative	No data	
+Yaqui	58	SCREAM	chaae (2)	Causative	Regularly	
+Yaqui	58	SCREAM	chaae (2)	Directional Object	Regularly	
+Yaqui	58	SCREAM	chaae (2)	Equipollent Applicative	No data	
+Yaqui	58	SCREAM	chaae (2)	Equipollent Causal	No data	
+Yaqui	58	SCREAM	chaae (2)	Equipollent Noncausal	Never	
+Yaqui	58	SCREAM	chaae (2)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	58	SCREAM	chaae (2)	Locative	Never	
+Yaqui	58	SCREAM	chaae (2)	Middle	Never	
+Yaqui	58	SCREAM	chaae (2)	Object incorporation	Never	
+Yaqui	58	SCREAM	chaae (2)	Passive	Never	
+Yaqui	58	SCREAM	chaae (2)	Resultative	No data	
+Yaqui	58	SCREAM	chaae (2)	Undetermined object	Never	
+Yaqui	59	FEEL PAIN	wante	Applicative	Never	
+Yaqui	59	FEEL PAIN	wante	Causative	Regularly	
+Yaqui	59	FEEL PAIN	wante	Directional Object	Never	
+Yaqui	59	FEEL PAIN	wante	Equipollent Applicative	Never	
+Yaqui	59	FEEL PAIN	wante	Equipollent Causal	Never	
+Yaqui	59	FEEL PAIN	wante	Equipollent Noncausal	Never	
+Yaqui	59	FEEL PAIN	wante	Intransitivizer incorporation: ji'i	Never	
+Yaqui	59	FEEL PAIN	wante	Locative	No data	
+Yaqui	59	FEEL PAIN	wante	Middle	Regularly	
+Yaqui	59	FEEL PAIN	wante	Object incorporation	Regularly	
+Yaqui	59	FEEL PAIN	wante	Passive	No data	
+Yaqui	59	FEEL PAIN	wante	Resultative	Never	
+Yaqui	59	FEEL PAIN	wante	Undetermined object	Never	
+Yaqui	60	FEEL COLD	chubakte	Applicative	Never	
+Yaqui	60	FEEL COLD	chubakte	Causative	Regularly	
+Yaqui	60	FEEL COLD	chubakte	Directional Object	Never	
+Yaqui	60	FEEL COLD	chubakte	Equipollent Applicative	Never	
+Yaqui	60	FEEL COLD	chubakte	Equipollent Causal	Never	
+Yaqui	60	FEEL COLD	chubakte	Equipollent Noncausal	Never	
+Yaqui	60	FEEL COLD	chubakte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	60	FEEL COLD	chubakte	Locative	Never	
+Yaqui	60	FEEL COLD	chubakte	Middle	Regularly	
+Yaqui	60	FEEL COLD	chubakte	Object incorporation	Never	
+Yaqui	60	FEEL COLD	chubakte	Passive	Regularly	
+Yaqui	60	FEEL COLD	chubakte	Resultative	Never	
+Yaqui	60	FEEL COLD	chubakte	Undetermined object	Never	
+Yaqui	61	DIE	muuke	Applicative	Regularly	
+Yaqui	61	DIE	muuke	Causative	Regularly	
+Yaqui	61	DIE	muuke	Directional Object	Never	
+Yaqui	61	DIE	muuke	Equipollent Applicative	Never	
+Yaqui	61	DIE	muuke	Equipollent Causal	Never	
+Yaqui	61	DIE	muuke	Equipollent Noncausal	Never	
+Yaqui	61	DIE	muuke	Intransitivizer incorporation: ji'i	Never	
+Yaqui	61	DIE	muuke	Locative	Never	
+Yaqui	61	DIE	muuke	Middle	Regularly	
+Yaqui	61	DIE	muuke	Object incorporation	Never	
+Yaqui	61	DIE	muuke	Passive	Never	
+Yaqui	61	DIE	muuke	Resultative	Never	
+Yaqui	61	DIE	muuke	Undetermined object	Never	
+Yaqui	62	PLAY	yeewe	Applicative	Regularly	
+Yaqui	62	PLAY	yeewe	Causative	Regularly	
+Yaqui	62	PLAY	yeewe	Directional Object	Never	
+Yaqui	62	PLAY	yeewe	Equipollent Applicative	Regularly	
+Yaqui	62	PLAY	yeewe	Equipollent Causal	Never	
+Yaqui	62	PLAY	yeewe	Equipollent Noncausal	Never	
+Yaqui	62	PLAY	yeewe	Intransitivizer incorporation: ji'i	Never	
+Yaqui	62	PLAY	yeewe	Locative	Regularly	
+Yaqui	62	PLAY	yeewe	Middle	Regularly	
+Yaqui	62	PLAY	yeewe	Object incorporation	Never	
+Yaqui	62	PLAY	yeewe	Passive	Regularly	
+Yaqui	62	PLAY	yeewe	Resultative	Marginally	
+Yaqui	62	PLAY	yeewe	Undetermined object	Never	
+Yaqui	63	BE SAD	rojikte	Applicative	Never	
+Yaqui	63	BE SAD	rojikte	Causative	Regularly	
+Yaqui	63	BE SAD	rojikte	Directional Object	Never	
+Yaqui	63	BE SAD	rojikte	Equipollent Applicative	Never	
+Yaqui	63	BE SAD	rojikte	Equipollent Causal	Never	
+Yaqui	63	BE SAD	rojikte	Equipollent Noncausal	Never	
+Yaqui	63	BE SAD	rojikte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	63	BE SAD	rojikte	Locative	Never	
+Yaqui	63	BE SAD	rojikte	Middle	Regularly	
+Yaqui	63	BE SAD	rojikte	Object incorporation	Never	
+Yaqui	63	BE SAD	rojikte	Passive	Regularly	
+Yaqui	63	BE SAD	rojikte	Resultative	No data	
+Yaqui	63	BE SAD	rojikte	Undetermined object	Never	
+Yaqui	64	BE HUNGRY	tebaure	Applicative	Never	
+Yaqui	64	BE HUNGRY	tebaure	Causative	Regularly	
+Yaqui	64	BE HUNGRY	tebaure	Directional Object	Never	
+Yaqui	64	BE HUNGRY	tebaure	Equipollent Applicative	Never	
+Yaqui	64	BE HUNGRY	tebaure	Equipollent Causal	Never	
+Yaqui	64	BE HUNGRY	tebaure	Equipollent Noncausal	Never	
+Yaqui	64	BE HUNGRY	tebaure	Intransitivizer incorporation: ji'i	Never	
+Yaqui	64	BE HUNGRY	tebaure	Locative	Never	
+Yaqui	64	BE HUNGRY	tebaure	Middle	Regularly	
+Yaqui	64	BE HUNGRY	tebaure	Object incorporation	Never	
+Yaqui	64	BE HUNGRY	tebaure	Passive	Regularly	
+Yaqui	64	BE HUNGRY	tebaure	Resultative	Regularly	
+Yaqui	64	BE HUNGRY	tebaure	Undetermined object	Never	
+Yaqui	65	ROLL	ro’akte	Applicative	Regularly	
+Yaqui	65	ROLL	ro’akte	Causative	Regularly	
+Yaqui	65	ROLL	ro’akte	Directional Object	Never	
+Yaqui	65	ROLL	ro’akte	Equipollent Applicative	No data	
+Yaqui	65	ROLL	ro’akte	Equipollent Causal	Regularly	
+Yaqui	65	ROLL	ro’akte	Equipollent Noncausal	Never	
+Yaqui	65	ROLL	ro’akte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	65	ROLL	ro’akte	Locative	No data	
+Yaqui	65	ROLL	ro’akte	Middle	Regularly	
+Yaqui	65	ROLL	ro’akte	Object incorporation	Never	
+Yaqui	65	ROLL	ro’akte	Passive	Regularly	
+Yaqui	65	ROLL	ro’akte	Resultative	Regularly	
+Yaqui	65	ROLL	ro’akte	Undetermined object	Never	
+Yaqui	66	SINK	go’okte	Applicative	Regularly	
+Yaqui	66	SINK	go’okte	Causative	Regularly	
+Yaqui	66	SINK	go’okte	Directional Object	Never	
+Yaqui	66	SINK	go’okte	Equipollent Applicative	Never	
+Yaqui	66	SINK	go’okte	Equipollent Causal	Regularly	
+Yaqui	66	SINK	go’okte	Equipollent Noncausal	Never	
+Yaqui	66	SINK	go’okte	Intransitivizer incorporation: ji'i	Never	
+Yaqui	66	SINK	go’okte	Locative	Never	
+Yaqui	66	SINK	go’okte	Middle	Regularly	
+Yaqui	66	SINK	go’okte	Object incorporation	Never	
+Yaqui	66	SINK	go’okte	Passive	Regularly	
+Yaqui	66	SINK	go’okte	Resultative	Never	
+Yaqui	66	SINK	go’okte	Undetermined object	Never	
+Yaqui	67	BURN	beete	Applicative	Regularly	
+Yaqui	67	BURN	beete	Causative	Regularly	
+Yaqui	67	BURN	beete	Directional Object	Never	
+Yaqui	67	BURN	beete	Equipollent Applicative	Never	
+Yaqui	67	BURN	beete	Equipollent Causal	Regularly	
+Yaqui	67	BURN	beete	Equipollent Noncausal	Never	
+Yaqui	67	BURN	beete	Intransitivizer incorporation: ji'i	Never	
+Yaqui	67	BURN	beete	Locative	Never	
+Yaqui	67	BURN	beete	Middle	Regularly	
+Yaqui	67	BURN	beete	Object incorporation	Never	
+Yaqui	67	BURN	beete	Passive	Marginally	
+Yaqui	67	BURN	beete	Resultative	Marginally	
+Yaqui	67	BURN	beete	Undetermined object	Marginally	
+Yaqui	68	BE DRY	waake	Applicative	Marginally	
+Yaqui	68	BE DRY	waake	Causative	Regularly	
+Yaqui	68	BE DRY	waake	Directional Object	Never	
+Yaqui	68	BE DRY	waake	Equipollent Applicative	No data	
+Yaqui	68	BE DRY	waake	Equipollent Causal	Regularly	
+Yaqui	68	BE DRY	waake	Equipollent Noncausal	Never	
+Yaqui	68	BE DRY	waake	Intransitivizer incorporation: ji'i	Never	
+Yaqui	68	BE DRY	waake	Locative	Never	
+Yaqui	68	BE DRY	waake	Middle	Regularly	
+Yaqui	68	BE DRY	waake	Object incorporation	Never	
+Yaqui	68	BE DRY	waake	Passive	Regularly	
+Yaqui	68	BE DRY	waake	Resultative	Marginally	
+Yaqui	68	BE DRY	waake	Undetermined object	Marginally	
+Yaqui	69	RAIN	yuke	Applicative	Marginally	
+Yaqui	69	RAIN	yuke	Causative	Regularly	
+Yaqui	69	RAIN	yuke	Directional Object	Never	
+Yaqui	69	RAIN	yuke	Equipollent Applicative	Never	
+Yaqui	69	RAIN	yuke	Equipollent Causal	Never	
+Yaqui	69	RAIN	yuke	Equipollent Noncausal	Never	
+Yaqui	69	RAIN	yuke	Intransitivizer incorporation: ji'i	Never	
+Yaqui	69	RAIN	yuke	Locative	Never	
+Yaqui	69	RAIN	yuke	Middle	Never	
+Yaqui	69	RAIN	yuke	Object incorporation	Never	
+Yaqui	69	RAIN	yuke	Passive	Never	
+Yaqui	69	RAIN	yuke	Resultative	Never	
+Yaqui	69	RAIN	yuke	Undetermined object	Never	
+Yaqui	70	BE A HUNTER	amureo	Applicative	Never	
+Yaqui	70	BE A HUNTER	amureo	Causative	Never	
+Yaqui	70	BE A HUNTER	amureo	Directional Object	Never	
+Yaqui	70	BE A HUNTER	amureo	Equipollent Applicative	Never	
+Yaqui	70	BE A HUNTER	amureo	Equipollent Causal	Never	
+Yaqui	70	BE A HUNTER	amureo	Equipollent Noncausal	Never	
+Yaqui	70	BE A HUNTER	amureo	Intransitivizer incorporation: ji'i	Never	
+Yaqui	70	BE A HUNTER	amureo	Locative	Never	
+Yaqui	70	BE A HUNTER	amureo	Middle	Never	
+Yaqui	70	BE A HUNTER	amureo	Object incorporation	Marginally	
+Yaqui	70	BE A HUNTER	amureo	Passive	Never	
+Yaqui	70	BE A HUNTER	amureo	Resultative	Never	
+Yaqui	70	BE A HUNTER	amureo	Undetermined object	Never	
+Yaqui	71	GRIND	tuuse	Applicative	No data	
+Yaqui	71	GRIND	tuuse	Causative	Regularly	
+Yaqui	71	GRIND	tuuse	Directional Object	No data	
+Yaqui	71	GRIND	tuuse	Equipollent Applicative	No data	
+Yaqui	71	GRIND	tuuse	Equipollent Causal	No data	
+Yaqui	71	GRIND	tuuse	Equipollent Noncausal	No data	
+Yaqui	71	GRIND	tuuse	Intransitivizer incorporation: ji'i	No data	
+Yaqui	71	GRIND	tuuse	Locative	No data	
+Yaqui	71	GRIND	tuuse	Middle	No data	
+Yaqui	71	GRIND	tuuse	Object incorporation	No data	
+Yaqui	71	GRIND	tuuse	Passive	No data	
+Yaqui	71	GRIND	tuuse	Resultative	No data	
+Yaqui	71	GRIND	tuuse	Undetermined object	No data	
+Yaqui	72	WIPE	tu’ute	Applicative	No data	
+Yaqui	72	WIPE	tu’ute	Causative	Regularly	
+Yaqui	72	WIPE	tu’ute	Directional Object	No data	
+Yaqui	72	WIPE	tu’ute	Equipollent Applicative	No data	
+Yaqui	72	WIPE	tu’ute	Equipollent Causal	No data	
+Yaqui	72	WIPE	tu’ute	Equipollent Noncausal	No data	
+Yaqui	72	WIPE	tu’ute	Intransitivizer incorporation: ji'i	No data	
+Yaqui	72	WIPE	tu’ute	Locative	No data	
+Yaqui	72	WIPE	tu’ute	Middle	No data	
+Yaqui	72	WIPE	tu’ute	Object incorporation	No data	
+Yaqui	72	WIPE	tu’ute	Passive	No data	
+Yaqui	72	WIPE	tu’ute	Resultative	No data	
+Yaqui	72	WIPE	tu’ute	Undetermined object	Regularly	
+Yaqui	73	DIG	bweje	Applicative	No data	
+Yaqui	73	DIG	bweje	Causative	No data	
+Yaqui	73	DIG	bweje	Directional Object	No data	
+Yaqui	73	DIG	bweje	Equipollent Applicative	Never	
+Yaqui	73	DIG	bweje	Equipollent Causal	Never	
+Yaqui	73	DIG	bweje	Equipollent Noncausal	Never	
+Yaqui	73	DIG	bweje	Intransitivizer incorporation: ji'i	Regularly	
+Yaqui	73	DIG	bweje	Locative	No data	
+Yaqui	73	DIG	bweje	Middle	No data	
+Yaqui	73	DIG	bweje	Object incorporation	No data	
+Yaqui	73	DIG	bweje	Passive	No data	
+Yaqui	73	DIG	bweje	Resultative	No data	
+Yaqui	73	DIG	bweje	Undetermined object	No data	
+Yaqui	74	PUSH	yu’a	Applicative	No data	
+Yaqui	74	PUSH	yu’a	Causative	Regularly	
+Yaqui	74	PUSH	yu’a	Directional Object	No data	
+Yaqui	74	PUSH	yu’a	Equipollent Applicative	No data	
+Yaqui	74	PUSH	yu’a	Equipollent Causal	No data	
+Yaqui	74	PUSH	yu’a	Equipollent Noncausal	No data	
+Yaqui	74	PUSH	yu’a	Intransitivizer incorporation: ji'i	No data	
+Yaqui	74	PUSH	yu’a	Locative	No data	
+Yaqui	74	PUSH	yu’a	Middle		
+Yaqui	74	PUSH	yu’a	Object incorporation	No data	
+Yaqui	74	PUSH	yu’a	Passive	No data	
+Yaqui	74	PUSH	yu’a	Resultative	No data	
+Yaqui	74	PUSH	yu’a	Undetermined object	No data	
+Yaqui	75	BRING	nu'upa	Applicative	No data	
+Yaqui	75	BRING	nu'upa	Causative	Regularly	
+Yaqui	75	BRING	nu'upa	Directional Object	No data	
+Yaqui	75	BRING	nu'upa	Equipollent Applicative	No data	
+Yaqui	75	BRING	nu'upa	Equipollent Causal	No data	
+Yaqui	75	BRING	nu'upa	Equipollent Noncausal	No data	
+Yaqui	75	BRING	nu'upa	Intransitivizer incorporation: ji'i	No data	
+Yaqui	75	BRING	nu'upa	Locative	No data	
+Yaqui	75	BRING	nu'upa	Middle	No data	
+Yaqui	75	BRING	nu'upa	Object incorporation	No data	
+Yaqui	75	BRING	nu'upa	Passive	No data	
+Yaqui	75	BRING	nu'upa	Resultative	No data	
+Yaqui	75	BRING	nu'upa	Undetermined object	No data	
+Yaqui	76	STEAL	etbwa	Applicative	Regularly	
+Yaqui	76	STEAL	etbwa	Causative	No data	
+Yaqui	76	STEAL	etbwa	Directional Object	No data	
+Yaqui	76	STEAL	etbwa	Equipollent Applicative	No data	
+Yaqui	76	STEAL	etbwa	Equipollent Causal	No data	
+Yaqui	76	STEAL	etbwa	Equipollent Noncausal	No data	
+Yaqui	76	STEAL	etbwa	Intransitivizer incorporation: ji'i	No data	
+Yaqui	76	STEAL	etbwa	Locative	Regularly	
+Yaqui	76	STEAL	etbwa	Middle	No data	
+Yaqui	76	STEAL	etbwa	Object incorporation	No data	
+Yaqui	76	STEAL	etbwa	Passive	No data	
+Yaqui	76	STEAL	etbwa	Resultative	No data	
+Yaqui	76	STEAL	etbwa	Undetermined object	No data	
+Yaqui	77	TEACH	majta	Applicative	No data	
+Yaqui	77	TEACH	majta	Causative	Regularly	
+Yaqui	77	TEACH	majta	Directional Object	No data	
+Yaqui	77	TEACH	majta	Equipollent Applicative	No data	
+Yaqui	77	TEACH	majta	Equipollent Causal	No data	
+Yaqui	77	TEACH	majta	Equipollent Noncausal	No data	
+Yaqui	77	TEACH	majta	Intransitivizer incorporation: ji'i	No data	
+Yaqui	77	TEACH	majta	Locative	No data	
+Yaqui	77	TEACH	majta	Middle	No data	
+Yaqui	77	TEACH	majta	Object incorporation	No data	
+Yaqui	77	TEACH	majta	Passive	No data	
+Yaqui	77	TEACH	majta	Resultative	No data	
+Yaqui	77	TEACH	majta	Undetermined object	Regularly	
+Yaqui	78	HEAR	jikkaja	Applicative	No data	
+Yaqui	78	HEAR	jikkaja	Causative	Regularly	
+Yaqui	78	HEAR	jikkaja	Directional Object	No data	
+Yaqui	78	HEAR	jikkaja	Equipollent Applicative	No data	
+Yaqui	78	HEAR	jikkaja	Equipollent Causal	No data	
+Yaqui	78	HEAR	jikkaja	Equipollent Noncausal	No data	
+Yaqui	78	HEAR	jikkaja	Intransitivizer incorporation: ji'i	No data	
+Yaqui	78	HEAR	jikkaja	Locative	No data	
+Yaqui	78	HEAR	jikkaja	Middle	No data	
+Yaqui	78	HEAR	jikkaja	Object incorporation	No data	
+Yaqui	78	HEAR	jikkaja	Passive	No data	
+Yaqui	78	HEAR	jikkaja	Resultative	No data	
+Yaqui	78	HEAR	jikkaja	Undetermined object	No data	
+Yaqui	79	COOK	bwasa	Applicative	No data	
+Yaqui	79	COOK	bwasa	Causative	Regularly	
+Yaqui	79	COOK	bwasa	Directional Object	No data	
+Yaqui	79	COOK	bwasa	Equipollent Applicative	No data	
+Yaqui	79	COOK	bwasa	Equipollent Causal	No data	
+Yaqui	79	COOK	bwasa	Equipollent Noncausal	Regularly	
+Yaqui	79	COOK	bwasa	Intransitivizer incorporation: ji'i	No data	
+Yaqui	79	COOK	bwasa	Locative	No data	
+Yaqui	79	COOK	bwasa	Middle	No data	
+Yaqui	79	COOK	bwasa	Object incorporation	No data	
+Yaqui	79	COOK	bwasa	Passive	No data	
+Yaqui	79	COOK	bwasa	Resultative	Regularly	
+Yaqui	79	COOK	bwasa	Undetermined object	No data	
+Yaqui	80	BOIL	pojte	Applicative	No data	
+Yaqui	80	BOIL	pojte	Causative	Regularly	
+Yaqui	80	BOIL	pojte	Directional Object	No data	
+Yaqui	80	BOIL	pojte	Equipollent Applicative	No data	
+Yaqui	80	BOIL	pojte	Equipollent Causal	No data	
+Yaqui	80	BOIL	pojte	Equipollent Noncausal	No data	
+Yaqui	80	BOIL	pojte	Intransitivizer incorporation: ji'i	No data	
+Yaqui	80	BOIL	pojte	Locative	No data	
+Yaqui	80	BOIL	pojte	Middle	No data	
+Yaqui	80	BOIL	pojte	Object incorporation	No data	
+Yaqui	80	BOIL	pojte	Passive	No data	
+Yaqui	80	BOIL	pojte	Resultative	No data	
+Yaqui	80	BOIL	pojte	Undetermined object	No data	
+Yaqui	140	BE NAMED	tea (1)	Applicative	Regularly	
+Yaqui	140	BE NAMED	tea (1)	Causative	Regularly	
+Yaqui	140	BE NAMED	tea (1)	Directional Object	No data	
+Yaqui	140	BE NAMED	tea (1)	Equipollent Applicative	Never	
+Yaqui	140	BE NAMED	tea (1)	Equipollent Causal	Never	
+Yaqui	140	BE NAMED	tea (1)	Equipollent Noncausal	Never	
+Yaqui	140	BE NAMED	tea (1)	Intransitivizer incorporation: ji'i	Never	
+Yaqui	140	BE NAMED	tea (1)	Locative	Marginally	
+Yaqui	140	BE NAMED	tea (1)	Middle	No data	
+Yaqui	140	BE NAMED	tea (1)	Object incorporation	Regularly	
+Yaqui	140	BE NAMED	tea (1)	Passive	Regularly	
+Yaqui	140	BE NAMED	tea (1)	Resultative	No data	
+Yaqui	140	BE NAMED	tea (1)	Undetermined object	Regularly	
+Yaqui	150	SHAVE (self)	bekta	Applicative	Regularly	
+Yaqui	150	SHAVE (self)	bekta	Causative	Regularly	
+Yaqui	150	SHAVE (self)	bekta	Directional Object	Never	
+Yaqui	150	SHAVE (self)	bekta	Equipollent Applicative	Never	
+Yaqui	150	SHAVE (self)	bekta	Equipollent Causal	Never	
+Yaqui	150	SHAVE (self)	bekta	Equipollent Noncausal	Never	
+Yaqui	150	SHAVE (self)	bekta	Intransitivizer incorporation: ji'i	Never	
+Yaqui	150	SHAVE (self)	bekta	Locative	Marginally	
+Yaqui	150	SHAVE (self)	bekta	Middle	Marginally	
+Yaqui	150	SHAVE (self)	bekta	Object incorporation	Never	
+Yaqui	150	SHAVE (self)	bekta	Passive	Regularly	
+Yaqui	150	SHAVE (self)	bekta	Resultative	Regularly	
+Yaqui	150	SHAVE (self)	bekta	Undetermined object	Regularly	

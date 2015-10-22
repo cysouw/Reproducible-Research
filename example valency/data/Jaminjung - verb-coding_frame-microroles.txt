@@ -1,0 +1,207 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Jaminjung	1	EAT	ganimindany	Basic	1-erg 2-abs subj[1].obj[2].V	1	eater	NP-erg subj.V	A
+Jaminjung	1	EAT	ganimindany	Basic	1-erg 2-abs subj[1].obj[2].V	2	eaten food	NP-abs obj.V	P
+Jaminjung	1	EAT	thawaya gagba	Basic	1-abs 2-abs subj[1].V	1	eater	NP-abs subj.V	S
+Jaminjung	1	EAT	thawaya gagba	Basic	1-abs 2-abs subj[1].V	2	eaten food	NP-abs	X
+Jaminjung	2	HUG	warrgi ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	hugger	NP-erg subj.V	A
+Jaminjung	2	HUG	warrgi ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	huggee	NP-abs obj.V	P
+Jaminjung	2	HUG	warrgi ganimuwa	Basic	1-erg 2-abs subj[1].obj[2].V	1	hugger	NP-erg subj.V	A
+Jaminjung	2	HUG	warrgi ganimuwa	Basic	1-erg 2-abs subj[1].obj[2].V	2	huggee	NP-abs obj.V	P
+Jaminjung	3	LOOK AT	mung ganingawu	Basic	1-erg 2-abs subj[1].obj[2].V	1	looker	NP-erg subj.V	A
+Jaminjung	3	LOOK AT	mung ganingawu	Basic	1-erg 2-abs subj[1].obj[2].V	2	looked at entity	NP-abs obj.V	P
+Jaminjung	4	SEE	ganingawu	Basic	1-erg 2-abs subj[1].obj[2].V	1	seeer	NP-erg subj.V	A
+Jaminjung	4	SEE	ganingawu	Basic	1-erg 2-abs subj[1].obj[2].V	2	seen entity	NP-abs obj.V	P
+Jaminjung	5	SMELL	ngabuj ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	smeller	NP-erg subj.V	A
+Jaminjung	5	SMELL	ngabuj ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	smelled entity	NP-abs obj.V	P
+Jaminjung	6	FEAR	ganiyangmany	Basic	1-erg 2-abs subj[1].obj[2].V	1	fearer	NP-erg subj.V	A
+Jaminjung	6	FEAR	ganiyangmany	Basic	1-erg 2-abs subj[1].obj[2].V	2	fear stimulus	NP-abs obj.V	P
+Jaminjung	6	FEAR	yarrajgu gagba	Basic	1-abs 2-dat subj[1].V	1	fearer	NP-abs subj.V	S
+Jaminjung	6	FEAR	yarrajgu gagba	Basic	1-abs 2-dat subj[1].V	2	fear stimulus	NP-dat	X
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	frightener	NP-erg subj.V	A
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	frightenee	NP-abs obj.V	P
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Basic	1-erg 2-abs subj[1].obj[2].V	1	liker	NP-erg subj.V	A
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Basic	1-erg 2-abs subj[1].obj[2].V	2	liked entity	NP-abs obj.V	P
+Jaminjung	9	KNOW	jurriya (gagba)	Basic	1-abs 2-dat subj[1].V	1	knower	NP-abs subj.V	S
+Jaminjung	9	KNOW	jurriya (gagba)	Basic	1-abs 2-dat subj[1].V	2	known thing/person	NP-dat	X
+Jaminjung	10	THINK	langa gagba	Basic	1-abs 2-dat subj[1].V	1	thinker	NP-abs subj.V	S
+Jaminjung	10	THINK	langa gagba	Basic	1-abs 2-dat subj[1].V	2	thought content	NP-dat	X
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Basic	1-abs 2-dat subj[1].V	1	searcher	NP-abs subj.V	S
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Basic	1-abs 2-dat subj[1].V	2	searched for thing	NP-dat	X
+Jaminjung	12	WASH	gulyu ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	washer	NP-erg subj.V	A
+Jaminjung	12	WASH	gulyu ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	washed entity	NP-abs obj.V	P
+Jaminjung	12	WASH	ngabulg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V	1	washer	NP-erg subj.V	A
+Jaminjung	12	WASH	ngabulg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V	2	washed entity	NP-abs obj.V	P
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Basic	1-abs 2-abs subj[1].V	1	shaver (of body part)	NP-abs subj.V	S
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Basic	1-abs 2-abs subj[1].V	2	shaved body part	NP-abs	X
+Jaminjung	15	HELP	helpim ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	helper	NP-erg subj.V	A
+Jaminjung	15	HELP	helpim ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	helpee	NP-abs obj.V	P
+Jaminjung	16	FOLLOW	ganiwardagarrany	Basic	1-erg 2-abs subj[1].obj[2].V	1	follower	NP-erg subj.V	A
+Jaminjung	16	FOLLOW	ganiwardagarrany	Basic	1-erg 2-abs subj[1].obj[2].V	2	followee	NP-abs obj.V	P
+Jaminjung	17	MEET	wamam ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	meeter	NP-erg subj.V	A
+Jaminjung	17	MEET	wamam ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	met person	NP-abs obj.V	P
+Jaminjung	18	TALK	yirrgbi gagba	Basic	1-abs 2-dat subj[1].V	1	talker	NP-abs subj.V	S
+Jaminjung	18	TALK	yirrgbi gagba	Basic	1-abs 2-dat subj[1].V	2	talked to person	NP-dat	X
+Jaminjung	19	ASK FOR	yanggi ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	1	asker	NP-erg subj.V	A
+Jaminjung	19	ASK FOR	yanggi ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	2	askee	NP-abs obj.V	P
+Jaminjung	19	ASK FOR	yanggi ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	3	requested thing	NP-dat	X
+Jaminjung	20	SHOUT AT	bawa ganiyu	Basic	1-erg 2-abs subj[1].obj[2].V	1	shouter	NP-erg subj.V	A
+Jaminjung	20	SHOUT AT	bawa ganiyu	Basic	1-erg 2-abs subj[1].obj[2].V	2	shouted words	NP-abs obj.V	P
+Jaminjung	21	TELL	yirrg ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	1	teller	NP-erg subj.V	A
+Jaminjung	21	TELL	yirrg ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	2	tellee	NP-abs obj.V	P
+Jaminjung	21	TELL	yirrg ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	3	told content	NP-dat	X
+Jaminjung	22	SAY	ganiyu	Basic	UTT2 1-erg 3-dat subj[1].obj[2].V	1	sayer	NP-erg subj.V	X
+Jaminjung	22	SAY	ganiyu	Basic	UTT2 1-erg 3-dat subj[1].obj[2].V	2	said content	UTT obj.V	X
+Jaminjung	22	SAY	ganiyu	Basic	UTT2 1-erg 3-dat subj[1].obj[2].V	3	saying addressee	NP-dat	X
+Jaminjung	23	NAME	bag ganima (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	namer	NP-erg subj.V	A
+Jaminjung	23	NAME	bag ganima (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	namee	NP-abs obj.V	P
+Jaminjung	23	NAME	bag ganima (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	name	NP-abs	X
+Jaminjung	23	NAME	ganarrany (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	namer	NP-erg subj.V	A
+Jaminjung	23	NAME	ganarrany (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	namee	NP-abs obj.V	P
+Jaminjung	23	NAME	ganarrany (2)	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	name	NP-abs	X
+Jaminjung	23	NAME	nij ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	namer	NP-erg subj.V	A
+Jaminjung	23	NAME	nij ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	namee	NP-abs obj.V	P
+Jaminjung	23	NAME	nij ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	name	NP-abs	X
+Jaminjung	24	BUILD	ganilinymany (2)	Basic	1-erg 2-abs subj[1].obj[2].V	1	builder	NP-erg subj.V	A
+Jaminjung	24	BUILD	ganilinymany (2)	Basic	1-erg 2-abs subj[1].obj[2].V	2	built thing	NP-abs obj.V	P
+Jaminjung	24	BUILD	jardij ganima	Basic	1-erg 2-abs subj[1].obj[2].V	1	builder	NP-erg subj.V	A
+Jaminjung	24	BUILD	jardij ganima	Basic	1-erg 2-abs subj[1].obj[2].V	2	built thing	NP-abs obj.V	P
+Jaminjung	25	BREAK	bag ganima (1)	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	breaker	NP-erg subj.V	A
+Jaminjung	25	BREAK	bag ganima (1)	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	broken thing	NP-abs obj.V	P
+Jaminjung	25	BREAK	bag ganima (1)	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	breaking instrument	NP-instr	I
+Jaminjung	26	KILL	digirrij ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	killer	NP-erg subj.V	A
+Jaminjung	26	KILL	digirrij ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	killee	NP-abs obj.V	P
+Jaminjung	26	KILL	digirrij ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	killing instrument	NP-instr	I
+Jaminjung	26	KILL	ning ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	killer	NP-erg subj.V	A
+Jaminjung	26	KILL	ning ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	killee	NP-abs obj.V	P
+Jaminjung	26	KILL	ning ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	killing instrument	NP-instr	I
+Jaminjung	27	BEAT	wanywany ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	beater	NP-erg subj.V	A
+Jaminjung	27	BEAT	wanywany ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	beatee	NP-abs obj.V	P
+Jaminjung	27	BEAT	wanywany ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	beating instrument	NP-instr	I
+Jaminjung	28	HIT	ganima	Basic	1-erg 2-abs subj[1].obj[2].V	1	hitter	NP-erg subj.V	A
+Jaminjung	28	HIT	ganima	Basic	1-erg 2-abs subj[1].obj[2].V	2	hittee	NP-abs obj.V	P
+Jaminjung	29	TOUCH	mard ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	toucher	NP-erg subj.V	A
+Jaminjung	29	TOUCH	mard ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	touchee	NP-abs obj.V	P
+Jaminjung	30	CUT	gad ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	cutter	NP-erg subj.V	A
+Jaminjung	30	CUT	gad ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	cut thing	NP-abs obj.V	P
+Jaminjung	30	CUT	gad ganima	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	cutting instrument	NP-instr	I
+Jaminjung	31	TAKE	birrg ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	taker	NP-erg subj.V	A
+Jaminjung	31	TAKE	birrg ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	taking source	NP-abs obj.V	P
+Jaminjung	31	TAKE	birrg ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	taken thing	NP-abs	X
+Jaminjung	31	TAKE	ganangu (2)	Basic	1-erg 2-abs subj[1].obj[2].V	1	taker	NP-erg subj.V	A
+Jaminjung	31	TAKE	ganangu (2)	Basic	1-erg 2-abs subj[1].obj[2].V	2	taken thing	NP-abs obj.V	P
+Jaminjung	31	TAKE	ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	1	taker	NP-erg subj.V	A
+Jaminjung	31	TAKE	ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	2	taken thing	NP-abs obj.V	P
+Jaminjung	32	TEAR	gub ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	tearer	NP-erg subj.V	A
+Jaminjung	32	TEAR	gub ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	torn thing	NP-abs obj.V	P
+Jaminjung	33	PEEL	dirawu ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	peeler	NP-erg subj.V	A
+Jaminjung	33	PEEL	dirawu ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	peel	NP-abs obj.V	P
+Jaminjung	34	HIDE	marrug ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V	1	hider	NP-erg subj.V	A
+Jaminjung	34	HIDE	marrug ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V	2	hidden thing	NP-abs obj.V	P
+Jaminjung	35	SHOW	yurrg ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	shower	NP-erg subj.V	A
+Jaminjung	35	SHOW	yurrg ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	showing addressee	NP-abs obj.V	P
+Jaminjung	35	SHOW	yurrg ganarrany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	shown thing	NP-abs	X
+Jaminjung	36	GIVE	ganingarnany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	giver	NP-erg subj.V	A
+Jaminjung	36	GIVE	ganingarnany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	giving recipient	NP-abs obj.V	P
+Jaminjung	36	GIVE	ganingarnany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	gift	NP-abs	X
+Jaminjung	37	SEND	dalag ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	1	sender	NP-erg subj.V	A
+Jaminjung	37	SEND	dalag ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	2	sent thing	NP-abs obj.V	P
+Jaminjung	37	SEND	dalag ganarrany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	3	sending recipient	NP-dat	X
+Jaminjung	38	CARRY	thuruny ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	1	carrier	NP-erg subj.V	A
+Jaminjung	38	CARRY	thuruny ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	2	carried thing	NP-abs obj.V	P
+Jaminjung	39	THROW	ganardgiyany	Basic	1-erg 2-abs subj[1].obj[2].V	1	thrower	NP-erg subj.V	A
+Jaminjung	39	THROW	ganardgiyany	Basic	1-erg 2-abs subj[1].obj[2].V	2	thrown thing	NP-abs obj.V	P
+Jaminjung	40	TIE	dibird ganangu	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	1	tier	NP-erg subj.V	A
+Jaminjung	40	TIE	dibird ganangu	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	2	tied thing	NP-abs obj.V	P
+Jaminjung	40	TIE	dibird ganangu	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	3	tying goal	LOC	X
+Jaminjung	40	TIE	dirrg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr 4-loc	1	tier	NP-erg subj.V	A
+Jaminjung	40	TIE	dirrg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr 4-loc	2	tied thing	NP-abs obj.V	P
+Jaminjung	40	TIE	dirrg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr 4-loc	3	tying instrument	NP-instr	I
+Jaminjung	40	TIE	dirrg ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr 4-loc	4	tying goal	NP-loc	X
+Jaminjung	41	PUT	ganarrany (1)	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	1	putter	NP-erg subj.V	A
+Jaminjung	41	PUT	ganarrany (1)	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	2	put thing	NP-abs obj.V	P
+Jaminjung	41	PUT	ganarrany (1)	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	3	putting goal	LOC	X
+Jaminjung	42	POUR	lawu ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	1	pourer	NP-erg subj.V	A
+Jaminjung	42	POUR	lawu ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	2	poured substance	NP-abs obj.V	P
+Jaminjung	42	POUR	lawu ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	3	pouring goal	LOC	X
+Jaminjung	43	COVER	bardbard ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	coverer	NP-erg subj.V	A
+Jaminjung	43	COVER	bardbard ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	covered thing	NP-abs obj.V	P
+Jaminjung	43	COVER	bardbard ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	cover	NP-instr	I
+Jaminjung	44	FILL	jardi ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	1	filler	NP-erg subj.V	A
+Jaminjung	44	FILL	jardi ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	2	filling material	NP-abs obj.V	P
+Jaminjung	44	FILL	jardi ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	3	filled container	LOC	X
+Jaminjung	45	LOAD	bagurr ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	1	loader	NP-erg subj.V	A
+Jaminjung	45	LOAD	bagurr ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	2	loaded thing	NP-abs obj.V	P
+Jaminjung	45	LOAD	bagurr ganarrany	Basic	1-erg 2-abs LOC3 subj[1].obj[2].V	3	loading place	LOC	X
+Jaminjung	46	BLINK	yimij ganiyu	Basic	1-abs subj[1].V	1	blinker	NP-abs subj.V	S
+Jaminjung	47	COUGH	ngujul ganiyu	Basic	1-abs subj[1].V	1	cougher	NP-abs subj.V	S
+Jaminjung	48	CLIMB	burduj gajgany	Basic	1-abs 2-all subj[1].V	1	climber	NP-abs subj.V	S
+Jaminjung	48	CLIMB	burduj gajgany	Basic	1-abs 2-all subj[1].V	2	climbing goal	NP-all	X
+Jaminjung	49	RUN	yugung gajgany	Basic	1-abs 2-all subj[1].V	1	runner	NP-abs subj.V	S
+Jaminjung	49	RUN	yugung gajgany	Basic	1-abs 2-all subj[1].V	2	run goal	NP-all	X
+Jaminjung	50	SIT	waga gagba	Basic	1-abs subj[1].V	1	sitter	NP-abs subj.V	S
+Jaminjung	51	SIT DOWN	waga gardbany	Basic	1-abs subj[1].V	1	sitdowner	NP-abs subj.V	S
+Jaminjung	52	JUMP	dibard gajgany	Basic	1-abs subj[1].V	1	jumper	NP-abs subj.V	S
+Jaminjung	53	SING	nganya gagba	Basic	1-abs subj[1].V	1	singer	NP-abs subj.V	S
+Jaminjung	54	GO	gajgany	Basic	1-abs 2-all subj[1].V	1	goer	NP-abs subj.V	S
+Jaminjung	54	GO	gajgany	Basic	1-abs 2-all subj[1].V	2	going goal	NP-all	X
+Jaminjung	55	LEAVE	ganungany	Basic	1-erg 2-abs subj[1].obj[2].V	1	leaver	NP-erg subj.V	A
+Jaminjung	55	LEAVE	ganungany	Basic	1-erg 2-abs subj[1].obj[2].V	2	left place/person	NP-abs obj.V	P
+Jaminjung	56	LIVE	gagba	Basic	1-abs 2-loc subj[1].V	1	liver	NP-abs subj.V	S
+Jaminjung	56	LIVE	gagba	Basic	1-abs 2-loc subj[1].V	2	living place	NP-loc	X
+Jaminjung	57	LAUGH	gambaja gagba	Basic	1-abs subj[1].V	1	laugher	NP-abs subj.V	S
+Jaminjung	58	SCREAM	bawa ganiyu	Basic	1-erg 2-abs subj[1].obj[2].V	1	screamer	NP-erg subj.V	A
+Jaminjung	58	SCREAM	bawa ganiyu	Basic	1-erg 2-abs subj[1].obj[2].V	2	screamed content	NP-abs obj.V	P
+Jaminjung	59	FEEL PAIN	janga gagba	Basic	1-abs subj[1].V	1	pain-feeler	NP-abs subj.V	S
+Jaminjung	60	FEEL COLD	garrijni ganangu	Basic	2-abs obj[2].V	2	freezing person	NP-abs	X
+Jaminjung	61	DIE	digirrij gajgany	Basic	1-abs subj[1].V	1	dieer	NP-abs subj.V	S
+Jaminjung	62	PLAY	garlagarla gagba	Basic	1-abs subj[1].V	1	player	NP-abs subj.V	S
+Jaminjung	63	BE SAD	burru marring ganiyu	Basic	1-abs subj[1].V	1	sad person	NP-abs subj.V	S
+Jaminjung	64	BE HUNGRY	guyawud gagba	Basic	1-abs subj[1].V	1	hungry person	NP-abs subj.V	S
+Jaminjung	65	ROLL	dididmayan gangga	Basic	1-abs subj[1].V	1	rolling entity	NP-abs subj.V	S
+Jaminjung	66	SINK	thawu gardbany	Basic	1-abs subj[1].V	1	sunken entity	NP-abs subj.V	S
+Jaminjung	67	BURN	garnaya	Basic	1-abs subj[1].V	1	burnt thing	NP-abs subj.V	S
+Jaminjung	68	BE DRY	larrman gagba	Basic	1-abs subj[1].V	1	dry thing	NP-abs subj.V	S
+Jaminjung	70	BE A HUNTER	lalabangngarna	Basic	1-abs V	1	specialist/hunter	NP-abs	X
+Jaminjung	71	GRIND	gardaj ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	1	grinder	NP-erg subj.V	A
+Jaminjung	71	GRIND	gardaj ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	2	ground thing	NP-abs obj.V	P
+Jaminjung	71	GRIND	gardaj ganarrany	Basic	1-erg 2-abs subj[1].obj[2].V 3-instr	3	grinding instrument	NP-instr	I
+Jaminjung	72	WIPE	wunyu ganimangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	wiper	NP-erg subj.V	A
+Jaminjung	72	WIPE	wunyu ganimangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	wiping surface	NP-abs obj.V	P
+Jaminjung	73	DIG	gurr ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	digger	NP-erg subj.V	A
+Jaminjung	73	DIG	gurr ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	dug up thing	NP-abs obj.V	P
+Jaminjung	74	PUSH	durl ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	1	pusher	NP-erg subj.V	A
+Jaminjung	74	PUSH	durl ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	2	pushee	NP-abs obj.V	P
+Jaminjung	75	BRING	gananthamany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	1	bringer	NP-erg subj.V	A
+Jaminjung	75	BRING	gananthamany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	2	brought thing	NP-abs obj.V	P
+Jaminjung	75	BRING	gananthamany	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	3	bringing recipient	NP-dat	X
+Jaminjung	76	STEAL	bunug ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	1	stealer	NP-erg subj.V	A
+Jaminjung	76	STEAL	bunug ganangu	Basic	1-erg 2-abs subj[1].obj[2].V	2	stolen thing	NP-abs obj.V	P
+Jaminjung	76	STEAL	bunug ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	1	stealer	NP-erg subj.V	A
+Jaminjung	76	STEAL	bunug ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	2	stolen thing	NP-abs obj.V	P
+Jaminjung	76	STEAL	bunug ganiyunggany	Basic	1-erg 2-abs 3-abs subj[1].obj[2].V	3	stealing source	NP-abs	X
+Jaminjung	77	TEACH	jurriya ganangu	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	1	teacher	NP-erg subj.V	A
+Jaminjung	77	TEACH	jurriya ganangu	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	2	teachee	NP-abs obj.V	P
+Jaminjung	77	TEACH	jurriya ganangu	Basic	1-erg 2-abs 3-dat subj[1].obj[2].V	3	taught content	NP-dat	X
+Jaminjung	78	HEAR	malangayij ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	1	hearer	NP-erg subj.V	A
+Jaminjung	78	HEAR	malangayij ganuga	Basic	1-erg 2-abs subj[1].obj[2].V	2	heard sound	NP-abs obj.V	P
+Jaminjung	79	COOK	ganirriga	Basic	1-erg 2-abs subj[1].obj[2].V	1	cooker	NP-erg subj.V	A
+Jaminjung	79	COOK	ganirriga	Basic	1-erg 2-abs subj[1].obj[2].V	2	cooked food	NP-abs obj.V	P
+Jaminjung	79	COOK	wirrigaja gagba	Basic	1-abs 2-abs subj[1].V	1	cooker	NP-abs subj.V	S
+Jaminjung	79	COOK	wirrigaja gagba	Basic	1-abs 2-abs subj[1].V	2	cooked food	NP-abs	X
+Jaminjung	80	BOIL	bud garna	Basic	1-abs subj[1].V	1	boiled thing	NP-abs subj.V	S
+Jaminjung	80	BOIL	burrngburrng garna	Basic	1-abs subj[1].V	1	boiled thing	NP-abs subj.V	S
+Jaminjung	81	APPEAR	bul ganimangu	Basic	1-abs subj[1].V	1	appearer	NP-abs subj.V	S
+Jaminjung	81	APPEAR	bul garumany	Basic	1-abs 2-dat subj[1].V	1	appearer	NP-abs subj.V	S
+Jaminjung	81	APPEAR	bul garumany	Basic	1-abs 2-dat subj[1].V	2	appear location	NP-dat	X
+Jaminjung	82	BE ILL	warlad gagba	Basic	1-abs subj[1].V	1	sick person	NP-abs subj.V	S
+Jaminjung	83	CRY	ngilijga gagba	Basic	1-abs 2-dat subj[1].V	1	crier	NP-abs subj.V	S
+Jaminjung	83	CRY	ngilijga gagba	Basic	1-abs 2-dat subj[1].V	2	cried after/for person	NP-dat	X
+Jaminjung	84	FALL	gardbany	Basic	1-abs subj[1].V	1	fallee	NP-abs subj.V	S
+Jaminjung	85	MAKE	ganilinymany (1)	Basic	1-erg 2-abs subj[1].obj[2].V	1	maker	NP-erg subj.V	A
+Jaminjung	85	MAKE	ganilinymany (1)	Basic	1-erg 2-abs subj[1].obj[2].V	2	made thing	NP-abs obj.V	P
+Jaminjung	86	GET	ganangu (1)	Basic	1-erg 2-abs subj[1].obj[2].V	1	receiver	NP-erg subj.V	A
+Jaminjung	86	GET	ganangu (1)	Basic	1-erg 2-abs subj[1].obj[2].V	2	received thing	NP-abs obj.V	P
+Jaminjung	87	WANT	ngunthug ganangu (2)	Basic	1-erg CC2 subj[1].obj[2].V	1	wanter	NP-erg subj.V	X
+Jaminjung	87	WANT	ngunthug ganangu (2)	Basic	1-erg CC2 subj[1].obj[2].V	2	wanted thing	CC obj.V	X
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Basic	1-abs 2-dat subj[1].V	1	hunter	NP-abs subj.V	S
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Basic	1-abs 2-dat subj[1].V	2	hunted thing	NP-dat	X

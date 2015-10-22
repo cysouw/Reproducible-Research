@@ -1,0 +1,34 @@
+﻿Language_name	Gloss	Meaning
+Yaqui	1	first person
+Yaqui	2	second person
+Yaqui	3	third person
+Yaqui	P	argument role P
+Yaqui	acc	accusative
+Yaqui	affir	affirmation
+Yaqui	appl	applicative
+Yaqui	caus	causative
+Yaqui	com	comitative
+Yaqui	dat	dative
+Yaqui	dem	demonstrative
+Yaqui	des	desiderative
+Yaqui	det	determiner
+Yaqui	dir	directional
+Yaqui	gen	genitive
+Yaqui	inch	inchoative
+Yaqui	instr	instrumental
+Yaqui	int	intensifier??
+Yaqui	intr	intransitive
+Yaqui	ipfv	imperfective?
+Yaqui	loc	locative
+Yaqui	neg	negation
+Yaqui	nmlz	nominalizer
+Yaqui	pfv	perfective
+Yaqui	pl	plural
+Yaqui	poss	possessive
+Yaqui	ptcp	participle
+Yaqui	rdp	reduplication
+Yaqui	refl	reflexive
+Yaqui	res	resultative
+Yaqui	sg	singular
+Yaqui	suj	subject
+Yaqui	trns	transitive

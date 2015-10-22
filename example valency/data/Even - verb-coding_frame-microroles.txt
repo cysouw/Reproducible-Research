@@ -1,0 +1,394 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Even	1	EAT	d’eb-	Basic	1-nom 2-acc V.subj[1]	1	eater	NP-nom V.subj	A
+Even	1	EAT	d’eb-	Basic	1-nom 2-acc V.subj[1]	2	eaten food	NP-acc	P
+Even	1	EAT	d’eb-	Derived	1-nom V'.subj[1]	1	eater	NP-nom V.subj	
+Even	1	EAT	d’eb-	Derived	1&2-nom recV'.subj[1&2]	1	eater	NP-nom V.subj	
+Even	1	EAT	d’eb-	Derived	1&2-nom recV'.subj[1&2]	2	eaten food	NP-nom V.subj	
+Even	1	EAT	d’eb-	Derived	2-nom 1-dat advV'.subj[2]	1	eater	NP-dat	
+Even	1	EAT	d’eb-	Derived	2-nom 1-dat advV'.subj[2]	2	eaten food	NP-nom V.subj	
+Even	1	EAT	d’eb-	Derived	2-nom medV'.subj[2]	2	eaten food	NP-nom V.subj	
+Even	2	HUG	kemni-	Basic	1-nom 2-acc V.subj[1]	1	hugger	NP-nom V.subj	A
+Even	2	HUG	kemni-	Basic	1-nom 2-acc V.subj[1]	2	huggee	NP-acc	P
+Even	2	HUG	kemni-	Derived	1&2-nom recV'.subj[1&2]	1	hugger	NP-nom V.subj	
+Even	2	HUG	kemni-	Derived	1&2-nom recV'.subj[1&2]	2	huggee	NP-nom V.subj	
+Even	3	LOOK AT	it- (1)	Basic	1-nom 2-all V.subj[1]	1	looker	NP-nom V.subj	S
+Even	3	LOOK AT	it- (1)	Basic	1-nom 2-all V.subj[1]	2	looked at entity	NP-all	X
+Even	4	SEE	it- (2)	Basic	1-nom 2-acc V.subj[1]	1	seeer	NP-nom V.subj	A
+Even	4	SEE	it- (2)	Basic	1-nom 2-acc V.subj[1]	2	seen entity	NP-acc	P
+Even	4	SEE	it- (2)	Derived	1&2-nom recV'.subj[1&2]	1	seeer	NP-nom V.subj	
+Even	4	SEE	it- (2)	Derived	1&2-nom recV'.subj[1&2]	2	seen entity	NP-nom V.subj	
+Even	4	SEE	it- (2)	Derived	2-nom medV'.subj[2]	2	seen entity	NP-nom V.subj	
+Even	5	SMELL	ŋosu-t-	Basic	1-nom 2-acc V.subj[1]	1	smeller	NP-nom V.subj	A
+Even	5	SMELL	ŋosu-t-	Basic	1-nom 2-acc V.subj[1]	2	smelled entity	NP-acc	P
+Even	6	FEAR	ŋel-	Basic	1-nom 2-instr V.subj[1]	1	fearer	NP-nom V.subj	S
+Even	6	FEAR	ŋel-	Basic	1-nom 2-instr V.subj[1]	2	fear stimulus	NP-instr	I
+Even	6	FEAR	ŋel-	Derived	1&2-nom recV'.subj[1&2]	1	fearer	NP-nom V.subj	
+Even	6	FEAR	ŋel-	Derived	1&2-nom recV'.subj[1&2]	2	fear stimulus	NP-nom V.subj	
+Even	7	FRIGHTEN	ŋelu-ken	Basic	1-nom 2-acc V.subj[1]	1	frightener	NP-nom V.subj	A
+Even	7	FRIGHTEN	ŋelu-ken	Basic	1-nom 2-acc V.subj[1]	2	frightenee	NP-acc	P
+Even	7	FRIGHTEN	ŋelu-ken	Derived	1&2-nom recV'.subj[1&2]	1	frightener	NP-nom V.subj	
+Even	7	FRIGHTEN	ŋelu-ken	Derived	1&2-nom recV'.subj[1&2]	2	frightenee	NP-nom V.subj	
+Even	7	FRIGHTEN	ŋelu-ken	Derived	2-nom 1-dat advV'.subj[2]	1	frightener	NP-dat	
+Even	7	FRIGHTEN	ŋelu-ken	Derived	2-nom 1-dat advV'.subj[2]	2	frightenee	NP-nom V.subj	
+Even	7	FRIGHTEN	ŋelu-ken	Derived	2-nom medV'.subj[2]	2	frightenee	NP-nom V.subj	
+Even	8	LIKE	ajav-	Basic	1-nom 2-acc V.subj[1]	1	liker	NP-nom V.subj	A
+Even	8	LIKE	ajav-	Basic	1-nom 2-acc V.subj[1]	2	liked entity	NP-acc	P
+Even	8	LIKE	ajav-	Derived	1&2-nom recV'.subj[1&2]	1	liker	NP-nom V.subj	
+Even	8	LIKE	ajav-	Derived	1&2-nom recV'.subj[1&2]	2	liked entity	NP-nom V.subj	
+Even	9	KNOW	ha-	Basic	1-nom 2-acc V.subj[1]	1	knower	NP-nom V.subj	A
+Even	9	KNOW	ha-	Basic	1-nom 2-acc V.subj[1]	2	known thing/person	NP-acc	P
+Even	9	KNOW	ha-	Derived	1&2-nom recV'.subj[1&2]	1	knower	NP-nom V.subj	
+Even	9	KNOW	ha-	Derived	1&2-nom recV'.subj[1&2]	2	known thing/person	NP-nom V.subj	
+Even	9	KNOW	ha-	Derived	2-nom medV'.subj[2]	2	known thing/person	NP-nom V.subj	
+Even	10	THINK	mulgat-	Basic	1-nom 2-acc V.subj[1]	1	thinker	NP-nom V.subj	A
+Even	10	THINK	mulgat-	Basic	1-nom 2-acc V.subj[1]	2	thought content	NP-acc	P
+Even	10	THINK	mulgat-	Derived	1-nom V'.subj[1]	1	thinker	NP-nom V.subj	
+Even	10	THINK	mulgat-	Derived	2-nom medV'.subj[2]	2	thought content	NP-nom V.subj	
+Even	11	SEARCH FOR	gele-t	Basic	1-nom 2-acc V.subj[1]	1	searcher	NP-nom V.subj	A
+Even	11	SEARCH FOR	gele-t	Basic	1-nom 2-acc V.subj[1]	2	searched for thing	NP-acc	P
+Even	11	SEARCH FOR	gele-t	Derived	1&2-nom recV'.subj[1&2]	1	searcher	NP-nom V.subj	
+Even	11	SEARCH FOR	gele-t	Derived	1&2-nom recV'.subj[1&2]	2	searched for thing	NP-nom V.subj	
+Even	12	WASH	av-	Basic	1-nom 2-acc V.subj[1]	1	washer	NP-nom V.subj	A
+Even	12	WASH	av-	Basic	1-nom 2-acc V.subj[1]	2	washed entity	NP-acc	P
+Even	12	WASH	av-	Derived	1-nom V'.subj[1]	1	washer	NP-nom V.subj	
+Even	12	WASH	av-	Derived	1&2-nom recV'.subj[1&2]	1	washer	NP-nom V.subj	
+Even	12	WASH	av-	Derived	1&2-nom recV'.subj[1&2]	2	washed entity	NP-nom V.subj	
+Even	12	WASH	av-	Derived	2-nom medV'.subj[2]	2	washed entity	NP-nom V.subj	
+Even	13	DRESS	tet-	Basic	1-nom 2-acc V.subj[1]	1	dresser	NP-nom V.subj	A
+Even	13	DRESS	tet-	Basic	1-nom 2-acc V.subj[1]	2	clothes	NP-acc	P
+Even	13	DRESS	tet-	Derived	1-nom V'.subj[1]	1	dresser	NP-nom V.subj	
+Even	13	DRESS	tet-	Derived	2-nom medV'.subj[2]	2	clothes	NP-nom V.subj	
+Even	13	DRESS	tet-u	Basic	1-nom 2-acc V.subj[1]	1	dresser	NP-nom V.subj	A
+Even	13	DRESS	tet-u	Basic	1-nom 2-acc V.subj[1]	2	dressee	NP-acc	P
+Even	13	DRESS	tet-u	Derived	1&2-nom recV'.subj[1&2]	1	dresser	NP-nom V.subj	
+Even	13	DRESS	tet-u	Derived	1&2-nom recV'.subj[1&2]	2	dressee	NP-nom V.subj	
+Even	13	DRESS	tet-u	Derived	2-nom medV'.subj[2]	2	dressee	NP-nom V.subj	
+Even	13	DRESS	tet-u	Derived	2-nom resV'.subj[2]	2	dressee	NP-nom V.subj	
+Even	14	SHAVE (a body part/person)	hus-	Basic	1-nom 2-acc V.subj[1]	1	shaver (of body part)	NP-nom V.subj	A
+Even	14	SHAVE (a body part/person)	hus-	Basic	1-nom 2-acc V.subj[1]	2	shaved body part	NP-acc	P
+Even	14	SHAVE (a body part/person)	hus-	Derived	1&2-nom recV'.subj[1&2]	1	shaver (of body part)	NP-nom V.subj	
+Even	14	SHAVE (a body part/person)	hus-	Derived	1&2-nom recV'.subj[1&2]	2	shaved body part	NP-nom V.subj	
+Even	14	SHAVE (a body part/person)	hus-	Derived	2-nom medV'.subj[2]	2	shaved body part	NP-nom V.subj	
+Even	15	HELP	bel-	Basic	1-nom 2-acc V.subj[1]	1	helper	NP-nom V.subj	A
+Even	15	HELP	bel-	Basic	1-nom 2-acc V.subj[1]	2	helpee	NP-acc	P
+Even	16	FOLLOW	bod-	Basic	1-nom 2-acc V.subj[1]	1	follower	NP-nom V.subj	A
+Even	16	FOLLOW	bod-	Basic	1-nom 2-acc V.subj[1]	2	followee	NP-acc	P
+Even	16	FOLLOW	bod-	Derived	1&2-nom recV'.subj[1&2]	1	follower	NP-nom V.subj	
+Even	16	FOLLOW	bod-	Derived	1&2-nom recV'.subj[1&2]	2	followee	NP-nom V.subj	
+Even	17	MEET	baka-lda-	Basic	1-nom 2-acc V.subj[1]	1	meeter	NP-nom V.subj	A
+Even	17	MEET	baka-lda-	Basic	1-nom 2-acc V.subj[1]	2	met person	NP-acc	P
+Even	17	MEET	baka-lda-	Derived	1-nom 2-com V'.subj[1]	1	meeter	NP-nom V.subj	
+Even	17	MEET	baka-lda-	Derived	1-nom 2-com V'.subj[1]	2	met person	NP-com	
+Even	17	MEET	baka-lda-	Derived	1&2-nom recV'.subj[1&2]	1	meeter	NP-nom V.subj	
+Even	17	MEET	baka-lda-	Derived	1&2-nom recV'.subj[1&2]	2	met person	NP-nom V.subj	
+Even	17	MEET	baka-lda-	Derived	2-nom medV'.subj[2]	2	met person	NP-nom V.subj	
+Even	18	TALK	t’öre-	Basic	1-nom 2-all 3-prol V.subj[1]	1	talker	NP-nom	X
+Even	18	TALK	t’öre-	Basic	1-nom 2-all 3-prol V.subj[1]	2	talked to person	NP-all	X
+Even	18	TALK	t’öre-	Basic	1-nom 2-all 3-prol V.subj[1]	3	talked about content	NP-prol	X
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all recV'.subj[1&3]	1	talker	NP-nom V.subj	
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all recV'.subj[1&3]	2	talked to person	NP-all	
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all recV'.subj[1&3]	3	talked about content	NP-nom V.subj	
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all V'.subj[1&3]	1	talker	NP-nom V.subj	
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all V'.subj[1&3]	2	talked to person	NP-all	
+Even	18	TALK	t’öre-	Derived	1&3-nom 2-all V'.subj[1&3]	3	talked about content	NP-nom V.subj	
+Even	19	ASK FOR	ulgim-	Basic	1-nom 2-acc 3-all V.subj[1]	1	asker	NP-nom V.subj	A
+Even	19	ASK FOR	ulgim-	Basic	1-nom 2-acc 3-all V.subj[1]	2	requested thing	NP-acc	P
+Even	19	ASK FOR	ulgim-	Basic	1-nom 2-acc 3-all V.subj[1]	3	askee	NP-all	X
+Even	19	ASK FOR	ulgim-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	asker	NP-nom V.subj	
+Even	19	ASK FOR	ulgim-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	requested thing	NP-acc	
+Even	19	ASK FOR	ulgim-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	askee	NP-nom V.subj	
+Even	20	SHOUT AT	irka	Basic	1-nom 2-all V.subj[1]	1	shouter	NP-nom V.subj	S
+Even	20	SHOUT AT	irka	Basic	1-nom 2-all V.subj[1]	2	shoutee	NP-all	X
+Even	21	TELL	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	1	teller	NP-nom V.subj	A
+Even	21	TELL	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	2	told content	NP-acc	P
+Even	21	TELL	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	3	tellee	NP-all	X
+Even	21	TELL	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	teller	NP-nom V.subj	
+Even	21	TELL	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	told content	NP-acc	
+Even	21	TELL	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	tellee	NP-nom V.subj	
+Even	21	TELL	gö’n-	Derived	2-nom 3-all medV'.subj[2]	2	told content	NP-nom V.subj	
+Even	21	TELL	gö’n-	Derived	2-nom 3-all medV'.subj[2]	3	tellee	NP-all	
+Even	22	SAY	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	1	sayer	NP-nom V.subj	A
+Even	22	SAY	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	2	said content	NP-acc	P
+Even	22	SAY	gö’n-	Basic	1-nom 2-acc 3-all V.subj[1]	3	saying addressee	NP-all	X
+Even	22	SAY	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	sayer	NP-nom V.subj	
+Even	22	SAY	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	said content	NP-acc	
+Even	22	SAY	gö’n-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	saying addressee	NP-nom V.subj	
+Even	22	SAY	gö’n-	Derived	2-nom 3-all medV'.subj[2]	2	said content	NP-nom V.subj	
+Even	22	SAY	gö’n-	Derived	2-nom 3-all medV'.subj[2]	3	saying addressee	NP-all	
+Even	23	NAME	gerbet-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	namer	NP-nom V.subj	A
+Even	23	NAME	gerbet-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	namee	NP-acc	P
+Even	23	NAME	gerbet-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	name	NP-instr	I
+Even	23	NAME	gerbet-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	namer	NP-nom V.subj	
+Even	23	NAME	gerbet-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	namee	NP-nom V.subj	
+Even	23	NAME	gerbet-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	name	NP-instr	
+Even	24	BUILD	d’uŋna-	Basic	1-nom 2-acc V.subj[1]	1	builder	NP-nom V.subj	A
+Even	24	BUILD	d’uŋna-	Basic	1-nom 2-acc V.subj[1]	2	built thing	NP-acc	P
+Even	24	BUILD	d’uŋna-	Derived	2-nom medV'.subj[2]	2	built thing	NP-nom V.subj	
+Even	24	BUILD	o-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	builder	NP-nom V.subj	A
+Even	24	BUILD	o-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	built thing	NP-acc	P
+Even	24	BUILD	o-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	building material	NP-abl	X
+Even	24	BUILD	o-	Derived	2-nom 3-abl medV'.subj[2]	2	built thing	NP-nom V.subj	
+Even	24	BUILD	o-	Derived	2-nom 3-abl medV'.subj[2]	3	building material	NP-abl	
+Even	25	BREAK	čelgel-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	breaker	NP-nom V.subj	A
+Even	25	BREAK	čelgel-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	broken thing	NP-acc	P
+Even	25	BREAK	čelgel-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	breaking instrument	NP-instr	I
+Even	25	BREAK	čelgel-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	1	breaker	NP-dat	
+Even	25	BREAK	čelgel-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	2	broken thing	NP-nom V.subj	
+Even	25	BREAK	čelgel-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	3	breaking instrument	NP-instr	
+Even	26	KILL	ma-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	killer	NP-nom V.subj	A
+Even	26	KILL	ma-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	killee	NP-acc	P
+Even	26	KILL	ma-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	killing instrument	NP-instr	I
+Even	26	KILL	ma-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	killer	NP-nom V.subj	
+Even	26	KILL	ma-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	killee	NP-nom V.subj	
+Even	26	KILL	ma-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	killing instrument	NP-instr	
+Even	26	KILL	ma-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	1	killer	NP-dat	
+Even	26	KILL	ma-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	2	killee	NP-nom V.subj	
+Even	26	KILL	ma-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	3	killing instrument	NP-instr	
+Even	26	KILL	ma-	Derived	2-nom 3-instr medV'.subj[2]	2	killee	NP-nom V.subj	
+Even	26	KILL	ma-	Derived	2-nom 3-instr medV'.subj[2]	3	killing instrument	NP-instr	
+Even	27	BEAT	pavul-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	beater	NP-nom V.subj	A
+Even	27	BEAT	pavul-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	beatee	NP-acc	P
+Even	27	BEAT	pavul-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	beating instrument	NP-instr	I
+Even	27	BEAT	pavul-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	beater	NP-nom V.subj	
+Even	27	BEAT	pavul-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	beatee	NP-nom V.subj	
+Even	27	BEAT	pavul-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	beating instrument	NP-instr	
+Even	27	BEAT	pavul-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	1	beater	NP-dat	
+Even	27	BEAT	pavul-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	2	beatee	NP-nom V.subj	
+Even	27	BEAT	pavul-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	3	beating instrument	NP-instr	
+Even	28	HIT	ieč-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	hitter	NP-nom V.subj	A
+Even	28	HIT	ieč-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	hittee	NP-acc	P
+Even	28	HIT	ieč-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	hitting instrument	NP-instr	I
+Even	28	HIT	ieč-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	hitter	NP-nom V.subj	
+Even	28	HIT	ieč-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	hittee	NP-nom V.subj	
+Even	28	HIT	ieč-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	hitting instrument	NP-instr	
+Even	28	HIT	ieč-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	1	hitter	NP-dat	
+Even	28	HIT	ieč-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	2	hittee	NP-nom V.subj	
+Even	28	HIT	ieč-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	3	hitting instrument	NP-instr	
+Even	29	TOUCH	huŋri-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	toucher	NP-nom V.subj	A
+Even	29	TOUCH	huŋri-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	touchee	NP-acc	P
+Even	29	TOUCH	huŋri-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	touching instrument	NP-instr	I
+Even	29	TOUCH	huŋri-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	toucher	NP-nom V.subj	
+Even	29	TOUCH	huŋri-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	touchee	NP-nom V.subj	
+Even	29	TOUCH	huŋri-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	touching instrument	NP-instr	
+Even	29	TOUCH	huŋri-	Derived	2-nom 3-instr medV'.subj[2]	2	touchee	NP-nom V.subj	
+Even	29	TOUCH	huŋri-	Derived	2-nom 3-instr medV'.subj[2]	3	touching instrument	NP-instr	
+Even	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	cutter	NP-nom V.subj	A
+Even	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	cut thing	NP-acc	P
+Even	30	CUT	mine-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	cutting instrument	NP-instr	I
+Even	30	CUT	mine-	Derived	1&2-nom 3-instr recV'.subj[1&2]	1	cutter	NP-nom V.subj	
+Even	30	CUT	mine-	Derived	1&2-nom 3-instr recV'.subj[1&2]	2	cut thing	NP-nom V.subj	
+Even	30	CUT	mine-	Derived	1&2-nom 3-instr recV'.subj[1&2]	3	cutting instrument	NP-instr	
+Even	30	CUT	mine-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	1	cutter	NP-dat	
+Even	30	CUT	mine-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	2	cut thing	NP-nom V.subj	
+Even	30	CUT	mine-	Derived	2-nom 1-dat 3-instr advV'.subj[2]	3	cutting instrument	NP-instr	
+Even	30	CUT	mine-	Derived	2-nom 3-instr medV'.subj[2]	2	cut thing	NP-nom V.subj	
+Even	30	CUT	mine-	Derived	2-nom 3-instr medV'.subj[2]	3	cutting instrument	NP-instr	
+Even	31	TAKE	ga-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	taker	NP-nom V.subj	A
+Even	31	TAKE	ga-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	taken thing	NP-acc	P
+Even	31	TAKE	ga-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	taking source	NP-abl	X
+Even	31	TAKE	ga-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	taker	NP-nom V.subj	
+Even	31	TAKE	ga-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	taken thing	NP-acc	
+Even	31	TAKE	ga-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	taking source	NP-nom V.subj	
+Even	31	TAKE	ga-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	1	taker	NP-dat	
+Even	31	TAKE	ga-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	2	taken thing	NP-nom V.subj	
+Even	31	TAKE	ga-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	3	taking source	NP-abl	
+Even	31	TAKE	ga-	Derived	2-nom 3-abl medV'.subj[2]	2	taken thing	NP-nom V.subj	
+Even	31	TAKE	ga-	Derived	2-nom 3-abl medV'.subj[2]	3	taking source	NP-abl	
+Even	32	TEAR	atal-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	tearer	NP-nom V.subj	A
+Even	32	TEAR	atal-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	torn thing	NP-acc	P
+Even	32	TEAR	atal-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	tearing source	NP-abl	X
+Even	32	TEAR	atal-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	1	tearer	NP-dat	
+Even	32	TEAR	atal-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	2	torn thing	NP-nom V.subj	
+Even	32	TEAR	atal-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	3	tearing source	NP-abl	
+Even	32	TEAR	atal-	Derived	2-nom 3-abl medV'.subj[2]	2	torn thing	NP-nom V.subj	
+Even	32	TEAR	atal-	Derived	2-nom 3-abl medV'.subj[2]	3	tearing source	NP-abl	
+Even	32	TEAR	atal-	Derived	2-nom 3-abl resV'.subj[2]	2	torn thing	NP-nom V.subj	
+Even	32	TEAR	atal-	Derived	2-nom 3-abl resV'.subj[2]	3	tearing source	NP-abl	
+Even	33	PEEL	n'aŋu-	Basic	1-nom 2-acc V.subj[1]	1	peeler	NP-nom V.subj	A
+Even	33	PEEL	n'aŋu-	Basic	1-nom 2-acc V.subj[1]	2	peeled object	NP-acc	P
+Even	33	PEEL	n'aŋu-	Derived	2-nom medV'.subj[2]	2	peeled object	NP-nom V.subj	
+Even	34	HIDE	diken-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	hider	NP-nom V.subj	A
+Even	34	HIDE	diken-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	hidden thing	NP-acc	P
+Even	34	HIDE	diken-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	hiding affectee	NP-abl	X
+Even	34	HIDE	diken-	Derived	1&2-nom 3-abl recV'.subj[1&2]	1	hider	NP-nom V.subj	
+Even	34	HIDE	diken-	Derived	1&2-nom 3-abl recV'.subj[1&2]	2	hidden thing	NP-nom V.subj	
+Even	34	HIDE	diken-	Derived	1&2-nom 3-abl recV'.subj[1&2]	3	hiding affectee	NP-abl	
+Even	34	HIDE	diken-	Derived	2-nom 3-abl medV'.subj[2]	2	hidden thing	NP-nom V.subj	
+Even	34	HIDE	diken-	Derived	2-nom 3-abl medV'.subj[2]	3	hiding affectee	NP-abl	
+Even	34	HIDE	diken-	Derived	2-nom 3-abl resV'.subj[2]	2	hidden thing	NP-nom V.subj	
+Even	34	HIDE	diken-	Derived	2-nom 3-abl resV'.subj[2]	3	hiding affectee	NP-abl	
+Even	35	SHOW	ič-uken-	Basic	1-nom 2-acc 3-dat V.subj[1]	1	shower	NP-nom V.subj	A
+Even	35	SHOW	ič-uken-	Basic	1-nom 2-acc 3-dat V.subj[1]	2	shown thing	NP-acc	P
+Even	35	SHOW	ič-uken-	Basic	1-nom 2-acc 3-dat V.subj[1]	3	showing addressee	NP-dat	X
+Even	35	SHOW	ič-uken-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	shower	NP-nom V.subj	
+Even	35	SHOW	ič-uken-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	shown thing	NP-acc	
+Even	35	SHOW	ič-uken-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	showing addressee	NP-nom V.subj	
+Even	35	SHOW	ič-uken-	Derived	2-nom 3-dat medV'.subj[2]	2	shown thing	NP-nom V.subj	
+Even	35	SHOW	ič-uken-	Derived	2-nom 3-dat medV'.subj[2]	3	showing addressee	NP-dat	
+Even	36	GIVE	bö-	Basic	1-nom 2-acc 3-dat V.subj[1]	1	giver	NP-nom V.subj	A
+Even	36	GIVE	bö-	Basic	1-nom 2-acc 3-dat V.subj[1]	2	gift	NP-acc	P
+Even	36	GIVE	bö-	Basic	1-nom 2-acc 3-dat V.subj[1]	3	giving recipient	NP-dat	X
+Even	36	GIVE	bö-	Derived	1&3-nom 2-acc recV'.subj[1&3]	1	giver	NP-nom V.subj	
+Even	36	GIVE	bö-	Derived	1&3-nom 2-acc recV'.subj[1&3]	2	gift	NP-acc	
+Even	36	GIVE	bö-	Derived	1&3-nom 2-acc recV'.subj[1&3]	3	giving recipient	NP-nom V.subj	
+Even	36	GIVE	bö-	Derived	2-nom 3-dat medV'.subj[2]	2	gift	NP-nom V.subj	
+Even	36	GIVE	bö-	Derived	2-nom 3-dat medV'.subj[2]	3	giving recipient	NP-dat	
+Even	37	SEND	hör-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	sender	NP-nom V.subj	A
+Even	37	SEND	hör-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	sent thing	NP-acc	P
+Even	37	SEND	hör-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	sending recipient	NP-loc	L
+Even	37	SEND	hör-u-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	1	sender	NP-dat	
+Even	37	SEND	hör-u-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	2	sent thing	NP-nom V.subj	
+Even	37	SEND	hör-u-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	3	sending recipient	NP-loc	
+Even	37	SEND	hör-u-	Derived	2-nom 3-loc medV'.subj[2]	2	sent thing	NP-nom V.subj	
+Even	37	SEND	hör-u-	Derived	2-nom 3-loc medV'.subj[2]	3	sending recipient	NP-loc	
+Even	38	CARRY	ŋal-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	carrier	NP-nom V.subj	A
+Even	38	CARRY	ŋal-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	carried thing	NP-acc	P
+Even	38	CARRY	ŋal-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	carrying goal	NP-loc	L
+Even	38	CARRY	ŋal-	Derived	1&2-nom 3-loc recV'.subj[1&2]	1	carrier	NP-nom V.subj	
+Even	38	CARRY	ŋal-	Derived	1&2-nom 3-loc recV'.subj[1&2]	2	carried thing	NP-nom V.subj	
+Even	38	CARRY	ŋal-	Derived	1&2-nom 3-loc recV'.subj[1&2]	3	carrying goal	NP-loc	
+Even	38	CARRY	ŋal-	Derived	2-nom 3-loc medV'.subj[2]	2	carried thing	NP-nom V.subj	
+Even	38	CARRY	ŋal-	Derived	2-nom 3-loc medV'.subj[2]	3	carrying goal	NP-loc	
+Even	39	THROW	ule-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	thrower	NP-nom V.subj	A
+Even	39	THROW	ule-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	thrown thing	NP-acc	P
+Even	39	THROW	ule-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	throwing goal	NP-loc	L
+Even	39	THROW	ule-	Derived	1&2-nom 3-loc recV'.subj[1&2]	1	thrower	NP-nom V.subj	
+Even	39	THROW	ule-	Derived	1&2-nom 3-loc recV'.subj[1&2]	2	thrown thing	NP-nom V.subj	
+Even	39	THROW	ule-	Derived	1&2-nom 3-loc recV'.subj[1&2]	3	throwing goal	NP-loc	
+Even	39	THROW	ule-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	1	thrower	NP-dat	
+Even	39	THROW	ule-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	2	thrown thing	NP-nom V.subj	
+Even	39	THROW	ule-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	3	throwing goal	NP-loc	
+Even	39	THROW	ule-	Derived	2-nom 3-loc medV'.subj[2]	2	thrown thing	NP-nom V.subj	
+Even	39	THROW	ule-	Derived	2-nom 3-loc medV'.subj[2]	3	throwing goal	NP-loc	
+Even	40	TIE	ön’e-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	tier	NP-nom V.subj	A
+Even	40	TIE	ön’e-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	tied thing	NP-acc	P
+Even	40	TIE	ön’e-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	tying goal	NP-loc	L
+Even	40	TIE	ön’e-	Derived	1&2-nom 3-loc recV'.subj[1&2]	1	tier	NP-nom V.subj	
+Even	40	TIE	ön’e-	Derived	1&2-nom 3-loc recV'.subj[1&2]	2	tied thing	NP-nom V.subj	
+Even	40	TIE	ön’e-	Derived	1&2-nom 3-loc recV'.subj[1&2]	3	tying goal	NP-loc	
+Even	40	TIE	ön’e-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	1	tier	NP-dat	
+Even	40	TIE	ön’e-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	2	tied thing	NP-nom V.subj	
+Even	40	TIE	ön’e-	Derived	2-nom 1-dat 3-loc advV'.subj[2]	3	tying goal	NP-loc	
+Even	40	TIE	ön’e-	Derived	2-nom 3-loc medV'.subj[2]	2	tied thing	NP-nom V.subj	
+Even	40	TIE	ön’e-	Derived	2-nom 3-loc medV'.subj[2]	3	tying goal	NP-loc	
+Even	40	TIE	ön’e-	Derived	2-nom 3-loc resV'.subj[2]	2	tied thing	NP-nom V.subj	
+Even	40	TIE	ön’e-	Derived	2-nom 3-loc resV'.subj[2]	3	tying goal	NP-loc	
+Even	41	PUT	ne-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	putter	NP-nom V.subj	A
+Even	41	PUT	ne-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	put thing	NP-acc	P
+Even	41	PUT	ne-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	putting goal	NP-loc	L
+Even	41	PUT	ne-	Derived	1&2-nom 3-loc recV'.subj[1&2]	1	putter	NP-nom V.subj	
+Even	41	PUT	ne-	Derived	1&2-nom 3-loc recV'.subj[1&2]	2	put thing	NP-nom V.subj	
+Even	41	PUT	ne-	Derived	1&2-nom 3-loc recV'.subj[1&2]	3	putting goal	NP-loc	
+Even	41	PUT	ne-	Derived	2-nom 3-loc medV'.subj[2]	2	put thing	NP-nom V.subj	
+Even	41	PUT	ne-	Derived	2-nom 3-loc medV'.subj[2]	3	putting goal	NP-loc	
+Even	42	POUR	öŋke-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	pourer	NP-nom V.subj	A
+Even	42	POUR	öŋke-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	poured substance	NP-acc	P
+Even	42	POUR	öŋke-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	pouring goal	NP-loc	L
+Even	42	POUR	öŋke-	Derived	2-nom 3-loc medV'.subj[2]	2	poured substance	NP-nom V.subj	
+Even	42	POUR	öŋke-	Derived	2-nom 3-loc medV'.subj[2]	3	pouring goal	NP-loc	
+Even	42	POUR	öŋke-	Derived	2-nom 3-loc resV'.subj[2]	2	poured substance	NP-nom V.subj	
+Even	42	POUR	öŋke-	Derived	2-nom 3-loc resV'.subj[2]	3	pouring goal	NP-loc	
+Even	43	COVER	das-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	coverer	NP-nom V.subj	A
+Even	43	COVER	das-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	covered thing	NP-acc	P
+Even	43	COVER	das-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	cover	NP-instr	I
+Even	43	COVER	das-	Derived	2-nom 3-instr medV'.subj[2]	2	covered thing	NP-nom V.subj	
+Even	43	COVER	das-	Derived	2-nom 3-instr medV'.subj[2]	3	cover	NP-instr	
+Even	43	COVER	das-	Derived	2-nom 3-instr resV'.subj[2]	2	covered thing	NP-nom V.subj	
+Even	43	COVER	das-	Derived	2-nom 3-instr resV'.subj[2]	3	cover	NP-instr	
+Even	44	FILL	miltere-mken-	Basic	1-nom 2-acc 3-instr V.subj[1]	1	filler	NP-nom V.subj	A
+Even	44	FILL	miltere-mken-	Basic	1-nom 2-acc 3-instr V.subj[1]	2	filled container	NP-acc	P
+Even	44	FILL	miltere-mken-	Basic	1-nom 2-acc 3-instr V.subj[1]	3	filling material	NP-instr	I
+Even	44	FILL	miltere-mken-	Derived	2-nom 3-instr medV'.subj[2]	2	filled container	NP-nom V.subj	
+Even	44	FILL	miltere-mken-	Derived	2-nom 3-instr medV'.subj[2]	3	filling material	NP-instr	
+Even	45	LOAD	in-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	1	loader	NP-nom V.subj	A
+Even	45	LOAD	in-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	2	loaded thing	NP-acc	P
+Even	45	LOAD	in-u-	Basic	1-nom 2-acc 3-loc V.subj[1]	3	loading place	NP-loc	L
+Even	45	LOAD	in-u-	Derived	2-nom 3-loc medV'.subj[2]	2	loaded thing	NP-nom V.subj	
+Even	45	LOAD	in-u-	Derived	2-nom 3-loc medV'.subj[2]	3	loading place	NP-loc	
+Even	45	LOAD	in-u-	Derived	2-nom 3-loc resV'.subj[2]	2	loaded thing	NP-nom V.subj	
+Even	45	LOAD	in-u-	Derived	2-nom 3-loc resV'.subj[2]	3	loading place	NP-loc	
+Even	46	BLINK	nimrun-	Basic	1-nom 2-acc V.subj[1]	1	blinker	NP-nom V.subj	A
+Even	46	BLINK	nimrun-	Basic	1-nom 2-acc V.subj[1]	2	eye	NP-acc	P
+Even	46	BLINK	nimrun-	Derived	1-nom V'.subj[1]	1	blinker	NP-nom V.subj	
+Even	47	COUGH	hiemken-	Basic	1-nom V.subj[1]	1	cougher	NP-nom V.subj	S
+Even	47	COUGH	hiemken-	Derived	1-nom resV'.subj[1]	1	cougher	NP-nom V.subj	
+Even	48	CLIMB	oj-či-	Basic	1-nom 2-acc V.subj[1]	1	climber	NP-nom V.subj	A
+Even	48	CLIMB	oj-či-	Basic	1-nom 2-acc V.subj[1]	2	climbing goal	NP-acc	P
+Even	48	CLIMB	oj-či-	Derived	2-nom medV'.subj[2]	2	climbing goal	NP-nom V.subj	
+Even	49	RUN	tut-	Basic	1-nom 2-loc V.subj[1]	1	runner	NP-nom V.subj	S
+Even	49	RUN	tut-	Basic	1-nom 2-loc V.subj[1]	2	running place	NP-loc	L
+Even	50	SIT	tege-t-	Basic	1-nom 2-loc V.subj[1]	1	sitter	NP-nom V.subj	S
+Even	50	SIT	tege-t-	Basic	1-nom 2-loc V.subj[1]	2	sitting place	NP-loc	L
+Even	51	SIT DOWN	teg-	Basic	1-nom 2-loc V.subj[1]	1	sitdowner	NP-nom V.subj	S
+Even	51	SIT DOWN	teg-	Basic	1-nom 2-loc V.subj[1]	2	sitting-down place	NP-loc	L
+Even	51	SIT DOWN	teg-	Derived	1-nom 2-loc resV'.subj[1]	1	sitdowner	NP-nom V.subj	
+Even	51	SIT DOWN	teg-	Derived	1-nom 2-loc resV'.subj[1]	2	sitting-down place	NP-loc	
+Even	52	JUMP	melun	Basic	1-nom 2-loc V.subj[1]	1	jumper	NP-nom V.subj	S
+Even	52	JUMP	melun	Basic	1-nom 2-loc V.subj[1]	2	jump location	NP-loc	L
+Even	52	JUMP	melun	Derived	1-nom 2-loc resV'.subj[1]	1	jumper	NP-nom V.subj	
+Even	52	JUMP	melun	Derived	1-nom 2-loc resV'.subj[1]	2	jump location	NP-loc	
+Even	53	SING	ike-	Basic	1-nom 2-acc V.subj[1]	1	singer	NP-nom V.subj	A
+Even	53	SING	ike-	Basic	1-nom 2-acc V.subj[1]	2	song	NP-acc	P
+Even	53	SING	ike-	Derived	1-nom V'.subj[1]	1	singer	NP-nom V.subj	
+Even	53	SING	ike-	Derived	2-nom medV'.subj[2]	2	song	NP-nom V.subj	
+Even	54	GO	hör- (1)	Basic	1-nom V.subj[1]	1	goer	NP-nom V.subj	S
+Even	55	LEAVE	hör- (2)	Basic	1-nom 2-abl V.subj[1]	1	leaver	NP-nom V.subj	S
+Even	55	LEAVE	hör- (2)	Basic	1-nom 2-abl V.subj[1]	2	left place/person	NP-abl	X
+Even	56	LIVE	bi-(s)	Basic	1-nom 2-loc V.subj[1]	1	liver	NP-nom V.subj	S
+Even	56	LIVE	bi-(s)	Basic	1-nom 2-loc V.subj[1]	2	living place	NP-loc	L
+Even	57	LAUGH	inin-	Basic	1-nom V.subj[1]	1	laugher	NP-nom V.subj	S
+Even	58	SCREAM	kuni-	Basic	1-nom V.subj[1]	1	screamer	NP-nom V.subj	S
+Even	59	FEEL PAIN	en-	Basic	1-nom V.subj[1]	1	pain locus	NP-nom V.subj	S
+Even	60	FEEL COLD	iŋem-	Basic	1-nom V.subj[1]	1	freezing person	NP-nom V.subj	S
+Even	61	DIE	kö’ke-	Basic	1-nom V.subj[1]	1	dieer	NP-nom V.subj	S
+Even	62	PLAY	evi-	Basic	1-nom V.subj[1]	1	player	NP-nom V.subj	S
+Even	63	BE SAD	nabu-t	Basic	1-nom V.subj[1]	1	sad person	NP-nom V.subj	S
+Even	64	BE HUNGRY	d’em-	Basic	1-nom V.subj[1]	1	hungry person	NP-nom V.subj	S
+Even	65	ROLL	hirun-	Basic	1-nom V.subj[1]	1	rolling entity	NP-nom V.subj	S
+Even	65	ROLL	hirun-	Derived	1-nom resV'.subj[1]	1	rolling entity	NP-nom V.subj	
+Even	66	SINK	hir-	Basic	1-nom V.subj[1]	1	sunken entity	NP-nom V.subj	S
+Even	67	BURN	dur-	Basic	1-nom V.subj[1]	1	burnt thing	NP-nom V.subj	S
+Even	67	BURN	dur-	Derived	1-nom resV'.subj[1]	1	burnt thing	NP-nom V.subj	
+Even	68	BE DRY	ileŋ bi-	Basic	1-nom V.subj[1]	1	dry thing	NP-nom V.subj	S
+Even	69	RAIN	udn-	Basic	1-nom V.subj[1]	1	rain	NP-nom V.subj	S
+Even	70	BE A HUNTER	bujusemŋe bi-	Basic	1-nom V.subj[1]	1	specialist/hunter	NP-nom V.subj	S
+Even	72	WIPE	tes-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	wiper	NP-nom V.subj	A
+Even	72	WIPE	tes-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	wiped material	NP-acc	P
+Even	72	WIPE	tes-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	wiping surface	NP-abl	X
+Even	72	WIPE	tes-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	1	wiper	NP-dat	
+Even	72	WIPE	tes-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	2	wiped material	NP-nom V.subj	
+Even	72	WIPE	tes-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	3	wiping surface	NP-abl	
+Even	72	WIPE	tes-	Derived	2-nom 3-abl medV'.subj[2]	2	wiped material	NP-nom V.subj	
+Even	72	WIPE	tes-	Derived	2-nom 3-abl medV'.subj[2]	3	wiping surface	NP-abl	
+Even	75	BRING	em-u-	Basic	1-nom 2-acc 3-dat V.subj[1]	1	bringer	NP-nom V.subj	A
+Even	75	BRING	em-u-	Basic	1-nom 2-acc 3-dat V.subj[1]	2	brought thing	NP-acc	P
+Even	75	BRING	em-u-	Basic	1-nom 2-acc 3-dat V.subj[1]	3	bringing recipient	NP-dat	X
+Even	75	BRING	em-u-	Derived	2-nom 3-dat medV'.subj[2]	2	brought thing	NP-nom V.subj	
+Even	75	BRING	em-u-	Derived	2-nom 3-dat medV'.subj[2]	3	bringing recipient	NP-dat	
+Even	76	STEAL	d’örmi-	Basic	1-nom 2-acc 3-abl V.subj[1]	1	stealer	NP-nom V.subj	A
+Even	76	STEAL	d’örmi-	Basic	1-nom 2-acc 3-abl V.subj[1]	2	stolen thing	NP-acc	P
+Even	76	STEAL	d’örmi-	Basic	1-nom 2-acc 3-abl V.subj[1]	3	stealing source	NP-abl	X
+Even	76	STEAL	d’örmi-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	1	stealer	NP-dat	
+Even	76	STEAL	d’örmi-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	2	stolen thing	NP-nom V.subj	
+Even	76	STEAL	d’örmi-	Derived	2-nom 1-dat 3-abl advV'.subj[2]	3	stealing source	NP-abl	
+Even	76	STEAL	d’örmi-	Derived	2-nom 3-abl medV'.subj[2]	2	stolen thing	NP-nom V.subj	
+Even	76	STEAL	d’örmi-	Derived	2-nom 3-abl medV'.subj[2]	3	stealing source	NP-abl	
+Even	81	APPEAR	hie	Basic	1-nom V.subj[1]	1	appearer	NP-nom V.subj	S
+Even	84	FALL	tik-	Basic	1-nom V.subj[1]	1	fallee	NP-nom V.subj	S
+Even	91	REMEMBER	d’öŋči-	Basic	1-nom 2-acc V.subj[1]	1	rememberer	NP-nom V.subj	A
+Even	91	REMEMBER	d’öŋči-	Basic	1-nom 2-acc V.subj[1]	2	remembered thing	NP-acc	P
+Even	91	REMEMBER	d’öŋči-	Derived	1&2-nom recV'.subj[1&2]	1	rememberer	NP-nom V.subj	
+Even	91	REMEMBER	d’öŋči-	Derived	1&2-nom recV'.subj[1&2]	2	remembered thing	NP-nom V.subj	
+Even	91	REMEMBER	d’öŋči-	Derived	2-nom medV'.subj[2]	2	remembered thing	NP-nom V.subj	
+Even	93	HUNT (FOR)	buju-	Basic	1-nom 2-acc V.subj[1]	1	hunter	NP-nom V.subj	A
+Even	93	HUNT (FOR)	buju-	Basic	1-nom 2-acc V.subj[1]	2	hunted thing	NP-acc	P
+Even	93	HUNT (FOR)	buju-	Derived	1&2-nom recV'.subj[1&2]	1	hunter	NP-nom V.subj	
+Even	93	HUNT (FOR)	buju-	Derived	1&2-nom recV'.subj[1&2]	2	hunted thing	NP-nom V.subj	
+Even	93	HUNT (FOR)	buju-	Derived	2-nom 1-dat advV'.subj[2]	1	hunter	NP-dat	
+Even	93	HUNT (FOR)	buju-	Derived	2-nom 1-dat advV'.subj[2]	2	hunted thing	NP-nom V.subj	
+Even	93	HUNT (FOR)	buju-	Derived	2-nom medV'.subj[2]	2	hunted thing	NP-nom V.subj	
+Even	96	MARRY	atikanŋalbu-	Basic	1-nom 2-acc V.subj[1]	1	marrying person	NP-nom V.subj	A
+Even	96	MARRY	atikanŋalbu-	Basic	1-nom 2-acc V.subj[1]	2	married person	NP-acc	P
+Even	96	MARRY	atikanŋalbu-	Derived	1-nom V'.subj[1]	1	marrying person	NP-nom V.subj	
+Even	112	COME (2)	em-	Basic	1-nom 2-loc V.subj[1]	1	coming person/thing	NP-nom V.subj	S
+Even	112	COME (2)	em-	Basic	1-nom 2-loc V.subj[1]	2	come goal	NP-loc	L

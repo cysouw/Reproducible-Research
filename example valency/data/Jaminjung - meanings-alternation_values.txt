@@ -1,0 +1,1769 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Jaminjung	1	EAT	ganimindany	Ambitransitive alternation	Never	
+Jaminjung	1	EAT	ganimindany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	1	EAT	ganimindany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	1	EAT	ganimindany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	1	EAT	ganimindany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	1	EAT	ganimindany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	1	EAT	ganimindany	Ditransitive object alternation of IVs	Never	
+Jaminjung	1	EAT	ganimindany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	1	EAT	ganimindany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	1	EAT	ganimindany	Locative-object (applicative) Alternation	Never	
+Jaminjung	1	EAT	ganimindany	Locative-recipient alternation	Never	
+Jaminjung	1	EAT	ganimindany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	1	EAT	ganimindany	Telicity alternation	Never	
+Jaminjung	1	EAT	ganimindany	Transitivity alternation of activity predicates	Never	
+Jaminjung	1	EAT	ganimindany	Transitivity alternation of motion predicates	Never	
+Jaminjung	1	EAT	ganimindany	Transitivity alternation of stative predicates	Never	
+Jaminjung	1	EAT	ganimindany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	1	EAT	thawaya gagba	Ambitransitive alternation	Never	
+Jaminjung	1	EAT	thawaya gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	1	EAT	thawaya gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	1	EAT	thawaya gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	1	EAT	thawaya gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	1	EAT	thawaya gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	1	EAT	thawaya gagba	Locative-recipient alternation	Never	
+Jaminjung	1	EAT	thawaya gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	1	EAT	thawaya gagba	Telicity alternation	Never	
+Jaminjung	1	EAT	thawaya gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	1	EAT	thawaya gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	2	HUG	warrgi ganangu	Ambitransitive alternation	Never	
+Jaminjung	2	HUG	warrgi ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	2	HUG	warrgi ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	2	HUG	warrgi ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	2	HUG	warrgi ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	2	HUG	warrgi ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	2	HUG	warrgi ganangu	Locative-recipient alternation	Never	
+Jaminjung	2	HUG	warrgi ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	2	HUG	warrgi ganangu	Telicity alternation	Never	
+Jaminjung	2	HUG	warrgi ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	2	HUG	warrgi ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Ambitransitive alternation	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Ditransitive object alternation of IVs	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Locative-object (applicative) Alternation	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Locative-recipient alternation	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	2	HUG	warrgi ganimuwa	Telicity alternation	No data	
+Jaminjung	2	HUG	warrgi ganimuwa	Transitivity alternation of activity predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Transitivity alternation of motion predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Transitivity alternation of stative predicates	Never	
+Jaminjung	2	HUG	warrgi ganimuwa	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Ambitransitive alternation	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Ditransitive object alternation of IVs	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Locative-object (applicative) Alternation	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Locative-recipient alternation	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	3	LOOK AT	mung ganingawu	Telicity alternation	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Transitivity alternation of activity predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Transitivity alternation of motion predicates	Never	
+Jaminjung	3	LOOK AT	mung ganingawu	Transitivity alternation of stative predicates	Regularly	
+Jaminjung	3	LOOK AT	mung ganingawu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	4	SEE	ganingawu	Ambitransitive alternation	Never	
+Jaminjung	4	SEE	ganingawu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	4	SEE	ganingawu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	4	SEE	ganingawu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	4	SEE	ganingawu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	4	SEE	ganingawu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	4	SEE	ganingawu	Ditransitive object alternation of IVs	Never	
+Jaminjung	4	SEE	ganingawu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	4	SEE	ganingawu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	4	SEE	ganingawu	Locative-object (applicative) Alternation	Never	
+Jaminjung	4	SEE	ganingawu	Locative-recipient alternation	Never	
+Jaminjung	4	SEE	ganingawu	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	4	SEE	ganingawu	Telicity alternation	Never	
+Jaminjung	4	SEE	ganingawu	Transitivity alternation of activity predicates	Never	
+Jaminjung	4	SEE	ganingawu	Transitivity alternation of motion predicates	Never	
+Jaminjung	4	SEE	ganingawu	Transitivity alternation of stative predicates	Never	
+Jaminjung	4	SEE	ganingawu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Ambitransitive alternation	Regularly	
+Jaminjung	5	SMELL	ngabuj ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Locative-recipient alternation	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	5	SMELL	ngabuj ganangu	Telicity alternation	Regularly	
+Jaminjung	5	SMELL	ngabuj ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	5	SMELL	ngabuj ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	6	FEAR	ganiyangmany	Ambitransitive alternation	Never	
+Jaminjung	6	FEAR	ganiyangmany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	6	FEAR	ganiyangmany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	6	FEAR	ganiyangmany	Ditransitive object alternation of IVs	Never	
+Jaminjung	6	FEAR	ganiyangmany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	6	FEAR	ganiyangmany	Locative-object (applicative) Alternation	Never	
+Jaminjung	6	FEAR	ganiyangmany	Locative-recipient alternation	Never	
+Jaminjung	6	FEAR	ganiyangmany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	6	FEAR	ganiyangmany	Telicity alternation	Never	
+Jaminjung	6	FEAR	ganiyangmany	Transitivity alternation of activity predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Transitivity alternation of motion predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Transitivity alternation of stative predicates	Never	
+Jaminjung	6	FEAR	ganiyangmany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Ambitransitive alternation	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	6	FEAR	yarrajgu gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Locative-recipient alternation	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Telicity alternation	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	6	FEAR	yarrajgu gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Ambitransitive alternation	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Locative-recipient alternation	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Telicity alternation	No data	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	7	FRIGHTEN	braitenim ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Ambitransitive alternation	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Ditransitive object alternation of IVs	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Locative-object (applicative) Alternation	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Locative-recipient alternation	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Telicity alternation	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Transitivity alternation of activity predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Transitivity alternation of motion predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Transitivity alternation of stative predicates	Never	
+Jaminjung	8	LIKE	ngunthug ganangu (1)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Ambitransitive alternation	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Causative alternation of internally caused change of state predicates and non-locative states	Regularly	
+Jaminjung	9	KNOW	jurriya (gagba)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Ditransitive object alternation of IVs	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Locative-object (applicative) Alternation	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Locative-recipient alternation	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Telicity alternation	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Transitivity alternation of activity predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Transitivity alternation of motion predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Transitivity alternation of stative predicates	Never	
+Jaminjung	9	KNOW	jurriya (gagba)	Verbless/verbal clause with predicative nominal=UV	Marginally	
+Jaminjung	10	THINK	langa gagba	Ambitransitive alternation	Never	
+Jaminjung	10	THINK	langa gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	10	THINK	langa gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	10	THINK	langa gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	10	THINK	langa gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	10	THINK	langa gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	10	THINK	langa gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	10	THINK	langa gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	10	THINK	langa gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	10	THINK	langa gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	10	THINK	langa gagba	Locative-recipient alternation	Never	
+Jaminjung	10	THINK	langa gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	10	THINK	langa gagba	Telicity alternation	Never	
+Jaminjung	10	THINK	langa gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	10	THINK	langa gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	10	THINK	langa gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	10	THINK	langa gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Ambitransitive alternation	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Locative-recipient alternation	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Telicity alternation	Regularly	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Transitivity alternation of motion predicates	Regularly	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	11	SEARCH FOR	wurdbaj gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	12	WASH	gulyu ganangu	Ambitransitive alternation	Never	
+Jaminjung	12	WASH	gulyu ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	12	WASH	gulyu ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	12	WASH	gulyu ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	12	WASH	gulyu ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	12	WASH	gulyu ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	12	WASH	gulyu ganangu	Locative-recipient alternation	Never	
+Jaminjung	12	WASH	gulyu ganangu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	12	WASH	gulyu ganangu	Telicity alternation	No data	
+Jaminjung	12	WASH	gulyu ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	12	WASH	gulyu ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Ambitransitive alternation	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Causative-inchoative alternation of change of location predicates	Regularly	
+Jaminjung	12	WASH	ngabulg ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Locative-recipient alternation	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	12	WASH	ngabulg ganarrany	Telicity alternation	Regularly	
+Jaminjung	12	WASH	ngabulg ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	12	WASH	ngabulg ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Ambitransitive alternation	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Causative-inchoative alternation of change of location predicates	Regularly	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Ditransitive object alternation of IVs	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Locative-object (applicative) Alternation	Regularly	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Locative-recipient alternation	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Telicity alternation	Regularly	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Transitivity alternation of activity predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Transitivity alternation of motion predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Transitivity alternation of stative predicates	Never	
+Jaminjung	14	SHAVE (a body part/person)	jab gamaja	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	15	HELP	helpim ganangu	Ambitransitive alternation	Never	
+Jaminjung	15	HELP	helpim ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	15	HELP	helpim ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	15	HELP	helpim ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	15	HELP	helpim ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	15	HELP	helpim ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	15	HELP	helpim ganangu	Locative-recipient alternation	Never	
+Jaminjung	15	HELP	helpim ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	15	HELP	helpim ganangu	Telicity alternation	No data	
+Jaminjung	15	HELP	helpim ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	15	HELP	helpim ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Ambitransitive alternation	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Locative-recipient alternation	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Telicity alternation	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	16	FOLLOW	ganiwardagarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	17	MEET	wamam ganangu	Ambitransitive alternation	Never	
+Jaminjung	17	MEET	wamam ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	17	MEET	wamam ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	17	MEET	wamam ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	17	MEET	wamam ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	17	MEET	wamam ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	17	MEET	wamam ganangu	Locative-recipient alternation	Never	
+Jaminjung	17	MEET	wamam ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	17	MEET	wamam ganangu	Telicity alternation	Never	
+Jaminjung	17	MEET	wamam ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	17	MEET	wamam ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Ambitransitive alternation	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Locative-recipient alternation	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Telicity alternation	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	18	TALK	yirrgbi gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Ambitransitive alternation	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Locative-recipient alternation	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Telicity alternation	Marginally	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	19	ASK FOR	yanggi ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Ambitransitive alternation	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Locative-recipient alternation	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Telicity alternation	Regularly	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	20	SHOUT AT	bawa ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Ambitransitive alternation	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Locative-recipient alternation	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Telicity alternation	Regularly	
+Jaminjung	21	TELL	yirrg ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	21	TELL	yirrg ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	22	SAY	ganiyu	Ambitransitive alternation	Never	
+Jaminjung	22	SAY	ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	22	SAY	ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	22	SAY	ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	22	SAY	ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	22	SAY	ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	22	SAY	ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	22	SAY	ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	22	SAY	ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	22	SAY	ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	22	SAY	ganiyu	Locative-recipient alternation	Never	
+Jaminjung	22	SAY	ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	22	SAY	ganiyu	Telicity alternation	Never	
+Jaminjung	22	SAY	ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	22	SAY	ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	22	SAY	ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	22	SAY	ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	23	NAME	bag ganima (2)	Ambitransitive alternation	Never	
+Jaminjung	23	NAME	bag ganima (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	23	NAME	bag ganima (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Causative-inchoative alternation of externally caused change of state predicates	No data	
+Jaminjung	23	NAME	bag ganima (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	bag ganima (2)	Ditransitive object alternation of IVs	No data	
+Jaminjung	23	NAME	bag ganima (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	bag ganima (2)	Locative-object (applicative) Alternation	No data	
+Jaminjung	23	NAME	bag ganima (2)	Locative-recipient alternation	No data	
+Jaminjung	23	NAME	bag ganima (2)	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	23	NAME	bag ganima (2)	Telicity alternation	No data	
+Jaminjung	23	NAME	bag ganima (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	23	NAME	bag ganima (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	23	NAME	ganarrany (2)	Ambitransitive alternation	Never	
+Jaminjung	23	NAME	ganarrany (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	23	NAME	ganarrany (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	ganarrany (2)	Ditransitive object alternation of IVs	Never	
+Jaminjung	23	NAME	ganarrany (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	ganarrany (2)	Locative-object (applicative) Alternation	Never	
+Jaminjung	23	NAME	ganarrany (2)	Locative-recipient alternation	Never	
+Jaminjung	23	NAME	ganarrany (2)	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	23	NAME	ganarrany (2)	Telicity alternation	Never	
+Jaminjung	23	NAME	ganarrany (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	23	NAME	ganarrany (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	23	NAME	nij ganarrany	Ambitransitive alternation	Never	
+Jaminjung	23	NAME	nij ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Marginally	
+Jaminjung	23	NAME	nij ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	nij ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	23	NAME	nij ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	23	NAME	nij ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	23	NAME	nij ganarrany	Locative-recipient alternation	Never	
+Jaminjung	23	NAME	nij ganarrany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	23	NAME	nij ganarrany	Telicity alternation	Never	
+Jaminjung	23	NAME	nij ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	23	NAME	nij ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Ambitransitive alternation	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Ditransitive object alternation of IVs	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Locative-object (applicative) Alternation	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Locative-recipient alternation	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Telicity alternation	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	24	BUILD	ganilinymany (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	24	BUILD	jardij ganima	Ambitransitive alternation	Never	
+Jaminjung	24	BUILD	jardij ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	24	BUILD	jardij ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	24	BUILD	jardij ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	24	BUILD	jardij ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	24	BUILD	jardij ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	24	BUILD	jardij ganima	Locative-recipient alternation	Never	
+Jaminjung	24	BUILD	jardij ganima	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	24	BUILD	jardij ganima	Telicity alternation	Regularly	
+Jaminjung	24	BUILD	jardij ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	24	BUILD	jardij ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Ambitransitive alternation	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Causative-inchoative alternation of externally caused change of state predicates	Regularly	
+Jaminjung	25	BREAK	bag ganima (1)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Ditransitive object alternation of IVs	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Locative-object (applicative) Alternation	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Locative-recipient alternation	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	25	BREAK	bag ganima (1)	Telicity alternation	Marginally	
+Jaminjung	25	BREAK	bag ganima (1)	Transitivity alternation of activity predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Transitivity alternation of motion predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Transitivity alternation of stative predicates	Never	
+Jaminjung	25	BREAK	bag ganima (1)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	26	KILL	digirrij ganima	Ambitransitive alternation	Never	
+Jaminjung	26	KILL	digirrij ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	26	KILL	digirrij ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Causative-inchoative alternation of externally caused change of state predicates	Regularly	
+Jaminjung	26	KILL	digirrij ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	26	KILL	digirrij ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	26	KILL	digirrij ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	26	KILL	digirrij ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	26	KILL	digirrij ganima	Locative-recipient alternation	Never	
+Jaminjung	26	KILL	digirrij ganima	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	26	KILL	digirrij ganima	Telicity alternation	Marginally	
+Jaminjung	26	KILL	digirrij ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	26	KILL	digirrij ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	26	KILL	ning ganima	Ambitransitive alternation	Never	
+Jaminjung	26	KILL	ning ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	26	KILL	ning ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	26	KILL	ning ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	26	KILL	ning ganima	Causative-inchoative alternation of externally caused change of state predicates	Marginally	
+Jaminjung	26	KILL	ning ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	26	KILL	ning ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	26	KILL	ning ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	26	KILL	ning ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	26	KILL	ning ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	26	KILL	ning ganima	Locative-recipient alternation	Never	
+Jaminjung	26	KILL	ning ganima	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	26	KILL	ning ganima	Telicity alternation	Regularly	
+Jaminjung	26	KILL	ning ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	26	KILL	ning ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	26	KILL	ning ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	26	KILL	ning ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	27	BEAT	wanywany ganima	Ambitransitive alternation	Never	
+Jaminjung	27	BEAT	wanywany ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	27	BEAT	wanywany ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	27	BEAT	wanywany ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	27	BEAT	wanywany ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	27	BEAT	wanywany ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	27	BEAT	wanywany ganima	Locative-recipient alternation	Never	
+Jaminjung	27	BEAT	wanywany ganima	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	27	BEAT	wanywany ganima	Telicity alternation	No data	
+Jaminjung	27	BEAT	wanywany ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	27	BEAT	wanywany ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	28	HIT	ganima	Ambitransitive alternation	Never	
+Jaminjung	28	HIT	ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	28	HIT	ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	28	HIT	ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	28	HIT	ganima	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	28	HIT	ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	28	HIT	ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	28	HIT	ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	28	HIT	ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	28	HIT	ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	28	HIT	ganima	Locative-recipient alternation	Never	
+Jaminjung	28	HIT	ganima	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	28	HIT	ganima	Telicity alternation	Never	
+Jaminjung	28	HIT	ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	28	HIT	ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	28	HIT	ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	28	HIT	ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	29	TOUCH	mard ganangu	Ambitransitive alternation	Never	
+Jaminjung	29	TOUCH	mard ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	29	TOUCH	mard ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	29	TOUCH	mard ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	29	TOUCH	mard ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	29	TOUCH	mard ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	29	TOUCH	mard ganangu	Locative-recipient alternation	Never	
+Jaminjung	29	TOUCH	mard ganangu	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	29	TOUCH	mard ganangu	Telicity alternation	No data	
+Jaminjung	29	TOUCH	mard ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	29	TOUCH	mard ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	30	CUT	gad ganima	Ambitransitive alternation	Never	
+Jaminjung	30	CUT	gad ganima	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	30	CUT	gad ganima	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	30	CUT	gad ganima	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	30	CUT	gad ganima	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	30	CUT	gad ganima	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	30	CUT	gad ganima	Ditransitive object alternation of IVs	Never	
+Jaminjung	30	CUT	gad ganima	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	30	CUT	gad ganima	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	30	CUT	gad ganima	Locative-object (applicative) Alternation	Never	
+Jaminjung	30	CUT	gad ganima	Locative-recipient alternation	Never	
+Jaminjung	30	CUT	gad ganima	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	30	CUT	gad ganima	Telicity alternation	Regularly	
+Jaminjung	30	CUT	gad ganima	Transitivity alternation of activity predicates	Never	
+Jaminjung	30	CUT	gad ganima	Transitivity alternation of motion predicates	Never	
+Jaminjung	30	CUT	gad ganima	Transitivity alternation of stative predicates	Never	
+Jaminjung	30	CUT	gad ganima	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Ambitransitive alternation	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Ditransitive object alternation of IVs	Marginally	
+Jaminjung	31	TAKE	birrg ganiyunggany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Locative-object (applicative) Alternation	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Locative-recipient alternation	Marginally	
+Jaminjung	31	TAKE	birrg ganiyunggany	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	31	TAKE	birrg ganiyunggany	Telicity alternation	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Transitivity alternation of activity predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Transitivity alternation of motion predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Transitivity alternation of stative predicates	Never	
+Jaminjung	31	TAKE	birrg ganiyunggany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	31	TAKE	ganangu (2)	Ambitransitive alternation	Never	
+Jaminjung	31	TAKE	ganangu (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	31	TAKE	ganangu (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	ganangu (2)	Ditransitive object alternation of IVs	Never	
+Jaminjung	31	TAKE	ganangu (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	ganangu (2)	Locative-object (applicative) Alternation	Never	
+Jaminjung	31	TAKE	ganangu (2)	Locative-recipient alternation	Never	
+Jaminjung	31	TAKE	ganangu (2)	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	31	TAKE	ganangu (2)	Telicity alternation	Never	
+Jaminjung	31	TAKE	ganangu (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	31	TAKE	ganangu (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	31	TAKE	ganuga	Ambitransitive alternation	Never	
+Jaminjung	31	TAKE	ganuga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	31	TAKE	ganuga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	31	TAKE	ganuga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	ganuga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	31	TAKE	ganuga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	ganuga	Ditransitive object alternation of IVs	Never	
+Jaminjung	31	TAKE	ganuga	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	31	TAKE	ganuga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	31	TAKE	ganuga	Locative-object (applicative) Alternation	Never	
+Jaminjung	31	TAKE	ganuga	Locative-recipient alternation	Never	
+Jaminjung	31	TAKE	ganuga	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	31	TAKE	ganuga	Telicity alternation	Never	
+Jaminjung	31	TAKE	ganuga	Transitivity alternation of activity predicates	Never	
+Jaminjung	31	TAKE	ganuga	Transitivity alternation of motion predicates	Never	
+Jaminjung	31	TAKE	ganuga	Transitivity alternation of stative predicates	Never	
+Jaminjung	31	TAKE	ganuga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	32	TEAR	gub ganangu	Ambitransitive alternation	Never	
+Jaminjung	32	TEAR	gub ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	32	TEAR	gub ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Causative-inchoative alternation of change of location predicates	Regularly	
+Jaminjung	32	TEAR	gub ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	32	TEAR	gub ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	32	TEAR	gub ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	32	TEAR	gub ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	32	TEAR	gub ganangu	Locative-recipient alternation	Marginally	
+Jaminjung	32	TEAR	gub ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	32	TEAR	gub ganangu	Telicity alternation	No data	
+Jaminjung	32	TEAR	gub ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	32	TEAR	gub ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Ambitransitive alternation	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Causative-inchoative alternation of externally caused change of state predicates	Marginally	
+Jaminjung	33	PEEL	dirawu ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Locative-recipient alternation	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	33	PEEL	dirawu ganangu	Telicity alternation	No data	
+Jaminjung	33	PEEL	dirawu ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	33	PEEL	dirawu ganangu	Transitivity alternation of stative predicates	No data	
+Jaminjung	33	PEEL	dirawu ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Ambitransitive alternation	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	34	HIDE	marrug ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Locative-recipient alternation	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Telicity alternation	No data	
+Jaminjung	34	HIDE	marrug ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	34	HIDE	marrug ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Ambitransitive alternation	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Ditransitive object alternation of IVs	Marginally	
+Jaminjung	35	SHOW	yurrg ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Locative-recipient alternation	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	35	SHOW	yurrg ganarrany	Telicity alternation	Marginally	
+Jaminjung	35	SHOW	yurrg ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	35	SHOW	yurrg ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	36	GIVE	ganingarnany	Ambitransitive alternation	Never	
+Jaminjung	36	GIVE	ganingarnany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	36	GIVE	ganingarnany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	36	GIVE	ganingarnany	Ditransitive object alternation of IVs	Marginally	
+Jaminjung	36	GIVE	ganingarnany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	36	GIVE	ganingarnany	Locative-object (applicative) Alternation	Never	
+Jaminjung	36	GIVE	ganingarnany	Locative-recipient alternation	Never	
+Jaminjung	36	GIVE	ganingarnany	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	36	GIVE	ganingarnany	Telicity alternation	Never	
+Jaminjung	36	GIVE	ganingarnany	Transitivity alternation of activity predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Transitivity alternation of motion predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Transitivity alternation of stative predicates	Never	
+Jaminjung	36	GIVE	ganingarnany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	37	SEND	dalag ganarrany	Ambitransitive alternation	Never	
+Jaminjung	37	SEND	dalag ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	37	SEND	dalag ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	37	SEND	dalag ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	37	SEND	dalag ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	37	SEND	dalag ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	37	SEND	dalag ganarrany	Locative-recipient alternation	Never	
+Jaminjung	37	SEND	dalag ganarrany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	37	SEND	dalag ganarrany	Telicity alternation	Never	
+Jaminjung	37	SEND	dalag ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	37	SEND	dalag ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Ambitransitive alternation	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Ditransitive object alternation of IVs	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Locative-object (applicative) Alternation	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Locative-recipient alternation	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Telicity alternation	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Transitivity alternation of activity predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Transitivity alternation of motion predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Transitivity alternation of stative predicates	Never	
+Jaminjung	38	CARRY	thuruny ganuga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	39	THROW	ganardgiyany	Ambitransitive alternation	Never	
+Jaminjung	39	THROW	ganardgiyany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	39	THROW	ganardgiyany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	39	THROW	ganardgiyany	Ditransitive object alternation of IVs	Never	
+Jaminjung	39	THROW	ganardgiyany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	39	THROW	ganardgiyany	Locative-object (applicative) Alternation	Never	
+Jaminjung	39	THROW	ganardgiyany	Locative-recipient alternation	Never	
+Jaminjung	39	THROW	ganardgiyany	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	39	THROW	ganardgiyany	Telicity alternation	Never	
+Jaminjung	39	THROW	ganardgiyany	Transitivity alternation of activity predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Transitivity alternation of motion predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Transitivity alternation of stative predicates	Never	
+Jaminjung	39	THROW	ganardgiyany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	40	TIE	dibird ganangu	Ambitransitive alternation	Never	
+Jaminjung	40	TIE	dibird ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	40	TIE	dibird ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	40	TIE	dibird ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	40	TIE	dibird ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	40	TIE	dibird ganangu	Locative-object (applicative) Alternation	Regularly	
+Jaminjung	40	TIE	dibird ganangu	Locative-recipient alternation	Never	
+Jaminjung	40	TIE	dibird ganangu	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	40	TIE	dibird ganangu	Telicity alternation	Regularly	
+Jaminjung	40	TIE	dibird ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	40	TIE	dibird ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Ambitransitive alternation	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	40	TIE	dirrg ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Locative-object (applicative) Alternation	No data	
+Jaminjung	40	TIE	dirrg ganarrany	Locative-recipient alternation	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	40	TIE	dirrg ganarrany	Telicity alternation	No data	
+Jaminjung	40	TIE	dirrg ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	40	TIE	dirrg ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	41	PUT	ganarrany (1)	Ambitransitive alternation	Never	
+Jaminjung	41	PUT	ganarrany (1)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	41	PUT	ganarrany (1)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	41	PUT	ganarrany (1)	Ditransitive object alternation of IVs	Never	
+Jaminjung	41	PUT	ganarrany (1)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	41	PUT	ganarrany (1)	Locative-object (applicative) Alternation	Never	
+Jaminjung	41	PUT	ganarrany (1)	Locative-recipient alternation	Never	
+Jaminjung	41	PUT	ganarrany (1)	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	41	PUT	ganarrany (1)	Telicity alternation	Never	
+Jaminjung	41	PUT	ganarrany (1)	Transitivity alternation of activity predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Transitivity alternation of motion predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Transitivity alternation of stative predicates	Never	
+Jaminjung	41	PUT	ganarrany (1)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	42	POUR	lawu ganarrany	Ambitransitive alternation	Never	
+Jaminjung	42	POUR	lawu ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	42	POUR	lawu ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Causative-inchoative alternation of change of location predicates	Regularly	
+Jaminjung	42	POUR	lawu ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	42	POUR	lawu ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	42	POUR	lawu ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	42	POUR	lawu ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	42	POUR	lawu ganarrany	Locative-recipient alternation	Regularly	
+Jaminjung	42	POUR	lawu ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	42	POUR	lawu ganarrany	Telicity alternation	Marginally	
+Jaminjung	42	POUR	lawu ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	42	POUR	lawu ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Ambitransitive alternation	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Causative-inchoative alternation of change of location predicates	No data	
+Jaminjung	43	COVER	bardbard ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Marginally	
+Jaminjung	43	COVER	bardbard ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Locative-recipient alternation	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	43	COVER	bardbard ganarrany	Telicity alternation	Marginally	
+Jaminjung	43	COVER	bardbard ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	43	COVER	bardbard ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	44	FILL	jardi ganarrany	Ambitransitive alternation	Never	
+Jaminjung	44	FILL	jardi ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	44	FILL	jardi ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	44	FILL	jardi ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	44	FILL	jardi ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	44	FILL	jardi ganarrany	Locative-object (applicative) Alternation	No data	
+Jaminjung	44	FILL	jardi ganarrany	Locative-recipient alternation	No data	
+Jaminjung	44	FILL	jardi ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	44	FILL	jardi ganarrany	Telicity alternation	Never	
+Jaminjung	44	FILL	jardi ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	44	FILL	jardi ganarrany	Transitivity alternation of stative predicates	Marginally	
+Jaminjung	44	FILL	jardi ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Ambitransitive alternation	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	45	LOAD	bagurr ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Locative-recipient alternation	No data	
+Jaminjung	45	LOAD	bagurr ganarrany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	45	LOAD	bagurr ganarrany	Telicity alternation	No data	
+Jaminjung	45	LOAD	bagurr ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	45	LOAD	bagurr ganarrany	Transitivity alternation of stative predicates	Regularly	
+Jaminjung	45	LOAD	bagurr ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Ambitransitive alternation	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	46	BLINK	yimij ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Locative-recipient alternation	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Telicity alternation	No data	
+Jaminjung	46	BLINK	yimij ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	46	BLINK	yimij ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Ambitransitive alternation	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	47	COUGH	ngujul ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Locative-recipient alternation	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Telicity alternation	Regularly	
+Jaminjung	47	COUGH	ngujul ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	47	COUGH	ngujul ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Ambitransitive alternation	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Inchoative-causative alternation of change of location predicates	Regularly	
+Jaminjung	48	CLIMB	burduj gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Locative-object (applicative) Alternation	No data	
+Jaminjung	48	CLIMB	burduj gajgany	Locative-recipient alternation	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Telicity alternation	No data	
+Jaminjung	48	CLIMB	burduj gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Transitivity alternation of motion predicates	Regularly	
+Jaminjung	48	CLIMB	burduj gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	48	CLIMB	burduj gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	49	RUN	yugung gajgany	Ambitransitive alternation	Never	
+Jaminjung	49	RUN	yugung gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	49	RUN	yugung gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	49	RUN	yugung gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	49	RUN	yugung gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	49	RUN	yugung gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	49	RUN	yugung gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	49	RUN	yugung gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	49	RUN	yugung gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	49	RUN	yugung gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	49	RUN	yugung gajgany	Locative-recipient alternation	Never	
+Jaminjung	49	RUN	yugung gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	49	RUN	yugung gajgany	Telicity alternation	Never	
+Jaminjung	49	RUN	yugung gajgany	Transitivity alternation of activity predicates	Marginally	
+Jaminjung	49	RUN	yugung gajgany	Transitivity alternation of motion predicates	Regularly	
+Jaminjung	49	RUN	yugung gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	49	RUN	yugung gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	50	SIT	waga gagba	Ambitransitive alternation	Never	
+Jaminjung	50	SIT	waga gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	50	SIT	waga gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	50	SIT	waga gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	50	SIT	waga gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	50	SIT	waga gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	50	SIT	waga gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	50	SIT	waga gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	50	SIT	waga gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	50	SIT	waga gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	50	SIT	waga gagba	Locative-recipient alternation	Never	
+Jaminjung	50	SIT	waga gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	50	SIT	waga gagba	Telicity alternation	Never	
+Jaminjung	50	SIT	waga gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	50	SIT	waga gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	50	SIT	waga gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	50	SIT	waga gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Ambitransitive alternation	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	51	SIT DOWN	waga gardbany	Ditransitive object alternation of IVs	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Locative-object (applicative) Alternation	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Locative-recipient alternation	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Telicity alternation	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Transitivity alternation of activity predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Transitivity alternation of motion predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Transitivity alternation of stative predicates	Never	
+Jaminjung	51	SIT DOWN	waga gardbany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	52	JUMP	dibard gajgany	Ambitransitive alternation	Never	
+Jaminjung	52	JUMP	dibard gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	52	JUMP	dibard gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	52	JUMP	dibard gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	52	JUMP	dibard gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	52	JUMP	dibard gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	52	JUMP	dibard gajgany	Locative-recipient alternation	Never	
+Jaminjung	52	JUMP	dibard gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	52	JUMP	dibard gajgany	Telicity alternation	Regularly	
+Jaminjung	52	JUMP	dibard gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Transitivity alternation of motion predicates	Regularly	
+Jaminjung	52	JUMP	dibard gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	52	JUMP	dibard gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	53	SING	nganya gagba	Ambitransitive alternation	Never	
+Jaminjung	53	SING	nganya gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	53	SING	nganya gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	53	SING	nganya gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	53	SING	nganya gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	53	SING	nganya gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	53	SING	nganya gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	53	SING	nganya gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	53	SING	nganya gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	53	SING	nganya gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	53	SING	nganya gagba	Locative-recipient alternation	Never	
+Jaminjung	53	SING	nganya gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	53	SING	nganya gagba	Telicity alternation	Never	
+Jaminjung	53	SING	nganya gagba	Transitivity alternation of activity predicates	No data	
+Jaminjung	53	SING	nganya gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	53	SING	nganya gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	53	SING	nganya gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	54	GO	gajgany	Ambitransitive alternation	Never	
+Jaminjung	54	GO	gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	54	GO	gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	54	GO	gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	54	GO	gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	54	GO	gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	54	GO	gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	54	GO	gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	54	GO	gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	54	GO	gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	54	GO	gajgany	Locative-recipient alternation	Never	
+Jaminjung	54	GO	gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	54	GO	gajgany	Telicity alternation	Never	
+Jaminjung	54	GO	gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	54	GO	gajgany	Transitivity alternation of motion predicates	Never	
+Jaminjung	54	GO	gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	54	GO	gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	55	LEAVE	ganungany	Ambitransitive alternation	Never	
+Jaminjung	55	LEAVE	ganungany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	55	LEAVE	ganungany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	55	LEAVE	ganungany	Ditransitive object alternation of IVs	Never	
+Jaminjung	55	LEAVE	ganungany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	55	LEAVE	ganungany	Locative-object (applicative) Alternation	Never	
+Jaminjung	55	LEAVE	ganungany	Locative-recipient alternation	Never	
+Jaminjung	55	LEAVE	ganungany	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	55	LEAVE	ganungany	Telicity alternation	Never	
+Jaminjung	55	LEAVE	ganungany	Transitivity alternation of activity predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Transitivity alternation of motion predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Transitivity alternation of stative predicates	Never	
+Jaminjung	55	LEAVE	ganungany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	56	LIVE	gagba	Ambitransitive alternation	Never	
+Jaminjung	56	LIVE	gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	56	LIVE	gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	56	LIVE	gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	56	LIVE	gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	56	LIVE	gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	56	LIVE	gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	56	LIVE	gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	56	LIVE	gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	56	LIVE	gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	56	LIVE	gagba	Locative-recipient alternation	Never	
+Jaminjung	56	LIVE	gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	56	LIVE	gagba	Telicity alternation	Never	
+Jaminjung	56	LIVE	gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	56	LIVE	gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	56	LIVE	gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	56	LIVE	gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Ambitransitive alternation	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Causative alternation of internally caused change of state predicates and non-locative states	Regularly	
+Jaminjung	57	LAUGH	gambaja gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Locative-recipient alternation	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Telicity alternation	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Transitivity alternation of activity predicates	Regularly	
+Jaminjung	57	LAUGH	gambaja gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	57	LAUGH	gambaja gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Ambitransitive alternation	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	58	SCREAM	bawa ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Locative-recipient alternation	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Telicity alternation	Regularly	
+Jaminjung	58	SCREAM	bawa ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	58	SCREAM	bawa ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Ambitransitive alternation	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	59	FEEL PAIN	janga gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Locative-recipient alternation	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Telicity alternation	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	59	FEEL PAIN	janga gagba	Verbless/verbal clause with predicative nominal=UV	Marginally	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Ambitransitive alternation	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Locative-recipient alternation	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Telicity alternation	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	60	FEEL COLD	garrijni ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	61	DIE	digirrij gajgany	Ambitransitive alternation	Never	
+Jaminjung	61	DIE	digirrij gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	61	DIE	digirrij gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Causative-inchoative alternation of externally caused change of state predicates	Regularly	
+Jaminjung	61	DIE	digirrij gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	61	DIE	digirrij gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	61	DIE	digirrij gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	61	DIE	digirrij gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	61	DIE	digirrij gajgany	Locative-recipient alternation	Never	
+Jaminjung	61	DIE	digirrij gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	61	DIE	digirrij gajgany	Telicity alternation	Marginally	
+Jaminjung	61	DIE	digirrij gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Transitivity alternation of motion predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	61	DIE	digirrij gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Ambitransitive alternation	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Locative-recipient alternation	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Telicity alternation	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	62	PLAY	garlagarla gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Ambitransitive alternation	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	Marginally	
+Jaminjung	63	BE SAD	burru marring ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Locative-recipient alternation	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Telicity alternation	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	63	BE SAD	burru marring ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Ambitransitive alternation	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Causative alternation of internally caused change of state predicates and non-locative states	Marginally	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Locative-recipient alternation	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Telicity alternation	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	64	BE HUNGRY	guyawud gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Ambitransitive alternation	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Ditransitive object alternation of IVs	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Inchoative-causative alternation of change of location predicates	Regularly	
+Jaminjung	65	ROLL	dididmayan gangga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Locative-object (applicative) Alternation	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Locative-recipient alternation	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Telicity alternation	Regularly	
+Jaminjung	65	ROLL	dididmayan gangga	Transitivity alternation of activity predicates	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Transitivity alternation of motion predicates	Regularly	
+Jaminjung	65	ROLL	dididmayan gangga	Transitivity alternation of stative predicates	Never	
+Jaminjung	65	ROLL	dididmayan gangga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	66	SINK	thawu gardbany	Ambitransitive alternation	Never	
+Jaminjung	66	SINK	thawu gardbany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	66	SINK	thawu gardbany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	66	SINK	thawu gardbany	Ditransitive object alternation of IVs	Never	
+Jaminjung	66	SINK	thawu gardbany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Regularly	
+Jaminjung	66	SINK	thawu gardbany	Locative-object (applicative) Alternation	Never	
+Jaminjung	66	SINK	thawu gardbany	Locative-recipient alternation	No data	
+Jaminjung	66	SINK	thawu gardbany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	66	SINK	thawu gardbany	Telicity alternation	Marginally	
+Jaminjung	66	SINK	thawu gardbany	Transitivity alternation of activity predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Transitivity alternation of motion predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Transitivity alternation of stative predicates	Never	
+Jaminjung	66	SINK	thawu gardbany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	67	BURN	garnaya	Ambitransitive alternation	Never	
+Jaminjung	67	BURN	garnaya	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	67	BURN	garnaya	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	67	BURN	garnaya	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	67	BURN	garnaya	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	67	BURN	garnaya	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	67	BURN	garnaya	Ditransitive object alternation of IVs	Never	
+Jaminjung	67	BURN	garnaya	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	67	BURN	garnaya	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	67	BURN	garnaya	Locative-object (applicative) Alternation	Never	
+Jaminjung	67	BURN	garnaya	Locative-recipient alternation	Never	
+Jaminjung	67	BURN	garnaya	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	67	BURN	garnaya	Telicity alternation	Never	
+Jaminjung	67	BURN	garnaya	Transitivity alternation of activity predicates	Never	
+Jaminjung	67	BURN	garnaya	Transitivity alternation of motion predicates	Never	
+Jaminjung	67	BURN	garnaya	Transitivity alternation of stative predicates	Never	
+Jaminjung	67	BURN	garnaya	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	68	BE DRY	larrman gagba	Ambitransitive alternation	Never	
+Jaminjung	68	BE DRY	larrman gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	68	BE DRY	larrman gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	68	BE DRY	larrman gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	68	BE DRY	larrman gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	68	BE DRY	larrman gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	68	BE DRY	larrman gagba	Locative-recipient alternation	Never	
+Jaminjung	68	BE DRY	larrman gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	68	BE DRY	larrman gagba	Telicity alternation	Never	
+Jaminjung	68	BE DRY	larrman gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	68	BE DRY	larrman gagba	Verbless/verbal clause with predicative nominal=UV	Marginally	
+Jaminjung	69	RAIN	gugu gardbany	Ambitransitive alternation	Never	
+Jaminjung	69	RAIN	gugu gardbany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	69	RAIN	gugu gardbany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	69	RAIN	gugu gardbany	Ditransitive object alternation of IVs	Never	
+Jaminjung	69	RAIN	gugu gardbany	Inchoative-causative alternation of change of location predicates	Marginally	
+Jaminjung	69	RAIN	gugu gardbany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	69	RAIN	gugu gardbany	Locative-object (applicative) Alternation	Never	
+Jaminjung	69	RAIN	gugu gardbany	Locative-recipient alternation	Never	
+Jaminjung	69	RAIN	gugu gardbany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	69	RAIN	gugu gardbany	Telicity alternation	Never	
+Jaminjung	69	RAIN	gugu gardbany	Transitivity alternation of activity predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Transitivity alternation of motion predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Transitivity alternation of stative predicates	Never	
+Jaminjung	69	RAIN	gugu gardbany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Ambitransitive alternation	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Ditransitive object alternation of IVs	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Locative-object (applicative) Alternation	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Locative-recipient alternation	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Telicity alternation	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Transitivity alternation of activity predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Transitivity alternation of motion predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Transitivity alternation of stative predicates	Never	
+Jaminjung	70	BE A HUNTER	lalabangngarna	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Ambitransitive alternation	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Ditransitive object alternation of IVs	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Locative-object (applicative) Alternation	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Locative-recipient alternation	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Telicity alternation	No data	
+Jaminjung	71	GRIND	gardaj ganarrany	Transitivity alternation of activity predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Transitivity alternation of motion predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Transitivity alternation of stative predicates	Never	
+Jaminjung	71	GRIND	gardaj ganarrany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Ambitransitive alternation	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Locative-recipient alternation	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	72	WIPE	wunyu ganimangu	Telicity alternation	No data	
+Jaminjung	72	WIPE	wunyu ganimangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	72	WIPE	wunyu ganimangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	73	DIG	gurr ganangu	Ambitransitive alternation	Never	
+Jaminjung	73	DIG	gurr ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	73	DIG	gurr ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	73	DIG	gurr ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	73	DIG	gurr ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	73	DIG	gurr ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	73	DIG	gurr ganangu	Locative-recipient alternation	Never	
+Jaminjung	73	DIG	gurr ganangu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	73	DIG	gurr ganangu	Telicity alternation	Regularly	
+Jaminjung	73	DIG	gurr ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	73	DIG	gurr ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	74	PUSH	durl ganuga	Ambitransitive alternation	Never	
+Jaminjung	74	PUSH	durl ganuga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	74	PUSH	durl ganuga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	74	PUSH	durl ganuga	Ditransitive object alternation of IVs	Never	
+Jaminjung	74	PUSH	durl ganuga	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	74	PUSH	durl ganuga	Locative-object (applicative) Alternation	Never	
+Jaminjung	74	PUSH	durl ganuga	Locative-recipient alternation	Never	
+Jaminjung	74	PUSH	durl ganuga	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	74	PUSH	durl ganuga	Telicity alternation	No data	
+Jaminjung	74	PUSH	durl ganuga	Transitivity alternation of activity predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Transitivity alternation of motion predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Transitivity alternation of stative predicates	Never	
+Jaminjung	74	PUSH	durl ganuga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	75	BRING	gananthamany	Ambitransitive alternation	Never	
+Jaminjung	75	BRING	gananthamany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	75	BRING	gananthamany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	75	BRING	gananthamany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	75	BRING	gananthamany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	75	BRING	gananthamany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	75	BRING	gananthamany	Ditransitive object alternation of IVs	Never	
+Jaminjung	75	BRING	gananthamany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	75	BRING	gananthamany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	75	BRING	gananthamany	Locative-object (applicative) Alternation	Never	
+Jaminjung	75	BRING	gananthamany	Locative-recipient alternation	Never	
+Jaminjung	75	BRING	gananthamany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	75	BRING	gananthamany	Telicity alternation	Never	
+Jaminjung	75	BRING	gananthamany	Transitivity alternation of activity predicates	Never	
+Jaminjung	75	BRING	gananthamany	Transitivity alternation of motion predicates	Never	
+Jaminjung	75	BRING	gananthamany	Transitivity alternation of stative predicates	Never	
+Jaminjung	75	BRING	gananthamany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	76	STEAL	bunug ganangu	Ambitransitive alternation	Never	
+Jaminjung	76	STEAL	bunug ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	76	STEAL	bunug ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	76	STEAL	bunug ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	76	STEAL	bunug ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	76	STEAL	bunug ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	76	STEAL	bunug ganangu	Locative-recipient alternation	Regularly	
+Jaminjung	76	STEAL	bunug ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	76	STEAL	bunug ganangu	Telicity alternation	Never	
+Jaminjung	76	STEAL	bunug ganangu	Transitivity alternation of activity predicates	Regularly	
+Jaminjung	76	STEAL	bunug ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	76	STEAL	bunug ganangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Ambitransitive alternation	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Ditransitive object alternation of IVs	Marginally	
+Jaminjung	76	STEAL	bunug ganiyunggany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Locative-object (applicative) Alternation	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Locative-recipient alternation	Regularly	
+Jaminjung	76	STEAL	bunug ganiyunggany	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	76	STEAL	bunug ganiyunggany	Telicity alternation	No data	
+Jaminjung	76	STEAL	bunug ganiyunggany	Transitivity alternation of activity predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Transitivity alternation of motion predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Transitivity alternation of stative predicates	Never	
+Jaminjung	76	STEAL	bunug ganiyunggany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Ambitransitive alternation	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Locative-recipient alternation	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	77	TEACH	jurriya ganangu	Telicity alternation	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	77	TEACH	jurriya ganangu	Verbless/verbal clause with predicative nominal=UV	Regularly	
+Jaminjung	78	HEAR	malangayij ganuga	Ambitransitive alternation	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Ditransitive object alternation of IVs	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Locative-object (applicative) Alternation	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Locative-recipient alternation	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	78	HEAR	malangayij ganuga	Telicity alternation	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Transitivity alternation of activity predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Transitivity alternation of motion predicates	Never	
+Jaminjung	78	HEAR	malangayij ganuga	Transitivity alternation of stative predicates	Regularly	
+Jaminjung	78	HEAR	malangayij ganuga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	79	COOK	ganirriga	Ambitransitive alternation	Never	
+Jaminjung	79	COOK	ganirriga	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	79	COOK	ganirriga	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	79	COOK	ganirriga	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	79	COOK	ganirriga	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	79	COOK	ganirriga	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	79	COOK	ganirriga	Ditransitive object alternation of IVs	Never	
+Jaminjung	79	COOK	ganirriga	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	79	COOK	ganirriga	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	79	COOK	ganirriga	Locative-object (applicative) Alternation	Never	
+Jaminjung	79	COOK	ganirriga	Locative-recipient alternation	Never	
+Jaminjung	79	COOK	ganirriga	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	79	COOK	ganirriga	Telicity alternation	Never	
+Jaminjung	79	COOK	ganirriga	Transitivity alternation of activity predicates	Never	
+Jaminjung	79	COOK	ganirriga	Transitivity alternation of motion predicates	Never	
+Jaminjung	79	COOK	ganirriga	Transitivity alternation of stative predicates	Never	
+Jaminjung	79	COOK	ganirriga	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Ambitransitive alternation	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Locative-recipient alternation	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Telicity alternation	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	79	COOK	wirrigaja gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	80	BOIL	bud garna	Ambitransitive alternation	Never	
+Jaminjung	80	BOIL	bud garna	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	80	BOIL	bud garna	Causative-inchoative alternation of "cooking" predicates	Regularly	
+Jaminjung	80	BOIL	bud garna	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	80	BOIL	bud garna	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	80	BOIL	bud garna	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	80	BOIL	bud garna	Ditransitive object alternation of IVs	Never	
+Jaminjung	80	BOIL	bud garna	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	80	BOIL	bud garna	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	80	BOIL	bud garna	Locative-object (applicative) Alternation	Never	
+Jaminjung	80	BOIL	bud garna	Locative-recipient alternation	Never	
+Jaminjung	80	BOIL	bud garna	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	80	BOIL	bud garna	Telicity alternation	No data	
+Jaminjung	80	BOIL	bud garna	Transitivity alternation of activity predicates	Never	
+Jaminjung	80	BOIL	bud garna	Transitivity alternation of motion predicates	Never	
+Jaminjung	80	BOIL	bud garna	Transitivity alternation of stative predicates	Never	
+Jaminjung	80	BOIL	bud garna	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Ambitransitive alternation	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	80	BOIL	burrngburrng garna	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Ditransitive object alternation of IVs	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Locative-object (applicative) Alternation	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Locative-recipient alternation	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Telicity alternation	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Transitivity alternation of activity predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Transitivity alternation of motion predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Transitivity alternation of stative predicates	Never	
+Jaminjung	80	BOIL	burrngburrng garna	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Ambitransitive alternation	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Ditransitive object alternation of IVs	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Locative-object (applicative) Alternation	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Locative-recipient alternation	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Telicity alternation	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Transitivity alternation of activity predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Transitivity alternation of motion predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Transitivity alternation of stative predicates	Never	
+Jaminjung	81	APPEAR	bul ganimangu	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	81	APPEAR	bul garumany	Ambitransitive alternation	Never	
+Jaminjung	81	APPEAR	bul garumany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	81	APPEAR	bul garumany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	81	APPEAR	bul garumany	Ditransitive object alternation of IVs	Never	
+Jaminjung	81	APPEAR	bul garumany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	81	APPEAR	bul garumany	Locative-object (applicative) Alternation	Never	
+Jaminjung	81	APPEAR	bul garumany	Locative-recipient alternation	Never	
+Jaminjung	81	APPEAR	bul garumany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	81	APPEAR	bul garumany	Telicity alternation	Never	
+Jaminjung	81	APPEAR	bul garumany	Transitivity alternation of activity predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Transitivity alternation of motion predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Transitivity alternation of stative predicates	Never	
+Jaminjung	81	APPEAR	bul garumany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	82	BE ILL	warlad gagba	Ambitransitive alternation	Never	
+Jaminjung	82	BE ILL	warlad gagba	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	82	BE ILL	warlad gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	82	BE ILL	warlad gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	82	BE ILL	warlad gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	82	BE ILL	warlad gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	82	BE ILL	warlad gagba	Locative-recipient alternation	Never	
+Jaminjung	82	BE ILL	warlad gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	82	BE ILL	warlad gagba	Telicity alternation	Never	
+Jaminjung	82	BE ILL	warlad gagba	Transitivity alternation of activity predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	82	BE ILL	warlad gagba	Verbless/verbal clause with predicative nominal=UV	No data	
+Jaminjung	83	CRY	ngilijga gagba	Ambitransitive alternation	Never	
+Jaminjung	83	CRY	ngilijga gagba	Causative alternation of internally caused change of state predicates and non-locative states	No data	
+Jaminjung	83	CRY	ngilijga gagba	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	83	CRY	ngilijga gagba	Ditransitive object alternation of IVs	Never	
+Jaminjung	83	CRY	ngilijga gagba	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	83	CRY	ngilijga gagba	Locative-object (applicative) Alternation	Never	
+Jaminjung	83	CRY	ngilijga gagba	Locative-recipient alternation	Never	
+Jaminjung	83	CRY	ngilijga gagba	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	83	CRY	ngilijga gagba	Telicity alternation	Never	
+Jaminjung	83	CRY	ngilijga gagba	Transitivity alternation of activity predicates	No data	
+Jaminjung	83	CRY	ngilijga gagba	Transitivity alternation of motion predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Transitivity alternation of stative predicates	Never	
+Jaminjung	83	CRY	ngilijga gagba	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	84	FALL	gardbany	Ambitransitive alternation	Never	
+Jaminjung	84	FALL	gardbany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	84	FALL	gardbany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	84	FALL	gardbany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	84	FALL	gardbany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	84	FALL	gardbany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	84	FALL	gardbany	Ditransitive object alternation of IVs	Never	
+Jaminjung	84	FALL	gardbany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	84	FALL	gardbany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	84	FALL	gardbany	Locative-object (applicative) Alternation	Never	
+Jaminjung	84	FALL	gardbany	Locative-recipient alternation	Never	
+Jaminjung	84	FALL	gardbany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	84	FALL	gardbany	Telicity alternation	Never	
+Jaminjung	84	FALL	gardbany	Transitivity alternation of activity predicates	Never	
+Jaminjung	84	FALL	gardbany	Transitivity alternation of motion predicates	Never	
+Jaminjung	84	FALL	gardbany	Transitivity alternation of stative predicates	Never	
+Jaminjung	84	FALL	gardbany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Ambitransitive alternation	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Ditransitive object alternation of IVs	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Locative-object (applicative) Alternation	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Locative-recipient alternation	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Reflexive-reciprocal alternation of IVs	Marginally	
+Jaminjung	85	MAKE	ganilinymany (1)	Telicity alternation	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Transitivity alternation of activity predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Transitivity alternation of motion predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Transitivity alternation of stative predicates	Never	
+Jaminjung	85	MAKE	ganilinymany (1)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	86	GET	ganangu (1)	Ambitransitive alternation	Never	
+Jaminjung	86	GET	ganangu (1)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	86	GET	ganangu (1)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	86	GET	ganangu (1)	Ditransitive object alternation of IVs	Never	
+Jaminjung	86	GET	ganangu (1)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	86	GET	ganangu (1)	Locative-object (applicative) Alternation	Never	
+Jaminjung	86	GET	ganangu (1)	Locative-recipient alternation	Never	
+Jaminjung	86	GET	ganangu (1)	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	86	GET	ganangu (1)	Telicity alternation	Never	
+Jaminjung	86	GET	ganangu (1)	Transitivity alternation of activity predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Transitivity alternation of motion predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Transitivity alternation of stative predicates	Never	
+Jaminjung	86	GET	ganangu (1)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	86	GET	ganangu (2)	Ambitransitive alternation	Never	
+Jaminjung	86	GET	ganangu (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	86	GET	ganangu (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	86	GET	ganangu (2)	Ditransitive object alternation of IVs	Never	
+Jaminjung	86	GET	ganangu (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	86	GET	ganangu (2)	Locative-object (applicative) Alternation	Never	
+Jaminjung	86	GET	ganangu (2)	Locative-recipient alternation	Never	
+Jaminjung	86	GET	ganangu (2)	Reflexive-reciprocal alternation of IVs	Regularly	
+Jaminjung	86	GET	ganangu (2)	Telicity alternation	Never	
+Jaminjung	86	GET	ganangu (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	86	GET	ganangu (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Ambitransitive alternation	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Ditransitive object alternation of IVs	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Locative-object (applicative) Alternation	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Locative-recipient alternation	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Reflexive-reciprocal alternation of IVs	No data	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Telicity alternation	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Transitivity alternation of activity predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Transitivity alternation of motion predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Transitivity alternation of stative predicates	Never	
+Jaminjung	87	WANT	ngunthug ganangu (2)	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Ambitransitive alternation	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Causative alternation of internally caused change of state predicates and non-locative states	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Ditransitive object alternation of IVs	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Locative-object (applicative) Alternation	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Locative-recipient alternation	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Telicity alternation	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Transitivity alternation of activity predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Transitivity alternation of motion predicates	No data	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Transitivity alternation of stative predicates	Never	
+Jaminjung	93	HUNT (FOR)	lalabang gajgany	Verbless/verbal clause with predicative nominal=UV	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Ambitransitive alternation	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Causative alternation of internally caused change of state predicates and non-locative states	Regularly	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Causative-inchoative alternation of "cooking" predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Causative-inchoative alternation of change of location predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Causative-inchoative alternation of externally caused change of state predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Causative-inchoative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Ditransitive object alternation of IVs	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Inchoative-causative alternation of change of location predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Inchoative-causative-stative alternation of predicates of location, position and configuration	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Locative-object (applicative) Alternation	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Locative-recipient alternation	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Reflexive-reciprocal alternation of IVs	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Telicity alternation	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Transitivity alternation of activity predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Transitivity alternation of motion predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Transitivity alternation of stative predicates	Never	
+Jaminjung	142	BE SAD ABOUT	bujarl ganiyu	Verbless/verbal clause with predicative nominal=UV	Never	

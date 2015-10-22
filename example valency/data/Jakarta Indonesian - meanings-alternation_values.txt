@@ -1,0 +1,2641 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Jakarta Indonesian	1	EAT	makan	Accidental Passive	Regularly	
+Jakarta Indonesian	1	EAT	makan	Adversative Passive	Never	
+Jakarta Indonesian	1	EAT	makan	Applicative Ablative	Never	
+Jakarta Indonesian	1	EAT	makan	Applicative Allative	Never	
+Jakarta Indonesian	1	EAT	makan	Applicative Benefactive	Never	
+Jakarta Indonesian	1	EAT	makan	Applicative Instrumental	Never	
+Jakarta Indonesian	1	EAT	makan	Bare Ablative	Never	
+Jakarta Indonesian	1	EAT	makan	Bare Allative	Never	
+Jakarta Indonesian	1	EAT	makan	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	1	EAT	makan	Bare Benefactive	Never	
+Jakarta Indonesian	1	EAT	makan	Bare Instrumental	Never	
+Jakarta Indonesian	1	EAT	makan	Ditransitive Alternation	Never	
+Jakarta Indonesian	1	EAT	makan	Impersonal Passive	Never	
+Jakarta Indonesian	1	EAT	makan	Intransitive alternation	Regularly	
+Jakarta Indonesian	1	EAT	makan	No argument stative	Never	
+Jakarta Indonesian	1	EAT	makan	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	1	EAT	makan	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	1	EAT	makan	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	1	EAT	makan	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	1	EAT	makan	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	1	EAT	makan	Passive Transitive	Regularly	
+Jakarta Indonesian	1	EAT	makan	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	1	EAT	makan	Thematic Adversative Passive	Never	
+Jakarta Indonesian	1	EAT	makan	Transitive Alternation	Never	
+Jakarta Indonesian	2	HUG	peluk	Accidental Passive	Regularly	
+Jakarta Indonesian	2	HUG	peluk	Adversative Passive	Never	
+Jakarta Indonesian	2	HUG	peluk	Applicative Ablative	Never	
+Jakarta Indonesian	2	HUG	peluk	Applicative Allative	Never	
+Jakarta Indonesian	2	HUG	peluk	Applicative Benefactive	Never	
+Jakarta Indonesian	2	HUG	peluk	Applicative Instrumental	Never	
+Jakarta Indonesian	2	HUG	peluk	Bare Ablative	Never	
+Jakarta Indonesian	2	HUG	peluk	Bare Allative	Never	
+Jakarta Indonesian	2	HUG	peluk	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	2	HUG	peluk	Bare Benefactive	Never	
+Jakarta Indonesian	2	HUG	peluk	Bare Instrumental	Never	
+Jakarta Indonesian	2	HUG	peluk	Ditransitive Alternation	Never	
+Jakarta Indonesian	2	HUG	peluk	Impersonal Passive	Never	
+Jakarta Indonesian	2	HUG	peluk	Intransitive alternation	Never	
+Jakarta Indonesian	2	HUG	peluk	No argument stative	Never	
+Jakarta Indonesian	2	HUG	peluk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	2	HUG	peluk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	2	HUG	peluk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	2	HUG	peluk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	2	HUG	peluk	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	2	HUG	peluk	Passive Transitive	Regularly	
+Jakarta Indonesian	2	HUG	peluk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	2	HUG	peluk	Thematic Adversative Passive	Never	
+Jakarta Indonesian	2	HUG	peluk	Transitive Alternation	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Accidental Passive	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Adversative Passive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Applicative Ablative	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Applicative Allative	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Applicative Benefactive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Applicative Instrumental	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Bare Ablative	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Bare Allative	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Bare Benefactive	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Bare Instrumental	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Impersonal Passive	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Intransitive alternation	Never	
+Jakarta Indonesian	3	LOOK AT	liat	No argument stative	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Passive Transitive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	3	LOOK AT	liat	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	3	LOOK AT	liat	Transitive Alternation	Never	
+Jakarta Indonesian	4	SEE	liat	Accidental Passive	Never	
+Jakarta Indonesian	4	SEE	liat	Adversative Passive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Applicative Ablative	Never	
+Jakarta Indonesian	4	SEE	liat	Applicative Allative	Regularly	
+Jakarta Indonesian	4	SEE	liat	Applicative Benefactive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Applicative Instrumental	Never	
+Jakarta Indonesian	4	SEE	liat	Bare Ablative	Never	
+Jakarta Indonesian	4	SEE	liat	Bare Allative	Never	
+Jakarta Indonesian	4	SEE	liat	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Bare Benefactive	Never	
+Jakarta Indonesian	4	SEE	liat	Bare Instrumental	Never	
+Jakarta Indonesian	4	SEE	liat	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	4	SEE	liat	Impersonal Passive	Never	
+Jakarta Indonesian	4	SEE	liat	Intransitive alternation	Never	
+Jakarta Indonesian	4	SEE	liat	No argument stative	Never	
+Jakarta Indonesian	4	SEE	liat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	4	SEE	liat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	4	SEE	liat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	4	SEE	liat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	4	SEE	liat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Passive Transitive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	4	SEE	liat	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	4	SEE	liat	Transitive Alternation	Never	
+Jakarta Indonesian	5	SMELL	cium	Accidental Passive	Regularly	
+Jakarta Indonesian	5	SMELL	cium	Adversative Passive	Never	
+Jakarta Indonesian	5	SMELL	cium	Applicative Ablative	Never	
+Jakarta Indonesian	5	SMELL	cium	Applicative Allative	Never	
+Jakarta Indonesian	5	SMELL	cium	Applicative Benefactive	Never	
+Jakarta Indonesian	5	SMELL	cium	Applicative Instrumental	Never	
+Jakarta Indonesian	5	SMELL	cium	Bare Ablative	Never	
+Jakarta Indonesian	5	SMELL	cium	Bare Allative	Never	
+Jakarta Indonesian	5	SMELL	cium	Bare Applicative Transitive	Never	
+Jakarta Indonesian	5	SMELL	cium	Bare Benefactive	Never	
+Jakarta Indonesian	5	SMELL	cium	Bare Instrumental	Never	
+Jakarta Indonesian	5	SMELL	cium	Ditransitive Alternation	Never	
+Jakarta Indonesian	5	SMELL	cium	Impersonal Passive	Never	
+Jakarta Indonesian	5	SMELL	cium	Intransitive alternation	Never	
+Jakarta Indonesian	5	SMELL	cium	No argument stative	Never	
+Jakarta Indonesian	5	SMELL	cium	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	5	SMELL	cium	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	5	SMELL	cium	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	5	SMELL	cium	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	5	SMELL	cium	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	5	SMELL	cium	Passive Transitive	Never	
+Jakarta Indonesian	5	SMELL	cium	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	5	SMELL	cium	Thematic Adversative Passive	Never	
+Jakarta Indonesian	5	SMELL	cium	Transitive Alternation	Never	
+Jakarta Indonesian	6	FEAR	takut	Accidental Passive	Never	
+Jakarta Indonesian	6	FEAR	takut	Adversative Passive	Regularly	
+Jakarta Indonesian	6	FEAR	takut	Applicative Ablative	Never	
+Jakarta Indonesian	6	FEAR	takut	Applicative Allative	Never	
+Jakarta Indonesian	6	FEAR	takut	Applicative Benefactive	Never	
+Jakarta Indonesian	6	FEAR	takut	Applicative Instrumental	Never	
+Jakarta Indonesian	6	FEAR	takut	Bare Ablative	Never	
+Jakarta Indonesian	6	FEAR	takut	Bare Allative	Never	
+Jakarta Indonesian	6	FEAR	takut	Bare Applicative Transitive	Never	
+Jakarta Indonesian	6	FEAR	takut	Bare Benefactive	Never	
+Jakarta Indonesian	6	FEAR	takut	Bare Instrumental	Never	
+Jakarta Indonesian	6	FEAR	takut	Ditransitive Alternation	Never	
+Jakarta Indonesian	6	FEAR	takut	Impersonal Passive	Regularly	
+Jakarta Indonesian	6	FEAR	takut	Intransitive alternation	Regularly	
+Jakarta Indonesian	6	FEAR	takut	No argument stative	Never	
+Jakarta Indonesian	6	FEAR	takut	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	6	FEAR	takut	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	6	FEAR	takut	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	6	FEAR	takut	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	6	FEAR	takut	Passive Applicative Transitive	Never	
+Jakarta Indonesian	6	FEAR	takut	Passive Transitive	Never	
+Jakarta Indonesian	6	FEAR	takut	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	6	FEAR	takut	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	6	FEAR	takut	Transitive Alternation	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Accidental Passive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Adversative Passive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Applicative Ablative	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Applicative Allative	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Applicative Benefactive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Applicative Instrumental	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Bare Ablative	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Bare Allative	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Bare Benefactive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Bare Instrumental	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Ditransitive Alternation	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Impersonal Passive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Intransitive alternation	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	No argument stative	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Passive Transitive	Regularly	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	7	FRIGHTEN	takutin	Transitive Alternation	Never	
+Jakarta Indonesian	8	LIKE	seneng	Accidental Passive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Adversative Passive	Regularly	
+Jakarta Indonesian	8	LIKE	seneng	Applicative Ablative	Never	
+Jakarta Indonesian	8	LIKE	seneng	Applicative Allative	Never	
+Jakarta Indonesian	8	LIKE	seneng	Applicative Benefactive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Applicative Instrumental	Never	
+Jakarta Indonesian	8	LIKE	seneng	Bare Ablative	Never	
+Jakarta Indonesian	8	LIKE	seneng	Bare Allative	Never	
+Jakarta Indonesian	8	LIKE	seneng	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	8	LIKE	seneng	Bare Benefactive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Bare Instrumental	Never	
+Jakarta Indonesian	8	LIKE	seneng	Ditransitive Alternation	Never	
+Jakarta Indonesian	8	LIKE	seneng	Impersonal Passive	Regularly	
+Jakarta Indonesian	8	LIKE	seneng	Intransitive alternation	Regularly	
+Jakarta Indonesian	8	LIKE	seneng	No argument stative	Never	
+Jakarta Indonesian	8	LIKE	seneng	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	8	LIKE	seneng	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	8	LIKE	seneng	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	8	LIKE	seneng	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	8	LIKE	seneng	Passive Transitive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	8	LIKE	seneng	Thematic Adversative Passive	Never	
+Jakarta Indonesian	8	LIKE	seneng	Transitive Alternation	Never	
+Jakarta Indonesian	8	LIKE	suka	Accidental Passive	Never	
+Jakarta Indonesian	8	LIKE	suka	Adversative Passive	Never	
+Jakarta Indonesian	8	LIKE	suka	Applicative Ablative	Never	
+Jakarta Indonesian	8	LIKE	suka	Applicative Allative	Never	
+Jakarta Indonesian	8	LIKE	suka	Applicative Benefactive	Never	
+Jakarta Indonesian	8	LIKE	suka	Applicative Instrumental	Never	
+Jakarta Indonesian	8	LIKE	suka	Bare Ablative	Never	
+Jakarta Indonesian	8	LIKE	suka	Bare Allative	Never	
+Jakarta Indonesian	8	LIKE	suka	Bare Applicative Transitive	Never	
+Jakarta Indonesian	8	LIKE	suka	Bare Benefactive	Never	
+Jakarta Indonesian	8	LIKE	suka	Bare Instrumental	Never	
+Jakarta Indonesian	8	LIKE	suka	Ditransitive Alternation	Never	
+Jakarta Indonesian	8	LIKE	suka	Impersonal Passive	Regularly	
+Jakarta Indonesian	8	LIKE	suka	Intransitive alternation	Never	
+Jakarta Indonesian	8	LIKE	suka	No argument stative	Never	
+Jakarta Indonesian	8	LIKE	suka	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	8	LIKE	suka	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	8	LIKE	suka	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	8	LIKE	suka	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	8	LIKE	suka	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	8	LIKE	suka	Passive Transitive	Never	
+Jakarta Indonesian	8	LIKE	suka	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	8	LIKE	suka	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	8	LIKE	suka	Transitive Alternation	Never	
+Jakarta Indonesian	9	KNOW	kenal	Accidental Passive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Adversative Passive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Applicative Ablative	Never	
+Jakarta Indonesian	9	KNOW	kenal	Applicative Allative	Regularly	
+Jakarta Indonesian	9	KNOW	kenal	Applicative Benefactive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Applicative Instrumental	Never	
+Jakarta Indonesian	9	KNOW	kenal	Bare Ablative	Never	
+Jakarta Indonesian	9	KNOW	kenal	Bare Allative	Never	
+Jakarta Indonesian	9	KNOW	kenal	Bare Applicative Transitive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Bare Benefactive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Bare Instrumental	Never	
+Jakarta Indonesian	9	KNOW	kenal	Ditransitive Alternation	Never	
+Jakarta Indonesian	9	KNOW	kenal	Impersonal Passive	Regularly	
+Jakarta Indonesian	9	KNOW	kenal	Intransitive alternation	Never	
+Jakarta Indonesian	9	KNOW	kenal	No argument stative	Never	
+Jakarta Indonesian	9	KNOW	kenal	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	9	KNOW	kenal	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	9	KNOW	kenal	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	9	KNOW	kenal	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Passive Applicative Transitive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Passive Transitive	Marginally	
+Jakarta Indonesian	9	KNOW	kenal	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	9	KNOW	kenal	Thematic Adversative Passive	Never	
+Jakarta Indonesian	9	KNOW	kenal	Transitive Alternation	Never	
+Jakarta Indonesian	10	THINK	pikir	Accidental Passive	Regularly	
+Jakarta Indonesian	10	THINK	pikir	Adversative Passive	Regularly	
+Jakarta Indonesian	10	THINK	pikir	Applicative Ablative	Never	
+Jakarta Indonesian	10	THINK	pikir	Applicative Allative	Never	
+Jakarta Indonesian	10	THINK	pikir	Applicative Benefactive	Never	
+Jakarta Indonesian	10	THINK	pikir	Applicative Instrumental	Never	
+Jakarta Indonesian	10	THINK	pikir	Bare Ablative	Never	
+Jakarta Indonesian	10	THINK	pikir	Bare Allative	Never	
+Jakarta Indonesian	10	THINK	pikir	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	10	THINK	pikir	Bare Benefactive	Never	
+Jakarta Indonesian	10	THINK	pikir	Bare Instrumental	Never	
+Jakarta Indonesian	10	THINK	pikir	Ditransitive Alternation	Never	
+Jakarta Indonesian	10	THINK	pikir	Impersonal Passive	Regularly	
+Jakarta Indonesian	10	THINK	pikir	Intransitive alternation	Never	
+Jakarta Indonesian	10	THINK	pikir	No argument stative	Never	
+Jakarta Indonesian	10	THINK	pikir	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	10	THINK	pikir	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	10	THINK	pikir	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	10	THINK	pikir	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	10	THINK	pikir	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	10	THINK	pikir	Passive Transitive	Never	
+Jakarta Indonesian	10	THINK	pikir	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	10	THINK	pikir	Thematic Adversative Passive	Never	
+Jakarta Indonesian	10	THINK	pikir	Transitive Alternation	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Accidental Passive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Adversative Passive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Applicative Ablative	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Applicative Allative	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Applicative Benefactive	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Applicative Instrumental	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Bare Ablative	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Bare Allative	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Bare Applicative Transitive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Bare Benefactive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Bare Instrumental	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Impersonal Passive	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Intransitive alternation	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	No argument stative	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Passive Applicative Transitive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Passive Transitive	Regularly	
+Jakarta Indonesian	11	SEARCH FOR	cari	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Thematic Adversative Passive	Never	
+Jakarta Indonesian	11	SEARCH FOR	cari	Transitive Alternation	Never	
+Jakarta Indonesian	12	WASH	cuci	Accidental Passive	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Adversative Passive	Never	
+Jakarta Indonesian	12	WASH	cuci	Applicative Ablative	Never	
+Jakarta Indonesian	12	WASH	cuci	Applicative Allative	Never	
+Jakarta Indonesian	12	WASH	cuci	Applicative Benefactive	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Applicative Instrumental	Never	
+Jakarta Indonesian	12	WASH	cuci	Bare Ablative	Never	
+Jakarta Indonesian	12	WASH	cuci	Bare Allative	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Bare Benefactive	Never	
+Jakarta Indonesian	12	WASH	cuci	Bare Instrumental	Never	
+Jakarta Indonesian	12	WASH	cuci	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Impersonal Passive	Never	
+Jakarta Indonesian	12	WASH	cuci	Intransitive alternation	Regularly	
+Jakarta Indonesian	12	WASH	cuci	No argument stative	Never	
+Jakarta Indonesian	12	WASH	cuci	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	12	WASH	cuci	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	12	WASH	cuci	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	12	WASH	cuci	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	12	WASH	cuci	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Passive Transitive	Regularly	
+Jakarta Indonesian	12	WASH	cuci	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	12	WASH	cuci	Thematic Adversative Passive	Never	
+Jakarta Indonesian	12	WASH	cuci	Transitive Alternation	Never	
+Jakarta Indonesian	12	WASH	mandiin	Accidental Passive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Adversative Passive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Applicative Ablative	Never	
+Jakarta Indonesian	12	WASH	mandiin	Applicative Allative	Never	
+Jakarta Indonesian	12	WASH	mandiin	Applicative Benefactive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Applicative Instrumental	Never	
+Jakarta Indonesian	12	WASH	mandiin	Bare Ablative	Never	
+Jakarta Indonesian	12	WASH	mandiin	Bare Allative	Never	
+Jakarta Indonesian	12	WASH	mandiin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Bare Benefactive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Bare Instrumental	Never	
+Jakarta Indonesian	12	WASH	mandiin	Ditransitive Alternation	Never	
+Jakarta Indonesian	12	WASH	mandiin	Impersonal Passive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Intransitive alternation	Never	
+Jakarta Indonesian	12	WASH	mandiin	No argument stative	Never	
+Jakarta Indonesian	12	WASH	mandiin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	12	WASH	mandiin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	12	WASH	mandiin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	12	WASH	mandiin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Passive Transitive	Regularly	
+Jakarta Indonesian	12	WASH	mandiin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	12	WASH	mandiin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	12	WASH	mandiin	Transitive Alternation	Never	
+Jakarta Indonesian	13	DRESS	pakein	Accidental Passive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Adversative Passive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Applicative Ablative	Never	
+Jakarta Indonesian	13	DRESS	pakein	Applicative Allative	Never	
+Jakarta Indonesian	13	DRESS	pakein	Applicative Benefactive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Applicative Instrumental	Never	
+Jakarta Indonesian	13	DRESS	pakein	Bare Ablative	Never	
+Jakarta Indonesian	13	DRESS	pakein	Bare Allative	Never	
+Jakarta Indonesian	13	DRESS	pakein	Bare Applicative Transitive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Bare Benefactive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Bare Instrumental	Never	
+Jakarta Indonesian	13	DRESS	pakein	Ditransitive Alternation	Never	
+Jakarta Indonesian	13	DRESS	pakein	Impersonal Passive	Regularly	
+Jakarta Indonesian	13	DRESS	pakein	Intransitive alternation	Never	
+Jakarta Indonesian	13	DRESS	pakein	No argument stative	Never	
+Jakarta Indonesian	13	DRESS	pakein	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	13	DRESS	pakein	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	13	DRESS	pakein	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	13	DRESS	pakein	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Passive Applicative Transitive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Passive Transitive	Regularly	
+Jakarta Indonesian	13	DRESS	pakein	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	13	DRESS	pakein	Thematic Adversative Passive	Never	
+Jakarta Indonesian	13	DRESS	pakein	Transitive Alternation	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Accidental Passive	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Adversative Passive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Applicative Ablative	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Applicative Allative	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Applicative Benefactive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Applicative Instrumental	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Bare Ablative	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Bare Allative	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Bare Benefactive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Bare Instrumental	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Ditransitive Alternation	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Impersonal Passive	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Intransitive alternation	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	No argument stative	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Passive Applicative Transitive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Passive Transitive	Regularly	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Thematic Adversative Passive	Never	
+Jakarta Indonesian	14	SHAVE (a body part/person)	cukur	Transitive Alternation	Never	
+Jakarta Indonesian	15	HELP	bantu	Accidental Passive	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Adversative Passive	Never	
+Jakarta Indonesian	15	HELP	bantu	Applicative Ablative	Never	
+Jakarta Indonesian	15	HELP	bantu	Applicative Allative	Never	
+Jakarta Indonesian	15	HELP	bantu	Applicative Benefactive	Never	
+Jakarta Indonesian	15	HELP	bantu	Applicative Instrumental	Never	
+Jakarta Indonesian	15	HELP	bantu	Bare Ablative	Never	
+Jakarta Indonesian	15	HELP	bantu	Bare Allative	Never	
+Jakarta Indonesian	15	HELP	bantu	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Bare Benefactive	Never	
+Jakarta Indonesian	15	HELP	bantu	Bare Instrumental	Never	
+Jakarta Indonesian	15	HELP	bantu	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Impersonal Passive	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Intransitive alternation	Regularly	
+Jakarta Indonesian	15	HELP	bantu	No argument stative	Never	
+Jakarta Indonesian	15	HELP	bantu	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	15	HELP	bantu	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Passive Transitive	Regularly	
+Jakarta Indonesian	15	HELP	bantu	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	15	HELP	bantu	Thematic Adversative Passive	Never	
+Jakarta Indonesian	15	HELP	bantu	Transitive Alternation	Never	
+Jakarta Indonesian	15	HELP	tolong	Accidental Passive	Regularly	
+Jakarta Indonesian	15	HELP	tolong	Adversative Passive	Never	
+Jakarta Indonesian	15	HELP	tolong	Applicative Ablative	Never	
+Jakarta Indonesian	15	HELP	tolong	Applicative Allative	Never	
+Jakarta Indonesian	15	HELP	tolong	Applicative Benefactive	Never	
+Jakarta Indonesian	15	HELP	tolong	Applicative Instrumental	Never	
+Jakarta Indonesian	15	HELP	tolong	Bare Ablative	Never	
+Jakarta Indonesian	15	HELP	tolong	Bare Allative	Never	
+Jakarta Indonesian	15	HELP	tolong	Bare Applicative Transitive	Marginally	
+Jakarta Indonesian	15	HELP	tolong	Bare Benefactive	Never	
+Jakarta Indonesian	15	HELP	tolong	Bare Instrumental	Never	
+Jakarta Indonesian	15	HELP	tolong	Ditransitive Alternation	Never	
+Jakarta Indonesian	15	HELP	tolong	Impersonal Passive	Regularly	
+Jakarta Indonesian	15	HELP	tolong	Intransitive alternation	Never	
+Jakarta Indonesian	15	HELP	tolong	No argument stative	Never	
+Jakarta Indonesian	15	HELP	tolong	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	15	HELP	tolong	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	15	HELP	tolong	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	15	HELP	tolong	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	15	HELP	tolong	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	15	HELP	tolong	Passive Transitive	Regularly	
+Jakarta Indonesian	15	HELP	tolong	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	15	HELP	tolong	Thematic Adversative Passive	Never	
+Jakarta Indonesian	15	HELP	tolong	Transitive Alternation	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Accidental Passive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Adversative Passive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Applicative Ablative	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Applicative Allative	Regularly	
+Jakarta Indonesian	16	FOLLOW	ikut	Applicative Benefactive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Applicative Instrumental	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Bare Ablative	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Bare Allative	Regularly	
+Jakarta Indonesian	16	FOLLOW	ikut	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	16	FOLLOW	ikut	Bare Benefactive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Bare Instrumental	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	16	FOLLOW	ikut	Impersonal Passive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Intransitive alternation	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	No argument stative	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	16	FOLLOW	ikut	Passive Transitive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Thematic Adversative Passive	Never	
+Jakarta Indonesian	16	FOLLOW	ikut	Transitive Alternation	Never	
+Jakarta Indonesian	17	MEET	ketemu	Accidental Passive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Adversative Passive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Applicative Ablative	Never	
+Jakarta Indonesian	17	MEET	ketemu	Applicative Allative	Never	
+Jakarta Indonesian	17	MEET	ketemu	Applicative Benefactive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Applicative Instrumental	Never	
+Jakarta Indonesian	17	MEET	ketemu	Bare Ablative	Never	
+Jakarta Indonesian	17	MEET	ketemu	Bare Allative	Never	
+Jakarta Indonesian	17	MEET	ketemu	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	17	MEET	ketemu	Bare Benefactive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Bare Instrumental	Never	
+Jakarta Indonesian	17	MEET	ketemu	Ditransitive Alternation	Never	
+Jakarta Indonesian	17	MEET	ketemu	Impersonal Passive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Intransitive alternation	Regularly	
+Jakarta Indonesian	17	MEET	ketemu	No argument stative	Never	
+Jakarta Indonesian	17	MEET	ketemu	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	17	MEET	ketemu	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	17	MEET	ketemu	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	17	MEET	ketemu	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Passive Applicative Transitive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Passive Transitive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	17	MEET	ketemu	Thematic Adversative Passive	Never	
+Jakarta Indonesian	17	MEET	ketemu	Transitive Alternation	Never	
+Jakarta Indonesian	17	MEET	temu	Accidental Passive	Regularly	
+Jakarta Indonesian	17	MEET	temu	Adversative Passive	Regularly	
+Jakarta Indonesian	17	MEET	temu	Applicative Ablative	Never	
+Jakarta Indonesian	17	MEET	temu	Applicative Allative	Never	
+Jakarta Indonesian	17	MEET	temu	Applicative Benefactive	Never	
+Jakarta Indonesian	17	MEET	temu	Applicative Instrumental	Never	
+Jakarta Indonesian	17	MEET	temu	Bare Ablative	Never	
+Jakarta Indonesian	17	MEET	temu	Bare Allative	Never	
+Jakarta Indonesian	17	MEET	temu	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	17	MEET	temu	Bare Benefactive	Never	
+Jakarta Indonesian	17	MEET	temu	Bare Instrumental	Never	
+Jakarta Indonesian	17	MEET	temu	Ditransitive Alternation	Never	
+Jakarta Indonesian	17	MEET	temu	Impersonal Passive	Never	
+Jakarta Indonesian	17	MEET	temu	Intransitive alternation	Never	
+Jakarta Indonesian	17	MEET	temu	No argument stative	Never	
+Jakarta Indonesian	17	MEET	temu	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	17	MEET	temu	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	17	MEET	temu	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	17	MEET	temu	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	17	MEET	temu	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	17	MEET	temu	Passive Transitive	Never	
+Jakarta Indonesian	17	MEET	temu	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	17	MEET	temu	Thematic Adversative Passive	Never	
+Jakarta Indonesian	17	MEET	temu	Transitive Alternation	Never	
+Jakarta Indonesian	18	TALK	bicara	Accidental Passive	Never	
+Jakarta Indonesian	18	TALK	bicara	Adversative Passive	Never	
+Jakarta Indonesian	18	TALK	bicara	Applicative Ablative	Never	
+Jakarta Indonesian	18	TALK	bicara	Applicative Allative	Regularly	
+Jakarta Indonesian	18	TALK	bicara	Applicative Benefactive	Never	
+Jakarta Indonesian	18	TALK	bicara	Applicative Instrumental	Never	
+Jakarta Indonesian	18	TALK	bicara	Bare Ablative	Never	
+Jakarta Indonesian	18	TALK	bicara	Bare Allative	Never	
+Jakarta Indonesian	18	TALK	bicara	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	18	TALK	bicara	Bare Benefactive	Never	
+Jakarta Indonesian	18	TALK	bicara	Bare Instrumental	Never	
+Jakarta Indonesian	18	TALK	bicara	Ditransitive Alternation	Never	
+Jakarta Indonesian	18	TALK	bicara	Impersonal Passive	Never	
+Jakarta Indonesian	18	TALK	bicara	Intransitive alternation	Regularly	
+Jakarta Indonesian	18	TALK	bicara	No argument stative	Never	
+Jakarta Indonesian	18	TALK	bicara	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	18	TALK	bicara	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	18	TALK	bicara	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	18	TALK	bicara	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	18	TALK	bicara	Passive Applicative Transitive	Never	
+Jakarta Indonesian	18	TALK	bicara	Passive Transitive	Never	
+Jakarta Indonesian	18	TALK	bicara	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	18	TALK	bicara	Thematic Adversative Passive	Never	
+Jakarta Indonesian	18	TALK	bicara	Transitive Alternation	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Accidental Passive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Adversative Passive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Applicative Ablative	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Applicative Allative	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Applicative Benefactive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Applicative Instrumental	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Bare Ablative	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Bare Allative	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Bare Benefactive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Bare Instrumental	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Impersonal Passive	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Intransitive alternation	Never	
+Jakarta Indonesian	19	ASK FOR	minta	No argument stative	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	19	ASK FOR	minta	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Passive Applicative Transitive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Passive Transitive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Thematic Adversative Passive	Never	
+Jakarta Indonesian	19	ASK FOR	minta	Transitive Alternation	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Accidental Passive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Adversative Passive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Applicative Ablative	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Applicative Allative	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Applicative Benefactive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Applicative Instrumental	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Bare Ablative	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Bare Allative	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	20	SHOUT AT	teriak	Bare Benefactive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Bare Instrumental	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Ditransitive Alternation	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Impersonal Passive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Intransitive alternation	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	No argument stative	No data	
+Jakarta Indonesian	20	SHOUT AT	teriak	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	20	SHOUT AT	teriak	Passive Transitive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Thematic Adversative Passive	Never	
+Jakarta Indonesian	20	SHOUT AT	teriak	Transitive Alternation	Never	
+Jakarta Indonesian	21	TELL	cerita	Accidental Passive	Never	
+Jakarta Indonesian	21	TELL	cerita	Adversative Passive	Never	
+Jakarta Indonesian	21	TELL	cerita	Applicative Ablative	Never	
+Jakarta Indonesian	21	TELL	cerita	Applicative Allative	Never	
+Jakarta Indonesian	21	TELL	cerita	Applicative Benefactive	Never	
+Jakarta Indonesian	21	TELL	cerita	Applicative Instrumental	Never	
+Jakarta Indonesian	21	TELL	cerita	Bare Ablative	Never	
+Jakarta Indonesian	21	TELL	cerita	Bare Allative	Never	
+Jakarta Indonesian	21	TELL	cerita	Bare Applicative Transitive	Never	
+Jakarta Indonesian	21	TELL	cerita	Bare Benefactive	Never	
+Jakarta Indonesian	21	TELL	cerita	Bare Instrumental	Never	
+Jakarta Indonesian	21	TELL	cerita	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	21	TELL	cerita	Impersonal Passive	Never	
+Jakarta Indonesian	21	TELL	cerita	Intransitive alternation	Regularly	
+Jakarta Indonesian	21	TELL	cerita	No argument stative	Never	
+Jakarta Indonesian	21	TELL	cerita	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	21	TELL	cerita	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	21	TELL	cerita	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	21	TELL	cerita	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	21	TELL	cerita	Passive Applicative Transitive	Never	
+Jakarta Indonesian	21	TELL	cerita	Passive Transitive	Never	
+Jakarta Indonesian	21	TELL	cerita	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	21	TELL	cerita	Thematic Adversative Passive	Never	
+Jakarta Indonesian	21	TELL	cerita	Transitive Alternation	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Accidental Passive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Adversative Passive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Applicative Ablative	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Applicative Allative	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Applicative Benefactive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Applicative Instrumental	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Bare Ablative	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Bare Allative	Regularly	
+Jakarta Indonesian	21	TELL	kasitahu	Bare Applicative Transitive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Bare Benefactive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Bare Instrumental	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Ditransitive Alternation	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Impersonal Passive	Regularly	
+Jakarta Indonesian	21	TELL	kasitahu	Intransitive alternation	Never	
+Jakarta Indonesian	21	TELL	kasitahu	No argument stative	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	21	TELL	kasitahu	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	21	TELL	kasitahu	Passive Applicative Transitive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Passive Transitive	Regularly	
+Jakarta Indonesian	21	TELL	kasitahu	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Thematic Adversative Passive	Never	
+Jakarta Indonesian	21	TELL	kasitahu	Transitive Alternation	Never	
+Jakarta Indonesian	22	SAY	bilang	Accidental Passive	Never	
+Jakarta Indonesian	22	SAY	bilang	Adversative Passive	Never	
+Jakarta Indonesian	22	SAY	bilang	Applicative Ablative	Never	
+Jakarta Indonesian	22	SAY	bilang	Applicative Allative	Never	
+Jakarta Indonesian	22	SAY	bilang	Applicative Benefactive	Never	
+Jakarta Indonesian	22	SAY	bilang	Applicative Instrumental	Never	
+Jakarta Indonesian	22	SAY	bilang	Bare Ablative	Never	
+Jakarta Indonesian	22	SAY	bilang	Bare Allative	Never	
+Jakarta Indonesian	22	SAY	bilang	Bare Applicative Transitive	Never	
+Jakarta Indonesian	22	SAY	bilang	Bare Benefactive	Never	
+Jakarta Indonesian	22	SAY	bilang	Bare Instrumental	Never	
+Jakarta Indonesian	22	SAY	bilang	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	22	SAY	bilang	Impersonal Passive	Never	
+Jakarta Indonesian	22	SAY	bilang	Intransitive alternation	Never	
+Jakarta Indonesian	22	SAY	bilang	No argument stative	Never	
+Jakarta Indonesian	22	SAY	bilang	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	22	SAY	bilang	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	22	SAY	bilang	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	22	SAY	bilang	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	22	SAY	bilang	Passive Applicative Transitive	Never	
+Jakarta Indonesian	22	SAY	bilang	Passive Transitive	Never	
+Jakarta Indonesian	22	SAY	bilang	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	22	SAY	bilang	Thematic Adversative Passive	Never	
+Jakarta Indonesian	22	SAY	bilang	Transitive Alternation	Never	
+Jakarta Indonesian	22	SAY	omong	Accidental Passive	Never	
+Jakarta Indonesian	22	SAY	omong	Adversative Passive	Never	
+Jakarta Indonesian	22	SAY	omong	Applicative Ablative	Never	
+Jakarta Indonesian	22	SAY	omong	Applicative Allative	Never	
+Jakarta Indonesian	22	SAY	omong	Applicative Benefactive	Never	
+Jakarta Indonesian	22	SAY	omong	Applicative Instrumental	Never	
+Jakarta Indonesian	22	SAY	omong	Bare Ablative	Never	
+Jakarta Indonesian	22	SAY	omong	Bare Allative	Never	
+Jakarta Indonesian	22	SAY	omong	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	22	SAY	omong	Bare Benefactive	Never	
+Jakarta Indonesian	22	SAY	omong	Bare Instrumental	Never	
+Jakarta Indonesian	22	SAY	omong	Ditransitive Alternation	Never	
+Jakarta Indonesian	22	SAY	omong	Impersonal Passive	Never	
+Jakarta Indonesian	22	SAY	omong	Intransitive alternation	Never	
+Jakarta Indonesian	22	SAY	omong	No argument stative	Never	
+Jakarta Indonesian	22	SAY	omong	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	22	SAY	omong	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	22	SAY	omong	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	22	SAY	omong	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	22	SAY	omong	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	22	SAY	omong	Passive Transitive	Never	
+Jakarta Indonesian	22	SAY	omong	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	22	SAY	omong	Thematic Adversative Passive	Never	
+Jakarta Indonesian	22	SAY	omong	Transitive Alternation	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Accidental Passive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Adversative Passive	Never	
+Jakarta Indonesian	24	BUILD	bangun	Applicative Ablative	Never	
+Jakarta Indonesian	24	BUILD	bangun	Applicative Allative	Never	
+Jakarta Indonesian	24	BUILD	bangun	Applicative Benefactive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Applicative Instrumental	Never	
+Jakarta Indonesian	24	BUILD	bangun	Bare Ablative	Never	
+Jakarta Indonesian	24	BUILD	bangun	Bare Allative	Never	
+Jakarta Indonesian	24	BUILD	bangun	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Bare Benefactive	Never	
+Jakarta Indonesian	24	BUILD	bangun	Bare Instrumental	Never	
+Jakarta Indonesian	24	BUILD	bangun	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Impersonal Passive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Intransitive alternation	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	No argument stative	Never	
+Jakarta Indonesian	24	BUILD	bangun	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	24	BUILD	bangun	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	24	BUILD	bangun	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Passive Transitive	Regularly	
+Jakarta Indonesian	24	BUILD	bangun	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	24	BUILD	bangun	Thematic Adversative Passive	Never	
+Jakarta Indonesian	24	BUILD	bangun	Transitive Alternation	Never	
+Jakarta Indonesian	25	BREAK	patahin	Accidental Passive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Adversative Passive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Applicative Ablative	Never	
+Jakarta Indonesian	25	BREAK	patahin	Applicative Allative	Never	
+Jakarta Indonesian	25	BREAK	patahin	Applicative Benefactive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Applicative Instrumental	Never	
+Jakarta Indonesian	25	BREAK	patahin	Bare Ablative	Never	
+Jakarta Indonesian	25	BREAK	patahin	Bare Allative	Never	
+Jakarta Indonesian	25	BREAK	patahin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Bare Benefactive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Bare Instrumental	Never	
+Jakarta Indonesian	25	BREAK	patahin	Ditransitive Alternation	Never	
+Jakarta Indonesian	25	BREAK	patahin	Impersonal Passive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Intransitive alternation	Never	
+Jakarta Indonesian	25	BREAK	patahin	No argument stative	Never	
+Jakarta Indonesian	25	BREAK	patahin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	25	BREAK	patahin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	25	BREAK	patahin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	25	BREAK	patahin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Passive Transitive	Regularly	
+Jakarta Indonesian	25	BREAK	patahin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	25	BREAK	patahin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	25	BREAK	patahin	Transitive Alternation	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Accidental Passive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Adversative Passive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Applicative Ablative	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Applicative Allative	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Applicative Benefactive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Applicative Instrumental	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Bare Ablative	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Bare Allative	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Bare Benefactive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Bare Instrumental	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Ditransitive Alternation	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Impersonal Passive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Intransitive alternation	Regularly	
+Jakarta Indonesian	25	BREAK	pecahin	No argument stative	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Passive Transitive	Regularly	
+Jakarta Indonesian	25	BREAK	pecahin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	25	BREAK	pecahin	Transitive Alternation	Never	
+Jakarta Indonesian	26	KILL	bunuh	Accidental Passive	Regularly	
+Jakarta Indonesian	26	KILL	bunuh	Adversative Passive	Never	
+Jakarta Indonesian	26	KILL	bunuh	Applicative Ablative	Never	
+Jakarta Indonesian	26	KILL	bunuh	Applicative Allative	Never	
+Jakarta Indonesian	26	KILL	bunuh	Applicative Benefactive	Never	
+Jakarta Indonesian	26	KILL	bunuh	Applicative Instrumental	Never	
+Jakarta Indonesian	26	KILL	bunuh	Bare Ablative	Never	
+Jakarta Indonesian	26	KILL	bunuh	Bare Allative	Never	
+Jakarta Indonesian	26	KILL	bunuh	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	26	KILL	bunuh	Bare Benefactive	Never	
+Jakarta Indonesian	26	KILL	bunuh	Bare Instrumental	Never	
+Jakarta Indonesian	26	KILL	bunuh	Ditransitive Alternation	Never	
+Jakarta Indonesian	26	KILL	bunuh	Impersonal Passive	Regularly	
+Jakarta Indonesian	26	KILL	bunuh	Intransitive alternation	Never	
+Jakarta Indonesian	26	KILL	bunuh	No argument stative	Never	
+Jakarta Indonesian	26	KILL	bunuh	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	26	KILL	bunuh	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	26	KILL	bunuh	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	26	KILL	bunuh	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	26	KILL	bunuh	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	26	KILL	bunuh	Passive Transitive	Regularly	
+Jakarta Indonesian	26	KILL	bunuh	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	26	KILL	bunuh	Thematic Adversative Passive	Never	
+Jakarta Indonesian	26	KILL	bunuh	Transitive Alternation	Never	
+Jakarta Indonesian	26	KILL	matiin	Accidental Passive	Never	
+Jakarta Indonesian	26	KILL	matiin	Adversative Passive	Never	
+Jakarta Indonesian	26	KILL	matiin	Applicative Ablative	Never	
+Jakarta Indonesian	26	KILL	matiin	Applicative Allative	Never	
+Jakarta Indonesian	26	KILL	matiin	Applicative Benefactive	Never	
+Jakarta Indonesian	26	KILL	matiin	Applicative Instrumental	Never	
+Jakarta Indonesian	26	KILL	matiin	Bare Ablative	Never	
+Jakarta Indonesian	26	KILL	matiin	Bare Allative	Never	
+Jakarta Indonesian	26	KILL	matiin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	26	KILL	matiin	Bare Benefactive	Never	
+Jakarta Indonesian	26	KILL	matiin	Bare Instrumental	Never	
+Jakarta Indonesian	26	KILL	matiin	Ditransitive Alternation	Never	
+Jakarta Indonesian	26	KILL	matiin	Impersonal Passive	Never	
+Jakarta Indonesian	26	KILL	matiin	Intransitive alternation	Never	
+Jakarta Indonesian	26	KILL	matiin	No argument stative	Never	
+Jakarta Indonesian	26	KILL	matiin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	26	KILL	matiin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	26	KILL	matiin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	26	KILL	matiin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	26	KILL	matiin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	26	KILL	matiin	Passive Transitive	Regularly	
+Jakarta Indonesian	26	KILL	matiin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	26	KILL	matiin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	26	KILL	matiin	Transitive Alternation	Never	
+Jakarta Indonesian	27	BEAT	pukul	Accidental Passive	Regularly	
+Jakarta Indonesian	27	BEAT	pukul	Adversative Passive	Never	
+Jakarta Indonesian	27	BEAT	pukul	Applicative Ablative	Never	
+Jakarta Indonesian	27	BEAT	pukul	Applicative Allative	Never	
+Jakarta Indonesian	27	BEAT	pukul	Applicative Benefactive	Never	
+Jakarta Indonesian	27	BEAT	pukul	Applicative Instrumental	Never	
+Jakarta Indonesian	27	BEAT	pukul	Bare Ablative	Never	
+Jakarta Indonesian	27	BEAT	pukul	Bare Allative	Never	
+Jakarta Indonesian	27	BEAT	pukul	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	27	BEAT	pukul	Bare Benefactive	Never	
+Jakarta Indonesian	27	BEAT	pukul	Bare Instrumental	Never	
+Jakarta Indonesian	27	BEAT	pukul	Ditransitive Alternation	Never	
+Jakarta Indonesian	27	BEAT	pukul	Impersonal Passive	Regularly	
+Jakarta Indonesian	27	BEAT	pukul	Intransitive alternation	Never	
+Jakarta Indonesian	27	BEAT	pukul	No argument stative	Never	
+Jakarta Indonesian	27	BEAT	pukul	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	27	BEAT	pukul	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	27	BEAT	pukul	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	27	BEAT	pukul	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	27	BEAT	pukul	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	27	BEAT	pukul	Passive Transitive	Regularly	
+Jakarta Indonesian	27	BEAT	pukul	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	27	BEAT	pukul	Thematic Adversative Passive	Never	
+Jakarta Indonesian	27	BEAT	pukul	Transitive Alternation	Never	
+Jakarta Indonesian	28	HIT	gebuk	Accidental Passive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Adversative Passive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Applicative Ablative	Never	
+Jakarta Indonesian	28	HIT	gebuk	Applicative Allative	Never	
+Jakarta Indonesian	28	HIT	gebuk	Applicative Benefactive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Applicative Instrumental	Never	
+Jakarta Indonesian	28	HIT	gebuk	Bare Ablative	Never	
+Jakarta Indonesian	28	HIT	gebuk	Bare Allative	Never	
+Jakarta Indonesian	28	HIT	gebuk	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	28	HIT	gebuk	Bare Benefactive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Bare Instrumental	Never	
+Jakarta Indonesian	28	HIT	gebuk	Ditransitive Alternation	Never	
+Jakarta Indonesian	28	HIT	gebuk	Impersonal Passive	Regularly	
+Jakarta Indonesian	28	HIT	gebuk	Intransitive alternation	Never	
+Jakarta Indonesian	28	HIT	gebuk	No argument stative	Never	
+Jakarta Indonesian	28	HIT	gebuk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	28	HIT	gebuk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	28	HIT	gebuk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	28	HIT	gebuk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	28	HIT	gebuk	Passive Transitive	Regularly	
+Jakarta Indonesian	28	HIT	gebuk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	28	HIT	gebuk	Thematic Adversative Passive	Never	
+Jakarta Indonesian	28	HIT	gebuk	Transitive Alternation	Never	
+Jakarta Indonesian	28	HIT	pukul	Accidental Passive	Regularly	
+Jakarta Indonesian	28	HIT	pukul	Adversative Passive	Never	
+Jakarta Indonesian	28	HIT	pukul	Applicative Ablative	Never	
+Jakarta Indonesian	28	HIT	pukul	Applicative Allative	Never	
+Jakarta Indonesian	28	HIT	pukul	Applicative Benefactive	Never	
+Jakarta Indonesian	28	HIT	pukul	Applicative Instrumental	Never	
+Jakarta Indonesian	28	HIT	pukul	Bare Ablative	Never	
+Jakarta Indonesian	28	HIT	pukul	Bare Allative	Never	
+Jakarta Indonesian	28	HIT	pukul	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	28	HIT	pukul	Bare Benefactive	Never	
+Jakarta Indonesian	28	HIT	pukul	Bare Instrumental	Never	
+Jakarta Indonesian	28	HIT	pukul	Ditransitive Alternation	Never	
+Jakarta Indonesian	28	HIT	pukul	Impersonal Passive	Regularly	
+Jakarta Indonesian	28	HIT	pukul	Intransitive alternation	Never	
+Jakarta Indonesian	28	HIT	pukul	No argument stative	Never	
+Jakarta Indonesian	28	HIT	pukul	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	28	HIT	pukul	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	28	HIT	pukul	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	28	HIT	pukul	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	28	HIT	pukul	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	28	HIT	pukul	Passive Transitive	Regularly	
+Jakarta Indonesian	28	HIT	pukul	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	28	HIT	pukul	Thematic Adversative Passive	Never	
+Jakarta Indonesian	28	HIT	pukul	Transitive Alternation	Never	
+Jakarta Indonesian	29	TOUCH	colok	Accidental Passive	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Applicative Ablative	Never	
+Jakarta Indonesian	29	TOUCH	colok	Applicative Allative	Never	
+Jakarta Indonesian	29	TOUCH	colok	Applicative Benefactive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Applicative Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	colok	Bare Ablative	Never	
+Jakarta Indonesian	29	TOUCH	colok	Bare Allative	Never	
+Jakarta Indonesian	29	TOUCH	colok	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	Bare Benefactive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Bare Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	colok	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	Impersonal Passive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Intransitive alternation	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	No argument stative	Never	
+Jakarta Indonesian	29	TOUCH	colok	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	colok	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	29	TOUCH	colok	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	29	TOUCH	colok	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	Passive Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	colok	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	colok	Thematic Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	colok	Transitive Alternation	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Accidental Passive	Regularly	
+Jakarta Indonesian	29	TOUCH	pegang	Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Applicative Ablative	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Applicative Allative	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Applicative Benefactive	Regularly	
+Jakarta Indonesian	29	TOUCH	pegang	Applicative Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Bare Ablative	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Bare Allative	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	pegang	Bare Benefactive	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Bare Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Ditransitive Alternation	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Impersonal Passive	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Intransitive alternation	Never	
+Jakarta Indonesian	29	TOUCH	pegang	No argument stative	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	pegang	Passive Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	pegang	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Thematic Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	pegang	Transitive Alternation	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Accidental Passive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Applicative Ablative	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Applicative Allative	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Applicative Benefactive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Applicative Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Bare Ablative	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Bare Allative	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Bare Applicative Transitive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Bare Benefactive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Bare Instrumental	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Ditransitive Alternation	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Impersonal Passive	Regularly	
+Jakarta Indonesian	29	TOUCH	sentuh	Intransitive alternation	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	No argument stative	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Passive Applicative Transitive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Passive Transitive	Regularly	
+Jakarta Indonesian	29	TOUCH	sentuh	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Thematic Adversative Passive	Never	
+Jakarta Indonesian	29	TOUCH	sentuh	Transitive Alternation	Never	
+Jakarta Indonesian	30	CUT	potong	Accidental Passive	Regularly	
+Jakarta Indonesian	30	CUT	potong	Adversative Passive	Never	
+Jakarta Indonesian	30	CUT	potong	Applicative Ablative	Never	
+Jakarta Indonesian	30	CUT	potong	Applicative Allative	Never	
+Jakarta Indonesian	30	CUT	potong	Applicative Benefactive	Regularly	
+Jakarta Indonesian	30	CUT	potong	Applicative Instrumental	Never	
+Jakarta Indonesian	30	CUT	potong	Bare Ablative	Never	
+Jakarta Indonesian	30	CUT	potong	Bare Allative	Never	
+Jakarta Indonesian	30	CUT	potong	Bare Applicative Transitive	Never	
+Jakarta Indonesian	30	CUT	potong	Bare Benefactive	Never	
+Jakarta Indonesian	30	CUT	potong	Bare Instrumental	Never	
+Jakarta Indonesian	30	CUT	potong	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	30	CUT	potong	Impersonal Passive	Regularly	
+Jakarta Indonesian	30	CUT	potong	Intransitive alternation	Never	
+Jakarta Indonesian	30	CUT	potong	No argument stative	Never	
+Jakarta Indonesian	30	CUT	potong	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	30	CUT	potong	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	30	CUT	potong	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	30	CUT	potong	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	30	CUT	potong	Passive Applicative Transitive	Never	
+Jakarta Indonesian	30	CUT	potong	Passive Transitive	Regularly	
+Jakarta Indonesian	30	CUT	potong	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	30	CUT	potong	Thematic Adversative Passive	Never	
+Jakarta Indonesian	30	CUT	potong	Transitive Alternation	Never	
+Jakarta Indonesian	31	TAKE	ambil	Accidental Passive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Adversative Passive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Applicative Ablative	Never	
+Jakarta Indonesian	31	TAKE	ambil	Applicative Allative	Never	
+Jakarta Indonesian	31	TAKE	ambil	Applicative Benefactive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Applicative Instrumental	Never	
+Jakarta Indonesian	31	TAKE	ambil	Bare Ablative	Never	
+Jakarta Indonesian	31	TAKE	ambil	Bare Allative	Never	
+Jakarta Indonesian	31	TAKE	ambil	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Bare Benefactive	Never	
+Jakarta Indonesian	31	TAKE	ambil	Bare Instrumental	Never	
+Jakarta Indonesian	31	TAKE	ambil	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Impersonal Passive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Intransitive alternation	Never	
+Jakarta Indonesian	31	TAKE	ambil	No argument stative	Never	
+Jakarta Indonesian	31	TAKE	ambil	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	31	TAKE	ambil	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	31	TAKE	ambil	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Passive Transitive	Regularly	
+Jakarta Indonesian	31	TAKE	ambil	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	31	TAKE	ambil	Thematic Adversative Passive	Never	
+Jakarta Indonesian	31	TAKE	ambil	Transitive Alternation	Never	
+Jakarta Indonesian	32	TEAR	sobek	Accidental Passive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Adversative Passive	Never	
+Jakarta Indonesian	32	TEAR	sobek	Applicative Ablative	Never	
+Jakarta Indonesian	32	TEAR	sobek	Applicative Allative	Never	
+Jakarta Indonesian	32	TEAR	sobek	Applicative Benefactive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Applicative Instrumental	Never	
+Jakarta Indonesian	32	TEAR	sobek	Bare Ablative	Never	
+Jakarta Indonesian	32	TEAR	sobek	Bare Allative	Never	
+Jakarta Indonesian	32	TEAR	sobek	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Bare Benefactive	Never	
+Jakarta Indonesian	32	TEAR	sobek	Bare Instrumental	Never	
+Jakarta Indonesian	32	TEAR	sobek	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Impersonal Passive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Intransitive alternation	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	No argument stative	Never	
+Jakarta Indonesian	32	TEAR	sobek	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	32	TEAR	sobek	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	32	TEAR	sobek	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	32	TEAR	sobek	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Passive Transitive	Regularly	
+Jakarta Indonesian	32	TEAR	sobek	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	32	TEAR	sobek	Thematic Adversative Passive	Never	
+Jakarta Indonesian	32	TEAR	sobek	Transitive Alternation	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Accidental Passive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Adversative Passive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Applicative Ablative	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Applicative Allative	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Applicative Benefactive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Applicative Instrumental	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Bare Ablative	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Bare Allative	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Bare Benefactive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Bare Instrumental	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Ditransitive Alternation	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Impersonal Passive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Intransitive alternation	Never	
+Jakarta Indonesian	33	PEEL	kulitin	No argument stative	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Passive Transitive	Regularly	
+Jakarta Indonesian	33	PEEL	kulitin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	33	PEEL	kulitin	Transitive Alternation	Never	
+Jakarta Indonesian	33	PEEL	kupas	Accidental Passive	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Adversative Passive	Never	
+Jakarta Indonesian	33	PEEL	kupas	Applicative Ablative	Never	
+Jakarta Indonesian	33	PEEL	kupas	Applicative Allative	Never	
+Jakarta Indonesian	33	PEEL	kupas	Applicative Benefactive	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Applicative Instrumental	Never	
+Jakarta Indonesian	33	PEEL	kupas	Bare Ablative	Never	
+Jakarta Indonesian	33	PEEL	kupas	Bare Allative	Never	
+Jakarta Indonesian	33	PEEL	kupas	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Bare Benefactive	Never	
+Jakarta Indonesian	33	PEEL	kupas	Bare Instrumental	Never	
+Jakarta Indonesian	33	PEEL	kupas	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Impersonal Passive	Never	
+Jakarta Indonesian	33	PEEL	kupas	Intransitive alternation	Never	
+Jakarta Indonesian	33	PEEL	kupas	No argument stative	Never	
+Jakarta Indonesian	33	PEEL	kupas	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	33	PEEL	kupas	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	33	PEEL	kupas	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Passive Transitive	Regularly	
+Jakarta Indonesian	33	PEEL	kupas	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	33	PEEL	kupas	Thematic Adversative Passive	Never	
+Jakarta Indonesian	33	PEEL	kupas	Transitive Alternation	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Accidental Passive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Adversative Passive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Applicative Ablative	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Applicative Allative	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Applicative Benefactive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Applicative Instrumental	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Bare Ablative	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Bare Allative	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Bare Benefactive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Bare Instrumental	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Ditransitive Alternation	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Impersonal Passive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Intransitive alternation	Regularly	
+Jakarta Indonesian	34	HIDE	umpetin	No argument stative	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	34	HIDE	umpetin	Passive Transitive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	34	HIDE	umpetin	Transitive Alternation	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Accidental Passive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Adversative Passive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Applicative Ablative	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Applicative Allative	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Applicative Benefactive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Applicative Instrumental	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Bare Ablative	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Bare Allative	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Bare Benefactive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Bare Instrumental	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Ditransitive Alternation	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Impersonal Passive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Intransitive alternation	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	No argument stative	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	35	SHOW	tunjukin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Passive Transitive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	35	SHOW	tunjukin	Transitive Alternation	Never	
+Jakarta Indonesian	36	GIVE	kasi	Accidental Passive	Never	
+Jakarta Indonesian	36	GIVE	kasi	Adversative Passive	Never	
+Jakarta Indonesian	36	GIVE	kasi	Applicative Ablative	Never	
+Jakarta Indonesian	36	GIVE	kasi	Applicative Allative	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Applicative Benefactive	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Applicative Instrumental	Never	
+Jakarta Indonesian	36	GIVE	kasi	Bare Ablative	Never	
+Jakarta Indonesian	36	GIVE	kasi	Bare Allative	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Bare Applicative Transitive	Never	
+Jakarta Indonesian	36	GIVE	kasi	Bare Benefactive	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Bare Instrumental	Never	
+Jakarta Indonesian	36	GIVE	kasi	Ditransitive Alternation	Never	
+Jakarta Indonesian	36	GIVE	kasi	Impersonal Passive	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Intransitive alternation	Never	
+Jakarta Indonesian	36	GIVE	kasi	No argument stative	Never	
+Jakarta Indonesian	36	GIVE	kasi	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	36	GIVE	kasi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Passive Applicative Transitive	Never	
+Jakarta Indonesian	36	GIVE	kasi	Passive Transitive	Regularly	
+Jakarta Indonesian	36	GIVE	kasi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	36	GIVE	kasi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	36	GIVE	kasi	Transitive Alternation	Never	
+Jakarta Indonesian	37	SEND	kirim	Accidental Passive	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Adversative Passive	Never	
+Jakarta Indonesian	37	SEND	kirim	Applicative Ablative	Never	
+Jakarta Indonesian	37	SEND	kirim	Applicative Allative	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Applicative Benefactive	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Applicative Instrumental	Never	
+Jakarta Indonesian	37	SEND	kirim	Bare Ablative	Never	
+Jakarta Indonesian	37	SEND	kirim	Bare Allative	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Bare Applicative Transitive	Never	
+Jakarta Indonesian	37	SEND	kirim	Bare Benefactive	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Bare Instrumental	Never	
+Jakarta Indonesian	37	SEND	kirim	Ditransitive Alternation	Never	
+Jakarta Indonesian	37	SEND	kirim	Impersonal Passive	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Intransitive alternation	Never	
+Jakarta Indonesian	37	SEND	kirim	No argument stative	Never	
+Jakarta Indonesian	37	SEND	kirim	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	37	SEND	kirim	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	37	SEND	kirim	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	37	SEND	kirim	Passive Applicative Transitive	Never	
+Jakarta Indonesian	37	SEND	kirim	Passive Transitive	Marginally	
+Jakarta Indonesian	37	SEND	kirim	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	37	SEND	kirim	Thematic Adversative Passive	Never	
+Jakarta Indonesian	37	SEND	kirim	Transitive Alternation	Never	
+Jakarta Indonesian	38	CARRY	bawa	Accidental Passive	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Adversative Passive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Applicative Ablative	Never	
+Jakarta Indonesian	38	CARRY	bawa	Applicative Allative	Never	
+Jakarta Indonesian	38	CARRY	bawa	Applicative Benefactive	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Applicative Instrumental	Never	
+Jakarta Indonesian	38	CARRY	bawa	Bare Ablative	Never	
+Jakarta Indonesian	38	CARRY	bawa	Bare Allative	Never	
+Jakarta Indonesian	38	CARRY	bawa	Bare Applicative Transitive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Bare Benefactive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Bare Instrumental	Never	
+Jakarta Indonesian	38	CARRY	bawa	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Impersonal Passive	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Intransitive alternation	Never	
+Jakarta Indonesian	38	CARRY	bawa	No argument stative	Never	
+Jakarta Indonesian	38	CARRY	bawa	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	38	CARRY	bawa	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	38	CARRY	bawa	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Passive Applicative Transitive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Passive Transitive	Regularly	
+Jakarta Indonesian	38	CARRY	bawa	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	38	CARRY	bawa	Thematic Adversative Passive	Never	
+Jakarta Indonesian	38	CARRY	bawa	Transitive Alternation	Never	
+Jakarta Indonesian	39	THROW	lempar	Accidental Passive	Never	
+Jakarta Indonesian	39	THROW	lempar	Adversative Passive	Never	
+Jakarta Indonesian	39	THROW	lempar	Applicative Ablative	Never	
+Jakarta Indonesian	39	THROW	lempar	Applicative Allative	Never	
+Jakarta Indonesian	39	THROW	lempar	Applicative Benefactive	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Applicative Instrumental	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Bare Ablative	Never	
+Jakarta Indonesian	39	THROW	lempar	Bare Allative	Never	
+Jakarta Indonesian	39	THROW	lempar	Bare Applicative Transitive	Never	
+Jakarta Indonesian	39	THROW	lempar	Bare Benefactive	Never	
+Jakarta Indonesian	39	THROW	lempar	Bare Instrumental	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Impersonal Passive	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Intransitive alternation	Never	
+Jakarta Indonesian	39	THROW	lempar	No argument stative	Never	
+Jakarta Indonesian	39	THROW	lempar	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	39	THROW	lempar	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	39	THROW	lempar	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	39	THROW	lempar	Passive Applicative Transitive	Never	
+Jakarta Indonesian	39	THROW	lempar	Passive Transitive	Regularly	
+Jakarta Indonesian	39	THROW	lempar	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	39	THROW	lempar	Thematic Adversative Passive	Never	
+Jakarta Indonesian	39	THROW	lempar	Transitive Alternation	Never	
+Jakarta Indonesian	40	TIE	ikat	Accidental Passive	Never	
+Jakarta Indonesian	40	TIE	ikat	Adversative Passive	Never	
+Jakarta Indonesian	40	TIE	ikat	Applicative Ablative	Never	
+Jakarta Indonesian	40	TIE	ikat	Applicative Allative	Never	
+Jakarta Indonesian	40	TIE	ikat	Applicative Benefactive	Never	
+Jakarta Indonesian	40	TIE	ikat	Applicative Instrumental	Never	
+Jakarta Indonesian	40	TIE	ikat	Bare Ablative	Never	
+Jakarta Indonesian	40	TIE	ikat	Bare Allative	Never	
+Jakarta Indonesian	40	TIE	ikat	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	40	TIE	ikat	Bare Benefactive	Never	
+Jakarta Indonesian	40	TIE	ikat	Bare Instrumental	Never	
+Jakarta Indonesian	40	TIE	ikat	Ditransitive Alternation	Never	
+Jakarta Indonesian	40	TIE	ikat	Impersonal Passive	Regularly	
+Jakarta Indonesian	40	TIE	ikat	Intransitive alternation	Never	
+Jakarta Indonesian	40	TIE	ikat	No argument stative	Never	
+Jakarta Indonesian	40	TIE	ikat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	40	TIE	ikat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	40	TIE	ikat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	40	TIE	ikat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	40	TIE	ikat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	40	TIE	ikat	Passive Transitive	Regularly	
+Jakarta Indonesian	40	TIE	ikat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	40	TIE	ikat	Thematic Adversative Passive	Never	
+Jakarta Indonesian	40	TIE	ikat	Transitive Alternation	Never	
+Jakarta Indonesian	41	PUT	taro	Accidental Passive	Never	
+Jakarta Indonesian	41	PUT	taro	Adversative Passive	Never	
+Jakarta Indonesian	41	PUT	taro	Applicative Ablative	Never	
+Jakarta Indonesian	41	PUT	taro	Applicative Allative	Never	
+Jakarta Indonesian	41	PUT	taro	Applicative Benefactive	Regularly	
+Jakarta Indonesian	41	PUT	taro	Applicative Instrumental	Never	
+Jakarta Indonesian	41	PUT	taro	Bare Ablative	Never	
+Jakarta Indonesian	41	PUT	taro	Bare Allative	Never	
+Jakarta Indonesian	41	PUT	taro	Bare Applicative Transitive	Never	
+Jakarta Indonesian	41	PUT	taro	Bare Benefactive	Never	
+Jakarta Indonesian	41	PUT	taro	Bare Instrumental	Never	
+Jakarta Indonesian	41	PUT	taro	Ditransitive Alternation	Never	
+Jakarta Indonesian	41	PUT	taro	Impersonal Passive	Regularly	
+Jakarta Indonesian	41	PUT	taro	Intransitive alternation	Never	
+Jakarta Indonesian	41	PUT	taro	No argument stative	Never	
+Jakarta Indonesian	41	PUT	taro	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	41	PUT	taro	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	41	PUT	taro	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	41	PUT	taro	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	41	PUT	taro	Passive Applicative Transitive	Never	
+Jakarta Indonesian	41	PUT	taro	Passive Transitive	Marginally	
+Jakarta Indonesian	41	PUT	taro	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	41	PUT	taro	Thematic Adversative Passive	Never	
+Jakarta Indonesian	41	PUT	taro	Transitive Alternation	Never	
+Jakarta Indonesian	42	POUR	tuang	Accidental Passive	Never	
+Jakarta Indonesian	42	POUR	tuang	Adversative Passive	Never	
+Jakarta Indonesian	42	POUR	tuang	Applicative Ablative	Never	
+Jakarta Indonesian	42	POUR	tuang	Applicative Allative	Never	
+Jakarta Indonesian	42	POUR	tuang	Applicative Benefactive	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Applicative Instrumental	Never	
+Jakarta Indonesian	42	POUR	tuang	Bare Ablative	Never	
+Jakarta Indonesian	42	POUR	tuang	Bare Allative	Never	
+Jakarta Indonesian	42	POUR	tuang	Bare Applicative Transitive	Never	
+Jakarta Indonesian	42	POUR	tuang	Bare Benefactive	Never	
+Jakarta Indonesian	42	POUR	tuang	Bare Instrumental	Never	
+Jakarta Indonesian	42	POUR	tuang	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Impersonal Passive	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Intransitive alternation	Never	
+Jakarta Indonesian	42	POUR	tuang	No argument stative	Never	
+Jakarta Indonesian	42	POUR	tuang	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	42	POUR	tuang	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	42	POUR	tuang	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	42	POUR	tuang	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Passive Transitive	Regularly	
+Jakarta Indonesian	42	POUR	tuang	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	42	POUR	tuang	Thematic Adversative Passive	Never	
+Jakarta Indonesian	42	POUR	tuang	Transitive Alternation	Never	
+Jakarta Indonesian	43	COVER	tutup	Accidental Passive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Adversative Passive	Never	
+Jakarta Indonesian	43	COVER	tutup	Applicative Ablative	Never	
+Jakarta Indonesian	43	COVER	tutup	Applicative Allative	Never	
+Jakarta Indonesian	43	COVER	tutup	Applicative Benefactive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Applicative Instrumental	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Bare Ablative	Never	
+Jakarta Indonesian	43	COVER	tutup	Bare Allative	Never	
+Jakarta Indonesian	43	COVER	tutup	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Bare Benefactive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Bare Instrumental	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Ditransitive Alternation	Never	
+Jakarta Indonesian	43	COVER	tutup	Impersonal Passive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Intransitive alternation	Regularly	
+Jakarta Indonesian	43	COVER	tutup	No argument stative	Never	
+Jakarta Indonesian	43	COVER	tutup	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	43	COVER	tutup	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	43	COVER	tutup	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	43	COVER	tutup	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	43	COVER	tutup	Passive Applicative Transitive	Never	
+Jakarta Indonesian	43	COVER	tutup	Passive Transitive	Regularly	
+Jakarta Indonesian	43	COVER	tutup	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	43	COVER	tutup	Thematic Adversative Passive	Never	
+Jakarta Indonesian	43	COVER	tutup	Transitive Alternation	Never	
+Jakarta Indonesian	44	FILL	isi	Accidental Passive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Adversative Passive	Never	
+Jakarta Indonesian	44	FILL	isi	Applicative Ablative	Never	
+Jakarta Indonesian	44	FILL	isi	Applicative Allative	Never	
+Jakarta Indonesian	44	FILL	isi	Applicative Benefactive	Never	
+Jakarta Indonesian	44	FILL	isi	Applicative Instrumental	Never	
+Jakarta Indonesian	44	FILL	isi	Bare Ablative	Never	
+Jakarta Indonesian	44	FILL	isi	Bare Allative	Never	
+Jakarta Indonesian	44	FILL	isi	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Bare Benefactive	Never	
+Jakarta Indonesian	44	FILL	isi	Bare Instrumental	Never	
+Jakarta Indonesian	44	FILL	isi	Ditransitive Alternation	Never	
+Jakarta Indonesian	44	FILL	isi	Impersonal Passive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Intransitive alternation	Never	
+Jakarta Indonesian	44	FILL	isi	No argument stative	Never	
+Jakarta Indonesian	44	FILL	isi	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	44	FILL	isi	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	44	FILL	isi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	44	FILL	isi	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Passive Transitive	Regularly	
+Jakarta Indonesian	44	FILL	isi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	44	FILL	isi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	44	FILL	isi	Transitive Alternation	Never	
+Jakarta Indonesian	44	FILL	penuhin	Accidental Passive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Adversative Passive	Regularly	
+Jakarta Indonesian	44	FILL	penuhin	Applicative Ablative	Never	
+Jakarta Indonesian	44	FILL	penuhin	Applicative Allative	Never	
+Jakarta Indonesian	44	FILL	penuhin	Applicative Benefactive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Applicative Instrumental	Never	
+Jakarta Indonesian	44	FILL	penuhin	Bare Ablative	Never	
+Jakarta Indonesian	44	FILL	penuhin	Bare Allative	Regularly	
+Jakarta Indonesian	44	FILL	penuhin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Bare Benefactive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Bare Instrumental	Never	
+Jakarta Indonesian	44	FILL	penuhin	Ditransitive Alternation	Never	
+Jakarta Indonesian	44	FILL	penuhin	Impersonal Passive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Intransitive alternation	Never	
+Jakarta Indonesian	44	FILL	penuhin	No argument stative	Never	
+Jakarta Indonesian	44	FILL	penuhin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	44	FILL	penuhin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	44	FILL	penuhin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	44	FILL	penuhin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Passive Transitive	Regularly	
+Jakarta Indonesian	44	FILL	penuhin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	44	FILL	penuhin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	44	FILL	penuhin	Transitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	isi	Accidental Passive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Adversative Passive	Never	
+Jakarta Indonesian	45	LOAD	isi	Applicative Ablative	Never	
+Jakarta Indonesian	45	LOAD	isi	Applicative Allative	Never	
+Jakarta Indonesian	45	LOAD	isi	Applicative Benefactive	Never	
+Jakarta Indonesian	45	LOAD	isi	Applicative Instrumental	Never	
+Jakarta Indonesian	45	LOAD	isi	Bare Ablative	Never	
+Jakarta Indonesian	45	LOAD	isi	Bare Allative	Never	
+Jakarta Indonesian	45	LOAD	isi	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Bare Benefactive	Never	
+Jakarta Indonesian	45	LOAD	isi	Bare Instrumental	Never	
+Jakarta Indonesian	45	LOAD	isi	Ditransitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	isi	Impersonal Passive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Intransitive alternation	Never	
+Jakarta Indonesian	45	LOAD	isi	No argument stative	Never	
+Jakarta Indonesian	45	LOAD	isi	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Passive Transitive	Regularly	
+Jakarta Indonesian	45	LOAD	isi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	45	LOAD	isi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	45	LOAD	isi	Transitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	masuk	Accidental Passive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Adversative Passive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Applicative Ablative	Never	
+Jakarta Indonesian	45	LOAD	masuk	Applicative Allative	Never	
+Jakarta Indonesian	45	LOAD	masuk	Applicative Benefactive	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	Applicative Instrumental	Never	
+Jakarta Indonesian	45	LOAD	masuk	Bare Ablative	Never	
+Jakarta Indonesian	45	LOAD	masuk	Bare Allative	Never	
+Jakarta Indonesian	45	LOAD	masuk	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	Bare Benefactive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Bare Instrumental	Never	
+Jakarta Indonesian	45	LOAD	masuk	Ditransitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	masuk	Impersonal Passive	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	Intransitive alternation	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	No argument stative	Never	
+Jakarta Indonesian	45	LOAD	masuk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	45	LOAD	masuk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	45	LOAD	masuk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	45	LOAD	masuk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Passive Applicative Transitive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Passive Transitive	Never	
+Jakarta Indonesian	45	LOAD	masuk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	45	LOAD	masuk	Transitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	taro	Accidental Passive	Never	
+Jakarta Indonesian	45	LOAD	taro	Adversative Passive	Never	
+Jakarta Indonesian	45	LOAD	taro	Applicative Ablative	Never	
+Jakarta Indonesian	45	LOAD	taro	Applicative Allative	Never	
+Jakarta Indonesian	45	LOAD	taro	Applicative Benefactive	Regularly	
+Jakarta Indonesian	45	LOAD	taro	Applicative Instrumental	Never	
+Jakarta Indonesian	45	LOAD	taro	Bare Ablative	Never	
+Jakarta Indonesian	45	LOAD	taro	Bare Allative	Never	
+Jakarta Indonesian	45	LOAD	taro	Bare Applicative Transitive	Never	
+Jakarta Indonesian	45	LOAD	taro	Bare Benefactive	Never	
+Jakarta Indonesian	45	LOAD	taro	Bare Instrumental	Never	
+Jakarta Indonesian	45	LOAD	taro	Ditransitive Alternation	Never	
+Jakarta Indonesian	45	LOAD	taro	Impersonal Passive	Regularly	
+Jakarta Indonesian	45	LOAD	taro	Intransitive alternation	Never	
+Jakarta Indonesian	45	LOAD	taro	No argument stative	Never	
+Jakarta Indonesian	45	LOAD	taro	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	45	LOAD	taro	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	45	LOAD	taro	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	45	LOAD	taro	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	45	LOAD	taro	Passive Applicative Transitive	Never	
+Jakarta Indonesian	45	LOAD	taro	Passive Transitive	Marginally	
+Jakarta Indonesian	45	LOAD	taro	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	45	LOAD	taro	Thematic Adversative Passive	Never	
+Jakarta Indonesian	45	LOAD	taro	Transitive Alternation	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Accidental Passive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Adversative Passive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Applicative Ablative	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Applicative Allative	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Applicative Benefactive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Applicative Instrumental	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Bare Ablative	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Bare Allative	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Bare Benefactive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Bare Instrumental	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Ditransitive Alternation	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Impersonal Passive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Intransitive alternation	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	No argument stative	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Passive Transitive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Thematic Adversative Passive	Never	
+Jakarta Indonesian	46	BLINK	ng(k)edip	Transitive Alternation	Never	
+Jakarta Indonesian	47	COUGH	batuk	Accidental Passive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Adversative Passive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Applicative Ablative	Never	
+Jakarta Indonesian	47	COUGH	batuk	Applicative Allative	Never	
+Jakarta Indonesian	47	COUGH	batuk	Applicative Benefactive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Applicative Instrumental	Never	
+Jakarta Indonesian	47	COUGH	batuk	Bare Ablative	Never	
+Jakarta Indonesian	47	COUGH	batuk	Bare Allative	Never	
+Jakarta Indonesian	47	COUGH	batuk	Bare Applicative Transitive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Bare Benefactive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Bare Instrumental	Never	
+Jakarta Indonesian	47	COUGH	batuk	Ditransitive Alternation	Never	
+Jakarta Indonesian	47	COUGH	batuk	Impersonal Passive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Intransitive alternation	Never	
+Jakarta Indonesian	47	COUGH	batuk	No argument stative	Never	
+Jakarta Indonesian	47	COUGH	batuk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	47	COUGH	batuk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	47	COUGH	batuk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	47	COUGH	batuk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Passive Applicative Transitive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Passive Transitive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	47	COUGH	batuk	Thematic Adversative Passive	Never	
+Jakarta Indonesian	47	COUGH	batuk	Transitive Alternation	Never	
+Jakarta Indonesian	48	CLIMB	naik	Accidental Passive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Adversative Passive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Applicative Ablative	Never	
+Jakarta Indonesian	48	CLIMB	naik	Applicative Allative	Regularly	
+Jakarta Indonesian	48	CLIMB	naik	Applicative Benefactive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Applicative Instrumental	Never	
+Jakarta Indonesian	48	CLIMB	naik	Bare Ablative	Never	
+Jakarta Indonesian	48	CLIMB	naik	Bare Allative	Never	
+Jakarta Indonesian	48	CLIMB	naik	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	48	CLIMB	naik	Bare Benefactive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Bare Instrumental	Never	
+Jakarta Indonesian	48	CLIMB	naik	Ditransitive Alternation	Never	
+Jakarta Indonesian	48	CLIMB	naik	Impersonal Passive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Intransitive alternation	Marginally	
+Jakarta Indonesian	48	CLIMB	naik	No argument stative	Never	
+Jakarta Indonesian	48	CLIMB	naik	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	48	CLIMB	naik	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	48	CLIMB	naik	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	48	CLIMB	naik	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	48	CLIMB	naik	Passive Transitive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	48	CLIMB	naik	Thematic Adversative Passive	Never	
+Jakarta Indonesian	48	CLIMB	naik	Transitive Alternation	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Accidental Passive	Regularly	
+Jakarta Indonesian	48	CLIMB	panjat	Adversative Passive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Applicative Ablative	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Applicative Allative	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Applicative Benefactive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Applicative Instrumental	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Bare Ablative	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Bare Allative	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Bare Applicative Transitive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Bare Benefactive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Bare Instrumental	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Ditransitive Alternation	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Impersonal Passive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Intransitive alternation	Never	
+Jakarta Indonesian	48	CLIMB	panjat	No argument stative	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	48	CLIMB	panjat	Passive Transitive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Thematic Adversative Passive	Never	
+Jakarta Indonesian	48	CLIMB	panjat	Transitive Alternation	Never	
+Jakarta Indonesian	49	RUN	lari	Accidental Passive	Never	
+Jakarta Indonesian	49	RUN	lari	Adversative Passive	Never	
+Jakarta Indonesian	49	RUN	lari	Applicative Ablative	Never	
+Jakarta Indonesian	49	RUN	lari	Applicative Allative	Never	
+Jakarta Indonesian	49	RUN	lari	Applicative Benefactive	Never	
+Jakarta Indonesian	49	RUN	lari	Applicative Instrumental	Never	
+Jakarta Indonesian	49	RUN	lari	Bare Ablative	Never	
+Jakarta Indonesian	49	RUN	lari	Bare Allative	Never	
+Jakarta Indonesian	49	RUN	lari	Bare Applicative Transitive	Never	
+Jakarta Indonesian	49	RUN	lari	Bare Benefactive	Never	
+Jakarta Indonesian	49	RUN	lari	Bare Instrumental	Never	
+Jakarta Indonesian	49	RUN	lari	Ditransitive Alternation	Never	
+Jakarta Indonesian	49	RUN	lari	Impersonal Passive	Never	
+Jakarta Indonesian	49	RUN	lari	Intransitive alternation	Never	
+Jakarta Indonesian	49	RUN	lari	No argument stative	Never	
+Jakarta Indonesian	49	RUN	lari	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	49	RUN	lari	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	49	RUN	lari	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	49	RUN	lari	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	49	RUN	lari	Passive Applicative Transitive	Never	
+Jakarta Indonesian	49	RUN	lari	Passive Transitive	Never	
+Jakarta Indonesian	49	RUN	lari	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	49	RUN	lari	Thematic Adversative Passive	Never	
+Jakarta Indonesian	49	RUN	lari	Transitive Alternation	Never	
+Jakarta Indonesian	50	SIT	duduk	Accidental Passive	Never	
+Jakarta Indonesian	50	SIT	duduk	Adversative Passive	Regularly	
+Jakarta Indonesian	50	SIT	duduk	Applicative Ablative	Never	
+Jakarta Indonesian	50	SIT	duduk	Applicative Allative	Regularly	
+Jakarta Indonesian	50	SIT	duduk	Applicative Benefactive	Never	
+Jakarta Indonesian	50	SIT	duduk	Applicative Instrumental	Never	
+Jakarta Indonesian	50	SIT	duduk	Bare Ablative	Never	
+Jakarta Indonesian	50	SIT	duduk	Bare Allative	Never	
+Jakarta Indonesian	50	SIT	duduk	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	50	SIT	duduk	Bare Benefactive	Never	
+Jakarta Indonesian	50	SIT	duduk	Bare Instrumental	Never	
+Jakarta Indonesian	50	SIT	duduk	Ditransitive Alternation	Never	
+Jakarta Indonesian	50	SIT	duduk	Impersonal Passive	Never	
+Jakarta Indonesian	50	SIT	duduk	Intransitive alternation	Regularly	
+Jakarta Indonesian	50	SIT	duduk	No argument stative	Never	
+Jakarta Indonesian	50	SIT	duduk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	50	SIT	duduk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	50	SIT	duduk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	50	SIT	duduk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	50	SIT	duduk	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	50	SIT	duduk	Passive Transitive	Never	
+Jakarta Indonesian	50	SIT	duduk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	50	SIT	duduk	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	50	SIT	duduk	Transitive Alternation	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Accidental Passive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Adversative Passive	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	Applicative Ablative	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Applicative Allative	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	Applicative Benefactive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Applicative Instrumental	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Bare Ablative	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Bare Allative	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	Bare Benefactive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Bare Instrumental	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Ditransitive Alternation	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Impersonal Passive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Intransitive alternation	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	No argument stative	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	Passive Transitive	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	51	SIT DOWN	duduk	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	51	SIT DOWN	duduk	Transitive Alternation	Never	
+Jakarta Indonesian	52	JUMP	lompat	Accidental Passive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Adversative Passive	Regularly	
+Jakarta Indonesian	52	JUMP	lompat	Applicative Ablative	Never	
+Jakarta Indonesian	52	JUMP	lompat	Applicative Allative	Never	
+Jakarta Indonesian	52	JUMP	lompat	Applicative Benefactive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Applicative Instrumental	Never	
+Jakarta Indonesian	52	JUMP	lompat	Bare Ablative	Never	
+Jakarta Indonesian	52	JUMP	lompat	Bare Allative	Never	
+Jakarta Indonesian	52	JUMP	lompat	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	52	JUMP	lompat	Bare Benefactive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Bare Instrumental	Never	
+Jakarta Indonesian	52	JUMP	lompat	Ditransitive Alternation	Never	
+Jakarta Indonesian	52	JUMP	lompat	Impersonal Passive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Intransitive alternation	Never	
+Jakarta Indonesian	52	JUMP	lompat	No argument stative	Never	
+Jakarta Indonesian	52	JUMP	lompat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	52	JUMP	lompat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	52	JUMP	lompat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	52	JUMP	lompat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	52	JUMP	lompat	Passive Transitive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	52	JUMP	lompat	Thematic Adversative Passive	Never	
+Jakarta Indonesian	52	JUMP	lompat	Transitive Alternation	Never	
+Jakarta Indonesian	52	JUMP	loncat	Accidental Passive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Adversative Passive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Applicative Ablative	Never	
+Jakarta Indonesian	52	JUMP	loncat	Applicative Allative	Never	
+Jakarta Indonesian	52	JUMP	loncat	Applicative Benefactive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Applicative Instrumental	Never	
+Jakarta Indonesian	52	JUMP	loncat	Bare Ablative	Never	
+Jakarta Indonesian	52	JUMP	loncat	Bare Allative	Never	
+Jakarta Indonesian	52	JUMP	loncat	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	52	JUMP	loncat	Bare Benefactive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Bare Instrumental	Never	
+Jakarta Indonesian	52	JUMP	loncat	Ditransitive Alternation	Never	
+Jakarta Indonesian	52	JUMP	loncat	Impersonal Passive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Intransitive alternation	Never	
+Jakarta Indonesian	52	JUMP	loncat	No argument stative	Never	
+Jakarta Indonesian	52	JUMP	loncat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	52	JUMP	loncat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	52	JUMP	loncat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	52	JUMP	loncat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	52	JUMP	loncat	Passive Transitive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	52	JUMP	loncat	Thematic Adversative Passive	Never	
+Jakarta Indonesian	52	JUMP	loncat	Transitive Alternation	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Accidental Passive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Adversative Passive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Applicative Ablative	Never	
+Jakarta Indonesian	53	SING	nyanyi	Applicative Allative	Never	
+Jakarta Indonesian	53	SING	nyanyi	Applicative Benefactive	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Applicative Instrumental	Never	
+Jakarta Indonesian	53	SING	nyanyi	Bare Ablative	Never	
+Jakarta Indonesian	53	SING	nyanyi	Bare Allative	Never	
+Jakarta Indonesian	53	SING	nyanyi	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Bare Benefactive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Bare Instrumental	Never	
+Jakarta Indonesian	53	SING	nyanyi	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Impersonal Passive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Intransitive alternation	Never	
+Jakarta Indonesian	53	SING	nyanyi	No argument stative	Never	
+Jakarta Indonesian	53	SING	nyanyi	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	53	SING	nyanyi	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	53	SING	nyanyi	Passive Transitive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	53	SING	nyanyi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	53	SING	nyanyi	Transitive Alternation	Regularly	
+Jakarta Indonesian	54	GO	pergi	Accidental Passive	Never	
+Jakarta Indonesian	54	GO	pergi	Adversative Passive	Never	
+Jakarta Indonesian	54	GO	pergi	Applicative Ablative	Never	
+Jakarta Indonesian	54	GO	pergi	Applicative Allative	Never	
+Jakarta Indonesian	54	GO	pergi	Applicative Benefactive	Never	
+Jakarta Indonesian	54	GO	pergi	Applicative Instrumental	Never	
+Jakarta Indonesian	54	GO	pergi	Bare Ablative	Regularly	
+Jakarta Indonesian	54	GO	pergi	Bare Allative	Regularly	
+Jakarta Indonesian	54	GO	pergi	Bare Applicative Transitive	Never	
+Jakarta Indonesian	54	GO	pergi	Bare Benefactive	Never	
+Jakarta Indonesian	54	GO	pergi	Bare Instrumental	Never	
+Jakarta Indonesian	54	GO	pergi	Ditransitive Alternation	Never	
+Jakarta Indonesian	54	GO	pergi	Impersonal Passive	Never	
+Jakarta Indonesian	54	GO	pergi	Intransitive alternation	Never	
+Jakarta Indonesian	54	GO	pergi	No argument stative	Never	
+Jakarta Indonesian	54	GO	pergi	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	54	GO	pergi	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	54	GO	pergi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	54	GO	pergi	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	54	GO	pergi	Passive Applicative Transitive	Never	
+Jakarta Indonesian	54	GO	pergi	Passive Transitive	Never	
+Jakarta Indonesian	54	GO	pergi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	54	GO	pergi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	54	GO	pergi	Transitive Alternation	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Accidental Passive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Adversative Passive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Applicative Ablative	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Applicative Allative	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Applicative Benefactive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Applicative Instrumental	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Bare Ablative	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Bare Allative	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Bare Applicative Transitive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Bare Benefactive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Bare Instrumental	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Ditransitive Alternation	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Impersonal Passive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Intransitive alternation	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	No argument stative	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Passive Applicative Transitive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Passive Transitive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Thematic Adversative Passive	Never	
+Jakarta Indonesian	55	LEAVE	berangkat	Transitive Alternation	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Accidental Passive	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Adversative Passive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Applicative Ablative	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Applicative Allative	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Applicative Benefactive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Applicative Instrumental	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Bare Ablative	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Bare Allative	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Bare Benefactive	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Bare Instrumental	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Impersonal Passive	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Intransitive alternation	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	No argument stative	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Passive Transitive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	56	LIVE	tinggal (1)	Transitive Alternation	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Accidental Passive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Adversative Passive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Applicative Ablative	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Applicative Allative	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Applicative Benefactive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Applicative Instrumental	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Bare Ablative	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Bare Allative	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	57	LAUGH	ketawa	Bare Benefactive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Bare Instrumental	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Ditransitive Alternation	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Impersonal Passive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Intransitive alternation	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	No argument stative	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	57	LAUGH	ketawa	Passive Transitive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Thematic Adversative Passive	Never	
+Jakarta Indonesian	57	LAUGH	ketawa	Transitive Alternation	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Accidental Passive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Adversative Passive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Applicative Ablative	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Applicative Allative	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Applicative Benefactive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Applicative Instrumental	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Bare Ablative	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Bare Allative	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	58	SCREAM	teriak	Bare Benefactive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Bare Instrumental	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Ditransitive Alternation	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Impersonal Passive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Intransitive alternation	Never	
+Jakarta Indonesian	58	SCREAM	teriak	No argument stative	No data	
+Jakarta Indonesian	58	SCREAM	teriak	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	58	SCREAM	teriak	Passive Transitive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Thematic Adversative Passive	Never	
+Jakarta Indonesian	58	SCREAM	teriak	Transitive Alternation	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Accidental Passive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Adversative Passive	Regularly	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Applicative Ablative	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Applicative Allative	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Applicative Benefactive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Applicative Instrumental	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Bare Ablative	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Bare Allative	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Bare Benefactive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Bare Instrumental	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Ditransitive Alternation	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Impersonal Passive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Intransitive alternation	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	No argument stative	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Passive Transitive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Thematic Adversative Passive	Never	
+Jakarta Indonesian	59	FEEL PAIN	sakit	Transitive Alternation	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Accidental Passive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Adversative Passive	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Applicative Ablative	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Applicative Allative	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Applicative Benefactive	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Applicative Instrumental	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Bare Ablative	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Bare Allative	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Bare Benefactive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Bare Instrumental	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Impersonal Passive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Intransitive alternation	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	No argument stative	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	60	FEEL COLD	dingin	Passive Transitive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	60	FEEL COLD	dingin	Transitive Alternation	Never	
+Jakarta Indonesian	61	DIE	mati	Accidental Passive	Never	
+Jakarta Indonesian	61	DIE	mati	Adversative Passive	Never	
+Jakarta Indonesian	61	DIE	mati	Applicative Ablative	Never	
+Jakarta Indonesian	61	DIE	mati	Applicative Allative	Never	
+Jakarta Indonesian	61	DIE	mati	Applicative Benefactive	Never	
+Jakarta Indonesian	61	DIE	mati	Applicative Instrumental	Never	
+Jakarta Indonesian	61	DIE	mati	Bare Ablative	Never	
+Jakarta Indonesian	61	DIE	mati	Bare Allative	Never	
+Jakarta Indonesian	61	DIE	mati	Bare Applicative Transitive	Never	
+Jakarta Indonesian	61	DIE	mati	Bare Benefactive	Never	
+Jakarta Indonesian	61	DIE	mati	Bare Instrumental	Never	
+Jakarta Indonesian	61	DIE	mati	Ditransitive Alternation	Never	
+Jakarta Indonesian	61	DIE	mati	Impersonal Passive	Never	
+Jakarta Indonesian	61	DIE	mati	Intransitive alternation	Never	
+Jakarta Indonesian	61	DIE	mati	No argument stative	Never	
+Jakarta Indonesian	61	DIE	mati	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	61	DIE	mati	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	61	DIE	mati	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	61	DIE	mati	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	61	DIE	mati	Passive Applicative Transitive	Never	
+Jakarta Indonesian	61	DIE	mati	Passive Transitive	Never	
+Jakarta Indonesian	61	DIE	mati	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	61	DIE	mati	Thematic Adversative Passive	Never	
+Jakarta Indonesian	61	DIE	mati	Transitive Alternation	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Accidental Passive	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Adversative Passive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Applicative Ablative	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Applicative Allative	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Applicative Benefactive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Applicative Instrumental	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Bare Ablative	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Bare Allative	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Bare Benefactive	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Bare Instrumental	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Impersonal Passive	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Intransitive alternation	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	No argument stative	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Passive Transitive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	61	DIE	tinggal (2)	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	61	DIE	tinggal (2)	Transitive Alternation	Never	
+Jakarta Indonesian	62	PLAY	main	Accidental Passive	Never	
+Jakarta Indonesian	62	PLAY	main	Adversative Passive	Never	
+Jakarta Indonesian	62	PLAY	main	Applicative Ablative	Never	
+Jakarta Indonesian	62	PLAY	main	Applicative Allative	Never	
+Jakarta Indonesian	62	PLAY	main	Applicative Benefactive	Never	
+Jakarta Indonesian	62	PLAY	main	Applicative Instrumental	Never	
+Jakarta Indonesian	62	PLAY	main	Bare Ablative	Never	
+Jakarta Indonesian	62	PLAY	main	Bare Allative	Never	
+Jakarta Indonesian	62	PLAY	main	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	62	PLAY	main	Bare Benefactive	Never	
+Jakarta Indonesian	62	PLAY	main	Bare Instrumental	Never	
+Jakarta Indonesian	62	PLAY	main	Ditransitive Alternation	Never	
+Jakarta Indonesian	62	PLAY	main	Impersonal Passive	Never	
+Jakarta Indonesian	62	PLAY	main	Intransitive alternation	Regularly	
+Jakarta Indonesian	62	PLAY	main	No argument stative	Never	
+Jakarta Indonesian	62	PLAY	main	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	62	PLAY	main	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	62	PLAY	main	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	62	PLAY	main	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	62	PLAY	main	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	62	PLAY	main	Passive Transitive	Never	
+Jakarta Indonesian	62	PLAY	main	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	62	PLAY	main	Thematic Adversative Passive	Never	
+Jakarta Indonesian	62	PLAY	main	Transitive Alternation	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Accidental Passive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Adversative Passive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Applicative Ablative	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Applicative Allative	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Applicative Benefactive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Applicative Instrumental	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Bare Ablative	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Bare Allative	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Bare Applicative Transitive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Bare Benefactive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Bare Instrumental	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Ditransitive Alternation	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Impersonal Passive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Intransitive alternation	Never	
+Jakarta Indonesian	63	BE SAD	sedih	No argument stative	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Passive Applicative Transitive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Passive Transitive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Thematic Adversative Passive	Never	
+Jakarta Indonesian	63	BE SAD	sedih	Transitive Alternation	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Accidental Passive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Adversative Passive	Regularly	
+Jakarta Indonesian	64	BE HUNGRY	laper	Applicative Ablative	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Applicative Allative	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Applicative Benefactive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Applicative Instrumental	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Bare Ablative	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Bare Allative	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Bare Applicative Transitive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Bare Benefactive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Bare Instrumental	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Ditransitive Alternation	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Impersonal Passive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Intransitive alternation	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	No argument stative	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Passive Applicative Transitive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Passive Transitive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Thematic Adversative Passive	Never	
+Jakarta Indonesian	64	BE HUNGRY	laper	Transitive Alternation	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Accidental Passive	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Adversative Passive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Applicative Ablative	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Applicative Allative	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Applicative Benefactive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Applicative Instrumental	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Bare Ablative	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Bare Allative	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Bare Benefactive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Bare Instrumental	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Impersonal Passive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Intransitive alternation	Never	
+Jakarta Indonesian	65	ROLL	gelinding	No argument stative	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Passive Transitive	Regularly	
+Jakarta Indonesian	65	ROLL	gelinding	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Thematic Adversative Passive	Never	
+Jakarta Indonesian	65	ROLL	gelinding	Transitive Alternation	Regularly	
+Jakarta Indonesian	66	SINK	tenggelem	Accidental Passive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Adversative Passive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Applicative Ablative	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Applicative Allative	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Applicative Benefactive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Applicative Instrumental	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Bare Ablative	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Bare Allative	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Bare Applicative Transitive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Bare Benefactive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Bare Instrumental	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Ditransitive Alternation	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Impersonal Passive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Intransitive alternation	Never	
+Jakarta Indonesian	66	SINK	tenggelem	No argument stative	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	66	SINK	tenggelem	Passive Transitive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Thematic Adversative Passive	Never	
+Jakarta Indonesian	66	SINK	tenggelem	Transitive Alternation	Never	
+Jakarta Indonesian	67	BURN	nyala	Accidental Passive	Never	
+Jakarta Indonesian	67	BURN	nyala	Adversative Passive	Never	
+Jakarta Indonesian	67	BURN	nyala	Applicative Ablative	Never	
+Jakarta Indonesian	67	BURN	nyala	Applicative Allative	Never	
+Jakarta Indonesian	67	BURN	nyala	Applicative Benefactive	Regularly	
+Jakarta Indonesian	67	BURN	nyala	Applicative Instrumental	Never	
+Jakarta Indonesian	67	BURN	nyala	Bare Ablative	Never	
+Jakarta Indonesian	67	BURN	nyala	Bare Allative	Never	
+Jakarta Indonesian	67	BURN	nyala	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	67	BURN	nyala	Bare Benefactive	Never	
+Jakarta Indonesian	67	BURN	nyala	Bare Instrumental	Never	
+Jakarta Indonesian	67	BURN	nyala	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	67	BURN	nyala	Impersonal Passive	Never	
+Jakarta Indonesian	67	BURN	nyala	Intransitive alternation	Never	
+Jakarta Indonesian	67	BURN	nyala	No argument stative	Never	
+Jakarta Indonesian	67	BURN	nyala	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	67	BURN	nyala	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	67	BURN	nyala	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	67	BURN	nyala	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	67	BURN	nyala	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	67	BURN	nyala	Passive Transitive	Never	
+Jakarta Indonesian	67	BURN	nyala	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	67	BURN	nyala	Thematic Adversative Passive	Never	
+Jakarta Indonesian	67	BURN	nyala	Transitive Alternation	Never	
+Jakarta Indonesian	68	BE DRY	kering	Accidental Passive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Adversative Passive	Regularly	
+Jakarta Indonesian	68	BE DRY	kering	Applicative Ablative	Never	
+Jakarta Indonesian	68	BE DRY	kering	Applicative Allative	Never	
+Jakarta Indonesian	68	BE DRY	kering	Applicative Benefactive	Regularly	
+Jakarta Indonesian	68	BE DRY	kering	Applicative Instrumental	Never	
+Jakarta Indonesian	68	BE DRY	kering	Bare Ablative	Never	
+Jakarta Indonesian	68	BE DRY	kering	Bare Allative	Never	
+Jakarta Indonesian	68	BE DRY	kering	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	68	BE DRY	kering	Bare Benefactive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Bare Instrumental	Never	
+Jakarta Indonesian	68	BE DRY	kering	Ditransitive Alternation	Never	
+Jakarta Indonesian	68	BE DRY	kering	Impersonal Passive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Intransitive alternation	Never	
+Jakarta Indonesian	68	BE DRY	kering	No argument stative	Regularly	
+Jakarta Indonesian	68	BE DRY	kering	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	68	BE DRY	kering	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	68	BE DRY	kering	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	68	BE DRY	kering	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	68	BE DRY	kering	Passive Transitive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	68	BE DRY	kering	Thematic Adversative Passive	Never	
+Jakarta Indonesian	68	BE DRY	kering	Transitive Alternation	Never	
+Jakarta Indonesian	69	RAIN	ujan	Accidental Passive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Adversative Passive	Regularly	
+Jakarta Indonesian	69	RAIN	ujan	Applicative Ablative	Never	
+Jakarta Indonesian	69	RAIN	ujan	Applicative Allative	Never	
+Jakarta Indonesian	69	RAIN	ujan	Applicative Benefactive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Applicative Instrumental	Never	
+Jakarta Indonesian	69	RAIN	ujan	Bare Ablative	Never	
+Jakarta Indonesian	69	RAIN	ujan	Bare Allative	Never	
+Jakarta Indonesian	69	RAIN	ujan	Bare Applicative Transitive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Bare Benefactive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Bare Instrumental	Never	
+Jakarta Indonesian	69	RAIN	ujan	Ditransitive Alternation	Never	
+Jakarta Indonesian	69	RAIN	ujan	Impersonal Passive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Intransitive alternation	Never	
+Jakarta Indonesian	69	RAIN	ujan	No argument stative	Never	
+Jakarta Indonesian	69	RAIN	ujan	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	69	RAIN	ujan	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	69	RAIN	ujan	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	69	RAIN	ujan	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Passive Applicative Transitive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Passive Transitive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	69	RAIN	ujan	Thematic Adversative Passive	Never	
+Jakarta Indonesian	69	RAIN	ujan	Transitive Alternation	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Accidental Passive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Adversative Passive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Applicative Ablative	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Applicative Allative	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Applicative Benefactive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Applicative Instrumental	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Bare Ablative	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Bare Allative	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Bare Applicative Transitive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Bare Benefactive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Bare Instrumental	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Ditransitive Alternation	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Impersonal Passive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Intransitive alternation	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	No argument stative	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Passive Applicative Transitive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Passive Transitive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Thematic Adversative Passive	Never	
+Jakarta Indonesian	70	BE A HUNTER	pemburu	Transitive Alternation	Never	
+Jakarta Indonesian	71	GRIND	giling	Accidental Passive	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Adversative Passive	Never	
+Jakarta Indonesian	71	GRIND	giling	Applicative Ablative	Never	
+Jakarta Indonesian	71	GRIND	giling	Applicative Allative	Never	
+Jakarta Indonesian	71	GRIND	giling	Applicative Benefactive	Never	
+Jakarta Indonesian	71	GRIND	giling	Applicative Instrumental	Never	
+Jakarta Indonesian	71	GRIND	giling	Bare Ablative	Never	
+Jakarta Indonesian	71	GRIND	giling	Bare Allative	Never	
+Jakarta Indonesian	71	GRIND	giling	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Bare Benefactive	Never	
+Jakarta Indonesian	71	GRIND	giling	Bare Instrumental	Never	
+Jakarta Indonesian	71	GRIND	giling	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Impersonal Passive	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Intransitive alternation	Never	
+Jakarta Indonesian	71	GRIND	giling	No argument stative	Never	
+Jakarta Indonesian	71	GRIND	giling	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	71	GRIND	giling	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	71	GRIND	giling	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Passive Transitive	Regularly	
+Jakarta Indonesian	71	GRIND	giling	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	71	GRIND	giling	Thematic Adversative Passive	Never	
+Jakarta Indonesian	71	GRIND	giling	Transitive Alternation	Never	
+Jakarta Indonesian	72	WIPE	lap	Accidental Passive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Adversative Passive	Never	
+Jakarta Indonesian	72	WIPE	lap	Applicative Ablative	Never	
+Jakarta Indonesian	72	WIPE	lap	Applicative Allative	Never	
+Jakarta Indonesian	72	WIPE	lap	Applicative Benefactive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Applicative Instrumental	Never	
+Jakarta Indonesian	72	WIPE	lap	Bare Ablative	Never	
+Jakarta Indonesian	72	WIPE	lap	Bare Allative	Never	
+Jakarta Indonesian	72	WIPE	lap	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Bare Benefactive	Never	
+Jakarta Indonesian	72	WIPE	lap	Bare Instrumental	Never	
+Jakarta Indonesian	72	WIPE	lap	Ditransitive Alternation	Never	
+Jakarta Indonesian	72	WIPE	lap	Impersonal Passive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Intransitive alternation	Never	
+Jakarta Indonesian	72	WIPE	lap	No argument stative	Never	
+Jakarta Indonesian	72	WIPE	lap	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	72	WIPE	lap	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	72	WIPE	lap	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	72	WIPE	lap	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	72	WIPE	lap	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Passive Transitive	Regularly	
+Jakarta Indonesian	72	WIPE	lap	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	72	WIPE	lap	Thematic Adversative Passive	Never	
+Jakarta Indonesian	72	WIPE	lap	Transitive Alternation	Never	
+Jakarta Indonesian	73	DIG	gali	Accidental Passive	Regularly	
+Jakarta Indonesian	73	DIG	gali	Adversative Passive	Never	
+Jakarta Indonesian	73	DIG	gali	Applicative Ablative	Never	
+Jakarta Indonesian	73	DIG	gali	Applicative Allative	Never	
+Jakarta Indonesian	73	DIG	gali	Applicative Benefactive	Regularly	
+Jakarta Indonesian	73	DIG	gali	Applicative Instrumental	Regularly	
+Jakarta Indonesian	73	DIG	gali	Bare Ablative	Never	
+Jakarta Indonesian	73	DIG	gali	Bare Allative	Never	
+Jakarta Indonesian	73	DIG	gali	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	73	DIG	gali	Bare Benefactive	Never	
+Jakarta Indonesian	73	DIG	gali	Bare Instrumental	Regularly	
+Jakarta Indonesian	73	DIG	gali	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	73	DIG	gali	Impersonal Passive	Regularly	
+Jakarta Indonesian	73	DIG	gali	Intransitive alternation	Never	
+Jakarta Indonesian	73	DIG	gali	No argument stative	Never	
+Jakarta Indonesian	73	DIG	gali	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	73	DIG	gali	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	73	DIG	gali	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	73	DIG	gali	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	73	DIG	gali	Passive Applicative Transitive	Never	
+Jakarta Indonesian	73	DIG	gali	Passive Transitive	Marginally	
+Jakarta Indonesian	73	DIG	gali	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	73	DIG	gali	Thematic Adversative Passive	Never	
+Jakarta Indonesian	73	DIG	gali	Transitive Alternation	Never	
+Jakarta Indonesian	74	PUSH	dorong	Accidental Passive	Regularly	
+Jakarta Indonesian	74	PUSH	dorong	Adversative Passive	Never	
+Jakarta Indonesian	74	PUSH	dorong	Applicative Ablative	Never	
+Jakarta Indonesian	74	PUSH	dorong	Applicative Allative	Never	
+Jakarta Indonesian	74	PUSH	dorong	Applicative Benefactive	Never	
+Jakarta Indonesian	74	PUSH	dorong	Applicative Instrumental	Never	
+Jakarta Indonesian	74	PUSH	dorong	Bare Ablative	Never	
+Jakarta Indonesian	74	PUSH	dorong	Bare Allative	Never	
+Jakarta Indonesian	74	PUSH	dorong	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	74	PUSH	dorong	Bare Benefactive	Never	
+Jakarta Indonesian	74	PUSH	dorong	Bare Instrumental	Never	
+Jakarta Indonesian	74	PUSH	dorong	Ditransitive Alternation	Never	
+Jakarta Indonesian	74	PUSH	dorong	Impersonal Passive	Regularly	
+Jakarta Indonesian	74	PUSH	dorong	Intransitive alternation	Never	
+Jakarta Indonesian	74	PUSH	dorong	No argument stative	Never	
+Jakarta Indonesian	74	PUSH	dorong	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	74	PUSH	dorong	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	74	PUSH	dorong	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	74	PUSH	dorong	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	74	PUSH	dorong	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	74	PUSH	dorong	Passive Transitive	Regularly	
+Jakarta Indonesian	74	PUSH	dorong	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	74	PUSH	dorong	Thematic Adversative Passive	Never	
+Jakarta Indonesian	74	PUSH	dorong	Transitive Alternation	Never	
+Jakarta Indonesian	75	BRING	bawa	Accidental Passive	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Adversative Passive	Never	
+Jakarta Indonesian	75	BRING	bawa	Applicative Ablative	Never	
+Jakarta Indonesian	75	BRING	bawa	Applicative Allative	Never	
+Jakarta Indonesian	75	BRING	bawa	Applicative Benefactive	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Applicative Instrumental	Never	
+Jakarta Indonesian	75	BRING	bawa	Bare Ablative	Never	
+Jakarta Indonesian	75	BRING	bawa	Bare Allative	Never	
+Jakarta Indonesian	75	BRING	bawa	Bare Applicative Transitive	Never	
+Jakarta Indonesian	75	BRING	bawa	Bare Benefactive	Never	
+Jakarta Indonesian	75	BRING	bawa	Bare Instrumental	Never	
+Jakarta Indonesian	75	BRING	bawa	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Impersonal Passive	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Intransitive alternation	Never	
+Jakarta Indonesian	75	BRING	bawa	No argument stative	Never	
+Jakarta Indonesian	75	BRING	bawa	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	75	BRING	bawa	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	75	BRING	bawa	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	75	BRING	bawa	Passive Applicative Transitive	Never	
+Jakarta Indonesian	75	BRING	bawa	Passive Transitive	Regularly	
+Jakarta Indonesian	75	BRING	bawa	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	75	BRING	bawa	Thematic Adversative Passive	Never	
+Jakarta Indonesian	75	BRING	bawa	Transitive Alternation	Never	
+Jakarta Indonesian	76	STEAL	colong	Accidental Passive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Adversative Passive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Applicative Ablative	Never	
+Jakarta Indonesian	76	STEAL	colong	Applicative Allative	Never	
+Jakarta Indonesian	76	STEAL	colong	Applicative Benefactive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Applicative Instrumental	Never	
+Jakarta Indonesian	76	STEAL	colong	Bare Ablative	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Bare Allative	Never	
+Jakarta Indonesian	76	STEAL	colong	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Bare Benefactive	Never	
+Jakarta Indonesian	76	STEAL	colong	Bare Instrumental	Never	
+Jakarta Indonesian	76	STEAL	colong	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Impersonal Passive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Intransitive alternation	Never	
+Jakarta Indonesian	76	STEAL	colong	No argument stative	Never	
+Jakarta Indonesian	76	STEAL	colong	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	76	STEAL	colong	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	76	STEAL	colong	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	76	STEAL	colong	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Passive Transitive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	76	STEAL	colong	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	76	STEAL	colong	Transitive Alternation	Never	
+Jakarta Indonesian	76	STEAL	curi	Accidental Passive	Never	
+Jakarta Indonesian	76	STEAL	curi	Adversative Passive	Regularly	
+Jakarta Indonesian	76	STEAL	curi	Applicative Ablative	Never	
+Jakarta Indonesian	76	STEAL	curi	Applicative Allative	Never	
+Jakarta Indonesian	76	STEAL	curi	Applicative Benefactive	Never	
+Jakarta Indonesian	76	STEAL	curi	Applicative Instrumental	Never	
+Jakarta Indonesian	76	STEAL	curi	Bare Ablative	Never	
+Jakarta Indonesian	76	STEAL	curi	Bare Allative	Never	
+Jakarta Indonesian	76	STEAL	curi	Bare Applicative Transitive	Never	
+Jakarta Indonesian	76	STEAL	curi	Bare Benefactive	Never	
+Jakarta Indonesian	76	STEAL	curi	Bare Instrumental	Never	
+Jakarta Indonesian	76	STEAL	curi	Ditransitive Alternation	Never	
+Jakarta Indonesian	76	STEAL	curi	Impersonal Passive	Regularly	
+Jakarta Indonesian	76	STEAL	curi	Intransitive alternation	Never	
+Jakarta Indonesian	76	STEAL	curi	No argument stative	Never	
+Jakarta Indonesian	76	STEAL	curi	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	76	STEAL	curi	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	76	STEAL	curi	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	76	STEAL	curi	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	76	STEAL	curi	Passive Applicative Transitive	Never	
+Jakarta Indonesian	76	STEAL	curi	Passive Transitive	Regularly	
+Jakarta Indonesian	76	STEAL	curi	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	76	STEAL	curi	Thematic Adversative Passive	Never	
+Jakarta Indonesian	76	STEAL	curi	Transitive Alternation	Never	
+Jakarta Indonesian	77	TEACH	ajar	Accidental Passive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Adversative Passive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Applicative Ablative	Never	
+Jakarta Indonesian	77	TEACH	ajar	Applicative Allative	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Applicative Benefactive	Marginally	
+Jakarta Indonesian	77	TEACH	ajar	Applicative Instrumental	Never	
+Jakarta Indonesian	77	TEACH	ajar	Bare Ablative	Never	
+Jakarta Indonesian	77	TEACH	ajar	Bare Allative	Marginally	
+Jakarta Indonesian	77	TEACH	ajar	Bare Applicative Transitive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Bare Benefactive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Bare Instrumental	Never	
+Jakarta Indonesian	77	TEACH	ajar	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Impersonal Passive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Intransitive alternation	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	No argument stative	Never	
+Jakarta Indonesian	77	TEACH	ajar	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	77	TEACH	ajar	Passive Applicative Transitive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Passive Transitive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	77	TEACH	ajar	Thematic Adversative Passive	Never	
+Jakarta Indonesian	77	TEACH	ajar	Transitive Alternation	Never	
+Jakarta Indonesian	78	HEAR	dengar	Accidental Passive	Regularly	
+Jakarta Indonesian	78	HEAR	dengar	Adversative Passive	Regularly	
+Jakarta Indonesian	78	HEAR	dengar	Applicative Ablative	Never	
+Jakarta Indonesian	78	HEAR	dengar	Applicative Allative	Never	
+Jakarta Indonesian	78	HEAR	dengar	Applicative Benefactive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Applicative Instrumental	Never	
+Jakarta Indonesian	78	HEAR	dengar	Bare Ablative	Never	
+Jakarta Indonesian	78	HEAR	dengar	Bare Allative	Never	
+Jakarta Indonesian	78	HEAR	dengar	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	78	HEAR	dengar	Bare Benefactive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Bare Instrumental	Never	
+Jakarta Indonesian	78	HEAR	dengar	Ditransitive Alternation	Never	
+Jakarta Indonesian	78	HEAR	dengar	Impersonal Passive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Intransitive alternation	Regularly	
+Jakarta Indonesian	78	HEAR	dengar	No argument stative	Never	
+Jakarta Indonesian	78	HEAR	dengar	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	78	HEAR	dengar	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	78	HEAR	dengar	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	78	HEAR	dengar	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	78	HEAR	dengar	Passive Transitive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	78	HEAR	dengar	Thematic Adversative Passive	Never	
+Jakarta Indonesian	78	HEAR	dengar	Transitive Alternation	Never	
+Jakarta Indonesian	79	COOK	masak	Accidental Passive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Adversative Passive	Never	
+Jakarta Indonesian	79	COOK	masak	Applicative Ablative	Never	
+Jakarta Indonesian	79	COOK	masak	Applicative Allative	Never	
+Jakarta Indonesian	79	COOK	masak	Applicative Benefactive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Applicative Instrumental	Never	
+Jakarta Indonesian	79	COOK	masak	Bare Ablative	Never	
+Jakarta Indonesian	79	COOK	masak	Bare Allative	Never	
+Jakarta Indonesian	79	COOK	masak	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Bare Benefactive	Never	
+Jakarta Indonesian	79	COOK	masak	Bare Instrumental	Never	
+Jakarta Indonesian	79	COOK	masak	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	79	COOK	masak	Impersonal Passive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Intransitive alternation	Regularly	
+Jakarta Indonesian	79	COOK	masak	No argument stative	Never	
+Jakarta Indonesian	79	COOK	masak	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	79	COOK	masak	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	79	COOK	masak	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	79	COOK	masak	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	79	COOK	masak	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Passive Transitive	Regularly	
+Jakarta Indonesian	79	COOK	masak	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	79	COOK	masak	Thematic Adversative Passive	Never	
+Jakarta Indonesian	79	COOK	masak	Transitive Alternation	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Accidental Passive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Adversative Passive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Applicative Ablative	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Applicative Allative	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Applicative Benefactive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Applicative Instrumental	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Bare Ablative	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Bare Allative	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Bare Applicative Transitive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Bare Benefactive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Bare Instrumental	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Ditransitive Alternation	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Impersonal Passive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Intransitive alternation	Never	
+Jakarta Indonesian	80	BOIL	mendidih	No argument stative	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Passive Applicative Transitive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Passive Transitive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Thematic Adversative Passive	Never	
+Jakarta Indonesian	80	BOIL	mendidih	Transitive Alternation	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Accidental Passive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Adversative Passive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Applicative Ablative	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Applicative Allative	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Applicative Benefactive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Applicative Instrumental	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Bare Ablative	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Bare Allative	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Bare Applicative Transitive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Bare Benefactive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Bare Instrumental	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Ditransitive Alternation	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Impersonal Passive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Intransitive alternation	Regularly	
+Jakarta Indonesian	81	APPEAR	muncul	No argument stative	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Passive Applicative Transitive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Passive Transitive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Thematic Adversative Passive	Never	
+Jakarta Indonesian	81	APPEAR	muncul	Transitive Alternation	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Accidental Passive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Adversative Passive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Applicative Ablative	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Applicative Allative	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Applicative Benefactive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Applicative Instrumental	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Bare Ablative	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Bare Allative	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	81	APPEAR	nongol	Bare Benefactive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Bare Instrumental	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Ditransitive Alternation	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Impersonal Passive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Intransitive alternation	Never	
+Jakarta Indonesian	81	APPEAR	nongol	No argument stative	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Passive Applicative Transitive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Passive Transitive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Thematic Adversative Passive	Never	
+Jakarta Indonesian	81	APPEAR	nongol	Transitive Alternation	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Accidental Passive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Adversative Passive	Regularly	
+Jakarta Indonesian	82	BE ILL	sakit	Applicative Ablative	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Applicative Allative	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Applicative Benefactive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Applicative Instrumental	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Bare Ablative	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Bare Allative	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	82	BE ILL	sakit	Bare Benefactive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Bare Instrumental	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Ditransitive Alternation	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Impersonal Passive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Intransitive alternation	Never	
+Jakarta Indonesian	82	BE ILL	sakit	No argument stative	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	82	BE ILL	sakit	Passive Transitive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Thematic Adversative Passive	Never	
+Jakarta Indonesian	82	BE ILL	sakit	Transitive Alternation	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Accidental Passive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Adversative Passive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Applicative Ablative	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Applicative Allative	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Applicative Benefactive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Applicative Instrumental	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Bare Ablative	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Bare Allative	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	83	CRY	n(t)angis	Bare Benefactive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Bare Instrumental	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Ditransitive Alternation	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Impersonal Passive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Intransitive alternation	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	No argument stative	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	83	CRY	n(t)angis	Passive Transitive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Thematic Adversative Passive	Never	
+Jakarta Indonesian	83	CRY	n(t)angis	Transitive Alternation	Never	
+Jakarta Indonesian	84	FALL	jatoh	Accidental Passive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Adversative Passive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Applicative Ablative	Never	
+Jakarta Indonesian	84	FALL	jatoh	Applicative Allative	Never	
+Jakarta Indonesian	84	FALL	jatoh	Applicative Benefactive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Applicative Instrumental	Never	
+Jakarta Indonesian	84	FALL	jatoh	Bare Ablative	Never	
+Jakarta Indonesian	84	FALL	jatoh	Bare Allative	Never	
+Jakarta Indonesian	84	FALL	jatoh	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	84	FALL	jatoh	Bare Benefactive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Bare Instrumental	Never	
+Jakarta Indonesian	84	FALL	jatoh	Ditransitive Alternation	Never	
+Jakarta Indonesian	84	FALL	jatoh	Impersonal Passive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Intransitive alternation	Never	
+Jakarta Indonesian	84	FALL	jatoh	No argument stative	Never	
+Jakarta Indonesian	84	FALL	jatoh	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	84	FALL	jatoh	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	84	FALL	jatoh	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	84	FALL	jatoh	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	84	FALL	jatoh	Passive Transitive	Never	
+Jakarta Indonesian	84	FALL	jatoh	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	84	FALL	jatoh	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	84	FALL	jatoh	Transitive Alternation	Never	
+Jakarta Indonesian	85	MAKE	bikin	Accidental Passive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Adversative Passive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Applicative Ablative	Never	
+Jakarta Indonesian	85	MAKE	bikin	Applicative Allative	Never	
+Jakarta Indonesian	85	MAKE	bikin	Applicative Benefactive	Regularly	
+Jakarta Indonesian	85	MAKE	bikin	Applicative Instrumental	Never	
+Jakarta Indonesian	85	MAKE	bikin	Bare Ablative	Never	
+Jakarta Indonesian	85	MAKE	bikin	Bare Allative	Never	
+Jakarta Indonesian	85	MAKE	bikin	Bare Applicative Transitive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Bare Benefactive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Bare Instrumental	Never	
+Jakarta Indonesian	85	MAKE	bikin	Ditransitive Alternation	Never	
+Jakarta Indonesian	85	MAKE	bikin	Impersonal Passive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Intransitive alternation	Never	
+Jakarta Indonesian	85	MAKE	bikin	No argument stative	Never	
+Jakarta Indonesian	85	MAKE	bikin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	85	MAKE	bikin	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	85	MAKE	bikin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	85	MAKE	bikin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Passive Applicative Transitive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Passive Transitive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	85	MAKE	bikin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	85	MAKE	bikin	Transitive Alternation	Never	
+Jakarta Indonesian	86	GET	terima	Accidental Passive	Regularly	
+Jakarta Indonesian	86	GET	terima	Adversative Passive	Never	
+Jakarta Indonesian	86	GET	terima	Applicative Ablative	Regularly	
+Jakarta Indonesian	86	GET	terima	Applicative Allative	Never	
+Jakarta Indonesian	86	GET	terima	Applicative Benefactive	Regularly	
+Jakarta Indonesian	86	GET	terima	Applicative Instrumental	Never	
+Jakarta Indonesian	86	GET	terima	Bare Ablative	Regularly	
+Jakarta Indonesian	86	GET	terima	Bare Allative	Never	
+Jakarta Indonesian	86	GET	terima	Bare Applicative Transitive	Never	
+Jakarta Indonesian	86	GET	terima	Bare Benefactive	Never	
+Jakarta Indonesian	86	GET	terima	Bare Instrumental	Never	
+Jakarta Indonesian	86	GET	terima	Ditransitive Alternation	Never	
+Jakarta Indonesian	86	GET	terima	Impersonal Passive	Regularly	
+Jakarta Indonesian	86	GET	terima	Intransitive alternation	Never	
+Jakarta Indonesian	86	GET	terima	No argument stative	Never	
+Jakarta Indonesian	86	GET	terima	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	86	GET	terima	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	86	GET	terima	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	86	GET	terima	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	86	GET	terima	Passive Applicative Transitive	Never	
+Jakarta Indonesian	86	GET	terima	Passive Transitive	Regularly	
+Jakarta Indonesian	86	GET	terima	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	86	GET	terima	Thematic Adversative Passive	Never	
+Jakarta Indonesian	86	GET	terima	Transitive Alternation	Never	
+Jakarta Indonesian	87	WANT	pengen	Accidental Passive	Regularly	
+Jakarta Indonesian	87	WANT	pengen	Adversative Passive	Never	
+Jakarta Indonesian	87	WANT	pengen	Applicative Ablative	Never	
+Jakarta Indonesian	87	WANT	pengen	Applicative Allative	Never	
+Jakarta Indonesian	87	WANT	pengen	Applicative Benefactive	Never	
+Jakarta Indonesian	87	WANT	pengen	Applicative Instrumental	Never	
+Jakarta Indonesian	87	WANT	pengen	Bare Ablative	Never	
+Jakarta Indonesian	87	WANT	pengen	Bare Allative	Never	
+Jakarta Indonesian	87	WANT	pengen	Bare Applicative Transitive	Never	
+Jakarta Indonesian	87	WANT	pengen	Bare Benefactive	Never	
+Jakarta Indonesian	87	WANT	pengen	Bare Instrumental	Never	
+Jakarta Indonesian	87	WANT	pengen	Ditransitive Alternation	Never	
+Jakarta Indonesian	87	WANT	pengen	Impersonal Passive	Regularly	
+Jakarta Indonesian	87	WANT	pengen	Intransitive alternation	Never	
+Jakarta Indonesian	87	WANT	pengen	No argument stative	Never	
+Jakarta Indonesian	87	WANT	pengen	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	87	WANT	pengen	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	87	WANT	pengen	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	87	WANT	pengen	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	87	WANT	pengen	Passive Applicative Transitive	Never	
+Jakarta Indonesian	87	WANT	pengen	Passive Transitive	Never	
+Jakarta Indonesian	87	WANT	pengen	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	87	WANT	pengen	Thematic Adversative Passive	Never	
+Jakarta Indonesian	87	WANT	pengen	Transitive Alternation	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Accidental Passive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Adversative Passive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Applicative Ablative	Regularly	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Applicative Allative	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Applicative Benefactive	Regularly	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Applicative Instrumental	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Bare Ablative	Regularly	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Bare Allative	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Bare Applicative Transitive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Bare Benefactive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Bare Instrumental	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Impersonal Passive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Intransitive alternation	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	No argument stative	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Passive Applicative Transitive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Passive Transitive	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Thematic Adversative Passive	Regularly	
+Jakarta Indonesian	89	GET (= obtain)	dapet	Transitive Alternation	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Accidental Passive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Adversative Passive	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Applicative Ablative	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Applicative Allative	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Applicative Benefactive	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Applicative Instrumental	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Bare Ablative	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Bare Allative	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Bare Benefactive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Bare Instrumental	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Impersonal Passive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Intransitive alternation	Never	
+Jakarta Indonesian	91	BE COLD	dingin	No argument stative	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	91	BE COLD	dingin	Passive Transitive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Thematic Adversative Passive	Never	
+Jakarta Indonesian	91	BE COLD	dingin	Transitive Alternation	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Accidental Passive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Adversative Passive	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Applicative Ablative	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Applicative Allative	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Applicative Benefactive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Applicative Instrumental	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Bare Ablative	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Bare Allative	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Bare Benefactive	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Bare Instrumental	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Impersonal Passive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Intransitive alternation	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	No argument stative	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Oblique Subject Passive Agentive by-phrase.	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Oblique subject Passive Applicative Ditransitive (A P)	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Oblique Subject Passive Ditransitive	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Passive Transitive	Regularly	
+Jakarta Indonesian	116	BURN (tr)	bakar	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Thematic Adversative Passive	Never	
+Jakarta Indonesian	116	BURN (tr)	bakar	Transitive Alternation	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Accidental Passive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Adversative Passive	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Applicative Ablative	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Applicative Allative	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Applicative Benefactive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Applicative Instrumental	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Bare Ablative	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Bare Allative	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Bare Applicative Transitive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Bare Benefactive	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Bare Instrumental	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Ditransitive Alternation	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Impersonal Passive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Intransitive alternation	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	No argument stative	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Oblique Subject Passive Agentive by-phrase.	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Oblique subject Passive Applicative Ditransitive (A P)	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Oblique subject Passive Applicative Ditransitive Agentive by-phrase	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Oblique Subject Passive Ditransitive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Passive Applicative Transitive	Regularly	
+Jakarta Indonesian	140	BE NAMED	panggil	Passive Transitive	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Patient Subject Passive Ditransitive Applicative Agentive by-phrase.	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Thematic Adversative Passive	Never	
+Jakarta Indonesian	140	BE NAMED	panggil	Transitive Alternation	Never	

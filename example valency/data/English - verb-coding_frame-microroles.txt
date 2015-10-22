@@ -1,0 +1,202 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+English	1	EAT	eat	Basic	1-nom > V.subj[1] > 2-acc	1	eater	NP-nom V.subj	A
+English	1	EAT	eat	Basic	1-nom > V.subj[1] > 2-acc	2	eaten food	NP-acc	P
+English	2	HUG	hug	Basic	1-nom > V.subj[1] > 2-acc	1	hugger	NP-nom V.subj	A
+English	2	HUG	hug	Basic	1-nom > V.subj[1] > 2-acc	2	huggee	NP-acc	P
+English	3	LOOK AT	look	Basic	1-nom > V.subj[1] > at+2	1	looker	NP-nom V.subj	S
+English	3	LOOK AT	look	Basic	1-nom > V.subj[1] > at+2	2	looked at entity	at+NP	X
+English	4	SEE	see	Basic	1-nom > V.subj[1] > 2-acc	1	seeer	NP-nom V.subj	A
+English	4	SEE	see	Basic	1-nom > V.subj[1] > 2-acc	2	seen entity	NP-acc	P
+English	5	SMELL	smell	Basic	1-nom > V.subj[1] > 2-acc	1	smeller	NP-nom V.subj	A
+English	5	SMELL	smell	Basic	1-nom > V.subj[1] > 2-acc	2	smelled entity	NP-acc	P
+English	6	FEAR	be afraid	Basic	1-nom > V.subj[1] > of+2	1	fearer	NP-nom V.subj	S
+English	6	FEAR	be afraid	Basic	1-nom > V.subj[1] > of+2	2	fear stimulus	of+NP	X
+English	6	FEAR	fear	Basic	1-nom > V.subj[1] > 2-acc	1	fearer	NP-nom V.subj	A
+English	6	FEAR	fear	Basic	1-nom > V.subj[1] > 2-acc	2	fear stimulus	NP-acc	P
+English	7	FRIGHTEN	frighten	Basic	1-nom > V.subj[1] > 2-acc	1	frightener	NP-nom V.subj	A
+English	7	FRIGHTEN	frighten	Basic	1-nom > V.subj[1] > 2-acc	2	frightenee	NP-acc	P
+English	7	FRIGHTEN	scare	Basic	1-nom > V.subj[1] > 2-acc	1	frightener	NP-nom V.subj	A
+English	7	FRIGHTEN	scare	Basic	1-nom > V.subj[1] > 2-acc	2	frightenee	NP-acc	P
+English	8	LIKE	like	Basic	1-nom > V.subj[1] > 2-acc	1	liker	NP-nom V.subj	A
+English	8	LIKE	like	Basic	1-nom > V.subj[1] > 2-acc	2	liked entity	NP-acc	P
+English	9	KNOW	know	Basic	1-nom > V.subj[1] > 2-acc	1	knower	NP-nom V.subj	A
+English	9	KNOW	know	Basic	1-nom > V.subj[1] > 2-acc	2	known thing/person	NP-acc	P
+English	10	THINK	think	Basic	1-nom > V.subj[1] > about+2	1	thinker	NP-nom V.subj	S
+English	10	THINK	think	Basic	1-nom > V.subj[1] > about+2	2	thought content	about+NP	X
+English	11	SEARCH FOR	search	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	1	searcher	NP-nom V.subj	A
+English	11	SEARCH FOR	search	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	2	searched entity	NP-acc	P
+English	11	SEARCH FOR	search	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	3	searched for thing	for+NP	X
+English	12	WASH	wash	Basic	1-nom > V.subj[1] > 2-acc	1	washer	NP-nom V.subj	A
+English	12	WASH	wash	Basic	1-nom > V.subj[1] > 2-acc	2	washed entity	NP-acc	P
+English	13	DRESS	dress	Basic	1-nom > V.subj[1] > 2-acc	1	dresser	NP-nom V.subj	A
+English	13	DRESS	dress	Basic	1-nom > V.subj[1] > 2-acc	2	dressee	NP-acc	P
+English	14	SHAVE (a body part/person)	shave	Basic	1-nom > V.subj[1] > 2-acc	1	shaver (of body part)	NP-nom V.subj	A
+English	14	SHAVE (a body part/person)	shave	Basic	1-nom > V.subj[1] > 2-acc	2	shaved body part	NP-acc	P
+English	15	HELP	help	Basic	1-nom > V.subj[1] > 2-acc	1	helper	NP-nom V.subj	A
+English	15	HELP	help	Basic	1-nom > V.subj[1] > 2-acc	2	helpee	NP-acc	P
+English	16	FOLLOW	follow	Basic	1-nom > V.subj[1] > 2-acc	1	follower	NP-nom V.subj	A
+English	16	FOLLOW	follow	Basic	1-nom > V.subj[1] > 2-acc	2	followee	NP-acc	P
+English	17	MEET	meet	Basic	1-nom > V.subj[1] > 2-acc	1	meeter	NP-nom V.subj	A
+English	17	MEET	meet	Basic	1-nom > V.subj[1] > 2-acc	2	met person	NP-acc	P
+English	18	TALK	talk	Basic	1-nom > V.subj[1] (> to+2) (> about+3)	1	talker	NP-nom V.subj	S
+English	18	TALK	talk	Basic	1-nom > V.subj[1] (> to+2) (> about+3)	2	talked to person	to+NP	X
+English	18	TALK	talk	Basic	1-nom > V.subj[1] (> to+2) (> about+3)	3	talked about content	about+NP	X
+English	19	ASK FOR	ask	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	1	asker	NP-nom V.subj	A
+English	19	ASK FOR	ask	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	2	askee	NP-acc	P
+English	19	ASK FOR	ask	Basic	1-nom > V.subj[1] (> 2-acc) > for+3	3	requested thing	for+NP	X
+English	20	SHOUT AT	shout	Basic	1-nom > V.subj[1] > at+2	1	shouter	NP-nom V.subj	S
+English	20	SHOUT AT	shout	Basic	1-nom > V.subj[1] > at+2	2	shoutee	at+NP	X
+English	21	TELL	tell	Basic	1-nom > V.subj[1] > 2-acc > 3	1	teller	NP-nom V.subj	A
+English	21	TELL	tell	Basic	1-nom > V.subj[1] > 2-acc > 3	2	tellee	NP-acc	P
+English	21	TELL	tell	Basic	1-nom > V.subj[1] > 2-acc > 3	3	told content	Ø	X
+English	22	SAY	say	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	1	sayer	NP-nom V.subj	A
+English	22	SAY	say	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	2	said content	NP-acc	P
+English	22	SAY	say	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	3	saying addressee	to+NP	X
+English	23	NAME	call	Basic	1-nom > V.subj[1] > 2-acc > 3	1	namer	NP-nom V.subj	A
+English	23	NAME	call	Basic	1-nom > V.subj[1] > 2-acc > 3	2	namee	NP-acc	P
+English	23	NAME	call	Basic	1-nom > V.subj[1] > 2-acc > 3	3	name	Ø	X
+English	23	NAME	name	Basic	1-nom > V.subj[1] > 2-acc > 3	1	namer	NP-nom V.subj	A
+English	23	NAME	name	Basic	1-nom > V.subj[1] > 2-acc > 3	2	namee	NP-acc	P
+English	23	NAME	name	Basic	1-nom > V.subj[1] > 2-acc > 3	3	name	Ø	X
+English	24	BUILD	build	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	1	builder	NP-nom V.subj	A
+English	24	BUILD	build	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	2	built thing	NP-acc	P
+English	24	BUILD	build	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	3	building material	from+NP	X
+English	25	BREAK	break	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	breaker	NP-nom V.subj	A
+English	25	BREAK	break	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	broken thing	NP-acc	P
+English	25	BREAK	break	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	breaking instrument	with+NP	I
+English	26	KILL	kill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	killer	NP-nom V.subj	A
+English	26	KILL	kill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	killee	NP-acc	P
+English	26	KILL	kill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	killing instrument	with+NP	I
+English	27	BEAT	beat	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	beater	NP-nom V.subj	A
+English	27	BEAT	beat	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	beatee	NP-acc	P
+English	27	BEAT	beat	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	beating instrument	with+NP	I
+English	28	HIT	hit	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	hitter	NP-nom V.subj	A
+English	28	HIT	hit	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	hittee	NP-acc	P
+English	28	HIT	hit	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	hitting instrument	with+NP	I
+English	29	TOUCH	touch	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	toucher	NP-nom V.subj	A
+English	29	TOUCH	touch	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	touchee	NP-acc	P
+English	29	TOUCH	touch	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	touching instrument	with+NP	I
+English	30	CUT	cut	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	cutter	NP-nom V.subj	A
+English	30	CUT	cut	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	cut thing	NP-acc	P
+English	30	CUT	cut	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	cutting instrument	with+NP	I
+English	31	TAKE	take	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	1	taker	NP-nom V.subj	A
+English	31	TAKE	take	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	2	taken thing	NP-acc	P
+English	31	TAKE	take	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	3	taking source	from+NP	X
+English	32	TEAR	tear	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	tearer	NP-nom V.subj	A
+English	32	TEAR	tear	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	torn thing	NP-acc	P
+English	32	TEAR	tear	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	tearing source	LOC	L
+English	33	PEEL	peel	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	peeler	NP-nom V.subj	A
+English	33	PEEL	peel	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	peeled object	NP-acc	P
+English	33	PEEL	peel	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	peel instrument	with+NP	I
+English	34	HIDE	hide	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	1	hider	NP-nom V.subj	A
+English	34	HIDE	hide	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	2	hidden thing	NP-acc	P
+English	34	HIDE	hide	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	3	hiding affectee	from+NP	X
+English	35	SHOW	show	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	1	shower	NP-nom V.subj	A
+English	35	SHOW	show	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	2	shown thing	NP-acc	P
+English	35	SHOW	show	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	3	showing addressee	to+NP	X
+English	36	GIVE	give	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	1	giver	NP-nom V.subj	A
+English	36	GIVE	give	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	2	gift	NP-acc	P
+English	36	GIVE	give	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	3	giving recipient	to+NP	X
+English	37	SEND	send	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	1	sender	NP-nom V.subj	A
+English	37	SEND	send	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	2	sent thing	NP-acc	P
+English	37	SEND	send	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	3	sending recipient	to+NP	X
+English	38	CARRY	carry	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	carrier	NP-nom V.subj	A
+English	38	CARRY	carry	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	carried thing	NP-acc	P
+English	38	CARRY	carry	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	carrying goal	LOC	L
+English	39	THROW	throw	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	thrower	NP-nom V.subj	A
+English	39	THROW	throw	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	thrown thing	NP-acc	P
+English	39	THROW	throw	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	throwing goal	LOC	L
+English	40	TIE	tie	Basic	1-nom > V.subj[1] > 2-acc > LOC3 (> with+4)	1	tier	NP-nom V.subj	A
+English	40	TIE	tie	Basic	1-nom > V.subj[1] > 2-acc > LOC3 (> with+4)	2	tied thing	NP-acc	P
+English	40	TIE	tie	Basic	1-nom > V.subj[1] > 2-acc > LOC3 (> with+4)	3	tying goal	LOC	L
+English	40	TIE	tie	Basic	1-nom > V.subj[1] > 2-acc > LOC3 (> with+4)	4	tying instrument	with+NP	I
+English	41	PUT	put	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	putter	NP-nom V.subj	A
+English	41	PUT	put	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	put thing	NP-acc	P
+English	41	PUT	put	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	putting goal	LOC	L
+English	42	POUR	pour	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	pourer	NP-nom V.subj	A
+English	42	POUR	pour	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	poured substance	NP-acc	P
+English	42	POUR	pour	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	pouring goal	LOC	L
+English	43	COVER	cover	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	coverer	NP-nom V.subj	A
+English	43	COVER	cover	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	covered thing	NP-acc	P
+English	43	COVER	cover	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	cover	with+NP	I
+English	44	FILL	fill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	filler	NP-nom V.subj	A
+English	44	FILL	fill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	filled container	NP-acc	P
+English	44	FILL	fill	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	filling material	with+NP	I
+English	45	LOAD	load	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	loader	NP-nom V.subj	A
+English	45	LOAD	load	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	loaded thing	NP-acc	P
+English	45	LOAD	load	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	loading place	LOC	L
+English	46	BLINK	blink	Basic	1-nom > V.subj[1]	1	blinker	NP-nom V.subj	S
+English	47	COUGH	cough	Basic	1-nom > V.subj[1]	1	cougher	NP-nom V.subj	S
+English	48	CLIMB	climb	Basic	1-nom > V.subj[1] > LOC2	1	climber	NP-nom V.subj	S
+English	48	CLIMB	climb	Basic	1-nom > V.subj[1] > LOC2	2	climbing goal	LOC	L
+English	49	RUN	run	Basic	1-nom > V.subj[1]	1	runner	NP-nom V.subj	S
+English	50	SIT	sit	Basic	1-nom > V.subj[1] > LOC2	1	sitter	NP-nom V.subj	S
+English	50	SIT	sit	Basic	1-nom > V.subj[1] > LOC2	2	sitting place	LOC	L
+English	51	SIT DOWN	sit down	Basic	1-nom > V.subj[1]	1	sitdowner	NP-nom V.subj	S
+English	52	JUMP	jump	Basic	1-nom > V.subj[1]	1	jumper	NP-nom V.subj	S
+English	53	SING	sing	Basic	1-nom > V.subj[1]	1	singer	NP-nom V.subj	S
+English	54	GO	go	Basic	1-nom > V.subj[1] > LOC2	1	goer	NP-nom V.subj	S
+English	54	GO	go	Basic	1-nom > V.subj[1] > LOC2	2	going goal	LOC	L
+English	55	LEAVE	leave	Basic	1-nom > V.subj[1] > 2-acc	1	leaver	NP-nom V.subj	A
+English	55	LEAVE	leave	Basic	1-nom > V.subj[1] > 2-acc	2	left place/person	NP-acc	P
+English	56	LIVE	live	Basic	1-nom > V.subj[1] > LOC2	1	liver	NP-nom V.subj	S
+English	56	LIVE	live	Basic	1-nom > V.subj[1] > LOC2	2	living place	LOC	L
+English	57	LAUGH	laugh	Basic	1-nom > V.subj[1]	1	laugher	NP-nom V.subj	S
+English	58	SCREAM	scream	Basic	1-nom > V.subj[1]	1	screamer	NP-nom V.subj	S
+English	59	FEEL PAIN	have (a) pain	Basic	1-nom > V.subj[1] > LOC2	1	pain-feeler	NP-nom V.subj	S
+English	59	FEEL PAIN	have (a) pain	Basic	1-nom > V.subj[1] > LOC2	2	pain locus	LOC	L
+English	59	FEEL PAIN	hurt	Basic	1-nom > V.subj[1]	1	pain locus	NP-nom V.subj	S
+English	60	FEEL COLD	feel cold	Basic	1-nom > V.subj[1]	1	freezing person	NP-nom V.subj	S
+English	61	DIE	die	Basic	1-nom > V.subj[1]	1	dieer	NP-nom V.subj	S
+English	62	PLAY	play	Basic	1-nom > V.subj[1]	1	player	NP-nom V.subj	S
+English	63	BE SAD	be sad	Basic	1-nom > V.subj[1]	1	sad person	NP-nom V.subj	S
+English	63	BE SAD	feel sad	Basic	1-nom > V.subj[1]	1	sad person	NP-nom V.subj	S
+English	64	BE HUNGRY	be hungry	Basic	1-nom > V.subj[1]	1	hungry person	NP-nom V.subj	S
+English	64	BE HUNGRY	feel hungry	Basic	1-nom > V.subj[1]	1	hungry person	NP-nom V.subj	S
+English	65	ROLL	roll	Basic	1-nom > V.subj[1] > LOC2	1	rolling entity	NP-nom V.subj	S
+English	65	ROLL	roll	Basic	1-nom > V.subj[1] > LOC2	2	rolling location	LOC	L
+English	66	SINK	sink	Basic	1-nom > V.subj[1]	1	sunken entity	NP-nom V.subj	S
+English	67	BURN	burn	Basic	1-nom > V.subj[1]	1	burnt thing	NP-nom V.subj	S
+English	68	BE DRY	be dry	Basic	1-nom > V.subj[1]	1	dry thing	NP-nom V.subj	S
+English	70	BE A HUNTER	be a hunter	Basic	1-nom > V.subj[1]	1	specialist/hunter	NP-nom V.subj	S
+English	71	GRIND	grind	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	1	grinder	NP-nom V.subj	A
+English	71	GRIND	grind	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	2	ground thing	NP-acc	P
+English	71	GRIND	grind	Basic	1-nom > V.subj[1] > 2-acc (> with+3)	3	grinding instrument	with+NP	I
+English	72	WIPE	wipe	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	wiper	NP-nom V.subj	A
+English	72	WIPE	wipe	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	wiped material	NP-acc	P
+English	72	WIPE	wipe	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	wiping surface	LOC	L
+English	73	DIG	dig	Basic	1-nom > V.subj[1]	1	digger	NP-nom V.subj	S
+English	74	PUSH	push	Basic	1-nom > V.subj[1] > 2-acc > LOC3	1	pusher	NP-nom V.subj	A
+English	74	PUSH	push	Basic	1-nom > V.subj[1] > 2-acc > LOC3	2	pushee	NP-acc	P
+English	74	PUSH	push	Basic	1-nom > V.subj[1] > 2-acc > LOC3	3	pushing goal	LOC	L
+English	75	BRING	bring	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	1	bringer	NP-nom V.subj	A
+English	75	BRING	bring	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	2	brought thing	NP-acc	P
+English	75	BRING	bring	Basic	1-nom > V.subj[1] > 2-acc (> to+3)	3	bringing recipient	to+NP	X
+English	76	STEAL	steal	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	1	stealer	NP-nom V.subj	A
+English	76	STEAL	steal	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	2	stolen thing	NP-acc	P
+English	76	STEAL	steal	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	3	stealing source	from+NP	X
+English	77	TEACH	teach	Basic	1-nom > V.subj[1] > 2-acc > 3	1	teacher	NP-nom V.subj	A
+English	77	TEACH	teach	Basic	1-nom > V.subj[1] > 2-acc > 3	2	teachee	NP-acc	P
+English	77	TEACH	teach	Basic	1-nom > V.subj[1] > 2-acc > 3	3	taught content	Ø	X
+English	78	HEAR	hear	Basic	1-nom > V.subj[1] > 2-acc	1	hearer	NP-nom V.subj	A
+English	78	HEAR	hear	Basic	1-nom > V.subj[1] > 2-acc	2	heard sound	NP-acc	P
+English	78	HEAR	listen (to)	Basic	1-nom > V.subj[1] > to+2	1	hearer	NP-nom V.subj	S
+English	78	HEAR	listen (to)	Basic	1-nom > V.subj[1] > to+2	2	heard sound	to+NP	X
+English	79	COOK	cook	Basic	1-nom > V.subj[1] > 2-acc	1	cooker	NP-nom V.subj	A
+English	79	COOK	cook	Basic	1-nom > V.subj[1] > 2-acc	2	cooked food	NP-acc	P
+English	80	BOIL	boil	Basic	1-nom > V.subj[1]	1	boiled thing	NP-nom V.subj	S
+English	81	APPEAR	appear	Basic	1-nom > V.subj[1] > LOC2	1	appearer	NP-nom V.subj	S
+English	81	APPEAR	appear	Basic	1-nom > V.subj[1] > LOC2	2	appear location	LOC	L
+English	82	BE ILL	be sick	Basic	1-nom > V.subj[1]	1	sick person	NP-nom V.subj	S
+English	82	BE ILL	feel sick	Basic	1-nom > V.subj[1]	1	sick person	NP-nom V.subj	S
+English	83	CRY	cry	Basic	1-nom > V.subj[1]	1	crier	NP-nom V.subj	S
+English	84	FALL	fall	Basic	1-nom > V.subj[1] > LOC2	1	fallee	NP-nom V.subj	S
+English	84	FALL	fall	Basic	1-nom > V.subj[1] > LOC2	2	fall goal	LOC	L
+English	85	MAKE	make	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	1	maker	NP-nom V.subj	A
+English	85	MAKE	make	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	2	made thing	NP-acc	P
+English	85	MAKE	make	Basic	1-nom > V.subj[1] > 2-acc (> from+3)	3	making material	from+NP	X
+English	86	GET	get	Basic	1-nom > V.subj[1] > 2-acc	1	receiver	NP-nom V.subj	A
+English	86	GET	get	Basic	1-nom > V.subj[1] > 2-acc	2	received thing	NP-acc	P
+English	87	WANT	want	Basic	1-nom > V.subj[1] > 2-acc	1	wanter	NP-nom V.subj	A
+English	87	WANT	want	Basic	1-nom > V.subj[1] > 2-acc	2	wanted thing	NP-acc	P
+English	91	BE COLD	be cold	Basic	1-nom > V.subj[1]	1	cold thing	NP-nom V.subj	S

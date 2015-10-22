@@ -1,0 +1,198 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Yorùbá	1	EAT	je̩	Basic	1 V 2	1	eater	Ø	A
+Yorùbá	1	EAT	je̩	Basic	1 V 2	2	eaten food	Ø	P
+Yorùbá	2	HUG	dìrò̩mó̩	Basic	1 V 2	1	hugger	Ø	A
+Yorùbá	2	HUG	dìrò̩mó̩	Basic	1 V 2	2	huggee	Ø	P
+Yorùbá	3	LOOK AT	wò	Basic	1 V 2	1	looker	Ø	A
+Yorùbá	3	LOOK AT	wò	Basic	1 V 2	2	looked at entity	Ø	P
+Yorùbá	4	SEE	rí	Basic	1 V 2	1	seeer	Ø	A
+Yorùbá	4	SEE	rí	Basic	1 V 2	2	seen entity	Ø	P
+Yorùbá	5	SMELL	rùn	Basic	1 V 2	1	smeller	Ø	A
+Yorùbá	5	SMELL	rùn	Basic	1 V 2	2	smelled entity	Ø	P
+Yorùbá	6	FEAR	bè̩rù	Basic	1 V 2	1	fearer	Ø	A
+Yorùbá	6	FEAR	bè̩rù	Basic	1 V 2	2	fear stimulus	Ø	P
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Basic	1 V 2	1	frightener	Ø	A
+Yorùbá	7	FRIGHTEN	dé̩rùbà	Basic	1 V 2	2	frightenee	Ø	P
+Yorùbá	8	LIKE	fé̩ràn	Basic	1 V 2	1	liker	Ø	A
+Yorùbá	8	LIKE	fé̩ràn	Basic	1 V 2	2	liked entity	Ø	P
+Yorùbá	9	KNOW	mò̩	Basic	1 V 2	1	knower	Ø	A
+Yorùbá	9	KNOW	mò̩	Basic	1 V 2	2	known thing/person	Ø	P
+Yorùbá	10	THINK	rònú	Basic	1 V nípa+2	1	thinker	Ø	S
+Yorùbá	10	THINK	rònú	Basic	1 V nípa+2	2	thought content	nípa+NP	X
+Yorùbá	11	SEARCH FOR	wá	Basic	1 V 2	1	searcher	Ø	A
+Yorùbá	11	SEARCH FOR	wá	Basic	1 V 2	2	searched for thing	Ø	P
+Yorùbá	12	WASH	fò̩	Basic	1 V 2	1	washer	Ø	A
+Yorùbá	12	WASH	fò̩	Basic	1 V 2	2	washed entity	Ø	P
+Yorùbá	12	WASH	wè̩	Basic	1 V 2	1	washer	Ø	A
+Yorùbá	12	WASH	wè̩	Basic	1 V 2	2	washed entity	Ø	P
+Yorùbá	13	DRESS	múra	Basic	1 V fún+2	1	dresser	Ø	S
+Yorùbá	13	DRESS	múra	Basic	1 V fún+2	2	dressee	fún+NP	X
+Yorùbá	14	SHAVE (a body part/person)	fá	Basic	1 V 2	1	shaver (of body part)	Ø	A
+Yorùbá	14	SHAVE (a body part/person)	fá	Basic	1 V 2	2	shaved body part	Ø	P
+Yorùbá	15	HELP	ràn...ló̩wó̩	Basic	1 V 2	1	helper	Ø	A
+Yorùbá	15	HELP	ràn...ló̩wó̩	Basic	1 V 2	2	helpee	Ø	P
+Yorùbá	16	FOLLOW	tè̩lé	Basic	1 V 2	1	follower	Ø	A
+Yorùbá	16	FOLLOW	tè̩lé	Basic	1 V 2	2	followee	Ø	P
+Yorùbá	17	MEET	bá	Basic	1 V 2	1	meeter	Ø	A
+Yorùbá	17	MEET	bá	Basic	1 V 2	2	met person	Ø	P
+Yorùbá	17	MEET	pàdé	Basic	1 V 2	1	meeter	Ø	A
+Yorùbá	17	MEET	pàdé	Basic	1 V 2	2	met person	Ø	P
+Yorùbá	18	TALK	bá...sò̩rò̩	Basic	1 V 2	1	talker	Ø	A
+Yorùbá	18	TALK	bá...sò̩rò̩	Basic	1 V 2	2	talked to person	Ø	P
+Yorùbá	19	ASK FOR	to̩ro̩	Basic	1 V 2 ní+3	1	asker	Ø	A
+Yorùbá	19	ASK FOR	to̩ro̩	Basic	1 V 2 ní+3	2	requested thing	Ø	P
+Yorùbá	19	ASK FOR	to̩ro̩	Basic	1 V 2 ní+3	3	askee	ní+NP	X
+Yorùbá	20	SHOUT AT	jágbe	Basic	1 V mó̩+2	1	shouter	Ø	S
+Yorùbá	20	SHOUT AT	jágbe	Basic	1 V mó̩+2	2	shoutee	mó̩+NP	X
+Yorùbá	20	SHOUT AT	kígbe	Basic	1 V mó̩+2	1	shouter	Ø	S
+Yorùbá	20	SHOUT AT	kígbe	Basic	1 V mó̩+2	2	shoutee	mó̩+NP	X
+Yorùbá	21	TELL	so̩ (1)	Basic	1 V 2 fún+3	1	teller	Ø	A
+Yorùbá	21	TELL	so̩ (1)	Basic	1 V 2 fún+3	2	told content	Ø	P
+Yorùbá	21	TELL	so̩ (1)	Basic	1 V 2 fún+3	3	tellee	fún+NP	X
+Yorùbá	23	NAME	pè	Basic	1 V 2 ní+3	1	namer	Ø	A
+Yorùbá	23	NAME	pè	Basic	1 V 2 ní+3	2	namee	Ø	P
+Yorùbá	23	NAME	pè	Basic	1 V 2 ní+3	3	name	ní+NP	X
+Yorùbá	23	NAME	so̩ (2)	Basic	1 V 2 ní+3	1	namer	Ø	A
+Yorùbá	23	NAME	so̩ (2)	Basic	1 V 2 ní+3	2	namee	Ø	P
+Yorùbá	23	NAME	so̩ (2)	Basic	1 V 2 ní+3	3	name	ní+NP	X
+Yorùbá	24	BUILD	kó̩	Basic	1 fi+2 V 3	1	builder	Ø	A
+Yorùbá	24	BUILD	kó̩	Basic	1 fi+2 V 3	2	building material	fi+NP	I
+Yorùbá	24	BUILD	kó̩	Basic	1 fi+2 V 3	3	built thing	Ø	P
+Yorùbá	25	BREAK	dá	Basic	1 V 2	1	breaker	Ø	A
+Yorùbá	25	BREAK	dá	Basic	1 V 2	2	broken thing	Ø	P
+Yorùbá	25	BREAK	fó̩	Basic	1 V 2	1	breaker	Ø	A
+Yorùbá	25	BREAK	fó̩	Basic	1 V 2	2	broken thing	Ø	P
+Yorùbá	25	BREAK	kán	Basic	1 V 2	1	breaker	Ø	A
+Yorùbá	25	BREAK	kán	Basic	1 V 2	2	broken thing	Ø	P
+Yorùbá	26	KILL	pa	Basic	1 V 2	1	killer	Ø	A
+Yorùbá	26	KILL	pa	Basic	1 V 2	2	killee	Ø	P
+Yorùbá	27	BEAT	lù	Basic	1 V 2	1	beater	Ø	A
+Yorùbá	27	BEAT	lù	Basic	1 V 2	2	beatee	Ø	P
+Yorùbá	27	BEAT	nà	Basic	1 V 2	1	beater	Ø	A
+Yorùbá	27	BEAT	nà	Basic	1 V 2	2	beatee	Ø	P
+Yorùbá	28	HIT	gbá	Basic	1 V 2	1	hitter	Ø	A
+Yorùbá	28	HIT	gbá	Basic	1 V 2	2	hittee	Ø	P
+Yorùbá	28	HIT	ko̩lù	Basic	1 fi+2 V 3	1	hitter	Ø	A
+Yorùbá	28	HIT	ko̩lù	Basic	1 fi+2 V 3	2	hitting instrument	fi+NP	I
+Yorùbá	28	HIT	ko̩lù	Basic	1 fi+2 V 3	3	hittee	Ø	P
+Yorùbá	29	TOUCH	bà	Basic	1 fi+2 V 3	1	toucher	Ø	A
+Yorùbá	29	TOUCH	bà	Basic	1 fi+2 V 3	2	touching instrument	fi+NP	I
+Yorùbá	29	TOUCH	bà	Basic	1 fi+2 V 3	3	touchee	Ø	P
+Yorùbá	29	TOUCH	kàn	Basic	1 fi+2 V 3	1	toucher	Ø	A
+Yorùbá	29	TOUCH	kàn	Basic	1 fi+2 V 3	2	touching instrument	fi+NP	I
+Yorùbá	29	TOUCH	kàn	Basic	1 fi+2 V 3	3	touchee	Ø	P
+Yorùbá	30	CUT	gé	Basic	1 V 2	1	cutter	Ø	A
+Yorùbá	30	CUT	gé	Basic	1 V 2	2	cut thing	Ø	P
+Yorùbá	31	TAKE	gbà	Basic	1 V 2 ní+3	1	taker	Ø	A
+Yorùbá	31	TAKE	gbà	Basic	1 V 2 ní+3	2	taken thing	Ø	P
+Yorùbá	31	TAKE	gbà	Basic	1 V 2 ní+3	3	taking source	ní+NP	X
+Yorùbá	32	TEAR	ya	Basic	1 V 2	1	tearer	Ø	A
+Yorùbá	32	TEAR	ya	Basic	1 V 2	2	torn thing	Ø	P
+Yorùbá	33	PEEL	bó	Basic	1 V 2	1	peeler	Ø	A
+Yorùbá	33	PEEL	bó	Basic	1 V 2	2	peeled object	Ø	P
+Yorùbá	34	HIDE	pa...mó̩	Basic	1 V 2	1	hider	Ø	A
+Yorùbá	34	HIDE	pa...mó̩	Basic	1 V 2	2	hidden thing	Ø	P
+Yorùbá	35	SHOW	hàn	Basic	1 fi+2 V 3	1	shower	Ø	A
+Yorùbá	35	SHOW	hàn	Basic	1 fi+2 V 3	2	shown thing	fi+NP	I
+Yorùbá	35	SHOW	hàn	Basic	1 fi+2 V 3	3	showing addressee	Ø	P
+Yorùbá	36	GIVE	fún	Basic	1 V 2 ní+3	1	giver	Ø	A
+Yorùbá	36	GIVE	fún	Basic	1 V 2 ní+3	2	giving recipient	Ø	P
+Yorùbá	36	GIVE	fún	Basic	1 V 2 ní+3	3	gift	ní+NP	X
+Yorùbá	37	SEND	ráns̩é̩	Basic	1 fi+2 V sí+3	1	sender	Ø	S
+Yorùbá	37	SEND	ráns̩é̩	Basic	1 fi+2 V sí+3	2	sent thing	fi+NP	I
+Yorùbá	37	SEND	ráns̩é̩	Basic	1 fi+2 V sí+3	3	sending recipient	sí+NP	X
+Yorùbá	38	CARRY	gbé	Basic	1 V 2	1	carrier	Ø	A
+Yorùbá	38	CARRY	gbé	Basic	1 V 2	2	carried thing	Ø	P
+Yorùbá	39	THROW	jù	Basic	1 V 2	1	thrower	Ø	A
+Yorùbá	39	THROW	jù	Basic	1 V 2	2	thrown thing	Ø	P
+Yorùbá	40	TIE	dè	Basic	1 fi+2 V 3	1	tier	Ø	A
+Yorùbá	40	TIE	dè	Basic	1 fi+2 V 3	2	tying instrument	fi+NP	I
+Yorùbá	40	TIE	dè	Basic	1 fi+2 V 3	3	tied thing	Ø	P
+Yorùbá	40	TIE	so (3)	Basic	1 fi+2 V 3	1	tier	Ø	A
+Yorùbá	40	TIE	so (3)	Basic	1 fi+2 V 3	2	tying instrument	fi+NP	I
+Yorùbá	40	TIE	so (3)	Basic	1 fi+2 V 3	3	tied thing	Ø	P
+Yorùbá	41	PUT	fi	Basic	1 V 2 LOC3	1	putter	Ø	A
+Yorùbá	41	PUT	fi	Basic	1 V 2 LOC3	2	put thing	Ø	P
+Yorùbá	41	PUT	fi	Basic	1 V 2 LOC3	3	putting goal	LOC	L
+Yorùbá	42	POUR	dà	Basic	1 V 2 LOC3	1	pourer	Ø	A
+Yorùbá	42	POUR	dà	Basic	1 V 2 LOC3	2	poured substance	Ø	P
+Yorùbá	42	POUR	dà	Basic	1 V 2 LOC3	3	pouring goal	LOC	L
+Yorùbá	42	POUR	ro̩	Basic	1 V 2 LOC3	1	pourer	Ø	A
+Yorùbá	42	POUR	ro̩	Basic	1 V 2 LOC3	2	poured substance	Ø	P
+Yorùbá	42	POUR	ro̩	Basic	1 V 2 LOC3	3	pouring goal	LOC	L
+Yorùbá	43	COVER	bò	Basic	1 fi+2 V 3	1	coverer	Ø	A
+Yorùbá	43	COVER	bò	Basic	1 fi+2 V 3	2	cover	fi+NP	I
+Yorùbá	43	COVER	bò	Basic	1 fi+2 V 3	3	covered thing	Ø	P
+Yorùbá	43	COVER	dé	Basic	1 fi+2 V 3	1	coverer	Ø	A
+Yorùbá	43	COVER	dé	Basic	1 fi+2 V 3	2	cover	fi+NP	I
+Yorùbá	43	COVER	dé	Basic	1 fi+2 V 3	3	covered thing	Ø	P
+Yorùbá	44	FILL	po̩n...kún	Basic	1 V 2 3	1	filler	Ø	A
+Yorùbá	44	FILL	po̩n...kún	Basic	1 V 2 3	2	filling material	Ø	P
+Yorùbá	44	FILL	po̩n...kún	Basic	1 V 2 3	3	filled container	Ø	P
+Yorùbá	44	FILL	ro̩...kún	Basic	1 V 2 3	1	filler	Ø	A
+Yorùbá	44	FILL	ro̩...kún	Basic	1 V 2 3	2	filling material	Ø	P
+Yorùbá	44	FILL	ro̩...kún	Basic	1 V 2 3	3	filled container	Ø	P
+Yorùbá	45	LOAD	kó	Basic	1 V 2 LOC3	1	loader	Ø	A
+Yorùbá	45	LOAD	kó	Basic	1 V 2 LOC3	2	loaded thing	Ø	P
+Yorùbá	45	LOAD	kó	Basic	1 V 2 LOC3	3	loading place	LOC	L
+Yorùbá	47	COUGH	wúkó̩	Basic	1 V	1	cougher	Ø	S
+Yorùbá	48	CLIMB	gùn	Basic	1 V 2	1	climber	Ø	A
+Yorùbá	48	CLIMB	gùn	Basic	1 V 2	2	climbing goal	Ø	P
+Yorùbá	49	RUN	sáré	Basic	1 V	1	runner	Ø	S
+Yorùbá	50	SIT	jókòó	Basic	1 V LOC2	1	sitter	Ø	S
+Yorùbá	50	SIT	jókòó	Basic	1 V LOC2	2	sitting place	LOC	L
+Yorùbá	52	JUMP	bé̩sílè̩	Basic	1 V	1	jumper	Ø	S
+Yorùbá	52	JUMP	fòsókè	Basic	1 V	1	jumper	Ø	S
+Yorùbá	53	SING	ko̩rin	Basic	1 V	1	singer	Ø	S
+Yorùbá	54	GO	lo̩	Basic	1 V sí+2	1	goer	Ø	S
+Yorùbá	54	GO	lo̩	Basic	1 V sí+2	2	going goal	sí+NP	X
+Yorùbá	55	LEAVE	fi...sílè̩	Basic	1 V 2	1	leaver	Ø	A
+Yorùbá	55	LEAVE	fi...sílè̩	Basic	1 V 2	2	left place/person	Ø	P
+Yorùbá	56	LIVE	gbé (2)	Basic	1 V ní+2	1	liver	Ø	S
+Yorùbá	56	LIVE	gbé (2)	Basic	1 V ní+2	2	living place	ní+NP	X
+Yorùbá	57	LAUGH	ré̩rìín	Basic	1 V	1	laugher	Ø	S
+Yorùbá	58	SCREAM	ho̩n	Basic	1 V	1	screamer	Ø	S
+Yorùbá	60	FEEL COLD	móòtútù	Basic	1 V	1	freezing person	Ø	S
+Yorùbá	61	DIE	kú	Basic	1 V	1	dieer	Ø	S
+Yorùbá	62	PLAY	s̩eré	Basic	1 V	1	player	Ø	S
+Yorùbá	63	BE SAD	banújé̩	Basic	1 V	1	sad person	Ø	S
+Yorùbá	64	BE HUNGRY	pebi	Basic	1 V	1	hungry person	Ø	S
+Yorùbá	65	ROLL	yí	Basic	1 V	1	rolling entity	Ø	S
+Yorùbá	66	SINK	rì (2)	Basic	1 V	1	sunken entity	Ø	S
+Yorùbá	67	BURN	jó	Basic	1 V	1	burnt thing	Ø	S
+Yorùbá	68	BE DRY	gbe̩ (3)	Basic	1 V	1	dry thing	Ø	S
+Yorùbá	71	GRIND	lò̩ (2)	Basic	1 V 2	1	grinder	Ø	A
+Yorùbá	71	GRIND	lò̩ (2)	Basic	1 V 2	2	ground thing	Ø	P
+Yorùbá	72	WIPE	nù	Basic	1 V 2	1	wiper	Ø	A
+Yorùbá	72	WIPE	nù	Basic	1 V 2	2	wiped material	Ø	P
+Yorùbá	73	DIG	gbé̩	Basic	1 V 2	1	digger	Ø	A
+Yorùbá	73	DIG	gbé̩	Basic	1 V 2	2	dug hole/ground	Ø	P
+Yorùbá	74	PUSH	tì	Basic	1 V 2	1	pusher	Ø	A
+Yorùbá	74	PUSH	tì	Basic	1 V 2	2	pushee	Ø	P
+Yorùbá	75	BRING	mú...wá	Basic	1 V 2	1	bringer	Ø	A
+Yorùbá	75	BRING	mú...wá	Basic	1 V 2	2	brought thing	Ø	P
+Yorùbá	76	STEAL	jí	Basic	1 V 2	1	stealer	Ø	A
+Yorùbá	76	STEAL	jí	Basic	1 V 2	2	stolen thing	Ø	P
+Yorùbá	77	TEACH	kó̩ (2)	Basic	1 V 2 ní+3	1	teacher	Ø	A
+Yorùbá	77	TEACH	kó̩ (2)	Basic	1 V 2 ní+3	2	teachee	Ø	P
+Yorùbá	77	TEACH	kó̩ (2)	Basic	1 V 2 ní+3	3	taught content	ní+NP	X
+Yorùbá	78	HEAR	gbó̩	Basic	1 V 2	1	hearer	Ø	A
+Yorùbá	78	HEAR	gbó̩	Basic	1 V 2	2	heard sound	Ø	P
+Yorùbá	79	COOK	dáná	Basic	1 V	1	cooker	Ø	S
+Yorùbá	79	COOK	sè	Basic	1 V 2	1	cooker	Ø	A
+Yorùbá	79	COOK	sè	Basic	1 V 2	2	cooked food	Ø	P
+Yorùbá	80	BOIL	hó	Basic	1 V	1	boiled thing	Ø	S
+Yorùbá	81	APPEAR	farahàn	Basic	1 V fún+2	1	appearer	Ø	S
+Yorùbá	81	APPEAR	farahàn	Basic	1 V fún+2	2	appear location	fún+NP	X
+Yorùbá	82	BE ILL	s̩àárè̩	Basic	1 V	1	sick person	Ø	S
+Yorùbá	83	CRY	sunkún	Basic	1 V	1	crier	Ø	S
+Yorùbá	84	FALL	s̩ubú	Basic	1 V	1	fallee	Ø	S
+Yorùbá	85	MAKE	s̩e	Basic	1 fi+2 V 3	1	maker	Ø	A
+Yorùbá	85	MAKE	s̩e	Basic	1 fi+2 V 3	2	making material	fi+NP	I
+Yorùbá	85	MAKE	s̩e	Basic	1 fi+2 V 3	3	made thing	Ø	P
+Yorùbá	86	GET	gbà (2)	Basic	1 V 2	1	receiver	Ø	A
+Yorùbá	86	GET	gbà (2)	Basic	1 V 2	2	received thing	Ø	P
+Yorùbá	87	WANT	fé̩	Basic	1 V 2	1	wanter	Ø	A
+Yorùbá	87	WANT	fé̩	Basic	1 V 2	2	wanted thing	Ø	P
+Yorùbá	113	WINK	s̩é̩jú	Basic	1 V sí+2	1	winker	Ø	S
+Yorùbá	113	WINK	s̩é̩jú	Basic	1 V sí+2	2	winkee	sí+NP	X

@@ -1,0 +1,424 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Hokkaido Japanese	1		Sono musumega pano tabeta.		sono musume=ga pan=o tabe-ta	that girl=NOM bread=ACC eat-PST	That girl ate bread.
+Hokkaido Japanese	2		Panwa onnanokoni taberareta.		pan=wa onnanoko=ni tabe-rare-ta	bread=TOP girl=DAT eat-PASS-PST	The bread was eaten by the girl.
+Hokkaido Japanese	3		Darekaga syo:zyoni pano tabesaseta.		dareka=ga syo:zyo=ni pan=o tabe-sase-ta	someone=NOM girl=DAT bread=ACC eat-CAUS-PST	Someone made the girl eat the bread.
+Hokkaido Japanese	4		Ano onnanokowa natto:{o/ga} tabe(ra)reru.		ano onnanoko=wa natto:={o/ga} tabe-(ra)re-ru	that girl=TOP natto={ACC/NOM} eat-POT-NPST	The girl can eat natto.
+Hokkaido Japanese	5		Ano kinokowa tabe(ra)reru.		ano kinoko=wa tabe-(ra)re-ru	that mushroom=TOP eat-POT-NPST	That mushroom is edible.
+Hokkaido Japanese	6		Sono syo:nenga sono otokoni okaneo motometa.		sono syo:nen=ga sono otoko=ni okane=o motome-ta	that boy=NOM that man=DAT money=ACC ask.for-PST	That boy asked that man for money.
+Hokkaido Japanese	7		Otokoga syo:nenni okaneo motomerareta.		otoko=ga syo:nen=ni okane=o motome-rare-ta	man=NOM boy=DAT money=ACC ask.for-PASS-PST	The man was asked for money by the boy.
+Hokkaido Japanese	8		Syo:nenwa otokoni okaneo motome(ra)reru.		syo:nen=wa otoko=ni okane=o motome-(ra)re-ru	boy=TOP man=DAT money=ACC ask.for-POT-NPST	The boy can ask the man for money.
+Hokkaido Japanese	9		Sono musumega sono otokoni dakituita.		sono musume=ga sono otoko=ni dakitui-ta	that girl=NOM that man=DAT hug-PST	That girl hugged that man.
+Hokkaido Japanese	10		Otokoga musumeni dakitukareta.		otoko=ga musume=ni dakituk-are-ta	man=NOM girl=DAT hug-PASS-PST	The man was hugged by the girl.
+Hokkaido Japanese	11		Darekaga musumeo otokoni dakitukaseta.		dareka=ga musume=o otoko=ni dakituk-ase-ta	someone=NOM girl=ACC man=DAT hug-CAUS-PST	Someone made the girl hug the man.
+Hokkaido Japanese	12		(Subasikkoinode) musumewa otokoni dakitukeru.		subasikko-i=node musume=wa otoko=ni dakituk-e-ru	agile-NPST=because girl=TOP man=DAT hug-POT-NPST	(Because she is quick,) the girl can hug the man."
+Hokkaido Japanese	13		(Noromananode) ano otokowa dakitukeru.		noroma=na=node ano otoko=wa dakituk-e-ru	slow=COPULA.ADN=because that man=TOP hug-POT-NPST	(Because he is slow,) that man is easy to hug."
+Hokkaido Japanese	14		Sono otokoga sono syo:neno mita.		sono otoko=ga sono syo:nen=o mi-ta	that man=NOM that boy=ACC look.at-PST	That man looked at that boy.
+Hokkaido Japanese	15		Syo:nenga mieta.		syo:nen=ga mie-ta	boy=NOM see-PST	The boy was seen.
+Hokkaido Japanese	16		Syo:nenwa otokoni mirareta.		syo:nen=wa otoko=ni mi-rare-ta	boy=TOP man=DAT look.at-PASS-PST	The boy was looked at by the man.
+Hokkaido Japanese	17		Darekaga danse:ni syo:neno misaseta.		dareka=ga danse:=ni syo:nen=o mi-sase-ta	someone=NOM man=DAT boy=ACC look.at-CAUS-PST	Someone made the man look at the boy.
+Hokkaido Japanese	18		Sono danse:(ni)wa yu:re:ga mieru.		sono danse:=ni=wa yu:re:=ga mi-e-ru	that man=DAT=TOP ghost=NOM see-POT-NPST	That man can see the ghost.
+Hokkaido Japanese	19		Yu:re:wa mieru.		yu:re:=wa mi-e-ru	ghost=TOP see-POT-NPST	The ghost was seen.
+Hokkaido Japanese	20		Kumawa syo:nenno nioio kaida.		kuma=wa syo:nen=no nioi=o kai-da	bear=TOP boy=GEN smell=ACC smell-PST	The bear caught the boy's scent.
+Hokkaido Japanese	21		Syo:nenwa kumani nioio kagareta.		syo:nen=wa kuma=ni nioi=o kag-are-ta	boy=TOP bear=DAT smell=ACC smell-PASS-PST	The boy was smelled by the bear.
+Hokkaido Japanese	22		Karewa inuni nioio kagaseta.		kare=wa inu=ni nioi=o kag-ase-ta	he=TOP dog=DAT smell=ACC smell-CAUS-PST	He made the dog smell (something).
+Hokkaido Japanese	23		Tosio totta kumadakedo, imadani nioio kageru.		tosi=o tot-ta kuma-dakedo imadani nioi=o kag-e-ru	year=ACC take-PST bear-although still.now smell=ACC smell-POT-NPST	Although it is an old bear, it still has a good nose."
+Hokkaido Japanese	24		Sono syo:nenwa sono otokoo kowagatte ita.		sono syo:nen=wa sono otoko=o kowagat-te i-ta	that boy=TOP that man=ACC fear-GER be-PST	That boy feared that man.
+Hokkaido Japanese	25		Syo:nenwa sono otokoga kowai.		syo:nen=wa sono otoko=ga kowa-i	boy=TOP that man=NOM afraid-NPST	The boy is afraid of that man.
+Hokkaido Japanese	26		Sono otokowa syo:nenni kowagarareru.		sono otoko=wa syo:nen=ni kowagar-are-ru	that man=TOP boy=DAT fear-PASS-NPST	That man will be feared by the boy.
+Hokkaido Japanese	27		Darekaga sono syo:nenni otokoo kowagaraseta.		dareka=ga sono syo:nen=ni otoko=o kowagar-ase-ta	someone=NOM that boy=DAT man=ACC fear-CAUS-PST	Someone made that boy fear that man.
+Hokkaido Japanese	28		Sono otokoga sono syo:neno kowagaraseta.		sono otoko=ga sono syo:nen=o kowagarase-ta	that man=NOM that boy=ACC frighten-PST	That man frightened that boy.
+Hokkaido Japanese	29		Darekaga sono otokoni syo:neno kowagaraseaseta.		dareka=ga sono otoko=ni syo:nen=o kowagarase-ase-ta	someone=NOM that man=DAT boy=ACC frighten-CAUS-PST	Someone made that man frighten the boy.
+Hokkaido Japanese	30		Syo:nenga otokoo kowagatta.		syo:nen=ga otoko=o kowagat-ta	boy=NOM man=ACC be.frightened-PST	The boy was frightened of the man.
+Hokkaido Japanese	31		Syo:nenga otokoniyotte kowagarasareta.		syo:nen=ga otoko=niyotte kowagaras-are-ta	boy=NOM man=by frighten-PASS-PST	The boy was frightened by the man.
+Hokkaido Japanese	32		Sono otokowa syo:nenwo kowagaraserareru.		sono otoko=wa syo:nen=o kowagarase-rare-ru	that man=TOP boy=ACC frighten-POT-NPST	That man can frighten the boy.
+Hokkaido Japanese	33		Ano syo:nenwa, okubyo:dakara, kowagaraserareru.		ano syo:nen=wa okubyo:=dakara kowagarase-rare-ru	that boy=TOP coward=because frighten-POT-NPST	Being a coward, that boy can be frightened."
+Hokkaido Japanese	34		Sono syo:nenwa tonarino onnanokoga sukidatta.		sono syo:nen=wa tonari=no onnanoko=ga suki=dat-ta	that boy=TOP neighbor=GEN girl=NOM like=COPULA-PST	That boy likes the girl next door.
+Hokkaido Japanese	35		Tonarino onnanokoga sono syo:nenni sukarete iru.		tonari=no onnanoko=ga sono syo:nen=ni suk-are-te i-ru	neighbor=GEN girl=NOM that boy=DAT like-PASS-GER be-NPST	The girl next door is liked by that boy.
+Hokkaido Japanese	36		Sono otokowa sono syo:neno sitteru.		sono otoko=wa sono syo:nen=o sit-te-ru	that man=TOP that boy=ACC know-GER.be-NPST	That man knows that boy.
+Hokkaido Japanese	37		Sono musumega sono otokoni syo:nen{no kotoo/nituite} siraseta.		sono musume=ga sono otoko=ni syo:nen={no koto=o/nituite} sirase-ta	that girl=NOM that man=DAT boy={GEN thing=ACC/about} let.know-PST	That girl let that man know about the boy.
+Hokkaido Japanese	38		Sono syo:nenga sono otokoni sirarete iru.		sono syo:nen=ga sono otoko=ni sir-are-te i-ru	that boy=NOM that man=DAT know-PASS-GER be-NPST	That boy is known to that man.
+Hokkaido Japanese	39		Sono otokoga sono syo:nenno syo:rainituite kangaeta.		sono otoko=ga sono syo:nen=no syo:rai=nituite kangae-ta	that man=NOM that boy=GEN future=about think-PST	That man thought about that boy's future.
+Hokkaido Japanese	40		Darekaga otokoni syo:nenno syo:rainituite kangaesaseta.		dareka=ga otoko=ni syo:nen=no syo:rai=nituite kangae-sase-ta	someone=NOM man=DAT boy=GEN future=about think-CAUS-PST	Someone made the man think about the boy's future.
+Hokkaido Japanese	41		Byo:kino kansengenga kasitukito minnani kangaerarete iru.		byo:ki=no kansengen=ga kasituki=to minna=ni kangae-rare-te i-ru	desease=GEN cause=NOM air.humilifier=COM all=DAT think-PASS-GER be-NPST	The cause of the disease is considered to be the air-humidifier.
+Hokkaido Japanese	42		Otoko{ga/wa} syo:nenno syo:rainituite kangaerareru.		otoko={ga/wa} syo:nen=no syo:rai=nituite kangae-rare-ru	man={NOM/TOP} boy=GEN future=about think-POT-NPST	The man can think about the boy's future.
+Hokkaido Japanese	43		Sono otokoga sono syo:neno sagasite ita.		sono otoko=ga sono syo:nen=o sagasi-te i-ta	that man=NOM that boy=ACC search-GER be-PST	That man was searching for that boy.
+Hokkaido Japanese	44		Darekaga otokoni syo:neno sagasaseta.		dareka=ga otoko=ni syo:nen=o sagas-ase-ta	someone=NOM man=DAT boy=ACC search-CAUS-PST	Someone made the man search for the boy.
+Hokkaido Japanese	45		Syo:nenga otokoniyotte sagasarete iru.		syo:nen=ga otoko=niyotte sagas-are-te i-ru	boy=NOM man=by search-PASS-GER be-NPST	The boy is searched for by the man.
+Hokkaido Japanese	46		Otokowa syo:neno sagaseru.		otoko=wa syo:nen=o sagas-e-ru	man=TOP boy=ACC search-POT-NPST	The man can search for the boy.
+Hokkaido Japanese	47		Takutiwa sagaseru.		takuti=wa sagas-e-ru	building.lot=TOP search-POT-NPST	The building lot can be found.
+Hokkaido Japanese	48		Sono musumega hukuo aratta.		sono musume=ga huku=o arat-ta	that girl=NOM cloth=ACC wash-PST	That girl washed the clothes.
+Hokkaido Japanese	49		Kono koppuwa arawasatta.		kono koppu=wa araw-asat-ta	this cup=TOP wash-AC-PST	This cup got washed.
+Hokkaido Japanese	50		Darekaga syo:zyoni hukuo arawaseta.		dareka=ga syo:zyo=ni huku=o araw-ase-ta	someone=NOM girl=DAT cloth=ACC wash-CAUS-PST	Someone made the girl wash the clothes.
+Hokkaido Japanese	51		Hukuwa syo:zyoni arawareta.		huku=wa syo:zyo=ni araw-are-ta	cloth=TOP girl=DAT wash-PASS-PST	The clothes were washed by the girl.
+Hokkaido Japanese	52		Sono syo:zyowa hukuo araeru.		sono syo:zyo=wa huku=o ara-e-ru	that girl=TOP cloth=ACC wash-POT-NPST	That girl can wash the clothes.
+Hokkaido Japanese	53		Sono hukuwa araeru.		sono huku=wa ara-e-ru	that cloth=TOP wash-POT-NPST	Those clothes are washable.
+Hokkaido Japanese	54		Hahawa musumeni hukuo kiseta.		haha=wa musume=ni huku=o kise-ta	mother=TOP daughter=DAT cloth=ACC dress-PST	Mother dressed her daughter.
+Hokkaido Japanese	55		Manekinga hukuo kiserasatte iru.		manekin=ga huku=o kise-rasat-te ir-u	mannequin=NOM cloth=ACC dress-AC-GER be-NPST	The mannequin is dressed up.
+Hokkaido Japanese	56		Titiwa hahani musumeni hukuo kisesaseta.		titi=wa haha=ni musume=ni huku=o kise-sase-ta	father=TOP mother=DAT daughter=DAT cloth=ACC dress-CAUS-PST	Father made mother dress the daughter.
+Hokkaido Japanese	57		Musumewa hukuo kita.		musume=wa huku=o ki-ta	daughter=TOP cloth=ACC wear-PST	The daughter wore the clothes.
+Hokkaido Japanese	58		Hahawa musumeni hukuo kiserareru.		haha=wa musume=ni huku=o kise-rare-ru	mother=TOP daughter=DAT cloth=ACC dress-POT-NPST	Mother can dress her daughter.
+Hokkaido Japanese	59		Sono otokoga higeo sotta.		sono otoko=ga hige=o sot-ta	that man=NOM beard=ACC shave-PST	That man shaved his beard.
+Hokkaido Japanese	60		Higega sorasattenai.		hige=ga sor-asat-te-nai	beard=NOM shave-AC-GER.be-NEG.NPST	The beard is not shaved.
+Hokkaido Japanese	61		Darekaga sono otokoni higeo soraseta.		dareka=ga sono otoko=ni hige=o sor-ase-ta	someone=NOM that man=DAT beard=ACC shave-CAUS-PST	Someone made that man shave his beard.
+Hokkaido Japanese	62		Higega otokoni sorareta.		hige=ga otoko=ni sor-are-ta	beard=NOM man=DAT shave-PASS-PST	My beard was shaved by the man.
+Hokkaido Japanese	63		Sono otokowa higeo soreru.		sono otoko=wa hige=o sor-e-ru	that man=TOP beard=ACC shave-POT-NPST	That man can shave his beard.
+Hokkaido Japanese	64		Sono otokoga sono musumeo tasuketa.		sono otoko=ga sono musume=o tasuke-ta	that man=NOM that girl=ACC help-PST	That man helped that girl.
+Hokkaido Japanese	65		Darekaga danse:ni syo:zyoo tasukesaseta.		dareka=ga danse:=ni syo:zyo=o tasuke-sase-ta	someone=NOM man=DAT girl=ACC help-CAUS-PST	Someone made the man help the girl.
+Hokkaido Japanese	66		Sono musumega tasukatta.		sono musume=ga tasukat-ta	that girl=NOM be.helped-PST	That girl was helped.
+Hokkaido Japanese	67		Syo:zyowa danse:ni tasukerareta.		syo:zyo=wa danse:=ni tasuke-rare-ta	girl=TOP man=DAT help-PASS-PST	The girl was helped by the man.
+Hokkaido Japanese	68		Danse:niwa syo:zyoga tasukerareru.		danse:=ni=wa syo:zyo=ga tasuke-rare-ru	man=DAT=TOP girl=NOM help-POT-NPST	The man can help the girl.
+Hokkaido Japanese	69		Ano syo:zyowa tasukerareru.		ano syo:zyo=wa tasuke-rare-ru	that girl=TOP help-POT-NPST	That girl can be helped.
+Hokkaido Japanese	70		Watasiwa syo:nentatio tetudatta.		watasi=wa syo:nentati=o tetudat-ta	1sg=TOP boys=ACC help-PST	I helped the boys.
+Hokkaido Japanese	71		Hahawa watasini syo:nentatio tetudawaseta.		haha=wa watasi=ni syo:nentati=o tetudaw-ase-ta	mother=TOP 1sg=DAT boys=ACC help-CAUS-PST	Mother made me help the boys.
+Hokkaido Japanese	72		Kodomotatiwa kareni tetudawareta.		kodomotati=wa kare=ni tetudaw-are-ta	children=TOP he=DAT help-PASS-PST	The children are helped by him.
+Hokkaido Japanese	73		Watasiwa sono syo:nentatio tetudaeru.		watasi=wa sono syo:nentati=o tetuda-e-ru	1sg=TOP that boys=ACC help-POT-NPST	I can help the boys.
+Hokkaido Japanese	74		Sono otokoga sono musumeni tuite itta.		sono otoko=ga sono musume=ni tui-te it-ta	that man=NOM that girl=DAT follow-GER go-PST	That man followed that girl.
+Hokkaido Japanese	75		Darekaga danse:o syo:zyoni tuite ikaseta.		dareka=ga danse:=o syo:zyo=ni tui-te ik-ase-ta	someone=NOM man=ACC girl=DAT follow-GER go-CAUS-PST	Someone made the man follow the girl.
+Hokkaido Japanese	76		Syo:zyowa otokoni tuite korareta.		syo:zyo=wa otoko=ni tui-te ko-rare-ta	girl=TOP man=DAT follow-GER come-PASS-PST	The girl was followed by the man.
+Hokkaido Japanese	77		Danse:wa syo:zyoni tuite ikeru.		danse:=wa syo:zyo=ni tui-te ik-e-ru	man=TOP girl=DAT follow-GER go-POT-NPST	The man can follow the girl.
+Hokkaido Japanese	78		Sono otokoga sono musumeo oikaketa.		sono otoko=ga sono musume=o oikake-ta	that man=NOM that girl=ACC follow-PST	That man followed that girl.
+Hokkaido Japanese	79		Darekaga danse:ni syo:zyoo oikakesaseta.		dareka=ga danse:=ni syo:zyo=o oikake-sase-ta	someone=NOM man=DAT girl=ACC follow-CAUS-PST	Someone made the man follow the girl.
+Hokkaido Japanese	80		Syo:zyowa otokoni oikakerareta.		syo:zyo=wa otoko=ni oikake-rare-ta	girl=TOP man=DAT follow-PASS-PST	The girl was chased by the man.
+Hokkaido Japanese	81		Danse:wa syo:zyoo oikakerareru.		danse:=wa syo:zyo=o oikake-rare-ru	man=TOP girl=ACC follow-POT-NPST	The man can follow the girl.
+Hokkaido Japanese	82		Sono otokoga musume{to/ni} atta.		sono otoko=ga musume={to/ni} at-ta	that man=NOM daughter={COM/DAT} meet-PST	That man met the girl.
+Hokkaido Japanese	83		Darekaga sono otokoo musume{to/ni} awaseta.		dareka=ga sono otoko=o musume={to/ni} aw-ase-ta	someone=NOM that man=ACC daughter={COM/DAT} meet-CAUS-PST	Someone made that man meet the girl.
+Hokkaido Japanese	84		Sono otokowa musume{to/ni} aeru.		sono otoko=wa musume={to/ni} a-e-ru	that man=TOP girl={COM/DAT} meet-POT-NPST	That man can meet the girl.
+Hokkaido Japanese	85		Sono otokoga sono syo:nenni syo:zyono kotoo hanasita.		sono otoko=ga sono syo:nen=ni syo:zyo=no koto=o hanasi-ta	that man=NOM that boy=DAT girl=GEN thing=ACC talk-PST	That man talked to that boy about the girl.
+Hokkaido Japanese	86		Darekaga sono otokoni syo:nenni syo:zyono kotoo hanasaseta.		dareka=ga sono otoko=ni syo:nen=ni syo:zyo=no koto=o hanas-ase-ta	someone=NOM that man=DAT boy=DAT girl=GEN thing=ACC talk-CAUS-PST	Someone made that man talk to the boy about the girl.
+Hokkaido Japanese	87		Syo:nenwa danse:ni syo:zyono kotoo hanasareta.		syo:nen=wa danse:=ni syo:zyo=no koto=o hanas-are-ta	boy=TOP man=DAT girl=GEN thing=ACC talk-PASS-PST	The boy was told about the girl by the man.
+Hokkaido Japanese	88		Syo:zyono kotoga danse:niyotte syo:nenni hanasareta.		syo:zyo=no koto=ga danse:=niyotte syo:nen=ni hanas-are-ta	girl=GEN thing=NOM man=by boy=DAT talk-PASS-PST	Something about the girl was told to the boy by the man.
+Hokkaido Japanese	89		Sono danse:wa syo:nenni syo:zyono kotoo hanaseru.		sono danse:=wa syo:nen=ni syo:zyo=no koto=o hanas-e-ru	that man=TOP boy=DAT girl=GEN thing=ACC talk-POT-NPST	That man can talk to the boy about the girl.
+Hokkaido Japanese	90		Syo:zyono kotowa syo:nenni hanaseru.		syo:zyo=no koto=wa syo:nen=ni hanas-e-ru	girl=GEN thing=TOP boy=DAT talk-POT-NPST	Things about the girl can be told to the boy.
+Hokkaido Japanese	91		Darekaga syo:nenni okaneo motomesaseta.		dareka=ga syo:nen=ni okane=o motome-sase-ta	someone=NOM boy=DAT money=ACC ask.for-CAUS-PST	Someone made the boy ask for money.
+Hokkaido Japanese	92		Sono otokoga sono musumeni monogatario hanasita.		sono otoko=ga sono musume=ni monogatari=o hanasi-ta	that man=NOM that girl=DAT story=ACC tell-PST	That man told the story to that girl.
+Hokkaido Japanese	93		Darekaga sono otokoni musumeni monogatario hanasaseta.		dareka=ga sono otoko=ni musume=ni monogatari=o hanas-ase-ta	someone=NOM that man=DAT girl=DAT story=ACC tell-CAUS-PST	Someone made that man tell the story to the girl.
+Hokkaido Japanese	94		Monogatariga sono otokoniyotte musumeni hanasareta.		monogatari=ga sono otoko=niyotte musume=ni hanas-are-ta	story=NOM that man=by girl=DAT tell-PASS-PST	The story was told to the girl by that man.
+Hokkaido Japanese	95		Sono otokowa sono musumeni monogatario hanaseru.		sono otoko=wa sono musume=ni monogatari=o hanas-e-ru	that man=TOP that girl=DAT story=ACC tell-POT-NPST	That man can tell the story to that girl.
+Hokkaido Japanese	96		Syo:nenga syo:zyoni nanika itta.		syo:nen=ga syo:zyo=ni nanika it-ta	boy=NOM girl=DAT something say-PST	The boy said something to the girl.
+Hokkaido Japanese	97		Darekaga syo:nenni nanikao syo:zyoni iwaseta.		dareka=ga syo:nen=ni nanika=o syo:zyo=ni iw-ase-ta	someone=NOM boy=DAT something=ACC girl=DAT say-CAUS-PST	Someone made the boy say something to the girl.
+Hokkaido Japanese	98		Syo:zyoga syo:nenni nanika iwareta.		syo:zyo=ga syo:nen=ni nanika iw-are-ta	girl=NOM boy=DAT something say-PASS-PST	The girl was told something by the boy.
+Hokkaido Japanese	99		Syo:nenwa syo:zyoni nanika ieta.		syo:nen=wa syo:zyo=ni nanika i-e-ta	boy=TOP girl=DAT something say-POT-PST	The boy could say something to the girl.
+Hokkaido Japanese	100		Sono musumega sono syo:neno bakato yonda.		sono musume=ga sono syo:nen=o baka-to yon-da	that girl=NOM that boy=ACC fool-COM call-PST	That girl called that boy a fool.
+Hokkaido Japanese	101		Darekaga syo:zyoni syo:neno bakato yobaseta.		dareka=ga syo:zyo=ni syo:nen=o baka=to yob-ase-ta	someone=NOM girl=DAT boy=ACC fool=COM call-CAUS-PST	Someone made the girl call the boy a fool.
+Hokkaido Japanese	102		Syo:nenwa syo:zyoni bakato yobareta.		syo:nen=wa syo:zyo=ni baka=to yob-are-ta	boy=TOP girl=DAT fool=COM call-PASS-PST	The boy was called a fool by the girl.
+Hokkaido Japanese	103		Syo:zyowa syo:neno bakato yoberu.		syo:zyo=wa syo:nen=o baka=to yob-e-ru	girl=TOP boy=ACC fool=COM call-POT-NPST	The girl can call the boy a fool.
+Hokkaido Japanese	104		Syo:nenwa bakato yoberu (sonzaida).		syo:nen=wa baka=to yob-e-ru sonzai=da	boy=TOP fool=COM call-POT-NPST being=COPULA.NPST	The boy can be called a fool.
+Hokkaido Japanese	105		Karega ieo tateta.		kare=ga ie=o tate-ta	he=NOM house=ACC build-PST	He built the house.
+Hokkaido Japanese	106		Bo:kkirega tatasatta.		bo:kkire=ga tat-asat-ta	stick=NOM stand-AC-PST	The stick is standing.
+Hokkaido Japanese	107		Darekaga kareni ieo tatesaseta.		dareka=ga kare=ni ie=o tate-sase-ta	someone=NOM he=DAT house=ACC build-CAUS-PST	Someone made him build the house.
+Hokkaido Japanese	108		Iega tatta.		ie=ga tat-ta	house=NOM be.built-PST	The house got built.
+Hokkaido Japanese	109		Kareni iega taterareta.		kare=ni ie=ga tate-rare-ta	he=DAT house=NOM build-PASS-PST	The house was built by him.
+Hokkaido Japanese	110		Karewa ieo taterareru.		kare=wa ie=o tate-rare-ru	he=TOP house=ACC build-POT-NPST	He can build the house.
+Hokkaido Japanese	111		Sono syo:nenga iside madoo watta.		sono syo:nen=ga isi=de mado=o wat-ta	that boy=NOM stone=INST window=ACC break-PST	That boy broke the window with a stone.
+Hokkaido Japanese	112		Madoga warasatta.		mado=ga war-asat-ta	window=NOM break-AC-PST	The window got broken.
+Hokkaido Japanese	113		Darekaga syo:nenni madoo iside waraseta.		dareka=ga syo:nen=ni mado=o isi=de war-ase-ta	someone=NOM boy=DAT window=ACC stone=INST break-CAUS-PST	Someone made the boy break the window with a stone.
+Hokkaido Japanese	114		Madoga wareta.		mado=ga ware-ta	window=NOM break-PST	The window broke.
+Hokkaido Japanese	115		Madoga syo:nenniyotte iside warareta.		mado=ga syo:nen=niyotte isi=de war-are-ta	window=NOM boy=by stone=INST break-PASS-PST	The window was broken by the boy.
+Hokkaido Japanese	116		Syo:nenwa madoo iside wareru.		syo:nen=wa mado=o isi=de war-e-ru	boy=TOP window=ACC stone=INST break-POT-NPST	The boy can break the window with a stone.
+Hokkaido Japanese	117		Madowa iside wareru.		mado=wa isi=de war-e-ru	window=TOP stone=INST break-POT-NPST	The window is easy to break with a stone.
+Hokkaido Japanese	118		Sono syo:nenga bo:de hebio korosita.		sono syo:nen=ga bo:=de hebi=o korosi-ta	that boy=NOM stick=INST snake=ACC kill-PST	That boy killed the snake with a stick.
+Hokkaido Japanese	119		Darekaga syo:nenni hebio bo:de korosaseta.		dareka=ga syo:nen=ni hebi=o bo:=de koros-ase-ta	someone=NOM boy=DAT snake=ACC stick=INST kill-CAUS-PST	Someone made the boy kill the snake with a stick.
+Hokkaido Japanese	120		Hebiwa syo:nenni bo:de korosareta.		hebi=wa syo:nen=ni bo:=de koros-are-ta	snake=TOP boy=DAT stick=INST kill-PASS-PST	The snake was killed with a stick by the boy.
+Hokkaido Japanese	121		Syo:nenwa hebio bo:de koroseru.		syo:nen=wa hebi=o bo:=de koros-e-ru	boy=TOP snake=ACC stick=INST kill-POT-NPST	The boy can kill the snake with a stick.
+Hokkaido Japanese	122		Sono syo:nenga bo:de hebio tataita.		sono syo:nen=ga bo:=de hebi=o tatai-ta	that boy=NOM stick=INST snake=ACC hit-PST	That boy hit the snake with a stick.
+Hokkaido Japanese	123		Darekaga syo:nenni hebio bo:de tatakaseta.		dareka=ga syo:nen=ni hebi=o bo:=de tatak-ase-ta	someone=NOM boy=DAT snake=ACC stick=INST hit-CAUS-PST	Someone made the boy hit the snake with a stick.
+Hokkaido Japanese	124		Hebiwa syo:nenni bo:de tatakareta.		hebi=wa syo:nen=ni bo:=de tatak-are-ta	snake=TOP boy=DAT stick=INST hit-PASS-PST	The snake was hit with a stick by the boy.
+Hokkaido Japanese	125		Syo:nenwa bo:de hebio tatakeru.		syo:nen=wa bo:=de hebi=o tatak-e-ru	boy=TOP stick=INST snake=ACC hit-POT-NPST	The boy can hit the snake with a stick.
+Hokkaido Japanese	126		Ano hebiwa, amari ugokanaikara, bo:de tatakeru.		ano hebi=wa amari ugoka-nai=kara bo:=de tatak-e-ru	that snake=TOP not.so move.IRR-NEG=because stick=INST hit-POT-NPST	That snake is easy to hit because it does not move a lot.
+Hokkaido Japanese	127		Sono syo:nenga hebini sawatta.		sono syo:nen=ga hebi=ni sawat-ta	that boy=NOM snake=DAT touch-PST	That boy touched the snake.
+Hokkaido Japanese	128		Darekaga syo:neno hebini sawaraseta.		dareka=ga syo:nen=o hebi=ni sawar-ase-ta	someone=NOM boy=ACC snake=DAT touch-CAUS-PST	Someone made the boy touch the snake.
+Hokkaido Japanese	129		Hebiga syo:nen{ni/niyotte} sawarareta.		hebi=ga syo:nen={ni/niyotte} sawar-are-ta	snake=NOM boy={DAT/by} touch-PASS-PST	The snake was touched by the boy.
+Hokkaido Japanese	130		Syo:nenwa hebini sawareru.		syo:nen=wa hebi=ni sawar-e-ru	boy=TOP snake=DAT touch-POT-NPST	The boy can touch the snake.
+Hokkaido Japanese	131		Ano hebiwa sawareru (kowakunaikara).		ano hebi=wa sawar-e-ru kowaku nai=kara	that snake=TOP touch-POT-NPST fearful NEG.NPST=because	That snake is easy to touch (because it is not fearful).
+Hokkaido Japanese	132		Sono syo:nenga naihude pano kitta.		sono syo:nen=ga naihu=de pan=o kit-ta	that boy=NOM knife=INST bread=ACC cut-PST	That boy cut the bread with a knife.
+Hokkaido Japanese	133		Panga naihude kirasatta.		pan=ga naihu=de kir-asat-ta	bread=NOM knife=INST cut-AC-PST	The bread got cut with the knife.
+Hokkaido Japanese	134		Darekaga sono syo:nenni pano kiraseta.		dareka=ga sono syo:nen=ni pan=o kir-ase-ta	someone=NOM that boy=DAT bread=ACC cut-CAUS-PST	Someone made that boy cut the bread.
+Hokkaido Japanese	135		Panga kireta.		pan=ga kire-ta	bread=NOM cut-PST	The bread was cut.
+Hokkaido Japanese	136		Sono syo:nenga pano kireru.		sono syo:nen=ga pan=o kir-e-ru	that boy=NOM bread=ACC cut-POT-NPST	That boy can cut the bread.
+Hokkaido Japanese	137		Panga kireru.		pan=ga kir-e-ru	bread=NOM cut-POT-NPST	The bread cuts easily.
+Hokkaido Japanese	138		Sono syo:nenga sono musumekara {pen/kobu}o totta.		sono syo:nen=ga sono musume=kara {pen/kobu}=o tot-ta	that boy=NOM that girl=ABL {pen/lump}=ACC take-PST	That boy took a pen/lump from that girl.
+Hokkaido Japanese	139		Darekaga syo:nenni musumekara peno toraseta.		dareka=ga syo:nen=ni musume=kara pen=o tor-ase-ta	someone=NOM boy=DAT girl=ABL pen=ACC take-CAUS-PST	Someone made the boy take a pen from the girl.
+Hokkaido Japanese	140		{posuta:/kobu}ga toreta.		{posuta:/kobu}=ga tore-ta	{poster/lump}=NOM take-PST	The poster/lump came off.
+Hokkaido Japanese	141		Musumega syo:nenkara peno torareta.		musume=ga syo:nen=kara pen=o tor-are-ta	girl=NOM boy=ABL pen=ACC take-PASS-PST	The girl had her pen taken by the boy.
+Hokkaido Japanese	142		Musumekara penga toreta.		musume=kara pen=ga tor-e-ta	girl=ABL pen=NOM take-POT-PST	(Someone) can take a pen from the girl.
+Hokkaido Japanese	143		Sono syo:nenga kikara ringoo moida.		sono syo:nen=ga ki=kara ringo=o moi-da	that boy=NOM tree=ABL apple=ACC take-PST	That boy picked an apple from the tree.
+Hokkaido Japanese	144		Kyu:riga mogasatta.		kyu:ri=ga mog-asat-ta	cucumber=NOM take-AC-PST	The cucumber got harvested.
+Hokkaido Japanese	145		Darekaga sono musumeni kyu:rio mogaseta.		dareka=ga sono musume=ni kyu:ri=o mog-ase-ta	someone=NOM that girl=DAT cucumber=ACC take-CAUS-PST	Someone made the girl harvest a cucumber.
+Hokkaido Japanese	146		Edaga mogeta.		eda=ga moge-ta	twig=NOM take-PST	The twig snapped off.
+Hokkaido Japanese	147		Kyu:riga musume{ni/niyotte} mogareta.		kyu:ri=ga musume={ni/niyotte} mog-are-ta	cucumber=NOM girl={DAT/by} take-PASS-PST	The cucumber was harvested by the girl.
+Hokkaido Japanese	148		Musumewa sono kyu:rio mogeru.		musume=wa sono kyu:ri=o mog-e-ru	girl=TOP that cucumber=ACC take-POT-NPST	The girl can harvest that cucumber.
+Hokkaido Japanese	149		Ano kyu:riwa mo: mogeruyo.		ano kyu:ri=wa mo: mog-e-ru=yo	that cucumber=TOP already take-POT-NPST=PRT	That cucumber is ready to be harvested.
+Hokkaido Japanese	150		Sono musumega hon{kara/no} pe:zio hikitigitta.		sono musume=ga hon={kara/no} pe:zi=o hikitigit-ta	that girl=NOM book={ABL/GEN} page=ACC tear-PST	That girl tore the page from the book.
+Hokkaido Japanese	151		Hon{no/kara} pe:ziga hikitigirasatta.		hon={no/kara} pe:zi=ga hikitigir-asat-ta	book={GEN/ABL} page=NOM tear-AC-PST	The page of the book got torn.
+Hokkaido Japanese	152		Darekaga sono musumeni hon{no/kara} pe:zio hikitigiraseta.		dareka=ga sono musume=ni hon={no/kara} pe:zi=o hikitigir-ase-ta	someone=NOM that girl=DAT book={GEN/ABL} page=ACC tear-CAUS-PST	Someone made that girl tear the page from the book.
+Hokkaido Japanese	153		Hon{kara/no} pe:ziga sono musumeni hikitigirareta.		hon={kara/no} pe:zi=ga sono musume=ni hikitigir-are-ta	book={ABL/GEN} page=NOM that girl=DAT tear-PASS-PST	The page of the book was torn by that girl.
+Hokkaido Japanese	154		Sono musumewa, kowaimonosirazudakara, donna daizina hondemo hikitigireru.		sono musume=wa kowaimonosirazu=dakara donna daizi=na hon=demo hikitigir-e-ru	that girl=TOP reckless=because any.kind.of important=ADN book=even tear-POT-NPST	Because she is fearless, that girl can tear even the very expensive books."
+Hokkaido Japanese	155		Ano honno pe:ziwa hikitigireru.		ano hon=no pe:zi=wa hikitigir-e-ru	that book=GEN page=TOP tear-POT-NPST	That book's pages tear easily.
+Hokkaido Japanese	156		Sono musumega ringono kawao muita.		sono musume=ga ringo=no kawa=o mui-ta	that girl=NOM apple=GEN skin=ACC peel-PST	That girl peeled the apple.
+Hokkaido Japanese	157		Ringono kawaga mukasatta.		ringo=no kawa=ga muk-asat-ta	apple=GEN skin=NOM peel-AC-PST	The apple got peeled.
+Hokkaido Japanese	158		Darekaga sono musumeni ringono kawao mukaseta.		dareka=ga sono musume=ni ringo=no kawa=o muk-ase-ta	someone=NOM that girl=DAT apple=GEN skin=ACC peel-CAUS-PST	Someone made that girl peel the apple.
+Hokkaido Japanese	159		Hiyake site kawaga mukeru.		hiyake si-te kawa=ga muke-ru	sun.burn do-GER skin=NOM peel-NPST	Because of the sun burn, the skin is peeling."
+Hokkaido Japanese	160		Ringono kawaga sono musumeni mukareta.		ringo=no kawa=ga sono musume=ni muk-are-ta	apple=GEN skin=NOM that girl=DAT peel-PASS-PST	The apple was peeled by that girl.
+Hokkaido Japanese	161		Sono musumewa ringono kawao mukeru.		sono musume=wa ringo=no kawa=o muk-e-ru	that girl=TOP apple=GEN skin=ACC peel-POT-NPST	That girl can peel the apple.
+Hokkaido Japanese	162		Sono musumega sense:no hono kakusita.		sono musume=ga sense:=no hon=o kakusi-ta	that girl=NOM teacher=GEN book=ACC hide-PST	That girl hid the teacher's book.
+Hokkaido Japanese	163		Darekaga musumeni sense:no hono kakusaseta.		dareka=ga musume=ni sense:=no hon=o kakus-ase-ta	someone=NOM girl=DAT teacher=GEN book=ACC hide-CAUS-PST	Someone made the girl hide the teacher's book.
+Hokkaido Japanese	164		Sono otokoniyotte sense:no honga kakusareta.		sono otoko=niyotte sense:=no hon=ga kakus-are-ta	that man=by teacher=GEN book=NOM hide-PASS-PST	The teacher's book was hidden by that man.
+Hokkaido Japanese	165		Sono musumewa sense:no hono kakuseru.		sono musume=wa sense:=no hon=o kakus-e-ru	that girl=TOP teacher=GEN book=ACC hide-POT-NPST	That girl can hide the teacher's book.
+Hokkaido Japanese	166		Sono honwa kakuseru.		sono hon=wa kakus-e-ru	that book=TOP hide-POT-NPST	That book is easy to hide.
+Hokkaido Japanese	167		Sono musumega sense:ni hono miseta.		sono musume=ga sense:=ni hon=o mise-ta	that girl=NOM teacher=DAT book=ACC show-PST	That girl showed a book to the teacher.
+Hokkaido Japanese	168		Honga sense:ni miserasaru.		hon=ga sense:=ni mise-rasar-u	book=NOM teacher=DAT show-AC-NPST	The book will get shown to the teacher.
+Hokkaido Japanese	169		Sense:ga hono miru.		sense:=ga hon=o mi-ru	teacher=NOM book=ACC see-NPST	The teacher will look at the book.
+Hokkaido Japanese	170		Sense:wa musumesanni hono miserareta.		sense:=wa musumesan=ni hon=o mise-rare-ta	teacher=TOP girl=DAT book=ACC show-PASS-PST	The teacher was shown a book by the girl.
+Hokkaido Japanese	171		Sono musumewa sense:ni hono miserareru.		sono musume=wa sense:=ni hon=o mise-rare-ru	that girl=TOP teacher=DAT book=ACC show-POT-NPST	That girl can show a book to the teacher.
+Hokkaido Japanese	172		Kono honwa sense:ni miserareru.		kono hon=wa sense:=ni mise-rare-ru	this book=TOP teacher=DAT show-POT-NPST	This book can be shown to the teacher.
+Hokkaido Japanese	173		Watasiga musukoni hono yatta.		watasi=ga musuko=ni hon=o yat-ta	1sg=NOM son=DAT book=ACC give-PST	I gave a book to my son.
+Hokkaido Japanese	174		Sono musumewa hono sense:ni yareru.		sono musume=wa hon=o sense:=ni yar-e-ru	that girl=TOP book=ACC teacher=DAT give-POT-NPST	That girl can give a book to the teacher.
+Hokkaido Japanese	175		Sono honwa musukoni yareru.		sono hon=wa musuko=ni yar-e-ru	that book=TOP son=DAT give-POT-NPST	That book can be given to my son.
+Hokkaido Japanese	176		Sono nusumega {sense:/gakko:}ni hono okutta.		sono nusume=ga {sense:/gakko:}=ni hon=o okut-ta	that girl=NOM {teacher/school}=DAT book=ACC send-PST	That girl sent the book to the teacher/school.
+Hokkaido Japanese	177		Honga gakko:ni okurasatta.		hon=ga gakko:=ni okur-asat-ta	book=NOM school=DAT send-AC-PST	The book got sent to the school.
+Hokkaido Japanese	178		Darekaga sono musumeni hono sense:no tokoroni okuraseta.		dareka=ga sono musume=ni hon=o sense:=no tokoro=ni okur-ase-ta	someone=NOM that girl=DAT book=ACC teacher=GEN place=DAT send-CAUS-PST	Someone made that girl send the book to the teacher.
+Hokkaido Japanese	179		{Sense:wa/gakko:wa} musumesanniyotte hono okurareta.		{sense:=wa/gakko:=wa} musumesan=niyotte hon=o okur-are-ta	{teacher=TOP/school=TOP} girl=by book=ACC send-PASS-PST	The teacher/school was sent the book by that girl.
+Hokkaido Japanese	180		Musumesanniyotte honga sense:no tokoroni okurareta.		musumesan=niyotte hon=ga sense:=no tokoro=ni okur-are-ta	girl=by book=NOM teacher=GEN place=DAT send-PASS-PST	The book was sent to the teacher by the girl.
+Hokkaido Japanese	181		Musumesanwa hono sense:no tokoroni hono okureru.		musumesan=wa hon=o sense:=no tokoro=ni okur-e-ru	girl=TOP book=ACC teacher=GEN place=DAT send-POT-NPST	That girl can send the book to the teacher.
+Hokkaido Japanese	182		Honwa sense:no tokoroni okureru.		hon=wa sense:=no tokoro=ni okur-e-ru	book=TOP teacher=GEN place=DAT send-POT-NPST	The book can be sent to the teacher.
+Hokkaido Japanese	183		Sono musumega sense:no tokoroni hono hakonda.		sono musume=ga sense:=no tokoro=ni hon=o hakon-da	that girl=NOM teacher=GEN place=DAT book=ACC carry-PST	That girl carried the book to the teacher.
+Hokkaido Japanese	184		Honga sense:no tokoroni hakobasatta.		hon=ga sense:=no tokoro=ni hakob-asat-ta	book=NOM teacher=GEN place=DAT carry-AC-PST	The book got carried to the teacher.
+Hokkaido Japanese	185		Darekaga sono musumeni hono sense:no tokoroni hakobaseta.		dareka=ga sono musume=ni hon=o sense:=no tokoro=ni hakob-ase-ta	someone=NOM that girl=DAT book=ACC teacher=GEN place=DAT carry-CAUS-PST	Someone made that girl carry the book to the teacher.
+Hokkaido Japanese	186		Sono musumeniyotte honga sense:no tokoroni hakobareta.		sono musume=niyotte hon=ga sense:=no tokoro=ni hakob-are-ta	that girl=by book=NOM teacher=GEN place=DAT carry-PASS-PST	The book was carried to the teacher by that girl.
+Hokkaido Japanese	187		Sono musumewa hono sense:no tokoroni hakoberu.		sono musume=wa hon=o sense:=no tokoro=ni hakob-e-ru	that girl=TOP book=ACC teacher=GEN place=DAT carry-POT-NPST	That girl can carry the book to the teacher.
+Hokkaido Japanese	188		Sono musumega gakko:ni hono hakonda.		sono musume=ga gakko:=ni hon=o hakon-da	that girl=NOM school=DAT book=ACC carry-PST	That girl carried the book to school.
+Hokkaido Japanese	189		Honga gakko:ni hakobasatta.		hon=ga gakko:=ni hakob-asat-ta	book=NOM school=DAT carry-AC-PST	The book got carried to school.
+Hokkaido Japanese	190		Darekaga sono musumeni hono gakko:ni hakobaseta.		dareka=ga sono musume=ni hon=o gakko:=ni hakob-ase-ta	someone=NOM that girl=DAT book=ACC school=DAT carry-CAUS-PST	Someone made that girl carry the book to school.
+Hokkaido Japanese	191		Sono musumeniyotte honga gakko:ni hakobareta.		sono musume=niyotte hon=ga gakko:=ni hakob-are-ta	that girl=by book=NOM school=DAT carry-PASS-PST	The book was carried to school by that girl.
+Hokkaido Japanese	192		Sono musumewa hono gakko:ni hakoberu.		sono musume=wa hon=o gakko:=ni hakob-e-ru	that girl=TOP book=ACC school=DAT carry-POT-NPST	That girl can carry the book to school.
+Hokkaido Japanese	193		Sono otokoga madoni isio nageta.		sono otoko=ga mado=ni isi=o nage-ta	that man=NOM window=DAT stone=ACC throw-PST	That man threw a stone at the window.
+Hokkaido Japanese	194		Darekaga sono otokoni isio madoni nagesaseta.		dareka=ga sono otoko=ni isi=o mado=ni nage-sase-ta	someone=NOM that man=DAT stone=ACC window=DAT throw-CAUS-PST	Someone made that man throw the stone at the window.
+Hokkaido Japanese	195		Sono otokoniyotte isiga madoni nagerareta.		sono otoko=niyotte isi=ga mado=ni nage-rare-ta	that man=by stone=NOM window=DAT throw-PASS-PST	The stone was thrown at the window by that man.
+Hokkaido Japanese	196		Sono otokowa isio madoni nage(ra)reru.		sono otoko=wa isi=o mado=ni nage-(ra)re-ru	that man=TOP stone=ACC window=DAT throw-POT-NPST	That man can throw the stone at the window.
+Hokkaido Japanese	197		Omotakunaikara sono isiwa madoni nagerareru.		omotaku nai=kara sono isi=wa mado=ni nage-rare-ru	heavy NEG.NPST=because that stone=TOP window=DAT throw-POT-NPST	Because it is not heavy, that stone can be thrown at the window."
+Hokkaido Japanese	198		Sono otokoga umao kini tunaida.		sono otoko=ga uma=o ki=ni tunai-da	that man=NOM horse=ACC tree=DAT tie-PST	That man tied the horse to the tree.
+Hokkaido Japanese	199		Umaga kini tunagasatta.		uma=ga ki=ni tunag-asat-ta	horse=NOM tree=DAT tie-AC-PST	The horse got tied to the tree.
+Hokkaido Japanese	200		Darekaga sono otokoni umao kini tunagaseta.		dareka=ga sono otoko=ni uma=o ki=ni tunag-ase-ta	someone=NOM that man=DAT horse=ACC tree=DAT tie-CAUS-PST	Someone made that man tie the horse to the tree.
+Hokkaido Japanese	201		Umaga kini tunagatteru.		uma=ga ki=ni tunagat-te-ru	horse=NOM tree=DAT tie-GER.be-NPST	The horse is tied to the tree.
+Hokkaido Japanese	202		Umaga sono otokoniyotte kini tunagareta.		uma=ga sono otoko=niyotte ki=ni tunag-are-ta	horse=NOM that man=by tree=DAT tie-PASS-PST	The horse was tied to the tree by that man.
+Hokkaido Japanese	203		Sono otokowa umao kini tunageru.		sono otoko=wa uma=o ki=ni tunag-e-ru	that man=TOP horse=ACC tree=DAT tie-POT-NPST	That man can tie the horse to the tree.
+Hokkaido Japanese	204		Sono umawa kini tunageru.		sono uma=wa ki=ni tunag-e-ru	that horse=TOP tree=DAT tie-POT-NPST	The horse is easy to tie to the tree.
+Hokkaido Japanese	205		Kodomoga sono omotyao kini itte iru.		kodomo=ga sono omotya=o ki=ni it-te i-ru	child=NOM that toy=ACC mind=DAT enter-GER be-NPST	The child likes that toy.
+Hokkaido Japanese	206		Titiwa kodomoni omotyao kini iraseta.		titi=wa kodomo=ni omotya=o ki=ni ir-ase-ta	father=TOP child=DAT toy=ACC mind=DAT enter-CAUS-PST	Father made the child like the toy.
+Hokkaido Japanese	207		Sono omotyawa dono kodomonimo kini irareru.		sono omotya=wa dono kodomo=ni=mo ki=ni ir-are-ru	that toy=TOP any child=DAT=even mind=DAT enter-PASS-NPST	This toy is liked by any children.
+Hokkaido Japanese	208		Musumewa hahani hukuo kiserareta.		musume=wa haha=ni huku=o kise-rare-ta	daughter=TOP mother=DAT cloth=ACC dress-PASS-PST	The daughter was dressed with the clothes by her mother.
+Hokkaido Japanese	209		Sono otokoga hono tukueno ueni oita.		sono otoko=ga hon=o tukue=no ue=ni oi-ta	that man=NOM book=ACC desk=GEN above=DAT put-PST	That man put the book on the desk.
+Hokkaido Japanese	210		Honga tukueno ueni okasatta.		hon=ga tukue=no ue=ni ok-asat-ta	book=NOM desk=GEN above=DAT put-AC-PST	The book got put on the desk.
+Hokkaido Japanese	211		Darekaga sono otokoni hono tukueno ueni okaseta.		dareka=ga sono otoko=ni hon=o tukue=no ue=ni ok-ase-ta	someone=NOM that man=DAT book=ACC desk=GEN above=DAT put-CAUS-PST	Someone made that man put the book on the desk.
+Hokkaido Japanese	212		Sono otokoniyotte honga tukueno ueni okareta.		sono otoko=niyotte hon=ga tukue=no ue=ni ok-are-ta	that man=by book=NOM desk=GEN above=DAT put-PASS-PST	The book was put on the table by that man.
+Hokkaido Japanese	213		Sono otokoga hono tukueno ueni okeru.		sono otoko=ga hon=o tukue=no ue=ni ok-e-ru	that man=NOM book=ACC desk=GEN above=DAT put-POT-NPST	That man can put the book on the desk.
+Hokkaido Japanese	214		Honga tukueno ueni okeru.		hon=ga tukue=no ue=ni ok-e-ru	book=NOM desk=GEN above=DAT put-POT-NPST	The book can be put on the desk.
+Hokkaido Japanese	215		Sono otokoga gurasuni mizuo tuida.		sono otoko=ga gurasu=ni mizu=o tui-da	that man=NOM glass=DAT water=ACC pour-PST	That man poured the water into the glass.
+Hokkaido Japanese	216		Mizuga gurasuni tugasatta.		mizu=ga gurasu=ni tug-asat-ta	water=NOM glass=DAT pour-AC-PST	The water got poured into the glass.
+Hokkaido Japanese	217		Darekaga sono otokoni gurasuni mizuo tugaseta.		dareka=ga sono otoko=ni gurasu=ni mizu=o tug-ase-ta	someone=NOM that man=DAT glass=DAT water=ACC pour-CAUS-PST	Someone made that man pour the water into the glass.
+Hokkaido Japanese	218		Sono otokoniyotte mizuga gurasuni tugareta.		sono otoko=niyotte mizu=ga gurasu=ni tug-are-ta	that man=by water=NOM glass=DAT pour-PASS-PST	The water was poured into the glass by that man.
+Hokkaido Japanese	219		Sono otokowa gurasuni mizuo tugeru.		sono otoko=wa gurasu=ni mizu=o tug-e-ru	that man=TOP glass=DAT water=ACC pour-POT-NPST	That man can pour the water into the glass.
+Hokkaido Japanese	220		Sono otokoga kodomoni mo:huo kaketa.		sono otoko=ga kodomo=ni mo:hu=o kake-ta	that man=NOM child=DAT blanket=ACC cover-PST	That man covered the child with a blanket.
+Hokkaido Japanese	221		Darekaga sono otokoni kodomoni mo:huo kakesaseta.		dareka=ga sono otoko=ni kodomo=ni mo:hu=o kake-sase-ta	someone=NOM that man=DAT child=DAT blanket=ACC cover-CAUS-PST	Someone made that man cover the child with the blanket.
+Hokkaido Japanese	222		Mo:huga kodomoni kakatteru.		mo:hu=ga kodomo=ni kakat-te-ru	blanket=NOM child=DAT cover-GER.be-NPST	The blanket is covering the child.
+Hokkaido Japanese	223		Kodomoga mo:huo sono otoko{ni/niyotte} kakerareta.		kodomo=ga mo:hu=o sono otoko={ni/niyotte} kake-rare-ta	child=NOM blanket=ACC that man={DAT/by} cover-PASS-PST	The child was covered with a blanket by that man.
+Hokkaido Japanese	224		Sono otokoniyotte mo:huga kodomoni kakerareta.		sono otoko=niyotte mo:hu=ga kodomo=ni kake-rare-ta	that man=by blanket=NOM child=DAT cover-PASS-PST	The blanket was put on the child by that man.
+Hokkaido Japanese	225		Utino hahawa sotto sizukani kodomoni mo:huo kakerareru.		uti=no haha=wa sotto sizuka=ni kodomo=ni mo:hu=o kake-rare-ru	home=GEN mother=TOP peacefully quiet=ADV child=DAT blanket=ACC cover-POT-NPST	My mother can cover the child with the blanket quietly.
+Hokkaido Japanese	226		Mo:huga kodomoni kakerareru.		mo:hu=ga kodomo=ni kake-rare-ru	blanket=NOM child=DAT cover-POT-NPST	The blanket is suitable for covering the child.
+Hokkaido Japanese	227		Sono otokoga gurasuni mizuo mitasita.		sono otoko=ga gurasu=ni mizu=o mitasi-ta	that man=NOM glass=DAT water=ACC fill-PST	That man filled the glass with water.
+Hokkaido Japanese	228		Mizuga gurasuni mitasatta.		mizu=ga gurasu=ni mitas-at-ta	water=NOM glass=DAT fill-AC-PST	The water got poured into the glass.
+Hokkaido Japanese	229		Darekaga sono otokoni mizuo gurasuni mitasaseta.		dareka=ga sono otoko=ni mizu=o gurasu=ni mitas-ase-ta	someone=NOM that man=DAT water=ACC glass=DAT fill-CAUS-PST	Someone made that man fill the glass with water.
+Hokkaido Japanese	230		Mizuga gurasuni mitite ita.		mizu=ga guras=uni miti-te i-ta	water=NOM glass=DAT fill-GER be-PST	The glass is full of water.
+Hokkaido Japanese	231		Mizuga gurasuni mitasareta.		mizu=ga gurasu=ni mitas-are-ta	water=NOM glass=DAT fill-PASS-PST	Water was poured into the glass until it was filled.
+Hokkaido Japanese	232		Sono syo:nenwa, kobosazuni, mizuo koppuni mitaseru.		sono syo:nen=wa kobosa-zuni mizu=o koppu=ni mitas-e-ru	that boy=TOP spill.IRR-NEG.ADV water=ACC cup=DAT fill-POT-NPST	That boy can pour the water into the cup without spilling it.
+Hokkaido Japanese	233		Sono otokoga gurasuo mizude mitasita.		sono otoko=ga gurasu=o mizu=de mitasi-ta	that man=NOM glass=ACC water=INST fill-PST	That man filled the glass with the water.
+Hokkaido Japanese	234		Gurasuga mizude mitasatta.		gurasu=ga mizu=de mitas-at-ta	glass=NOM water=INST fill-AC-PST	The glass got filled with water.
+Hokkaido Japanese	235		Darekaga sono otokoni gurasuo mizude mitasaseta.		dareka=ga sono otoko=ni gurasu=o mizu=de mitas-ase-ta	someone=NOM that man=DAT glass=ACC water=INST fill-CAUS-PST	Someone made that man fill the glass with water.
+Hokkaido Japanese	236		Gurasuga mizude mitite ita.		gurasu=ga mizu=de miti-te i-ta	glass=NOM water=INST fill-GER be-PST	The glass is full of water.
+Hokkaido Japanese	237		Gurasuga mizude mitasareta.		gurasu=ga mizu=de mitas-are-ta	glass=NOM water=INST fill-PASS-PST	The glass was filled with water.
+Hokkaido Japanese	238		Sono akanbo:wa gurasuo mizude mitaseru.		sono akanbo:=wa gurasu=o mizu=de mitas-e-ru	that baby=TOP glass=ACC water=INST fill-POT-NPST	That baby can fill the glass with water.
+Hokkaido Japanese	239		Sono otokoga nigurumani hosikusao tunda.		sono otoko=ga niguruma=ni hosikusa=o tun-da	that man=NOM cart=DAT hay=ACC load-PST	That man loaded the hay on the wagon.
+Hokkaido Japanese	240		Hosikusaga nigurumani tumasatta.		hosikusa=ga niguruma=ni tum-asat-ta	hay=NOM cart=DAT load-AC-PST	The hay got loaded on the wagon.
+Hokkaido Japanese	241		Darekaga sono otokoni hosikusao nigurumani tumaseta.		dareka=ga sono otoko=ni hosikusa=o niguruma=ni tum-ase-ta	someone=NOM that man=DAT hay=ACC cart=DAT load-CAUS-PST	Someone made that man load the hay on the wagon.
+Hokkaido Japanese	242		Sono otokoniyotte hosikusaga nigurumani tumareta.		sono otoko=niyotte hosikusa=ga niguruma=ni tum-are-ta	that man=by hay=NOM cart=DAT load-PASS-PST	The hay was loaded on the wagon by that man.
+Hokkaido Japanese	243		Sono otokowa hosikusao nigurumani tumeru.		sono otoko=wa hosikusa=o niguruma=ni tum-e-ru	that man=TOP hay=ACC cart=DAT load-POT-NPST	That man can load the hay on the wagon.
+Hokkaido Japanese	244		Sono hosikusawa nigurumani tumeru.		sono hosikusa=wa niguruma=ni tum-e-ru	that hay=TOP cart=DAT load-POT-NPST	That hay can be loaded on the wagon.
+Hokkaido Japanese	245		Sono musumega mabatakio sita.		sono musume=ga mabataki=o si-ta	that girl=NOM blink=ACC do-PST	That girl blinked.
+Hokkaido Japanese	246		Kantokuga zyoyu:ni mabatakio saseta.		kantoku=ga zyoyu:=ni mabataki=o s-ase-ta	director=NOM actress=DAT blink=ACC do-CAUS-PST	The director made the actress blink.
+Hokkaido Japanese	247		Sono otokoga sekio sita.		sono otoko=ga seki=o si-ta	that man=NOM cough=ACC do-PST	That man coughed.
+Hokkaido Japanese	248		Darekaga sono otokoni sekio saseta.		dareka=ga sono otoko=ni seki=o s-ase-ta	someone=NOM that man=DAT cough=ACC do-CAUS-PST	Someone made that man cough.
+Hokkaido Japanese	249		Sono otodoga okani nobotta.		sono otodo=ga oka=ni nobot-ta	that man=NOM hill=DAT climb-PST	That man climbed the hill.
+Hokkaido Japanese	250		Darekaga sono otokoo okani noboraseta.		dareka=ga sono otoko=o oka=ni nobor-ase-ta	someone=NOM that man=ACC hill=DAT climb-CAUS-PST	Someone made that man climb the hill.
+Hokkaido Japanese	251		Otokowa okani noboreru.		otoko=wa oka=ni nobor-e-ru	man=TOP hill=DAT climb-POT-NPST	The man can climb the hill.
+Hokkaido Japanese	252		Sono otodoga okao nobotta.		sono otodo=ga oka=o nobot-ta	that man=NOM hill=ACC climb-PST	That man climbed the hill.
+Hokkaido Japanese	253		Darekaga sono otokoni okao noboraseta.		dareka=ga sono otoko=ni oka=o nobor-ase-ta	someone=NOM that man=DAT hill=ACC climb-CAUS-PST	Someone made that man climb the hill.
+Hokkaido Japanese	254		Otokowa okao noboreru.		otoko=wa oka=o nobor-e-ru	man=TOP hill=ACC climb-POT-NPST	The man can climb the hill.
+Hokkaido Japanese	255		Sono kodomoga ko:te:o hasitta.		sono kodomo=ga ko:te:=o hasit-ta	that child=NOM ground=ACC run-PST	That child ran around the school ground.
+Hokkaido Japanese	256		Sense:ga kodomoni ko:te:o hasiraseta.		sense:=ga kodomo=ni ko:te:=o hasir-ase-ta	teacher=NOM child=DAT ground=ACC run-CAUS-PST	The teacher made the children run around the school ground.
+Hokkaido Japanese	257		Sono kodomowa ko:te:o hayaku hasireru.		sono kodomo=wa ko:te:=o hayaku hasir-e-ru	that child=TOP ground=ACC fast run-POT-NPST	That child can run fast around the school ground.
+Hokkaido Japanese	258		Sono otokoga suwatta.		sono otoko=ga suwat-ta	that man=NOM sit-PST	That man sat down.
+Hokkaido Japanese	259		Darekaga sono otokoo yukani suwaraseta.		dareka=ga sono otoko=o yuka=ni suwar-ase-ta	someone=NOM that man=ACC floor=DAT sit-CAUS-PST	Someone made that man sit down on the floor.
+Hokkaido Japanese	260		Sono otokowa yukani suwareru.		sono otoko=wa yuka=ni suwar-e-ru	that man=TOP floor=DAT sit-POT-NPST	That man can sit on the floor.
+Hokkaido Japanese	261		Kodomotatiwa bentini kosikaketa.		kodomotati=wa benti=ni kosikake-ta	children=TOP bench=DAT sit.down-PST	The children sat down on the bench.
+Hokkaido Japanese	262		Otonatatiwa kodomotati{o/ni} bentini kosikakesaseta.		otonatati=wa kodomotati={o/ni} benti=ni kosikake-sase-ta	grown.ups=TOP children={ACC/DAT} bench=DAT sit.down-CAUS-PST	The grown-ups made the children sit down on the bench.
+Hokkaido Japanese	263		Kodomotatiwa zibunde bentini kosikakerareru.		kodomotati=wa zibunde benti=ni kosikake-rare-ru	children=TOP by.oneself bench=DAT sit.down-POT-NPST	Children can sit down by themselves.
+Hokkaido Japanese	264		Kodomoga yukano uede haneta.		kodomo=ga yuka=no ue=de hane-ta	child=NOM floor=GEN above=INST jump-PST	The child bounced on the floor.
+Hokkaido Japanese	265		Darekaga kodomoo yukano uede hanesaseta.		dareka=ga kodomo=o yuka=no ue=de hane-sase-ta	someone=NOM child=ACC floor=GEN above=INST jump-CAUS-PST	Someone made the child bounce on the floor.
+Hokkaido Japanese	266		Kodomoga yukano uede hanerareru.		kodomo=ga yuka=no ue=de hane-rare-ru	child=NOM floor=GEN above=INST jump-POT-NPST	The child can bounce on the floor.
+Hokkaido Japanese	267		Sono syo:nenga utao utatta.		sono syo:nen=ga uta=o utat-ta	that boy=NOM song=ACC sing-PST	The boy sang a song.
+Hokkaido Japanese	268		Darekaga syo:nenni utao utawaseta.		dareka=ga syo:nen=ni uta=o utaw-ase-ta	someone=NOM boy=DAT song=ACC sing-CAUS-PST	Someone made the boy sing a song.
+Hokkaido Japanese	269		Sono utaga minnani utawarete iru.		sono uta=ga minna=ni utaw-are-te i-ru	that song=NOM everybody=DAT sing-PASS-GER be-NPST	That song is sung by everybody.
+Hokkaido Japanese	270		Syo:nenwa utao utaeru.		syo:nen=wa uta=o uta-e-ru	boy=TOP song=ACC sing-POT-NPST	The boy can sing a song.
+Hokkaido Japanese	271		Sono utawa kodomonimo utaeru.		sono uta=wa kodomo=ni=mo uta-e-ru	that song=TOP child=DAT=also sing-POT-NPST	Even children can sing that song.
+Hokkaido Japanese	272		Sono syo:nenwa ekini itta.		sono syo:nen=wa eki=ni it-ta	that boy=TOP station=DAT go-PST	That boy went to the station.
+Hokkaido Japanese	273		Darekaga sono syo:neno ekini ikaseta.		dareka=ga sono syo:nen=o eki=ni ik-ase-ta	someone=NOM that boy=ACC station=DAT go-CAUS-PST	Someone made the boy go to the station.
+Hokkaido Japanese	274		Sono syo:nenwa ekini ikeru.		sono syo:nen=wa eki=ni ik-e-ru	that boy=TOP station=DAT go-POT-NPST	That boy can go to the station.
+Hokkaido Japanese	275		Syo:nenga murao dete itta.		syo:nen=ga mura=o de-te it-ta	boy=NOM village=ACC leave-GER go-PST	The boy left the village.
+Hokkaido Japanese	276		Darekaga syo:nen{o/ni} murakara dete ikaseta.		dareka=ga syo:nen={o/ni} mura=kara de-te ik-ase-ta	someone=NOM boy={ACC/DAT} village=ABL leave-GER go-CAUS-PST	Someone made the boy leave the village.
+Hokkaido Japanese	277		Syo:nenwa murakara dete ikeru.		syo:nen=wa mura=kara de-te ik-e-ru	boy=TOP village=ABL leave-GER be-POT-NPST	The boy can leave the village.
+Hokkaido Japanese	278		Sono syo:nenwa sono murani sunde ita.		sono syo:nen=wa sono mura=ni sun-de i-ta	that boy=TOP that village=DAT live-GER be-PST	That boy lived in that village.
+Hokkaido Japanese	279		Darekaga sono syo:nen{ni/o} sono murani sumaseta.		dareka=ga sono syo:nen={ni/o} sono mura=ni sum-ase-ta	someone=NOM that boy={DAT/ACC} that village=DAT live-CAUS-PST	Someone made the boy live in that village.
+Hokkaido Japanese	280		Sono syo:nenwa sono murani sumeru.		sono syo:nen=wa sono mura=ni sum-e-ru	that boy=TOP that village=DAT live-POT-NPST	The boy can live in that village.
+Hokkaido Japanese	281		Sono murawa, ko:kyo:ryo:kinga yasuinode, sigotoga nai hitonimo sumeru.		sono mura=wa ko:kyo:ryo:kin=ga yasu-i=node sigoto=ga na-i hito=ni=mo sum-e-ru	that village=TOP cost.of.living=NOM cheep-NPST=because job=NOM not.exist-NPST man=DAT=also live-POT-NPST	Because the public utility rates are low, that village is easy to live in even for the poor people."
+Hokkaido Japanese	282		Sono musumega waratta.		sono musume=ga warat-ta	that girl=NOM laugh-PST	That girl laughed.
+Hokkaido Japanese	283		Darekaga sono musume{o/ni} warawaseta.		dareka=ga sono musume={o/ni} waraw-ase-ta	someone=NOM that girl={ACC/DAT} laugh-CAUS-PST	Someone made that girl laugh.
+Hokkaido Japanese	284		Sono musumega bokuno kotoo waratta.		sono musume=ga boku=no koto=o warat-ta	that girl=NOM 1sg=GEN thing=ACC laugh-PST	That girl laughed at me.
+Hokkaido Japanese	285		Bokuwa sono musumeni warawareta.		boku=wa sono musume=ni waraw-are-ta	1sg=TOP that girl=DAT laugh-PASS-PST	I was laughed at by that girl.
+Hokkaido Japanese	286		Sono e:gawa waraeru.		sono e:ga=wa wara-e-ru	that movie=TOP laugh-POT-NPST	That movie makes you laugh.
+Hokkaido Japanese	287		Otokoga sakenda.		otoko=ga saken-da	man=NOM scream-PST	The man screamed.
+Hokkaido Japanese	288		Darekaga otokoni sakebaseta.		dareka=ga otoko=ni sakeb-ase-ta	someone=NOM man=DAT scream-CAUS-PST	Someone made that man scream.
+Hokkaido Japanese	289		Otokowa nanzikandemo sakeberu.		otoko=wa nanzikan=demo sakeb-e-ru	man=TOP any.hours=even scream-POT-NPST	The man can scream for long hours.
+Hokkaido Japanese	290		Orewa udega {itai/itamu}.		ore=wa ude=ga {itai/itam-u}	1sg=TOP arm=NOM hurt-NPST	My arm hurts.
+Hokkaido Japanese	291		Orewa udeo itameta.		ore=wa ude=o itame-ta	1sg=TOP arm=ACC hurt-PST	I hurt my arm.
+Hokkaido Japanese	292		Kanozyoga samugatta.		kanozyo=ga samugat-ta	she=NOM feel.cold-PST	She felt cold.
+Hokkaido Japanese	293		Mahuyunanoni wazato sohutokuri:muo dasite samugaraseta.		mahuyu=nanoni wazato sohutokuri:mu=o dasi-te samugar-ase-ta	midwinter=though on.purpose soft.cream=ACC serve-GER feel.cold-CAUS-PST	(Someone) made (someone) feel cold by giving them ice cream although it was in the midst of winter.
+Hokkaido Japanese	294		Sono otokoga sinda.		sono otoko=ga sin-da	that man=NOM die-PST	That man died.
+Hokkaido Japanese	295		Darekaga sono otokoo sinaseta.		dareka=ga sono otoko=o sin-ase-ta	someone=NOM that man=ACC die-CAUS-PST	Someone let that man die.
+Hokkaido Japanese	296		Sono otokowa sineru.		sono otoko=wa sin-e-ru	that man=TOP die-POT-NPST	That man can die.
+Hokkaido Japanese	297		Kodomoga asonde iru.		kodomo=ga ason-de i-ru	child=NOM play-GER be-NPST	The child is playing.
+Hokkaido Japanese	298		Bokuwa kodomoo asobaseta.		boku=wa kodomo=o asob-ase-ta	1sg=TOP child=ACC play-CAUS-PST	I made the child play.
+Hokkaido Japanese	299		Ano kodomowa hitoridemo asoberu.		ano kodomo=wa hitoridemo asob-e-ru	that child=TOP alone play-POT-NPST	That child can play by herself/himself.
+Hokkaido Japanese	300		Watasiwa kanasi.		watasi=wa kanasi-i	1sg=TOP sad-NPST	I am sad.
+Hokkaido Japanese	301		Koibitowa kareno sio kanasinda.		koibito=wa kare=no si=o kanasin-da	lover=TOP he=GEN death=ACC feel.sad-PST	The lover felt sad about his death.
+Hokkaido Japanese	302		Darekaga kareo kanasimaseta.		dareka=ga kare=o kanasim-ase-ta	someone=NOM he=ACC feel.sad-CAUS-PST	Someone made him feel sad.
+Hokkaido Japanese	303		Kareno siwa koibitoni kanasimareta.		kare=no si=wa koibito=ni kanasim-are-ta	he=GEN death=TOP lover=DAT feel.sad-PASS-PST	His death was grieved by his lover.
+Hokkaido Japanese	304		Sono syo:nenwa onakaga hetta.		sono syo:nen=wa onaka=ga het-ta	that boy=TOP stomach=NOM decrease-PST	That boy is hungry.
+Hokkaido Japanese	305		Sono syo:nenwa onakao herasite ita.		sono syo:nen=wa onaka=o herasi-te i-ta	that boy=TOP stomach=ACC decrease-GER be-PST	That boy was starving himself.
+Hokkaido Japanese	306		Sono syo:nenwa onakao sukasete ita.		sono syo:nen=wa onaka=o sukase-te i-ta	that boy=TOP stomach=ACC empty-GER be-PST	That boy was hungry.
+Hokkaido Japanese	307		Bo:ruga korogatta.		bo:ru=ga korogat-ta	ball=NOM roll-PST	The ball rolled.
+Hokkaido Japanese	308		Sense:ga mattono uede kodomoo korogaraseta.		sense:=ga matto=no ue=de kodomo=o korogar-ase-ta	teacher=NOM mat=GEN above=INST child=ACC roll-CAUS-PST	The teacher made the children roll on the mat.
+Hokkaido Japanese	309		Sono otokoga bo:ruo korogasu.		sono otoko=ga bo:ru=o korogas-u	that man=NOM ball=ACC roll-NPST	That man will roll the ball.
+Hokkaido Japanese	310		Sono ko:enniwa suro:puga arunode, korogareru.		sono ko:en=ni=wa suro:pu=ga ar-u=node korogar-e-ru	that park=DAT=TOP slope=NOM exist-NPST=because roll-POT-NPST	Because there is a slope in the park, we can roll there."
+Hokkaido Japanese	311		Bo:ruga korogasatteru.		bo:ru=ga korogas-at-te-ru	ball=NOM roll-AC-GER.be-NPST	The ball is there after rolling.
+Hokkaido Japanese	312		Darekaga sono otokoni bo:ruo koroga(sa)seta.		dareka=ga sono otoko=ni bo:ru=o korogas-ase-ta	someone=NOM that man=DAT ball=ACC roll-CAUS-PST	Someone made the man roll the ball.
+Hokkaido Japanese	313		Bo:ruga otoko{ni/niyotte} korogasareta.		bo:ru=ga otoko={ni/niyotte} korogas-are-ta	ball=NOM man={DAT/by} roll-PASS-PST	The ball was rolled by the man.
+Hokkaido Japanese	314		Kodomowa, mo: o:kiku nattanode, hitoride bo:ruo korogaseru.		kodomo=wa mo: o:kik-u nat-ta=node hitoride bo:ru=o korogas-e-ru	child=TOP already big-ADV become-PST=because by.oneself ball=ACC roll-POT-NPST	The child can roll the ball alone because she/he is already big.
+Hokkaido Japanese	315		Hunega sizunda.		hune=ga sizun-da	boat=NOM sink-PST	The boat sank.
+Hokkaido Japanese	316		Hunega sizumasatta.		hune=ga sizum-asat-ta	boat=NOM sink-AC-PST	The boat is sunken.
+Hokkaido Japanese	317		Karega huneo sizumaseta.		kare=ga hune=o sizum-ase-ta	he=NOM boat=ACC sink-CAUS-PST	He made the boat sank.
+Hokkaido Japanese	318		Karewa huneo sizumeta.		kare=wa hune=o sizume-ta	he=TOP boat=ACC sink-PST	He sank the boat.
+Hokkaido Japanese	319		Darekaga kareni huneo sizumesaseta.		dareka=ga kare=ni hune=o sizume-sase-ta	someone=NOM he=DAT boat=ACC sink-CAUS-PST	Someone made him sink the boat.
+Hokkaido Japanese	320		Hunega kareniyotte sizumerareta.		hune=ga kare=niyotte sizume-rare-ta	boat=NOM he=by sink-PASS-PST	The boat was sunk by him.
+Hokkaido Japanese	321		Karewa sono huneo sizumerareru.		kare=wa sono hune=o sizume-rare-ru	he=TOP that boat=ACC sink-POT-NPST	He can sink that boat.
+Hokkaido Japanese	322		Sammaga yaketa.		samma=ga yake-ta	saury=NOM burn-PST	The saury was grilled.
+Hokkaido Japanese	323		Oka:sanga sammao yaita.		oka:san=ga samma=o yai-ta	mother=NOM saury=ACC burn-PST	Mother grilled the saury.
+Hokkaido Japanese	324		Sammaga yakasatta.		samma=ga yak-asat-ta	saury=NOM burn-AC-PST	The saury got grilled.
+Hokkaido Japanese	325		Danse:wa syo:zyoo tasukerareru.		danse:=wa syo:zyo=o tasuke-rare-ru	man=TOP girl=ACC help-POT-NPST	The man can help the girl.
+Hokkaido Japanese	326		Darekaga oka:sanni sammao yakaseta.		dareka=ga oka:san=ni samma=o yak-ase-ta	someone=NOM mother=DAT saury=ACC burn-CAUS-PST	Someone made my mother grill the saury.
+Hokkaido Japanese	327		Sense:ga watasini hono kureta.		sense:=ga watasi=ni hon=o kure-ta	teacher=NOM 1sg=DAT book=ACC give-PST	The teacher gave me a book.
+Hokkaido Japanese	328		Honga sense:no tokoroni okurasatta.		hon=ga sense:=no tokoro=ni okur-asat-ta	book=NOM teacher=GEN place=DAT send-AC-PST	The book got sent to the teacher.
+Hokkaido Japanese	329		Hosite okitakattanoni, darekani samma{ga/o} yakareta.		hosi-te oki-takat-ta=noni dareka=ni samma={ga/o} yak-are-ta	dry-GER put.ADV-want-PST=though someone=DAT saury={NOM/ACC} burn-PASS-PST	Although I wanted to dry it, someone grilled my saury."
+Hokkaido Japanese	330		Darekaga sono musumeni hono gakko:ni okuraseta.		dareka=ga sono musume=ni hon=o gakko:=ni okur-ase-ta	someone=NOM that girl=DAT book=ACC school=DAT send-CAUS-PST	Someone made that girl send the book to the school.
+Hokkaido Japanese	331		Utino kowa mo: hitoride sammao yakeru.		uti=no ko=wa mo: hitoride samma=o yak-e-ru	our=GEN child=TOP already by.oneself saury=ACC burn-POT-NPST	Our child can grill the saury alone.
+Hokkaido Japanese	332		Musumesanniyotte honga gakko:ni okurareta.		musumesan=niyotte hon=ga gakko:=ni okur-are-ta	girl=by book=NOM school=DAT send-PASS-PST	The book was sent to the school by the girl.
+Hokkaido Japanese	333		Samma, toketakara, yakeruyo.		samma toke-ta=kara yak-e-ru=yo	saury melt-PST=because burn-POT-NPST=PRT	Because it has thawed, the saury is ready to grill."
+Hokkaido Japanese	334		Musumesanwa hono gakko:ni hono okureru.		musumesan=wa hon=o gakko:=ni okur-e-ru	girl=TOP book=ACC school=DAT send-POT-NPST	That girl can send the book to the school.
+Hokkaido Japanese	335		Iega moete iru.		ie=ga moe-te i-ru	house=NOM burn-GER be-NPST	The house is burning.
+Hokkaido Japanese	336		Honwa gakko:ni okureru.		hon=wa gakko:=ni okur-e-ru	book=TOP school=DAT send-POT-NPST	The book can be sent to the school.
+Hokkaido Japanese	337		Darekaga ieo moyasita.		dareka=ga ie=o moyasi-ta	someone=NOM house=ACC burn-PST	Someone burned the house.
+Hokkaido Japanese	338		Sono musumega yogoreo huita.		sono musume=ga yogore=o hui-ta	that girl=NOM dirt=ACC wipe-PST	That girl wiped the dirt.
+Hokkaido Japanese	339		Kono iewa sugu moeru.		kono ie=wa sugu moe-ru	this house=TOP immediately burn-NPST	This house burns easily.
+Hokkaido Japanese	340		Te:buruga hukasatteru.		te:buru=ga huk-asat-te-ru	table=NOM wipe-AC-GER.be-NPST	The table got wiped.
+Hokkaido Japanese	341		Hukuga kawaite iru.		huku=ga kawai-te i-ru	cloth=NOM dry-GER be-NPST	The clothes are dry.
+Hokkaido Japanese	342		Sono otokoga zimeno hotta.		sono otoko=ga zimen=o hot-ta	that man=NOM ground=ACC dig-PST	That man dug the ground.
+Hokkaido Japanese	343		Hankatiga kawakasatta.		hankati=ga kawakas-at-ta	handkerchief=NOM dry-AC-PST	The handkerchief got dry.
+Hokkaido Japanese	344		Zimenga horasatta.		zimen=ga hor-asat-ta	ground=NOM dig-AC-PST	The ground got dug.
+Hokkaido Japanese	345		Bokuwa syo:nenni hukuo kawakasaseta.		boku=wa syo:nen=ni huku=o kawakas-ase-ta	1sg=TOP boy=DAT cloth=ACC dry-CAUS-PST	I made the boy dry the clothes.
+Hokkaido Japanese	346		Darekaga sono otokoni zimeno horaseta.		dareka=ga sono otoko=ni zimen=o hor-ase-ta	someone=NOM that man=DAT ground=ACC dig-CAUS-PST	Someone made that man dig the ground.
+Hokkaido Japanese	347		Sono otokoga hukuo kawakasita.		sono otoko=ga huku=o kawakasi-ta	that man=NOM cloth=ACC dry-PST	That man dried the clothes.
+Hokkaido Japanese	348		Zimenga otokoniyotte horareta.		zimen=ga otoko=niyotte hor-are-ta	ground=NOM man=by dig-PASS-PST	The ground was dug by the man.
+Hokkaido Japanese	349		Hukuga syo:nenni kawakasareta.		huku=ga syo:nen=ni kawakas-are-ta	cloth=NOM boy=DAT dry-PASS-PST	The clothes were dried by the boy.
+Hokkaido Japanese	350		Sono otokowa zimeno horeru.		sono otoko=wa zimen=o hor-e-ru	that man=TOP ground=ACC dig-POT-NPST	That man can dig the ground.
+Hokkaido Japanese	351		Sono hukuwa sugu kawakaseru.		sono huku=wa sugu kawakas-e-ru	that cloth=TOP immediately dry-POT-NPST	Those clothes dry easily.
+Hokkaido Japanese	352		Amega hutta.		ame=ga hut-ta	rain=NOM fall-PST	It rained.
+Hokkaido Japanese	353		Amagoisiga ameo huraseta.		amagoisi=ga ame=o hur-ase-ta	prayer.for.rain=NOM rain=ACC fall-CAUS-PST	Thanks to the ceremony, it rained."
+Hokkaido Japanese	354		Sono otokowa karyu:dodatta.		sono otoko=wa karyu:do=dat-ta	that man=TOP hunter=COPULA-PST	That man was a hunter.
+Hokkaido Japanese	355		Sono otokoga yamaimoo sutta.		sono otoko=ga yamaimo=o sut-ta	that man=NOM yam=ACC grind-PST	That man ground the yam.
+Hokkaido Japanese	356		Yamaimoga surasatta.		yamaimo=ga sur-asat-ta	yam=NOM grind-AC-PST	The yam got ground.
+Hokkaido Japanese	357		Darekaga otokoni yamaimoo suraseta.		dareka=ga otoko=ni yamaimo=o sur-ase-ta	someone=NOM man=DAT yam=ACC grind-CAUS-PST	Someone made that man ground the yam.
+Hokkaido Japanese	358		Yamaimoga sono otokoniyotte surareta.		yamaimo=ga sono otoko=niyotte sur-are-ta	yam=NOM that man=by grind-PASS-PST	The yam was ground by that man.
+Hokkaido Japanese	359		Sono otokowa yamaimoo sureru.		sono otoko=wa yamaimo=o sur-e-ru	that man=TOP yam=ACC grind-POT-NPST	That man can grind the yam.
+Hokkaido Japanese	360		Sono musumega te:buruo huita.		sono musume=ga te:buru=o hui-ta	that girl=NOM table=ACC wipe-PST	That girl wiped the table.
+Hokkaido Japanese	361		Yogorega hukasatteru.		yogore=ga huk-asat-te-ru	dirt=NOM wipe-AC-GER.be-NPST	The dirt got wiped.
+Hokkaido Japanese	362		Darekaga sono musumeni te:buruo hukaseta.		dareka=ga sono musume=ni te:buru=o huk-ase-ta	someone=NOM that girl=DAT table=ACC wipe-CAUS-PST	Someone made that girl wipe the table.
+Hokkaido Japanese	363		Sono musumeni te:buru{ga/o} hukareta.		sono musume=ni te:buru={ga/o} huk-are-ta	that girl=DAT table={NOM/ACC} wipe-PASS-PST	The table was wiped by that girl.
+Hokkaido Japanese	364		Sono musumewa te:buruo kire:ni hukeru.		sono musume=wa te:buru=o kire:ni huk-e-ru	that girl=TOP table=ACC cleanly wipe-POT-NPST	That girl can wipe the table clean.
+Hokkaido Japanese	365		Ano te:buruwa kantanni hukeru.		ano te:buru=wa kantanni huk-e-ru	that table=TOP easily wipe-POT-NPST	That table is easy to wipe.
+Hokkaido Japanese	366		Sono otokoga zimenni anao hotta.		sono otoko=ga zimen=ni ana=o hot-ta	that man=NOM ground=DAT hole=ACC dig-PST	That man dug a hole in the ground.
+Hokkaido Japanese	367		Zimenni anaga horasatta.		zimen=ni ana=ga hor-asat-ta	ground=DAT hole=NOM dig-AC-PST	The hole got dug in the ground.
+Hokkaido Japanese	368		Darekaga sono otokoni zimenni anao horaseta.		dareka=ga sono otoko=ni zimen=ni ana=o hor-ase-ta	someone=NOM that man=DAT ground=DAT hole=ACC dig-CAUS-PST	Someone made that man dig the hole in the ground.
+Hokkaido Japanese	369		Anaga otokoniyotte horareta.		ana=ga otoko=niyotte hor-are-ta	hole=NOM man=by dig-PASS-PST	The hole was dug by the man.
+Hokkaido Japanese	370		Sono otokowa zimenni anao horeru.		sono otoko=wa zimen=ni ana=o hor-e-ru	that man=TOP ground=DAT hole=ACC dig-POT-NPST	That man can dig the hole in the ground.
+Hokkaido Japanese	371		Sono zyose:wa imoo hotte iru.		sono zyose:=wa imo=o hot-te i-ru	that woman=TOP potato=ACC dig-GER be-NPST	That woman is digging for potatoes.
+Hokkaido Japanese	372		Imowa mo: horasatteru.		imo=wa mo: hor-asat-te-ru	potato=TOP already dig-AC-GER.be-NPST	The potatoes have already been dug.
+Hokkaido Japanese	373		Darekaga sono zyose:ni imoo horaseta.		dareka=ga sono zyose:=ni imo=o hor-ase-ta	someone=NOM that woman=DAT potato=ACC dig-CAUS-PST	Someone made that woman dig potatoes.
+Hokkaido Japanese	374		Sono zyose:wa zyo:zuni imoo horeru.		sono zyose:=wa zyo:zuni imo=o hor-e-ru	that woman=TOP well potato=ACC dig-POT-NPST	That woman can dig for potatoes well.
+Hokkaido Japanese	375		Sono musumega sono otokono senakao osita.		sono musume=ga sono otoko=no senaka=o osi-ta	that girl=NOM that man=GEN back=ACC push-PST	That girl pushed that man's back.
+Hokkaido Japanese	376		Darekaga sono musumeni sono otokono senakao osaseta.		dareka=ga sono musume=ni sono otoko=no senaka=o os-ase-ta	someone=NOM that girl=DAT that man=GEN back=ACC push-CAUS-PST	Someone made that girl push that man's back.
+Hokkaido Japanese	377		Sono musumeni senakaga osareta.		sono musume=ni senaka=ga os-are-ta	that girl=DAT back=NOM push-PASS-PST	My back was pushed by that girl.
+Hokkaido Japanese	378		Sono kodomowa bebi:ka:o oseru.		sono kodomo=wa bebi:ka:=o os-e-ru	that child=TOP stroller=ACC push-POT-NPST	That child can push the stroller.
+Hokkaido Japanese	379		Sono otokoga hankoo osita.		sono otoko=ga hanko=o osi-ta	that man=NOM stamp=ACC push-PST	That man pressed the stamp (on something).
+Hokkaido Japanese	380		Hankoga osasatta.		hanko=ga os-asat-ta	stamp=NOM push-AC-PST	The stamp got pressed (on something).
+Hokkaido Japanese	381		Darekaga sono otokoni hankoo osaseta.		dareka=ga sono otoko=ni hanko=o os-ase-ta	someone=NOM that man=DAT stamp=ACC push-CAUS-PST	Someone made that man press the stamp (on something).
+Hokkaido Japanese	382		Titini katteni hankoo osareta.		titi=ni katteni hanko=o os-are-ta	father=DAT without.permission stamp=ACC push-PASS-PST	I had the stamp pressed by my father.
+Hokkaido Japanese	383		Sono otokowa hankoo oseru.		sono otoko=wa hanko=o os-e-ru	that man=TOP stamp=ACC push-POT-NPST	That man can press the stamp (on something).
+Hokkaido Japanese	384		Kono hankowa rakuni oseru.		kono hanko=wa rakuni os-e-ru	this stamp=TOP easily push-POT-NPST	This stamp is easy to press.
+Hokkaido Japanese	385		Sono musumega sense:no tokoroni hono motteitta.		sono musume=ga sense:=no tokoro=ni hon=o motteit-ta	that girl=NOM teacher=GEN place=DAT book=ACC bring-PST	That girl brought the book to the teacher.
+Hokkaido Japanese	386		Darekaga sono musumeni sense:no tokoroni hono motteikaseta.		dareka=ga sono musume=ni sense:=no tokoro=ni hon=o motteik-ase-ta	someone=NOM that girl=DAT teacher=GEN place=DAT book=ACC bring-CAUS-PST	Someone made that girl bring the book to the teacher.
+Hokkaido Japanese	387		Sono honwa musumeniyotte sense:no tokoroni motteikareta.		sono hon=wa musume=niyotte sense:=no tokoro=ni motteik-are-ta	that book=TOP girl=by teacher=GEN place=DAT bring-PASS-PST	That book was brought to the teacher by the girl.
+Hokkaido Japanese	388		Sono musumewa sense:no tokoroni hono motteikeru.		sono musume=wa sense:=no tokoro=ni hon=o motteik-e-ru	that girl=TOP teacher=GEN place=DAT book=ACC bring-POT-NPST	That girl can bring the book to the teacher.
+Hokkaido Japanese	389		Sono syukudaiwa sense:no tokoroni motteikeru.		sono syukudai=wa sense:=no tokoro=ni motteik-e-ru	that homework=TOP teacher=GEN place=DAT bring-POT-NPST	That homework can be brought to the teacher.
+Hokkaido Japanese	390		Sono musumega sense:no hono nusunda.		sono musume=ga sense:=no hon=o nusun-da	that girl=NOM teacher=GEN book=ACC steal-PST	That girl stole the teacher's book.
+Hokkaido Japanese	391		Honga nusumasatta.		hon=ga nusum-asat-ta	book=NOM steal-AC-PST	The book got stolen.
+Hokkaido Japanese	392		Darekaga sono musumeni sense:no hono nusumaseta.		dareka=ga sono musume=ni sense:=no hon=o nusum-ase-ta	someone=NOM that girl=DAT teacher=GEN book=ACC steal-CAUS-PST	Someone made that girl steal the book.
+Hokkaido Japanese	393		Honga sono musumeni nusumareta.		hon=ga sono musume=ni nusum-are-ta	book=NOM that girl=DAT steal-PASS-PST	The book was stolen by that girl.
+Hokkaido Japanese	394		Sono musumewa hono nusumeru.		sono musume=wa hon=o nusum-e-ru	that girl=TOP book=ACC steal-POT-NPST	That girl can steal the book.
+Hokkaido Japanese	395		Sono sense:ga watasini su:gakuo osieta.		sono sense:=ga watasi=ni su:gaku=o osie-ta	that teacher=NOM 1sg=DAT mathematics=ACC teach-PST	That teacher taught me mathematics.
+Hokkaido Japanese	396		Darekaga sono sense:ni watasini su:gakuo osiesaseta.		dareka=ga sono sense:=ni watasi=ni su:gaku=o osie-sase-ta	someone=NOM that teacher=DAT 1sg=DAT mathematics=ACC teach-CAUS-PST	Someone made that teacher teach me mathematics.
+Hokkaido Japanese	397		Watasiwa sono sense:{ni/kara} su:gakuo osowatta.		watasi=wa sono sense:={ni/kara} su:gaku=o osowat-ta	1sg=TOP that teacher={DAT/ABL} mathematics=ACC learn-PST	I learnt mathematics from that teacher.
+Hokkaido Japanese	398		Watasiwa sono sense:ni su:gakuo osierareta.		watasi=wa sono sense:=ni su:gaku=o osie-rare-ta	1sg=TOP that teacher=DAT mathematics=ACC teach-PASS-PST	I was taught mathematics by that teacher.
+Hokkaido Japanese	399		Sono sense:wa watasini su:gakuo osierareru.		sono sense:=wa watasi=ni su:gaku=o osie-rare-ru	that teacher=TOP 1sg=DAT mathematics=ACC teach-POT-NPST	That teacher can teach me mathematics.
+Hokkaido Japanese	400		Bokuniwa sono otoga kikoeta.		boku=ni=wa sono oto=ga kikoe-ta	1sg=DAT=TOP that sound=NOM hear-PST	I heard that sound.
+Hokkaido Japanese	401		Bokuwa sono otoo ki:ta.		boku=wa sono oto=o ki:-ta	1sg=TOP that sound=ACC listen-PST	I listened to the sound.
+Hokkaido Japanese	402		Bokuga sakanao ryo:ri sita.		boku=ga sakana=o ryo:ri si-ta	1sg=NOM fish=ACC cook do-PST	I cooked the fish.
+Hokkaido Japanese	403		Bokuwa imo:toni sakanao ryo:ri saseta.		boku=wa imo:to=ni sakana=o ryo:ri s-ase-ta	1sg=TOP sister=DAT fish=ACC cook do-CAUS-PST	I made my sister cook the fish.
+Hokkaido Japanese	404		Sakanaga imo:toniyotte ryo:ri sareta.		sakana=ga imo:to=niyotte ryo:ri s-are-ta	fish=NOM sister=by cook do-PASS-PST	The fish was cooked by my sister.
+Hokkaido Japanese	405		Imo:towa sakanao ryo:ri dekiru.		imo:to=wa sakana=o ryo:ri deki-ru	sister=TOP fish=ACC cook can-NPST	My sister can cook the fish.
+Hokkaido Japanese	406		Oyuga waita.		oyu=ga wai-ta	hot.water=NOM boil-PST	The water boiled.
+Hokkaido Japanese	407		Oyuga wakasatta.		oyu=ga wak-asat-ta	hot.water=NOM boil-AC-PST	The water got boiled.
+Hokkaido Japanese	408		Bokuga oyuo wakasita.		boku=ga oyu=o wakasi-ta	1sg=NOM hot.water=ACC boil-PST	I boiled the water.
+Hokkaido Japanese	409		Oyuga wakasatta.		oyu=ga wakas-at-ta	hot.water=NOM boil-AC-PST	The water got boiled.
+Hokkaido Japanese	410		Bokuwa imo:toni oyuo wakasaseta.		boku=wa imo:to=ni oyu=o wakas-ase-ta	1sg=TOP sister=DAT hot.water=ACC boil-CAUS-PST	I made my sister boil the water.
+Hokkaido Japanese	411		Imo:toga oyuo wakaseru.		imo:to=ga oyu=o wakas-e-ru	sister=NOM hot.water=ACC boil-POT-NPST	My sister can boil the water.
+Hokkaido Japanese	412		Nikuga tatakasatteru.		niku=ga tatak-asat-te-ru	meat=NOM beat-AC-GER.be-NPST	The meat was softened by pounding.
+Hokkaido Japanese	413		Syo:nenwa zyose:ni donarii tukerareta.		syo:nen=wa zyose:=ni donari-i tuke-rare-ta	boy=TOP woman=DAT shout-ADV put.on-PASS-PST	The boy was shouted at by the woman.
+Hokkaido Japanese	414		Zyose:wa kareni syo:neno donari tukesaseta.		zyose:=wa kare=ni syo:nen=o donar-i tuke-sase-ta	woman=TOP he=DAT boy=ACC shout-ADV put.on-CAUS-PST	The woman made him shout at the boy.
+Hokkaido Japanese	415		Zyose:wa syo:neno donari tuketa.		zyose:=wa syo:nen=o donar-i tuke-ta	woman=TOP boy=ACC shout-ADV put.on-PST	The woman shouted at the boy.
+Hokkaido Japanese	416		Zyose:wa syo:neno donari tukerareru.		zyose:=wa syo:nen=o donar-i tuke-rare-ru	woman=TOP boy=ACC shout-ADV put.on-POT-NPST	The woman can shout at the boy.
+Hokkaido Japanese	417		*Madoga iside warasatta.		mado=ga *isi=de war-asat-ta	window=NOM *stone=INST break-AC-PST	The window got broken.
+Hokkaido Japanese	418		*Darekaga syo:nenni okaneo otokoni motomesaseta.		dareka=ga syo:nen=ni okane=o *otoko=ni motome-sase-ta	someone=NOM boy=DAT money=ACC *man=DAT ask.for-CAUS-PST	Someone made the boy ask the man for money.
+Hokkaido Japanese	419		*Madoga iside wareta.		mado=ga *isi=de ware-ta	window=NOM *stone=INST break-PST	The window broke.
+Hokkaido Japanese	420		Yogorewa sono musumeniyotte hukareta.		yogore=wa sono musume=niyotte huk-are-ta	dirt=TOP that girl=by wipe-PASS-PST	The dirt was wiped off by the girl.
+Hokkaido Japanese	421		Sono musumewa kareni yogoreo hukaseta.		sono musume=wa kare=ni yogore=o huk-ase-ta	that girl=TOP he=DAT dirt=ACC wipe-CAUS-PST	That girl made him wipe off the dirt.
+Hokkaido Japanese	422		Sono musumewa yogoreo hukeru.		sono musume=wa yogore=o huk-e-ru	that girl=TOP dirt=ACC wipe-POT-NPST	That girl can wipe off the dirt.
+Hokkaido Japanese	423		Kono yogorewa kantanni hukeru.		kono yogore=wa kantanni huk-e-ru	this dirt=TOP easily wipe-POT-NPST	This dirt is easy to wipe off.

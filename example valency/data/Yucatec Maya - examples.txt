@@ -1,0 +1,363 @@
+﻿Language_name	Example_number	Example_type	Primary_text	Original_orthography	Analyzed_text	Gloss	Translation
+Yucatec Maya	1		Le xibpale' tu haantah le abalo'.		le xibpal-e' t-u haan-t-ah le abal-o'	DEM boy-D3 PRFV-SBJ.3 eat-TRR-CMPL DEM plum-D2	The boy ate the plum.
+Yucatec Maya	2		Tu méek'ah u chaan xibpal le maamaho'.		t-u méek'-ah u chaan xibpal le maamah-o'	PRFV-SBJ.3 hug-CMPL POSS.3 little boy DEM mother-D2	The mother hugged her little boy.
+Yucatec Maya	3		Le xibpalo' tu paktah le xch'úupalo'.		le xibpal-o' t-u pakat-ah le xch'úupal-o'	DEM boy-D2 PRFV-SBJ.3 look-CMPL DEM girl-D2	The boy looked at the girl.
+Yucatec Maya	4		Le wíiniko' tu yilah le báalamo'.		le wíinik-o' t-u y-il-ah le báalam-o'	DEM man-D2 PRFV-SBJ.3 0-see-CMPL DEM jaguar-D2	The man saw the jaguar.
+Yucatec Maya	5		Le kéeho' tu yu'bah u book le xibpalo'.		le kéeh-o' t-u y-u'b-ah u book le xibpal-o'	DEM deer-D2 PRFV-SBJ.3 0-feel-CMPL POSS.3 smell DEM boy-D2	The deer smelled the boy.
+Yucatec Maya	6		Le wíiniko' sahak ti' le báalamo'.		le wíinik-o' sahak ti' le báalam-o'	DEM man-D2 afraid LOC DEM jaguar-D2	The man feared/fears the jaguar.
+Yucatec Maya	7		Le báalamo' tu sahbesah le wíiniko'.		le báalam-o' t-u sah-bes-ah le wíinik-o'	DEM jaguar-D2 PRFV-SBJ.3 fear-CAUS-CMPL DEM man-D2	The jaguar frightened the man.
+Yucatec Maya	8		Le báalamo' tu sahakkunsah le wíiniko'.		le báalam-o' t-u sahak-kuns-ah le wíinik-o'	DEM jaguar-D2 PRFV-SBJ.3 afraid-FACT-CMPL DEM man-D2	The jaguar frightened the man.
+Yucatec Maya	9		Le xibpalo' uts tu yich u tumben baaxal.		le xibpal-o' uts t-u y-ich u tumben baaxal	DEM boy-D2 good LOC-POSS.3 0-eye POSS.3 new toy	The boy likes his new toy.
+Yucatec Maya	10		Le xibpalo' u k'ahóol le xch'úupalo'.		le xibpal-o' u k'ahóol le xch'úupal-o'	DEM boy-D2 SBJ.3 know DEM girl-D2	The boy knows/knew the girl.
+Yucatec Maya	11		Le xch'úupalo' tu tukultah u chiich holheak.		le xch'úupal-o' t-u tukul-t-ah u chiich ho'lheak	DEM girl-D2 PRFV-SBJ.3 think-TRR-CMPL POSS.3 grandmother yesterday	The girl thought about her grandmother yesterday.
+Yucatec Maya	12		Le wíiniko' táan u kaxtik le xch'úupo'bo'.		le wíinik-o' táan u kax-t-ik le xch'úup-o'b-o'	DEM man-D2 PROG SBJ.3 search-TRR-INCMPL DEM woman-PL-D2	The man is searching for the women.
+Yucatec Maya	13		Le xch'úupo' tu yisintah le chaampalo'.		le xch'úup-o' t-u y-isíin-t-ah le chaampal-o'	DEM woman-D2 PRFV-SBJ.3 0-bathe-TRR-CMPL DEM baby-D2	The woman washed/bathed the baby.
+Yucatec Maya	14		Le wíiniko' tu ts'ikah u me'x.		le wíinik-o' t-u ts'ik-ah u me'x	DEM man-D2 PRFV-SBJ.3 shave-CMPL POSS.3 beard	The man shaved his beard.
+Yucatec Maya	15		Tin wáantah le xibpalo'bo'.		t-in w-áant-ah le xibpal-o'b-o'	PRFV-SBJ.1SG 0-help-CMPL DEM boy-PL-D2	I helped the boys.
+Yucatec Maya	16		Le xibpalo'bo' ku ch'a'pachtiko'b le xch'úupalo'ob.		le xibpal-o'b-o' k-u ch'a'-pach-t-ik-o'b le xch'úupal-o'b-o'	DEM boy-PL-D2 IMPF-SBJ.3 take-back-TRR-INCMPL-PL DEM girl-PL-D2	The boys follow the girls.
+Yucatec Maya	17		Le wíiniko'bo' tu naktáantaho'b le xibpalo'bo'.		le wíinik-o'b-o' t-u naktáan-t-ah-o'b le xibpal-o'b-o'	DEM man-PL-D2 PRFV-SBJ.3 meet-TRR-CMPL-PL DEM boy-PL-D2	The men met the boys.
+Yucatec Maya	18		Le wíiniko'bo' tu nuptáantaho'b le xibpalo'bo'.		le wíinik-o'b-o' t-u nuptáan-t-ah-o'b le xibpal-o'b-o'	DEM man-PL-D2 PRFV-SBJ.3 meet-TRR-CMPL-PL DEM boy-PL-D2	The men met the boys.
+Yucatec Maya	19		Le xch'úupalo' tsikbalnah yéetel le xibpalo' yo'lal u yaalak' peek'.		le xch'úupal-o' tsikbal-nah yéetel le xibpal-o' y-o'lal u y-aalak' peek'	DEM girl-D2 talk-CMPL with DEM boy-D2 0-reason POSS.3 0-CL.domestic dog	The girl talked to the boy about her dog.
+Yucatec Maya	20		Le xch'úupalo' h t'aanah yéetel le xibpal yóok'ol u yaalak' peek'o'.		le xch'úupal-o' h t'aan-nah yéetel le xibpal y-óok'ol u y-aalak' peek'-o'	DEM girl-D2 PRFV speak-CMPL with DEM boy 0-over POSS.3 0-CL.domestic dog-D2	The girl talked to the boy about her dog.
+Yucatec Maya	21		Le xibpalo' tu k'áatah taak'in ti' u taataho'b.		le xibpal-o' t-u k'áat-ah taak'in ti' u taatah-o'b	DEM boy-D2 PRFV-SBJ.3 ask-CMPL money LOC POSS.3 father-PL	The boy asked his parents for money.
+Yucatec Maya	22		Le xch'úupo' tu yawtah le paalalo'bo'.		le xch'úup-o' t-u y-awat-ah le paal-al-o'b-o'	DEM woman-D2 PRFV-SBJ.3 0-shout-CMPL DEM child-COLL-PL-D2	The woman shouted at the children.
+Yucatec Maya	23		Le xch'úupalo' tu tsikbatah hump'éel che'hbil tsikbal ti' le xibpalo'.		le xch'úupal-o' t-u tsikbal-t-ah hun-p'éel che'h-bil tsikbal ti' le xibpal-o'	DEM girl-D2 PRFV-SBJ.3 talk-TRR-CMPL one-CL.INAN laugh-GER story LOC DEM boy-D2	The girl told the boy a funny story.
+Yucatec Maya	24		Tu ya'laho'b teen ma'(il).		t-u y-a'l-ah-o'b teen ma'-il	PRFV-SBJ.3 0-say-CMPL-PL me NEG-ABSTR	They said 'no' to me.
+Yucatec Maya	25		Le wíiniko'bo' tu beetaho'b hump'éel xa'nil nah.		le wíinik-o'b-o' t-u beet-ah-o'b hun-p'éel xa'n-il nah	DEM man-PL-D2 PRFV-SBJ.3 do-CMPL-PL one-CL.INAN palm-REL house	The men built a house out of palm leaves.
+Yucatec Maya	26		Le xibpalo' tu pa'ah le kalomk'iin yéetel tunicho'.		le xibpal-o' t-u pa'-ah kalomk'iin yéetel tuunich-o'	DEM boy-D2 PRFV-SBJ.3 break-CMPL window with stone-D2	The boy broke the window with a stone.
+Yucatec Maya	27		Le wíiniko' tu kíinsah u k'uxóolal yéetel báat.		le wíinik-o' t-u kíim-s-ah u k'uxóolal yéetel báat	DEM man-D2 PRFV-SBJ.3 die-CAUS-CMPL POSS.3 enemy with axe	The man killed his enemy with an axe.
+Yucatec Maya	28		Le xibpalo' tu p'u'p'uchah le kaan yéetel che'o'.		le xibpal-o' t-u p'u'-p'uch-ah le kaan yéetel che'-o'	DEM boy-D2 PRFV-SBJ.3 RED-beat-CMPL DEM snake with wood-D2	The boy beat the snake with a stick.
+Yucatec Maya	29		Le xibpalo' tu kohah le kaan yéetel che'o'.		le xibpal-o' t-u koh-ah le kaan yéetel che'-o'	DEM boy-D2 PRFV-SBJ.3 toss-CMPL DEM snake with wood-D2	The boy touched the snake with a stick.
+Yucatec Maya	30		Le ko'lelo' tu xotah le waah yéetel xoteb hach yaan u yeho'.		le ko'lel-o' t-u xot-ah le waah yéetel xotéeb hach yaan u y-eh-o'	DEM woman-D2 PRFV-SBJ.3 cut-CMPL DEM tortilla with knife really EXIST POSS.3 0-edge-D2	The woman cut the tortilla with a sharp knife.
+Yucatec Maya	31		Le wíiniko' tu ch'a'ah u taak'in ti' u láak'.		le wíinik-o' t-u ch'a'-ah u taak'in ti' u láak'	DEM man-D2 PRFV-SBJ.3 take-CMPL POSS.3 money LOC POSS.3 equal	The man took the money from his friend.
+Yucatec Maya	32		Le xch'úupalo' tu hatah hunwáal le analte'o'.		le xch'úupal-o' t-u hat-ah hun-wáal le analte'-o'	DEM girl-D2 PRFV-SBJ.3 tear-CMPL one-CL.flat DEM book-D2	The girl tore a page from the book.
+Yucatec Maya	33		Le xibpalo' tu sóoltah le che'o'.		le xibpal-o' t-u sóol-t-ah le che'-o'	DEM boy-D2 PRFV-SBJ.3 peel-TRR-CMPL DEM wood-D2	The boy peeled the bark off the stick.
+Yucatec Maya	34		Le xibpalo' tu cheppóoltah le che'o'.		le xibpal-o' t-u chep-póol-t-ah le che'-o'	DEM boy-D2 PRFV-SBJ.3 rub-trim-TRR-CMPL DEM wood-D2	The boy ripped the bark off the stick.
+Yucatec Maya	35		Le xibpalo' tu lakah u sóol le che'o'.		le xibpal-o' t-u lak-ah u sóol le che'-o'	DEM boy-D2 PRFV-SBJ.3 detach-CMPL POSS.3 shell DEM wood-D2	The boy removed the bark from the stick.
+Yucatec Maya	36		Le xibpalo' tu ta'kah le muuch' ti' u maamaho'.		le xibpal-o' t-u ta'k-ah le muuch' ti' u maamah-o'	DEM boy-D2 PRFV-SBJ.3 hide-CMPL DEM frog LOC POSS.3 mother-D2	The boy hid the frog from his mother.
+Yucatec Maya	37		Le xch'úupalo' tu ye'sah le analte' ti' u ah kaanbesaho'.		le xch'úupal-o' t-u y-e's-ah le analte' ti' u ah-kaanbesah-o'	DEM girl-D2 PRFV-SBJ.3 0-show-CMPL DEM book LOC POSS.3 AG.M-teacher-D2	The girl showed the book to her teacher.
+Yucatec Maya	38		T ts'a'ah le analte'o'b ti' le paalalo'bo'.		t ts'a'-ah le analte'-o'b ti' le paal-al-o'b-o'	PRFV.SBJ.1PL put/give-CMPL DEM book-PL LOC DEM child-COLL-PL-D2	We gave the books to the children.
+Yucatec Maya	39		Le xch'úupalo' tu túuxtah loolo'b ti' u chiich.		le xch'úupal-o' t-u túuxt-ah lool-o'b ti' u chiich	DEM girl-D2 PRFV-SBJ.3 send-CMPL flower-PL LOC POSS.3 grandmother	The girl sent flowers to her grandmother.
+Yucatec Maya	40		Le wíiniko'bo' tu bisaho'b le máabeno'b (ti') k'íiwiko'.		le wíinik-o'b-o' t-u bis-ah-o'b le máaben-o'b ti' k'íiwik-o'	DEM man-PL-D2 PRFV-SBJ.3 carry-CMPL-PL DEM box-PL LOC market-D2	The men carried the boxes to the market.
+Yucatec Maya	41		Le xibpalo' tu pulah le boolah teh béentaanaho'.		le xibpal-o' t-u pul-ah le boolah teh béentaanah-o'	DEM boy-D2 PRFV-SBJ.3 throw-CMPL DEM ball LOC:DEM window-D2	The boy threw the ball into the window.
+Yucatec Maya	42		Ta pulah teen le boolaho'.		t-a pul-ah teen le boolah-o'	PRFV-SBJ.2 throw-CMPL me DEM ball-D2	You threw me the ball.
+Yucatec Maya	43		Káa tu pulho'b ichil áaktun.		káa t-u pul-ah-o'b ichil áaktun	CONJ PRFV-SBJ.3 throw-CMPL-PL inside cistern	And they threw him into a well.
+Yucatec Maya	44		Le wíiniko' tu k'axah huntúul tsíimin yéetel hunhíil suum teh che'o'.		le wíinik-o' t-u k'ax-ah hun-túul tsíimin yéetel hun-híil suum teh che'-o'	DEM man-D2 PRFV-SBJ.3 tie-CMPL one-CL.AN horse with one-CL.string rope LOC:DEM wood-D2	The man tied the horse with a rope to the tree.
+Yucatec Maya	45		Le luucho' tin ts'a'ah ti' le ka'nche'o'.		le luuch-o' t-in ts'a'-ah ti' le ka'nche'-o'	DEM cup-D2 PRFV-SBJ.1SG put/give-CMPL LOC DEM table-D2	I put the cup onto the table.
+Yucatec Maya	46		Le wíiniko' tu láalah ha' ti'/ichil le luucho'.		le wíinik-o' t-u láal-ah ha' ti'/ichil le luuch-o'	DEM man-D2 PRFV-SBJ.3 pour-CMPL water LOC/inside DEM cup-D2	The man poured water into the cup.
+Yucatec Maya	47		Le wíiniko' tu t'ohah le ha' teh luucho'.		le wíinik-o' t-u t'oh-ah le ha' ti' le luuch-o'	DEM man-D2 PRFV-SBJ.3 pour-CMPL DEM water LOC DEM cup-D2	The man poured the water into the cup.
+Yucatec Maya	48		Le xch'úupo' tu pixah le xibpal yéetel teep'elo'.		le xch'úup-o' t-u pix-ah le xibpal yéetel teep'el-o'	DEM woman-D2 PRFV-SBJ.3 cover-CMPL DEM boy with blanket-D2	The woman covered the boy with a blanket.
+Yucatec Maya	49		Le xch'úupalo' tu chupah le luuch yéetel ha'o'.		le xch'úupal-o' t-u chup-ah le luuch yéetel ha'-o'	DEM girl-D2 PRFV-SBJ.3 fill-CMPL DEM cup with water-D2	The girl filled the glass with water.
+Yucatec Maya	50		Le xch'úupalo' tu but'ah le luuch yéetel ha'o'.		le xch'úupal-o' t-u but'-ah le luuch yéetel ha'-o'	DEM girl-D2 PRFV-SBJ.3 fill-CMPL DEM cup with water-D2	The girl filled the cup with water.
+Yucatec Maya	51		Le koolnáalo' tu but'ah ixi'm ti' le kaamiono'.		le koolnáal-o' t-u but'-ah ixi'm ti' le kaamion-o'	DEM farmer-D2 PRFV-SBJ.3 fill-CMPL corn LOC DEM truck-D2	The farmer loaded corn onto the truck.
+Yucatec Maya	52		Táan in kuchik le nala'.		táan in kuch-ik le nal-a'	PROG SBJ.1SG load-INCMPL DEM corncob-D1	I am loading (on myself) these corncobs.
+Yucatec Maya	53		Chak'ichnahen.		chak'-ich-nah-en	blink-eye-CMPL-ABS.1SG	I blinked.
+Yucatec Maya	54		Le nohoch máako' h sa'sa'kaalnahih.		le nohoch máak-o' h sa'sa'kaal-nah-ih	DEM big person-D2 PRFV cough-CMPL-ABS.3SG	The old man coughed.
+Yucatec Maya	55		Le nohoch máako' h se'nnahih.		le nohoch máak-o' h se'n-nah-ih	DEM big person-D2 PRFV cough-CMPL-ABS.3SG	The old man coughed.
+Yucatec Maya	56		Le wíiniko'bo' h na'ko'b ti' le che'o'.		le wíinik-o'b-o' h na'k-o'b ti' le che'-o'	DEM man-PL-D2 PRFV climb-PL LOC DEM wood-D2	The men climbed (up) the tree.
+Yucatec Maya	57		Táan u yáalkab le tsíimno'.		táan u y-áalkab le tsíimin-o'	PROG SBJ.3 0-run DEM horse-D2	The horse is running.
+Yucatec Maya	58		Le paalalo'bo' kulukbalo'b ti' lu'm.		le paal-al-o'b-o' kul-ukbal-o'b ti' lu'm	DEM child-COLL-PL-D2 sit-POS-PL LOC earth	The children sat on the floor.
+Yucatec Maya	59		Le paalalo'bo' h kulchaho'b ti' le k'áanche'o'.		le paal-al-o'b-o' h kul-chah-o'b ti' le k'áanche'-o'	DEM child-COLL-PL-D2 PRFV sit-FIENT.CMPL-PL LOC DEM chair-D2	The children sat down on the chair.
+Yucatec Maya	60		Le xch'úupalo' h síit'nahih.		le xch'úupal-o' h síit'-nah-ih	DEM girl-D2 PRFV jump-CMPL-ABS.3SG	The girl jumped.
+Yucatec Maya	61		Le xibpalo' h k'aaynahih.		le xibpal-o' h k'aay-nah-ih	DEM boy-D2 PRFV sing\INTROV-CMPL-ABS.3SG	The boy sang.
+Yucatec Maya	62		Le xibpalo' tu k'ayah hump'éel k'aay.		le xibpal-o' t-u k'ay-ah hun-p'éel k'aay	DEM boy-D2 PRFV-SBJ.3 sing-CMPL one-CL.INAN song	The boy sang a song.
+Yucatec Maya	63		Le xch'úupo' h bin k'íiwik.		le xch'úup-o' h bin k'íiwik	DEM woman-D2 PRFV go market	The woman went to the market.
+Yucatec Maya	64		Le xibpalo' h hóok' tu kaahal.		le xibpal-o' h hóok' ti' u kaah-al	DEM boy-D2 PRFV leave LOC POSS.3 village-REL	The boy left the village.
+Yucatec Maya	65		Le nohoch máako'bo' kahakbalo'b / ku kahtalo'b / kaha'no'b ich nohoch kah.		le nohoch máak-o'b-o' kah-akbal-o'b / k-u kah-tal-o'b / kah-a'n-o'b ich nohoch kahtal	DEM big person-PL-D2 live-POS-PL / IMPF-SBJ.3 live-FIENT.INCMPL-PL / live-RSLTV-PL in big village	The old people live in town.
+Yucatec Maya	66		Le chaan xch'úupalo' che'hnahih.		le chaan xch'úupal-o' che'h-nah-ih	DEM little girl-D2 laugh-CMPL-ABS.3SG	The little girl laughed.
+Yucatec Maya	67		Le wíiniko' awatnahih.		le wíinik-o' awat-nah-ih	DEM man-D2 shout-CMPL-ABS.3SG	The man screamed.
+Yucatec Maya	68		Yah in k'ab.		yah in k'ab	hurt POSS.1SG hand	My arm/hand hurts.
+Yucatec Maya	69		Táan u k'i'nam in k'ab.		táan u k'i'nam in k'ab	PROG SBJ.3 pain POSS.1SG hand	My arm/hand is hurting.
+Yucatec Maya	70		Ke'len.		ke'l-en	cold-ABS.1SG	I am cold.
+Yucatec Maya	71		H kíim le kaano'.		h kíim le kaan-o'	PRFV die(CMPL) DEM snake-D2	The snake died.
+Yucatec Maya	72		Le paalo' táan u báaxal.		le paal-o' táan u báaxal	DEM child-D2 PROG SBJ.3 play	The child is playing.
+Yucatec Maya	73		Ok'om u yóol le chaan xch'úupalo'.		ok'om u y-óol le chaan xch'úupal-o'	sad POSS.3 0-mind DEM little girl-D2	The little girl is said.
+Yucatec Maya	74		Wi'h le chaampalo'.		wi'h le chaampal-o'	hungry DEM baby-D2	The baby is hungry.
+Yucatec Maya	75		Táan u balak' le boolaho'.		táan u balak' le boolah-o'	PROG SBJ.3 roll DEM ball-D2	The ball is rolling.
+Yucatec Maya	76		H búul le che'mo'.		h búul le che'm-o'	PRFV submerge\DEAG DEM boat-D2	The boat sank.
+Yucatec Maya	77		Táan u yéelel le naho'.		táan u y-éel-el le nah-o'	PROG SBJ.3 0-burn-INCMPL DEM house-D2	The house is burning.
+Yucatec Maya	78		Tin tóokah le naho'.		t-in tóok-ah le nah-o'	PRFV-SBJ.1SG burn-CMPL DEM house-D2	I burnt the house.
+Yucatec Maya	79		Tikin le lu'mo'.		tikin le lu'm-o'	dry DEM earth-D2	The ground is dry.
+Yucatec Maya	80		H k'áax ha'.		h k'áax ha'	PRFV rain water	It rained.
+Yucatec Maya	81		Le wíinika' huntúul hts'oon.		le wíinik-a' hun-túul h-ts'oon	DEM man-D1 one-CL.AN M-hunter	This man is a hunter.
+Yucatec Maya	82		Le xch'úupo'bo' tu huch'aho'b le ixi'm yéetel ka'o'.		le xch'úup-o'b-o' t-u huch'-ah-o'b le ixi'm yéetel ka'-o'	DEM woman-PL-D2 PRFV-SBJ.3 grind-CMPL-PL DEM corn with handmill-D2	The women ground the corn by handmill.
+Yucatec Maya	83		Le xch'úupo'bo' tu cho'ho'b le mayako'.		le xch'úup-o'b-o' t-u cho'-ah-o'b le mayak-o'	DEM woman-PL-D2 PRFV-SBJ.3 clean-CMPL-PL DEM table-D2	The women wiped the table.
+Yucatec Maya	84		Le xch'úupo'bo' tu púustaho'b le meesaho'.		le xch'úup-o'b-o' t-u púus-t-ah-o'b le meesah-o'	DEM woman-PL-D2 PRFV-SBJ.3 remove.dust-TRR-CMPL-PL DEM table-D2	The women wiped (dirt off) the table.
+Yucatec Maya	85		Le xch'úupo'bo' tu púustaho'b u luuk'il le meesaho'.		le xch'úup-o'b-o' t-u púus-t-ah-o'b u luuk'-il le meesah-o'	DEM woman-PL-D2 PRFV-SBJ.3 remove.dust-TRR-CMPL-PL POSS.3 mud-REL DEM table-D2	The women wiped the dirt off the table.
+Yucatec Maya	86		Le xch'úupo' táan u háalik wi'.		le xch'úup-o' táan u háal-ik wi'	DEM woman-D2 PROG SBJ.3 dig.out-INCMPL bulb	The woman is digging for roots.
+Yucatec Maya	87		Le xibpalo' tu léench'intah le xch'úupal ti' ha'o'.		le xibpal-o' t-u léen-ch'in-t-ah le xch'úupal ti' ha'-o'	DEM boy-D2 PRFV-SBJ.3 very-pelt-TRR-CMPL DEM girl LOC water-D2	The boy pushed the girl into the water.
+Yucatec Maya	88		Le xibpalo' tu tulah le xch'úupal ka lúubuk ich ha'o'.		le xibpal-o' t-u tul-ah le xch'úupal káa lúub-uk ich ha'-o'	DEM boy-D2 PRFV-SBJ.3 push-CMPL DEM girl CONJ fall-SUBJ in water-D2	The boy pushed the girl into the water.
+Yucatec Maya	89		Le xch'úupalo' tu taasah teen lool.		le xch'úupal-o' t-u taas-ah teen lool	DEM girl-D2 PRFV-SBJ.3 bring-CMPL me flower	The girl brought flowers to me.
+Yucatec Maya	90		Le h-ookolo' tu yooklah u taak'in le ko'lelo'.		le h-ookol-o' t-u y-ookol-ah u taak'in le ko'lel-o'	DEM M-thief-D2 PRFV-SBJ.3 0-steal-CMPL POSS.3 money DEM woman-D2	The thief stole money from the lady.
+Yucatec Maya	91		Le ko'lelo' tu ka'nsah le xch'úupal ti' hump'éel k'aayo'.		le ko'lel-o' t-u ka'n-s-ah le xch'úupal ti' hun-p'éel k'aay-o'	DEM woman-D2 PRFV-SBJ.3 learn\PASS-CAUS-CMPL DEM girl LOC one-CL.INAN song-D2	The lady taught the girl a song.
+Yucatec Maya	92		Le xibpalo' tu yu'bah le báalamo'.		le xibpal-o' t-u y-u'b-ah le báalam-o'	DEM boy-D2 PRFV-SBJ.3 0-feel-CMPL DEM jaguar-D2	The boy heard the jaguar.
+Yucatec Maya	93		Le xch'úupo'bo' tu chakaho'b u bak'el kaax.		le xch'úup-o'b-o' t-u chak-ah-o'b u bak'-el kaax	DEM woman-PL-D2 PRFV-SBJ.3 cook-CMPL-PL POSS.3 flesh-REL chicken	The women cooked the chicken meat.
+Yucatec Maya	94		Táan u look le ha'o'.		táan u look le ha'-o'	PROG SBJ.3 boil DEM water-D2	The water is boiling.
+Yucatec Maya	95		H chíikpah le k'iino'.		h chíik-pah le k'iin-o'	PRFV appear-SPONT(CMPL) DEM sun/day-D2	The sun appeared.
+Yucatec Maya	96		K'oha'n in taatah.		k'oha'n in taatah	sick POSS.1SG father	My father is ill/sick.
+Yucatec Maya	97		Táan u yóok'ol le xch'úupalo'.		táan u y-óok'ol le xch'úupal-o'	PROG SBJ.3 0-cry DEM girl-D2	The girl is crying/weeping.
+Yucatec Maya	98		H lúub le che'o'.		h lúub le che'-o'	PRFV fall DEM wood-D2	The tree fell.
+Yucatec Maya	99		Le xibpalo' tu beetah hump'éel baaxal yéetel k'at.		le xibpal-o' t-u beet-ah hun-p'éel baaxal yéetel k'at	DEM boy-D2 PRFV-SBJ.3 do-CMPL one-CL.INAN toy with clay	The boy made a toy from clay.
+Yucatec Maya	100		Tin k'amah hump'éel kaartah ti' in maamah.		t-in k'am-ah hun-p'éel kaartah ti' in maamah	PRFV-SBJ.1SG receive-CMPL one-CL.INAN letter LOC POSS.1SG mother	I received a letter from my mother.
+Yucatec Maya	101		In kiiko' hump'éel xa'nil nah u k'áat.		in kiik-o' hun-p'éel xa'n-il nah u k'áat	POSS.1SG elder.sister-D2 one-CL.INAN palm-REL house SBJ.3 want	My sister wants a palm-roof house.
+Yucatec Maya	102		Tu kachah u xikin a p'úul.		t-u kach-ah u xikin a p'úul	PRFV-SBJ.3 break-CMPL POSS.3 ear POSS.2 jug	He broke the handle of your jug.
+Yucatec Maya	103		Haanta'b le abal tumen le xibpalo'.		haan-t-a'b le abal tumen le xibpal-o'	eat-TRR-PASS.CMPL DEM plum by DEM boy-D2	The plum was eaten by the girl.
+Yucatec Maya	104		Le ichche'o' ma' tu haanta'l.		le ichche'-o' ma' t-u haan-t-a'l	DEM fruit-D2 NEG IMPF-SBJ.3 eat-TRR-PASS.INCMPL	That fruit is not for eating.
+Yucatec Maya	105		Méek'a'b le chaan xibpal tumen u maamah.		méek'-a'b le chaan xibpal tumen u maamah	hug-PASS.CMPL DEM little boy by POSS.3 mother	The little boy was hugged by his mother.
+Yucatec Maya	106		Le xch'úupalo' pakta'b tumen le xibpalo'.		le xch'úupal-o' h pakat-a'b tumen le xibpal-o'	DEM girl-D2 PRFV look-PASS.CMPL by DEM boy-D2	The girl was looked at by the boy.
+Yucatec Maya	107		Le xibpalo' táan u paakat.		le xibpal-o' táan u paakat	DEM boy-D2 PROG SBJ.3 look\INTROV	The boy is watching.
+Yucatec Maya	108		Le báalamo' ila'b tumen le wíiniko'.		le báalam-o' il-a'b tumen le wíinik-o'	DEM jaguar-D2 see-PASS.CMPL by DEM man-D2	The jaguar was seen by the man.
+Yucatec Maya	109		Le báalamo' u'ya'b tumen le xibpalo'.		le báalam-o' u'y-a'b tumen le xibpal-o'	DEM jaguar-D2 feel-PASS.CMPL by DEM boy-D2	The jaguar was heard by the man.
+Yucatec Maya	110		Le paaxe' ma' tu yu'ba(')l waye'.		le paax-e' ma' t-u y-u'b-a'l way-e'	DEM music-TOP NEG IMPF-SBJ.3 0-feel-PASS.INCMPL here-D3	The music is not heard over here.
+Yucatec Maya	111		Le kéeho' tu ch'a'boktah le xibpalo'.		le kéeh-o' t-u ch'a'-book-t-ah le xibpal-o'	DEM deer-D2 PRFV-SBJ.3 take-smell-TRR-CMPL DEM boy-D2	The deer smelled the boy.
+Yucatec Maya	112		Ch'a'bokta'b le xibpal tumen le kéeho'.		ch'a'-book-t-a'b le xibpal tumen le kéeh-o'	take-smell-TRR-PASS.CMPL DEM boy by DEM deer-D2	The boy was smelled by the deer.
+Yucatec Maya	113		Túun ch'a'ch'abook le kéeho'.		táan u ch'a-ch'a'-book le kéeh-o'	PROG SBJ.3 RED-take-smell DEM deer-D2	The deer is sniffing.
+Yucatec Maya	114		Ch'a'n sahakil ti' le báalam tuláakal tu'xo'.		ch'a'-a'n sahak-il ti' le báalam tuláakal tu'x-o'	take-RSLTV afraid-ABSTR LOC DEM jaguar all where-D2	The jaguar is feared everywhere.
+Yucatec Maya	115		Le ko'lelo' tu búukintah u nook' u paal.		le ko'lel-o' t-u búuk-int-ah u nook' u paal	DEM woman-D2 PRFV-SBJ.3 dress-USAT-CMPL POSS.3 clothing POSS.3 child	That woman put on her child's clothing.
+Yucatec Maya	116		Le taatahtsilo'bo' tu ts'a'ho'b Ana u k'aaba'int u paal.		le taatah-tsil-o'b-o' t-u ts'a'-ah-o'b Ana u k'aaba'-int u paal	DEM father-ABSOL-PL-D2 PRFV-SBJ.3 put/give-CMPL-PL Anna POSS.3 name-USAT POSS.3 child	The parents named their child Anna.
+Yucatec Maya	117		A'lab teen ma'(il) tumen leti'o'b.		a'l-a'b teen ma'-il tumen leti'-o'b	say-PASS.CMPL me NEG-ABSTR by that.one-PL	I was told 'no' by them.
+Yucatec Maya	118		Tu ya'laho'b teen k'áak'as t'aano'b.		t-u y-a'l-ah-o'b teen k'áa-k'as t'aan-o'b	PRFV-SBJ.3 0-say-CMPL-PL me RED-bad word-PL	They sad bad words to me.
+Yucatec Maya	119		Leti' tu ya'laho'b teen.		leti' t-u y-a'l-ah-o'b teen	that.one PRFV-SBJ.3 0-say-CMPL-PL me	That (is what) they said to me.
+Yucatec Maya	120		Le tsíimino' áalkabnah ti' le beho'.		le tsíimin-o' áalkab-nah ti' le beh-o'	DEM horse-D2 run-CMPL LOC DEM path-D2	The horse ran along the path.
+Yucatec Maya	121		Le tsíimino' ku yáalkabtik kanlúub.		le tsíimin-o' k-u y-áalkab-t-ik kan-lúub	DEM horse-D2 IMPF-SBJ.3 0-run-TRR-INCMPL four-league	That horse runs four miles.
+Yucatec Maya	122		Tin wáalkabansah le tsíimino'.		t-in w-áalkab-ans-ah le tsíimin-o'	PRFV-SBJ.1SG 0-run-CAUS-CMPL DEM horse-D2	I had the horse run.
+Yucatec Maya	123		Búukinta'b le nook' tumen le ko'lelo'.		búuk-int-a'b le nook' tumen le ko'lel-o'	dress-USAT-PASS.CMPL DEM clothing by DEM woman-D2	The dress was put on by the woman.
+Yucatec Maya	124		Le wíiniko' tu ch'a'ah sahakil ti' le báalamo'.		le wíinik-o' t-u ch'a'-ah sahak-il ti' le báalam-o'	DEM man-D2 PRFV-SBJ.3 take-CMPL afraid-ABSTR LOC DEM jaguar-D2	The man got afraid of the jaguar.
+Yucatec Maya	125		Le xibpalo' ku k'ahóoltik le xch'úupalo'.		le xibpal-o' k-u k'ahóol-t-ik le xch'úupal-o'	DEM boy-D2 IMPF-SBJ.3 know-TRR-INCMPL DEM girl-D2	The boy knows the girl.
+Yucatec Maya	126		Le xch'úupalo' k'ah-óolta'n ka'ch tumen le xibpalo'.		le xch'úupal-o' k'ahóol-t-a'n ka'ch tumen le xibpal-o'	DEM girl-D2 know-TRR-RSLTV past by DEM boy-D2	The girl was known by the boy.
+Yucatec Maya	127		Le xibpalo' táan u haanal.		le xibpal-o' táan u haan-al	DEM boy-D2 PROG SBJ.3 eat-INCMPL	The boy is eating.
+Yucatec Maya	128		Le xibpalo' u k'ahóoltmah ka'ch le xch'úupalo'.		le xibpal-o' u k'ahóol-t-mah ka'ch le xch'úupal-o'	DEM boy-D2 SBJ.3 know-TRR-PART.PERF past DEM girl-D2	The boy knew the girl.
+Yucatec Maya	129		Ho'lheake' tukulta'b/tukla'b le chiichtsil(o') tumen le xch'úupalo'.		ho'lheak-e' tukul-t-a'b/tukul-a'b le chiich-tsil-o' tumen le xch'úupal-o'	yesterday-TOP think-TRR-PASS.CMPL/think-PASS.CMPL DEM grandmother-ABSOL-D2 by DEM girl-D2	Yesterday the grandmother was thought of by the girl.
+Yucatec Maya	130		Ya'b u tuukul le xch'úupalo'.		ya'b u tuukul le xch'úupal-o'	much SBJ.3 think\INTROV DEM girl-D2	The girl thinks much.
+Yucatec Maya	131		Ku kaxta'l le xch'úupo'b tumen le máako' .		k-u kax-t-a'l le xch'úup-o'b tumen le máak-o'	IMPF-SBJ.3 search-TRR-PASS.INCMPL DEM woman-PL by DEM person-D2	The women are sought by the man.
+Yucatec Maya	132		Táan in kaaxan.		táan in kaaxan	PROG SBJ.1SG search\INTROV	I am searching.
+Yucatec Maya	133		Isinta'b le chaampal tumen le ko'lelo'.		isíin-t-a'b le chaampal tumen le ko'lel-o'	bathe-TRR-PASS.CMPL DEM baby by DEM woman-D2	The baby was washed by the woman.
+Yucatec Maya	134		Le ko'lelo' táan u yichkíil.		le ko'lel-o' táan u y-ichkíil	DEM woman-D2 PROG SBJ.3 0-wash	The woman is bathing.
+Yucatec Maya	135		Le wíiniko' tu ts'ikah u báah.		le wíinik-o' t-u ts'ik-ah u báah	DEM man-D2 PRFV-SBJ.3 shave-CMPL POSS.3 self	The man shaved (himself).
+Yucatec Maya	136		Hwaane' tu ts'ikah Peedroh.		Hwaan-e' t-u ts'ik-ah Peedroh	John-TOP PRFV-SBJ.3 shave-CMPL Peter	John shaved Peter.
+Yucatec Maya	137		Le máako' ku ts'iik.		le máak-o' k-u ts'iik	DEM person-D2 IMPF-SBJ.3 shave\INTROV	That person shaves (people).
+Yucatec Maya	138		Le xibpalo'bo' áanta'bo'b tumen teen.		le xibpal-o'b-o' áant-a'b-o'b tumen teen	DEM boy-PL-D2 help-PASS.CMPL-PL by me	The boys were helped by me.
+Yucatec Maya	139		Le máako' ku yáantah.		le máak-o' k-u y-áant-ah	DEM person-D2 IMPF-SBJ.3 0-help-INTROV(INCMPL)	This person helps.
+Yucatec Maya	140		Le xch'úupalo'bo' ku ch'a'bal u paacho'b tumen le xibpalo'bo'.		le xch'úupal-o'b-o' k-u ch'a'b-al u pach-o'b tumen le xibpal-o'b-o'	DEM girl-PL-D2 IMPF-SBJ.3 take:PASS-INCMPL POSS.3 back-PL by DEM boy-PL-D2	The girls are followed by the boys.
+Yucatec Maya	141		Le xch'úupalo' táan u tsikbal.		le xch'úupal-o' táan u tsikbal	DEM girl-D2 PROG SBJ.3 talk	The girl is talking.
+Yucatec Maya	142		Ku t'a'nal tu k'aaba'.		k-u t'a'n-al ti' u k'aaba'	IMPF-SBJ.3 call\PASS-INCMPL LOC POSS.3 name	He is called by his name.
+Yucatec Maya	143		Le xibpalo' máantats' u k'áat(bal).		le xibpal-o' máantats' u k'áat-bal	DEM boy-D2 constantly SBJ.3 ask-INTROV	The boy always demands.
+Yucatec Maya	144		In taataho'be' paaklan u k'áatik u báaho'b taak'in.		in taatah-o'b-e' paaklan u k'áat-ik u báah-o'b taak'in	POSS.1SG father-PL-TOP each.other SBJ.3 ask-INCMPL POSS.3 self-PL money	My parents ask each other for money.
+Yucatec Maya	145		Tu yilah le kaano' káa aawatnahih.		t-u y-il-ah le kaan-o' káa aawat-nah-ih	PRFV-SBJ.3 0-see-CMPL DEM snake-D2 CONJ call\INTROV-CMPL-ABS.3SG	He saw the snake and cried.
+Yucatec Maya	146		Ichil to'ne' paaklan k tsikbaltik úuchben tsikbalo'b.		ichil to'n-e' paaklan k tsikbal-t-ik úuchben tsikbal-o'b	inside us-TOP each.other SBJ.1PL talk-TRR-INCMPL old story-PL	In our group we tell each other old stories.
+Yucatec Maya	147		Kin tsikbaltik tin báah.		k-in tsikbal-t-ik ti' in báah	IMPF-SBJ.1SG talk-TRR-INCMPL LOC POSS.1SG self	I am talking to myself.
+Yucatec Maya	148		Káach u xikin in p'úul.		h káach u xikin in p'úul	PRFV break\DEAG POSS.3 ear POSS.1SG jug	The handle of my jug broke off.
+Yucatec Maya	149		H kíim u k'ux-óolal le máak yéetel báato'.		h kíim u k'uxóolal le máak yéetel báat-o'	PRFV die POSS.3 enemy DEM person with axe-D2	The man's enemy died from an axe.
+Yucatec Maya	150		Kíinsa'b yéetel báat u k'ux-óolal le wíiniko' .		kíins-a'b yéetel báat u k'uxóolal le wíinik-o'	kill-PASS.CMPL with axe POSS.3 enemy DEM man-D2	The enemy was killed by the man with an axe.
+Yucatec Maya	151		Le xibpalo'bo' ku ch'a'iko'b u paach le xch'úupalo'bo'.		le xibpal-o'b-o' k-u ch'a'-ik-o'b u paach le xch'úupal-o'b-o'	DEM boy-PL-D2 IMPF-SBJ.3 take-INCMPL-PL POSS.3 back DEM girl-PL-D2	The boys follow the girls.
+Yucatec Maya	152		Yéetel ha'ha'ile' ku búulul ch'aka'n.		yéetel ha'ha'il-e' k-u búul-ul ch'aka'n	with rainy.season-D3 IMPF-SBJ.3 submerge\DEAG-INCMPL savannah	In the rainy season, the savannah gets drowned."
+Yucatec Maya	153		Ku pa'bal le kalomk'iino'.		k-u pa'b-al le kalomk'iin-o'	IMPF-SBJ.3 break:PASS-INCMPL DEM window-D2	The window is being broken.
+Yucatec Maya	154		Ch'a'b u taak'in le wíinik tumen u láak'o'.		ch'a'b u taak'in le wíinik tumen u láak'-o'	take:PASS(CMPL) POSS.3 money DEM man by POSS.3 equal-D2	The man's money was taken by his friend.
+Yucatec Maya	155		Ha't hunwáal le analte' tumen le xch'úupalo'.		ha't hun-wáal le analte' tumen le xch'úupal-o'	tear\PASS(CMPL) one-CL.flat DEM book by DEM girl-D2	A page of the book was torn by the girl.
+Yucatec Maya	156		Tin bulah le tuncho'.		t-in bul-ah le tuunich-o'	PRFV-SBJ.1SG submerge-CMPL DEM stone-D2	I submerged the stone.
+Yucatec Maya	157		Le xibpalo' ku p'uuch.		le xibpal-o' k-u p'uuch	DEM boy-D2 IMPF-SBJ.3 beat\INTROV	The boy beats.
+Yucatec Maya	158		Hwaan yéetel u yatane' ku (paaklan) hats'ik u báaho'b.		Hwaan yéetel u y-atan-e' k-u paaklan hats'-ik u báah-o'b	John with POSS.3 0-wife-D3 IMPF-SBJ.3 each.other beat-INCMPL POSS.3 self-PL	John and his wife beat each other.
+Yucatec Maya	159		Le xibpalo' tu ts'íilah u sool le che'o'.		le xibpal-o' t-u ts'íil-ah u sóol le che'-o'	DEM boy-D2 PRFV-SBJ.3 peel-CMPL POSS.3 shell DEM wood-D2	The boy peeled the bark off the tree.
+Yucatec Maya	160		Le xibpalo' ku ts'íil.		le xibpal-o' k-u ts'íil	DEM boy-D2 IMPF-SBJ.3 peel	The boy peels.
+Yucatec Maya	161		Ku ch'a'pachtik u báaho'b.		k-u ch'a'pach-t-ik u báah-o'b	IMPF-SBJ.3 pursue-TRR-INCMPL POSS.3 self-PL	They pursue each other.
+Yucatec Maya	162		Tu naktáant u báaho'b k'íiwik.		t-u naktáan-t-ah u báah-o'b k'íiwik	PRFV-SBJ.3 meet-TRR-CMPL POSS.3 self-PL market	They met at the market.
+Yucatec Maya	163		Ku paklant'aantik u báaho'b.		k-u paklan-t'aan-t-ik u báah-o'b	IMPF-SBJ.3 each.other-speak-TRR-INCMPL POSS.3 self-PL	They speak to each other.
+Yucatec Maya	164		Kin k'áatchi'tik in báah wáa hach haahil in yaabilmah.		k-in k'áat-chi'-t-ik in báah wáah hach haahil in yaabil-mah	IMPF-SBJ.1SG ask-mouth-TRR-INCMPL POSS.1SG self if really true POSS.1SG love-PART.PERF	I ask myself if I really love her.
+Yucatec Maya	165		Ku paaklan awtik u báaho'b.		k-u paaklan awat-ik u báah-o'b	IMPF-SBJ.3 each.other shout-INCMPL POSS.3 self-PL	They shout at each other.
+Yucatec Maya	166		Tu paaklan ya'lah u báaho'be' buka'h u yaabiltmah u báaho'b .		t-u paaklan a'l-ah u báah-o'b-e' buka'h u yaabil-t-mah u báah-o'b	PRFV-SBJ.3 each.other say-CMPL POSS.3 self-PL-D3 how.much SBJ.3 love-TRR-PART.PERF POSS.3 self-PL	They told each other how much they love each other.
+Yucatec Maya	167		Tu paaklan kíinsah u báaho'b.		t-u paaklan kíins-ah u báah-o'b	PRFV-SBJ.3 each.other kill-CMPL POSS.3 self-PL	They killed each other.
+Yucatec Maya	168		U nohochilo'be' tu kíinsah u báah.		u nohoch-il-o'b-e' t-u kíins-ah u báah	POSS.3 big-ABSTR-PL-TOP PRFV-SBJ.3 kill-CMPL POSS.3 self	Their chef killed himself.
+Yucatec Maya	169		Le paalo'be' ku ta'kik u báaho'b tu báatsilo'b.		le paal-o'b-e' k-u ta'k-ik u báah-o'b ti' u báahtsil-o'b	DEM child-PL-D3 IMPF-SBJ.3 hide-INCMPL POSS.3 self-PL LOC POSS.3 self:ABSOL-PL	The children hide from each other.
+Yucatec Maya	170		Táan u ye'sah.		táan u y-e's-ah	PROG SBJ.3 0-show-INTROV(INCMPL)	He is showing.
+Yucatec Maya	171		Ku paaklan ye'sik u báaho'b ichil leti'o'b.		k-u paaklan y-e's-ik u báah-o'b ichil leti'-o'b	IMPF-SBJ.3 each.other 0-show-INCMPL POSS.3 self-PL inside that.one-PL	They show themselves to each other.
+Yucatec Maya	172		Ku ye'sik u báaho'b.		k-u y-e's-ik u báah-o'b	IMPF-SBJ.3 0-show-INCMPL POSS.3 self-PL	They show/exhibit themselves.
+Yucatec Maya	173		Ku ts'a'ik u k'abo'b ichil u báatsilo'b.		k-u ts'a'-ik u k'ab-o'b ichil u báah-tsil-o'b	IMPF-SBJ.3 put/give-INCMPL POSS.3 hand-PL inside POSS.3 self-ABSOL-PL	They give each other their hands.
+Yucatec Maya	174		Ku ts'a'ik síihbalo'b ichil u báatsilo'b.		k-u ts'a'-ik síihbal-o'b ichil u báah-tsil-o'b	IMPF-SBJ.3 put/give-INCMPL present-PL inside POSS.3 self-ABSOL-PL	They give each other presents.
+Yucatec Maya	175		Túuxta'b lool ti' le chiicho'.		túuxt-a'b lool ti' le chiich-o'	send-PASS.CMPL flower LOC DEM grandmother-D2	Flowers were sent to the grandmother.
+Yucatec Maya	176		Tu paaklan túuxtah lool'ob ti' u báaho'b.		t-u paaklan túuxt-ah lool-o'b ti' u báah-o'b	PRFV-SBJ.3 each.other send-CMPL flower-PL LOC POSS.3 self-PL	They sent each other flowers.
+Yucatec Maya	177		Tin túuxtah loolo'b tin báah.		t-in túuxt-ah lool-o'b ti' in báah	PRFV-SBJ.1SG send-CMPL flower-PL LOC POSS.1SG self	I sent flowers to myself .
+Yucatec Maya	178		Uts k bisik (k) báah.		uts k bis-ik k báah	good SBJ.1PL carry-INCMPL POSS.1PL self	We get along with each other.
+Yucatec Maya	179		Ku pulik u báah (tu húunal) le tuk'ucho'.		k-u pul-ik u báah ti' u huunal le tuk'uch-o'	IMPF-SBJ.3 throw-INCMPL POSS.3 self LOC POSS.3 alone DEM bug-D2	The bug bounces up by itself.
+Yucatec Maya	180		Ku paaklan ch'inik u báaho'b yéetel tuunich.		k-u paaklan ch'in-ik u báah-o'b yéetel tuunich	IMPF-SBJ.3 each.other pelt-INCMPL POSS.3 self-PL with stone	They throw stones at each other.
+Yucatec Maya	181		Teech ka puul.		teech k-a puul	you IMPF-SBJ.2 throw\INTROV	It's your turn to throw.
+Yucatec Maya	182		Lep' a wóol yéetel le suumo'! - Pa'tiki', h k'áaxih.		lep' a w-óol yéetel le suum-o' pa't-ik-i' h k'áax-ih	hurry POSS.2 0-mind with DEM rope-D2 wait-INCMPL-LOCF PRFV tie\DEAG(CMPL)-ABS.3SG	Hurry up with the rope! - Wait a moment, it got entangled."
+Yucatec Maya	183		Ku paklank'axtik u báaho'b.		k-u paklan-k'ax-t-ik u báah-o'b	IMPF-SBJ.3 each.other-tie-TRR-INCMPL POSS.3 self-P	They tie each other.
+Yucatec Maya	184		Tin láalah ha' tin wóok'ol.		t-in láal-ah ha' ti' in w-óok'ol	PRFV-SBJ.1SG pour-CMPL water LOC POSS.1SG 0-over	I poured water over myself.
+Yucatec Maya	185		Le paalalo'bo' ku paaklan láalik ha' tu báaho'b.		le paal-al-o'b-o' k-u paaklan láal-ik ha' ti' u báah-o'b	DEM child-COLL-PL-D2 IMPF-SBJ.3 each.other pour-INCMPL water LOC POSS.3 self-PL	The children dabble water at each other.
+Yucatec Maya	186		Ku láalha'tik u báho'b.		k-u láal-ha'-t-ik u báah-o'b	IMPF-SBJ.3 pour-water-TRR-INCMPL POSS.3 self-PL	They throw water at themselves.
+Yucatec Maya	187		Le yik'lo'bo' ku paaklan haantik u báaho'b.		le y-ik'el-o'b-o' k-u paaklan haan-t-ik u báah-o'b	DEM 0-insect-PL-D2 IMPF-SBJ.3 each.other eat-TRR-INCMPL POSS.3 self-PL	The insects eat each other.
+Yucatec Maya	188		Le ba'lche'o' ku haantik u báah.		le ba'lche'-o' k-u haan-t-ik u báah	DEM animal-D2 IMPF-SBJ.3 eat-TRR-INCMPL POSS.3 self	That animal eats itself.
+Yucatec Maya	189		Le máako'bo' ku paaklan méek'ik u báaho'b tumen táant u yilik u báaho'be'.		le máak-o'b-o' k-u paaklan méek'-ik u báah-o'b tumen táant u y-il-ik u báah-o'b-e'	DEM person-PL-D2 IMPF-SBJ.3 each.other hug-INCMPL POSS.3 self-PL because IMM.PAST SBJ.3 0-see-INCMPL POSS.3 self-PL-D3	The men hug each other because they just met.
+Yucatec Maya	190		Ku yilik u báah ichil le ha'o'.		k-u y-il-ik u báah ichil le ha'-o'	IMPF-SBJ.3 0-see-INCMPL POSS.3 self inside DEM water-D2	He sees himself in the water.
+Yucatec Maya	191		Le xibpalo' ma' tu yu'bah.		le xibpal-o' ma' t-u y-u'b-ah	DEM boy-D2 NEG IMPF-SBJ.3 0-feel-INTROV(INCMPL)	The boy does not listen.
+Yucatec Maya	192		Leti'o'be' tu yu'bah u báaho'b.		leti'-o'b-e' t-u y-u'b-ah u báah-o'b	that.one-PL-TOP PRFV-SBJ.3 0-feel-CMPL POSS.3 self-PL	They felt/heard each other.
+Yucatec Maya	193		Leti'o'be' tu yu'bah u báaho'b hach xibo'b.		leti'-o'b-e' t-u y-u'b-ah u báah-o'b hach xib-o'b	that.one-PL-TOP PRFV-SBJ.3 0-feel-CMPL POSS.3 self-PL really man-PL	They felt really macho.
+Yucatec Maya	194		Ku paaklan ch'a'ik sahakilo'b.		k-u paaklan ch'a'-ik sahak-il-o'b	IMPF-SBJ.3 each.other take-INCMPL afraid-ABSTR-PL	They fear each other.
+Yucatec Maya	195		Ku ch'a'ik sahakil tu báah.		k-u ch'a'-ik sahak-il ti' u báah	IMPF-SBJ.3 take-INCMPL afraid-ABSTR LOC POSS.3 self	He is afraid of himself.
+Yucatec Maya	196		Ku paaklan sahakkunsik u báaho'b.		k-u paaklan sahak-kuns-ik u báah-o'b	IMPF-SBJ.3 each.other afraid-FACT-INCMPL POSS.3 self-PL	They frighten each other.
+Yucatec Maya	197		Ku uts-ichtik u báaho'b.		k-u uts-ich-t-ik u báah-o'b	IMPF-SBJ.3 good-eye-TRR-INCMPL POSS.3 self-PL	They like each other.
+Yucatec Maya	198		Teene' in k'ahóoltmah in báah.		teen-e' in k'ahóol-t-mah in báah	me-TOP SBJ.1SG know-TRR-PART.PERF POSS.1SG self	I know myself.
+Yucatec Maya	199		Le xch'úupalo' chéen ku tukultik u báah.		le xch'úupal-o' chéen k-u tukul-t-ik u báah	DEM girl-D2 only IMPF-SBJ.3 think-TRR-INCMPL POSS.3 self	The girl thinks only of herself.
+Yucatec Maya	200		Ku paaklan ichkíilo'b.		k-u paaklan ichkíil-o'b	IMPF-SBJ.3 each.other wash-PL	The two bathe together.
+Yucatec Maya	201		Ku paaklan ts'ikik u báaho'b.		k-u paaklan ts'ik-ik u báah-o'b	IMPF-SBJ.3 each.other shave-INCMPL POSS.3 self-PL	They shave each other.
+Yucatec Maya	202		Le máako'bo' ku paaklan áantik u báaho'b.		le máak-o'b-o' k-u paaklan áant-ik u báah-o'b	DEM person-PL-D2 IMPF-SBJ.3 each.other help-INCMPL POSS.3 self-PL	The persons help each other.
+Yucatec Maya	203		Áant a báah ka áanta'kech tumen yúum k'uh.		áant a báah káa áant-a'k-ech tumen yúum k'uh	help POSS.2 self CONJ help-SUBJ.PASS-ABS.2SG by lord god	Help yourself, then god will help you."
+Yucatec Maya	204		Ku píixil in nal yéetel k'áax.		k-u píix-il in nal yéetel k'áax	IMPF-SBJ.3 cover\DEAG-INCMPL POSS.1.SG corncob with jungle	My corn plants cover with brush.
+Yucatec Maya	205		But' le nal teh xuuxo'.		but' le nal ti' le xuux-o'	fill DEM corncob LOC DEM long.basket-D2	Put the corn cobs into the basket (to fill it).
+Yucatec Maya	206		Ku paaklan ts'a'ik u kuucho'b.		k-u paaklan ts'a'-ik u kuuch-o'b	IMPF-SBJ.3 each.other put/give-INCMPL POSS.3 load-PL	They load each other with their burdens.
+Yucatec Maya	207		Kin chak'ichtik le xch'úupalo'.		k-in chak'-ich-t-ik le xch'úupal-o'	IMPF-SBJ.1SG blink-eye-TRR-INCMPL DEM girl-D2	I blink at the girl.
+Yucatec Maya	208		Ku chak'ichtik u báaho'b.		k-u chak'-ich-t-ik u báah-o'b	IMPF-SBJ.3 blink-eye-TRR-INCMPL POSS.3 self-PL	They blink at each other.
+Yucatec Maya	209		Tu se'ntah in wich.		t-u se'n-t-ah in w-ich	PRFV-SBJ.3 cough-TRR-CMPL POSS.1SG 0-eye	He coughed at my face.
+Yucatec Maya	210		Le ahk'aayo'bo' h k'aaynaho'b ti' le hala'cho'.		le ah-k'aay-o'b-o' h k'aay-nah-o'b ti' le hala'ch-o'	DEM AG.M-sing\INTROV-PL-D2 PRFV sing\INTROV-CMPL-PL LOC DEM noble-D2	The singers sang for the nobleman.
+Yucatec Maya	211		Ku paklank'aytik u báaho'b.		k-u paklan-k'ay-t-ik u báah-o'b	IMPF-SBJ.3 each.other-sing-TRR-INCMPL POSS.3 self-PL	They sing for each other.
+Yucatec Maya	212		Peedrohe' tu kahkunsah xLuupe.		Peedroh-e' t-u kah-kuns-ah x-Luupe	Peter-TOP PRFV-SBJ.3 live-FACT-CMPL F-Lupe	Pedro married Lupe.
+Yucatec Maya	213		Kin che'htik in báah.		k-in che'h-t-ik in báah	IMPF-SBJ.1SG laugh-TRR-INCMPL POSS.1SG self	I am laughing about myself.
+Yucatec Maya	214		Tin yahkuntah in k'ab ikil in pets'ik le boolaho'.		t-in yah-kunt-ah in k'ab ikil in pets'-ik le boolah-o'	PRFV-SBJ.1SG hurt-FACT-CMPL POSS.1SG hand owing.to SBJ.1SG grab-INCMPL DEM ball-D2	I injured my hand because I grabbed that ball.
+Yucatec Maya	215		Yan u paaklan báaxalo'b.		yan u paaklan báaxal-o'b	DEB SBJ.3 each.other play-PL	Each of them has to play with one of the others.
+Yucatec Maya	216		Le ba'lo' ku ok'om-óoltiken.		le ba'l-o' k-u ok'om-óol-t-ik-en	DEM thing-D2 IMPF-SBJ.3 sad-mind-TRR-INCMPL-ABS.1SG	That thing makes me sad.
+Yucatec Maya	217		Le meyaho' ku wi'hkunsiken.		le meyah-o' k-u wi'h-kuns-ik-en	DEM work-D2 IMPF-SBJ.3 hungry-FACT-INCMPL-ABS.1SG	The work makes me hungry.
+Yucatec Maya	218		Kin balak'tik le boolaho'.		k-in balak'-t-ik le boolah-o'	IMPF-SBJ.1SG roll-TRR-INCMPL DEM ball-D2	I roll the ball.
+Yucatec Maya	219		Le ke'lo ku yahkunsik in k'ab.		le ke'l-o k-u yah-kuns-ik in k'ab	DEM cold-D2 IMPF-SBJ.3 hurt-FACT-INCMPL POSS.1SG hand	The cold makes my hand hurt.
+Yucatec Maya	220		Le iik'o' ku ke'lkunsiken.		le iik'-o' k-u ke'l-kuns-ik-en	DEM air-D2 IMPF-SBJ.3 cold-FACT-INCMPL-ABS.1SG	The wind cools me down.
+Yucatec Maya	221		Kíinsa'b huntúul kéeh teh k'áaxo'.		kíins-a'b hun-túul kéeh ti' le k'áax-o'	kill-PASS.CMPL one-CL.AN deer LOC DEM jungle-D2	A deer was killed in the woods.
+Yucatec Maya	222		Ba'x ku báaxtik le chaampalo'?		ba'x k-u báax-t-ik le chaampal-o'	what IMPF-SBJ.3 play-TRR-INCMPL DEM baby-D2	What does the child play?
+Yucatec Maya	223		Báaxta'b kóochek' wóolis ho'lheak.		báax-t-a'b kóochek' wóolis ho'lheak	play-TRR-PASS.CMPL kick ball yesterday	Football was played yesterday.
+Yucatec Maya	224		Le paalo'bo' ku paaklan báaxal ti' le k'íiwiko'.		le paal-o'b-o' k-u paaklan báaxal ti' le k'íiwik-o'	DEM child-PL-D2 IMPF-SBJ.3 each.other play LOC DEM market-D2	The kids play with each other on the market.
+Yucatec Maya	225		Ma' ok'om-óoltik .		ma' ok'om óol-t-ik	NEG sad mind-TRR-INCMPL	Don't be sad about it.
+Yucatec Maya	226		Ok'om-óolta'b úuchik u kíimih.		ok'om-óol-t-a'b úuchik u kíim-il	sad-mind-TRR-PASS.CMPL OBL.SR SBJ.3 die-INCMPL	It caused grief that she died.
+Yucatec Maya	227		Le ki'waho' ku wi'hkuntiken.		le ki'wah-o' k-u wi'h-kunt-ik-en	DEM main.dish-D2 IMPF-SBJ.3 hungry-FACT-INCMPL-ABS.1SG	The food makes me hungry.
+Yucatec Maya	228		Kin wilik le hanalo' ku wi'hkunsiken.		k-in w-il-ik le haanal-o' k-u wi'h-kuns-ik-en	IMPF-SBJ.1SG 0-see-INCMPL DEM food-D2 IMPF-SBJ.3 hungry-FACT-INCMPL-ABS.1SG	It makes me hungry to see the food.
+Yucatec Maya	229		Kin balk'esik le tuunicho'.		k-in balak'-es-ik le tuunich-o'	IMPF-SBJ.1SG roll-CAUS-INCMPL DEM stone-D2	I roll that stone.
+Yucatec Maya	230		Kin balak'tik le nuxi' che'a'.		k-in balak'-t-ik le nuxib che'-a'	IMPF-SBJ.1SG roll-TRR-INCMPL DEM old wood-D1	I am rolling this big tree.
+Yucatec Maya	231		Balak't'ab te'l kaabalo' .		balak'-t-a'b te'l kaabal-o'	roll-TRR-PASS.CMPL there down-D2	He/she/it was rolled down there.
+Yucatec Maya	232		Ku paaklan balak'tik u báaho'b.		k-u paaklan balak'-t-ik u báah-o'b	IMPF-SBJ.3 each.other roll-TRR-INCMPL POSS.3 self-PL	They roll each other.
+Yucatec Maya	233		Le kutsha'o' tu bulah u báah káa tu yilahen.		le kutsha'-o' t-u bul-ah u báah ka'h t-u y-il-ah-en	DEM duck-D2 PRFV-SBJ.3 submerge-CMPL POSS.3 self when.NONFUT PRFV-SBJ.3 0-see-CMPL-ABS.1SG	The duck dived when it saw me.
+Yucatec Maya	234		Ku paaklan bulik u poolo'b ichil le ha'o'.		k-u paaklan bul-ik u pool-o'b ichil le ha'-o'	IMPF-SBJ.3 each.other submerge-INCMPL POSS.3 head-PL inside DEM water-D2	They submerge each other's head into the water.
+Yucatec Maya	235		Bix éelikech ?		bix éel-ik-ech	how burn-INCMPL-ABS.2SG	How did you get burnt?
+Yucatec Maya	236		Tóoka'b u kool tumen u paal.		tóok-a'b u kool tumen u paal	burn-PASS.CMPL POSS.3 milpa by POSS.3 child	His milpa was burnt by his son.
+Yucatec Maya	237		Tin tóok in báah káa tin machah le xamacho' .		t-in tóok-ah in báah ka'h t-in mach-ah le xamach-o'	PRFV-SBJ.1SG burn-CMPL POSS.1SG self when.NONFUT PRFV-SBJ.1SG seize-CMPL DEM cooktop-D2	I burnt myself when I touched the cooktop.
+Yucatec Maya	238		Ku k'áaxal u le' nikte'o'b (tu) yóok'ol in nahil.		k-u k'áax-al u le' nikte'-o'b ti' u y-óok'ol in nah-il	IMPF-SBJ.3 rain-INCMPL POSS.3 leaf flower-PL LOC POSS.3 0-over POSS.1SG house-REL	It rains leaves of flowers on my house.
+Yucatec Maya	239		K'áax toop tu y-óok'ol.		h k'áax toop ti' u y-óok'ol	PRFV rain misfortune LOC POSS.3 0-over	It rained misfortune on him.
+Yucatec Maya	240		Le ts'oonnáalo' tu kíinsah huntúul kéeh.		le ts'oon-náal-o' t-u kíins-ah hun-túul kéeh	DEM hunter-AG-D2 PRFV-SBJ.3 kill-CMPL one-CL.AN deer	The hunter killed a deer.
+Yucatec Maya	241		H binen huuch'.		h bin-en huuch'	PRFV go-ABS.1SG grind\INTROV	I went to grind.
+Yucatec Maya	242		Hu'ch' in k'ab tumen le tuunicho' .		hu'ch' in k'ab tumen le tuunich-o'	grind\PASS POSS.1SG hand by DEM stone-D2	My hand was crushed by the stone.
+Yucatec Maya	243		Cho' a báah!		cho' a báah	clean POSS.2 self	Clean yourself!
+Yucatec Maya	244		Binen púus.		h bin-en púus	PRFV go(CMPL)-ABS.1SG remove.dust	I went cleaning.
+Yucatec Maya	245		Púusta'b ich nah.		púus-t-a'b ich nah	remove.dust-TRR-PASS.CMPL in house	It was cleaned inside the house.
+Yucatec Maya	246		Púust a báah.		púus-t a báah	remove.dust-TRR POSS.2 self	Clean yourself.
+Yucatec Maya	247		Ku paaklan púustik yicho'b.		k-u paaklan púus-t-ik y-ich-o'b	IMPF-SBJ.3 each.other remove.dust-TRR-INCMPL POSS.3-eye-PL	They clean each other's face.
+Yucatec Maya	248		Le xch'úupalo' bin u páan u wi' makal.		le xch'úupal-o' h bin u páan u wi' makal	DEM girl-D2 PRFV go SBJ.3 lay.bare POSS.3 bulb yams	The girl went to dig out yams bulbs.
+Yucatec Maya	249		Láah páana'b in pak'al xi'm.		láah páan-a'b in paak'al ixi'm	all lay.bare-PASS.CMPL POSS.1SG CL.seed corn	All my corn plants were dug out.
+Yucatec Maya	250		Léench'inta'b tumen u suku'n ichil le ha'o'.		léen-ch'in-t-a'b tumen u suku'n ichil le ha'-o'	push-pelt-TRR-PASS.CMPL by POSS.3 elder.brother inside DEM water-D2	He was pushed into the water by his elder brother.
+Yucatec Maya	251		Ku paaklan léench'intik u báaho'b.		k-u paaklan léen-ch'in-t-ik u báah-o'b	IMPF-SBJ.3 each.other push-pelt-TRR-INCMPL POSS.3 self-PL	They push each other.
+Yucatec Maya	252		H tu'l káa lúubih.		h tu'l káa lúub-ih	PRFV push\PASS CONJ fall-ABS.3SG	He was pushed and fell.
+Yucatec Maya	253		Taasa'b teen huncháach nikte'o'b.		h taas-a'b teen hun-cháach nikte'-o'b	PRFV bring-PASS.CMPL me one-handful flower-PL	I was brought a handful of flowers.
+Yucatec Maya	254		Ku paaklan taasik u kuucho'b.		k-u paaklan taas-ik u kuuch-o'b	IMPF-SBJ.3 each.other bring-INCMPL POSS.3 load-PL	They bring each other's burden.
+Yucatec Maya	255		Le ko'lelo' tu ka'nsah ti' le xch'úupalo' hunp'éel k'aay.		le ko'lel-o' t-u ka'n-s-ah ti' le xch'úupal-o' hun-p'éel k'aay	DEM woman-D2 PRFV-SBJ.3 learn\PASS-CAUS-CMPL LOC DEM girl-D2 one-CL.INAN song	The lady taught the girl a song.
+Yucatec Maya	256		Máax le ku ka'nsah waye'?		máax le k-u ka'n-s-ah way-e'	who DEM IMPF-SBJ.3 learn\PASS-CAUS-INTROV(INCMPL) here-D3	Who teaches here?
+Yucatec Maya	257		Ma' in wohel máax ku yookol waye'.		ma' in w-ohel máax k-u y-ookol way-e'	NEG SBJ.1SG 0-know who IMPF-SBJ.3 0-steal here-D3	I don't know who is stealing here.
+Yucatec Maya	258		Ho'lheake' ook'olta'b tuláakal in taak'in.		ho'lheak-e' h ookol-t-a'b tuláakal in taak'in	yesterday-D3 PRFV steal-TRR-PASS.CMPL all POSS.1SG money	Yesterday all my money was stolen.
+Yucatec Maya	259		Ka'nsa'ben utsil t'aan maaya tumen in ahkaanbesah.		ka'n-s-a'b-en utsil t'aan maaya tumen in ah-kaanbesah	learn\PASS-CAUS-PASS.CMPL-ABS.1SG well speak maya by POSS.1SG AG.M-teacher	I was taught to speak Maya well by my teacher.
+Yucatec Maya	260		Ku paaklan ka'nsik u báaho'b heheláas t'aano'b.		k-u paaklan ka'ns-ik u báah-o'b heheláas t'aan-o'b	IMPF-SBJ.3 each.other teach-INCMPL POSS.3 self-PL various word-PL	They teach each other various languages.
+Yucatec Maya	261		Ku paaklan yu'b-ik u báaho'b.		k-u paaklan y-u'b-ik u báah-o'b	IMPF-SBJ.3 each.other 0-feel-INCMPL POSS.3 self-PL	They hear each other.
+Yucatec Maya	262		Le ko'lelo' ku chaakal bul k'iin.		le ko'lel-o' k-u chaak-al bul k'iin	DEM woman-D2 IMPF-SBJ.3 cook\INTROV-INCMPL entire sun/day	The woman cooks all the day.
+Yucatec Maya	263		Cha'k u bak'el k'éek'en utia'l in haante'.		cha'k u bak'-el k'éek'en utia'l in haan-t-e'	cook\PASS POSS.3 flesh-REL pig for SBJ.1SG eat-TRR-D3	Pork meat was cooked for me to eat.
+Yucatec Maya	264		Táan in lookansik le ki'waho'.		táan in look-ans-ik le ki'wah-o'	PROG SBJ.1SG boil-CAUS-INCMPL DEM main.dish-D2	I am boiling the food.
+Yucatec Maya	265		Lookansa'b le ki'waho'?		look-ans-a'b le ki'wah-o'	boil-CAUS-PASS.CMPL DEM main.dish-D2	Has the food been boiled?
+Yucatec Maya	266		Kin chíikbesik ta táan.		k-in chíik-bes-ik ti' a táan	IMPF-SBJ.1SG appear-CAUS-INCMPL LOC POSS.2 front	I let it appear before you.
+Yucatec Maya	267		Ba'x k'oha'nkunsech?		ba'x k'oha'n-kuns-ech	what sick-FACT-ABS.2SG	What made you sick?
+Yucatec Maya	268		K'oha'nkunta'b tumen le ke'lo'.		k'oha'n-kunt-a'b tumen le ke'l-o'	sick-FACT-PASS.CMPL by DEM cold-D2	He got sick from the cold.
+Yucatec Maya	269		K'oha'nkunt a báah tu yóolal ma' bin meyah.		k'oha'n-kunt a báah ti' u y-o'lal ma' a bin meyah	sick-FACT POSS.2 self LOC POSS.3 0-reason NEG SBJ.2 go work	Make yourself sick so that you don't go to work.
+Yucatec Maya	270		Ba'x ka wook'tik?		ba'x k-a w-ook'-t-ik	what IMPF-SBJ.2 0-cry-TRR-INCMPL	What are you crying about?
+Yucatec Maya	271		Ook'ta'b tumen u paalalo'b káa h kíimih.		ook'-t-a'b tumen u paal-al-o'b ka'h h kíim-ih	cry-TRR-PASS.CMPL by POSS.3 child-COLL-PL when.NONFUT PRFV die-ABS.3SG	His children cried for him when he died.
+Yucatec Maya	272		Bix lúubik?		bix lúub-ik	how fall-CMPL.EXTRAFOC	How did it fall?
+Yucatec Maya	273		Tin lúubsah le nuxi' che'o'.		t-in lúub-s-ah le nuxib che'-o'	PRFV-SBJ.1SG fall-CAUS-CMPL DEM old wood-D2	I felled that old/big tree.
+Yucatec Maya	274		Lúubsa'b le che' tumen le iik'o'.		lúub-s-a'b le che' tumen le iik'-o'	fall-CAUS-PASS.CMPL DEM wood by DEM air-D2	The tree was felled by the wind.
+Yucatec Maya	275		Behe'la' in k'aame' .		behe'la' in k'aam-e'	today SBJ.1SG receive\INTROV-D3	Today I receive.
+Yucatec Maya	276		K'a'm yéetel ki'mak óolal tumen u suku'no'b.		k'a'm yéetel ki'mak-óol-al tumen u suku'n-o'b	receive\PASS(CMPL) with happy-mind-ABSTR by POSS.3 elder.brother-PL	He was received with joy by his brothers.
+Yucatec Maya	277		Beeta'b le nah yéetel xa'no' tumen hach k'íilk'ab.		beet-a'b le nah yéetel xa'n-o' tumen hach k'íilk'ab	do-PASS.CMPL DEM house with palm-D2 because really hot	The house was built out of palm leaves because it is really hot.
+Yucatec Maya	278		Ma' a beetik a báah beey ma' a wohele' .		ma' a beet-ik a báah beey ma' a w-ohel-e'	NEG SBJ.2 do-INCMPL POSS.2 self thus NEG SBJ.2 0-know-D3	Don't pretend not to know it.
+Yucatec Maya	279		Le máako' ku haats'.		le máak-o' k-u haats'	DEM person-D2 IMPF-SBJ.3 beat\INTROV	That person beats.
+Yucatec Maya	280		Ha't u nook' tumen u yíitsin.		ha't u nook' tumen u y-íiits'in	tear\PASS(CMPL) POSS.3 clothing by POSS.3 0-younger.sibling	His dress was torn by his younger brother.
+Yucatec Maya	281		Háat in nook'.		háat in nook'	tear\DEAG POSS.1SG clothing	My clothes tore.
+Yucatec Maya	282		K'áax in wook ichil le suumo'.		h k'áax in w-ook ichil le suum-o'	PRFV tie\DEAG POSS.1SG 0-foot inside DEM rope-D2	My foot got tied in the rope.
+Yucatec Maya	283		Ku chu'pul le ch'óoyo'.		k-u chu'p-ul le ch'óoy-o'	IMPF-SBJ.3 fill\PASS-INCMPL DEM bucket-D2	The bucket is filled.
+Yucatec Maya	284		Le xch'uupalo' tu chak'ah teen u yich.		le xch'úupal-o' t-u chak'-ah teen u y-ich	DEM girl-D2 PRFV-SBJ.3 blink-CMPL me POSS.3 0-eye	The girl blinked at me.
+Yucatec Maya	285		Kin na'ksik le kuuch yóok'ol le tsíimino'.		k-in na'k-s-ik le kuuch y-óok'ol le tsíimin-o'	IMPF-SBJ.1SG climb-CAUS-INCMPL DEM load 0-over DEM horse-D2	I load the burden on the horse.
+Yucatec Maya	286		Kulkins yóok'ol le k'áanche'o'.		kul-kins y-óok'ol le k'áan-che'-o'	sit-FACT 0-over DEM hammock-wood-D2	Make him sit (down) on the stool.
+Yucatec Maya	287		Le máako' ku síit'tik le kooto'.		le máak-o' k-u síit'-t-ik le koot-o'	DEM person-D2 IMPF-SBJ.3 jump-TRR-INCMPL DEM wall-D2	That man jumps over the wall.
+Yucatec Maya	288		Le xk'ook'o' ts'o'k u kahik u k'ay.		le x-k'ook'-o' ts'o'k u kah-ik u k'aay	DEM F-nightingale-D2 TERM SBJ.3 begin-INCMPL SBJ.3 sing\INTROV	The nightingale has begun to sing.
+Yucatec Maya	289		Hóok'es le peek' ich naho'.		hóok'-es le peek' ich nah-o'	leave-CAUS DEM dog in house-D2	Chase the dog out of the house.
+Yucatec Maya	290		Kahbesa'b xLuupe tumen Hwaan.		h kah-bes-a'b x-Luupe tumen Hwaan	PRFV live-CAUS-PASS.CMPL F-Lupe by John	Lupe was taken to live with (~ married) by John.
+Yucatec Maya	291		Tin che'htik ba'x ka wa'lik.		táan in che'h-t-ik ba'x k-a w-a'l-ik	PROG SBJ.1SG laugh-TRR-INCMPL what IMPF-SBJ.2 0-say-INCMPL	I am laughing about what you say.
+Yucatec Maya	292		Máax le ku choo' waye'?		máax le k-u choo' way-e'	who DEM IMPF-SBJ.3 clean\INTROV here-D3	Who cleans here?
+Yucatec Maya	293		K'a'm in ti'bilóolal.		k'a'm in ti'bilóolal	receive\PASS(CMPL) POSS.1SG sacrifical.offering	My present was received.
+Yucatec Maya	294		H káach in k'ab.		h káach in k'ab	PRFV break\DEAG POSS.1SG hand	My arm broke.
+Yucatec Maya	295		Tu'x kóoh a k'ab h boonol?		tu'x kóoh a k'ab boonol	where toss\DEAG POSS.2 hand coloured	Where got your hand tossed, which is coloured?"
+Yucatec Maya	296		Le peek'o' ku ch'a'ch'a'boktik tu'x máan le kéeho'.		le peek'-o' k-u ch'a-ch'a'bok-t-ik tu'x máan le kéeh-o'	DEM dog-D2 IMPF-SBJ.3 RED-smell-TRR-INCMPL where pass(CMPL) DEM deer-D2	The dog smells where the deer passed.
+Yucatec Maya	297		Ku haantik u báaho'b tu yo'lal le p'eekil yaan ti'o'bo'.		k-u haan-t-ik u báah-o'b t-u y-o'lal le p'eek-il yaan ti'-o'b-o'	IMPF-SBJ.3 eat-TRR-INCMPL POSS.3 self-PL LOC-POSS.3 0-reason DEM hate-ABSTR EXIST LOC-PL-D2	They nearly eat each other due to the hate they feel against each other.
+Yucatec Maya	298		Tu méek'ah u báaho'b úuchik u yilik u báaho'b.		t-u méek'-ah u báah-o'b úuchik u y-il-ik u báah-o'b	PRFV-SBJ.3 hug-CMPL POSS.3 self-PL OBL.SR SBJ.3 0-see-INCMPL POSS.3 self-PL	They hugged each other when they met.
+Yucatec Maya	299		Teene' ma' tin paakat.		teen-e' ma' t-in paakat	me-TOP NEG IMPF-SBJ.1SG look\INTROV	I can't see.
+Yucatec Maya	300		Tu paaklan paaktik u báaho'be' utia'l u hach k'ahóoltik u báaho'b.		táan u paaklan pakat-ik u báah-o'b-e' utia'l u hach k'ahóol-t-ik u báah-o'b	PROG SBJ.3 each.other look-INCMPL POSS.3 self-PL-D3 for SBJ.3 really know-TRR-INCMPL POSS.3 self-PL	They are looking at each other in order to recognize each other.
+Yucatec Maya	301		Tu paktah u báah ti' le néeno'.		t-u pakat-ah u báah ti' le néen-o'	PRFV-SBJ.3 look-CMPL POSS.3 self LOC DEM mirror-D2	He looked at himself in the mirror.
+Yucatec Maya	302		Ku paaklan sahbesik u báaho'b.		k-u paaklan sah-bes-ik u báah-o'b	IMPF-SBJ.3 each.other fear-CAUS-INCMPL POSS.3 self-PL	They frighten each other.
+Yucatec Maya	303		U paaklan k'ahóol u báaho'b le beetik ma' tu ya'liko'b mixba'l.		u paaklan k'ahóol u báah-o'b le beetik ma' t-u y-a'l-ik-o'b mixba'l	SBJ.3 each.other know POSS.3 self-PL DEM makes NEG IMPF-SBJ.3 0-say-INCMPL-PL nothing	They know each other that is why they say nothing.
+Yucatec Maya	304		H náak u yóol kaaxan.		h náak u y-óol kaaxan	PRFV annoyed POSS.3 0-mind search\INTROV	He got sick of searching.
+Yucatec Maya	305		Ts'íila'b tuláakal le che'o'bo'.		ts'íil-a'b tuláakal le che'-o'b-o'	peel-PASS.CMPL all DEM wood-PL-D2	All the trees were peeled.
+Yucatec Maya	306		Tin tikinkuntah le sikila'.		t-in tikin-kunt-ah le sikil-a'	PRFV-SBJ.1SG dry-FACT-CMPL DEM pumpkin.seed-D1	I dried the pumpkin seed.
+Yucatec Maya	307		Tikinkunsa'b yáanal k'iin .		tikin-kuns-a'b y-áanal k'iin	dry-FACT-PASS.CMPL 0-under sun/day	It was dried under the sun.
+Yucatec Maya	308		Tin tikinkunsah le ixi'ima'.		t-in tikin-kuns-ah le ixi'm-a'	PRFV-SBJ.1SG dry-FACT-CMPL DEM corn-D1	I dried the corn.
+Yucatec Maya	309		Tikinkuns a báah yiknal le k'áak'o'.		tikin-kuns a báah y-iknal le k'áak'-o'	dry-FACT POSS.2 self 0-at DEM fire-D2	Dry yourself near the fire.
+Yucatec Maya	310		Ku paaklan tikinkunsik u tso'tsel u poolo'b.		k-u paaklan tikin-kuns-ik u tso'ts-el u pool-o'b	IMPF-SBJ.3 each.other dry-FACT-INCMPL POSS.3 hair-REL POSS.3 head-PL	The dry each other's hair.
+Yucatec Maya	311		Le wíiniko' ku chíikpahal ti' le naho'.		le wíinik-o' k-u chíik-pah-al ti' le nah-o'	DEM man-D2 IMPF-SBJ.3 appear-SPONT-INCMPL LOC DEM house-D2	The man appears at the house.
+Yucatec Maya	312		Le paalo' ku yook'ol ka'ch tu yo'lal u haatal báaxal.		le paal-o' k-u y-ook'ol ka'ch t-u y-o'lal u haatal báaxal	DEM child-D2 IMPF-SBJ.3 0-weep before LOC-POSS.3 0-reason POSS.3 torn toy	The child cried over its torn toy.
+Yucatec Maya	313		Le wíiniko' ku lúubul teh che'o' ichil le ts'ono'to'.		le wíinik-o' k-u lúub-ul ti' le che'-o' ichil le ts'ono't-o'	DEM man-D2 IMPF-SBJ.3 fall-INCMPL LOC DEM wood-D2 inside DEM cenote-D2	The man falls out of the tree into the cenote.
+Yucatec Maya	314		Le ko'lelo' ku k'amik hunp'éel nikte' ti' le xch'úupalo'.		le ko'lel-o' k-u k'am-ik hun-p'éel nikte' ti' le xch'úupal-o'	DEM woman-D2 IMPF-SBJ.3 receive-INCMPL one-CL.INAN flower LOC DEM girl-D2	The woman receives a flower from the girl.
+Yucatec Maya	315		U le' le su'ko' ku xoot.		u le' le su'k-o' k-u xoot	POSS.3 leaf DEM grass-D2 IMPF-SBJ.3 cut\INTROV	The leaves of the grass cut .
+Yucatec Maya	316		Le ch'óoyo' chúup yéetel ha'.		le ch'óoy-o' chúup yéetel ha'	DEM bucket-D2 fill\DEAG with water	The bucket filled with water.
+Yucatec Maya	317		Le xch'úupalo' ma'ch tumen u na' káa u'ya'k wáah táan u chokwil.		le xch'úupal-o' ma'ch tumen u na' káa u'y-a'k wáah táan u chokwil	DEM girl-D2 seize\PASS by POSS.3 mother CONJ feel-SUBJ.PASS if PROG POSS.3 fever	The girl was touched by her mother in order to feel if she had fever.
+Yucatec Maya	318		Táan u machik u báaho'b káa u yu'bo'b wáah taan u chokwilo'b.		táan u mach-ik u báah-o'b káa u y-u'b-o'b wáah táan u chokwil-o'b	PROG SBJ.3 seize-INCMPL POSS.3 self-PL CONJ SBJ.3 0-feel-PL if PROG POSS.3 fever-PL	They are touching each other in order to feel if they have fever.
+Yucatec Maya	319		Le peek'o túun tsaypachtik le xibpal máan k'iino'.		le peek'-o' táan u tsaypach-t-ik le xibpal máan k'iin-o'	DEM dog-D2 PROG SBJ.3 follow-TRR-INCMPL DEM boy pass sun/day-D2	The dog follows the boy all day.
+Yucatec Maya	320		Le xch'úupalalo'bo' ku tsaypachta'lo'b tumen le xíipalalo'bo'.		le xch'úupal-al-o'b-o' k-u tsaypach-t-a'l-o'b tumen le xibpal-al-o'b-o'	DEM girl-COLL-PL-D2 IMPF-SBJ.3 follow-TRR-PASS.INCMPL-PL by DEM boy-COLL-PL-D2	The girls are followed by the boys.
+Yucatec Maya	321		Le kaano' p'u'ch tumen le xibpalo.		le kaan-o' p'u'ch tumen le xibpal-o'	DEM snake-D2 beat\PASS by DEM boy-D2	The snake was beaten by the boy.
+Yucatec Maya	322		Le xibpalo' táan u p'uchik le kaan yéetel u bastono'.		le xibpal-o' táan u p'uch-ik le kaan yéetel u baston-o'	DEM boy-D2 PROG SBJ.3 beat-INCMPL DEM snake with POSS.3 stick-D2	The boy is beating the snake with his stick.
+Yucatec Maya	323		Le ch'óoyo' ku búut'ul yéetel lu'm.		le ch'óoy-o' k-u búut'-ul yéetel lu'm	DEM bucket-D2 IMPF-SBJ.3 fill\DEAG-INCMPL with earth	The bucket fills with earth.
+Yucatec Maya	324		Teene' kin ts'iik.		teen-e' k-in ts'iik	me-TOP IMPF-SBJ.1SG shave\INTROV	I shave.
+Yucatec Maya	325		Le xch'úupalo' túun chak'ich.		le xch'úupal-o' túun chak'-ich	DEM girl-D2 then blink-eye	The girl is blinking.
+Yucatec Maya	326	Constructed by linguist	Táan u tikintal le lu'mo'.		táan u tikin-tal le lu'm-o'	PROG SBJ.3 dry-FIENT.INCMPL DEM earth-D2	The ground is getting dry.
+Yucatec Maya	327		Behe'la' in k'amik u'labo'be'.		behe'la' in k'am-ik u'lab-o'b-e'	today SBJ.1SG receive-INCMPL guest-PL-D3	Today I receive guests.
+Yucatec Maya	328		Le wíiniko' tu ch'a'ah u taak'in u láak'.		le wíinik-o' t-u ch'a'-ah u taak'in u láak'	DEM man-D2 PRFV-SBJ.3 take-CMPL POSS.3 money POSS.3 equal	The man took the money from his friend.
+Yucatec Maya	329		Ku paaklan isíinsik u báaho'b.		k-u paaklan isíin-s-ik u báah-o'b	IMPF-SBJ.3 each.other bathe-CAUS-INCMPL POSS.3 self-PL	They bathe each other.
+Yucatec Maya	330		Le xch'úupalo' tu kanah hunp'éel k'aay.		le x-ch'úupal-o' t-u kan-ah hun-p'éel k'aay	DEM F-girl-D2 PRFV-SBJ.3 learn-CMPL one-CL.INAN song	The girl learnt a song.
+Yucatec Maya	331		Hwaan u k'aaba' in iihoh.		Hwaan u k'aaba' in iihoh	John POSS.3 name POSS.1SG son	My son's name is John.
+Yucatec Maya	332		Tin wichíintah síis ha'.		t-in w-ichíin-t-ah síis ha'	PRFV-SBJ.1SG 0-wash-TRR-CMPL cold water	I washed with cold water.
+Yucatec Maya	333		Tin kuchpachtah in wíits'in.		t-in kuch-pach-t-ah in w-íits'in	PRFV-SBJ.1SG load-back-TRR-CMPL POSS.1SG 0-younger.sibling	I loaded my younger sibling on my back.
+Yucatec Maya	334		Tin machah yéetel in xts'íik k'ab.		t-in mach-ah y-éetel in xts'íik k'ab	PRFV-SBJ.1SG seize-CMPL 0-with POSS.1SG left hand	I seized her with my left hand.
+Yucatec Maya	335		Kin wookolik teech le ba'lo'.		k-in w-ookol-ik teech le ba'l-o'	IMPF-SBJ.1SG 0-steal-INCMPL you DEM thing-D2	I steal that thing from you.
+Yucatec Maya	336		Tíin paktikech.		táan in pakat-ik-ech	PROG SBJ.1SG look-INCMPL-ABS.2SG	I loook at you.
+Yucatec Maya	337		Ch'a'a'n sahakil ti' le báalam tumen le máasewaalo'bo'.		ch'a'-a'n sahak-il ti' le báalam tumen le máasewaal-o'b-o'	take-RSLTV afraid-ABSTR LOC DEM jaguar by DEM indio-PL-D2	The jaguar is feared by the indios.
+Yucatec Maya	338		Tin t'anah in wíits'in ti' haanal.		t-in t'an-ah in w-íits'in ti' haanal	PRFV-SBJ.1SG call-CMPL POSS.1SG 0-younger.sibling LOC food	I called my younger sibling to eat.
+Yucatec Maya	339		Le boolaha' h taal tin k'ab.		le boolah-a' h taal t-in k'ab	DEM ball-D1 PRFV come(CMPL) LOC-POSS.1SG hand	This ball came into my hand.
+Yucatec Maya	340		Ma'loob a tuukule'x.		ma'loob a tuukul-e'x	good SBJ.2 think\INTROV-2PL	You think well.
+Yucatec Maya	341		Hach ki'chkelem u búuk Pedro.		hach ki'chkelem u búuk Pedro	really handsome POSS.3 dress Peter	Peter's dress is very handsome.
+Yucatec Maya	342		Le xch'úup-o'b-o' t-u huch'-ah-o'b in k'u'm.		le xch'úup-o'b-o' t-u huch'-ah-o'b in k'u'm	DEM woman-PL-D2 PRFV-SBJ.3 grind-CMPL-3PL POSS.1SG nixtamal	The women ground my nixtamal.
+Yucatec Maya	343		Le xch'úupo'bo' tu huch'aho'b teen k'u'm.		le xch'úup-o'b-o' t-u huch'-ah-o'b teen k'u'm	DEM woman-PL-D2 PRFV-SBJ.3 grind-CMPL-3PL me nixtamal	The women ground me some nixtamal.
+Yucatec Maya	344		Táan in tusik in kachik in lapiseero káa hach ka'ch teen.		táan in tus-ik in kach-ik in lapiseero káa hach ka'ch teen	PROG SBJ.1SG lie-INCMPL SBJ.1SG break-INCMPL POSS.1SG pen CONJ really break\PASS(CMPL) me	I was feigning to break my pen, and then it really broke on me."
+Yucatec Maya	345		Tíin na'ksik u kuuch le káamiona'.		táan in na'k-s-ik u kuch le káamion-a'	PROG SBJ.1SG climb-CAUS-INCMPL POSS.3 load DEM truck-D1	I am loading the load onto this truck.
+Yucatec Maya	346		Tíin but'ik u kuuch le káamiona'.		táan in but'-ik u kuch le káamion-a'	PROG SBJ.1SG fill-INCMPL POSS.3 load DEM truck-D1	I am filling the load into the truck.
+Yucatec Maya	347		Wa'pach'e' ka bin ho'p' u ch'úuktik máax ookoltik.		wa'pach'-e' ka bin ho'p' u ch'úuk-t-ik máax ookol-t-ik	giant-TOP CONJ QUOT begin SBJ.3 watch-TRR-INCMPL who steal-TRR-INCMPL	The giant started watching who was robbing him.
+Yucatec Maya	348		Ts'a' u boholil le wayu'mo' yo'lal mu' taal u ch'íich'il.		ts'a' u bohol-il le wayu'm-o' yo'lal ma' u taal u ch'íich'-il	put/give POSS.3 scarecrow-REL DEM guaya-D2 in.order NEG SBJ.3 come POSS.3 bird-REL	Put a scarecrow on the guaya tree so that the birds won't come.
+Yucatec Maya	349		U búuk Pedro lelo'.		u búuk Pedro lel-o'	POSS.3 dress Peter DEM-D2	That is Peter's dress.
+Yucatec Maya	350		Tíin hats'ik le che' yéetel u yéet che'ila'.		táan in hats'-ik le che' yéetel u yéet che'-il-a'	PROG SBJ.1.SG hit-INCMPL DEM wood with POSS.3 companion wood-REL-D1	I am hitting this branch with another branch of the same tree.
+Yucatec Maya	351		Kin k'aaba'tik le he'la'.		k-in k'aaba'-t-ik le he'l-a'	IMPF-SBJ.1.SG name-USAT-INCMPL DEM PRSV-D1	I am called this.
+Yucatec Maya	352		Pa'tik in lahk e he'la'.		pa'tik in lah-ik le he'l-a'	will.be.useful SBJ.1.SG detach-INCMPL DEM PRSV-D1	Let me detach this (thing).
+Yucatec Maya	353		Tu'x a taal?		tu'x a taal	where SBJ.2 come	Where do you come from?
+Yucatec Maya	354		Táan in ts'íilik le xchiinao'.		táan in ts'íil-ik le xchiina-o'	PROG SBJ.1.SG peel-CMPL DEM orange-D2	I am peeling the orange.
+Yucatec Maya	355		Yah tin wóol u lo'bita'l le mehen paalalo'bo'.		yah t-in w-óol u loobit-a'l le mehen paal-al-o'b-o'	painful LOC-POSS.1.SG 0-mind SBJ.3 harm-PASS.INCMPL DEM small child-COLL-PL-D2	I feel sorry that the little children are maltreated.
+Yucatec Maya	356		Tíin na'ksik le kuuch teh káamiona'.		táan in na'k-s-ik le kuch ti' le káamion-a'	PROG SBJ.1SG climb-CAUS-INCMPL DEM load LOC DEM truck-D1	I am loading the load onto this truck.
+Yucatec Maya	357		Tíin but'ik le kuuch teh káamiona'.		táan in but'-ik le kuch ti' le káamion-a'	PROG SBJ.1SG fill-INCMPL DEM load LOC DEM truck-D1	I am filling the load into the truck.
+Yucatec Maya	358		Le koolnáalo' tu but'ah ixi'm ti' le kaamiono'.		le koolnáal-o' t-u but'-ah ixi'm ti' le kaamion-o'	EM farmer-D2 PRFV-SBJ.3 fill-CMPL corn LOC DEM truck-D2	The farmer loaded corn onto the truck.
+Yucatec Maya	359		Tin woklah hunp'éel bisikleetah.		t-in w-okl-ah hun-p'éel bisikleetah	PRFV-SBJ.1.SG 0-steal-CMPL one-CL.INAN bicycle	I stole a bike.
+Yucatec Maya	360		Ko'x oklik le máako'.		ko'x okl-ik le máak-o'	go.HORT steal-INCMPL DEM person-D2	Let’s rob that person.
+Yucatec Maya	361		Kin wokolik teech le ba'lo'.		k-in w-okol-ik teech le ba'l-o'	IMPF-SBJ.1.SG 0-steal-INCMPL you DEM thing-D2	I steal that thing from you.
+Yucatec Maya	362		Tin ka'ns-ah xokp'éelil-o'b t-in paal.		t-in ka'ns-ah xokp'éelil-o'b t-in paal	PRFV-SBJ.1.SG teach-CMPL number-PL LOC-POSS.1.SG child	I taught my child numbers.

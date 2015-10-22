@@ -1,0 +1,373 @@
+library(qlcVisualize)
+?lmap
+source("adhocfunctions.R")#
+#
+# read data, selecting only basic coding frames#
+data <- read.valpal("data")#
+#
+# distances between microroles ignoring frequencies below 5 languages#
+# for distances, separate coding into parts#
+# returns a distance and a new data matrix!#
+d <- role.dist(data, ignore = 5, separate = TRUE)#
+#
+# multidimensional scaling#
+p <- cmdscale(d$dist)#
+#
+# ad-hoc condensing of dimension 1 for nicer display#
+p[,1] <- abs(p[,1])^2 * sign(p[,1]) #
+#
+# show roles#
+plot(p, type="n"); text(p, labels=rownames(d$dist), cex = 0.5)
+# install visualisations from github#
+# only necessary once#
+#
+# install.packages("devtools")#
+# devtools::install_github("cysouw/qlcVisualize")#
+#
+# load ad-hoc functions#
+source("code/adhocfunctions.R")#
+#
+# read data, selecting only basic coding frames#
+data <- read.valpal("data")#
+#
+# distances between microroles ignoring frequencies below 5 languages#
+# for distances, separate coding into parts#
+# returns a distance and a new data matrix!#
+d <- role.dist(data, ignore = 5, separate = TRUE)#
+#
+# multidimensional scaling#
+p <- cmdscale(d$dist)#
+#
+# ad-hoc condensing of dimension 1 for nicer display#
+p[,1] <- abs(p[,1])^2 * sign(p[,1]) #
+#
+# show roles#
+plot(p, type="n"); text(p, labels=rownames(d$dist), cex = 0.5)
+tmp <- function(x) {#
+		semantic.map(p, x, d$data, #
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 1#
+					, density = 1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.9#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+devtools::install_github("cysouw/qlcVisualize")
+# install visualisations from github#
+# only necessary once#
+#
+# install.packages("devtools")#
+# devtools::install_github("cysouw/qlcVisualize")#
+#
+# load ad-hoc functions#
+source("code/adhocfunctions.R")#
+#
+# read data, selecting only basic coding frames#
+data <- read.valpal("data")#
+#
+# distances between microroles ignoring frequencies below 5 languages#
+# for distances, separate coding into parts#
+# returns a distance and a new data matrix!#
+d <- role.dist(data, ignore = 5, separate = TRUE)#
+#
+# multidimensional scaling#
+p <- cmdscale(d$dist)#
+#
+# ad-hoc condensing of dimension 1 for nicer display#
+p[,1] <- abs(p[,1])^2 * sign(p[,1]) #
+#
+# show roles#
+plot(p, type="n"); text(p, labels=rownames(d$dist), cex = 0.5)#
+#
+# semantic map, based on lmap() from qlcVisualize#
+#
+tmp <- function(x) {#
+		semantic.map(p, x, d$data, #
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 1#
+					, density = 1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.9#
+					) }
+tmp("Chintang")
+?lmap
+debug(tmp)
+tmp("Chintang")
+undebug(tmp)
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 1#
+					, density = 1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.9#
+					) }
+tmp("Chintang")
+boundary(p)
+library(qlcVisualize)
+boundary(p)
+boundary(p,t=.1)
+boundary(p,t=.1,d=.1)
+boundary(p,t=.1,d=.09)
+boundary(p,t=.1,d=.07)
+boundary(p,t=.1,d=.05)
+boundary(p,t=.1,d=.04)
+boundary(p,t=.1,d=.03)
+boundary(p,t=.1,d=.02)
+boundary(p,t=.05)
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 1#
+					, density = 1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.9#
+					, tightness = 0.1#
+					) }
+tmp("Chintang")
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 1#
+					, density = 0.02#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.1#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.02#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.1#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.25#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.02#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.1#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.2#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.02#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.1#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.2#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.02#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.05#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.2#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.05#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.2#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.01#
+					) }#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+# install visualisations from github#
+# only necessary once#
+#
+# install.packages("devtools")#
+# devtools::install_github("cysouw/qlcVisualize")#
+library(qlcVisualize)#
+#
+# load ad-hoc functions#
+source("code/adhocfunctions.R")#
+#
+# read data, selecting only basic coding frames#
+data <- read.valpal("data")#
+#
+# distances between microroles ignoring frequencies below 5 languages#
+# for distances, separate coding into parts#
+# returns a distance and a new data matrix!#
+d <- role.dist(data, ignore = 5, separate = TRUE)#
+#
+# multidimensional scaling#
+p <- cmdscale(d$dist)#
+#
+# ad-hoc condensing of dimension 1 for nicer display#
+p[,1] <- abs(p[,1])^2 * sign(p[,1]) #
+#
+# show roles#
+dev.new()#
+plot(p, type="n"); text(p, labels=rownames(d$dist), cex = 0.5)#
+#
+# semantic map, based on lmap() from qlcVisualize#
+# setting parameters to get suitable visualization#
+#
+tmp <- function(x) {#
+		semantic.map(p, x, d$data#
+					, draw = 5#
+					, levels = 0.2#c(0.33, 0.36, 0.39)#
+					, cex = 0.7#
+					, density = 0.1#
+					, box = 0.2#
+					, position = "topright"#
+					, note = FALSE#
+					, cex.legend = 0.7#
+					, tightness = 0.01#
+					) }#
+#
+dev.new()#
+#
+par(mfrow=c(2,3))#
+tmp("Chintang")#
+tmp("Bezhta")#
+tmp("Nen")#
+tmp("Yupik")#
+tmp("Hooc")#
+tmp("Jaminjung")#
+par(mfrow=c(1,1))
+?dev.new
+dev.new(width=8,height=6)
+?dev.new
+library(qlcTokenize)#
+#
+words <- read.delim("mit/WS40-mit.txt", header = F, stringsAsFactors = F)
+rmarkdown::render("manual.R")
+rmarkdown::render("manual.R", pdf_document)
+rmarkdown::render("manual.R", "pdf_document")
+warnings()[1:5]
+library(qlcVisualize)
+?lmap
+rmarkdown::render("manual.R")
+lmap
+rmarkdown::render("manual.R")
+rmarkdown::render("manual.R","pdf_document")
+?replayPlot

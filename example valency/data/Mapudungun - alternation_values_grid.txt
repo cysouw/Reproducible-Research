@@ -1,0 +1,87 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Applicative 1	Applicative 2	Applicative 3	Applicative 4	Causative1	Causative2	Labile	Reflexive
+Mapudungun	1	EAT	in	48	V.subj[1].obj[2] 2 1	Marginally	Regularly	Never	Never	No data	No data	Regularly	Never
+Mapudungun	2	HUG	rofülün	67	V.subj[1].obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Marginally
+Mapudungun	3	LOOK AT	lelin	37	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Regularly	Regularly
+Mapudungun	3	LOOK AT	adkintun	38	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never
+Mapudungun	4	SEE	pen	36, 113, 114	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly
+Mapudungun	5	SMELL	ṉümütun	68	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally
+Mapudungun	6	FEAR	llükan	40	V.subj[1].obj[2] 2 1	Regularly	Never	Never	Never	No data	No data	Marginally	Marginally
+Mapudungun	7	FRIGHTEN	trupefülün	39	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally
+Mapudungun	8	LIKE	kümentun	42	V.subj[1].obj[2] 2 1	Never	Never	Never	Never	Never	Never	Never	Marginally
+Mapudungun	8	LIKE	ayün (2)	41	V.subj[1].obj[2] 2 1	Never	Never	Never	Never	Regularly	Never	Never	Regularly
+Mapudungun	9	KNOW	kimün	35	V.subj[1].obj[2] 2 1	Never	Regularly	Never	Never	Regularly	Never	Never	Marginally
+Mapudungun	10	THINK	rakiduamün	69, 124	V.subj[1] 1 2+mew	No data	No data	Never	Regularly	Never	Never	Regularly	Marginally
+Mapudungun	11	SEARCH FOR	kintun	43	V.subj[1].obj[2] 2 1	Regularly	No data	Never	Never	Never	Never	Regularly	Marginally
+Mapudungun	12	WASH	küchan	50	V.subj[1].obj[2] 2 1	Regularly	Marginally	Never	Never	Never	Never	Never	Never
+Mapudungun	13	DRESS	takun	49	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	14	SHAVE (a body part/person)											
+Mapudungun	15	HELP	kellun	47	V.subj[1].obj[2] 2 1	Regularly	Never	Never	Never	Never	Never	Regularly	Marginally
+Mapudungun	16	FOLLOW	inan	46	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	17	MEET	trafün	45, 137	V.subj[1] 1	Never	Regularly	Regularly	Regularly	Never	Never	Never	Never
+Mapudungun	18	TALK	ngütramkan	33, 34, 133	V.subj[1].obj[2] 2 1	Regularly	Marginally	Never	Regularly	Never	Never	Regularly	Never
+Mapudungun	19	ASK FOR	ngillatun	32, 102	V.subj[1].obj[2] 2 3 1	No data	Regularly	Never	Never	Never	Never	No data	Never
+Mapudungun	20	SHOUT AT	wirarün (1)	28, 29	V.subj[1].obj[2] 2 1	Marginally	Marginally	Never	Never	Marginally	Never	Regularly	Never
+Mapudungun	21	TELL	ngütramün	30, 123, 135	V.subj[1].obj[2] 2 1	Regularly	Never	Never	Regularly	Never	Never	Never	Never
+Mapudungun	22	SAY	pin	27, 31, 111, 112	V.subj[1].obj[2] 2 3 1	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	23	NAME	üytuntukun	82	V.subj[1].obj[2] 2 1	Regularly	Never	Never	Never	Never	Never	Never	Marginally
+Mapudungun	24	BUILD	dewman (1)	26	V.subj[1].obj[2] 2 1	Regularly	Marginally	Regularly	Regularly	No data	No data	Never	Never
+Mapudungun	25	BREAK	watron	25	V.subj[1].obj[2] 2 1 3+mew	Marginally	Regularly	No data	No data	Never	Never	Regularly	Never
+Mapudungun	25	BREAK	trafon	83	V.subj[1].obj[2] 2 1 3+mew	Marginally	Regularly	No data	No data	Never	Never	Regularly	Never
+Mapudungun	26	KILL	l̠angümün	24	V.subj[1].obj[2] 2 1 3+mew	Never	Regularly	Never	Never	Never	Never	Never	Regularly
+Mapudungun	27	BEAT	trawawtrawawtun	23	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	No data	No data	Never	Never	Never	Marginally
+Mapudungun	28	HIT	trawawün	22	V.subj[1].obj[2] 2 1 3+mew	Marginally	Regularly	Regularly	Never	Never	Never	Never	Marginally
+Mapudungun	29	TOUCH	kachillman	21	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	Never	Never	Never	Never	Never	No data
+Mapudungun	30	CUT	katrün	20	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly
+Mapudungun	31	TAKE	nün	84, 120	V.subj[1].obj[2] 2 1	Regularly	Regularly	Regularly	Never	Never	Never	Never	Regularly
+Mapudungun	31	TAKE	tun	85, 121, 128, 129	V.subj[1].obj[2] 2 1	Regularly	Regularly	Regularly	Never	Never	Never	Never	Regularly
+Mapudungun	32	TEAR	kacharnentun	19, 134	V.subj[1].obj[2] 2 1	No data	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	33	PEEL	chafün	78	V.subj[1].obj[2] 2 1	Regularly	Regularly	No data	No data	Never	Never	Never	Never
+Mapudungun	34	HIDE	llumümün	18, 138	V.subj[1].obj[2] 2 1	Marginally	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	35	SHOW	pengelün	15	V.subj[1].obj[2] 2 3 1	No data	No data	Never	Never	Never	Never	Never	Never
+Mapudungun	36	GIVE	elun	14	V.subj[1].obj[2] 2 3 1	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly
+Mapudungun	37	SEND	amulün	12, 13	V.subj[1].obj[2] 2 1 3+mew	Regularly	Marginally	Never	Never	No data	No data	Never	Marginally
+Mapudungun	38	CARRY	yen	10, 11, 109	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	No data	No data	Never	Never	Never	Never
+Mapudungun	39	THROW	ütrüfün	8, 125, 136	V.subj[1].obj[2] 2 1	Regularly	No data	Regularly	Never	Never	Never	Never	Regularly
+Mapudungun	40	TIE	trarün	86	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally
+Mapudungun	40	TIE	trapelün	5	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally
+Mapudungun	41	PUT	elün (2)	7, 110	V.subj[1].obj[2] 2 1 3+mew	No data	Regularly	Never	Never	Never	Never	Never	Regularly
+Mapudungun	42	POUR	wütruntukun	6	V.subj[1].obj[2] 2 1 3+mew	Marginally	Marginally	Never	Never	Never	Never	Never	Never
+Mapudungun	43	COVER	takun (2)	1, 2, 127	V.subj[1].obj[2] 2 1	Regularly	Regularly	No data	No data	Regularly	Never	Never	Regularly
+Mapudungun	44	FILL	apolün	3	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	45	LOAD	chechümün	4	V.subj[1].obj[2] 2 1 3+mew	Regularly	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	46	BLINK	llüpifün	87	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	47	COUGH	chafon	51	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	48	CLIMB	wechun	52	V.subj[1] 1 2+mew	Regularly	Never	Never	Never	No data	No data	Never	Never
+Mapudungun	49	RUN	lefün	55	V.subj[1] 1	Never	Marginally	Regularly	Never	Never	Regularly	Never	Never
+Mapudungun	50	SIT	anün	53, 54, 115, 116	V.subj[1] 1 2+mew	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Mapudungun	51	SIT DOWN	anün	53, 54, 115, 116	V.subj[1] 1 2+mew	Never	Regularly	Never	Never	Regularly	Never	Never	Never
+Mapudungun	52	JUMP	rüngkün	56	V.subj[1] 1 2+mew	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	53	SING	ülkantun	59	V.subj[1] 1	Regularly	Regularly	Never	Never	No data	No data	Regularly	Never
+Mapudungun	54	GO	amun	57	V.subj[1] 1 2+mew	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	55	LEAVE	püntun	79	V.subj[1] 1 2+mew	No data	No data	Regularly	Never	Regularly	Never	Never	Never
+Mapudungun	56	LIVE	mülen	58	V.subj[1] 1 2+mew	Never	Never	Never	Never	Never	Never	Never	Never
+Mapudungun	57	LAUGH	ayen	76	V.subj[1] 1	Never	Never	Regularly	Never	Regularly	Never	Never	Never
+Mapudungun	58	SCREAM	wirarün (2)	92	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Mapudungun	59	FEEL PAIN	kutran(-tu)-n	61, 62, 130	V.subj[1] 1	Never	Marginally	Never	Regularly	Regularly	Never	Never	Regularly
+Mapudungun	60	FEEL COLD	wütren	88	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	61	DIE	l̠an	63	V.subj[1] 1	Never	Regularly	Never	Never	Never	Regularly	Never	Never
+Mapudungun	62	PLAY	awkantun	75	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Regularly	Never
+Mapudungun	63	BE SAD	lladkün	89, 107	V.subj[1] 1	Never	Regularly	Regularly	Never	Regularly	Never	Never	Never
+Mapudungun	64	BE HUNGRY	ngüñün	65, 105	V.subj[1] 1	Never	Never	Never	Never	Regularly	Never	Never	Never
+Mapudungun	65	ROLL	imülün	90	V.subj[1] 1	Never	Never	Never	Never	No data	No data	Never	Never
+Mapudungun	66	SINK	lanün	91	V.subj[1] 1	No data	No data	Never	Never	No data	No data	Never	Never
+Mapudungun	67	BURN	lüfün	70, 108	V.subj[1] 1	Regularly	Regularly	No data	No data	Regularly	Never	Never	Never
+Mapudungun	68	BE DRY	angkün	71, 103	V.subj[1] 1	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mapudungun	68	BE DRY	ñifün	100, 104	V.subj[1] 1	Never	Never	Never	Never	Never	Regularly	Never	Never
+Mapudungun	69	RAIN	mawüṉün	66	V.subj[0]	Never	Regularly	Never	Never	Never	Never	Never	Never
+Mapudungun	70	BE A HUNTER	tralkatufengen	44	V.subj[1] 1	No data	No data	Never	Never	No data	No data	Never	Never
+Mapudungun	71	GRIND	müḻan	93	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	No data	No data	Never	Never
+Mapudungun	72	WIPE	liftun	126	V.subj[1].obj[2] 2 1	Regularly	No data	Never	Never	Never	Never	Never	Never
+Mapudungun	73	DIG	rüngan	94	V.subj[1] 1	No data	No data	Never	Never	Regularly	Never	Never	Never
+Mapudungun	74	PUSH	pelün	95	V.subj[1].obj[2] 2 1	Marginally	Regularly	Never	Never	Never	Never	Marginally	Never
+Mapudungun	75	BRING	küpalelün	9	V.subj[1].obj[2] 2 3 1	Marginally	Marginally	No data	No data	Never	Never	Never	Never
+Mapudungun	76	STEAL	weñen	17, 117, 118, 119	V.subj[1].obj[2] 2 1	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never
+Mapudungun	77	TEACH	kimelün	96, 122	V.subj[1].obj[2] 2 3 1	Regularly	Regularly	Never	Never	Never	Never	Marginally	Never
+Mapudungun	78	HEAR	allkün	74	V.subj[1].obj[2] 2 1	Marginally	Marginally	Never	Never	Never	Never	Regularly	Marginally
+Mapudungun	79	COOK	afümün	72	V.subj[1].obj[2] 2 1	Regularly	Regularly	No data	No data	Never	Never	Never	Never
+Mapudungun	80	BOIL	afün	73	V.subj[1] 1	Never	Never	Never	Never	Regularly	Regularly	Never	Never

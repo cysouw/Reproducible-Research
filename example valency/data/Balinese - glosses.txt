@@ -1,0 +1,9 @@
+﻿Language_name	Gloss	Meaning
+Balinese	3	third person
+Balinese	CAUS	causative
+Balinese	DEF	definite
+Balinese	LIG	ligature?
+Balinese	LOC	locative
+Balinese	PASS	passive
+Balinese	POSS	possessive
+Balinese	RES	resultative

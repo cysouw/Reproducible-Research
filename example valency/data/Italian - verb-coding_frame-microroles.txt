@@ -1,0 +1,1246 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Italian	1	EAT	mangiare	Basic	1 > V.subj[1] > 2	1	eater	V.subj	A
+Italian	1	EAT	mangiare	Basic	1 > V.subj[1] > 2	2	eaten food	Ø	P
+Italian	1	EAT	mangiare	Derived	1 > V'.subj[1]	1	eater	V.subj	
+Italian	1	EAT	mangiare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	eater	daParteDi+NP	
+Italian	1	EAT	mangiare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	eaten food	V.subj	
+Italian	1	EAT	mangiare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	eater	daParteDi+NP	
+Italian	1	EAT	mangiare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	eaten food	V.subj	
+Italian	1	EAT	mangiare	Derived	4 > causV'.subj[4] > 2 > a+1	1	eater	a+NP	
+Italian	1	EAT	mangiare	Derived	4 > causV'.subj[4] > 2 > a+1	2	eaten food	Ø	
+Italian	1	EAT	mangiare	Derived	4 > causV'.subj[4] > 2 > a+1	4	eat causer/feeder	V.subj	
+Italian	1	EAT	mangiare	Derived	siV'.subj[2] > 2	2	eaten food	V.subj	
+Italian	2	HUG	abbracciare	Basic	1 > V.subj[1] > 2	1	hugger	V.subj	A
+Italian	2	HUG	abbracciare	Basic	1 > V.subj[1] > 2	2	huggee	Ø	P
+Italian	2	HUG	abbracciare	Derived	1/2 > siV'.subj[1/2]	1	hugger	V.subj	
+Italian	2	HUG	abbracciare	Derived	1/2 > siV'.subj[1/2]	2	huggee	V.subj	
+Italian	2	HUG	abbracciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	hugger	daParteDi+NP	
+Italian	2	HUG	abbracciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	huggee	V.subj	
+Italian	2	HUG	abbracciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	hugger	daParteDi+NP	
+Italian	2	HUG	abbracciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	huggee	V.subj	
+Italian	2	HUG	abbracciare	Derived	4 > causV'.subj[4] > 2 > a+1	1	hugger	a+NP	
+Italian	2	HUG	abbracciare	Derived	4 > causV'.subj[4] > 2 > a+1	2	huggee	Ø	
+Italian	2	HUG	abbracciare	Derived	4 > causV'.subj[4] > 2 > a+1	4	hug causer	V.subj	
+Italian	2	HUG	abbracciare	Derived	siPassV' (da+1)	1	hugger	da+NP	
+Italian	2	HUG	abbracciare	Derived	siV'.subj[2] > 2	2	huggee	V.subj	
+Italian	3	LOOK AT	guardare	Basic	1 > V.subj[1] > 2	1	looker	V.subj	A
+Italian	3	LOOK AT	guardare	Basic	1 > V.subj[1] > 2	2	looked at entity	Ø	P
+Italian	3	LOOK AT	guardare	Derived	1/2 > siV'.subj[1/2]	1	looker	V.subj	
+Italian	3	LOOK AT	guardare	Derived	1/2 > siV'.subj[1/2]	2	looked at entity	V.subj	
+Italian	3	LOOK AT	guardare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	looker	daParteDi+NP	
+Italian	3	LOOK AT	guardare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	looked at entity	V.subj	
+Italian	3	LOOK AT	guardare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	looker	daParteDi+NP	
+Italian	3	LOOK AT	guardare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	looked at entity	V.subj	
+Italian	3	LOOK AT	guardare	Derived	4 > causV'.subj[4] > 2 > a+1	1	looker	a+NP	
+Italian	3	LOOK AT	guardare	Derived	4 > causV'.subj[4] > 2 > a+1	2	looked at entity	Ø	
+Italian	3	LOOK AT	guardare	Derived	4 > causV'.subj[4] > 2 > a+1	4	look causer	V.subj	
+Italian	3	LOOK AT	guardare	Derived	siPassV' (da+1)	1	looker	da+NP	
+Italian	3	LOOK AT	guardare	Derived	siV'.subj[2] > 2	2	looked at entity	V.subj	
+Italian	4	SEE	vedere	Basic	1 > V.subj[1] > 2	1	seeer	V.subj	A
+Italian	4	SEE	vedere	Basic	1 > V.subj[1] > 2	2	seen entity	Ø	P
+Italian	4	SEE	vedere	Derived	1 > V'.subj[1]	1	seeer	V.subj	
+Italian	4	SEE	vedere	Derived	1/2 > siV'.subj[1/2]	1	seeer	V.subj	
+Italian	4	SEE	vedere	Derived	1/2 > siV'.subj[1/2]	2	seen entity	V.subj	
+Italian	4	SEE	vedere	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	seeer	daParteDi+NP	
+Italian	4	SEE	vedere	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	seen entity	V.subj	
+Italian	4	SEE	vedere	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	seeer	daParteDi+NP	
+Italian	4	SEE	vedere	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	seen entity	V.subj	
+Italian	4	SEE	vedere	Derived	4 > causV'.subj[4] > 2 > a+1	1	seeer	a+NP	
+Italian	4	SEE	vedere	Derived	4 > causV'.subj[4] > 2 > a+1	2	seen entity	Ø	
+Italian	4	SEE	vedere	Derived	4 > causV'.subj[4] > 2 > a+1	4	see causer	V.subj	
+Italian	4	SEE	vedere	Derived	siPassV' (da+1)	1	seeer	da+NP	
+Italian	4	SEE	vedere	Derived	siV'.subj[2] > 2	2	seen entity	V.subj	
+Italian	5	SMELL	odorare	Basic	1 > V.subj[1] > 2	1	smeller	V.subj	A
+Italian	5	SMELL	odorare	Basic	1 > V.subj[1] > 2	2	smelled entity	Ø	P
+Italian	5	SMELL	odorare	Derived	1/2 > siV'.subj[1/2]	1	smeller	V.subj	
+Italian	5	SMELL	odorare	Derived	1/2 > siV'.subj[1/2]	2	smelled entity	V.subj	
+Italian	5	SMELL	odorare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	smeller	daParteDi+NP	
+Italian	5	SMELL	odorare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	smelled entity	V.subj	
+Italian	5	SMELL	odorare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	smeller	daParteDi+NP	
+Italian	5	SMELL	odorare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	smelled entity	V.subj	
+Italian	5	SMELL	odorare	Derived	4 > causV'.subj[4] > 2 > a+1	1	smeller	a+NP	
+Italian	5	SMELL	odorare	Derived	4 > causV'.subj[4] > 2 > a+1	2	smelled entity	Ø	
+Italian	5	SMELL	odorare	Derived	4 > causV'.subj[4] > 2 > a+1	4	smell causer	V.subj	
+Italian	5	SMELL	odorare	Derived	siPassV' (da+1)	1	smeller	da+NP	
+Italian	5	SMELL	odorare	Derived	siV'.subj[2] > 2	2	smelled entity	V.subj	
+Italian	6	FEAR	temere	Basic	1 > V.subj[1] > 2	1	fearer	V.subj	A
+Italian	6	FEAR	temere	Basic	1 > V.subj[1] > 2	2	fear stimulus	Ø	P
+Italian	6	FEAR	temere	Derived	1/2 > siV'.subj[1/2]	1	fearer	V.subj	
+Italian	6	FEAR	temere	Derived	1/2 > siV'.subj[1/2]	2	fear stimulus	V.subj	
+Italian	6	FEAR	temere	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	fearer	daParteDi+NP	
+Italian	6	FEAR	temere	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	fear stimulus	V.subj	
+Italian	6	FEAR	temere	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	fearer	daParteDi+NP	
+Italian	6	FEAR	temere	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	fear stimulus	V.subj	
+Italian	6	FEAR	temere	Derived	4 > causV'.subj[4] > 2 > a+1	1	fearer	a+NP	
+Italian	6	FEAR	temere	Derived	4 > causV'.subj[4] > 2 > a+1	2	fear stimulus	Ø	
+Italian	6	FEAR	temere	Derived	4 > causV'.subj[4] > 2 > a+1	4	fear causer	V.subj	
+Italian	6	FEAR	temere	Derived	siPassV' (da+1)	1	fearer	da+NP	
+Italian	6	FEAR	temere	Derived	siV'.subj[2] > 2	2	fear stimulus	V.subj	
+Italian	7	FRIGHTEN	spaventare	Basic	1 > V.subj[1] > 2	1	frightener	V.subj	A
+Italian	7	FRIGHTEN	spaventare	Basic	1 > V.subj[1] > 2	2	frightenee	Ø	P
+Italian	7	FRIGHTEN	spaventare	Derived	1/2 > siV'.subj[1/2]	1	frightener	V.subj	
+Italian	7	FRIGHTEN	spaventare	Derived	1/2 > siV'.subj[1/2]	2	frightenee	V.subj	
+Italian	7	FRIGHTEN	spaventare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	frightener	daParteDi+NP	
+Italian	7	FRIGHTEN	spaventare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	frightenee	V.subj	
+Italian	7	FRIGHTEN	spaventare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	frightener	daParteDi+NP	
+Italian	7	FRIGHTEN	spaventare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	frightenee	V.subj	
+Italian	7	FRIGHTEN	spaventare	Derived	4 > causV'.subj[4] > 2 > a+1	1	frightener	a+NP	
+Italian	7	FRIGHTEN	spaventare	Derived	4 > causV'.subj[4] > 2 > a+1	2	frightenee	Ø	
+Italian	7	FRIGHTEN	spaventare	Derived	4 > causV'.subj[4] > 2 > a+1	4	scare causer	V.subj	
+Italian	7	FRIGHTEN	spaventare	Derived	siPassV' (da+1)	1	frightener	da+NP	
+Italian	7	FRIGHTEN	spaventare	Derived	siV'.subj[2] > 2	2	frightenee	V.subj	
+Italian	8	LIKE	piacere	Basic	a+1 > V.subj[2] > 2	1	liker	a+NP	X
+Italian	8	LIKE	piacere	Basic	a+1 > V.subj[2] > 2	2	liked entity	V.subj	S
+Italian	8	LIKE	piacere	Derived	1/2 > siV'.subj[1/2]	1	liker	V.subj	
+Italian	8	LIKE	piacere	Derived	1/2 > siV'.subj[1/2]	2	liked entity	V.subj	
+Italian	8	LIKE	piacere	Derived	4 > causV'.subj[4] > 2 > a+1	1	liker	a+NP	
+Italian	8	LIKE	piacere	Derived	4 > causV'.subj[4] > 2 > a+1	2	liked entity	Ø	
+Italian	8	LIKE	piacere	Derived	4 > causV'.subj[4] > 2 > a+1	4	like causer	V.subj	
+Italian	9	KNOW	conoscere	Basic	1 > V.subj[1] > 2	1	knower	V.subj	A
+Italian	9	KNOW	conoscere	Basic	1 > V.subj[1] > 2	2	known thing/person	Ø	P
+Italian	9	KNOW	conoscere	Derived	1/2 > siV'.subj[1/2]	1	knower	V.subj	
+Italian	9	KNOW	conoscere	Derived	1/2 > siV'.subj[1/2]	2	known thing/person	V.subj	
+Italian	9	KNOW	conoscere	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	knower	daParteDi+NP	
+Italian	9	KNOW	conoscere	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	known thing/person	V.subj	
+Italian	9	KNOW	conoscere	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	knower	daParteDi+NP	
+Italian	9	KNOW	conoscere	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	known thing/person	V.subj	
+Italian	9	KNOW	conoscere	Derived	4 > causV'.subj[4] > 2 > a+1	1	knower	a+NP	
+Italian	9	KNOW	conoscere	Derived	4 > causV'.subj[4] > 2 > a+1	2	known thing/person	Ø	
+Italian	9	KNOW	conoscere	Derived	4 > causV'.subj[4] > 2 > a+1	4	know causer	V.subj	
+Italian	9	KNOW	conoscere	Derived	siPassV' (da+1)	1	knower	da+NP	
+Italian	9	KNOW	conoscere	Derived	siV'.subj[2] > 2	2	known thing/person	V.subj	
+Italian	10	THINK	pensare	Basic	1 > V.subj[1] (> a+2)	1	thinker	V.subj	S
+Italian	10	THINK	pensare	Basic	1 > V.subj[1] (> a+2)	2	thought content	a+NP	X
+Italian	10	THINK	pensare	Derived	3 > causV'.subj[3] (a+2) a+1	1	thinker	a+NP	
+Italian	10	THINK	pensare	Derived	3 > causV'.subj[3] (a+2) a+1	2	thought content	a+NP	
+Italian	10	THINK	pensare	Derived	3 > causV'.subj[3] (a+2) a+1	3	think causer	V.subj	
+Italian	10	THINK	pensare	Derived	siV' (> a+2)	2	thought content	a+NP	
+Italian	11	SEARCH FOR	cercare	Basic	1 > V.subj[1] > 2	1	searcher	V.subj	A
+Italian	11	SEARCH FOR	cercare	Basic	1 > V.subj[1] > 2	2	searched for thing	Ø	P
+Italian	11	SEARCH FOR	cercare	Derived	1 > V'.subj[1]	1	searcher	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	1/2 > siV'.subj[1/2]	1	searcher	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	1/2 > siV'.subj[1/2]	2	searched for thing	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	searcher	daParteDi+NP	
+Italian	11	SEARCH FOR	cercare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	searched for thing	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	searcher	daParteDi+NP	
+Italian	11	SEARCH FOR	cercare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	searched for thing	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	4 > causV'.subj[4] > 2 > a+1	1	searcher	a+NP	
+Italian	11	SEARCH FOR	cercare	Derived	4 > causV'.subj[4] > 2 > a+1	2	searched for thing	Ø	
+Italian	11	SEARCH FOR	cercare	Derived	4 > causV'.subj[4] > 2 > a+1	4	search causer	V.subj	
+Italian	11	SEARCH FOR	cercare	Derived	siPassV' (da+1)	1	searcher	da+NP	
+Italian	11	SEARCH FOR	cercare	Derived	siV'.subj[2] > 2	2	searched for thing	V.subj	
+Italian	12	WASH	lavare	Basic	1 > V.subj[1] > 2	1	washer	V.subj	A
+Italian	12	WASH	lavare	Basic	1 > V.subj[1] > 2	2	washed entity	Ø	P
+Italian	12	WASH	lavare	Derived	1 > V'.subj[1]	1	washer	V.subj	
+Italian	12	WASH	lavare	Derived	1/2 > siV'.subj[1/2]	1	washer	V.subj	
+Italian	12	WASH	lavare	Derived	1/2 > siV'.subj[1/2]	2	washed entity	V.subj	
+Italian	12	WASH	lavare	Derived	1/5 > siV'.subj[1/5] > 2	1	washer	V.subj	
+Italian	12	WASH	lavare	Derived	1/5 > siV'.subj[1/5] > 2	2	washed entity	Ø	
+Italian	12	WASH	lavare	Derived	1/5 > siV'.subj[1/5] > 2	5	wash beneficiary	V.subj	
+Italian	12	WASH	lavare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	washer	daParteDi+NP	
+Italian	12	WASH	lavare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	washed entity	V.subj	
+Italian	12	WASH	lavare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	washer	daParteDi+NP	
+Italian	12	WASH	lavare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	washed entity	V.subj	
+Italian	12	WASH	lavare	Derived	4 > causV'.subj[4] > 2 > a+1	1	washer	a+NP	
+Italian	12	WASH	lavare	Derived	4 > causV'.subj[4] > 2 > a+1	2	washed entity	Ø	
+Italian	12	WASH	lavare	Derived	4 > causV'.subj[4] > 2 > a+1	4	wash causer	V.subj	
+Italian	12	WASH	lavare	Derived	siPassV' (da+1)	1	washer	da+NP	
+Italian	12	WASH	lavare	Derived	siV'.subj[2] > 2	2	washed entity	V.subj	
+Italian	13	DRESS	vestire	Basic	1 > V.subj[1] > 2	1	dresser	V.subj	A
+Italian	13	DRESS	vestire	Basic	1 > V.subj[1] > 2	2	dressee	Ø	P
+Italian	13	DRESS	vestire	Derived	1 > V'.subj[1]	1	dresser	V.subj	
+Italian	13	DRESS	vestire	Derived	1/2 > siV'.subj[1/2]	1	dresser	V.subj	
+Italian	13	DRESS	vestire	Derived	1/2 > siV'.subj[1/2]	2	dressee	V.subj	
+Italian	13	DRESS	vestire	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	dresser	daParteDi+NP	
+Italian	13	DRESS	vestire	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	dressee	V.subj	
+Italian	13	DRESS	vestire	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	dresser	daParteDi+NP	
+Italian	13	DRESS	vestire	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	dressee	V.subj	
+Italian	13	DRESS	vestire	Derived	4 > causV'.subj[4] > 2 > a+1	1	dresser	a+NP	
+Italian	13	DRESS	vestire	Derived	4 > causV'.subj[4] > 2 > a+1	2	dressee	Ø	
+Italian	13	DRESS	vestire	Derived	4 > causV'.subj[4] > 2 > a+1	4	dress causer	V.subj	
+Italian	13	DRESS	vestire	Derived	siPassV' (da+1)	1	dresser	da+NP	
+Italian	14	SHAVE (a body part/person)	radere	Basic	1 > V.subj[1] > 2 (a+3)	1	shaver (of body part)	V.subj	A
+Italian	14	SHAVE (a body part/person)	radere	Basic	1 > V.subj[1] > 2 (a+3)	2	shaved body part	Ø	P
+Italian	14	SHAVE (a body part/person)	radere	Basic	1 > V.subj[1] > 2 (a+3)	3	shaved person	a+NP	X
+Italian	14	SHAVE (a body part/person)	radere	Derived	1 > V'.subj[1] > (a+3)	1	shaver (of body part)	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	1 > V'.subj[1] > (a+3)	3	shaved person	a+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	1/3 > siV'.subj[1/3] > 2	1	shaver (of body part)	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	1/3 > siV'.subj[1/3] > 2	2	shaved body part	Ø	
+Italian	14	SHAVE (a body part/person)	radere	Derived	1/3 > siV'.subj[1/3] > 2	3	shaved person	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	shaver (of body part)	daParteDi+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	shaved body part	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	shaved person	a+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	shaver (of body part)	daParteDi+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	shaved body part	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	shaved person	a+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	shaver (of body part)	da+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	shaved body part	Ø	
+Italian	14	SHAVE (a body part/person)	radere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	shaved person	a+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	shave causer	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	siPassV' (a+3) (da+1)	1	shaver (of body part)	da+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	siPassV' (a+3) (da+1)	3	shaved person	a+NP	
+Italian	14	SHAVE (a body part/person)	radere	Derived	siV'.subj[2] > 2 (> a+3)	2	shaved body part	V.subj	
+Italian	14	SHAVE (a body part/person)	radere	Derived	siV'.subj[2] > 2 (> a+3)	3	shaved person	a+NP	
+Italian	15	HELP	aiutare	Basic	1 > V.subj[1] > 2	1	helper	V.subj	A
+Italian	15	HELP	aiutare	Basic	1 > V.subj[1] > 2	2	helpee	Ø	P
+Italian	15	HELP	aiutare	Derived	1 > V'.subj[1]	1	helper	V.subj	
+Italian	15	HELP	aiutare	Derived	1/2 > siV'.subj[1/2]	1	helper	V.subj	
+Italian	15	HELP	aiutare	Derived	1/2 > siV'.subj[1/2]	2	helpee	V.subj	
+Italian	15	HELP	aiutare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	helper	daParteDi+NP	
+Italian	15	HELP	aiutare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	helpee	V.subj	
+Italian	15	HELP	aiutare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	helper	daParteDi+NP	
+Italian	15	HELP	aiutare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	helpee	V.subj	
+Italian	15	HELP	aiutare	Derived	4 > causV'.subj[4] > 2 > a+1	1	helper	a+NP	
+Italian	15	HELP	aiutare	Derived	4 > causV'.subj[4] > 2 > a+1	2	helpee	Ø	
+Italian	15	HELP	aiutare	Derived	4 > causV'.subj[4] > 2 > a+1	4	help causer	V.subj	
+Italian	15	HELP	aiutare	Derived	siPassV' (da+1)	1	helper	da+NP	
+Italian	15	HELP	aiutare	Derived	siV'.subj[2] > 2	2	helpee	V.subj	
+Italian	16	FOLLOW	seguire	Basic	1 > V.subj[1] > 2	1	follower	V.subj	A
+Italian	16	FOLLOW	seguire	Basic	1 > V.subj[1] > 2	2	followee	Ø	P
+Italian	16	FOLLOW	seguire	Derived	1/2 > siV'.subj[1/2]	1	follower	V.subj	
+Italian	16	FOLLOW	seguire	Derived	1/2 > siV'.subj[1/2]	2	followee	V.subj	
+Italian	16	FOLLOW	seguire	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	follower	daParteDi+NP	
+Italian	16	FOLLOW	seguire	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	followee	V.subj	
+Italian	16	FOLLOW	seguire	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	follower	daParteDi+NP	
+Italian	16	FOLLOW	seguire	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	followee	V.subj	
+Italian	16	FOLLOW	seguire	Derived	4 > causV'.subj[4] > 2 > a+1	1	follower	a+NP	
+Italian	16	FOLLOW	seguire	Derived	4 > causV'.subj[4] > 2 > a+1	2	followee	Ø	
+Italian	16	FOLLOW	seguire	Derived	4 > causV'.subj[4] > 2 > a+1	4	follow causer	V.subj	
+Italian	16	FOLLOW	seguire	Derived	siPassV' (da+1)	1	follower	da+NP	
+Italian	16	FOLLOW	seguire	Derived	siV'.subj[2] > 2	2	followee	V.subj	
+Italian	17	MEET	incontrare	Basic	1 > V.subj[1] > 2	1	meeter	V.subj	A
+Italian	17	MEET	incontrare	Basic	1 > V.subj[1] > 2	2	met person	Ø	P
+Italian	17	MEET	incontrare	Derived	1/2 > siV'.subj[1/2]	1	meeter	V.subj	
+Italian	17	MEET	incontrare	Derived	1/2 > siV'.subj[1/2]	2	met person	V.subj	
+Italian	17	MEET	incontrare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	meeter	daParteDi+NP	
+Italian	17	MEET	incontrare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	met person	V.subj	
+Italian	17	MEET	incontrare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	meeter	daParteDi+NP	
+Italian	17	MEET	incontrare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	met person	V.subj	
+Italian	17	MEET	incontrare	Derived	4 > causV'.subj[4] > 2 > a+1	1	meeter	a+NP	
+Italian	17	MEET	incontrare	Derived	4 > causV'.subj[4] > 2 > a+1	2	met person	Ø	
+Italian	17	MEET	incontrare	Derived	4 > causV'.subj[4] > 2 > a+1	4	meet causer	V.subj	
+Italian	17	MEET	incontrare	Derived	siV'.subj[2] > 2	2	met person	V.subj	
+Italian	18	TALK	parlare	Basic	1 > V.subj[1] > (a+2) (di+3)	1	talker	V.subj	S
+Italian	18	TALK	parlare	Basic	1 > V.subj[1] > (a+2) (di+3)	2	talked to person	a+NP	X
+Italian	18	TALK	parlare	Basic	1 > V.subj[1] > (a+2) (di+3)	3	talked about content	di+NP	X
+Italian	18	TALK	parlare	Derived	4 > causV'.subj[4] > 1 (a+2) (di+3)	1	talker	Ø	
+Italian	18	TALK	parlare	Derived	4 > causV'.subj[4] > 1 (a+2) (di+3)	2	talked to person	a+NP	
+Italian	18	TALK	parlare	Derived	4 > causV'.subj[4] > 1 (a+2) (di+3)	3	talked about content	di+NP	
+Italian	18	TALK	parlare	Derived	4 > causV'.subj[4] > 1 (a+2) (di+3)	4	talk causer	V.subj	
+Italian	18	TALK	parlare	Derived	siV' (a+2) (di+3)	2	talked to person	a+NP	
+Italian	18	TALK	parlare	Derived	siV' (a+2) (di+3)	3	talked about content	di+NP	
+Italian	19	ASK FOR	chiedere	Basic	1 > V.subj[1] > 2 (a+3)	1	asker	V.subj	A
+Italian	19	ASK FOR	chiedere	Basic	1 > V.subj[1] > 2 (a+3)	2	requested thing	Ø	P
+Italian	19	ASK FOR	chiedere	Basic	1 > V.subj[1] > 2 (a+3)	3	askee	a+NP	X
+Italian	19	ASK FOR	chiedere	Derived	1 > V'.subj[1] > (a+3)	1	asker	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	1 > V'.subj[1] > (a+3)	3	askee	a+NP	
+Italian	19	ASK FOR	chiedere	Derived	1/3 > siV'.subj[1/3] > 2	1	asker	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	1/3 > siV'.subj[1/3] > 2	2	requested thing	Ø	
+Italian	19	ASK FOR	chiedere	Derived	1/3 > siV'.subj[1/3] > 2	3	askee	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	asker	daParteDi+NP	
+Italian	19	ASK FOR	chiedere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	requested thing	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	askee	a+NP	
+Italian	19	ASK FOR	chiedere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	asker	daParteDi+NP	
+Italian	19	ASK FOR	chiedere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	requested thing	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	askee	a+NP	
+Italian	19	ASK FOR	chiedere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	asker	da+NP	
+Italian	19	ASK FOR	chiedere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	requested thing	Ø	
+Italian	19	ASK FOR	chiedere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	askee	a+NP	
+Italian	19	ASK FOR	chiedere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	ask for causer	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	siV'.subj[2] > 2 (> a+3)	2	requested thing	V.subj	
+Italian	19	ASK FOR	chiedere	Derived	siV'.subj[2] > 2 (> a+3)	3	askee	a+NP	
+Italian	20	SHOUT AT	sgridare	Basic	1 > V.subj[1] > 2	1	shouter	V.subj	A
+Italian	20	SHOUT AT	sgridare	Basic	1 > V.subj[1] > 2	2	shoutee	Ø	P
+Italian	20	SHOUT AT	sgridare	Derived	1/2 > siV'.subj[1/2]	1	shouter	V.subj	
+Italian	20	SHOUT AT	sgridare	Derived	1/2 > siV'.subj[1/2]	2	shoutee	V.subj	
+Italian	20	SHOUT AT	sgridare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	shouter	daParteDi+NP	
+Italian	20	SHOUT AT	sgridare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	shoutee	V.subj	
+Italian	20	SHOUT AT	sgridare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	shouter	daParteDi+NP	
+Italian	20	SHOUT AT	sgridare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	shoutee	V.subj	
+Italian	20	SHOUT AT	sgridare	Derived	4 > causV'.subj[4] > 2 > a+1	1	shouter	a+NP	
+Italian	20	SHOUT AT	sgridare	Derived	4 > causV'.subj[4] > 2 > a+1	2	shoutee	Ø	
+Italian	20	SHOUT AT	sgridare	Derived	4 > causV'.subj[4] > 2 > a+1	4	shout causer	V.subj	
+Italian	20	SHOUT AT	sgridare	Derived	siPassV' (da+1)	1	shouter	da+NP	
+Italian	20	SHOUT AT	sgridare	Derived	siV'.subj[2] > 2	2	shoutee	V.subj	
+Italian	21	TELL	raccontare	Basic	1 > V.subj[1] > 2 (a+3)	1	teller	V.subj	A
+Italian	21	TELL	raccontare	Basic	1 > V.subj[1] > 2 (a+3)	2	told content	Ø	P
+Italian	21	TELL	raccontare	Basic	1 > V.subj[1] > 2 (a+3)	3	tellee	a+NP	X
+Italian	21	TELL	raccontare	Derived	1/3 > siV'.subj[1/3] > 2	1	teller	V.subj	
+Italian	21	TELL	raccontare	Derived	1/3 > siV'.subj[1/3] > 2	2	told content	Ø	
+Italian	21	TELL	raccontare	Derived	1/3 > siV'.subj[1/3] > 2	3	tellee	V.subj	
+Italian	21	TELL	raccontare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	teller	daParteDi+NP	
+Italian	21	TELL	raccontare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	told content	V.subj	
+Italian	21	TELL	raccontare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	tellee	a+NP	
+Italian	21	TELL	raccontare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	teller	daParteDi+NP	
+Italian	21	TELL	raccontare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	told content	V.subj	
+Italian	21	TELL	raccontare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	tellee	a+NP	
+Italian	21	TELL	raccontare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	teller	da+NP	
+Italian	21	TELL	raccontare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	told content	Ø	
+Italian	21	TELL	raccontare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	tellee	a+NP	
+Italian	21	TELL	raccontare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	tell causer	V.subj	
+Italian	21	TELL	raccontare	Derived	siV'.subj[2] > 2 (> a+3)	2	told content	V.subj	
+Italian	21	TELL	raccontare	Derived	siV'.subj[2] > 2 (> a+3)	3	tellee	a+NP	
+Italian	22	SAY	dire	Basic	1 > V.subj[1] > 2 (a+3)	1	sayer	V.subj	A
+Italian	22	SAY	dire	Basic	1 > V.subj[1] > 2 (a+3)	2	said content	Ø	P
+Italian	22	SAY	dire	Basic	1 > V.subj[1] > 2 (a+3)	3	saying addressee	a+NP	X
+Italian	22	SAY	dire	Derived	1 > V'.subj[1] > (a+3)	1	sayer	V.subj	
+Italian	22	SAY	dire	Derived	1 > V'.subj[1] > (a+3)	3	saying addressee	a+NP	
+Italian	22	SAY	dire	Derived	1/3 > siV'.subj[1/3] > 2	1	sayer	V.subj	
+Italian	22	SAY	dire	Derived	1/3 > siV'.subj[1/3] > 2	2	said content	Ø	
+Italian	22	SAY	dire	Derived	1/3 > siV'.subj[1/3] > 2	3	saying addressee	V.subj	
+Italian	22	SAY	dire	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	sayer	daParteDi+NP	
+Italian	22	SAY	dire	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	said content	V.subj	
+Italian	22	SAY	dire	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	saying addressee	a+NP	
+Italian	22	SAY	dire	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	sayer	daParteDi+NP	
+Italian	22	SAY	dire	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	said content	V.subj	
+Italian	22	SAY	dire	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	saying addressee	a+NP	
+Italian	22	SAY	dire	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	sayer	da+NP	
+Italian	22	SAY	dire	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	said content	Ø	
+Italian	22	SAY	dire	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	saying addressee	a+NP	
+Italian	22	SAY	dire	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	say causer	V.subj	
+Italian	22	SAY	dire	Derived	siV'.subj[2] > 2 (> a+3)	2	said content	V.subj	
+Italian	22	SAY	dire	Derived	siV'.subj[2] > 2 (> a+3)	3	saying addressee	a+NP	
+Italian	23	NAME	chiamare	Basic	1 > V.subj[1] > 2 > 3	1	namer	V.subj	A
+Italian	23	NAME	chiamare	Basic	1 > V.subj[1] > 2 > 3	2	namee	Ø	P
+Italian	23	NAME	chiamare	Basic	1 > V.subj[1] > 2 > 3	3	name	Ø	P
+Italian	23	NAME	chiamare	Derived	1/2 > siV'.subj[1/2] > 3	1	namer	V.subj	
+Italian	23	NAME	chiamare	Derived	1/2 > siV'.subj[1/2] > 3	2	namee	V.subj	
+Italian	23	NAME	chiamare	Derived	1/2 > siV'.subj[1/2] > 3	3	name	Ø	
+Italian	23	NAME	chiamare	Derived	2 > passV'.subj[2] > 3 (daParteDi+1)	1	namer	daParteDi+NP	
+Italian	23	NAME	chiamare	Derived	2 > passV'.subj[2] > 3 (daParteDi+1)	2	namee	V.subj	
+Italian	23	NAME	chiamare	Derived	2 > passV'.subj[2] > 3 (daParteDi+1)	3	name	Ø	
+Italian	23	NAME	chiamare	Derived	2 > siV'.subj[2] (> 3) (> daParteDi+1)	1	namer	daParteDi+NP	
+Italian	23	NAME	chiamare	Derived	2 > siV'.subj[2] (> 3) (> daParteDi+1)	2	namee	V.subj	
+Italian	23	NAME	chiamare	Derived	2 > siV'.subj[2] (> 3) (> daParteDi+1)	3	name	Ø	
+Italian	23	NAME	chiamare	Derived	4 > causV'.subj[4] > 2 > 3 a+1	1	namer	a+NP	
+Italian	23	NAME	chiamare	Derived	4 > causV'.subj[4] > 2 > 3 a+1	2	namee	Ø	
+Italian	23	NAME	chiamare	Derived	4 > causV'.subj[4] > 2 > 3 a+1	3	name	Ø	
+Italian	23	NAME	chiamare	Derived	4 > causV'.subj[4] > 2 > 3 a+1	4	name causer	V.subj	
+Italian	23	NAME	chiamare	Derived	siPassV' 3 (da+1)	1	namer	da+NP	
+Italian	23	NAME	chiamare	Derived	siPassV' 3 (da+1)	3	name	Ø	
+Italian	23	NAME	chiamare	Derived	siV'.subj[2] > 2 (> 3)	2	namee	V.subj	
+Italian	23	NAME	chiamare	Derived	siV'.subj[2] > 2 (> 3)	3	name	Ø	
+Italian	24	BUILD	costruire	Basic	1 > V.subj[1] > 2 (di+3)	1	builder	V.subj	A
+Italian	24	BUILD	costruire	Basic	1 > V.subj[1] > 2 (di+3)	2	built thing	Ø	P
+Italian	24	BUILD	costruire	Basic	1 > V.subj[1] > 2 (di+3)	3	building material	di+NP	X
+Italian	24	BUILD	costruire	Derived	1 > V'.subj[1] > (di+3)	1	builder	V.subj	
+Italian	24	BUILD	costruire	Derived	1 > V'.subj[1] > (di+3)	3	building material	di+NP	
+Italian	24	BUILD	costruire	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	1	builder	daParteDi+NP	
+Italian	24	BUILD	costruire	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	2	built thing	V.subj	
+Italian	24	BUILD	costruire	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	3	building material	di+NP	
+Italian	24	BUILD	costruire	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	1	builder	daParteDi+NP	
+Italian	24	BUILD	costruire	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	2	built thing	V.subj	
+Italian	24	BUILD	costruire	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	3	building material	di+NP	
+Italian	24	BUILD	costruire	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	1	builder	a+NP	
+Italian	24	BUILD	costruire	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	2	built thing	Ø	
+Italian	24	BUILD	costruire	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	3	building material	di+NP	
+Italian	24	BUILD	costruire	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	4	build causer	V.subj	
+Italian	24	BUILD	costruire	Derived	siV'.subj[2] > 2 (> di+3)	2	built thing	V.subj	
+Italian	24	BUILD	costruire	Derived	siV'.subj[2] > 2 (> di+3)	3	building material	di+NP	
+Italian	25	BREAK	rompere	Basic	1 > V.subj[1] > 2 (con+3)	1	breaker	V.subj	A
+Italian	25	BREAK	rompere	Basic	1 > V.subj[1] > 2 (con+3)	2	broken thing	Ø	P
+Italian	25	BREAK	rompere	Basic	1 > V.subj[1] > 2 (con+3)	3	breaking instrument	con+NP	I
+Italian	25	BREAK	rompere	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	1	breaker	V.subj	
+Italian	25	BREAK	rompere	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	2	broken thing	Ø	
+Italian	25	BREAK	rompere	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	3	breaking instrument	con+NP	
+Italian	25	BREAK	rompere	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	5	break maleficiary	V.subj	
+Italian	25	BREAK	rompere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	breaker	daParteDi+NP	
+Italian	25	BREAK	rompere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	broken thing	V.subj	
+Italian	25	BREAK	rompere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	breaking instrument	con+NP	
+Italian	25	BREAK	rompere	Derived	2 > siV'.subj[2] (> con+3)	2	broken thing	V.subj	
+Italian	25	BREAK	rompere	Derived	2 > siV'.subj[2] (> con+3)	3	breaking instrument	con+NP	
+Italian	25	BREAK	rompere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	breaker	daParteDi+NP	
+Italian	25	BREAK	rompere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	broken thing	V.subj	
+Italian	25	BREAK	rompere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	breaking instrument	con+NP	
+Italian	25	BREAK	rompere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	breaker	a+NP	
+Italian	25	BREAK	rompere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	broken thing	Ø	
+Italian	25	BREAK	rompere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	breaking instrument	con+NP	
+Italian	25	BREAK	rompere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	break causer	V.subj	
+Italian	25	BREAK	rompere	Derived	siV'.subj[2] > 2 (> con+3)	2	broken thing	V.subj	
+Italian	25	BREAK	rompere	Derived	siV'.subj[2] > 2 (> con+3)	3	breaking instrument	con+NP	
+Italian	26	KILL	uccidere	Basic	1 > V.subj[1] > 2 (con+3)	1	killer	V.subj	A
+Italian	26	KILL	uccidere	Basic	1 > V.subj[1] > 2 (con+3)	2	killee	Ø	P
+Italian	26	KILL	uccidere	Basic	1 > V.subj[1] > 2 (con+3)	3	killing instrument	con+NP	I
+Italian	26	KILL	uccidere	Derived	1 > V'.subj[1] > (con+3)	1	killer	V.subj	
+Italian	26	KILL	uccidere	Derived	1 > V'.subj[1] > (con+3)	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	killer	V.subj	
+Italian	26	KILL	uccidere	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	killee	V.subj	
+Italian	26	KILL	uccidere	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	killer	daParteDi+NP	
+Italian	26	KILL	uccidere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	killee	V.subj	
+Italian	26	KILL	uccidere	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	killer	daParteDi+NP	
+Italian	26	KILL	uccidere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	killee	V.subj	
+Italian	26	KILL	uccidere	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	killer	a+NP	
+Italian	26	KILL	uccidere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	killee	Ø	
+Italian	26	KILL	uccidere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	kill causer	V.subj	
+Italian	26	KILL	uccidere	Derived	siPassV' (con+3) (da+1)	1	killer	da+NP	
+Italian	26	KILL	uccidere	Derived	siPassV' (con+3) (da+1)	3	killing instrument	con+NP	
+Italian	26	KILL	uccidere	Derived	siV'.subj[2] > 2 (> con+3)	2	killee	V.subj	
+Italian	26	KILL	uccidere	Derived	siV'.subj[2] > 2 (> con+3)	3	killing instrument	con+NP	
+Italian	27	BEAT	colpire	Basic	1 > V.subj[1] > 2 (con+3)	1	beater	V.subj	A
+Italian	27	BEAT	colpire	Basic	1 > V.subj[1] > 2 (con+3)	2	beatee	Ø	P
+Italian	27	BEAT	colpire	Basic	1 > V.subj[1] > 2 (con+3)	3	beating instrument	con+NP	I
+Italian	27	BEAT	colpire	Derived	1 > V'.subj[1] > (con+3)	1	beater	V.subj	
+Italian	27	BEAT	colpire	Derived	1 > V'.subj[1] > (con+3)	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	beater	V.subj	
+Italian	27	BEAT	colpire	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	beatee	V.subj	
+Italian	27	BEAT	colpire	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	beater	daParteDi+NP	
+Italian	27	BEAT	colpire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	beatee	V.subj	
+Italian	27	BEAT	colpire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	beater	daParteDi+NP	
+Italian	27	BEAT	colpire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	beatee	V.subj	
+Italian	27	BEAT	colpire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	beater	a+NP	
+Italian	27	BEAT	colpire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	beatee	Ø	
+Italian	27	BEAT	colpire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	beat causer	V.subj	
+Italian	27	BEAT	colpire	Derived	siPassV' (con+3) (da+1)	1	beater	da+NP	
+Italian	27	BEAT	colpire	Derived	siPassV' (con+3) (da+1)	3	beating instrument	con+NP	
+Italian	27	BEAT	colpire	Derived	siV'.subj[2] > 2 (> con+3)	2	beatee	V.subj	
+Italian	27	BEAT	colpire	Derived	siV'.subj[2] > 2 (> con+3)	3	beating instrument	con+NP	
+Italian	28	HIT	urtare	Basic	1 > V.subj[1] > 2 (con+3)	1	hitter	V.subj	A
+Italian	28	HIT	urtare	Basic	1 > V.subj[1] > 2 (con+3)	2	hittee	Ø	P
+Italian	28	HIT	urtare	Basic	1 > V.subj[1] > 2 (con+3)	3	hitting instrument	con+NP	I
+Italian	28	HIT	urtare	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	hitter	V.subj	
+Italian	28	HIT	urtare	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	hittee	V.subj	
+Italian	28	HIT	urtare	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	hitting instrument	con+NP	
+Italian	28	HIT	urtare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	hitter	daParteDi+NP	
+Italian	28	HIT	urtare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	hittee	V.subj	
+Italian	28	HIT	urtare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	hitting instrument	con+NP	
+Italian	28	HIT	urtare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	hitter	daParteDi+NP	
+Italian	28	HIT	urtare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	hittee	V.subj	
+Italian	28	HIT	urtare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	hitting instrument	con+NP	
+Italian	28	HIT	urtare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	hitter	a+NP	
+Italian	28	HIT	urtare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	hittee	Ø	
+Italian	28	HIT	urtare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	hitting instrument	con+NP	
+Italian	28	HIT	urtare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	hit causer	V.subj	
+Italian	28	HIT	urtare	Derived	siPassV' (con+3) (da+1)	1	hitter	da+NP	
+Italian	28	HIT	urtare	Derived	siPassV' (con+3) (da+1)	3	hitting instrument	con+NP	
+Italian	28	HIT	urtare	Derived	siV'.subj[2] > 2 (> con+3)	2	hittee	V.subj	
+Italian	28	HIT	urtare	Derived	siV'.subj[2] > 2 (> con+3)	3	hitting instrument	con+NP	
+Italian	29	TOUCH	toccare	Basic	1 > V.subj[1] > 2 (con+3)	1	toucher	V.subj	A
+Italian	29	TOUCH	toccare	Basic	1 > V.subj[1] > 2 (con+3)	2	touchee	Ø	P
+Italian	29	TOUCH	toccare	Basic	1 > V.subj[1] > 2 (con+3)	3	touching instrument	con+NP	I
+Italian	29	TOUCH	toccare	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	toucher	V.subj	
+Italian	29	TOUCH	toccare	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	touchee	V.subj	
+Italian	29	TOUCH	toccare	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	touching instrument	con+NP	
+Italian	29	TOUCH	toccare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	toucher	daParteDi+NP	
+Italian	29	TOUCH	toccare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	touchee	V.subj	
+Italian	29	TOUCH	toccare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	touching instrument	con+NP	
+Italian	29	TOUCH	toccare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	toucher	a+NP	
+Italian	29	TOUCH	toccare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	touchee	Ø	
+Italian	29	TOUCH	toccare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	touching instrument	con+NP	
+Italian	29	TOUCH	toccare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	touch causer	V.subj	
+Italian	29	TOUCH	toccare	Derived	siPassV' (con+3) (da+1)	1	toucher	da+NP	
+Italian	29	TOUCH	toccare	Derived	siPassV' (con+3) (da+1)	3	touching instrument	con+NP	
+Italian	29	TOUCH	toccare	Derived	siV'.subj[2] > 2 (> con+3)	2	touchee	V.subj	
+Italian	29	TOUCH	toccare	Derived	siV'.subj[2] > 2 (> con+3)	3	touching instrument	con+NP	
+Italian	30	CUT	tagliare	Basic	1 > V.subj[1] > 2 (con+3)	1	cutter	V.subj	A
+Italian	30	CUT	tagliare	Basic	1 > V.subj[1] > 2 (con+3)	2	cut thing	Ø	P
+Italian	30	CUT	tagliare	Basic	1 > V.subj[1] > 2 (con+3)	3	cutting instrument	con+NP	I
+Italian	30	CUT	tagliare	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	cutter	V.subj	
+Italian	30	CUT	tagliare	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	cut thing	V.subj	
+Italian	30	CUT	tagliare	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	1	cutter	V.subj	
+Italian	30	CUT	tagliare	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	2	cut thing	Ø	
+Italian	30	CUT	tagliare	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	5	cut beneficiary	V.subj	
+Italian	30	CUT	tagliare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	cutter	daParteDi+NP	
+Italian	30	CUT	tagliare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	cut thing	V.subj	
+Italian	30	CUT	tagliare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	2 > siV'.subj[2] (> con+3)	2	cut thing	V.subj	
+Italian	30	CUT	tagliare	Derived	2 > siV'.subj[2] (> con+3)	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	cutter	daParteDi+NP	
+Italian	30	CUT	tagliare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	cut thing	V.subj	
+Italian	30	CUT	tagliare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	cutter	a+NP	
+Italian	30	CUT	tagliare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	cut thing	Ø	
+Italian	30	CUT	tagliare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	cutting instrument	con+NP	
+Italian	30	CUT	tagliare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	cutting causer	V.subj	
+Italian	30	CUT	tagliare	Derived	siV'.subj[2] > 2 (> con+3)	2	cut thing	V.subj	
+Italian	30	CUT	tagliare	Derived	siV'.subj[2] > 2 (> con+3)	3	cutting instrument	con+NP	
+Italian	31	TAKE	prendere	Basic	1 > V.subj[1] > 2 (da+3)	1	taker	V.subj	A
+Italian	31	TAKE	prendere	Basic	1 > V.subj[1] > 2 (da+3)	2	taken thing	Ø	P
+Italian	31	TAKE	prendere	Basic	1 > V.subj[1] > 2 (da+3)	3	taking source	da+NP	X
+Italian	31	TAKE	prendere	Derived	1/2 > siV'.subj[1/2] (> da+3)	1	taker	V.subj	
+Italian	31	TAKE	prendere	Derived	1/2 > siV'.subj[1/2] (> da+3)	2	taken thing	V.subj	
+Italian	31	TAKE	prendere	Derived	1/2 > siV'.subj[1/2] (> da+3)	3	taking source	da+NP	
+Italian	31	TAKE	prendere	Derived	1/3 > siV'.subj[1/3] > 2	1	taker	V.subj	
+Italian	31	TAKE	prendere	Derived	1/3 > siV'.subj[1/3] > 2	2	taken thing	Ø	
+Italian	31	TAKE	prendere	Derived	1/3 > siV'.subj[1/3] > 2	3	taking source	V.subj	
+Italian	31	TAKE	prendere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	1	taker	daParteDi+NP	
+Italian	31	TAKE	prendere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	2	taken thing	V.subj	
+Italian	31	TAKE	prendere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	3	taking source	da+NP	
+Italian	31	TAKE	prendere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	1	taker	daParteDi+NP	
+Italian	31	TAKE	prendere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	2	taken thing	V.subj	
+Italian	31	TAKE	prendere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	3	taking source	da+NP	
+Italian	31	TAKE	prendere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	1	taker	a+NP	
+Italian	31	TAKE	prendere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	2	taken thing	Ø	
+Italian	31	TAKE	prendere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	3	taking source	da+NP	
+Italian	31	TAKE	prendere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	4	take causer	V.subj	
+Italian	31	TAKE	prendere	Derived	siV'.subj[2] > 2 (> da+3)	2	taken thing	V.subj	
+Italian	31	TAKE	prendere	Derived	siV'.subj[2] > 2 (> da+3)	3	taking source	da+NP	
+Italian	32	TEAR	strappare	Basic	1 > V.subj[1] > 2 (da+3)	1	tearer	V.subj	A
+Italian	32	TEAR	strappare	Basic	1 > V.subj[1] > 2 (da+3)	2	torn thing	Ø	P
+Italian	32	TEAR	strappare	Basic	1 > V.subj[1] > 2 (da+3)	3	tearing source	da+NP	X
+Italian	32	TEAR	strappare	Derived	1/3 > siV'.subj[1/3] > 2	1	tearer	V.subj	
+Italian	32	TEAR	strappare	Derived	1/3 > siV'.subj[1/3] > 2	2	torn thing	Ø	
+Italian	32	TEAR	strappare	Derived	1/3 > siV'.subj[1/3] > 2	3	tearing source	V.subj	
+Italian	32	TEAR	strappare	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	1	tearer	daParteDi+NP	
+Italian	32	TEAR	strappare	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	2	torn thing	V.subj	
+Italian	32	TEAR	strappare	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	3	tearing source	da+NP	
+Italian	32	TEAR	strappare	Derived	2 > siV'.subj[2] (> da+3)	2	torn thing	V.subj	
+Italian	32	TEAR	strappare	Derived	2 > siV'.subj[2] (> da+3)	3	tearing source	da+NP	
+Italian	32	TEAR	strappare	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	1	tearer	daParteDi+NP	
+Italian	32	TEAR	strappare	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	2	torn thing	V.subj	
+Italian	32	TEAR	strappare	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	3	tearing source	da+NP	
+Italian	32	TEAR	strappare	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	1	tearer	a+NP	
+Italian	32	TEAR	strappare	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	2	torn thing	Ø	
+Italian	32	TEAR	strappare	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	3	tearing source	da+NP	
+Italian	32	TEAR	strappare	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	4	tear causer	V.subj	
+Italian	32	TEAR	strappare	Derived	siV'.subj[2] > 2 (> da+3)	2	torn thing	V.subj	
+Italian	32	TEAR	strappare	Derived	siV'.subj[2] > 2 (> da+3)	3	tearing source	da+NP	
+Italian	33	PEEL	sbucciare	Basic	1 > V.subj[1] > 2	1	peeler	V.subj	A
+Italian	33	PEEL	sbucciare	Basic	1 > V.subj[1] > 2	2	peeled object	Ø	P
+Italian	33	PEEL	sbucciare	Derived	1/5 > siV'.subj[1/5] > 2	1	peeler	V.subj	
+Italian	33	PEEL	sbucciare	Derived	1/5 > siV'.subj[1/5] > 2	2	peeled object	Ø	
+Italian	33	PEEL	sbucciare	Derived	1/5 > siV'.subj[1/5] > 2	5	peel beneficiary	V.subj	
+Italian	33	PEEL	sbucciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	peeler	daParteDi+NP	
+Italian	33	PEEL	sbucciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	peeled object	V.subj	
+Italian	33	PEEL	sbucciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	peeler	daParteDi+NP	
+Italian	33	PEEL	sbucciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	peeled object	V.subj	
+Italian	33	PEEL	sbucciare	Derived	4 > causV'.subj[4] > 2 > a+1	1	peeler	a+NP	
+Italian	33	PEEL	sbucciare	Derived	4 > causV'.subj[4] > 2 > a+1	2	peeled object	Ø	
+Italian	33	PEEL	sbucciare	Derived	4 > causV'.subj[4] > 2 > a+1	4	peel causer	V.subj	
+Italian	33	PEEL	sbucciare	Derived	siV'.subj[2] > 2	2	peeled object	V.subj	
+Italian	34	HIDE	nascondere	Basic	1 > V.subj[1] > 2 (a+3)	1	hider	V.subj	A
+Italian	34	HIDE	nascondere	Basic	1 > V.subj[1] > 2 (a+3)	2	hidden thing	Ø	P
+Italian	34	HIDE	nascondere	Basic	1 > V.subj[1] > 2 (a+3)	3	hiding affectee	a+NP	X
+Italian	34	HIDE	nascondere	Derived	1/2 > siV'.subj[1/2] (> a+3)	1	hider	V.subj	
+Italian	34	HIDE	nascondere	Derived	1/2 > siV'.subj[1/2] (> a+3)	2	hidden thing	V.subj	
+Italian	34	HIDE	nascondere	Derived	1/2 > siV'.subj[1/2] (> a+3)	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	1/3 > siV'.subj[1/3] > 2	1	hider	V.subj	
+Italian	34	HIDE	nascondere	Derived	1/3 > siV'.subj[1/3] > 2	2	hidden thing	Ø	
+Italian	34	HIDE	nascondere	Derived	1/3 > siV'.subj[1/3] > 2	3	hiding affectee	V.subj	
+Italian	34	HIDE	nascondere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	hider	daParteDi+NP	
+Italian	34	HIDE	nascondere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	hidden thing	V.subj	
+Italian	34	HIDE	nascondere	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	2 > siV'.subj[2] (> a+3)	2	hidden thing	V.subj	
+Italian	34	HIDE	nascondere	Derived	2 > siV'.subj[2] (> a+3)	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	hider	daParteDi+NP	
+Italian	34	HIDE	nascondere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	hidden thing	V.subj	
+Italian	34	HIDE	nascondere	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	hider	da+NP	
+Italian	34	HIDE	nascondere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	hidden thing	Ø	
+Italian	34	HIDE	nascondere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	hide causer	V.subj	
+Italian	34	HIDE	nascondere	Derived	siPassV' (a+3) (da+1)	1	hider	da+NP	
+Italian	34	HIDE	nascondere	Derived	siPassV' (a+3) (da+1)	3	hiding affectee	a+NP	
+Italian	34	HIDE	nascondere	Derived	siV'.subj[2] > 2 (> a+3)	2	hidden thing	V.subj	
+Italian	34	HIDE	nascondere	Derived	siV'.subj[2] > 2 (> a+3)	3	hiding affectee	a+NP	
+Italian	35	SHOW	mostrare	Basic	1 > V.subj[1] > 2 (a+3)	1	shower	V.subj	A
+Italian	35	SHOW	mostrare	Basic	1 > V.subj[1] > 2 (a+3)	2	shown thing	Ø	P
+Italian	35	SHOW	mostrare	Basic	1 > V.subj[1] > 2 (a+3)	3	showing addressee	a+NP	X
+Italian	35	SHOW	mostrare	Derived	1/3 > siV'.subj[1/3] > 2	1	shower	V.subj	
+Italian	35	SHOW	mostrare	Derived	1/3 > siV'.subj[1/3] > 2	2	shown thing	Ø	
+Italian	35	SHOW	mostrare	Derived	1/3 > siV'.subj[1/3] > 2	3	showing addressee	V.subj	
+Italian	35	SHOW	mostrare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	shower	daParteDi+NP	
+Italian	35	SHOW	mostrare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	shown thing	V.subj	
+Italian	35	SHOW	mostrare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	showing addressee	a+NP	
+Italian	35	SHOW	mostrare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	shower	daParteDi+NP	
+Italian	35	SHOW	mostrare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	shown thing	V.subj	
+Italian	35	SHOW	mostrare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	showing addressee	a+NP	
+Italian	35	SHOW	mostrare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	shower	da+NP	
+Italian	35	SHOW	mostrare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	shown thing	Ø	
+Italian	35	SHOW	mostrare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	showing addressee	a+NP	
+Italian	35	SHOW	mostrare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	show causer	V.subj	
+Italian	35	SHOW	mostrare	Derived	siPassV' (a+3) (da+1)	1	shower	da+NP	
+Italian	35	SHOW	mostrare	Derived	siPassV' (a+3) (da+1)	3	showing addressee	a+NP	
+Italian	35	SHOW	mostrare	Derived	siV'.subj[2] > 2 (> a+3)	2	shown thing	V.subj	
+Italian	35	SHOW	mostrare	Derived	siV'.subj[2] > 2 (> a+3)	3	showing addressee	a+NP	
+Italian	36	GIVE	dare	Basic	1 > V.subj[1] > 2 (a+3)	1	giver	V.subj	A
+Italian	36	GIVE	dare	Basic	1 > V.subj[1] > 2 (a+3)	2	gift	Ø	P
+Italian	36	GIVE	dare	Basic	1 > V.subj[1] > 2 (a+3)	3	giving recipient	a+NP	X
+Italian	36	GIVE	dare	Derived	1/3 > siV'.subj[1/3] > 2	1	giver	V.subj	
+Italian	36	GIVE	dare	Derived	1/3 > siV'.subj[1/3] > 2	2	gift	Ø	
+Italian	36	GIVE	dare	Derived	1/3 > siV'.subj[1/3] > 2	3	giving recipient	V.subj	
+Italian	36	GIVE	dare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	giver	daParteDi+NP	
+Italian	36	GIVE	dare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	gift	V.subj	
+Italian	36	GIVE	dare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	giving recipient	a+NP	
+Italian	36	GIVE	dare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	giver	daParteDi+NP	
+Italian	36	GIVE	dare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	gift	V.subj	
+Italian	36	GIVE	dare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	giving recipient	a+NP	
+Italian	36	GIVE	dare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	giver	da+NP	
+Italian	36	GIVE	dare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	gift	Ø	
+Italian	36	GIVE	dare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	giving recipient	a+NP	
+Italian	36	GIVE	dare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	give causer	V.subj	
+Italian	36	GIVE	dare	Derived	siV'.subj[2] > 2 (> a+3)	2	gift	V.subj	
+Italian	36	GIVE	dare	Derived	siV'.subj[2] > 2 (> a+3)	3	giving recipient	a+NP	
+Italian	37	SEND	inviare	Basic	1 > V.subj[1] > 2 (a+3)	1	sender	V.subj	A
+Italian	37	SEND	inviare	Basic	1 > V.subj[1] > 2 (a+3)	2	sent thing	Ø	P
+Italian	37	SEND	inviare	Basic	1 > V.subj[1] > 2 (a+3)	3	sending recipient	a+NP	X
+Italian	37	SEND	inviare	Derived	1/3 > siV'.subj[1/3] > 2	1	sender	V.subj	
+Italian	37	SEND	inviare	Derived	1/3 > siV'.subj[1/3] > 2	2	sent thing	Ø	
+Italian	37	SEND	inviare	Derived	1/3 > siV'.subj[1/3] > 2	3	sending recipient	V.subj	
+Italian	37	SEND	inviare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	sender	daParteDi+NP	
+Italian	37	SEND	inviare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	sent thing	V.subj	
+Italian	37	SEND	inviare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	sending recipient	a+NP	
+Italian	37	SEND	inviare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	sender	daParteDi+NP	
+Italian	37	SEND	inviare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	sent thing	V.subj	
+Italian	37	SEND	inviare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	sending recipient	a+NP	
+Italian	37	SEND	inviare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	sender	da+NP	
+Italian	37	SEND	inviare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	sent thing	Ø	
+Italian	37	SEND	inviare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	sending recipient	a+NP	
+Italian	37	SEND	inviare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	send causer	V.subj	
+Italian	37	SEND	inviare	Derived	siPassV' (a+3) (da+1)	1	sender	da+NP	
+Italian	37	SEND	inviare	Derived	siPassV' (a+3) (da+1)	3	sending recipient	a+NP	
+Italian	37	SEND	inviare	Derived	siV'.subj[2] > 2 (> a+3)	2	sent thing	V.subj	
+Italian	37	SEND	inviare	Derived	siV'.subj[2] > 2 (> a+3)	3	sending recipient	a+NP	
+Italian	38	CARRY	trasportare	Basic	1 > V.subj[1] > 2 (> LOC3)	1	carrier	V.subj	A
+Italian	38	CARRY	trasportare	Basic	1 > V.subj[1] > 2 (> LOC3)	2	carried thing	Ø	P
+Italian	38	CARRY	trasportare	Basic	1 > V.subj[1] > 2 (> LOC3)	3	carrying goal	LOC	L
+Italian	38	CARRY	trasportare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	1	carrier	V.subj	
+Italian	38	CARRY	trasportare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	2	carried thing	V.subj	
+Italian	38	CARRY	trasportare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	1	carrier	V.subj	
+Italian	38	CARRY	trasportare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	2	carried thing	Ø	
+Italian	38	CARRY	trasportare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	5	carry beneficiary	V.subj	
+Italian	38	CARRY	trasportare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	1	carrier	daParteDi+NP	
+Italian	38	CARRY	trasportare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	2	carried thing	V.subj	
+Italian	38	CARRY	trasportare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	1	carrier	daParteDi+NP	
+Italian	38	CARRY	trasportare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	2	carried thing	V.subj	
+Italian	38	CARRY	trasportare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	1	carrier	a+NP	
+Italian	38	CARRY	trasportare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	2	carried thing	Ø	
+Italian	38	CARRY	trasportare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	4	carry causer	V.subj	
+Italian	38	CARRY	trasportare	Derived	siPassV' (LOC3) (da+1)	1	carrier	da+NP	
+Italian	38	CARRY	trasportare	Derived	siPassV' (LOC3) (da+1)	3	carrying goal	LOC	
+Italian	38	CARRY	trasportare	Derived	siV'.subj[2] > 2 (> LOC3)	2	carried thing	V.subj	
+Italian	38	CARRY	trasportare	Derived	siV'.subj[2] > 2 (> LOC3)	3	carrying goal	LOC	
+Italian	39	THROW	lanciare	Basic	1 > V.subj[1] > 2 (> LOC3)	1	thrower	V.subj	A
+Italian	39	THROW	lanciare	Basic	1 > V.subj[1] > 2 (> LOC3)	2	thrown thing	Ø	P
+Italian	39	THROW	lanciare	Basic	1 > V.subj[1] > 2 (> LOC3)	3	throwing goal	LOC	L
+Italian	39	THROW	lanciare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	1	thrower	V.subj	
+Italian	39	THROW	lanciare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	2	thrown thing	V.subj	
+Italian	39	THROW	lanciare	Derived	1/2 > siV'.subj[1/2] (> LOC3)	3	throwing goal	LOC	
+Italian	39	THROW	lanciare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	1	thrower	V.subj	
+Italian	39	THROW	lanciare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	2	thrown thing	Ø	
+Italian	39	THROW	lanciare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	3	throwing goal	LOC	
+Italian	39	THROW	lanciare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	5	throw beneficiary	V.subj	
+Italian	39	THROW	lanciare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	1	thrower	daParteDi+NP	
+Italian	39	THROW	lanciare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	2	thrown thing	V.subj	
+Italian	39	THROW	lanciare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	3	throwing goal	LOC	
+Italian	39	THROW	lanciare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	1	thrower	daParteDi+NP	
+Italian	39	THROW	lanciare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	2	thrown thing	V.subj	
+Italian	39	THROW	lanciare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	3	throwing goal	LOC	
+Italian	39	THROW	lanciare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	1	thrower	a+NP	
+Italian	39	THROW	lanciare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	2	thrown thing	Ø	
+Italian	39	THROW	lanciare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	3	throwing goal	LOC	
+Italian	39	THROW	lanciare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	4	throw causer	V.subj	
+Italian	39	THROW	lanciare	Derived	siV'.subj[2] > 2 (> LOC3)	2	thrown thing	V.subj	
+Italian	39	THROW	lanciare	Derived	siV'.subj[2] > 2 (> LOC3)	3	throwing goal	LOC	
+Italian	40	TIE	legare	Basic	1 > V.subj[1] > 2 (a+3) (con+4)	1	tier	V.subj	A
+Italian	40	TIE	legare	Basic	1 > V.subj[1] > 2 (a+3) (con+4)	2	tied thing	Ø	P
+Italian	40	TIE	legare	Basic	1 > V.subj[1] > 2 (a+3) (con+4)	3	tying goal	a+NP	X
+Italian	40	TIE	legare	Basic	1 > V.subj[1] > 2 (a+3) (con+4)	4	tying instrument	con+NP	I
+Italian	40	TIE	legare	Derived	1/2 > siV'.subj[1/2] (> a+3) (> con+4)	1	tier	V.subj	
+Italian	40	TIE	legare	Derived	1/2 > siV'.subj[1/2] (> a+3) (> con+4)	2	tied thing	V.subj	
+Italian	40	TIE	legare	Derived	1/2 > siV'.subj[1/2] (> a+3) (> con+4)	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	1/2 > siV'.subj[1/2] (> a+3) (> con+4)	4	tying instrument	con+NP	
+Italian	40	TIE	legare	Derived	2 > passV'.subj[2] (a+3) (con+4) (daParteDi+1)	1	tier	daParteDi+NP	
+Italian	40	TIE	legare	Derived	2 > passV'.subj[2] (a+3) (con+4) (daParteDi+1)	2	tied thing	V.subj	
+Italian	40	TIE	legare	Derived	2 > passV'.subj[2] (a+3) (con+4) (daParteDi+1)	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	2 > passV'.subj[2] (a+3) (con+4) (daParteDi+1)	4	tying instrument	con+NP	
+Italian	40	TIE	legare	Derived	2 > siV'.subj[2] (a+3) (con+4) (> daParteDi+1)	1	tier	daParteDi+NP	
+Italian	40	TIE	legare	Derived	2 > siV'.subj[2] (a+3) (con+4) (> daParteDi+1)	2	tied thing	V.subj	
+Italian	40	TIE	legare	Derived	2 > siV'.subj[2] (a+3) (con+4) (> daParteDi+1)	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	2 > siV'.subj[2] (a+3) (con+4) (> daParteDi+1)	4	tying instrument	con+NP	
+Italian	40	TIE	legare	Derived	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1	1	tier	da+NP	
+Italian	40	TIE	legare	Derived	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1	2	tied thing	Ø	
+Italian	40	TIE	legare	Derived	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1	4	tying instrument	con+NP	
+Italian	40	TIE	legare	Derived	5 > causV'.subj[5] > 2 (a+3) (con+4) da+1	5	tie causer	V.subj	
+Italian	40	TIE	legare	Derived	siPassV' (a+3) (con+4) (da+1)	1	tier	da+NP	
+Italian	40	TIE	legare	Derived	siPassV' (a+3) (con+4) (da+1)	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	siPassV' (a+3) (con+4) (da+1)	4	tying instrument	con+NP	
+Italian	40	TIE	legare	Derived	siV'.subj[2] > 2 (> a+3) (> con+4)	2	tied thing	V.subj	
+Italian	40	TIE	legare	Derived	siV'.subj[2] > 2 (> a+3) (> con+4)	3	tying goal	a+NP	
+Italian	40	TIE	legare	Derived	siV'.subj[2] > 2 (> a+3) (> con+4)	4	tying instrument	con+NP	
+Italian	41	PUT	mettere	Basic	1 > V.subj[1] > 2 (> LOC3)	1	putter	V.subj	A
+Italian	41	PUT	mettere	Basic	1 > V.subj[1] > 2 (> LOC3)	2	put thing	Ø	P
+Italian	41	PUT	mettere	Basic	1 > V.subj[1] > 2 (> LOC3)	3	putting goal	LOC	L
+Italian	41	PUT	mettere	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	1	putter	V.subj	
+Italian	41	PUT	mettere	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	2	put thing	Ø	
+Italian	41	PUT	mettere	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	3	putting goal	LOC	
+Italian	41	PUT	mettere	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	5	put beneficiary	V.subj	
+Italian	41	PUT	mettere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	1	putter	daParteDi+NP	
+Italian	41	PUT	mettere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	2	put thing	V.subj	
+Italian	41	PUT	mettere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	3	putting goal	LOC	
+Italian	41	PUT	mettere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	1	putter	daParteDi+NP	
+Italian	41	PUT	mettere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	2	put thing	V.subj	
+Italian	41	PUT	mettere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	3	putting goal	LOC	
+Italian	41	PUT	mettere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	1	putter	a+NP	
+Italian	41	PUT	mettere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	2	put thing	Ø	
+Italian	41	PUT	mettere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	3	putting goal	LOC	
+Italian	41	PUT	mettere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	4	put causer	V.subj	
+Italian	41	PUT	mettere	Derived	siPassV' (LOC3) (da+1)	1	putter	da+NP	
+Italian	41	PUT	mettere	Derived	siPassV' (LOC3) (da+1)	3	putting goal	LOC	
+Italian	41	PUT	mettere	Derived	siV'.subj[2] > 2 (> LOC3)	2	put thing	V.subj	
+Italian	41	PUT	mettere	Derived	siV'.subj[2] > 2 (> LOC3)	3	putting goal	LOC	
+Italian	42	POUR	versare	Basic	1 > V.subj[1] > 2 (> LOC3)	1	pourer	V.subj	A
+Italian	42	POUR	versare	Basic	1 > V.subj[1] > 2 (> LOC3)	2	poured substance	Ø	P
+Italian	42	POUR	versare	Basic	1 > V.subj[1] > 2 (> LOC3)	3	pouring goal	LOC	L
+Italian	42	POUR	versare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	1	pourer	V.subj	
+Italian	42	POUR	versare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	2	poured substance	Ø	
+Italian	42	POUR	versare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	3	pouring goal	LOC	
+Italian	42	POUR	versare	Derived	1/5 > siV'.subj[1/5] > 2 (>LOC3)	5	pour beneficiary	V.subj	
+Italian	42	POUR	versare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	1	pourer	daParteDi+NP	
+Italian	42	POUR	versare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	2	poured substance	V.subj	
+Italian	42	POUR	versare	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	3	pouring goal	LOC	
+Italian	42	POUR	versare	Derived	2 > siV'.subj[2] (> LOC3)	2	poured substance	V.subj	
+Italian	42	POUR	versare	Derived	2 > siV'.subj[2] (> LOC3)	3	pouring goal	LOC	
+Italian	42	POUR	versare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	1	pourer	daParteDi+NP	
+Italian	42	POUR	versare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	2	poured substance	V.subj	
+Italian	42	POUR	versare	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	3	pouring goal	LOC	
+Italian	42	POUR	versare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	1	pourer	a+NP	
+Italian	42	POUR	versare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	2	poured substance	Ø	
+Italian	42	POUR	versare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	3	pouring goal	LOC	
+Italian	42	POUR	versare	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	4	pour causer	V.subj	
+Italian	42	POUR	versare	Derived	siV'.subj[2] > 2 (> LOC3)	2	poured substance	V.subj	
+Italian	42	POUR	versare	Derived	siV'.subj[2] > 2 (> LOC3)	3	pouring goal	LOC	
+Italian	43	COVER	coprire	Basic	1 > V.subj[1] > 2 (con+3)	1	coverer	V.subj	A
+Italian	43	COVER	coprire	Basic	1 > V.subj[1] > 2 (con+3)	2	covered thing	Ø	P
+Italian	43	COVER	coprire	Basic	1 > V.subj[1] > 2 (con+3)	3	cover	con+NP	I
+Italian	43	COVER	coprire	Derived	1/2 > siV'.subj[1/2] (> con+3)	1	coverer	V.subj	
+Italian	43	COVER	coprire	Derived	1/2 > siV'.subj[1/2] (> con+3)	2	covered thing	V.subj	
+Italian	43	COVER	coprire	Derived	1/2 > siV'.subj[1/2] (> con+3)	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	coverer	daParteDi+NP	
+Italian	43	COVER	coprire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	covered thing	V.subj	
+Italian	43	COVER	coprire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	2 > siV'.subj[2] (> con+3)	2	covered thing	V.subj	
+Italian	43	COVER	coprire	Derived	2 > siV'.subj[2] (> con+3)	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	coverer	daParteDi+NP	
+Italian	43	COVER	coprire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	covered thing	V.subj	
+Italian	43	COVER	coprire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	coverer	a+NP	
+Italian	43	COVER	coprire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	covered thing	Ø	
+Italian	43	COVER	coprire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	cover causer	V.subj	
+Italian	43	COVER	coprire	Derived	siPassV' (con+3) (da+1)	1	coverer	da+NP	
+Italian	43	COVER	coprire	Derived	siPassV' (con+3) (da+1)	3	cover	con+NP	
+Italian	43	COVER	coprire	Derived	siV'.subj[2] > 2 (> con+3)	2	covered thing	V.subj	
+Italian	43	COVER	coprire	Derived	siV'.subj[2] > 2 (> con+3)	3	cover	con+NP	
+Italian	44	FILL	riempire	Basic	1 > V.subj[1] > 2 (con+3)	1	filler	V.subj	A
+Italian	44	FILL	riempire	Basic	1 > V.subj[1] > 2 (con+3)	2	filled container	Ø	P
+Italian	44	FILL	riempire	Basic	1 > V.subj[1] > 2 (con+3)	3	filling material	con+NP	I
+Italian	44	FILL	riempire	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	1	filler	V.subj	
+Italian	44	FILL	riempire	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	2	filled container	Ø	
+Italian	44	FILL	riempire	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	1/5 > siV'.subj[1/5] > 2 (>con+3)	5	fill beneficiary	V.subj	
+Italian	44	FILL	riempire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	filler	daParteDi+NP	
+Italian	44	FILL	riempire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	filled container	V.subj	
+Italian	44	FILL	riempire	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	2 > siV'.subj[2] (> con+3)	2	filled container	V.subj	
+Italian	44	FILL	riempire	Derived	2 > siV'.subj[2] (> con+3)	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	filler	daParteDi+NP	
+Italian	44	FILL	riempire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	filled container	V.subj	
+Italian	44	FILL	riempire	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	filler	a+NP	
+Italian	44	FILL	riempire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	filled container	Ø	
+Italian	44	FILL	riempire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	fill causer	V.subj	
+Italian	44	FILL	riempire	Derived	siPassV' (con+3) (da+1)	1	filler	da+NP	
+Italian	44	FILL	riempire	Derived	siPassV' (con+3) (da+1)	3	filling material	con+NP	
+Italian	44	FILL	riempire	Derived	siV'.subj[2] > 2 (> con+3)	2	filled container	V.subj	
+Italian	44	FILL	riempire	Derived	siV'.subj[2] > 2 (> con+3)	3	filling material	con+NP	
+Italian	45	LOAD	caricare	Basic	1 > V.subj[1] > 2 (su+3)	1	loader	V.subj	A
+Italian	45	LOAD	caricare	Basic	1 > V.subj[1] > 2 (su+3)	2	loaded thing	Ø	P
+Italian	45	LOAD	caricare	Basic	1 > V.subj[1] > 2 (su+3)	3	loading place	su+NP	X
+Italian	45	LOAD	caricare	Derived	1 > V'.subj[1] > 3 > di+2	1	loader	V.subj	
+Italian	45	LOAD	caricare	Derived	1 > V'.subj[1] > 3 > di+2	2	loaded thing	di+NP	
+Italian	45	LOAD	caricare	Derived	1 > V'.subj[1] > 3 > di+2	3	loading place	Ø	
+Italian	45	LOAD	caricare	Derived	1 V'.subj[1] (su+3)	1	loader	V.subj	
+Italian	45	LOAD	caricare	Derived	1 V'.subj[1] (su+3)	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	2 > passV'.subj[2] (su+3) (daParteDi+1)	1	loader	daParteDi+NP	
+Italian	45	LOAD	caricare	Derived	2 > passV'.subj[2] (su+3) (daParteDi+1)	2	loaded thing	V.subj	
+Italian	45	LOAD	caricare	Derived	2 > passV'.subj[2] (su+3) (daParteDi+1)	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	2 > siV'.subj[2] (> su+3)	2	loaded thing	V.subj	
+Italian	45	LOAD	caricare	Derived	2 > siV'.subj[2] (> su+3)	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	2 > siV'.subj[2] (> su+3) (> daParteDi+1)	1	loader	daParteDi+NP	
+Italian	45	LOAD	caricare	Derived	2 > siV'.subj[2] (> su+3) (> daParteDi+1)	2	loaded thing	V.subj	
+Italian	45	LOAD	caricare	Derived	2 > siV'.subj[2] (> su+3) (> daParteDi+1)	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	4 > causV'.subj[4] > 2 (su+3) a+1	1	loader	a+NP	
+Italian	45	LOAD	caricare	Derived	4 > causV'.subj[4] > 2 (su+3) a+1	2	loaded thing	Ø	
+Italian	45	LOAD	caricare	Derived	4 > causV'.subj[4] > 2 (su+3) a+1	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	siPassV' (su+3) (da+1)	1	loader	da+NP	
+Italian	45	LOAD	caricare	Derived	siPassV' (su+3) (da+1)	3	loading place	su+NP	
+Italian	45	LOAD	caricare	Derived	siV'.subj[2] > 2 (> su+3)	2	loaded thing	V.subj	
+Italian	45	LOAD	caricare	Derived	siV'.subj[2] > 2 (> su+3)	3	loading place	su+NP	
+Italian	46	BLINK	sbattere le palpebre	Basic	1 > V.subj[1]	1	blinker	V.subj	S
+Italian	46	BLINK	sbattere le palpebre	Derived	3 > causV'.subj[3] > 1	1	blinker	Ø	
+Italian	46	BLINK	sbattere le palpebre	Derived	3 > causV'.subj[3] > 1	3	blink causer	V.subj	
+Italian	46	BLINK	sbattere le palpebre	Derived	siV'	1	blinker		
+Italian	47	COUGH	tossire	Basic	1 > V.subj[1]	1	cougher	V.subj	S
+Italian	47	COUGH	tossire	Derived	3 > causV'.subj[3] > 1	1	cougher	Ø	
+Italian	47	COUGH	tossire	Derived	3 > causV'.subj[3] > 1	3	cough causer	V.subj	
+Italian	47	COUGH	tossire	Derived	siV'	3	cough causer		
+Italian	48	CLIMB	scalare	Basic	1 > V.subj[1] > 2	1	climber	V.subj	A
+Italian	48	CLIMB	scalare	Basic	1 > V.subj[1] > 2	2	climbing goal	Ø	P
+Italian	48	CLIMB	scalare	Derived	1 > V'.subj[1]	1	climber	V.subj	
+Italian	48	CLIMB	scalare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	climber	daParteDi+NP	
+Italian	48	CLIMB	scalare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	climbing goal	V.subj	
+Italian	48	CLIMB	scalare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	climber	daParteDi+NP	
+Italian	48	CLIMB	scalare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	climbing goal	V.subj	
+Italian	48	CLIMB	scalare	Derived	4 > causV'.subj[4] > 2 > a+1	1	climber	a+NP	
+Italian	48	CLIMB	scalare	Derived	4 > causV'.subj[4] > 2 > a+1	2	climbing goal	Ø	
+Italian	48	CLIMB	scalare	Derived	4 > causV'.subj[4] > 2 > a+1	4	climb causer	V.subj	
+Italian	48	CLIMB	scalare	Derived	siV'.subj[2] > 2	2	climbing goal	V.subj	
+Italian	49	RUN	correre	Basic	1 > V.subj[1]	1	runner	V.subj	S
+Italian	49	RUN	correre	Derived	3 > causV'.subj[3] > 1	1	runner	Ø	
+Italian	49	RUN	correre	Derived	3 > causV'.subj[3] > 1	3	run causer	V.subj	
+Italian	49	RUN	correre	Derived	siV'	1	runner		
+Italian	50	SIT	sedere	Basic	1 > V.subj[1] (> LOC2)	1	sitter	V.subj	S
+Italian	50	SIT	sedere	Basic	1 > V.subj[1] (> LOC2)	2	sitting place	LOC	L
+Italian	50	SIT	sedere	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	sitter	Ø	
+Italian	50	SIT	sedere	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	sitting place	LOC	
+Italian	50	SIT	sedere	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	sit causer	V.subj	
+Italian	50	SIT	sedere	Derived	siV' (> LOC2)	2	sitting place	LOC	
+Italian	51	SIT DOWN	sedersi	Basic	1 > V.subj[1] (> LOC2)	1	sitdowner	V.subj	S
+Italian	51	SIT DOWN	sedersi	Basic	1 > V.subj[1] (> LOC2)	2	sitting-down place	LOC	L
+Italian	51	SIT DOWN	sedersi	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	sitdowner	Ø	
+Italian	51	SIT DOWN	sedersi	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	sitting-down place	LOC	
+Italian	51	SIT DOWN	sedersi	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	sit down causer	V.subj	
+Italian	52	JUMP	saltare	Basic	1 > V.subj[1]	1	jumper	V.subj	S
+Italian	52	JUMP	saltare	Derived	3 > causV'.subj[3] > 1	1	jumper	Ø	
+Italian	52	JUMP	saltare	Derived	3 > causV'.subj[3] > 1	3	jump causer	V.subj	
+Italian	52	JUMP	saltare	Derived	siV'	3	jump causer		
+Italian	53	SING	cantare	Basic	1 > V.subj[1]	1	singer	V.subj	S
+Italian	53	SING	cantare	Derived	3 > causV'.subj[3] > 1	1	singer	Ø	
+Italian	53	SING	cantare	Derived	3 > causV'.subj[3] > 1	3	sing causer	V.subj	
+Italian	53	SING	cantare	Derived	siV'	3	sing causer		
+Italian	54	GO	andare	Basic	1 > V.subj[1] (> LOC2)	1	goer	V.subj	S
+Italian	54	GO	andare	Basic	1 > V.subj[1] (> LOC2)	2	going goal	LOC	L
+Italian	54	GO	andare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	goer	Ø	
+Italian	54	GO	andare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	going goal	LOC	
+Italian	54	GO	andare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	go causer	V.subj	
+Italian	54	GO	andare	Derived	siV' (> LOC2)	2	going goal	LOC	
+Italian	55	LEAVE	lasciare	Basic	1 > V.subj[1] > 2	1	leaver	V.subj	A
+Italian	55	LEAVE	lasciare	Basic	1 > V.subj[1] > 2	2	left place/person	Ø	P
+Italian	55	LEAVE	lasciare	Derived	1/2 > siV'.subj[1/2]	1	leaver	V.subj	
+Italian	55	LEAVE	lasciare	Derived	1/2 > siV'.subj[1/2]	2	left place/person	V.subj	
+Italian	55	LEAVE	lasciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	leaver	daParteDi+NP	
+Italian	55	LEAVE	lasciare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	left place/person	V.subj	
+Italian	55	LEAVE	lasciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	leaver	daParteDi+NP	
+Italian	55	LEAVE	lasciare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	left place/person	V.subj	
+Italian	55	LEAVE	lasciare	Derived	4 > causV'.subj[4] > 2 > a+1	1	leaver	a+NP	
+Italian	55	LEAVE	lasciare	Derived	4 > causV'.subj[4] > 2 > a+1	2	left place/person	Ø	
+Italian	55	LEAVE	lasciare	Derived	4 > causV'.subj[4] > 2 > a+1	4	leave causer	V.subj	
+Italian	55	LEAVE	lasciare	Derived	siPassV' (da+1)	1	leaver	da+NP	
+Italian	55	LEAVE	lasciare	Derived	siV'.subj[2] > 2	2	left place/person	V.subj	
+Italian	55	LEAVE	partire	Basic	1 V.subj[1] (da+2) (per+3)	1	leaver	V.subj	S
+Italian	55	LEAVE	partire	Basic	1 V.subj[1] (da+2) (per+3)	2	left place/person	da+NP	X
+Italian	55	LEAVE	partire	Basic	1 V.subj[1] (da+2) (per+3)	3	leaving goal	per+NP	X
+Italian	55	LEAVE	partire	Derived	4 > causV'.subj[4] > 1 (da+2) (per+3)	1	leaver	Ø	
+Italian	55	LEAVE	partire	Derived	4 > causV'.subj[4] > 1 (da+2) (per+3)	2	left place/person	da+NP	
+Italian	55	LEAVE	partire	Derived	4 > causV'.subj[4] > 1 (da+2) (per+3)	3	leaving goal	per+NP	
+Italian	55	LEAVE	partire	Derived	4 > causV'.subj[4] > 1 (da+2) (per+3)	4	leave causer	V.subj	
+Italian	55	LEAVE	partire	Derived	siV' (da+2) (per+3)	2	left place/person	da+NP	
+Italian	55	LEAVE	partire	Derived	siV' (da+2) (per+3)	3	leaving goal	per+NP	
+Italian	56	LIVE	abitare	Basic	1 > V.subj[1] (> LOC2)	1	liver	V.subj	S
+Italian	56	LIVE	abitare	Basic	1 > V.subj[1] (> LOC2)	2	living place	LOC	L
+Italian	56	LIVE	abitare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	liver	Ø	
+Italian	56	LIVE	abitare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	living place	LOC	
+Italian	56	LIVE	abitare	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	live causer	V.subj	
+Italian	56	LIVE	abitare	Derived	siV' (> LOC2)	2	living place	LOC	
+Italian	57	LAUGH	ridere	Basic	1 V.subj[1] (di+2)	1	laugher	V.subj	S
+Italian	57	LAUGH	ridere	Basic	1 V.subj[1] (di+2)	2	laughed-about thing	di+NP	X
+Italian	57	LAUGH	ridere	Derived	3 > causV'.subj[3] > 1 (di+2)	1	laugher	Ø	
+Italian	57	LAUGH	ridere	Derived	3 > causV'.subj[3] > 1 (di+2)	2	laughed-about thing	di+NP	
+Italian	57	LAUGH	ridere	Derived	3 > causV'.subj[3] > 1 (di+2)	3	laugh causer	V.subj	
+Italian	57	LAUGH	ridere	Derived	siV' (di+2)	2	laughed-about thing	di+NP	
+Italian	58	SCREAM	urlare	Basic	1 > V.subj[1]	1	screamer	V.subj	S
+Italian	58	SCREAM	urlare	Derived	1 > V'.subj[1] > 2	1	screamer	V.subj	
+Italian	58	SCREAM	urlare	Derived	1 > V'.subj[1] > 2	2	screamed content	Ø	
+Italian	58	SCREAM	urlare	Derived	3 > causV'.subj[3] > 1	1	screamer	Ø	
+Italian	58	SCREAM	urlare	Derived	3 > causV'.subj[3] > 1	3	scream causer	V.subj	
+Italian	58	SCREAM	urlare	Derived	siV'	2	screamed content		
+Italian	58	SCREAM	urlare	Derived	siV'	3	scream causer		
+Italian	59	FEEL PAIN	avere dolore	Basic	1 > V.subj[1] (> LOC2)	1	pain-feeler	V.subj	S
+Italian	59	FEEL PAIN	avere dolore	Basic	1 > V.subj[1] (> LOC2)	2	pain locus	LOC	L
+Italian	59	FEEL PAIN	avere dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	pain-feeler	Ø	
+Italian	59	FEEL PAIN	avere dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	pain locus	LOC	
+Italian	59	FEEL PAIN	avere dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	pain causer	V.subj	
+Italian	59	FEEL PAIN	avere dolore	Derived	siV' (> LOC2)	2	pain locus	LOC	
+Italian	59	FEEL PAIN	sentire dolore	Basic	1 > V.subj[1] (> LOC2)	1	pain-feeler	V.subj	S
+Italian	59	FEEL PAIN	sentire dolore	Basic	1 > V.subj[1] (> LOC2)	2	pain locus	LOC	L
+Italian	59	FEEL PAIN	sentire dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	pain-feeler	Ø	
+Italian	59	FEEL PAIN	sentire dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	pain locus	LOC	
+Italian	59	FEEL PAIN	sentire dolore	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	pain causer	V.subj	
+Italian	59	FEEL PAIN	sentire dolore	Derived	siV' (> LOC2)	2	pain locus	LOC	
+Italian	60	FEEL COLD	avere freddo	Basic	1 > V.subj[1] (> LOC2)	1	freezing person	V.subj	S
+Italian	60	FEEL COLD	avere freddo	Basic	1 > V.subj[1] (> LOC2)	2	feeling cold locus	LOC	L
+Italian	60	FEEL COLD	avere freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	freezing person	Ø	
+Italian	60	FEEL COLD	avere freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	feeling cold locus	LOC	
+Italian	60	FEEL COLD	avere freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	chill causer	V.subj	
+Italian	60	FEEL COLD	avere freddo	Derived	siV' (> LOC2)	2	feeling cold locus	LOC	
+Italian	60	FEEL COLD	sentire freddo	Basic	1 > V.subj[1] (> LOC2)	1	freezing person	V.subj	S
+Italian	60	FEEL COLD	sentire freddo	Basic	1 > V.subj[1] (> LOC2)	2	feeling cold locus	LOC	L
+Italian	60	FEEL COLD	sentire freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	1	freezing person	Ø	
+Italian	60	FEEL COLD	sentire freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	2	feeling cold locus	LOC	
+Italian	60	FEEL COLD	sentire freddo	Derived	3 > causV'.subj[3] > 1 (> LOC2)	3	chill causer	V.subj	
+Italian	60	FEEL COLD	sentire freddo	Derived	siV' (> LOC2)	2	feeling cold locus	LOC	
+Italian	61	DIE	morire	Basic	1 > V.subj[1]	1	dieer	V.subj	S
+Italian	61	DIE	morire	Derived	3 > causV'.subj[3] > 1	1	dieer	Ø	
+Italian	61	DIE	morire	Derived	3 > causV'.subj[3] > 1	3	killer/death causer	V.subj	
+Italian	61	DIE	morire	Derived	siV'	1	dieer		
+Italian	62	PLAY	giocare	Basic	1 V.subj[1] (con+2)	1	player	V.subj	S
+Italian	62	PLAY	giocare	Basic	1 V.subj[1] (con+2)	2	playing partner	con+NP	I
+Italian	62	PLAY	giocare	Derived	3 > causV'.subj[3] > 1 (> con+2)	1	player	Ø	
+Italian	62	PLAY	giocare	Derived	3 > causV'.subj[3] > 1 (> con+2)	2	playing partner	con+NP	
+Italian	62	PLAY	giocare	Derived	3 > causV'.subj[3] > 1 (> con+2)	3	play causer	V.subj	
+Italian	62	PLAY	giocare	Derived	siV' (> con+2)	2	playing partner	con+NP	
+Italian	63	BE SAD	essere triste	Basic	1 > V.subj[1]	1	sad person	V.subj	S
+Italian	63	BE SAD	essere triste	Derived	3 > causV'.subj[3] > 1	1	sad person	Ø	
+Italian	63	BE SAD	essere triste	Derived	3 > causV'.subj[3] > 1	3	sadness causer	V.subj	
+Italian	63	BE SAD	essere triste	Derived	siV'	1	sad person		
+Italian	64	BE HUNGRY	avere fame	Basic	1 > V.subj[1]	1	hungry person	V.subj	S
+Italian	64	BE HUNGRY	avere fame	Derived	3 > causV'.subj[3] > 1	1	hungry person	Ø	
+Italian	64	BE HUNGRY	avere fame	Derived	3 > causV'.subj[3] > 1	3	hunger causer	V.subj	
+Italian	64	BE HUNGRY	avere fame	Derived	siV'		hungry person		
+Italian	64	BE HUNGRY	essere affamato	Basic	1 > V.subj[1]	1	hungry person	V.subj	S
+Italian	64	BE HUNGRY	essere affamato	Derived	3 > causV'.subj[3] > 1	1	hungry person	Ø	
+Italian	68	BE DRY	essere arido	Basic	1 > V.subj[1]	1	dry thing	V.subj	S
+Italian	68	BE DRY	essere arido	Derived	3 > causV'.subj[3] > 1	1	dry thing	Ø	
+Italian	68	BE DRY	essere arido	Derived	3 > causV'.subj[3] > 1	3	drier / dry causer	V.subj	
+Italian	71	GRIND	macinare	Basic	1 > V.subj[1] > 2 (con+3)	1	grinder	V.subj	A
+Italian	71	GRIND	macinare	Basic	1 > V.subj[1] > 2 (con+3)	2	ground thing	Ø	P
+Italian	71	GRIND	macinare	Basic	1 > V.subj[1] > 2 (con+3)	3	grinding instrument	con+NP	I
+Italian	71	GRIND	macinare	Derived	1 > V'.subj[1] > (con+3)	1	grinder	V.subj	
+Italian	71	GRIND	macinare	Derived	1 > V'.subj[1] > (con+3)	3	grinding instrument	con+NP	
+Italian	71	GRIND	macinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	grinder	daParteDi+NP	
+Italian	71	GRIND	macinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	ground thing	V.subj	
+Italian	71	GRIND	macinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	grinding instrument	con+NP	
+Italian	71	GRIND	macinare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	grinder	daParteDi+NP	
+Italian	71	GRIND	macinare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	ground thing	V.subj	
+Italian	71	GRIND	macinare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	grinding instrument	con+NP	
+Italian	71	GRIND	macinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	grinder	a+NP	
+Italian	71	GRIND	macinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	ground thing	Ø	
+Italian	71	GRIND	macinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	grinding instrument	con+NP	
+Italian	71	GRIND	macinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	grind causer	V.subj	
+Italian	71	GRIND	macinare	Derived	siV'.subj[2] > 2 (> con+3)	2	ground thing	V.subj	
+Italian	71	GRIND	macinare	Derived	siV'.subj[2] > 2 (> con+3)	3	grinding instrument	con+NP	
+Italian	72	WIPE	pulire	Basic	1 > V.subj[1] > 2 (da+3)	1	wiper	V.subj	A
+Italian	72	WIPE	pulire	Basic	1 > V.subj[1] > 2 (da+3)	2	wiping surface	Ø	P
+Italian	72	WIPE	pulire	Basic	1 > V.subj[1] > 2 (da+3)	3	wiped material	da+NP	X
+Italian	72	WIPE	pulire	Derived	1 > V'.subj[1] > (da+3)	1	wiper	V.subj	
+Italian	72	WIPE	pulire	Derived	1 > V'.subj[1] > (da+3)	3	wiped material	da+NP	
+Italian	72	WIPE	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	1	wiper	daParteDi+NP	
+Italian	72	WIPE	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	2	wiping surface	V.subj	
+Italian	72	WIPE	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	3	wiped material	da+NP	
+Italian	72	WIPE	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	1	wiper	daParteDi+NP	
+Italian	72	WIPE	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	2	wiping surface	V.subj	
+Italian	72	WIPE	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	3	wiped material	da+NP	
+Italian	72	WIPE	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	1	wiper	a+NP	
+Italian	72	WIPE	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	2	wiping surface	Ø	
+Italian	72	WIPE	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	3	wiped material	da+NP	
+Italian	72	WIPE	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	4	wipe causer	V.subj	
+Italian	72	WIPE	pulire	Derived	siPassV' (da+1)	1	wiper	da+NP	
+Italian	72	WIPE	pulire	Derived	siV'.subj[2] > 2 (> da+3)	2	wiping surface	V.subj	
+Italian	72	WIPE	pulire	Derived	siV'.subj[2] > 2 (> da+3)	3	wiped material	da+NP	
+Italian	73	DIG	dissotterrare	Basic	1 > V.subj[1] > 2	1	digger	V.subj	A
+Italian	73	DIG	dissotterrare	Basic	1 > V.subj[1] > 2	2	dug up thing	Ø	P
+Italian	73	DIG	dissotterrare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	digger	daParteDi+NP	
+Italian	73	DIG	dissotterrare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	dug up thing	V.subj	
+Italian	73	DIG	dissotterrare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	digger	daParteDi+NP	
+Italian	73	DIG	dissotterrare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	dug up thing	V.subj	
+Italian	73	DIG	dissotterrare	Derived	4 > causV'.subj[4] > 2 > a+1	1	digger	a+NP	
+Italian	73	DIG	dissotterrare	Derived	4 > causV'.subj[4] > 2 > a+1	2	dug up thing	Ø	
+Italian	73	DIG	dissotterrare	Derived	4 > causV'.subj[4] > 2 > a+1	4	dig causer	V.subj	
+Italian	73	DIG	dissotterrare	Derived	siV'.subj[2] > 2	2	dug up thing	V.subj	
+Italian	74	PUSH	spingere	Basic	1 > V.subj[1] > 2 (> LOC3)	1	pusher	V.subj	A
+Italian	74	PUSH	spingere	Basic	1 > V.subj[1] > 2 (> LOC3)	2	pushee	Ø	P
+Italian	74	PUSH	spingere	Basic	1 > V.subj[1] > 2 (> LOC3)	3	pushing goal	LOC	L
+Italian	74	PUSH	spingere	Derived	1 > V'.subj[1] > (LOC3)	1	pusher	V.subj	
+Italian	74	PUSH	spingere	Derived	1 > V'.subj[1] > (LOC3)	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	1/2 > siV'.subj[1/2] (> LOC3)	1	pusher	V.subj	
+Italian	74	PUSH	spingere	Derived	1/2 > siV'.subj[1/2] (> LOC3)	2	pushee	V.subj	
+Italian	74	PUSH	spingere	Derived	1/2 > siV'.subj[1/2] (> LOC3)	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	1	pusher	daParteDi+NP	
+Italian	74	PUSH	spingere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	2	pushee	V.subj	
+Italian	74	PUSH	spingere	Derived	2 > passV'.subj[2] (> LOC3) (> daParteDi+1)	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	1	pusher	daParteDi+NP	
+Italian	74	PUSH	spingere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	2	pushee	V.subj	
+Italian	74	PUSH	spingere	Derived	2 > siV'.subj[2] (> LOC3) (> daParteDi+1)	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	1	pusher	a+NP	
+Italian	74	PUSH	spingere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	2	pushee	Ø	
+Italian	74	PUSH	spingere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	4 > causV'.subj[4] > 2 (LOC3) a+1	4	push causer	V.subj	
+Italian	74	PUSH	spingere	Derived	siPassV' (LOC3) (da+1)	1	pusher	da+NP	
+Italian	74	PUSH	spingere	Derived	siPassV' (LOC3) (da+1)	3	pushing goal	LOC	
+Italian	74	PUSH	spingere	Derived	siV'.subj[2] > 2 (> LOC3)	2	pushee	V.subj	
+Italian	74	PUSH	spingere	Derived	siV'.subj[2] > 2 (> LOC3)	3	pushing goal	LOC	
+Italian	75	BRING	portare	Basic	1 > V.subj[1] > 2 (a+3)	1	bringer	V.subj	A
+Italian	75	BRING	portare	Basic	1 > V.subj[1] > 2 (a+3)	2	brought thing	Ø	P
+Italian	75	BRING	portare	Basic	1 > V.subj[1] > 2 (a+3)	3	bringing recipient	a+NP	X
+Italian	75	BRING	portare	Derived	1/3 > siV'.subj[1/3] > 2	1	bringer	V.subj	
+Italian	75	BRING	portare	Derived	1/3 > siV'.subj[1/3] > 2	2	brought thing	Ø	
+Italian	75	BRING	portare	Derived	1/3 > siV'.subj[1/3] > 2	3	bringing recipient	V.subj	
+Italian	75	BRING	portare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	bringer	daParteDi+NP	
+Italian	75	BRING	portare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	brought thing	V.subj	
+Italian	75	BRING	portare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	bringing recipient	a+NP	
+Italian	75	BRING	portare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	bringer	daParteDi+NP	
+Italian	75	BRING	portare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	brought thing	V.subj	
+Italian	75	BRING	portare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	bringing recipient	a+NP	
+Italian	75	BRING	portare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	bringer	da+NP	
+Italian	75	BRING	portare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	brought thing	Ø	
+Italian	75	BRING	portare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	bringing recipient	a+NP	
+Italian	75	BRING	portare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	bring causer	V.subj	
+Italian	75	BRING	portare	Derived	siPassV' (a+3) (da+1)	1	bringer	da+NP	
+Italian	75	BRING	portare	Derived	siPassV' (a+3) (da+1)	3	bringing recipient	a+NP	
+Italian	75	BRING	portare	Derived	siV'.subj[2] > 2 (> a+3)	2	brought thing	V.subj	
+Italian	75	BRING	portare	Derived	siV'.subj[2] > 2 (> a+3)	3	bringing recipient	a+NP	
+Italian	76	STEAL	rubare	Basic	1 > V.subj[1] > 2 (a+3) (da+4)	1	stealer	V.subj	A
+Italian	76	STEAL	rubare	Basic	1 > V.subj[1] > 2 (a+3) (da+4)	2	stolen thing	Ø	P
+Italian	76	STEAL	rubare	Basic	1 > V.subj[1] > 2 (a+3) (da+4)	3	stealing source	a+NP	X
+Italian	76	STEAL	rubare	Basic	1 > V.subj[1] > 2 (a+3) (da+4)	4	stealing source 2	da+NP	X
+Italian	76	STEAL	rubare	Derived	1 > V'.subj[1] (a+3) (da+4)	1	stealer	V.subj	
+Italian	76	STEAL	rubare	Derived	1 > V'.subj[1] (a+3) (da+4)	3	stealing source	a+NP	
+Italian	76	STEAL	rubare	Derived	1 > V'.subj[1] (a+3) (da+4)	4	stealing source 2	da+NP	
+Italian	76	STEAL	rubare	Derived	1/3 > siV'.subj[1/3] > 2 (>da+4)	1	stealer	V.subj	
+Italian	76	STEAL	rubare	Derived	1/3 > siV'.subj[1/3] > 2 (>da+4)	2	stolen thing	Ø	
+Italian	76	STEAL	rubare	Derived	1/3 > siV'.subj[1/3] > 2 (>da+4)	3	stealing source	V.subj	
+Italian	76	STEAL	rubare	Derived	1/3 > siV'.subj[1/3] > 2 (>da+4)	4	stealing source 2	da+NP	
+Italian	76	STEAL	rubare	Derived	2 > passV'.subj[2] (a+3) (da+4) (daParteDi+1)	1	stealer	daParteDi+NP	
+Italian	76	STEAL	rubare	Derived	2 > passV'.subj[2] (a+3) (da+4) (daParteDi+1)	2	stolen thing	V.subj	
+Italian	76	STEAL	rubare	Derived	2 > passV'.subj[2] (a+3) (da+4) (daParteDi+1)	3	stealing source	a+NP	
+Italian	76	STEAL	rubare	Derived	2 > passV'.subj[2] (a+3) (da+4) (daParteDi+1)	4	stealing source 2	da+NP	
+Italian	76	STEAL	rubare	Derived	2 > siV'.subj[2] (a+3) (da+4) (> daParteDi+1)	1	stealer	daParteDi+NP	
+Italian	76	STEAL	rubare	Derived	2 > siV'.subj[2] (a+3) (da+4) (> daParteDi+1)	2	stolen thing	V.subj	
+Italian	76	STEAL	rubare	Derived	2 > siV'.subj[2] (a+3) (da+4) (> daParteDi+1)	3	stealing source	a+NP	
+Italian	76	STEAL	rubare	Derived	2 > siV'.subj[2] (a+3) (da+4) (> daParteDi+1)	4	stealing source 2	da+NP	
+Italian	76	STEAL	rubare	Derived	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)	1	stealer	a+NP	
+Italian	76	STEAL	rubare	Derived	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)	2	stolen thing	Ø	
+Italian	76	STEAL	rubare	Derived	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)	3	stealing source	a+NP	
+Italian	76	STEAL	rubare	Derived	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)	4	stealing source 2	da+NP	
+Italian	76	STEAL	rubare	Derived	5 > causV'.subj[4] > 2 (a+3) (da+4) (a+1)	5	steal causer	V.subj	
+Italian	76	STEAL	rubare	Derived	siV'.subj[2] > 2 (>a+3) (>da+4)	2	stolen thing	V.subj	
+Italian	76	STEAL	rubare	Derived	siV'.subj[2] > 2 (>a+3) (>da+4)	3	stealing source	a+NP	
+Italian	76	STEAL	rubare	Derived	siV'.subj[2] > 2 (>a+3) (>da+4)	4	stealing source 2	da+NP	
+Italian	77	TEACH	insegnare	Basic	1 > V.subj[1] > 2 (a+3)	1	teacher	V.subj	A
+Italian	77	TEACH	insegnare	Basic	1 > V.subj[1] > 2 (a+3)	2	taught content	Ø	P
+Italian	77	TEACH	insegnare	Basic	1 > V.subj[1] > 2 (a+3)	3	teachee	a+NP	X
+Italian	77	TEACH	insegnare	Derived	1 > V'.subj[1] > (a+3)	1	teacher	V.subj	
+Italian	77	TEACH	insegnare	Derived	1 > V'.subj[1] > (a+3)	3	teachee	a+NP	
+Italian	77	TEACH	insegnare	Derived	1/3 > siV'.subj[1/3] > 2	1	teacher	V.subj	
+Italian	77	TEACH	insegnare	Derived	1/3 > siV'.subj[1/3] > 2	2	taught content	Ø	
+Italian	77	TEACH	insegnare	Derived	1/3 > siV'.subj[1/3] > 2	3	teachee	V.subj	
+Italian	77	TEACH	insegnare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	1	teacher	daParteDi+NP	
+Italian	77	TEACH	insegnare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	2	taught content	V.subj	
+Italian	77	TEACH	insegnare	Derived	2 > passV'.subj[2] (> a+3) (> daParteDi+1)	3	teachee	a+NP	
+Italian	77	TEACH	insegnare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	1	teacher	daParteDi+NP	
+Italian	77	TEACH	insegnare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	2	taught content	V.subj	
+Italian	77	TEACH	insegnare	Derived	2 > siV'.subj[2] (> a+3) (> daParteDi+1)	3	teachee	a+NP	
+Italian	77	TEACH	insegnare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	1	teacher	da+NP	
+Italian	77	TEACH	insegnare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	2	taught content	Ø	
+Italian	77	TEACH	insegnare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	3	teachee	a+NP	
+Italian	77	TEACH	insegnare	Derived	5 > causV'.subj[5] > 2 (a+3) da+1	5	teach causer	V.subj	
+Italian	77	TEACH	insegnare	Derived	siV'.subj[2] > 2 (> a+3)	2	taught content	V.subj	
+Italian	77	TEACH	insegnare	Derived	siV'.subj[2] > 2 (> a+3)	3	teachee	a+NP	
+Italian	78	HEAR	sentire	Basic	1 > V.subj[1] > 2	1	hearer	V.subj	A
+Italian	78	HEAR	sentire	Basic	1 > V.subj[1] > 2	2	heard sound	Ø	P
+Italian	78	HEAR	sentire	Derived	1 > V'.subj[1]	1	hearer	V.subj	
+Italian	78	HEAR	sentire	Derived	1/2 > siV'.subj[1/2]	1	hearer	V.subj	
+Italian	78	HEAR	sentire	Derived	1/2 > siV'.subj[1/2]	2	heard sound	V.subj	
+Italian	78	HEAR	sentire	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	hearer	daParteDi+NP	
+Italian	78	HEAR	sentire	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	heard sound	V.subj	
+Italian	78	HEAR	sentire	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	hearer	daParteDi+NP	
+Italian	78	HEAR	sentire	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	heard sound	V.subj	
+Italian	78	HEAR	sentire	Derived	4 > causV'.subj[4] > 2 > a+1	1	hearer	a+NP	
+Italian	78	HEAR	sentire	Derived	4 > causV'.subj[4] > 2 > a+1	2	heard sound	Ø	
+Italian	78	HEAR	sentire	Derived	4 > causV'.subj[4] > 2 > a+1	4	hear causer	V.subj	
+Italian	78	HEAR	sentire	Derived	siPassV' (da+1)	1	hearer	da+NP	
+Italian	78	HEAR	sentire	Derived	siV'.subj[2] > 2	2	heard sound	V.subj	
+Italian	78	HEAR	udire	Basic	1 > V.subj[1] > 2	1	hearer	V.subj	A
+Italian	78	HEAR	udire	Basic	1 > V.subj[1] > 2	2	heard sound	Ø	P
+Italian	78	HEAR	udire	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	hearer	daParteDi+NP	
+Italian	78	HEAR	udire	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	heard sound	V.subj	
+Italian	78	HEAR	udire	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	hearer	daParteDi+NP	
+Italian	78	HEAR	udire	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	heard sound	V.subj	
+Italian	78	HEAR	udire	Derived	4 > causV'.subj[4] > 2 > a+1	1	hearer	a+NP	
+Italian	78	HEAR	udire	Derived	4 > causV'.subj[4] > 2 > a+1	2	heard sound	Ø	
+Italian	78	HEAR	udire	Derived	4 > causV'.subj[4] > 2 > a+1	4	hear causer	V.subj	
+Italian	78	HEAR	udire	Derived	siPassV' (da+1)	1	hearer	da+NP	
+Italian	78	HEAR	udire	Derived	siV'.subj[2] > 2	2	heard sound	V.subj	
+Italian	79	COOK	cuocere	Basic	1 > V.subj[1] > 2	1	cooker	V.subj	A
+Italian	79	COOK	cuocere	Basic	1 > V.subj[1] > 2	2	cooked food	Ø	P
+Italian	79	COOK	cuocere	Derived	1/5 > siV'.subj[1/5] > 2	1	cooker	V.subj	
+Italian	79	COOK	cuocere	Derived	1/5 > siV'.subj[1/5] > 2	2	cooked food	Ø	
+Italian	79	COOK	cuocere	Derived	1/5 > siV'.subj[1/5] > 2	5	cook beneficiary	V.subj	
+Italian	79	COOK	cuocere	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	cooker	daParteDi+NP	
+Italian	79	COOK	cuocere	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	cooked food	V.subj	
+Italian	79	COOK	cuocere	Derived	2 > siV'.subj[2]	2	cooked food	V.subj	
+Italian	79	COOK	cuocere	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	cooker	daParteDi+NP	
+Italian	79	COOK	cuocere	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	cooked food	V.subj	
+Italian	79	COOK	cuocere	Derived	2 > V'.subj[2]	2	cooked food	V.subj	
+Italian	79	COOK	cuocere	Derived	4 > causV'.subj[4] > 2 > a+1	1	cooker	a+NP	
+Italian	79	COOK	cuocere	Derived	4 > causV'.subj[4] > 2 > a+1	2	cooked food	Ø	
+Italian	79	COOK	cuocere	Derived	4 > causV'.subj[4] > 2 > a+1	4	cook causer	V.subj	
+Italian	79	COOK	cuocere	Derived	siV'.subj[2] > 2	2	cooked food	V.subj	
+Italian	81	APPEAR	apparire	Basic	1 > V.subj[1]	1	appearer	V.subj	S
+Italian	81	APPEAR	apparire	Derived	3 > causV'.subj[3] > 1	1	appearer	Ø	
+Italian	81	APPEAR	apparire	Derived	3 > causV'.subj[3] > 1	3	appear causer	V.subj	
+Italian	81	APPEAR	apparire	Derived	siV'	1	appearer		
+Italian	82	BE ILL	essere malato	Basic	1 > V.subj[1]	1	sick person	V.subj	S
+Italian	82	BE ILL	essere malato	Derived	3 > causV'.subj[3] > 1	1	sick person	Ø	
+Italian	82	BE ILL	essere malato	Derived	3 > causV'.subj[3] > 1	3	sickness causer	V.subj	
+Italian	82	BE ILL	essere malato	Derived	siV'	1	sick person		
+Italian	83	CRY	piangere	Basic	1 > V.subj[1]	1	crier	V.subj	S
+Italian	83	CRY	piangere	Derived	3 > causV'.subj[3] > 1	1	crier	Ø	
+Italian	83	CRY	piangere	Derived	3 > causV'.subj[3] > 1	3	cry causer	V.subj	
+Italian	83	CRY	piangere	Derived	siPassV' (da+1)	1	crier	da+NP	
+Italian	83	CRY	piangere	Derived	siV'	3	cry causer		
+Italian	84	FALL	cadere	Basic	1 > V.subj[1]	1	fallee	V.subj	S
+Italian	84	FALL	cadere	Derived	3 > causV'.subj[3] > 1	1	fallee	Ø	
+Italian	84	FALL	cadere	Derived	3 > causV'.subj[3] > 1	3	fall causer	V.subj	
+Italian	84	FALL	cadere	Derived	siV'	1	fallee		
+Italian	85	MAKE	fare	Basic	1 > V.subj[1] > 2 (di+3)	1	maker	V.subj	A
+Italian	85	MAKE	fare	Basic	1 > V.subj[1] > 2 (di+3)	2	made thing	Ø	P
+Italian	85	MAKE	fare	Basic	1 > V.subj[1] > 2 (di+3)	3	making material	di+NP	X
+Italian	85	MAKE	fare	Derived	1/5 > siV'.subj[1/5] > 2 (>di+3)	1	maker	V.subj	
+Italian	85	MAKE	fare	Derived	1/5 > siV'.subj[1/5] > 2 (>di+3)	2	made thing	Ø	
+Italian	85	MAKE	fare	Derived	1/5 > siV'.subj[1/5] > 2 (>di+3)	3	making material	di+NP	
+Italian	85	MAKE	fare	Derived	1/5 > siV'.subj[1/5] > 2 (>di+3)	5	make beneficiary	V.subj	
+Italian	85	MAKE	fare	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	1	maker	daParteDi+NP	
+Italian	85	MAKE	fare	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	2	made thing	V.subj	
+Italian	85	MAKE	fare	Derived	2 > passV'.subj[2] (di+3) (daParteDi+1)	3	making material	di+NP	
+Italian	85	MAKE	fare	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	1	maker	daParteDi+NP	
+Italian	85	MAKE	fare	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	2	made thing	V.subj	
+Italian	85	MAKE	fare	Derived	2 > siV'.subj[2] (> di+3) (> daParteDi+1)	3	making material	di+NP	
+Italian	85	MAKE	fare	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	1	maker	a+NP	
+Italian	85	MAKE	fare	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	2	made thing	Ø	
+Italian	85	MAKE	fare	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	3	making material	di+NP	
+Italian	85	MAKE	fare	Derived	4 > causV'.subj[4] > 2 (di+3) a+1	4	make causer	V.subj	
+Italian	85	MAKE	fare	Derived	siV'.subj[2] > 2 (> di+3)	2	made thing	V.subj	
+Italian	85	MAKE	fare	Derived	siV'.subj[2] > 2 (> di+3)	3	making material	di+NP	
+Italian	86	GET	ricevere	Basic	1 > V.subj[1] > 2 (da+3)	1	receiver	V.subj	A
+Italian	86	GET	ricevere	Basic	1 > V.subj[1] > 2 (da+3)	2	received thing	Ø	P
+Italian	86	GET	ricevere	Basic	1 > V.subj[1] > 2 (da+3)	3	receiving source	da+NP	X
+Italian	86	GET	ricevere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	1	receiver	daParteDi+NP	
+Italian	86	GET	ricevere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	2	received thing	V.subj	
+Italian	86	GET	ricevere	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	3	receiving source	da+NP	
+Italian	86	GET	ricevere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	1	receiver	daParteDi+NP	
+Italian	86	GET	ricevere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	2	received thing	V.subj	
+Italian	86	GET	ricevere	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	3	receiving source	da+NP	
+Italian	86	GET	ricevere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	1	receiver	a+NP	
+Italian	86	GET	ricevere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	2	received thing	Ø	
+Italian	86	GET	ricevere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	3	receiving source	da+NP	
+Italian	86	GET	ricevere	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	4	receive causer	V.subj	
+Italian	86	GET	ricevere	Derived	siPassV' (da+1)	1	receiver	da+NP	
+Italian	86	GET	ricevere	Derived	siV'.subj[2] > 2 (> da+3)	2	received thing	V.subj	
+Italian	86	GET	ricevere	Derived	siV'.subj[2] > 2 (> da+3)	3	receiving source	da+NP	
+Italian	87	WANT	volere	Basic	1 > V.subj[1] > 2	1	wanter	V.subj	A
+Italian	87	WANT	volere	Basic	1 > V.subj[1] > 2	2	wanted thing	Ø	P
+Italian	87	WANT	volere	Derived	1 > V'.subj[1]	1	wanter	V.subj	
+Italian	87	WANT	volere	Derived	1/2 > siV'.subj[1/2]	1	wanter	V.subj	
+Italian	87	WANT	volere	Derived	1/2 > siV'.subj[1/2]	2	wanted thing	V.subj	
+Italian	87	WANT	volere	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	wanter	daParteDi+NP	
+Italian	87	WANT	volere	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	wanted thing	V.subj	
+Italian	87	WANT	volere	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	wanter	daParteDi+NP	
+Italian	87	WANT	volere	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	wanted thing	V.subj	
+Italian	87	WANT	volere	Derived	4 > causV'.subj[4] > 2 > a+1	1	wanter	a+NP	
+Italian	87	WANT	volere	Derived	4 > causV'.subj[4] > 2 > a+1	2	wanted thing	Ø	
+Italian	87	WANT	volere	Derived	4 > causV'.subj[4] > 2 > a+1	4	want causer	V.subj	
+Italian	87	WANT	volere	Derived	siV'.subj[2] > 2	2	wanted thing	V.subj	
+Italian	90	CLEAN	pulire	Basic	1 > V.subj[1] > 2 (da+3)	1	cleaner	V.subj	A
+Italian	90	CLEAN	pulire	Basic	1 > V.subj[1] > 2 (da+3)	2	cleaned thing	Ø	P
+Italian	90	CLEAN	pulire	Basic	1 > V.subj[1] > 2 (da+3)	3	cleaned away material	da+NP	X
+Italian	90	CLEAN	pulire	Derived	1 > V'.subj[1] > (da+3)	1	cleaner	V.subj	
+Italian	90	CLEAN	pulire	Derived	1 > V'.subj[1] > (da+3)	3	cleaned away material	da+NP	
+Italian	90	CLEAN	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	1	cleaner	daParteDi+NP	
+Italian	90	CLEAN	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	2	cleaned thing	V.subj	
+Italian	90	CLEAN	pulire	Derived	2 > passV'.subj[2] (da+3) (daParteDi+1)	3	cleaned away material	da+NP	
+Italian	90	CLEAN	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	1	cleaner	daParteDi+NP	
+Italian	90	CLEAN	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	2	cleaned thing	V.subj	
+Italian	90	CLEAN	pulire	Derived	2 > siV'.subj[2] (> da+3) (> daParteDi+1)	3	cleaned away material	da+NP	
+Italian	90	CLEAN	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	1	cleaner	a+NP	
+Italian	90	CLEAN	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	2	cleaned thing	Ø	
+Italian	90	CLEAN	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	3	cleaned away material	da+NP	
+Italian	90	CLEAN	pulire	Derived	4 > causV'.subj[4] > 2 (da+3) a+1	4	cleaning causer	V.subj	
+Italian	90	CLEAN	pulire	Derived	siPassV' (da+1)	1	cleaner	da+NP	
+Italian	90	CLEAN	pulire	Derived	siV'.subj[2] > 2 (> da+3)	2	cleaned thing	V.subj	
+Italian	90	CLEAN	pulire	Derived	siV'.subj[2] > 2 (> da+3)	3	cleaned away material	da+NP	
+Italian	91	ASSASSINATE	assassinare	Basic	1 > V.subj[1] > 2 (con+3)	1	assassin	V.subj	A
+Italian	91	ASSASSINATE	assassinare	Basic	1 > V.subj[1] > 2 (con+3)	2	assassinee	Ø	P
+Italian	91	ASSASSINATE	assassinare	Basic	1 > V.subj[1] > 2 (con+3)	3	assassination instrument	con+NP	I
+Italian	91	ASSASSINATE	assassinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	assassin	daParteDi+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	assassinee	V.subj	
+Italian	91	ASSASSINATE	assassinare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	assassination instrument	con+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	assassin	a+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	assassinee	Ø	
+Italian	91	ASSASSINATE	assassinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	assassination instrument	con+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	assassination causer	V.subj	
+Italian	91	ASSASSINATE	assassinare	Derived	siPassV' (con+3) (da+1)	1	assassin	da+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	siPassV' (con+3) (da+1)	3	assassination instrument	con+NP	
+Italian	91	ASSASSINATE	assassinare	Derived	siV'.subj[2] > 2 (> con+3)	2	assassinee	V.subj	
+Italian	91	ASSASSINATE	assassinare	Derived	siV'.subj[2] > 2 (> con+3)	3	assassination instrument	con+NP	
+Italian	116	BURN (tr)	bruciare	Basic	1 > V.subj[1] > 2 (con+3)	1	burner (tr)	V.subj	A
+Italian	116	BURN (tr)	bruciare	Basic	1 > V.subj[1] > 2 (con+3)	2	burnt thing (tr)	Ø	P
+Italian	116	BURN (tr)	bruciare	Basic	1 > V.subj[1] > 2 (con+3)	3	burn instrument (tr)	con+NP	I
+Italian	116	BURN (tr)	bruciare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	burner (tr)	daParteDi+NP	
+Italian	116	BURN (tr)	bruciare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	burnt thing (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	burn instrument (tr)	con+NP	
+Italian	116	BURN (tr)	bruciare	Derived	2 > siV'.subj[2] (> con+3)	2	burnt thing (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	2 > siV'.subj[2] (> con+3)	3	burn instrument (tr)	con+NP	
+Italian	116	BURN (tr)	bruciare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	1	burner (tr)	daParteDi+NP	
+Italian	116	BURN (tr)	bruciare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	2	burnt thing (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	2 > siV'.subj[2] (> con+3) (> daParteDi+1)	3	burn instrument (tr)	con+NP	
+Italian	116	BURN (tr)	bruciare	Derived	2 > V'.subj[2]	2	burnt thing (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	burner (tr)	a+NP	
+Italian	116	BURN (tr)	bruciare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	burnt thing (tr)	Ø	
+Italian	116	BURN (tr)	bruciare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	burn instrument (tr)	con+NP	
+Italian	116	BURN (tr)	bruciare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	4	burn causer (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	siPassV' (con+3) (da+1)	1	burner (tr)	da+NP	
+Italian	116	BURN (tr)	bruciare	Derived	siPassV' (con+3) (da+1)	3	burn instrument (tr)	con+NP	
+Italian	116	BURN (tr)	bruciare	Derived	siV'.subj[2] > 2 (> con+3)	2	burnt thing (tr)	V.subj	
+Italian	116	BURN (tr)	bruciare	Derived	siV'.subj[2] > 2 (> con+3)	3	burn instrument (tr)	con+NP	
+Italian	125	SINK (tr)	affondare	Basic	1 > V.subj[1] > 2 (con+3)	1	sink-(caus)er (tr)	V.subj	A
+Italian	125	SINK (tr)	affondare	Basic	1 > V.subj[1] > 2 (con+3)	2	sunken entity (tr)	Ø	P
+Italian	125	SINK (tr)	affondare	Basic	1 > V.subj[1] > 2 (con+3)	3	sinking instrument	con+NP	I
+Italian	125	SINK (tr)	affondare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	1	sink-(caus)er (tr)	daParteDi+NP	
+Italian	125	SINK (tr)	affondare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	2	sunken entity (tr)	V.subj	
+Italian	125	SINK (tr)	affondare	Derived	2 > passV'.subj[2] (con+3) (daParteDi+1)	3	sinking instrument	con+NP	
+Italian	125	SINK (tr)	affondare	Derived	2 > V'.subj[2]	2	sunken entity (tr)	V.subj	
+Italian	125	SINK (tr)	affondare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	1	sink-(caus)er (tr)	a+NP	
+Italian	125	SINK (tr)	affondare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	2	sunken entity (tr)	Ø	
+Italian	125	SINK (tr)	affondare	Derived	4 > causV'.subj[4] > 2 (con+3) a+1	3	sinking instrument	con+NP	
+Italian	125	SINK (tr)	affondare	Derived	siV'.subj[2] > 2 (> con+3)	2	sunken entity (tr)	V.subj	
+Italian	125	SINK (tr)	affondare	Derived	siV'.subj[2] > 2 (> con+3)	3	sinking instrument	con+NP	
+Italian	126	BOIL (tr)	bollire	Basic	1 > V.subj[1] > 2	1	boiler (tr)	V.subj	A
+Italian	126	BOIL (tr)	bollire	Basic	1 > V.subj[1] > 2	2	boiled thing (tr)	Ø	P
+Italian	126	BOIL (tr)	bollire	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	boiler (tr)	daParteDi+NP	
+Italian	126	BOIL (tr)	bollire	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	boiled thing (tr)	V.subj	
+Italian	126	BOIL (tr)	bollire	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	boiler (tr)	daParteDi+NP	
+Italian	126	BOIL (tr)	bollire	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	boiled thing (tr)	V.subj	
+Italian	126	BOIL (tr)	bollire	Derived	2 > V'.subj[2]	2	boiled thing (tr)	V.subj	
+Italian	126	BOIL (tr)	bollire	Derived	4 > causV'.subj[4] > 2 > a+1	1	boiler (tr)	a+NP	
+Italian	126	BOIL (tr)	bollire	Derived	4 > causV'.subj[4] > 2 > a+1	2	boiled thing (tr)	Ø	
+Italian	126	BOIL (tr)	bollire	Derived	4 > causV'.subj[4] > 2 > a+1	4	boiling causer (tr)	V.subj	
+Italian	126	BOIL (tr)	bollire	Derived	siV'.subj[2] > 2	2	boiled thing (tr)	V.subj	
+Italian	128	ROLL (tr)	rotolare	Basic	1 > V.subj[1] > 2	1	roller (tr)	V.subj	A
+Italian	128	ROLL (tr)	rotolare	Basic	1 > V.subj[1] > 2	2	rolling thing (tr)	Ø	P
+Italian	128	ROLL (tr)	rotolare	Derived	2 > passV'.subj[2] (> daParteDi+1)	1	roller (tr)	daParteDi+NP	
+Italian	128	ROLL (tr)	rotolare	Derived	2 > passV'.subj[2] (> daParteDi+1)	2	rolling thing (tr)	V.subj	
+Italian	128	ROLL (tr)	rotolare	Derived	2 > siV'.subj[2] (> daParteDi+1)	1	roller (tr)	daParteDi+NP	
+Italian	128	ROLL (tr)	rotolare	Derived	2 > siV'.subj[2] (> daParteDi+1)	2	rolling thing (tr)	V.subj	
+Italian	128	ROLL (tr)	rotolare	Derived	2 > V'.subj[2]	2	rolling thing (tr)	V.subj	
+Italian	128	ROLL (tr)	rotolare	Derived	4 > causV'.subj[4] > 2 > a+1	1	roller (tr)	a+NP	
+Italian	128	ROLL (tr)	rotolare	Derived	4 > causV'.subj[4] > 2 > a+1	2	rolling thing (tr)	Ø	
+Italian	128	ROLL (tr)	rotolare	Derived	4 > causV'.subj[4] > 2 > a+1	4	roll causer (tr)	V.subj	
+Italian	128	ROLL (tr)	rotolare	Derived	siV'.subj[2] > 2	2	rolling thing (tr)	V.subj	

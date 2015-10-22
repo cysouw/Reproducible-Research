@@ -1,0 +1,882 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Yucatec Maya	1	EAT	haan	Basic	sbj[1].V 1	1	eater	sbj.V	S
+Yucatec Maya	1	EAT	haan	Derived	sbj[1].V'extra.obj[3] 3 1	1	eater	sbj.V	
+Yucatec Maya	1	EAT	haan	Derived	sbj[1].V'extra.obj[3] 3 1	3	eaten food	V.obj	
+Yucatec Maya	1	EAT	haant	Basic	sbj[1].V.obj[2] 2 1	1	eater	sbj.V	A
+Yucatec Maya	1	EAT	haant	Basic	sbj[1].V.obj[2] 2 1	2	eaten food	V.obj	P
+Yucatec Maya	1	EAT	haant	Derived	sbj[2].V'pass 2 (tumen+1)	1	eater	tumen+NP	
+Yucatec Maya	1	EAT	haant	Derived	sbj[2].V'pass 2 (tumen+1)	2	eaten food	sbj.V	
+Yucatec Maya	2	HUG	méek'	Basic	sbj[1].V.obj[2] 2 1	1	hugger	sbj.V	A
+Yucatec Maya	2	HUG	méek'	Basic	sbj[1].V.obj[2] 2 1	2	huggee	V.obj	P
+Yucatec Maya	2	HUG	méek'	Derived	sbj[1/2].V'	1	hugger	sbj.V	
+Yucatec Maya	2	HUG	méek'	Derived	sbj[1/2].V'	2	huggee	sbj.V	
+Yucatec Maya	2	HUG	méek'	Derived	sbj[2].V'pass 2 (tumen+1)	1	hugger	tumen+NP	
+Yucatec Maya	2	HUG	méek'	Derived	sbj[2].V'pass 2 (tumen+1)	2	huggee	sbj.V	
+Yucatec Maya	3	LOOK AT	pakat	Basic	sbj[1].V.obj[2] 2 1	1	looker	sbj.V	A
+Yucatec Maya	3	LOOK AT	pakat	Basic	sbj[1].V.obj[2] 2 1	2	looked at entity	V.obj	P
+Yucatec Maya	3	LOOK AT	pakat	Derived	sbj[1].V'intro 1	1	looker	sbj.V	
+Yucatec Maya	3	LOOK AT	pakat	Derived	sbj[1/2].V'	1	looker	sbj.V	
+Yucatec Maya	3	LOOK AT	pakat	Derived	sbj[1/2].V'	2	looked at entity	sbj.V	
+Yucatec Maya	3	LOOK AT	pakat	Derived	sbj[2].V'pass 2 (tumen+1)	1	looker	tumen+NP	
+Yucatec Maya	3	LOOK AT	pakat	Derived	sbj[2].V'pass 2 (tumen+1)	2	looked at entity	sbj.V	
+Yucatec Maya	4	SEE	il	Basic	sbj[1].V.obj[2] 2 1	1	seeer	sbj.V	A
+Yucatec Maya	4	SEE	il	Basic	sbj[1].V.obj[2] 2 1	2	seen entity	V.obj	P
+Yucatec Maya	4	SEE	il	Derived	sbj[1/2].V'	1	seeer	sbj.V	
+Yucatec Maya	4	SEE	il	Derived	sbj[1/2].V'	2	seen entity	sbj.V	
+Yucatec Maya	4	SEE	il	Derived	sbj[2].V'pass 2 (tumen+1)	1	seeer	tumen+NP	
+Yucatec Maya	4	SEE	il	Derived	sbj[2].V'pass 2 (tumen+1)	2	seen entity	sbj.V	
+Yucatec Maya	5	SMELL	ch'a'bok	Basic	sbj[1].V 1	1	smeller	sbj.V	S
+Yucatec Maya	5	SMELL	ch'a'bok	Derived	sbj[1].V'extra.obj[3] 3 1	1	smeller	sbj.V	
+Yucatec Maya	5	SMELL	ch'a'bok	Derived	sbj[1].V'extra.obj[3] 3 1	3	smelled entity	V.obj	
+Yucatec Maya	5	SMELL	ch'a'bokt	Basic	sbj[1].V.obj[2] 2 1	1	smeller	sbj.V	A
+Yucatec Maya	5	SMELL	ch'a'bokt	Basic	sbj[1].V.obj[2] 2 1	2	smelled entity	V.obj	P
+Yucatec Maya	5	SMELL	ch'a'bokt	Derived	sbj[1/2].V'	1	smeller	sbj.V	
+Yucatec Maya	5	SMELL	ch'a'bokt	Derived	sbj[1/2].V'	2	smelled entity	sbj.V	
+Yucatec Maya	5	SMELL	ch'a'bokt	Derived	sbj[2].V'pass 2 (tumen+1)	1	smeller	tumen+NP	
+Yucatec Maya	5	SMELL	ch'a'bokt	Derived	sbj[2].V'pass 2 (tumen+1)	2	smelled entity	sbj.V	
+Yucatec Maya	5	SMELL	u'y	Basic	sbj[1].V.obj[2] 2 1	1	smeller	sbj.V	A
+Yucatec Maya	5	SMELL	u'y	Basic	sbj[1].V.obj[2] 2 1	2	smelled entity	V.obj	P
+Yucatec Maya	5	SMELL	u'y	Derived	sbj[1/2].V'	1	smeller	sbj.V	
+Yucatec Maya	5	SMELL	u'y	Derived	sbj[1/2].V'	2	smelled entity	sbj.V	
+Yucatec Maya	5	SMELL	u'y	Derived	sbj[2].V'pass 2 (tumen+1)	1	smeller	tumen+NP	
+Yucatec Maya	5	SMELL	u'y	Derived	sbj[2].V'pass 2 (tumen+1)	2	smelled entity	sbj.V	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Basic	sbj[1].V.obj[2] 2 1	1	fearer	sbj.V	A
+Yucatec Maya	6	FEAR	ch'a' sahakil	Basic	sbj[1].V.obj[2] 2 1	2	fear stimulus	V.obj	P
+Yucatec Maya	6	FEAR	ch'a' sahakil	Derived	sbj[1/2].V'	1	fearer	sbj.V	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Derived	sbj[1/2].V'	2	fear stimulus	sbj.V	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Derived	sbj[2].V'pass 2 (tumen+1)	1	fearer	tumen+NP	
+Yucatec Maya	6	FEAR	ch'a' sahakil	Derived	sbj[2].V'pass 2 (tumen+1)	2	fear stimulus	sbj.V	
+Yucatec Maya	6	FEAR	sahak	Basic	sbj[1].V ti'+2 1	1	fearer	sbj.V	S
+Yucatec Maya	6	FEAR	sahak	Basic	sbj[1].V ti'+2 1	2	fear stimulus	ti'+NP	X
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[1].V' ti'+2 1	1	fearer	sbj.V	
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[1].V' ti'+2 1	2	fear stimulus	ti'+NP	
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[1/2].V'	1	fearer	sbj.V	
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[1/2].V'	2	fear stimulus	sbj.V	
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[2].V'caus.obj[1] 1 2	1	fearer	V.obj	
+Yucatec Maya	6	FEAR	sahak	Derived	sbj[2].V'caus.obj[1] 1 2	2	fear stimulus	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Basic	sbj[1].V.obj[2] 2 1	1	frightener	sbj.V	A
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Basic	sbj[1].V.obj[2] 2 1	2	frightenee	V.obj	P
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Derived	sbj[1/2].V'	1	frightener	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Derived	sbj[1/2].V'	2	frightenee	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Derived	sbj[2].V'pass 2 (tumen+1)	1	frightener	tumen+NP	
+Yucatec Maya	7	FRIGHTEN	sahakkuns	Derived	sbj[2].V'pass 2 (tumen+1)	2	frightenee	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahbes	Basic	sbj[1].V.obj[2] 2 1	1	frightener	sbj.V	A
+Yucatec Maya	7	FRIGHTEN	sahbes	Basic	sbj[1].V.obj[2] 2 1	2	frightenee	V.obj	P
+Yucatec Maya	7	FRIGHTEN	sahbes	Derived	sbj[1/2].V'	1	frightener	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahbes	Derived	sbj[1/2].V'	2	frightenee	sbj.V	
+Yucatec Maya	7	FRIGHTEN	sahbes	Derived	sbj[2].V'pass 2 (tumen+1)	1	frightener	tumen+NP	
+Yucatec Maya	7	FRIGHTEN	sahbes	Derived	sbj[2].V'pass 2 (tumen+1)	2	frightenee	sbj.V	
+Yucatec Maya	8	LIKE	uts ti' ich	Basic	sbj[1].V.obj[2] 2 1	1	liked entity	sbj.V	A
+Yucatec Maya	8	LIKE	uts ti' ich	Basic	sbj[1].V.obj[2] 2 1	2	liker	V.obj	P
+Yucatec Maya	8	LIKE	uts ti' ich	Derived	sbj[1].V' 1	1	liked entity	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóol	Basic	sbj[1].V.obj[2] 2 1	1	knower	sbj.V	A
+Yucatec Maya	9	KNOW	k'ahóol	Basic	sbj[1].V.obj[2] 2 1	2	known thing/person	V.obj	P
+Yucatec Maya	9	KNOW	k'ahóol	Derived	sbj[1].V'extra.obj[2] 2 1	1	knower	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóol	Derived	sbj[1].V'extra.obj[2] 2 1	2	known thing/person	V.obj	
+Yucatec Maya	9	KNOW	k'ahóol	Derived	sbj[1/2].V'	1	knower	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóol	Derived	sbj[1/2].V'	2	known thing/person	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóolt	Basic	sbj[1].V.obj[2] 2 1	1	knower	sbj.V	A
+Yucatec Maya	9	KNOW	k'ahóolt	Basic	sbj[1].V.obj[2] 2 1	2	known thing/person	V.obj	P
+Yucatec Maya	9	KNOW	k'ahóolt	Derived	sbj[1/2].V'	1	knower	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóolt	Derived	sbj[1/2].V'	2	known thing/person	sbj.V	
+Yucatec Maya	9	KNOW	k'ahóolt	Derived	sbj[2].V'pass 2 (tumen+1)	1	knower	tumen+NP	
+Yucatec Maya	9	KNOW	k'ahóolt	Derived	sbj[2].V'pass 2 (tumen+1)	2	known thing/person	sbj.V	
+Yucatec Maya	10	THINK	tukult	Basic	sbj[1].V.obj[2] 2 1	1	thinker	sbj.V	A
+Yucatec Maya	10	THINK	tukult	Basic	sbj[1].V.obj[2] 2 1	2	thought content	V.obj	P
+Yucatec Maya	10	THINK	tukult	Derived	sbj[1/2].V'	1	thinker	sbj.V	
+Yucatec Maya	10	THINK	tukult	Derived	sbj[1/2].V'	2	thought content	sbj.V	
+Yucatec Maya	10	THINK	tukult	Derived	sbj[2].V'pass 2 (tumen+1)	1	thinker	tumen+NP	
+Yucatec Maya	10	THINK	tukult	Derived	sbj[2].V'pass 2 (tumen+1)	2	thought content	sbj.V	
+Yucatec Maya	10	THINK	tuukul	Basic	sbj[1].V 1	1	thinker	sbj.V	S
+Yucatec Maya	10	THINK	tuukul	Derived	sbj[1].V'extra.obj[3] 3 1	1	thinker	sbj.V	
+Yucatec Maya	10	THINK	tuukul	Derived	sbj[1].V'extra.obj[3] 3 1	3	thought content	V.obj	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Basic	sbj[1].V.obj[2] 2 1	1	searcher	sbj.V	A
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Basic	sbj[1].V.obj[2] 2 1	2	searched for thing	V.obj	P
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Derived	sbj[1/2].V'	1	searcher	sbj.V	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Derived	sbj[1/2].V'	2	searched for thing	sbj.V	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Derived	sbj[2].V'pass 2 (tumen+1)	1	searcher	tumen+NP	
+Yucatec Maya	11	SEARCH FOR	kax(an)t	Derived	sbj[2].V'pass 2 (tumen+1)	2	searched for thing	sbj.V	
+Yucatec Maya	12	WASH	ichkíil	Basic	sbj[1].V 1	1	washer	sbj.V	S
+Yucatec Maya	12	WASH	ichkíil	Derived	sbj[1].V'extra.obj[3] 3 1	1	washer	sbj.V	
+Yucatec Maya	12	WASH	ichkíil	Derived	sbj[1].V'extra.obj[3] 3 1	3	washed entity	V.obj	
+Yucatec Maya	12	WASH	ichkíil	Derived	sbj[2].V'caus.obj[1] 1 2	1	washer	V.obj	
+Yucatec Maya	12	WASH	ichkíil	Derived	sbj[2].V'caus.obj[1] 1 2	2	wash causer	sbj.V	
+Yucatec Maya	12	WASH	ichíint	Basic	sbj[1].V.obj[2] 2 1	1	washer	sbj.V	A
+Yucatec Maya	12	WASH	ichíint	Basic	sbj[1].V.obj[2] 2 1	2	washing instrument	V.obj	P
+Yucatec Maya	12	WASH	ichíint	Derived	sbj[2].V'pass 2 (tumen+1)	1	washer	tumen+NP	
+Yucatec Maya	12	WASH	ichíint	Derived	sbj[2].V'pass 2 (tumen+1)	2	washing instrument	sbj.V	
+Yucatec Maya	12	WASH	isíins	Basic	sbj[1].V.obj[2] 2 1	1	washer	sbj.V	A
+Yucatec Maya	12	WASH	isíins	Basic	sbj[1].V.obj[2] 2 1	2	washed entity	V.obj	P
+Yucatec Maya	12	WASH	isíins	Derived	sbj[1/2].V'	1	washer	sbj.V	
+Yucatec Maya	12	WASH	isíins	Derived	sbj[1/2].V'	2	washed entity	sbj.V	
+Yucatec Maya	12	WASH	isíins	Derived	sbj[2].V'pass 2 (tumen+1)	1	washer	tumen+NP	
+Yucatec Maya	12	WASH	isíins	Derived	sbj[2].V'pass 2 (tumen+1)	2	washed entity	sbj.V	
+Yucatec Maya	13	DRESS	búukint	Basic	sbj[1].V.obj[2] 2 1	1	dresser	sbj.V	A
+Yucatec Maya	13	DRESS	búukint	Basic	sbj[1].V.obj[2] 2 1	2	clothes	V.obj	P
+Yucatec Maya	13	DRESS	búukint	Derived	sbj[2].V'pass 2 (tumen+1)	1	dresser	tumen+NP	
+Yucatec Maya	13	DRESS	búukint	Derived	sbj[2].V'pass 2 (tumen+1)	2	clothes	sbj.V	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Basic	sbj[1].V.obj[2] 2 1	1	shaver (of body part)	sbj.V	A
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Basic	sbj[1].V.obj[2] 2 1	2	shaved body part	V.obj	P
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[1].V' 1	1	shaver (of body part)	sbj.V	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[1].V'intro 1	1	shaver (of body part)	sbj.V	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[1/2].V'	1	shaver (of body part)	sbj.V	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[1/2].V'	2	shaved body part	sbj.V	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[2].V'pass 2 (tumen+1)	1	shaver (of body part)	tumen+NP	
+Yucatec Maya	14	SHAVE (a body part/person)	ts'ik	Derived	sbj[2].V'pass 2 (tumen+1)	2	shaved body part	sbj.V	
+Yucatec Maya	15	HELP	áant	Basic	sbj[1].V.obj[2] 2 1	1	helper	sbj.V	A
+Yucatec Maya	15	HELP	áant	Basic	sbj[1].V.obj[2] 2 1	2	helpee	V.obj	P
+Yucatec Maya	15	HELP	áant	Derived	sbj[1].V'intro 1	1	helper	sbj.V	
+Yucatec Maya	15	HELP	áant	Derived	sbj[1/2].V'	1	helper	sbj.V	
+Yucatec Maya	15	HELP	áant	Derived	sbj[1/2].V'	2	helpee	sbj.V	
+Yucatec Maya	15	HELP	áant	Derived	sbj[2].V'pass 2 (tumen+1)	1	helper	tumen+NP	
+Yucatec Maya	15	HELP	áant	Derived	sbj[2].V'pass 2 (tumen+1)	2	helpee	sbj.V	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Basic	sbj[1].V.obj[2] 2 1	1	follower	sbj.V	A
+Yucatec Maya	16	FOLLOW	ch'a' paach	Basic	sbj[1].V.obj[2] 2 1	2	followee	V.obj	P
+Yucatec Maya	16	FOLLOW	ch'a' paach	Derived	sbj[1].V' 1	1	follower	sbj.V	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Derived	sbj[2].V'pass 2 (tumen+1)	1	follower	tumen+NP	
+Yucatec Maya	16	FOLLOW	ch'a' paach	Derived	sbj[2].V'pass 2 (tumen+1)	2	followee	sbj.V	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Basic	sbj[1].V.obj[2] 2 1	1	follower	sbj.V	A
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Basic	sbj[1].V.obj[2] 2 1	2	followee	V.obj	P
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Derived	sbj[1/2].V'	1	follower	sbj.V	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Derived	sbj[1/2].V'	2	followee	sbj.V	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Derived	sbj[2].V'pass 2 (tumen+1)	1	follower	tumen+NP	
+Yucatec Maya	16	FOLLOW	ch'a'paacht	Derived	sbj[2].V'pass 2 (tumen+1)	2	followee	sbj.V	
+Yucatec Maya	16	FOLLOW	tsaypacht	Basic	sbj[1].V.obj[2] 2 1	1	follower	sbj.V	A
+Yucatec Maya	16	FOLLOW	tsaypacht	Basic	sbj[1].V.obj[2] 2 1	2	followee	V.obj	P
+Yucatec Maya	16	FOLLOW	tsaypacht	Derived	sbj[1/2].V'	1	follower	sbj.V	
+Yucatec Maya	16	FOLLOW	tsaypacht	Derived	sbj[1/2].V'	2	followee	sbj.V	
+Yucatec Maya	16	FOLLOW	tsaypacht	Derived	sbj[2].V'pass 2 (tumen+1)	1	follower	tumen+NP	
+Yucatec Maya	16	FOLLOW	tsaypacht	Derived	sbj[2].V'pass 2 (tumen+1)	2	followee	sbj.V	
+Yucatec Maya	17	MEET	naktáant	Basic	sbj[1].V.obj[2] 2 1	1	meeter	sbj.V	A
+Yucatec Maya	17	MEET	naktáant	Basic	sbj[1].V.obj[2] 2 1	2	met person	V.obj	P
+Yucatec Maya	17	MEET	naktáant	Derived	sbj[1/2].V'	1	meeter	sbj.V	
+Yucatec Maya	17	MEET	naktáant	Derived	sbj[1/2].V'	2	met person	sbj.V	
+Yucatec Maya	17	MEET	naktáant	Derived	sbj[2].V'pass 2 (tumen+1)	1	meeter	tumen+NP	
+Yucatec Maya	17	MEET	naktáant	Derived	sbj[2].V'pass 2 (tumen+1)	2	met person	sbj.V	
+Yucatec Maya	17	MEET	nuptáant	Basic	sbj[1].V.obj[2] 2 1	1	meeter	sbj.V	A
+Yucatec Maya	17	MEET	nuptáant	Basic	sbj[1].V.obj[2] 2 1	2	met obstacle/thing	V.obj	P
+Yucatec Maya	17	MEET	nuptáant	Derived	sbj[1/2].V'	1	meeter	sbj.V	
+Yucatec Maya	17	MEET	nuptáant	Derived	sbj[1/2].V'	2	met obstacle/thing	sbj.V	
+Yucatec Maya	17	MEET	nuptáant	Derived	sbj[2].V'pass 2 (tumen+1)	1	meeter	tumen+NP	
+Yucatec Maya	17	MEET	nuptáant	Derived	sbj[2].V'pass 2 (tumen+1)	2	met obstacle/thing	sbj.V	
+Yucatec Maya	18	TALK	t'aan	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	1	talker	sbj.V	S
+Yucatec Maya	18	TALK	t'aan	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	2	talked to person	yéetel+NP	I
+Yucatec Maya	18	TALK	t'aan	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	3	talked about content	yóok'ol+NP	X
+Yucatec Maya	18	TALK	t'aan	Derived	sbj[1/2].V' (yóok'ol+3)	1	talker	sbj.V	
+Yucatec Maya	18	TALK	t'aan	Derived	sbj[1/2].V' (yóok'ol+3)	2	talked to person	sbj.V	
+Yucatec Maya	18	TALK	t'aan	Derived	sbj[1/2].V' (yóok'ol+3)	3	talked about content	yóok'ol+NP	
+Yucatec Maya	18	TALK	tsikbal	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	1	talker	sbj.V	S
+Yucatec Maya	18	TALK	tsikbal	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	2	talked to person	yéetel+NP	I
+Yucatec Maya	18	TALK	tsikbal	Basic	sbj[1].V 1 yéetel+2 yóok'ol+3	3	talked about content	yóok'ol+NP	X
+Yucatec Maya	18	TALK	tsikbal	Derived	sbj[1].V'extra.obj[3] 3 1 ti'+2	1	talker	sbj.V	
+Yucatec Maya	18	TALK	tsikbal	Derived	sbj[1].V'extra.obj[3] 3 1 ti'+2	2	talked to person	ti'+NP	
+Yucatec Maya	18	TALK	tsikbal	Derived	sbj[1].V'extra.obj[3] 3 1 ti'+2	3	talked about content	V.obj	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	asker	sbj.V	A
+Yucatec Maya	19	ASK FOR	k'áat (2)	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	requested thing	V.obj	P
+Yucatec Maya	19	ASK FOR	k'áat (2)	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	askee	ti'+NP	X
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[1].V'intro 1	1	asker	sbj.V	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[1/2].V' ti'+3	1	asker	sbj.V	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[1/2].V' ti'+3	2	requested thing	sbj.V	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[1/2].V' ti'+3	3	askee	ti'+NP	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	asker	tumen+NP	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	requested thing	sbj.V	
+Yucatec Maya	19	ASK FOR	k'áat (2)	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	askee	ti'+NP	
+Yucatec Maya	20	SHOUT AT	awat (2)	Basic	sbj[1].V.obj[2] 2 1	1	shouter	sbj.V	A
+Yucatec Maya	20	SHOUT AT	awat (2)	Basic	sbj[1].V.obj[2] 2 1	2	shoutee	V.obj	P
+Yucatec Maya	20	SHOUT AT	awat (2)	Derived	sbj[1/2].V'	1	shouter	sbj.V	
+Yucatec Maya	20	SHOUT AT	awat (2)	Derived	sbj[1/2].V'	2	shoutee	sbj.V	
+Yucatec Maya	20	SHOUT AT	awat (2)	Derived	sbj[2].V'pass 2 (tumen+1)	1	shouter	tumen+NP	
+Yucatec Maya	20	SHOUT AT	awat (2)	Derived	sbj[2].V'pass 2 (tumen+1)	2	shoutee	sbj.V	
+Yucatec Maya	21	TELL	tsikbat	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	teller	sbj.V	A
+Yucatec Maya	21	TELL	tsikbat	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	told content	V.obj	P
+Yucatec Maya	21	TELL	tsikbat	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	tellee	ti'+NP	X
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[1/2].V' ti'+3	1	teller	sbj.V	
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[1/2].V' ti'+3	2	told content	sbj.V	
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[1/2].V' ti'+3	3	tellee	ti'+NP	
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	teller	tumen+NP	
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	told content	sbj.V	
+Yucatec Maya	21	TELL	tsikbat	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	tellee	ti'+NP	
+Yucatec Maya	22	SAY	a'l	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	sayer	sbj.V	A
+Yucatec Maya	22	SAY	a'l	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	said content	V.obj	P
+Yucatec Maya	22	SAY	a'l	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	saying addressee	ti'+NP	X
+Yucatec Maya	22	SAY	a'l	Derived	sbj[1/2].V' ti'+3	1	sayer	sbj.V	
+Yucatec Maya	22	SAY	a'l	Derived	sbj[1/2].V' ti'+3	2	said content	sbj.V	
+Yucatec Maya	22	SAY	a'l	Derived	sbj[1/2].V' ti'+3	3	saying addressee	ti'+NP	
+Yucatec Maya	22	SAY	a'l	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	sayer	tumen+NP	
+Yucatec Maya	22	SAY	a'l	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	said content	sbj.V	
+Yucatec Maya	22	SAY	a'l	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	saying addressee	ti'+NP	
+Yucatec Maya	23	NAME	k'aaba'	Basic	sbj[1].V 1	1	name	sbj.V	S
+Yucatec Maya	23	NAME	k'aaba'	Derived	sbj[2].V'usat.obj[1] 1 2	1	name	V.obj	
+Yucatec Maya	23	NAME	k'aaba'	Derived	sbj[2].V'usat.obj[1] 1 2	2	namer	sbj.V	
+Yucatec Maya	24	BUILD	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	builder	sbj.V	A
+Yucatec Maya	24	BUILD	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	built thing	V.obj	P
+Yucatec Maya	24	BUILD	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	building material	yéetel+NP	I
+Yucatec Maya	24	BUILD	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	builder	tumen+NP	
+Yucatec Maya	24	BUILD	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	built thing	sbj.V	
+Yucatec Maya	24	BUILD	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	building material	yéetel+NP	
+Yucatec Maya	25	BREAK	kach	Basic	sbj[1].V.obj[2] 2 1	1	breaker	sbj.V	A
+Yucatec Maya	25	BREAK	kach	Basic	sbj[1].V.obj[2] 2 1	2	broken thing	V.obj	P
+Yucatec Maya	25	BREAK	kach	Derived	sbj[1].V' 1	1	breaker	sbj.V	
+Yucatec Maya	25	BREAK	kach	Derived	sbj[2].V'deag 2	2	broken thing	sbj.V	
+Yucatec Maya	25	BREAK	kach	Derived	sbj[2].V'pass 2 (tumen+1)	1	breaker	tumen+NP	
+Yucatec Maya	25	BREAK	kach	Derived	sbj[2].V'pass 2 (tumen+1)	2	broken thing	sbj.V	
+Yucatec Maya	25	BREAK	pa'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	breaker	sbj.V	A
+Yucatec Maya	25	BREAK	pa'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	broken thing	V.obj	P
+Yucatec Maya	25	BREAK	pa'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	breaking instrument	yéetel+NP	I
+Yucatec Maya	25	BREAK	pa'	Derived	sbj[1].V' (yéetel+3) 1	1	breaker	sbj.V	
+Yucatec Maya	25	BREAK	pa'	Derived	sbj[1].V' (yéetel+3) 1	3	breaking instrument	yéetel+NP	
+Yucatec Maya	25	BREAK	pa'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	breaker	tumen+NP	
+Yucatec Maya	25	BREAK	pa'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	broken thing	sbj.V	
+Yucatec Maya	25	BREAK	pa'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	breaking instrument	yéetel+NP	
+Yucatec Maya	26	KILL	kíins	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	killer	sbj.V	A
+Yucatec Maya	26	KILL	kíins	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	killee	V.obj	P
+Yucatec Maya	26	KILL	kíins	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	killing instrument	yéetel+NP	I
+Yucatec Maya	26	KILL	kíins	Derived	sbj[1].V'intro 1	1	killer	sbj.V	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[1/2].V' (yéetel+3)	1	killer	sbj.V	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[1/2].V' (yéetel+3)	2	killee	sbj.V	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[1/2].V' (yéetel+3)	3	killing instrument	yéetel+NP	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	killer	tumen+NP	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	killee	sbj.V	
+Yucatec Maya	26	KILL	kíins	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	killing instrument	yéetel+NP	
+Yucatec Maya	27	BEAT	p'uch	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	beater	sbj.V	A
+Yucatec Maya	27	BEAT	p'uch	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	beatee	V.obj	P
+Yucatec Maya	27	BEAT	p'uch	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	beating instrument	yéetel+NP	I
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[1].V' (yéetel+3) 1	1	beater	sbj.V	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[1].V' (yéetel+3) 1	3	beating instrument	yéetel+NP	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[1/2].V' (yéetel+3)	1	beater	sbj.V	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[1/2].V' (yéetel+3)	2	beatee	sbj.V	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[1/2].V' (yéetel+3)	3	beating instrument	yéetel+NP	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	beater	tumen+NP	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	beatee	sbj.V	
+Yucatec Maya	27	BEAT	p'uch	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	beating instrument	yéetel+NP	
+Yucatec Maya	28	HIT	hats'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	hitter	sbj.V	A
+Yucatec Maya	28	HIT	hats'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	hittee	V.obj	P
+Yucatec Maya	28	HIT	hats'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	hitting instrument	yéetel+NP	I
+Yucatec Maya	28	HIT	hats'	Derived	sbj[1].V' (yéetel+3) 1	1	hitter	sbj.V	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[1].V' (yéetel+3) 1	3	hitting instrument	yéetel+NP	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[1/2].V' (yéetel+3)	1	hitter	sbj.V	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[1/2].V' (yéetel+3)	2	hittee	sbj.V	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[1/2].V' (yéetel+3)	3	hitting instrument	yéetel+NP	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	hitter	tumen+NP	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	hittee	sbj.V	
+Yucatec Maya	28	HIT	hats'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	hitting instrument	yéetel+NP	
+Yucatec Maya	28	HIT	koh	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	hitter	sbj.V	A
+Yucatec Maya	28	HIT	koh	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	hittee	V.obj	P
+Yucatec Maya	28	HIT	koh	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	hitting instrument	yéetel+NP	I
+Yucatec Maya	28	HIT	koh	Derived	sbj[1/2].V' (yéetel+3)	1	hitter	sbj.V	
+Yucatec Maya	28	HIT	koh	Derived	sbj[1/2].V' (yéetel+3)	2	hittee	sbj.V	
+Yucatec Maya	28	HIT	koh	Derived	sbj[1/2].V' (yéetel+3)	3	hitting instrument	yéetel+NP	
+Yucatec Maya	28	HIT	koh	Derived	sbj[2].V'deag 2 (yéetel+3)	2	hittee	sbj.V	
+Yucatec Maya	28	HIT	koh	Derived	sbj[2].V'deag 2 (yéetel+3)	3	hitting instrument	yéetel+NP	
+Yucatec Maya	28	HIT	koh	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	hitter	tumen+NP	
+Yucatec Maya	28	HIT	koh	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	hittee	sbj.V	
+Yucatec Maya	28	HIT	koh	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	hitting instrument	yéetel+NP	
+Yucatec Maya	29	TOUCH	mach	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	toucher	sbj.V	A
+Yucatec Maya	29	TOUCH	mach	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	touchee	V.obj	P
+Yucatec Maya	29	TOUCH	mach	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	touching instrument	yéetel+NP	I
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[1].V' (yéetel+3) 1	1	toucher	sbj.V	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[1].V' (yéetel+3) 1	3	touching instrument	yéetel+NP	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[1/2].V' (yéetel+3)	1	toucher	sbj.V	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[1/2].V' (yéetel+3)	2	touchee	sbj.V	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[1/2].V' (yéetel+3)	3	touching instrument	yéetel+NP	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	toucher	tumen+NP	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	touchee	sbj.V	
+Yucatec Maya	29	TOUCH	mach	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	touching instrument	yéetel+NP	
+Yucatec Maya	30	CUT	xot	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	cutter	sbj.V	A
+Yucatec Maya	30	CUT	xot	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	cut thing	V.obj	P
+Yucatec Maya	30	CUT	xot	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	cutting instrument	yéetel+NP	I
+Yucatec Maya	30	CUT	xot	Derived	sbj[1].V'intro 1	1	cutter	sbj.V	
+Yucatec Maya	30	CUT	xot	Derived	sbj[1/2].V' (yéetel+3)	1	cutter	sbj.V	
+Yucatec Maya	30	CUT	xot	Derived	sbj[1/2].V' (yéetel+3)	2	cut thing	sbj.V	
+Yucatec Maya	30	CUT	xot	Derived	sbj[1/2].V' (yéetel+3)	3	cutting instrument	yéetel+NP	
+Yucatec Maya	30	CUT	xot	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	cutter	tumen+NP	
+Yucatec Maya	30	CUT	xot	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	cut thing	sbj.V	
+Yucatec Maya	30	CUT	xot	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	cutting instrument	yéetel+NP	
+Yucatec Maya	31	TAKE	ch'a'	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	taker	sbj.V	A
+Yucatec Maya	31	TAKE	ch'a'	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	taken thing	V.obj	P
+Yucatec Maya	31	TAKE	ch'a'	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	taking source	ti'+NP	X
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[1].V' ti'+3 1	1	taker	sbj.V	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[1].V' ti'+3 1	3	taking source	ti'+NP	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[1].V'.obj[2] 2 1	1	taker	sbj.V	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[1].V'.obj[2] 2 1	2	taken thing	V.obj	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	taker	tumen+NP	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	taken thing	sbj.V	
+Yucatec Maya	31	TAKE	ch'a'	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	taking source	ti'+NP	
+Yucatec Maya	32	TEAR	hat	Basic	sbj[1].V.obj[2] 2 1	1	tearer	sbj.V	A
+Yucatec Maya	32	TEAR	hat	Basic	sbj[1].V.obj[2] 2 1	2	torn thing	V.obj	P
+Yucatec Maya	32	TEAR	hat	Derived	sbj[2].V'deag 2	2	torn thing	sbj.V	
+Yucatec Maya	32	TEAR	hat	Derived	sbj[2].V'pass 2 (tumen+1)	1	tearer	tumen+NP	
+Yucatec Maya	32	TEAR	hat	Derived	sbj[2].V'pass 2 (tumen+1)	2	torn thing	sbj.V	
+Yucatec Maya	33	PEEL	cheppóolt	Basic	sbj[1].V.obj[2] 2 1	1	peeler	sbj.V	A
+Yucatec Maya	33	PEEL	cheppóolt	Basic	sbj[1].V.obj[2] 2 1	2	peeled object	V.obj	P
+Yucatec Maya	33	PEEL	cheppóolt	Derived	sbj[2].V'pass 2 (tumen+1)	1	peeler	tumen+NP	
+Yucatec Maya	33	PEEL	cheppóolt	Derived	sbj[2].V'pass 2 (tumen+1)	2	peeled object	sbj.V	
+Yucatec Maya	33	PEEL	lak	Basic	sbj[1].V.obj[2] 2 1	1	peeler	sbj.V	A
+Yucatec Maya	33	PEEL	lak	Basic	sbj[1].V.obj[2] 2 1	2	peel	V.obj	P
+Yucatec Maya	33	PEEL	lak	Derived	sbj[2].V'deag 2	2	peel	sbj.V	
+Yucatec Maya	33	PEEL	lak	Derived	sbj[2].V'pass 2 (tumen+1)	1	peeler	tumen+NP	
+Yucatec Maya	33	PEEL	lak	Derived	sbj[2].V'pass 2 (tumen+1)	2	peel	sbj.V	
+Yucatec Maya	33	PEEL	sóolt	Basic	sbj[1].V.obj[2] 2 1	1	peeler	sbj.V	A
+Yucatec Maya	33	PEEL	sóolt	Basic	sbj[1].V.obj[2] 2 1	2	peel	V.obj	P
+Yucatec Maya	33	PEEL	sóolt	Derived	sbj[2].V'pass 2 (tumen+1)	1	peeler	tumen+NP	
+Yucatec Maya	33	PEEL	sóolt	Derived	sbj[2].V'pass 2 (tumen+1)	2	peel	sbj.V	
+Yucatec Maya	33	PEEL	ts'íil	Basic	sbj[1].V.obj[2] 2 1	1	peeler	sbj.V	A
+Yucatec Maya	33	PEEL	ts'íil	Basic	sbj[1].V.obj[2] 2 1	2	peeled object	V.obj	P
+Yucatec Maya	33	PEEL	ts'íil	Derived	sbj[1].V' 1	1	peeler	sbj.V	
+Yucatec Maya	33	PEEL	ts'íil	Derived	sbj[2].V'pass 2 (tumen+1)	1	peeler	tumen+NP	
+Yucatec Maya	33	PEEL	ts'íil	Derived	sbj[2].V'pass 2 (tumen+1)	2	peeled object	sbj.V	
+Yucatec Maya	34	HIDE	ta'k	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	hider	sbj.V	A
+Yucatec Maya	34	HIDE	ta'k	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	hidden thing	V.obj	P
+Yucatec Maya	34	HIDE	ta'k	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	hiding affectee	ti'+NP	X
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[1/2].V' ti'+3	1	hider	sbj.V	
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[1/2].V' ti'+3	2	hidden thing	sbj.V	
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[1/2].V' ti'+3	3	hiding affectee	ti'+NP	
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	hider	tumen+NP	
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	hidden thing	sbj.V	
+Yucatec Maya	34	HIDE	ta'k	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	hiding affectee	ti'+NP	
+Yucatec Maya	35	SHOW	e's	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	shower	sbj.V	A
+Yucatec Maya	35	SHOW	e's	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	shown thing	V.obj	P
+Yucatec Maya	35	SHOW	e's	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	showing addressee	ti'+NP	X
+Yucatec Maya	35	SHOW	e's	Derived	sbj[1].V'intro 1	1	shower	sbj.V	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[1/2].V' ti'+3	1	shower	sbj.V	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[1/2].V' ti'+3	2	shown thing	sbj.V	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[1/2].V' ti'+3	3	showing addressee	ti'+NP	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	shower	tumen+NP	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	shown thing	sbj.V	
+Yucatec Maya	35	SHOW	e's	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	showing addressee	ti'+NP	
+Yucatec Maya	36	GIVE	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	giver	sbj.V	A
+Yucatec Maya	36	GIVE	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	gift	V.obj	P
+Yucatec Maya	36	GIVE	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	giving recipient	LOC	L
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1].V' LOC3 1	1	giver	sbj.V	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1].V' LOC3 1	3	giving recipient	LOC	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1].V'.obj[2] 2 1	1	giver	sbj.V	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1].V'.obj[2] 2 1	2	gift	V.obj	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1/2].V' LOC3	1	giver	sbj.V	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1/2].V' LOC3	2	gift	sbj.V	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[1/2].V' LOC3	3	giving recipient	LOC	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	giver	tumen+NP	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	gift	sbj.V	
+Yucatec Maya	36	GIVE	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	giving recipient	LOC	
+Yucatec Maya	37	SEND	túuxt	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	sender	sbj.V	A
+Yucatec Maya	37	SEND	túuxt	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	sent thing	V.obj	P
+Yucatec Maya	37	SEND	túuxt	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	sending recipient	LOC	L
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[1/2].V' LOC3	1	sender	sbj.V	
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[1/2].V' LOC3	2	sent thing	sbj.V	
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[1/2].V' LOC3	3	sending recipient	LOC	
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	sender	tumen+NP	
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	sent thing	sbj.V	
+Yucatec Maya	37	SEND	túuxt	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	sending recipient	LOC	
+Yucatec Maya	38	CARRY	bis	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	carrier	sbj.V	A
+Yucatec Maya	38	CARRY	bis	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	carried thing	V.obj	P
+Yucatec Maya	38	CARRY	bis	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	carrying goal	LOC	L
+Yucatec Maya	38	CARRY	bis	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	carrier	tumen+NP	
+Yucatec Maya	38	CARRY	bis	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	carried thing	sbj.V	
+Yucatec Maya	38	CARRY	bis	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	carrying goal	LOC	
+Yucatec Maya	39	THROW	ch'in	Basic	sbj[1].V.obj[2] 2 1	1	thrower	sbj.V	A
+Yucatec Maya	39	THROW	ch'in	Basic	sbj[1].V.obj[2] 2 1	2	thrown thing	V.obj	P
+Yucatec Maya	39	THROW	ch'in	Derived	sbj[1].V' 1	1	thrower	sbj.V	
+Yucatec Maya	39	THROW	ch'in	Derived	sbj[1/2].V'	1	thrower	sbj.V	
+Yucatec Maya	39	THROW	ch'in	Derived	sbj[1/2].V'	2	thrown thing	sbj.V	
+Yucatec Maya	39	THROW	ch'in	Derived	sbj[2].V'pass 2 (tumen+1)	1	thrower	tumen+NP	
+Yucatec Maya	39	THROW	ch'in	Derived	sbj[2].V'pass 2 (tumen+1)	2	thrown thing	sbj.V	
+Yucatec Maya	39	THROW	pul	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	thrower	sbj.V	A
+Yucatec Maya	39	THROW	pul	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	thrown thing	V.obj	P
+Yucatec Maya	39	THROW	pul	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	throwing goal	LOC	L
+Yucatec Maya	39	THROW	pul	Derived	sbj[1].V' LOC3 1	1	thrower	sbj.V	
+Yucatec Maya	39	THROW	pul	Derived	sbj[1].V' LOC3 1	3	throwing goal	LOC	
+Yucatec Maya	39	THROW	pul	Derived	sbj[1].V'intro 1	1	thrower	sbj.V	
+Yucatec Maya	39	THROW	pul	Derived	sbj[1/2].V' LOC3	1	thrower	sbj.V	
+Yucatec Maya	39	THROW	pul	Derived	sbj[1/2].V' LOC3	2	thrown thing	sbj.V	
+Yucatec Maya	39	THROW	pul	Derived	sbj[1/2].V' LOC3	3	throwing goal	LOC	
+Yucatec Maya	39	THROW	pul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	thrower	tumen+NP	
+Yucatec Maya	39	THROW	pul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	thrown thing	sbj.V	
+Yucatec Maya	39	THROW	pul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	throwing goal	LOC	
+Yucatec Maya	40	TIE	k'ax	Basic	sbj[1].V.obj[2] 2 (ti'+3) (yéetel+4) 1	1	tier	sbj.V	A
+Yucatec Maya	40	TIE	k'ax	Basic	sbj[1].V.obj[2] 2 (ti'+3) (yéetel+4) 1	2	tied thing	V.obj	P
+Yucatec Maya	40	TIE	k'ax	Basic	sbj[1].V.obj[2] 2 (ti'+3) (yéetel+4) 1	3	tying goal	ti'+NP	X
+Yucatec Maya	40	TIE	k'ax	Basic	sbj[1].V.obj[2] 2 (ti'+3) (yéetel+4) 1	4	tying instrument	yéetel+NP	I
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[1].V'intro 1	1	tier	sbj.V	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[1/2].V' (ti'+3) (yéetel+4)	1	tier	sbj.V	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[1/2].V' (ti'+3) (yéetel+4)	2	tied thing	sbj.V	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[1/2].V' (ti'+3) (yéetel+4)	3	tying goal	ti'+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[1/2].V' (ti'+3) (yéetel+4)	4	tying instrument	yéetel+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'deag 2 (ti'+3) (yéetel+4)	2	tied thing	sbj.V	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'deag 2 (ti'+3) (yéetel+4)	3	tying goal	ti'+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'deag 2 (ti'+3) (yéetel+4)	4	tying instrument	yéetel+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'pass 2 (tumen+1) (ti'+3) (yéetel+4)	1	tier	tumen+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'pass 2 (tumen+1) (ti'+3) (yéetel+4)	2	tied thing	sbj.V	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'pass 2 (tumen+1) (ti'+3) (yéetel+4)	3	tying goal	ti'+NP	
+Yucatec Maya	40	TIE	k'ax	Derived	sbj[2].V'pass 2 (tumen+1) (ti'+3) (yéetel+4)	4	tying instrument	yéetel+NP	
+Yucatec Maya	41	PUT	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	putter	sbj.V	A
+Yucatec Maya	41	PUT	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	put thing	V.obj	P
+Yucatec Maya	41	PUT	ts'a'	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	putting goal	LOC	L
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1].V' LOC3 1	1	putter	sbj.V	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1].V' LOC3 1	3	putting goal	LOC	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1].V'.obj[2] 2 1	1	putter	sbj.V	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1].V'.obj[2] 2 1	2	put thing	V.obj	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1/2].V' LOC3	1	putter	sbj.V	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1/2].V' LOC3	2	put thing	sbj.V	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[1/2].V' LOC3	3	putting goal	LOC	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	putter	tumen+NP	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	put thing	sbj.V	
+Yucatec Maya	41	PUT	ts'a'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	putting goal	LOC	
+Yucatec Maya	42	POUR	láal	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	pourer	sbj.V	A
+Yucatec Maya	42	POUR	láal	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	poured substance	V.obj	P
+Yucatec Maya	42	POUR	láal	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	pouring goal	LOC	L
+Yucatec Maya	42	POUR	láal	Derived	sbj[1].V' LOC3 1	1	pourer	sbj.V	
+Yucatec Maya	42	POUR	láal	Derived	sbj[1].V' LOC3 1	3	pouring goal	LOC	
+Yucatec Maya	42	POUR	láal	Derived	sbj[1/2].V' LOC3	1	pourer	sbj.V	
+Yucatec Maya	42	POUR	láal	Derived	sbj[1/2].V' LOC3	2	poured substance	sbj.V	
+Yucatec Maya	42	POUR	láal	Derived	sbj[1/2].V' LOC3	3	pouring goal	LOC	
+Yucatec Maya	42	POUR	láal	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	pourer	tumen+NP	
+Yucatec Maya	42	POUR	láal	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	poured substance	sbj.V	
+Yucatec Maya	42	POUR	láal	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	pouring goal	LOC	
+Yucatec Maya	42	POUR	t'oh	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	pourer	sbj.V	A
+Yucatec Maya	42	POUR	t'oh	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	poured substance	V.obj	P
+Yucatec Maya	42	POUR	t'oh	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	pouring goal	LOC	L
+Yucatec Maya	42	POUR	t'oh	Derived	sbj[1].V' LOC3 1	1	pourer	sbj.V	
+Yucatec Maya	42	POUR	t'oh	Derived	sbj[1].V' LOC3 1	3	pouring goal	LOC	
+Yucatec Maya	42	POUR	t'oh	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	pourer	tumen+NP	
+Yucatec Maya	42	POUR	t'oh	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	poured substance	sbj.V	
+Yucatec Maya	42	POUR	t'oh	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	pouring goal	LOC	
+Yucatec Maya	43	COVER	pix	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	coverer	sbj.V	A
+Yucatec Maya	43	COVER	pix	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	covered thing	V.obj	P
+Yucatec Maya	43	COVER	pix	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	cover	yéetel+NP	I
+Yucatec Maya	43	COVER	pix	Derived	sbj[1].V' (yéetel+3) 1	1	coverer	sbj.V	
+Yucatec Maya	43	COVER	pix	Derived	sbj[1].V' (yéetel+3) 1	3	cover	yéetel+NP	
+Yucatec Maya	43	COVER	pix	Derived	sbj[1/2].V' (yéetel+3)	1	coverer	sbj.V	
+Yucatec Maya	43	COVER	pix	Derived	sbj[1/2].V' (yéetel+3)	2	covered thing	sbj.V	
+Yucatec Maya	43	COVER	pix	Derived	sbj[1/2].V' (yéetel+3)	3	cover	yéetel+NP	
+Yucatec Maya	43	COVER	pix	Derived	sbj[2].V'deag 2 (yéetel+3)	2	covered thing	sbj.V	
+Yucatec Maya	43	COVER	pix	Derived	sbj[2].V'deag 2 (yéetel+3)	3	cover	yéetel+NP	
+Yucatec Maya	43	COVER	pix	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	coverer	tumen+NP	
+Yucatec Maya	43	COVER	pix	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	covered thing	sbj.V	
+Yucatec Maya	43	COVER	pix	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	cover	yéetel+NP	
+Yucatec Maya	44	FILL	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	filler	sbj.V	A
+Yucatec Maya	44	FILL	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	filling material	V.obj	P
+Yucatec Maya	44	FILL	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	filled container	LOC	L
+Yucatec Maya	44	FILL	but'	Derived	sbj[1].V'.obj[2] 2 1	1	filler	sbj.V	
+Yucatec Maya	44	FILL	but'	Derived	sbj[1].V'.obj[2] 2 1	2	filling material	V.obj	
+Yucatec Maya	44	FILL	but'	Derived	sbj[2].V'deag 2 LOC3	2	filling material	sbj.V	
+Yucatec Maya	44	FILL	but'	Derived	sbj[2].V'deag 2 LOC3	3	filled container	LOC	
+Yucatec Maya	44	FILL	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	filler	tumen+NP	
+Yucatec Maya	44	FILL	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	filling material	sbj.V	
+Yucatec Maya	44	FILL	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	filled container	LOC	
+Yucatec Maya	44	FILL	chup	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	filler	sbj.V	A
+Yucatec Maya	44	FILL	chup	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	filled container	V.obj	P
+Yucatec Maya	44	FILL	chup	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	filling material	yéetel+NP	I
+Yucatec Maya	44	FILL	chup	Derived	sbj[2].V'deag 2 (yéetel+3)	2	filled container	sbj.V	
+Yucatec Maya	44	FILL	chup	Derived	sbj[2].V'deag 2 (yéetel+3)	3	filling material	yéetel+NP	
+Yucatec Maya	44	FILL	chup	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	filler	tumen+NP	
+Yucatec Maya	44	FILL	chup	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	filled container	sbj.V	
+Yucatec Maya	44	FILL	chup	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	filling material	yéetel+NP	
+Yucatec Maya	45	LOAD	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	loader	sbj.V	A
+Yucatec Maya	45	LOAD	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	loaded thing	V.obj	P
+Yucatec Maya	45	LOAD	but'	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	loading place	LOC	L
+Yucatec Maya	45	LOAD	but'	Derived	sbj[1].V'.obj[2] 2 1	1	loader	sbj.V	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[1].V'.obj[2] 2 1	2	loaded thing	V.obj	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[2].V'deag 2 LOC3	2	loaded thing	sbj.V	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[2].V'deag 2 LOC3	3	loading place	LOC	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	loader	tumen+NP	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	loaded thing	sbj.V	
+Yucatec Maya	45	LOAD	but'	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	loading place	LOC	
+Yucatec Maya	45	LOAD	kuch	Basic	sbj[1].V.obj[2] 2 1	1	loader	sbj.V	A
+Yucatec Maya	45	LOAD	kuch	Basic	sbj[1].V.obj[2] 2 1	2	loaded thing	V.obj	P
+Yucatec Maya	45	LOAD	kuch	Derived	sbj[1].V' 1	1	loader	sbj.V	
+Yucatec Maya	45	LOAD	kuch	Derived	sbj[2].V'pass 2 (tumen+1)	1	loader	tumen+NP	
+Yucatec Maya	45	LOAD	kuch	Derived	sbj[2].V'pass 2 (tumen+1)	2	loaded thing	sbj.V	
+Yucatec Maya	45	LOAD	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	loader	sbj.V	A
+Yucatec Maya	45	LOAD	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	loaded thing	V.obj	P
+Yucatec Maya	45	LOAD	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	loading place	LOC	L
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[1].V'.obj[2] 2 1	1	loader	sbj.V	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[1].V'.obj[2] 2 1	2	loaded thing	V.obj	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[1/2].V' LOC3	1	loader	sbj.V	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[1/2].V' LOC3	2	loaded thing	sbj.V	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[1/2].V' LOC3	3	loading place	LOC	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	loader	tumen+NP	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	loaded thing	sbj.V	
+Yucatec Maya	45	LOAD	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	loading place	LOC	
+Yucatec Maya	46	BLINK	chak'	Basic	sbj[1].V ti'+2 1	1	blinker	sbj.V	S
+Yucatec Maya	46	BLINK	chak'	Basic	sbj[1].V ti'+2 1	2	winked at person	ti'+NP	X
+Yucatec Maya	46	BLINK	chak'	Derived	sbj[1].V' ti'+2 1	1	blinker	sbj.V	
+Yucatec Maya	46	BLINK	chak'	Derived	sbj[1].V' ti'+2 1	2	winked at person	ti'+NP	
+Yucatec Maya	46	BLINK	chak'	Derived	sbj[1/2].V'	1	blinker	sbj.V	
+Yucatec Maya	46	BLINK	chak'	Derived	sbj[1/2].V'	2	winked at person	sbj.V	
+Yucatec Maya	46	BLINK	chak'ich	Basic	sbj[1].V ti'+2 1	1	blinker	sbj.V	S
+Yucatec Maya	46	BLINK	chak'ich	Basic	sbj[1].V ti'+2 1	2	winked at person	ti'+NP	X
+Yucatec Maya	46	BLINK	chak'ich	Derived	sbj[1].V'extra.obj[2] 2 1	1	blinker	sbj.V	
+Yucatec Maya	46	BLINK	chak'ich	Derived	sbj[1].V'extra.obj[2] 2 1	2	winked at person	V.obj	
+Yucatec Maya	46	BLINK	chak'icht	Basic	sbj[1].V.obj[2] 2 1	1	blinker	sbj.V	A
+Yucatec Maya	46	BLINK	chak'icht	Basic	sbj[1].V.obj[2] 2 1	2	winked at person	V.obj	P
+Yucatec Maya	46	BLINK	chak'icht	Derived	sbj[1/2].V'	1	blinker	sbj.V	
+Yucatec Maya	46	BLINK	chak'icht	Derived	sbj[1/2].V'	2	winked at person	sbj.V	
+Yucatec Maya	46	BLINK	chak'icht	Derived	sbj[2].V'pass 2 (tumen+1)	1	blinker	tumen+NP	
+Yucatec Maya	46	BLINK	chak'icht	Derived	sbj[2].V'pass 2 (tumen+1)	2	winked at person	sbj.V	
+Yucatec Maya	47	COUGH	sa'sa'kaal	Basic	sbj[1].V 1	1	cougher	sbj.V	S
+Yucatec Maya	47	COUGH	se'n	Basic	sbj[1].V 1	1	cougher	sbj.V	S
+Yucatec Maya	47	COUGH	se'n	Derived	sbj[1].V'extra.obj[3] 3 1	1	cougher	sbj.V	
+Yucatec Maya	47	COUGH	se'n	Derived	sbj[1].V'extra.obj[3] 3 1	3	coughed at person/bodypart	V.obj	
+Yucatec Maya	48	CLIMB	na'k	Basic	sbj[1].V LOC2 1	1	climber	sbj.V	S
+Yucatec Maya	48	CLIMB	na'k	Basic	sbj[1].V LOC2 1	2	climbing goal	LOC	L
+Yucatec Maya	48	CLIMB	na'k	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	climber	V.obj	
+Yucatec Maya	48	CLIMB	na'k	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	climbing goal	LOC	
+Yucatec Maya	48	CLIMB	na'k	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	climb causer	sbj.V	
+Yucatec Maya	49	RUN	áalkab	Basic	sbj[1].V 1	1	runner	sbj.V	S
+Yucatec Maya	49	RUN	áalkab	Derived	sbj[1].V'extra.obj[3] 3 1	1	runner	sbj.V	
+Yucatec Maya	49	RUN	áalkab	Derived	sbj[1].V'extra.obj[3] 3 1	3	run distance	V.obj	
+Yucatec Maya	49	RUN	áalkab	Derived	sbj[2].V'caus.obj[1] 1 2	1	runner	V.obj	
+Yucatec Maya	49	RUN	áalkab	Derived	sbj[2].V'caus.obj[1] 1 2	2	run causer	sbj.V	
+Yucatec Maya	49	RUN	áalkabt	Basic	sbj[1].V.obj[2] 2 1	1	runner	sbj.V	A
+Yucatec Maya	49	RUN	áalkabt	Basic	sbj[1].V.obj[2] 2 1	2	run distance	V.obj	P
+Yucatec Maya	49	RUN	áalkabt	Derived	sbj[2].V'pass 2 (tumen+1)	1	runner	tumen+NP	
+Yucatec Maya	49	RUN	áalkabt	Derived	sbj[2].V'pass 2 (tumen+1)	2	run distance	sbj.V	
+Yucatec Maya	50	SIT	kul	Basic	sbj[1].V LOC2 1	1	sitter	sbj.V	S
+Yucatec Maya	50	SIT	kul	Basic	sbj[1].V LOC2 1	2	sitting place	LOC	L
+Yucatec Maya	50	SIT	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	sitter	V.obj	
+Yucatec Maya	50	SIT	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	sitting place	LOC	
+Yucatec Maya	50	SIT	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	sit causer	sbj.V	
+Yucatec Maya	51	SIT DOWN	kul	Basic	sbj[1].V LOC2 1	1	sitdowner	sbj.V	S
+Yucatec Maya	51	SIT DOWN	kul	Basic	sbj[1].V LOC2 1	2	sitting-down place	LOC	L
+Yucatec Maya	51	SIT DOWN	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	sitdowner	V.obj	
+Yucatec Maya	51	SIT DOWN	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	sitting-down place	LOC	
+Yucatec Maya	51	SIT DOWN	kul	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	sit down causer	sbj.V	
+Yucatec Maya	52	JUMP	síit'	Basic	sbj[1].V 1	1	jumper	sbj.V	S
+Yucatec Maya	52	JUMP	síit'	Derived	sbj[1].V'extra.obj[3] 3 1	1	jumper	sbj.V	
+Yucatec Maya	52	JUMP	síit'	Derived	sbj[1].V'extra.obj[3] 3 1	3	jumped over (obstacle)	V.obj	
+Yucatec Maya	53	SING	k'ay	Basic	sbj[1].V.obj[2] 2 1	1	singer	sbj.V	A
+Yucatec Maya	53	SING	k'ay	Basic	sbj[1].V.obj[2] 2 1	2	song	V.obj	P
+Yucatec Maya	53	SING	k'ay	Derived	sbj[1].V'intro 1	1	singer	sbj.V	
+Yucatec Maya	53	SING	k'ay	Derived	sbj[2].V'pass 2 (tumen+1)	1	singer	tumen+NP	
+Yucatec Maya	53	SING	k'ay	Derived	sbj[2].V'pass 2 (tumen+1)	2	song	sbj.V	
+Yucatec Maya	54	GO	bin	Basic	sbj[1].V LOC2 1	1	goer	sbj.V	S
+Yucatec Maya	54	GO	bin	Basic	sbj[1].V LOC2 1	2	going goal	LOC	L
+Yucatec Maya	54	GO	bin	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	goer	V.obj	
+Yucatec Maya	54	GO	bin	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	going goal	LOC	
+Yucatec Maya	54	GO	bin	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	go causer	sbj.V	
+Yucatec Maya	55	LEAVE	hóok'	Basic	sbj[1].V LOC2 1	1	leaver	sbj.V	S
+Yucatec Maya	55	LEAVE	hóok'	Basic	sbj[1].V LOC2 1	2	left place/person	LOC	L
+Yucatec Maya	55	LEAVE	hóok'	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	leaver	V.obj	
+Yucatec Maya	55	LEAVE	hóok'	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	left place/person	LOC	
+Yucatec Maya	55	LEAVE	hóok'	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	leave causer	sbj.V	
+Yucatec Maya	56	LIVE	kah	Basic	sbj[1].V LOC2 1	1	liver	sbj.V	S
+Yucatec Maya	56	LIVE	kah	Basic	sbj[1].V LOC2 1	2	living place	LOC	L
+Yucatec Maya	56	LIVE	kah	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	liver	V.obj	
+Yucatec Maya	56	LIVE	kah	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	living place	LOC	
+Yucatec Maya	56	LIVE	kah	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	live causer	sbj.V	
+Yucatec Maya	57	LAUGH	che'h	Basic	sbj[1].V 1	1	laugher	sbj.V	S
+Yucatec Maya	57	LAUGH	che'h	Derived	sbj[1].V'extra.obj[3] 3 1	1	laugher	sbj.V	
+Yucatec Maya	57	LAUGH	che'h	Derived	sbj[1].V'extra.obj[3] 3 1	3	laughed-about thing	V.obj	
+Yucatec Maya	58	SCREAM	awat (1)	Basic	sbj[1].V 1	1	screamer	sbj.V	S
+Yucatec Maya	58	SCREAM	awat (1)	Derived	sbj[1].V'extra.obj[3] 3 1	1	screamer	sbj.V	
+Yucatec Maya	58	SCREAM	awat (1)	Derived	sbj[1].V'extra.obj[3] 3 1	3	screamed at person	V.obj	
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Basic	sbj[1].V 1	1	pain locus	sbj.V	S
+Yucatec Maya	59	FEEL PAIN	k'i'nam	Derived	sbj[1].V' 1	1	pain locus	sbj.V	
+Yucatec Maya	59	FEEL PAIN	yah	Basic	sbj[1].V 1	1	pain locus	sbj.V	S
+Yucatec Maya	59	FEEL PAIN	yah	Derived	sbj[1].V' 1	1	pain locus	sbj.V	
+Yucatec Maya	59	FEEL PAIN	yah	Derived	sbj[2].V'caus.obj[1] 1 2	1	pain locus	V.obj	
+Yucatec Maya	59	FEEL PAIN	yah	Derived	sbj[2].V'caus.obj[1] 1 2	2	pain causer	sbj.V	
+Yucatec Maya	60	FEEL COLD	ke'l	Basic	sbj[1].V 1	1	freezing person	sbj.V	S
+Yucatec Maya	60	FEEL COLD	ke'l	Derived	sbj[1].V' 1	1	freezing person	sbj.V	
+Yucatec Maya	60	FEEL COLD	ke'l	Derived	sbj[2].V'caus.obj[1] 1 2	1	freezing person	V.obj	
+Yucatec Maya	60	FEEL COLD	ke'l	Derived	sbj[2].V'caus.obj[1] 1 2	2	chill causer	sbj.V	
+Yucatec Maya	61	DIE	kíim	Basic	sbj[1].V 1	1	dieer	sbj.V	S
+Yucatec Maya	61	DIE	kíim	Derived	sbj[2].V'caus.obj[1] 1 2	1	dieer	V.obj	
+Yucatec Maya	61	DIE	kíim	Derived	sbj[2].V'caus.obj[1] 1 2	2	killer/death causer	sbj.V	
+Yucatec Maya	62	PLAY	báaxal	Basic	sbj[1].V 1	1	player	sbj.V	S
+Yucatec Maya	62	PLAY	báaxal	Derived	sbj[1].V'extra.obj[3] 3 1	1	player	sbj.V	
+Yucatec Maya	62	PLAY	báaxal	Derived	sbj[1].V'extra.obj[3] 3 1	3	game	V.obj	
+Yucatec Maya	62	PLAY	báaxt	Basic	sbj[1].V.obj[2] 2 1	1	player	sbj.V	A
+Yucatec Maya	62	PLAY	báaxt	Basic	sbj[1].V.obj[2] 2 1	2	game	V.obj	P
+Yucatec Maya	62	PLAY	báaxt	Derived	sbj[2].V'pass 2 (tumen+1)	1	player	tumen+NP	
+Yucatec Maya	62	PLAY	báaxt	Derived	sbj[2].V'pass 2 (tumen+1)	2	game	sbj.V	
+Yucatec Maya	63	BE SAD	ok'om	Basic	sbj[1].V 1	1	sad person	sbj.V	S
+Yucatec Maya	63	BE SAD	ok'om	Derived	sbj[1].V' 1	1	sad person	sbj.V	
+Yucatec Maya	63	BE SAD	ok'om	Derived	sbj[1].V'extra.obj[3] 3 1	1	sad person	sbj.V	
+Yucatec Maya	63	BE SAD	ok'om	Derived	sbj[1].V'extra.obj[3] 3 1	3	saddening thing	V.obj	
+Yucatec Maya	64	BE HUNGRY	wi'h	Basic	sbj[1].V 1	1	hungry person	sbj.V	S
+Yucatec Maya	64	BE HUNGRY	wi'h	Derived	sbj[1].V' 1	1	hungry person	sbj.V	
+Yucatec Maya	64	BE HUNGRY	wi'h	Derived	sbj[2].V'caus.obj[1] 1 2	1	hungry person	V.obj	
+Yucatec Maya	64	BE HUNGRY	wi'h	Derived	sbj[2].V'caus.obj[1] 1 2	2	hunger causer	sbj.V	
+Yucatec Maya	65	ROLL	balak'	Basic	sbj[1].V 1	1	rolling entity	sbj.V	S
+Yucatec Maya	65	ROLL	balak'	Derived	sbj[1].V'extra.obj[3] 3 1	1	rolling entity	sbj.V	
+Yucatec Maya	65	ROLL	balak'	Derived	sbj[1].V'extra.obj[3] 3 1	3	roller	V.obj	
+Yucatec Maya	65	ROLL	balak'	Derived	sbj[2].V'caus.obj[1] 1 2	1	rolling entity	V.obj	
+Yucatec Maya	65	ROLL	balak'	Derived	sbj[2].V'caus.obj[1] 1 2	2	roll causer	sbj.V	
+Yucatec Maya	67	BURN	éel	Basic	sbj[1].V 1	1	burnt thing	sbj.V	S
+Yucatec Maya	68	BE DRY	tikin	Basic	sbj[1].V 1	1	dry thing	sbj.V	S
+Yucatec Maya	68	BE DRY	tikin	Derived	sbj[1].V' 1	1	dry thing	sbj.V	
+Yucatec Maya	68	BE DRY	tikin	Derived	sbj[2].V'caus.obj[1] 1 2	1	dry thing	V.obj	
+Yucatec Maya	68	BE DRY	tikin	Derived	sbj[2].V'caus.obj[1] 1 2	2	drier / dry causer	sbj.V	
+Yucatec Maya	69	RAIN	k'áax	Basic	sbj[1].V 1	1	rain	sbj.V	S
+Yucatec Maya	70	BE A HUNTER	hts'oon	Basic	sbj[1].V 1	1	specialist/hunter	sbj.V	S
+Yucatec Maya	71	GRIND	huch'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	grinder	sbj.V	A
+Yucatec Maya	71	GRIND	huch'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	ground thing	V.obj	P
+Yucatec Maya	71	GRIND	huch'	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	grinding instrument	yéetel+NP	I
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[1].V' (yéetel+3) 1	1	grinder	sbj.V	
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[1].V' (yéetel+3) 1	3	grinding instrument	yéetel+NP	
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[1].V'intro 1	1	grinder	sbj.V	
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	grinder	tumen+NP	
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	ground thing	sbj.V	
+Yucatec Maya	71	GRIND	huch'	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	grinding instrument	yéetel+NP	
+Yucatec Maya	72	WIPE	cho'	Basic	sbj[1].V.obj[2] 2 1	1	wiper	sbj.V	A
+Yucatec Maya	72	WIPE	cho'	Basic	sbj[1].V.obj[2] 2 1	2	wiping surface	V.obj	P
+Yucatec Maya	72	WIPE	cho'	Derived	sbj[2].V'pass 2 (tumen+1)	1	wiper	tumen+NP	
+Yucatec Maya	72	WIPE	cho'	Derived	sbj[2].V'pass 2 (tumen+1)	2	wiping surface	sbj.V	
+Yucatec Maya	72	WIPE	púus	Basic	sbj[1].V 1	1	wiper	sbj.V	S
+Yucatec Maya	72	WIPE	púus	Derived	sbj[1].V'extra.obj[3] 3 1	1	wiper	sbj.V	
+Yucatec Maya	72	WIPE	púus	Derived	sbj[1].V'extra.obj[3] 3 1	3	wiped material	V.obj	
+Yucatec Maya	72	WIPE	púust	Basic	sbj[1].V.obj[2] 2 1	1	wiper	sbj.V	A
+Yucatec Maya	72	WIPE	púust	Basic	sbj[1].V.obj[2] 2 1	2	wiping surface	V.obj	P
+Yucatec Maya	72	WIPE	púust	Derived	sbj[1].V'intro 1	1	wiper	sbj.V	
+Yucatec Maya	72	WIPE	púust	Derived	sbj[2].V'pass 2 (tumen+1)	1	wiper	tumen+NP	
+Yucatec Maya	72	WIPE	púust	Derived	sbj[2].V'pass 2 (tumen+1)	2	wiping surface	sbj.V	
+Yucatec Maya	73	DIG	háal	Basic	sbj[1].V.obj[2] 2 1	1	digger	sbj.V	A
+Yucatec Maya	73	DIG	háal	Basic	sbj[1].V.obj[2] 2 1	2	dug up thing	V.obj	P
+Yucatec Maya	73	DIG	háal	Derived	sbj[1].V' 1	1	digger	sbj.V	
+Yucatec Maya	73	DIG	háal	Derived	sbj[2].V'pass 2 (tumen+1)	1	digger	tumen+NP	
+Yucatec Maya	73	DIG	háal	Derived	sbj[2].V'pass 2 (tumen+1)	2	dug up thing	sbj.V	
+Yucatec Maya	73	DIG	páan	Basic	sbj[1].V.obj[2] 2 1	1	digger	sbj.V	A
+Yucatec Maya	73	DIG	páan	Basic	sbj[1].V.obj[2] 2 1	2	dug up thing	V.obj	P
+Yucatec Maya	73	DIG	páan	Derived	sbj[1].V' 1	1	digger	sbj.V	
+Yucatec Maya	73	DIG	páan	Derived	sbj[2].V'pass 2 (tumen+1)	1	digger	tumen+NP	
+Yucatec Maya	73	DIG	páan	Derived	sbj[2].V'pass 2 (tumen+1)	2	dug up thing	sbj.V	
+Yucatec Maya	74	PUSH	léench'int	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	pusher	sbj.V	A
+Yucatec Maya	74	PUSH	léench'int	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	pushee	V.obj	P
+Yucatec Maya	74	PUSH	léench'int	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	pushing goal	LOC	L
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[1/2].V' LOC3	1	pusher	sbj.V	
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[1/2].V' LOC3	2	pushee	sbj.V	
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[1/2].V' LOC3	3	pushing goal	LOC	
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	pusher	tumen+NP	
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	pushee	sbj.V	
+Yucatec Maya	74	PUSH	léench'int	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	pushing goal	LOC	
+Yucatec Maya	74	PUSH	tul	Basic	sbj[1].V.obj[2] 2 1	1	pusher	sbj.V	A
+Yucatec Maya	74	PUSH	tul	Basic	sbj[1].V.obj[2] 2 1	2	pushee	V.obj	P
+Yucatec Maya	74	PUSH	tul	Derived	sbj[1].V' LOC3 1	1	pusher	sbj.V	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[1].V' LOC3 1	3	pushing goal	LOC	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[1/2].V' LOC3	1	pusher	sbj.V	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[1/2].V' LOC3	2	pushee	sbj.V	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[1/2].V' LOC3	3	pushing goal	LOC	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	pusher	tumen+NP	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	pushee	sbj.V	
+Yucatec Maya	74	PUSH	tul	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	pushing goal	LOC	
+Yucatec Maya	75	BRING	taas	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	bringer	sbj.V	A
+Yucatec Maya	75	BRING	taas	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	brought thing	V.obj	P
+Yucatec Maya	75	BRING	taas	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	bringing recipient	LOC	L
+Yucatec Maya	75	BRING	taas	Derived	sbj[1].V'.obj[2] 2 1	1	bringer	sbj.V	
+Yucatec Maya	75	BRING	taas	Derived	sbj[1].V'.obj[2] 2 1	2	brought thing	V.obj	
+Yucatec Maya	75	BRING	taas	Derived	sbj[1/2].V' LOC3	1	bringer	sbj.V	
+Yucatec Maya	75	BRING	taas	Derived	sbj[1/2].V' LOC3	2	brought thing	sbj.V	
+Yucatec Maya	75	BRING	taas	Derived	sbj[1/2].V' LOC3	3	bringing recipient	LOC	
+Yucatec Maya	75	BRING	taas	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	bringer	tumen+NP	
+Yucatec Maya	75	BRING	taas	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	brought thing	sbj.V	
+Yucatec Maya	75	BRING	taas	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	bringing recipient	LOC	
+Yucatec Maya	76	STEAL	ookol	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	stealer	sbj.V	A
+Yucatec Maya	76	STEAL	ookol	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	stolen thing	V.obj	P
+Yucatec Maya	76	STEAL	ookol	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	stealing source	ti'+NP	X
+Yucatec Maya	76	STEAL	ookol	Derived	sbj[1].V'.obj[2] 2 1	1	stealer	sbj.V	
+Yucatec Maya	76	STEAL	ookol	Derived	sbj[1].V'.obj[2] 2 1	2	stolen thing	V.obj	
+Yucatec Maya	76	STEAL	ookol	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	stealer	tumen+NP	
+Yucatec Maya	76	STEAL	ookol	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	stolen thing	sbj.V	
+Yucatec Maya	76	STEAL	ookol	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	stealing source	ti'+NP	
+Yucatec Maya	76	STEAL	ookolt	Basic	sbj[1].V.obj[2] 2 1	1	stealer	sbj.V	A
+Yucatec Maya	76	STEAL	ookolt	Basic	sbj[1].V.obj[2] 2 1	2	stolen thing	V.obj	P
+Yucatec Maya	76	STEAL	ookolt	Derived	sbj[1/2].V'	1	stealer	sbj.V	
+Yucatec Maya	76	STEAL	ookolt	Derived	sbj[1/2].V'	2	stolen thing	sbj.V	
+Yucatec Maya	76	STEAL	ookolt	Derived	sbj[2].V'pass 2 (tumen+1)	1	stealer	tumen+NP	
+Yucatec Maya	76	STEAL	ookolt	Derived	sbj[2].V'pass 2 (tumen+1)	2	stolen thing	sbj.V	
+Yucatec Maya	77	TEACH	ka'ns	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	teacher	sbj.V	A
+Yucatec Maya	77	TEACH	ka'ns	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	teachee	V.obj	P
+Yucatec Maya	77	TEACH	ka'ns	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	taught content	ti'+NP	X
+Yucatec Maya	77	TEACH	ka'ns	Derived	sbj[1].V'intro 1	1	teacher	sbj.V	
+Yucatec Maya	77	TEACH	ka'ns	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	teacher	tumen+NP	
+Yucatec Maya	77	TEACH	ka'ns	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	teachee	sbj.V	
+Yucatec Maya	77	TEACH	ka'ns	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	taught content	ti'+NP	
+Yucatec Maya	78	HEAR	u'y	Basic	sbj[1].V.obj[2] 2 1	1	hearer	sbj.V	A
+Yucatec Maya	78	HEAR	u'y	Basic	sbj[1].V.obj[2] 2 1	2	heard sound	V.obj	P
+Yucatec Maya	78	HEAR	u'y	Derived	sbj[1/2].V'	1	hearer	sbj.V	
+Yucatec Maya	78	HEAR	u'y	Derived	sbj[1/2].V'	2	heard sound	sbj.V	
+Yucatec Maya	78	HEAR	u'y	Derived	sbj[2].V'pass 2 (tumen+1)	1	hearer	tumen+NP	
+Yucatec Maya	78	HEAR	u'y	Derived	sbj[2].V'pass 2 (tumen+1)	2	heard sound	sbj.V	
+Yucatec Maya	79	COOK	chak	Basic	sbj[1].V.obj[2] 2 1	1	cooker	sbj.V	A
+Yucatec Maya	79	COOK	chak	Basic	sbj[1].V.obj[2] 2 1	2	cooked food	V.obj	P
+Yucatec Maya	79	COOK	chak	Derived	sbj[1].V' 1	1	cooker	sbj.V	
+Yucatec Maya	79	COOK	chak	Derived	sbj[1].V'intro 1	1	cooker	sbj.V	
+Yucatec Maya	79	COOK	chak	Derived	sbj[2].V'pass 2 (tumen+1)	1	cooker	tumen+NP	
+Yucatec Maya	79	COOK	chak	Derived	sbj[2].V'pass 2 (tumen+1)	2	cooked food	sbj.V	
+Yucatec Maya	80	BOIL	look	Basic	sbj[1].V 1	1	boiled thing	sbj.V	S
+Yucatec Maya	80	BOIL	look	Derived	sbj[2].V'caus.obj[1] 1 2	1	boiled thing	V.obj	
+Yucatec Maya	80	BOIL	look	Derived	sbj[2].V'caus.obj[1] 1 2	2	boiler	sbj.V	
+Yucatec Maya	81	APPEAR	chíikpah	Basic	sbj[1].V 1	1	appearer	sbj.V	S
+Yucatec Maya	82	BE ILL	k'oha'n	Basic	sbj[1].V 1	1	sick person	sbj.V	S
+Yucatec Maya	82	BE ILL	k'oha'n	Derived	sbj[1].V' 1	1	sick person	sbj.V	
+Yucatec Maya	82	BE ILL	k'oha'n	Derived	sbj[2].V'caus.obj[1] 1 2	1	sick person	V.obj	
+Yucatec Maya	82	BE ILL	k'oha'n	Derived	sbj[2].V'caus.obj[1] 1 2	2	sickness causer	sbj.V	
+Yucatec Maya	83	CRY	ook'ol	Basic	sbj[1].V 1	1	crier	sbj.V	S
+Yucatec Maya	83	CRY	ook'ol	Derived	sbj[1].V'extra.obj[3] 3 1	1	crier	sbj.V	
+Yucatec Maya	83	CRY	ook'ol	Derived	sbj[1].V'extra.obj[3] 3 1	3	cried after/for person	V.obj	
+Yucatec Maya	84	FALL	lúub	Basic	sbj[1].V 1	1	fallee	sbj.V	S
+Yucatec Maya	84	FALL	lúub	Derived	sbj[2].V'caus.obj[1] 1 2	1	fallee	V.obj	
+Yucatec Maya	84	FALL	lúub	Derived	sbj[2].V'caus.obj[1] 1 2	2	fall causer	sbj.V	
+Yucatec Maya	85	MAKE	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	1	maker	sbj.V	A
+Yucatec Maya	85	MAKE	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	2	made thing	V.obj	P
+Yucatec Maya	85	MAKE	beet	Basic	sbj[1].V.obj[2] 2 1 (yéetel+3)	3	making material	yéetel+NP	I
+Yucatec Maya	85	MAKE	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	1	maker	tumen+NP	
+Yucatec Maya	85	MAKE	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	2	made thing	sbj.V	
+Yucatec Maya	85	MAKE	beet	Derived	sbj[2].V'pass 2 (tumen+1) (yéetel+3)	3	making material	yéetel+NP	
+Yucatec Maya	86	GET	k'am	Basic	sbj[1].V.obj[2] 2 ti'+3 1	1	receiver	sbj.V	A
+Yucatec Maya	86	GET	k'am	Basic	sbj[1].V.obj[2] 2 ti'+3 1	2	received thing	V.obj	P
+Yucatec Maya	86	GET	k'am	Basic	sbj[1].V.obj[2] 2 ti'+3 1	3	receiving source	ti'+NP	X
+Yucatec Maya	86	GET	k'am	Derived	sbj[1].V' ti'+3 1	1	receiver	sbj.V	
+Yucatec Maya	86	GET	k'am	Derived	sbj[1].V' ti'+3 1	3	receiving source	ti'+NP	
+Yucatec Maya	86	GET	k'am	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	1	receiver	tumen+NP	
+Yucatec Maya	86	GET	k'am	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	2	received thing	sbj.V	
+Yucatec Maya	86	GET	k'am	Derived	sbj[2].V'pass 2 (tumen+1) ti'+3	3	receiving source	ti'+NP	
+Yucatec Maya	87	WANT	k'áat (1)	Basic	sbj[1].V.obj[2] 2 1	1	wanter	sbj.V	A
+Yucatec Maya	87	WANT	k'áat (1)	Basic	sbj[1].V.obj[2] 2 1	2	wanted thing	V.obj	P
+Yucatec Maya	87	WANT	k'áat (1)	Derived	sbj[1].V'extra.obj[2] 2 1	1	wanter	sbj.V	
+Yucatec Maya	87	WANT	k'áat (1)	Derived	sbj[1].V'extra.obj[2] 2 1	2	wanted thing	V.obj	
+Yucatec Maya	94	CHASE	hóok's	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	chaser	sbj.V	A
+Yucatec Maya	94	CHASE	hóok's	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	chasee	V.obj	P
+Yucatec Maya	94	CHASE	hóok's	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	chasing location	LOC	L
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[1].V'.obj[2] 2 1	1	chaser	sbj.V	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[1].V'.obj[2] 2 1	2	chasee	V.obj	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[1/2].V' LOC3	1	chaser	sbj.V	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[1/2].V' LOC3	2	chasee	sbj.V	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[1/2].V' LOC3	3	chasing location	LOC	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	chaser	tumen+NP	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	chasee	sbj.V	
+Yucatec Maya	94	CHASE	hóok's	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	chasing location	LOC	
+Yucatec Maya	96	MARRY	kahkunt	Basic	sbj[1].V.obj[2] 2 1	1	marrying person	sbj.V	A
+Yucatec Maya	96	MARRY	kahkunt	Basic	sbj[1].V.obj[2] 2 1	2	married person	V.obj	P
+Yucatec Maya	96	MARRY	kahkunt	Derived	sbj[2].V'pass 2 (tumen+1)	1	marrying person	tumen+NP	
+Yucatec Maya	96	MARRY	kahkunt	Derived	sbj[2].V'pass 2 (tumen+1)	2	married person	sbj.V	
+Yucatec Maya	110	LEARN	kan	Basic	sbj[1].V.obj[2] 2 1	1	learner	sbj.V	A
+Yucatec Maya	110	LEARN	kan	Basic	sbj[1].V.obj[2] 2 1	2	learned thing	V.obj	P
+Yucatec Maya	110	LEARN	kan	Derived	sbj[1].V'intro 1	1	learner	sbj.V	
+Yucatec Maya	110	LEARN	kan	Derived	sbj[2].V'pass 2 (tumen+1)	1	learner	tumen+NP	
+Yucatec Maya	110	LEARN	kan	Derived	sbj[2].V'pass 2 (tumen+1)	2	learned thing	sbj.V	
+Yucatec Maya	111	CALL	t'an	Basic	sbj[1].V.obj[2] 2 1	1	caller	sbj.V	A
+Yucatec Maya	111	CALL	t'an	Basic	sbj[1].V.obj[2] 2 1	2	called to/for person	V.obj	P
+Yucatec Maya	111	CALL	t'an	Derived	sbj[2].V'pass 2 (tumen+1)	1	caller	tumen+NP	
+Yucatec Maya	111	CALL	t'an	Derived	sbj[2].V'pass 2 (tumen+1)	2	called to/for person	sbj.V	
+Yucatec Maya	112	COME (2)	taal	Basic	sbj[1].V LOC2 1	1	coming person/thing	sbj.V	S
+Yucatec Maya	112	COME (2)	taal	Basic	sbj[1].V LOC2 1	2	come goal	LOC	L
+Yucatec Maya	112	COME (2)	taal	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	1	coming person/thing	V.obj	
+Yucatec Maya	112	COME (2)	taal	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	2	come goal	LOC	
+Yucatec Maya	112	COME (2)	taal	Derived	sbj[3].V'caus.obj[1] 1 3 LOC2	3	come causer	sbj.V	
+Yucatec Maya	113	BE A DRESS	búuk	Basic	sbj[1].V 1	1	dress/clothing	sbj.V	S
+Yucatec Maya	113	BE A DRESS	búuk	Derived	sbj[2].V'usat.obj[1] 1 2	1	dress/clothing	V.obj	
+Yucatec Maya	113	BE A DRESS	búuk	Derived	sbj[2].V'usat.obj[1] 1 2	2	dresser	sbj.V	
+Yucatec Maya	116	BURN (tr)	tóok	Basic	sbj[1].V.obj[2] 2 1	1	burner (tr)	sbj.V	A
+Yucatec Maya	116	BURN (tr)	tóok	Basic	sbj[1].V.obj[2] 2 1	2	burnt thing (tr)	V.obj	P
+Yucatec Maya	116	BURN (tr)	tóok	Derived	sbj[1].V' 1	1	burner (tr)	sbj.V	
+Yucatec Maya	116	BURN (tr)	tóok	Derived	sbj[1/2].V'	1	burner (tr)	sbj.V	
+Yucatec Maya	116	BURN (tr)	tóok	Derived	sbj[1/2].V'	2	burnt thing (tr)	sbj.V	
+Yucatec Maya	116	BURN (tr)	tóok	Derived	sbj[2].V'pass 2 (tumen+1)	1	burner (tr)	tumen+NP	
+Yucatec Maya	116	BURN (tr)	tóok	Derived	sbj[2].V'pass 2 (tumen+1)	2	burnt thing (tr)	sbj.V	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Basic	sbj[1].V.obj[2] 2 1	1	hunger causer (tr)	sbj.V	A
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Basic	sbj[1].V.obj[2] 2 1	2	hungry person (tr)	V.obj	P
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Derived	sbj[2].V'pass 2 (tumen+1)	1	hunger causer (tr)	tumen+NP	
+Yucatec Maya	117	MAKE HUNGRY	wi'hkunt	Derived	sbj[2].V'pass 2 (tumen+1)	2	hungry person (tr)	sbj.V	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Basic	sbj[1].V.obj[2] 2 1	1	sickness causer (tr)	sbj.V	A
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Basic	sbj[1].V.obj[2] 2 1	2	sick person (tr)	V.obj	P
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Derived	sbj[2].V'pass 2 (tumen+1)	1	sickness causer (tr)	tumen+NP	
+Yucatec Maya	118	MAKE SICK	k'oha'nkunt	Derived	sbj[2].V'pass 2 (tumen+1)	2	sick person (tr)	sbj.V	
+Yucatec Maya	119	DRY	tikinkunt	Basic	sbj[1].V.obj[2] 2 1	1	drier (tr)	sbj.V	A
+Yucatec Maya	119	DRY	tikinkunt	Basic	sbj[1].V.obj[2] 2 1	2	dry thing (tr)	V.obj	P
+Yucatec Maya	119	DRY	tikinkunt	Derived	sbj[1/2].V'	1	drier (tr)	sbj.V	
+Yucatec Maya	119	DRY	tikinkunt	Derived	sbj[1/2].V'	2	dry thing (tr)	sbj.V	
+Yucatec Maya	119	DRY	tikinkunt	Derived	sbj[2].V'pass 2 (tumen+1)	1	drier (tr)	tumen+NP	
+Yucatec Maya	119	DRY	tikinkunt	Derived	sbj[2].V'pass 2 (tumen+1)	2	dry thing (tr)	sbj.V	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Basic	sbj[1].V.obj[2] 2 1	1	appear causer (tr)	sbj.V	A
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Basic	sbj[1].V.obj[2] 2 1	2	appearer (tr)	V.obj	P
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Derived	sbj[1/2].V'	1	appear causer (tr)	sbj.V	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Derived	sbj[1/2].V'	2	appearer (tr)	sbj.V	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Derived	sbj[2].V'pass 2 (tumen+1)	1	appear causer (tr)	tumen+NP	
+Yucatec Maya	120	MAKE APPEAR	chíikbes	Derived	sbj[2].V'pass 2 (tumen+1)	2	appearer (tr)	sbj.V	
+Yucatec Maya	121	FELL	lúubs	Basic	sbj[1].V.obj[2] 2 1	1	feller	sbj.V	A
+Yucatec Maya	121	FELL	lúubs	Basic	sbj[1].V.obj[2] 2 1	2	fellee	V.obj	P
+Yucatec Maya	121	FELL	lúubs	Derived	sbj[1/2].V'	1	feller	sbj.V	
+Yucatec Maya	121	FELL	lúubs	Derived	sbj[1/2].V'	2	fellee	sbj.V	
+Yucatec Maya	121	FELL	lúubs	Derived	sbj[2].V'pass 2 (tumen+1)	1	feller	tumen+NP	
+Yucatec Maya	121	FELL	lúubs	Derived	sbj[2].V'pass 2 (tumen+1)	2	fellee	sbj.V	
+Yucatec Maya	123	SEAT	kulkint	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	seater	sbj.V	A
+Yucatec Maya	123	SEAT	kulkint	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	seatee	V.obj	P
+Yucatec Maya	123	SEAT	kulkint	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	seating place	LOC	L
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[1/2].V' LOC3	1	seater	sbj.V	
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[1/2].V' LOC3	2	seatee	sbj.V	
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[1/2].V' LOC3	3	seating place	LOC	
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	seater	tumen+NP	
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	seatee	sbj.V	
+Yucatec Maya	123	SEAT	kulkint	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	seating place	LOC	
+Yucatec Maya	124	MAKE RUN	áalkabans	Basic	sbj[1].V.obj[2] 2 1	1	run causer (tr)	sbj.V	A
+Yucatec Maya	124	MAKE RUN	áalkabans	Basic	sbj[1].V.obj[2] 2 1	2	runner (tr)	V.obj	P
+Yucatec Maya	124	MAKE RUN	áalkabans	Derived	sbj[2].V'pass 2 (tumen+1)	1	run causer (tr)	tumen+NP	
+Yucatec Maya	124	MAKE RUN	áalkabans	Derived	sbj[2].V'pass 2 (tumen+1)	2	runner (tr)	sbj.V	
+Yucatec Maya	125	SINK (tr)	bul	Basic	sbj[1].V.obj[2] 2 1	1	sink-(caus)er (tr)	sbj.V	A
+Yucatec Maya	125	SINK (tr)	bul	Basic	sbj[1].V.obj[2] 2 1	2	sunken entity (tr)	V.obj	P
+Yucatec Maya	125	SINK (tr)	bul	Derived	sbj[1/2].V'	1	sink-(caus)er (tr)	sbj.V	
+Yucatec Maya	125	SINK (tr)	bul	Derived	sbj[1/2].V'	2	sunken entity (tr)	sbj.V	
+Yucatec Maya	125	SINK (tr)	bul	Derived	sbj[2].V'deag 2	2	sunken entity (tr)	sbj.V	
+Yucatec Maya	125	SINK (tr)	bul	Derived	sbj[2].V'pass 2 (tumen+1)	1	sink-(caus)er (tr)	tumen+NP	
+Yucatec Maya	125	SINK (tr)	bul	Derived	sbj[2].V'pass 2 (tumen+1)	2	sunken entity (tr)	sbj.V	
+Yucatec Maya	126	BOIL (tr)	lookans	Basic	sbj[1].V.obj[2] 2 1	1	boiler (tr)	sbj.V	A
+Yucatec Maya	126	BOIL (tr)	lookans	Basic	sbj[1].V.obj[2] 2 1	2	boiled thing (tr)	V.obj	P
+Yucatec Maya	126	BOIL (tr)	lookans	Derived	sbj[2].V'pass 2 (tumen+1)	1	boiler (tr)	tumen+NP	
+Yucatec Maya	126	BOIL (tr)	lookans	Derived	sbj[2].V'pass 2 (tumen+1)	2	boiled thing (tr)	sbj.V	
+Yucatec Maya	128	ROLL (tr)	balak'es	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	roller (tr)	sbj.V	A
+Yucatec Maya	128	ROLL (tr)	balak'es	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	rolling thing (tr)	V.obj	P
+Yucatec Maya	128	ROLL (tr)	balak'es	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	rolling location (tr)	LOC	L
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[1/2].V' LOC3	1	roller (tr)	sbj.V	
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[1/2].V' LOC3	2	rolling thing (tr)	sbj.V	
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[1/2].V' LOC3	3	rolling location (tr)	LOC	
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	roller (tr)	tumen+NP	
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	rolling thing (tr)	sbj.V	
+Yucatec Maya	128	ROLL (tr)	balak'es	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	rolling location (tr)	LOC	
+Yucatec Maya	128	ROLL (tr)	balak't	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	roller (tr)	sbj.V	A
+Yucatec Maya	128	ROLL (tr)	balak't	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	rolling thing (tr)	V.obj	P
+Yucatec Maya	128	ROLL (tr)	balak't	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	rolling location (tr)	LOC	L
+Yucatec Maya	128	ROLL (tr)	balak't	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	roller (tr)	tumen+NP	
+Yucatec Maya	128	ROLL (tr)	balak't	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	rolling thing (tr)	sbj.V	
+Yucatec Maya	128	ROLL (tr)	balak't	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	rolling location (tr)	LOC	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	1	climb maker	sbj.V	A
+Yucatec Maya	137	MAKE CLIMB	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	2	make climbing entity	V.obj	P
+Yucatec Maya	137	MAKE CLIMB	na'ks	Basic	sbj[1].V.obj[2] 2 1 LOC3	3	make climbing goal	LOC	L
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[1].V'.obj[2] 2 1	1	climb maker	sbj.V	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[1].V'.obj[2] 2 1	2	make climbing entity	V.obj	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[1/2].V' LOC3	1	climb maker	sbj.V	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[1/2].V' LOC3	2	make climbing entity	sbj.V	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[1/2].V' LOC3	3	make climbing goal	LOC	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	1	climb maker	tumen+NP	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	2	make climbing entity	sbj.V	
+Yucatec Maya	137	MAKE CLIMB	na'ks	Derived	sbj[2].V'pass 2 (tumen+1) LOC3	3	make climbing goal	LOC	
+Yucatec Maya	138	HURT	yahkunt	Basic	sbj[1].V.obj[2] 2 1	1	hurter	sbj.V	A
+Yucatec Maya	138	HURT	yahkunt	Basic	sbj[1].V.obj[2] 2 1	2	hurt locus	V.obj	P
+Yucatec Maya	138	HURT	yahkunt	Derived	sbj[2].V'pass 2 (tumen+1)	1	hurter	tumen+NP	
+Yucatec Maya	138	HURT	yahkunt	Derived	sbj[2].V'pass 2 (tumen+1)	2	hurt locus	sbj.V	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Basic	sbj[1].V.obj[2] 2 1	1	name carrier	sbj.V	A
+Yucatec Maya	140	BE NAMED	k'aaba'int	Basic	sbj[1].V.obj[2] 2 1	2	name (intr.)	V.obj	P
+Yucatec Maya	140	BE NAMED	k'aaba'int	Derived	sbj[2].V'pass 2 (tumen+1)	1	name carrier	tumen+NP	
+Yucatec Maya	140	BE NAMED	k'aaba'int	Derived	sbj[2].V'pass 2 (tumen+1)	2	name (intr.)	sbj.V	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Basic	sbj[1].V.obj[2] 2 1	1	laugher (tr.)	sbj.V	A
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Basic	sbj[1].V.obj[2] 2 1	2	laughed-about thing (tr.)	V.obj	P
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Derived	sbj[1/2].V'	1	laugher (tr.)	sbj.V	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Derived	sbj[1/2].V'	2	laughed-about thing (tr.)	sbj.V	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Derived	sbj[2].V'pass 2 (tumen+1)	1	laugher (tr.)	tumen+NP	
+Yucatec Maya	141	LAUGH ABOUT	che'ht	Derived	sbj[2].V'pass 2 (tumen+1)	2	laughed-about thing (tr.)	sbj.V	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Basic	sbj[1].V.obj[2] 2 1	1	crying person	sbj.V	A
+Yucatec Maya	143	CRY ABOUT	ook'olt	Basic	sbj[1].V.obj[2] 2 1	2	cryed about thing	V.obj	P
+Yucatec Maya	143	CRY ABOUT	ook'olt	Derived	sbj[1/2].V'	1	crying person	sbj.V	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Derived	sbj[1/2].V'	2	cryed about thing	sbj.V	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Derived	sbj[2].V'pass 2 (tumen+1)	1	crying person	tumen+NP	
+Yucatec Maya	143	CRY ABOUT	ook'olt	Derived	sbj[2].V'pass 2 (tumen+1)	2	cryed about thing	sbj.V	
+Yucatec Maya	144	COUGH AT	se'nt	Basic	sbj[1].V.obj[2] 2 1	1	coughing person	sbj.V	A
+Yucatec Maya	144	COUGH AT	se'nt	Basic	sbj[1].V.obj[2] 2 1	2	coughed at entity	V.obj	P
+Yucatec Maya	144	COUGH AT	se'nt	Derived	sbj[1/2].V'	1	coughing person	sbj.V	
+Yucatec Maya	144	COUGH AT	se'nt	Derived	sbj[1/2].V'	2	coughed at entity	sbj.V	
+Yucatec Maya	144	COUGH AT	se'nt	Derived	sbj[2].V'pass 2 (tumen+1)	1	coughing person	tumen+NP	
+Yucatec Maya	144	COUGH AT	se'nt	Derived	sbj[2].V'pass 2 (tumen+1)	2	coughed at entity	sbj.V	
+Yucatec Maya	145	JUMP OVER	síit't	Basic	sbj[1].V.obj[2] 2 1	1	jumping person	sbj.V	A
+Yucatec Maya	145	JUMP OVER	síit't	Basic	sbj[1].V.obj[2] 2 1	2	jumped over entity	V.obj	P
+Yucatec Maya	145	JUMP OVER	síit't	Derived	sbj[2].V'pass 2 (tumen+1)	1	jumping person	tumen+NP	
+Yucatec Maya	145	JUMP OVER	síit't	Derived	sbj[2].V'pass 2 (tumen+1)	2	jumped over entity	sbj.V	

@@ -1,0 +1,156 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Central Alaskan Yupik	1	EAT	nere-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	eater	NP-rel V.subj	A
+Central Alaskan Yupik	1	EAT	nere-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	eaten food	NP-abs V.obj	P
+Central Alaskan Yupik	2	HUG	qep'ag-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	hugger	NP-rel V.subj	A
+Central Alaskan Yupik	2	HUG	qep'ag-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	huggee	NP-abs V.obj	P
+Central Alaskan Yupik	3	LOOK AT	tangvag-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	looker	NP-rel V.subj	A
+Central Alaskan Yupik	3	LOOK AT	tangvag-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	looked at entity	NP-abs V.obj	P
+Central Alaskan Yupik	4	SEE	tangrr-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	seeer	NP-rel V.subj	A
+Central Alaskan Yupik	4	SEE	tangrr-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	seen entity	NP-abs V.obj	P
+Central Alaskan Yupik	5	SMELL	nare-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	smeller	NP-rel V.subj	A
+Central Alaskan Yupik	5	SMELL	nare-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	smelled entity	NP-abs V.obj	P
+Central Alaskan Yupik	6	FEAR	alike-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	fearer	NP-rel V.subj	A
+Central Alaskan Yupik	6	FEAR	alike-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	fear stimulus	NP-abs V.obj	P
+Central Alaskan Yupik	7	FRIGHTEN	alingevkar-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	frightener	NP-rel V.subj	A
+Central Alaskan Yupik	7	FRIGHTEN	alingevkar-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	frightenee	NP-abs V.obj	P
+Central Alaskan Yupik	8	LIKE	assike-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	liker	NP-rel V.subj	A
+Central Alaskan Yupik	8	LIKE	assike-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	liked entity	NP-abs V.obj	P
+Central Alaskan Yupik	9	KNOW	nallunrit-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	knower	NP-rel V.subj	A
+Central Alaskan Yupik	9	KNOW	nallunrit-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	known thing/person	NP-abs V.obj	P
+Central Alaskan Yupik	10	THINK	umyuaqe-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	thinker	NP-rel V.subj	A
+Central Alaskan Yupik	10	THINK	umyuaqe-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	thought content	NP-abs V.obj	P
+Central Alaskan Yupik	11	SEARCH FOR	yuar-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	searcher	NP-rel V.subj	A
+Central Alaskan Yupik	11	SEARCH FOR	yuar-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	searched for thing	NP-abs V.obj	P
+Central Alaskan Yupik	12	WASH	erur-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	washer	NP-rel V.subj	A
+Central Alaskan Yupik	12	WASH	erur-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	washed entity	NP-abs V.obj	P
+Central Alaskan Yupik	13	DRESS	ac'ec-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	dresser	NP-rel V.subj	A
+Central Alaskan Yupik	13	DRESS	ac'ec-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	dressee	NP-abs V.obj	P
+Central Alaskan Yupik	13	DRESS	ac'ec-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	clothes	NP-abm	X
+Central Alaskan Yupik	15	HELP	ikayur-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	helper	NP-rel V.subj	A
+Central Alaskan Yupik	15	HELP	ikayur-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	helpee	NP-abs V.obj	P
+Central Alaskan Yupik	16	FOLLOW	maligc-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	follower	NP-rel V.subj	A
+Central Alaskan Yupik	16	FOLLOW	maligc-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	followee	NP-abs V.obj	P
+Central Alaskan Yupik	17	MEET	pairc-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	meeter	NP-rel V.subj	A
+Central Alaskan Yupik	17	MEET	pairc-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	met person	NP-abs V.obj	P
+Central Alaskan Yupik	18	TALK	qanruc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	talker	NP-rel V.subj	A
+Central Alaskan Yupik	18	TALK	qanruc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	talked to person	NP-abs V.obj	P
+Central Alaskan Yupik	18	TALK	qanruc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	talked about content	NP-abm	X
+Central Alaskan Yupik	19	ASK FOR	kaigavike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	asker	NP-rel V.subj	A
+Central Alaskan Yupik	19	ASK FOR	kaigavike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	askee	NP-abs V.obj	P
+Central Alaskan Yupik	19	ASK FOR	kaigavike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	requested thing	NP-abm	X
+Central Alaskan Yupik	20	SHOUT AT	qayagpag-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	shouter	NP-rel V.subj	A
+Central Alaskan Yupik	20	SHOUT AT	qayagpag-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	shoutee	NP-abs V.obj	P
+Central Alaskan Yupik	21	TELL	qanemcic-	Basic	1-rel 2-abs V.subj[1].obj[2] CLAUSE3	1	teller	NP-rel V.subj	A
+Central Alaskan Yupik	21	TELL	qanemcic-	Basic	1-rel 2-abs V.subj[1].obj[2] CLAUSE3	2	tellee	NP-abs V.obj	P
+Central Alaskan Yupik	21	TELL	qanemcic-	Basic	1-rel 2-abs V.subj[1].obj[2] CLAUSE3	3	told content	not provided	X
+Central Alaskan Yupik	25	BREAK	navg-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	breaker	NP-rel V.subj	A
+Central Alaskan Yupik	25	BREAK	navg-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	broken thing	NP-abs V.obj	P
+Central Alaskan Yupik	25	BREAK	navg-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	breaking instrument	NP-perl	I
+Central Alaskan Yupik	26	KILL	tuquc-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	killer	NP-rel V.subj	A
+Central Alaskan Yupik	26	KILL	tuquc-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	killee	NP-abs V.obj	P
+Central Alaskan Yupik	26	KILL	tuquc-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	killing instrument	NP-perl	I
+Central Alaskan Yupik	27	BEAT	kaug-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	beater	NP-rel V.subj	A
+Central Alaskan Yupik	27	BEAT	kaug-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	beatee	NP-abs V.obj	P
+Central Alaskan Yupik	27	BEAT	kaug-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	beating instrument	NP-perl	I
+Central Alaskan Yupik	28	HIT	kaugtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	hitter	NP-rel V.subj	A
+Central Alaskan Yupik	28	HIT	kaugtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	hittee	NP-abs V.obj	P
+Central Alaskan Yupik	28	HIT	kaugtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	hitting instrument	NP-perl	I
+Central Alaskan Yupik	29	TOUCH	agtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	toucher	NP-rel V.subj	A
+Central Alaskan Yupik	29	TOUCH	agtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	touchee	NP-abs V.obj	P
+Central Alaskan Yupik	29	TOUCH	agtur-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	touching instrument	NP-perl	I
+Central Alaskan Yupik	30	CUT	ingqi-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	1	cutter	NP-rel V.subj	A
+Central Alaskan Yupik	30	CUT	ingqi-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	2	cut thing	NP-abs V.obj	P
+Central Alaskan Yupik	30	CUT	ingqi-	Basic	1-rel 2-abs 3-perl V.subj[1].obj[2]	3	cutting instrument	NP-perl	I
+Central Alaskan Yupik	31	TAKE	teglg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	taker	NP-rel V.subj	A
+Central Alaskan Yupik	31	TAKE	teglg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	taken thing	NP-abs V.obj	P
+Central Alaskan Yupik	31	TAKE	teglg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	taking source	NP-abm	X
+Central Alaskan Yupik	32	TEAR	allg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	tearer	NP-rel V.subj	A
+Central Alaskan Yupik	32	TEAR	allg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	torn thing	NP-abs V.obj	P
+Central Alaskan Yupik	32	TEAR	allg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	tearing source	NP-abm	X
+Central Alaskan Yupik	33	PEEL	kiic-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	peeler	NP-rel V.subj	A
+Central Alaskan Yupik	33	PEEL	kiic-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	peel	NP-abs V.obj	P
+Central Alaskan Yupik	33	PEEL	kiic-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	peeled object	NP-abm	X
+Central Alaskan Yupik	34	HIDE	iir-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	hider	NP-rel V.subj	A
+Central Alaskan Yupik	34	HIDE	iir-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	hidden thing	NP-abs V.obj	P
+Central Alaskan Yupik	34	HIDE	iir-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	hiding affectee	NP-abm	X
+Central Alaskan Yupik	35	SHOW	nasvag- / (secundative) nasvic-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	shower	NP-rel V.subj	A
+Central Alaskan Yupik	35	SHOW	nasvag- / (secundative) nasvic-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	shown thing	NP-abs V.obj	P
+Central Alaskan Yupik	35	SHOW	nasvag- / (secundative) nasvic-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	showing addressee	NP-all	L
+Central Alaskan Yupik	35	SHOW	nasvic- / (indirective) nasvag-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	shower	NP-rel V.subj	A
+Central Alaskan Yupik	35	SHOW	nasvic- / (indirective) nasvag-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	showing addressee	NP-abs V.obj	P
+Central Alaskan Yupik	35	SHOW	nasvic- / (indirective) nasvag-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	shown thing	NP-abm	X
+Central Alaskan Yupik	36	GIVE	cikir- / (indirective) tune-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	giver	NP-rel V.subj	A
+Central Alaskan Yupik	36	GIVE	cikir- / (indirective) tune-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	gift	NP-abs V.obj	P
+Central Alaskan Yupik	36	GIVE	cikir- / (indirective) tune-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	giving recipient	NP-all	L
+Central Alaskan Yupik	37	SEND	tuyur- / (indirective) tuyuqe-	Basic	1-rel 2-abs 3-abl V.subj[1].obj[2]	1	sender	NP-rel V.subj	A
+Central Alaskan Yupik	37	SEND	tuyur- / (indirective) tuyuqe-	Basic	1-rel 2-abs 3-abl V.subj[1].obj[2]	2	sending recipient	NP-abs V.obj	P
+Central Alaskan Yupik	37	SEND	tuyur- / (indirective) tuyuqe-	Basic	1-rel 2-abs 3-abl V.subj[1].obj[2]	3	sent thing	NP-abl	X
+Central Alaskan Yupik	38	CARRY	ang'aqe-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	carrier	NP-rel V.subj	A
+Central Alaskan Yupik	38	CARRY	ang'aqe-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	carried thing	NP-abs V.obj	P
+Central Alaskan Yupik	38	CARRY	ang'aqe-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	carrying goal	NP-all	L
+Central Alaskan Yupik	39	THROW	milqar- / (indirective) milqauc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	thrower	NP-rel V.subj	A
+Central Alaskan Yupik	39	THROW	milqar- / (indirective) milqauc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	throwing goal	NP-abs V.obj	P
+Central Alaskan Yupik	39	THROW	milqar- / (indirective) milqauc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	thrown thing	NP-abm	X
+Central Alaskan Yupik	40	TIE	petugvike- / (indirective) petug-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	tier	NP-rel V.subj	A
+Central Alaskan Yupik	40	TIE	petugvike- / (indirective) petug-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	tied thing	NP-abs V.obj	P
+Central Alaskan Yupik	40	TIE	petugvike- / (indirective) petug-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	tying goal	NP-all	L
+Central Alaskan Yupik	41	PUT	ellivike- / (indirective) elli-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	putter	NP-rel V.subj	A
+Central Alaskan Yupik	41	PUT	ellivike- / (indirective) elli-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	put thing	NP-abs V.obj	P
+Central Alaskan Yupik	41	PUT	ellivike- / (indirective) elli-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	putting goal	NP-all	L
+Central Alaskan Yupik	42	POUR	kuve- / kuvevike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	pourer	NP-rel V.subj	A
+Central Alaskan Yupik	42	POUR	kuve- / kuvevike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	pouring goal	NP-abs V.obj	P
+Central Alaskan Yupik	42	POUR	kuve- / kuvevike-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	poured substance	NP-abm	X
+Central Alaskan Yupik	43	COVER	patu- / (indirective) patuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	coverer	NP-rel V.subj	A
+Central Alaskan Yupik	43	COVER	patu- / (indirective) patuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	cover	NP-abs V.obj	P
+Central Alaskan Yupik	43	COVER	patu- / (indirective) patuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	covered thing	NP-abm	X
+Central Alaskan Yupik	44	FILL	imir- / (indirective) imiuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	filler	NP-rel V.subj	A
+Central Alaskan Yupik	44	FILL	imir- / (indirective) imiuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	filled container	NP-abs V.obj	P
+Central Alaskan Yupik	44	FILL	imir- / (indirective) imiuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	filling material	NP-abm	X
+Central Alaskan Yupik	45	LOAD	ucilir- / (indirective) uciliuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	loader	NP-rel V.subj	A
+Central Alaskan Yupik	45	LOAD	ucilir- / (indirective) uciliuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	loading place	NP-abs V.obj	P
+Central Alaskan Yupik	45	LOAD	ucilir- / (indirective) uciliuc-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	loaded thing	NP-abm	X
+Central Alaskan Yupik	46	BLINK	qelme-	Basic	1-rel V.subj[1].obj[x]	1	blinker	NP-rel V.subj	X
+Central Alaskan Yupik	47	COUGH	qusr-	Basic	1-abs V.subj[1]	1	cougher	NP-abs V.subj	S
+Central Alaskan Yupik	48	CLIMB	mayur-	Basic	1-abs 2-all V.subj[1]	1	climber	NP-abs V.subj	S
+Central Alaskan Yupik	48	CLIMB	mayur-	Basic	1-abs 2-all V.subj[1]	2	climbing goal	NP-all	L
+Central Alaskan Yupik	49	RUN	aqvaqur-	Basic	1-abs V.subj[1]	1	runner	NP-abs V.subj	S
+Central Alaskan Yupik	50	SIT	aqumvike-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	sitter	NP-rel V.subj	A
+Central Alaskan Yupik	50	SIT	aqumvike-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	sitting place	NP-abs V.obj	P
+Central Alaskan Yupik	51	SIT DOWN	aqume-	Basic	1-abs 2-all V.subj[1]	1	sitdowner	NP-abs V.subj	S
+Central Alaskan Yupik	51	SIT DOWN	aqume-	Basic	1-abs 2-all V.subj[1]	2	sitting-down place	NP-all	L
+Central Alaskan Yupik	52	JUMP	qeckar-	Basic	1-abs V.subj[1]	1	jumper	NP-abs V.subj	S
+Central Alaskan Yupik	53	SING	atur-	Basic	1-abs V.subj[1]	1	singer	NP-abs V.subj	S
+Central Alaskan Yupik	54	GO	ayag-	Basic	1-abs 2-all V.subj[1]	1	goer	NP-abs V.subj	S
+Central Alaskan Yupik	54	GO	ayag-	Basic	1-abs 2-all V.subj[1]	2	going goal	NP-all	L
+Central Alaskan Yupik	55	LEAVE	ayag-(2)	Basic	1-abs 2-abm V.subj[1]	1	leaver	NP-abs V.subj	S
+Central Alaskan Yupik	55	LEAVE	ayag-(2)	Basic	1-abs 2-abm V.subj[1]	2	left place/person	NP-abm	X
+Central Alaskan Yupik	56	LIVE	uitalar-	Basic	1-abs 2-loc V.subj[1]	1	liver	NP-abs V.subj	S
+Central Alaskan Yupik	56	LIVE	uitalar-	Basic	1-abs 2-loc V.subj[1]	2	living place	NP-loc	X
+Central Alaskan Yupik	57	LAUGH	n(g)el'ar-	Basic	1-abs V.subj[1]	1	laugher	NP-abs V.subj	S
+Central Alaskan Yupik	58	SCREAM	aarpag-	Basic	1-abs V.subj[1]	1	screamer	NP-abs V.subj	S
+Central Alaskan Yupik	59	FEEL PAIN	akngir-	Basic	1-abs V.subj[1]	1	pain-feeler	NP-abs V.subj	S
+Central Alaskan Yupik	61	DIE	tuqu-	Basic	1-abs V.subj[1]	1	dieer	NP-abs V.subj	S
+Central Alaskan Yupik	62	PLAY	aqui-	Basic	1-abs V.subj[1]	1	player	NP-abs V.subj	S
+Central Alaskan Yupik	63	BE SAD	iluteqe-	Basic	1-abs V.subj[1]	1	sad person	NP-abs V.subj	S
+Central Alaskan Yupik	64	BE HUNGRY	kaig-	Basic	1-abs V.subj[1]	1	hungry person	NP-abs V.subj	S
+Central Alaskan Yupik	66	SINK	kic-	Basic	1-abs V.subj[1]	1	sunken entity	NP-abs V.subj	S
+Central Alaskan Yupik	68	BE DRY	kinengqa-	Basic	1-abs V.subj[1]	1	dry thing	NP-abs V.subj	S
+Central Alaskan Yupik	69	RAIN	(c)ellallir-	Basic	1-abs V.subj[1]	1	rain	NP-abs V.subj	S
+Central Alaskan Yupik	71	GRIND	miili-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	grinder	NP-rel V.subj	A
+Central Alaskan Yupik	71	GRIND	miili-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	ground thing	NP-abs V.obj	P
+Central Alaskan Yupik	72	WIPE	perrir-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	wiper	NP-rel V.subj	A
+Central Alaskan Yupik	72	WIPE	perrir-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	wiping surface	NP-abs V.obj	P
+Central Alaskan Yupik	74	PUSH	cingvike- / (indirective) cinge-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	1	pusher	NP-rel V.subj	A
+Central Alaskan Yupik	74	PUSH	cingvike- / (indirective) cinge-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	2	pushee	NP-abs V.obj	P
+Central Alaskan Yupik	74	PUSH	cingvike- / (indirective) cinge-	Basic	1-rel 2-abs 3-all V.subj[1].obj[2]	3	pushing goal	NP-all	L
+Central Alaskan Yupik	76	STEAL	tegleg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	stealer	NP-rel V.subj	A
+Central Alaskan Yupik	76	STEAL	tegleg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	stolen thing	NP-abs V.obj	P
+Central Alaskan Yupik	76	STEAL	tegleg-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	stealing source	NP-abm	X
+Central Alaskan Yupik	77	TEACH	elitnaur- / elicar-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	1	teacher	NP-rel V.subj	A
+Central Alaskan Yupik	77	TEACH	elitnaur- / elicar-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	2	teachee	NP-abs V.obj	P
+Central Alaskan Yupik	77	TEACH	elitnaur- / elicar-	Basic	1-rel 2-abs 3-abm V.subj[1].obj[2]	3	taught content	NP-abm	X
+Central Alaskan Yupik	78	HEAR	niic-	Basic	1-rel 2-abs V.subj[1].obj[2]	1	hearer	NP-rel V.subj	A
+Central Alaskan Yupik	78	HEAR	niic-	Basic	1-rel 2-abs V.subj[1].obj[2]	2	heard sound	NP-abs V.obj	P
+Central Alaskan Yupik	79	COOK	kenir-	Basic	1-abs 2-abm V.subj[1]	1	cooker	NP-abs V.subj	S
+Central Alaskan Yupik	79	COOK	kenir-	Basic	1-abs 2-abm V.subj[1]	2	cooked food	NP-abm	X
+Central Alaskan Yupik	80	BOIL	qalla-	Basic	1-abs V.subj[1]	1	boiled thing	NP-abs V.subj	S

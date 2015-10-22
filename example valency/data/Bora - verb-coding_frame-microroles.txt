@@ -1,0 +1,737 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Bora	1	EAT	do	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Bora	1	EAT	do	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Bora	1	EAT	do	Derived	1/2-nom V'jcatsí	1	eater	NP-nom	
+Bora	1	EAT	do	Derived	1/2-nom V'jcatsí	2	eaten food	NP-nom	
+Bora	1	EAT	do	Derived	1/2-nom V'meí	1	eater	NP-nom	
+Bora	1	EAT	do	Derived	1/2-nom V'meí	2	eaten food	NP-nom	
+Bora	1	EAT	do	Derived	4-nom 1-acc 2-all V'tso	1	eater	NP-acc	
+Bora	1	EAT	do	Derived	4-nom 1-acc 2-all V'tso	2	eaten food	NP-all	
+Bora	1	EAT	do	Derived	4-nom 1-acc 2-all V'tso	4	eat causer/feeder	NP-nom	
+Bora	1	EAT	majchó	Basic	1-nom 2-acc V	1	eater	NP-nom	A
+Bora	1	EAT	majchó	Basic	1-nom 2-acc V	2	eaten food	NP-acc	P
+Bora	1	EAT	majchó	Derived	4-nom 1-acc 2-all V'tso	1	eater	NP-acc	
+Bora	1	EAT	majchó	Derived	4-nom 1-acc 2-all V'tso	2	eaten food	NP-all	
+Bora	2	HUG	ámabúcu	Basic	1-nom 2-acc V	1	hugger	NP-nom	A
+Bora	2	HUG	ámabúcu	Basic	1-nom 2-acc V	2	huggee	NP-acc	P
+Bora	2	HUG	ámabúcu	Derived	1/2-nom V'jcatsí	1	hugger	NP-nom	
+Bora	2	HUG	ámabúcu	Derived	1/2-nom V'jcatsí	2	huggee	NP-nom	
+Bora	2	HUG	ámabúcu	Derived	1/2-nom V'meí	1	hugger	NP-nom	
+Bora	2	HUG	ámabúcu	Derived	1/2-nom V'meí	2	huggee	NP-nom	
+Bora	2	HUG	ámabúcu	Derived	4-nom 1-acc 2-all V'tso	1	hugger	NP-acc	
+Bora	2	HUG	ámabúcu	Derived	4-nom 1-acc 2-all V'tso	2	huggee	NP-all	
+Bora	2	HUG	ámabúcu	Derived	4-nom 1-acc 2-all V'tso	4	hug causer	NP-nom	
+Bora	3	LOOK AT	ɨɨté	Basic	1-nom 2-acc V	1	looker	NP-nom	A
+Bora	3	LOOK AT	ɨɨté	Basic	1-nom 2-acc V	2	looked at entity	NP-acc	P
+Bora	3	LOOK AT	ɨɨté	Derived	1/2-nom V'jcatsí	1	looker	NP-nom	
+Bora	3	LOOK AT	ɨɨté	Derived	1/2-nom V'jcatsí	2	looked at entity	NP-nom	
+Bora	3	LOOK AT	ɨɨté	Derived	1/2-nom V'meí	1	looker	NP-nom	
+Bora	3	LOOK AT	ɨɨté	Derived	1/2-nom V'meí	2	looked at entity	NP-nom	
+Bora	3	LOOK AT	ɨɨté	Derived	4-nom 1-acc 2-all V'tso	1	looker	NP-acc	
+Bora	3	LOOK AT	ɨɨté	Derived	4-nom 1-acc 2-all V'tso	2	looked at entity	NP-all	
+Bora	3	LOOK AT	ɨɨté	Derived	4-nom 1-acc 2-all V'tso	4	look causer	NP-nom	
+Bora	4	SEE	ájtyumɨ́	Basic	1-nom 2-acc V	1	seeer	NP-nom	A
+Bora	4	SEE	ájtyumɨ́	Basic	1-nom 2-acc V	2	seen entity	NP-acc	P
+Bora	4	SEE	ájtyumɨ́	Derived	1/2-nom V'jcatsí	1	seeer	NP-nom	
+Bora	4	SEE	ájtyumɨ́	Derived	1/2-nom V'jcatsí	2	seen entity	NP-nom	
+Bora	4	SEE	ájtyumɨ́	Derived	1/2-nom V'meí	1	seeer	NP-nom	
+Bora	4	SEE	ájtyumɨ́	Derived	1/2-nom V'meí	2	seen entity	NP-nom	
+Bora	4	SEE	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	1	seeer	NP-acc	
+Bora	4	SEE	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	2	seen entity	NP-all	
+Bora	4	SEE	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	4	see causer	NP-nom	
+Bora	5	SMELL	árahjúcu	Basic	1-nom 2-acc V	1	smeller	NP-nom	A
+Bora	5	SMELL	árahjúcu	Basic	1-nom 2-acc V	2	smelled entity	NP-acc	P
+Bora	5	SMELL	árahjúcu	Derived	1/2-nom V'jcatsí	1	smeller	NP-nom	
+Bora	5	SMELL	árahjúcu	Derived	1/2-nom V'jcatsí	2	smelled entity	NP-nom	
+Bora	5	SMELL	árahjúcu	Derived	1/2-nom V'meí	1	smeller	NP-nom	
+Bora	5	SMELL	árahjúcu	Derived	1/2-nom V'meí	2	smelled entity	NP-nom	
+Bora	5	SMELL	árahjúcu	Derived	4-nom 1-acc 2-all V'tso	1	smeller	NP-acc	
+Bora	5	SMELL	árahjúcu	Derived	4-nom 1-acc 2-all V'tso	2	smelled entity	NP-all	
+Bora	5	SMELL	árahjúcu	Derived	4-nom 1-acc 2-all V'tso	4	smell causer	NP-nom	
+Bora	6	FEAR	illí	Basic	1-nom 2-acc V	1	fearer	NP-nom	A
+Bora	6	FEAR	illí	Basic	1-nom 2-acc V	2	fear stimulus	NP-acc	P
+Bora	6	FEAR	illí	Derived	1/2-nom V'jcatsí	1	fearer	NP-nom	
+Bora	6	FEAR	illí	Derived	1/2-nom V'jcatsí	2	fear stimulus	NP-nom	
+Bora	6	FEAR	illí	Derived	1/2-nom V'meí	1	fearer	NP-nom	
+Bora	6	FEAR	illí	Derived	1/2-nom V'meí	2	fear stimulus	NP-nom	
+Bora	6	FEAR	illí	Derived	4-nom 1-acc 2-all V'tso	1	fearer	NP-acc	
+Bora	6	FEAR	illí	Derived	4-nom 1-acc 2-all V'tso	2	fear stimulus	NP-all	
+Bora	6	FEAR	illí	Derived	4-nom 1-acc 2-all V'tso	4	fear causer	NP-nom	
+Bora	7	FRIGHTEN	íllívyeebó	Basic	1-nom 2-acc V	1	frightener	NP-nom	A
+Bora	7	FRIGHTEN	íllívyeebó	Basic	1-nom 2-acc V	2	frightenee	NP-acc	P
+Bora	7	FRIGHTEN	íllívyeebó	Derived	1/2-nom V'jcatsí	1	frightener	NP-nom	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	1/2-nom V'jcatsí	2	frightenee	NP-nom	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	1/2-nom V'meí	1	frightener	NP-nom	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	1/2-nom V'meí	2	frightenee	NP-nom	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	4-nom 1-acc 2-all V'tso	1	frightener	NP-acc	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	4-nom 1-acc 2-all V'tso	2	frightenee	NP-all	
+Bora	7	FRIGHTEN	íllívyeebó	Derived	4-nom 1-acc 2-all V'tso	4	scare causer	NP-nom	
+Bora	8	LIKE	ímillé	Basic	1-nom 2-acc V	1	liker	NP-nom	A
+Bora	8	LIKE	ímillé	Basic	1-nom 2-acc V	2	liked entity	NP-acc	P
+Bora	8	LIKE	ímillé	Derived	1/2-nom V'jcatsí	1	liker	NP-nom	
+Bora	8	LIKE	ímillé	Derived	1/2-nom V'jcatsí	2	liked entity	NP-nom	
+Bora	8	LIKE	ímillé	Derived	1/2-nom V'meí	1	liker	NP-nom	
+Bora	8	LIKE	ímillé	Derived	1/2-nom V'meí	2	liked entity	NP-nom	
+Bora	8	LIKE	ímillé	Derived	4-nom 1-acc 2-all V'tso	1	liker	NP-acc	
+Bora	8	LIKE	ímillé	Derived	4-nom 1-acc 2-all V'tso	2	liked entity	NP-all	
+Bora	8	LIKE	ímillé	Derived	4-nom 1-acc 2-all V'tso	4	like causer	NP-nom	
+Bora	9	KNOW	wáájacú	Basic	1-nom 2-acc V	1	knower	NP-nom	A
+Bora	9	KNOW	wáájacú	Basic	1-nom 2-acc V	2	known thing/person	NP-acc	P
+Bora	9	KNOW	wáájacú	Derived	1/2-nom V'jcatsí	1	knower	NP-nom	
+Bora	9	KNOW	wáájacú	Derived	1/2-nom V'jcatsí	2	known thing/person	NP-nom	
+Bora	9	KNOW	wáájacú	Derived	1/2-nom V'meí	1	knower	NP-nom	
+Bora	9	KNOW	wáájacú	Derived	1/2-nom V'meí	2	known thing/person	NP-nom	
+Bora	9	KNOW	wáájacú	Derived	4-nom 1-acc 2-all V'tso	1	knower	NP-acc	
+Bora	9	KNOW	wáájacú	Derived	4-nom 1-acc 2-all V'tso	2	known thing/person	NP-all	
+Bora	9	KNOW	wáájacú	Derived	4-nom 1-acc 2-all V'tso	4	know causer	NP-nom	
+Bora	10	THINK	ɨ́tsaave	Basic	1-nom 2-acc V	1	thinker	NP-nom	A
+Bora	10	THINK	ɨ́tsaave	Basic	1-nom 2-acc V	2	thought content	NP-acc	P
+Bora	10	THINK	ɨ́tsaave	Derived	1/2-nom V'jcatsí	1	thinker	NP-nom	
+Bora	10	THINK	ɨ́tsaave	Derived	1/2-nom V'jcatsí	2	thought content	NP-nom	
+Bora	10	THINK	ɨ́tsaave	Derived	1/2-nom V'meí	1	thinker	NP-nom	
+Bora	10	THINK	ɨ́tsaave	Derived	1/2-nom V'meí	2	thought content	NP-nom	
+Bora	10	THINK	ɨ́tsaave	Derived	4-nom 1-acc 2-all V'tso	1	thinker	NP-acc	
+Bora	10	THINK	ɨ́tsaave	Derived	4-nom 1-acc 2-all V'tso	2	thought content	NP-all	
+Bora	10	THINK	ɨ́tsaave	Derived	4-nom 1-acc 2-all V'tso	4	think causer	NP-nom	
+Bora	11	SEARCH FOR	nehco	Basic	1-nom 2-acc V	1	searcher	NP-nom	A
+Bora	11	SEARCH FOR	nehco	Basic	1-nom 2-acc V	2	searched for thing	NP-acc	P
+Bora	11	SEARCH FOR	nehco	Derived	1/2-nom V'jcatsí	1	searcher	NP-nom	
+Bora	11	SEARCH FOR	nehco	Derived	1/2-nom V'jcatsí	2	searched for thing	NP-nom	
+Bora	11	SEARCH FOR	nehco	Derived	1/2-nom V'meí	1	searcher	NP-nom	
+Bora	11	SEARCH FOR	nehco	Derived	1/2-nom V'meí	2	searched for thing	NP-nom	
+Bora	11	SEARCH FOR	nehco	Derived	4-nom 1-acc 2-all V'tso	1	searcher	NP-acc	
+Bora	11	SEARCH FOR	nehco	Derived	4-nom 1-acc 2-all V'tso	2	searched for thing	NP-all	
+Bora	11	SEARCH FOR	nehco	Derived	4-nom 1-acc 2-all V'tso	4	search causer	NP-nom	
+Bora	12	WASH	nijtyú	Basic	1-nom 2-acc V	1	washer	NP-nom	A
+Bora	12	WASH	nijtyú	Basic	1-nom 2-acc V	2	washed entity	NP-acc	P
+Bora	12	WASH	nijtyú	Derived	1/2-nom V'jcatsí	1	washer	NP-nom	
+Bora	12	WASH	nijtyú	Derived	1/2-nom V'jcatsí	2	washed entity	NP-nom	
+Bora	12	WASH	nijtyú	Derived	1/2-nom V'meí	1	washer	NP-nom	
+Bora	12	WASH	nijtyú	Derived	1/2-nom V'meí	2	washed entity	NP-nom	
+Bora	12	WASH	nijtyú	Derived	4-nom 1-acc 2-all V'tso	1	washer	NP-acc	
+Bora	12	WASH	nijtyú	Derived	4-nom 1-acc 2-all V'tso	2	washed entity	NP-all	
+Bora	12	WASH	nijtyú	Derived	4-nom 1-acc 2-all V'tso	4	wash causer	NP-nom	
+Bora	13	DRESS	babyáro	Basic	1-nom 2-acc (3-all) V	1	dresser	NP-nom	A
+Bora	13	DRESS	babyáro	Basic	1-nom 2-acc (3-all) V	2	dressee	NP-acc	P
+Bora	13	DRESS	babyáro	Basic	1-nom 2-acc (3-all) V	3	clothes	NP-all	L
+Bora	13	DRESS	babyáro	Derived	1-nom 2-acc 3-loc/instr V'	1	dresser	NP-nom	
+Bora	13	DRESS	babyáro	Derived	1-nom 2-acc 3-loc/instr V'	2	dressee	NP-acc	
+Bora	13	DRESS	babyáro	Derived	1-nom 2-acc 3-loc/instr V'	3	clothes	NP-loc/instr	
+Bora	13	DRESS	babyáro	Derived	1/2-nom (3-all) V'jcatsí	1	dresser	NP-nom	
+Bora	13	DRESS	babyáro	Derived	1/2-nom (3-all) V'jcatsí	2	dressee	NP-nom	
+Bora	13	DRESS	babyáro	Derived	1/2-nom (3-all) V'jcatsí	3	clothes	NP-all	
+Bora	13	DRESS	babyáro	Derived	1/2-nom 3-all V'meí	1	dresser	NP-nom	
+Bora	13	DRESS	babyáro	Derived	1/2-nom 3-all V'meí	2	dressee	NP-nom	
+Bora	13	DRESS	babyáro	Derived	1/2-nom 3-all V'meí	3	clothes	NP-all	
+Bora	13	DRESS	babyáro	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	dresser	NP-acc	
+Bora	13	DRESS	babyáro	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	dressee	NP-acc	
+Bora	13	DRESS	babyáro	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	clothes	NP-all	
+Bora	13	DRESS	babyáro	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	dress causer	NP-nom	
+Bora	13	DRESS	uácó	Basic	1-nom 2-acc (3-all) V	1	dresser	NP-nom	A
+Bora	13	DRESS	uácó	Basic	1-nom 2-acc (3-all) V	2	dressee	NP-acc	P
+Bora	13	DRESS	uácó	Basic	1-nom 2-acc (3-all) V	3	clothes	NP-all	L
+Bora	13	DRESS	uácó	Derived	1/2-nom (3-all) V'jcatsí	1	dresser	NP-nom	
+Bora	13	DRESS	uácó	Derived	1/2-nom (3-all) V'jcatsí	2	dressee	NP-nom	
+Bora	13	DRESS	uácó	Derived	1/2-nom (3-all) V'jcatsí	3	clothes	NP-all	
+Bora	13	DRESS	uácó	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	dresser	NP-acc	
+Bora	13	DRESS	uácó	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	dressee	NP-acc	
+Bora	13	DRESS	uácó	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	clothes	NP-all	
+Bora	13	DRESS	uácó	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	dress causer	NP-nom	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Basic	1-nom 2-acc V	1	shaver (of body part)	NP-nom	A
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Basic	1-nom 2-acc V	2	shaved body part	NP-acc	P
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	1/2-nom V'jcatsí	1	shaver (of body part)	NP-nom	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	1/2-nom V'jcatsí	2	shaved body part	NP-nom	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	1/2-nom V'meí	1	shaver (of body part)	NP-nom	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	1/2-nom V'meí	2	shaved body part	NP-nom	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	4-nom 1-acc 2-all V'tso	1	shaver (of body part)	NP-acc	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	4-nom 1-acc 2-all V'tso	2	shaved body part	NP-all	
+Bora	14	SHAVE (a body part/person)	nɨɨ́tsu	Derived	4-nom 1-acc 2-all V'tso	4	shave causer	NP-nom	
+Bora	15	HELP	pɨ́aabó	Basic	1-nom 2-acc V	1	helper	NP-nom	A
+Bora	15	HELP	pɨ́aabó	Basic	1-nom 2-acc V	2	helpee	NP-acc	P
+Bora	15	HELP	pɨ́aabó	Derived	1/2-nom V'jcatsí	1	helper	NP-nom	
+Bora	15	HELP	pɨ́aabó	Derived	1/2-nom V'jcatsí	2	helpee	NP-nom	
+Bora	15	HELP	pɨ́aabó	Derived	4-nom 1-acc 2-all V'tso	1	helper	NP-acc	
+Bora	15	HELP	pɨ́aabó	Derived	4-nom 1-acc 2-all V'tso	2	helpee	NP-all	
+Bora	15	HELP	pɨ́aabó	Derived	4-nom 1-acc 2-all V'tso	4	help causer	NP-nom	
+Bora	16	FOLLOW	úraavyé	Basic	1-nom 2-acc V	1	follower	NP-nom	A
+Bora	16	FOLLOW	úraavyé	Basic	1-nom 2-acc V	2	followee	NP-acc	P
+Bora	16	FOLLOW	úraavyé	Derived	1/2-nom V'jcatsí	1	follower	NP-nom	
+Bora	16	FOLLOW	úraavyé	Derived	1/2-nom V'jcatsí	2	followee	NP-nom	
+Bora	16	FOLLOW	úraavyé	Derived	4-nom 1-acc 2-all V'tso	1	follower	NP-acc	
+Bora	16	FOLLOW	úraavyé	Derived	4-nom 1-acc 2-all V'tso	2	followee	NP-all	
+Bora	16	FOLLOW	úraavyé	Derived	4-nom 1-acc 2-all V'tso	4	follow causer	NP-nom	
+Bora	17	MEET	ájtyumɨ́	Basic	1-nom 2-acc V	1	meeter	NP-nom	A
+Bora	17	MEET	ájtyumɨ́	Basic	1-nom 2-acc V	2	met person	NP-acc	P
+Bora	17	MEET	ájtyumɨ́	Derived	1/2-nom V'jcatsí	1	meeter	NP-nom	
+Bora	17	MEET	ájtyumɨ́	Derived	1/2-nom V'jcatsí	2	met person	NP-nom	
+Bora	17	MEET	ájtyumɨ́	Derived	1/2-nom V'meí	1	meeter	NP-nom	
+Bora	17	MEET	ájtyumɨ́	Derived	1/2-nom V'meí	2	met person	NP-nom	
+Bora	17	MEET	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	1	meeter	NP-acc	
+Bora	17	MEET	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	2	met person	NP-all	
+Bora	17	MEET	ájtyumɨ́	Derived	4-nom 1-acc 2-all V'tso	4	meet causer	NP-nom	
+Bora	18	TALK	ihjyúvá	Basic	1-nom 2-soc 3-loc/instr V	1	talker	NP-nom	S
+Bora	18	TALK	ihjyúvá	Basic	1-nom 2-soc 3-loc/instr V	2	talked to person	NP-soc	X
+Bora	18	TALK	ihjyúvá	Basic	1-nom 2-soc 3-loc/instr V	3	talked about content	NP-loc/instr	I
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'jcatsí	1	talker	NP-nom	
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'jcatsí	2	talked to person	NP-nom	
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'jcatsí	3	talked about content	NP-loc/instr	
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'meí	1	talker	NP-nom	
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'meí	2	talked to person	NP-nom	
+Bora	18	TALK	ihjyúvá	Derived	1/2-nom 3-loc/instr V'meí	3	talked about content	NP-loc/instr	
+Bora	18	TALK	ihjyúvá	Derived	4-nom 1-acc 2-soc 3-loc/instr V'tso	1	talker	NP-acc	
+Bora	18	TALK	ihjyúvá	Derived	4-nom 1-acc 2-soc 3-loc/instr V'tso	2	talked to person	NP-soc	
+Bora	18	TALK	ihjyúvá	Derived	4-nom 1-acc 2-soc 3-loc/instr V'tso	3	talked about content	NP-loc/instr	
+Bora	18	TALK	ihjyúvá	Derived	4-nom 1-acc 2-soc 3-loc/instr V'tso	4	talk causer	NP-nom	
+Bora	19	ASK FOR	táuméí	Basic	1-nom 2-acc 3-acc V	1	asker	NP-nom	A
+Bora	19	ASK FOR	táuméí	Basic	1-nom 2-acc 3-acc V	2	askee	NP-acc	P
+Bora	19	ASK FOR	táuméí	Basic	1-nom 2-acc 3-acc V	3	requested thing	NP-acc	P
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'jcatsí	1	asker	NP-nom	
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'jcatsí	2	askee	NP-nom	
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'jcatsí	3	requested thing	NP-acc	
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'meí	1	asker	NP-nom	
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'meí	2	askee	NP-nom	
+Bora	19	ASK FOR	táuméí	Derived	1/2-nom 3-acc V'meí	3	requested thing	NP-acc	
+Bora	19	ASK FOR	táuméí	Derived	4-nom 1-acc 2-acc 3-acc V'tso	1	asker	NP-acc	
+Bora	19	ASK FOR	táuméí	Derived	4-nom 1-acc 2-acc 3-acc V'tso	2	askee	NP-acc	
+Bora	19	ASK FOR	táuméí	Derived	4-nom 1-acc 2-acc 3-acc V'tso	3	requested thing	NP-acc	
+Bora	19	ASK FOR	táuméí	Derived	4-nom 1-acc 2-acc 3-acc V'tso	4	ask for causer	NP-nom	
+Bora	20	SHOUT AT	ihjyúcunu	Basic	1-nom 2-acc V	1	shouter	NP-nom	A
+Bora	20	SHOUT AT	ihjyúcunu	Basic	1-nom 2-acc V	2	shoutee	NP-acc	P
+Bora	20	SHOUT AT	ihjyúcunu	Derived	1/2-nom V'jcatsí	1	shouter	NP-nom	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	1/2-nom V'jcatsí	2	shoutee	NP-nom	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	1/2-nom V'meí	1	shouter	NP-nom	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	1/2-nom V'meí	2	shoutee	NP-nom	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	4-nom 1-acc 2-all V'tso	1	shouter	NP-acc	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	4-nom 1-acc 2-all V'tso	2	shoutee	NP-all	
+Bora	20	SHOUT AT	ihjyúcunu	Derived	4-nom 1-acc 2-all V'tso	4	shout causer	NP-nom	
+Bora	20	SHOUT AT	tsɨjpáju	Basic	1-nom 2-acc V	1	shouter	NP-nom	A
+Bora	20	SHOUT AT	tsɨjpáju	Basic	1-nom 2-acc V	2	shoutee	NP-acc	P
+Bora	20	SHOUT AT	tsɨjpáju	Derived	1/2-nom V'jcatsí	1	shouter	NP-nom	
+Bora	20	SHOUT AT	tsɨjpáju	Derived	1/2-nom V'jcatsí	2	shoutee	NP-nom	
+Bora	20	SHOUT AT	tsɨjpáju	Derived	4-nom 1-acc 2-all V'tso	1	shouter	NP-acc	
+Bora	20	SHOUT AT	tsɨjpáju	Derived	4-nom 1-acc 2-all V'tso	2	shoutee	NP-all	
+Bora	20	SHOUT AT	tsɨjpáju	Derived	4-nom 1-acc 2-all V'tso	4	shout causer	NP-nom	
+Bora	21	TELL	uubálle	Basic	1-nom 2-acc 3-nom V	1	teller	NP-nom	A
+Bora	21	TELL	uubálle	Basic	1-nom 2-acc 3-nom V	2	tellee	NP-acc	P
+Bora	21	TELL	uubálle	Basic	1-nom 2-acc 3-nom V	3	told content	NP-nom	X
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'jcatsí	1	teller	NP-nom	
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'jcatsí	2	tellee	NP-nom	
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'jcatsí	3	told content	NP-nom	
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'meí	1	teller	NP-nom	
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'meí	2	tellee	NP-nom	
+Bora	21	TELL	uubálle	Derived	1/2-nom 3-nom V'meí	3	told content	NP-nom	
+Bora	21	TELL	uubálle	Derived	4-nom 1-acc 2-acc 3-nom V'tso	1	teller	NP-acc	
+Bora	21	TELL	uubálle	Derived	4-nom 1-acc 2-acc 3-nom V'tso	2	tellee	NP-acc	
+Bora	21	TELL	uubálle	Derived	4-nom 1-acc 2-acc 3-nom V'tso	3	told content	NP-nom	
+Bora	21	TELL	uubálle	Derived	4-nom 1-acc 2-acc 3-nom V'tso	4	tell causer	NP-nom	
+Bora	22	SAY	néé	Basic	1-nom 2-acc UTT3	1	sayer	NP-nom	A
+Bora	22	SAY	néé	Basic	1-nom 2-acc UTT3	2	saying addressee	NP-acc	P
+Bora	22	SAY	néé	Basic	1-nom 2-acc UTT3	3	said content	UTT	X
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'jcatsí	1	sayer	NP-nom	
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'jcatsí	2	saying addressee	NP-nom	
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'jcatsí	3	said content	UTT	
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'meí	1	sayer	NP-nom	
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'meí	2	saying addressee	NP-nom	
+Bora	22	SAY	néé	Derived	1/2-nom UTT3 V'meí	3	said content	UTT	
+Bora	22	SAY	néé	Derived	4-nom 1-acc 2-acc UTT3 V'tso	1	sayer	NP-acc	
+Bora	22	SAY	néé	Derived	4-nom 1-acc 2-acc UTT3 V'tso	2	saying addressee	NP-acc	
+Bora	22	SAY	néé	Derived	4-nom 1-acc 2-acc UTT3 V'tso	3	said content	UTT	
+Bora	22	SAY	néé	Derived	4-nom 1-acc 2-acc UTT3 V'tso	4	say causer	NP-nom	
+Bora	23	NAME	dilló	Basic	1-nom 2-acc 3-acc V	1	namer	NP-nom	A
+Bora	23	NAME	dilló	Basic	1-nom 2-acc 3-acc V	2	namee	NP-acc	P
+Bora	23	NAME	dilló	Basic	1-nom 2-acc 3-acc V	3	name	NP-acc	P
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'jcatsí	1	namer	NP-nom	
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'jcatsí	2	namee	NP-nom	
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'jcatsí	3	name	NP-acc	
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'meí	1	namer	NP-nom	
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'meí	2	namee	NP-nom	
+Bora	23	NAME	dilló	Derived	1/2-nom 3-acc V'meí	3	name	NP-acc	
+Bora	23	NAME	dilló	Derived	4-nom 1-acc 2-acc 3-acc V'tso	1	namer	NP-acc	
+Bora	23	NAME	dilló	Derived	4-nom 1-acc 2-acc 3-acc V'tso	2	namee	NP-acc	
+Bora	23	NAME	dilló	Derived	4-nom 1-acc 2-acc 3-acc V'tso	3	name	NP-acc	
+Bora	23	NAME	dilló	Derived	4-nom 1-acc 2-acc 3-acc V'tso	4	name causer	NP-nom	
+Bora	24	BUILD	meenú	Basic	1-nom 2-acc 3-abl V	1	builder	NP-nom	A
+Bora	24	BUILD	meenú	Basic	1-nom 2-acc 3-abl V	2	built thing	NP-acc	P
+Bora	24	BUILD	meenú	Basic	1-nom 2-acc 3-abl V	3	building material	NP-abl	X
+Bora	24	BUILD	meenú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	builder	NP-acc	
+Bora	24	BUILD	meenú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	built thing	NP-acc	
+Bora	24	BUILD	meenú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	building material	NP-abl	
+Bora	24	BUILD	meenú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	build causer	NP-nom	
+Bora	25	BREAK	cápujuhjácó	Basic	1-nom 2-acc (3-loc/instr) V	1	breaker	NP-nom	A
+Bora	25	BREAK	cápujuhjácó	Basic	1-nom 2-acc (3-loc/instr) V	2	broken thing	NP-acc	P
+Bora	25	BREAK	cápujuhjácó	Basic	1-nom 2-acc (3-loc/instr) V	3	breaking instrument	NP-loc/instr	I
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'jcatsí	1	breaker	NP-nom	
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'jcatsí	2	broken thing	NP-nom	
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'jcatsí	3	breaking instrument	NP-loc/instr	
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'meí	1	breaker	NP-nom	
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'meí	2	broken thing	NP-nom	
+Bora	25	BREAK	cápujuhjácó	Derived	1/2-nom 3-loc/instr V'meí	3	breaking instrument	NP-loc/instr	
+Bora	25	BREAK	cápujuhjácó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	breaker	NP-acc	
+Bora	25	BREAK	cápujuhjácó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	broken thing	NP-acc	
+Bora	25	BREAK	cápujuhjácó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	breaking instrument	NP-loc/instr	
+Bora	25	BREAK	cápujuhjácó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	break causer	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Basic	1-nom 2-acc (3-loc/instr) V	1	killer	NP-nom	A
+Bora	26	KILL	dsɨ́jɨ́vetsó	Basic	1-nom 2-acc (3-loc/instr) V	2	killee	NP-acc	P
+Bora	26	KILL	dsɨ́jɨ́vetsó	Basic	1-nom 2-acc (3-loc/instr) V	3	killing instrument	NP-loc/instr	I
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'jcatsí	1	killer	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'jcatsí	2	killee	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'jcatsí	3	killing instrument	NP-loc/instr	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'meí	1	killer	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'meí	2	killee	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	1/2-nom 3-loc/instr V'meí	3	killing instrument	NP-loc/instr	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	3-nom 2-acc V'	2	killee	NP-acc	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	3-nom 2-acc V'	3	killing instrument	NP-nom	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	killer	NP-acc	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	killee	NP-acc	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	killing instrument	NP-loc/instr	
+Bora	26	KILL	dsɨ́jɨ́vetsó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	kill causer	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	1	beater	NP-nom	A
+Bora	27	BEAT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	2	beatee	NP-acc	P
+Bora	27	BEAT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	3	beating instrument	NP-loc/instr	I
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	1	beater	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	2	beatee	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	3	beating instrument	NP-loc/instr	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	1	beater	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	2	beatee	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	3	beating instrument	NP-loc/instr	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	3-nom 2-acc V'	2	beatee	NP-acc	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	3-nom 2-acc V'	3	beating instrument	NP-nom	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	beater	NP-acc	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	beatee	NP-acc	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	beating instrument	NP-loc/instr	
+Bora	27	BEAT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	beat causer	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	1	hitter	NP-nom	A
+Bora	28	HIT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	2	hittee	NP-acc	P
+Bora	28	HIT	wádɨ́rɨhcó	Basic	1-nom 2-acc (3-loc/instr) V	3	hitting instrument	NP-loc/instr	I
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	1	hitter	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	2	hittee	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'jcatsí	3	hitting instrument	NP-loc/instr	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	1	hitter	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	2	hittee	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	1/2-nom 3-loc/instr V'meí	3	hitting instrument	NP-loc/instr	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	3-nom 2-acc V'	2	hittee	NP-acc	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	3-nom 2-acc V'	3	hitting instrument	NP-nom	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	hitter	NP-acc	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	hittee	NP-acc	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	hitting instrument	NP-loc/instr	
+Bora	28	HIT	wádɨ́rɨhcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	hit causer	NP-nom	
+Bora	29	TOUCH	dómajcó	Basic	1-nom 2-acc (3-loc/instr) V	1	toucher	NP-nom	A
+Bora	29	TOUCH	dómajcó	Basic	1-nom 2-acc (3-loc/instr) V	2	touchee	NP-acc	P
+Bora	29	TOUCH	dómajcó	Basic	1-nom 2-acc (3-loc/instr) V	3	touching instrument	NP-loc/instr	I
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'jcatsí	1	toucher	NP-nom	
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'jcatsí	2	touchee	NP-nom	
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'jcatsí	3	touching instrument	NP-loc/instr	
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'meí	1	toucher	NP-nom	
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'meí	2	touchee	NP-nom	
+Bora	29	TOUCH	dómajcó	Derived	1/2-nom 3-loc/instr V'meí	3	touching instrument	NP-loc/instr	
+Bora	29	TOUCH	dómajcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	toucher	NP-acc	
+Bora	29	TOUCH	dómajcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	touchee	NP-acc	
+Bora	29	TOUCH	dómajcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	touching instrument	NP-loc/instr	
+Bora	29	TOUCH	dómajcó	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	touch causer	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Basic	1-nom 2-acc (3-loc/instr) V	1	cutter	NP-nom	A
+Bora	30	CUT	kídyahɨ́nú	Basic	1-nom 2-acc (3-loc/instr) V	2	cut thing	NP-acc	P
+Bora	30	CUT	kídyahɨ́nú	Basic	1-nom 2-acc (3-loc/instr) V	3	cutting instrument	NP-loc/instr	I
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'jcatsí	1	cutter	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'jcatsí	2	cut thing	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'jcatsí	3	cutting instrument	NP-loc/instr	
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'meí	1	cutter	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'meí	2	cut thing	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Derived	1/2-nom 3-loc/instr V'meí	3	cutting instrument	NP-loc/instr	
+Bora	30	CUT	kídyahɨ́nú	Derived	3-nom 2-acc V'	2	cut thing	NP-acc	
+Bora	30	CUT	kídyahɨ́nú	Derived	3-nom 2-acc V'	3	cutting instrument	NP-nom	
+Bora	30	CUT	kídyahɨ́nú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	cutter	NP-acc	
+Bora	30	CUT	kídyahɨ́nú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	cut thing	NP-acc	
+Bora	30	CUT	kídyahɨ́nú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	cutting instrument	NP-loc/instr	
+Bora	30	CUT	kídyahɨ́nú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	cutting causer	NP-nom	
+Bora	31	TAKE	ujcú	Basic	1-nom 2-acc 3-abl V	1	taker	NP-nom	A
+Bora	31	TAKE	ujcú	Basic	1-nom 2-acc 3-abl V	2	taken thing	NP-acc	P
+Bora	31	TAKE	ujcú	Basic	1-nom 2-acc 3-abl V	3	taking source	NP-abl	X
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'jcatsí	1	taker	NP-nom	
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'jcatsí	2	taken thing	NP-nom	
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'jcatsí	3	taking source	NP-abl	
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'meí	1	taker	NP-nom	
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'meí	2	taken thing	NP-nom	
+Bora	31	TAKE	ujcú	Derived	1/2-nom 3-abl V'meí	3	taking source	NP-abl	
+Bora	31	TAKE	ujcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	taker	NP-acc	
+Bora	31	TAKE	ujcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	taken thing	NP-acc	
+Bora	31	TAKE	ujcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	taking source	NP-abl	
+Bora	31	TAKE	ujcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	take causer	NP-nom	
+Bora	32	TEAR	dóbahjyúcú	Basic	1-nom 2-acc 3-abl V	1	tearer	NP-nom	A
+Bora	32	TEAR	dóbahjyúcú	Basic	1-nom 2-acc 3-abl V	2	torn thing	NP-acc	P
+Bora	32	TEAR	dóbahjyúcú	Basic	1-nom 2-acc 3-abl V	3	tearing source	NP-abl	X
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'jcatsí	1	tearer	NP-nom	
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'jcatsí	2	torn thing	NP-nom	
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'jcatsí	3	tearing source	NP-abl	
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'meí	1	tearer	NP-nom	
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'meí	2	torn thing	NP-nom	
+Bora	32	TEAR	dóbahjyúcú	Derived	1/2-nom 3-abl V'meí	3	tearing source	NP-abl	
+Bora	32	TEAR	dóbahjyúcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	tearer	NP-acc	
+Bora	32	TEAR	dóbahjyúcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	torn thing	NP-acc	
+Bora	32	TEAR	dóbahjyúcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	tearing source	NP-abl	
+Bora	32	TEAR	dóbahjyúcú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	tear causer	NP-nom	
+Bora	33	PEEL	ɨhtu	Basic	1-nom 2-acc V	1	peeler	NP-nom	A
+Bora	33	PEEL	ɨhtu	Basic	1-nom 2-acc V	2	peel	NP-acc	P
+Bora	33	PEEL	ɨhtu	Derived	1/2-nom V'meí	1	peeler	NP-nom	
+Bora	33	PEEL	ɨhtu	Derived	1/2-nom V'meí	2	peel	NP-nom	
+Bora	33	PEEL	ɨhtu	Derived	4-nom 1-acc 2-all V'tso	1	peeler	NP-acc	
+Bora	33	PEEL	ɨhtu	Derived	4-nom 1-acc 2-all V'tso	2	peel	NP-all	
+Bora	33	PEEL	ɨhtu	Derived	4-nom 1-acc 2-all V'tso	4	peel causer	NP-nom	
+Bora	34	HIDE	páátanú	Basic	1-nom 2-acc 3-abl V	1	hider	NP-nom	A
+Bora	34	HIDE	páátanú	Basic	1-nom 2-acc 3-abl V	2	hidden thing	NP-acc	P
+Bora	34	HIDE	páátanú	Basic	1-nom 2-acc 3-abl V	3	hiding affectee	NP-abl	X
+Bora	34	HIDE	páátanú	Derived	1/2-nom 3-abl V'jcatsí	1	hider	NP-nom	
+Bora	34	HIDE	páátanú	Derived	1/2-nom 3-abl V'jcatsí	2	hidden thing	NP-nom	
+Bora	34	HIDE	páátanú	Derived	1/2-nom 3-abl V'jcatsí	3	hiding affectee	NP-abl	
+Bora	34	HIDE	páátanú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	hider	NP-acc	
+Bora	34	HIDE	páátanú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	hidden thing	NP-acc	
+Bora	34	HIDE	páátanú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	hiding affectee	NP-abl	
+Bora	34	HIDE	páátanú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	hide causer	NP-nom	
+Bora	35	SHOW	úúje-tsó	Basic	1-nom 2-acc (3-all) V	1	shower	NP-nom	A
+Bora	35	SHOW	úúje-tsó	Basic	1-nom 2-acc (3-all) V	2	showing addressee	NP-acc	P
+Bora	35	SHOW	úúje-tsó	Basic	1-nom 2-acc (3-all) V	3	shown thing	NP-all	L
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom (3-all) V'jcatsí	1	shower	NP-nom	
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom (3-all) V'jcatsí	2	showing addressee	NP-nom	
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom (3-all) V'jcatsí	3	shown thing	NP-all	
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom 3-all V'meí	1	shower	NP-nom	
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom 3-all V'meí	2	showing addressee	NP-nom	
+Bora	35	SHOW	úúje-tsó	Derived	1/2-nom 3-all V'meí	3	shown thing	NP-all	
+Bora	36	GIVE	ajcú	Basic	1-nom 2-acc (3-all) V	1	giver	NP-nom	A
+Bora	36	GIVE	ajcú	Basic	1-nom 2-acc (3-all) V	2	giving recipient	NP-acc	P
+Bora	36	GIVE	ajcú	Basic	1-nom 2-acc (3-all) V	3	gift	NP-all	L
+Bora	36	GIVE	ajcú	Derived	1/2-nom (3-all) V'jcatsí	1	giver	NP-nom	
+Bora	36	GIVE	ajcú	Derived	1/2-nom (3-all) V'jcatsí	2	giving recipient	NP-nom	
+Bora	36	GIVE	ajcú	Derived	1/2-nom (3-all) V'jcatsí	3	gift	NP-all	
+Bora	36	GIVE	ajcú	Derived	1/2-nom 3-all V'meí	1	giver	NP-nom	
+Bora	36	GIVE	ajcú	Derived	1/2-nom 3-all V'meí	2	giving recipient	NP-nom	
+Bora	36	GIVE	ajcú	Derived	1/2-nom 3-all V'meí	3	gift	NP-all	
+Bora	36	GIVE	ajcú	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	giver	NP-acc	
+Bora	36	GIVE	ajcú	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	giving recipient	NP-acc	
+Bora	36	GIVE	ajcú	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	gift	NP-all	
+Bora	36	GIVE	ajcú	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	give causer	NP-nom	
+Bora	37	SEND	walló	Basic	1-nom 2-acc (3-all) V	1	sender	NP-nom	A
+Bora	37	SEND	walló	Basic	1-nom 2-acc (3-all) V	2	sent thing	NP-acc	P
+Bora	37	SEND	walló	Basic	1-nom 2-acc (3-all) V	3	sending recipient	NP-all	L
+Bora	37	SEND	walló	Derived	1/2-nom (3-all) V'jcatsí	1	sender	NP-nom	
+Bora	37	SEND	walló	Derived	1/2-nom (3-all) V'jcatsí	2	sent thing	NP-nom	
+Bora	37	SEND	walló	Derived	1/2-nom (3-all) V'jcatsí	3	sending recipient	NP-all	
+Bora	37	SEND	walló	Derived	1/2-nom 3-all V'meí	1	sender	NP-nom	
+Bora	37	SEND	walló	Derived	1/2-nom 3-all V'meí	2	sent thing	NP-nom	
+Bora	37	SEND	walló	Derived	1/2-nom 3-all V'meí	3	sending recipient	NP-all	
+Bora	37	SEND	walló	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	sender	NP-acc	
+Bora	37	SEND	walló	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	sent thing	NP-acc	
+Bora	37	SEND	walló	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	sending recipient	NP-all	
+Bora	37	SEND	walló	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	send causer	NP-nom	
+Bora	38	CARRY	tsajtyé	Basic	1-nom 2-acc (3-all) V	1	carrier	NP-nom	A
+Bora	38	CARRY	tsajtyé	Basic	1-nom 2-acc (3-all) V	2	carried thing	NP-acc	P
+Bora	38	CARRY	tsajtyé	Basic	1-nom 2-acc (3-all) V	3	carrying goal	NP-all	L
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom (3-all) V'jcatsí	1	carrier	NP-nom	
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom (3-all) V'jcatsí	2	carried thing	NP-nom	
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom (3-all) V'jcatsí	3	carrying goal	NP-all	
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom 3-all V'meí	1	carrier	NP-nom	
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom 3-all V'meí	2	carried thing	NP-nom	
+Bora	38	CARRY	tsajtyé	Derived	1/2-nom 3-all V'meí	3	carrying goal	NP-all	
+Bora	38	CARRY	tsajtyé	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	carrier	NP-acc	
+Bora	38	CARRY	tsajtyé	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	carried thing	NP-acc	
+Bora	38	CARRY	tsajtyé	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	carrying goal	NP-all	
+Bora	38	CARRY	tsajtyé	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	carry causer	NP-nom	
+Bora	39	THROW	waaó	Basic	1-nom 2-acc (3-all) V	1	thrower	NP-nom	A
+Bora	39	THROW	waaó	Basic	1-nom 2-acc (3-all) V	2	thrown thing	NP-acc	P
+Bora	39	THROW	waaó	Basic	1-nom 2-acc (3-all) V	3	throwing goal	NP-all	L
+Bora	39	THROW	waaó	Derived	1/2-nom (3-all) V'jcatsí	1	thrower	NP-nom	
+Bora	39	THROW	waaó	Derived	1/2-nom (3-all) V'jcatsí	2	thrown thing	NP-nom	
+Bora	39	THROW	waaó	Derived	1/2-nom (3-all) V'jcatsí	3	throwing goal	NP-all	
+Bora	39	THROW	waaó	Derived	1/2-nom 3-all V'meí	1	thrower	NP-nom	
+Bora	39	THROW	waaó	Derived	1/2-nom 3-all V'meí	2	thrown thing	NP-nom	
+Bora	39	THROW	waaó	Derived	1/2-nom 3-all V'meí	3	throwing goal	NP-all	
+Bora	39	THROW	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	thrower	NP-acc	
+Bora	39	THROW	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	thrown thing	NP-acc	
+Bora	39	THROW	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	throwing goal	NP-all	
+Bora	39	THROW	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	throw causer	NP-nom	
+Bora	40	TIE	chijchú	Basic	1-nom 2-acc 3-abl V	1	tier	NP-nom	A
+Bora	40	TIE	chijchú	Basic	1-nom 2-acc 3-abl V	2	tied thing	NP-acc	P
+Bora	40	TIE	chijchú	Basic	1-nom 2-acc 3-abl V	3	tying goal	NP-abl	X
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'jcatsí	1	tier	NP-nom	
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'jcatsí	2	tied thing	NP-nom	
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'jcatsí	3	tying goal	NP-abl	
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'meí	1	tier	NP-nom	
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'meí	2	tied thing	NP-nom	
+Bora	40	TIE	chijchú	Derived	1/2-nom 3-abl V'meí	3	tying goal	NP-abl	
+Bora	40	TIE	chijchú	Derived	3-nom 2-acc V'	2	tied thing	NP-acc	
+Bora	40	TIE	chijchú	Derived	3-nom 2-acc V'	3	tying goal	NP-nom	
+Bora	40	TIE	chijchú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	tier	NP-acc	
+Bora	40	TIE	chijchú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	tied thing	NP-acc	
+Bora	40	TIE	chijchú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	tying goal	NP-abl	
+Bora	40	TIE	chijchú	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	tie causer	NP-nom	
+Bora	41	PUT	picyo	Basic	1-nom 2-acc (3-all) V	1	putter	NP-nom	A
+Bora	41	PUT	picyo	Basic	1-nom 2-acc (3-all) V	2	put thing	NP-acc	P
+Bora	41	PUT	picyo	Basic	1-nom 2-acc (3-all) V	3	putting goal	NP-all	L
+Bora	41	PUT	picyo	Derived	1/2-nom (3-all) V'jcatsí	1	putter	NP-nom	
+Bora	41	PUT	picyo	Derived	1/2-nom (3-all) V'jcatsí	2	put thing	NP-nom	
+Bora	41	PUT	picyo	Derived	1/2-nom (3-all) V'jcatsí	3	putting goal	NP-all	
+Bora	41	PUT	picyo	Derived	1/2-nom 3-all V'meí	1	putter	NP-nom	
+Bora	41	PUT	picyo	Derived	1/2-nom 3-all V'meí	2	put thing	NP-nom	
+Bora	41	PUT	picyo	Derived	1/2-nom 3-all V'meí	3	putting goal	NP-all	
+Bora	41	PUT	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	putter	NP-acc	
+Bora	41	PUT	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	put thing	NP-acc	
+Bora	41	PUT	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	putting goal	NP-all	
+Bora	41	PUT	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	put causer	NP-nom	
+Bora	42	POUR	cáhpiñú	Basic	1-nom 2-acc (3-all) V	1	pourer	NP-nom	A
+Bora	42	POUR	cáhpiñú	Basic	1-nom 2-acc (3-all) V	2	poured substance	NP-acc	P
+Bora	42	POUR	cáhpiñú	Basic	1-nom 2-acc (3-all) V	3	pouring goal	NP-all	L
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom (3-all) V'jcatsí	1	pourer	NP-nom	
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom (3-all) V'jcatsí	2	poured substance	NP-nom	
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom (3-all) V'jcatsí	3	pouring goal	NP-all	
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom 3-all V'meí	1	pourer	NP-nom	
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom 3-all V'meí	2	poured substance	NP-nom	
+Bora	42	POUR	cáhpiñú	Derived	1/2-nom 3-all V'meí	3	pouring goal	NP-all	
+Bora	42	POUR	cáhpiñú	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	pourer	NP-acc	
+Bora	42	POUR	cáhpiñú	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	poured substance	NP-acc	
+Bora	42	POUR	cáhpiñú	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	pouring goal	NP-all	
+Bora	42	POUR	cáhpiñú	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	pour causer	NP-nom	
+Bora	43	COVER	wátájcó	Basic	1-nom 2-acc (3-all) V	1	coverer	NP-nom	A
+Bora	43	COVER	wátájcó	Basic	1-nom 2-acc (3-all) V	2	covered thing	NP-acc	P
+Bora	43	COVER	wátájcó	Basic	1-nom 2-acc (3-all) V	3	cover	NP-all	L
+Bora	43	COVER	wátájcó	Derived	1/2-nom (3-all) V'jcatsí	1	coverer	NP-nom	
+Bora	43	COVER	wátájcó	Derived	1/2-nom (3-all) V'jcatsí	2	covered thing	NP-nom	
+Bora	43	COVER	wátájcó	Derived	1/2-nom (3-all) V'jcatsí	3	cover	NP-all	
+Bora	43	COVER	wátájcó	Derived	1/2-nom 3-all V'meí	1	coverer	NP-nom	
+Bora	43	COVER	wátájcó	Derived	1/2-nom 3-all V'meí	2	covered thing	NP-nom	
+Bora	43	COVER	wátájcó	Derived	1/2-nom 3-all V'meí	3	cover	NP-all	
+Bora	43	COVER	wátájcó	Derived	3-nom 2-acc V'	2	covered thing	NP-acc	
+Bora	43	COVER	wátájcó	Derived	3-nom 2-acc V'	3	cover	NP-nom	
+Bora	43	COVER	wátájcó	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	coverer	NP-acc	
+Bora	43	COVER	wátájcó	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	covered thing	NP-acc	
+Bora	43	COVER	wátájcó	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	cover	NP-all	
+Bora	43	COVER	wátájcó	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	cover causer	NP-nom	
+Bora	44	FILL	wahpétsó	Basic	1-nom 2-acc 3-abl V	1	filler	NP-nom	A
+Bora	44	FILL	wahpétsó	Basic	1-nom 2-acc 3-abl V	2	filled container	NP-acc	P
+Bora	44	FILL	wahpétsó	Basic	1-nom 2-acc 3-abl V	3	filling material	NP-abl	X
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'jcatsí	1	filler	NP-nom	
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'jcatsí	2	filled container	NP-nom	
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'jcatsí	3	filling material	NP-abl	
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'meí	1	filler	NP-nom	
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'meí	2	filled container	NP-nom	
+Bora	44	FILL	wahpétsó	Derived	1/2-nom 3-abl V'meí	3	filling material	NP-abl	
+Bora	44	FILL	wahpétsó	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	filler	NP-acc	
+Bora	44	FILL	wahpétsó	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	filled container	NP-acc	
+Bora	44	FILL	wahpétsó	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	filling material	NP-abl	
+Bora	44	FILL	wahpétsó	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	fill causer	NP-nom	
+Bora	45	LOAD	picyo	Basic	1-nom 2-acc (3-all) V	1	loader	NP-nom	A
+Bora	45	LOAD	picyo	Basic	1-nom 2-acc (3-all) V	2	loaded thing	NP-acc	P
+Bora	45	LOAD	picyo	Basic	1-nom 2-acc (3-all) V	3	loading place	NP-all	L
+Bora	45	LOAD	picyo	Derived	1/2-nom (3-all) V'jcatsí	1	loader	NP-nom	
+Bora	45	LOAD	picyo	Derived	1/2-nom (3-all) V'jcatsí	2	loaded thing	NP-nom	
+Bora	45	LOAD	picyo	Derived	1/2-nom (3-all) V'jcatsí	3	loading place	NP-all	
+Bora	45	LOAD	picyo	Derived	1/2-nom 3-all V'meí	1	loader	NP-nom	
+Bora	45	LOAD	picyo	Derived	1/2-nom 3-all V'meí	2	loaded thing	NP-nom	
+Bora	45	LOAD	picyo	Derived	1/2-nom 3-all V'meí	3	loading place	NP-all	
+Bora	45	LOAD	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	loader	NP-acc	
+Bora	45	LOAD	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	loaded thing	NP-acc	
+Bora	45	LOAD	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	loading place	NP-all	
+Bora	45	LOAD	picyo	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	load causer	NP-nom	
+Bora	46	BLINK	támihjyáco	Basic	1-nom V	1	blinker	NP-nom	S
+Bora	46	BLINK	támihjyáco	Derived	4-nom 1-acc V'tso	1	blinker	NP-acc	
+Bora	46	BLINK	támihjyáco	Derived	4-nom 1-acc V'tso	4	blink causer	NP-nom	
+Bora	47	COUGH	éjéhtsó	Basic	1-nom V	1	cougher	NP-nom	S
+Bora	47	COUGH	éjéhtsó	Derived	4-nom 1-acc V'tso	1	cougher	NP-acc	
+Bora	47	COUGH	éjéhtsó	Derived	4-nom 1-acc V'tso	4	cough causer	NP-nom	
+Bora	48	CLIMB	nériivyé	Basic	1-nom 2-acc V	1	climber	NP-nom	A
+Bora	48	CLIMB	nériivyé	Basic	1-nom 2-acc V	2	climbing goal	NP-acc	P
+Bora	48	CLIMB	nériivyé	Derived	1/2-nom V'jcatsí	1	climber	NP-nom	
+Bora	48	CLIMB	nériivyé	Derived	1/2-nom V'jcatsí	2	climbing goal	NP-nom	
+Bora	48	CLIMB	nériivyé	Derived	4-nom 1-acc 2-all V'tso	1	climber	NP-acc	
+Bora	48	CLIMB	nériivyé	Derived	4-nom 1-acc 2-all V'tso	2	climbing goal	NP-all	
+Bora	48	CLIMB	nériivyé	Derived	4-nom 1-acc 2-all V'tso	4	climb causer	NP-nom	
+Bora	49	RUN	dsɨɨné	Basic	1-nom V	1	runner	NP-nom	S
+Bora	49	RUN	dsɨɨné	Derived	4-nom 1-acc V'tso	1	runner	NP-acc	
+Bora	49	RUN	dsɨɨné	Derived	4-nom 1-acc V'tso	4	run causer	NP-nom	
+Bora	50	SIT	ácuúcunú	Basic	1-nom (2-loc/instr) V	1	sitter	NP-nom	S
+Bora	50	SIT	ácuúcunú	Basic	1-nom (2-loc/instr) V	2	sitting place	NP-loc/instr	I
+Bora	50	SIT	ácuúcunú	Derived	4-nom 1-acc (2-loc/instr) V'tso	1	sitter	NP-acc	
+Bora	50	SIT	ácuúcunú	Derived	4-nom 1-acc (2-loc/instr) V'tso	2	sitting place	NP-loc/instr	
+Bora	50	SIT	ácuúcunú	Derived	4-nom 1-acc (2-loc/instr) V'tso	4	sit causer	NP-nom	
+Bora	51	SIT DOWN	ácuuvé	Basic	1-nom (2-all) V	1	sitdowner	NP-nom	S
+Bora	51	SIT DOWN	ácuuvé	Basic	1-nom (2-all) V	2	sitting-down place	NP-all	L
+Bora	51	SIT DOWN	ácuuvé	Derived	4-nom 1-acc 2-all V'tso	1	sitdowner	NP-acc	
+Bora	51	SIT DOWN	ácuuvé	Derived	4-nom 1-acc 2-all V'tso	2	sitting-down place	NP-all	
+Bora	51	SIT DOWN	ácuuvé	Derived	4-nom 1-acc 2-all V'tso	4	sit down causer	NP-nom	
+Bora	52	JUMP	cátsíñiivyé	Basic	1-nom V	1	jumper	NP-nom	S
+Bora	52	JUMP	cátsíñiivyé	Derived	4-nom 1-acc V'tso	1	jumper	NP-acc	
+Bora	52	JUMP	cátsíñiivyé	Derived	4-nom 1-acc V'tso	4	jump causer	NP-nom	
+Bora	53	SING	májtsivá	Basic	1-nom V	1	singer	NP-nom	S
+Bora	53	SING	májtsivá	Derived	4-nom 1-acc V'tso	1	singer	NP-acc	
+Bora	53	SING	májtsivá	Derived	4-nom 1-acc V'tso	4	sing causer	NP-nom	
+Bora	54	GO	pee	Basic	1-nom (2-all) V	1	goer	NP-nom	S
+Bora	54	GO	pee	Basic	1-nom (2-all) V	2	going goal	NP-all	L
+Bora	54	GO	pee	Derived	4-nom 1-acc 2-all V'tso	1	goer	NP-acc	
+Bora	54	GO	pee	Derived	4-nom 1-acc 2-all V'tso	2	going goal	NP-all	
+Bora	54	GO	pee	Derived	4-nom 1-acc 2-all V'tso	4	go causer	NP-nom	
+Bora	55	LEAVE	ijchívye	Basic	1-nom 2-abl V	1	leaver	NP-nom	S
+Bora	55	LEAVE	ijchívye	Basic	1-nom 2-abl V	2	left place/person	NP-abl	X
+Bora	55	LEAVE	ijchívye	Derived	4-nom 1-acc 2-abl V'tso	1	leaver	NP-acc	
+Bora	55	LEAVE	ijchívye	Derived	4-nom 1-acc 2-abl V'tso	2	left place/person	NP-abl	
+Bora	55	LEAVE	ijchívye	Derived	4-nom 1-acc 2-abl V'tso	4	leave causer	NP-nom	
+Bora	55	LEAVE	tsáá	Basic	1-nom 2-abl V	1	leaver	NP-nom	S
+Bora	55	LEAVE	tsáá	Basic	1-nom 2-abl V	2	left place/person	NP-abl	X
+Bora	55	LEAVE	tsáá	Derived	4-nom 1-acc 2-abl V'tso	1	leaver	NP-acc	
+Bora	55	LEAVE	tsáá	Derived	4-nom 1-acc 2-abl V'tso	2	left place/person	NP-abl	
+Bora	55	LEAVE	tsáá	Derived	4-nom 1-acc 2-abl V'tso	4	leave causer	NP-nom	
+Bora	56	LIVE	ícyahíjcá	Basic	1-nom (2-loc/instr) V	1	liver	NP-nom	S
+Bora	56	LIVE	ícyahíjcá	Basic	1-nom (2-loc/instr) V	2	living place	NP-loc/instr	I
+Bora	57	LAUGH	gooco	Basic	1-nom (2-loc/instr) V	1	laugher	NP-nom	S
+Bora	57	LAUGH	gooco	Basic	1-nom (2-loc/instr) V	2	laughed-about thing	NP-loc/instr	I
+Bora	57	LAUGH	gooco	Derived	1/2-nom V'jcatsí	1	laugher	NP-nom	
+Bora	57	LAUGH	gooco	Derived	1/2-nom V'jcatsí	2	laughed-about thing	NP-nom	
+Bora	57	LAUGH	gooco	Derived	4-nom 1-acc (2-loc/instr) V'tso	1	laugher	NP-acc	
+Bora	57	LAUGH	gooco	Derived	4-nom 1-acc (2-loc/instr) V'tso	2	laughed-about thing	NP-loc/instr	
+Bora	57	LAUGH	gooco	Derived	4-nom 1-acc (2-loc/instr) V'tso	4	laugh causer	NP-nom	
+Bora	59	FEEL PAIN	avyé	Basic	1-nom 2-acc V	1	pain locus	NP-nom	A
+Bora	59	FEEL PAIN	avyé	Basic	1-nom 2-acc V	2	pain-feeler	NP-acc	P
+Bora	59	FEEL PAIN	avyé	Derived	4-nom 1-acc 2-all V'tso	1	pain locus	NP-acc	
+Bora	59	FEEL PAIN	avyé	Derived	4-nom 1-acc 2-all V'tso	2	pain-feeler	NP-all	
+Bora	59	FEEL PAIN	avyé	Derived	4-nom 1-acc 2-all V'tso	4	pain causer	NP-nom	
+Bora	60	FEEL COLD	tsuucó	Basic	1-nom V	1	freezing person	NP-nom	S
+Bora	60	FEEL COLD	tsuucó	Derived	4-nom 1-acc V'tso	1	freezing person	NP-acc	
+Bora	60	FEEL COLD	tsuucó	Derived	4-nom 1-acc V'tso	4	chill causer	NP-nom	
+Bora	61	DIE	dsɨ́jívé	Basic	1-nom V	1	dieer	NP-nom	S
+Bora	61	DIE	dsɨ́jívé	Derived	4-nom 1-acc V'tso	1	dieer	NP-acc	
+Bora	61	DIE	dsɨ́jívé	Derived	4-nom 1-acc V'tso	4	killer/death causer	NP-nom	
+Bora	62	PLAY	ɨɨcú	Basic	1-nom (2-loc/instr) V	1	player	NP-nom	S
+Bora	62	PLAY	ɨɨcú	Basic	1-nom (2-loc/instr) V	2	toy	NP-loc/instr	I
+Bora	62	PLAY	ɨɨcú	Derived	4-nom 1-acc (2-loc/instr) V'tso	1	player	NP-acc	
+Bora	62	PLAY	ɨɨcú	Derived	4-nom 1-acc (2-loc/instr) V'tso	2	toy	NP-loc/instr	
+Bora	62	PLAY	ɨɨcú	Derived	4-nom 1-acc (2-loc/instr) V'tso	4	play causer	NP-nom	
+Bora	63	BE SAD	ɨ́dáátsové	Basic	1-nom V	1	sad person	NP-nom	S
+Bora	63	BE SAD	ɨ́dáátsové	Derived	4-nom 1-acc V'tso	1	sad person	NP-acc	
+Bora	63	BE SAD	ɨ́dáátsové	Derived	4-nom 1-acc V'tso	4	sadness causer	NP-nom	
+Bora	64	BE HUNGRY	ajyábáávaté	Basic	1-nom V	1	hungry person	NP-nom	S
+Bora	64	BE HUNGRY	ajyábáávaté	Derived	4-nom 1-acc V'tso	1	hungry person	NP-acc	
+Bora	64	BE HUNGRY	ajyábáávaté	Derived	4-nom 1-acc V'tso	4	hunger causer	NP-nom	
+Bora	65	ROLL	víyiivye	Basic	1-nom (2-all) V	1	rolling entity	NP-nom	S
+Bora	65	ROLL	víyiivye	Basic	1-nom (2-all) V	2	rolling location	NP-all	L
+Bora	65	ROLL	víyiivye	Derived	4-nom 1-acc 2-all V'tso	1	rolling entity	NP-acc	
+Bora	65	ROLL	víyiivye	Derived	4-nom 1-acc 2-all V'tso	2	rolling location	NP-all	
+Bora	65	ROLL	víyiivye	Derived	4-nom 1-acc 2-all V'tso	4	roll causer	NP-nom	
+Bora	66	SINK	pámaave	Basic	1-nom V	1	sunken entity	NP-nom	S
+Bora	66	SINK	pámaave	Derived	4-nom 1-acc V'tso	1	sunken entity	NP-acc	
+Bora	66	SINK	pámaave	Derived	4-nom 1-acc V'tso	4	sink-(caus)er	NP-nom	
+Bora	67	BURN	áiivye	Basic	1-nom V	1	burnt thing	NP-nom	S
+Bora	67	BURN	áiivye	Derived	4-nom 1-acc V'tso	1	burnt thing	NP-acc	
+Bora	67	BURN	áiivye	Derived	4-nom 1-acc V'tso	4	burner	NP-nom	
+Bora	68	BE DRY	daarɨ	Basic	1-nom V	1	dry thing	NP-nom	S
+Bora	68	BE DRY	daarɨ	Derived	4-nom 1-acc V'tso	1	dry thing	NP-acc	
+Bora	68	BE DRY	daarɨ	Derived	4-nom 1-acc V'tso	4	drier / dry causer	NP-nom	
+Bora	69	RAIN	allé	Basic	1-nom V	1	rain	NP-nom	S
+Bora	69	RAIN	allé	Derived	4-nom 1-acc V'tso	1	rain	NP-acc	
+Bora	69	RAIN	allé	Derived	4-nom 1-acc V'tso	4	rain causer	NP-nom	
+Bora	71	GRIND	caanú	Basic	1-nom 2-acc (3-loc/instr) V	1	grinder	NP-nom	A
+Bora	71	GRIND	caanú	Basic	1-nom 2-acc (3-loc/instr) V	2	ground thing	NP-acc	P
+Bora	71	GRIND	caanú	Basic	1-nom 2-acc (3-loc/instr) V	3	grinding instrument	NP-loc/instr	I
+Bora	71	GRIND	caanú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	grinder	NP-acc	
+Bora	71	GRIND	caanú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	ground thing	NP-acc	
+Bora	71	GRIND	caanú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	grinding instrument	NP-loc/instr	
+Bora	71	GRIND	caanú	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	grind causer	NP-nom	
+Bora	72	WIPE	píchóuáco	Basic	1-nom 2-acc 3-abl V	1	wiper	NP-nom	A
+Bora	72	WIPE	píchóuáco	Basic	1-nom 2-acc 3-abl V	2	wiped material	NP-acc	P
+Bora	72	WIPE	píchóuáco	Basic	1-nom 2-acc 3-abl V	3	wiping surface	NP-abl	X
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'jcatsí	1	wiper	NP-nom	
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'jcatsí	2	wiped material	NP-nom	
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'jcatsí	3	wiping surface	NP-abl	
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'meí	1	wiper	NP-nom	
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'meí	2	wiped material	NP-nom	
+Bora	72	WIPE	píchóuáco	Derived	1/2-nom 3-abl V'meí	3	wiping surface	NP-abl	
+Bora	72	WIPE	píchóuáco	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	wiper	NP-acc	
+Bora	72	WIPE	píchóuáco	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	wiped material	NP-acc	
+Bora	72	WIPE	píchóuáco	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	wiping surface	NP-abl	
+Bora	72	WIPE	píchóuáco	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	wipe causer	NP-nom	
+Bora	73	DIG	tsehdi	Basic	1-nom 2-acc (3-loc/instr) V	1	digger	NP-nom	A
+Bora	73	DIG	tsehdi	Basic	1-nom 2-acc (3-loc/instr) V	2	dug up thing	NP-acc	P
+Bora	73	DIG	tsehdi	Basic	1-nom 2-acc (3-loc/instr) V	3	digging instrument	NP-loc/instr	I
+Bora	73	DIG	tsehdi	Derived	1/2-nom 3-loc/instr V'jcatsí	1	digger	NP-nom	
+Bora	73	DIG	tsehdi	Derived	1/2-nom 3-loc/instr V'jcatsí	2	dug up thing	NP-nom	
+Bora	73	DIG	tsehdi	Derived	1/2-nom 3-loc/instr V'jcatsí	3	digging instrument	NP-loc/instr	
+Bora	73	DIG	tsehdi	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	1	digger	NP-acc	
+Bora	73	DIG	tsehdi	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	2	dug up thing	NP-acc	
+Bora	73	DIG	tsehdi	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	3	digging instrument	NP-loc/instr	
+Bora	73	DIG	tsehdi	Derived	4-nom 1-acc 2-acc 3-loc/instr V'tso	4	dig causer	NP-nom	
+Bora	74	PUSH	waaó	Basic	1-nom 2-acc (3-all) V	1	pusher	NP-nom	A
+Bora	74	PUSH	waaó	Basic	1-nom 2-acc (3-all) V	2	pushee	NP-acc	P
+Bora	74	PUSH	waaó	Basic	1-nom 2-acc (3-all) V	3	pushing goal	NP-all	L
+Bora	74	PUSH	waaó	Derived	1/2-nom (3-all) V'jcatsí	1	pusher	NP-nom	
+Bora	74	PUSH	waaó	Derived	1/2-nom (3-all) V'jcatsí	2	pushee	NP-nom	
+Bora	74	PUSH	waaó	Derived	1/2-nom (3-all) V'jcatsí	3	pushing goal	NP-all	
+Bora	74	PUSH	waaó	Derived	1/2-nom 3-all V'meí	1	pusher	NP-nom	
+Bora	74	PUSH	waaó	Derived	1/2-nom 3-all V'meí	2	pushee	NP-nom	
+Bora	74	PUSH	waaó	Derived	1/2-nom 3-all V'meí	3	pushing goal	NP-all	
+Bora	74	PUSH	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	pusher	NP-acc	
+Bora	74	PUSH	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	pushee	NP-acc	
+Bora	74	PUSH	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	pushing goal	NP-all	
+Bora	74	PUSH	waaó	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	push causer	NP-nom	
+Bora	75	BRING	tsiivá	Basic	1-nom 2-acc (3-all) V	1	bringer	NP-nom	A
+Bora	75	BRING	tsiivá	Basic	1-nom 2-acc (3-all) V	2	brought thing	NP-acc	P
+Bora	75	BRING	tsiivá	Basic	1-nom 2-acc (3-all) V	3	bringing recipient	NP-all	L
+Bora	75	BRING	tsiivá	Derived	1/2-nom (3-all) V'jcatsí	1	bringer	NP-nom	
+Bora	75	BRING	tsiivá	Derived	1/2-nom (3-all) V'jcatsí	2	brought thing	NP-nom	
+Bora	75	BRING	tsiivá	Derived	1/2-nom (3-all) V'jcatsí	3	bringing recipient	NP-all	
+Bora	75	BRING	tsiivá	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	bringer	NP-acc	
+Bora	75	BRING	tsiivá	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	brought thing	NP-acc	
+Bora	75	BRING	tsiivá	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	bringing recipient	NP-all	
+Bora	75	BRING	tsiivá	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	bring causer	NP-nom	
+Bora	76	STEAL	naní	Basic	1-nom 2-acc 3-abl V	1	stealer	NP-nom	A
+Bora	76	STEAL	naní	Basic	1-nom 2-acc 3-abl V	2	stolen thing	NP-acc	P
+Bora	76	STEAL	naní	Basic	1-nom 2-acc 3-abl V	3	stealing source	NP-abl	X
+Bora	76	STEAL	naní	Derived	1/2-nom 3-abl V'jcatsí	1	stealer	NP-nom	
+Bora	76	STEAL	naní	Derived	1/2-nom 3-abl V'jcatsí	2	stolen thing	NP-nom	
+Bora	76	STEAL	naní	Derived	1/2-nom 3-abl V'jcatsí	3	stealing source	NP-abl	
+Bora	76	STEAL	naní	Derived	4-nom 1-acc 2-acc 3-abl V'tso	1	stealer	NP-acc	
+Bora	76	STEAL	naní	Derived	4-nom 1-acc 2-acc 3-abl V'tso	2	stolen thing	NP-acc	
+Bora	76	STEAL	naní	Derived	4-nom 1-acc 2-acc 3-abl V'tso	3	stealing source	NP-abl	
+Bora	76	STEAL	naní	Derived	4-nom 1-acc 2-acc 3-abl V'tso	4	steal causer	NP-nom	
+Bora	77	TEACH	úwááboó	Basic	1-nom 2-acc (3-all) V	1	teacher	NP-nom	A
+Bora	77	TEACH	úwááboó	Basic	1-nom 2-acc (3-all) V	2	taught content	NP-acc	P
+Bora	77	TEACH	úwááboó	Basic	1-nom 2-acc (3-all) V	3	teachee	NP-all	L
+Bora	77	TEACH	úwááboó	Derived	1/2-nom (3-all) V'jcatsí	1	teacher	NP-nom	
+Bora	77	TEACH	úwááboó	Derived	1/2-nom (3-all) V'jcatsí	2	taught content	NP-nom	
+Bora	77	TEACH	úwááboó	Derived	1/2-nom (3-all) V'jcatsí	3	teachee	NP-all	
+Bora	77	TEACH	úwááboó	Derived	4-nom 1-acc 2-acc 3-all V'tso	1	teacher	NP-acc	
+Bora	77	TEACH	úwááboó	Derived	4-nom 1-acc 2-acc 3-all V'tso	2	taught content	NP-acc	
+Bora	77	TEACH	úwááboó	Derived	4-nom 1-acc 2-acc 3-all V'tso	3	teachee	NP-all	
+Bora	77	TEACH	úwááboó	Derived	4-nom 1-acc 2-acc 3-all V'tso	4	teach causer	NP-nom	
+Bora	78	HEAR	lleebo	Basic	1-nom 2-acc V	1	hearer	NP-nom	A
+Bora	78	HEAR	lleebo	Basic	1-nom 2-acc V	2	heard sound	NP-acc	P
+Bora	78	HEAR	lleebo	Derived	1/2-nom V'jcatsí	1	hearer	NP-nom	
+Bora	78	HEAR	lleebo	Derived	1/2-nom V'jcatsí	2	heard sound	NP-nom	
+Bora	78	HEAR	lleebo	Derived	1/2-nom V'meí	1	hearer	NP-nom	
+Bora	78	HEAR	lleebo	Derived	1/2-nom V'meí	2	heard sound	NP-nom	
+Bora	78	HEAR	lleebo	Derived	4-nom 1-acc 2-all V'tso	1	hearer	NP-acc	
+Bora	78	HEAR	lleebo	Derived	4-nom 1-acc 2-all V'tso	2	heard sound	NP-all	
+Bora	78	HEAR	lleebo	Derived	4-nom 1-acc 2-all V'tso	4	hear causer	NP-nom	
+Bora	79	COOK	tuu	Basic	1-nom 2-acc V	1	cooker	NP-nom	A
+Bora	79	COOK	tuu	Basic	1-nom 2-acc V	2	cooked food	NP-acc	P
+Bora	79	COOK	tuu	Derived	4-nom 1-acc 2-all V'tso	1	cooker	NP-acc	
+Bora	79	COOK	tuu	Derived	4-nom 1-acc 2-all V'tso	2	cooked food	NP-all	
+Bora	79	COOK	tuu	Derived	4-nom 1-acc 2-all V'tso	4	cook causer	NP-nom	
+Bora	80	BOIL	waáne	Basic	1-nom V	1	boiled thing	NP-nom	S
+Bora	80	BOIL	waáne	Derived	4-nom 1-acc V'tso	1	boiled thing	NP-acc	
+Bora	80	BOIL	waáne	Derived	4-nom 1-acc V'tso	4	boiler	NP-nom	
+Bora	81	APPEAR	bóhowaavé	Basic	1-nom (2-loc/instr) V	1	appearer	NP-nom	S
+Bora	81	APPEAR	bóhowaavé	Basic	1-nom (2-loc/instr) V	2	appear location	NP-loc/instr	I
+Bora	81	APPEAR	bóhowaavé	Derived	4-nom 1-acc (2-loc/instr) V'tso	1	appearer	NP-acc	
+Bora	81	APPEAR	bóhowaavé	Derived	4-nom 1-acc (2-loc/instr) V'tso	2	appear location	NP-loc/instr	
+Bora	81	APPEAR	bóhowaavé	Derived	4-nom 1-acc (2-loc/instr) V'tso	4	appear causer	NP-nom	
+Bora	84	FALL	áákityé	Basic	1-nom V	1	fallee	NP-nom	S
+Bora	93	HUNT (FOR)	llííñájá	Basic	1-nom V	1	hunter	NP-nom	S
+Bora	93	HUNT (FOR)	llííñájá	Derived	4-nom 1-acc V'tso	1	hunter	NP-acc	
+Bora	93	HUNT (FOR)	llííñájá	Derived	4-nom 1-acc V'tso	4	hunt causer	NP-nom	
+Bora	93	HUNT (FOR)	taavá	Basic	1-nom 2-acc V	1	hunter	NP-nom	A
+Bora	93	HUNT (FOR)	taavá	Basic	1-nom 2-acc V	2	hunted thing	NP-acc	P
+Bora	93	HUNT (FOR)	taavá	Derived	4-nom 1-acc 2-all V'tso	1	hunter	NP-acc	
+Bora	93	HUNT (FOR)	taavá	Derived	4-nom 1-acc 2-all V'tso	2	hunted thing	NP-all	
+Bora	93	HUNT (FOR)	taavá	Derived	4-nom 1-acc 2-all V'tso	4	hunt causer	NP-nom	
+Bora	96	MARRY	táábavá	Basic	1-nom 2-acc V	1	marrying person	NP-nom	A
+Bora	96	MARRY	táábavá	Basic	1-nom 2-acc V	2	married person	NP-acc	P
+Bora	96	MARRY	táábavá	Derived	1/2-nom V'jcatsí	1	marrying person	NP-nom	
+Bora	96	MARRY	táábavá	Derived	1/2-nom V'jcatsí	2	married person	NP-nom	
+Bora	96	MARRY	táábavá	Derived	4-nom 1-acc 2-all V'tso	1	marrying person	NP-acc	
+Bora	96	MARRY	táábavá	Derived	4-nom 1-acc 2-all V'tso	2	married person	NP-all	
+Bora	96	MARRY	táábavá	Derived	4-nom 1-acc 2-all V'tso	4	marry causer	NP-nom	

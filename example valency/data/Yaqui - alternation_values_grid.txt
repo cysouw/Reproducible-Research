@@ -1,0 +1,84 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Applicative	Causative	Directional Object	Equipollent Applicative	Equipollent Causal	Equipollent Noncausal	Intransitivizer incorporation: ji'i	Locative	Middle	Object incorporation	Passive	Resultative	Undetermined object
+Yaqui	1	EAT	bwa’e	2, 77, 179, 180, 181, 183, 353, 550, 551, 552, 553	1-nom 2-acc V	Regularly	Regularly	Marginally	Marginally	Marginally	Marginally	Regularly	Marginally	Regularly	Regularly	Regularly	Regularly	Regularly
+Yaqui	2	HUG	ibakta	3, 165, 166, 182, 554, 555, 556, 557	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Marginally
+Yaqui	3	LOOK AT	bitchu	113, 155, 184, 185, 212, 558, 559, 560, 561, 562, 563	1-nom 2-acc V	Regularly	Regularly	Regularly	Never	Never	Never	Never	Regularly	Regularly	Never	Regularly	Regularly	Marginally
+Yaqui	4	SEE	bitcha	56, 105, 158, 186, 345, 564, 565, 566	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	No data	Regularly
+Yaqui	5	SMELL	jukta	111, 112, 175, 213, 362, 363, 364, 365	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Regularly
+Yaqui	6	FEAR	majae	11, 114, 115, 187, 188, 317, 347, 366, 367	1-nom 2-acc V	Never	Regularly	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Marginally
+Yaqui	7	FRIGHTEN	gomta	19, 20, 141, 189, 190, 191, 192, 285, 346, 368	1-nom 2-acc V	Regularly	Regularly	Never	No data	No data	Regularly	Never	Marginally	No data	Never	Regularly	Regularly	Regularly
+Yaqui	8	LIKE	tu’ure	17, 18, 73, 169, 193, 348, 369, 370, 371	1-nom 2-acc V	Marginally	Regularly	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Marginally	Marginally
+Yaqui	9	KNOW	ta’a	55, 104, 168, 171, 194, 310, 344, 372, 373, 374, 375	1-nom 2-acc V	Marginally	Regularly	No data	Never	Never	Never	Never	Regularly	Marginally	Never	Regularly	Regularly	Regularly
+Yaqui	10	THINK	ea	28, 83, 195, 196, 376, 377	1-nom 2-acc V	Never	No data	Marginally	Never	Never	Never	Never	Regularly	No data	Never	Regularly	Regularly	Regularly
+Yaqui	11	SEARCH FOR	jariwa	21, 74, 197, 349, 378, 379, 380, 381	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally	No data	Never	Regularly	Regularly	Regularly
+Yaqui	12	WASH	baksia	57, 58, 107, 148, 177, 198, 199, 200, 216, 311, 382, 383, 384	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Regularly
+Yaqui	13	DRESS	a’ana	116, 117, 217, 354, 385, 386, 387, 388, 389	1-nom 2-acc V	Regularly	Regularly	No data	Never	Never	Never	Never	Never	Marginally	Never	Regularly	No data	Regularly
+Yaqui	14	SHAVE (a body part/person)																
+Yaqui	15	HELP	ania	106, 152, 201, 352, 398, 399	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally	No data	No data	Regularly	No data	Regularly
+Yaqui	16	FOLLOW	jajase	22, 76, 153, 351, 400, 401, 402	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	No data	No data	Regularly	No data	Regularly
+Yaqui	17	MEET	tea (2)	118, 170, 202, 203, 350, 403	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	No data	No data	Never	No data	Regularly
+Yaqui	18	TALK	etejo (2)	119, 159, 319, 404	1-nom V	No data	Marginally	Regularly	No data	No data	Never	Never	No data	Never	Never	Never	No data	No data
+Yaqui	19	ASK FOR	a’awa	68, 154, 204, 205, 206, 207, 342, 567, 568, 569	1-nom 2-acc V	Regularly	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Marginally
+Yaqui	20	SHOUT AT	chaae (1)	8, 66, 156, 270, 340, 570, 571, 572, 573	1-nom 2-acc-dir V	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Regularly	Regularly	Never
+Yaqui	21	TELL	teuwa	209, 219, 308, 339, 341	1-nom 2-acc 3-dir V	No data	Regularly	Never	Never	Never	Never	No data	No data	No data	No data	No data	No data	No data
+Yaqui	21	TELL	etejo (1)	67, 318, 343, 405, 406, 407, 408	1-nom 2-dir 3-acc V	No data	Marginally	Never	Never	Never	Never	Never	No data	No data	No data	Regularly	Regularly	Regularly
+Yaqui	22	SAY	tejwa	9, 10, 52, 53, 54, 101, 102, 103, 309, 642, 643, 644, 645, 646, 647	1-nom UTT2 (3-acc) V	Regularly	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly	No data	Regularly	Regularly	Marginally
+Yaqui	23	NAME																
+Yaqui	24	BUILD	yaa	61, 110, 120, 220, 314, 315, 316, 336, 337, 412, 413, 414	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Marginally
+Yaqui	25	BREAK	jamta	50, 99, 139, 335, 415, 416, 417, 418, 419, 420	1-nom 2-acc (3-instr) V	Marginally	Regularly	Never	No data	No data	Regularly	Never	Never	Never	Marginally	Regularly	Regularly	Marginally
+Yaqui	26	KILL	me’a	49, 98, 132, 167, 307, 334, 421, 422, 423, 424, 425, 426	1-nom 2-acc (3-instr) V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Marginally	Never	Regularly	Regularly	Regularly
+Yaqui	27	BEAT	tasta	160, 161, 221, 435, 436, 437, 438, 439, 440, 441	1-nom 2-acc V	Regularly	Regularly	Regularly	No data	Never	Regularly	No data	Never	No data	Regularly	Regularly	Marginally	Regularly
+Yaqui	28	HIT	beeba	6, 47, 63, 164, 284, 333, 427, 428, 429, 430, 431, 432, 433, 434	1-nom 2-acc (3-instr) V	Regularly	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Regularly	Regularly
+Yaqui	28	HIT	tasta	160, 161, 221, 435, 436, 437, 438, 439, 440, 441	1-nom 2-acc V	Regularly	Regularly	Regularly	No data	Never	Regularly	No data	Never	No data	Regularly	Regularly	Marginally	Regularly
+Yaqui	29	TOUCH	bwibwise	62, 222, 223, 224, 332, 442, 443, 444, 445	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly
+Yaqui	30	CUT	chukta	48, 225, 306, 331, 446, 447, 448, 449, 450, 451, 452	1-nom 2-acc V	Regularly	Regularly	Never	No data	No data	Regularly	Never	Marginally	Regularly	Regularly	Regularly	Marginally	Regularly
+Yaqui	31	TAKE	nu’e	121, 122, 226, 453, 454, 455, 456, 457, 458, 459	1-nom 2-acc V	Regularly	Regularly	Regularly	Never	Never	Never	Never	Marginally	Regularly	Regularly	Marginally	Marginally	Regularly
+Yaqui	32	TEAR	siuta	75, 142, 227, 290, 329, 460, 461, 462, 463, 464, 465	1-nom 2-acc V	Regularly	Regularly	No data	Never	Never	Regularly	Never	Regularly	Marginally	Regularly	Regularly	Marginally	Regularly
+Yaqui	33	PEEL	besuma	33, 147, 301, 466, 467, 468, 469, 470, 471, 472	1-nom 2-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Marginally
+Yaqui	34	HIDE	esso	5, 65, 228, 229, 230, 328, 473, 474, 475, 476, 477, 478	1-nom 2-acc V	Regularly	Regularly	Marginally	Never	Never	Regularly	Never	No data	Regularly	Never	Regularly	Regularly	Marginally
+Yaqui	35	SHOW	bittua (2)	44, 95, 155, 299, 327, 479, 480, 481, 482, 483, 484	1-nom 2-acc 3-acc V	Never	Never	Marginally	Never	Never	Never	Never	Marginally	Never	Never	Regularly	Regularly	Marginally
+Yaqui	36	GIVE	maka	41, 92, 232, 233, 234, 235, 236, 326, 485, 486, 487, 488	1-nom 2-acc 3-acc V	Regularly	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Regularly
+Yaqui	37	SEND	bittua (1)	43, 94, 325, 489, 490, 491, 492, 493	1-nom 2-dir 3-acc V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Regularly
+Yaqui	38	CARRY	toja	97, 237, 494, 495, 496, 497, 498, 499, 500, 501, 502	1-nom 2-acc 3-dir V	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Regularly	Marginally	Regularly
+Yaqui	39	THROW	watta	303, 304, 503, 504, 505, 506, 507, 508, 509, 510	1-nom 2-acc V	Regularly	Regularly	Never	No data	No data	Regularly	Never	Marginally	No data	Marginally	Regularly	Regularly	Regularly
+Yaqui	40	TIE	suma	35, 87, 238, 239, 240, 241, 511, 512, 513, 514, 515	1-nom 2-dir 3-acc V	Regularly	Regularly	Never	Never	Never	Never	No data	Never	Regularly	Never	No data	Marginally	Regularly
+Yaqui	41	PUT	mana	1, 64, 178, 516, 517, 518, 520, 521, 522	1-nom 2-acc LOC3 V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Regularly	No data
+Yaqui	41	PUT	joa	519, 523, 524, 525, 526, 527, 528, 529	1-nom 2-acc LOC3 V	Regularly	Regularly	Marginally	Never	Never	Never	Never	No data	Regularly	No data	Regularly	Regularly	Regularly
+Yaqui	42	POUR	to’a	36, 242, 243, 244, 324, 530, 531, 532, 533, 534	1-nom 2-acc 3-loc V	Regularly	Regularly	No data	Never	Never	Marginally	Never	No data	Regularly	Never	Regularly	Regularly	Regularly
+Yaqui	43	COVER	patta	38, 90, 150, 245, 246, 247, 248, 321, 535, 536, 537, 538	1-nom 2-acc (3-instr) V	Regularly	Regularly	Never	Never	Never	Never	Never	Marginally	Regularly	Never	Regularly	Regularly	Regularly
+Yaqui	44	FILL	tapunia	37, 88, 89, 249, 250, 251, 322, 539, 540, 541, 542, 543, 544, 545	1-nom 2-acc (3-instr) V	Regularly	Regularly	Marginally	No data	Never	Never	Never	Never	Regularly	Regularly	Regularly	Regularly	Marginally
+Yaqui	45	LOAD	pu'akta	123, 124, 252, 253, 323, 546, 547, 548, 549	1-nom 2-acc 3-loc V	Marginally	Regularly	No data	No data	No data	Regularly	Never	No data	Regularly	No data	Regularly	Regularly	Regularly
+Yaqui	46	BLINK	kupikte	14, 70, 254, 255, 286, 574, 575, 576, 577, 578	1-nom V	Regularly	Regularly	Regularly	Regularly	Never	Never	Never	Never	Regularly	Never	Marginally	Marginally	Never
+Yaqui	47	COUGH	tase	125, 145, 355, 579, 580, 581, 582, 583, 584	1-nom V	Marginally	Regularly	No data	Never	Never	Never	Never	Marginally	Regularly	Never	Marginally	Marginally	Never
+Yaqui	48	CLIMB	ja’amu	12, 69, 214, 215, 356, 585, 586, 587, 588, 589, 590	1-nom (2-loc) V	Regularly	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly	Marginally	Regularly	Regularly	Never
+Yaqui	49	RUN	buite	126, 157, 320, 358, 591, 592, 593, 594	1-nom V	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly	Regularly	Never	Marginally	Marginally	Never
+Yaqui	50	SIT	yejte	51, 100, 127, 143, 357, 607, 608, 609, 610	1-nom 2-loc V	Regularly	Regularly	Never	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Regularly	Never
+Yaqui	51	SIT DOWN	yejte	51, 100, 127, 143, 357, 607, 608, 609, 610	1-nom 2-loc V	Regularly	Regularly	Never	Never	Regularly	Never	No data	Never	Regularly	Never	Never	Regularly	Never
+Yaqui	52	JUMP	chepte	128, 129, 256, 257, 359	1-nom V	No data	Regularly	No data	Regularly	No data	Never	No data	Regularly	No data	No data	No data	No data	No data
+Yaqui	53	SING	bwiika	23, 78, 162, 361, 595, 596, 597, 598	1-nom 2-acc V	Regularly	Regularly	Marginally	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never
+Yaqui	54	GO	siika	59, 108, 261, 262	1-nom (2-dir) V	Never	Regularly	Never	Never	Never	Never	Never	Never	No data	No data	Never	Never	Never
+Yaqui	55	LEAVE	watakte	130, 263, 264, 265, 599, 600, 601, 602, 603, 604	1-nom (2-dir) V	Regularly	Regularly	Never	Regularly	Never	Never	Never	Marginally	Regularly	Never	Regularly	Regularly	Never
+Yaqui	56	LIVE	jo’a	24, 79, 266, 360, 605, 606	1-nom 2-loc V	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	No data
+Yaqui	57	LAUGH	aache	16, 72, 267, 268, 269, 289, 611, 612, 613, 614	1-nom V	Marginally	Regularly	Regularly	Never	Never	Never	Never	Never	Regularly	Never	Never	Marginally	Never
+Yaqui	58	SCREAM	chaae (2)	8, 66, 131, 208	1-nom V	No data	Regularly	Regularly	No data	No data	Never	Never	Never	Never	Never	Never	No data	Never
+Yaqui	59	FEEL PAIN	wante	15, 71, 149, 271, 615	1-nom 2-loc V	Never	Regularly	Never	Never	Never	Never	Never	No data	Regularly	Regularly	No data	Never	Never
+Yaqui	60	FEEL COLD	chubakte	42, 93, 146, 272, 273, 274, 616, 617	1-nom V	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Never	Never
+Yaqui	61	DIE	muuke	132, 275, 276, 618, 619	1-nom V	Regularly	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Never	Never	Never
+Yaqui	62	PLAY	yeewe	133, 163, 258, 259, 260, 620, 621, 622, 623	1-nom V	Regularly	Regularly	Never	Regularly	Never	Never	Never	Regularly	Regularly	Never	Regularly	Marginally	Never
+Yaqui	63	BE SAD	rojikte	134, 277, 278, 624, 625	1-nom V	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	No data	Never
+Yaqui	64	BE HUNGRY	tebaure	13, 279, 626, 627	1-nom V	Never	Regularly	Never	Never	Never	Never	Never	Never	Regularly	Never	Regularly	Regularly	Never
+Yaqui	65	ROLL	ro’akte	82, 291, 292, 628, 629, 630, 631	1-nom V	Regularly	Regularly	Never	No data	Regularly	Never	Never	No data	Regularly	Never	Regularly	Regularly	Never
+Yaqui	66	SINK	go’okte	31, 39, 144, 280, 298, 632, 633, 634	1-nom V	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Regularly	Never	Never
+Yaqui	67	BURN	beete	34, 86, 140, 302, 635, 636, 637, 638, 639	1-nom V	Regularly	Regularly	Never	Never	Regularly	Never	Never	Never	Regularly	Never	Marginally	Marginally	Marginally
+Yaqui	68	BE DRY	waake	135, 136, 281, 282, 283, 640, 641	1-nom V	Marginally	Regularly	Never	No data	Regularly	Never	Never	Never	Regularly	Never	Regularly	Marginally	Marginally
+Yaqui	69	RAIN	yuke	25, 80, 172	(1-dir) V	Marginally	Regularly	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never	Never
+Yaqui	70	BE A HUNTER	amureo	137, 231	1-nom V	Never	Never	Never	Never	Never	Never	Never	Never	Never	Marginally	Never	Never	Never
+Yaqui	71	GRIND	tuuse	26	1-nom 2-acc V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Yaqui	72	WIPE	tu’ute	45, 46, 96, 330	1-nom 2-acc V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Yaqui	73	DIG	bweje	60, 109, 312, 313	1-nom 2-acc V	No data	No data	No data	Never	Never	Never	Regularly	No data	No data	No data	No data	No data	No data
+Yaqui	74	PUSH	yu’a	27, 81	1-nom 2-acc 3-dir V	No data	Regularly	No data	No data	No data	No data	No data	No data		No data	No data	No data	No data
+Yaqui	75	BRING	nu'upa	40, 91, 305	1-nom 2-dir 3-acc V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Yaqui	76	STEAL	etbwa	4, 287, 288	1-nom 2-acc V	Regularly	No data	No data	No data	No data	No data	No data	Regularly	No data	No data	No data	No data	No data
+Yaqui	77	TEACH	majta	138, 176	1-nom 2-acc 3 V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	Regularly
+Yaqui	78	HEAR	jikkaja	30, 85, 297	1-nom 2-acc V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data
+Yaqui	79	COOK	bwasa	84, 293, 294, 295, 296	1-nom 2-acc V	No data	Regularly	No data	No data	No data	Regularly	No data	No data	No data	No data	No data	Regularly	No data
+Yaqui	80	BOIL	pojte	29	1-nom V	No data	Regularly	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data	No data

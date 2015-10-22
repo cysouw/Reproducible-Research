@@ -1,0 +1,283 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Basic_or_derived_coding_frame	Coding_frame_schema	Index_number	Microrole_name	Coding_set_name	Argument_type
+Mandinka	1	EAT	dómo	Basic	1 > 2 > V	1	eater	Ø	A
+Mandinka	1	EAT	dómo	Basic	1 > 2 > V	2	eaten food	Ø	P
+Mandinka	2	HUG	míniŋ	Basic	1 > V > 2+la	1	hugger	Ø	S
+Mandinka	2	HUG	míniŋ	Basic	1 > V > 2+la	2	huggee	NP+la	I
+Mandinka	3	LOOK AT	féle	Basic	1 > 2 > V	1	looker	Ø	A
+Mandinka	3	LOOK AT	féle	Basic	1 > 2 > V	2	looked at entity	Ø	P
+Mandinka	4	SEE	jé	Basic	1 > 2 > V	1	seeer	Ø	A
+Mandinka	4	SEE	jé	Basic	1 > 2 > V	2	seen entity	Ø	P
+Mandinka	5	SMELL	súmbu	Basic	1 > 2 > V	1	smeller	Ø	A
+Mandinka	5	SMELL	súmbu	Basic	1 > 2 > V	2	smelled entity	Ø	P
+Mandinka	6	FEAR	sílaŋ	Basic	1 > V > 2+la	1	fearer	Ø	S
+Mandinka	6	FEAR	sílaŋ	Basic	1 > V > 2+la	2	fear stimulus	NP+la	I
+Mandinka	7	FRIGHTEN	sílándi	Basic	1 > 2 > V	1	frightener	Ø	A
+Mandinka	7	FRIGHTEN	sílándi	Basic	1 > 2 > V	2	frightenee	Ø	P
+Mandinka	8	LIKE	díyaa	Basic	1 > V > 2+ye	1	liker	Ø	S
+Mandinka	8	LIKE	díyaa	Basic	1 > V > 2+ye	2	liked entity	NP+ye	X
+Mandinka	8	LIKE	kanu	Basic	1 > 2 > V	1	liker	Ø	A
+Mandinka	8	LIKE	kanu	Basic	1 > 2 > V	2	liked entity	Ø	P
+Mandinka	8	LIKE	lafi	Basic	1 > V > 2+la	1	liker	Ø	S
+Mandinka	8	LIKE	lafi	Basic	1 > V > 2+la	2	liked entity	NP+la	I
+Mandinka	9	KNOW	lóŋ	Basic	1 > 2 > V	1	knower	Ø	A
+Mandinka	9	KNOW	lóŋ	Basic	1 > 2 > V	2	known thing/person	Ø	P
+Mandinka	10	THINK	í míira	Basic	1 > V > 2+la	1	thinker	Ø	S
+Mandinka	10	THINK	í míira	Basic	1 > V > 2+la	2	thought content	NP+la	I
+Mandinka	11	SEARCH FOR	ñíni	Basic	1 > 2 > V	1	searcher	Ø	A
+Mandinka	11	SEARCH FOR	ñíni	Basic	1 > 2 > V	2	searched for thing	Ø	P
+Mandinka	12	WASH	kuu	Basic	1 > 2 > V	1	washer	Ø	A
+Mandinka	12	WASH	kuu	Basic	1 > 2 > V	2	washed entity	Ø	P
+Mandinka	13	DRESS	duŋ (1)	Basic	1 > 2 > V > 3+la	1	dresser	Ø	A
+Mandinka	13	DRESS	duŋ (1)	Basic	1 > 2 > V > 3+la	2	clothes	Ø	P
+Mandinka	13	DRESS	duŋ (1)	Basic	1 > 2 > V > 3+la	3	dressee	NP+la	I
+Mandinka	14	SHAVE (a body part/person)	líi	Basic	1 > 2 > V	1	shaver (of body part)	Ø	A
+Mandinka	14	SHAVE (a body part/person)	líi	Basic	1 > 2 > V	2	shaved body part	Ø	P
+Mandinka	15	HELP	máakóyi	Basic	1 > 2 > V	1	helper	Ø	A
+Mandinka	15	HELP	máakóyi	Basic	1 > 2 > V	2	helpee	Ø	P
+Mandinka	16	FOLLOW	bula (2)	Basic	1 > V > 2+nooma	1	follower	Ø	S
+Mandinka	16	FOLLOW	bula (2)	Basic	1 > V > 2+nooma	2	followee	NP+nooma	X
+Mandinka	16	FOLLOW	báyíndi	Basic	1 > 2 > V	1	follower	Ø	A
+Mandinka	16	FOLLOW	báyíndi	Basic	1 > 2 > V	2	followee	Ø	P
+Mandinka	17	MEET	beŋ	Basic	1 > V	1	meeter	Ø	S
+Mandinka	17	MEET	tara	Basic	1 > 2 > V	1	meeter	Ø	A
+Mandinka	17	MEET	tara	Basic	1 > 2 > V	2	met person	Ø	P
+Mandinka	18	TALK	fó	Basic	1 > 2 > V > 3+ye	1	talker	Ø	A
+Mandinka	18	TALK	fó	Basic	1 > 2 > V > 3+ye	2	talked about content	Ø	P
+Mandinka	18	TALK	fó	Basic	1 > 2 > V > 3+ye	3	talked to person	NP+ye	X
+Mandinka	18	TALK	kúma	Basic	1 > V (> 2+ye)	1	talker	Ø	S
+Mandinka	18	TALK	kúma	Basic	1 > V (> 2+ye)	2	talked to person	NP+ye	X
+Mandinka	19	ASK FOR	dáani	Basic	1 > 2 > V > 3+la	1	asker	Ø	A
+Mandinka	19	ASK FOR	dáani	Basic	1 > 2 > V > 3+la	2	askee	Ø	P
+Mandinka	19	ASK FOR	dáani	Basic	1 > 2 > V > 3+la	3	requested thing	NP+la	I
+Mandinka	20	SHOUT AT	sári	Basic	1 > V (> LOC2)	1	shouter	Ø	S
+Mandinka	20	SHOUT AT	sári	Basic	1 > V (> LOC2)	2	shoutee	LOC	L
+Mandinka	21	TELL	fó	Basic	1 > 2 > V > 3+ye	1	teller	Ø	A
+Mandinka	21	TELL	fó	Basic	1 > 2 > V > 3+ye	2	told content	Ø	P
+Mandinka	21	TELL	fó	Basic	1 > 2 > V > 3+ye	3	tellee	NP+ye	X
+Mandinka	21	TELL	no verbal counterpart	Basic	N/A	2	told content		
+Mandinka	21	TELL	no verbal counterpart	Basic	N/A	3	tellee		
+Mandinka	23	NAME	kúmándi (2)	Basic	1 > 2 > V > 3+la	1	namer	Ø	A
+Mandinka	23	NAME	kúmándi (2)	Basic	1 > 2 > V > 3+la	2	namee	Ø	P
+Mandinka	23	NAME	kúmándi (2)	Basic	1 > 2 > V > 3+la	3	name	NP+la	I
+Mandinka	23	NAME	tóo láa	Basic	1 > 2 > V > 3+la	1	namer	Ø	A
+Mandinka	23	NAME	tóo láa	Basic	1 > 2 > V > 3+la	2	namee	Ø	P
+Mandinka	23	NAME	tóo láa	Basic	1 > 2 > V > 3+la	3	name	NP+la	I
+Mandinka	24	BUILD	loo	Basic	1 > 2 > V > 3+la	1	builder	Ø	A
+Mandinka	24	BUILD	loo	Basic	1 > 2 > V > 3+la	2	built thing	Ø	P
+Mandinka	24	BUILD	loo	Basic	1 > 2 > V > 3+la	3	building material	NP+la	I
+Mandinka	25	BREAK	káti	Basic	1 > 2 > V	1	breaker	Ø	A
+Mandinka	25	BREAK	káti	Basic	1 > 2 > V	2	broken thing	Ø	P
+Mandinka	25	BREAK	teyi (1)	Basic	1 > 2 > V > 3+la	1	breaker	Ø	A
+Mandinka	25	BREAK	teyi (1)	Basic	1 > 2 > V > 3+la	2	broken thing	Ø	P
+Mandinka	25	BREAK	teyi (1)	Basic	1 > 2 > V > 3+la	3	breaking instrument	NP+la	I
+Mandinka	26	KILL	faa (1)	Basic	1 > 2 > V > 3+la	1	killer	Ø	A
+Mandinka	26	KILL	faa (1)	Basic	1 > 2 > V > 3+la	2	killee	Ø	P
+Mandinka	26	KILL	faa (1)	Basic	1 > 2 > V > 3+la	3	killing instrument	NP+la	I
+Mandinka	27	BEAT	búsa (1)	Basic	1 > 2 > V > 3+la	1	beater	Ø	A
+Mandinka	27	BEAT	búsa (1)	Basic	1 > 2 > V > 3+la	2	beatee	Ø	P
+Mandinka	27	BEAT	búsa (1)	Basic	1 > 2 > V > 3+la	3	beating instrument	NP+la	I
+Mandinka	28	HIT	búsa (1)	Basic	1 > 2 > V > 3+la	1	hitter	Ø	A
+Mandinka	28	HIT	búsa (1)	Basic	1 > 2 > V > 3+la	2	hittee	Ø	P
+Mandinka	28	HIT	búsa (1)	Basic	1 > 2 > V > 3+la	3	hitting instrument	NP+la	I
+Mandinka	29	TOUCH	maa	Basic	1 > 2 > V > 3+la	1	toucher	Ø	A
+Mandinka	29	TOUCH	maa	Basic	1 > 2 > V > 3+la	2	touchee	Ø	P
+Mandinka	29	TOUCH	maa	Basic	1 > 2 > V > 3+la	3	touching instrument	NP+la	I
+Mandinka	30	CUT	kuntu	Basic	1 > 2 > V > 3+la	1	cutter	Ø	A
+Mandinka	30	CUT	kuntu	Basic	1 > 2 > V > 3+la	2	cut thing	Ø	P
+Mandinka	30	CUT	kuntu	Basic	1 > 2 > V > 3+la	3	cutting instrument	NP+la	I
+Mandinka	30	CUT	teyi (2)	Basic	1 > 2 > V > 3+la	1	cutter	Ø	A
+Mandinka	30	CUT	teyi (2)	Basic	1 > 2 > V > 3+la	2	cut thing	Ø	P
+Mandinka	30	CUT	teyi (2)	Basic	1 > 2 > V > 3+la	3	cutting instrument	NP+la	I
+Mandinka	31	TAKE	taa	Basic	1 > 2 > V > 3+bulu	1	taker	Ø	A
+Mandinka	31	TAKE	taa	Basic	1 > 2 > V > 3+bulu	2	taken thing	Ø	P
+Mandinka	31	TAKE	taa	Basic	1 > 2 > V > 3+bulu	3	taking source	NP+bulu	X
+Mandinka	32	TEAR	farasi	Basic	1 > 2 > V > 3+bala	1	tearer	Ø	A
+Mandinka	32	TEAR	farasi	Basic	1 > 2 > V > 3+bala	2	torn thing	Ø	P
+Mandinka	32	TEAR	farasi	Basic	1 > 2 > V > 3+bala	3	tearing source	NP+bala	X
+Mandinka	33	PEEL	bóndi	Basic	1 > 2 > V > LOC3	1	peeler	Ø	A
+Mandinka	33	PEEL	bóndi	Basic	1 > 2 > V > LOC3	2	peel	Ø	P
+Mandinka	33	PEEL	bóndi	Basic	1 > 2 > V > LOC3	3	peeled object	LOC	L
+Mandinka	33	PEEL	wóto	Basic	1 > 2 > V	1	peeler	Ø	A
+Mandinka	33	PEEL	wóto	Basic	1 > 2 > V	2	peeled object	Ø	P
+Mandinka	34	HIDE	maabo	Basic	1 > 2 > V > 3+ma	1	hider	Ø	A
+Mandinka	34	HIDE	maabo	Basic	1 > 2 > V > 3+ma	2	hidden thing	Ø	P
+Mandinka	34	HIDE	maabo	Basic	1 > 2 > V > 3+ma	3	hiding affectee	NP+ma	X
+Mandinka	35	SHOW	yitandi	Basic	1 > 2 > V > 3+la	1	shower	Ø	A
+Mandinka	35	SHOW	yitandi	Basic	1 > 2 > V > 3+la	2	shown thing	Ø	P
+Mandinka	35	SHOW	yitandi	Basic	1 > 2 > V > 3+la	3	showing addressee	NP+la	I
+Mandinka	36	GIVE	díi	Basic	1 > 2 > V > 3+la	1	giver	Ø	A
+Mandinka	36	GIVE	díi	Basic	1 > 2 > V > 3+la	2	giving recipient	Ø	P
+Mandinka	36	GIVE	díi	Basic	1 > 2 > V > 3+la	3	gift	NP+la	I
+Mandinka	36	GIVE	só	Basic	1 > 2 > V > 3+la	1	giver	Ø	A
+Mandinka	36	GIVE	só	Basic	1 > 2 > V > 3+la	2	giving recipient	Ø	P
+Mandinka	36	GIVE	só	Basic	1 > 2 > V > 3+la	3	gift	NP+la	I
+Mandinka	37	SEND	kíi	Basic	1 > 2 > V > 3+ye	1	sender	Ø	A
+Mandinka	37	SEND	kíi	Basic	1 > 2 > V > 3+ye	2	sent thing	Ø	P
+Mandinka	37	SEND	kíi	Basic	1 > 2 > V > 3+ye	3	sending recipient	NP+ye	X
+Mandinka	38	CARRY	samba	Basic	1 > 2 > V > LOC3	1	carrier	Ø	A
+Mandinka	38	CARRY	samba	Basic	1 > 2 > V > LOC3	2	carried thing	Ø	P
+Mandinka	38	CARRY	samba	Basic	1 > 2 > V > LOC3	3	carrying goal	LOC	L
+Mandinka	38	CARRY	táa (2)	Basic	1 > V > 2+ti > LOC3	1	carrier	Ø	S
+Mandinka	38	CARRY	táa (2)	Basic	1 > V > 2+ti > LOC3	2	carried thing	NP+ti	X
+Mandinka	38	CARRY	táa (2)	Basic	1 > V > 2+ti > LOC3	3	carrying goal	LOC	L
+Mandinka	39	THROW	búŋ	Basic	1 > 2 > V > 3+la	1	thrower	Ø	A
+Mandinka	39	THROW	búŋ	Basic	1 > 2 > V > 3+la	2	throwing goal	Ø	P
+Mandinka	39	THROW	búŋ	Basic	1 > 2 > V > 3+la	3	thrown thing	NP+la	I
+Mandinka	39	THROW	fáyi	Basic	1 > 2 > V > LOC3	1	thrower	Ø	A
+Mandinka	39	THROW	fáyi	Basic	1 > 2 > V > LOC3	2	thrown thing	Ø	P
+Mandinka	39	THROW	fáyi	Basic	1 > 2 > V > LOC3	3	throwing goal	LOC	L
+Mandinka	40	TIE	siti	Basic	1 > 2 > V > 3+bala > 4+la	1	tier	Ø	A
+Mandinka	40	TIE	siti	Basic	1 > 2 > V > 3+bala > 4+la	2	tied thing	Ø	P
+Mandinka	40	TIE	siti	Basic	1 > 2 > V > 3+bala > 4+la	3	tying goal	NP+bala	X
+Mandinka	40	TIE	siti	Basic	1 > 2 > V > 3+bala > 4+la	4	tying instrument	NP+la	I
+Mandinka	41	PUT	bula (1)	Basic	1 > 2 > V > LOC3	1	putter	Ø	A
+Mandinka	41	PUT	bula (1)	Basic	1 > 2 > V > LOC3	2	put thing	Ø	P
+Mandinka	41	PUT	bula (1)	Basic	1 > 2 > V > LOC3	3	putting goal	LOC	L
+Mandinka	41	PUT	ké (1)	Basic	1 > 2 > V > LOC3	1	putter	Ø	A
+Mandinka	41	PUT	ké (1)	Basic	1 > 2 > V > LOC3	2	put thing	Ø	P
+Mandinka	41	PUT	ké (1)	Basic	1 > 2 > V > LOC3	3	putting goal	LOC	L
+Mandinka	41	PUT	láa (1)	Basic	1 > 2 > V > LOC3	1	putter	Ø	A
+Mandinka	41	PUT	láa (1)	Basic	1 > 2 > V > LOC3	2	put thing	Ø	P
+Mandinka	41	PUT	láa (1)	Basic	1 > 2 > V > LOC3	3	putting goal	LOC	L
+Mandinka	42	POUR	boŋ	Basic	1 > 2 > V > LOC3	1	pourer	Ø	A
+Mandinka	42	POUR	boŋ	Basic	1 > 2 > V > LOC3	2	poured substance	Ø	P
+Mandinka	42	POUR	boŋ	Basic	1 > 2 > V > LOC3	3	pouring goal	LOC	L
+Mandinka	42	POUR	soo	Basic	1 > 2 > V > 3+kóno	1	pourer	Ø	A
+Mandinka	42	POUR	soo	Basic	1 > 2 > V > 3+kóno	2	poured substance	Ø	P
+Mandinka	42	POUR	soo	Basic	1 > 2 > V > 3+kóno	3	pouring goal	NP+kóno	X
+Mandinka	43	COVER	múura	Basic	1 > 2 > V > 3+la	1	coverer	Ø	A
+Mandinka	43	COVER	múura	Basic	1 > 2 > V > 3+la	2	covered thing	Ø	P
+Mandinka	43	COVER	múura	Basic	1 > 2 > V > 3+la	3	cover	NP+la	I
+Mandinka	44	FILL	fándi	Basic	1 > 2 > V > 3+la	1	filler	Ø	A
+Mandinka	44	FILL	fándi	Basic	1 > 2 > V > 3+la	2	filled container	Ø	P
+Mandinka	44	FILL	fándi	Basic	1 > 2 > V > 3+la	3	filling material	NP+la	I
+Mandinka	45	LOAD	láa (1)	Basic	1 > 2 > V > LOC3	1	loader	Ø	A
+Mandinka	45	LOAD	láa (1)	Basic	1 > 2 > V > LOC3	2	loaded thing	Ø	P
+Mandinka	45	LOAD	láa (1)	Basic	1 > 2 > V > LOC3	3	loading place	LOC	L
+Mandinka	46	BLINK	ñâa káti	Basic	1 > V	1	blinker	Ø	S
+Mandinka	47	COUGH	tootoo	Basic	1 > V	1	cougher	Ø	S
+Mandinka	48	CLIMB	sele	Basic	1 > V > LOC2	1	climber	Ø	S
+Mandinka	48	CLIMB	sele	Basic	1 > V > LOC2	2	climbing goal	LOC	L
+Mandinka	49	RUN	bori	Basic	1 > V	1	runner	Ø	S
+Mandinka	50	SIT	sii	Basic	1 > V > LOC2	1	sitter	Ø	S
+Mandinka	50	SIT	sii	Basic	1 > V > LOC2	2	sitting place	LOC	L
+Mandinka	51	SIT DOWN	sii	Basic	1 > V > LOC2	1	sitdowner	Ø	S
+Mandinka	51	SIT DOWN	sii	Basic	1 > V > LOC2	2	sitting-down place	LOC	L
+Mandinka	52	JUMP	sawuŋ	Basic	1 > V > LOC2	1	jumper	Ø	S
+Mandinka	52	JUMP	sawuŋ	Basic	1 > V > LOC2	2	jump location	LOC	L
+Mandinka	54	GO	táa (1)	Basic	1 > V > LOC2	1	goer	Ø	S
+Mandinka	54	GO	táa (1)	Basic	1 > V > LOC2	2	going goal	LOC	L
+Mandinka	55	LEAVE	bula (3)	Basic	1 > 2 > V	1	leaver	Ø	A
+Mandinka	55	LEAVE	bula (3)	Basic	1 > 2 > V	2	left place/person	Ø	P
+Mandinka	55	LEAVE	bó (1)	Basic	1 > V > LOC2	1	leaver	Ø	S
+Mandinka	55	LEAVE	bó (1)	Basic	1 > V > LOC2	2	left place/person	LOC	L
+Mandinka	56	LIVE	báluu	Basic	1 > V	1	liver	Ø	S
+Mandinka	56	LIVE	sii	Basic	1 > V > LOC2	1	liver	Ø	S
+Mandinka	56	LIVE	sii	Basic	1 > V > LOC2	2	living place	LOC	L
+Mandinka	57	LAUGH	jéle	Basic	1 > V	1	laugher	Ø	S
+Mandinka	58	SCREAM	sári	Basic	1 > V (> LOC2)	1	screamer	Ø	S
+Mandinka	58	SCREAM	sári	Basic	1 > V (> LOC2)	2	screamed at person	LOC	L
+Mandinka	59	FEEL PAIN	dímiŋ	Basic	1 > 2 > V	1	pain locus	Ø	A
+Mandinka	59	FEEL PAIN	dímiŋ	Basic	1 > 2 > V	2	pain-feeler	Ø	P
+Mandinka	61	DIE	faa (2)	Basic	1 > V	1	dieer	Ø	S
+Mandinka	61	DIE	saa	Basic	1 > V	1	dieer	Ø	S
+Mandinka	62	PLAY	túluŋ	Basic	1 > V > 2+la	1	player	Ø	S
+Mandinka	62	PLAY	túluŋ	Basic	1 > V > 2+la	2	playing partner	NP+la	I
+Mandinka	63	BE SAD	sunu	Basic	1 > V	1	sad person	Ø	S
+Mandinka	64	BE HUNGRY	kóŋko	Basic	1 > V	1	hungry person	Ø	S
+Mandinka	65	ROLL	bori	Basic	1 > V	1	rolling entity	Ø	S
+Mandinka	66	SINK	túuneŋ	Basic	1 > V	1	sunken entity	Ø	S
+Mandinka	67	BURN	jani	Basic	1 > V	1	burnt thing	Ø	S
+Mandinka	68	BE DRY	jaa	Basic	1 > V	1	dry thing	Ø	S
+Mandinka	71	GRIND	síi	Basic	1 > 2 > V > 3+la	1	grinder	Ø	A
+Mandinka	71	GRIND	síi	Basic	1 > 2 > V > 3+la	2	ground thing	Ø	P
+Mandinka	71	GRIND	síi	Basic	1 > 2 > V > 3+la	3	grinding instrument	NP+la	I
+Mandinka	72	WIPE	fíta	Basic	1 > 2 > V	1	wiper	Ø	A
+Mandinka	72	WIPE	fíta	Basic	1 > 2 > V	2	wiping surface	Ø	P
+Mandinka	72	WIPE	kóŋkoŋ	Basic	1 > 2 > V > LOC3	1	wiper	Ø	A
+Mandinka	72	WIPE	kóŋkoŋ	Basic	1 > 2 > V > LOC3	2	wiped material	Ø	P
+Mandinka	72	WIPE	kóŋkoŋ	Basic	1 > 2 > V > LOC3	3	wiping surface	LOC	L
+Mandinka	73	DIG	siŋ	Basic	1 > 2 > V	1	digger	Ø	A
+Mandinka	73	DIG	siŋ	Basic	1 > 2 > V	2	dug up thing	Ø	P
+Mandinka	74	PUSH	ñori	Basic	1 > 2 > V	1	pusher	Ø	A
+Mandinka	74	PUSH	ñori	Basic	1 > 2 > V	2	pushee	Ø	P
+Mandinka	75	BRING	naa (1)	Basic	1 > V > 2+ti > 3+ye	1	bringer	Ø	S
+Mandinka	75	BRING	naa (1)	Basic	1 > V > 2+ti > 3+ye	2	brought thing	NP+ti	X
+Mandinka	75	BRING	naa (1)	Basic	1 > V > 2+ti > 3+ye	3	bringing recipient	NP+ye	X
+Mandinka	75	BRING	samba	Basic	1 > 2 > V > LOC3	1	bringer	Ø	A
+Mandinka	75	BRING	samba	Basic	1 > 2 > V > LOC3	2	brought thing	Ø	P
+Mandinka	75	BRING	samba	Basic	1 > 2 > V > LOC3	3	bringing recipient	LOC	L
+Mandinka	76	STEAL	suuñaa	Basic	1 > 2 > V > 3+bulu	1	stealer	Ø	A
+Mandinka	76	STEAL	suuñaa	Basic	1 > 2 > V > 3+bulu	2	stolen thing	Ø	P
+Mandinka	76	STEAL	suuñaa	Basic	1 > 2 > V > 3+bulu	3	stealing source	NP+bulu	X
+Mandinka	77	TEACH	karandi	Basic	1 > 2 > V > 3+la	1	teacher	Ø	A
+Mandinka	77	TEACH	karandi	Basic	1 > 2 > V > 3+la	2	teachee	Ø	P
+Mandinka	77	TEACH	karandi	Basic	1 > 2 > V > 3+la	3	taught content	NP+la	I
+Mandinka	77	TEACH	nikindi	Basic	1 > 2 > V > 3+la	1	teacher	Ø	A
+Mandinka	77	TEACH	nikindi	Basic	1 > 2 > V > 3+la	2	teachee	Ø	P
+Mandinka	77	TEACH	nikindi	Basic	1 > 2 > V > 3+la	3	taught content	NP+la	I
+Mandinka	78	HEAR	moyi	Basic	1 > 2 > V	1	hearer	Ø	A
+Mandinka	78	HEAR	moyi	Basic	1 > 2 > V	2	heard sound	Ø	P
+Mandinka	79	COOK	tábi	Basic	1 > 2 > V	1	cooker	Ø	A
+Mandinka	79	COOK	tábi	Basic	1 > 2 > V	2	cooked food	Ø	P
+Mandinka	80	BOIL	fáji	Basic	1 > V	1	boiled thing	Ø	S
+Mandinka	81	APPEAR	bó (2)	Basic	1 > V	1	appearer	Ø	S
+Mandinka	81	APPEAR	fúnti	Basic	1 > V	1	appearer	Ø	S
+Mandinka	82	BE ILL	jaŋkári	Basic	1 > V	1	sick person	Ø	S
+Mandinka	83	CRY	kumboo	Basic	1 > V	1	crier	Ø	S
+Mandinka	84	FALL	boyi	Basic	1 > V (> LOC2)	1	fallee	Ø	S
+Mandinka	84	FALL	boyi	Basic	1 > V (> LOC2)	2	fall goal	LOC	L
+Mandinka	84	FALL	búsa (2)	Basic	1 > V > LOC2	1	fallee	Ø	S
+Mandinka	84	FALL	búsa (2)	Basic	1 > V > LOC2	2	fall goal	LOC	L
+Mandinka	84	FALL	joloŋ	Basic	1 > V (> LOC2)	1	fallee	Ø	S
+Mandinka	84	FALL	joloŋ	Basic	1 > V (> LOC2)	2	fall goal	LOC	L
+Mandinka	85	MAKE	dádaa	Basic	1 > 2 > V	1	maker	Ø	A
+Mandinka	85	MAKE	dádaa	Basic	1 > 2 > V	2	made thing	Ø	P
+Mandinka	85	MAKE	ké (2)	Basic	1 > 2 > V> 3+ti	1	maker	Ø	A
+Mandinka	85	MAKE	ké (2)	Basic	1 > 2 > V> 3+ti	2	made thing	Ø	P
+Mandinka	85	MAKE	ké (2)	Basic	1 > 2 > V> 3+ti	3	making material	NP+ti	X
+Mandinka	86	GET	soto	Basic	1 > 2 > V > 3+bulu	1	receiver	Ø	A
+Mandinka	86	GET	soto	Basic	1 > 2 > V > 3+bulu	2	received thing	Ø	P
+Mandinka	86	GET	soto	Basic	1 > 2 > V > 3+bulu	3	receiving source	NP+bulu	X
+Mandinka	87	WANT	lafi	Basic	1 > V > 2+la	1	wanter	Ø	S
+Mandinka	87	WANT	lafi	Basic	1 > V > 2+la	2	wanted thing	NP+la	I
+Mandinka	89	REFUSE	bálaŋ	Basic	1 > V > 2+ma 3+la	1	refuser	Ø	S
+Mandinka	89	REFUSE	bálaŋ	Basic	1 > V > 2+ma 3+la	2	refusee	NP+ma	X
+Mandinka	89	REFUSE	bálaŋ	Basic	1 > V > 2+ma 3+la	3	refused thing	NP+la	I
+Mandinka	91	BE COLD	súmáyaa	Basic	1 > V	1	cold thing	Ø	S
+Mandinka	92	TWINKLE	ñílísa	Basic	1 > V	1	twinkler	Ø	S
+Mandinka	93	HUNT (FOR)	deema	Basic	1 > 2 > V	1	hunter	Ø	A
+Mandinka	93	HUNT (FOR)	deema	Basic	1 > 2 > V	2	hunted thing	Ø	P
+Mandinka	94	CHASE	báyi	Basic	1 > 2 > V > LOC3	1	chaser	Ø	A
+Mandinka	94	CHASE	báyi	Basic	1 > 2 > V > LOC3	2	chasee	Ø	P
+Mandinka	94	CHASE	báyi	Basic	1 > 2 > V > LOC3	3	chasing location	LOC	L
+Mandinka	96	MARRY	fútuu	Basic	1 > 2 > V	1	marrying person	Ø	A
+Mandinka	96	MARRY	fútuu	Basic	1 > 2 > V	2	married person	Ø	P
+Mandinka	97	READ	karaŋ	Basic	1 > 2 > V	1	reader	Ø	A
+Mandinka	97	READ	karaŋ	Basic	1 > 2 > V	2	read thing	Ø	P
+Mandinka	99	OFFER	nii	Basic	1 > 2 > V > 3+la	1	offerer	Ø	A
+Mandinka	99	OFFER	nii	Basic	1 > 2 > V > 3+la	2	offered to person	Ø	P
+Mandinka	99	OFFER	nii	Basic	1 > 2 > V > 3+la	3	offering	NP+la	I
+Mandinka	100	ASK (about)	ñiniŋkaa	Basic	1 > 2 > V > 3+la	1	asking (about) person	Ø	A
+Mandinka	100	ASK (about)	ñiniŋkaa	Basic	1 > 2 > V > 3+la	2	askee (about)	Ø	P
+Mandinka	100	ASK (about)	ñiniŋkaa	Basic	1 > 2 > V > 3+la	3	asked (about) thing	NP+la	I
+Mandinka	101	CRAM	sóoli	Basic	1 > 2 > V > LOC3	1	cramer	Ø	A
+Mandinka	101	CRAM	sóoli	Basic	1 > 2 > V > LOC3	2	crammed thing	Ø	P
+Mandinka	101	CRAM	sóoli	Basic	1 > 2 > V > LOC3	3	crammed location	LOC	L
+Mandinka	102	DO	ké (3)	Basic	1 > 2 > V	1	doer	Ø	A
+Mandinka	102	DO	ké (3)	Basic	1 > 2 > V	2	done thing	Ø	P
+Mandinka	103	CROSS	teyi (3)	Basic	1 > V > 2+la	1	crosser	Ø	S
+Mandinka	103	CROSS	teyi (3)	Basic	1 > V > 2+la	2	crossed place	NP+la	I
+Mandinka	104	GIVE BIRTH	wúluu	Basic	1 > V > 2+la	1	birth giver	Ø	S
+Mandinka	104	GIVE BIRTH	wúluu	Basic	1 > V > 2+la	2	born entity	NP+la	I
+Mandinka	105	ENTER	duŋ (2)	Basic	1 > V > LOC2	1	enterer	Ø	S
+Mandinka	105	ENTER	duŋ (2)	Basic	1 > V > LOC2	2	entered place	LOC	L
+Mandinka	106	REST	í fóño	Basic	1 > V	1	resting person	Ø	S
+Mandinka	108	DRINK	miŋ	Basic	1 > 2 > V	1	drinking person	Ø	A
+Mandinka	108	DRINK	miŋ	Basic	1 > 2 > V	2	drunken thing	Ø	P
+Mandinka	111	CALL	kúmándi (1)	Basic	1 > 2 > V	1	caller	Ø	A
+Mandinka	111	CALL	kúmándi (1)	Basic	1 > 2 > V	2	called to/for person	Ø	P
+Mandinka	111	REMAIN	tú	Basic	1 > V > LOC2	1	remainer	Ø	S
+Mandinka	111	REMAIN	tú	Basic	1 > V > LOC2	2	remaining place	LOC	L
+Mandinka	112	COME (2)	naa (2)	Basic	1 > V > LOC2	1	coming person/thing	Ø	S
+Mandinka	112	COME (2)	naa (2)	Basic	1 > V > LOC2	2	come goal	LOC	L

@@ -1,0 +1,148 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Example_numbers	Coding_frame_schema	Antipassive -ige	Antipassive -iwe	Applicative	Body Part Incorporation	Causative Simple	Lexical passive	Reciprocal	Reflexive
+Ojibwe	1	EAT	miijid	1	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	1	EAT	mwaad	15	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	2	HUG	aabtoojiinaad	2, 16	1 subjA[1].V.objI[2] 2	Regularly	Regularly	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	3	LOOK AT	gnawaabmaad	3	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	3	LOOK AT	gnawaabndang	55	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	4	SEE	waabmaad	4	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	4	SEE	waabndang	87	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	5	SMELL	biijmaamaad	5	1 V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Marginally	Regularly
+Ojibwe	5	SMELL	biijmaandang	88	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	6	FEAR	gsaad	6	1 V.objI[2] 2	Never	Regularly	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	6	FEAR	gtang	97	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	7	FRIGHTEN	zeghaad	7	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Ojibwe	8	LIKE	bgishgenmaad	54	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	8	LIKE	bshigendang	53	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	8	LIKE	mdaagwendang	52	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	9	KNOW	gkenmaad	8	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	9	KNOW	gkendang	106	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	10	THINK	tanenmaad	51	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	10	THINK	mdaagwenmaad	164	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	10	THINK	nendang	165	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	10	THINK	nenmaad	166	1 subjA[1].V.objI[2] 2	Marginally	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	11	SEARCH FOR	ndanewaad	9	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Never
+Ojibwe	11	SEARCH FOR	ndanehang	118	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	12	WASH	gziibiignaad	10, 151	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Regularly	Never	Regularly	Marginally	Regularly
+Ojibwe	12	WASH	gziibiignang	129, 138	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	13	DRESS	biiskon'yehaad	11, 49	1 subjA[1].V.objI[2] 2	Never	Regularly	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	14	SHAVE (a body part/person)	gaashkibaanaad	158	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	15	HELP	naadmawaad	13	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	16	FOLLOW	noopnanaad	14	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Never	Never	Regularly
+Ojibwe	17	MEET	nkweshkwaad	50	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	17	MEET	nkweshkang	109	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	18	TALK	gnoonaad	57	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	18	TALK	gnoodang	163	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	19	ASK FOR	ndodmawaad	56, 150	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	19	ASK FOR	ndodang	90, 91	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	19	ASK FOR	ndodmaaged	92	1 subjS[1].V.objII[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	20	SHOUT AT	biibaagmaad	167	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Ojibwe	20	SHOUT AT	(?biibaagndang)		1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	21	TELL	wiindmawaad	58, 149	1 subjA[1].V.objI[2] 2 UTT3	Regularly	Never	Never	Never	Never	Never	Regularly	Regularly
+Ojibwe	22	SAY	naad	60	1 subjA[1].V.objI[2] 2 UTT3	Never	Never	Never	Never	Never	Regularly	Never	Never
+Ojibwe	22	SAY	kidod	59	1 V.subjS[1] UTT2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	23	NAME	zhinkaanaad	112	1 subjA[1].V.objI[2] 2 (3)	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Never
+Ojibwe	23	NAME	zhinkaadang	146	1 subjA[1].V.objI[2] 2 (3)	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	23	NAME	waawiinaad	110	1 subjA[1].V.objI[2] 2	Never	Regularly	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	23	NAME	waawiindang	111	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	24	BUILD	zhihaad	144	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	24	BUILD	zhitood	142	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	25	BREAK	bookbidood	74	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	25	BREAK	bookbinaad	162	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	26	KILL	nsaad	70, 145, 153	1 subjA[1].V.objI[2] 2	Never	Regularly	Regularly	Never	Never	Regularly	No data	Regularly
+Ojibwe	26	KILL	ntood	105	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	27	BEAT	bkitewaad	71, 154, 155	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Never
+Ojibwe	27	BEAT	bkitehang	72	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	28	HIT	bkitewaad	71, 154, 155	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Never
+Ojibwe	28	HIT	bkitehang	72	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	29	TOUCH	daangnaad	127, 148	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Regularly	Never	Regularly	Regularly	Regularly
+Ojibwe	29	TOUCH	daangnang	128	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	30	CUT	giishkkonaad	147	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Regularly	Never	Regularly	Regularly	Regularly
+Ojibwe	30	CUT	giishkkodang	61	1 subjA[1].V.objI[2] 2 (3)	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	31	TAKE	daapnaad	62	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	31	TAKE	daapnang	122	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	32	TEAR	gaakbidood	63	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	32	TEAR	gaakbinaad	124	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	33	PEEL	bnagjiiknaad	64	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	33	PEEL	bnagjiikdang	65	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	33	PEEL	bnagjiibinaad	66	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	33	PEEL	bnagjiibdood	113	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	34	HIDE	gkinaad	73	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	34	HIDE	gkidood	104	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	35	SHOW	waabndahaad	119	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	35	SHOW	zhinoohmawaad	75, 170	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	36	GIVE	miinaad	76, 133, 136, 137	1 subjA[1].V.objI[2] 2 (3)	Never	Regularly	Never	Never	Never	Never	Regularly	Regularly
+Ojibwe	37	SEND	niindaahaad	77	1 subjA[1].V.objI[2] 2 (3)	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	38	CARRY	bmiwnaad	78, 168	1 subjA[1].V.objI[2] 2	Never	Regularly	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	38	CARRY	bmiwdood	143	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	39	THROW	pagnaad	126	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	39	THROW	pagdang	125	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	40	TIE	dkobidood	79	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	40	TIE	dkobinaad	80	1 subjA[1].V.objI[2] 2 (3)	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	41	PUT	saad	82	1 subjA[1].V.objI[2] 2 3-loc	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	41	PUT	tood	83	1 subjA[1].V.objI[2] 2 3-loc	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	42	POUR	ziignaad	132	1 subjA[1].V.objI[2] 2 3-loc	Regularly	Never	Regularly	Never	Never	Never	Never	Never
+Ojibwe	42	POUR	ziignang	84	1 subjA[1].V.objI[2] 2 3-loc	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	43	COVER	gbahang	85	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	43	COVER	gbawaad	86	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	44	FILL	mooshknadood	98	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	44	FILL	mooshknanaad	99	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Never	Regularly	Regularly
+Ojibwe	44	FILL	mooshknebdood	100	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	44	FILL	mooshknebnaad	101	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	45	LOAD	boozdood	108	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	45	LOAD	booz'haad	107	1 subjA[1].V.objI[2] 2 3-loc	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	46	BLINK	pasknaabid	48	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	47	COUGH	zosdang	47	1 V.subjS[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Ojibwe	48	CLIMB	bmaandwaanaad	46	1 V.objI[2] 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	48	CLIMB	bmaandwaadang	93	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	49	RUN	bmibtood	45	1 V.subjS[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Ojibwe	50	SIT	nmadbid	44, 81, 152	1 V.subjS[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Ojibwe	51	SIT DOWN	nmadbid	44, 81, 152	1 V.subjS[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Ojibwe	51	SIT DOWN	wenbi	156, 157	1 V.subjS[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Ojibwe	52	JUMP	gwaashknid	43, 169	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	52	JUMP	mbigwaashknid	42	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	53	SING	n'gamod	41	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	54	GO	zhaad	40	1 V.subjS[1] 2-loc	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	55	LEAVE	n'ganaad	39	1 subjA[1].V.objI[2] 2	Regularly	Regularly	Regularly	Never	Never	Never	Never	Never
+Ojibwe	55	LEAVE	n'gadang	38	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	56	LIVE	daad	36	1 V.subjS[1] 2-loc	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	56	LIVE	dnakiid	37	1 V.subjS[1] 2-loc	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	57	LAUGH	baapid	34	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	58	SCREAM	mbiigzid	33	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	58	SCREAM	noondaagzi	117	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	59	FEEL PAIN	giigiijniked	31	1 <2>V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	59	FEEL PAIN	aakzid	32	1 subjS[1].V.objII[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	60	FEEL COLD	biingejid	30	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	61	DIE	nbod	29	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	62	PLAY	damnod	35	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	63	BE SAD	maanaadendang	28	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	64	BE HUNGRY	bkaded	27	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	65	ROLL	gtigseg	23, 24	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	65	ROLL	gtigsed	116	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	66	SINK	gzaabiid	120	1 V.subjS[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Ojibwe	66	SINK	gzaabiig	22	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	67	BURN	zkideg	20	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	67	BURN	zkizad	21	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	67	BURN	jaagzo	131	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	68	BE DRY	baasad	18	1 V.subjS[1]	Never	Never	Never	Never	Regularly	Never	Never	Never
+Ojibwe	68	BE DRY	baateg	19	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	69	RAIN	gmiwang	17	V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	70	BE A HUNTER	giiwse-nini aawid	25, 26	V.subjS[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Ojibwe	70	BE A HUNTER	no direct counterpart	89	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	70	BE A HUNTER	giiwseniniiwi	130	1 V.subjS[1]	Never	Never	Never	Never	Marginally	Never	Never	Never
+Ojibwe	71	GRIND	biisboodood	160	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	71	GRIND	biisboonaad	161	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	72	WIPE											
+Ojibwe	73	DIG	moon'ang	139	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	73	DIG	moon'hwaad	96	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	74	PUSH	gaandnaad	114	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Never	Never
+Ojibwe	74	PUSH	gaandnang	115	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	75	BRING	biidood	134, 135	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Never	Never	Never
+Ojibwe	75	BRING	biinaad	140	1 subjA[1].V.objI[2] 2	Never	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	76	STEAL	gmoodmaad	121	1 subjA[1].V.objI[2] 2 (3)	Never	Never	Never	Never	Never	Regularly	Regularly	Never
+Ojibwe	77	TEACH	gkinoo'mawaad	123	1 subjA[1].V.objI[2] 2	Regularly	Never	Never	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	78	HEAR	noondang	102	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	78	HEAR	noondwaad	103	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Regularly	Regularly
+Ojibwe	79	COOK	mnzang	95	1 subjA[1].V.objI[2] 2	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	79	COOK	mnozwaad	94	1 subjA[1].V.objI[2] 2	Regularly	Never	Regularly	Never	Never	Regularly	Regularly	Regularly
+Ojibwe	80	BOIL	nde	141	1 V.subjS[1]	Never	Never	Never	Never	Never	Never	Never	Never
+Ojibwe	80	BOIL	nzo	159	1 V.subjS[1]	Never	Never	Regularly	Never	Regularly	Never	Never	Never

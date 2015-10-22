@@ -1,0 +1,1189 @@
+﻿Language_name	Meaning_number	Meaning_label	Verb_form	Alternation_name	Alternation_occurs	Coding_frame_schema
+Xârâcùù	1	EAT	da	Ambitransitive Alternation 1	Never	
+Xârâcùù	1	EAT	da	Ambitransitive Alternation 2	Never	
+Xârâcùù	1	EAT	da	Applicative alternation	Never	
+Xârâcùù	1	EAT	da	Causative alternation	Regularly	
+Xârâcùù	1	EAT	da	Conative alternation	Marginally	
+Xârâcùù	1	EAT	da	Impersonal alternation	No data	
+Xârâcùù	1	EAT	da	Middle alternation	Regularly	
+Xârâcùù	1	EAT	da	Nominalization alternation	Regularly	
+Xârâcùù	1	EAT	da	Object Omission alternation	Regularly	
+Xârâcùù	1	EAT	da	Oblique/Direct alternation	No data	
+Xârâcùù	1	EAT	da	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	1	EAT	kê (2)	Ambitransitive Alternation 1	Never	
+Xârâcùù	1	EAT	kê (2)	Ambitransitive Alternation 2	Never	
+Xârâcùù	1	EAT	kê (2)	Applicative alternation	Never	
+Xârâcùù	1	EAT	kê (2)	Causative alternation	Regularly	
+Xârâcùù	1	EAT	kê (2)	Conative alternation	Marginally	
+Xârâcùù	1	EAT	kê (2)	Impersonal alternation	No data	
+Xârâcùù	1	EAT	kê (2)	Middle alternation	Never	
+Xârâcùù	1	EAT	kê (2)	Nominalization alternation	Regularly	
+Xârâcùù	1	EAT	kê (2)	Object Omission alternation	Regularly	
+Xârâcùù	1	EAT	kê (2)	Oblique/Direct alternation	Marginally	
+Xârâcùù	1	EAT	kê (2)	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	1	EAT	xwè	Ambitransitive Alternation 1	Never	
+Xârâcùù	1	EAT	xwè	Ambitransitive Alternation 2	Never	
+Xârâcùù	1	EAT	xwè	Applicative alternation	Never	
+Xârâcùù	1	EAT	xwè	Causative alternation	Marginally	
+Xârâcùù	1	EAT	xwè	Conative alternation	No data	
+Xârâcùù	1	EAT	xwè	Impersonal alternation	No data	
+Xârâcùù	1	EAT	xwè	Middle alternation	Never	
+Xârâcùù	1	EAT	xwè	Nominalization alternation	Marginally	
+Xârâcùù	1	EAT	xwè	Object Omission alternation	Marginally	
+Xârâcùù	1	EAT	xwè	Oblique/Direct alternation	Never	
+Xârâcùù	1	EAT	xwè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	2	HUG	satee	Ambitransitive Alternation 1	Never	
+Xârâcùù	2	HUG	satee	Ambitransitive Alternation 2	Never	
+Xârâcùù	2	HUG	satee	Applicative alternation	Never	
+Xârâcùù	2	HUG	satee	Causative alternation	Marginally	
+Xârâcùù	2	HUG	satee	Conative alternation	No data	
+Xârâcùù	2	HUG	satee	Impersonal alternation	No data	
+Xârâcùù	2	HUG	satee	Middle alternation	Never	
+Xârâcùù	2	HUG	satee	Nominalization alternation	Marginally	
+Xârâcùù	2	HUG	satee	Object Omission alternation	No data	
+Xârâcùù	2	HUG	satee	Oblique/Direct alternation	No data	
+Xârâcùù	2	HUG	satee	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	3	LOOK AT	téé fè	Ambitransitive Alternation 1	Never	
+Xârâcùù	3	LOOK AT	téé fè	Ambitransitive Alternation 2	Never	
+Xârâcùù	3	LOOK AT	téé fè	Applicative alternation	Never	
+Xârâcùù	3	LOOK AT	téé fè	Causative alternation	Regularly	
+Xârâcùù	3	LOOK AT	téé fè	Conative alternation	Never	
+Xârâcùù	3	LOOK AT	téé fè	Impersonal alternation	No data	
+Xârâcùù	3	LOOK AT	téé fè	Middle alternation	No data	
+Xârâcùù	3	LOOK AT	téé fè	Nominalization alternation	Regularly	
+Xârâcùù	3	LOOK AT	téé fè	Object Omission alternation	No data	
+Xârâcùù	3	LOOK AT	téé fè	Oblique/Direct alternation	No data	
+Xârâcùù	3	LOOK AT	téé fè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	4	SEE	téé	Ambitransitive Alternation 1	Never	
+Xârâcùù	4	SEE	téé	Ambitransitive Alternation 2	Never	
+Xârâcùù	4	SEE	téé	Applicative alternation	Never	
+Xârâcùù	4	SEE	téé	Causative alternation	Regularly	
+Xârâcùù	4	SEE	téé	Conative alternation	Never	
+Xârâcùù	4	SEE	téé	Impersonal alternation	No data	
+Xârâcùù	4	SEE	téé	Middle alternation	Never	
+Xârâcùù	4	SEE	téé	Nominalization alternation	Regularly	
+Xârâcùù	4	SEE	téé	Object Omission alternation	Marginally	
+Xârâcùù	4	SEE	téé	Oblique/Direct alternation	No data	
+Xârâcùù	4	SEE	téé	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	4	SEE	xâpârî	Ambitransitive Alternation 1	Never	
+Xârâcùù	4	SEE	xâpârî	Ambitransitive Alternation 2	Never	
+Xârâcùù	4	SEE	xâpârî	Applicative alternation	Never	
+Xârâcùù	4	SEE	xâpârî	Causative alternation	Marginally	
+Xârâcùù	4	SEE	xâpârî	Conative alternation	No data	
+Xârâcùù	4	SEE	xâpârî	Impersonal alternation	No data	
+Xârâcùù	4	SEE	xâpârî	Middle alternation	Marginally	
+Xârâcùù	4	SEE	xâpârî	Nominalization alternation	Regularly	
+Xârâcùù	4	SEE	xâpârî	Object Omission alternation	No data	
+Xârâcùù	4	SEE	xâpârî	Oblique/Direct alternation	No data	
+Xârâcùù	4	SEE	xâpârî	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	5	SMELL	bu	Ambitransitive Alternation 1	Never	
+Xârâcùù	5	SMELL	bu	Ambitransitive Alternation 2	Never	
+Xârâcùù	5	SMELL	bu	Applicative alternation	Never	
+Xârâcùù	5	SMELL	bu	Causative alternation	Regularly	
+Xârâcùù	5	SMELL	bu	Conative alternation	Never	
+Xârâcùù	5	SMELL	bu	Impersonal alternation	Never	
+Xârâcùù	5	SMELL	bu	Middle alternation	Never	
+Xârâcùù	5	SMELL	bu	Nominalization alternation	Marginally	
+Xârâcùù	5	SMELL	bu	Object Omission alternation	Never	
+Xârâcùù	5	SMELL	bu	Oblique/Direct alternation	No data	
+Xârâcùù	5	SMELL	bu	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	6	FEAR	bata	Ambitransitive Alternation 1	No data	
+Xârâcùù	6	FEAR	bata	Ambitransitive Alternation 2	Never	
+Xârâcùù	6	FEAR	bata	Applicative alternation	Regularly	
+Xârâcùù	6	FEAR	bata	Causative alternation	Regularly	
+Xârâcùù	6	FEAR	bata	Conative alternation	Never	
+Xârâcùù	6	FEAR	bata	Impersonal alternation	No data	
+Xârâcùù	6	FEAR	bata	Middle alternation	Never	
+Xârâcùù	6	FEAR	bata	Nominalization alternation	Regularly	
+Xârâcùù	6	FEAR	bata	Object Omission alternation	Never	
+Xârâcùù	6	FEAR	bata	Oblique/Direct alternation	No data	
+Xârâcùù	6	FEAR	bata	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	7	FRIGHTEN	fabata	Ambitransitive Alternation 1	Never	
+Xârâcùù	7	FRIGHTEN	fabata	Ambitransitive Alternation 2	Never	
+Xârâcùù	7	FRIGHTEN	fabata	Applicative alternation	Never	
+Xârâcùù	7	FRIGHTEN	fabata	Causative alternation	Marginally	
+Xârâcùù	7	FRIGHTEN	fabata	Conative alternation	No data	
+Xârâcùù	7	FRIGHTEN	fabata	Impersonal alternation	No data	
+Xârâcùù	7	FRIGHTEN	fabata	Middle alternation	Never	
+Xârâcùù	7	FRIGHTEN	fabata	Nominalization alternation	Marginally	
+Xârâcùù	7	FRIGHTEN	fabata	Object Omission alternation	No data	
+Xârâcùù	7	FRIGHTEN	fabata	Oblique/Direct alternation	No data	
+Xârâcùù	7	FRIGHTEN	fabata	Reflexive/Reciprocal omission alternation	Marginally	
+Xârâcùù	8	LIKE	xwèrii	Ambitransitive Alternation 1	Never	
+Xârâcùù	8	LIKE	xwèrii	Ambitransitive Alternation 2	Never	
+Xârâcùù	8	LIKE	xwèrii	Applicative alternation	Never	
+Xârâcùù	8	LIKE	xwèrii	Causative alternation	No data	
+Xârâcùù	8	LIKE	xwèrii	Conative alternation	No data	
+Xârâcùù	8	LIKE	xwèrii	Impersonal alternation	No data	
+Xârâcùù	8	LIKE	xwèrii	Middle alternation	Never	
+Xârâcùù	8	LIKE	xwèrii	Nominalization alternation	Regularly	
+Xârâcùù	8	LIKE	xwèrii	Object Omission alternation	No data	
+Xârâcùù	8	LIKE	xwèrii	Oblique/Direct alternation	No data	
+Xârâcùù	8	LIKE	xwèrii	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	9	KNOW	néxä	Ambitransitive Alternation 1	Never	
+Xârâcùù	9	KNOW	néxä	Ambitransitive Alternation 2	Never	
+Xârâcùù	9	KNOW	néxä	Applicative alternation	Never	
+Xârâcùù	9	KNOW	néxä	Causative alternation	Never	
+Xârâcùù	9	KNOW	néxä	Conative alternation	Never	
+Xârâcùù	9	KNOW	néxä	Impersonal alternation	No data	
+Xârâcùù	9	KNOW	néxä	Middle alternation	Never	
+Xârâcùù	9	KNOW	néxä	Nominalization alternation	Regularly	
+Xârâcùù	9	KNOW	néxä	Object Omission alternation	Marginally	
+Xârâcùù	9	KNOW	néxä	Oblique/Direct alternation	Never	
+Xârâcùù	9	KNOW	néxä	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	9	KNOW	tâmwâ	Ambitransitive Alternation 1	No data	
+Xârâcùù	9	KNOW	tâmwâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	9	KNOW	tâmwâ	Applicative alternation	Never	
+Xârâcùù	9	KNOW	tâmwâ	Causative alternation	No data	
+Xârâcùù	9	KNOW	tâmwâ	Conative alternation	No data	
+Xârâcùù	9	KNOW	tâmwâ	Impersonal alternation	No data	
+Xârâcùù	9	KNOW	tâmwâ	Middle alternation	No data	
+Xârâcùù	9	KNOW	tâmwâ	Nominalization alternation	Regularly	
+Xârâcùù	9	KNOW	tâmwâ	Object Omission alternation	Marginally	
+Xârâcùù	9	KNOW	tâmwâ	Oblique/Direct alternation	Never	
+Xârâcùù	9	KNOW	tâmwâ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	10	THINK	nârâ	Ambitransitive Alternation 1	No data	
+Xârâcùù	10	THINK	nârâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	10	THINK	nârâ	Applicative alternation	Never	
+Xârâcùù	10	THINK	nârâ	Causative alternation	Never	
+Xârâcùù	10	THINK	nârâ	Conative alternation	No data	
+Xârâcùù	10	THINK	nârâ	Impersonal alternation	No data	
+Xârâcùù	10	THINK	nârâ	Middle alternation	No data	
+Xârâcùù	10	THINK	nârâ	Nominalization alternation	Regularly	
+Xârâcùù	10	THINK	nârâ	Object Omission alternation	No data	
+Xârâcùù	10	THINK	nârâ	Oblique/Direct alternation	No data	
+Xârâcùù	10	THINK	nârâ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	11	SEARCH FOR	piicè	Ambitransitive Alternation 1	Never	
+Xârâcùù	11	SEARCH FOR	piicè	Ambitransitive Alternation 2	Never	
+Xârâcùù	11	SEARCH FOR	piicè	Applicative alternation	Never	
+Xârâcùù	11	SEARCH FOR	piicè	Causative alternation	Regularly	
+Xârâcùù	11	SEARCH FOR	piicè	Conative alternation	No data	
+Xârâcùù	11	SEARCH FOR	piicè	Impersonal alternation	Marginally	
+Xârâcùù	11	SEARCH FOR	piicè	Middle alternation	Never	
+Xârâcùù	11	SEARCH FOR	piicè	Nominalization alternation	Regularly	
+Xârâcùù	11	SEARCH FOR	piicè	Object Omission alternation	No data	
+Xârâcùù	11	SEARCH FOR	piicè	Oblique/Direct alternation	No data	
+Xârâcùù	11	SEARCH FOR	piicè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	12	WASH	ngûrû	Ambitransitive Alternation 1	No data	
+Xârâcùù	12	WASH	ngûrû	Ambitransitive Alternation 2	Never	
+Xârâcùù	12	WASH	ngûrû	Applicative alternation	Never	
+Xârâcùù	12	WASH	ngûrû	Causative alternation	Marginally	
+Xârâcùù	12	WASH	ngûrû	Conative alternation	No data	
+Xârâcùù	12	WASH	ngûrû	Impersonal alternation	No data	
+Xârâcùù	12	WASH	ngûrû	Middle alternation	Never	
+Xârâcùù	12	WASH	ngûrû	Nominalization alternation	Regularly	
+Xârâcùù	12	WASH	ngûrû	Object Omission alternation	No data	
+Xârâcùù	12	WASH	ngûrû	Oblique/Direct alternation	No data	
+Xârâcùù	12	WASH	ngûrû	Reflexive/Reciprocal omission alternation	Marginally	
+Xârâcùù	13	DRESS	famwâmwâ	Ambitransitive Alternation 1	Never	
+Xârâcùù	13	DRESS	famwâmwâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	13	DRESS	famwâmwâ	Applicative alternation	Never	
+Xârâcùù	13	DRESS	famwâmwâ	Causative alternation	Marginally	
+Xârâcùù	13	DRESS	famwâmwâ	Conative alternation	No data	
+Xârâcùù	13	DRESS	famwâmwâ	Impersonal alternation	No data	
+Xârâcùù	13	DRESS	famwâmwâ	Middle alternation	Never	
+Xârâcùù	13	DRESS	famwâmwâ	Nominalization alternation	Marginally	
+Xârâcùù	13	DRESS	famwâmwâ	Object Omission alternation	No data	
+Xârâcùù	13	DRESS	famwâmwâ	Oblique/Direct alternation	Never	
+Xârâcùù	13	DRESS	famwâmwâ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	15	HELP	ciiwi	Ambitransitive Alternation 1	Never	
+Xârâcùù	15	HELP	ciiwi	Ambitransitive Alternation 2	Never	
+Xârâcùù	15	HELP	ciiwi	Applicative alternation	Never	
+Xârâcùù	15	HELP	ciiwi	Causative alternation	Marginally	
+Xârâcùù	15	HELP	ciiwi	Conative alternation	No data	
+Xârâcùù	15	HELP	ciiwi	Impersonal alternation	No data	
+Xârâcùù	15	HELP	ciiwi	Middle alternation	No data	
+Xârâcùù	15	HELP	ciiwi	Nominalization alternation	Regularly	
+Xârâcùù	15	HELP	ciiwi	Object Omission alternation	Marginally	
+Xârâcùù	15	HELP	ciiwi	Oblique/Direct alternation	No data	
+Xârâcùù	15	HELP	ciiwi	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	16	FOLLOW	fèèté	Ambitransitive Alternation 1	Never	
+Xârâcùù	16	FOLLOW	fèèté	Ambitransitive Alternation 2	Never	
+Xârâcùù	16	FOLLOW	fèèté	Applicative alternation	Never	
+Xârâcùù	16	FOLLOW	fèèté	Causative alternation	Marginally	
+Xârâcùù	16	FOLLOW	fèèté	Conative alternation	Never	
+Xârâcùù	16	FOLLOW	fèèté	Impersonal alternation	No data	
+Xârâcùù	16	FOLLOW	fèèté	Middle alternation	No data	
+Xârâcùù	16	FOLLOW	fèèté	Nominalization alternation	Regularly	
+Xârâcùù	16	FOLLOW	fèèté	Object Omission alternation	No data	
+Xârâcùù	16	FOLLOW	fèèté	Oblique/Direct alternation	No data	
+Xârâcùù	16	FOLLOW	fèèté	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	17	MEET	pùùtè	Ambitransitive Alternation 1	Never	
+Xârâcùù	17	MEET	pùùtè	Ambitransitive Alternation 2	Never	
+Xârâcùù	17	MEET	pùùtè	Applicative alternation	Never	
+Xârâcùù	17	MEET	pùùtè	Causative alternation	Marginally	
+Xârâcùù	17	MEET	pùùtè	Conative alternation	Never	
+Xârâcùù	17	MEET	pùùtè	Impersonal alternation	No data	
+Xârâcùù	17	MEET	pùùtè	Middle alternation	Regularly	
+Xârâcùù	17	MEET	pùùtè	Nominalization alternation	Regularly	
+Xârâcùù	17	MEET	pùùtè	Object Omission alternation	Never	
+Xârâcùù	17	MEET	pùùtè	Oblique/Direct alternation	No data	
+Xârâcùù	17	MEET	pùùtè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	18	TALK	tèpe	Ambitransitive Alternation 1	Never	
+Xârâcùù	18	TALK	tèpe	Ambitransitive Alternation 2	Never	
+Xârâcùù	18	TALK	tèpe	Applicative alternation	Never	
+Xârâcùù	18	TALK	tèpe	Causative alternation	Regularly	
+Xârâcùù	18	TALK	tèpe	Conative alternation	No data	
+Xârâcùù	18	TALK	tèpe	Impersonal alternation	No data	
+Xârâcùù	18	TALK	tèpe	Middle alternation	Never	
+Xârâcùù	18	TALK	tèpe	Nominalization alternation	Regularly	
+Xârâcùù	18	TALK	tèpe	Object Omission alternation	Regularly	
+Xârâcùù	18	TALK	tèpe	Oblique/Direct alternation	No data	
+Xârâcùù	18	TALK	tèpe	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	19	ASK FOR	nââ	Ambitransitive Alternation 1	Never	
+Xârâcùù	19	ASK FOR	nââ	Ambitransitive Alternation 2	Never	
+Xârâcùù	19	ASK FOR	nââ	Applicative alternation	Never	
+Xârâcùù	19	ASK FOR	nââ	Causative alternation	Never	
+Xârâcùù	19	ASK FOR	nââ	Conative alternation	No data	
+Xârâcùù	19	ASK FOR	nââ	Impersonal alternation	No data	
+Xârâcùù	19	ASK FOR	nââ	Middle alternation	No data	
+Xârâcùù	19	ASK FOR	nââ	Nominalization alternation	Regularly	
+Xârâcùù	19	ASK FOR	nââ	Object Omission alternation	Never	
+Xârâcùù	19	ASK FOR	nââ	Oblique/Direct alternation	No data	
+Xârâcùù	19	ASK FOR	nââ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	19	ASK FOR	nêgé	Ambitransitive Alternation 1	Never	
+Xârâcùù	19	ASK FOR	nêgé	Ambitransitive Alternation 2	Never	
+Xârâcùù	19	ASK FOR	nêgé	Applicative alternation	Never	
+Xârâcùù	19	ASK FOR	nêgé	Causative alternation	Regularly	
+Xârâcùù	19	ASK FOR	nêgé	Conative alternation	No data	
+Xârâcùù	19	ASK FOR	nêgé	Impersonal alternation	Never	
+Xârâcùù	19	ASK FOR	nêgé	Middle alternation	Never	
+Xârâcùù	19	ASK FOR	nêgé	Nominalization alternation	Regularly	
+Xârâcùù	19	ASK FOR	nêgé	Object Omission alternation	Marginally	
+Xârâcùù	19	ASK FOR	nêgé	Oblique/Direct alternation	Never	
+Xârâcùù	19	ASK FOR	nêgé	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	20	SHOUT AT	xangââ	Ambitransitive Alternation 1	Never	
+Xârâcùù	20	SHOUT AT	xangââ	Ambitransitive Alternation 2	Never	
+Xârâcùù	20	SHOUT AT	xangââ	Applicative alternation	Never	
+Xârâcùù	20	SHOUT AT	xangââ	Causative alternation	Regularly	
+Xârâcùù	20	SHOUT AT	xangââ	Conative alternation	No data	
+Xârâcùù	20	SHOUT AT	xangââ	Impersonal alternation	No data	
+Xârâcùù	20	SHOUT AT	xangââ	Middle alternation	Never	
+Xârâcùù	20	SHOUT AT	xangââ	Nominalization alternation	Regularly	
+Xârâcùù	20	SHOUT AT	xangââ	Object Omission alternation	No data	
+Xârâcùù	20	SHOUT AT	xangââ	Oblique/Direct alternation	No data	
+Xârâcùù	20	SHOUT AT	xangââ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	21	TELL	faxwata	Ambitransitive Alternation 1	Never	
+Xârâcùù	21	TELL	faxwata	Ambitransitive Alternation 2	Never	
+Xârâcùù	21	TELL	faxwata	Applicative alternation	Never	
+Xârâcùù	21	TELL	faxwata	Causative alternation	Marginally	
+Xârâcùù	21	TELL	faxwata	Conative alternation	No data	
+Xârâcùù	21	TELL	faxwata	Impersonal alternation	No data	
+Xârâcùù	21	TELL	faxwata	Middle alternation	Never	
+Xârâcùù	21	TELL	faxwata	Nominalization alternation	Regularly	
+Xârâcùù	21	TELL	faxwata	Object Omission alternation	No data	
+Xârâcùù	21	TELL	faxwata	Oblique/Direct alternation	Regularly	
+Xârâcùù	21	TELL	faxwata	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	21	TELL	sömârâ	Ambitransitive Alternation 1	Never	
+Xârâcùù	21	TELL	sömârâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	21	TELL	sömârâ	Applicative alternation	Never	
+Xârâcùù	21	TELL	sömârâ	Causative alternation	Marginally	
+Xârâcùù	21	TELL	sömârâ	Conative alternation	No data	
+Xârâcùù	21	TELL	sömârâ	Impersonal alternation	No data	
+Xârâcùù	21	TELL	sömârâ	Middle alternation	Never	
+Xârâcùù	21	TELL	sömârâ	Nominalization alternation	Regularly	
+Xârâcùù	21	TELL	sömârâ	Object Omission alternation	No data	
+Xârâcùù	21	TELL	sömârâ	Oblique/Direct alternation	No data	
+Xârâcùù	21	TELL	sömârâ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	22	SAY	ché	Ambitransitive Alternation 1	Never	
+Xârâcùù	22	SAY	ché	Ambitransitive Alternation 2	Never	
+Xârâcùù	22	SAY	ché	Applicative alternation	Never	
+Xârâcùù	22	SAY	ché	Causative alternation	Regularly	
+Xârâcùù	22	SAY	ché	Conative alternation	No data	
+Xârâcùù	22	SAY	ché	Impersonal alternation	No data	
+Xârâcùù	22	SAY	ché	Middle alternation	No data	
+Xârâcùù	22	SAY	ché	Nominalization alternation	Regularly	
+Xârâcùù	22	SAY	ché	Object Omission alternation	Marginally	
+Xârâcùù	22	SAY	ché	Oblique/Direct alternation	No data	
+Xârâcùù	22	SAY	ché	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	23	NAME	xacè	Ambitransitive Alternation 1	No data	
+Xârâcùù	23	NAME	xacè	Ambitransitive Alternation 2	Never	
+Xârâcùù	23	NAME	xacè	Applicative alternation	Never	
+Xârâcùù	23	NAME	xacè	Causative alternation	Regularly	
+Xârâcùù	23	NAME	xacè	Conative alternation	No data	
+Xârâcùù	23	NAME	xacè	Impersonal alternation	No data	
+Xârâcùù	23	NAME	xacè	Middle alternation	Never	
+Xârâcùù	23	NAME	xacè	Nominalization alternation	Marginally	
+Xârâcùù	23	NAME	xacè	Object Omission alternation	No data	
+Xârâcùù	23	NAME	xacè	Oblique/Direct alternation	Regularly	
+Xârâcùù	23	NAME	xacè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	24	BUILD	xwi	Ambitransitive Alternation 1	Regularly	
+Xârâcùù	24	BUILD	xwi	Ambitransitive Alternation 2	Never	
+Xârâcùù	24	BUILD	xwi	Applicative alternation	Never	
+Xârâcùù	24	BUILD	xwi	Causative alternation	Regularly	
+Xârâcùù	24	BUILD	xwi	Conative alternation	No data	
+Xârâcùù	24	BUILD	xwi	Impersonal alternation	No data	
+Xârâcùù	24	BUILD	xwi	Middle alternation	Never	
+Xârâcùù	24	BUILD	xwi	Nominalization alternation	Regularly	
+Xârâcùù	24	BUILD	xwi	Object Omission alternation	No data	
+Xârâcùù	24	BUILD	xwi	Oblique/Direct alternation	No data	
+Xârâcùù	24	BUILD	xwi	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	25	BREAK	jikörö	Ambitransitive Alternation 1	Never	
+Xârâcùù	25	BREAK	jikörö	Ambitransitive Alternation 2	Never	
+Xârâcùù	25	BREAK	jikörö	Applicative alternation	Never	
+Xârâcùù	25	BREAK	jikörö	Causative alternation	Marginally	
+Xârâcùù	25	BREAK	jikörö	Conative alternation	No data	
+Xârâcùù	25	BREAK	jikörö	Impersonal alternation	No data	
+Xârâcùù	25	BREAK	jikörö	Middle alternation	Never	
+Xârâcùù	25	BREAK	jikörö	Nominalization alternation	Marginally	
+Xârâcùù	25	BREAK	jikörö	Object Omission alternation	No data	
+Xârâcùù	25	BREAK	jikörö	Oblique/Direct alternation	No data	
+Xârâcùù	25	BREAK	jikörö	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	26	KILL	pwââmè	Ambitransitive Alternation 1	Never	
+Xârâcùù	26	KILL	pwââmè	Ambitransitive Alternation 2	Never	
+Xârâcùù	26	KILL	pwââmè	Applicative alternation	Never	
+Xârâcùù	26	KILL	pwââmè	Causative alternation	Regularly	
+Xârâcùù	26	KILL	pwââmè	Conative alternation	No data	
+Xârâcùù	26	KILL	pwââmè	Impersonal alternation	No data	
+Xârâcùù	26	KILL	pwââmè	Middle alternation	Never	
+Xârâcùù	26	KILL	pwââmè	Nominalization alternation	Regularly	
+Xârâcùù	26	KILL	pwââmè	Object Omission alternation	No data	
+Xârâcùù	26	KILL	pwââmè	Oblique/Direct alternation	No data	
+Xârâcùù	26	KILL	pwââmè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Ambitransitive Alternation 1	Never	
+Xârâcùù	26	KILL	pwèkè	Ambitransitive Alternation 2	Never	
+Xârâcùù	26	KILL	pwèkè	Applicative alternation	Never	
+Xârâcùù	26	KILL	pwèkè	Causative alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Conative alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Impersonal alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Middle alternation	Never	
+Xârâcùù	26	KILL	pwèkè	Nominalization alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Object Omission alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Oblique/Direct alternation	No data	
+Xârâcùù	26	KILL	pwèkè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	26	KILL	sa	Ambitransitive Alternation 1	Never	
+Xârâcùù	26	KILL	sa	Ambitransitive Alternation 2	Never	
+Xârâcùù	26	KILL	sa	Applicative alternation	Never	
+Xârâcùù	26	KILL	sa	Causative alternation	Regularly	
+Xârâcùù	26	KILL	sa	Conative alternation	No data	
+Xârâcùù	26	KILL	sa	Impersonal alternation	No data	
+Xârâcùù	26	KILL	sa	Middle alternation	No data	
+Xârâcùù	26	KILL	sa	Nominalization alternation	Regularly	
+Xârâcùù	26	KILL	sa	Object Omission alternation	No data	
+Xârâcùù	26	KILL	sa	Oblique/Direct alternation	Never	
+Xârâcùù	26	KILL	sa	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	26	KILL	söömè	Ambitransitive Alternation 1	Never	
+Xârâcùù	26	KILL	söömè	Ambitransitive Alternation 2	Never	
+Xârâcùù	26	KILL	söömè	Applicative alternation	Never	
+Xârâcùù	26	KILL	söömè	Causative alternation	No data	
+Xârâcùù	26	KILL	söömè	Conative alternation	No data	
+Xârâcùù	26	KILL	söömè	Impersonal alternation	No data	
+Xârâcùù	26	KILL	söömè	Middle alternation	Never	
+Xârâcùù	26	KILL	söömè	Nominalization alternation	Regularly	
+Xârâcùù	26	KILL	söömè	Object Omission alternation	No data	
+Xârâcùù	26	KILL	söömè	Oblique/Direct alternation	No data	
+Xârâcùù	26	KILL	söömè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	27	BEAT	fîgai	Ambitransitive Alternation 1	Never	
+Xârâcùù	27	BEAT	fîgai	Ambitransitive Alternation 2	Never	
+Xârâcùù	27	BEAT	fîgai	Applicative alternation	Never	
+Xârâcùù	27	BEAT	fîgai	Causative alternation	Regularly	
+Xârâcùù	27	BEAT	fîgai	Conative alternation	No data	
+Xârâcùù	27	BEAT	fîgai	Impersonal alternation	No data	
+Xârâcùù	27	BEAT	fîgai	Middle alternation	Never	
+Xârâcùù	27	BEAT	fîgai	Nominalization alternation	Regularly	
+Xârâcùù	27	BEAT	fîgai	Object Omission alternation	No data	
+Xârâcùù	27	BEAT	fîgai	Oblique/Direct alternation	No data	
+Xârâcùù	27	BEAT	fîgai	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	28	HIT	chëi	Ambitransitive Alternation 1	Never	
+Xârâcùù	28	HIT	chëi	Ambitransitive Alternation 2	Never	
+Xârâcùù	28	HIT	chëi	Applicative alternation	Never	
+Xârâcùù	28	HIT	chëi	Causative alternation	Regularly	
+Xârâcùù	28	HIT	chëi	Conative alternation	No data	
+Xârâcùù	28	HIT	chëi	Impersonal alternation	No data	
+Xârâcùù	28	HIT	chëi	Middle alternation	Never	
+Xârâcùù	28	HIT	chëi	Nominalization alternation	Regularly	
+Xârâcùù	28	HIT	chëi	Object Omission alternation	No data	
+Xârâcùù	28	HIT	chëi	Oblique/Direct alternation	Marginally	
+Xârâcùù	28	HIT	chëi	Reflexive/Reciprocal omission alternation	Marginally	
+Xârâcùù	28	HIT	fîda	Ambitransitive Alternation 1	Never	
+Xârâcùù	28	HIT	fîda	Ambitransitive Alternation 2	Never	
+Xârâcùù	28	HIT	fîda	Applicative alternation	Never	
+Xârâcùù	28	HIT	fîda	Causative alternation	Regularly	
+Xârâcùù	28	HIT	fîda	Conative alternation	No data	
+Xârâcùù	28	HIT	fîda	Impersonal alternation	No data	
+Xârâcùù	28	HIT	fîda	Middle alternation	Never	
+Xârâcùù	28	HIT	fîda	Nominalization alternation	Regularly	
+Xârâcùù	28	HIT	fîda	Object Omission alternation	No data	
+Xârâcùù	28	HIT	fîda	Oblique/Direct alternation	No data	
+Xârâcùù	28	HIT	fîda	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	29	TOUCH	sakai	Ambitransitive Alternation 1	Never	
+Xârâcùù	29	TOUCH	sakai	Ambitransitive Alternation 2	Never	
+Xârâcùù	29	TOUCH	sakai	Applicative alternation	Never	
+Xârâcùù	29	TOUCH	sakai	Causative alternation	Regularly	
+Xârâcùù	29	TOUCH	sakai	Conative alternation	No data	
+Xârâcùù	29	TOUCH	sakai	Impersonal alternation	No data	
+Xârâcùù	29	TOUCH	sakai	Middle alternation	Never	
+Xârâcùù	29	TOUCH	sakai	Nominalization alternation	Regularly	
+Xârâcùù	29	TOUCH	sakai	Object Omission alternation	No data	
+Xârâcùù	29	TOUCH	sakai	Oblique/Direct alternation	No data	
+Xârâcùù	29	TOUCH	sakai	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Ambitransitive Alternation 1	Never	
+Xârâcùù	29	TOUCH	xâânîî	Ambitransitive Alternation 2	Never	
+Xârâcùù	29	TOUCH	xâânîî	Applicative alternation	Never	
+Xârâcùù	29	TOUCH	xâânîî	Causative alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Conative alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Impersonal alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Middle alternation	Never	
+Xârâcùù	29	TOUCH	xâânîî	Nominalization alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Object Omission alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Oblique/Direct alternation	No data	
+Xârâcùù	29	TOUCH	xâânîî	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	30	CUT	söpuru	Ambitransitive Alternation 1	Never	
+Xârâcùù	30	CUT	söpuru	Ambitransitive Alternation 2	Never	
+Xârâcùù	30	CUT	söpuru	Applicative alternation	Never	
+Xârâcùù	30	CUT	söpuru	Causative alternation	Regularly	
+Xârâcùù	30	CUT	söpuru	Conative alternation	No data	
+Xârâcùù	30	CUT	söpuru	Impersonal alternation	No data	
+Xârâcùù	30	CUT	söpuru	Middle alternation	Never	
+Xârâcùù	30	CUT	söpuru	Nominalization alternation	Regularly	
+Xârâcùù	30	CUT	söpuru	Object Omission alternation	No data	
+Xârâcùù	30	CUT	söpuru	Oblique/Direct alternation	No data	
+Xârâcùù	30	CUT	söpuru	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	31	TAKE	pè	Ambitransitive Alternation 1	Never	
+Xârâcùù	31	TAKE	pè	Ambitransitive Alternation 2	Never	
+Xârâcùù	31	TAKE	pè	Applicative alternation	Never	
+Xârâcùù	31	TAKE	pè	Causative alternation	Regularly	
+Xârâcùù	31	TAKE	pè	Conative alternation	No data	
+Xârâcùù	31	TAKE	pè	Impersonal alternation	No data	
+Xârâcùù	31	TAKE	pè	Middle alternation	Marginally	
+Xârâcùù	31	TAKE	pè	Nominalization alternation	Regularly	
+Xârâcùù	31	TAKE	pè	Object Omission alternation	No data	
+Xârâcùù	31	TAKE	pè	Oblique/Direct alternation	No data	
+Xârâcùù	31	TAKE	pè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	32	TEAR	chètia	Ambitransitive Alternation 1	Never	
+Xârâcùù	32	TEAR	chètia	Ambitransitive Alternation 2	Never	
+Xârâcùù	32	TEAR	chètia	Applicative alternation	Never	
+Xârâcùù	32	TEAR	chètia	Causative alternation	Regularly	
+Xârâcùù	32	TEAR	chètia	Conative alternation	No data	
+Xârâcùù	32	TEAR	chètia	Impersonal alternation	Never	
+Xârâcùù	32	TEAR	chètia	Middle alternation	Never	
+Xârâcùù	32	TEAR	chètia	Nominalization alternation	Regularly	
+Xârâcùù	32	TEAR	chètia	Object Omission alternation	Never	
+Xârâcùù	32	TEAR	chètia	Oblique/Direct alternation	No data	
+Xârâcùù	32	TEAR	chètia	Reflexive/Reciprocal omission alternation	Marginally	
+Xârâcùù	33	PEEL	cee	Ambitransitive Alternation 1	Never	
+Xârâcùù	33	PEEL	cee	Ambitransitive Alternation 2	Never	
+Xârâcùù	33	PEEL	cee	Applicative alternation	Never	
+Xârâcùù	33	PEEL	cee	Causative alternation	Regularly	
+Xârâcùù	33	PEEL	cee	Conative alternation	No data	
+Xârâcùù	33	PEEL	cee	Impersonal alternation	No data	
+Xârâcùù	33	PEEL	cee	Middle alternation	Never	
+Xârâcùù	33	PEEL	cee	Nominalization alternation	Regularly	
+Xârâcùù	33	PEEL	cee	Object Omission alternation	Regularly	
+Xârâcùù	33	PEEL	cee	Oblique/Direct alternation	No data	
+Xârâcùù	33	PEEL	cee	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	33	PEEL	tapöru	Ambitransitive Alternation 1	Never	
+Xârâcùù	33	PEEL	tapöru	Ambitransitive Alternation 2	Never	
+Xârâcùù	33	PEEL	tapöru	Applicative alternation	Never	
+Xârâcùù	33	PEEL	tapöru	Causative alternation	Regularly	
+Xârâcùù	33	PEEL	tapöru	Conative alternation	No data	
+Xârâcùù	33	PEEL	tapöru	Impersonal alternation	No data	
+Xârâcùù	33	PEEL	tapöru	Middle alternation	Never	
+Xârâcùù	33	PEEL	tapöru	Nominalization alternation	Marginally	
+Xârâcùù	33	PEEL	tapöru	Object Omission alternation	No data	
+Xârâcùù	33	PEEL	tapöru	Oblique/Direct alternation	No data	
+Xârâcùù	33	PEEL	tapöru	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	34	HIDE	sûûârâ	Ambitransitive Alternation 1	Never	
+Xârâcùù	34	HIDE	sûûârâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	34	HIDE	sûûârâ	Applicative alternation	Never	
+Xârâcùù	34	HIDE	sûûârâ	Causative alternation	Marginally	
+Xârâcùù	34	HIDE	sûûârâ	Conative alternation	No data	
+Xârâcùù	34	HIDE	sûûârâ	Impersonal alternation	No data	
+Xârâcùù	34	HIDE	sûûârâ	Middle alternation	Never	
+Xârâcùù	34	HIDE	sûûârâ	Nominalization alternation	Regularly	
+Xârâcùù	34	HIDE	sûûârâ	Object Omission alternation	No data	
+Xârâcùù	34	HIDE	sûûârâ	Oblique/Direct alternation	No data	
+Xârâcùù	34	HIDE	sûûârâ	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	35	SHOW	xacië	Ambitransitive Alternation 1	Never	
+Xârâcùù	35	SHOW	xacië	Ambitransitive Alternation 2	Never	
+Xârâcùù	35	SHOW	xacië	Applicative alternation	Never	
+Xârâcùù	35	SHOW	xacië	Causative alternation	Regularly	
+Xârâcùù	35	SHOW	xacië	Conative alternation	No data	
+Xârâcùù	35	SHOW	xacië	Impersonal alternation	Marginally	
+Xârâcùù	35	SHOW	xacië	Middle alternation	Never	
+Xârâcùù	35	SHOW	xacië	Nominalization alternation	Regularly	
+Xârâcùù	35	SHOW	xacië	Object Omission alternation	No data	
+Xârâcùù	35	SHOW	xacië	Oblique/Direct alternation	No data	
+Xârâcùù	35	SHOW	xacië	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	36	GIVE	xù	Ambitransitive Alternation 1	Never	
+Xârâcùù	36	GIVE	xù	Ambitransitive Alternation 2	Never	
+Xârâcùù	36	GIVE	xù	Applicative alternation	Never	
+Xârâcùù	36	GIVE	xù	Causative alternation	Never	
+Xârâcùù	36	GIVE	xù	Conative alternation	No data	
+Xârâcùù	36	GIVE	xù	Impersonal alternation	No data	
+Xârâcùù	36	GIVE	xù	Middle alternation	Marginally	
+Xârâcùù	36	GIVE	xù	Nominalization alternation	Regularly	
+Xârâcùù	36	GIVE	xù	Object Omission alternation	No data	
+Xârâcùù	36	GIVE	xù	Oblique/Direct alternation	Marginally	
+Xârâcùù	36	GIVE	xù	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	37	SEND	nû	Ambitransitive Alternation 1	Never	
+Xârâcùù	37	SEND	nû	Ambitransitive Alternation 2	Never	
+Xârâcùù	37	SEND	nû	Applicative alternation	Never	
+Xârâcùù	37	SEND	nû	Causative alternation	Regularly	
+Xârâcùù	37	SEND	nû	Conative alternation	No data	
+Xârâcùù	37	SEND	nû	Impersonal alternation	Marginally	
+Xârâcùù	37	SEND	nû	Middle alternation	Never	
+Xârâcùù	37	SEND	nû	Nominalization alternation	Regularly	
+Xârâcùù	37	SEND	nû	Object Omission alternation	No data	
+Xârâcùù	37	SEND	nû	Oblique/Direct alternation	No data	
+Xârâcùù	37	SEND	nû	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	38	CARRY	akö	Ambitransitive Alternation 1	Never	
+Xârâcùù	38	CARRY	akö	Ambitransitive Alternation 2	Never	
+Xârâcùù	38	CARRY	akö	Applicative alternation	Never	
+Xârâcùù	38	CARRY	akö	Causative alternation	Regularly	
+Xârâcùù	38	CARRY	akö	Conative alternation	Never	
+Xârâcùù	38	CARRY	akö	Impersonal alternation	No data	
+Xârâcùù	38	CARRY	akö	Middle alternation	Never	
+Xârâcùù	38	CARRY	akö	Nominalization alternation	Regularly	
+Xârâcùù	38	CARRY	akö	Object Omission alternation	Regularly	
+Xârâcùù	38	CARRY	akö	Oblique/Direct alternation	Never	
+Xârâcùù	38	CARRY	akö	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Ambitransitive Alternation 1	Never	
+Xârâcùù	38	CARRY	pè mê	Ambitransitive Alternation 2	Never	
+Xârâcùù	38	CARRY	pè mê	Applicative alternation	Never	
+Xârâcùù	38	CARRY	pè mê	Causative alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Conative alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Impersonal alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Middle alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Nominalization alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Object Omission alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Oblique/Direct alternation	No data	
+Xârâcùù	38	CARRY	pè mê	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	39	THROW	gwéré	Ambitransitive Alternation 1	Never	
+Xârâcùù	39	THROW	gwéré	Ambitransitive Alternation 2	Never	
+Xârâcùù	39	THROW	gwéré	Applicative alternation	Never	
+Xârâcùù	39	THROW	gwéré	Causative alternation	Regularly	
+Xârâcùù	39	THROW	gwéré	Conative alternation	No data	
+Xârâcùù	39	THROW	gwéré	Impersonal alternation	Never	
+Xârâcùù	39	THROW	gwéré	Middle alternation	Never	
+Xârâcùù	39	THROW	gwéré	Nominalization alternation	Regularly	
+Xârâcùù	39	THROW	gwéré	Object Omission alternation	No data	
+Xârâcùù	39	THROW	gwéré	Oblique/Direct alternation	No data	
+Xârâcùù	39	THROW	gwéré	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	39	THROW	tê	Ambitransitive Alternation 1	Never	
+Xârâcùù	39	THROW	tê	Ambitransitive Alternation 2	Never	
+Xârâcùù	39	THROW	tê	Applicative alternation	Never	
+Xârâcùù	39	THROW	tê	Causative alternation	Regularly	
+Xârâcùù	39	THROW	tê	Conative alternation	No data	
+Xârâcùù	39	THROW	tê	Impersonal alternation	No data	
+Xârâcùù	39	THROW	tê	Middle alternation	Never	
+Xârâcùù	39	THROW	tê	Nominalization alternation	Regularly	
+Xârâcùù	39	THROW	tê	Object Omission alternation	No data	
+Xârâcùù	39	THROW	tê	Oblique/Direct alternation	No data	
+Xârâcùù	39	THROW	tê	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	40	TIE	curu	Ambitransitive Alternation 1	Never	
+Xârâcùù	40	TIE	curu	Ambitransitive Alternation 2	Never	
+Xârâcùù	40	TIE	curu	Applicative alternation	Never	
+Xârâcùù	40	TIE	curu	Causative alternation	Regularly	
+Xârâcùù	40	TIE	curu	Conative alternation	No data	
+Xârâcùù	40	TIE	curu	Impersonal alternation	Never	
+Xârâcùù	40	TIE	curu	Middle alternation	Never	
+Xârâcùù	40	TIE	curu	Nominalization alternation	Regularly	
+Xârâcùù	40	TIE	curu	Object Omission alternation	Regularly	
+Xârâcùù	40	TIE	curu	Oblique/Direct alternation	No data	
+Xârâcùù	40	TIE	curu	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	40	TIE	fëi	Ambitransitive Alternation 1	Never	
+Xârâcùù	40	TIE	fëi	Ambitransitive Alternation 2	Never	
+Xârâcùù	40	TIE	fëi	Applicative alternation	Never	
+Xârâcùù	40	TIE	fëi	Causative alternation	Marginally	
+Xârâcùù	40	TIE	fëi	Conative alternation	No data	
+Xârâcùù	40	TIE	fëi	Impersonal alternation	No data	
+Xârâcùù	40	TIE	fëi	Middle alternation	Never	
+Xârâcùù	40	TIE	fëi	Nominalization alternation	Marginally	
+Xârâcùù	40	TIE	fëi	Object Omission alternation	No data	
+Xârâcùù	40	TIE	fëi	Oblique/Direct alternation	No data	
+Xârâcùù	40	TIE	fëi	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	41	PUT	suè	Ambitransitive Alternation 1	Never	
+Xârâcùù	41	PUT	suè	Ambitransitive Alternation 2	Never	
+Xârâcùù	41	PUT	suè	Applicative alternation	Never	
+Xârâcùù	41	PUT	suè	Causative alternation	Regularly	
+Xârâcùù	41	PUT	suè	Conative alternation	No data	
+Xârâcùù	41	PUT	suè	Impersonal alternation	Never	
+Xârâcùù	41	PUT	suè	Middle alternation	Never	
+Xârâcùù	41	PUT	suè	Nominalization alternation	Regularly	
+Xârâcùù	41	PUT	suè	Object Omission alternation	No data	
+Xârâcùù	41	PUT	suè	Oblique/Direct alternation	No data	
+Xârâcùù	41	PUT	suè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	42	POUR	xwêê	Ambitransitive Alternation 1	Regularly	
+Xârâcùù	42	POUR	xwêê	Ambitransitive Alternation 2	Never	
+Xârâcùù	42	POUR	xwêê	Applicative alternation	Never	
+Xârâcùù	42	POUR	xwêê	Causative alternation	Regularly	
+Xârâcùù	42	POUR	xwêê	Conative alternation	No data	
+Xârâcùù	42	POUR	xwêê	Impersonal alternation	No data	
+Xârâcùù	42	POUR	xwêê	Middle alternation	Never	
+Xârâcùù	42	POUR	xwêê	Nominalization alternation	Regularly	
+Xârâcùù	42	POUR	xwêê	Object Omission alternation	Never	
+Xârâcùù	42	POUR	xwêê	Oblique/Direct alternation	Never	
+Xârâcùù	42	POUR	xwêê	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	43	COVER	kasache	Ambitransitive Alternation 1	Never	
+Xârâcùù	43	COVER	kasache	Ambitransitive Alternation 2	Never	
+Xârâcùù	43	COVER	kasache	Applicative alternation	Never	
+Xârâcùù	43	COVER	kasache	Causative alternation	Regularly	
+Xârâcùù	43	COVER	kasache	Conative alternation	No data	
+Xârâcùù	43	COVER	kasache	Impersonal alternation	No data	
+Xârâcùù	43	COVER	kasache	Middle alternation	Never	
+Xârâcùù	43	COVER	kasache	Nominalization alternation	Regularly	
+Xârâcùù	43	COVER	kasache	Object Omission alternation	No data	
+Xârâcùù	43	COVER	kasache	Oblique/Direct alternation	No data	
+Xârâcùù	43	COVER	kasache	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	43	COVER	sache	Ambitransitive Alternation 1	No data	
+Xârâcùù	43	COVER	sache	Ambitransitive Alternation 2	Never	
+Xârâcùù	43	COVER	sache	Applicative alternation	Never	
+Xârâcùù	43	COVER	sache	Causative alternation	Marginally	
+Xârâcùù	43	COVER	sache	Conative alternation	No data	
+Xârâcùù	43	COVER	sache	Impersonal alternation	No data	
+Xârâcùù	43	COVER	sache	Middle alternation	Never	
+Xârâcùù	43	COVER	sache	Nominalization alternation	Regularly	
+Xârâcùù	43	COVER	sache	Object Omission alternation	No data	
+Xârâcùù	43	COVER	sache	Oblique/Direct alternation	No data	
+Xârâcùù	43	COVER	sache	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	44	FILL	faxûda	Ambitransitive Alternation 1	Never	
+Xârâcùù	44	FILL	faxûda	Ambitransitive Alternation 2	Never	
+Xârâcùù	44	FILL	faxûda	Applicative alternation	Never	
+Xârâcùù	44	FILL	faxûda	Causative alternation	Regularly	
+Xârâcùù	44	FILL	faxûda	Conative alternation	No data	
+Xârâcùù	44	FILL	faxûda	Impersonal alternation	Never	
+Xârâcùù	44	FILL	faxûda	Middle alternation	Never	
+Xârâcùù	44	FILL	faxûda	Nominalization alternation	Regularly	
+Xârâcùù	44	FILL	faxûda	Object Omission alternation	No data	
+Xârâcùù	44	FILL	faxûda	Oblique/Direct alternation	No data	
+Xârâcùù	44	FILL	faxûda	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	45	LOAD	nîî	Ambitransitive Alternation 1	Never	
+Xârâcùù	45	LOAD	nîî	Ambitransitive Alternation 2	Never	
+Xârâcùù	45	LOAD	nîî	Applicative alternation	Never	
+Xârâcùù	45	LOAD	nîî	Causative alternation	Regularly	
+Xârâcùù	45	LOAD	nîî	Conative alternation	No data	
+Xârâcùù	45	LOAD	nîî	Impersonal alternation	Never	
+Xârâcùù	45	LOAD	nîî	Middle alternation	No data	
+Xârâcùù	45	LOAD	nîî	Nominalization alternation	Regularly	
+Xârâcùù	45	LOAD	nîî	Object Omission alternation	No data	
+Xârâcùù	45	LOAD	nîî	Oblique/Direct alternation	No data	
+Xârâcùù	45	LOAD	nîî	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	46	BLINK	nimè	Ambitransitive Alternation 1	Never	
+Xârâcùù	46	BLINK	nimè	Ambitransitive Alternation 2	Never	
+Xârâcùù	46	BLINK	nimè	Applicative alternation	Never	
+Xârâcùù	46	BLINK	nimè	Causative alternation	Regularly	
+Xârâcùù	46	BLINK	nimè	Conative alternation	Never	
+Xârâcùù	46	BLINK	nimè	Impersonal alternation	No data	
+Xârâcùù	46	BLINK	nimè	Middle alternation	Never	
+Xârâcùù	46	BLINK	nimè	Nominalization alternation	Regularly	
+Xârâcùù	46	BLINK	nimè	Object Omission alternation	Never	
+Xârâcùù	46	BLINK	nimè	Oblique/Direct alternation	No data	
+Xârâcùù	46	BLINK	nimè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	47	COUGH	chèxô	Ambitransitive Alternation 1	Never	
+Xârâcùù	47	COUGH	chèxô	Ambitransitive Alternation 2	Never	
+Xârâcùù	47	COUGH	chèxô	Applicative alternation	Never	
+Xârâcùù	47	COUGH	chèxô	Causative alternation	Regularly	
+Xârâcùù	47	COUGH	chèxô	Conative alternation	Never	
+Xârâcùù	47	COUGH	chèxô	Impersonal alternation	No data	
+Xârâcùù	47	COUGH	chèxô	Middle alternation	Never	
+Xârâcùù	47	COUGH	chèxô	Nominalization alternation	Marginally	
+Xârâcùù	47	COUGH	chèxô	Object Omission alternation	Never	
+Xârâcùù	47	COUGH	chèxô	Oblique/Direct alternation	No data	
+Xârâcùù	47	COUGH	chèxô	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	48	CLIMB	péré	Ambitransitive Alternation 1	Never	
+Xârâcùù	48	CLIMB	péré	Ambitransitive Alternation 2	Never	
+Xârâcùù	48	CLIMB	péré	Applicative alternation	Never	
+Xârâcùù	48	CLIMB	péré	Causative alternation	Regularly	
+Xârâcùù	48	CLIMB	péré	Conative alternation	Never	
+Xârâcùù	48	CLIMB	péré	Impersonal alternation	No data	
+Xârâcùù	48	CLIMB	péré	Middle alternation	Never	
+Xârâcùù	48	CLIMB	péré	Nominalization alternation	Regularly	
+Xârâcùù	48	CLIMB	péré	Object Omission alternation	Regularly	
+Xârâcùù	48	CLIMB	péré	Oblique/Direct alternation	Never	
+Xârâcùù	48	CLIMB	péré	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Ambitransitive Alternation 1	Never	
+Xârâcùù	49	RUN	pûxûrû	Ambitransitive Alternation 2	Never	
+Xârâcùù	49	RUN	pûxûrû	Applicative alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Causative alternation	Marginally	
+Xârâcùù	49	RUN	pûxûrû	Conative alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Impersonal alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Middle alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Nominalization alternation	Regularly	
+Xârâcùù	49	RUN	pûxûrû	Object Omission alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Oblique/Direct alternation	Never	
+Xârâcùù	49	RUN	pûxûrû	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	50	SIT	cuè	Ambitransitive Alternation 1	Never	
+Xârâcùù	50	SIT	cuè	Ambitransitive Alternation 2	Never	
+Xârâcùù	50	SIT	cuè	Applicative alternation	Never	
+Xârâcùù	50	SIT	cuè	Causative alternation	Regularly	
+Xârâcùù	50	SIT	cuè	Conative alternation	Never	
+Xârâcùù	50	SIT	cuè	Impersonal alternation	No data	
+Xârâcùù	50	SIT	cuè	Middle alternation	Regularly	
+Xârâcùù	50	SIT	cuè	Nominalization alternation	Regularly	
+Xârâcùù	50	SIT	cuè	Object Omission alternation	Never	
+Xârâcùù	50	SIT	cuè	Oblique/Direct alternation	Never	
+Xârâcùù	50	SIT	cuè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Ambitransitive Alternation 1	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Ambitransitive Alternation 2	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Applicative alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Causative alternation	Regularly	
+Xârâcùù	51	SIT DOWN	cuè chéé	Conative alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Impersonal alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Middle alternation	No data	
+Xârâcùù	51	SIT DOWN	cuè chéé	Nominalization alternation	Regularly	
+Xârâcùù	51	SIT DOWN	cuè chéé	Object Omission alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Oblique/Direct alternation	Never	
+Xârâcùù	51	SIT DOWN	cuè chéé	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	52	JUMP	cîchéé	Ambitransitive Alternation 1	Never	
+Xârâcùù	52	JUMP	cîchéé	Ambitransitive Alternation 2	Never	
+Xârâcùù	52	JUMP	cîchéé	Applicative alternation	Never	
+Xârâcùù	52	JUMP	cîchéé	Causative alternation	Regularly	
+Xârâcùù	52	JUMP	cîchéé	Conative alternation	No data	
+Xârâcùù	52	JUMP	cîchéé	Impersonal alternation	No data	
+Xârâcùù	52	JUMP	cîchéé	Middle alternation	Never	
+Xârâcùù	52	JUMP	cîchéé	Nominalization alternation	Regularly	
+Xârâcùù	52	JUMP	cîchéé	Object Omission alternation	Never	
+Xârâcùù	52	JUMP	cîchéé	Oblique/Direct alternation	Never	
+Xârâcùù	52	JUMP	cîchéé	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	53	SING	xô	Ambitransitive Alternation 1	Never	
+Xârâcùù	53	SING	xô	Ambitransitive Alternation 2	Never	
+Xârâcùù	53	SING	xô	Applicative alternation	Never	
+Xârâcùù	53	SING	xô	Causative alternation	Regularly	
+Xârâcùù	53	SING	xô	Conative alternation	No data	
+Xârâcùù	53	SING	xô	Impersonal alternation	No data	
+Xârâcùù	53	SING	xô	Middle alternation	No data	
+Xârâcùù	53	SING	xô	Nominalization alternation	Regularly	
+Xârâcùù	53	SING	xô	Object Omission alternation	Never	
+Xârâcùù	53	SING	xô	Oblique/Direct alternation	No data	
+Xârâcùù	53	SING	xô	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	54	GO	fè	Ambitransitive Alternation 1	Never	
+Xârâcùù	54	GO	fè	Ambitransitive Alternation 2	Never	
+Xârâcùù	54	GO	fè	Applicative alternation	Never	
+Xârâcùù	54	GO	fè	Causative alternation	Regularly	
+Xârâcùù	54	GO	fè	Conative alternation	Never	
+Xârâcùù	54	GO	fè	Impersonal alternation	No data	
+Xârâcùù	54	GO	fè	Middle alternation	Never	
+Xârâcùù	54	GO	fè	Nominalization alternation	Regularly	
+Xârâcùù	54	GO	fè	Object Omission alternation	Never	
+Xârâcùù	54	GO	fè	Oblique/Direct alternation	Never	
+Xârâcùù	54	GO	fè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	55	LEAVE	fè	Ambitransitive Alternation 1	Never	
+Xârâcùù	55	LEAVE	fè	Ambitransitive Alternation 2	Never	
+Xârâcùù	55	LEAVE	fè	Applicative alternation	Never	
+Xârâcùù	55	LEAVE	fè	Causative alternation	Regularly	
+Xârâcùù	55	LEAVE	fè	Conative alternation	Never	
+Xârâcùù	55	LEAVE	fè	Impersonal alternation	No data	
+Xârâcùù	55	LEAVE	fè	Middle alternation	Never	
+Xârâcùù	55	LEAVE	fè	Nominalization alternation	Regularly	
+Xârâcùù	55	LEAVE	fè	Object Omission alternation	Never	
+Xârâcùù	55	LEAVE	fè	Oblique/Direct alternation	Never	
+Xârâcùù	55	LEAVE	fè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	55	LEAVE	fètaa	Ambitransitive Alternation 1	Never	
+Xârâcùù	55	LEAVE	fètaa	Ambitransitive Alternation 2	Never	
+Xârâcùù	55	LEAVE	fètaa	Applicative alternation	Never	
+Xârâcùù	55	LEAVE	fètaa	Causative alternation	Marginally	
+Xârâcùù	55	LEAVE	fètaa	Conative alternation	No data	
+Xârâcùù	55	LEAVE	fètaa	Impersonal alternation	No data	
+Xârâcùù	55	LEAVE	fètaa	Middle alternation	Never	
+Xârâcùù	55	LEAVE	fètaa	Nominalization alternation	Regularly	
+Xârâcùù	55	LEAVE	fètaa	Object Omission alternation	No data	
+Xârâcùù	55	LEAVE	fètaa	Oblique/Direct alternation	Never	
+Xârâcùù	55	LEAVE	fètaa	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	56	LIVE	muru	Ambitransitive Alternation 1	Regularly	
+Xârâcùù	56	LIVE	muru	Ambitransitive Alternation 2	Never	
+Xârâcùù	56	LIVE	muru	Applicative alternation	Regularly	
+Xârâcùù	56	LIVE	muru	Causative alternation	Regularly	
+Xârâcùù	56	LIVE	muru	Conative alternation	Marginally	
+Xârâcùù	56	LIVE	muru	Impersonal alternation	No data	
+Xârâcùù	56	LIVE	muru	Middle alternation	Never	
+Xârâcùù	56	LIVE	muru	Nominalization alternation	Regularly	
+Xârâcùù	56	LIVE	muru	Object Omission alternation	Never	
+Xârâcùù	56	LIVE	muru	Oblique/Direct alternation	No data	
+Xârâcùù	56	LIVE	muru	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Ambitransitive Alternation 1	No data	
+Xârâcùù	57	LAUGH	mwârâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	57	LAUGH	mwârâ	Applicative alternation	Regularly	
+Xârâcùù	57	LAUGH	mwârâ	Causative alternation	Regularly	
+Xârâcùù	57	LAUGH	mwârâ	Conative alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Impersonal alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Middle alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Nominalization alternation	Regularly	
+Xârâcùù	57	LAUGH	mwârâ	Object Omission alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Oblique/Direct alternation	Never	
+Xârâcùù	57	LAUGH	mwârâ	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Ambitransitive Alternation 1	No data	
+Xârâcùù	58	SCREAM	ngââ	Ambitransitive Alternation 2	Never	
+Xârâcùù	58	SCREAM	ngââ	Applicative alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Causative alternation	Marginally	
+Xârâcùù	58	SCREAM	ngââ	Conative alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Impersonal alternation	No data	
+Xârâcùù	58	SCREAM	ngââ	Middle alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Nominalization alternation	Regularly	
+Xârâcùù	58	SCREAM	ngââ	Object Omission alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Oblique/Direct alternation	Never	
+Xârâcùù	58	SCREAM	ngââ	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Ambitransitive Alternation 1	Never	
+Xârâcùù	59	FEEL PAIN	paii	Ambitransitive Alternation 2	Never	
+Xârâcùù	59	FEEL PAIN	paii	Applicative alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Causative alternation	Regularly	
+Xârâcùù	59	FEEL PAIN	paii	Conative alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Impersonal alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Middle alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Nominalization alternation	Regularly	
+Xârâcùù	59	FEEL PAIN	paii	Object Omission alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Oblique/Direct alternation	Never	
+Xârâcùù	59	FEEL PAIN	paii	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Ambitransitive Alternation 1	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Ambitransitive Alternation 2	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Applicative alternation	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Causative alternation	Regularly	
+Xârâcùù	60	FEEL COLD	xùpè	Conative alternation	No data	
+Xârâcùù	60	FEEL COLD	xùpè	Impersonal alternation	Regularly	
+Xârâcùù	60	FEEL COLD	xùpè	Middle alternation	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Nominalization alternation	Regularly	
+Xârâcùù	60	FEEL COLD	xùpè	Object Omission alternation	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Oblique/Direct alternation	Never	
+Xârâcùù	60	FEEL COLD	xùpè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	61	DIE	paiimè	Ambitransitive Alternation 1	Never	
+Xârâcùù	61	DIE	paiimè	Ambitransitive Alternation 2	Never	
+Xârâcùù	61	DIE	paiimè	Applicative alternation	Never	
+Xârâcùù	61	DIE	paiimè	Causative alternation	Marginally	
+Xârâcùù	61	DIE	paiimè	Conative alternation	Never	
+Xârâcùù	61	DIE	paiimè	Impersonal alternation	No data	
+Xârâcùù	61	DIE	paiimè	Middle alternation	Never	
+Xârâcùù	61	DIE	paiimè	Nominalization alternation	Regularly	
+Xârâcùù	61	DIE	paiimè	Object Omission alternation	Never	
+Xârâcùù	61	DIE	paiimè	Oblique/Direct alternation	Never	
+Xârâcùù	61	DIE	paiimè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Ambitransitive Alternation 1	No data	
+Xârâcùù	62	PLAY	mwârâ	Ambitransitive Alternation 2	Never	
+Xârâcùù	62	PLAY	mwârâ	Applicative alternation	Regularly	
+Xârâcùù	62	PLAY	mwârâ	Causative alternation	Regularly	
+Xârâcùù	62	PLAY	mwârâ	Conative alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Impersonal alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Middle alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Nominalization alternation	Regularly	
+Xârâcùù	62	PLAY	mwârâ	Object Omission alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Oblique/Direct alternation	Never	
+Xârâcùù	62	PLAY	mwârâ	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Ambitransitive Alternation 1	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Ambitransitive Alternation 2	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Applicative alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Causative alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Conative alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Impersonal alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Middle alternation	No data	
+Xârâcùù	63	BE SAD	nârâyaa	Nominalization alternation	Regularly	
+Xârâcùù	63	BE SAD	nârâyaa	Object Omission alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Oblique/Direct alternation	Never	
+Xârâcùù	63	BE SAD	nârâyaa	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	64	BE HUNGRY	mêrê	Ambitransitive Alternation 1	No data	
+Xârâcùù	64	BE HUNGRY	mêrê	Ambitransitive Alternation 2	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Applicative alternation	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Causative alternation	Regularly	
+Xârâcùù	64	BE HUNGRY	mêrê	Conative alternation	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Impersonal alternation	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Middle alternation	No data	
+Xârâcùù	64	BE HUNGRY	mêrê	Nominalization alternation	Regularly	
+Xârâcùù	64	BE HUNGRY	mêrê	Object Omission alternation	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Oblique/Direct alternation	Never	
+Xârâcùù	64	BE HUNGRY	mêrê	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Ambitransitive Alternation 1	Never	
+Xârâcùù	65	ROLL	cipwîrî	Ambitransitive Alternation 2	Never	
+Xârâcùù	65	ROLL	cipwîrî	Applicative alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Causative alternation	Regularly	
+Xârâcùù	65	ROLL	cipwîrî	Conative alternation	No data	
+Xârâcùù	65	ROLL	cipwîrî	Impersonal alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Middle alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Nominalization alternation	Regularly	
+Xârâcùù	65	ROLL	cipwîrî	Object Omission alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Oblique/Direct alternation	Never	
+Xârâcùù	65	ROLL	cipwîrî	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	66	SINK	mutu	Ambitransitive Alternation 1	No data	
+Xârâcùù	66	SINK	mutu	Ambitransitive Alternation 2	Never	
+Xârâcùù	66	SINK	mutu	Applicative alternation	Never	
+Xârâcùù	66	SINK	mutu	Causative alternation	Regularly	
+Xârâcùù	66	SINK	mutu	Conative alternation	Never	
+Xârâcùù	66	SINK	mutu	Impersonal alternation	Never	
+Xârâcùù	66	SINK	mutu	Middle alternation	Never	
+Xârâcùù	66	SINK	mutu	Nominalization alternation	Regularly	
+Xârâcùù	66	SINK	mutu	Object Omission alternation	Never	
+Xârâcùù	66	SINK	mutu	Oblique/Direct alternation	Never	
+Xârâcùù	66	SINK	mutu	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Ambitransitive Alternation 1	Never	
+Xârâcùù	67	BURN	kê (1)	Ambitransitive Alternation 2	Regularly	
+Xârâcùù	67	BURN	kê (1)	Applicative alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Causative alternation	Regularly	
+Xârâcùù	67	BURN	kê (1)	Conative alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Impersonal alternation	No data	
+Xârâcùù	67	BURN	kê (1)	Middle alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Nominalization alternation	Regularly	
+Xârâcùù	67	BURN	kê (1)	Object Omission alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Oblique/Direct alternation	Never	
+Xârâcùù	67	BURN	kê (1)	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Ambitransitive Alternation 1	Never	
+Xârâcùù	68	BE DRY	mëtë	Ambitransitive Alternation 2	Never	
+Xârâcùù	68	BE DRY	mëtë	Applicative alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Causative alternation	Regularly	
+Xârâcùù	68	BE DRY	mëtë	Conative alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Impersonal alternation	No data	
+Xârâcùù	68	BE DRY	mëtë	Middle alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Nominalization alternation	Regularly	
+Xârâcùù	68	BE DRY	mëtë	Object Omission alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Oblique/Direct alternation	Never	
+Xârâcùù	68	BE DRY	mëtë	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Ambitransitive Alternation 1	Never	
+Xârâcùù	69	RAIN	kwiè	Ambitransitive Alternation 2	Never	
+Xârâcùù	69	RAIN	kwiè	Applicative alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Causative alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Conative alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Impersonal alternation	Regularly	
+Xârâcùù	69	RAIN	kwiè	Middle alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Nominalization alternation	Regularly	
+Xârâcùù	69	RAIN	kwiè	Object Omission alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Oblique/Direct alternation	Never	
+Xârâcùù	69	RAIN	kwiè	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	69	RAIN	xwa	Ambitransitive Alternation 1	Never	
+Xârâcùù	69	RAIN	xwa	Ambitransitive Alternation 2	Never	
+Xârâcùù	69	RAIN	xwa	Applicative alternation	Never	
+Xârâcùù	69	RAIN	xwa	Causative alternation	Regularly	
+Xârâcùù	69	RAIN	xwa	Conative alternation	Never	
+Xârâcùù	69	RAIN	xwa	Impersonal alternation	No data	
+Xârâcùù	69	RAIN	xwa	Middle alternation	Never	
+Xârâcùù	69	RAIN	xwa	Nominalization alternation	No data	
+Xârâcùù	69	RAIN	xwa	Object Omission alternation	Never	
+Xârâcùù	69	RAIN	xwa	Oblique/Direct alternation	Never	
+Xârâcùù	69	RAIN	xwa	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Ambitransitive Alternation 1	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Ambitransitive Alternation 2	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Applicative alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Causative alternation	Marginally	
+Xârâcùù	70	BE A HUNTER	acaa	Conative alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Impersonal alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Middle alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Nominalization alternation	No data	
+Xârâcùù	70	BE A HUNTER	acaa	Object Omission alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Oblique/Direct alternation	Never	
+Xârâcùù	70	BE A HUNTER	acaa	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	71	GRIND	bikörö	Ambitransitive Alternation 1	Never	
+Xârâcùù	71	GRIND	bikörö	Ambitransitive Alternation 2	Never	
+Xârâcùù	71	GRIND	bikörö	Applicative alternation	Never	
+Xârâcùù	71	GRIND	bikörö	Causative alternation	Regularly	
+Xârâcùù	71	GRIND	bikörö	Conative alternation	No data	
+Xârâcùù	71	GRIND	bikörö	Impersonal alternation	No data	
+Xârâcùù	71	GRIND	bikörö	Middle alternation	Never	
+Xârâcùù	71	GRIND	bikörö	Nominalization alternation	Marginally	
+Xârâcùù	71	GRIND	bikörö	Object Omission alternation	No data	
+Xârâcùù	71	GRIND	bikörö	Oblique/Direct alternation	Never	
+Xârâcùù	71	GRIND	bikörö	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	72	WIPE	jee	Ambitransitive Alternation 1	Never	
+Xârâcùù	72	WIPE	jee	Ambitransitive Alternation 2	Never	
+Xârâcùù	72	WIPE	jee	Applicative alternation	Never	
+Xârâcùù	72	WIPE	jee	Causative alternation	Regularly	
+Xârâcùù	72	WIPE	jee	Conative alternation	No data	
+Xârâcùù	72	WIPE	jee	Impersonal alternation	No data	
+Xârâcùù	72	WIPE	jee	Middle alternation	Never	
+Xârâcùù	72	WIPE	jee	Nominalization alternation	Regularly	
+Xârâcùù	72	WIPE	jee	Object Omission alternation	Never	
+Xârâcùù	72	WIPE	jee	Oblique/Direct alternation	No data	
+Xârâcùù	72	WIPE	jee	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	73	DIG	ja	Ambitransitive Alternation 1	Never	
+Xârâcùù	73	DIG	ja	Ambitransitive Alternation 2	Never	
+Xârâcùù	73	DIG	ja	Applicative alternation	Never	
+Xârâcùù	73	DIG	ja	Causative alternation	Regularly	
+Xârâcùù	73	DIG	ja	Conative alternation	No data	
+Xârâcùù	73	DIG	ja	Impersonal alternation	No data	
+Xârâcùù	73	DIG	ja	Middle alternation	Never	
+Xârâcùù	73	DIG	ja	Nominalization alternation	Regularly	
+Xârâcùù	73	DIG	ja	Object Omission alternation	No data	
+Xârâcùù	73	DIG	ja	Oblique/Direct alternation	No data	
+Xârâcùù	73	DIG	ja	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	73	DIG	kîî	Ambitransitive Alternation 1	Never	
+Xârâcùù	73	DIG	kîî	Ambitransitive Alternation 2	Never	
+Xârâcùù	73	DIG	kîî	Applicative alternation	Never	
+Xârâcùù	73	DIG	kîî	Causative alternation	Regularly	
+Xârâcùù	73	DIG	kîî	Conative alternation	No data	
+Xârâcùù	73	DIG	kîî	Impersonal alternation	No data	
+Xârâcùù	73	DIG	kîî	Middle alternation	Never	
+Xârâcùù	73	DIG	kîî	Nominalization alternation	Regularly	
+Xârâcùù	73	DIG	kîî	Object Omission alternation	No data	
+Xârâcùù	73	DIG	kîî	Oblique/Direct alternation	No data	
+Xârâcùù	73	DIG	kîî	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	73	DIG	sëi	Ambitransitive Alternation 1	Never	
+Xârâcùù	73	DIG	sëi	Ambitransitive Alternation 2	Never	
+Xârâcùù	73	DIG	sëi	Applicative alternation	Never	
+Xârâcùù	73	DIG	sëi	Causative alternation	Regularly	
+Xârâcùù	73	DIG	sëi	Conative alternation	No data	
+Xârâcùù	73	DIG	sëi	Impersonal alternation	No data	
+Xârâcùù	73	DIG	sëi	Middle alternation	Never	
+Xârâcùù	73	DIG	sëi	Nominalization alternation	Regularly	
+Xârâcùù	73	DIG	sëi	Object Omission alternation	Marginally	
+Xârâcùù	73	DIG	sëi	Oblique/Direct alternation	No data	
+Xârâcùù	73	DIG	sëi	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	74	PUSH	sùù	Ambitransitive Alternation 1	Never	
+Xârâcùù	74	PUSH	sùù	Ambitransitive Alternation 2	Never	
+Xârâcùù	74	PUSH	sùù	Applicative alternation	Never	
+Xârâcùù	74	PUSH	sùù	Causative alternation	Regularly	
+Xârâcùù	74	PUSH	sùù	Conative alternation	No data	
+Xârâcùù	74	PUSH	sùù	Impersonal alternation	No data	
+Xârâcùù	74	PUSH	sùù	Middle alternation	Never	
+Xârâcùù	74	PUSH	sùù	Nominalization alternation	Regularly	
+Xârâcùù	74	PUSH	sùù	Object Omission alternation	No data	
+Xârâcùù	74	PUSH	sùù	Oblique/Direct alternation	No data	
+Xârâcùù	74	PUSH	sùù	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	75	BRING	mê kèrè	Ambitransitive Alternation 1	Never	
+Xârâcùù	75	BRING	mê kèrè	Ambitransitive Alternation 2	Never	
+Xârâcùù	75	BRING	mê kèrè	Applicative alternation	Never	
+Xârâcùù	75	BRING	mê kèrè	Causative alternation	Marginally	
+Xârâcùù	75	BRING	mê kèrè	Conative alternation	No data	
+Xârâcùù	75	BRING	mê kèrè	Impersonal alternation	No data	
+Xârâcùù	75	BRING	mê kèrè	Middle alternation	Never	
+Xârâcùù	75	BRING	mê kèrè	Nominalization alternation	Regularly	
+Xârâcùù	75	BRING	mê kèrè	Object Omission alternation	Never	
+Xârâcùù	75	BRING	mê kèrè	Oblique/Direct alternation	No data	
+Xârâcùù	75	BRING	mê kèrè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	75	BRING	pè mê	Ambitransitive Alternation 1	Never	
+Xârâcùù	75	BRING	pè mê	Ambitransitive Alternation 2	Never	
+Xârâcùù	75	BRING	pè mê	Applicative alternation	Never	
+Xârâcùù	75	BRING	pè mê	Causative alternation	No data	
+Xârâcùù	75	BRING	pè mê	Conative alternation	No data	
+Xârâcùù	75	BRING	pè mê	Impersonal alternation	No data	
+Xârâcùù	75	BRING	pè mê	Middle alternation	No data	
+Xârâcùù	75	BRING	pè mê	Nominalization alternation	No data	
+Xârâcùù	75	BRING	pè mê	Object Omission alternation	No data	
+Xârâcùù	75	BRING	pè mê	Oblique/Direct alternation	No data	
+Xârâcùù	75	BRING	pè mê	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	76	STEAL	pêdè	Ambitransitive Alternation 1	Never	
+Xârâcùù	76	STEAL	pêdè	Ambitransitive Alternation 2	Never	
+Xârâcùù	76	STEAL	pêdè	Applicative alternation	Never	
+Xârâcùù	76	STEAL	pêdè	Causative alternation	Marginally	
+Xârâcùù	76	STEAL	pêdè	Conative alternation	No data	
+Xârâcùù	76	STEAL	pêdè	Impersonal alternation	No data	
+Xârâcùù	76	STEAL	pêdè	Middle alternation	No data	
+Xârâcùù	76	STEAL	pêdè	Nominalization alternation	Regularly	
+Xârâcùù	76	STEAL	pêdè	Object Omission alternation	No data	
+Xârâcùù	76	STEAL	pêdè	Oblique/Direct alternation	Marginally	
+Xârâcùù	76	STEAL	pêdè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	77	TEACH	faînû	Ambitransitive Alternation 1	Never	
+Xârâcùù	77	TEACH	faînû	Ambitransitive Alternation 2	Never	
+Xârâcùù	77	TEACH	faînû	Applicative alternation	Never	
+Xârâcùù	77	TEACH	faînû	Causative alternation	Marginally	
+Xârâcùù	77	TEACH	faînû	Conative alternation	No data	
+Xârâcùù	77	TEACH	faînû	Impersonal alternation	No data	
+Xârâcùù	77	TEACH	faînû	Middle alternation	Never	
+Xârâcùù	77	TEACH	faînû	Nominalization alternation	Regularly	
+Xârâcùù	77	TEACH	faînû	Object Omission alternation	No data	
+Xârâcùù	77	TEACH	faînû	Oblique/Direct alternation	Regularly	
+Xârâcùù	77	TEACH	faînû	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	78	HEAR	xwata	Ambitransitive Alternation 1	Never	
+Xârâcùù	78	HEAR	xwata	Ambitransitive Alternation 2	Never	
+Xârâcùù	78	HEAR	xwata	Applicative alternation	Never	
+Xârâcùù	78	HEAR	xwata	Causative alternation	Regularly	
+Xârâcùù	78	HEAR	xwata	Conative alternation	No data	
+Xârâcùù	78	HEAR	xwata	Impersonal alternation	No data	
+Xârâcùù	78	HEAR	xwata	Middle alternation	Never	
+Xârâcùù	78	HEAR	xwata	Nominalization alternation	Regularly	
+Xârâcùù	78	HEAR	xwata	Object Omission alternation	Regularly	
+Xârâcùù	78	HEAR	xwata	Oblique/Direct alternation	No data	
+Xârâcùù	78	HEAR	xwata	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	79	COOK	chutââ	Ambitransitive Alternation 1	Never	
+Xârâcùù	79	COOK	chutââ	Ambitransitive Alternation 2	Never	
+Xârâcùù	79	COOK	chutââ	Applicative alternation	Never	
+Xârâcùù	79	COOK	chutââ	Causative alternation	Marginally	
+Xârâcùù	79	COOK	chutââ	Conative alternation	No data	
+Xârâcùù	79	COOK	chutââ	Impersonal alternation	No data	
+Xârâcùù	79	COOK	chutââ	Middle alternation	Never	
+Xârâcùù	79	COOK	chutââ	Nominalization alternation	Regularly	
+Xârâcùù	79	COOK	chutââ	Object Omission alternation	No data	
+Xârâcùù	79	COOK	chutââ	Oblique/Direct alternation	No data	
+Xârâcùù	79	COOK	chutââ	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	80	BOIL	bö	Ambitransitive Alternation 1	Never	
+Xârâcùù	80	BOIL	bö	Ambitransitive Alternation 2	Never	
+Xârâcùù	80	BOIL	bö	Applicative alternation	Never	
+Xârâcùù	80	BOIL	bö	Causative alternation	Regularly	
+Xârâcùù	80	BOIL	bö	Conative alternation	Never	
+Xârâcùù	80	BOIL	bö	Impersonal alternation	Never	
+Xârâcùù	80	BOIL	bö	Middle alternation	Never	
+Xârâcùù	80	BOIL	bö	Nominalization alternation	Regularly	
+Xârâcùù	80	BOIL	bö	Object Omission alternation	Never	
+Xârâcùù	80	BOIL	bö	Oblique/Direct alternation	Never	
+Xârâcùù	80	BOIL	bö	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Ambitransitive Alternation 1	Never	
+Xârâcùù	81	APPEAR	abaa	Ambitransitive Alternation 2	Never	
+Xârâcùù	81	APPEAR	abaa	Applicative alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Causative alternation	Regularly	
+Xârâcùù	81	APPEAR	abaa	Conative alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Impersonal alternation	No data	
+Xârâcùù	81	APPEAR	abaa	Middle alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Nominalization alternation	Regularly	
+Xârâcùù	81	APPEAR	abaa	Object Omission alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Oblique/Direct alternation	Never	
+Xârâcùù	81	APPEAR	abaa	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	82	BE ILL	paii	Ambitransitive Alternation 1	Never	
+Xârâcùù	82	BE ILL	paii	Ambitransitive Alternation 2	Never	
+Xârâcùù	82	BE ILL	paii	Applicative alternation	Never	
+Xârâcùù	82	BE ILL	paii	Causative alternation	Regularly	
+Xârâcùù	82	BE ILL	paii	Conative alternation	Never	
+Xârâcùù	82	BE ILL	paii	Impersonal alternation	Never	
+Xârâcùù	82	BE ILL	paii	Middle alternation	Never	
+Xârâcùù	82	BE ILL	paii	Nominalization alternation	Regularly	
+Xârâcùù	82	BE ILL	paii	Object Omission alternation	Never	
+Xârâcùù	82	BE ILL	paii	Oblique/Direct alternation	Never	
+Xârâcùù	82	BE ILL	paii	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	83	CRY	têî	Ambitransitive Alternation 1	Never	
+Xârâcùù	83	CRY	têî	Ambitransitive Alternation 2	Never	
+Xârâcùù	83	CRY	têî	Applicative alternation	Regularly	
+Xârâcùù	83	CRY	têî	Causative alternation	Regularly	
+Xârâcùù	83	CRY	têî	Conative alternation	No data	
+Xârâcùù	83	CRY	têî	Impersonal alternation	No data	
+Xârâcùù	83	CRY	têî	Middle alternation	Never	
+Xârâcùù	83	CRY	têî	Nominalization alternation	Regularly	
+Xârâcùù	83	CRY	têî	Object Omission alternation	Never	
+Xârâcùù	83	CRY	têî	Oblique/Direct alternation	Never	
+Xârâcùù	83	CRY	têî	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	85	MAKE	xwi	Ambitransitive Alternation 1	Regularly	
+Xârâcùù	85	MAKE	xwi	Ambitransitive Alternation 2	Never	
+Xârâcùù	85	MAKE	xwi	Applicative alternation	Never	
+Xârâcùù	85	MAKE	xwi	Causative alternation	Regularly	
+Xârâcùù	85	MAKE	xwi	Conative alternation	No data	
+Xârâcùù	85	MAKE	xwi	Impersonal alternation	No data	
+Xârâcùù	85	MAKE	xwi	Middle alternation	Never	
+Xârâcùù	85	MAKE	xwi	Nominalization alternation	Regularly	
+Xârâcùù	85	MAKE	xwi	Object Omission alternation	No data	
+Xârâcùù	85	MAKE	xwi	Oblique/Direct alternation	No data	
+Xârâcùù	85	MAKE	xwi	Reflexive/Reciprocal omission alternation	Never	
+Xârâcùù	86	GET	pè	Ambitransitive Alternation 1	Never	
+Xârâcùù	86	GET	pè	Ambitransitive Alternation 2	Never	
+Xârâcùù	86	GET	pè	Applicative alternation	Never	
+Xârâcùù	86	GET	pè	Causative alternation	Regularly	
+Xârâcùù	86	GET	pè	Conative alternation	No data	
+Xârâcùù	86	GET	pè	Impersonal alternation	No data	
+Xârâcùù	86	GET	pè	Middle alternation	Marginally	
+Xârâcùù	86	GET	pè	Nominalization alternation	Regularly	
+Xârâcùù	86	GET	pè	Object Omission alternation	No data	
+Xârâcùù	86	GET	pè	Oblique/Direct alternation	No data	
+Xârâcùù	86	GET	pè	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	86	GET	töpwé	Ambitransitive Alternation 1	Never	
+Xârâcùù	86	GET	töpwé	Ambitransitive Alternation 2	Never	
+Xârâcùù	86	GET	töpwé	Applicative alternation	Never	
+Xârâcùù	86	GET	töpwé	Causative alternation	Never	
+Xârâcùù	86	GET	töpwé	Conative alternation	No data	
+Xârâcùù	86	GET	töpwé	Impersonal alternation	No data	
+Xârâcùù	86	GET	töpwé	Middle alternation	Never	
+Xârâcùù	86	GET	töpwé	Nominalization alternation	Regularly	
+Xârâcùù	86	GET	töpwé	Object Omission alternation	No data	
+Xârâcùù	86	GET	töpwé	Oblique/Direct alternation	No data	
+Xârâcùù	86	GET	töpwé	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Ambitransitive Alternation 1	Never	
+Xârâcùù	87	WANT	xwèrii	Ambitransitive Alternation 2	Never	
+Xârâcùù	87	WANT	xwèrii	Applicative alternation	Never	
+Xârâcùù	87	WANT	xwèrii	Causative alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Conative alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Impersonal alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Middle alternation	Never	
+Xârâcùù	87	WANT	xwèrii	Nominalization alternation	Regularly	
+Xârâcùù	87	WANT	xwèrii	Object Omission alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Oblique/Direct alternation	No data	
+Xârâcùù	87	WANT	xwèrii	Reflexive/Reciprocal omission alternation	No data	
+Xârâcùù	150	SHAVE (self)	xii	Ambitransitive Alternation 1	Never	
+Xârâcùù	150	SHAVE (self)	xii	Ambitransitive Alternation 2	Regularly	
+Xârâcùù	150	SHAVE (self)	xii	Applicative alternation	Never	
+Xârâcùù	150	SHAVE (self)	xii	Causative alternation	Marginally	
+Xârâcùù	150	SHAVE (self)	xii	Conative alternation	Never	
+Xârâcùù	150	SHAVE (self)	xii	Impersonal alternation	No data	
+Xârâcùù	150	SHAVE (self)	xii	Middle alternation	Never	
+Xârâcùù	150	SHAVE (self)	xii	Nominalization alternation	Regularly	
+Xârâcùù	150	SHAVE (self)	xii	Object Omission alternation	No data	
+Xârâcùù	150	SHAVE (self)	xii	Oblique/Direct alternation	No data	
+Xârâcùù	150	SHAVE (self)	xii	Reflexive/Reciprocal omission alternation	Never	
